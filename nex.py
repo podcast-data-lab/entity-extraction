@@ -32,7 +32,7 @@ def parse_entities(text):
             entities[entity.label_] = [entity.text]
     return entities
 
-for i in range (0, 4):
+for i in range (0, len(files)):
     pod = read_json_file(files[i])
     try:
         pod['entities'] = parse_entities(pod['description'])
@@ -55,5 +55,3 @@ for i in range (0, 4):
     jsonFile.write(json.dumps(pod, indent=4))
     jsonFile.close()
     print('{:.2%} done.'.format(i/len(files))*100)
-# doc = nlp('European authorities fined Google a record $5.1 billion on Wednesday for abusing its power in the mobile phone market and ordered the company to alter its practices')
-# print([(X.text, X.label_) for X in doc.ents])
