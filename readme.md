@@ -1,4 +1,6 @@
 # Extract Podcast named entities 
+![GitHub release (latest by date)](https://img.shields.io/github/v/release/podcast-data-lab/entity-extraction?color=blueviolet)
+![GitHub](https://img.shields.io/github/license/podcast-data-lab/entity-extraction?color=FF9914&logoColor=3E363F)
 
 Extracted named entities from podcaat description and episode content.
 
