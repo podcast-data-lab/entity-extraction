@@ -24,7 +24,7 @@ jobs:
       - name: 'Release 💾'
         uses: s0/git-publish-subdir-action@develop
         env:
-          GITHUB_TOKEN: ${{ secrets.PODCAST_DATA_LAB }}
           REPO: self
-          BRANCH: ner
+          BRANCH: release
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           FOLDER: dist
