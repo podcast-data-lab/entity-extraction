@@ -26,4 +26,5 @@ mkdir dist
 
 cp -R temp/podcasts-with-entities dist/
 cp -R .github dist/
-cp license.txt dist/license
+cp license.txt dist/license.txt
+cp readme.md dist/readme.md
