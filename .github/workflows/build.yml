@@ -1,0 +1,25 @@
+name: build
+on:
+  push:
+    branches:
+      - main
+
+permissions: write-all
+
+jobs:
+  generate-ner:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout 🛎️
+        uses: actions/checkout@v2.3.1
+      - name: Extract Named Entities
+        run: |
+          chmod +x ./run_pipeline
+          ./run_pipeline
+      - name: 'Deploy 💾'
+        uses: s0/git-publish-subdir-action@develop
+        env:
+          REPO: self
+          BRANCH: ner
+          FOLDER: release
+          GITHUB_TOKEN: ${{ secrets.PODCAST_DATA_LAB }}
