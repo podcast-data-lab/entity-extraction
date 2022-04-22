@@ -9,7 +9,7 @@ import json
 
 nlp = en_core_web_sm.load()
 
-path = 'temp/podcast-data-generator-'+ sys.argv[1] +'/podcasts'
+path = 'temp/podcast-data-generator-'+ sys.argv[1] +'/podcasts_palettes'
 files = os.listdir(path)
 
 
