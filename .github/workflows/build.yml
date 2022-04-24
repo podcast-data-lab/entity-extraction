@@ -40,3 +40,10 @@ jobs:
           title: "Generate Assets"
           files: |
             dist   
+      - name: 'Release 💾'
+        uses: s0/git-publish-subdir-action@develop
+        env:
+          REPO: self
+          BRANCH: release
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          FOLDER: dist
