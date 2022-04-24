@@ -3,7 +3,8 @@ on:
   push:
     branches:
       - release
-
+  repository_dispatch:
+    types: [extract_named_entities]
 jobs:
   release-on-push:
     runs-on: ubuntu-latest
