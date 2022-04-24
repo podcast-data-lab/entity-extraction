@@ -3,14 +3,16 @@ on:
   push:
     branches:
       - release
-  repository_dispatch:
-    types: [extract_named_entities]
+
 jobs:
   release-on-push:
     runs-on: ubuntu-latest
     env:
       GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
     steps:
+      - uses: actions/checkout@v3
+        with:
+          ref: 'release'
       - id: release
         uses: rymndhng/release-on-push-action@master
         with:
