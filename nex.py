@@ -1,6 +1,5 @@
 import os
 import sys
-
 import spacy
 from spacy import displacy
 from collections import Counter
