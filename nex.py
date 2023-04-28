@@ -6,6 +6,25 @@ from spacy import displacy
 from collections import Counter
 import en_core_web_sm
 import json
+from io import StringIO
+from html.parser import HTMLParser
+
+class MLStripper(HTMLParser):
+    def __init__(self):
+        super().__init__()
+        self.reset()
+        self.strict = False
+        self.convert_charrefs= True
+        self.text = StringIO()
+    def handle_data(self, d):
+        self.text.write(d)
+    def get_data(self):
+        return self.text.getvalue()
+
+def strip_tags(html):
+    s = MLStripper()
+    s.feed(html)
+    return s.get_data()
 
 nlp = en_core_web_sm.load()
 
@@ -35,7 +54,8 @@ def parse_entities(text):
 for i in range (0, len(files)):
     pod = read_json_file(files[i])
     try:
-        pod['entities'] = parse_entities(pod['description'])
+        podcast_description = strip_tags(pod['description'])
+        pod['entities'] = parse_entities(podcast_description)
     except:
         print('error')
         continue
@@ -44,7 +64,8 @@ for i in range (0, len(files)):
 
     for ep in pod['items']:
         try:
-            ep['entities'] = parse_entities(ep['content'])
+            episode_description = strip_tags(ep['content'])
+            ep['entities'] = parse_entities(episode_description)
         except:
             print('error')
             continue
