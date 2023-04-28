@@ -40,7 +40,8 @@
                     "TGCW22",
                     "Rebecca McLaughlin",
                     "Peter",
-                    "Jesus Christ.</p><p>McLaughlin",
+                    "Jesus Christ",
+                    "McLaughlin",
                     "Jesus",
                     "Jesus",
                     "Jesus",
@@ -126,8 +127,12 @@
             "title": "Faith That Abides",
             "entities": {
                 "GPE": [
-                    "Trillia",
-                    "TGCW22"
+                    "Trillia"
+                ],
+                "PERSON": [
+                    "NewbellAt TGCW22",
+                    "Jesus",
+                    "Jesus"
                 ],
                 "ORG": [
                     "Trillia Newbell",
@@ -136,9 +141,6 @@
                 "NORP": [
                     "Christian",
                     "Christian"
-                ],
-                "PERSON": [
-                    "Jesus"
                 ],
                 "FAC": [
                     "the Hall of Fame of Faith"
@@ -237,7 +239,7 @@
                     "Jim Davis"
                 ],
                 "ORG": [
-                    "Orlando Grace"
+                    "Orlando Grace Church"
                 ]
             }
         },
@@ -273,7 +275,7 @@
                 "ORG": [
                     "apps",
                     "TikTok",
-                    "Orlando Grace"
+                    "Orlando Grace Church"
                 ],
                 "PERSON": [
                     "Patrick Miller",
@@ -314,7 +316,8 @@
                     "Christians",
                     "Christians",
                     "Christians",
-                    "Christians"
+                    "Christians",
+                    "not?These"
                 ],
                 "PERSON": [
                     "Brian Mattson",
@@ -323,7 +326,7 @@
                 ],
                 "ORG": [
                     "Mattson",
-                    "Orlando Grace"
+                    "Orlando Grace Church"
                 ],
                 "GPE": [
                     "Meador"
@@ -360,7 +363,8 @@
                     "American",
                     "American",
                     "Christians",
-                    "Christians"
+                    "Christians",
+                    "immigrants?These"
                 ],
                 "PERSON": [
                     "Matthew Soerens",
@@ -370,7 +374,7 @@
                 ],
                 "ORG": [
                     "Guerra",
-                    "Orlando Grace"
+                    "Orlando Grace Church"
                 ]
             }
         },
@@ -405,6 +409,9 @@
                     "Christian",
                     "Christian"
                 ],
+                "FAC": [
+                    "choice?These"
+                ],
                 "PERSON": [
                     "Jen Wilkin",
                     "Jonathan Pennington",
@@ -412,7 +419,7 @@
                 ],
                 "ORG": [
                     "Pennington",
-                    "Orlando Grace"
+                    "Orlando Grace Church"
                 ]
             }
         },
@@ -453,26 +460,25 @@
                     "Gavin Ortlund",
                     "Afshin Ziafat",
                     "Gavin Ortlund",
-                    "Gavin Ortlund</p>"
+                    "Gavin Ortlund"
                 ],
                 "NORP": [
-                    "christian",
                     "Christian",
                     "Christianity",
+                    "Christian",
                     "Christians"
                 ],
                 "ORDINAL": [
                     "tertiary"
                 ],
                 "CARDINAL": [
-                    "three",
-                    "thegospcoal-20"
+                    "three"
                 ],
                 "GPE": [
                     "Ortlund"
                 ],
                 "WORK_OF_ART": [
-                    "The Case for Theological Triage</i></a"
+                    "The Case for Theological Triage"
                 ]
             }
         },
@@ -505,15 +511,13 @@
             "entities": {
                 "PERSON": [
                     "Jesus",
+                    "FlowersAt TGCW21",
                     "Sarah Walton",
                     "Caroline Cobb",
                     "Ruth Chou Simons",
                     "Jen Wilkin",
                     "Jesus",
                     "Jesus Christ"
-                ],
-                "DATE": [
-                    "TGCW21"
                 ],
                 "ORG": [
                     "Hunter Beless"
@@ -559,9 +563,8 @@
                     "Mephibosheth",
                     "Kim",
                     "David",
-                    "Mephibosheth",
-                    "David",
-                    "Mephibosheth",
+                    "kindnessMephibosheth",
+                    "harmMephibosheth",
                     "David",
                     "Mephibosheth",
                     "Jesus",
@@ -570,6 +573,9 @@
                 "CARDINAL": [
                     "2",
                     "four"
+                ],
+                "ORG": [
+                    "DavidJust"
                 ]
             }
         },
@@ -601,17 +607,18 @@
             "title": "Where to Find a Champion",
             "entities": {
                 "PERSON": [
-                    "Courtney",
+                    "Courtney DoctorIn",
                     "TGCW22",
                     "Courtney",
                     "Samuel",
                     "David",
+                    "Goliath",
                     "David",
                     "Goliath",
                     "Jesus",
                     "David",
                     "David",
-                    "Goliath had.</p><p>2",
+                    "Goliath had.2",
                     "David",
                     "David",
                     "Jesus"
@@ -621,6 +628,7 @@
                     "three"
                 ],
                 "ORG": [
+                    "sin:1",
                     "Champion",
                     "the King of Glory"
                 ]
@@ -656,7 +664,7 @@
                 "PERSON": [
                     "Rahab",
                     "Rahab",
-                    "Nancy",
+                    "Nancy GuthrieIn",
                     "TGCW22",
                     "Nancy Guthrie",
                     "Rahab",
@@ -702,6 +710,7 @@
             "title": "Looking to Jesus for Our Salvation",
             "entities": {
                 "PERSON": [
+                    "Jen WilkinIn",
                     "TGCW22",
                     "Jen Wilkin",
                     "Wilkin"
@@ -755,7 +764,7 @@
             "entities": {
                 "PERSON": [
                     "Jesus",
-                    "John",
+                    "John PiperIn",
                     "TGCW22",
                     "John Piper",
                     "Jesus",
@@ -770,14 +779,12 @@
                 "NORP": [
                     "Israelites"
                 ],
-                "ORG": [
-                    "out.</li><li"
+                "DATE": [
+                    "today",
+                    "1,400 years later"
                 ],
                 "LAW": [
                     "the Old Testament"
-                ],
-                "DATE": [
-                    "1,400 years later"
                 ]
             }
         },
@@ -808,8 +815,15 @@
             "pubDate": "Fri, 10 Feb 2023 05:00:00 +0000",
             "title": "Jesus, Our Substitutionary Ram",
             "entities": {
+                "ORG": [
+                    "Jackie Hill PerryIn",
+                    "TGC"
+                ],
+                "DATE": [
+                    "22",
+                    "2022"
+                ],
                 "PERSON": [
-                    "Jackie Hill",
                     "Abraham",
                     "Jackie Hill Perry",
                     "Abraham",
@@ -819,14 +833,6 @@
                     "Isaac",
                     "Perry",
                     "Abraham"
-                ],
-                "ORG": [
-                    "Genesis",
-                    "TGC"
-                ],
-                "DATE": [
-                    "22",
-                    "2022"
                 ]
             }
         },
@@ -859,24 +865,23 @@
             "entities": {
                 "PERSON": [
                     "Jesus",
-                    "Melissa Kruger</p><p",
+                    "Melissa KrugerIn",
                     "TGCW22",
                     "Melissa Kruger",
                     "Noah",
-                    "provided.</li><li",
-                    "Kruger",
                     "Noah"
                 ],
                 "CARDINAL": [
                     "three"
                 ],
+                "ORG": [
+                    "Kruger",
+                    "Kruger"
+                ],
                 "GPE": [
                     "Christ",
                     "Ark.",
                     "Ark."
-                ],
-                "ORG": [
-                    "Kruger"
                 ]
             }
         },
@@ -907,18 +912,16 @@
             "pubDate": "Fri, 27 Jan 2023 05:00:00 +0000",
             "title": "10 Ways Your Church Can Be Missional",
             "entities": {
-                "ORG": [
-                    "the Great Commission",
-                    "TGC",
-                    "2021 National Conference",
-                    "the Great Commission",
-                    "Spirit.</p><p>6"
-                ],
                 "PERSON": [
-                    "David",
+                    "David PlattIn",
                     "David Platt",
                     "Jesus",
                     "Platt"
+                ],
+                "ORG": [
+                    "TGC",
+                    "2021 National Conference",
+                    "the Great Commission"
                 ],
                 "CARDINAL": [
                     "3 billion",
@@ -956,7 +959,11 @@
                 "PERSON": [
                     "Hannah Nation",
                     "Ryan Zhang",
-                    "S. E. Wang"
+                    "S. E. Wang",
+                    "practices:1"
+                ],
+                "ORG": [
+                    "China Partnership"
                 ],
                 "NORP": [
                     "Chinese",
@@ -1008,7 +1015,7 @@
             "entities": {
                 "PERSON": [
                     "Word",
-                    "Ligon",
+                    "Ligon DuncanIn",
                     "Ligon Duncan",
                     "Duncan",
                     "Word"
@@ -1058,7 +1065,7 @@
                 ],
                 "PERSON": [
                     "Trevin Wax",
-                    "Delight"
+                    "susceptible.4"
                 ],
                 "CARDINAL": [
                     "one",
@@ -1105,6 +1112,9 @@
                 ],
                 "DATE": [
                     "1700s"
+                ],
+                "GPE": [
+                    "Yates"
                 ],
                 "CARDINAL": [
                     "five"
@@ -1181,7 +1191,7 @@
             "title": "How the Gospel Helps Us Pursue Ethnic Diversity",
             "entities": {
                 "PERSON": [
-                    "Courtney Doctor</p><p",
+                    "Courtney DoctorIn",
                     "Vanessa Hawkins",
                     "Suzanne Bates",
                     "Ruth Chou Simons",
@@ -1222,12 +1232,9 @@
             "pubDate": "Fri, 18 Nov 2022 05:00:00 +0000",
             "title": "Prioritize Your Soul in a Post-Truth World",
             "entities": {
-                "PERSON": [
-                    "Brett"
-                ],
                 "ORG": [
+                    "Brett",
                     "Brett McCracken",
-                    "quickly</li><li",
                     "McCracken"
                 ],
                 "DATE": [
@@ -1319,16 +1326,17 @@
             "title": "God Cares About Your Body",
             "entities": {
                 "PERSON": [
-                    "Sam",
+                    "Sam AllberryAt TGC21",
                     "Sam Allberry",
                     "Adam",
                     "Jesus"
                 ],
                 "CARDINAL": [
                     "five",
+                    "139)Our",
                     "One",
                     "1",
-                    "6:19)</li><li"
+                    "6:19)Our"
                 ],
                 "DATE": [
                     "One day",
@@ -1410,8 +1418,6 @@
                     "Jesus",
                     "TGCW21",
                     "Megan Hill",
-                    "church.</p><ol><li",
-                    "it.</li><li",
                     "Hill"
                 ],
                 "CARDINAL": [
@@ -1459,12 +1465,11 @@
                 ],
                 "PERSON": [
                     "Jesus",
-                    "Mark",
+                    "Mark VroegopAt TGC's",
                     "Mark Vroegop",
                     "Kori Porter"
                 ],
                 "ORG": [
-                    "TGC",
                     "2021 National Conference",
                     "Irwyn Ince"
                 ]
@@ -1499,18 +1504,18 @@
             "entities": {
                 "PERSON": [
                     "Jesus",
-                    "Glenna",
+                    "Glenna MarshallAt TGCW21",
                     "Glenna Marshall",
                     "Marshall"
-                ],
-                "DATE": [
-                    "TGCW21"
                 ],
                 "NORP": [
                     "Christian"
                 ],
                 "CARDINAL": [
                     "three"
+                ],
+                "ORG": [
+                    "Scriptures"
                 ],
                 "GPE": [
                     "Christ"
@@ -1545,8 +1550,7 @@
             "title": "If You Want to Live, You Must Die",
             "entities": {
                 "PERSON": [
-                    "Kori",
-                    "Kori Porter",
+                    "Kori PorterKori Porter",
                     "Porter",
                     "Word",
                     "David"
@@ -1626,7 +1630,7 @@
                 "PERSON": [
                     "Lauren Hansen",
                     "Lindsey Carlson",
-                    "Lindsey Carlson"
+                    "Carlson"
                 ]
             }
         },
@@ -1662,9 +1666,9 @@
                     "Spirit"
                 ],
                 "PERSON": [
+                    "Julius KimAt TGC21",
                     "Julius Kim",
                     "Kim",
-                    "beauty.</li><li",
                     "Kim"
                 ],
                 "CARDINAL": [
@@ -1707,8 +1711,10 @@
                     "Ten",
                     "one"
                 ],
+                "ORG": [
+                    "Jen WilkinJen Wilkin"
+                ],
                 "PERSON": [
-                    "Jen Wilkin",
                     "TGCW21"
                 ]
             }
@@ -1749,7 +1755,7 @@
                 "PERSON": [
                     "Jesus",
                     "Adam",
-                    "Nancy Guthrie",
+                    "Guthrie",
                     "Guthrie",
                     "Guthrie"
                 ],
@@ -1794,9 +1800,12 @@
             "pubDate": "Fri, 19 Aug 2022 04:00:00 +0000",
             "title": "Why We Need Resurrection Power Today",
             "entities": {
+                "DATE": [
+                    "The end of the ages"
+                ],
                 "PERSON": [
                     "Adam",
-                    "Benjamin",
+                    "Benjamin GladdIn",
                     "Greg Beale",
                     "Benjamin Gladd",
                     "Jesus"
@@ -1852,13 +1861,11 @@
                     "Nancy Guthrie"
                 ],
                 "WORK_OF_ART": [
+                    "Bible",
                     "Bible"
                 ],
                 "CARDINAL": [
                     "12"
-                ],
-                "FAC": [
-                    "Bible teaching:</p><p>1"
                 ]
             }
         },
@@ -1890,8 +1897,7 @@
             "title": "How to Discuss Sexuality in a Post-Christian Culture",
             "entities": {
                 "PERSON": [
-                    "Sam",
-                    "Brett McCracken",
+                    "Sam AllberryBrett McCracken",
                     "Sam Allberry",
                     "Trevin Wax"
                 ],
@@ -1931,7 +1937,7 @@
             "title": "Where to Look for Love",
             "entities": {
                 "PERSON": [
-                    "Craig Troxel",
+                    "A. Craig Troxel",
                     "Scripture",
                     "Troxel"
                 ],
@@ -2032,7 +2038,11 @@
                     "Christian"
                 ],
                 "CARDINAL": [
-                    "five"
+                    "five",
+                    "1"
+                ],
+                "FAC": [
+                    "us.3"
                 ],
                 "ORG": [
                     "Spirit",
@@ -2073,11 +2083,10 @@
                 ],
                 "ORG": [
                     "TGC",
-                    "href=\"https://store.thegospelcoalition.org",
-                    "Social Sanity"
+                    "Social Sanity",
+                    "Insta World"
                 ],
                 "PERSON": [
-                    "Insta World</i></a",
                     "Amy Gannett",
                     "Blair Linne",
                     "Laura Wifler"
@@ -2128,6 +2137,9 @@
                 "PERSON": [
                     "Jen Wilkin",
                     "Paul"
+                ],
+                "GPE": [
+                    "Christ"
                 ]
             }
         },
@@ -2196,8 +2208,7 @@
                 "PERSON": [
                     "TGCW21",
                     "Nancy Guthrie",
-                    "Guthrie",
-                    "him.</p"
+                    "Guthrie"
                 ],
                 "WORK_OF_ART": [
                     "Bible",
@@ -2246,7 +2257,6 @@
                 ],
                 "PERSON": [
                     "Kathleen Nielson",
-                    "Nielson",
                     "Nielson"
                 ]
             }
@@ -2572,16 +2582,16 @@
                 "ORG": [
                     "TGC Podcast",
                     "TGC",
-                    "TGC"
-                ],
-                "PERSON": [
-                    "Escape",
-                    "Sarah Zylstra"
+                    "TGC",
+                    "Apple Podcasts"
                 ],
                 "GPE": [
+                    "Recorded",
                     "Kabul",
-                    "Afghanistan",
-                    "kabul"
+                    "Afghanistan"
+                ],
+                "PERSON": [
+                    "Sarah Zylstra"
                 ]
             }
         },
@@ -2676,7 +2686,6 @@
                 ],
                 "ORG": [
                     "Biblical",
-                    "that:</p><ol><li",
                     "Bridegroom"
                 ]
             }
@@ -2754,7 +2763,7 @@
                     "Kim",
                     "James",
                     "Kim",
-                    "Jesus.</p"
+                    "Jesus"
                 ],
                 "ORG": [
                     "the Book of James"
@@ -2808,6 +2817,9 @@
                 ],
                 "ORG": [
                     "Scripture"
+                ],
+                "NORP": [
+                    "reminders:1"
                 ]
             }
         },
@@ -2882,13 +2894,17 @@
                     "TGCW21",
                     "James 2:14-26",
                     "James",
-                    "James"
+                    "James",
+                    "compassion.2"
                 ],
                 "ORG": [
                     "Courtney"
                 ],
                 "CARDINAL": [
                     "four"
+                ],
+                "NORP": [
+                    "God.3"
                 ],
                 "GPE": [
                     "Christ"
@@ -2938,8 +2954,8 @@
                     "James 1",
                     "James"
                 ],
-                "CARDINAL": [
-                    "2.</p><p"
+                "PRODUCT": [
+                    "2.Ellis"
                 ],
                 "GPE": [
                     "the Kingdom of God"
@@ -2978,8 +2994,8 @@
                     "11"
                 ],
                 "PERSON": [
-                    "Isaac",
-                    "Isaac Adams"
+                    "Isaac AdamsIsaac Adams",
+                    "Jesus"
                 ],
                 "ORG": [
                     "James 4:"
@@ -3013,13 +3029,13 @@
             "pubDate": "Fri, 18 Mar 2022 04:00:00 +0000",
             "title": "God Only Gives Perfect Gifts",
             "entities": {
+                "WORK_OF_ART": [
+                    "Mary WillsonMary Willson"
+                ],
                 "PERSON": [
-                    "Mary Willson</p><p",
-                    "Mary Willson",
                     "TGCW21",
                     "James chapter 1",
                     "James",
-                    "Willson",
                     "James"
                 ],
                 "ORG": [
@@ -3061,13 +3077,13 @@
             "title": "The Power We All Need",
             "entities": {
                 "PERSON": [
-                    "David",
-                    "David Platt",
+                    "David PlattDavid Platt",
                     "Jesus",
                     "Sympathizer"
                 ],
                 "LOC": [
                     "Hebrews 13:1-21",
+                    "Hebrews",
                     "Hebrews"
                 ],
                 "CARDINAL": [
@@ -3114,8 +3130,8 @@
                 "CARDINAL": [
                     "four"
                 ],
-                "ORG": [
-                    "href=\"https://store.thegospelcoalition.org"
+                "WORK_OF_ART": [
+                    "Polly and the Screen Time Overload"
                 ]
             }
         },
@@ -3148,7 +3164,8 @@
             "entities": {
                 "PERSON": [
                     "Collin Hansen",
-                    "Hansen"
+                    "Hansen",
+                    "Scriptures"
                 ],
                 "WORK_OF_ART": [
                     "The Duty and Delight of Catechizing Your Children"
@@ -3203,7 +3220,7 @@
                     "the New Covenant"
                 ],
                 "CARDINAL": [
-                    "three"
+                    "three-fold"
                 ]
             }
         },
@@ -3359,7 +3376,8 @@
                 "PERSON": [
                     "Aimee Joseph",
                     "TGCW21",
-                    "Aimee"
+                    "Aimee",
+                    "Praise Him"
                 ],
                 "WORK_OF_ART": [
                     "What\u2019s Next"
@@ -3482,6 +3500,9 @@
             "pubDate": "Fri, 17 Dec 2021 05:00:00 +0000",
             "title": "Experiencing God in Your Affliction",
             "entities": {
+                "ORG": [
+                    "TGC"
+                ],
                 "DATE": [
                     "2021"
                 ],
@@ -3558,7 +3579,8 @@
                 ],
                 "DATE": [
                     "2021",
-                    "years"
+                    "years",
+                    "today"
                 ],
                 "WORK_OF_ART": [
                     "Gospel Parenting During the Little Years",
@@ -3645,8 +3667,8 @@
                     "Australia",
                     "Tenielle"
                 ],
-                "NORP": [
-                    "Australian"
+                "ORG": [
+                    "Australian Idol"
                 ]
             }
         },
@@ -3682,7 +3704,8 @@
                 ],
                 "ORG": [
                     "the TGC Podcast",
-                    "Brett McCracken"
+                    "Brett McCracken",
+                    "EveryPsalm"
                 ],
                 "PERSON": [
                     "Leah Roberts"
@@ -3779,6 +3802,9 @@
                 ],
                 "NORP": [
                     "Hebrews"
+                ],
+                "LAW": [
+                    "chapter 11.Defining"
                 ],
                 "GPE": [
                     "n\u2019t"
@@ -3907,10 +3933,6 @@
                 "ORG": [
                     "New Testament"
                 ],
-                "PERSON": [
-                    "Matt Merker",
-                    "ideas:</p><ul><li"
-                ],
                 "DATE": [
                     "2021"
                 ],
@@ -3990,6 +4012,9 @@
             "pubDate": "Fri, 17 Sep 2021 04:00:00 +0000",
             "title": "Motherhood and the Hope of the Gospel",
             "entities": {
+                "ORG": [
+                    "TGC"
+                ],
                 "DATE": [
                     "2021",
                     "last year"
@@ -4002,7 +4027,8 @@
                     "Christine Hoover",
                     "Trillia Newbell",
                     "Irene Sun",
-                    "Laura Wifler.</p><p"
+                    "Laura Wifler",
+                    "Word"
                 ]
             }
         },
@@ -4034,7 +4060,8 @@
             "title": "John Piper on the Essential Achievement of Christ",
             "entities": {
                 "PERSON": [
-                    "John Piper"
+                    "John Piper",
+                    "Jesus"
                 ],
                 "ORG": [
                     "TGC",
@@ -4049,6 +4076,9 @@
                 ],
                 "CARDINAL": [
                     "six"
+                ],
+                "EVENT": [
+                    "the Great AchievementChrist"
                 ]
             }
         },
@@ -4345,20 +4375,19 @@
             "pubDate": "Fri, 23 Jul 2021 04:00:00 +0000",
             "title": "Before You Lose Your Faith: Deconstruction and the Church",
             "entities": {
-                "PERSON": [
+                "ORG": [
                     "Brett McCracken",
+                    "TGC",
+                    "Church"
+                ],
+                "DATE": [
+                    "2021"
+                ],
+                "PERSON": [
                     "Alisa Childers",
                     "Preston Perry",
                     "Trevin Wax",
                     "Jesus"
-                ],
-                "ORG": [
-                    "TGC",
-                    "Church",
-                    "href=\"https://store.thegospelcoalition.org"
-                ],
-                "DATE": [
-                    "2021"
                 ],
                 "WORK_OF_ART": [
                     "Before You Lose Your Faith: Deconstructing Doubt"
@@ -4405,7 +4434,8 @@
                     "2021"
                 ],
                 "WORK_OF_ART": [
-                    "Can I Lose My Faith"
+                    "Can I Lose My Faith",
+                    "The Chronicles of Narnia"
                 ],
                 "GPE": [
                     "Narnia"
@@ -4721,7 +4751,6 @@
                     "The Summit Church",
                     "The Summit Church",
                     "SBC",
-                    "href=\"https://store.thegospelcoalition.org",
                     "TGC Podcast",
                     "SBC",
                     "SBC"
@@ -4773,9 +4802,12 @@
             "pubDate": "Fri, 21 May 2021 04:00:00 +0000",
             "title": "Don Carson on Praying for Power",
             "entities": {
+                "CARDINAL": [
+                    "One",
+                    "two"
+                ],
                 "PERSON": [
-                    "Don",
-                    "Don Carson",
+                    "Carson",
                     "Pauline"
                 ],
                 "ORG": [
@@ -4794,9 +4826,6 @@
                 ],
                 "GPE": [
                     "Ephesians"
-                ],
-                "CARDINAL": [
-                    "two"
                 ]
             }
         },
@@ -4836,8 +4865,7 @@
                     "Moore",
                     "Genesis",
                     "The Gospel Coalition Podcast",
-                    "Lifeway",
-                    "href=\"http://lifeway.com"
+                    "Lifeway"
                 ],
                 "DATE": [
                     "2017",
@@ -4904,18 +4932,20 @@
                     "Zylstra",
                     "Jen Wilkin\u2019s"
                 ],
+                "WORK_OF_ART": [
+                    "Do Hard Things",
+                    "Bible"
+                ],
                 "ORG": [
                     "The Gospel Coalition Podcast",
                     "TGC",
                     "U.S. Supreme Court",
+                    "Harvard Law Review",
                     "The Gospel Coalition Podcast",
                     "Lifeway"
                 ],
                 "CARDINAL": [
                     "two"
-                ],
-                "WORK_OF_ART": [
-                    "Bible"
                 ]
             }
         },
@@ -4954,7 +4984,6 @@
                 "ORG": [
                     "TGC",
                     "Arizona Regional Conference",
-                    "itself.</li><li",
                     "Spirit",
                     "The Gospel Coalition Podcast",
                     "Lifeway"
@@ -5007,15 +5036,13 @@
                 "PERSON": [
                     "Ray Ortlund",
                     "Paul",
-                    "health:</p><ol><li",
-                    "from.</li><li",
                     "Jen Wilkin\u2019s"
                 ],
                 "ORG": [
                     "The Gospel Coalition\u2019s",
+                    "Sinclair Ferguson",
                     "The Gospel Coalition Podcast",
-                    "Lifeway",
-                    "href=\"http://lifeway.com"
+                    "Lifeway"
                 ],
                 "DATE": [
                     "2019"
@@ -5027,6 +5054,7 @@
                 ],
                 "WORK_OF_ART": [
                     "Pastor, You and Your Church Can Get Healthy Again",
+                    "The Whole Christ",
                     "Bible",
                     "Bible"
                 ],
@@ -5078,8 +5106,7 @@
                     "Jen Wilkin",
                     "Courtney",
                     "Danielle Anderson",
-                    "Christine Hoover's",
-                    "Matthew"
+                    "Christine Hoover's"
                 ],
                 "WORK_OF_ART": [
                     "Shaping Women\u2019s Ministry in the Local Church: A Practical Discussion",
@@ -5087,11 +5114,13 @@
                 ],
                 "ORG": [
                     "The Gospel Coalition Podcast",
-                    "Lifeway",
-                    "href=\"http://lifeway.com"
+                    "Lifeway"
+                ],
+                "ORDINAL": [
+                    "First"
                 ],
                 "GPE": [
-                    "the Kingdom:"
+                    "the Kingdom: God\u2019s Invitation to Life and Joy"
                 ]
             }
         },
@@ -5126,18 +5155,17 @@
                     "David Platt",
                     "Jesus",
                     "Mark",
-                    "Jesus",
+                    "Jesus\u2019s Word",
+                    "Platt",
                     "Jesus",
                     "Platt",
-                    "Christine Hoover's",
-                    "Matthew"
+                    "Christine Hoover's"
                 ],
                 "ORG": [
                     "The Gospel Coalition\u2019s",
                     "Platt",
                     "The Gospel Coalition Podcast",
-                    "Lifeway",
-                    "href=\"http://lifeway.com"
+                    "Lifeway"
                 ],
                 "DATE": [
                     "2019"
@@ -5157,6 +5185,9 @@
                     "four",
                     "four",
                     "five"
+                ],
+                "ORDINAL": [
+                    "First"
                 ]
             }
         },
@@ -5189,8 +5220,7 @@
             "entities": {
                 "PERSON": [
                     "Jesus",
-                    "John",
-                    "John Piper",
+                    "John PiperJohn Piper",
                     "Jesus",
                     "Mark 8:31-38",
                     "Jesus",
@@ -5203,8 +5233,7 @@
                 "ORG": [
                     "The Gospel Coalition\u2019s",
                     "The Gospel Coalition Podcast",
-                    "Lifeway",
-                    "href=\"http://lifeway.com"
+                    "Lifeway"
                 ],
                 "DATE": [
                     "2019",
@@ -5217,9 +5246,10 @@
                 "CARDINAL": [
                     "five"
                 ],
+                "ORDINAL": [
+                    "First"
+                ],
                 "GPE": [
-                    "news.</li><li",
-                    "news.</li><li",
                     "the Kingdom: God\u2019s Invitation to Life and Joy"
                 ]
             }
@@ -5436,11 +5466,10 @@
             "title": "The Christian Life Is J-Shaped",
             "entities": {
                 "PERSON": [
-                    "Paul Miller",
+                    "Miller",
                     "Jesus",
                     "Jesus",
                     "Miller",
-                    "truth:</p><ol><li",
                     "Jesus"
                 ],
                 "ORG": [
@@ -5492,11 +5521,10 @@
             "entities": {
                 "DATE": [
                     "tomorrow",
-                    "today",
                     "8:18-25"
                 ],
                 "PERSON": [
-                    "Jason Cook",
+                    "Cook",
                     "Cook"
                 ],
                 "ORG": [
@@ -5617,15 +5645,11 @@
             "title": "Tim Keller on Being Born Again",
             "entities": {
                 "PERSON": [
-                    "Tim",
+                    "Tim KellerAt",
                     "Tim Keller",
                     "John 3",
                     "Keller",
-                    "Jesus",
-                    "Keller"
-                ],
-                "ORG": [
-                    "The Gospel Coalition\u2019s"
+                    "Jesus"
                 ],
                 "DATE": [
                     "2019"
@@ -5638,6 +5662,9 @@
                 ],
                 "CARDINAL": [
                     "five"
+                ],
+                "ORG": [
+                    "Nicodemus"
                 ]
             }
         },
@@ -5668,8 +5695,12 @@
             "pubDate": "Fri, 22 Jan 2021 05:00:00 +0000",
             "title": "Don Carson on What We Can Learn from Lazarus",
             "entities": {
+                "CARDINAL": [
+                    "One",
+                    "four"
+                ],
                 "PERSON": [
-                    "Don Carson",
+                    "Carson",
                     "Carson",
                     "Jesus"
                 ],
@@ -5685,9 +5716,6 @@
                 ],
                 "GPE": [
                     "Indianapolis"
-                ],
-                "CARDINAL": [
-                    "four"
                 ]
             }
         },
@@ -5765,7 +5793,7 @@
                 "PERSON": [
                     "Trevin Wax",
                     "Wax",
-                    "Trevin Wax</p><p><a"
+                    "Trevin WaxView"
                 ],
                 "ORG": [
                     "TGC",
@@ -5807,8 +5835,7 @@
                 "ORG": [
                     "The Gospel Coalition\u2019s",
                     "The Gospel Coalition Podcast",
-                    "OCC",
-                    "Samaritanspurse.org"
+                    "OCC"
                 ],
                 "DATE": [
                     "2018"
@@ -5861,8 +5888,7 @@
                 "ORG": [
                     "The Gospel Coalition\u2019s",
                     "The Gospel Coalition Podcast",
-                    "OCC",
-                    "Samaritanspurse.org"
+                    "OCC"
                 ],
                 "DATE": [
                     "2018"
@@ -5926,8 +5952,7 @@
                     "Wilson",
                     "Wilson",
                     "The Gospel Coalition Podcast",
-                    "OCC",
-                    "Samaritanspurse.org"
+                    "OCC"
                 ],
                 "WORK_OF_ART": [
                     "The Gospel Driven Church"
@@ -6029,6 +6054,9 @@
                 "DATE": [
                     "2019"
                 ],
+                "WORK_OF_ART": [
+                    "A Pagan Woman Who Understands Grace"
+                ],
                 "NORP": [
                     "Syrophoenician"
                 ],
@@ -6070,12 +6098,12 @@
                 "ORG": [
                     "TGC",
                     "TGC Podcast",
-                    "National Collection Week",
-                    "SamaritansPurse.org/occ</strong></i></a><i><strong"
+                    "National Collection Week"
                 ],
                 "DATE": [
                     "2019",
-                    "November 16th through 23rd"
+                    "November 16th through 23rd",
+                    "this year"
                 ],
                 "NORP": [
                     "Christianity"
@@ -6120,6 +6148,7 @@
             "entities": {
                 "PERSON": [
                     "John Onwuchekwa",
+                    "Prayer",
                     "Jesus",
                     "Jesus",
                     "Onwuchekwa",
@@ -6177,7 +6206,7 @@
             "title": "Help Them Imagine: The Need for Creativity in Evangelism",
             "entities": {
                 "PERSON": [
-                    "Glen Scrivener",
+                    "Scrivener",
                     "David Mathis",
                     "Jesus"
                 ],
@@ -6230,15 +6259,14 @@
                     "Mark Vroegop",
                     "Mark",
                     "Jarvis Williams",
-                    "Danny Akin"
+                    "Danny Akin",
+                    "crossway.org/TGC"
                 ],
                 "ORG": [
                     "the Gospel Coalition\u2019s",
                     "The Gospel Coalition Podcast",
                     "Crossway",
-                    "Trillia Newbell",
-                    "href=\"http://crossway.org/XXX",
-                    "href=\"http://crossway.org/TGC"
+                    "Trillia Newbell"
                 ],
                 "DATE": [
                     "2019"
@@ -6295,16 +6323,15 @@
                     "Mark Vroegop",
                     "Mark",
                     "Jarvis Williams",
-                    "Danny Akin"
+                    "Danny Akin",
+                    "crossway.org/TGC"
                 ],
                 "ORG": [
                     "TGC\u2019s",
                     "the Great Commission",
                     "The Gospel Coalition Podcast",
                     "Crossway",
-                    "Trillia Newbell",
-                    "href=\"http://crossway.org/XXX",
-                    "href=\"http://crossway.org/TGC"
+                    "Trillia Newbell"
                 ],
                 "DATE": [
                     "2018"
@@ -6375,19 +6402,24 @@
                     "Christians",
                     "American"
                 ],
-                "CARDINAL": [
-                    "Seven"
-                ],
                 "ORG": [
+                    "Apple Podcasts",
                     "Radical",
                     "Platt",
                     "Platt",
                     "Platt",
                     "McLean Bible Church",
-                    "McLean Bible Church.</p><p"
+                    "McLean Bible Church"
                 ],
                 "GPE": [
+                    "Spotify",
                     "the United States"
+                ],
+                "WORK_OF_ART": [
+                    "Before You Vote"
+                ],
+                "CARDINAL": [
+                    "Seven"
                 ],
                 "DATE": [
                     "today",
@@ -6428,10 +6460,12 @@
                 "PERSON": [
                     "Danny Akin",
                     "Akin",
+                    "Akin",
                     "Mark Vroegop",
                     "Mark",
                     "Jarvis Williams",
-                    "Danny Akin"
+                    "Danny Akin",
+                    "crossway.org/TGC"
                 ],
                 "ORG": [
                     "The Gospel Coalition\u2019s",
@@ -6439,9 +6473,7 @@
                     "the Great Commission",
                     "The Gospel Coalition Podcast",
                     "Crossway",
-                    "Trillia Newbell",
-                    "href=\"http://crossway.org/XXX",
-                    "href=\"http://crossway.org/TGC"
+                    "Trillia Newbell"
                 ],
                 "DATE": [
                     "2019",
@@ -6498,12 +6530,19 @@
             "title": "Crawford Loritts on Setting the Stage for a Conversation on Race and Justice (Bonus Episode)",
             "entities": {
                 "ORG": [
-                    "The Gospel Coalition"
+                    "The Gospel Coalition",
+                    "Christ",
+                    "Justice",
+                    "Apple Podcasts",
+                    "Spotify",
+                    "Google Podcasts"
+                ],
+                "WORK_OF_ART": [
+                    "As In Heaven"
                 ],
                 "PERSON": [
                     "Jim Davis",
-                    "Michael Aitcheson",
-                    "id1498512019\">Apple Podcasts</a"
+                    "Michael Aitcheson"
                 ],
                 "CARDINAL": [
                     "more than two-dozen"
@@ -6546,8 +6585,7 @@
                     "The Gospel Coalition\u2019s",
                     "The Gospel Coalition",
                     "Crossway",
-                    "Church",
-                    "href=\"http://crossway.org/PaulTripp"
+                    "Church"
                 ],
                 "DATE": [
                     "2019",
@@ -6599,8 +6637,7 @@
             "entities": {
                 "PERSON": [
                     "Jesus Christ",
-                    "Paul Tripp</strong",
-                    "video)</li><li><a",
+                    "Paul Tripp",
                     "Paul David Tripp"
                 ],
                 "CARDINAL": [
@@ -6613,8 +6650,7 @@
                     "TGC",
                     "The Gospel Coalition",
                     "Crossway",
-                    "Church",
-                    "href=\"http://crossway.org/PaulTripp"
+                    "Church"
                 ],
                 "DATE": [
                     "May 26, 2017",
@@ -6665,8 +6701,7 @@
                     "The Gospel Coalition\u2019s",
                     "The Gospel Coalition",
                     "Crossway",
-                    "Church",
-                    "href=\"http://crossway.org/PaulTripp"
+                    "Church"
                 ],
                 "DATE": [
                     "2019",
@@ -6734,8 +6769,7 @@
                     "Old Testament",
                     "The Gospel Coalition",
                     "Crossway",
-                    "Church",
-                    "href=\"http://crossway.org/PaulTripp"
+                    "Church"
                 ],
                 "DATE": [
                     "2019",
@@ -6886,9 +6920,6 @@
             "pubDate": "Fri, 28 Aug 2020 04:00:07 +0000",
             "title": "How to Prepare for Tragedy",
             "entities": {
-                "GPE": [
-                    "Psalm"
-                ],
                 "CARDINAL": [
                     "130"
                 ],
@@ -6901,7 +6932,8 @@
                     "The Gospel Coalition Podcast",
                     "Rooted Reservoir",
                     "Rooted Ministry",
-                    "Reservoir"
+                    "Reservoir",
+                    "RootedMinistry.com"
                 ],
                 "DATE": [
                     "Wednesday, September 30"
@@ -6997,11 +7029,6 @@
             "pubDate": "Fri, 14 Aug 2020 04:00:08 +0000",
             "title": "No\u00ebl Piper on Hope for All Life Stages",
             "entities": {
-                "PERSON": [
-                    "No\u00ebl Piper",
-                    "Melissa Kruger",
-                    "Jesus"
-                ],
                 "GPE": [
                     "Talitha",
                     "Talitha"
@@ -7017,6 +7044,10 @@
                 "WORK_OF_ART": [
                     "God\u2019s Grace in Life\u2019s Transitions",
                     "Wherever You Go"
+                ],
+                "PERSON": [
+                    "Melissa Kruger",
+                    "Jesus"
                 ]
             }
         },
@@ -7096,7 +7127,7 @@
             "entities": {
                 "PERSON": [
                     "Jesus",
-                    "Laura Powell",
+                    "Powell",
                     "Journey",
                     "Powell",
                     "John Flavel",
@@ -7187,7 +7218,7 @@
             "title": "Discussing Death: A Pathway to Deeper Hope",
             "entities": {
                 "PERSON": [
-                    "Matthew McCullough"
+                    "McCullough"
                 ],
                 "ORG": [
                     "The Gospel Coalition\u2019s"
@@ -7316,7 +7347,7 @@
             "title": "Sexual Sanctification Is Not the Absence of Temptation",
             "entities": {
                 "PERSON": [
-                    "Christopher Yuan",
+                    "Yuan",
                     "Relationships Shaped",
                     "Yuan"
                 ],
@@ -7454,7 +7485,7 @@
             "title": "Trip Lee on the Paradox of Being Human",
             "entities": {
                 "PERSON": [
-                    "Lee"
+                    "Trip Lee"
                 ],
                 "ORG": [
                     "The Gospel Coalition\u2019s"
@@ -7508,7 +7539,7 @@
                 "PERSON": [
                     "Todd Goranson",
                     "Steve Rooks",
-                    "Jesus Christ.</p"
+                    "Jesus Christ"
                 ],
                 "WORK_OF_ART": [
                     "Evangelism in the Arts"
@@ -7577,6 +7608,7 @@
                     "Love"
                 ],
                 "NORP": [
+                    "Christian",
                     "Christian"
                 ],
                 "CARDINAL": [
@@ -7611,18 +7643,14 @@
             "pubDate": "Fri, 15 May 2020 04:00:16 +0000",
             "title": "The Good News of Romans 8",
             "entities": {
-                "PERSON": [
-                    "Trillia Newbell",
-                    "Paul",
-                    "Gary Millar",
-                    "Jesus"
-                ],
                 "ORG": [
+                    "Newbell",
                     "The Gospel Coalition\u2019s",
                     "Newbell",
                     "Newbell",
                     "The Gospel Coalition",
-                    "The Good Book Company"
+                    "The Good Book Company",
+                    "Need to Know"
                 ],
                 "DATE": [
                     "2019"
@@ -7630,12 +7658,18 @@
                 "GPE": [
                     "Indianapolis",
                     "Indiana",
+                    "Us",
                     "Christ"
                 ],
                 "NORP": [
                     "Romans",
                     "Romans",
                     "Christians"
+                ],
+                "PERSON": [
+                    "Paul",
+                    "Gary Millar",
+                    "Jesus"
                 ],
                 "TIME": [
                     "morning"
@@ -7690,6 +7724,7 @@
                     "Indiana"
                 ],
                 "WORK_OF_ART": [
+                    "Reading Scripture",
                     "Bible"
                 ],
                 "NORP": [
@@ -7730,7 +7765,7 @@
                 ],
                 "DATE": [
                     "2019",
-                    "400 Years"
+                    "400 Years Later"
                 ],
                 "GPE": [
                     "Indianapolis",
@@ -7809,6 +7844,10 @@
             "pubDate": "Fri, 17 Apr 2020 04:00:02 +0000",
             "title": "Shai Linne on the Gospel and Ethnic Unity",
             "entities": {
+                "ORG": [
+                    "Division",
+                    "The Gospel Coalition\u2019s"
+                ],
                 "PERSON": [
                     "Jesus",
                     "Linne"
@@ -7820,11 +7859,9 @@
                 "CARDINAL": [
                     "three"
                 ],
-                "ORG": [
-                    "The Gospel Coalition\u2019s"
-                ],
                 "GPE": [
-                    "Indianapolis"
+                    "Indianapolis",
+                    "Indiana"
                 ]
             }
         },
@@ -8219,8 +8256,8 @@
                     "Matt Smethurst",
                     "Collin Hansen"
                 ],
-                "CARDINAL": [
-                    "2019</p"
+                "DATE": [
+                    "2019"
                 ]
             }
         },
@@ -8252,7 +8289,7 @@
             "title": "Our Divided Cultural Moment",
             "entities": {
                 "PERSON": [
-                    "Jonathan Leeman</p"
+                    "Jonathan Leeman"
                 ]
             }
         },
@@ -8285,7 +8322,7 @@
             "entities": {
                 "PERSON": [
                     "Collin Hansen",
-                    "Brett McCracken</p"
+                    "Brett McCracken"
                 ]
             }
         },
@@ -8442,7 +8479,7 @@
             "entities": {
                 "PERSON": [
                     "Collin Hansen",
-                    "Kevin DeYoung</p"
+                    "Kevin DeYoung"
                 ]
             }
         },
@@ -8474,7 +8511,7 @@
             "title": "Trevin Wax on Signs of Hope for the Next Generation",
             "entities": {
                 "PERSON": [
-                    "Trevin Wax</p"
+                    "Trevin Wax"
                 ]
             }
         },
@@ -8507,7 +8544,7 @@
             "entities": {
                 "PERSON": [
                     "Collin Hansen",
-                    "Stephen Um</p"
+                    "Stephen Um"
                 ]
             }
         },
@@ -8542,7 +8579,7 @@
                     "KB"
                 ],
                 "ORG": [
-                    "Ameen"
+                    "Ameen Hudson"
                 ]
             }
         },
@@ -8575,7 +8612,7 @@
             "entities": {
                 "PERSON": [
                     "Collin Hansen",
-                    "Tom Nelson</p"
+                    "Tom Nelson"
                 ]
             }
         },
@@ -8608,7 +8645,7 @@
             "entities": {
                 "PERSON": [
                     "Mike Cosper",
-                    "Alan Noble</p>"
+                    "Alan Noble"
                 ]
             }
         },
@@ -8641,7 +8678,7 @@
             "entities": {
                 "PERSON": [
                     "Collin Hansen",
-                    "Vermon Pierre</p"
+                    "Vermon Pierre"
                 ]
             }
         },
@@ -8676,7 +8713,7 @@
                     "Kristen Waggoner"
                 ],
                 "ORG": [
-                    "Alliance Defending"
+                    "Alliance Defending Freedom"
                 ]
             }
         },
@@ -8709,7 +8746,7 @@
             "entities": {
                 "PERSON": [
                     "Collin Hansen",
-                    "Erik Raymond</p>"
+                    "Erik Raymond\n"
                 ]
             }
         },
@@ -8744,7 +8781,7 @@
                     "Jackie Hill Perry",
                     "Cameron Cole",
                     "Glen Scrivener",
-                    "Stephen Um</p"
+                    "Stephen Um"
                 ]
             }
         },
@@ -8777,7 +8814,7 @@
             "entities": {
                 "PERSON": [
                     "Collin Hansen interviews",
-                    "Jared Wilson</p"
+                    "Jared Wilson"
                 ]
             }
         },
@@ -8842,7 +8879,7 @@
             "entities": {
                 "PERSON": [
                     "Collin Hansen",
-                    "Phil Ryken</p"
+                    "Phil Ryken"
                 ]
             }
         },
@@ -8876,7 +8913,7 @@
                 "PERSON": [
                     "Sam Allberry",
                     "Craig Ellis",
-                    "Stephen Um</p"
+                    "Stephen Um"
                 ],
                 "GPE": [
                     "Bethany Jenkins"
@@ -8911,7 +8948,7 @@
             "title": "Where the Gospel Meets Pornography",
             "entities": {
                 "WORK_OF_ART": [
-                    "Love Thy Neighborhood</p"
+                    "Love Thy Neighborhood"
                 ]
             }
         },
@@ -8943,7 +8980,7 @@
             "title": "Discover the Grace of Lament",
             "entities": {
                 "PERSON": [
-                    "Mark Vroegop</p"
+                    "Mark Vroegop"
                 ]
             }
         },
@@ -9001,7 +9038,8 @@
             "title": "Parents Are Works in Progress",
             "entities": {
                 "PERSON": [
-                    "Paul Tripp"
+                    "Paul Tripp",
+                    "Grace"
                 ],
                 "GPE": [
                     "Parenting"
@@ -9073,7 +9111,7 @@
                     "Collin Hansen",
                     "Donnie Griggs",
                     "Jeff Robinson",
-                    "Stephen Witmer</p"
+                    "Stephen Witmer"
                 ]
             }
         },
@@ -9140,8 +9178,8 @@
             "pubDate": "Fri, 13 Sep 2019 00:04:00 +0000",
             "title": "The Way to Have a Good Fight",
             "entities": {
-                "FAC": [
-                    "Danielle Sallade on Biblical Principles for Resolving Conflict</p>"
+                "ORG": [
+                    "Danielle Sallade on Biblical Principles for Resolving Conflict\n"
                 ]
             }
         },
@@ -9173,10 +9211,8 @@
             "title": "Learn to Read Both Across and Along Your Bible",
             "entities": {
                 "PERSON": [
-                    "Collin Hansen"
-                ],
-                "ORG": [
-                    "Julius"
+                    "Collin Hansen",
+                    "Julius Kim\n"
                 ]
             }
         },
@@ -9235,7 +9271,7 @@
             "entities": {
                 "PERSON": [
                     "Collin Hansen",
-                    "Don Carson</p"
+                    "Don Carson"
                 ]
             }
         },
@@ -9267,7 +9303,7 @@
             "title": "Shepherding Your Church to Obey the Great Commission",
             "entities": {
                 "PERSON": [
-                    "David Platt</p>"
+                    "David Platt\n"
                 ]
             }
         },
@@ -9304,6 +9340,9 @@
                 ],
                 "ORG": [
                     "Costi"
+                ],
+                "WORK_OF_ART": [
+                    "Bible"
                 ]
             }
         },
@@ -9404,7 +9443,7 @@
                     "Elliot Clark",
                     "Jason Cook",
                     "Jen Pollock Michel",
-                    "Russell Moore</p"
+                    "Russell Moore"
                 ]
             }
         },
@@ -9437,7 +9476,7 @@
             "entities": {
                 "PERSON": [
                     "Erik Thoennes",
-                    "Jeremy Treat</p"
+                    "Jeremy Treat"
                 ]
             }
         },
@@ -9470,6 +9509,9 @@
             "entities": {
                 "PERSON": [
                     "Jen Wilkin"
+                ],
+                "ORG": [
+                    "the Local Church"
                 ]
             }
         },
@@ -9502,7 +9544,7 @@
             "entities": {
                 "PERSON": [
                     "Joshua Ryan Butler",
-                    "Thomas Terry</p>"
+                    "Thomas Terry"
                 ]
             }
         },
@@ -9534,7 +9576,7 @@
             "title": "Franklin, Whitefield, and the Future of Christian Higher Education",
             "entities": {
                 "PERSON": [
-                    "Thomas Kidd</p"
+                    "Thomas Kidd"
                 ]
             }
         },
@@ -9567,7 +9609,7 @@
             "entities": {
                 "PERSON": [
                     "H. B. Charles",
-                    "John Piper</p"
+                    "John Piper"
                 ]
             }
         },
@@ -9602,7 +9644,7 @@
                     "Jason Cook",
                     "Kevin DeYoung",
                     "Phillip Holmes",
-                    "Darryl Williamson</p"
+                    "Darryl Williamson"
                 ]
             }
         },
@@ -9635,7 +9677,7 @@
             "entities": {
                 "PERSON": [
                     "Erik Thoennes",
-                    "Jeremy Treat</p"
+                    "Jeremy Treat"
                 ]
             }
         },
@@ -9669,7 +9711,7 @@
                 "PERSON": [
                     "John Onwuchekwa",
                     "Joe Rigney",
-                    "Kempton Turner</p"
+                    "Kempton Turner"
                 ]
             }
         },
@@ -9734,7 +9776,7 @@
             "entities": {
                 "PERSON": [
                     "Joshua Ryan Butler",
-                    "Thomas Terry</p>"
+                    "Thomas Terry"
                 ]
             }
         },
@@ -9767,7 +9809,7 @@
             "entities": {
                 "PERSON": [
                     "Don Carson",
-                    "Ligon Duncan</p"
+                    "Ligon Duncan"
                 ]
             }
         },
@@ -9800,7 +9842,7 @@
             "entities": {
                 "PERSON": [
                     "Collin Hansen",
-                    "Mark Galli</p"
+                    "Mark Galli"
                 ]
             }
         },
@@ -9835,7 +9877,7 @@
                     "Betsy Childs Howard",
                     "Melissa Kruger",
                     "Taylor Turkington",
-                    "Quina Aragon</p"
+                    "Quina Aragon"
                 ]
             }
         },
@@ -9869,7 +9911,7 @@
                 "PERSON": [
                     "Jon Nielson",
                     "Cameron Cole",
-                    "Kori Porter</p"
+                    "Kori Porter"
                 ]
             }
         },
@@ -9901,7 +9943,7 @@
             "title": "The Unstoppable, Global Gospel",
             "entities": {
                 "PERSON": [
-                    "Tim Keesee</p>"
+                    "Tim Keesee"
                 ]
             }
         },
@@ -9935,7 +9977,7 @@
                 "PERSON": [
                     "Jonathan Leeman",
                     "John Onwuchekwa",
-                    "Juan S\u00e1nchez</p>"
+                    "Juan S\u00e1nchez"
                 ]
             }
         },
@@ -9967,7 +10009,7 @@
             "title": "Mika Edmondson on Conversing across the Divide",
             "entities": {
                 "PERSON": [
-                    "Mika Edmondson</p"
+                    "Mika Edmondson"
                 ]
             }
         },
@@ -10031,7 +10073,7 @@
             "title": "Discipleship \u2260 Following Christ Your Way",
             "entities": {
                 "PERSON": [
-                    "Sam Allberry</p"
+                    "Sam Allberry"
                 ]
             }
         },
@@ -10064,7 +10106,7 @@
             "entities": {
                 "PERSON": [
                     "John Piper",
-                    "H. B. Charles</p>"
+                    "H. B. Charles"
                 ]
             }
         },
@@ -10095,8 +10137,8 @@
             "pubDate": "Fri, 31 May 2019 00:04:34 +0000",
             "title": "4 Things Christians Must Reclaim",
             "entities": {
-                "GPE": [
-                    "Rebecca"
+                "PERSON": [
+                    "Rebecca McLaughlin"
                 ]
             }
         },
@@ -10129,7 +10171,7 @@
             "entities": {
                 "PERSON": [
                     "Jeremy Treat",
-                    "Erik Thoennes</p>"
+                    "Erik Thoennes"
                 ]
             }
         },
@@ -10162,7 +10204,7 @@
             "entities": {
                 "PERSON": [
                     "Collin Hansen",
-                    "Eric Johnston</p"
+                    "Eric Johnston"
                 ]
             }
         },
@@ -10195,10 +10237,8 @@
             "entities": {
                 "PERSON": [
                     "Jen Wilkin",
-                    "Jackie Hill Perry"
-                ],
-                "ORG": [
-                    "Jen Pollock Michel</p"
+                    "Jackie Hill Perry",
+                    "Jen Pollock Michel"
                 ]
             }
         },
@@ -10257,10 +10297,8 @@
             "entities": {
                 "PERSON": [
                     "Rosaria Butterfield",
-                    "Melissa Kruger"
-                ],
-                "GPE": [
-                    "Trillia"
+                    "Melissa Kruger",
+                    "Trillia Newbell"
                 ]
             }
         },
@@ -10290,11 +10328,7 @@
             "link": "https://www.thegospelcoalition.org/podcasts/tgc-podcast/",
             "pubDate": "Fri, 10 May 2019 00:04:00 +0000",
             "title": "A Model for Missions in a Brave New World",
-            "entities": {
-                "WORK_OF_ART": [
-                    "Mack Stiles"
-                ]
-            }
+            "entities": {}
         },
         {
             "author": "podcasts@thegospelcoalition.org (Michael J. Kruger, Don Carson)",
@@ -10322,7 +10356,11 @@
             "link": "https://www.thegospelcoalition.org/podcasts/tgc-podcast/",
             "pubDate": "Tue, 7 May 2019 00:03:00 +0000",
             "title": "Don Carson and Mike Kruger on Persistent Myths About the New Testament",
-            "entities": {}
+            "entities": {
+                "WORK_OF_ART": [
+                    "Bible"
+                ]
+            }
         },
         {
             "author": "podcasts@thegospelcoalition.org (Ligon Duncan)",
@@ -10379,7 +10417,7 @@
             "entities": {
                 "PERSON": [
                     "Collin Hansen",
-                    "David Brooks</p"
+                    "David Brooks"
                 ]
             }
         },
@@ -10444,7 +10482,8 @@
             "entities": {
                 "PERSON": [
                     "Rosaria Butterfield",
-                    "Tony Merida"
+                    "Tony Merida",
+                    "Dennae Pierre"
                 ]
             }
         },
@@ -10478,7 +10517,7 @@
                 "PERSON": [
                     "Jen Wilkin",
                     "Jen Pollock Michel",
-                    "Jackie Hill"
+                    "Jackie Hill Perry"
                 ]
             }
         },
@@ -10510,7 +10549,7 @@
             "title": "Is God Anti-Gay?",
             "entities": {
                 "PERSON": [
-                    "Sam Allberry</p"
+                    "Sam Allberry"
                 ]
             }
         },
@@ -10543,7 +10582,7 @@
             "entities": {
                 "PERSON": [
                     "Collin Hansen",
-                    "Jen Wilkin</p"
+                    "Jen Wilkin"
                 ]
             }
         },
@@ -10575,7 +10614,7 @@
             "title": "Gloria Furman on Eternal Outlook for Everyday Life",
             "entities": {
                 "PERSON": [
-                    "Gloria Furman</p"
+                    "Gloria Furman"
                 ]
             }
         },
@@ -10609,7 +10648,7 @@
                 "PERSON": [
                     "Kris Brosett",
                     "Anthony Kidd",
-                    "Bobby Scott</p"
+                    "Bobby Scott"
                 ]
             }
         },
@@ -10642,7 +10681,7 @@
             "entities": {
                 "PERSON": [
                     "Collin Hansen",
-                    "Christopher Yuan</p"
+                    "Christopher Yuan"
                 ]
             }
         },
@@ -10674,7 +10713,7 @@
             "title": "How to Live Your Faith at Work",
             "entities": {
                 "PERSON": [
-                    "Justin Buzzard</p>"
+                    "Justin Buzzard"
                 ]
             }
         },
@@ -10706,7 +10745,8 @@
             "title": "What We Need to Confront About Christianity",
             "entities": {
                 "PERSON": [
-                    "Collin Hansen"
+                    "Collin Hansen",
+                    "Rebecca McLaughlin"
                 ]
             }
         },
@@ -10739,7 +10779,7 @@
             "entities": {
                 "PERSON": [
                     "Erik",
-                    "Donna Thoennes</p"
+                    "Donna Thoennes"
                 ]
             }
         },
@@ -10772,7 +10812,7 @@
             "entities": {
                 "PERSON": [
                     "Don Carson",
-                    "Mike Kruger</p>"
+                    "Mike Kruger"
                 ]
             }
         },
@@ -10864,7 +10904,7 @@
             "title": "Don\u2019t Pit Atonement against Kingdom",
             "entities": {
                 "PERSON": [
-                    "Jeremy Treat</p>"
+                    "Jeremy Treat"
                 ]
             }
         },
@@ -10897,7 +10937,7 @@
             "entities": {
                 "PERSON": [
                     "Collin Hansen",
-                    "Sam Allberry</p"
+                    "Sam Allberry"
                 ]
             }
         },
@@ -10957,7 +10997,7 @@
                 "PERSON": [
                     "Russell Moore",
                     "Trevin Wax",
-                    "Scott Sauls</p"
+                    "Scott Sauls"
                 ]
             }
         },
@@ -10989,7 +11029,7 @@
             "title": "Ray Ortlund on Finishing Well in Ministry",
             "entities": {
                 "PERSON": [
-                    "Ray Ortlund</p"
+                    "Ray Ortlund"
                 ]
             }
         },
@@ -11022,7 +11062,7 @@
             "entities": {
                 "PERSON": [
                     "Michael",
-                    "Melissa Kruger</p>"
+                    "Melissa Kruger"
                 ]
             }
         },
@@ -11060,7 +11100,7 @@
                     "Butterfield",
                     "Regina Robinson",
                     "Dennae Pierre",
-                    "Sandra Hardy</p"
+                    "Sandra Hardy"
                 ]
             }
         },
@@ -11094,7 +11134,7 @@
                 "PERSON": [
                     "Sam Allberry",
                     "Juan S\u00e1nchez",
-                    "Afshin Ziafat</p"
+                    "Afshin Ziafat"
                 ]
             }
         },
@@ -11129,7 +11169,7 @@
                     "Kevin DeYoung",
                     "Ligon Duncan",
                     "Bobby Scott",
-                    "Stephen Um</p"
+                    "Stephen Um"
                 ]
             }
         },
@@ -11162,7 +11202,7 @@
             "entities": {
                 "PERSON": [
                     "Collin Hansen",
-                    "Peter J. Williams</p"
+                    "Peter J. Williams"
                 ]
             }
         },
@@ -11194,7 +11234,7 @@
             "title": "How to Challenge the Consumer Culture of Your Church",
             "entities": {
                 "PERSON": [
-                    "Brett McCracken</p"
+                    "Brett McCracken"
                 ]
             }
         },
@@ -11230,7 +11270,7 @@
                 ],
                 "PERSON": [
                     "Jen Pollock Michel",
-                    "Jen Wilkin</p"
+                    "Jen Wilkin"
                 ]
             }
         },
@@ -11325,7 +11365,7 @@
             "entities": {
                 "PERSON": [
                     "Ryan Lister",
-                    "Thomas Terry</p>"
+                    "Thomas Terry"
                 ]
             }
         },
@@ -11359,7 +11399,7 @@
                 "PERSON": [
                     "Gloria Furman",
                     "Becky Pippert",
-                    "Shar"
+                    "Shar Walker"
                 ]
             }
         },
@@ -11449,7 +11489,11 @@
             "link": "https://www.thegospelcoalition.org/podcasts/tgc-podcast/",
             "pubDate": "Fri, 21 Dec 2018 00:04:11 +0000",
             "title": "Searching for the Story of Home",
-            "entities": {}
+            "entities": {
+                "PERSON": [
+                    "Jen Pollock Michel"
+                ]
+            }
         }
     ],
     "itunes": {

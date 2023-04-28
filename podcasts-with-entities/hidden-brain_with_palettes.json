@@ -40,7 +40,7 @@
                     "last week's"
                 ],
                 "PERSON": [
-                    "kumar/\">Amit Kumar</a",
+                    "Amit Kumar",
                     "Hidden Brain"
                 ]
             }
@@ -73,6 +73,12 @@
             "entities": {
                 "DATE": [
                     "Today"
+                ],
+                "PERSON": [
+                    "Daniel Willingham"
+                ],
+                "WORK_OF_ART": [
+                    "Crying Wolf"
                 ]
             }
         },
@@ -106,11 +112,8 @@
                     "This week"
                 ],
                 "PERSON": [
-                    "target=\"_blank\">Karl Aquino</a>",
-                    "Jordan"
-                ],
-                "NORP": [
-                    "target=\"_blank\">Jillian"
+                    "Karl Aquino",
+                    "Jillian Jordan"
                 ]
             }
         },
@@ -144,8 +147,8 @@
                     "Today",
                     "2021"
                 ],
-                "CARDINAL": [
-                    "here</i></a><i"
+                "PERSON": [
+                    "Damon Centola"
                 ]
             }
         },
@@ -178,25 +181,23 @@
                 "DATE": [
                     "This week"
                 ],
-                "GPE": [
-                    "href=\"https://www.london.edu"
-                ],
-                "PERSON": [
-                    "Sivanathan</a",
-                    "bmclaughlin.php\">Bryan McLaughlin</a",
-                    "Hidden Brain"
+                "FAC": [
+                    "Niro Sivanathan"
                 ],
                 "ORG": [
                     "the London Business School",
                     "Texas Tech University"
                 ],
+                "PERSON": [
+                    "Bryan McLaughlin",
+                    "Hidden Brain"
+                ],
                 "WORK_OF_ART": [
                     "Revealing Your Unconscious"
                 ],
                 "CARDINAL": [
-                    "here</i></a><i",
-                    "2",
-                    "here</i></a><i"
+                    "1",
+                    "2"
                 ]
             }
         },
@@ -245,9 +246,6 @@
                     "a month",
                     "nearly a decade later",
                     "This week"
-                ],
-                "CARDINAL": [
-                    "here</i></a><i"
                 ]
             }
         },
@@ -281,16 +279,13 @@
                     "This week",
                     "2021"
                 ],
-                "NORP": [
-                    "href=\"https://doerr.rice.edu"
+                "PERSON": [
+                    "Ryan Brown"
                 ],
                 "CARDINAL": [
                     "two",
                     "one",
-                    "here</i></a><i",
-                    "two",
-                    "here</i></a><i",
-                    "here</i></a><i"
+                    "two"
                 ]
             }
         },
@@ -324,8 +319,10 @@
                     "second"
                 ],
                 "PERSON": [
-                    "Banaji</a",
-                    "Implicit Bias</a></p><p><i"
+                    "Mahzarin Banaji"
+                ],
+                "ORG": [
+                    "Project ImplicitOutsmarting Implicit BiasHow"
                 ]
             }
         },
@@ -364,8 +361,10 @@
                     "two"
                 ],
                 "PERSON": [
-                    "Banaji</a",
-                    "Implicit Bias</a></p><p><i"
+                    "Mahzarin Banaji"
+                ],
+                "ORG": [
+                    "Project ImplicitOutsmarting Implicit BiasDid"
                 ],
                 "LAW": [
                     "Happiness 2.0 series"
@@ -400,6 +399,9 @@
             "entities": {
                 "DATE": [
                     "This week"
+                ],
+                "PERSON": [
+                    "Jer Clifton"
                 ]
             }
         },
@@ -436,7 +438,7 @@
                     "Happiness 2.0 series"
                 ],
                 "PERSON": [
-                    "Keltner</a"
+                    "Dacher Keltner"
                 ]
             }
         },
@@ -473,8 +475,8 @@
                 "LAW": [
                     "Happiness 2.0 series"
                 ],
-                "CARDINAL": [
-                    "href=\"https://dunn.psych.ubc.ca/\">Elizabeth"
+                "PERSON": [
+                    "Elizabeth Dunn"
                 ]
             }
         },
@@ -508,14 +510,14 @@
                     "2021"
                 ],
                 "ORG": [
-                    "Cornell University",
-                    "Burrow</a"
+                    "Cornell University"
+                ],
+                "PERSON": [
+                    "Anthony Burrow",
+                    "Iris Mauss"
                 ],
                 "LAW": [
                     "Happiness 2.0 series"
-                ],
-                "PERSON": [
-                    "Iris Mauss"
                 ]
             }
         },
@@ -556,10 +558,8 @@
                 "LAW": [
                     "Happiness 2.0 series"
                 ],
-                "ORG": [
-                    "href=\"https://psychology.gmu.edu"
-                ],
                 "PERSON": [
+                    "Todd Kashdan",
                     "Hidden Brain"
                 ]
             }
@@ -600,9 +600,10 @@
                 "CARDINAL": [
                     "2.0",
                     "two",
-                    "1</i></a><i"
+                    "1"
                 ],
                 "PERSON": [
+                    "Iris Mauss",
                     "Hidden Brain"
                 ]
             }
@@ -676,11 +677,8 @@
                     "This week",
                     "last week's"
                 ],
-                "NORP": [
-                    "href=\"https://search.asu.edu"
-                ],
                 "PERSON": [
-                    "Robert Cialdini</a>",
+                    "Robert Cialdini",
                     "Hidden Brain"
                 ],
                 "ORDINAL": [
@@ -724,10 +722,8 @@
                 "CARDINAL": [
                     "two"
                 ],
-                "NORP": [
-                    "href=\"https://search.asu.edu"
-                ],
                 "PERSON": [
+                    "Robert Cialdini",
                     "Hidden Brain"
                 ]
             }
@@ -762,15 +758,9 @@
                     "This week",
                     "last week's"
                 ],
-                "NORP": [
-                    "href=\"https://profiles.stanford.edu"
-                ],
                 "PERSON": [
-                    "Jackson</a"
-                ],
-                "CARDINAL": [
-                    "here</i></a><i",
-                    "here</i></a><i"
+                    "Luigi Pistaferri",
+                    "Matthew Jackson"
                 ]
             }
         },
@@ -801,20 +791,16 @@
             "title": "Who Do You Want To Be?",
             "entities": {
                 "PERSON": [
-                    "Ken Sheldon</a"
+                    "Ken Sheldon"
                 ],
                 "DATE": [
                     "last week's"
                 ],
-                "CARDINAL": [
-                    "here</i></a><i",
-                    "here</i></a><i"
-                ],
                 "EVENT": [
                     "New Year"
                 ],
-                "ORG": [
-                    "Hidden Brain!</i></p"
+                "FAC": [
+                    "Hidden Brain"
                 ]
             }
         },
@@ -851,15 +837,14 @@
                     "2021",
                     "last week's"
                 ],
-                "CARDINAL": [
-                    "here</i></a><i",
-                    "here</i></a><i"
+                "PERSON": [
+                    "Katy Milkman"
                 ],
                 "EVENT": [
                     "New Year"
                 ],
-                "GPE": [
-                    "Hidden"
+                "FAC": [
+                    "Hidden Brain"
                 ]
             }
         },
@@ -893,10 +878,8 @@
                     "This week"
                 ],
                 "PERSON": [
-                    "Kowalski</a"
-                ],
-                "NORP": [
-                    "href=\"https://search.asu.edu"
+                    "Robin Kowalski",
+                    "Mike Baer"
                 ]
             }
         },
@@ -929,8 +912,8 @@
                 "DATE": [
                     "This week"
                 ],
-                "CARDINAL": [
-                    "href=\"https://www.xygalatas.com/\">Dimitris"
+                "PERSON": [
+                    "Dimitris Xygalatas"
                 ]
             }
         },
@@ -964,7 +947,7 @@
                     "This week"
                 ],
                 "PERSON": [
-                    "Jeff"
+                    "Jeff Galak"
                 ],
                 "CARDINAL": [
                     "2.0"
@@ -1000,6 +983,9 @@
                 "CARDINAL": [
                     "2.0",
                     "2.0"
+                ],
+                "PERSON": [
+                    "Harry Reis"
                 ]
             }
         },
@@ -1034,14 +1020,15 @@
                     "2018",
                     "last week's"
                 ],
-                "GPE": [
-                    "href=\"https://psychology.northwestern.edu"
-                ],
                 "PERSON": [
-                    "Finkel</a"
+                    "Stephanie Coontz",
+                    "Eli Finkel"
                 ],
                 "CARDINAL": [
                     "2.0"
+                ],
+                "WORK_OF_ART": [
+                    "An Antidote to Loneliness"
                 ]
             }
         },
@@ -1071,8 +1058,13 @@
             "pubDate": "Mon, 14 Nov 2022 20:45:00 +0000",
             "title": "Relationships 2.0: An Antidote to Loneliness",
             "entities": {
-                "ORG": [
-                    "U.S. Surgeon General <"
+                "GPE": [
+                    "U.S.",
+                    "U.S."
+                ],
+                "PERSON": [
+                    "Vivek Murthy",
+                    "Murthy"
                 ],
                 "DATE": [
                     "This week",
@@ -1081,14 +1073,10 @@
                 ],
                 "CARDINAL": [
                     "2020",
-                    "988",
-                    "here</i></a><i"
+                    "988"
                 ],
-                "PERSON": [
-                    "Murthy"
-                ],
-                "GPE": [
-                    "U.S."
+                "ORG": [
+                    "the Suicide & Crisis Lifeline"
                 ]
             }
         },
@@ -1126,8 +1114,10 @@
                     "first"
                 ],
                 "CARDINAL": [
-                    "2.0",
-                    "here</i></a><i"
+                    "2.0"
+                ],
+                "PERSON": [
+                    "Gillian Sandstrom"
                 ]
             }
         },
@@ -1192,7 +1182,7 @@
             "title": "A Better Way to Worry",
             "entities": {
                 "PERSON": [
-                    "Dennis-Tiwary</a"
+                    "Tracy Dennis-Tiwary"
                 ],
                 "DATE": [
                     "This week"
@@ -1226,7 +1216,7 @@
             "title": "Thriving in the Face of Contradiction",
             "entities": {
                 "PERSON": [
-                    "wendy-smith/\">Wendy Smith</a>"
+                    "Wendy Smith"
                 ]
             }
         },
@@ -1257,13 +1247,10 @@
             "title": "Did I Really Do That?",
             "entities": {
                 "PERSON": [
-                    "kassin\">Saul Kassin</a"
+                    "Saul Kassin"
                 ],
                 "DATE": [
                     "This week"
-                ],
-                "CARDINAL": [
-                    "here</i></a><i"
                 ]
             }
         },
@@ -1298,6 +1285,10 @@
                     "2018",
                     "2017",
                     "today"
+                ],
+                "PERSON": [
+                    "Lera Boroditsky",
+                    "John McWhorter"
                 ]
             }
         },
@@ -1335,8 +1326,8 @@
                     "This week",
                     "last week's"
                 ],
-                "CARDINAL": [
-                    "here</i></a><i"
+                "PERSON": [
+                    "Cassie Mogilner Holmes"
                 ]
             }
         },
@@ -1370,6 +1361,9 @@
                     "This week",
                     "today",
                     "last week's"
+                ],
+                "PERSON": [
+                    "Tessa West"
                 ]
             }
         },
@@ -1402,8 +1396,8 @@
                 "DATE": [
                     "This week"
                 ],
-                "GPE": [
-                    "href=\"https://ppw.kuleuven.be"
+                "PERSON": [
+                    "Batja Mesquita"
                 ]
             }
         },
@@ -1441,11 +1435,13 @@
                     "year",
                     "last week's"
                 ],
+                "PERSON": [
+                    "Sara Heller",
+                    "Chris Blattman",
+                    "Adam Grant"
+                ],
                 "CARDINAL": [
                     "2.0"
-                ],
-                "PERSON": [
-                    "Adam Grant"
                 ]
             }
         },
@@ -1482,11 +1478,8 @@
                     "2021",
                     "last week's"
                 ],
-                "ORG": [
-                    "href=\"https://mgmt.wharton.upenn.edu"
-                ],
                 "PERSON": [
-                    "grantad/\">Adam Grant</a>"
+                    "Adam Grant"
                 ],
                 "CARDINAL": [
                     "2.0"
@@ -1558,6 +1551,9 @@
             "pubDate": "Mon, 15 Aug 2022 20:00:00 +0000",
             "title": "You 2.0: The Mind's Eye",
             "entities": {
+                "PERSON": [
+                    "Emily Balcetis"
+                ],
                 "DATE": [
                     "This week",
                     "annual",
@@ -1591,12 +1587,13 @@
             "pubDate": "Mon, 8 Aug 2022 19:00:00 +0000",
             "title": "You 2.0: How To See Yourself Clearly",
             "entities": {
+                "PERSON": [
+                    "Tim Wilson",
+                    "Episode 1"
+                ],
                 "CARDINAL": [
                     "two",
                     "2"
-                ],
-                "PERSON": [
-                    "Episode 1"
                 ]
             }
         },
@@ -1629,12 +1626,13 @@
                 "TIME": [
                     "night"
                 ],
+                "PERSON": [
+                    "Ethan Kross",
+                    "Episode 1"
+                ],
                 "CARDINAL": [
                     "two",
                     "2"
-                ],
-                "PERSON": [
-                    "Episode 1"
                 ]
             }
         },
@@ -1664,16 +1662,16 @@
             "pubDate": "Mon, 25 Jul 2022 19:00:00 +0000",
             "title": "Reframing Your Reality: Part 2",
             "entities": {
+                "PERSON": [
+                    "Alia Crum",
+                    "Alia"
+                ],
                 "ORDINAL": [
                     "second",
                     "first"
                 ],
                 "CARDINAL": [
-                    "two",
-                    "here</i></a><i"
-                ],
-                "PERSON": [
-                    "Alia"
+                    "two"
                 ]
             }
         },
@@ -1703,14 +1701,15 @@
             "pubDate": "Mon, 18 Jul 2022 19:00:00 +0000",
             "title": "Reframing Your Reality: Part 1",
             "entities": {
+                "PERSON": [
+                    "Alia Crum",
+                    "Alia"
+                ],
                 "ORDINAL": [
                     "first"
                 ],
                 "CARDINAL": [
                     "two"
-                ],
-                "PERSON": [
-                    "Alia"
                 ]
             }
         },
@@ -1740,14 +1739,15 @@
             "pubDate": "Mon, 11 Jul 2022 21:45:00 +0000",
             "title": "Separating Yourself from the Pack",
             "entities": {
+                "PERSON": [
+                    "Mina Cikara",
+                    "Mina"
+                ],
                 "DATE": [
                     "This week"
                 ],
-                "PERSON": [
-                    "Mina"
-                ],
-                "GPE": [
-                    "Unsung"
+                "PRODUCT": [
+                    "My Unsung Hero"
                 ]
             }
         },
@@ -1780,8 +1780,11 @@
                 "DATE": [
                     "This week"
                 ],
-                "GPE": [
-                    "Unsung"
+                "PERSON": [
+                    "Eranda Jayawickreme"
+                ],
+                "PRODUCT": [
+                    "My Unsung Hero"
                 ]
             }
         },
@@ -1813,6 +1816,7 @@
             "entities": {
                 "PERSON": [
                     "Thomas Jefferson",
+                    "Annette Gordon-Reed",
                     "Jefferson"
                 ],
                 "DATE": [
@@ -1831,11 +1835,13 @@
                     "Independence Day"
                 ],
                 "GPE": [
-                    "the United States",
-                    "Unsung"
+                    "the United States"
                 ],
                 "WORK_OF_ART": [
                     "Pulitzer Prize"
+                ],
+                "PRODUCT": [
+                    "My Unsung Hero"
                 ]
             }
         },
@@ -1873,8 +1879,8 @@
                     "54",
                     "This week"
                 ],
-                "GPE": [
-                    "Unsung"
+                "PRODUCT": [
+                    "My Unsung Hero"
                 ]
             }
         },
@@ -1910,8 +1916,8 @@
                 "PERSON": [
                     "Scott Barry Kaufman"
                 ],
-                "GPE": [
-                    "Unsung"
+                "PRODUCT": [
+                    "My Unsung Hero"
                 ]
             }
         },
@@ -1945,10 +1951,10 @@
                     "one"
                 ],
                 "PERSON": [
-                    "klotz\">Leidy Klotz</a"
+                    "Leidy Klotz"
                 ],
-                "GPE": [
-                    "Unsung"
+                "PRODUCT": [
+                    "My Unsung Hero"
                 ]
             }
         },
@@ -1978,8 +1984,12 @@
             "pubDate": "Mon, 30 May 2022 19:00:00 +0000",
             "title": "Money 2.0: Let's Go Shopping!",
             "entities": {
-                "GPE": [
-                    "Unsung"
+                "ORG": [
+                    "Americus Reed",
+                    "Neeru Paharia"
+                ],
+                "PRODUCT": [
+                    "My Unsung Hero"
                 ]
             }
         },
@@ -2019,8 +2029,8 @@
                     "Sociologist Brook Harrington",
                     "Keith Payne"
                 ],
-                "GPE": [
-                    "Unsung"
+                "PRODUCT": [
+                    "My Unsung Hero"
                 ]
             }
         },
@@ -2055,8 +2065,8 @@
                     "2020",
                     "last week's"
                 ],
-                "GPE": [
-                    "Unsung"
+                "PRODUCT": [
+                    "My Unsung Hero"
                 ]
             }
         },
@@ -2103,8 +2113,11 @@
                 "WORK_OF_ART": [
                     "Money 2.0"
                 ],
-                "GPE": [
-                    "Unsung"
+                "PERSON": [
+                    "Abigail Sussman"
+                ],
+                "PRODUCT": [
+                    "My Unsung Hero"
                 ]
             }
         },
@@ -2143,8 +2156,11 @@
                 "WORK_OF_ART": [
                     "Money 2.0"
                 ],
-                "GPE": [
-                    "Unsung"
+                "PERSON": [
+                    "Brad Klontz"
+                ],
+                "PRODUCT": [
+                    "My Unsung Hero"
                 ]
             }
         },
@@ -2174,6 +2190,9 @@
             "pubDate": "Mon, 25 Apr 2022 21:45:00 +0000",
             "title": "The Logic of Rage",
             "entities": {
+                "PERSON": [
+                    "Doug Fields"
+                ],
                 "LOC": [
                     "Europe"
                 ],
@@ -2181,8 +2200,8 @@
                     "This week",
                     "2020"
                 ],
-                "GPE": [
-                    "Unsung"
+                "PRODUCT": [
+                    "My Unsung Hero"
                 ]
             }
         },
@@ -2216,8 +2235,10 @@
                     "This week"
                 ],
                 "GPE": [
-                    "Detroit",
-                    "Unsung"
+                    "Detroit"
+                ],
+                "PRODUCT": [
+                    "My Unsung Hero"
                 ]
             }
         },
@@ -2250,8 +2271,11 @@
                 "DATE": [
                     "2020"
                 ],
-                "GPE": [
-                    "Unsung"
+                "PERSON": [
+                    "Timur Kuran"
+                ],
+                "PRODUCT": [
+                    "My Unsung Hero"
                 ]
             }
         },
@@ -2281,11 +2305,11 @@
             "pubDate": "Mon, 11 Apr 2022 20:25:00 +0000",
             "title": "How Rude!",
             "entities": {
-                "ORG": [
-                    "href=\"https://gufaculty360.georgetown.edu"
+                "PERSON": [
+                    "Christine Porath"
                 ],
-                "GPE": [
-                    "Unsung"
+                "PRODUCT": [
+                    "My Unsung Hero"
                 ]
             }
         },
@@ -2321,8 +2345,8 @@
                 "PERSON": [
                     "Lucy Hone"
                 ],
-                "GPE": [
-                    "Unsung"
+                "PRODUCT": [
+                    "My Unsung Hero"
                 ]
             }
         },
@@ -2355,8 +2379,8 @@
                 "DATE": [
                     "This week"
                 ],
-                "GPE": [
-                    "Unsung"
+                "PRODUCT": [
+                    "My Unsung Hero"
                 ]
             }
         },
@@ -2386,11 +2410,14 @@
             "pubDate": "Mon, 21 Mar 2022 18:50:00 +0000",
             "title": "How to Change the World",
             "entities": {
+                "PERSON": [
+                    "Erica Chenoweth"
+                ],
                 "DATE": [
                     "more than 100 years"
                 ],
-                "GPE": [
-                    "Unsung"
+                "PRODUCT": [
+                    "My Unsung Hero"
                 ]
             }
         },
@@ -2427,8 +2454,8 @@
                 "CARDINAL": [
                     "about one"
                 ],
-                "GPE": [
-                    "Unsung"
+                "PRODUCT": [
+                    "My Unsung Hero"
                 ]
             }
         },
@@ -2459,11 +2486,13 @@
             "title": "The Benefits of Mixed Emotions",
             "entities": {
                 "ORG": [
-                    "COVID-19",
-                    "href=\"https://business.lehigh.edu"
+                    "COVID-19"
                 ],
-                "GPE": [
-                    "Unsung"
+                "PERSON": [
+                    "Naomi Rothman"
+                ],
+                "PRODUCT": [
+                    "My Unsung Hero"
                 ]
             }
         },
@@ -2493,9 +2522,11 @@
             "pubDate": "Mon, 7 Mar 2022 19:00:00 +0000",
             "title": "Putting Our Assumptions to the Test",
             "entities": {
-                "GPE": [
-                    "href=\"https://economics.mit.edu",
-                    "Unsung"
+                "PERSON": [
+                    "Abhijit Banerjee"
+                ],
+                "PRODUCT": [
+                    "My Unsung Hero"
                 ]
             }
         },
@@ -2534,8 +2565,8 @@
                 "PERSON": [
                     "Deborah Tannen"
                 ],
-                "GPE": [
-                    "Unsung"
+                "PRODUCT": [
+                    "My Unsung Hero"
                 ]
             }
         },
@@ -2573,11 +2604,8 @@
                     "weekly",
                     "Every week"
                 ],
-                "GPE": [
-                    "href=\"https://www.santafe.edu"
-                ],
                 "PERSON": [
-                    "sam-bowles\">Sam Bowles</a"
+                    "Sam Bowles"
                 ]
             }
         },
@@ -2610,11 +2638,14 @@
                 "WORK_OF_ART": [
                     "Mind Reading 2.0"
                 ],
+                "PERSON": [
+                    "Emily Pronin"
+                ],
                 "CARDINAL": [
                     "one"
                 ],
-                "GPE": [
-                    "Unsung"
+                "PRODUCT": [
+                    "My Unsung Hero"
                 ]
             }
         },
@@ -2649,16 +2680,14 @@
                     "second"
                 ],
                 "PERSON": [
-                    "boothby/\">Erica Boothby</a"
+                    "Erica Boothby"
                 ],
                 "PRODUCT": [
-                    "Mind Reading"
+                    "Mind Reading",
+                    "My Unsung Hero"
                 ],
                 "CARDINAL": [
                     "2.0"
-                ],
-                "GPE": [
-                    "Unsung"
                 ]
             }
         },
@@ -2688,11 +2717,14 @@
             "pubDate": "Mon, 31 Jan 2022 20:00:00 +0000",
             "title": "Mind Reading 2.0: Why did you do that?",
             "entities": {
+                "PERSON": [
+                    "Liane Young"
+                ],
                 "DATE": [
                     "This week"
                 ],
-                "GPE": [
-                    "Unsung"
+                "PRODUCT": [
+                    "My Unsung Hero"
                 ]
             }
         },
@@ -2721,7 +2753,11 @@
             "link": "https://hidden-brain.simplecast.com/episodes/my-unsung-hero-sanaa-kerroumi-gMhURorB",
             "pubDate": "Fri, 28 Jan 2022 20:10:00 +0000",
             "title": "My Unsung Hero: Sanaa Kerroumi's Story",
-            "entities": {}
+            "entities": {
+                "GPE": [
+                    "myunsunghero@hiddenbrain.org"
+                ]
+            }
         },
         {
             "author": "business@hiddenbrain.org (Hidden Brain Media)",
@@ -2756,8 +2792,11 @@
                 "CARDINAL": [
                     "2020"
                 ],
-                "GPE": [
-                    "Unsung"
+                "PERSON": [
+                    "William Irvine"
+                ],
+                "PRODUCT": [
+                    "My Unsung Hero"
                 ]
             }
         },
@@ -2787,8 +2826,11 @@
             "pubDate": "Mon, 17 Jan 2022 20:15:00 +0000",
             "title": "What Makes Relationships Thrive",
             "entities": {
-                "GPE": [
-                    "Unsung"
+                "PERSON": [
+                    "Harry Reis"
+                ],
+                "PRODUCT": [
+                    "My Unsung Hero"
                 ]
             }
         },
@@ -2825,6 +2867,13 @@
                 ],
                 "PERSON": [
                     "Wendy"
+                ],
+                "ORG": [
+                    "the My Unsung Hero",
+                    "Apple"
+                ],
+                "GPE": [
+                    "Spotify"
                 ]
             }
         },
@@ -2858,12 +2907,16 @@
                     "Black Americans"
                 ],
                 "GPE": [
-                    "U.S.",
-                    "Unsung"
+                    "U.S."
                 ],
                 "ORG": [
-                    "Yale",
-                    "Atiba"
+                    "Yale"
+                ],
+                "PERSON": [
+                    "Phillip Atiba Goff"
+                ],
+                "PRODUCT": [
+                    "My Unsung Hero"
                 ]
             }
         },
@@ -2893,14 +2946,11 @@
             "pubDate": "Mon, 3 Jan 2022 19:20:00 +0000",
             "title": "Choose Carefully",
             "entities": {
-                "ORG": [
-                    "cbs"
-                ],
                 "PERSON": [
-                    "ejj3\">Eric Johnson</a"
+                    "Eric Johnson"
                 ],
-                "GPE": [
-                    "Unsung"
+                "PRODUCT": [
+                    "My Unsung Hero"
                 ]
             }
         },
@@ -2937,10 +2987,10 @@
                     "2019"
                 ],
                 "PERSON": [
-                    "wendy-wood\">Wendy"
+                    "Wendy Wood"
                 ],
-                "GPE": [
-                    "Unsung"
+                "PRODUCT": [
+                    "My Unsung Hero"
                 ]
             }
         },
@@ -3002,11 +3052,13 @@
             "title": "Bringing Up Baby",
             "entities": {
                 "GPE": [
-                    "Bababa",
-                    "Unsung"
+                    "Bababa"
                 ],
                 "DATE": [
                     "This week"
+                ],
+                "PRODUCT": [
+                    "My Unsung Hero"
                 ]
             }
         },
@@ -3037,10 +3089,10 @@
             "title": "The Psychology of Self-Doubt",
             "entities": {
                 "PERSON": [
-                    "kevin_cokley\">Kevin Cokley</a"
+                    "Kevin Cokley"
                 ],
-                "GPE": [
-                    "Unsung"
+                "PRODUCT": [
+                    "My Unsung Hero"
                 ]
             }
         },
@@ -3075,6 +3127,12 @@
                 ],
                 "CARDINAL": [
                     "two"
+                ],
+                "PRODUCT": [
+                    "My Unsung Hero"
+                ],
+                "GPE": [
+                    "myunsunghero@hiddenbrain.org"
                 ]
             }
         },
@@ -3107,8 +3165,8 @@
                 "DATE": [
                     "This week"
                 ],
-                "GPE": [
-                    "Unsung"
+                "PRODUCT": [
+                    "My Unsung Hero"
                 ]
             }
         },
@@ -3145,10 +3203,10 @@
                     "2.0"
                 ],
                 "PERSON": [
-                    "bloom\">Nicholas Bloom</a"
+                    "Nicholas Bloom"
                 ],
-                "GPE": [
-                    "Unsung"
+                "PRODUCT": [
+                    "My Unsung Hero"
                 ]
             }
         },
@@ -3223,8 +3281,8 @@
                 "ORG": [
                     "Francesca"
                 ],
-                "GPE": [
-                    "Unsung"
+                "PRODUCT": [
+                    "My Unsung Hero"
                 ]
             }
         },
@@ -3259,7 +3317,10 @@
                     "This week"
                 ],
                 "PERSON": [
-                    "Newport</a"
+                    "Cal Newport"
+                ],
+                "PRODUCT": [
+                    "My Unsung Hero"
                 ]
             }
         },
@@ -3336,7 +3397,7 @@
                     "2.0"
                 ],
                 "PERSON": [
-                    "emollick/\">Ethan Mollick</a"
+                    "Ethan Mollick"
                 ]
             }
         },
@@ -3366,7 +3427,11 @@
             "link": "https://hidden-brain.simplecast.com/episodes/work-2-0-the-obstacles-you-dont-see-9Gp4ULwU",
             "pubDate": "Mon, 1 Nov 2021 18:00:00 +0000",
             "title": "Work 2.0: The Obstacles You Don't See",
-            "entities": {}
+            "entities": {
+                "PERSON": [
+                    "Loran Nordgren"
+                ]
+            }
         },
         {
             "author": "business@hiddenbrain.org (Hidden Brain Media)",
@@ -3516,7 +3581,11 @@
             "link": "https://hiddenbrain.org/podcast/being-kind-to-yourself/",
             "pubDate": "Mon, 11 Oct 2021 18:00:00 +0000",
             "title": "Being Kind to Yourself",
-            "entities": {}
+            "entities": {
+                "PERSON": [
+                    "Kristin Neff"
+                ]
+            }
         },
         {
             "author": "business@hiddenbrain.org (Hidden Brain Media)",
@@ -3547,7 +3616,7 @@
             "entities": {
                 "ORG": [
                     "My Unsung Hero",
-                    "My Unsung Hero <"
+                    "My Unsung Hero"
                 ],
                 "CARDINAL": [
                     "one"
@@ -3636,6 +3705,9 @@
                 "DATE": [
                     "2020"
                 ],
+                "PERSON": [
+                    "Eitan Hersh"
+                ],
                 "GPE": [
                     "the United States"
                 ]
@@ -3668,6 +3740,9 @@
             "pubDate": "Fri, 24 Sep 2021 15:40:00 +0000",
             "title": "Introducing My Unsung Hero",
             "entities": {
+                "PERSON": [
+                    "Hidden Brain"
+                ],
                 "DATE": [
                     "years",
                     "Each week"
@@ -3705,8 +3780,7 @@
             "title": "Group Think",
             "entities": {
                 "PERSON": [
-                    "jay-van-bavel.html\">Jay",
-                    "Van Bavel</a"
+                    "Jay Van Bavel"
                 ]
             }
         },
@@ -3737,11 +3811,8 @@
             "pubDate": "Mon, 13 Sep 2021 20:28:00 +0000",
             "title": "Just Sex",
             "entities": {
-                "ORG": [
-                    "href=\"https://liberalarts.tulane.edu"
-                ],
                 "PERSON": [
-                    "lisa-wade\">Lisa",
+                    "Lisa Wade",
                     "Wade"
                 ],
                 "DATE": [
@@ -3778,6 +3849,9 @@
             "pubDate": "Mon, 6 Sep 2021 18:11:25 +0000",
             "title": "Where Happiness Hides",
             "entities": {
+                "PERSON": [
+                    "Sonja Lyubomirsky"
+                ],
                 "DATE": [
                     "This week"
                 ]
@@ -3859,6 +3933,9 @@
             "entities": {
                 "DATE": [
                     "This week"
+                ],
+                "PERSON": [
+                    "Ayanna Thomas"
                 ]
             }
         },
@@ -3894,9 +3971,6 @@
                 ],
                 "DATE": [
                     "summer"
-                ],
-                "PERSON": [
-                    "less</em"
                 ]
             }
         },
@@ -3963,8 +4037,10 @@
                     "2.0"
                 ],
                 "ORG": [
-                    "Cornell University",
-                    "Burrow</a"
+                    "Cornell University"
+                ],
+                "PERSON": [
+                    "Anthony Burrow"
                 ]
             }
         },
@@ -4037,11 +4113,8 @@
                 "DATE": [
                     "week"
                 ],
-                "ORG": [
-                    "href=\"https://barnard.edu"
-                ],
                 "PERSON": [
-                    "-sian-leah-beilock\">Sian"
+                    "Sian Beilock"
                 ]
             }
         },
@@ -4110,6 +4183,9 @@
                 "DATE": [
                     "this year",
                     "a few weeks"
+                ],
+                "PERSON": [
+                    "Katy Milkman"
                 ]
             }
         },
@@ -4140,9 +4216,6 @@
             "pubDate": "Mon, 28 Jun 2021 20:55:00 +0000",
             "title": "The Influence You Have",
             "entities": {
-                "PERSON": [
-                    "you</em"
-                ],
                 "DATE": [
                     "This week"
                 ]
@@ -4181,6 +4254,9 @@
                 ],
                 "CARDINAL": [
                     "two"
+                ],
+                "PERSON": [
+                    "Nancy Segal"
                 ]
             }
         },
@@ -4213,6 +4289,9 @@
             "entities": {
                 "CARDINAL": [
                     "two"
+                ],
+                "PERSON": [
+                    "Tyler Okimoto"
                 ]
             }
         },
@@ -4249,8 +4328,8 @@
                 "CARDINAL": [
                     "two"
                 ],
-                "GPE": [
-                    "href=\"https://hope.edu"
+                "PERSON": [
+                    "Charlotte Witvliet"
                 ]
             }
         },
@@ -4284,8 +4363,9 @@
                 "DATE": [
                     "Today"
                 ],
-                "NORP": [
-                    "Mathematician"
+                "PERSON": [
+                    "Mathematician Joseph Mazur",
+                    "Nicholas Epley"
                 ]
             }
         },
@@ -4347,7 +4427,11 @@
             "link": "https://hidden-brain.simplecast.com/episodes/why-we-hold-on-to-things-HKzWA8FO",
             "pubDate": "Mon, 31 May 2021 14:00:00 +0000",
             "title": "Why We Hold on to Things",
-            "entities": {}
+            "entities": {
+                "PERSON": [
+                    "Bruce Hood"
+                ]
+            }
         },
         {
             "author": "business@hiddenbrain.org (Hidden Brain Media)",
@@ -4383,6 +4467,9 @@
                 "DATE": [
                     "This week",
                     "2015"
+                ],
+                "PRODUCT": [
+                    "A Slight Change of Plans"
                 ]
             }
         },
@@ -4452,7 +4539,8 @@
             "title": "Our Noisy Minds",
             "entities": {
                 "PERSON": [
-                    "home\">Daniel Kahneman</a"
+                    "Daniel Kahneman",
+                    "Hidden Brain"
                 ],
                 "DATE": [
                     "This week"
@@ -4488,6 +4576,9 @@
             "entities": {
                 "DATE": [
                     "This week"
+                ],
+                "PERSON": [
+                    "Hidden Brain"
                 ]
             }
         },
@@ -4569,6 +4660,9 @@
                 "DATE": [
                     "2019"
                 ],
+                "PERSON": [
+                    "Hidden Brain"
+                ],
                 "NORP": [
                     "Western"
                 ]
@@ -4601,11 +4695,12 @@
             "pubDate": "Fri, 30 Apr 2021 19:38:38 +0000",
             "title": "Deb Pierce: My Unsung Hero",
             "entities": {
+                "PERSON": [
+                    "Hidden Brain",
+                    "Deb Pierce"
+                ],
                 "DATE": [
                     "This week"
-                ],
-                "PERSON": [
-                    "Deb Pierce"
                 ],
                 "CARDINAL": [
                     "one"
@@ -4640,7 +4735,7 @@
             "title": "Why Conversations Go Wrong",
             "entities": {
                 "PERSON": [
-                    "href=\"http://www.deborahtannen.com/\">Deborah Tannen</a"
+                    "Deborah Tannen"
                 ]
             }
         },
@@ -4671,6 +4766,9 @@
             "pubDate": "Fri, 23 Apr 2021 20:10:19 +0000",
             "title": "Unsung Hero: A Cold Nevada Night",
             "entities": {
+                "PERSON": [
+                    "Hidden Brain"
+                ],
                 "GPE": [
                     "Unsung"
                 ],
@@ -4707,7 +4805,8 @@
             "title": "Humor Us",
             "entities": {
                 "PERSON": [
-                    "Hahaha"
+                    "Hahaha",
+                    "Jennifer Aaker"
                 ],
                 "DATE": [
                     "four-year-old",
@@ -4763,6 +4862,9 @@
                 "LANGUAGE": [
                     "Spanish"
                 ],
+                "PERSON": [
+                    "Nancy Bristow"
+                ],
                 "ORG": [
                     "COVID-19",
                     "Bristow"
@@ -4809,6 +4911,9 @@
                 ],
                 "GPE": [
                     "Dallas"
+                ],
+                "WORK_OF_ART": [
+                    "Useful Delusions"
                 ]
             }
         },
@@ -4841,6 +4946,9 @@
             "entities": {
                 "DATE": [
                     "This week"
+                ],
+                "PERSON": [
+                    "Hidden Brain"
                 ],
                 "CARDINAL": [
                     "three"
@@ -4920,7 +5028,7 @@
                 ],
                 "PERSON": [
                     "Hidden Brain",
-                    "Tania Lombrozo</a"
+                    "Tania Lombrozo"
                 ],
                 "CARDINAL": [
                     "three"
@@ -4996,6 +5104,9 @@
             "entities": {
                 "DATE": [
                     "Today"
+                ],
+                "PERSON": [
+                    "Damon Centola"
                 ]
             }
         },
@@ -5026,6 +5137,9 @@
             "pubDate": "Fri, 26 Feb 2021 17:56:54 +0000",
             "title": "The Match",
             "entities": {
+                "PERSON": [
+                    "Hidden Brain"
+                ],
                 "DATE": [
                     "Today"
                 ],
@@ -5064,6 +5178,9 @@
                 "DATE": [
                     "This week",
                     "2018"
+                ],
+                "PERSON": [
+                    "Azim Shariff"
                 ],
                 "NORP": [
                     "Darwinian"
@@ -5169,6 +5286,9 @@
             "entities": {
                 "DATE": [
                     "This week"
+                ],
+                "PERSON": [
+                    "Claude Steele"
                 ]
             }
         },
@@ -5201,7 +5321,8 @@
             "entities": {
                 "PERSON": [
                     "Richard Feynman",
-                    "grantad/\">Adam Grant</a"
+                    "Hidden Brain",
+                    "Adam Grant"
                 ],
                 "ORDINAL": [
                     "first"
@@ -5211,9 +5332,6 @@
                 ],
                 "DATE": [
                     "This week"
-                ],
-                "ORG": [
-                    "href=\"https://mgmt.wharton.upenn.edu"
                 ]
             }
         },
@@ -5249,6 +5367,9 @@
                 ],
                 "DATE": [
                     "This week"
+                ],
+                "PERSON": [
+                    "Paul Slovic"
                 ]
             }
         },
@@ -5282,6 +5403,9 @@
                 "DATE": [
                     "This week",
                     "2019"
+                ],
+                "ORG": [
+                    "Americus Reed"
                 ]
             }
         },
@@ -5314,6 +5438,10 @@
             "entities": {
                 "DATE": [
                     "This week"
+                ],
+                "PERSON": [
+                    "Hidden Brain",
+                    "Michael Slepian"
                 ]
             }
         },
@@ -5346,6 +5474,7 @@
             "entities": {
                 "PERSON": [
                     "Emily Pronin",
+                    "Hidden Brain",
                     "Pronin"
                 ],
                 "DATE": [
@@ -5424,6 +5553,9 @@
                     "the end of 2020",
                     "this difficult year",
                     "This week"
+                ],
+                "PERSON": [
+                    "Hidden Brain"
                 ]
             }
         },
@@ -5460,8 +5592,8 @@
                     "This week"
                 ],
                 "PERSON": [
-                    "William Irvine",
-                    "misfortune.</p"
+                    "Hidden Brain",
+                    "William Irvine"
                 ]
             }
         },
@@ -5498,6 +5630,9 @@
                 "DATE": [
                     "This week",
                     "2019"
+                ],
+                "PERSON": [
+                    "Hidden Brain"
                 ]
             }
         },
@@ -5532,6 +5667,7 @@
                     "This week"
                 ],
                 "PERSON": [
+                    "Hidden Brain",
                     "Timur Kuran"
                 ]
             }
@@ -5567,6 +5703,7 @@
                     "This week"
                 ],
                 "PERSON": [
+                    "Hidden Brain",
                     "David DeSteno"
                 ]
             }
@@ -5683,7 +5820,8 @@
                     "2017"
                 ],
                 "GPE": [
-                    "Hollywood"
+                    "Hollywood",
+                    "Tanzania"
                 ],
                 "ORG": [
                     "the White House"
@@ -5837,7 +5975,8 @@
             "title": "The Logic of Rage",
             "entities": {
                 "PERSON": [
-                    "Doug Fields"
+                    "Doug Fields",
+                    "Hidden Brain"
                 ],
                 "LOC": [
                     "Europe"
@@ -5944,6 +6083,7 @@
             "title": "The Halo Effect",
             "entities": {
                 "PERSON": [
+                    "Judy",
                     "Lyn",
                     "Donna Ulrich",
                     "Hidden Brain"
@@ -6266,9 +6406,6 @@
                 "DATE": [
                     "This week",
                     "2018"
-                ],
-                "PERSON": [
-                    "box.</p"
                 ]
             }
         },
@@ -6307,9 +6444,6 @@
                     "Gail Shepherd",
                     "Shepherd",
                     "Shepherd"
-                ],
-                "WORK_OF_ART": [
-                    "The True History of Lyndie B. Hawkin</em"
                 ],
                 "LOC": [
                     "South",
@@ -6353,10 +6487,8 @@
                     "2018"
                 ],
                 "GPE": [
-                    "Budapest"
-                ],
-                "PERSON": [
-                    "Rwanda.</p"
+                    "Budapest",
+                    "Rwanda"
                 ]
             }
         },
@@ -6392,7 +6524,8 @@
                 ],
                 "PERSON": [
                     "Fred Clay",
-                    "Fred"
+                    "Fred",
+                    "Hidden Brain"
                 ],
                 "GPE": [
                     "Boston"
@@ -6529,8 +6662,8 @@
                 "NORP": [
                     "Americans"
                 ],
-                "GPE": [
-                    "Olutosin"
+                "PERSON": [
+                    "Olutosin Oduwole"
                 ]
             }
         },
@@ -6567,9 +6700,6 @@
                 "DATE": [
                     "this week",
                     "2017"
-                ],
-                "ORG": [
-                    "&quot;bad apples&quot"
                 ]
             }
         },
@@ -6640,7 +6770,6 @@
             "entities": {
                 "PERSON": [
                     "Peter Singer",
-                    "Singer",
                     "Singer"
                 ],
                 "DATE": [
@@ -6794,6 +6923,9 @@
             "pubDate": "Wed, 13 May 2020 18:51:27 +0000",
             "title": "A Hidden Brain Commencement Address",
             "entities": {
+                "PRODUCT": [
+                    "1A"
+                ],
                 "PERSON": [
                     "Shankar Vedantam"
                 ]
@@ -7049,10 +7181,8 @@
             "title": "Close Enough: Living Through Others",
             "entities": {
                 "DATE": [
-                    "This week"
-                ],
-                "CARDINAL": [
-                    "2019.</p"
+                    "This week",
+                    "2019"
                 ]
             }
         },
@@ -7121,6 +7251,9 @@
                 "DATE": [
                     "This week",
                     "2016"
+                ],
+                "PERSON": [
+                    "Hidden Brain"
                 ]
             }
         },
@@ -7229,10 +7362,6 @@
             "pubDate": "Mon, 24 Feb 2020 23:34:27 +0000",
             "title": "The Influence You Have",
             "entities": {
-                "PERSON": [
-                    "you</em",
-                    "quot;egocentric bias,&quot"
-                ],
                 "DATE": [
                     "This week"
                 ]
@@ -7274,7 +7403,7 @@
                     "The Honest Truth About Dishonesty: How We Lie"
                 ],
                 "DATE": [
-                    "March 2017.</p"
+                    "March 2017"
                 ]
             }
         },
@@ -7677,9 +7806,6 @@
             "entities": {
                 "DATE": [
                     "This week"
-                ],
-                "PERSON": [
-                    "quot;hot states&quot"
                 ]
             }
         },
@@ -7818,7 +7944,7 @@
                     "This week"
                 ],
                 "PERSON": [
-                    "Hidden Brain,</em",
+                    "Hidden Brain",
                     "Robert Shiller"
                 ],
                 "WORK_OF_ART": [
@@ -7859,6 +7985,7 @@
                     "2018"
                 ],
                 "PERSON": [
+                    "Hidden Brain",
                     "David Graeber"
                 ]
             }
@@ -7932,9 +8059,6 @@
                 ],
                 "GPE": [
                     "the United States"
-                ],
-                "PERSON": [
-                    "man.</p"
                 ]
             }
         },
@@ -7970,6 +8094,9 @@
                 ],
                 "DATE": [
                     "This week"
+                ],
+                "PERSON": [
+                    "Hidden Brain"
                 ]
             }
         },
@@ -8071,7 +8198,8 @@
             "title": "We're All Gonna Die!",
             "entities": {
                 "PERSON": [
-                    "Sheldon Solomon"
+                    "Sheldon Solomon",
+                    "Hidden Brain"
                 ],
                 "DATE": [
                     "This week"
@@ -8214,12 +8342,12 @@
             "pubDate": "Mon, 19 Aug 2019 20:00:30 +0000",
             "title": "You 2.0: Rebel With A Cause",
             "entities": {
-                "PERSON": [
-                    "quot;positive deviance&quot"
-                ],
                 "DATE": [
                     "This week",
                     "2018"
+                ],
+                "PERSON": [
+                    "Gino"
                 ]
             }
         },
@@ -8262,7 +8390,7 @@
                     "first"
                 ],
                 "PERSON": [
-                    "Ming Kuo.</p"
+                    "Ming Kuo"
                 ]
             }
         },
@@ -8371,10 +8499,8 @@
                     "This week"
                 ],
                 "PERSON": [
-                    "Tali Sharot"
-                ],
-                "FAC": [
-                    "Cailin"
+                    "Tali Sharot",
+                    "Cailin O'Connor"
                 ]
             }
         },
@@ -8407,6 +8533,9 @@
             "entities": {
                 "DATE": [
                     "This week"
+                ],
+                "PERSON": [
+                    "Hidden Brain"
                 ]
             }
         },
@@ -8448,7 +8577,7 @@
                 ],
                 "DATE": [
                     "This week",
-                    "May 2017.</p"
+                    "May 2017"
                 ],
                 "ORDINAL": [
                     "first"
@@ -8523,7 +8652,7 @@
                     "2017",
                     "2018",
                     "This week",
-                    "October 2018.</p"
+                    "October 2018"
                 ],
                 "TIME": [
                     "seconds"
@@ -8564,6 +8693,7 @@
                     "This week"
                 ],
                 "PERSON": [
+                    "Hidden Brain",
                     "Hal Herzog"
                 ]
             }
@@ -8600,7 +8730,8 @@
                     "Virginia"
                 ],
                 "PERSON": [
-                    "Carpenter"
+                    "Carpenter",
+                    "Hidden Brain"
                 ],
                 "DATE": [
                     "This week",
@@ -8679,7 +8810,7 @@
                 "PERSON": [
                     "Hidden Brain",
                     "John Hibbing",
-                    "David Moss.</p"
+                    "David Moss"
                 ],
                 "CARDINAL": [
                     "two"
@@ -8720,8 +8851,8 @@
                     "This week",
                     "2016"
                 ],
-                "ORG": [
-                    "quot;super-recognizers&quot"
+                "PERSON": [
+                    "Hidden Brain"
                 ]
             }
         },
@@ -8984,11 +9115,17 @@
                     "week",
                     "2016"
                 ],
+                "PERSON": [
+                    "Hidden Brain"
+                ],
                 "CARDINAL": [
                     "two"
                 ],
                 "ORG": [
-                    "&quot;Embrace"
+                    "Streets"
+                ],
+                "WORK_OF_ART": [
+                    "Embrace the Chaos"
                 ]
             }
         },
@@ -9049,7 +9186,7 @@
             "entities": {
                 "DATE": [
                     "This week",
-                    "December 2017.</p"
+                    "December 2017"
                 ],
                 "PERSON": [
                     "Hidden Brain"
@@ -9128,18 +9265,14 @@
                 "DATE": [
                     "This week"
                 ],
-                "PERSON": [
-                    "quot;repugnant transactions&quot",
-                    "Al Roth"
-                ],
                 "WORK_OF_ART": [
                     "Nobel"
                 ],
+                "PERSON": [
+                    "Al Roth"
+                ],
                 "CARDINAL": [
                     "one"
-                ],
-                "NORP": [
-                    "another.</p"
                 ]
             }
         },
@@ -9318,12 +9451,7 @@
                     "This week"
                 ],
                 "PERSON": [
-                    "McGilchrist",
-                    "brain&quot",
-                    "https://n.pr/2SxITco</p"
-                ],
-                "GPE": [
-                    "brain&quot"
+                    "McGilchrist"
                 ],
                 "CARDINAL": [
                     "one"
@@ -9450,6 +9578,9 @@
             "entities": {
                 "DATE": [
                     "This week"
+                ],
+                "PERSON": [
+                    "Sophie Scott"
                 ]
             }
         },
@@ -9620,17 +9751,14 @@
                     "Alan Alda"
                 ],
                 "ORG": [
-                    "S*H",
+                    "MAS*H",
                     "Alda"
-                ],
-                "FAC": [
-                    "The West Wing"
                 ],
                 "CARDINAL": [
                     "30"
                 ],
                 "LOC": [
-                    "the Art and Science of Relating"
+                    "the Art and Science of Relating and"
                 ]
             }
         },
@@ -9664,7 +9792,7 @@
                 "DATE": [
                     "This week"
                 ],
-                "PERSON": [
+                "ORG": [
                     "Hidden Brain"
                 ]
             }
@@ -9862,7 +9990,7 @@
                     "This week"
                 ],
                 "PERSON": [
-                    "Raj Chetty.</p"
+                    "Raj Chetty"
                 ]
             }
         },
@@ -9893,11 +10021,11 @@
             "pubDate": "Mon, 5 Nov 2018 23:08:00 +0000",
             "title": "Sounds Like a Winner",
             "entities": {
-                "PERSON": [
-                    "We're"
-                ],
                 "DATE": [
                     "This week"
+                ],
+                "PERSON": [
+                    "Hidden Brain"
                 ]
             }
         },
@@ -9943,6 +10071,9 @@
                 ],
                 "ORDINAL": [
                     "first"
+                ],
+                "GPE": [
+                    "https://n.pr/2OZfuGQ"
                 ]
             }
         },
@@ -9983,6 +10114,9 @@
                 ],
                 "PERSON": [
                     "Brooke Harrington"
+                ],
+                "FAC": [
+                    "https://n.pr/2O8DkdV.\n"
                 ]
             }
         },
@@ -10022,9 +10156,6 @@
                 ],
                 "PRODUCT": [
                     "Royce"
-                ],
-                "ORG": [
-                    "https://n.pr/2AmmiW1.</p"
                 ]
             }
         },
@@ -10060,7 +10191,8 @@
                     "This week"
                 ],
                 "PERSON": [
-                    "Donald Trump's"
+                    "Donald Trump's",
+                    "Hidden Brain"
                 ],
                 "ORG": [
                     "the White House",
@@ -10125,7 +10257,11 @@
             "link": "https://hidden-brain.simplecast.com/episodes/man-up-Vg_hhQhG",
             "pubDate": "Mon, 1 Oct 2018 20:46:10 +0000",
             "title": "\"Man Up\"",
-            "entities": {}
+            "entities": {
+                "PERSON": [
+                    "Hidden Brain"
+                ]
+            }
         },
         {
             "author": "business@hiddenbrain.org (Hidden Brain Media)",
@@ -10272,7 +10408,8 @@
             "entities": {
                 "DATE": [
                     "the past century",
-                    "This week"
+                    "This week",
+                    "more than 30 years"
                 ],
                 "CARDINAL": [
                     "millions"
@@ -10317,6 +10454,7 @@
                     "This week"
                 ],
                 "PERSON": [
+                    "Hidden Brain",
                     "David Graeber"
                 ]
             }
@@ -10350,9 +10488,6 @@
             "entities": {
                 "CARDINAL": [
                     "2.0"
-                ],
-                "GPE": [
-                    "high.</p"
                 ]
             }
         },
@@ -10524,9 +10659,6 @@
             "pubDate": "Tue, 24 Jul 2018 01:00:00 +0000",
             "title": "You 2.0: Rebel With A Cause",
             "entities": {
-                "PERSON": [
-                    "quot;positive deviance&quot"
-                ],
                 "DATE": [
                     "year"
                 ],
@@ -10636,11 +10768,10 @@
             "title": "Snooki and the Handbag",
             "entities": {
                 "PERSON": [
-                    "Jonah Berger",
-                    "other</em"
+                    "Jonah Berger"
                 ],
                 "DATE": [
-                    "December 2016.</p"
+                    "December 2016"
                 ]
             }
         },
@@ -10678,7 +10809,7 @@
                     "This week"
                 ],
                 "PERSON": [
-                    "box.</p"
+                    "Hidden Brain"
                 ]
             }
         },
@@ -10784,6 +10915,7 @@
                 ],
                 "DATE": [
                     "the fall",
+                    "summer",
                     "This week",
                     "2017"
                 ],
@@ -10888,8 +11020,7 @@
             "title": "Kinder-Gardening",
             "entities": {
                 "PERSON": [
-                    "Alison Gopnik",
-                    "kids.</p"
+                    "Alison Gopnik"
                 ],
                 "DATE": [
                     "This week",
@@ -10970,8 +11101,8 @@
                 "NORP": [
                     "American"
                 ],
-                "PERSON": [
-                    "Attention.</p"
+                "ORG": [
+                    "Buying Attention"
                 ]
             }
         },
@@ -11004,9 +11135,6 @@
             "entities": {
                 "DATE": [
                     "This week"
-                ],
-                "NORP": [
-                    "humans.</p"
                 ]
             }
         },
@@ -11088,7 +11216,7 @@
                 ],
                 "DATE": [
                     "This week",
-                    "May 2017.</p"
+                    "May 2017"
                 ],
                 "ORDINAL": [
                     "first"
@@ -11131,7 +11259,6 @@
                     "the Virginia State Colony for Epileptics and Feebleminded"
                 ],
                 "PERSON": [
-                    "moron class.&quot",
                     "Carrie Buck"
                 ],
                 "CARDINAL": [
@@ -11178,6 +11305,10 @@
                 ],
                 "CARDINAL": [
                     "two"
+                ],
+                "WORK_OF_ART": [
+                    "Is He Muslim",
+                    "Hiding Behind Free Speech"
                 ]
             }
         },
@@ -11212,10 +11343,8 @@
                     "Today"
                 ],
                 "GPE": [
-                    "Budapest"
-                ],
-                "PERSON": [
-                    "Rwanda.</p"
+                    "Budapest",
+                    "Rwanda"
                 ]
             }
         },
@@ -11255,7 +11384,7 @@
                     "The Honest Truth About Dishonesty: How We Lie"
                 ],
                 "DATE": [
-                    "March 2017.</p"
+                    "March 2017"
                 ]
             }
         },
@@ -11322,8 +11451,8 @@
                 "DATE": [
                     "This week"
                 ],
-                "ORG": [
-                    "&quot;ewww.&quot"
+                "PERSON": [
+                    "ewww"
                 ]
             }
         },
@@ -11359,9 +11488,6 @@
                 ],
                 "GPE": [
                     "the United States"
-                ],
-                "PERSON": [
-                    "man.</p"
                 ]
             }
         },
@@ -11477,12 +11603,9 @@
                 "NORP": [
                     "American"
                 ],
-                "PERSON": [
-                    "bind&quot"
-                ],
                 "DATE": [
                     "This week",
-                    "October 2016.</p"
+                    "October 2016"
                 ]
             }
         },
@@ -11588,8 +11711,7 @@
                     "This week"
                 ],
                 "PERSON": [
-                    "Hidden Brain",
-                    "less</em"
+                    "Hidden Brain"
                 ]
             }
         },
@@ -11728,11 +11850,8 @@
                     "Alan Alda"
                 ],
                 "ORG": [
-                    "S*H",
+                    "MAS*H",
                     "Alda"
-                ],
-                "FAC": [
-                    "The West Wing"
                 ],
                 "CARDINAL": [
                     "30"
@@ -11741,7 +11860,7 @@
                     "recent years"
                 ],
                 "LOC": [
-                    "the Art and Science of Relating"
+                    "the Art and Science of Relating and"
                 ]
             }
         },
@@ -12066,8 +12185,7 @@
             "title": "Kinder-Gardening",
             "entities": {
                 "PERSON": [
-                    "Alison Gopnik",
-                    "kids.</p"
+                    "Alison Gopnik"
                 ]
             }
         },
@@ -12227,8 +12345,7 @@
                     "April 2017"
                 ],
                 "PERSON": [
-                    "Hidden Brain",
-                    "to</em"
+                    "Hidden Brain"
                 ]
             }
         },
@@ -12407,7 +12524,7 @@
                     "week"
                 ],
                 "FAC": [
-                    "Hidden Brain.</p"
+                    "Hidden Brain"
                 ]
             }
         },
@@ -12472,9 +12589,6 @@
             "entities": {
                 "DATE": [
                     "This week"
-                ],
-                "GPE": [
-                    "high.</p"
                 ]
             }
         },
@@ -12543,7 +12657,7 @@
                 "PERSON": [
                     "Richard Thaler's",
                     "Thaler",
-                    "Nudge,</em"
+                    "Nudge"
                 ],
                 "WORK_OF_ART": [
                     "a Nobel Prize"
@@ -12864,6 +12978,9 @@
                 ],
                 "PERSON": [
                     "Hidden Brain"
+                ],
+                "LOC": [
+                    "Silicon Valley"
                 ]
             }
         },
@@ -12933,7 +13050,8 @@
             "title": "You 2.0: WOOP, There It Is",
             "entities": {
                 "PERSON": [
-                    "Gabriele Oettingen"
+                    "Gabriele Oettingen",
+                    "WOOP"
                 ]
             }
         },
@@ -12968,7 +13086,8 @@
                     "Washington"
                 ],
                 "PERSON": [
-                    "Tim Harford"
+                    "Tim Harford",
+                    "Harford"
                 ],
                 "DATE": [
                     "This week",
@@ -13015,9 +13134,6 @@
                 ],
                 "DATE": [
                     "March 2016"
-                ],
-                "GPE": [
-                    "work.</p"
                 ]
             }
         },
@@ -13095,6 +13211,7 @@
                 ],
                 "DATE": [
                     "the fall",
+                    "summer",
                     "This week"
                 ],
                 "PERSON": [
@@ -13136,7 +13253,7 @@
                     "Kate Darling"
                 ],
                 "FAC": [
-                    "the Aspen Ideas Festival.</p>\n"
+                    "the Aspen Ideas Festival"
                 ]
             }
         },
@@ -13238,7 +13355,7 @@
             "title": "\"Is he Muslim?\"",
             "entities": {
                 "DATE": [
-                    "a five year",
+                    "five year",
                     "2011 to 2016",
                     "This week"
                 ],
@@ -13329,12 +13446,11 @@
             "pubDate": "Tue, 6 Jun 2017 02:07:00 +0000",
             "title": "In The Air We Breathe",
             "entities": {
-                "PERSON": [
-                    "was</em",
-                    "Hidden Brain"
-                ],
                 "DATE": [
                     "This week"
+                ],
+                "PERSON": [
+                    "Hidden Brain"
                 ]
             }
         },
@@ -13369,8 +13485,8 @@
                     "the early 1980s",
                     "Today"
                 ],
-                "PERSON": [
-                    "Atlantic</em"
+                "LOC": [
+                    "Atlantic"
                 ],
                 "ORG": [
                     "Broken Windows"
@@ -13412,7 +13528,6 @@
                 "PERSON": [
                     "Virginias",
                     "Carpenter",
-                    "be</em",
                     "Hidden Brain"
                 ],
                 "DATE": [
@@ -14060,11 +14175,11 @@
                     "World War II"
                 ],
                 "ORG": [
-                    "SS",
-                    "United"
+                    "SS"
                 ],
                 "GPE": [
-                    "St. Louis"
+                    "St. Louis",
+                    "the United States"
                 ]
             }
         },
@@ -14108,10 +14223,8 @@
                 ],
                 "GPE": [
                     "Berkeley",
-                    "California"
-                ],
-                "ORG": [
-                    "the Louisiana bayou.</p>\n"
+                    "California",
+                    "Louisiana"
                 ]
             }
         },
@@ -14149,7 +14262,8 @@
                     "Hidden Brain"
                 ],
                 "GPE": [
-                    "Hollywood"
+                    "Hollywood",
+                    "Tanzania"
                 ],
                 "ORG": [
                     "the White House"
@@ -14227,6 +14341,9 @@
                 ],
                 "PERSON": [
                     "Hidden Brain"
+                ],
+                "LOC": [
+                    "Silicon Valley"
                 ]
             }
         },
@@ -14292,9 +14409,6 @@
             "pubDate": "Tue, 20 Dec 2016 05:00:00 +0000",
             "title": "Encore of Episode 32: The Scientific Process",
             "entities": {
-                "ORG": [
-                    "the &quot;sexiest&quot"
-                ],
                 "DATE": [
                     "this week"
                 ],
@@ -14489,7 +14603,7 @@
                 ],
                 "PERSON": [
                     "Hillary Clinton",
-                    "Allan Lichtman.</p"
+                    "Allan Lichtman"
                 ]
             }
         },
@@ -14559,8 +14673,8 @@
                     "the early 1980s",
                     "Today"
                 ],
-                "PERSON": [
-                    "Atlantic</em"
+                "LOC": [
+                    "Atlantic"
                 ],
                 "ORG": [
                     "Broken Windows"
@@ -14630,14 +14744,12 @@
             "title": "Episode 48: Men: 44, Women: 0",
             "entities": {
                 "DATE": [
-                    "A century"
+                    "A century",
+                    "catch-22"
                 ],
                 "GPE": [
                     "US",
                     "U.S."
-                ],
-                "CARDINAL": [
-                    "catch-22"
                 ],
                 "PERSON": [
                     "Carol Moseley Braun"
@@ -14897,7 +15009,7 @@
             "entities": {
                 "PERSON": [
                     "Dacher Keltner",
-                    "Lose Influence.</em></p"
+                    "Lose Influence"
                 ],
                 "ORG": [
                     "UC Berkeley"
@@ -15190,7 +15302,10 @@
                     "Jean Twenge"
                 ],
                 "ORG": [
-                    "The Narcissism Epidemi</em"
+                    "The Narcissism Epidemic"
+                ],
+                "PRODUCT": [
+                    "Generation Me"
                 ]
             }
         },
@@ -15482,7 +15597,6 @@
                     "NINE"
                 ],
                 "PERSON": [
-                    "quot;dynamic pricing&quot",
                     "Uber",
                     "Keith Chen"
                 ]
@@ -15516,7 +15630,8 @@
             "title": "Episode 30: WOOP, There It Is",
             "entities": {
                 "PERSON": [
-                    "Gabriele Oettingen"
+                    "Gabriele Oettingen",
+                    "WOOP"
                 ]
             }
         },
@@ -15725,9 +15840,6 @@
                 ],
                 "DATE": [
                     "This week"
-                ],
-                "GPE": [
-                    "work.</p"
                 ]
             }
         },
@@ -15839,10 +15951,8 @@
                     "Master of None"
                 ],
                 "ORG": [
+                    "Modern Romance",
                     "Tinder"
-                ],
-                "NORP": [
-                    "jam.</p"
                 ]
             }
         },
@@ -16003,11 +16113,9 @@
             "entities": {
                 "PERSON": [
                     "Shankar Vedantam",
-                    "&quot;almosts&quot",
-                    "quites&quot",
                     "Monica Wadhwa",
                     "Dan Pink",
-                    "Kacey Musgraves.</p"
+                    "Kacey Musgraves"
                 ]
             }
         },
@@ -16112,7 +16220,8 @@
             "entities": {
                 "PERSON": [
                     "Shankar Vedantam",
-                    "Richard Thaler"
+                    "Richard Thaler",
+                    "Misbehaving"
                 ]
             }
         },
@@ -16211,13 +16320,11 @@
             "title": "Episode 14: Christmas",
             "entities": {
                 "DATE": [
+                    "the time of year",
                     "This week"
                 ],
                 "FAC": [
                     "Hidden Brain"
-                ],
-                "PERSON": [
-                    "actually</em"
                 ]
             }
         },
@@ -16369,7 +16476,6 @@
             "title": "Episode 10: Thanksgiving",
             "entities": {
                 "PERSON": [
-                    "love&quot",
                     "Hidden Brain"
                 ]
             }
@@ -16407,10 +16513,8 @@
                 ],
                 "ORG": [
                     "Netflix",
+                    "Modern Romance",
                     "Tinder"
-                ],
-                "NORP": [
-                    "jam.</p"
                 ]
             }
         },
@@ -16555,6 +16659,9 @@
             "entities": {
                 "DATE": [
                     "week"
+                ],
+                "PERSON": [
+                    "Hidden Brain"
                 ]
             }
         },
@@ -16685,11 +16792,9 @@
             "entities": {
                 "PERSON": [
                     "Shankar Vedantam",
-                    "&quot;almosts&quot",
-                    "quites&quot",
                     "Monica Wadhwa",
                     "Dan Pink",
-                    "Kacey Musgraves.</p"
+                    "Kacey Musgraves"
                 ]
             }
         },
@@ -16723,8 +16828,11 @@
                 "ORDINAL": [
                     "first"
                 ],
+                "ORG": [
+                    "Hidden Brain"
+                ],
                 "PERSON": [
-                    "Adam Cole.</p"
+                    "Adam Cole"
                 ]
             }
         },

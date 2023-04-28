@@ -429,9 +429,6 @@
             "entities": {
                 "ORG": [
                     "IRS"
-                ],
-                "NORP": [
-                    "yourself?</strong></p"
                 ]
             }
         },
@@ -491,8 +488,7 @@
             "title": "#35 Alas Para Volar",
             "entities": {
                 "GPE": [
-                    "Cuba",
-                    "n\u2019t easy.</p"
+                    "Cuba"
                 ],
                 "ORG": [
                     "machismo"
@@ -526,11 +522,12 @@
             "pubDate": "Wed, 25 Jan 2017 02:31:21 -0000",
             "title": "#34 Pies Secos, Pies Mojados",
             "entities": {
+                "WORK_OF_ART": [
+                    "Pies Secos",
+                    "Wet Foot, Dry Foot"
+                ],
                 "PERSON": [
                     "Pies Mojados"
-                ],
-                "WORK_OF_ART": [
-                    "Wet Foot, Dry Foot"
                 ],
                 "GPE": [
                     "U.S.",
@@ -569,6 +566,7 @@
             "title": "#33 No Es F\u00e1cil",
             "entities": {
                 "GPE": [
+                    "Cuba",
                     "Cuba"
                 ],
                 "ORDINAL": [
@@ -576,9 +574,6 @@
                 ],
                 "CARDINAL": [
                     "four"
-                ],
-                "ORG": [
-                    "Cuba.</p"
                 ]
             }
         },
@@ -645,7 +640,11 @@
             "link": "https://beta.prx.org/stories/255756",
             "pubDate": "Wed, 07 Dec 2016 12:15:31 -0000",
             "title": "#31 Three Turkeys and Some Egg Rolls",
-            "entities": {}
+            "entities": {
+                "DATE": [
+                    "an election year"
+                ]
+            }
         },
         {
             "categories": [
@@ -954,7 +953,11 @@
             "link": "https://beta.prx.org/stories/255766",
             "pubDate": "Wed, 06 Jul 2016 13:37:28 -0000",
             "title": "#21 Moving Out",
-            "entities": {}
+            "entities": {
+                "DATE": [
+                    "20s"
+                ]
+            }
         },
         {
             "categories": [
@@ -1463,9 +1466,6 @@
                 ],
                 "GPE": [
                     "New York City"
-                ],
-                "PERSON": [
-                    "job.</p"
                 ]
             }
         },
@@ -1620,8 +1620,8 @@
             "pubDate": "Fri, 16 Jan 2015 21:36:03 -0000",
             "title": "#1 Welcome To Millennial",
             "entities": {
-                "ORG": [
-                    "Megan"
+                "PERSON": [
+                    "Megan Tan"
                 ]
             }
         }
@@ -1677,8 +1677,8 @@
             "Radiotopia",
             "PRX"
         ],
-        "NORP": [
-            "radiotopia.fm.</p"
+        "PERSON": [
+            "Learn"
         ]
     }
 }

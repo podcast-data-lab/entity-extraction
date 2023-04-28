@@ -36,6 +36,10 @@
             "pubDate": "Fri, 21 Apr 2023 18:54:34 -0000",
             "title": "Reality is that which, when you stop laughing at it, doesn't go away (false alarm Elon Musk 4202023 remix) ",
             "entities": {
+                "CARDINAL": [
+                    "One",
+                    "only one"
+                ],
                 "LOC": [
                     "False Alarm"
                 ],
@@ -45,14 +49,11 @@
                 ],
                 "PERSON": [
                     "Elon Musk",
-                    "Oligarchic",
-                    "Elon Musk.</em></p"
+                    "Oligarchic"
                 ],
                 "PRODUCT": [
-                    "Twitter"
-                ],
-                "CARDINAL": [
-                    "only one"
+                    "Twitter",
+                    "Elon Musk"
                 ]
             }
         },
@@ -88,7 +89,7 @@
                     "Stormy Daniels",
                     "TOE",
                     "Benjamen Walker\u2019s",
-                    "Stormy"
+                    "Stormy Daniels"
                 ],
                 "CARDINAL": [
                     "15"
@@ -149,8 +150,7 @@
                     "Hollywood"
                 ],
                 "PERSON": [
-                    "Deep Throat",
-                    "myth</em"
+                    "Deep Throat"
                 ],
                 "ORG": [
                     "Washington Post"
@@ -185,8 +185,7 @@
             "title": "Lives of the Wives ",
             "entities": {
                 "PERSON": [
-                    "Carmela Ciuraru\u2019s",
-                    "Wives</em"
+                    "Carmela Ciuraru\u2019s"
                 ],
                 "CARDINAL": [
                     "about her",
@@ -233,8 +232,7 @@
                     "Jefferson Morley",
                     "Richard Helms",
                     "James Bond",
-                    "Howard Hunt.</p",
-                    "books/9781250275837",
+                    "Howard Hunt",
                     "Sylvia Press\u2019s"
                 ],
                 "DATE": [
@@ -274,6 +272,10 @@
             "entities": {
                 "CARDINAL": [
                     "two"
+                ],
+                "PERSON": [
+                    "George Prochnik",
+                    "George Foy"
                 ]
             }
         },
@@ -348,7 +350,7 @@
             "title": "Not going back to normal  (a conversation with Jeremiah Moss author of Feral City)",
             "entities": {
                 "GPE": [
-                    "City</em",
+                    "Feral City",
                     "New York"
                 ],
                 "PERSON": [
@@ -361,6 +363,9 @@
                 ],
                 "DATE": [
                     "2022"
+                ],
+                "NORP": [
+                    "https://on.prx.org/3NT1g5"
                 ]
             }
         },
@@ -430,6 +435,10 @@
             "pubDate": "Wed, 28 Sep 2022 18:59:34 -0000",
             "title": "Risky Business: Hollywood and Israel",
             "entities": {
+                "GPE": [
+                    "Hollywood",
+                    "Israel"
+                ],
                 "PERSON": [
                     "Tony Shaw",
                     "Giora Goodman",
@@ -461,11 +470,12 @@
             "pubDate": "Mon, 12 Sep 2022 15:17:29 -0000",
             "title": "Performance Peace (reprise)",
             "entities": {
+                "CARDINAL": [
+                    "911",
+                    "911"
+                ],
                 "PERSON": [
                     "George Bush"
-                ],
-                "CARDINAL": [
-                    "911"
                 ],
                 "MONEY": [
                     "150,000"
@@ -537,20 +547,22 @@
                     "Hungarians",
                     "Russian"
                 ],
+                "GPE": [
+                    "Budapest",
+                    "Hungary",
+                    "America",
+                    "Ukraine"
+                ],
                 "DATE": [
                     "November of 1956",
                     "1956"
                 ],
-                "GPE": [
-                    "Hungary",
-                    "America"
-                ],
                 "CARDINAL": [
-                    "thousands",
-                    "target=\"_blank\">Branko"
+                    "thousands"
                 ],
-                "ORG": [
-                    "href=\"http://rekapigniczky.com"
+                "PERSON": [
+                    "R\u00e9ka Pigniczky",
+                    "Branko Marcetic"
                 ],
                 "EVENT": [
                     "the Hungarian revolution"
@@ -626,16 +638,17 @@
             "pubDate": "Tue, 14 Jun 2022 18:51:39 -0000",
             "title": "revisiting Dark Karma",
             "entities": {
+                "GPE": [
+                    "G.S.",
+                    "Bozeman",
+                    "Montana",
+                    "Montana"
+                ],
                 "CARDINAL": [
                     "one"
                 ],
                 "ORDINAL": [
                     "first"
-                ],
-                "GPE": [
-                    "Bozeman",
-                    "Montana",
-                    "Montana"
                 ],
                 "DATE": [
                     "many years ago"
@@ -675,12 +688,16 @@
             "entities": {
                 "CARDINAL": [
                     "One million",
-                    "5</em",
+                    "1",
                     "one",
                     "two"
                 ],
                 "NORP": [
                     "Americans"
+                ],
+                "DATE": [
+                    "5",
+                    "last year"
                 ]
             }
         },
@@ -871,14 +888,14 @@
                     "annual"
                 ],
                 "GPE": [
-                    "Hollywood",
-                    "lies</em"
-                ],
-                "NORP": [
-                    "Manchurian"
+                    "Hollywood"
                 ],
                 "ORG": [
+                    "The Manchurian Candidate",
                     "TOE"
+                ],
+                "PERSON": [
+                    "Radiotopia"
                 ],
                 "WORK_OF_ART": [
                     "Making Trouble"
@@ -925,8 +942,7 @@
                     "Watergate"
                 ],
                 "PERSON": [
-                    "Deep Throat",
-                    "myth</em"
+                    "Deep Throat"
                 ],
                 "PRODUCT": [
                     "ToE"
@@ -1050,7 +1066,7 @@
                 ],
                 "PERSON": [
                     "Variant",
-                    "Shirley Jackson"
+                    "Shirley Jackson\u2019s"
                 ],
                 "ORG": [
                     "WHO"
@@ -1130,14 +1146,8 @@
                 "GPE": [
                     "New York"
                 ],
-                "WORK_OF_ART": [
-                    "target=\"_blank\">Anya Kamenetz</a>"
-                ],
-                "ORG": [
-                    "Skenazy</a"
-                ],
                 "PERSON": [
-                    "Range Kids</a>.</p"
+                    "Anya Kamenetz"
                 ]
             }
         },
@@ -1167,7 +1177,7 @@
             "entities": {
                 "GPE": [
                     "Greenwich Village",
-                    "New York",
+                    "New York City",
                     "New York City\u2019s"
                 ],
                 "PERSON": [
@@ -1210,15 +1220,15 @@
                     "March 2020",
                     "11 year"
                 ],
-                "ORG": [
-                    "href=\"https://wwnorton.com",
-                    "href=\"http://renatealler.com"
+                "PERSON": [
+                    "Craig Taylor",
+                    "Renate Aller"
                 ],
                 "GPE": [
                     "New York City"
                 ],
-                "PERSON": [
-                    "New Yorkers</em"
+                "NORP": [
+                    "New Yorkers"
                 ],
                 "ORDINAL": [
                     "first"
@@ -1257,8 +1267,11 @@
                 ],
                 "PERSON": [
                     "Benjamin Bratton",
-                    "Hudson Yards,</em",
+                    "Hudson Yards",
                     "Charlie Warzel"
+                ],
+                "WORK_OF_ART": [
+                    "Revenge of the Real"
                 ],
                 "GPE": [
                     "New York"
@@ -1297,22 +1310,21 @@
             "entities": {
                 "PERSON": [
                     "Charles Schulz",
-                    "Brown",
+                    "Charlie Brown's",
                     "Blake Scott Ball",
                     "Schulz"
                 ],
                 "DATE": [
-                    "every day",
                     "half a century"
                 ],
-                "NORP": [
-                    "Historian"
+                "GPE": [
+                    "America"
                 ],
                 "ORG": [
                     "Wishy-Washy"
                 ],
                 "EVENT": [
-                    "Cold War America.</p"
+                    "Cold War America"
                 ]
             }
         },
@@ -1341,7 +1353,8 @@
             "title": "International Coffee (remix)",
             "entities": {
                 "PERSON": [
-                    "Covid"
+                    "Covid",
+                    "Radiotopia"
                 ],
                 "GPE": [
                     "Paris",
@@ -1349,7 +1362,7 @@
                 ],
                 "ORG": [
                     "Copenhagen",
-                    "Radiotopia",
+                    "Good Coffee",
                     "Radiotopia"
                 ],
                 "EVENT": [
@@ -1382,13 +1395,13 @@
             "title": "Louis Menand and the Cold War",
             "entities": {
                 "PERSON": [
-                    "Louis Menand"
+                    "Louis Menand",
+                    "Radiotopia"
                 ],
                 "WORK_OF_ART": [
-                    "The Free World, Art and Thought in the Cold"
+                    "The Free World, Art and Thought in the Cold War"
                 ],
                 "ORG": [
-                    "Radiotopia",
                     "Radiotopia"
                 ],
                 "EVENT": [
@@ -1425,10 +1438,10 @@
                 ],
                 "PERSON": [
                     "Tim Kreider",
-                    "Vaccine"
+                    "Vaccine",
+                    "Radiotopia"
                 ],
                 "ORG": [
-                    "Radiotopia",
                     "Radiotopia"
                 ],
                 "EVENT": [
@@ -1499,6 +1512,9 @@
             "pubDate": "Wed, 24 Mar 2021 16:06:57 -0000",
             "title": "UTOPIA: the Callaway Cut",
             "entities": {
+                "PRODUCT": [
+                    "ToE"
+                ],
                 "PERSON": [
                     "Andrew Callaway"
                 ],
@@ -1509,7 +1525,7 @@
                     "five"
                 ],
                 "ORG": [
-                    "Callaway"
+                    "The Callaway Cut"
                 ]
             }
         },
@@ -1544,7 +1560,7 @@
                     "AlamoFort -\u00a0 "
                 ],
                 "LOC": [
-                    "the Island of the Blue Dolphins.</strong></p"
+                    "the Island of the Blue Dolphins"
                 ]
             }
         },
@@ -1576,7 +1592,8 @@
                     "This year"
                 ],
                 "ORG": [
-                    "Audible Originals"
+                    "Audible Originals",
+                    "Audible.com"
                 ],
                 "ORDINAL": [
                     "first"
@@ -1776,6 +1793,7 @@
                     "first"
                 ],
                 "PRODUCT": [
+                    "ToE",
                     "ToE"
                 ],
                 "DATE": [
@@ -1812,7 +1830,7 @@
                 ],
                 "PERSON": [
                     "Chris Vargas",
-                    "Henry Darger.</p"
+                    "Henry Darger"
                 ],
                 "ORG": [
                     "Trump"
@@ -1887,8 +1905,7 @@
                     "one"
                 ],
                 "ORG": [
-                    "ToE",
-                    "Computer"
+                    "ToE"
                 ],
                 "PERSON": [
                     "Andrew Callaway",
@@ -1921,8 +1938,7 @@
             "title": "Lurking (a conversation with Joanne McNeil) ",
             "entities": {
                 "ORG": [
-                    "Coronavirus",
-                    "href=\"https://bookshop.org"
+                    "Coronavirus"
                 ],
                 "PERSON": [
                     "Joanne Mcneil",
@@ -1936,6 +1952,9 @@
                 ],
                 "DATE": [
                     "the week of March 15th"
+                ],
+                "GPE": [
+                    "Bookshop"
                 ]
             }
         },
@@ -1972,11 +1991,15 @@
                 ],
                 "PERSON": [
                     "Rem Koolhaas",
-                    "Michael Haneke\u2019s",
+                    "Michael Haneke\u2019s Time",
+                    "Wolf",
                     "Martin"
                 ],
                 "ORDINAL": [
                     "first"
+                ],
+                "NORP": [
+                    "Allusionist"
                 ]
             }
         },
@@ -2012,9 +2035,6 @@
                 ],
                 "PERSON": [
                     "Andrew Callaway"
-                ],
-                "PRODUCT": [
-                    "ToE"
                 ]
             }
         },
@@ -2054,7 +2074,7 @@
                     "Andrew Callaway"
                 ],
                 "ORG": [
-                    "Social Distance Learning.</p"
+                    "Social Distance Learning"
                 ]
             }
         },
@@ -2196,8 +2216,11 @@
                 "DATE": [
                     "A few weeks ago"
                 ],
-                "NORP": [
-                    "Saudi"
+                "ORG": [
+                    "Benjamen Walker"
+                ],
+                "GPE": [
+                    "Saudi Arabia"
                 ]
             }
         },
@@ -2231,6 +2254,9 @@
                 ],
                 "GPE": [
                     "America"
+                ],
+                "DATE": [
+                    "today"
                 ]
             }
         },
@@ -2267,7 +2293,8 @@
                 ],
                 "DATE": [
                     "2019",
-                    "annual"
+                    "annual",
+                    "today"
                 ]
             }
         },
@@ -2339,6 +2366,9 @@
             "entities": {
                 "PRODUCT": [
                     "ToE"
+                ],
+                "GPE": [
+                    "the Deep State"
                 ]
             }
         },
@@ -2440,7 +2470,8 @@
                 ],
                 "PERSON": [
                     "Jeffrey Epstein",
-                    "Chris"
+                    "Chris",
+                    "Epstein Brain"
                 ],
                 "DATE": [
                     "August 10th 2019"
@@ -2478,11 +2509,12 @@
                     "1984",
                     "Nineteen Eighty-Four"
                 ],
-                "ORG": [
-                    "href=\"https://twitter.com"
-                ],
                 "PERSON": [
+                    "Dorian Lynskey",
                     "George Orwell's"
+                ],
+                "ORG": [
+                    "The ministry of Truth"
                 ]
             }
         },
@@ -2589,6 +2621,7 @@
             "entities": {
                 "ORG": [
                     "YouTube",
+                    "YouTube",
                     "YouTube"
                 ],
                 "DATE": [
@@ -2602,6 +2635,9 @@
                 ],
                 "LAW": [
                     "Chapter eight"
+                ],
+                "PRODUCT": [
+                    "ToE Failure"
                 ]
             }
         },
@@ -2629,6 +2665,10 @@
             "pubDate": "Mon, 03 Jun 2019 13:50:46 -0000",
             "title": "Operation Three-Eyed Raven",
             "entities": {
+                "PRODUCT": [
+                    "ToE",
+                    "ToE Failure"
+                ],
                 "PERSON": [
                     "Chris"
                 ],
@@ -2666,21 +2706,21 @@
             "title": "Authoritarian Schizophrenia ",
             "entities": {
                 "GPE": [
-                    "China",
-                    "Hong Fincher</a"
-                ],
-                "ORG": [
-                    "href=\"https://twitter.com",
-                    "the Chinese Communist Party"
-                ],
-                "WORK_OF_ART": [
-                    "target=\"_blank\">Chenchen Zhang</a"
+                    "China"
                 ],
                 "PERSON": [
-                    "Zhihu"
+                    "Chenchen Zhang",
+                    "Zhihu",
+                    "Leta Hong Fincher"
+                ],
+                "ORG": [
+                    "the Chinese Communist Party"
                 ],
                 "LAW": [
                     "Chapter six"
+                ],
+                "PRODUCT": [
+                    "ToE Failure"
                 ]
             }
         },
@@ -2715,11 +2755,16 @@
                 ],
                 "PERSON": [
                     "Hao Wu",
-                    "James Griffiths",
+                    "James Griffiths"
+                ],
+                "ORG": [
                     "Cyber Sovereignty"
                 ],
                 "LAW": [
                     "Chapter five"
+                ],
+                "PRODUCT": [
+                    "ToE Failure"
                 ]
             }
         },
@@ -2748,13 +2793,12 @@
             "title": "Bad Recommendations",
             "entities": {
                 "PERSON": [
-                    "target=\"_blank\">John Herrman</a",
-                    "Andrew Callaway</a",
+                    "John Herrman",
+                    "Andrew Callaway",
                     "Jordan Peterson"
                 ],
                 "ORG": [
-                    "YouTube",
-                    "href=\"https://twitter.com"
+                    "YouTube"
                 ]
             }
         },
@@ -2840,6 +2884,9 @@
                 ],
                 "LAW": [
                     "Chapter three"
+                ],
+                "PRODUCT": [
+                    "ToE Failure"
                 ]
             }
         },
@@ -2878,6 +2925,7 @@
                     "America"
                 ],
                 "ORG": [
+                    "the Authoritarian Personality",
                     "YouTube"
                 ],
                 "LAW": [
@@ -2912,11 +2960,17 @@
             "pubDate": "Wed, 09 Jan 2019 18:50:22 -0000",
             "title": "The People have Spoken",
             "entities": {
+                "PERSON": [
+                    "Taylor"
+                ],
                 "ORG": [
                     "YouTube"
                 ],
                 "LAW": [
                     "Chapter One"
+                ],
+                "PRODUCT": [
+                    "ToE Failure"
                 ]
             }
         },
@@ -2947,15 +3001,17 @@
                 "PERSON": [
                     "Meghan Daum",
                     "Paris Martineau",
-                    "Meghan",
-                    "d74c50d47d1c8367544bb61c610250e3/0"
+                    "Meghan"
                 ],
                 "ORG": [
-                    "YouTube",
-                    "href=\"https://medium.com"
+                    "YouTube"
+                ],
+                "EVENT": [
+                    "Medium"
                 ],
                 "GPE": [
-                    "Paris"
+                    "Paris",
+                    "Wired"
                 ]
             }
         },
@@ -2992,6 +3048,7 @@
                     "Vancouver"
                 ],
                 "PERSON": [
+                    "Radiotopia",
                     "Andrew",
                     "Chris"
                 ]
@@ -3160,8 +3217,8 @@
                 "ORG": [
                     "CBC"
                 ],
-                "PERSON": [
-                    "Elon Musk.</p"
+                "PRODUCT": [
+                    "Elon Musk"
                 ]
             }
         },
@@ -3198,11 +3255,8 @@
                     "December of 2012",
                     "Eight years later"
                 ],
-                "WORK_OF_ART": [
-                    "Hoaxer Darkness"
-                ],
-                "PERSON": [
-                    "Florida</p"
+                "GPE": [
+                    "Florida"
                 ]
             }
         },
@@ -3274,17 +3328,17 @@
                 "LOC": [
                     "False Alarm"
                 ],
-                "ORG": [
-                    "href=\"https://twitter.com"
+                "PERSON": [
+                    "Jeffery Lewis",
+                    "Eugenia Cheng",
+                    "Andrew Callaway"
                 ],
                 "GPE": [
-                    "North Korea"
+                    "North Korea",
+                    "America"
                 ],
-                "PRODUCT": [
-                    "target=\"_blank\">Dr"
-                ],
-                "PERSON": [
-                    "Andrew Callaway"
+                "ORG": [
+                    "Hero Stormy Daniels"
                 ]
             }
         },
@@ -3315,9 +3369,6 @@
             "pubDate": "Thu, 23 Aug 2018 15:08:41 -0000",
             "title": "Second time as fake (False Alarm! part x)",
             "entities": {
-                "ORG": [
-                    "Screen-Shot-2018-08-23-at-5.06.49-PM.png?x74027\"></p"
-                ],
                 "NORP": [
                     "Nazis",
                     "Spiritualists",
@@ -3331,6 +3382,7 @@
                 "DATE": [
                     "1930s",
                     "1880s",
+                    "2018",
                     "1850s",
                     "1930",
                     "the second half of the 19th century",
@@ -3389,17 +3441,15 @@
                 "LOC": [
                     "False Alarm"
                 ],
-                "ORG": [
-                    "Screen-Shot-2018-08-07-at-6.11.27-PM.png?x74027\"></p"
-                ],
-                "ORDINAL": [
-                    "first"
-                ],
                 "DATE": [
+                    "2018",
                     "1850s",
                     "1930",
                     "the second half of the 19th century",
                     "years"
+                ],
+                "ORDINAL": [
+                    "first"
                 ],
                 "PERSON": [
                     "Hitler"
@@ -3445,6 +3495,7 @@
                 ],
                 "DATE": [
                     "1800",
+                    "2018",
                     "1850s",
                     "1930",
                     "the second half of the 19th century",
@@ -3508,8 +3559,10 @@
                 "ORG": [
                     "Trump",
                     "the White House",
+                    "Magic",
                     "CIA",
-                    "Fox Sisters"
+                    "Fox Sisters",
+                    "Trump Tower"
                 ],
                 "NORP": [
                     "Magician",
@@ -3518,21 +3571,21 @@
                 "GPE": [
                     "Rochester"
                 ],
-                "FAC": [
-                    "the Trump Tower",
-                    "False Alarm"
-                ],
-                "ORDINAL": [
-                    "first"
-                ],
                 "DATE": [
+                    "2018",
                     "1850s",
                     "1930",
                     "the second half of the 19th century",
                     "years"
                 ],
+                "ORDINAL": [
+                    "first"
+                ],
                 "CARDINAL": [
                     "two"
+                ],
+                "FAC": [
+                    "False Alarm"
                 ]
             }
         },
@@ -3579,10 +3632,12 @@
                 "GPE": [
                     "America"
                 ],
-                "ORG": [
-                    "Parson-Weems-Fable.jpg?x74027\"></p"
+                "FAC": [
+                    "Greatest Lie",
+                    "False Alarm"
                 ],
                 "DATE": [
+                    "2018",
                     "1850s",
                     "1930",
                     "the second half of the 19th century",
@@ -3590,9 +3645,6 @@
                 ],
                 "CARDINAL": [
                     "two"
-                ],
-                "FAC": [
-                    "False Alarm"
                 ]
             }
         },
@@ -3672,7 +3724,7 @@
                     "David Levine",
                     "Orson Welles",
                     "Helen Zaltzman",
-                    "Peter Choyce.</p"
+                    "Peter Choyce"
                 ],
                 "DATE": [
                     "1937"
@@ -3718,7 +3770,6 @@
                     "Alex Goldmark",
                     "Sarah Meyohas",
                     "David Golumbia",
-                    "really</em",
                     "Lyn Jeffrey",
                     "Jed Rothstein",
                     "Zeke Faux"
@@ -3728,6 +3779,7 @@
                 ],
                 "ORG": [
                     "Bitchcoin",
+                    "The China Hustle",
                     "Supreme"
                 ],
                 "GPE": [
@@ -3739,9 +3791,6 @@
                 "WORK_OF_ART": [
                     "Facebook and Toe\u2019s Andrew Callaway",
                     "Streetwear"
-                ],
-                "PRODUCT": [
-                    "ToE"
                 ]
             }
         },
@@ -3773,12 +3822,13 @@
             "title": "Fake Nudes (False Alarm! part ii)",
             "entities": {
                 "PERSON": [
-                    "target=\"_blank\">Lynn Hershman Leeson</a",
+                    "Lynn Hershman Leeson",
+                    "Ghosh",
                     "Lauren"
                 ],
                 "ORG": [
                     "AI",
-                    "STORMY"
+                    "STORMY DANIELS"
                 ],
                 "GPE": [
                     "Phoebe"
@@ -3824,12 +3874,12 @@
                 "NORP": [
                     "New Yorkers"
                 ],
-                "ORG": [
-                    "href=\"https://twitter.com",
-                    "href=\"http://valdorito.com"
-                ],
                 "PERSON": [
-                    "wolf"
+                    "Stan Douglas",
+                    "Jody Avirgan",
+                    "wolf",
+                    "Jordan Crane",
+                    "Val Dorito"
                 ]
             }
         },
@@ -3878,6 +3928,9 @@
                 ],
                 "PERSON": [
                     "Octavia Butler\u2019s"
+                ],
+                "WORK_OF_ART": [
+                    "Parable of the Sower"
                 ]
             }
         },
@@ -3961,11 +4014,14 @@
                     "Robert Kraft",
                     "Donald Trump"
                 ],
+                "PRODUCT": [
+                    "Learn"
+                ],
                 "LOC": [
                     "Nikola Tesla"
                 ],
                 "FAC": [
-                    "+++++++++<"
+                    "+++++++++\n\n\u00a0\n\n\u00a0\n\n\u00a0\n\n\u00a0\n      "
                 ]
             }
         },
@@ -4002,10 +4058,7 @@
                 ],
                 "ORG": [
                     "the American Commune",
-                    "Socialist"
-                ],
-                "FAC": [
-                    "target=\"_blank\">***********Click"
+                    "Socialist Dolphins"
                 ]
             }
         },
@@ -4037,7 +4090,8 @@
             "title": "False Flags",
             "entities": {
                 "ORG": [
-                    "American Flag"
+                    "American Flag",
+                    "Dictionary.com"
                 ],
                 "FAC": [
                     "Midwest Airport"
@@ -4081,6 +4135,9 @@
                     "Andrew Callaway",
                     "Earthaven",
                     "Plus Will Wilkinson"
+                ],
+                "ORG": [
+                    "Ideal Theory"
                 ]
             }
         },
@@ -4159,7 +4216,7 @@
                     "2010"
                 ],
                 "ORG": [
-                    "href=\"https://wfmu.org",
+                    "Too Much Information",
                     "Cthulucon",
                     "HP Lovecraft",
                     "Lovecraft"
@@ -4199,14 +4256,11 @@
             "pubDate": "Fri, 20 Oct 2017 19:14:05 -0000",
             "title": "Bad Science",
             "entities": {
-                "PRODUCT": [
-                    "ToE"
-                ],
                 "PERSON": [
                     "Chris",
                     "Russian Gay Bashing Drones",
                     "Satire",
-                    "Satire!</p"
+                    "Satire"
                 ],
                 "GPE": [
                     "London"
@@ -4255,16 +4309,12 @@
                 "PERSON": [
                     "Alex Jordan\u2019s",
                     "Alex Jordan Jr",
-                    "Tom-Kupsh"
+                    "Tom Kupsh",
+                    "Alex Jordan Jr",
+                    "Evermor"
                 ],
                 "MONEY": [
                     "millions of dollars"
-                ],
-                "WORK_OF_ART": [
-                    "target=\"_blank\">Alex Jordan Jr</a> and <a href=\"https://www.amazon.com/Mythic-Obsession-World-Dr-Evermor/dp/1556527608"
-                ],
-                "PRODUCT": [
-                    "target=\"_blank\">Dr"
                 ]
             }
         },
@@ -4418,6 +4468,7 @@
                 ],
                 "ORG": [
                     "Media Influencer",
+                    "Truth",
                     "Radiotopia"
                 ],
                 "FAC": [
@@ -4431,6 +4482,12 @@
                 ],
                 "CARDINAL": [
                     "TWO"
+                ],
+                "PERSON": [
+                    "Doing Time"
+                ],
+                "PRODUCT": [
+                    "Radiotopia Podcast Earhustle"
                 ]
             }
         },
@@ -4465,6 +4522,9 @@
                     "Chris",
                     "Andrew",
                     "Twin Peaks"
+                ],
+                "ORG": [
+                    "SpaCasting"
                 ]
             }
         },
@@ -4538,7 +4598,11 @@
             "title": "Droning for Dollars",
             "entities": {
                 "ORG": [
-                    "Trump"
+                    "Trump",
+                    "YouFired"
+                ],
+                "PERSON": [
+                    "Chris"
                 ]
             }
         },
@@ -4574,12 +4638,10 @@
                     "Los Angeles",
                     "Detroit"
                 ],
-                "ORG": [
-                    "href=\"https://twitter.com",
-                    "href=\"http://mayastovall.com"
-                ],
-                "WORK_OF_ART": [
-                    "target=\"_blank\">Maya Stovall</a>.</p>\n\n<p><img src=\"https://toe.prx.org"
+                "PERSON": [
+                    "Peter Moscowitz",
+                    "Maga Miranda",
+                    "Maya Stovall"
                 ]
             }
         },
@@ -4613,7 +4675,8 @@
                 "ORG": [
                     "Surveillance",
                     "AdNauseum",
-                    "Siva Vaidhyanathan"
+                    "Siva Vaidhyanathan",
+                    "Cryptopticon"
                 ],
                 "PERSON": [
                     "Finn Brunton"
@@ -4646,11 +4709,7 @@
             "link": "https://beta.prx.org/stories/255935",
             "pubDate": "Thu, 23 Feb 2017 16:31:41 -0000",
             "title": "The Rainbows of Inevitability",
-            "entities": {
-                "PERSON": [
-                    "Project Madison"
-                ]
-            }
+            "entities": {}
         },
         {
             "categories": [
@@ -4681,10 +4740,15 @@
             "entities": {
                 "PERSON": [
                     "Donald Trump",
-                    "Biometric"
+                    "Mira Waits",
+                    "Ethan Zuckerman",
+                    "Hannes Grassegger"
                 ],
                 "FAC": [
                     "the White House"
+                ],
+                "ORG": [
+                    "Biometric Surveillance"
                 ]
             }
         },
@@ -4786,6 +4850,7 @@
             "title": "The fairest of them all?",
             "entities": {
                 "ORG": [
+                    "Our Surveillance",
                     "Google"
                 ]
             }
@@ -4828,9 +4893,6 @@
                     "Oliver Stone\u2019s",
                     "Edward Snowden",
                     "Vladislav Surkov"
-                ],
-                "ORG": [
-                    "Potemkin"
                 ]
             }
         },
@@ -4865,8 +4927,7 @@
                     "Donald Trump"
                 ],
                 "ORG": [
-                    "Surveillance",
-                    "Digital Security"
+                    "Surveillance"
                 ]
             }
         },
@@ -4897,8 +4958,8 @@
             "pubDate": "Tue, 08 Nov 2016 15:39:54 -0000",
             "title": "Targeted",
             "entities": {
-                "QUANTITY": [
-                    "08-at-10-"
+                "ORG": [
+                    "Facial Recognition"
                 ]
             }
         },
@@ -4958,7 +5019,8 @@
             "title": "Burning down the Panopticon",
             "entities": {
                 "ORG": [
-                    "Surveillance"
+                    "Surveillance",
+                    "Panopticon"
                 ],
                 "PERSON": [
                     "Jeremy Bentham"
@@ -5027,6 +5089,7 @@
                 "DATE": [
                     "2016",
                     "October of 2102",
+                    "1968",
                     "September 11th 2016"
                 ],
                 "NORP": [
@@ -5036,7 +5099,7 @@
                     "Silvain Gire",
                     "Mitt Romney",
                     "Guy Debord",
-                    "Maison de Po\u00e9sie</em"
+                    "La Maison de Po\u00e9sie"
                 ],
                 "GPE": [
                     "Paris"
@@ -5074,7 +5137,7 @@
             "title": "pass (r)",
             "entities": {
                 "ORG": [
-                    "Self Driving Cars.</p"
+                    "Self Driving Cars"
                 ]
             }
         },
@@ -5181,7 +5244,7 @@
                     "Britain"
                 ],
                 "ORG": [
-                    "the European Union.</p"
+                    "the European Union"
                 ]
             }
         },
@@ -5214,9 +5277,6 @@
             "entities": {
                 "CARDINAL": [
                     "two"
-                ],
-                "PERSON": [
-                    "Shot 2016-06-21"
                 ]
             }
         },
@@ -5248,13 +5308,8 @@
             "title": "sudculture (part I of II)",
             "entities": {
                 "GPE": [
-                    "America"
-                ],
-                "PERSON": [
-                    "Shot 2016-06-06"
-                ],
-                "CARDINAL": [
-                    "10.05.32"
+                    "America",
+                    "Megabrew"
                 ]
             }
         },
@@ -5288,8 +5343,8 @@
                 "PERSON": [
                     "Radiotopia Live",
                     "Alix Lambert",
-                    "Shot 2016-05-29",
                     "Katie Mingle",
+                    "Elyse Blennerhassett",
                     "Efren"
                 ],
                 "DATE": [
@@ -5299,8 +5354,8 @@
                 "ORG": [
                     "Analog"
                 ],
-                "CARDINAL": [
-                    "3.55.28"
+                "PERCENT": [
+                    "99%"
                 ],
                 "NORP": [
                     "Roman Mars"
@@ -5365,14 +5420,7 @@
             "link": "https://beta.prx.org/stories/255959",
             "pubDate": "Wed, 13 Apr 2016 02:20:29 -0000",
             "title": "The Future",
-            "entities": {
-                "NORP": [
-                    "target=\"_blank\">inspiration</a"
-                ],
-                "ORG": [
-                    "Moore"
-                ]
-            }
+            "entities": {}
         },
         {
             "categories": [
@@ -5403,14 +5451,13 @@
             "entities": {
                 "PERSON": [
                     "Donald Trump",
-                    "Rob Brotherton"
+                    "Rob Brotherton",
+                    "Suspicious Minds"
                 ],
                 "ORG": [
                     "CIA",
-                    "CIA"
-                ],
-                "EVENT": [
-                    "Cultural-Cold-War-World-Letters/"
+                    "CIA",
+                    "Celeste Lai\n\n\u00a0\n\n\u00a0\n      "
                 ],
                 "CARDINAL": [
                     "one"
@@ -5445,18 +5492,23 @@
             "title": "Paris",
             "entities": {
                 "PERSON": [
-                    "p><strong><a href=\"https://twitter.com/luxante",
-                    "Catalogue"
+                    "Luc Sante"
                 ],
                 "WORK_OF_ART": [
-                    "target=\"_blank\">The Other Paris</a>",
-                    "target=\"_blank\">Paris of\u00a022nd"
+                    "The Other Paris\u201d Beno\u00eet Peeters"
                 ],
                 "GPE": [
+                    "Paris",
                     "Brooklyn"
+                ],
+                "DATE": [
+                    "22nd century"
                 ],
                 "ORDINAL": [
                     "10th"
+                ],
+                "ORG": [
+                    "Celeste Lai"
                 ]
             }
         },
@@ -5487,15 +5539,10 @@
             "pubDate": "Wed, 10 Feb 2016 01:18:25 -0000",
             "title": "After Work",
             "entities": {
-                "ORG": [
-                    "href=\"https://twitter.com",
-                    "a href=\"https://twitter.com/marylgray?ref_src="
-                ],
-                "WORK_OF_ART": [
-                    "target=\"_blank\">Andrew Callaway</a"
-                ],
                 "PERSON": [
-                    "Uriarte</a"
+                    "Andrew Callaway",
+                    "Mary Gray",
+                    "Ignacio Uriarte"
                 ],
                 "NORP": [
                     "Swedish"
@@ -5532,13 +5579,11 @@
                 "PERSON": [
                     "Gary Panter",
                     "Alix Lambert",
-                    "Gordon Comstock"
+                    "Gordon Comstock",
+                    "Keep"
                 ],
                 "ORG": [
                     "Orwell"
-                ],
-                "CARDINAL": [
-                    "1)\"></p"
                 ]
             }
         },
@@ -5569,8 +5614,11 @@
             "pubDate": "Tue, 29 Dec 2015 17:20:04 -0000",
             "title": "70\u00d77 (Holy War part II of II)",
             "entities": {
-                "DATE": [
-                    "The second half"
+                "ORDINAL": [
+                    "second"
+                ],
+                "CARDINAL": [
+                    "half"
                 ],
                 "ORG": [
                     "Margo",
@@ -5701,7 +5749,8 @@
                 "PERSON": [
                     "Allen Ginsberg",
                     "Walter Benjamin",
-                    "Chris"
+                    "Chris",
+                    "Celeste Lai"
                 ],
                 "ORG": [
                     "Market Research"
@@ -5715,9 +5764,8 @@
                 "EVENT": [
                     "the Freedom Cock"
                 ],
-                "CARDINAL": [
-                    "three",
-                    "three"
+                "DATE": [
+                    "today"
                 ]
             }
         },
@@ -5753,7 +5801,8 @@
                     "three"
                 ],
                 "PERSON": [
-                    "Rashomon"
+                    "Rashomon",
+                    "Celeste Lai"
                 ]
             }
         },
@@ -5784,32 +5833,26 @@
             "pubDate": "Fri, 09 Oct 2015 14:21:21 -0000",
             "title": "Enchanting By Numbers (2015 version)",
             "entities": {
+                "PERSON": [
+                    "Tim Hwang",
+                    "Uber",
+                    "James Essinger",
+                    "Suw Charman-Anderson",
+                    "Ada Lovelace",
+                    "James"
+                ],
                 "ORG": [
-                    "Hwang</a",
+                    "Christian Sandvig",
                     "Edgerank",
                     "Facebook\u2019s",
                     "Sandvig"
                 ],
-                "PERSON": [
-                    "Uber",
-                    "a href=\"http://www-personal.umich.edu/%7Ecsandvig/",
-                    "Charman-Anderson</a",
-                    "Ada Lovelace",
-                    "James"
-                ],
                 "DATE": [
                     "last year",
-                    "2015-10-09"
-                ],
-                "WORK_OF_ART": [
-                    "target=\"_blank\">James Essinger</a> and <a href=\"http://findingada.com"
+                    "1843"
                 ],
                 "ORDINAL": [
                     "first"
-                ],
-                "CARDINAL": [
-                    "1843.</p",
-                    "10.17.52"
                 ]
             }
         },
@@ -5839,11 +5882,7 @@
             "link": "https://beta.prx.org/stories/255970",
             "pubDate": "Mon, 07 Sep 2015 16:30:23 -0000",
             "title": "Resolution",
-            "entities": {
-                "DATE": [
-                    "2015-09-07"
-                ]
-            }
+            "entities": {}
         },
         {
             "categories": [
@@ -5875,20 +5914,16 @@
                 "PERSON": [
                     "Robert Burley",
                     "Christine Frohnert",
-                    "Christiane Paul"
+                    "Christiane Paul",
+                    "Nathan Jurgenson"
                 ],
                 "WORK_OF_ART": [
-                    "The Disappearance Of Darkness</em>"
+                    "The Disappearance Of Darkness"
                 ],
                 "ORG": [
                     "Social Media",
-                    "href=\"https://twitter.com"
-                ],
-                "GPE": [
-                    "target=\"_blank\">Nathan Jurgenson</a"
-                ],
-                "PRODUCT": [
-                    "href=\"http://hellofresh.com/"
+                    "Hellofresh.com",
+                    "Souverain.com"
                 ]
             }
         },
@@ -5921,16 +5956,15 @@
             "entities": {
                 "PERSON": [
                     "Hear Instapoder Andrew",
-                    "Andrew"
+                    "Andrew",
+                    "Mary Gray",
+                    "Zady.com"
                 ],
                 "CARDINAL": [
                     "two"
                 ],
                 "DATE": [
                     "July 9th 3pm EST"
-                ],
-                "ORG": [
-                    "href=\"http://marylgray.org/"
                 ]
             }
         },
@@ -5961,16 +5995,12 @@
             "pubDate": "Wed, 24 Jun 2015 18:16:11 -0000",
             "title": "Instaserfs (II of III)",
             "entities": {
-                "EVENT": [
-                    "Instaserfs II"
-                ],
                 "ORDINAL": [
                     "second"
                 ],
                 "PERSON": [
                     "Andrew",
-                    "href=\"http://susie",
-                    "href=\"http://susie",
+                    "Susie Cagle",
                     "Andrew"
                 ],
                 "GPE": [
@@ -6023,7 +6053,8 @@
                     "Andrew Callaway",
                     "ToE",
                     "Andrew",
-                    "Sarah Lacey"
+                    "Sarah Lacey",
+                    "Zady.com"
                 ],
                 "DATE": [
                     "25 year old",
@@ -6031,10 +6062,6 @@
                 ],
                 "GPE": [
                     "San Francisco"
-                ],
-                "ORG": [
-                    "Uber.</p",
-                    "href=\"https://medium.com/@benjamenwalker/instaserfs-i-of-iii-25540f0f1b43"
                 ]
             }
         },
@@ -6065,14 +6092,15 @@
             "pubDate": "Tue, 02 Jun 2015 19:15:41 -0000",
             "title": "Art De Vivre (II of II)",
             "entities": {
-                "PERSON": [
-                    "Mathilde"
-                ],
                 "GPE": [
+                    "Benjamen",
                     "France",
                     "China",
                     "China",
                     "China"
+                ],
+                "PERSON": [
+                    "Mathilde"
                 ],
                 "CARDINAL": [
                     "one"
@@ -6115,28 +6143,23 @@
                 "PRODUCT": [
                     "ToE"
                 ],
-                "PERSON": [
-                    "Mathilde"
-                ],
-                "CARDINAL": [
-                    "two",
-                    "10.49.44"
-                ],
                 "GPE": [
+                    "Mathilde",
                     "France",
                     "China",
                     "China",
                     "France"
                 ],
+                "CARDINAL": [
+                    "two"
+                ],
                 "NORP": [
                     "Chinese"
                 ],
                 "ORG": [
-                    "Benjamen",
-                    "href=\"https://casper.com"
+                    "Benjamen"
                 ],
                 "DATE": [
-                    "2015-05-25",
                     "week"
                 ]
             }
@@ -6260,17 +6283,18 @@
             "title": "New York After Rent (II of III)",
             "entities": {
                 "FAC": [
-                    "Avenue B"
+                    "Avenue B to"
+                ],
+                "PRODUCT": [
+                    "Bushwick"
                 ],
                 "PERSON": [
-                    "Bushwick</em",
                     "Kathy Kirkpatrick",
                     "Tim Kreider"
                 ],
                 "DATE": [
                     "about the final days",
-                    "late September 2008.</p",
-                    "2015-04-22",
+                    "late September 2008",
                     "week"
                 ],
                 "ORG": [
@@ -6285,9 +6309,6 @@
                 ],
                 "ORDINAL": [
                     "first"
-                ],
-                "CARDINAL": [
-                    "12.29.56"
                 ]
             }
         },
@@ -6336,7 +6357,8 @@
                 ],
                 "PERSON": [
                     "Murray Cox",
-                    "Sociologist"
+                    "Richard Ocejo",
+                    "Penny Arcade"
                 ],
                 "FAC": [
                     "Hell Square"
@@ -6479,7 +6501,8 @@
                 ],
                 "GPE": [
                     "France",
-                    "Russia"
+                    "Russia",
+                    "Radiotonic"
                 ],
                 "ORG": [
                     "WFMU",
@@ -6529,7 +6552,8 @@
                     "one"
                 ],
                 "GPE": [
-                    "Zuckerberg"
+                    "Zuckerberg",
+                    "Groucho"
                 ],
                 "PRODUCT": [
                     "CLUB Finale"
@@ -6538,12 +6562,6 @@
                     "RADIOTONIC",
                     "ABC",
                     "the Dislike Club"
-                ],
-                "DATE": [
-                    "2014-12-22"
-                ],
-                "PERCENT": [
-                    "12.37.07 PM\"></p"
                 ]
             }
         },
@@ -6582,8 +6600,13 @@
                 ],
                 "PERSON": [
                     "Kathy Sierra",
-                    "Twitter",
-                    "target=\"_blank\">Danielle Keats Citron</a"
+                    "Twitter"
+                ],
+                "GPE": [
+                    "Danielle"
+                ],
+                "ORG": [
+                    "Keats Citron"
                 ]
             }
         },
@@ -6635,6 +6658,9 @@
                 ],
                 "WORK_OF_ART": [
                     "Hacker, Hoaxer, Whistleblower, Spy"
+                ],
+                "PRODUCT": [
+                    "Vendetta"
                 ]
             }
         },
@@ -6724,28 +6750,25 @@
                     "Jessamyn West"
                 ],
                 "CARDINAL": [
-                    "two",
-                    "12.03.46"
+                    "two"
                 ],
                 "QUANTITY": [
                     "A couple of"
                 ],
                 "DATE": [
                     "Monday",
-                    "2014-11-14",
                     "the next few weeks",
                     "December 21"
                 ],
                 "NORP": [
                     "Librarian"
                 ],
-                "GPE": [
-                    "n\u2019t",
-                    "Radiotonic"
-                ],
                 "ORG": [
                     "The Dislike Club",
                     "ABC RN\u2019s"
+                ],
+                "GPE": [
+                    "Radiotonic"
                 ]
             }
         },
@@ -6819,8 +6842,7 @@
             "title": "Enchanting By Numbers",
             "entities": {
                 "GPE": [
-                    "Beijing",
-                    "Algorithm"
+                    "Beijing"
                 ],
                 "DATE": [
                     "last summer",
@@ -6830,19 +6852,20 @@
                 "ORG": [
                     "Microsoft",
                     "Christian Sandvig",
+                    "Christian Sandvig",
                     "Google",
                     "Edgerank",
                     "Facebook\u2019s",
                     "Sandvig",
-                    "Essinger",
-                    "Ada",
-                    "href=\"http://findingada.com"
+                    "Ada\u2019s Algorithm",
+                    "Ada"
                 ],
                 "PERSON": [
                     "Yu Zheng",
+                    "James Essinger\u2019s",
                     "Ada Lovelace",
                     "James",
-                    "Charman-Anderson</a",
+                    "Suw Charman-Anderson",
                     "Ada Lovelace"
                 ],
                 "NORP": [
@@ -6887,16 +6910,15 @@
             "title": "It will always be hard",
             "entities": {
                 "PERSON": [
-                    "Garry Winogrand</strong",
-                    "Leo Rubinfien</strong",
+                    "Garry Winogrand",
+                    "Leo Rubinfien",
                     "Garry",
                     "Garry Winogrand",
                     "Leo Rubinfien",
-                    "Erin O\u2019toole</strong></a",
+                    "Simon Hanselmann",
                     "Simon",
                     "Simon",
-                    "Simon",
-                    "Peter Choyce</strong"
+                    "Peter Choyce"
                 ],
                 "DATE": [
                     "1984",
@@ -6953,7 +6975,7 @@
             "title": "Man Without a Country (3 of 3)",
             "entities": {
                 "DATE": [
-                    "the last hundred"
+                    "the last hundred years"
                 ]
             }
         },
@@ -7067,11 +7089,11 @@
             "title": "Recent, Relevant, Random",
             "entities": {
                 "PERSON": [
-                    "Rob Walker</strong",
+                    "Rob Walker",
                     "Rob",
-                    "Edwin Frank</strong",
+                    "Edwin Frank",
                     "Edwin",
-                    "Phyllis Rose</strong"
+                    "Phyllis Rose"
                 ],
                 "WORK_OF_ART": [
                     "New Old Thing"
@@ -7090,7 +7112,8 @@
                 ],
                 "DATE": [
                     "this week",
-                    "About 10 years ago"
+                    "About 10 years ago",
+                    "years"
                 ]
             }
         },
@@ -7171,7 +7194,7 @@
                     "week"
                 ],
                 "WORK_OF_ART": [
-                    "The Work of Art in the Age of Technological\u00a0Reproducibility</em>"
+                    "The Work of Art in the Age of Technological\u00a0Reproducibility"
                 ],
                 "PERSON": [
                     "Walter Benjamin",
@@ -7224,11 +7247,15 @@
                     "Peter Choyce"
                 ],
                 "ORG": [
+                    "Archives of Authority",
                     "Animal Farm"
                 ],
                 "DATE": [
                     "1984",
                     "week"
+                ],
+                "WORK_OF_ART": [
+                    "Playing the Whore"
                 ],
                 "NORP": [
                     "Feminists"
@@ -7360,7 +7387,6 @@
                 "GPE": [
                     "New York",
                     "New York",
-                    "in</em",
                     "Denmark"
                 ],
                 "PERSON": [
@@ -7368,15 +7394,15 @@
                     "Eric Klinenberg",
                     "Tina Enghoff"
                 ],
-                "ORG": [
-                    "gift</em",
-                    "href=\"https://medium.com/p/b0ff67ae6b64"
-                ],
                 "NORP": [
                     "Scandinavian",
                     "Danish"
                 ],
+                "WORK_OF_ART": [
+                    "Possible Relatives"
+                ],
                 "DATE": [
+                    "months",
                     "week"
                 ]
             }
@@ -7409,14 +7435,10 @@
             "title": "F is for Fake",
             "entities": {
                 "ORG": [
-                    "Not?</em",
-                    "Data Scientist",
-                    "href=\"https://twitter.com",
-                    "href=\"https://twitter.com",
-                    "href=\"https://medium.com/p/dfc3ad886d2a"
+                    "Data Scientist\u00a0Gilad Lotan"
                 ],
                 "PERSON": [
-                    "follower</em"
+                    "Jason Q Ng"
                 ],
                 "WORK_OF_ART": [
                     "Blocked",
@@ -7466,17 +7488,17 @@
             "entities": {
                 "ORG": [
                     "Social Media",
-                    "href=\"https://twitter.com",
-                    "Analog"
-                ],
-                "GPE": [
-                    "target=\"_blank\">Nathan Jurgenson</a"
-                ],
-                "WORK_OF_ART": [
-                    "After Photography\u201d and <a href=\"http://finnb.net/"
+                    "Analog",
+                    "Digital"
                 ],
                 "PERSON": [
-                    "target=\"_blank\">Finn Bruntun</a"
+                    "Nathan Jurgenson",
+                    "Snapchat",
+                    "Fred Ritchin",
+                    "Finn Bruntun"
+                ],
+                "WORK_OF_ART": [
+                    "After Photography"
                 ]
             }
         },
@@ -7517,7 +7539,7 @@
                     "Edward Snowden"
                 ],
                 "WORK_OF_ART": [
-                    "The Disappearance Of Darkness</em>"
+                    "The Disappearance Of Darkness"
                 ],
                 "ORG": [
                     "the Whitney Museum of American Art",
@@ -7569,8 +7591,8 @@
                     "Peter Choyce",
                     "Peter"
                 ],
-                "LOC": [
-                    "North Carolina.</p"
+                "GPE": [
+                    "North Carolina"
                 ]
             }
         },
@@ -7611,7 +7633,8 @@
                 "ORG": [
                     "BBC",
                     "Highways and Community Colleges",
-                    "the BBC World Service"
+                    "the BBC World Service",
+                    "PRX"
                 ],
                 "NORP": [
                     "American"
@@ -7648,19 +7671,18 @@
             "pubDate": "Mon, 14 Oct 2013 17:58:47 -0000",
             "title": "Out Of The Office",
             "entities": {
-                "WORK_OF_ART": [
-                    "target=\"_blank\">David Heinemeier Hansson</a"
+                "PERSON": [
+                    "David Heinemeier Hansson",
+                    "David",
+                    "Jason Fried",
+                    "Ignacio Uriarte",
+                    "Ravenna Koenig"
                 ],
                 "ORG": [
                     "Out Of Office",
+                    "REMOTE",
                     "TOE",
-                    "Facebook-Work &"
-                ],
-                "PERSON": [
-                    "David",
-                    "Jason Fried",
-                    "Uriarte</a",
-                    "Ravenna Koenig"
+                    "Facebook-Work & Work-Work"
                 ],
                 "LOC": [
                     "Office Art"
@@ -7699,13 +7721,11 @@
             "entities": {
                 "ORG": [
                     "TOE",
-                    "now</em",
                     "NSA"
                 ],
                 "PERSON": [
                     "Peter Choyce",
-                    "Chris",
-                    "New World\u2019</p"
+                    "Chris"
                 ],
                 "GPE": [
                     "D.C.",
@@ -7746,6 +7766,10 @@
             "pubDate": "Tue, 11 Jun 2013 05:33:45 -0000",
             "title": "Hacked",
             "entities": {
+                "NORP": [
+                    "Anthropologist",
+                    "Chinese"
+                ],
                 "PERSON": [
                     "Gabriella Coleman",
                     "Chris",
@@ -7758,12 +7782,7 @@
                     "Hackers",
                     "TOE",
                     "the New York Times",
-                    "Thrones",
-                    "href=\"https://medium.com",
-                    "installment********</strong></p"
-                ],
-                "NORP": [
-                    "Chinese"
+                    "Thrones"
                 ],
                 "DATE": [
                     "10 years",
@@ -7803,8 +7822,7 @@
                     "one"
                 ],
                 "ORG": [
-                    "Umarov Muhibullah",
-                    "installment********</strong></p"
+                    "Umarov Muhibullah"
                 ],
                 "ORDINAL": [
                     "first"
@@ -7848,9 +7866,7 @@
                 "ORG": [
                     "BBC",
                     "Paul Mason",
-                    "iPhones",
-                    "href=\"https://medium.com/p/a0664b481cbe",
-                    "installment********</strong></p"
+                    "iPhones"
                 ],
                 "GPE": [
                     "China"
@@ -7906,9 +7922,6 @@
                 ],
                 "DATE": [
                     "week"
-                ],
-                "ORG": [
-                    "installment********</strong></p"
                 ]
             }
         },
@@ -7953,8 +7966,7 @@
                 "ORG": [
                     "Amazon Data",
                     "Obama",
-                    "Parse",
-                    "href=\"https://medium.com/p/ebfa7e62048a"
+                    "Parse"
                 ]
             }
         }
@@ -8003,10 +8015,8 @@
     "ttl": "60",
     "webMaster": "help@prx.org (PRX)",
     "entities": {
-        "WORK_OF_ART": [
-            "target=\"_blank\">Benjamen Walker\u2019s Theory of Everything</a>"
-        ],
         "ORG": [
+            "Benjamen Walker\u2019s Theory of Everything",
             "Radiotopia",
             "PRX"
         ],

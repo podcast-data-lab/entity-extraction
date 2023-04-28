@@ -574,7 +574,6 @@
             "title": "Mindfulness for beginners",
             "entities": {
                 "PERSON": [
-                    "very</em",
                     "Jon Kabat-Zinn"
                 ],
                 "ORG": [
@@ -872,7 +871,7 @@
             "title": "Climate Anxiety Is Real. Here's How To Address It",
             "entities": {
                 "PERSON": [
-                    "Phoenix Smith.<br/><br/>In"
+                    "Phoenix Smith"
                 ],
                 "GPE": [
                     "Smith"
@@ -995,7 +994,7 @@
             "title": "Is It Laziness, Or A Sign You Need To Slow Down? ",
             "entities": {
                 "PERSON": [
-                    "Devon Price.<br/><br/>In"
+                    "Devon Price"
                 ],
                 "WORK_OF_ART": [
                     "Laziness Does Not Exist"
@@ -1027,7 +1026,7 @@
             "title": "In 'We're Not Broken,' Author Eric Garcia Takes On Myths About Autism",
             "entities": {
                 "PERSON": [
-                    "Eric Garcia.<br/><br/>In",
+                    "Eric Garcia",
                     "Garcia"
                 ]
             }
@@ -1083,7 +1082,6 @@
             "entities": {
                 "ORG": [
                     "NPR",
-                    "href=\"https://twitter.com",
                     "HRT"
                 ],
                 "PERSON": [
@@ -1118,12 +1116,11 @@
             "title": "How To Tap Into The Good Anxiety In Your Life",
             "entities": {
                 "PERSON": [
-                    "Wendy Suzuki.<br/><br/>In",
+                    "Wendy Suzuki",
                     "Suzuki"
                 ],
-                "PRODUCT": [
-                    "the Power",
-                    "Most Misunderstood Emotion,</em"
+                "ORG": [
+                    "Good Anxiety: Harnessing the Power"
                 ]
             }
         },
@@ -1254,7 +1251,8 @@
             "title": "What You Should Know About The Delta Variant",
             "entities": {
                 "ORG": [
-                    "Delta"
+                    "Delta",
+                    "NPR"
                 ],
                 "PERSON": [
                     "Allison Aubrey"
@@ -2330,6 +2328,9 @@
                 "CARDINAL": [
                     "4"
                 ],
+                "WORK_OF_ART": [
+                    "Radical Compassion"
+                ],
                 "DATE": [
                     "daily"
                 ]
@@ -2496,7 +2497,7 @@
                     "Rachel Wilkerson Miller"
                 ],
                 "WORK_OF_ART": [
-                    "The Art of Showing Up </em"
+                    "The Art of Showing Up"
                 ]
             }
         },
@@ -2585,6 +2586,9 @@
                 "PERSON": [
                     "Avid runner",
                     "Peter Sagal"
+                ],
+                "GPE": [
+                    "Wait"
                 ],
                 "CARDINAL": [
                     "three"
@@ -2719,6 +2723,7 @@
             "title": "Anxious Thoughts? 5 Tips To Help You Sleep",
             "entities": {
                 "PERSON": [
+                    "Life Kit",
                     "Allison Aubrey"
                 ]
             }
@@ -2930,6 +2935,9 @@
                 "CARDINAL": [
                     "One",
                     "4"
+                ],
+                "ORG": [
+                    "Radical Compassion"
                 ],
                 "DATE": [
                     "daily"
@@ -3372,7 +3380,8 @@
                 ],
                 "ORG": [
                     "Non-GMO",
-                    "you.<br/>- Non-GMO"
+                    "you.- Non-GMO",
+                    "outdoors.-"
                 ],
                 "CARDINAL": [
                     "six"
@@ -3382,7 +3391,7 @@
                     "Animal Welfare Approved"
                 ],
                 "PERSON": [
-                    "pesticides.<br/>- Labels"
+                    "Labels"
                 ]
             }
         },
@@ -3433,9 +3442,6 @@
             "pubDate": "Fri, 03 May 2019 00:02:47 -0400",
             "title": "A Saner Mindset For Weight Loss",
             "entities": {
-                "PERSON": [
-                    "remember:<br/>- Forget"
-                ],
                 "PERCENT": [
                     "only 3%"
                 ]
@@ -3522,11 +3528,7 @@
                     "five"
                 ],
                 "ORG": [
-                    "CBT-I. <"
-                ],
-                "PERSON": [
-                    "remember:<br/>- Log",
-                    "log.<br/>- Find"
+                    "CBT-I. Here's"
                 ]
             }
         },
@@ -3553,14 +3555,14 @@
             "pubDate": "Sat, 27 Apr 2019 00:11:08 -0400",
             "title": "Don't Count Sheep: Better Bedtime Rituals ",
             "entities": {
-                "ORG": [
-                    "work:<br/><br/>- Forget"
-                ],
                 "PERSON": [
                     "Melatonin"
                 ],
                 "TIME": [
                     "the wee hours"
+                ],
+                "PRODUCT": [
+                    "Sleep"
                 ]
             }
         },
@@ -3592,7 +3594,8 @@
                     "late morning"
                 ],
                 "PERSON": [
-                    "remember:<br/>- Start"
+                    "remember:- Start",
+                    "Ban"
                 ],
                 "DATE": [
                     "the day",

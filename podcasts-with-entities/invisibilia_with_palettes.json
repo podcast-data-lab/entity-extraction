@@ -60,18 +60,16 @@
             "title": "Revisiting Love and Lapses: A Conversation with Code Switch host B.A. Parker",
             "entities": {
                 "PERSON": [
-                    "Code Switch</em"
+                    "Code Switch"
                 ],
-                "NORP": [
-                    "Invisibilia</em"
+                "GPE": [
+                    "Invisibilia",
+                    "Yowei"
                 ],
                 "ORG": [
                     "B.A. Parker",
                     "Parker",
                     "Kia"
-                ],
-                "GPE": [
-                    "Yowei"
                 ]
             }
         },
@@ -451,13 +449,14 @@
             "title": "A Friendly Ghost Story",
             "entities": {
                 "ORG": [
-                    "National Suicide Prevention"
+                    "the National Suicide Prevention Lifeline",
+                    "the Crisis Text Line"
                 ],
                 "CARDINAL": [
                     "1-800-273-8255"
                 ],
-                "PERSON": [
-                    "Crisis Text"
+                "DATE": [
+                    "741741"
                 ]
             }
         },
@@ -515,6 +514,9 @@
             "entities": {
                 "PERSON": [
                     "Abby Wendle"
+                ],
+                "WORK_OF_ART": [
+                    "The Great Narrative Escape"
                 ]
             }
         },
@@ -574,6 +576,9 @@
             "pubDate": "Thu, 13 May 2021 19:52:28 +0000",
             "title": "The Chaos Machine: A Looping Revolt",
             "entities": {
+                "CARDINAL": [
+                    "209"
+                ],
                 "GPE": [
                     "America"
                 ],
@@ -610,6 +615,7 @@
             "title": "The Chaos Machine: Wrathful Lord",
             "entities": {
                 "CARDINAL": [
+                    "209",
                     "2"
                 ],
                 "PERSON": [
@@ -2329,8 +2335,7 @@
                     "the hour"
                 ],
                 "GPE": [
-                    "Utah",
-                    "em></em"
+                    "Utah"
                 ],
                 "DATE": [
                     "one day"

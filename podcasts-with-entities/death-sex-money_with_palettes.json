@@ -133,27 +133,28 @@
                     "Anna",
                     "John",
                     "John",
-                    "John",
                     "Hank",
-                    "/span><a"
+                    "John"
                 ],
                 "ORG": [
                     "the National Suicide Prevention",
                     "YA",
                     "YouTube",
-                    "WNYC Studios"
+                    "WNYC Studios",
+                    "The Anthropocene Reviewed",
+                    "SciShow Tangents"
                 ],
                 "CARDINAL": [
                     "988",
                     "24/7",
                     "three"
                 ],
+                "WORK_OF_ART": [
+                    "The Fault in Our Stars",
+                    "Dear Hank"
+                ],
                 "ORDINAL": [
                     "first"
-                ],
-                "GPE": [
-                    "John</span></a><span",
-                    "Tangents</span></a><span"
                 ]
             }
         },
@@ -201,18 +202,19 @@
             "pubDate": "Wed, 05 Apr 2023 12:00:00 -0400",
             "title": "The Movies That Taught Us What Sex Could Be\n",
             "entities": {
-                "PRODUCT": [
-                    "Durham</span></em><span"
-                ],
                 "PERSON": [
+                    "Bull Durham",
                     "Liliana Maria",
                     "Liliana Maria"
                 ],
                 "DATE": [
                     "week"
                 ],
-                "ORG": [
-                    "the Angry Inch</span></em><span"
+                "LOC": [
+                    "Purple Rain, Hedwig"
+                ],
+                "LAW": [
+                    "the Angry Inch"
                 ]
             }
         },
@@ -257,7 +259,8 @@
             "title": "Alice Wong On Medicaid, Rage, and \u201cGood Care\u201d\n",
             "entities": {
                 "GPE": [
-                    "Indianapolis"
+                    "Indianapolis",
+                    "Teen Vogue"
                 ],
                 "DATE": [
                     "the '80s and '90s",
@@ -270,7 +273,6 @@
                     "Alice",
                     "Anna",
                     "Alice",
-                    "/span><a",
                     "Alice"
                 ],
                 "NORP": [
@@ -278,6 +280,7 @@
                 ],
                 "ORG": [
                     "Medicaid",
+                    "CNN",
                     "the Disability Visibility Project\u2019s"
                 ]
             }
@@ -328,9 +331,9 @@
                 "PERSON": [
                     "Kate Bowler",
                     "Kate",
+                    "Anna",
                     "Kate",
                     "Kate",
-                    "/span><a",
                     "Kate",
                     "Anna"
                 ],
@@ -338,13 +341,14 @@
                     "two"
                 ],
                 "GPE": [
-                    "Canada",
-                    "New York",
-                    "Times</span></em><span"
+                    "Canada"
                 ],
                 "DATE": [
                     "her 20s",
                     "35"
+                ],
+                "ORG": [
+                    "New York Times"
                 ]
             }
         },
@@ -385,16 +389,13 @@
                     "Steve-O",
                     "Laurel Braitman",
                     "Laurel Braitman",
-                    "/span><a href=\"https://www.simonandschuster.com",
-                    "/span><a href=\"https://www.simonandschuster.com",
-                    "/span><a",
-                    "Steve-O</strong"
+                    "angel Kyodo williams",
+                    "Steve-O"
                 ],
                 "ORG": [
                     "Kyodo",
                     "NYT",
-                    "Kyodo",
-                    "the Art of Living with Fearlessness",
+                    "Liberation",
                     "MTV",
                     "Jackass"
                 ],
@@ -403,7 +404,11 @@
                 ],
                 "WORK_OF_ART": [
                     "PhD",
-                    "Love"
+                    "Animal Madness: Inside Their Minds",
+                    "Love",
+                    "Being Black: Zen and the Art of Living with Fearlessness and Grace and Radical Dharma: Talking Race",
+                    "Love",
+                    "A Hard Kick in the Nuts: What I\u2019ve Learned"
                 ]
             }
         },
@@ -560,18 +565,20 @@
                 "PERSON": [
                     "Anna",
                     "La Brega",
-                    "Futuro Studios</span><em><span>.</span></em><span",
-                    "La Brega</span></em><span",
-                    "La Brega</span></em><span"
+                    "La Brega"
                 ],
                 "ORG": [
                     "Alana Casanova-Burgess",
                     "WNYC Studios",
+                    "Futuro Studios",
                     "Alana"
                 ],
                 "NORP": [
                     "Puerto Rican",
                     "Spanish"
+                ],
+                "FAC": [
+                    "La Brega"
                 ],
                 "GPE": [
                     "Puerto Rican"
@@ -637,14 +644,16 @@
                     "Jack",
                     "Sarah Hoggan",
                     "Margaret",
-                    "E.B. Bartels</span></em></a><em><span",
+                    "E.B. Bartels",
                     "Flora",
-                    "Bryan Mellonie</span></em></a><em><span",
+                    "Bryan Mellonie",
                     "Sophia",
                     "Mary Oliver\u2019s",
                     "Jeni",
+                    "Lynne Schimdt\u2019s",
                     "David",
                     "Jimmy Stewart",
+                    "Johnny Carson",
                     "Jimmy",
                     "Beau",
                     "Allison Bergin",
@@ -652,21 +661,24 @@
                     "Amanda Stronza"
                 ],
                 "WORK_OF_ART": [
-                    "Dog Songs,\u201d</span></em></a><em><span> and for more poetry"
+                    "Lifetimes",
+                    "Dog Songs",
+                    "The Tonight Show"
                 ],
                 "CARDINAL": [
                     "Aileen"
                 ],
                 "ORG": [
                     "Encyclopodia",
-                    "href=\"https://www.instagram.com",
-                    "Instagram",
-                    "href=\"https://www.instagram.com",
-                    "p/CoidUMkuIb8/\"><em><span",
                     "CBS"
                 ],
+                "TIME": [
+                    "Morning"
+                ],
+                "FAC": [
+                    "Dog Mountain"
+                ],
                 "GPE": [
-                    "Dog Mountain",
                     "St. Johnsbury",
                     "Vermont"
                 ]
@@ -709,14 +721,14 @@
             "pubDate": "Wed, 15 Feb 2023 12:00:00 -0500",
             "title": "Your One Night Stand Stories, Revisited\n",
             "entities": {
-                "CARDINAL": [
-                    "2021.</span></em></p",
-                    "one"
-                ],
                 "DATE": [
+                    "2021",
                     "Valentine\u2019s Day",
                     "annual",
                     "This week"
+                ],
+                "CARDINAL": [
+                    "one"
                 ],
                 "TIME": [
                     "about one night"
@@ -762,31 +774,32 @@
             "pubDate": "Wed, 08 Feb 2023 12:00:00 -0500",
             "title": "Gabrielle Union Completes Herself\n",
             "entities": {
-                "CARDINAL": [
-                    "2017.</span></em></p"
-                ],
-                "PERSON": [
-                    "Gabrielle Union",
-                    "Anna",
-                    "We\u2019re Going",
-                    "Dwayne Wade.</span"
-                ],
                 "DATE": [
+                    "2017",
                     "2017",
                     "45",
                     "50",
                     "the third season",
                     "19-year-old"
                 ],
+                "PERSON": [
+                    "Gabrielle Union",
+                    "Anna",
+                    "Dwayne Wade"
+                ],
                 "ORDINAL": [
                     "first",
                     "second"
                 ],
                 "ORG": [
+                    "We\u2019re Going",
                     "Apple TV",
                     "A24",
                     "Gabrielle Union",
                     "Gabrielle Union"
+                ],
+                "WORK_OF_ART": [
+                    "You Got Anything Stronger"
                 ]
             }
         },
@@ -832,12 +845,17 @@
             "entities": {
                 "PERSON": [
                     "Margo Price",
-                    "/span><a",
                     "Anna"
                 ],
                 "DATE": [
                     "two years old",
                     "a child days"
+                ],
+                "GPE": [
+                    "Margo"
+                ],
+                "WORK_OF_ART": [
+                    "Maybe We\u2019ll Make It"
                 ],
                 "ORG": [
                     "Margo"
@@ -888,13 +906,21 @@
                     "Kai",
                     "Anna",
                     "Rebecca Martinez Fitzgerald",
-                    "Kai",
-                    "WNYC"
+                    "Kai"
+                ],
+                "PRODUCT": [
+                    "Notes",
+                    "Notes"
                 ],
                 "GPE": [
+                    "America",
                     "Durham",
                     "North Carolina",
                     "America"
+                ],
+                "ORG": [
+                    "WNYC",
+                    "YouTube"
                 ]
             }
         },
@@ -942,8 +968,9 @@
                     "Pico Iyer",
                     "Leonard Cohen",
                     "Pico",
+                    "Pico",
                     "Anna",
-                    "Leonard Cohen.</p"
+                    "Leonard Cohen"
                 ],
                 "GPE": [
                     "California",
@@ -956,9 +983,11 @@
                     "30s"
                 ],
                 "NORP": [
-                    "Pico",
                     "Japanese",
                     "Pico"
+                ],
+                "WORK_OF_ART": [
+                    "\"The Half-Known Life"
                 ]
             }
         },
@@ -1010,7 +1039,7 @@
                     "Evelyn",
                     "Daniel Kwan\u2019s",
                     "Dan",
-                    "Daniel Scheinert.</span></p"
+                    "Daniel Scheinert"
                 ],
                 "ORDINAL": [
                     "first"
@@ -1026,7 +1055,8 @@
                     "2022"
                 ],
                 "WORK_OF_ART": [
-                    "Everything Everywhere All"
+                    "Turn Down for What",
+                    "Everything Everywhere All At Once"
                 ]
             }
         },
@@ -1078,9 +1108,13 @@
                     "2022",
                     "a decade ago",
                     "the years",
-                    "saturday-night-live\"><em><span",
                     "Saturday",
                     "seven years"
+                ],
+                "PRODUCT": [
+                    "Marcel",
+                    "Marcel",
+                    "Marcel"
                 ],
                 "ORG": [
                     "Shell"
@@ -1089,11 +1123,10 @@
                     "Marcel",
                     "Jenny Slate",
                     "Dean",
-                    "Dean Fleischer",
+                    "Dean Fleischer-Camp",
                     "Jenny",
                     "Dean",
                     "Jenny",
-                    "/span><a",
                     "Parks",
                     "Bob",
                     "Jenny",
@@ -1102,13 +1135,8 @@
                 "ORDINAL": [
                     "first"
                 ],
-                "PRODUCT": [
-                    "Marcel",
-                    "Marcel"
-                ],
                 "GPE": [
-                    "Brooklyn",
-                    "Recreation</span></em></a><span"
+                    "Brooklyn"
                 ],
                 "WORK_OF_ART": [
                     "Being Marcel"
@@ -1158,26 +1186,29 @@
             "pubDate": "Wed, 28 Dec 2022 12:00:00 -0500",
             "title": "Trevor Noah Talks Depression, Radical Honesty, and Braiding Hair\n",
             "entities": {
-                "CARDINAL": [
-                    "2019.</span></em></p",
-                    "two"
-                ],
-                "PERSON": [
-                    "Trevor Noah",
-                    "/span><a href=\"https://tressiemc.com/\"><span",
-                    "Tressie McMillan",
-                    "Tressie McMillan Cottom"
-                ],
                 "DATE": [
+                    "2019",
                     "2016",
                     "2017"
                 ],
+                "PERSON": [
+                    "Trevor Noah",
+                    "Tressie McMillan Cottom",
+                    "Sociologist",
+                    "Tressie McMillan Cottom"
+                ],
+                "WORK_OF_ART": [
+                    "The Daily Show"
+                ],
                 "ORG": [
                     "Trevor",
-                    "Death, Sex &"
+                    "Death, Sex & Money"
                 ],
                 "GPE": [
                     "South Africa"
+                ],
+                "CARDINAL": [
+                    "two"
                 ]
             }
         },
@@ -1220,6 +1251,7 @@
             "title": "Radiolab\u2019s Lulu Miller Steals All Her Best Ideas From Her Kids\n",
             "entities": {
                 "PERSON": [
+                    "Radiolab",
                     "Lulu Miller",
                     "Anna"
                 ],
@@ -1231,9 +1263,6 @@
                 ],
                 "WORK_OF_ART": [
                     "The Water Walker"
-                ],
-                "GPE": [
-                    "dsm.web.terrestrials\"><span"
                 ]
             }
         },
@@ -1383,7 +1412,7 @@
             "title": "Estrangement Purgatory\n",
             "entities": {
                 "PERSON": [
-                    ">Brian"
+                    "Brian"
                 ],
                 "ORDINAL": [
                     "first"
@@ -1444,11 +1473,11 @@
                 "PERSON": [
                     "Anna",
                     "Fran Lebowitz",
-                    "Fran",
-                    "Life</em"
+                    "Fran"
                 ],
                 "ORG": [
                     "the Berkeley Repertory Theater",
+                    "Metropolitan Life and Social Studies",
                     "Martin Scorsese\u2019s",
                     "Netflix"
                 ],
@@ -1464,6 +1493,9 @@
                 ],
                 "CARDINAL": [
                     "two"
+                ],
+                "WORK_OF_ART": [
+                    "Pretend It\u2019s A City"
                 ],
                 "PRODUCT": [
                     "Fran"
@@ -1554,29 +1586,29 @@
                     "2020",
                     "the summer of 2020"
                 ],
+                "ORG": [
+                    "Antoinette",
+                    "Chrishana",
+                    "Antoinette",
+                    "Chrishana"
+                ],
                 "PERSON": [
-                    ">Antoinette",
                     "Matt",
                     "Sarah",
                     "Devan",
                     "Matt",
-                    "/span><a",
                     "Sarah",
-                    "Ann Friedman\u2019s",
-                    "/span><a"
+                    "Ann Friedman\u2019s"
                 ],
                 "NORP": [
                     "Korean",
                     "Korean"
                 ],
-                "ORG": [
-                    "Chrishana",
-                    "Antoinette",
-                    "Chrishana"
+                "EVENT": [
+                    "Big Friendship"
                 ],
                 "GPE": [
-                    "Aminatou Sow",
-                    "summary\"><span"
+                    "Aminatou Sow"
                 ]
             }
         },
@@ -1620,17 +1652,18 @@
             "pubDate": "Wed, 09 Nov 2022 12:00:00 -0500",
             "title": "Between Friends: Stories About Race and Friendship\n",
             "entities": {
-                "CARDINAL": [
-                    "2020</p",
-                    "one"
-                ],
                 "DATE": [
+                    "2020",
                     "2016",
                     "Today"
                 ],
+                "CARDINAL": [
+                    "one"
+                ],
                 "PERSON": [
                     "Ashley",
-                    "Kathleen"
+                    "Kathleen",
+                    "Code Switch"
                 ],
                 "ORG": [
                     "Facebook",
@@ -1682,18 +1715,13 @@
             "entities": {
                 "DATE": [
                     "2015",
+                    "2017",
                     "2015",
                     "a few months",
                     "2017"
                 ],
-                "CARDINAL": [
-                    "2017.</p"
-                ],
-                "ORDINAL": [
-                    "first",
-                    "first"
-                ],
                 "PERSON": [
+                    "Anna",
                     "Emma",
                     "Emma",
                     "Anna",
@@ -1704,6 +1732,10 @@
                     "Anna",
                     "Emma",
                     "Emma"
+                ],
+                "ORDINAL": [
+                    "first",
+                    "first"
                 ],
                 "TIME": [
                     "night"
@@ -1757,7 +1789,6 @@
             "entities": {
                 "PERSON": [
                     "Sandra Cisneros",
-                    "Mango Street</em",
                     "Sandra",
                     "Sandra",
                     "Anna",
@@ -1770,10 +1801,12 @@
                 ],
                 "GPE": [
                     "America",
-                    "San Miguel de Allende"
+                    "San Miguel de Allende",
+                    "Mexico"
                 ],
-                "ORG": [
-                    "House"
+                "WORK_OF_ART": [
+                    "The House on Mango Street",
+                    "Woman Without Shame"
                 ],
                 "NORP": [
                     "American",
@@ -1844,6 +1877,7 @@
                 "ORG": [
                     "Hrishikesh",
                     "Hrishikesh",
+                    "Hrishikesh",
                     "PSP",
                     "Hrishikesh",
                     "Hrishikesh"
@@ -1912,8 +1946,9 @@
                     "Rachel",
                     "Rachel",
                     "Rachel",
-                    "/span><a",
+                    "Dead Mom Walking",
                     "Cures",
+                    "Other Disasters",
                     "Rachel",
                     "Elaine",
                     "Rachel"
@@ -1925,12 +1960,14 @@
                 "DATE": [
                     "age 66",
                     "30",
-                    "years",
-                    "Sunday"
+                    "years"
                 ],
                 "ORG": [
                     "Rachel, Elaine\u2019s",
                     "CBC"
+                ],
+                "WORK_OF_ART": [
+                    "The Sunday Edition"
                 ],
                 "GPE": [
                     "U.S"
@@ -1982,8 +2019,7 @@
                     "month-long"
                 ],
                 "PERSON": [
-                    "Andrea",
-                    "/span><a"
+                    "Andrea"
                 ],
                 "GPE": [
                     "Texas"
@@ -2029,12 +2065,8 @@
             "pubDate": "Wed, 28 Sep 2022 12:00:00 -0400",
             "title": "India Walton: I Knew It Was Gonna Be Tough, But I Didn't Expect it to Get Nasty\n",
             "entities": {
-                "PERSON": [
-                    "India Walton",
-                    "Anna",
-                    "very</em"
-                ],
                 "GPE": [
+                    "India",
                     "Buffalo",
                     "New York",
                     "India",
@@ -2057,19 +2089,24 @@
                     "Five months"
                 ],
                 "NORP": [
-                    "Democratic",
-                    "Simpson</a>.</p"
+                    "Democratic"
                 ],
                 "CARDINAL": [
                     "four",
-                    "10",
-                    "one"
+                    "10"
                 ],
                 "ORG": [
                     "DSM",
                     "Supreme Court",
                     "State",
                     "Energy"
+                ],
+                "PERSON": [
+                    "Anna",
+                    "Sonia Sotomayor",
+                    "Madeleine Albright",
+                    "Jennifer Granholm",
+                    "Al Simpson"
                 ],
                 "ORDINAL": [
                     "first"
@@ -2116,6 +2153,9 @@
             "entities": {
                 "PERSON": [
                     "John Waters",
+                    "Pink Flamingos",
+                    "Hairspray",
+                    "Liarmouth",
                     "John Waters",
                     "wanna"
                 ],
@@ -2251,12 +2291,11 @@
                 "NORP": [
                     "American"
                 ],
-                "WORK_OF_ART": [
-                    "The Ghosts of Highway 20</em",
-                    "Compassion"
-                ],
                 "ORG": [
                     "Flannery O'Connor"
+                ],
+                "WORK_OF_ART": [
+                    "Compassion"
                 ]
             }
         },
@@ -2306,14 +2345,15 @@
                     "Freddie",
                     "Freedia",
                     "Freedia",
+                    "Freedia",
+                    "Freedia",
                     "FEMA",
                     "Freedia",
-                    "c/80/1/DSC_0350.JPG",
+                    "Big Freedia",
                     "Big Freedia's",
                     "Big Freedia",
-                    "the Guinness World Record",
-                    "embed/I1Spjf_6FfM",
-                    "Big Freedia"
+                    "Big Freedia",
+                    "the Guinness World Record"
                 ],
                 "GPE": [
                     "New Orleans",
@@ -2321,6 +2361,7 @@
                     "Freedia",
                     "Houston",
                     "Houston",
+                    "New Orleans",
                     "New Orleans",
                     "New Orleans"
                 ],
@@ -2333,14 +2374,13 @@
                     "two years",
                     "years",
                     "the years",
-                    "2015",
-                    "Season 4"
+                    "2015"
                 ],
                 "EVENT": [
                     "Hurricane Katrina",
                     "Katrina",
-                    "Hurricane Katrina.</p",
-                    "Hurricane Katrina.</div"
+                    "Hurricane Katrina",
+                    "Hurricane Katrina"
                 ],
                 "ORDINAL": [
                     "second",
@@ -2349,13 +2389,17 @@
                 "PERSON": [
                     "Freedia",
                     "Devon",
-                    "Devon"
+                    "Devon",
+                    "Rush Jagoe",
+                    "Emily Botein",
+                    "Katie Bishop"
                 ],
                 "WORK_OF_ART": [
                     "Excuse"
                 ],
                 "CARDINAL": [
-                    "300"
+                    "300",
+                    "4"
                 ]
             }
         },
@@ -2403,9 +2447,12 @@
                     "Terry",
                     "David",
                     "David",
-                    "caption\">David Buckel",
+                    "David Buckel",
+                    "Terry Kaelber",
                     "David",
+                    "Terry Kaelber",
                     "Terry",
+                    "Explained",
                     "Tim DeChristopher",
                     "Britt Wray"
                 ],
@@ -2413,24 +2460,20 @@
                     "2018",
                     "60",
                     "the first year",
-                    "target=\"_blank\">Today"
+                    "Today"
                 ],
                 "GPE": [
                     "Brooklyn"
                 ],
                 "LOC": [
+                    "Prospect Park",
                     "Prospect Park"
                 ],
                 "CARDINAL": [
-                    "800px;\"><img",
-                    "one",
-                    "800px;\"><img"
+                    "one"
                 ],
                 "ORG": [
-                    "i/800/600/l/80/2022/08",
-                    "i/800/600/l/80/2022/08/IMG_0372.jpg\"",
-                    "Vox",
-                    "Explained</a"
+                    "Vox"
                 ]
             }
         },
@@ -2491,13 +2534,13 @@
                 ],
                 "ORG": [
                     "Sensations",
+                    "RuPaul\u2019s Drag Race",
                     "HBO"
                 ],
                 "PERSON": [
                     "Bob the Drag Queen",
                     "Bob",
                     "Bob",
-                    "RuPaul",
                     "Bob"
                 ],
                 "LOC": [
@@ -2545,22 +2588,20 @@
             "entities": {
                 "DATE": [
                     "Just weeks",
+                    "early August",
                     "the seventies"
                 ],
                 "PERSON": [
-                    "hints</em",
-                    "Betsy",
+                    "Betsy Mayotte",
                     "Betsy",
                     "Biden",
                     "Betsy",
                     "Betsy"
                 ],
                 "ORG": [
+                    "The Institute of Student Loan Advisors",
                     "Public Student Loan Forgiveness",
-                    "Congress",
-                    "href=\"https://freestudentloanadvice.org",
-                    "href=\"https://freestudentloanadvice.org",
-                    "href=\"https://freestudentloanadvice.org"
+                    "Congress"
                 ],
                 "EVENT": [
                     "PSLF",
@@ -2624,7 +2665,7 @@
                 ],
                 "PERSON": [
                     "Dobbs",
-                    "Jackson</em",
+                    "Jackson",
                     "Laurie Bertram Roberts",
                     "Laurie"
                 ],
@@ -2637,7 +2678,8 @@
                 ],
                 "ORG": [
                     "Supreme Court",
-                    "the Mississippi Reproductive Freedom Fund"
+                    "the Mississippi Reproductive Freedom Fund",
+                    "rage\u2060\u2014and"
                 ],
                 "NORP": [
                     "post-Roe"
@@ -2698,8 +2740,7 @@
                     "18"
                 ],
                 "PERSON": [
-                    "Cari",
-                    "/span><a"
+                    "Cari"
                 ],
                 "PRODUCT": [
                     "I\u2019m 34"
@@ -2744,7 +2785,6 @@
             "entities": {
                 "PERSON": [
                     "Jacob Lawson",
-                    "/span><a",
                     "Jacob Lawson",
                     "Laila Dalton",
                     "Benjamin South"
@@ -2771,6 +2811,8 @@
                 ],
                 "ORG": [
                     "Starbucks",
+                    "Starbucks",
+                    "Workers United",
                     "Starbucks"
                 ],
                 "QUANTITY": [
@@ -2840,6 +2882,7 @@
                 ],
                 "GPE": [
                     "Wyoming",
+                    "Wyoming",
                     "US"
                 ],
                 "PERSON": [
@@ -2891,10 +2934,18 @@
             "pubDate": "Wed, 29 Jun 2022 12:00:00 -0400",
             "title": "The Very Hot Marriage of Niecy Nash and Jessica Betts\n",
             "entities": {
-                "PERSON": [
+                "ORG": [
                     "Niecy Nash",
+                    "R&B",
+                    "Niecy",
+                    "Niecy",
+                    "Niecy Nash",
+                    "Alia Shawkat &",
+                    "NPR"
+                ],
+                "PERSON": [
                     "Jessica Betts",
-                    "Terri Coleman,\"</a><span><span"
+                    "Terri Coleman"
                 ],
                 "ORDINAL": [
                     "first"
@@ -2906,12 +2957,6 @@
                     "Almost two years",
                     "2017",
                     "2015"
-                ],
-                "ORG": [
-                    "Niecy",
-                    "Niecy",
-                    "Niecy Nash",
-                    "Alia Shawkat &"
                 ],
                 "PRODUCT": [
                     "Jessica"
@@ -2972,6 +3017,9 @@
             "entities": {
                 "PERSON": [
                     "Nan Bauer-Maglin",
+                    "Nan",
+                    "Cut Loose",
+                    "Nan",
                     "Drew",
                     "Thomas*",
                     "Mia",
@@ -3043,8 +3091,7 @@
                 "CARDINAL": [
                     "One",
                     "6",
-                    "one",
-                    "800px;\"><img"
+                    "one"
                 ],
                 "ORDINAL": [
                     "first",
@@ -3110,8 +3157,9 @@
                 "PERSON": [
                     "Tony Award",
                     "Harvey Fierstein",
-                    "Torch Song",
-                    "La Cage"
+                    "Hairspray",
+                    "Fiddler",
+                    "Roof"
                 ],
                 "GPE": [
                     "New York City"
@@ -3120,11 +3168,10 @@
                     "the 60s",
                     "the six year"
                 ],
-                "WORK_OF_ART": [
-                    "target=\"_blank\">I Was Better Last Night</a></em>"
-                ],
                 "ORG": [
-                    "Harvey"
+                    "Harvey",
+                    "Torch Song Trilogy",
+                    "La Cage"
                 ],
                 "FAC": [
                     "Broadway",
@@ -3180,7 +3227,8 @@
                     "school year",
                     "the school year",
                     "their first year",
-                    "the year"
+                    "the year",
+                    "this summer"
                 ],
                 "CARDINAL": [
                     "four"
@@ -3234,38 +3282,32 @@
                     "Futuro Media",
                     "Maria",
                     "Maria",
-                    "Latino USA</em",
                     "Maria",
                     "Maria"
                 ],
                 "ORG": [
                     "PRX",
-                    "Audio Reporting</a",
-                    "href=\"https://www.futuromediagroup.org/suave/\">\"Suave",
+                    "Audio Reporting",
+                    "Latino USA",
                     "CBS",
                     "NPR",
                     "CNN",
                     "PBS"
                 ],
+                "LAW": [
+                    "the 2022 Pulitzer Prize"
+                ],
                 "DATE": [
-                    "2022",
                     "years",
                     "25 years",
                     "2020",
                     "these days"
                 ],
-                "WORK_OF_ART": [
-                    "Pulitzer Prize"
-                ],
-                "CARDINAL": [
-                    "em><a"
-                ],
                 "ORDINAL": [
                     "first"
                 ],
                 "GPE": [
-                    "Latina",
-                    "memoir,<span"
+                    "Latina"
                 ]
             }
         },
@@ -3307,22 +3349,22 @@
                     "Britt",
                     "Britt Wray",
                     "Britt",
-                    "href=\"https://conceivablefuture.org/\">C</a><a",
-                    "Wray</a",
-                    "Finding Purpose"
+                    "Gen Dread",
+                    "Britt Wray"
                 ],
                 "GPE": [
                     "Santa Cruz",
-                    "Santa Cruz"
-                ],
-                "CARDINAL": [
-                    "800px;\"><img",
-                    "12"
+                    "Santa Cruz Mountains"
                 ],
                 "WORK_OF_ART": [
-                    "target=\"_blank\">The All We Can Save Project</a"
+                    "The Good Grief Network",
+                    "Generation Dread:\u00a0Finding Purpose"
+                ],
+                "CARDINAL": [
+                    "12"
                 ],
                 "ORG": [
+                    "Conceivable Future",
                     "Britt Wray's",
                     "Stanford University"
                 ]
@@ -3374,16 +3416,12 @@
                     "May 6"
                 ],
                 "CARDINAL": [
-                    "em><a"
+                    "One"
                 ],
                 "ORG": [
-                    "href=\"https://bookshop.org",
                     "Fey.",
-                    "EDM"
-                ],
-                "PERSON": [
-                    "Things</a>.</em",
-                    "Lachi.</span></p"
+                    "EDM",
+                    "Lachi"
                 ],
                 "GPE": [
                     "Maryland"
@@ -3396,6 +3434,9 @@
                 ],
                 "TIME": [
                     "7pm"
+                ],
+                "FAC": [
+                    "The Greene Space"
                 ]
             }
         },
@@ -3442,17 +3483,15 @@
                     "Nancy Solomon",
                     "John",
                     "Joyce Sheridan",
-                    "/span><a href=\"https://bookshop.org",
-                    "/span><a href=\"https://thegreenespace.org/"
+                    "Manny"
                 ],
                 "ORG": [
                     "WNYC"
                 ],
                 "GPE": [
                     "New Jersey",
-                    "Garden",
-                    "San Francisco</strong",
-                    "NYC:</strong><span"
+                    "the Garden State",
+                    "San Francisco"
                 ],
                 "CARDINAL": [
                     "three"
@@ -3461,8 +3500,14 @@
                     "May 3rd",
                     "May 6"
                 ],
+                "LOC": [
+                    "NYC"
+                ],
                 "TIME": [
                     "7pm"
+                ],
+                "WORK_OF_ART": [
+                    "The Greene Space"
                 ]
             }
         },
@@ -3503,16 +3548,6 @@
             "pubDate": "Wed, 27 Apr 2022 12:00:00 -0400",
             "title": "Siblinghood\n",
             "entities": {
-                "PERSON": [
-                    "div aria-hidden=\"false",
-                    "possibly</em",
-                    "Katie",
-                    "Katie",
-                    "Mike",
-                    "Paul",
-                    "Megan",
-                    "Sabrina"
-                ],
                 "CARDINAL": [
                     "one",
                     "More than 200",
@@ -3521,15 +3556,21 @@
                     "four"
                 ],
                 "ORG": [
-                    "Alix",
-                    "href=\"https://bookshop.org",
-                    "Greene"
+                    "Alix"
+                ],
+                "PERSON": [
+                    "Katie",
+                    "Katie",
+                    "Mike",
+                    "Paul",
+                    "Megan",
+                    "Sabrina",
+                    "Manny"
                 ],
                 "DATE": [
-                    "30 years",
+                    "30 years ago",
                     "last year",
                     "2015",
-                    "one-year-later",
                     "May 3rd",
                     "May 6"
                 ],
@@ -3537,11 +3578,16 @@
                     "first"
                 ],
                 "GPE": [
-                    "San Francisco</strong",
-                    "NYC:</strong"
+                    "San Francisco"
+                ],
+                "LOC": [
+                    "NYC"
                 ],
                 "TIME": [
                     "7pm"
+                ],
+                "FAC": [
+                    "The Greene Space"
                 ]
             }
         },
@@ -3588,17 +3634,20 @@
                 "PERSON": [
                     "Carson Tueller",
                     "Carson",
-                    "ED",
-                    "Viagra"
+                    "ED"
                 ],
                 "DATE": [
                     "2013"
+                ],
+                "WORK_OF_ART": [
+                    "Death, Sex,\u00a0& Money"
                 ],
                 "ORG": [
                     "WNYC",
                     "DSM"
                 ],
                 "PRODUCT": [
+                    "Viagra",
                     "Viagra"
                 ],
                 "ORDINAL": [
@@ -3663,6 +3712,7 @@
                 "DATE": [
                     "the 1970s",
                     "1998",
+                    "the years",
                     "next week"
                 ],
                 "ORDINAL": [
@@ -3825,6 +3875,7 @@
                 ],
                 "PERSON": [
                     "Lynn Nottage",
+                    "Clyde",
                     "Lynn",
                     "Lynn"
                 ],
@@ -3882,10 +3933,14 @@
                 ],
                 "PERSON": [
                     "Heather Havrilesky",
+                    "Gawker",
                     "George Civeris",
                     "Tuck Woodstock",
                     "George",
                     "Tuck"
+                ],
+                "ORG": [
+                    "Gender Reveal"
                 ]
             }
         },
@@ -3977,21 +4032,17 @@
                     "Luther Vandross",
                     "Lisa",
                     "Lisa",
-                    "Intense</em",
                     "Lisa",
                     "Lisa Fischer",
                     "Luther Vandross"
                 ],
                 "ORG": [
                     "the Rolling Stones",
-                    "Stardom</a",
                     "COVID",
                     "the Rolling Stones"
                 ],
-                "GPE": [
-                    "Brooklyn"
-                ],
                 "DATE": [
+                    "1989",
                     "15",
                     "19",
                     "14",
@@ -4001,6 +4052,10 @@
                     "2013",
                     "years",
                     "2015"
+                ],
+                "GPE": [
+                    "Brooklyn",
+                    "Stardom"
                 ],
                 "CARDINAL": [
                     "two"
@@ -4012,7 +4067,7 @@
                     "first"
                 ],
                 "QUANTITY": [
-                    "em><a href=\"https://www.youtube.com"
+                    "Twenty Feet"
                 ]
             }
         },
@@ -4138,6 +4193,7 @@
                 "PERSON": [
                     "Andr\u00e9 De Shields",
                     "Tony Award",
+                    "Andr\u00e9",
                     "Sammy Davis Jr."
                 ],
                 "DATE": [
@@ -4208,8 +4264,7 @@
                     "Asia"
                 ],
                 "CARDINAL": [
-                    "5",
-                    "one"
+                    "5"
                 ],
                 "DATE": [
                     "today",
@@ -4226,9 +4281,6 @@
                 ],
                 "FAC": [
                     "BuzzFeed"
-                ],
-                "ORG": [
-                    "href=\"https://www.buzzfeed.com/jaimieseaton"
                 ]
             }
         },
@@ -4274,7 +4326,7 @@
                     "Peloton"
                 ],
                 "PERSON": [
-                    "Robin",
+                    "Robin\u00a0Arz\u00f3n",
                     "Robin",
                     "Robin",
                     "Robin"
@@ -4347,8 +4399,7 @@
                 ],
                 "GPE": [
                     "Tumblr",
-                    "Tumblr",
-                    "story,<span"
+                    "Tumblr"
                 ],
                 "ORDINAL": [
                     "first"
@@ -4399,20 +4450,21 @@
                     "year-end",
                     "another difficult year",
                     "this year",
-                    "Saturday",
+                    "this year",
+                    "2022",
                     "year-end"
                 ],
                 "ORG": [
-                    "Death, Sex &",
-                    "The Favorites File"
+                    "Death, Sex & Money",
+                    "Lazy Genius"
                 ],
                 "PERSON": [
                     "Kendra Adachi",
-                    "Ego Nwodim",
                     "Kendra Adachi"
                 ],
-                "TIME": [
-                    "Night"
+                "WORK_OF_ART": [
+                    "Saturday Night Live's Ego Nwodim",
+                    "Looking for The Favorites File"
                 ]
             }
         },
@@ -4520,8 +4572,12 @@
                 "GPE": [
                     "London"
                 ],
-                "PERCENT": [
-                    "931-2237.</em></p"
+                "ORG": [
+                    "A Fully Packed Life",
+                    "the National Eating Disorders Association's"
+                ],
+                "CARDINAL": [
+                    "931-2237"
                 ]
             }
         },
@@ -4647,7 +4703,7 @@
                     "2017",
                     "the\u00a0years",
                     "eight years",
-                    "September"
+                    "September 2017"
                 ],
                 "PERSON": [
                     "John Vargas",
@@ -4656,20 +4712,27 @@
                     "John",
                     "Theresa",
                     "Theresa",
-                    "Maryann Gray</em></p",
-                    "killer\">The Sorrow",
+                    "Maryann Gray",
                     "Alice Gregory"
                 ],
                 "LOC": [
                     "the Red Sea"
                 ],
                 "ORG": [
+                    "Accidental Impacts",
                     "Theresa",
-                    "EMDR",
+                    "Accidental Casualty Survivors",
+                    "EMDRIA",
                     "The New Yorker"
                 ],
+                "NORP": [
+                    "EMDR"
+                ],
+                "PRODUCT": [
+                    "Sorrow"
+                ],
                 "WORK_OF_ART": [
-                    "the Shame of the Accidental Killer</a>"
+                    "the Shame of the Accidental Killer"
                 ]
             }
         },
@@ -4783,8 +4846,7 @@
                     "long hours"
                 ],
                 "ORG": [
-                    "McDonald",
-                    "next.</p"
+                    "McDonald"
                 ],
                 "GPE": [
                     "Chicago",
@@ -4852,7 +4914,7 @@
                 ],
                 "PERSON": [
                     "J. Smith-Cameron",
-                    "Gerri"
+                    "Gerri on Succession"
                 ],
                 "FAC": [
                     "Broadway"
@@ -5070,8 +5132,7 @@
                     "Josephine Garrett",
                     "Anna",
                     "Josephine Garrett",
-                    "Josephine Garrett",
-                    "Josephine Garrett)</div"
+                    "Josephine Garrett"
                 ],
                 "ORG": [
                     "Baptist",
@@ -5079,19 +5140,19 @@
                     "Sister Josephine"
                 ],
                 "CARDINAL": [
-                    "a\u00a0few hundred",
-                    "800px;\"><img"
+                    "a\u00a0few hundred"
                 ],
                 "ORDINAL": [
-                    "first",
                     "first",
                     "first"
                 ],
                 "DATE": [
                     "2018",
                     "earlier this year",
-                    "the day",
                     "the day"
+                ],
+                "GPE": [
+                    "Instagram"
                 ]
             }
         },
@@ -5206,7 +5267,8 @@
                     "Cora",
                     "Garrett",
                     "Garrett",
-                    "Cora"
+                    "Cora",
+                    "Life Kit"
                 ],
                 "GPE": [
                     "Amanda",
@@ -5289,6 +5351,7 @@
                     "Amanda",
                     "Financial Therapy",
                     "the Crisis Text Line",
+                    "the National\u00a0Suicide\u00a0Prevention Lifeline",
                     "the National Problem Gambling Helpline"
                 ],
                 "DATE": [
@@ -5362,6 +5425,7 @@
                 "ORG": [
                     "Financial Therapy",
                     "the Crisis Text Line",
+                    "the National\u00a0Suicide\u00a0Prevention Lifeline",
                     "the National Problem Gambling Helpline"
                 ],
                 "CARDINAL": [
@@ -5418,7 +5482,9 @@
                     "Marilyn",
                     "Rachael",
                     "Marilyn",
+                    "Radiolab",
                     "Rachael",
+                    "Radiolab",
                     "Elisabeth K\u00fcbler-Ross",
                     "Rachael",
                     "Rachael",
@@ -5434,6 +5500,9 @@
                     "six years old",
                     "the past year"
                 ],
+                "CARDINAL": [
+                    "five"
+                ],
                 "NORP": [
                     "Rachael"
                 ],
@@ -5441,6 +5510,7 @@
                     "The Queen of Dying"
                 ],
                 "ORG": [
+                    "Radiolab",
                     "The New York Times"
                 ]
             }
@@ -5489,6 +5559,7 @@
             "entities": {
                 "PERSON": [
                     "Doree Shafrir",
+                    "Doree",
                     "Doree",
                     "Matt",
                     "Matt"
@@ -5549,7 +5620,8 @@
             "entities": {
                 "DATE": [
                     "2010",
-                    "a few years later"
+                    "a few years later",
+                    "2018"
                 ],
                 "PERSON": [
                     "Johnny Solomon's",
@@ -5563,9 +5635,11 @@
                     "Nancy",
                     "Johnny",
                     "Nancy",
+                    "Johnny",
                     "Molly Solomon",
                     "Johnny",
-                    "Nancy"
+                    "Nancy",
+                    "Anna Sale"
                 ],
                 "NORP": [
                     "Communist"
@@ -5574,9 +5648,7 @@
                     "600"
                 ],
                 "CARDINAL": [
-                    "one",
-                    "2018.</em></p",
-                    "800px;\"><img"
+                    "one"
                 ],
                 "GPE": [
                     "Minnesota",
@@ -5735,8 +5807,9 @@
                     "Michelle",
                     "Michelle",
                     "Michelle",
+                    "Jubilee",
                     "Michelle",
-                    "p><span><a"
+                    "Jubilee"
                 ],
                 "NORP": [
                     "Japanese",
@@ -5748,6 +5821,10 @@
                 "DATE": [
                     "2014",
                     "today"
+                ],
+                "WORK_OF_ART": [
+                    "Crying in H Mart",
+                    "Crying in H Mart Spotify"
                 ],
                 "CARDINAL": [
                     "three",
@@ -5801,12 +5878,6 @@
             "pubDate": "Wed, 02 Jun 2021 12:00:00 -0400",
             "title": "Mahershala Ali and Rafael Casal: Envy Is A Hell Of A Drug\n",
             "entities": {
-                "DATE": [
-                    "Today",
-                    "2019",
-                    "2019",
-                    "2016"
-                ],
                 "PERSON": [
                     "Mahershala Ali",
                     "Oscar",
@@ -5823,14 +5894,20 @@
                     "Mahershala",
                     "Brooklyn"
                 ],
+                "ORG": [
+                    "Blade Marvel",
+                    "Death, Sex & Money's",
+                    "Death, Sex & Money",
+                    "Amatus"
+                ],
                 "LOC": [
                     "the Bay Area",
                     "another Bay Area"
                 ],
-                "ORG": [
-                    "Death, Sex &",
-                    "Money's",
-                    "Death, Sex &"
+                "DATE": [
+                    "2019",
+                    "2019",
+                    "2016"
                 ],
                 "ORDINAL": [
                     "first"
@@ -5894,10 +5971,12 @@
                     "decade"
                 ],
                 "WORK_OF_ART": [
-                    "The Secret To Superhuman Strength</em>"
+                    "The Secret To Superhuman Strength",
+                    "Are You My Mother"
                 ],
                 "ORG": [
-                    "PMS"
+                    "PMS",
+                    "Fun Home"
                 ],
                 "CARDINAL": [
                     "two"
@@ -6013,11 +6092,12 @@
                 ],
                 "ORG": [
                     "Avery Trufelman",
+                    "New York Magazine",
                     "Avery",
                     "Avery"
                 ],
-                "GPE": [
-                    "New York Magazine</em"
+                "WORK_OF_ART": [
+                    "The Cut"
                 ],
                 "CARDINAL": [
                     "two",
@@ -6080,14 +6160,14 @@
                     "Noel",
                     "Noel",
                     "Noel",
-                    "Noel King",
-                    "WNYC</a"
+                    "Noel King on"
                 ],
                 "ORG": [
-                    "NPR"
+                    "NPR",
+                    "WNYC"
                 ],
-                "TIME": [
-                    "Morning"
+                "WORK_OF_ART": [
+                    "Morning Edition"
                 ],
                 "ORDINAL": [
                     "first",
@@ -6142,6 +6222,10 @@
             "pubDate": "Wed, 28 Apr 2021 12:00:00 -0400",
             "title": "The 7 Hardest Conversations I've Ever Had On This Show\n",
             "entities": {
+                "ORG": [
+                    "Death, Sex & Money",
+                    "Death, Sex & Money"
+                ],
                 "DATE": [
                     "today",
                     "seven year",
@@ -6150,15 +6234,15 @@
                 "TIME": [
                     "seven moments"
                 ],
-                "ORG": [
-                    "Awkward Money Talk With Sallie Krawcheck</a></p"
+                "WORK_OF_ART": [
+                    "The Sex Worker Next Door\nChaz Ebert On Life Without Roger\nA Son and His Mom Laugh Through Darkness"
                 ],
                 "PERSON": [
-                    "Son",
                     "Bex Montz",
-                    "Katie Ryan)</p",
+                    "Katie Ryan",
                     "Dwayne Betts",
-                    "Gloria Hill)</p"
+                    "Gloria Hill",
+                    "Dan Savage"
                 ],
                 "CARDINAL": [
                     "Two"
@@ -6220,12 +6304,12 @@
                     "Paul",
                     "Elizabeth Caplice"
                 ],
-                "GPE": [
-                    "doesn\u2019t"
-                ],
                 "CARDINAL": [
                     "one",
                     "4"
+                ],
+                "WORK_OF_ART": [
+                    "Sky Between Branches"
                 ]
             }
         },
@@ -6277,6 +6361,7 @@
                     "a few weeks ago"
                 ],
                 "PERSON": [
+                    "Tessa",
                     "Tessa",
                     "Tessa",
                     "Tessa",
@@ -6340,10 +6425,11 @@
                     "the 1970s",
                     "50s"
                 ],
-                "NORP": [
-                    "American"
+                "WORK_OF_ART": [
+                    "Citizen: An American Lyric"
                 ],
                 "GPE": [
+                    "Us",
                     "Claudia",
                     "Claudia",
                     "Claudia",
@@ -6390,18 +6476,27 @@
                 "DATE": [
                     "This week"
                 ],
+                "WORK_OF_ART": [
+                    "The Experiment"
+                ],
                 "GPE": [
                     "America"
                 ],
+                "PERSON": [
+                    "Experiment"
+                ],
                 "ORG": [
                     "WNYC Studios",
-                    "Death, Sex &"
+                    "Death, Sex & Money"
                 ],
                 "LOC": [
                     "Atlantic"
                 ],
                 "NORP": [
                     "American"
+                ],
+                "PRODUCT": [
+                    "Subscribe"
                 ]
             }
         },
@@ -6471,14 +6566,14 @@
                     "the past year",
                     "a couple of weeks ago",
                     "this year",
-                    "Friday, March 26</strong",
+                    "Friday, March 26",
                     "this day",
-                    "the past year"
+                    "the past year",
+                    "70101"
                 ],
                 "CARDINAL": [
                     "at least 15",
-                    "one",
-                    "70101</strong"
+                    "one"
                 ],
                 "TIME": [
                     "every morning"
@@ -6600,6 +6695,9 @@
                 ],
                 "GPE": [
                     "Hinge"
+                ],
+                "WORK_OF_ART": [
+                    "Love"
                 ]
             }
         },
@@ -6640,11 +6738,8 @@
             "pubDate": "Wed, 24 Feb 2021 12:00:00 -0500",
             "title": "I Was Your Father, Until I Wasn't\n",
             "entities": {
-                "ORDINAL": [
-                    "First",
-                    "first"
-                ],
                 "PERSON": [
+                    "Tony",
                     "Tony",
                     "Tony",
                     "Tony",
@@ -6658,6 +6753,10 @@
                     "Victor",
                     "Tony",
                     "Victor"
+                ],
+                "ORDINAL": [
+                    "First",
+                    "first"
                 ],
                 "DATE": [
                     "mid-20s",
@@ -6811,7 +6910,6 @@
                     "Norma Elia Cant\u00fa",
                     "Norma",
                     "Tino",
-                    "deathsexmoney/\">our Instagram",
                     "Norma",
                     "Meditaci\u00f3n Fronteriza"
                 ],
@@ -6826,6 +6924,7 @@
                     "one"
                 ],
                 "LANGUAGE": [
+                    "English",
                     "English"
                 ],
                 "DATE": [
@@ -6837,10 +6936,13 @@
                     "Trinity University",
                     "the American Folklore Society",
                     "Norma",
-                    "My Mother's Hands"
+                    "My Mother's Hands\u00a0\n \u00a0\nSong of the Borderland"
                 ],
                 "EVENT": [
                     "the Vietnam War"
+                ],
+                "WORK_OF_ART": [
+                    "Canto A La Tierra Fronteriza (Espa\u00f1ol"
                 ]
             }
         },
@@ -6890,6 +6992,7 @@
                     "Glenn"
                 ],
                 "DATE": [
+                    "2020",
                     "decades",
                     "five years ago",
                     "76"
@@ -6995,21 +7098,18 @@
                     "A few months ago",
                     "the past year",
                     "the next 40 years",
-                    "24px 16px",
+                    "over 65",
                     "67 years old",
                     "All month",
                     "40-year",
-                    "year-old",
+                    "70s",
+                    "74-year-old",
                     "February 3"
                 ],
                 "CARDINAL": [
                     "60",
-                    "2px",
-                    "60:</h2",
                     "60",
-                    "#",
-                    "22px",
-                    "40px",
+                    "60",
                     "55",
                     "60",
                     "60",
@@ -7017,18 +7117,17 @@
                     "60",
                     "60"
                 ],
-                "ORG": [
-                    "Sex &",
-                    "Census Bureau",
-                    "Death, Sex &",
-                    "COVID-19"
-                ],
                 "GPE": [
                     "The United States",
                     "U.S.",
                     "the United States",
                     "Laredo",
                     "Texas"
+                ],
+                "ORG": [
+                    "Census Bureau",
+                    "Death, Sex & Money",
+                    "COVID-19"
                 ],
                 "NORP": [
                     "Americans"
@@ -7038,22 +7137,14 @@
                     "only 22%"
                 ],
                 "PERSON": [
-                    "be</em",
                     "Jo Ann Allen",
+                    "Been There Done",
                     "Jo Ann",
-                    "jo-ann-allen-death-sex-money?tab",
                     "Marlo Thomas",
                     "Beverly Glenn-Copeland",
-                    "Elia Cant\u00fa",
+                    "Norma Elia Cant\u00fa",
                     "Jo Ann",
-                    "Anna",
-                    "robert-earl-keen%2Cdeath"
-                ],
-                "ORDINAL": [
-                    "16px",
-                    "4px",
-                    "25px",
-                    "6px"
+                    "Anna"
                 ],
                 "LAW": [
                     "the Baby Boom generation"
@@ -7110,19 +7201,18 @@
                 "CARDINAL": [
                     "more than 60"
                 ],
-                "GPE": [
-                    "Money</em><span>\u2014</span"
+                "ORG": [
+                    "Death, Sex & Money",
+                    "the Death, Sex & Money",
+                    "Frenchie",
+                    "Sharron"
                 ],
                 "PERSON": [
-                    "summary\">Financial Therapy",
                     "Tracy Clayton",
-                    "Josh Gwynn</a",
+                    "Josh Gwynn",
+                    "Akwaeke Emezi",
                     "Skin Hunger",
-                    "Shelby Harris</a>.</em></p"
-                ],
-                "ORG": [
-                    "Emezi</a",
-                    "href=\"https://pledge3.wnyc.org"
+                    "Shelby Harris"
                 ]
             }
         },
@@ -7206,17 +7296,20 @@
             "pubDate": "Tue, 08 Dec 2020 12:00:00 -0500",
             "title": "Stuck Apart, And Falling In Love\n",
             "entities": {
+                "GPE": [
+                    "Marcy",
+                    "Marcy"
+                ],
                 "PERSON": [
                     "Joe",
                     "Marcy",
-                    "Marcy",
                     "Joe",
                     "Joe",
                     "Marcy",
                     "Joe",
                     "Marcy",
                     "Joe",
-                    "Sam Sanders</em"
+                    "Sam Sanders"
                 ],
                 "DATE": [
                     "Earlier this year",
@@ -7228,8 +7321,11 @@
                 "TIME": [
                     "only 15 minutes"
                 ],
+                "LOC": [
+                    "Zoom"
+                ],
                 "ORG": [
-                    "NPR"
+                    "NPR\u2019s It\u2019s Been A Minute"
                 ],
                 "CARDINAL": [
                     "about two"
@@ -7329,12 +7425,16 @@
                 "DATE": [
                     "This past March",
                     "the years",
-                    "years"
+                    "years",
+                    "this year"
                 ],
                 "PERSON": [
                     "Miguel Gutierrez",
                     "Miguel",
                     "Miguel"
+                ],
+                "FAC": [
+                    "Instagram"
                 ]
             }
         },
@@ -7377,11 +7477,11 @@
             "entities": {
                 "PERSON": [
                     "Tom Baker",
-                    "me.</span></p",
                     "Tom",
                     "Tom",
                     "Tom",
                     "Tom",
+                    "Fatal Encounters",
                     "Tom Baker's"
                 ],
                 "WORK_OF_ART": [
@@ -7393,19 +7493,20 @@
                 "DATE": [
                     "2009",
                     "2014",
+                    "2013",
                     "2013"
                 ],
                 "GPE": [
-                    "Phoenix",
-                    "Washington"
+                    "Phoenix"
                 ],
                 "ORG": [
+                    "Mapping Police Violence",
+                    "The Washington Post",
                     "Fatal Encounters",
                     "Guardian"
                 ],
                 "CARDINAL": [
-                    "2.5",
-                    "2013</a"
+                    "2.5"
                 ],
                 "PERCENT": [
                     "98%"
@@ -7455,8 +7556,7 @@
                     "years",
                     "A few months",
                     "This winter",
-                    "March 7",
-                    "the same day"
+                    "March 7"
                 ],
                 "ORG": [
                     "Sissy",
@@ -7466,14 +7566,16 @@
                     "Wyoming State",
                     "Sissy",
                     "the Equality State",
-                    "Sissy"
+                    "Sissy",
+                    "the Wyoming State Legislature"
                 ],
                 "PERSON": [
                     "Vickie Goodwin",
                     "Vickie",
                     "Vickie",
                     "Vickie",
-                    "Vickie"
+                    "Vickie",
+                    "Vickie Goodwin"
                 ],
                 "GPE": [
                     "Wyoming",
@@ -7483,11 +7585,7 @@
                     "Sissy"
                 ],
                 "CARDINAL": [
-                    "four",
-                    "800px;\"><img"
-                ],
-                "FAC": [
-                    "the Wyoming State Legislature.</div"
+                    "four"
                 ]
             }
         },
@@ -7534,6 +7632,7 @@
                 "GPE": [
                     "U.S.",
                     "U.S.",
+                    "Nigeria",
                     "Haiti",
                     "U.S."
                 ],
@@ -7592,7 +7691,7 @@
                 ],
                 "DATE": [
                     "the '80s and '90s",
-                    "Twenty-first"
+                    "the Twenty-first Century"
                 ],
                 "PERSON": [
                     "Alice Wong",
@@ -7603,6 +7702,7 @@
                     "Chinese-American"
                 ],
                 "ORG": [
+                    "Disability Visibility",
                     "First-Person Stories",
                     "Medicaid"
                 ]
@@ -7649,22 +7749,19 @@
                     "Ellie Hern\u00e1ndez",
                     "Tracy Clayton",
                     "Josh Gwynn",
-                    "AFQjCNGwvP-Axd31V3ySPxkOQYXCHa-YaA\">Back",
                     "Josh",
-                    "Tracy",
-                    "info here.</a></em></p"
-                ],
-                "GPE": [
-                    "California",
-                    "U.S.",
-                    "Mexico",
-                    "California"
+                    "Tracy"
                 ],
                 "ORG": [
+                    "California Love",
                     "LAist Studios",
-                    "LAist Studios",
-                    "target=\"_blank",
-                    "target=\"_blank"
+                    "LAist Studios"
+                ],
+                "GPE": [
+                    "U.S.",
+                    "Mexico",
+                    "Los Angeles",
+                    "California"
                 ],
                 "DATE": [
                     "tomorrow, October 16th",
@@ -7718,8 +7815,7 @@
                     "Bianca Giaever",
                     "Bianca",
                     "Audio We Love Festival",
-                    "target=\"_blank",
-                    "target=\"_blank"
+                    "The Believer Magazine"
                 ],
                 "GPE": [
                     "Brooklyn"
@@ -7729,14 +7825,11 @@
                     "Sophia",
                     "Tracy Clayton",
                     "Josh Gwynn",
-                    "AFQjCNGwvP-Axd31V3ySPxkOQYXCHa-YaA\">Back",
                     "Josh",
-                    "Tracy",
-                    "info here.</a></em></p"
+                    "Tracy"
                 ],
-                "CARDINAL": [
-                    "em><a",
-                    "one"
+                "PRODUCT": [
+                    "Constellation Prize"
                 ],
                 "DATE": [
                     "today",
@@ -7748,6 +7841,9 @@
                 ],
                 "PERCENT": [
                     "20%"
+                ],
+                "CARDINAL": [
+                    "one"
                 ]
             }
         },
@@ -7795,33 +7891,30 @@
                     "Friday, October 16th",
                     "a year"
                 ],
-                "PERSON": [
-                    "Money newsletter</a>",
-                    "Tracy Clayton",
-                    "Josh Gwynn",
-                    "AFQjCNGwvP-Axd31V3ySPxkOQYXCHa-YaA\">Back",
-                    "Josh",
-                    "Tracy",
-                    "info here.</a></em></p"
-                ],
                 "WORK_OF_ART": [
                     "Audio We Love"
                 ],
-                "CARDINAL": [
-                    "em><a",
-                    "two",
-                    "twelve",
-                    "one"
+                "ORDINAL": [
+                    "First"
                 ],
                 "ORG": [
                     "the BBC World Service",
                     "Sophie Townsend",
-                    "the BBC World Service",
-                    "target=\"_blank",
-                    "target=\"_blank"
+                    "the BBC World Service"
                 ],
                 "NORP": [
                     "Australian"
+                ],
+                "CARDINAL": [
+                    "two",
+                    "twelve",
+                    "one"
+                ],
+                "PERSON": [
+                    "Tracy Clayton",
+                    "Josh Gwynn",
+                    "Josh",
+                    "Tracy"
                 ]
             }
         },
@@ -7885,16 +7978,16 @@
                     "80%"
                 ],
                 "PERSON": [
-                    "be</em",
-                    "Jo Ann Allen.</p",
+                    "Jo Ann Allen",
                     "Jo Ann",
                     "Jo Ann",
-                    "Ann",
-                    "Jo Ann's"
+                    "Jo Ann",
+                    "Jo Ann's",
+                    "Been There Done",
+                    "Betty"
                 ],
                 "CARDINAL": [
-                    "800px;\"><img",
-                    "103.</div",
+                    "103",
                     "917"
                 ]
             }
@@ -7942,7 +8035,9 @@
                     "this summer",
                     "2016",
                     "2018",
-                    "year"
+                    "last year",
+                    "this year's season",
+                    "season"
                 ],
                 "ORG": [
                     "BMX",
@@ -7958,15 +8053,16 @@
                     "Olympic",
                     "Olympics"
                 ],
+                "GPE": [
+                    "BMX",
+                    "Japan"
+                ],
                 "PERSON": [
                     "Chelsea",
                     "Coronavirus"
                 ],
                 "FAC": [
                     "the BMX Freestyle Park World Cup"
-                ],
-                "GPE": [
-                    "Japan"
                 ],
                 "WORK_OF_ART": [
                     "Game Changer"
@@ -8174,18 +8270,18 @@
             "entities": {
                 "PERSON": [
                     "Maria Hinojosa",
-                    "Latino USA</em",
                     "Maria"
                 ],
-                "DATE": [
-                    "25 years",
-                    "these days"
-                ],
                 "ORG": [
+                    "Latino USA",
                     "CBS",
                     "NPR",
                     "CNN",
                     "PBS"
+                ],
+                "DATE": [
+                    "25 years",
+                    "these days"
                 ],
                 "ORDINAL": [
                     "first"
@@ -8248,7 +8344,6 @@
                 "PERSON": [
                     "Lesely Crawford",
                     "Cara Moody",
-                    "haven\u2019t</em",
                     "Bill Army",
                     "Bill"
                 ],
@@ -8258,9 +8353,6 @@
                 ],
                 "FAC": [
                     "Broadway"
-                ],
-                "ORG": [
-                    "href=\"http://www.wnycstudios.org"
                 ]
             }
         },
@@ -8316,12 +8408,12 @@
                     "Justice",
                     "Supreme Court",
                     "Justice",
-                    "Anna on Death, Sex &"
+                    "Citizens United",
+                    "Anna on Death, Sex & Money"
                 ],
                 "PERSON": [
                     "Sonia Sotomayor",
-                    "/span><a",
-                    "Sonia Manzano</a",
+                    "Sonia Manzano",
                     "Sonia Manzano's",
                     "Sonia",
                     "Anna",
@@ -8346,11 +8438,12 @@
                     "2015",
                     "2016"
                 ],
+                "WORK_OF_ART": [
+                    "Death, Sex & Money",
+                    "Great Guest Takeover"
+                ],
                 "CARDINAL": [
                     "two"
-                ],
-                "WORK_OF_ART": [
-                    "Great Guest Takeover"
                 ]
             }
         },
@@ -8464,15 +8557,15 @@
                 ],
                 "WORK_OF_ART": [
                     "Books We Love",
-                    "The Death of Vivek Oji</em>"
+                    "The Death of Vivek Oji"
                 ],
                 "PERSON": [
                     "Akwaeke Emezi",
+                    "Freshwater",
                     "Akwaeke",
                     "Zoom",
-                    "michael-arceneaux-live-2020",
                     "Michael Arceneaux",
-                    "Ann Friedman here</a></span",
+                    "Ann Friedman",
                     "Akwaeke"
                 ],
                 "DATE": [
@@ -8484,14 +8577,14 @@
                 ],
                 "ORG": [
                     "Vivek",
-                    "Instagram</a",
-                    "the Death, Sex &"
+                    "the Death, Sex & Money"
                 ],
                 "GPE": [
                     "Nigeria",
                     "New Orleans",
                     "Nigeria",
-                    "Aminatou Sow"
+                    "Aminatou Sow",
+                    "Instagram"
                 ],
                 "FAC": [
                     "The Greene Space"
@@ -8607,8 +8700,6 @@
                     "Arthur",
                     "Alan",
                     "Ann Simpson",
-                    "/span><a href=\"http://www.c-span.org",
-                    "Thomas hearings</a>",
                     "Anita Hill",
                     "Thomas",
                     "Alan Simpson"
@@ -8662,16 +8753,19 @@
             "entities": {
                 "PERSON": [
                     "Wendell Pierce",
-                    "Jack Ryan</em",
+                    "Jack Ryan",
                     "Bill Withers",
                     "Ellen Burstyn"
                 ],
                 "ORG": [
                     "Amazon",
+                    "Wendell",
+                    "Wendell",
                     "Wendell"
                 ],
                 "GPE": [
                     "London",
+                    "New Orleans",
                     "New Orleans"
                 ],
                 "WORK_OF_ART": [
@@ -8683,14 +8777,14 @@
                     "95-year-old",
                     "2005",
                     "their seventies",
-                    "the last few years"
+                    "the last few years",
+                    "2012"
                 ],
                 "EVENT": [
                     "Hurricane Katrina",
                     "Hurricane Katrina"
                 ],
                 "CARDINAL": [
-                    "2012.</p",
                     "five"
                 ]
             }
@@ -8808,18 +8902,17 @@
                 "PERSON": [
                     "Ann Friedman",
                     "Ann",
-                    "/span><a",
-                    "Michael Arceneaux",
-                    "michael-arceneaux-live-2020"
+                    "Michael Arceneaux"
+                ],
+                "ORG": [
+                    "Call Your Girlfriend",
+                    "Zoom",
+                    "the Death, Sex & Money"
                 ],
                 "DATE": [
                     "the first decade",
                     "A couple of weeks ago",
                     "the day"
-                ],
-                "ORG": [
-                    "Zoom",
-                    "the Death, Sex &"
                 ],
                 "FAC": [
                     "The Greene Space"
@@ -8872,7 +8965,8 @@
                     "Bobby"
                 ],
                 "GPE": [
-                    "Missouri"
+                    "Missouri",
+                    "Netflix"
                 ],
                 "DATE": [
                     "15 years old",
@@ -8883,6 +8977,7 @@
                     "three"
                 ],
                 "ORG": [
+                    "Queer Eye",
                     "Dewey"
                 ],
                 "ORDINAL": [
@@ -8938,7 +9033,9 @@
                     "Scott",
                     "Leslie",
                     "Scott",
-                    "Journey"
+                    "Leslie",
+                    "Journey",
+                    "Loading"
                 ],
                 "WORK_OF_ART": [
                     "Black Widow:\u00a0"
@@ -8983,8 +9080,6 @@
             "entities": {
                 "PERSON": [
                     "Michael Arceneaux",
-                    "him.</p",
-                    "michael-arceneaux-death-sex-money\">here</a",
                     "Michael",
                     "Ann Friedman",
                     "Aminatou Sow"
@@ -9081,9 +9176,7 @@
                     "Darrell",
                     "Darrell",
                     "Noel King",
-                    "Darrell",
-                    "Crime</a",
-                    "policetorturearchive\">click here</a"
+                    "Darrell"
                 ],
                 "GPE": [
                     "Chicago",
@@ -9093,6 +9186,7 @@
                     "Darrell",
                     "NPR",
                     "NPR",
+                    "Darrell",
                     "Darrell",
                     "the Invisible Institute's Police Torture Archive"
                 ],
@@ -9106,6 +9200,7 @@
                 "WORK_OF_ART": [
                     "Planet Money",
                     "larger Planet Money",
+                    "Paying for the Crime",
                     "Planet Money just re-"
                 ]
             }
@@ -9150,6 +9245,7 @@
             "entities": {
                 "ORG": [
                     "Elle",
+                    "Elle",
                     "contra"
                 ],
                 "TIME": [
@@ -9162,8 +9258,10 @@
                     "March"
                 ],
                 "PERSON": [
-                    "Dennis",
-                    "/span><a"
+                    "Dennis"
+                ],
+                "WORK_OF_ART": [
+                    "Love + Radio"
                 ]
             }
         },
@@ -9225,6 +9323,9 @@
                 ],
                 "CARDINAL": [
                     "two"
+                ],
+                "FAC": [
+                    "Love + Radio"
                 ]
             }
         },
@@ -9271,15 +9372,9 @@
                     "2.3 million",
                     "One"
                 ],
-                "ORG": [
-                    "United",
-                    "Sing Sing",
-                    "The Marshall Project",
-                    "Sing Sing",
-                    "The Marshall Project",
-                    "People Stranded",
-                    "href=\"http://www.wnycstudios.org",
-                    "Ear Hustle</a>.</em></p"
+                "GPE": [
+                    "the United States",
+                    "Ear Hustle"
                 ],
                 "PERSON": [
                     "Lawrence Bartley",
@@ -9297,7 +9392,17 @@
                     "2014",
                     "2014",
                     "27 Years",
-                    "listen#season-5\">the latest season"
+                    "the latest season"
+                ],
+                "ORG": [
+                    "Sing Sing",
+                    "The Marshall Project",
+                    "Sing Sing",
+                    "The Marshall Project"
+                ],
+                "WORK_OF_ART": [
+                    "Inside the Prison Pandemic",
+                    "Keeping Released Prisoners Safe and Sane"
                 ]
             }
         },
@@ -9346,6 +9451,9 @@
                     "13-year-old",
                     "last week"
                 ],
+                "CARDINAL": [
+                    "One"
+                ],
                 "ORG": [
                     "Sharron",
                     "Sharron"
@@ -9393,9 +9501,6 @@
             "entities": {
                 "DATE": [
                     "2014"
-                ],
-                "GPE": [
-                    "us.</span></p"
                 ]
             }
         },
@@ -9435,7 +9540,11 @@
             "link": "http://www.wnycstudios.org/story/protests-responses-death-sex-money/",
             "pubDate": "Fri, 05 Jun 2020 12:00:00 -0400",
             "title": "\"This Has Been A Long Time Coming.\"\n",
-            "entities": {}
+            "entities": {
+                "WORK_OF_ART": [
+                    "Friends"
+                ]
+            }
         },
         {
             "author": "wnycdigital@gmail.com (WNYC Studios)",
@@ -9475,30 +9584,22 @@
             "entities": {
                 "ORG": [
                     "Frenchie",
+                    "COVID",
                     "Frenchie",
-                    "id=\"ember1344",
-                    "Death, Sex &",
+                    "Death, Sex & Money",
                     "Amanda Clayman",
-                    "href=\"http://www.wnycstudios.org/deathsexmoney.org/ftsurvey\">deathsexmoney.org/ftsurvey</a>.</em><br></em></p",
-                    "Death, Sex &"
+                    "Death, Sex & Money"
                 ],
                 "GPE": [
                     "Texas",
                     "Amanda",
-                    "Money",
                     "Anna"
                 ],
                 "CARDINAL": [
                     "three"
                 ],
-                "PERSON": [
-                    "me</em",
-                    "div aria-hidden=\"false",
-                    "/span><a",
-                    "We'd"
-                ],
-                "NORP": [
-                    "id=\"ember1370"
+                "DATE": [
+                    "today"
                 ]
             }
         },
@@ -9592,23 +9693,22 @@
                 "DATE": [
                     "Two years ago",
                     "months",
-                    "earlier this year"
+                    "earlier this year",
+                    "today"
                 ],
                 "PERSON": [
                     "Mathew",
-                    "Mathew",
-                    "/span><a"
+                    "Mathew"
                 ],
                 "PERCENT": [
                     "90%"
                 ],
                 "ORG": [
-                    "Death, Sex &",
+                    "Death, Sex & Money",
                     "Amanda Clayman",
-                    "Death, Sex &"
+                    "Death, Sex & Money"
                 ],
                 "GPE": [
-                    "Money",
                     "Anna"
                 ]
             }
@@ -9656,17 +9756,17 @@
                 "GPE": [
                     "Knoxville",
                     "Tennessee",
-                    "Money",
                     "Anna"
                 ],
                 "DATE": [
                     "this month",
-                    "years"
+                    "years",
+                    "today"
                 ],
                 "ORG": [
-                    "Death, Sex &",
+                    "Death, Sex & Money",
                     "Amanda Clayman",
-                    "Death, Sex &"
+                    "Death, Sex & Money"
                 ]
             }
         },

@@ -63,6 +63,9 @@
             "entities": {
                 "WORK_OF_ART": [
                     "the Pentagon Papers"
+                ],
+                "GPE": [
+                    "America"
                 ]
             }
         },
@@ -157,8 +160,8 @@
             "pubDate": "Thu, 30 Mar 2023 09:00:00 +0000",
             "title": "Best Of: Dan White Jr., and the Great Pastor Resignation",
             "entities": {
-                "CARDINAL": [
-                    "2022.</p"
+                "DATE": [
+                    "2022"
                 ]
             }
         },
@@ -193,9 +196,6 @@
                 ],
                 "NORP": [
                     "Iraqi"
-                ],
-                "ORG": [
-                    "everything.</p"
                 ]
             }
         },
@@ -343,27 +343,23 @@
             "entities": {
                 "ORG": [
                     "Kimberly",
-                    "Slate</li><li>\u201c\u2018<a href=\"https://calmatters.org"
-                ],
-                "CARDINAL": [
-                    "reading:</strong></p><ul><li>\u201c<a"
+                    "Failed Mental Health System",
+                    "Put People Under Conservatorships"
                 ],
                 "PERSON": [
                     "Schizophrenia",
                     "Thomas Curwen",
                     "Henry Grabar",
                     "Jocelyn Wiener",
-                    "Cal"
+                    "Cal Matters"
                 ],
                 "GPE": [
                     "California",
                     "Los Angeles",
-                    "california",
-                    "california",
                     "California"
                 ],
                 "WORK_OF_ART": [
-                    "target=\"_blank\">We\u2019ve Lost Our Compass"
+                    "Lost Our Compass"
                 ]
             }
         },
@@ -433,10 +429,10 @@
             "entities": {
                 "PERSON": [
                     "Logan Lane",
-                    "Alex Vadukul <a"
+                    "Alex Vadukul"
                 ],
                 "ORG": [
-                    "the Luddite Club for The Times.</p"
+                    "the Luddite Club for The Times"
                 ]
             }
         },
@@ -630,9 +626,6 @@
                 ],
                 "PERSON": [
                     "Covid"
-                ],
-                "NORP": [
-                    "Chinese"
                 ]
             }
         },
@@ -724,7 +717,8 @@
                     "Ukrainian"
                 ],
                 "GPE": [
-                    "Russia"
+                    "Russia",
+                    "Ukraine"
                 ]
             }
         },
@@ -874,7 +868,7 @@
             "title": "'First Person' Returns This Week",
             "entities": {
                 "DATE": [
-                    "This Thursday, Oct. 27",
+                    "Thursday, Oct. 27",
                     "weekly"
                 ],
                 "NORP": [
@@ -971,9 +965,6 @@
             "entities": {
                 "GPE": [
                     "Ukrainian"
-                ],
-                "PERSON": [
-                    "him.</p"
                 ]
             }
         },
@@ -1031,10 +1022,8 @@
             "title": "Sharone Mitchell Jr. and the Progressive Case Against Gun Permits",
             "entities": {
                 "ORG": [
-                    "N.R.A."
-                ],
-                "PRODUCT": [
-                    "the Supreme Court?</p>\n"
+                    "N.R.A.",
+                    "the Supreme Court"
                 ]
             }
         },
@@ -1066,6 +1055,9 @@
             "entities": {
                 "NORP": [
                     "Christian"
+                ],
+                "GPE": [
+                    "America"
                 ]
             }
         },
@@ -1126,7 +1118,7 @@
                     "Lulu Garcia-Navarro"
                 ],
                 "ORG": [
-                    "New York Times"
+                    "New York Times Opinion"
                 ]
             }
         }

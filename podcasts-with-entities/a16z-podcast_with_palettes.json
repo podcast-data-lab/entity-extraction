@@ -47,12 +47,14 @@
                     "Danny Postma",
                     "Danny Postma",
                     "Twitter",
-                    "Headshot Pro",
+                    "https://twitter.com/dannypostmaaHeadshot Pro",
                     "ProfilePicture",
-                    "Danny"
+                    "Danny",
+                    "Bovell",
+                    "Twitter"
                 ],
                 "CARDINAL": [
-                    "2016.</p><p"
+                    "2016.Fast"
                 ],
                 "DATE": [
                     "today"
@@ -97,15 +99,22 @@
                 "ORG": [
                     "Connie Chan"
                 ],
-                "DATE": [
-                    "daily"
+                "GPE": [
+                    "a16z.com/fieldnotes"
+                ],
+                "PERSON": [
+                    "Connie",
+                    "Twitter",
+                    "https://twitter.com/conniechanDeb",
+                    "https://www.youtube.com/watch?v=Is2pm06MNt8Deb",
+                    "Twitter"
                 ],
                 "CARDINAL": [
                     "1",
                     "2"
                 ],
-                "PERSON": [
-                    "Chris"
+                "NORP": [
+                    "https://www.youtube.com/watch?v=osJp6S66u2UChris"
                 ]
             }
         },
@@ -147,7 +156,7 @@
                     "Coinbase"
                 ],
                 "WORK_OF_ART": [
-                    "target=\"_blank\">Web3 Marketing: A Handbook for the Next Internet Revolution</a>"
+                    "Web3 Marketing: A Handbook for the Next Internet Revolution"
                 ],
                 "PERSON": [
                     "Amanda Cassatt",
@@ -188,9 +197,10 @@
             "pubDate": "Thu, 6 Apr 2023 07:00:00 +0000",
             "title": "Building Hardware and Taking on the Phone Giants",
             "entities": {
-                "GPE": [
+                "ORG": [
                     "REALLY",
-                    "href=\"https://www.youtube.com/@NothingTechnology\">https://www.youtube.com/@NothingTechnology</a></li><li"
+                    "OnePlus",
+                    "https://twitter.com/nothingNothing"
                 ],
                 "DATE": [
                     "today",
@@ -201,16 +211,17 @@
                     "Carl",
                     "Carl",
                     "Youtube",
-                    "Find Carl",
+                    "https://www.youtube.com/@NothingTechnologyFind Carl",
                     "Twitter",
-                    "Ear"
-                ],
-                "ORG": [
-                    "OnePlus"
+                    "Ear",
+                    "Twitter"
                 ],
                 "CARDINAL": [
                     "1",
                     "over 400"
+                ],
+                "PRODUCT": [
+                    "market05:19 - Securing"
                 ]
             }
         },
@@ -258,21 +269,23 @@
                 "ORG": [
                     "Samsung",
                     "Prada",
-                    "Chief Design and Innovation Officer of Brud",
-                    "en\">https://twitter.com",
-                    "influencers</li><li>06:25 - Miquela\u2019s"
+                    "Chief Design and Innovation Officer of Brud"
                 ],
                 "GPE": [
                     "Miquela",
-                    "Miquela"
+                    "Miquela",
+                    "Youtube"
                 ],
                 "WORK_OF_ART": [
                     "Trevor McFedries"
                 ],
                 "PERSON": [
                     "Isaac Bratzel",
-                    "Resources:</p><p>\u2018Lil Miquela",
-                    "Isaac"
+                    "https://www.instagram.com/lilmiquela/\u2018Lil Miquela",
+                    "Twitter",
+                    "Isaac",
+                    "Brud on Instagram",
+                    "Twitter"
                 ]
             }
         },
@@ -308,16 +321,15 @@
                 "DATE": [
                     "the last decade",
                     "this year",
-                    "year"
+                    "year",
+                    "2024"
                 ],
                 "ORDINAL": [
                     "fourth"
                 ],
                 "ORG": [
                     "GMV",
-                    "Zach Cohen.</p><p",
-                    "the list</li><li>09:49 - Entertainment",
-                    "marketplaces</li><li>14:47 - Trust"
+                    "marketplaces14:47 - Trust"
                 ],
                 "CARDINAL": [
                     "nearly three dozen",
@@ -326,8 +338,10 @@
                 "PERSON": [
                     "Connie Chan",
                     "Olivia Moore",
-                    "Resources:</p><ul><li><strong",
-                    "Connie"
+                    "Zach Cohen",
+                    "Connie",
+                    "Covered:00:00- Introduction02:28 - Why",
+                    "Twitter"
                 ],
                 "FAC": [
                     "Marketplace"
@@ -368,15 +382,17 @@
             "entities": {
                 "ORG": [
                     "Sriram and Aarthi",
-                    "podcasting</li><li>28:10 - Advice",
-                    "Find Aarthi"
+                    "https://twitter.com/aarthirFind Aarthi"
                 ],
                 "LOC": [
+                    "the Good Time Show",
                     "the Good Time Show"
                 ],
                 "PERSON": [
                     "Elon Musk",
                     "Calvin Harris",
+                    "Naomi Osaka",
+                    "https://twitter.com/sriramkFind Aarthi",
                     "Twitter",
                     "Twitter"
                 ],
@@ -386,15 +402,6 @@
                 ],
                 "PRODUCT": [
                     "Twitter"
-                ],
-                "PERCENT": [
-                    "podcast</li><li>08:45 - Differentiating</li><li>13:10 - Information"
-                ],
-                "WORK_OF_ART": [
-                    "Find Sriram"
-                ],
-                "FAC": [
-                    "the Good Time Show"
                 ]
             }
         },
@@ -440,11 +447,16 @@
                 ],
                 "PERSON": [
                     "Guy",
+                    "Guy",
                     "Twitter",
-                    "Guy",
-                    "Guy",
-                    "Guy",
+                    "https://lexica.art/\u00a0Topics Covered",
                     "Twitter"
+                ],
+                "CARDINAL": [
+                    "https://twitter.com/GuyP/status/1601342688225525761Prompt"
+                ],
+                "NORP": [
+                    "https://promptbase.com/Lexica"
                 ],
                 "PERCENT": [
                     "1%"
@@ -485,21 +497,19 @@
                 "DATE": [
                     "the 1960s",
                     "Half a century later",
-                    "today"
+                    "today",
+                    "https://a16z.com/AD-summit/Anduril"
                 ],
                 "ORG": [
                     "the U.S. Department of Defense",
-                    "Anduril Industries",
-                    "href=\"https://twitter.com"
+                    "Anduril Industries"
                 ],
                 "PERSON": [
-                    "Palmer Luckey"
+                    "Palmer Luckey",
+                    "Twitter"
                 ],
                 "LOC": [
                     "Silicon Valley"
-                ],
-                "NORP": [
-                    "American"
                 ]
             }
         },
@@ -535,7 +545,9 @@
                 "PERSON": [
                     "Joshua Browder's",
                     "Browder",
-                    "Find Josh"
+                    "Josh",
+                    "Twitter",
+                    "Twitter"
                 ],
                 "CARDINAL": [
                     "2"
@@ -545,8 +557,8 @@
                 ],
                 "ORG": [
                     "AI",
-                    "AI",
-                    "complex?</p><p>37:54 - Entering the Supreme Court</p><p>38:38 - Lawyer"
+                    "24:50 - Cross",
+                    "AI"
                 ]
             }
         },
@@ -642,18 +654,20 @@
                 "ORG": [
                     "AI",
                     "Amjad Masad",
-                    "AI",
-                    "href=\"https://twitter.com"
+                    "AI"
                 ],
                 "PERSON": [
                     "Replit",
                     "Replit",
-                    "AI enable?</li><li>40:54 - Developing",
+                    "AI enable?40:54 - Developing",
                     "Replit",
-                    "Replit Ghostwriter",
-                    "Find Amjad",
+                    "https://replit.com/Replit Ghostwriter",
+                    "https://replit.com/bountiesFind Amjad",
                     "Twitter",
                     "Twitter"
+                ],
+                "DATE": [
+                    "1000x"
                 ],
                 "GPE": [
                     "LinkedIn"
@@ -695,32 +709,24 @@
                     "2012",
                     "2023",
                     "2022",
-                    "decade",
-                    "2022",
                     "2021"
                 ],
                 "ORG": [
                     "Apple",
-                    "href=\"https://twitter.com",
-                    "Olivia",
-                    "href=\"https://twitter.com",
-                    "href=\"https://twitter.com",
-                    "Olivia",
-                    "href=\"https://twitter.com",
-                    "Stardust Period Tracker",
-                    "SquadApp"
+                    "https://twitter.com/omooretweetsOlivia",
+                    "https://twitter.com/venturetwins/status/1616121691830390784Olivia"
                 ],
                 "MONEY": [
                     "320B",
                     "1",
                     "1",
-                    "1</li><li>09:30"
+                    "109:30"
                 ],
                 "CARDINAL": [
                     "billion",
                     "10",
-                    "2022</li><li>03:32",
-                    "2023</li><li>15:35"
+                    "202203:32",
+                    "202315:35"
                 ],
                 "FAC": [
                     "the App Store"
@@ -728,26 +734,23 @@
                 "PERSON": [
                     "Olivia Moore",
                     "Follow Olivia",
-                    "Justine",
-                    "Apps",
-                    "Talking Ben",
-                    "Locket Widget",
-                    "Lensa",
-                    "Temu",
+                    "https://twitter.com/omooretweets/status/1616480480546942976Apps",
+                    "App",
+                    "Ben the Dog:",
                     "Twitter"
                 ],
                 "GPE": [
                     "US",
-                    "Olivia",
-                    "status/1605983056682045440</a></li><li",
                     "LinkedIn"
                 ],
                 "PRODUCT": [
-                    "Beanie Baby",
-                    "product</li><li>13:46 - Growing"
+                    "Beanie Baby"
                 ],
                 "NORP": [
                     "Chinese"
+                ],
+                "QUANTITY": [
+                    "202339:38 - Invisible AI products41:46 - Limiting"
                 ]
             }
         },
@@ -800,10 +803,18 @@
                     "one"
                 ],
                 "ORG": [
-                    "American Dynamism Summit"
+                    "American Dynamism Summit",
+                    "WeWork",
+                    "37:51 - Building Flow\u00a043:51 - Cities"
                 ],
-                "NORP": [
-                    "American"
+                "EVENT": [
+                    "16:19 - Lessons"
+                ],
+                "MONEY": [
+                    "19:13 - Work &"
+                ],
+                "TIME": [
+                    "27:34"
                 ]
             }
         },
@@ -891,6 +902,7 @@
                 "CARDINAL": [
                     "dozens",
                     "one",
+                    "2023.Emerging",
                     "40",
                     "2",
                     "12",
@@ -901,11 +913,10 @@
                     "Fintech",
                     "American Dynamism",
                     "Bio & Health",
-                    "GPT",
-                    "the Nuclear Renaissance - Michelle Volz</li><li>(33:48",
+                    "the Nuclear Renaissance - Michelle",
                     "the Space Supply Chain - Ryan",
                     "The Biggest Company",
-                    "Resources:</p><p><a href=\"https://a16z.com/2022/11/02/america"
+                    "the World - Vijay Pande(51:17"
                 ],
                 "NORP": [
                     "Anish"
@@ -915,8 +926,11 @@
                     "Michelle Volz",
                     "Ryan McEntush",
                     "Vijay Pande",
-                    "Julie Yoo.</p><p",
+                    "Julie Yoo",
                     "Twitter"
+                ],
+                "ORDINAL": [
+                    "first"
                 ],
                 "GPE": [
                     "LinkedIn"
@@ -960,6 +974,7 @@
                 "CARDINAL": [
                     "dozens",
                     "one",
+                    "2023.Emerging",
                     "40",
                     "2",
                     "12",
@@ -974,18 +989,19 @@
                     "Connie Chan",
                     "Fintech",
                     "American Dynamism",
-                    "Bio & Health!</p><p"
+                    "Bio & Health!For"
                 ],
                 "PERSON": [
                     "Anne Lee Skates",
                     "Jack Soslow",
                     "Doug McCracken",
                     "Sarah Wang",
+                    "Sumeet Singh",
                     "Complex Workflows - Sarah",
                     "Twitter"
                 ],
                 "WORK_OF_ART": [
-                    "The Metaverse Goes Fashion Forward - Doug McCracken</li><li>(59:24) Generative AI Advances Beyond \u201cText to Image"
+                    "The Metaverse Goes Fashion Forward - Doug McCracken(59:24)"
                 ],
                 "GPE": [
                     "LinkedIn"
@@ -1026,14 +1042,13 @@
                     "Alex Fielding",
                     "Woz",
                     "Steve",
-                    "Youtube",
                     "Twitter"
                 ],
                 "PRODUCT": [
                     "Tetris"
                 ],
                 "GPE": [
-                    "ZZbrwxOs0y4\">https://youtu.be",
+                    "Youtube",
                     "LinkedIn"
                 ]
             }
@@ -1076,13 +1091,12 @@
                     "Jason",
                     "Jason",
                     "Jason",
-                    "Jason",
-                    "Jason",
+                    "Twitter",
                     "Twitter"
                 ],
                 "ORG": [
                     "Entrepreneur Magazine",
-                    "href=\"https://twitter.com"
+                    "https://twitter.com/heyfeiferJason"
                 ],
                 "CARDINAL": [
                     "two",
@@ -1261,9 +1275,8 @@
                 "ORG": [
                     "Florence\u2019s Uffizi Gallery",
                     "Ford Motors",
+                    "dead?7:05 - Async",
                     "GitLab",
-                    "SafetyWing</p><ul><li",
-                    "href=\"https://twitter.com/SRasch\">https://twitter.com/SRasch</a></li></ul><p",
                     "GitLab"
                 ],
                 "LOC": [
@@ -1284,15 +1297,13 @@
                 ],
                 "PERSON": [
                     "Robert Propst",
-                    "href=\"https://www.deel.com/\">https://www.deel.com/</a></li><li",
                     "Twitter",
                     "Twitter",
                     "Twitter",
-                    "Darren",
                     "Twitter"
                 ],
-                "EVENT": [
-                    "benefits</li><li>36:04 - Remote"
+                "PRODUCT": [
+                    "Twitter"
                 ],
                 "GPE": [
                     "LinkedIn"
@@ -1330,30 +1341,28 @@
             "entities": {
                 "CARDINAL": [
                     "three",
+                    "44.01We",
                     "44.01"
                 ],
+                "GPE": [
+                    "Charm IndustrialAn",
+                    "LinkedIn"
+                ],
                 "ORG": [
-                    "challenges.</p><ul><li",
+                    "TravertineMineralization",
                     "Travertine",
                     "COO",
-                    "Travertine",
-                    "href=\"https://twitter.com/kdkhimji\">https://twitter.com/kdkhimji</a></li></ul><p"
+                    "https://www.travertinetech.com/Laura"
                 ],
                 "PERSON": [
                     "Peter Reinhardt",
                     "Laura Lammers",
                     "Karan Khimji",
-                    "Peter",
                     "Twitter",
-                    "href=\"https://www.travertinetech.com/\">https://www.travertinetech.com/</a></li><li",
-                    "Laura",
-                    "Twitter",
+                    "https://twitter.com/reinpkTravertine:Travertine",
                     "Twitter",
                     "Twitter",
                     "Twitter"
-                ],
-                "GPE": [
-                    "LinkedIn"
                 ]
             }
         },
@@ -1385,23 +1394,19 @@
             "pubDate": "Thu, 8 Dec 2022 14:00:00 +0000",
             "title": "Ben Horowitz and Brian Armstrong on Building and Overcoming the Hard Things",
             "entities": {
-                "ORG": [
-                    "FTX"
-                ],
                 "PERSON": [
                     "Brian Armstrong",
                     "Brian",
                     "Ben Horowitz",
-                    "Brian",
-                    "Ben",
+                    "Twitter",
+                    "Twitter",
                     "Twitter"
                 ],
                 "PRODUCT": [
-                    "Coinbase",
                     "Coinbase"
                 ],
                 "WORK_OF_ART": [
-                    "The Hard Thing About Hard Things.</p><p"
+                    "The Hard Thing About Hard Things"
                 ],
                 "GPE": [
                     "LinkedIn"
@@ -1447,19 +1452,17 @@
                 "PERSON": [
                     "Nan Ransohoff",
                     "Brennan Spellacy",
-                    "Follow Brennan",
-                    "Twitter",
                     "Twitter"
+                ],
+                "GPE": [
+                    "options?In",
+                    "LinkedIn"
                 ],
                 "ORG": [
                     "Patch",
                     "Patch",
                     "Patch",
-                    "Patch",
-                    "href=\"https://twitter.com"
-                ],
-                "GPE": [
-                    "LinkedIn"
+                    "Patch"
                 ]
             }
         },
@@ -1493,12 +1496,13 @@
             "title": "The Economics of Carbon Removal with Nan Ransohoff",
             "entities": {
                 "DATE": [
-                    "Today",
+                    "yet?Today",
                     "today",
                     "next week"
                 ],
                 "PERSON": [
                     "Nan Ransohoff",
+                    "https://twitter.com/nanransohoffNan",
                     "Twitter"
                 ],
                 "ORG": [
@@ -1557,8 +1561,7 @@
                 ],
                 "ORG": [
                     "Flexport",
-                    "Founder",
-                    "Flexport"
+                    "Founder"
                 ],
                 "PERSON": [
                     "Ryan Petersen",
@@ -1617,13 +1620,12 @@
                 "ORG": [
                     "Stephenson",
                     "AR/VR",
-                    "IP"
-                ],
-                "MONEY": [
-                    "Timestamps:</strong></p><p>0:00 - Introduction</p><p>1:20 - Tech"
+                    "IP",
+                    "Interoperability8:52 - Incentive",
+                    "https://twitter.com/nealstephensonLamina1"
                 ],
                 "CARDINAL": [
-                    "2022</p><p>1:11:59"
+                    "20221:11:59"
                 ],
                 "GPE": [
                     "LinkedIn"
@@ -1665,7 +1667,6 @@
                 "PERSON": [
                     "Chris Power",
                     "Chris",
-                    "Twitter",
                     "Twitter"
                 ],
                 "NORP": [
@@ -1674,10 +1675,14 @@
                 ],
                 "ORG": [
                     "Hadrian",
-                    "timeliness</p><p>46:09 - Hadrian\u2019s"
+                    "stake?21:03 - Onshoring manufacturing24:06 - Is capital enough?24:43 - Fixing",
+                    "timeliness46:09 - Hadrian\u2019s"
                 ],
                 "ORDINAL": [
                     "first"
+                ],
+                "CARDINAL": [
+                    "1?8:56"
                 ],
                 "GPE": [
                     "LinkedIn"
@@ -1719,11 +1724,12 @@
                 "PERSON": [
                     "Balaji Srinivasan",
                     "Balaji",
-                    "Balaji",
+                    "https://twitter.com/balajisBalaji",
                     "Twitter"
                 ],
                 "GPE": [
                     "Leviathan",
+                    "powerless2:28:46",
                     "LinkedIn"
                 ],
                 "CARDINAL": [
@@ -1732,9 +1738,6 @@
                 ],
                 "ORDINAL": [
                     "first"
-                ],
-                "ORG": [
-                    "last</p><p>55:49 - Diplomatic"
                 ]
             }
         },
@@ -1779,11 +1782,11 @@
                 "NORP": [
                     "Cambrian"
                 ],
-                "ORG": [
-                    "society</p><p>20:45 - Automobile"
-                ],
                 "DATE": [
                     "Today"
+                ],
+                "LAW": [
+                    "capitalism1:17:32 - Reform"
                 ],
                 "GPE": [
                     "LinkedIn"
@@ -1822,10 +1825,8 @@
                 "PERSON": [
                     "Midjourney",
                     "Karen Cheng",
-                    "content</p><p>09:28",
-                    "Resources:</p><p><a href=\"https://www.youtube.com/watch?v=3Gh1dyM6yxE\">Karen",
-                    "TED Talk</a></p><p><a",
-                    "href=\"https://www.karenx.com/\">Karen",
+                    "Karen",
+                    "TED TalkKaren\u2019s",
                     "Twitter"
                 ],
                 "ORG": [
@@ -1834,36 +1835,29 @@
                     "Cosmo",
                     "AI",
                     "AI",
-                    "cover</p><p>24:19 - Inpainting",
+                    "Cosmo",
+                    "artists31:54 - AI",
                     "AI",
                     "AI",
-                    "website</a></p><p><a href=\"https://www.instagram.com/p/CfEpdJrLs49/?hl=",
-                    "en\">Cosmo",
-                    "href=\"https://twitter.com",
+                    "websiteCosmo",
                     "AI"
                 ],
                 "DATE": [
                     "recent months",
-                    "the beginning of the",
-                    "business</p><p>43:13"
+                    "the beginning of the"
                 ],
                 "ORDINAL": [
                     "second",
                     "first"
-                ],
-                "PRODUCT": [
-                    "pessimism</p><p>38:19 - Turning"
-                ],
-                "GPE": [
-                    "en\">Karen",
-                    "OpenAI",
-                    "LinkedIn"
                 ],
                 "MONEY": [
                     "15"
                 ],
                 "CARDINAL": [
                     "2"
+                ],
+                "GPE": [
+                    "LinkedIn"
                 ]
             }
         },
@@ -1906,7 +1900,7 @@
                     "LEO",
                     "LEO",
                     "Apple",
-                    "governance</p><p>38:27 - Orbital"
+                    "Moriba Jah"
                 ],
                 "CARDINAL": [
                     "three"
@@ -1917,18 +1911,16 @@
                     "Alex Fielding",
                     "Moriba Jah",
                     "Privateer",
-                    "Steve Wozniak</strong></p><p>00:00 - Intro</p><p>3:24 - Why",
+                    "Steve Wozniak00:00 - Intro3:24 - Why",
                     "Steve",
                     "Alex Fielding",
-                    "Moriba Jah</strong></p><p>24:43",
-                    "Privateer",
+                    "Moriba Jah24:43 - Is",
                     "Privateer",
                     "Wayfinder",
                     "Twitter",
-                    "Steve Wozniak",
+                    "Wozniak",
                     "Twitter",
-                    "Alex Fielding",
-                    "Moriba Jah",
+                    "https://twitter.com/stevewozAlex Fielding",
                     "Twitter"
                 ],
                 "GPE": [
@@ -2061,10 +2053,6 @@
                     "Chris Dixon",
                     "Kevin Rose",
                     "Proof Collective",
-                    "Digg",
-                    "Dixon",
-                    "Kevin Rose",
-                    "Proof Collective",
                     "Digg"
                 ],
                 "CARDINAL": [
@@ -2129,6 +2117,7 @@
                     "AI"
                 ],
                 "DATE": [
+                    "more?In",
                     "October 2020"
                 ]
             }
@@ -2164,7 +2153,8 @@
                 "DATE": [
                     "today",
                     "hundreds of years",
-                    "December 2019"
+                    "December 2019",
+                    "today"
                 ],
                 "PERSON": [
                     "Ben Horowitz",
@@ -2172,9 +2162,6 @@
                 ],
                 "ORG": [
                     "Sonal Choksi"
-                ],
-                "WORK_OF_ART": [
-                    "target=\"_blank\">What You Do is Who You"
                 ]
             }
         },
@@ -2271,7 +2258,6 @@
                 "ORG": [
                     "Dell Technologies",
                     "Sonal Choksi",
-                    "Founder",
                     "Dell Technologies",
                     "Dell + EMC + VMWare 2015-2016",
                     "Dell"
@@ -2279,9 +2265,6 @@
                 "CARDINAL": [
                     "one",
                     "one"
-                ],
-                "GPE": [
-                    "Leader.</i></a"
                 ]
             }
         },
@@ -2414,7 +2397,6 @@
                     "Annie",
                     "Marc Andreessen",
                     "Sonal Chokshi",
-                    "Annie",
                     "Marc Andreessen"
                 ],
                 "ORDINAL": [
@@ -2422,6 +2404,12 @@
                     "second",
                     "first",
                     "first"
+                ],
+                "WORK_OF_ART": [
+                    "Thinking in Bets"
+                ],
+                "ORG": [
+                    "Annie"
                 ]
             }
         },
@@ -2460,7 +2448,8 @@
                     "Nadia Asparouhova",
                     "Sonal Choksi",
                     "Asparouhova",
-                    "Stripe"
+                    "Working in Public: The Making and Maintenance of Open Source Software",
+                    "Stripe Press"
                 ]
             }
         },
@@ -2494,6 +2483,9 @@
             "entities": {
                 "DATE": [
                     "November 2020"
+                ],
+                "PERSON": [
+                    "Matt Abrahams"
                 ],
                 "ORG": [
                     "Stanford",
@@ -2539,6 +2531,9 @@
                 ],
                 "TIME": [
                     "16 Minutes"
+                ],
+                "PERSON": [
+                    "Eugene Wei"
                 ],
                 "GPE": [
                     "Hulu",
@@ -2589,16 +2584,16 @@
                     "Hennessy",
                     "Turing Award",
                     "Marc Andreessen",
-                    "Martin Casado",
-                    "Hennessy",
-                    "Hennessy"
+                    "Martin Casado"
                 ],
                 "GPE": [
                     "Alphabet"
                 ],
                 "ORG": [
                     "Sonal Choksi",
-                    "Stanford"
+                    "Stanford",
+                    "Leading Matters",
+                    "Hennessy"
                 ],
                 "LOC": [
                     "Silicon Valley"
@@ -2775,6 +2770,13 @@
                 "DATE": [
                     "October 2019"
                 ],
+                "ORG": [
+                    "AI",
+                    "AI",
+                    "AI",
+                    "AI",
+                    "ML"
+                ],
                 "PERSON": [
                     "Oleg Rogynskyy",
                     "Peter Lauten"
@@ -2782,16 +2784,10 @@
                 "PRODUCT": [
                     "Das Rush"
                 ],
-                "ORG": [
-                    "AI",
-                    "AI",
-                    "ML"
-                ],
                 "ORDINAL": [
                     "first"
                 ],
                 "GPE": [
-                    "AI",
                     "AI"
                 ]
             }
@@ -2834,7 +2830,6 @@
                 "PERSON": [
                     "Marc Andreessen",
                     "Andrew McAfee",
-                    "Andrew-McAfee/9781982103576",
                     "Buckminster Fuller"
                 ],
                 "ORG": [
@@ -2848,6 +2843,9 @@
                 ],
                 "CARDINAL": [
                     "zero"
+                ],
+                "WORK_OF_ART": [
+                    "More from Less: The Surprising Story of How We Learned to Prosper Using Fewer Resources"
                 ]
             }
         },
@@ -3027,6 +3025,9 @@
                 "ORG": [
                     "Amazon",
                     "Amazon",
+                    "Amazon",
+                    "Working Backwards",
+                    "Inside Amazon",
                     "Amazon"
                 ],
                 "PERSON": [
@@ -3121,6 +3122,7 @@
                 ],
                 "ORG": [
                     "ISP",
+                    "CTO",
                     "Microsoft",
                     "NASA",
                     "CTO",
@@ -3130,6 +3132,9 @@
                 "NORP": [
                     "mp3.com",
                     "Reddit"
+                ],
+                "WORK_OF_ART": [
+                    "What Time Is It"
                 ]
             }
         },
@@ -3271,7 +3276,8 @@
                 "GPE": [
                     "Netflix",
                     "Japan",
-                    "Brazil"
+                    "Brazil",
+                    "America"
                 ],
                 "PERSON": [
                     "Reed Hasting",
@@ -3320,13 +3326,16 @@
                     "Jeff Jordan",
                     "Sonal Chokshi"
                 ],
+                "WORK_OF_ART": [
+                    "The Cold Start Problem"
+                ],
                 "ORG": [
                     "OpenTable",
                     "eBay",
                     "Disney"
                 ],
                 "DATE": [
-                    "week"
+                    "last week's"
                 ],
                 "ORDINAL": [
                     "first"
@@ -3369,6 +3378,9 @@
                     "Andrew Chen",
                     "Jeff Jordan",
                     "Sonal Chokshi"
+                ],
+                "WORK_OF_ART": [
+                    "The Cold Start Problem"
                 ],
                 "ORG": [
                     "OpenTable",
@@ -3423,14 +3435,13 @@
                     "Michelle Ufford",
                     "Tristan Handy",
                     "Fivetran",
-                    "George Fraser.</p><p",
-                    "We're",
-                    "data50"
+                    "George Fraser"
                 ],
                 "ORG": [
                     "Modern Data Stack",
                     "Noteable",
                     "Fishtown Analytics",
+                    "Future.com",
                     "AI/ML"
                 ],
                 "CARDINAL": [
@@ -3550,8 +3561,7 @@
                 ],
                 "PERSON": [
                     "Sonal Chokshi",
-                    "Virginia Postrel",
-                    "Twitter"
+                    "Virginia Postrel"
                 ],
                 "CARDINAL": [
                     "three",
@@ -3562,9 +3572,13 @@
                 ],
                 "ORG": [
                     "Chokshi",
-                    "The Fabric of Civilization: How Textiles Made the World",
-                    "Sonal",
-                    "href=\"https://twitter.com"
+                    "Sonal"
+                ],
+                "WORK_OF_ART": [
+                    "The Fabric of Civilization: How Textiles Made the World"
+                ],
+                "PRODUCT": [
+                    "Twitter"
                 ]
             }
         },
@@ -3664,8 +3678,7 @@
                 "PERSON": [
                     "Sonal Chokshi",
                     "geo-engineering",
-                    "Stewart Brand",
-                    "br /><a href="
+                    "Stewart Brand"
                 ],
                 "CARDINAL": [
                     "three",
@@ -3676,9 +3689,6 @@
                 ],
                 "ORDINAL": [
                     "first"
-                ],
-                "ORG": [
-                    "target=\"_blank\">https://www.theatlantic.com/magazine/archive/2017/04/pleistocene-park/517779/</a><br /><a"
                 ]
             }
         },
@@ -3782,22 +3792,19 @@
                     "Network",
                     "Edge Group"
                 ],
-                "GPE": [
-                    "Alibaba",
-                    "Nicira",
-                    "Nicira"
-                ],
                 "DATE": [
                     "this summer"
                 ],
                 "PERSON": [
-                    "martin-casado/",
-                    "target=\"_blank\">Martin Casado</a",
-                    "martin-casado/#1",
-                    "target=\"_blank\">Nick McKeown</a",
+                    "Martin Casado",
+                    "Nick McKeown",
                     "Martin",
                     "Nick",
                     "Nick"
+                ],
+                "GPE": [
+                    "Nicira",
+                    "Nicira"
                 ]
             }
         },
@@ -3829,13 +3836,12 @@
             "title": "Kickstarting Network Effects",
             "entities": {
                 "CARDINAL": [
-                    "1:32]</li><li",
-                    "2:33]</li><li",
-                    "6:36]</li><li",
-                    "13:13]</li><li",
-                    "14:26]</li><li",
-                    "17:07]</li><li",
-                    "22:52]</li><li"
+                    "1:32]How",
+                    "2:33]Atomic",
+                    "6:36]How",
+                    "17:07]Building",
+                    "22:52]How",
+                    "25:12"
                 ],
                 "ORDINAL": [
                     "first"
@@ -3873,23 +3879,20 @@
                     "March 2021",
                     "March 2021"
                 ],
+                "PERSON": [
+                    "take;common",
+                    "Sonal Chokshi",
+                    "Jesse Walden",
+                    "Mediachain Labs",
+                    "Linda Xie"
+                ],
                 "ORG": [
-                    "take;</li><li",
-                    "work</li><li",
                     "Variant Fund",
                     "Spotify",
                     "Scalar Capital",
                     "NONE",
                     "NFT",
                     "DAO"
-                ],
-                "PERSON": [
-                    "hype</li><li",
-                    "too.</li></ul><p",
-                    "Sonal Chokshi",
-                    "Jesse Walden",
-                    "Mediachain Labs",
-                    "Linda Xie"
                 ],
                 "PRODUCT": [
                     "Coinbase"
@@ -3985,6 +3988,9 @@
             "pubDate": "Tue, 2 Nov 2021 14:44:07 +0000",
             "title": "On container ships, supply chains, and the physical world",
             "entities": {
+                "WORK_OF_ART": [
+                    "Beyond the Meme: Ever Given"
+                ],
                 "PERSON": [
                     "Supply Chains"
                 ],
@@ -4066,6 +4072,8 @@
                     "Dell + EMC + VMWare 2015-2016",
                     "Journey",
                     "AI & ML",
+                    "Dell EMC World 2016/",
+                    "Dell Inc.",
                     "AH Capital Management",
                     "L.L.C."
                 ],
@@ -4145,9 +4153,6 @@
                 ],
                 "WORK_OF_ART": [
                     "PhD"
-                ],
-                "CARDINAL": [
-                    "One"
                 ]
             }
         },
@@ -4245,15 +4250,11 @@
             "pubDate": "Wed, 19 May 2021 18:30:14 +0000",
             "title": "NFT Use Cases, Today and Tomorrow",
             "entities": {
-                "PERSON": [
-                    "Blockchain Research</a",
-                    "Partner Katie Haun",
-                    "Devin Finzer",
-                    "Andreessen Horowitz"
-                ],
                 "ORG": [
+                    "the Stanford Center for Blockchain Research",
                     "the NFT Virtual Summit",
                     "NFT",
+                    "OpenSea",
                     "AH Capital Management",
                     "L.L.C."
                 ],
@@ -4261,6 +4262,11 @@
                     "Today",
                     "Today",
                     "Tomorrow"
+                ],
+                "PERSON": [
+                    "Partner Katie Haun",
+                    "Devin Finzer",
+                    "Andreessen Horowitz"
                 ],
                 "ORDINAL": [
                     "third",
@@ -4296,30 +4302,31 @@
             "pubDate": "Sun, 2 May 2021 01:36:33 +0000",
             "title": "Man, Mosquito, Malaria Vaccine",
             "entities": {
-                "ORDINAL": [
-                    "first",
-                    "first"
-                ],
                 "DATE": [
                     "a week ago",
-                    "each year"
+                    "each year",
+                    "nearly a century"
+                ],
+                "ORDINAL": [
+                    "first"
                 ],
                 "PERCENT": [
                     "75%"
                 ],
+                "ORG": [
+                    "Lancet",
+                    "Rajeev Venkayya of Takeda Pharmaceuticals",
+                    "Jenner Institute/ Oxford University",
+                    "RTS,S",
+                    "COVID"
+                ],
                 "CARDINAL": [
                     "400,000",
+                    "five",
                     "2x"
                 ],
                 "TIME": [
                     "16 Minutes"
-                ],
-                "ORG": [
-                    "Takeda Pharmaceuticals",
-                    "Jenner Institute/ Oxford University",
-                    "RTS,S",
-                    "COVID",
-                    "href=\"https://academic.oup.com"
                 ],
                 "PERSON": [
                     "Jorge Conde",
@@ -4362,31 +4369,22 @@
                 "PERSON": [
                     "Zoran Basich",
                     "Dan Boneh",
-                    "Dan Boneh",
+                    "Dan Boneh\u00a0Proof",
                     "Alex Pruden",
                     "Alex Pruden",
-                    "Alex Pruden",
+                    "Alex Pruden\u00a0Value",
                     "Arianna Simpson",
-                    "Arianna Simpson",
-                    "Alex Pruden",
-                    "Eddy Lazzarin",
+                    "Arianna Simpson\u00a0Security",
+                    "Alex Pruden\u00a0",
                     "Chris Dixon",
-                    "Eddy Lazzarin",
-                    "Eddy Lazzarin",
-                    "Tokens",
-                    "Eddy Lazzarin",
-                    "Tokens",
                     "Scott Kupor",
                     "Jesse Walden",
                     "Ali Yahya",
-                    "Eddy Lazzarin",
-                    "Eddy Lazzarin",
                     "Linda Xie",
+                    "Jesse Walden\u00a0Developer",
                     "Jesse Walden",
-                    "Jesse Walden",
-                    "Ali Yahya",
+                    "Ali Yahya\u00a0The",
                     "Chris Dixon",
-                    "Startup School</a",
                     "Andreessen Horowitz"
                 ],
                 "TIME": [
@@ -4395,25 +4393,30 @@
                     "15:09",
                     "17:01",
                     "17:36",
-                    "21:19",
-                    "27:15"
+                    "21:19"
                 ],
                 "ORG": [
                     "Stanford",
                     "Aleo Systems",
-                    "Tokens",
+                    "ExpansionWhy",
                     "Variant Fund",
                     "Scalar Capital",
-                    "Future</i></p><ul><li",
+                    "FutureThe",
+                    "NFT",
                     "AH Capital Management",
                     "L.L.C."
                 ],
                 "GPE": [
-                    "Satoshi"
+                    "Satoshi",
+                    "Lazzarin",
+                    "Tokens"
                 ],
                 "CARDINAL": [
                     "3:36",
-                    "22:18"
+                    "19:53",
+                    "22:18",
+                    "23:58",
+                    "35:38"
                 ],
                 "PRODUCT": [
                     "Mediachain"
@@ -4460,6 +4463,10 @@
                     "TikTok",
                     "Clubhouse",
                     "Atelier Ventures'"
+                ],
+                "WORK_OF_ART": [
+                    "the Creator Economy",
+                    "The Passion Economy and the Future\u00a0of Work"
                 ],
                 "CARDINAL": [
                     "one"
@@ -4523,12 +4530,16 @@
                     "MediaChain",
                     "Spotify"
                 ],
+                "WORK_OF_ART": [
+                    "All About"
+                ],
                 "PERSON": [
                     "Jesse Walden",
                     "Linda Xie",
                     "Chris Dixon",
                     "Kevin Chou",
                     "Jesse Walden",
+                    "Variant",
                     "Chris"
                 ]
             }
@@ -4567,9 +4578,8 @@
                     "Scalar Capital",
                     "Coinbase",
                     "Variant Fund",
-                    "context;</li><li",
+                    "GPT-3",
                     "NFT",
-                    "href=\"https://creativecommons.org",
                     "AH Capital Management",
                     "L.L.C."
                 ],
@@ -4578,25 +4588,30 @@
                     "Linda Xie",
                     "Jesse Walden",
                     "Mediachain Labs",
+                    "Tiktok",
+                    "Mona",
                     "Greg Truesdell",
                     "Sonal Chokshi",
                     "Andreessen Horowitz"
                 ],
                 "GPE": [
-                    "Spotify"
+                    "Spotify",
+                    "Beeple"
                 ],
                 "TIME": [
                     "16 Minutes"
                 ],
                 "CARDINAL": [
                     "2",
-                    "230</a"
+                    "4.0"
                 ],
-                "DATE": [
-                    "first-5000-days"
+                "LAW": [
+                    "Section 230"
+                ],
+                "WORK_OF_ART": [
+                    "The First 5000 Days\"The views expressed here are those of the individual"
                 ],
                 "ORDINAL": [
-                    "First",
                     "third",
                     "third"
                 ]
@@ -4635,8 +4650,17 @@
                     "every day",
                     "2021"
                 ],
+                "CARDINAL": [
+                    "100"
+                ],
                 "PERSON": [
-                    "jeff-jordan/\">Jeff Jordan</a>"
+                    "Lauren Murrow",
+                    "Connie Chan",
+                    "D\u2019Arcy Coolican",
+                    "Jeff Jordan"
+                ],
+                "GPE": [
+                    "Sriram Krishnan"
                 ]
             }
         },
@@ -4666,7 +4690,11 @@
             "link": "https://a16z.simplecast.com/episodes/johnson-johnson-vaccine-efficacy-third-eua-wC2Towwg",
             "pubDate": "Thu, 18 Mar 2021 05:24:13 +0000",
             "title": "The Third Vaccine, and Vaccine Choice",
-            "entities": {}
+            "entities": {
+                "PERSON": [
+                    "https://a16z.com/2021/03/15/16-minutes-58-the-johnson-johnson-vaccine-and-covid-efficacy-rates/\n"
+                ]
+            }
         },
         {
             "author": "content+a16zpodcast@a16z.com (Sonal Chokshi, Ben Horowitz)",
@@ -4716,6 +4744,9 @@
                     "Nick Quah",
                     "Connie Chan",
                     "Sonal Chokshi"
+                ],
+                "WORK_OF_ART": [
+                    "What You Do Is Who You Are"
                 ],
                 "LOC": [
                     "Silicon Valley"
@@ -4821,6 +4852,7 @@
                     "Intelligence at Flashpoint Intel"
                 ],
                 "PERSON": [
+                    "Trump",
                     "Tom Hofmann"
                 ],
                 "CARDINAL": [
@@ -4917,14 +4949,15 @@
                     "Amazon",
                     "Amazon",
                     "Amazon",
-                    "Working-Backwards-Insights-Stories-Secrets/dp/1250788056",
-                    "Working Backwards",
+                    "Secrets",
+                    "Inside Amazon",
                     "Amazon",
                     "Amazon Music",
                     "Amazon Video",
                     "Amazon Studios",
                     "Amazon Web Services",
                     "MVP",
+                    "API",
                     "Amazon",
                     "the AH Capital Management",
                     "L.L.C."
@@ -4945,7 +4978,6 @@
                     "Colin",
                     "Jeff Bezos'",
                     "Andy Jassy",
-                    "target=\"_blank\">API economy</a",
                     "Andreessen Horowitz"
                 ],
                 "ORDINAL": [
@@ -4953,9 +4985,15 @@
                     "third",
                     "third"
                 ],
+                "WORK_OF_ART": [
+                    "Working Backwards: Insights, Stories"
+                ],
                 "DATE": [
                     "February 9",
                     "27 years"
+                ],
+                "NORP": [
+                    "more.---The"
                 ]
             }
         },
@@ -4991,37 +5029,32 @@
                 "CARDINAL": [
                     "3x\u201d-long",
                     "2",
-                    "230</a",
                     "one",
                     "three"
                 ],
                 "TIME": [
                     "16 Minutes"
                 ],
+                "LAW": [
+                    "section 230"
+                ],
+                "ORG": [
+                    "Tiktok",
+                    "GPT-3",
+                    "SolarWinds",
+                    "the U.S. Cybersecurity and Infrastructure Security Agency",
+                    "the Wall Street Journal",
+                    "SolarWinds",
+                    "know?!Because",
+                    "SolarWinds",
+                    "Heliophysics Systems Observatory",
+                    "NASA"
+                ],
                 "DATE": [
                     "Just this week",
                     "years",
                     "December 2020",
                     "just a few months but years earlier"
-                ],
-                "ORG": [
-                    "the U.S. Cybersecurity and Infrastructure Security Agency",
-                    "the Wall Street Journal",
-                    "href=\"https://www.axios.com",
-                    "SolarWinds",
-                    "Heliophysics Systems Observatory",
-                    "href=\"https://creativecommons.org"
-                ],
-                "NORP": [
-                    "russian",
-                    "russian"
-                ],
-                "PERSON": [
-                    "in</a",
-                    "legit domains",
-                    "Sonal Chokshi",
-                    "Joel de la Garza",
-                    "Steven Adair</strong"
                 ],
                 "PERCENT": [
                     "approximately 30%"
@@ -5030,15 +5063,19 @@
                     "third",
                     "first",
                     "first",
-                    "first",
-                    "third"
+                    "first"
                 ],
                 "MONEY": [
                     "49"
                 ],
+                "PERSON": [
+                    "legit domains",
+                    "Sonal Chokshi",
+                    "Joel de la Garza",
+                    "Steven Adair"
+                ],
                 "GPE": [
-                    "russia",
-                    "russia"
+                    "Volexity"
                 ],
                 "LOC": [
                     "Earth"
@@ -5082,6 +5119,9 @@
                 ],
                 "ORDINAL": [
                     "first"
+                ],
+                "WORK_OF_ART": [
+                    "Bio Eats World:https://a16z.com/2021/01/21/journal-club-safer-psychedelic/\n"
                 ]
             }
         },
@@ -5115,7 +5155,8 @@
             "title": "Developers as Creatives",
             "entities": {
                 "ORG": [
-                    "API"
+                    "API",
+                    "Twilio"
                 ],
                 "PERSON": [
                     "Jeff Lawson",
@@ -5123,8 +5164,13 @@
                     "David Ulevitch",
                     "Lawson"
                 ],
+                "WORK_OF_ART": [
+                    "Ask Your Developer: How to Harness the Power of Software Developers and Win"
+                ],
+                "DATE": [
+                    "the 21st Century"
+                ],
                 "ORDINAL": [
-                    "21st",
                     "first"
                 ]
             }
@@ -5162,22 +5208,18 @@
                     "section 230",
                     "the Communications Decency Act"
                 ],
-                "ORG": [
-                    "LaurenGoode"
-                ],
-                "CARDINAL": [
-                    "one"
-                ],
                 "PERSON": [
                     "Mike Masnick",
-                    "Sonal Chokshi",
-                    "Wikimedia Commons</i></p"
+                    "Sonal Chokshi"
                 ],
                 "TIME": [
                     "16 Minutes"
                 ],
                 "DATE": [
                     "today"
+                ],
+                "FAC": [
+                    "Wikimedia Commons"
                 ]
             }
         },
@@ -5265,19 +5307,14 @@
                 "ORG": [
                     "the Oxford English Dictionary",
                     "NYT",
-                    "href=\"https://gretchenmcculloch.com",
+                    "the New Rules of Language",
                     "McCulloch",
-                    "Oxford",
-                    "href=\"https://creativecommons.org"
-                ],
-                "CARDINAL": [
-                    "one"
+                    "Oxford"
                 ],
                 "PERSON": [
-                    "Gretchen McCulloch",
                     "Sonal Chokshi",
                     "Dunbar",
-                    "Andy"
+                    "Andy Simmons"
                 ],
                 "WORK_OF_ART": [
                     "Words of an Unprecedented Year"
@@ -5320,7 +5357,8 @@
                 ],
                 "PERSON": [
                     "Moderna",
-                    "Stephane Bancel"
+                    "Stephane Bancel",
+                    "https://a16z.com/2020/12/18/moderna-covid-vaccine-mrna-technology/\n"
                 ],
                 "GPE": [
                     "Moderna"
@@ -5358,8 +5396,7 @@
                 "CARDINAL": [
                     "two",
                     "2",
-                    "one",
-                    "a16z.com/pandemicstimulus</p"
+                    "one"
                 ],
                 "ORG": [
                     "the Paycheck Protection Program",
@@ -5414,17 +5451,23 @@
             "pubDate": "Mon, 7 Dec 2020 15:50:00 +0000",
             "title": "The Holy Grail of Social + Fintech",
             "entities": {
+                "WORK_OF_ART": [
+                    "Gen Z"
+                ],
                 "PRODUCT": [
                     "Twitter"
                 ],
                 "ORG": [
                     "Instagram",
                     "Public, Commonstock",
-                    "Credit Karma"
+                    "Credit Karma",
+                    "Social Strikes Back"
                 ],
                 "PERSON": [
                     "Doji",
-                    "Acharya</a"
+                    "Anish Acharya",
+                    "D\u2019Arcy Coolican",
+                    "Lauren Murrow"
                 ],
                 "DATE": [
                     "last year"
@@ -5468,7 +5511,8 @@
                     "CTO",
                     "CTO",
                     "CTO",
-                    "CTO"
+                    "CTO",
+                    "HashiCorp"
                 ],
                 "GPE": [
                     "Nicira"
@@ -5680,7 +5724,8 @@
                     "xCloud",
                     "Stadia Games and Entertainment",
                     "Riot Games and Tencent",
-                    "AI"
+                    "AI",
+                    "Social Strikes Back"
                 ],
                 "GPE": [
                     "Raymond"
@@ -5720,14 +5765,8 @@
             "pubDate": "Fri, 13 Nov 2020 01:23:47 +0000",
             "title": "The Great Data Debate",
             "entities": {
-                "ORG": [
-                    "AI/ML",
-                    "AI/ML",
-                    "Modern Data Stack",
-                    "Noteable",
-                    "Fishtown Analytics"
-                ],
                 "PERSON": [
+                    "Lakes v. warehouses",
                     "SQL",
                     "Fivetran",
                     "Martin Casado",
@@ -5735,7 +5774,17 @@
                     "Michelle Ufford",
                     "Tristan Handy",
                     "Fivetran",
-                    "George Fraser.</p><p"
+                    "George Fraser"
+                ],
+                "ORG": [
+                    "AI/ML",
+                    "AI/ML",
+                    "Modern Data Stack",
+                    "Noteable",
+                    "Fishtown Analytics"
+                ],
+                "DATE": [
+                    "well?In"
                 ],
                 "CARDINAL": [
                     "five"
@@ -5775,14 +5824,16 @@
                     "Hollywood Squares",
                     "Stanford",
                     "Graduate School of Business",
-                    "Bold Echo",
-                    "href=\"https://creativecommons.org"
+                    "Bold Echo"
                 ],
                 "PERSON": [
-                    "Brady Bunch\"-like",
-                    "Abrahams</a",
+                    "Brady",
+                    "Matt Abrahams",
                     "Sonal Chokshi",
-                    "Paul"
+                    "Paul Hudson"
+                ],
+                "CARDINAL": [
+                    "them?In"
                 ],
                 "WORK_OF_ART": [
                     "Think Fast Talk Smart"
@@ -5820,7 +5871,8 @@
             "entities": {
                 "PERSON": [
                     "Mark Weiser",
-                    "Sonal Chokshi.</p><p",
+                    "Virginia Postrel",
+                    "Sonal Chokshi",
                     "Mark Weiser",
                     "Scientific American",
                     "Sarah-Marie Belcastro",
@@ -5828,56 +5880,48 @@
                     "Maarten van Heemskerck",
                     "Kent Mensah",
                     "Virginia Postrel",
-                    "sarah-marie belcastro</i></a><i",
+                    "sarah-marie belcastro",
                     "Virginia Postrel",
                     "Sonal Chokshi"
                 ],
                 "DATE": [
                     "1991",
-                    "others</li><li><a",
-                    "2009</li><li><a href=\"https://www.theatlantic.com",
+                    "the 21st Century",
                     "60x"
                 ],
-                "GPE": [
-                    "virginia",
-                    "Ghana",
-                    "Ghana",
-                    "Ghana",
-                    "Reason"
-                ],
-                "ORG": [
-                    "The Fabric of Civilization: How Textiles Made the World</i",
-                    "NASA",
-                    "AI",
-                    "Journal of Mathematics",
-                    "Arts",
-                    "AI",
-                    "href=\"https://www.rijksmuseum.nl",
-                    "Rijks Museum",
-                    "href=\"https://www.csmonitor.com/World/Africa/2020/0825",
-                    "Christian Science Monitor",
-                    "wires & beads",
-                    "Virginia Postrel"
+                "WORK_OF_ART": [
+                    "The Fabric of Civilization: How Textiles Made the World"
                 ],
                 "EVENT": [
                     "pre-Industrial Revolution"
                 ],
+                "ORG": [
+                    "NASA",
+                    "AI",
+                    "wires.links & other articles",
+                    "YouTube & Instagram",
+                    "Journal of Mathematics",
+                    "Arts",
+                    "AI",
+                    "Rijks Museum",
+                    "Christian Science Monitor",
+                    "wires & beads",
+                    "Virginia Postrel"
+                ],
+                "GPE": [
+                    "Ghana",
+                    "Ghana",
+                    "Reason"
+                ],
                 "CARDINAL": [
                     "one",
-                    "1991</li><li><a",
-                    "2018</li><li><a",
-                    "target=\"_blank\">Portrait",
-                    "1529</li><li><a",
-                    "2020</li></ul><p><i"
-                ],
-                "WORK_OF_ART": [
-                    "target=\"_blank\">The Computer for the 21st"
+                    "1991Every",
+                    "2009How",
+                    "2018Portrait",
+                    "2020images"
                 ],
                 "LOC": [
                     "Atlantic"
-                ],
-                "TIME": [
-                    "2020</li><li><a href=\"https://reason.com/2020/10/14"
                 ]
             }
         },
@@ -5920,6 +5964,9 @@
                     "Ali Ghodsi",
                     "Martin Casado",
                     "Ali"
+                ],
+                "DATE": [
+                    "today"
                 ]
             }
         },
@@ -5962,23 +6009,25 @@
                 "MONEY": [
                     "$143 billion dollars"
                 ],
-                "ORG": [
-                    "href=\"https://twitter.com",
+                "PERSON": [
+                    "Tiffany Zhong",
+                    "Zebra IQ",
+                    "Connie Chan",
                     "Gen Z",
-                    "href=\"https://zebraiq.com",
+                    "Gen Z",
+                    "emoji"
+                ],
+                "WORK_OF_ART": [
+                    "Gen Z",
+                    "Gen Z Trends Report"
+                ],
+                "ORG": [
+                    "Gen Z",
                     "Gen Z",
                     "Tiffany",
                     "TikTok",
                     "YouTube",
                     "Gen Z"
-                ],
-                "WORK_OF_ART": [
-                    "Gen Z"
-                ],
-                "PERSON": [
-                    "Gen Z",
-                    "Gen Z",
-                    "emoji"
                 ]
             }
         },
@@ -6011,21 +6060,22 @@
             "pubDate": "Wed, 14 Oct 2020 19:59:14 +0000",
             "title": "The Present Future of Audio: Talk, Music, Video, Interactivity",
             "entities": {
+                "ORG": [
+                    "TikTok",
+                    "AH Capital Management",
+                    "L.L.C."
+                ],
+                "GPE": [
+                    "S\u00f6derstr\u00f6m",
+                    "Spotify"
+                ],
                 "PERSON": [
-                    "Gustav S\u00f6derstr\u00f6m",
                     "Connie Chan",
                     "Sonal Chokshi",
                     "Andreessen Horowitz"
                 ],
-                "DATE": [
-                    "href=\"https://newsroom.spotify.com/2020-10-14"
-                ],
                 "CARDINAL": [
                     "one"
-                ],
-                "ORG": [
-                    "AH Capital Management",
-                    "L.L.C."
                 ],
                 "ORDINAL": [
                     "third",
@@ -6106,14 +6156,15 @@
                     "third",
                     "third"
                 ],
-                "PRODUCT": [
-                    "OpenTable"
-                ],
                 "ORG": [
+                    "Thinking in Bets",
                     "GM",
                     "eBay",
                     "AH Capital Management",
                     "L.L.C."
+                ],
+                "PRODUCT": [
+                    "OpenTable"
                 ]
             }
         },
@@ -6152,15 +6203,20 @@
                 ],
                 "DATE": [
                     "2008",
-                    "this month"
+                    "this month",
+                    "an early age"
                 ],
                 "PERSON": [
                     "Morning Consult",
-                    "Yahyaoui <",
-                    "Acharya</a"
+                    "Amira Yahyaoui",
+                    "Mos",
+                    "Lauren Murrow",
+                    "Seema"
+                ],
+                "PERCENT": [
+                    "just 46 percent"
                 ],
                 "ORG": [
-                    "href=\"https://twitter.com",
                     "Amira"
                 ]
             }
@@ -6196,8 +6252,17 @@
                 "ORDINAL": [
                     "second"
                 ],
+                "WORK_OF_ART": [
+                    "Bio Eats World",
+                    "Bio Eats World",
+                    "Lysosome",
+                    "Nature"
+                ],
+                "ORG": [
+                    "Journal Club",
+                    "Stanford"
+                ],
                 "PERSON": [
-                    "Bio Eats World</a",
                     "Carolyn Bertozzi",
                     "Lauren Richardson",
                     "Steven Banik",
@@ -6205,21 +6270,10 @@
                     "Simon Wisnovsky",
                     "Green Ahn",
                     "Nicholas Riley",
-                    "Carolyn Bertozzi",
-                    "Bertozzi"
-                ],
-                "ORG": [
-                    "Journal Club",
-                    "Stanford"
-                ],
-                "WORK_OF_ART": [
-                    "Bio Eats World"
-                ],
-                "DATE": [
-                    "020-2545"
+                    "Carolyn Bertozzi"
                 ],
                 "CARDINAL": [
-                    "9\">Lysosome"
+                    "2020).Dr"
                 ]
             }
         },
@@ -6255,16 +6309,18 @@
                     "first",
                     "first"
                 ],
-                "PERSON": [
-                    "Bio Eats World</a",
-                    "Laura Deming",
-                    "Kristen Fortney",
-                    "Vijay Pande",
-                    "Hanne Winarsky",
-                    "Bio Eats World</strong"
+                "WORK_OF_ART": [
+                    "Bio Eats World",
+                    "'Bio Eats World'"
                 ],
                 "DATE": [
                     "today"
+                ],
+                "PERSON": [
+                    "Laura Deming",
+                    "Kristen Fortney",
+                    "Vijay Pande",
+                    "Hanne Winarsky"
                 ],
                 "ORG": [
                     "The Longevity Fund",
@@ -6307,7 +6363,6 @@
                 "GPE": [
                     "U.S.",
                     "China",
-                    "beijing",
                     "China",
                     "Hulu"
                 ],
@@ -6320,6 +6375,7 @@
                     "16 Minutes"
                 ],
                 "PERSON": [
+                    "Eugene Wei",
                     "Andreessen Horowitz"
                 ]
             }
@@ -6414,57 +6470,63 @@
                 "WORK_OF_ART": [
                     "the Creator Economy"
                 ],
-                "ORG": [
-                    "href=\"https://twitter.com",
-                    "Substack",
-                    "href=\"https://twitter.com",
-                    "Airbnb",
-                    "href=\"https://twitter.com",
-                    "href=\"https://twitter.com/zach_haigney\">Zach Haigney</a",
-                    "BuzzFeed",
-                    "a href=\"https://speakpatrice.substack.com/\">Coronavirus News for Black Folks</a",
-                    "href=\"https://twitter.com",
-                    "href=\"https://twitter.com",
-                    "href=\"https://twitter.com/halemur\">Haley Nahman</a></p><p",
-                    "Zach",
-                    "href=\"https://twitter.com/niubi\">Bill",
-                    "href=\"https://twitter.com",
-                    "href=\"https://twitter.com",
+                "PERSON": [
+                    "Lauren Murrow",
+                    "Lenny Rachitsky",
+                    "Edith Zimmerman",
+                    "Zach Haigney",
+                    "Patrice Peck",
                     "Edith",
-                    "href=\"https://twitter.com",
-                    "href=\"https://twitter.com",
-                    "href=\"https://twitter.com",
+                    "Lenny",
+                    "Zeba BlayMaybe Baby",
+                    "Haley Nahman",
+                    "Ben ThompsonSinocism",
+                    "Bill BishopA",
+                    "Jacob Cohen",
+                    "Anthony PomplianoThe Weekly Dish",
+                    "Andrew Sullivan",
+                    "Browser",
+                    "Robert CottrellThe Ruffian",
+                    "Ian LeslieRidgeline",
+                    "Craig ModDearest",
+                    "Monica McLaughlinWhy",
+                    "Noah Brier",
+                    "Colin Nagy",
+                    "Lenny",
                     "Webb Smith",
-                    "href=\"https://twitter.com"
+                    "Li Jin\u00a0Alex Danco\u2019s",
+                    "Alex DancoTurner\u2019s",
+                    "Nikhil Basu Trivedi\u00a0Big Technology",
+                    "Nathan Baschez",
+                    "Dan Shipper",
+                    "Packy McCormick",
+                    "Edith Zimmerman"
+                ],
+                "ORG": [
+                    "Substack",
+                    "Airbnb",
+                    "Lenny\u2019s Newsletter",
+                    "Drawing Links",
+                    "The Trip Report",
+                    "BuzzFeed",
+                    "Coronavirus News",
+                    "Black Folks",
+                    "Adriana LacyBeauty",
+                    "Darian Symone HarvinCarefree Black Girl",
+                    "Edith",
+                    "Li\u2019s Newsletter",
+                    "Newsletter",
+                    "Turner NovakNext Big Thing",
+                    "Alex KantrowitzThe Profile",
+                    "Polina MarinovaEverything",
+                    "Adam KeeslingNot Boring"
                 ],
                 "DATE": [
-                    "January through April"
-                ],
-                "PERSON": [
-                    "lennysan\">Lenny Rachitsky</a",
-                    "edithzimmerman\">Edith Zimmerman</a>",
-                    "Edith",
-                    "Lenny",
-                    "IRL</a",
-                    "JayCoDon\">Jacob Cohen Donnelly</a></p><p><a href=\"https://pomp.substack.com/\">Off",
-                    "Browser</a",
-                    "Ian",
-                    "href=\"https://dearest.substack.com/\">Dearest</a",
-                    "Lenny",
-                    "Li Jin",
-                    "Danco",
-                    "Basu Trivedi"
+                    "January through April",
+                    "the past year"
                 ],
                 "GPE": [
-                    "subscribe/\">Ridgeline</a",
-                    "Newsletter</a",
-                    "Big Thing</a"
-                ],
-                "PRODUCT": [
-                    "href=\"https://2pml.com/\">2PM</a"
-                ],
-                "LAW": [
-                    "a href=\"https://twitter.com/nbashaw\">Nathan Baschez</a"
+                    "Zach"
                 ]
             }
         },
@@ -6497,29 +6559,31 @@
             "pubDate": "Tue, 15 Sep 2020 23:34:58 +0000",
             "title": "Designing a Culture of Reinvention",
             "entities": {
-                "ORG": [
+                "PERSON": [
                     "Netflix",
-                    "the Commonwealth Club of California",
-                    "Netflix",
-                    "Netflix"
+                    "Blockbuster",
+                    "itself?In",
+                    "Reed Hasting",
+                    "Ben Horowitz",
+                    "Reed"
                 ],
                 "DATE": [
                     "the late 90s",
                     "last year"
                 ],
-                "PERSON": [
-                    "Blockbuster",
-                    "Reed Hasting",
-                    "Ben Horowitz",
-                    "Reed"
-                ],
                 "ORDINAL": [
                     "first"
+                ],
+                "ORG": [
+                    "the Commonwealth Club of California",
+                    "Netflix",
+                    "Netflix"
                 ],
                 "GPE": [
                     "Netflix",
                     "Japan",
-                    "Brazil"
+                    "Brazil",
+                    "America"
                 ],
                 "EVENT": [
                     "the Culture of Reinvention"
@@ -6609,25 +6673,28 @@
             "pubDate": "Fri, 11 Sep 2020 06:00:00 +0000",
             "title": "The Question of Education",
             "entities": {
+                "GPE": [
+                    "Monopoly",
+                    "B.S.",
+                    "B.A."
+                ],
                 "CARDINAL": [
                     "three"
                 ],
                 "DATE": [
                     "today",
                     "August 2020",
+                    "a gap year",
                     "this year"
-                ],
-                "GPE": [
-                    "B.S.",
-                    "B.A."
                 ],
                 "PERSON": [
                     "Marc Andreessen",
-                    "Andreessen",
-                    "Dylan Field"
+                    "Dylan Field",
+                    "Virtual Campus",
+                    "Lyndsy Rommel / Flickr"
                 ],
                 "ORG": [
-                    "href=\"https://creativecommons.org"
+                    "Figma"
                 ]
             }
         },
@@ -6666,15 +6733,16 @@
                     "PPP",
                     "the Small Business Administration",
                     "PPP",
+                    "the New York Times",
                     "the Small Business Administration\u2019s",
                     "the Department of Justice",
-                    "href=\"https://twitter.com",
                     "the COVID-19 Congressional Oversight Commission"
                 ],
                 "DATE": [
                     "March 27th",
                     "March",
-                    "last year"
+                    "last year",
+                    "less than 800.To date"
                 ],
                 "MONEY": [
                     "$2.2 trillion",
@@ -6688,7 +6756,7 @@
                 ],
                 "GPE": [
                     "U.S.",
-                    "New York"
+                    "Bharat Ramamurti"
                 ],
                 "CARDINAL": [
                     "42,000",
@@ -6696,7 +6764,9 @@
                     "millions"
                 ],
                 "PERSON": [
-                    "alex-rampell/\">Alex"
+                    "Lauren Murrow",
+                    "Naftali Harris",
+                    "Alex Rampell"
                 ]
             }
         },
@@ -6744,10 +6814,9 @@
                     "first"
                 ],
                 "PERSON": [
-                    "Amir Shevat",
+                    "advocacy?Amir Shevat",
                     "Twitch",
-                    "Jesse Walden",
-                    "Crypto Startup"
+                    "Jesse Walden"
                 ],
                 "PRODUCT": [
                     "Protocol Labs"
@@ -6787,9 +6856,8 @@
             "title": "Reining in Complexity: Data Science & Future of AI/ML Businesses",
             "entities": {
                 "PERSON": [
-                    "peter-wang-bio",
-                    "martin-casado/",
-                    "target=\"_blank\">Martin Casado</a"
+                    "Peter Wang",
+                    "Martin Casado"
                 ],
                 "GPE": [
                     "Anaconda"
@@ -6801,7 +6869,7 @@
                     "Wang",
                     "AI/ML",
                     "AI/ML",
-                    "href=\"https://creativecommons.org"
+                    "Pawel Loj / Wikimedia Commons"
                 ],
                 "ORDINAL": [
                     "first"
@@ -6839,18 +6907,26 @@
             "entities": {
                 "DATE": [
                     "this week",
+                    "years",
                     "earlier this year",
                     "the past decade",
                     "last spring"
                 ],
+                "PERSON": [
+                    "Connie Chan",
+                    "Lauren Murrow",
+                    "Josh Kim",
+                    "David Deming"
+                ],
                 "ORG": [
                     "Online Programs",
                     "Dartmouth College",
-                    "the Future of Higher Education</i></a",
+                    "the Future of Higher Education",
                     "Economics",
                     "the Harvard Kennedy School",
-                    "the Harvard Graduate School of Education.</p><p",
+                    "the Harvard Graduate School of Education",
                     "COVID",
+                    "closely?We",
                     "COVID"
                 ]
             }
@@ -6890,7 +6966,8 @@
                     "the Global Vaccine Business Unit at Takeda Pharmaceutical Company",
                     "White House Special",
                     "Biodefense",
-                    "href=\"https://creativecommons.org"
+                    "the National Strategy for Pandemic Influenza",
+                    "Jernej Furman / Flickr"
                 ],
                 "DATE": [
                     "12 years or",
@@ -6900,8 +6977,7 @@
                     "first"
                 ],
                 "PERSON": [
-                    "Jorge Conde",
-                    "Jernej"
+                    "Jorge Conde"
                 ]
             }
         },
@@ -6982,8 +7058,9 @@
                 "ORG": [
                     "the a16z Journal Club",
                     "CAR Ts",
-                    "Michel Sadelain &",
-                    "Journal Club"
+                    "Michel Sadelain & Scott W. Lowea16z bio",
+                    "Journal Club",
+                    "a16z.com/journalclub"
                 ],
                 "PERSON": [
                     "Jorge Conde",
@@ -7004,8 +7081,7 @@
                     "Ellinor Peerschke",
                     "Scott L. Friedman",
                     "Vladimir Ponomarev",
-                    "Alessandra Piersigilli",
-                    "Scott W. Lowe</p><p"
+                    "Alessandra Piersigilli"
                 ],
                 "WORK_OF_ART": [
                     "Nature"
@@ -7013,12 +7089,11 @@
                 "CARDINAL": [
                     "2"
                 ],
-                "DATE": [
-                    "020-2403-9\"><strong",
-                    "June 2020"
-                ],
                 "GPE": [
                     "Nature"
+                ],
+                "DATE": [
+                    "June 2020"
                 ]
             }
         },
@@ -7051,13 +7126,14 @@
             "pubDate": "Sun, 2 Aug 2020 01:39:05 +0000",
             "title": "Working, Making, Creating in Public... and Private",
             "entities": {
-                "GPE": [
-                    "Nadia",
-                    "internet\"</a"
+                "WORK_OF_ART": [
+                    "Working in Public: The Making and Maintenance of Open Source Software"
                 ],
-                "PRODUCT": [
-                    "target=\"_blank\">Stripe Press</a",
-                    "Protocol Labs"
+                "ORG": [
+                    "Stripe Press",
+                    "Ford Foundation",
+                    "GitHub",
+                    "Substack"
                 ],
                 "PERSON": [
                     "Sonal Chokshi"
@@ -7065,9 +7141,8 @@
                 "DATE": [
                     "years"
                 ],
-                "ORG": [
-                    "Ford Foundation",
-                    "GitHub"
+                "PRODUCT": [
+                    "Protocol Labs"
                 ]
             }
         },
@@ -7100,6 +7175,7 @@
             "title": "GPT-3: What's Hype, What's Real on the Latest in AI",
             "entities": {
                 "TIME": [
+                    "16 Minutes",
                     "16 Minutes"
                 ],
                 "ORG": [
@@ -7159,6 +7235,7 @@
                 ],
                 "ORG": [
                     "the Atlantic Council",
+                    "the I Am The Cavalry",
                     "Founder/",
                     "FDA",
                     "FDA"
@@ -7203,16 +7280,18 @@
                 "PERSON": [
                     "Nathalie Balaban",
                     "Balaban",
+                    "Science",
                     "Jiafeng Liu",
                     "Orit Gefen",
-                    "Nathalie Q. Balaban.</p><p"
+                    "Nathalie Q. Balaban.a16z bio"
                 ],
                 "ORG": [
                     "the Hebrew University",
                     "Irine Ronin",
                     "Journal Club",
                     "biology & technology",
-                    "bio journal club"
+                    "bio journal club",
+                    "a16z.com/journalclub"
                 ],
                 "DATE": [
                     "January 2020"
@@ -7289,7 +7368,8 @@
                     "Yoo"
                 ],
                 "ORG": [
-                    "Johns Hopkins University School of Medicine"
+                    "Johns Hopkins University School of Medicine",
+                    "COVID-19"
                 ],
                 "GPE": [
                     "Makary"
@@ -7382,11 +7462,11 @@
                 "PERSON": [
                     "Alex",
                     "Peter Levine",
-                    "Alex",
-                    "Foundation</a"
+                    "Alex"
                 ],
                 "ORG": [
-                    "El Capitan"
+                    "El Capitan",
+                    "the Honnold Foundation"
                 ],
                 "ORDINAL": [
                     "third"
@@ -7430,11 +7510,12 @@
                 "PERSON": [
                     "Alex Honnold",
                     "Alex",
+                    "Alex",
                     "Peter Levine",
                     "Peter",
                     "Alex",
                     "Alex",
-                    "Shawn"
+                    "Shawn Corrigan"
                 ],
                 "QUANTITY": [
                     "2000-foot"
@@ -7541,9 +7622,6 @@
                 ],
                 "DATE": [
                     "August 2015"
-                ],
-                "NORP": [
-                    "href=\"https://a16z.com/2015/08/06"
                 ]
             }
         },
@@ -7582,7 +7660,7 @@
                     "Fintech"
                 ],
                 "PERSON": [
-                    "Angela"
+                    "Angela Strange"
                 ]
             }
         },
@@ -7616,12 +7694,16 @@
                 "DATE": [
                     "Today",
                     "April",
-                    "August",
-                    "January"
+                    "August 2015\"Why",
+                    "January 2018"
                 ],
                 "MONEY": [
                     "500",
-                    "544</a"
+                    "544"
+                ],
+                "ORDINAL": [
+                    "first",
+                    "first"
                 ],
                 "GPE": [
                     "Build",
@@ -7630,7 +7712,7 @@
                 ],
                 "PERSON": [
                     "Marc Andreessen",
-                    "Angela Strange</li><li>\"When",
+                    "Angela",
                     "Connie Chan",
                     "Vijay Pande"
                 ],
@@ -7639,7 +7721,6 @@
                     "One"
                 ],
                 "ORG": [
-                    "their authors:</p><ul><li>\"Why",
                     "The Next Era of Financial Services",
                     "AI",
                     "Healthcare",
@@ -7647,9 +7728,6 @@
                 ],
                 "PRODUCT": [
                     "Fintech"
-                ],
-                "ORDINAL": [
-                    "first"
                 ]
             }
         },
@@ -7682,6 +7760,9 @@
             "pubDate": "Sun, 5 Jul 2020 17:55:04 +0000",
             "title": "Journal Club: Revisiting Eroom's Law",
             "entities": {
+                "PRODUCT": [
+                    "Discovery"
+                ],
                 "PERSON": [
                     "Sanford Bernstein",
                     "Jorge",
@@ -7752,7 +7833,10 @@
                     "Trevor"
                 ],
                 "FAC": [
-                    "the Fred Hutchinson Cancer Research"
+                    "the Fred Hutchinson Cancer Research Center"
+                ],
+                "GPE": [
+                    "Nextstrain"
                 ]
             }
         },
@@ -7787,11 +7871,13 @@
             "entities": {
                 "ORG": [
                     "FDA",
+                    "EndeavorRx",
                     "Lancet Digital Health",
                     "Denton J DeLoss",
                     "Journal Club",
                     "biology & technology",
-                    "bio journal club"
+                    "bio journal club",
+                    "a16z.com/journalclub"
                 ],
                 "ORDINAL": [
                     "first"
@@ -7806,7 +7892,7 @@
                     "Richard S E Keefe",
                     "Jeffery N Epstein",
                     "Andrew J Cutler",
-                    "Stephen V"
+                    "Stephen V Faraone.a16z bio"
                 ],
                 "DATE": [
                     "April 2020"
@@ -7887,7 +7973,9 @@
                 "PERSON": [
                     "David Ulevitch",
                     "Superhuman",
-                    "Rahul Vohra"
+                    "Rahul Vohra",
+                    "David",
+                    "Rahul"
                 ]
             }
         },
@@ -7923,10 +8011,12 @@
                 "PERSON": [
                     "Judy Savitskaya",
                     "Lauren Richardson",
+                    "Science",
                     "Thomas Schwander",
                     "Schada von Borzyskowski",
                     "Simon Burgener",
-                    "Tobias J. Erb</p><p><a",
+                    "Tobias J. Erb\"Light-",
+                    "Science",
                     "Tarryn E. Miller",
                     "Thomas Beneyton",
                     "Thomas Schwander",
@@ -7936,7 +8026,7 @@
                     "Tanguy Chotel",
                     "Peter Claus",
                     "Jean-Christophe Baret",
-                    "Tobias J."
+                    "Tobias J. Erba16z Journal Club"
                 ],
                 "CARDINAL": [
                     "two",
@@ -7944,13 +8034,14 @@
                     "two"
                 ],
                 "WORK_OF_ART": [
+                    "Science",
                     "Tobias Erb"
                 ],
                 "ORG": [
                     "the Max Planck Institute for Terrestrial Microbiology",
-                    "Journal Club",
                     "biology & technology",
-                    "bio journal club"
+                    "bio journal club",
+                    "a16z.com/journalclub"
                 ],
                 "ORDINAL": [
                     "first",
@@ -7959,11 +8050,8 @@
                 "DATE": [
                     "2016",
                     "May",
-                    "2016",
+                    "November 2016",
                     "May 2020"
-                ],
-                "GPE": [
-                    "vitro\"</a"
                 ]
             }
         },
@@ -8001,14 +8089,19 @@
                 ],
                 "CARDINAL": [
                     "two",
+                    "1",
                     "2"
                 ],
-                "NORP": [
-                    "href=\"https://lusk.usc.edu"
+                "PERSON": [
+                    "Lauren Murrow",
+                    "Connie Chan",
+                    "Richard Green",
+                    "Divvy Homes"
                 ],
                 "ORG": [
                     "USC",
-                    "Lusk Center for Real Estate"
+                    "Lusk Center for Real Estate",
+                    "Adena Hefets"
                 ],
                 "GPE": [
                     "New York",
@@ -8055,12 +8148,14 @@
                     "6/17"
                 ],
                 "PERSON": [
-                    "alex-rampell/\">Alex",
+                    "Lauren Murrow",
+                    "Alex Rampell",
                     "Malloy Evans",
                     "Tushar Garg"
                 ],
                 "ORG": [
-                    "Fannie Mae\u2019s"
+                    "Fannie Mae\u2019s",
+                    "Flyhomes"
                 ]
             }
         },
@@ -8104,10 +8199,12 @@
                     "COVID-19",
                     "Vijay",
                     "Greg Bowman",
-                    "Lauren Richardson"
+                    "Lauren Richardson",
+                    "Napster"
                 ],
                 "ORG": [
                     "Home - millions",
+                    "Home",
                     "Vijay Pande",
                     "Stanford",
                     "Washington University"
@@ -8164,7 +8261,8 @@
                     "Medicaid Innovation",
                     "The Scan Group",
                     "Healthplan",
-                    "Hanne Tidnam"
+                    "Hanne Tidnam",
+                    "healthcare"
                 ],
                 "PERSON": [
                     "Vijay Kedar",
@@ -8249,7 +8347,8 @@
             "title": "All about Section 230: What It Does and Doesn't Say",
             "entities": {
                 "LAW": [
-                    "Section 230 <",
+                    "Section 230",
+                    "the Communications Decency Act",
                     "Section 230",
                     "the First Amendment",
                     "Section 230",
@@ -8265,16 +8364,18 @@
                 ],
                 "ORG": [
                     "the White House",
-                    "the longtime news & analysis site",
+                    "Copia Institute",
+                    "the longtime news & analysis",
+                    "Techdirt.com",
                     "CDA",
                     "FCC"
                 ],
                 "PERSON": [
                     "George Floyd",
                     "Sonal Chokshi",
-                    "Mike Masnick</strong",
+                    "Mike Masnick",
                     "Masnick",
-                    "Wikimedia Commons</i></p"
+                    "well).So"
                 ],
                 "GPE": [
                     "Minnesota"
@@ -8286,8 +8387,8 @@
                     "16 Minutes",
                     "16 Minutes"
                 ],
-                "CARDINAL": [
-                    "two"
+                "FAC": [
+                    "Wikimedia Commons"
                 ]
             }
         },
@@ -8321,9 +8422,9 @@
             "entities": {
                 "PERSON": [
                     "George Floyd",
-                    "target=\"_blank\">Shaka Senghor</a>",
-                    "target=\"_blank\">Terry Brown</a",
-                    "Ben Horowitz.</p><p"
+                    "Shaka Senghor",
+                    "Terry Brown",
+                    "Ben Horowitz"
                 ],
                 "GPE": [
                     "East Palo Alto",
@@ -8448,8 +8549,9 @@
                 ],
                 "ORG": [
                     "Stanford",
+                    "Brain",
                     "the Pasca Lab",
-                    "Stanford"
+                    "Stanford University"
                 ],
                 "GPE": [
                     "Hanne",
@@ -8496,22 +8598,22 @@
                     "the day",
                     "a week",
                     "two-week",
-                    "daily",
-                    "020-2284-y"
+                    "daily"
                 ],
                 "PERSON": [
-                    "Jorge Conde.</p><p",
+                    "Jorge Conde",
                     "Nicholas Christakis",
+                    "Hunala",
                     "Waze"
                 ],
                 "WORK_OF_ART": [
-                    "target=\"_blank\">Human Nature"
+                    "the Human Nature Lab"
                 ],
                 "CARDINAL": [
                     "two"
                 ],
                 "GPE": [
-                    "China</a"
+                    "China"
                 ]
             }
         },
@@ -8596,7 +8698,9 @@
                     "four"
                 ],
                 "PERSON": [
-                    "andrew-chen/\">Andrew Chen</a>",
+                    "Andrew Chen",
+                    "Brian Balfour",
+                    "Lauren Murrow).The",
                     "Brian"
                 ],
                 "ORG": [
@@ -8660,19 +8764,19 @@
                     "Tara Pande",
                     "Drew Endy",
                     "Marie La Russa",
-                    "David Lewis",
-                    "Lei"
+                    "David Lewis"
                 ],
-                "WORK_OF_ART": [
-                    "target=\"_blank\">Development of CRISPR"
+                "NORP": [
+                    "Influenza"
                 ],
                 "DATE": [
-                    "2020"
+                    "April 2020"
                 ],
                 "ORG": [
-                    "Journal Club",
+                    "Lei Qia16z Journal Club",
                     "biology & technology",
-                    "bio journal club"
+                    "bio journal club",
+                    "a16z.com/journalclub"
                 ]
             }
         },
@@ -8791,6 +8895,7 @@
                     "Chris Lyons"
                 ],
                 "ORG": [
+                    "Cultural Leadership Fund",
                     "Wagner",
                     "NFL",
                     "Wagner"
@@ -8885,22 +8990,19 @@
                     "Journal Club",
                     "biology & technology",
                     "bio journal club",
-                    "Lauren Richardson:</p><p><strong>0:26",
-                    "James Collins</li></ul><p><strong>11:43 #2",
-                    "COVID-19 pandemic</strong",
-                    "Antigenicity of the SARS-CoV-2"
+                    "COVID-19",
+                    "Antigenicity of the SARS-CoV-2",
+                    "a16z.com/journalclub"
                 ],
                 "CARDINAL": [
                     "2",
                     "two"
                 ],
-                "MONEY": [
-                    "1"
-                ],
                 "PERSON": [
+                    "Lauren",
                     "Vijay Pande",
                     "Andy Tran",
-                    "Deep Learning Approach",
+                    "Cell",
                     "Jonathan Stokes",
                     "Kevin Yang",
                     "Kyle Swanson",
@@ -8919,13 +9021,16 @@
                     "Eric Brown",
                     "Tommi Jaakkola",
                     "Regina Barzilay",
+                    "James Collins11:43",
                     "Judy Savitskaya",
-                    "Spike Glycoprotein</a",
+                    "Spike Glycoprotein",
+                    "Cell",
                     "Alexandra Walls",
                     "Young-Jun Park",
                     "Abigail Wall",
                     "Andrew McGuire",
-                    "David Veesler</li><li>\"<a",
+                    "David Veesler\"Cryo-EM",
+                    "Science",
                     "Daniel Wrapp",
                     "Nianshuang Wang",
                     "Kizzmekia Corbett",
@@ -8933,20 +9038,22 @@
                     "Ching-Lin Hsieh",
                     "Olubukola Abiona",
                     "Barney Graham",
-                    "Jason McLellan</li></ul><p"
+                    "Jason McLellanYou"
                 ],
-                "NORP": [
-                    "Antibiotic"
-                ],
-                "DATE": [
-                    "/i>(February 2020",
-                    "2002-2004",
-                    "2020",
-                    "2019",
-                    "2020"
+                "MONEY": [
+                    "1",
+                    "2"
                 ],
                 "WORK_OF_ART": [
-                    "target=\"_blank\">Structure, Function"
+                    "Deep Learning Approach to Antibiotic Discovery",
+                    "Structure, Function"
+                ],
+                "DATE": [
+                    "February 2020",
+                    "2002-2004",
+                    "April 2020",
+                    "2019",
+                    "March 2020"
                 ]
             }
         },
@@ -8983,21 +9090,22 @@
                 "ORDINAL": [
                     "first"
                 ],
+                "ORG": [
+                    "bio journal club",
+                    "PLOS Biology",
+                    "the University of Washington"
+                ],
                 "CARDINAL": [
                     "one"
                 ],
                 "PERSON": [
                     "Lauren Richardson"
                 ],
-                "ORG": [
-                    "PLOS Biology",
-                    "the University of Washington"
-                ],
                 "WORK_OF_ART": [
                     "Ph.D."
                 ],
-                "GPE": [
-                    "UC"
+                "FAC": [
+                    "UC Berkeley).You"
                 ]
             }
         },
@@ -9031,7 +9139,7 @@
             "entities": {
                 "PERSON": [
                     "Ali",
-                    "Blockchain Computing</a"
+                    "Blockchain Computing"
                 ]
             }
         },
@@ -9106,8 +9214,8 @@
                 "ORDINAL": [
                     "first"
                 ],
-                "DATE": [
-                    "Minutes</a></li><li><a"
+                "PERSON": [
+                    "MinutesHustlin"
                 ]
             }
         },
@@ -9153,8 +9261,8 @@
                 "DATE": [
                     "today"
                 ],
-                "GPE": [
-                    "it</a"
+                "CARDINAL": [
+                    "100"
                 ]
             }
         },
@@ -9187,12 +9295,13 @@
             "pubDate": "Thu, 16 Apr 2020 20:05:22 +0000",
             "title": "When Bad Policy = Bad Business Models = Bad Public Health",
             "entities": {
-                "EVENT": [
-                    "Black Swan"
-                ],
                 "PERSON": [
+                    "@omnivorousreadIn",
                     "Jorge Conde",
                     "Julie Yoo"
+                ],
+                "EVENT": [
+                    "Black Swan"
                 ],
                 "ORG": [
                     "Hanne Tidnam"
@@ -9271,7 +9380,7 @@
             "title": "Virtual Oncology",
             "entities": {
                 "PERSON": [
-                    "Coronavirus",
+                    "@omnivorousreadCoronavirus",
                     "Bobby Green",
                     "Sumit Shah",
                     "Vineeta Agarwala"
@@ -9450,7 +9559,7 @@
                 ],
                 "PERSON": [
                     "Jon Lai",
-                    "Lauren Murrow</strong"
+                    "Lauren Murrow"
                 ]
             }
         },
@@ -9487,11 +9596,8 @@
                     "Q1 2020",
                     "Q4 2019"
                 ],
-                "PERSON": [
-                    "Hustlin",
-                    "Joshua Browder",
-                    "Makiri Duckett",
-                    "Ben Horowitz"
+                "ORG": [
+                    "Hustlin' Tech"
                 ],
                 "CARDINAL": [
                     "3"
@@ -9501,6 +9607,12 @@
                 ],
                 "WORK_OF_ART": [
                     "The Hustler\u2019s Guide to Suing the Man"
+                ],
+                "PERSON": [
+                    "Joshua Browder",
+                    "Duckett",
+                    "Ben Horowitz",
+                    "Shaka Senghor"
                 ],
                 "ORDINAL": [
                     "first",
@@ -9541,12 +9653,9 @@
                     "Q1 2020",
                     "Q4 2019"
                 ],
-                "PERSON": [
-                    "Hustlin",
-                    "Seth Sternberg",
-                    "Samantha Ludwig",
-                    "Honor",
-                    "Ben Horowitz"
+                "ORG": [
+                    "Hustlin' Tech",
+                    "Honor"
                 ],
                 "CARDINAL": [
                     "3"
@@ -9556,6 +9665,13 @@
                 ],
                 "WORK_OF_ART": [
                     "The Hustler\u2019s Guide to Taking Care of Old Folks"
+                ],
+                "PERSON": [
+                    "Seth Sternberg",
+                    "Samantha Ludwig",
+                    "Honor",
+                    "Ben Horowitz",
+                    "Shaka Senghor"
                 ],
                 "ORDINAL": [
                     "first"
@@ -9595,11 +9711,10 @@
                     "Q1 2020",
                     "Q4 2019"
                 ],
-                "PERSON": [
-                    "Hustlin",
-                    "Iman Abuzeid",
-                    "Stephanie Anyanwu",
-                    "Ben Horowitz"
+                "ORG": [
+                    "Hustlin' Tech",
+                    "Incredible Health",
+                    "RN"
                 ],
                 "CARDINAL": [
                     "3"
@@ -9608,16 +9723,18 @@
                     "4"
                 ],
                 "WORK_OF_ART": [
-                    "The Hustler\u2019s Guide to Nursing Jobs",
-                    "target=\"_blank\">Incredible Health</a"
+                    "The Hustler\u2019s Guide to Nursing Jobs"
+                ],
+                "PERSON": [
+                    "Iman Abuzeid",
+                    "Stephanie Anyanwu",
+                    "Ben Horowitz",
+                    "Shaka Senghor"
                 ],
                 "GPE": [
                     "MD",
                     "U.S.",
                     "U.S."
-                ],
-                "ORG": [
-                    "RN"
                 ],
                 "ORDINAL": [
                     "first"
@@ -9658,7 +9775,7 @@
                     "Hustler",
                     "Guide to Taking Care of Old",
                     "Hustler",
-                    "Guide to Suing the Man",
+                    "Guide to Suing the Man \u00a0You",
                     "Hustlin Tech"
                 ],
                 "PERSON": [
@@ -9745,7 +9862,7 @@
                 "ORG": [
                     "Virtual Kitchen Co.",
                     "Snackpass",
-                    "Virtual Kitchen Co.",
+                    "\"Virtual Kitchen Co.",
                     "Snackpass"
                 ],
                 "PERSON": [
@@ -9755,7 +9872,7 @@
                     "Lauren Murrow"
                 ],
                 "DATE": [
-                    "November 2019.</i></p"
+                    "November 2019"
                 ]
             }
         },
@@ -9908,7 +10025,6 @@
                     "Andreessen Horowitz",
                     "Kim Milosevich",
                     "Jesse Walden",
-                    "Startup School</a",
                     "Zoran Basich"
                 ],
                 "CARDINAL": [
@@ -9918,6 +10034,12 @@
                 "GPE": [
                     "U.S.",
                     "Mediachain"
+                ],
+                "WORK_OF_ART": [
+                    "flattening the curve\u201d"
+                ],
+                "ORG": [
+                    "Crypto Startup School"
                 ]
             }
         },
@@ -9955,11 +10077,12 @@
                 ],
                 "ORG": [
                     "Instagram",
-                    "Credit Karma"
+                    "Credit Karma",
+                    "D'Arcy Coolican"
                 ],
                 "PERSON": [
                     "debtfreejourney",
-                    "Acharya</a"
+                    "Lauren Murrow"
                 ]
             }
         },
@@ -9991,21 +10114,19 @@
             "pubDate": "Fri, 6 Mar 2020 10:00:00 +0000",
             "title": "Innovation Through Software Development and IT",
             "entities": {
+                "CARDINAL": [
+                    "One",
+                    "two"
+                ],
                 "DATE": [
                     "a couple years ago",
                     "December 2018"
                 ],
-                "CARDINAL": [
-                    "two"
-                ],
-                "PERSON": [
-                    "Nicole Forsgren",
-                    "Jean Kim",
-                    "Sonal Chokshi",
-                    "Nicole",
-                    "Jez"
+                "WORK_OF_ART": [
+                    "Accelerate: The Science of \u00a0Lean Software"
                 ],
                 "ORG": [
+                    "DevOps",
                     "Dora",
                     "Google",
                     "GitHub",
@@ -10013,7 +10134,17 @@
                     "CTO",
                     "DORA",
                     "Developer Relations",
-                    "Google Cloud"
+                    "Google Cloud",
+                    "The DevOps Handbook",
+                    "Lean Enterprise"
+                ],
+                "PERSON": [
+                    "Nicole Forsgren",
+                    "Jean Kim",
+                    "Sonal Chokshi",
+                    "Nicole",
+                    "Jez",
+                    "Continuous Delivery"
                 ]
             }
         },
@@ -10094,41 +10225,44 @@
                 "GPE": [
                     "U.S.",
                     "U.S.",
-                    "China",
-                    "china"
+                    "China"
                 ],
                 "DATE": [
                     "today",
                     "February 26, 2020",
-                    "sitrep-37",
                     "February 25, 2020",
                     "last week's",
-                    "February 17",
-                    "February 14",
-                    "February 14",
-                    "Annual"
+                    "February 17, 2020",
+                    "February 14, 2020",
+                    "February 14, 2020",
+                    "Annual",
+                    "February 12, 2020"
                 ],
                 "PERSON": [
-                    "julie-yoo/",
-                    "Judy Savitskaya;</li></ol><p>",
-                    "transcript</a></li><li><a href=\"https://www.who.int/docs",
+                    "Julie Yoo",
+                    "Judy Savitskaya;",
+                    "Sonal Chokshi",
                     "Helen Branswell",
                     "StatNews"
                 ],
+                "ORG": [
+                    "CDC",
+                    "CDC",
+                    "SCMP",
+                    "Scott Gottlieb)situation & policy",
+                    "CDC",
+                    "Global Preparedness Monitoring Board",
+                    "CDC",
+                    "CDC",
+                    "COVID-19/ Wikimedia Commons"
+                ],
                 "MONEY": [
-                    "27</a",
+                    "27",
                     "#6 and #25",
                     "25"
                 ],
-                "WORK_OF_ART": [
-                    "target=\"_blank\">Scott Gottlieb</a>)</li><li><strong>situation & policy"
-                ],
-                "ORG": [
-                    "CDC",
-                    "ss1978/lesson1/section11.html",
-                    "href=\"https://twitter.com",
-                    "qPCR",
-                    "CDC"
+                "CARDINAL": [
+                    "2019)on"
                 ]
             }
         },
@@ -10164,7 +10298,7 @@
                     "Marketplaces Week"
                 ],
                 "CARDINAL": [
-                    "100</a"
+                    "100"
                 ],
                 "DATE": [
                     "a couple years ago"
@@ -10207,19 +10341,20 @@
                     "Susan",
                     "Susan",
                     "jiu jitsu",
-                    "Susan",
                     "Susan"
                 ],
                 "ORG": [
                     "state"
                 ],
                 "CARDINAL": [
-                    "2:05]</p><p",
-                    "One",
-                    "8:10]</p><p",
-                    "28:14]</p><p",
-                    "39:45]</p><p",
-                    "42:54]</p"
+                    "2:05]One",
+                    "14:00]The",
+                    "16:48]How",
+                    "18:29]How",
+                    "20:10]Hacking",
+                    "21:10]The",
+                    "31:20]The",
+                    "39:45]A"
                 ],
                 "GPE": [
                     "China",
@@ -10312,9 +10447,6 @@
                 "ORG": [
                     "Harvard Business School Professor Francesca Gino",
                     "Hanne Tidnam"
-                ],
-                "PERSON": [
-                    "href=\"https://www.rebeltalents.org/\">rebel"
                 ]
             }
         },
@@ -10353,39 +10485,33 @@
                 "DATE": [
                     "2019",
                     "2019",
+                    "January 27\"Clinical",
                     "2019",
-                    "2019"
+                    "January 24\"Discovery",
+                    "January 2",
+                    "January 28"
                 ],
-                "ORG": [
-                    "coronaviruses</li><li",
-                    "the U.S. Department of Health and Human Services",
-                    "href=\"https://www.thelancet.com"
+                "NORP": [
+                    "MERSspeed"
                 ],
                 "PERSON": [
-                    "info</li><li",
                     "Judy Savitskaya",
+                    "Sonal Chokshi",
                     "Jon Cohen",
                     "Ed Yong"
                 ],
-                "CARDINAL": [
-                    "R0",
-                    "2</a><i"
-                ],
-                "NORP": [
-                    "target=\"_blank\">types</a></li><li><a"
-                ],
-                "WORK_OF_ART": [
-                    "target=\"_blank\">World Health Organizatio</a>n (in the United Nations"
-                ],
-                "MONEY": [
-                    "6"
+                "ORG": [
+                    "Centers for Disease Control and Prevention",
+                    "the U.S. Department of Health and Human Services",
+                    "Health Organization",
+                    "the United Nations",
+                    "Lancet",
+                    "CDC"
                 ],
                 "GPE": [
                     "Wuhan",
-                    "China"
-                ],
-                "LOC": [
-                    "Atlantic"
+                    "China",
+                    "The Atlantic"
                 ]
             }
         },
@@ -10418,9 +10544,17 @@
             "pubDate": "Mon, 27 Jan 2020 18:07:04 +0000",
             "title": "The Truth about 1000 True Fans + Pricing Our Attention",
             "entities": {
+                "CARDINAL": [
+                    "1000",
+                    "millions",
+                    "only thousands",
+                    "1",
+                    "2",
+                    "1000",
+                    "only one"
+                ],
                 "ORDINAL": [
-                    "first",
-                    "href=\"https://a16z.com/2020/01/26"
+                    "first"
                 ],
                 "PERSON": [
                     "Kevin Kelly",
@@ -10435,19 +10569,11 @@
                 "NORP": [
                     "Titans"
                 ],
-                "CARDINAL": [
-                    "millions",
-                    "only thousands",
-                    "1",
-                    "2",
-                    "1000",
-                    "only one"
+                "WORK_OF_ART": [
+                    "The Inevitable (covered"
                 ],
                 "MONEY": [
                     "about $3"
-                ],
-                "ORG": [
-                    "href=\"https://creativecommons.org"
                 ]
             }
         },
@@ -10483,19 +10609,22 @@
                 "PERSON": [
                     "Craig Mod",
                     "Robert Cottrell",
+                    "Browser",
                     "Chris Best",
                     "Andrew Chen",
-                    "Sonal Chokshi"
+                    "Sonal Chokshi",
+                    "Thad Zajdowicz/ Flickr"
                 ],
                 "ORG": [
                     "Google Reader",
                     "The Economist and Financial Times",
                     "CTO",
                     "Kik",
-                    "href=\"https://creativecommons.org"
+                    "Substack"
                 ],
                 "CARDINAL": [
-                    "5"
+                    "5",
+                    "1000"
                 ]
             }
         },
@@ -10533,7 +10662,7 @@
                     "the next era"
                 ],
                 "PERSON": [
-                    "Chris Dixon",
+                    "Dixon",
                     "Jonah Peretti",
                     "Chris"
                 ],
@@ -10571,6 +10700,7 @@
             "title": "Controlling AI",
             "entities": {
                 "ORG": [
+                    "AI",
                     "AI",
                     "AI",
                     "the Center for Human-Compatible Artificial Intelligence",
@@ -10643,6 +10773,11 @@
                 ],
                 "PERSON": [
                     "Vijay Pande"
+                ],
+                "CARDINAL": [
+                    "2:20",
+                    "5:22",
+                    "41:25"
                 ]
             }
         },
@@ -10679,16 +10814,16 @@
                     "today",
                     "last year"
                 ],
-                "ORG": [
-                    "Narasimhan",
-                    "Novartis",
-                    "the JP Morgan Healthcare Conference",
-                    "href=\"https://creativecommons.org"
-                ],
                 "PERSON": [
+                    "Narasimhan",
                     "Jorge Conde",
                     "Vijay Pande",
                     "Sonal Chokshi"
+                ],
+                "ORG": [
+                    "Novartis",
+                    "the JP Morgan Healthcare Conference",
+                    "Global Panorama/ Flickr"
                 ]
             }
         },
@@ -10723,24 +10858,21 @@
             "entities": {
                 "DATE": [
                     "a turn of the decade",
-                    "January",
-                    "years-ago"
-                ],
-                "NORP": [
-                    "href=\"https://www.buzzfeednews.com"
+                    "January"
                 ],
                 "PERSON": [
-                    "Sonal Chokshi"
+                    "Jorge Conde",
+                    "Sonal Chokshi",
+                    "Petra Fritz / Flickr"
                 ],
                 "MONEY": [
                     "18"
                 ],
-                "WORK_OF_ART": [
+                "TIME": [
                     "16 Minutes"
                 ],
-                "ORG": [
-                    "Petra",
-                    "href=\"https://creativecommons.org"
+                "WORK_OF_ART": [
+                    "16 Minutes"
                 ]
             }
         },
@@ -10786,6 +10918,9 @@
                     "AH Capital Management",
                     "L.L.C."
                 ],
+                "LOC": [
+                    "room.***The"
+                ],
                 "ORDINAL": [
                     "third"
                 ]
@@ -10821,6 +10956,7 @@
             "entities": {
                 "DATE": [
                     "the past couple years",
+                    "2018",
                     "September",
                     "September 2019"
                 ],
@@ -10843,8 +10979,9 @@
                 ],
                 "PERSON": [
                     "Katie Haun",
+                    "Michael Leiter",
                     "Skadden Arps",
-                    "Andreessen",
+                    "Andreessen Horowitz",
                     "Andreessen Horowitz"
                 ],
                 "ORDINAL": [
@@ -10887,15 +11024,16 @@
                     "D'Arcy Coolican",
                     "Lauren Murrow"
                 ],
+                "ORG": [
+                    "Lambda School",
+                    "ISA",
+                    "Lambda School"
+                ],
                 "MONEY": [
                     "more than 1.5 trillion dollars"
                 ],
                 "ORDINAL": [
                     "second"
-                ],
-                "ORG": [
-                    "ISA",
-                    "Lambda School"
                 ]
             }
         },
@@ -10999,8 +11137,8 @@
             "title": "The Journey from 0 to 1, from Mosaic to Netscape",
             "entities": {
                 "PERSON": [
+                    "Starting Greatness",
                     "Mike Maples",
-                    "junior.</p><p",
                     "Marc Andreessen",
                     "Mosaic"
                 ],
@@ -11041,21 +11179,14 @@
             "pubDate": "Wed, 11 Dec 2019 07:00:00 +0000",
             "title": "Direct Listings, Myths and Facts",
             "entities": {
-                "PERSON": [
-                    "function</a><a",
-                    "Jamie McGurk",
-                    "Barry McCarthy",
-                    "barry-mccarthy-spotify-cfo-leaving",
-                    "Stacey Cunningham",
-                    "Sonal Chokshi",
-                    "Andreessen Horowitz"
-                ],
                 "ORG": [
+                    "CFO",
+                    "IPO",
+                    "IPO",
                     "Spotify",
                     "CFO",
+                    "CFO",
                     "NYSE",
-                    "href=\"https://www.axios.com",
-                    "sec",
                     "AH Capital Management",
                     "L.L.C."
                 ],
@@ -11063,6 +11194,14 @@
                     "Slack",
                     "Spotify",
                     "Netflix"
+                ],
+                "PERSON": [
+                    "Jamie McGurk",
+                    "Barry McCarthy",
+                    "Stacey Cunningham",
+                    "Sonal Chokshi",
+                    "making.---The",
+                    "Andreessen Horowitz"
                 ],
                 "CARDINAL": [
                     "two"
@@ -11104,10 +11243,6 @@
             "pubDate": "Sat, 7 Dec 2019 20:15:00 +0000",
             "title": "The Stories and Code of Culture Change",
             "entities": {
-                "GPE": [
-                    "not.</p><p",
-                    "Haiti"
-                ],
                 "ORG": [
                     "the Computer History Museum"
                 ],
@@ -11124,6 +11259,9 @@
                 ],
                 "PRODUCT": [
                     "Horowitz"
+                ],
+                "GPE": [
+                    "Haiti"
                 ]
             }
         },
@@ -11172,16 +11310,16 @@
                     "Hanne",
                     "Tidnam"
                 ],
+                "WORK_OF_ART": [
+                    "The Box"
+                ],
                 "PERSON": [
                     "Marc Levinson",
                     "Sonal Chokshi",
-                    "kevtalec/14904386296/\">Kevin Talec</a"
+                    "Kevin Talec / Flickr"
                 ],
                 "CARDINAL": [
                     "One"
-                ],
-                "ORG": [
-                    "href=\"https://creativecommons.org"
                 ]
             }
         },
@@ -11266,15 +11404,14 @@
                 "PERSON": [
                     "Margit Wennmachers",
                     "Sonal Chokshi",
-                    "Connie Chan"
-                ],
-                "ORG": [
-                    "href=\"https://twitter.com",
-                    "Sonal"
+                    "Connie Chan",
+                    "how!do"
                 ],
                 "PRODUCT": [
-                    "Twitter",
-                    "how!</li><li"
+                    "Twitter"
+                ],
+                "ORG": [
+                    "Sonal"
                 ]
             }
         },
@@ -11307,7 +11444,7 @@
             "title": "Brand Building Ideas\u2026 and People",
             "entities": {
                 "DATE": [
-                    "target=\"_blank\">10-year",
+                    "10-year",
                     "one day"
                 ],
                 "FAC": [
@@ -11363,8 +11500,9 @@
                     "the past decade"
                 ],
                 "PERSON": [
-                    "andrew-chen/\">Andrew Chen,</a>",
-                    "jonathan-lai/\">Jon",
+                    "Andrew Chen",
+                    "Jon Lai",
+                    "Lauren Murrow",
                     "Untitled Goose Game",
                     "Andrew",
                     "Jon"
@@ -11401,6 +11539,7 @@
                 "ORG": [
                     "AI",
                     "AI",
+                    "People.ai",
                     "AI",
                     "AI",
                     "AI",
@@ -11464,8 +11603,7 @@
                 ],
                 "PERSON": [
                     "Ali Ghodsi",
-                    "Partner Peter Levine",
-                    "AWS)?</p"
+                    "Partner Peter Levine"
                 ],
                 "GPE": [
                     "Databricks"
@@ -11520,7 +11658,10 @@
                 "ORG": [
                     "emoji",
                     "New York Times",
-                    "Sonal Chokshi.</p><p"
+                    "@yiyinglu"
+                ],
+                "WORK_OF_ART": [
+                    "Room Where It Happens?Joining"
                 ],
                 "FAC": [
                     "Kickstarter Fred Benenson"
@@ -11573,17 +11714,12 @@
                 "PERSON": [
                     "Marc Andreessen",
                     "Sonal Chokshi",
-                    "target=\"_blank\">Andrew McAfee</a",
-                    "Andrew-McAfee/9781982103576",
-                    "Kevin Gill</i></a><i"
+                    "Andrew McAfee",
+                    "Kevin Gill / Flickr"
                 ],
                 "ORG": [
                     "MIT",
-                    "Tesla",
-                    "href=\"https://creativecommons.org"
-                ],
-                "NORP": [
-                    "href=\"http://ide.mit.edu"
+                    "Tesla"
                 ]
             }
         },
@@ -11626,34 +11762,31 @@
                     "this week",
                     "annual"
                 ],
+                "ORG": [
+                    "news & tech",
+                    "Amazon Care",
+                    "Facebook",
+                    "NASA",
+                    "quantum",
+                    "Vijay Pande",
+                    "AH Capital Management",
+                    "L.L.C."
+                ],
                 "ORDINAL": [
                     "tenth",
                     "third"
                 ],
+                "GPE": [
+                    "Seattle"
+                ],
                 "PERSON": [
-                    "experts:</p><ul><li><strong",
-                    "href=\"https://www.cnbc.com/2019/09/24",
                     "Julie Yoo",
-                    "Jorge Conde</li><li><strong",
-                    "Chris Dixon</li><li><strong",
-                    "dan-boneh",
-                    "quantum computing</a",
-                    "Vijay Pande</li></ul><p>",
+                    "Jorge CondeOculus Connect",
+                    "Chris DixonGoogle",
                     "Andreessen Horowitz"
                 ],
-                "ORG": [
-                    "Amazon",
-                    "Facebook's",
-                    "AH Capital Management",
-                    "L.L.C."
-                ],
-                "GPE": [
-                    "Seattle",
-                    "claim</strong"
-                ],
-                "NORP": [
-                    "href=\"https://a16z.com/2015/09/04",
-                    "target=\"_blank\">in"
+                "CARDINAL": [
+                    "6"
                 ]
             }
         },
@@ -11686,8 +11819,12 @@
             "pubDate": "Sat, 28 Sep 2019 17:00:03 +0000",
             "title": "New Business Models for Gaming, Collaboration, Creativity",
             "entities": {
+                "DATE": [
+                    "today"
+                ],
                 "PERSON": [
                     "Kevin Chou",
+                    "Forte",
                     "Roblox",
                     "Chou",
                     "Sonal Chokshi",
@@ -11698,7 +11835,6 @@
                 ],
                 "ORG": [
                     "Kabam",
-                    "Forte.io)</p><p>---</p><p><i",
                     "AH Capital Management",
                     "L.L.C."
                 ],
@@ -11740,12 +11876,14 @@
                 "MONEY": [
                     "9"
                 ],
+                "TIME": [
+                    "16 Minutes"
+                ],
                 "DATE": [
                     "the week",
                     "This week",
-                    "years",
+                    "the worst years",
                     "Just this week",
-                    "Last week",
                     "the past month",
                     "zero-day",
                     "a week later",
@@ -11774,17 +11912,17 @@
                 ],
                 "GPE": [
                     "Exploit",
-                    "China",
-                    "china"
+                    "China"
+                ],
+                "ORDINAL": [
+                    "third",
+                    "third"
                 ],
                 "PERSON": [
                     "Martin Casado",
                     "Joel de la Garza",
                     "Sonal Chokshi",
                     "Andreessen Horowitz"
-                ],
-                "ORDINAL": [
-                    "third"
                 ]
             }
         },
@@ -11874,13 +12012,14 @@
                     "AH Capital Management",
                     "L.L.C."
                 ],
+                "PERSON": [
+                    "Benedict Evans",
+                    "Vijay Pande",
+                    "Sonal Chokshi",
+                    "Andreessen Horowitz"
+                ],
                 "GPE": [
                     "Singapore"
-                ],
-                "PERSON": [
-                    "self&quot",
-                    "Vijay",
-                    "Andreessen Horowitz"
                 ],
                 "ORDINAL": [
                     "third"
@@ -11923,16 +12062,18 @@
                     "the Center for Medicare",
                     "Medicaid Innovation",
                     "Conway",
-                    "Blue Cross Blue Shield North Carolina.</p"
+                    "Blue Cross Blue Shield"
                 ],
                 "GPE": [
+                    "North Carolina",
+                    "Hanne",
+                    "Tidnam",
                     "North Carolina"
                 ],
                 "PERSON": [
                     "Patrick Conway",
                     "Jorge Conde",
                     "Venkat Mocherla",
-                    "Hanne Tidnam.</p><p",
                     "Patrick Conway"
                 ],
                 "DATE": [
@@ -11970,22 +12111,25 @@
             "pubDate": "Fri, 6 Sep 2019 01:11:39 +0000",
             "title": "The Hustler's Guide to the Hair Business",
             "entities": {
+                "LAW": [
+                    "@bhorowitz @shakasenghor"
+                ],
+                "PERSON": [
+                    "@diishanimira @therealritabee",
+                    "Diishan Imira",
+                    "Mayvenn",
+                    "Ben Horowitz",
+                    "Shaka Senghor",
+                    "Chris Lyons"
+                ],
                 "ORG": [
-                    "@bhorowitz @shakasenghor",
+                    "Hustlin\u2019 Tech",
                     "Hustler",
                     "Mayvenn",
                     "SherriAnn"
                 ],
-                "PERSON": [
-                    "@diishanimira @therealritabee</p",
-                    "Diishan Imira",
-                    "Mayvenn",
-                    "Ben Horowitz",
-                    "Shaka Senghor.</p",
-                    "Chris Lyons</p"
-                ],
                 "MONEY": [
-                    "#3, &"
+                    "3"
                 ],
                 "PRODUCT": [
                     "Cole"
@@ -12027,6 +12171,7 @@
                 "ORG": [
                     "@bhorowitz @shakasenghor",
                     "@earnin &",
+                    "Hustlin\u2019 Tech",
                     "Earnin",
                     "Vaughn Ferguson"
                 ],
@@ -12040,8 +12185,8 @@
                     "Ram Palianappan",
                     "Earnin",
                     "Ben Horowitz",
-                    "Shaka Senghor.</p",
-                    "Chris Lyons</p"
+                    "Shaka Senghor",
+                    "Chris Lyons"
                 ],
                 "DATE": [
                     "payday"
@@ -12079,24 +12224,29 @@
             "entities": {
                 "ORG": [
                     "@bhorowitz @shakasenghor",
-                    "@8ennett &amp",
+                    "@8ennett &",
+                    "Hustlin\u2019 Tech",
                     "Hustler",
-                    "Guide",
+                    "Guide to Preschool",
                     "Wonderschool",
                     "Wonderschool"
                 ],
-                "MONEY": [
-                    "#1, &"
-                ],
                 "PERSON": [
+                    "james\n",
                     "Chris Bennett",
                     "Sherie James",
                     "Ben Horowitz",
                     "Shaka Senghor",
-                    "Chris Lyons</p"
+                    "Chris Lyons"
+                ],
+                "MONEY": [
+                    "1"
                 ],
                 "DATE": [
                     "the 25th Anniversary Essence Festival Global Economic Black Forum"
+                ],
+                "GPE": [
+                    "New Orleans"
                 ]
             }
         },
@@ -12129,9 +12279,9 @@
             "title": "Introducing Hustlin' Tech",
             "entities": {
                 "PERSON": [
-                    "We're",
                     "Ben Horowitz",
-                    "Shaka Senghor"
+                    "Shaka Senghor",
+                    "a16z.com/hustlin\n"
                 ],
                 "WORK_OF_ART": [
                     "Hustlin\u2019 Tech"
@@ -12139,12 +12289,13 @@
                 "CARDINAL": [
                     "three"
                 ],
-                "ORG": [
-                    "Guide to Preschool<br />"
-                ],
                 "MONEY": [
+                    "1",
                     "2",
                     "3"
+                ],
+                "ORG": [
+                    "Guide to Preschool\n"
                 ]
             }
         },
@@ -12177,11 +12328,10 @@
             "title": "a16z Podcast: Making Culture, Making Influence -- Dapper Dan!",
             "entities": {
                 "PERSON": [
-                    "Dan a.k.a",
                     "Daniel Day",
                     "Ben Horowitz",
-                    "Dan",
-                    "Eric B. &",
+                    "Dapper Dan",
+                    "Eric B. & Rakim",
                     "Jay",
                     "Dan",
                     "Dapper Dan",
@@ -12190,21 +12340,22 @@
                 "GPE": [
                     "San Francisco"
                 ],
+                "LOC": [
+                    "Harlem",
+                    "Harlem"
+                ],
                 "DATE": [
                     "the early 1980s",
-                    "Today"
+                    "Today",
+                    "2017"
                 ],
                 "ORG": [
                     "Salt-N-Pepa",
-                    "Rakim",
                     "the Museum of Modern Art",
                     "Smithsonian"
                 ],
-                "LOC": [
-                    "Harlem"
-                ],
-                "CARDINAL": [
-                    "2017.</p"
+                "FAC": [
+                    "Alain McLaughlin"
                 ]
             }
         },
@@ -12240,7 +12391,6 @@
                 "PERSON": [
                     "Katie Haun",
                     "Marc Andreessen",
-                    "Eating",
                     "Katie",
                     "Marc",
                     "Crypto Regulatory Summit"
@@ -12250,11 +12400,12 @@
                     "the Wall Street Journal",
                     "the New York Times"
                 ],
-                "DATE": [
-                    "2011"
+                "WORK_OF_ART": [
+                    "Eating the World"
                 ],
-                "CARDINAL": [
-                    "2014).</p"
+                "DATE": [
+                    "2011",
+                    "2014"
                 ]
             }
         },
@@ -12287,19 +12438,13 @@
             "title": "a16z Podcast: What to Know about FedRAMP",
             "entities": {
                 "ORG": [
-                    "&quot;cloud",
-                    "aka &quot;CSPs&quot",
                     "the Federal Risk and Authorization Management Program",
                     "ISO",
                     "SOC-2",
                     "GDPR",
                     "HIPAA",
-                    "VP of Security"
-                ],
-                "PERSON": [
-                    "providers&quot",
-                    "Lisa Hawke",
-                    "Steven Sinofsky"
+                    "VP of Security",
+                    "GDPR"
                 ],
                 "GPE": [
                     "U.S."
@@ -12310,6 +12455,10 @@
                 ],
                 "ORDINAL": [
                     "third"
+                ],
+                "PERSON": [
+                    "Lisa Hawke",
+                    "Steven Sinofsky"
                 ]
             }
         },
@@ -12353,12 +12502,14 @@
                 ],
                 "ORG": [
                     "Apple",
+                    "BEC",
                     "FBI",
                     "AH Capital Management",
                     "L.L.C."
                 ],
                 "PERSON": [
-                    "Joel de la Garza;</li",
+                    "Joel de la Garza",
+                    "Sonal Chokshi",
                     "Andreessen Horowitz"
                 ],
                 "ORDINAL": [
@@ -12456,11 +12607,12 @@
                     "This week"
                 ],
                 "PERSON": [
-                    "Julie Yoo;</li",
-                    "Joel de la Garza;</li"
+                    "Julie Yoo",
+                    "Joel de la Garza",
+                    "Sonal Chokshi"
                 ],
-                "CARDINAL": [
-                    "One"
+                "ORG": [
+                    "Capital One"
                 ]
             }
         },
@@ -12510,10 +12662,10 @@
                     "U.S."
                 ],
                 "PERSON": [
-                    "Angela Strange;</li",
+                    "Angela Strange",
                     "Barney",
-                    "retail&quot",
-                    "Jeff Jordan;</li"
+                    "Jeff Jordan",
+                    "Sonal Chokshi"
                 ]
             }
         },
@@ -12555,14 +12707,10 @@
                     "the week",
                     "This week"
                 ],
-                "ORG": [
-                    "drugs?</li",
-                    "involved?</li",
-                    "Sonal"
-                ],
                 "PERSON": [
                     "Jorge Conde",
-                    "Vijay Pande"
+                    "Vijay Pande",
+                    "Sonal Chokshi"
                 ]
             }
         },
@@ -12594,10 +12742,8 @@
             "pubDate": "Sun, 4 Aug 2019 04:23:31 +0000",
             "title": "16 Minutes on the News: Fortnite, Esports, Gaming, and Entertainment",
             "entities": {
-                "ORG": [
-                    "@dcoolican",
-                    "Fortnite World Cup",
-                    "Sonal"
+                "NORP": [
+                    "@dcoolican"
                 ],
                 "MONEY": [
                     "3"
@@ -12609,9 +12755,13 @@
                     "the week",
                     "This week"
                 ],
+                "ORG": [
+                    "Fortnite World Cup"
+                ],
                 "PERSON": [
                     "Andrew Chen",
-                    "D'Arcy Coolican"
+                    "D'Arcy Coolican",
+                    "Sonal Chokshi"
                 ]
             }
         },
@@ -12654,9 +12804,10 @@
                     "This week"
                 ],
                 "PERSON": [
-                    "Martin Casado;</li",
+                    "Martin Casado",
                     "Jorge Conde",
-                    "Jay Rughani;</li",
+                    "Jay Rughani",
+                    "Sonal Chokshi",
                     "Andreessen Horowitz"
                 ],
                 "ORG": [
@@ -12752,7 +12903,6 @@
                     "@vijaypande @conniechan @jpm25",
                     "news/",
                     "AI",
-                    "Connie",
                     "FaceApp",
                     "iHeart Radio",
                     "AH Capital Management",
@@ -12771,9 +12921,11 @@
                 ],
                 "PERSON": [
                     "Neuralink",
-                    "Vijay",
-                    "Joel de la Garza</li",
-                    "Jamie McGurk</li>",
+                    "Vijay Pande",
+                    "Connie Chan",
+                    "Joel de la Garza",
+                    "Jamie McGurk",
+                    "Sonal Chokshi",
                     "Andreessen Horowitz"
                 ]
             }
@@ -12810,8 +12962,6 @@
                 ],
                 "ORG": [
                     "YouTube",
-                    "Sand Hill Road:",
-                    "Venture Capital",
                     "AH Capital Management",
                     "L.L.C."
                 ],
@@ -12823,6 +12973,9 @@
                 "ORDINAL": [
                     "first",
                     "third"
+                ],
+                "WORK_OF_ART": [
+                    "Secrets of Sand Hill Road: Venture Capital and How to Get It"
                 ]
             }
         },
@@ -12867,9 +13020,10 @@
                     "Scott",
                     "Andreessen Horowitz"
                 ],
+                "WORK_OF_ART": [
+                    "Secrets of Sand Hill Road: Venture Capital and How to Get It"
+                ],
                 "ORG": [
-                    "Sand Hill Road:",
-                    "Venture Capital",
                     "AH Capital Management",
                     "L.L.C."
                 ]
@@ -12909,13 +13063,12 @@
                 ],
                 "CARDINAL": [
                     "3",
-                    "2"
+                    "2",
+                    "3"
                 ],
                 "ORG": [
                     "YouTube",
                     "Limited Partners",
-                    "Sand Hill Road:",
-                    "Venture Capital",
                     "AH Capital Management",
                     "L.L.C."
                 ],
@@ -12924,6 +13077,9 @@
                     "Frank Chen",
                     "Scott",
                     "Andreessen Horowitz"
+                ],
+                "WORK_OF_ART": [
+                    "Secrets of Sand Hill Road: Venture Capital and How to Get It"
                 ]
             }
         },
@@ -12962,7 +13118,7 @@
                     "Andreessen Horowitz",
                     "Andreessen Horowitz",
                     "Marc Andreessen",
-                    "Ben Horowitz.</p",
+                    "Ben Horowitz",
                     "Tyler Cowen",
                     "Ben",
                     "Marc"
@@ -12971,9 +13127,6 @@
                     "10-year",
                     "2018",
                     "annual"
-                ],
-                "ORG": [
-                    "aka &quot;a16z&quot;)"
                 ]
             }
         },
@@ -13012,7 +13165,7 @@
                     "Andreessen Horowitz",
                     "Andreessen Horowitz",
                     "Marc Andreessen",
-                    "Ben Horowitz.</p",
+                    "Ben Horowitz",
                     "Steven Johnson",
                     "Ben",
                     "Marc"
@@ -13021,9 +13174,6 @@
                     "10-year",
                     "2017",
                     "annual"
-                ],
-                "ORG": [
-                    "aka &quot;a16z&quot;)"
                 ]
             }
         },
@@ -13063,7 +13213,7 @@
                     "Andreessen Horowitz",
                     "Andreessen Horowitz",
                     "Marc Andreessen",
-                    "Ben Horowitz.</p",
+                    "Ben Horowitz",
                     "Sonal Chokshi",
                     "Scott Kupor",
                     "Ben",
@@ -13075,7 +13225,6 @@
                     "5-year"
                 ],
                 "ORG": [
-                    "aka &quot;a16z&quot;)",
                     "Marc\u2019s Wall Street Journal"
                 ]
             }

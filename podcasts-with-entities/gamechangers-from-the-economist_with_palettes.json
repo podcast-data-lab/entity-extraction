@@ -32,8 +32,7 @@
             "title": "Gamechangers: Reinventing the wheel",
             "entities": {
                 "ORDINAL": [
-                    "first",
-                    "third"
+                    "first"
                 ],
                 "DATE": [
                     "the 1990s"
@@ -43,9 +42,7 @@
                 ],
                 "ORG": [
                     "Economist",
-                    "grey",
-                    "grey",
-                    "href='https://acast.com/privacy'>acast.com"
+                    "Hosted on Acast"
                 ]
             }
         },
@@ -71,15 +68,6 @@
             "pubDate": "Tue, 02 Nov 2021 23:30:11 GMT",
             "title": "Gamechangers: Mobile money",
             "entities": {
-                "ORDINAL": [
-                    "third",
-                    "third",
-                    "first",
-                    "third",
-                    "first",
-                    "third",
-                    "third"
-                ],
                 "DATE": [
                     "more than a decade",
                     "2007"
@@ -88,18 +76,19 @@
                     "Africa"
                 ],
                 "GPE": [
-                    "kenya",
+                    "Kenya",
                     "Kenya"
                 ],
+                "ORDINAL": [
+                    "first",
+                    "first"
+                ],
                 "PERSON": [
-                    "target=\"_blank\">Kenya</a",
                     "Tom Standage"
                 ],
                 "ORG": [
                     "Economist",
-                    "grey",
-                    "grey",
-                    "href='https://acast.com/privacy'>acast.com"
+                    "Hosted on Acast"
                 ]
             }
         },
@@ -130,12 +119,7 @@
                 ],
                 "ORG": [
                     "Economist",
-                    "grey",
-                    "grey",
-                    "href='https://acast.com/privacy'>acast.com"
-                ],
-                "ORDINAL": [
-                    "third"
+                    "Hosted on Acast"
                 ]
             }
         },
@@ -165,10 +149,7 @@
                     "Tom Standage"
                 ],
                 "ORG": [
-                    "AI",
-                    "grey",
-                    "grey",
-                    "href='https://acast.com/privacy'>acast.com"
+                    "AI"
                 ]
             }
         },
@@ -195,16 +176,13 @@
             "title": "Gamechangers: Don't shoot the messenger",
             "entities": {
                 "PERSON": [
-                    "briefing/2021/03/27/covid-19",
+                    "Messenger RNA",
                     "Moderna",
                     "Tom Standage"
                 ],
                 "ORG": [
-                    "RNA",
                     "Pfizer-BioNTech",
-                    "grey",
-                    "grey",
-                    "href='https://acast.com/privacy'>acast.com"
+                    "www.economist.com/podcastoffer Hosted on Acast"
                 ],
                 "DATE": [
                     "just a few months",
@@ -242,9 +220,7 @@
                 ],
                 "ORG": [
                     "Tesla",
-                    "grey",
-                    "grey",
-                    "href='https://acast.com/privacy'>acast.com"
+                    "www.economist.com/podcastoffer Hosted on Acast"
                 ],
                 "PERSON": [
                     "Tom Standage"
@@ -273,17 +249,15 @@
             "pubDate": "Wed, 16 Jun 2021 23:00:30 GMT",
             "title": "Gamechangers: Trailer",
             "entities": {
+                "ORG": [
+                    "Gamechangers"
+                ],
                 "DATE": [
                     "monthly",
                     "decades"
                 ],
                 "CARDINAL": [
                     "six"
-                ],
-                "ORG": [
-                    "grey",
-                    "grey",
-                    "href='https://acast.com/privacy'>acast.com"
                 ]
             }
         }
@@ -329,11 +303,6 @@
     "entities": {
         "CARDINAL": [
             "six"
-        ],
-        "ORG": [
-            "grey",
-            "grey",
-            "href='https://acast.com/privacy'>acast.com"
         ]
     }
 }

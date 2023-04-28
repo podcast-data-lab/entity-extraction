@@ -38,7 +38,9 @@
                     "Katie"
                 ],
                 "DATE": [
-                    "daily"
+                    "daily",
+                    "1517",
+                    "1517"
                 ]
             }
         },
@@ -66,18 +68,18 @@
             "pubDate": "Fri, 14 Apr 2023 15:55:00 +0000",
             "title": "Joy and Suffering",
             "entities": {
-                "PERSON": [
-                    "Joy",
-                    "Katie Koplin",
-                    "Gretchen Ronnevik"
-                ],
                 "CARDINAL": [
                     "two"
+                ],
+                "PERSON": [
+                    "Katie Koplin",
+                    "Gretchen Ronnevik"
                 ],
                 "WORK_OF_ART": [
                     "Bible"
                 ],
                 "DATE": [
+                    "1517",
                     "1517"
                 ]
             }
@@ -117,6 +119,7 @@
                 "DATE": [
                     "1518",
                     "a year",
+                    "1517",
                     "1517"
                 ],
                 "CARDINAL": [
@@ -157,6 +160,7 @@
                     "Katie"
                 ],
                 "DATE": [
+                    "1517",
                     "1517"
                 ]
             }
@@ -187,6 +191,7 @@
             "entities": {
                 "DATE": [
                     "monthly",
+                    "1517",
                     "1517"
                 ],
                 "PERSON": [
@@ -211,6 +216,9 @@
                 "ORDINAL": [
                     "first",
                     "first"
+                ],
+                "NORP": [
+                    "Christian"
                 ]
             }
         },
@@ -242,10 +250,9 @@
                     "Katie Koplin",
                     "Gretchen Ronnevik",
                     "Jesus",
-                    "Grace",
-                    "John Kleinig</a></p",
+                    "John Kleinig",
                     "Kyle Strobel",
-                    "John"
+                    "John Coe Come"
                 ],
                 "DATE": [
                     "1517",
@@ -340,6 +347,7 @@
                     "a ton"
                 ],
                 "DATE": [
+                    "1517",
                     "1517"
                 ]
             }
@@ -412,9 +420,11 @@
                 "DATE": [
                     "monthly",
                     "this month",
+                    "March",
                     "February",
                     "March",
                     "April",
+                    "1517",
                     "1517"
                 ],
                 "PERSON": [
@@ -422,9 +432,10 @@
                     "Katie Koplin",
                     "C.S. Lewis",
                     "Screwtape Letters",
-                    "Katharina",
+                    "C.S. Lewis",
                     "Martin Luther",
-                    "Michelle"
+                    "Michelle DeRusha",
+                    "Ole Rolvaag"
                 ],
                 "CARDINAL": [
                     "one"
@@ -438,7 +449,7 @@
                     "Giants"
                 ],
                 "GPE": [
-                    "C.S."
+                    "Katharina"
                 ],
                 "LOC": [
                     "Earth"
@@ -473,17 +484,16 @@
                     "Gretchen Ronnevik",
                     "Katie Koplin",
                     "Dan vanVoorhis",
-                    "Dan"
+                    "Dan",
+                    "Christian History Almanac"
                 ],
                 "GPE": [
                     "notstalgia"
                 ],
                 "DATE": [
                     "a passionate season",
+                    "1517",
                     "1517"
-                ],
-                "CARDINAL": [
-                    "1517:<a"
                 ]
             }
         },
@@ -514,7 +524,7 @@
                 "PERSON": [
                     "Dan van Voorhis",
                     "Dan",
-                    "https://www.1517.org/podcasts/the-christian-history-almanac\">Dan",
+                    "Dan",
                     "Christian History Almanac"
                 ],
                 "ORDINAL": [
@@ -533,7 +543,8 @@
                 ],
                 "CARDINAL": [
                     "1",
-                    "2"
+                    "2",
+                    "1517"
                 ]
             }
         },
@@ -566,17 +577,23 @@
                     "Katie Koplin",
                     "Wendell Berry",
                     "Madeline L'Engle",
-                    "Screwtape"
+                    "Wendell Berry",
+                    "C.S. Lewis"
                 ],
                 "DATE": [
                     "1517",
                     "February"
                 ],
-                "WORK_OF_ART": [
-                    "The Ordering of Love\"</a"
+                "EVENT": [
+                    "Podcast Network"
                 ],
-                "GPE": [
-                    "C.S."
+                "WORK_OF_ART": [
+                    "Sabbath Poems",
+                    "The Ordering of Love",
+                    "The Screwtape Letters"
+                ],
+                "ORG": [
+                    "Madeline L'Engle Prepare"
                 ]
             }
         },
@@ -642,8 +659,16 @@
             "title": "An Apology is a Promise",
             "entities": {
                 "PERSON": [
+                    "Katie",
+                    "Instagram Gretchen's",
                     "Remains",
-                    "Laura Kauffman</a></p"
+                    "Laura Kauffman"
+                ],
+                "GPE": [
+                    "Arkansas"
+                ],
+                "DATE": [
+                    "1517"
                 ]
             }
         },
@@ -723,8 +748,7 @@
                 "NORP": [
                     "Christian",
                     "Christian",
-                    "Christians",
-                    "http://1517.org/donate</p"
+                    "Christians"
                 ],
                 "ORG": [
                     "Pietism"
@@ -773,6 +797,9 @@
                     "the next year",
                     "1517",
                     "weekend"
+                ],
+                "NORP": [
+                    "Christian"
                 ]
             }
         },
@@ -941,7 +968,8 @@
                 ],
                 "DATE": [
                     "Christmas",
-                    "today"
+                    "today",
+                    "1517"
                 ],
                 "WORK_OF_ART": [
                     "Fat Cat"
@@ -975,19 +1003,22 @@
                 "PERSON": [
                     "Advent",
                     "Jesse Tree",
-                    "Katie reference</a></p",
-                    "Thinking Fellows",
-                    "Literary"
+                    "Katie",
+                    "Literary Apologetics"
                 ],
                 "GPE": [
                     "Santa",
                     "Gretchen"
                 ],
                 "DATE": [
-                    "the Christmas season"
+                    "the Christmas season",
+                    "1517"
                 ],
                 "WORK_OF_ART": [
                     "The Isaiah Thing\" Gretchen"
+                ],
+                "ORG": [
+                    "Thinking Fellows"
                 ]
             }
         },
@@ -1029,6 +1060,9 @@
                     "Jesus",
                     "Jesus",
                     "Jesus"
+                ],
+                "DATE": [
+                    "1517"
                 ]
             }
         },
@@ -1095,7 +1129,8 @@
             "title": "Let's Talk Some More About Jesus",
             "entities": {
                 "DATE": [
-                    "each year"
+                    "each year",
+                    "1517"
                 ],
                 "ORG": [
                     "Luther's Small Catechism",
@@ -1110,8 +1145,7 @@
                     "Apostle",
                     "Jesus",
                     "Jesus",
-                    "man.</p",
-                    "Chad Bird</a></p"
+                    "Chad Bird"
                 ],
                 "ORDINAL": [
                     "2nd",
@@ -1171,7 +1205,10 @@
                 ],
                 "ORG": [
                     "Trinity",
-                    "Luther's Commentary on Galatians</a></p"
+                    "Luther's Commentary"
+                ],
+                "NORP": [
+                    "Galatians"
                 ],
                 "PERCENT": [
                     "70%"
@@ -1223,7 +1260,8 @@
                 ],
                 "DATE": [
                     "May 2023",
-                    "next October"
+                    "next October",
+                    "1517"
                 ],
                 "NORP": [
                     "Galatians"
@@ -1268,6 +1306,10 @@
                 ],
                 "PERSON": [
                     "Apostle"
+                ],
+                "DATE": [
+                    "the years",
+                    "a week late"
                 ]
             }
         },
@@ -1302,7 +1344,11 @@
                 "WORK_OF_ART": [
                     "Curious Faith",
                     "Bible",
-                    "Bible"
+                    "Bible",
+                    "Curious Faith Sign"
+                ],
+                "DATE": [
+                    "1517"
                 ]
             }
         },
@@ -1340,6 +1386,10 @@
                     "Gretchen",
                     "Katie"
                 ],
+                "DATE": [
+                    "each year",
+                    "1517"
+                ],
                 "ORG": [
                     "CLB"
                 ],
@@ -1376,14 +1426,19 @@
             "pubDate": "Thu, 22 Sep 2022 00:07:17 +0000",
             "title": "Forgotten Emotions of Jesus",
             "entities": {
+                "PERSON": [
+                    "Heidi Goehmann",
+                    "Jesus"
+                ],
                 "WORK_OF_ART": [
                     "\"Emotions and the Gospel"
                 ],
-                "PERSON": [
-                    "Jesus"
-                ],
                 "DATE": [
+                    "1517",
                     "1517"
+                ],
+                "ORG": [
+                    "https://www.1517.org/events/hwss-2022 Support"
                 ]
             }
         },
@@ -1418,8 +1473,8 @@
                 "QUANTITY": [
                     "a ton"
                 ],
-                "CARDINAL": [
-                    "1517</a></p"
+                "DATE": [
+                    "1517"
                 ]
             }
         },
@@ -1446,7 +1501,11 @@
             "link": "https://freelygiven.libsyn.com/aging-with-grace",
             "pubDate": "Fri, 09 Sep 2022 02:05:09 +0000",
             "title": "Aging with Grace",
-            "entities": {}
+            "entities": {
+                "DATE": [
+                    "1517"
+                ]
+            }
         },
         {
             "content": "<p>We are discussing the fruit of the Spirit with our friend, Jessica Thompson, from the prespective of how this list describes how God loves us. Jessica tells us how her devotional on this book came about, with such tenderness.</p> <p>She talks about how God used this book to minister to her, showing her the depth of the goodness of God that was for her in some of the worst of times.</p> <p>There were a few small technical difficulties with this episode, but it's well worth a listen.</p> <p><a href= \"https://podcasts.apple.com/us/podcast/front-porch-with-the-fitzes/id1042323124\"> Front Porch with the Fitzes podcast</a></p> <p><a href= \"https://www.amazon.com/How-God-Loves-Discovering-Character/dp/0802424376/ref=sr_1_3?keywords=jessica+thompson+books&qid=1662150590&sprefix=jessica+thom%2Caps%2C125&sr=8-3\"> Jessica's book: How God Loves Us: 40 Days to Discovering the Fruit of the Spirit</a></p> <p>Support the work of <a href= \"https://www.1517.org/donate\">1517.</a></p>",
@@ -1475,18 +1534,21 @@
                 "ORG": [
                     "Spirit",
                     "Fitzes",
-                    "Discovering the Fruit of the Spirit</a></p"
+                    "Discovering the Fruit of the Spirit Support"
                 ],
                 "PERSON": [
                     "Jessica Thompson",
-                    "Jessica",
                     "Jessica"
                 ],
                 "LOC": [
                     "Front Porch"
                 ],
+                "PRODUCT": [
+                    "Jessica"
+                ],
                 "DATE": [
-                    "40 Days"
+                    "40 Days",
+                    "1517"
                 ]
             }
         },
@@ -1515,7 +1577,8 @@
             "title": "Listener Q and A",
             "entities": {
                 "ORG": [
-                    "101st"
+                    "101st",
+                    "the Old Testament"
                 ],
                 "DATE": [
                     "the beginning and end",
@@ -1524,16 +1587,16 @@
                 "TIME": [
                     "40 Minutes"
                 ],
-                "NORP": [
-                    "Christianity",
-                    "Christian"
-                ],
                 "GPE": [
                     "America",
-                    "San Diego"
+                    "San Diego",
+                    "California"
                 ],
                 "PERSON": [
-                    "Dan"
+                    "Dan VanVoorhis"
+                ],
+                "NORP": [
+                    "Christian"
                 ],
                 "WORK_OF_ART": [
                     "Here We Still Stand Conference"
@@ -1567,14 +1630,16 @@
                 "ORDINAL": [
                     "100th"
                 ],
-                "CARDINAL": [
-                    "2 years.</p"
+                "DATE": [
+                    "these last 2 years",
+                    "October",
+                    "1517"
                 ],
                 "PERSON": [
-                    "Chad Bird</a></p"
+                    "Chad Bird"
                 ],
                 "ORG": [
-                    "AJ"
+                    "AJ Swoboda Join"
                 ]
             }
         },
@@ -1604,6 +1669,8 @@
             "entities": {
                 "PERSON": [
                     "Bob Hiller",
+                    "Prayer",
+                    "Bob Hiller",
                     "Gretchen",
                     "Katie",
                     "Bob"
@@ -1612,11 +1679,14 @@
                     "Spirit"
                 ],
                 "WORK_OF_ART": [
-                    "https://whitehorseinn.org/special-offers/the-gift-of-prayer/\">The Gift of Prayer by Bob Hiller</a></p",
-                    "https://www.1517.org/events/hwss-2022\">Here We Still Stand Conference</a"
+                    "The Gift of Prayer"
                 ],
                 "GPE": [
                     "San Diego"
+                ],
+                "DATE": [
+                    "this October",
+                    "1517"
                 ]
             }
         },
@@ -1655,8 +1725,12 @@
                 "ORG": [
                     "the \"White Horse Inn"
                 ],
+                "WORK_OF_ART": [
+                    "The Gift of Prayer"
+                ],
                 "DATE": [
-                    "October"
+                    "October",
+                    "1517"
                 ]
             }
         },
@@ -1695,8 +1769,11 @@
                     "Everything Sad"
                 ],
                 "PERSON": [
-                    "Daniel Nayeri</a></p",
-                    "Makoto Fujimura</a></p"
+                    "Daniel Nayeri  ",
+                    "Makoto Fujimura Flame's"
+                ],
+                "DATE": [
+                    "1517"
                 ]
             }
         },
@@ -1726,7 +1803,7 @@
             "entities": {
                 "PERSON": [
                     "Katie",
-                    "Daniel Nayeri</a></p"
+                    "Daniel Nayeri Support"
                 ],
                 "CARDINAL": [
                     "about one",
@@ -1735,19 +1812,22 @@
                 "DATE": [
                     "summer",
                     "12 year old",
-                    "12 year old"
+                    "12 year old",
+                    "1517"
+                ],
+                "GPE": [
+                    "Iran",
+                    "Iran",
+                    "Italy",
+                    "Oklahoma",
+                    "Iran"
                 ],
                 "WORK_OF_ART": [
                     "Arabian Nights"
                 ],
                 "NORP": [
-                    "Persian"
-                ],
-                "GPE": [
-                    "Iran",
-                    "Italy",
-                    "Oklahoma",
-                    "Iran"
+                    "Persian",
+                    "Christian"
                 ],
                 "ORG": [
                     "Everything Sad"
@@ -1780,15 +1860,23 @@
             "entities": {
                 "PERSON": [
                     "Mike Cosper",
-                    "Robert Capon</a></p",
-                    "Gretchen Ronnevik</a",
-                    "Gerhard Forde</a></p"
+                    "Robert Capon  Ragged",
+                    "Gretchen Ronnevik",
+                    "Gerhard Forde",
+                    "Bo Giertz"
                 ],
                 "WORK_OF_ART": [
                     "Between Noon"
                 ],
                 "CARDINAL": [
                     "Three"
+                ],
+                "ORG": [
+                    "Cross"
+                ],
+                "DATE": [
+                    "October",
+                    "1517"
                 ]
             }
         },
@@ -1829,7 +1917,8 @@
                 ],
                 "DATE": [
                     "Today",
-                    "Next week"
+                    "Next week",
+                    "1517"
                 ],
                 "ORDINAL": [
                     "1st"
@@ -1866,9 +1955,10 @@
                 "PERSON": [
                     "Gretchen",
                     "Katie",
+                    "James",
                     "Wendell Berry's",
-                    "Hannah Coulter</a>",
-                    "Jayber Crow</a></p"
+                    "Hannah Coulter",
+                    "Jayber Crow Join"
                 ],
                 "DATE": [
                     "this year"
@@ -2098,26 +2188,26 @@
                 "PERSON": [
                     "Dan van Voorhis",
                     "Covid",
-                    "Dan"
+                    "Dan",
+                    "https://www.youtube.com/watch?v=0lMZZWfGIZQ&t=14s Support"
                 ],
                 "WORK_OF_ART": [
                     "History of Christianity in America",
-                    "https://www.youtube.com/watch?v=0lMZZWfGIZQ&t=14s\">Is America"
+                    "The Christian History Almanac",
+                    "Is America a Christian Nation"
                 ],
                 "DATE": [
                     "1517",
                     "the centuries",
                     "1517",
-                    "daily"
+                    "daily",
+                    "1517"
                 ],
                 "GPE": [
                     "America"
                 ],
                 "ORG": [
                     "Church"
-                ],
-                "NORP": [
-                    "Christian"
                 ]
             }
         },
@@ -2151,6 +2241,9 @@
                 ],
                 "PERSON": [
                     "Mike Berg"
+                ],
+                "WORK_OF_ART": [
+                    "Masks of God: The Lutheran Doctrine of Vocation"
                 ],
                 "DATE": [
                     "The next few weeks",
@@ -2193,12 +2286,16 @@
                     "Caleb",
                     "Luther's Small Catechism",
                     "Caleb",
-                    "Fellows</a"
+                    "the \"Thinking Fellows\""
                 ],
                 "CARDINAL": [
                     "3"
                 ],
+                "WORK_OF_ART": [
+                    "Outlaw God\"--both part"
+                ],
                 "DATE": [
+                    "1517",
                     "1517"
                 ]
             }
@@ -2230,16 +2327,15 @@
                 "PERSON": [
                     "Kelsi Klembara",
                     "Jesus",
-                    "John Kleinig.</p"
+                    "John Kleinig"
                 ],
                 "WORK_OF_ART": [
                     "Here We Still Stand\" Regional Conference in Bentonville",
-                    "https://www.1517.org/articles/can-body-positivity-overcome-our-bodies-of-death\">Can Body Positivity Overcome Our Bodies of Death?</a>\"</p",
+                    "Can Body Positivity Overcome Our Bodies of Death",
                     "Here We Still Stand Conference"
                 ],
                 "GPE": [
                     "Arkansas",
-                    "Body\"</a",
                     "San Diego"
                 ],
                 "ORG": [
@@ -2247,7 +2343,8 @@
                 ],
                 "DATE": [
                     "1517",
-                    "this fall"
+                    "this fall",
+                    "1517"
                 ]
             }
         },
@@ -2281,7 +2378,8 @@
                 ],
                 "DATE": [
                     "today",
-                    "today"
+                    "today",
+                    "1517"
                 ],
                 "CARDINAL": [
                     "2"
@@ -2317,8 +2415,12 @@
                     "Katie"
                 ],
                 "GPE": [
-                    "San Diego</a",
+                    "San Diego",
                     "Arkansas"
+                ],
+                "DATE": [
+                    "next week",
+                    "1517"
                 ]
             }
         },
@@ -2350,15 +2452,13 @@
                     "Michelle Diercks",
                     "Michelle"
                 ],
-                "ORG": [
-                    "https://books.cph.org/promised-rest?fbclid=IwAR2N4Ka-3XKNtiwqVPkSvrx7JXn3V4qzk0jgbFN4tZjdDdy_wq7Ua1Nmpjg"
+                "WORK_OF_ART": [
+                    "\"Promised Rest:"
                 ],
                 "DATE": [
                     "8 week",
+                    "1517",
                     "1517"
-                ],
-                "WORK_OF_ART": [
-                    "noopener\">Support the ministry of 1517.</a></p"
                 ]
             }
         },
@@ -2392,12 +2492,17 @@
                     "Gretchen",
                     "Katie"
                 ],
+                "ORDINAL": [
+                    "first"
+                ],
                 "FAC": [
                     "the Garden of Eden"
                 ],
                 "WORK_OF_ART": [
-                    "https://www.1517.org/events/hwss-regional-event-in-bentonville-arkansas\">Here We Still Stand</a>\"",
-                    "Arkansas Conference"
+                    "Here We Still Stand\" Arkansas Conference"
+                ],
+                "DATE": [
+                    "1517"
                 ]
             }
         },
@@ -2427,14 +2532,16 @@
             "entities": {
                 "PERSON": [
                     "Bruno",
-                    "Gretchen"
+                    "Gretchen",
+                    "Encanto"
                 ],
                 "WORK_OF_ART": [
                     "Encanto"
                 ],
                 "DATE": [
                     "This month",
-                    "April"
+                    "April",
+                    "1517"
                 ],
                 "ORG": [
                     "Apple"
@@ -2472,26 +2579,25 @@
                     "Chad Bird",
                     "Jacob",
                     "Jacob",
-                    "Psalms",
-                    "Chad Bird's",
-                    "Chad"
+                    "Psalms"
                 ],
                 "DATE": [
-                    "Later this summer"
+                    "Later this summer",
+                    "1517"
                 ],
                 "GPE": [
                     "Israel",
-                    "Arkansas"
+                    "Arkansas",
+                    "Chad"
                 ],
                 "LOC": [
                     "Job"
                 ],
                 "ORG": [
-                    "the Regional Here We Still Stand",
-                    "href=\"http://www.1517.org"
+                    "the Regional Here We Still Stand Conference Chad Bird's"
                 ],
-                "WORK_OF_ART": [
-                    "https://www.1517.org/podcasts/40-minutes-in-the-old-testament\">40 Minutes"
+                "TIME": [
+                    "40 Minutes"
                 ]
             }
         },
@@ -2524,20 +2630,24 @@
                 ],
                 "PERSON": [
                     "Chad Bird",
+                    "Chad",
                     "Proverbs"
                 ],
                 "WORK_OF_ART": [
                     "Bible",
                     "Bible",
-                    "noopener\">Support"
-                ],
-                "GPE": [
-                    "Chad",
-                    "Chad",
-                    "Arkansas"
+                    "The Christ Key"
                 ],
                 "CARDINAL": [
                     "3"
+                ],
+                "GPE": [
+                    "Chad",
+                    "Arkansas"
+                ],
+                "DATE": [
+                    "this April",
+                    "1517"
                 ],
                 "ORG": [
                     "the Old Testament"
@@ -2569,7 +2679,8 @@
             "title": "Remembering We Are Dust",
             "entities": {
                 "ORG": [
-                    "Daniel Emery Price"
+                    "Daniel Emery Price",
+                    "the New Testament Come"
                 ],
                 "PERSON": [
                     "Erick Sorensen",
@@ -2579,7 +2690,8 @@
                     "Erick",
                     "Dan",
                     "Erick",
-                    "Gretchen"
+                    "Gretchen",
+                    "Register  HERE"
                 ],
                 "WORK_OF_ART": [
                     "\"Scandalous Stories: a Sort of Commentary on the Parables"
@@ -2588,6 +2700,7 @@
                     "30 Minutes"
                 ],
                 "DATE": [
+                    "1517",
                     "1517"
                 ],
                 "GPE": [
@@ -2620,7 +2733,8 @@
             "title": "Pharisees and Prostitutes",
             "entities": {
                 "DATE": [
-                    "today"
+                    "today",
+                    "1517"
                 ],
                 "ORG": [
                     "Daniel Emery Price",
@@ -2634,7 +2748,8 @@
                     "Erick"
                 ],
                 "WORK_OF_ART": [
-                    "30 Minutes"
+                    "30 Minutes",
+                    "Scandalous Stories"
                 ]
             }
         },
@@ -2664,8 +2779,14 @@
             "entities": {
                 "PERSON": [
                     "Katie",
-                    "David Zahl</p",
-                    "Gretchen Ronnevik</p"
+                    "David Zahl",
+                    "Gretchen Ronnevik Support"
+                ],
+                "WORK_OF_ART": [
+                    "Grace for When You Can't Forgive"
+                ],
+                "DATE": [
+                    "1517"
                 ]
             }
         },
@@ -2698,9 +2819,12 @@
                     "Katie",
                     "Aimee Byrd"
                 ],
+                "CARDINAL": [
+                    "One"
+                ],
                 "WORK_OF_ART": [
                     "Bible",
-                    "https://www.1517.org/events/hwss-regional-event-in-bentonville-arkansas\">Here We Still Stand Regional Conference</a"
+                    "Here We Still Stand Regional Conference"
                 ],
                 "GPE": [
                     "Arkansas"
@@ -2741,7 +2865,8 @@
                     "Gretchen"
                 ],
                 "GPE": [
-                    "Arkansas"
+                    "Arkansas",
+                    "https://www.1517.org/events/hwss-regional-event-in-bentonville-arkansas"
                 ]
             }
         },
@@ -2823,6 +2948,9 @@
                 "PERSON": [
                     "Gretchen",
                     "Gospel"
+                ],
+                "DATE": [
+                    "1517"
                 ]
             }
         },
@@ -2897,6 +3025,9 @@
                 "ORG": [
                     "Christ",
                     "Christ"
+                ],
+                "DATE": [
+                    "1517"
                 ]
             }
         },
@@ -2929,6 +3060,7 @@
                     "Katie"
                 ],
                 "DATE": [
+                    "1517",
                     "1517"
                 ]
             }
@@ -2959,14 +3091,12 @@
             "entities": {
                 "DATE": [
                     "Christmas",
-                    "Christmas"
+                    "Christmas",
+                    "1517"
                 ],
                 "PERSON": [
                     "Gretchen",
                     "Katie"
-                ],
-                "CARDINAL": [
-                    "https://www.1517.org/articles/christmas-in-isaiah-the-dawning-of-a-new-light"
                 ]
             }
         },
@@ -2997,6 +3127,9 @@
                 "PERSON": [
                     "Gretchen",
                     "Dale Hexum"
+                ],
+                "DATE": [
+                    "1517"
                 ]
             }
         },
@@ -3031,7 +3164,8 @@
                     "one"
                 ],
                 "DATE": [
-                    "last week"
+                    "last week",
+                    "1517"
                 ]
             }
         },
@@ -3070,6 +3204,9 @@
                 ],
                 "ORDINAL": [
                     "first"
+                ],
+                "DATE": [
+                    "1517"
                 ]
             }
         },
@@ -3103,10 +3240,14 @@
                     "Paul",
                     "James",
                     "Bob Hiller's",
-                    "James"
+                    "James \"Christ"
                 ],
                 "ORG": [
+                    "Straw",
                     "Straw"
+                ],
+                "DATE": [
+                    "1517"
                 ]
             }
         },
@@ -3140,6 +3281,9 @@
                 ],
                 "NORP": [
                     "Christians"
+                ],
+                "DATE": [
+                    "1517"
                 ]
             }
         },
@@ -3170,7 +3314,8 @@
                 "PERSON": [
                     "Katie",
                     "Psalm 46:10",
-                    "Philip Bartelt</a></p"
+                    "Lukewarm",
+                    "Philip Bartelt"
                 ],
                 "LAW": [
                     "Revelation 3:16"
@@ -3206,13 +3351,17 @@
             "entities": {
                 "PERSON": [
                     "Katie",
+                    "Katie",
                     "Chad Bird's"
                 ],
                 "GPE": [
                     "Gretchen"
                 ],
-                "EVENT": [
-                    "Chicken Little FB Post</a></p"
+                "ORG": [
+                    "Chicken Little FB Post"
+                ],
+                "DATE": [
+                    "1517"
                 ]
             }
         },
@@ -3247,17 +3396,19 @@
                     "Flame",
                     "Michael Berg",
                     "Scott Keith",
-                    "Micheal Berg"
+                    "Micheal Berg's",
+                    "Scott Keith's"
                 ],
                 "DATE": [
                     "1517",
-                    "1517"
+                    "1517",
+                    "2022"
                 ],
                 "GPE": [
-                    "Las Vegas.</p"
+                    "Las Vegas"
                 ],
                 "WORK_OF_ART": [
-                    "Music on Spotify\u00a0</a></p"
+                    "Music on Spotify"
                 ]
             }
         },
@@ -3284,7 +3435,11 @@
             "link": "https://freelygiven.libsyn.com/the-purpose-of-the-church",
             "pubDate": "Thu, 07 Oct 2021 03:52:40 +0000",
             "title": "The Purpose of the Church",
-            "entities": {}
+            "entities": {
+                "DATE": [
+                    "1517"
+                ]
+            }
         },
         {
             "content": "<p>We had 2 different listeners ask us: what does mortification of sin, also known as mortification of the flesh look like? In this episode, we talk about where this term came from, and what it means.</p> <p>More importantly, we talk about the difference between mortification of sin, and self-discipline, as they belong in 2 different theological categories. One is part of our justification/sanctification, and one is part of our vocation.</p> <p>Why does it matter what categories we put these things in? We circle back to our theology and mental health discussion, and how putting these things in the incorrect theological categories can cause us to live out our faith in \"fight or flight mode,\" always wondering if we are doing \"enough\" to please God, and questioning if what he did was enough without our help. Sound theology is a means for peace.</p> <p>Notes:</p> <p><a href= \"https://podcasts.apple.com/us/podcast/vocation-and-the-drowning-of-baptism/id1079727939?i=1000534707162\"> Thinking Fellows Episode</a>, where at the end, they talk about the conversation we had off air on mortification of sin.</p> <p><a href= \"https://shop.1517.org/products/vocation-the-setting-for-human-flourishing\"> Vocation by Michael Berg</a></p> <p><a href= \"https://www.1517.org/events/hwss-regional-conference-in-las-vegas-nevada\"> Here We Still Stand Conference in Las Vegas (coming up soon!)</a></p> <p><a href=\"https://www.1517.org/donate\">Support 1517.</a></p>",
@@ -3316,11 +3471,14 @@
                     "One"
                 ],
                 "PERSON": [
-                    "Fellows Episode</a",
-                    "Michael Berg</a></p"
+                    "Fellows Episode",
+                    "Michael Berg"
                 ],
                 "GPE": [
                     "Las Vegas"
+                ],
+                "DATE": [
+                    "1517"
                 ]
             }
         },
@@ -3349,10 +3507,11 @@
             "title": "Emotions and Logic in Faith",
             "entities": {
                 "PERSON": [
+                    "Gretchen",
                     "Katie"
                 ],
                 "GPE": [
-                    "Las"
+                    "Las Vegas"
                 ]
             }
         },
@@ -3386,8 +3545,8 @@
                     "Kelsi Klembara",
                     "Kelsi"
                 ],
-                "ORG": [
-                    "the ministry of <"
+                "DATE": [
+                    "1517"
                 ]
             }
         },
@@ -3422,7 +3581,8 @@
                 ],
                 "DATE": [
                     "1517",
-                    "next month"
+                    "next month",
+                    "1517"
                 ],
                 "GPE": [
                     "Las Vegas"
@@ -3459,9 +3619,6 @@
                 ],
                 "WORK_OF_ART": [
                     "Bible"
-                ],
-                "ORG": [
-                    "the ministry of <"
                 ]
             }
         },
@@ -3491,7 +3648,8 @@
             "entities": {
                 "DATE": [
                     "1 year",
-                    "the year"
+                    "the year",
+                    "1517"
                 ],
                 "PERSON": [
                     "Katie",
@@ -3560,10 +3718,11 @@
                     "Katie"
                 ],
                 "DATE": [
-                    "today"
+                    "today",
+                    "1517"
                 ],
                 "GPE": [
-                    "Las Vegas</a></p"
+                    "Las Vegas"
                 ]
             }
         },
@@ -3603,10 +3762,11 @@
                     "Christians"
                 ],
                 "DATE": [
-                    "daily"
+                    "daily",
+                    "1517"
                 ],
                 "GPE": [
-                    "Las Vegas!</a></p"
+                    "Las Vegas"
                 ]
             }
         },
@@ -3681,11 +3841,17 @@
                     "Join Gretchen",
                     "Katie"
                 ],
+                "GPE": [
+                    "Christ",
+                    "Las Vegas"
+                ],
                 "CARDINAL": [
                     "2"
                 ],
-                "GPE": [
-                    "Las Vegas"
+                "DATE": [
+                    "daily",
+                    "1517",
+                    "October"
                 ]
             }
         },
@@ -3716,6 +3882,9 @@
                 "PERSON": [
                     "Katie",
                     "Gretchen"
+                ],
+                "DATE": [
+                    "1517"
                 ]
             }
         },
@@ -3750,6 +3919,9 @@
                 ],
                 "ORG": [
                     "Luther's Small Catechisms"
+                ],
+                "DATE": [
+                    "1517"
                 ]
             }
         },
@@ -3791,6 +3963,9 @@
                     "Christian",
                     "Christians",
                     "Christian"
+                ],
+                "DATE": [
+                    "1517"
                 ]
             }
         },
@@ -3819,7 +3994,6 @@
             "title": "Gretchen's Books",
             "entities": {
                 "PERSON": [
-                    "Gretchen",
                     "Gretchen",
                     "Katie",
                     "Katie",
@@ -3856,7 +4030,8 @@
             "title": "Katie's Books",
             "entities": {
                 "DATE": [
-                    "summer"
+                    "summer",
+                    "1517"
                 ],
                 "PERSON": [
                     "Katie"
@@ -3929,8 +4104,7 @@
             "title": "When to Step Down and When to Step Back",
             "entities": {
                 "WORK_OF_ART": [
-                    "the Holy Spirit",
-                    "Bible"
+                    "the Holy Spirit"
                 ],
                 "ORG": [
                     "Church"
@@ -3970,16 +4144,20 @@
                 "DATE": [
                     "1517",
                     "this week",
+                    "1517",
                     "1517"
                 ],
                 "WORK_OF_ART": [
                     "Being Dad: Father of a Picture of God's Grace",
-                    "A Field Guide",
+                    "Bible",
                     "Bible",
                     "Bible"
                 ],
                 "ORDINAL": [
                     "3rd"
+                ],
+                "ORG": [
+                    "A Field Guide"
                 ]
             }
         },
@@ -4014,6 +4192,9 @@
                     "Gretchen",
                     "Katie",
                     "Rod Rosenbladt"
+                ],
+                "DATE": [
+                    "1517"
                 ]
             }
         },
@@ -4041,14 +4222,15 @@
             "pubDate": "Fri, 07 May 2021 14:15:27 +0000",
             "title": "Rural Ministry",
             "entities": {
-                "ORG": [
-                    "the Spiritually Exhausted",
-                    "Fergus"
+                "PERSON": [
+                    "Gretchen",
+                    "Fergus Falls Support"
                 ],
-                "NORP": [
-                    "https://www.1517.org/events/the-life-lived-in-christ-a-conference-on-christ-and-the-christian"
+                "ORG": [
+                    "the Spiritually Exhausted"
                 ],
                 "DATE": [
+                    "1517",
                     "1517"
                 ]
             }
@@ -4082,24 +4264,20 @@
                 ],
                 "PERSON": [
                     "Katie",
-                    "John Kleinig</a></p",
-                    "Gretchen",
+                    "John Kleinig Gretchen's",
                     "Order"
                 ],
                 "DATE": [
-                    "a few days"
+                    "a few days",
+                    "one day",
+                    "1517"
                 ],
-                "NORP": [
-                    "https://www.1517.org/events/the-life-lived-in-christ-a-conference-on-christ-and-the-christian"
+                "ORG": [
+                    "the Spiritually Exhausted",
+                    "the \"Life Lived in"
                 ],
                 "GPE": [
                     "Minnesota"
-                ],
-                "ORG": [
-                    "the \"Life Lived in"
-                ],
-                "CARDINAL": [
-                    "one"
                 ]
             }
         },
@@ -4127,23 +4305,26 @@
             "pubDate": "Thu, 29 Apr 2021 02:26:15 +0000",
             "title": "Praying for Patience",
             "entities": {
-                "PERSON": [
-                    "joy.</p",
-                    "Gretchen",
-                    "Katie"
-                ],
                 "WORK_OF_ART": [
                     "Bible"
+                ],
+                "PERSON": [
+                    "Gretchen",
+                    "Katie"
                 ],
                 "CARDINAL": [
                     "3"
                 ],
                 "ORG": [
-                    "Trinity"
+                    "Trinity",
+                    "Register"
                 ],
                 "DATE": [
                     "1517",
                     "1517"
+                ],
+                "LOC": [
+                    "Minnesota"
                 ]
             }
         },
@@ -4179,10 +4360,14 @@
                     "Katie"
                 ],
                 "WORK_OF_ART": [
-                    "Loving Your Neighbor Online"
+                    "Loving Your Neighbor Online",
+                    "Our Freely Given FB"
                 ],
                 "ORG": [
                     "Katie's Article"
+                ],
+                "DATE": [
+                    "1517"
                 ]
             }
         },
@@ -4245,20 +4430,22 @@
             "pubDate": "Thu, 08 Apr 2021 13:25:57 +0000",
             "title": "Gendered Bible Studies",
             "entities": {
+                "ORG": [
+                    "Women's Bible"
+                ],
                 "WORK_OF_ART": [
                     "Bible",
                     "Bible",
-                    "Bible",
                     "Bible"
-                ],
-                "CARDINAL": [
-                    "only one"
                 ],
                 "PERSON": [
                     "Katie"
                 ],
                 "GPE": [
                     "Gretchen"
+                ],
+                "DATE": [
+                    "1517"
                 ]
             }
         },
@@ -4289,6 +4476,12 @@
                 "PERSON": [
                     "Katie",
                     "Pre-Order Gretchen's"
+                ],
+                "DATE": [
+                    "1517"
+                ],
+                "ORG": [
+                    "the Spiritually Exhausted"
                 ]
             }
         },
@@ -4319,6 +4512,13 @@
                 "PERSON": [
                     "Gretchen",
                     "Katie"
+                ],
+                "ORG": [
+                    "Thinking Fellows"
+                ],
+                "DATE": [
+                    "1517",
+                    "1517"
                 ]
             }
         },
@@ -4352,6 +4552,12 @@
                 ],
                 "NORP": [
                     "Christianity"
+                ],
+                "ORG": [
+                    "the Spiritually Exhausted Support"
+                ],
+                "DATE": [
+                    "1517"
                 ]
             }
         },
@@ -4380,7 +4586,8 @@
             "title": "Weary Without Fellowship",
             "entities": {
                 "DATE": [
-                    "the last year"
+                    "the last year",
+                    "1517"
                 ],
                 "PERSON": [
                     "Katie",
@@ -4388,6 +4595,9 @@
                 ],
                 "GPE": [
                     "Gretchen"
+                ],
+                "ORG": [
+                    "the Spiritually Exhausted Support"
                 ]
             }
         },
@@ -4417,13 +4627,18 @@
             "entities": {
                 "PERSON": [
                     "Katie",
+                    "Luther",
+                    "Gospel Mentoring Pre-order",
                     "Gretchen"
                 ],
                 "WORK_OF_ART": [
                     "Bible"
                 ],
-                "CARDINAL": [
-                    "one"
+                "ORG": [
+                    "the Spiritually Exhausted Support"
+                ],
+                "DATE": [
+                    "1517"
                 ]
             }
         },
@@ -4465,6 +4680,12 @@
                 ],
                 "ORG": [
                     "Biblical"
+                ],
+                "GPE": [
+                    "Arkansas"
+                ],
+                "DATE": [
+                    "1517"
                 ]
             }
         },
@@ -4503,10 +4724,14 @@
                     "Katie"
                 ],
                 "GPE": [
-                    "Gretchen"
+                    "Gretchen",
+                    "Arkansas"
                 ],
                 "CARDINAL": [
                     "one"
+                ],
+                "DATE": [
+                    "1517"
                 ]
             }
         },
@@ -4537,7 +4762,9 @@
                 "PERSON": [
                     "Gretchen",
                     "Katie",
-                    "Gretchen"
+                    "Gretchen",
+                    "Gretchen",
+                    "-Definition -Comparison -Relationship"
                 ],
                 "WORK_OF_ART": [
                     "Bible",
@@ -4546,14 +4773,16 @@
                     "Bible"
                 ],
                 "ORG": [
-                    "Biblical",
-                    "p>-Testimony/Authority"
+                    "Biblical"
                 ],
                 "CARDINAL": [
                     "three",
                     "three",
                     "one",
                     "two"
+                ],
+                "DATE": [
+                    "1517"
                 ]
             }
         },
@@ -4590,8 +4819,8 @@
                 "PERSON": [
                     "Katie",
                     "Martin Luther",
-                    "Nancie Guthrie</p",
-                    "https://heidigoehmann.com/blog/he-leads-a-study-of-roads\">Heidi Goehmann",
+                    "Nancie Guthrie",
+                    "Angie Heidi Goehmann",
                     "Katie Koplin"
                 ],
                 "WORK_OF_ART": [
@@ -4601,16 +4830,21 @@
                     "Bible",
                     "Bible",
                     "Bible",
-                    "https://www.1517.org/podcasts/40-minutes-in-the-old-testament\">40 Minutes",
-                    "Bible Journals</a></p"
-                ],
-                "ORG": [
-                    "Katie's",
-                    "Augsburg"
+                    "Bible"
                 ],
                 "EVENT": [
-                    "Galatians Bible Study: Forgiven",
-                    "Minutes"
+                    "Galatians Bible Study: Forgiven Therefore Free"
+                ],
+                "TIME": [
+                    "40 Minutes"
+                ],
+                "ORG": [
+                    "the New Testament  Seamless",
+                    "the Old Testament Theology",
+                    "the Augsburg Confession"
+                ],
+                "DATE": [
+                    "1517"
                 ]
             }
         },
@@ -4641,13 +4875,16 @@
                 "PERSON": [
                     "Gretchen",
                     "Katie",
-                    "Grace",
-                    "Hannah",
-                    "Virgil Wander</p",
                     "Martin Luther"
                 ],
-                "TIME": [
-                    "Minutes in the NT"
+                "ORDINAL": [
+                    "Labyrinth"
+                ],
+                "NORP": [
+                    "Galatians"
+                ],
+                "DATE": [
+                    "1517"
                 ]
             }
         },
@@ -4686,10 +4923,16 @@
                 "PERSON": [
                     "Gretchen",
                     "Katie",
-                    "Gretchen"
+                    "Gretchen",
+                    "Forge Podcast  Gentle",
+                    "Lowly"
                 ],
                 "ORG": [
+                    "the Spiritually Exhausted  Luther's",
                     "CLB"
+                ],
+                "NORP": [
+                    "Galatians"
                 ]
             }
         },
@@ -4719,7 +4962,8 @@
             "entities": {
                 "DATE": [
                     "this 2nd",
-                    "their years"
+                    "their years",
+                    "1517"
                 ],
                 "CARDINAL": [
                     "2"
@@ -4731,8 +4975,8 @@
                     "Katie",
                     "Gretchen"
                 ],
-                "ORG": [
-                    "Christians.</p"
+                "NORP": [
+                    "Christians"
                 ]
             }
         },
@@ -4803,14 +5047,17 @@
             "entities": {
                 "PERSON": [
                     "Katie",
-                    "Resilient Kid</a>",
-                    "Thinking Fellows"
+                    "Katie",
+                    "Resilient Kids  Foot"
                 ],
                 "DATE": [
                     "1517"
                 ],
                 "WORK_OF_ART": [
-                    "From Guilt to Confession\"</a></p"
+                    "From Guilt to Confession"
+                ],
+                "ORG": [
+                    "Thinking Fellows"
                 ]
             }
         },
@@ -4844,7 +5091,8 @@
                 "PERSON": [
                     "Gretchen",
                     "Katie",
-                    "Paul David Tripp</a></p"
+                    "Paul David Tripp",
+                    "Kim TGC"
                 ],
                 "CARDINAL": [
                     "10",
@@ -4853,6 +5101,7 @@
                     "14"
                 ],
                 "ORG": [
+                    "Parenting Resources Mentioned  Parenting",
                     "Can Radically Change Your Family"
                 ],
                 "PRODUCT": [
@@ -4892,6 +5141,12 @@
                 ],
                 "NORP": [
                     "Christian"
+                ],
+                "ORG": [
+                    "Theologians Facebook Group"
+                ],
+                "DATE": [
+                    "1517"
                 ]
             }
         },
@@ -4927,6 +5182,9 @@
                 ],
                 "ORDINAL": [
                     "first"
+                ],
+                "ORG": [
+                    "Christ"
                 ]
             }
         },
@@ -4956,20 +5214,15 @@
             "entities": {
                 "CARDINAL": [
                     "3",
-                    "https://shop.1517.org/products/where-two-or-three-are-gathered?variant=30381384368213",
                     "Two"
                 ],
                 "PERSON": [
                     "Gretchen",
                     "Katie",
-                    "Scott Keith</a></p",
-                    "Chad Bird</a></p"
+                    "Scott Keith Unveiling Mercy"
                 ],
-                "WORK_OF_ART": [
-                    "rel=\"noopener\">Unveiling Mercy by"
-                ],
-                "FAC": [
-                    "noopener\">Support 1517</a></p"
+                "DATE": [
+                    "1517"
                 ]
             }
         },
@@ -5004,7 +5257,11 @@
                     "Galatians"
                 ],
                 "ORG": [
-                    "CLB Forge"
+                    "CLB",
+                    "Spiritual Friendships Support"
+                ],
+                "DATE": [
+                    "1517"
                 ]
             }
         },
@@ -5034,13 +5291,16 @@
             "entities": {
                 "PERSON": [
                     "Katie",
-                    "Mockingcast Podcast"
+                    "Dietrich Bonhoeffer  "
                 ],
                 "GPE": [
                     "Christ"
                 ],
                 "WORK_OF_ART": [
                     "Life Together"
+                ],
+                "DATE": [
+                    "1517"
                 ]
             }
         },
@@ -5072,9 +5332,15 @@
                     "one"
                 ],
                 "PERSON": [
+                    "Gospel Mentoring",
                     "Gretchen",
+                    "Song",
+                    "Craig  Fiction",
                     "Virgil Wander",
-                    "Episode"
+                    "Leif Enger  Parenting"
+                ],
+                "DATE": [
+                    "1517"
                 ]
             }
         },
@@ -5105,8 +5371,16 @@
                 "PERSON": [
                     "C.S. Lewis",
                     "Scriptures",
-                    "Grace",
-                    "John Kleinig</a></p"
+                    "John Kleinig"
+                ],
+                "WORK_OF_ART": [
+                    "the Holy Spirit"
+                ],
+                "DATE": [
+                    "2020"
+                ],
+                "ORG": [
+                    "YouTube"
                 ]
             }
         },
@@ -5137,8 +5411,8 @@
                 "PERSON": [
                     "Katie"
                 ],
-                "ORG": [
-                    "HWSS"
+                "DATE": [
+                    "1517"
                 ]
             }
         },
@@ -5179,12 +5453,20 @@
                     "Scriptures",
                     "Katie"
                 ],
+                "NORP": [
+                    "Theocast"
+                ],
                 "TIME": [
                     "40 minutes",
                     "30 minutes",
                     "16 hours"
                 ],
+                "ORG": [
+                    "the Old Testament",
+                    "the New Testament Support"
+                ],
                 "DATE": [
+                    "1517",
                     "1517",
                     "Today",
                     "weekly",
@@ -5232,8 +5514,10 @@
                     "Katie"
                 ],
                 "GPE": [
-                    "Gretchen",
-                    "http://gretchenronnevik.com/2017/11/transformative-prayer-for-your-kids.html"
+                    "Gretchen"
+                ],
+                "DATE": [
+                    "1517"
                 ]
             }
         },
@@ -5261,12 +5545,12 @@
             "pubDate": "Thu, 08 Oct 2020 10:00:00 +0000",
             "title": "The Need for Rest: Law or Gospel?",
             "entities": {
-                "DATE": [
-                    "Today"
-                ],
                 "PERSON": [
                     "Gretchen",
                     "Katie"
+                ],
+                "DATE": [
+                    "1517"
                 ]
             }
         },
@@ -5297,8 +5581,13 @@
                 "PERSON": [
                     "Katie",
                     "Gretchen",
-                    "Episode 2",
                     "Sally Clarkson"
+                ],
+                "LAW": [
+                    "Episode 2"
+                ],
+                "DATE": [
+                    "1517"
                 ]
             }
         },
@@ -5327,7 +5616,8 @@
             "title": "Daily Devotions",
             "entities": {
                 "DATE": [
-                    "daily"
+                    "daily",
+                    "1517"
                 ],
                 "NORP": [
                     "Christian"
@@ -5362,17 +5652,18 @@
             "pubDate": "Thu, 17 Sep 2020 10:00:00 +0000",
             "title": "Dependence vs Independence",
             "entities": {
-                "CARDINAL": [
-                    "400;\">It",
-                    "400;\">Hebrews 12:2"
-                ],
                 "ORG": [
                     "Spirit",
-                    "Spirit"
+                    "Spirit",
+                    "Facebook Twitter Register for Here We Still"
                 ],
                 "PERSON": [
                     "Jesus",
                     "Katie"
+                ],
+                "DATE": [
+                    "1517",
+                    "2020"
                 ]
             }
         },
@@ -5403,6 +5694,13 @@
                 "PERSON": [
                     "Gretchen",
                     "Katie"
+                ],
+                "DATE": [
+                    "1517",
+                    "2020"
+                ],
+                "ORG": [
+                    "Facebook Twitter Register for Here We Still Stand"
                 ]
             }
         },
@@ -5432,14 +5730,10 @@
             "entities": {
                 "PERSON": [
                     "Gretchen Ronnevik",
-                    "Katie Koplin.</p"
+                    "Katie Koplin"
                 ],
                 "NORP": [
                     "Christian"
-                ],
-                "CARDINAL": [
-                    "400;\">We",
-                    "400;\">We"
                 ],
                 "GPE": [
                     "Christ"

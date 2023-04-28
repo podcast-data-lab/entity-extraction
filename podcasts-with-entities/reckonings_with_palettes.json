@@ -39,11 +39,10 @@
                 "ORG": [
                     "Reckonings",
                     "Deep Reckonings",
-                    "noopener\">www.deepreckonings.com/trump</a></strong><strong><br",
                     "Trump"
                 ],
                 "PERSON": [
-                    "Donald Trump.<br",
+                    "Donald Trump",
                     "Mark Zuckerberg",
                     "Brett Kavanaugh",
                     "Donald Trump"
@@ -125,24 +124,17 @@
                 "ORG": [
                     "Infinite Lunchbox",
                     "Trump",
-                    "YouTube",
-                    "Trump",
-                    "href=\"https://twitter.com"
+                    "Trump"
                 ],
                 "PERSON": [
-                    "Jay Rosen",
-                    "\u2022 Dan Froomkin",
-                    "\u2022 Jay Rosen"
-                ],
-                "DATE": [
-                    "today",
-                    "daily"
-                ],
-                "PRODUCT": [
-                    "https://www.youtube.com/c/infinitelunchbox"
+                    "Infinite Lunchbox",
+                    "Jay Rosen"
                 ],
                 "NORP": [
-                    "href=\"https://www.patreon.com"
+                    "YouTube"
+                ],
+                "PRODUCT": [
+                    "\u2022 Neighbors"
                 ]
             }
         },
@@ -177,14 +169,10 @@
                 ],
                 "ORG": [
                     "Reckonings",
-                    "Inflection Point's",
-                    "href=\"https://twitter.com"
+                    "Inflection Point's"
                 ],
-                "PRODUCT": [
-                    "https://www.youtube.com/c/infinitelunchbox"
-                ],
-                "NORP": [
-                    "href=\"https://www.patreon.com"
+                "PERSON": [
+                    "Lauren Schiller"
                 ]
             }
         },
@@ -214,17 +202,8 @@
             "pubDate": "Tue, 09 Jun 2020 12:47:56 +0000",
             "title": "#26 || Biden, #MeToo, and Growing in Public",
             "entities": {
-                "ORG": [
-                    "the Democratic Party",
-                    "Reckonings",
-                    "Infinite Lunchbox",
-                    "Biden",
-                    "YouTube",
-                    "\u2022 Reckonings",
-                    "JoeBiden",
-                    "href=\"https://twitter.com"
-                ],
                 "PERSON": [
+                    "Joe Biden",
                     "MeToo",
                     "Biden",
                     "MeToo",
@@ -233,9 +212,19 @@
                     "Joe Biden",
                     "Tara Reade",
                     "MeToo",
+                    "Infinite Lunchbox",
+                    "\u2022 Biden's",
                     "\u2022 Michelle Goldberg's",
-                    "Tara Reade's",
-                    "joe-biden.html</a><br"
+                    "Tara Reade's"
+                ],
+                "ORG": [
+                    "the Democratic Party",
+                    "Reckonings",
+                    "Infinite Lunchbox",
+                    "Biden",
+                    "YouTube",
+                    "https://twitter.com/WisdomRebel",
+                    "https://www.nytimes.com/2020/04/13/opinion/tara-reade-joe-biden.html  \u2022 Strong Feelings"
                 ],
                 "WORK_OF_ART": [
                     "Reckonings"
@@ -247,12 +236,8 @@
                     "2019",
                     "2020"
                 ],
-                "PRODUCT": [
-                    "\u2022 Strong Feelings",
-                    "https://www.youtube.com/c/infinitelunchbox"
-                ],
                 "NORP": [
-                    "href=\"https://www.patreon.com"
+                    "https://www.strongfeelings.co"
                 ]
             }
         },
@@ -290,7 +275,7 @@
                     "Moment"
                 ],
                 "PERSON": [
-                    "Tim Kendall.</p",
+                    "Tim Kendall",
                     "Tim Kendall",
                     "Stephanie Lepp"
                 ],
@@ -328,20 +313,21 @@
             "entities": {
                 "PERSON": [
                     "Eve Ensler",
-                    "noopener\"><strong><em",
-                    "Ensler",
                     "Lauren Schiller"
                 ],
                 "WORK_OF_ART": [
+                    "The Apology",
+                    "Reckonings"
+                ],
+                "ORG": [
                     "Reckonings",
+                    "Ensler",
+                    "Ensler",
+                    "Inflection Point",
                     "Reckonings"
                 ],
                 "MONEY": [
-                    "22</strong></a"
-                ],
-                "ORG": [
-                    "Ensler",
-                    "Reckonings"
+                    "22"
                 ]
             }
         },
@@ -371,7 +357,7 @@
             "pubDate": "Tue, 11 Jun 2019 17:03:05 +0000",
             "title": "#23.5 || Where is Reckonings going?",
             "entities": {
-                "ORG": [
+                "PERSON": [
                     "Reckonings"
                 ]
             }
@@ -435,12 +421,8 @@
             "pubDate": "Sun, 24 Feb 2019 21:03:59 +0000",
             "title": "#22 || An imaginary reckoning with Pope Francis",
             "entities": {
-                "GPE": [
-                    "after</em"
-                ],
                 "MONEY": [
-                    "23.5",
-                    "23.5</strong></a"
+                    "23.5"
                 ]
             }
         },
@@ -545,8 +527,8 @@
             "pubDate": "Tue, 01 May 2018 21:37:43 +0000",
             "title": "#19.5 || Behind The Mic",
             "entities": {
-                "ORG": [
-                    "Mic"
+                "WORK_OF_ART": [
+                    "The Mic"
                 ],
                 "CARDINAL": [
                     "three"
@@ -674,15 +656,11 @@
                     "the Cato Institute\u2019s",
                     "CNN",
                     "NBC",
-                    "Fox",
-                    "nofollow noopener\">motherjones.com"
+                    "Fox"
                 ],
                 "PERSON": [
                     "Jerry Taylor",
                     "Inquiring Minds"
-                ],
-                "GPE": [
-                    "nofollow"
                 ]
             }
         },
@@ -784,10 +762,6 @@
             "pubDate": "Tue, 13 Jun 2017 00:29:07 +0000",
             "title": "#14.5 || Behind The Mic",
             "entities": {
-                "ORG": [
-                    "Mic",
-                    "BACK"
-                ],
                 "CARDINAL": [
                     "two",
                     "1",
@@ -800,8 +774,8 @@
                 "DATE": [
                     "December"
                 ],
-                "GPE": [
-                    "noopener\">bit.ly/2s7OuGD</a"
+                "ORG": [
+                    "BACK"
                 ]
             }
         },
@@ -929,8 +903,7 @@
                 ],
                 "DATE": [
                     "2015",
-                    "Today",
-                    "2013"
+                    "Today"
                 ]
             }
         },
@@ -1049,6 +1022,10 @@
             "pubDate": "Tue, 26 Apr 2016 18:21:20 +0000",
             "title": "#9 || Defecting from the Donald",
             "entities": {
+                "CARDINAL": [
+                    "One",
+                    "millions"
+                ],
                 "ORG": [
                     "Trump",
                     "Trump",
@@ -1065,10 +1042,8 @@
                     "Chicago",
                     "Chicago"
                 ],
-                "CARDINAL": [
-                    "millions"
-                ],
                 "NORP": [
+                    "Americans",
                     "Americans"
                 ],
                 "DATE": [
@@ -1199,7 +1174,7 @@
                     "Master's of Public Policy"
                 ],
                 "ORG": [
-                    "NYU.</p"
+                    "NYU"
                 ]
             }
         },
@@ -1490,7 +1465,8 @@
                 ],
                 "ORG": [
                     "Maryland State Police Major",
-                    "Law Enforcement Against Prohibition"
+                    "Law Enforcement Against Prohibition",
+                    "LEAP"
                 ],
                 "CARDINAL": [
                     "17"

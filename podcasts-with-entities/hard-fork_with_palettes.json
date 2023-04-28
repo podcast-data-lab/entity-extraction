@@ -41,11 +41,12 @@
                     "BuzzFeed News",
                     "Semafor",
                     "New York Times",
-                    "BuzzFeed News.</li></ul><p><strong",
+                    "BuzzFeed News",
                     "Drake",
-                    "Weeknd</a",
-                    "The Republican National Committee <",
-                    "Microsoft"
+                    "FTX",
+                    "The Republican National Committee",
+                    "Microsoft",
+                    "BuzzFeed"
                 ],
                 "PERSON": [
                     "HatGPT",
@@ -53,10 +54,10 @@
                     "Casey",
                     "Ben Smith",
                     "Ben Smith",
-                    "voice.</li><li",
-                    "Taylor Swift <",
-                    "taylor",
-                    "href=\"https://www.axios.com/2023/04/25"
+                    "Taylor Swift",
+                    "Biden",
+                    "Activision",
+                    "Ben Smith\u2019s"
                 ],
                 "DATE": [
                     "the end of the 2010s",
@@ -66,14 +67,15 @@
                     "first"
                 ],
                 "CARDINAL": [
-                    "one"
+                    "one",
+                    "A.I.-generated"
+                ],
+                "GPE": [
+                    "U.K."
                 ],
                 "MONEY": [
                     "$69 billion",
                     "Billion-Dollar Race"
-                ],
-                "GPE": [
-                    "Smith"
                 ],
                 "WORK_OF_ART": [
                     "Traffic: Genius, Rivalry"
@@ -109,7 +111,8 @@
             "entities": {
                 "DATE": [
                     "Today",
-                    "This week"
+                    "This week",
+                    "next week"
                 ],
                 "PERSON": [
                     "Kevin",
@@ -118,11 +121,11 @@
                     "Ezra",
                     "Kevin",
                     "Casey",
-                    "Ezra Klein</li><li",
                     "Javier Blas",
                     "Jack Farchy",
                     "Jonathan Reed Winkler",
-                    "Joseph"
+                    "Prestige",
+                    "Joseph Torigian\n"
                 ],
                 "FAC": [
                     "the The Ezra Klein Show"
@@ -132,10 +135,11 @@
                 ],
                 "WORK_OF_ART": [
                     "Hard Fork:",
-                    "Problem With Everything-Bagel Liberalism</a"
+                    "The Problem With Everything-Bagel Liberalism"
                 ],
-                "GPE": [
-                    "href=\"https://yalebooks.yale.edu"
+                "ORG": [
+                    "Ezra KleinBook Recommendations",
+                    "Nexus"
                 ]
             }
         },
@@ -170,33 +174,40 @@
                     "Aric Toler",
                     "Twitter",
                     "Aric Toler",
-                    "leaked</a>.</li><li><a",
                     "Twitter"
                 ],
                 "GPE": [
                     "A.I.",
-                    "Discord",
-                    "A.I."
+                    "Discord"
+                ],
+                "WORK_OF_ART": [
+                    "Westworld"
                 ],
                 "DATE": [
                     "today",
-                    "target=\"_blank\">21-year-old</a"
+                    "21-year-old"
                 ],
                 "ORG": [
                     "Bellingcat",
                     "The New York Times",
                     "the Massachusetts Air National Guard",
                     "Discord",
+                    "Discord",
                     "The Washington Post",
                     "Substack",
                     "NPR",
-                    "Stanford"
+                    "Stanford",
+                    "A.I."
                 ],
                 "NORP": [
                     "Dutch"
                 ],
                 "CARDINAL": [
                     "hundreds"
+                ],
+                "PRODUCT": [
+                    "Substack",
+                    "Twitter"
                 ]
             }
         },
@@ -230,21 +241,25 @@
                 "ORG": [
                     "The New York Times Opinion",
                     "The New York Times",
+                    "A.I.",
+                    "The New Yorker",
                     "The White House",
-                    "target=\"_blank\">Blueprint"
+                    "A.I. technology"
                 ],
                 "PERSON": [
                     "Ezra Klein",
                     "Klein",
                     "Ezra Klein",
-                    "href=\"https://www.nytimes.com/2023/03/12",
+                    "Ezra Klein",
                     "Meghan O\u2019Gieblyn\u2019s"
                 ],
                 "DATE": [
                     "years",
                     "Today",
                     "today",
-                    "This year"
+                    "2022",
+                    "This year",
+                    "2017"
                 ],
                 "GPE": [
                     "A.I.",
@@ -253,15 +268,11 @@
                     "A.I.",
                     "A.I.",
                     "A.I.",
-                    "A.I.",
-                    "A.I.",
-                    "New Yorker</a",
-                    "discovery.</li><li",
-                    "A.I.",
                     "A.I."
                 ],
                 "WORK_OF_ART": [
-                    "target=\"_blank\">The Ezra Klein Show</a>.\u201d</li></ul><p><strong>Additional reading:</strong></p><ul><li>"
+                    "The Ezra Klein Show",
+                    "God, Human,"
                 ],
                 "CARDINAL": [
                     "nearly half"
@@ -307,22 +318,20 @@
                     "Google",
                     "Google",
                     "Google",
-                    "slowly.</p><p",
                     "Google",
-                    "Google.</li></ul><p><strong>",
-                    "Google"
+                    "Google",
+                    "Google",
+                    "Google\u2019s Bard"
                 ],
                 "GPE": [
                     "A.I.",
                     "OpenAI",
+                    "A.I.",
                     "A.I."
                 ],
                 "PERSON": [
                     "Sundar Pichai",
                     "Sundar Pichai"
-                ],
-                "PRODUCT": [
-                    "target=\"_blank\">Google"
                 ],
                 "CARDINAL": [
                     "More than 1,000"
@@ -362,17 +371,20 @@
                     "Google",
                     "A.I. D.J.",
                     "Google",
-                    "Google"
+                    "Google",
+                    "Casey Newton"
                 ],
                 "GPE": [
+                    "A.I.",
                     "A.I."
+                ],
+                "PERSON": [
+                    "Bard",
+                    "Futureproof",
+                    "Kevin Roose"
                 ],
                 "CARDINAL": [
                     "six"
-                ],
-                "PERSON": [
-                    "model</a>.</li><li><a",
-                    "Kevin Roose"
                 ],
                 "PRODUCT": [
                     "A.I.-powered"
@@ -407,13 +419,15 @@
             "entities": {
                 "PERSON": [
                     "Jonathan Kanter",
+                    "not?On",
                     "Jonathan Kanter",
                     "Jonathan Kanter"
                 ],
                 "ORG": [
                     "the Justice Department\u2019s",
                     "the Justice Department\u2019s",
-                    "Google</a"
+                    "The Justice Department",
+                    "Google"
                 ],
                 "GPE": [
                     "A.I."
@@ -456,25 +470,26 @@
                     "Google",
                     "Silicon Valley Bank\u2019s",
                     "Silicon Valley Bank",
-                    "ByrneHobart/status/1628779894183272452?s=20"
+                    "S.V.B."
                 ],
                 "PERSON": [
                     "GPT-4",
                     "Mark Zuckerberg",
-                    "gpt-4",
+                    "ChatGPT-4",
                     "GPT-4",
-                    "target=\"_blank\">Byrne Hobart"
+                    "Byrne Hobart"
                 ],
                 "GPE": [
                     "OpenAI",
                     "A.I.",
                     "A.I.",
+                    "OpenAI",
                     "GPT-4",
                     "OpenAI",
                     "OpenAI"
                 ],
-                "FAC": [
-                    "challenge.</li><li"
+                "CARDINAL": [
+                    "about 10,000"
                 ]
             }
         },
@@ -510,13 +525,16 @@
                     "David McCabe",
                     "Biden",
                     "Don Beyer",
-                    "D7PumeYTDPfBTp3i7"
+                    "David McCabe"
                 ],
                 "ORG": [
                     "Congress",
+                    "TikTok",
                     "The New York Times",
-                    "The White House",
-                    "Congress</a"
+                    "A.I.The White House",
+                    "Congress",
+                    "TikTok",
+                    "TikTok"
                 ],
                 "WORK_OF_ART": [
                     "Waluigi",
@@ -532,9 +550,6 @@
                 ],
                 "ORDINAL": [
                     "8th"
-                ],
-                "CARDINAL": [
-                    "TikTok</a>.</li><li><a"
                 ]
             }
         },
@@ -568,28 +583,24 @@
                 "GPE": [
                     "A.I.",
                     "A.I.",
-                    "A.I.",
-                    "AI\u201d</a"
+                    "A.I."
                 ],
                 "PERSON": [
                     "Elon Musk",
-                    "Yaffe-Bellany</a",
+                    "David Yaffe-Bellany",
                     "Mark Zuckerberg",
-                    "mark-zuckerberg-meta-ai",
-                    "researchers.</li><li",
+                    "A.I.Meta",
+                    "LLaMA",
                     "Elon Musk",
-                    "Sam Bankman-Fried.</li><li",
-                    "Gary Gensler",
-                    "gary-gensler"
+                    "Sam Bankman-Fried",
+                    "Gary Gensler"
                 ],
                 "ORG": [
                     "TikTok",
-                    "The New York",
-                    "subscribers.</li><li",
+                    "The New York Times",
                     "Meta",
-                    "href=\"https://www.nytimes.com/2023/02/23",
-                    "href=\"https://www.theinformation.com",
-                    "A.I. company</a>.</li><li",
+                    "AI",
+                    "A.I. company",
                     "S.E.C.",
                     "TikTok"
                 ],
@@ -598,6 +609,9 @@
                 ],
                 "WORK_OF_ART": [
                     "Clarkesworld"
+                ],
+                "NORP": [
+                    "Bitcoin"
                 ]
             }
         },
@@ -633,29 +647,27 @@
                     "today"
                 ],
                 "NORP": [
+                    "Reddit",
                     "Reddit"
                 ],
                 "ORG": [
                     "C.E.O.",
-                    "the Supreme Court.</p><p",
-                    "Reddit.</li></ul><p><strong",
+                    "the Supreme Court",
                     "Washington Post",
                     "Bing AI",
                     "Microsoft",
                     "Bing",
-                    "The Supreme Court",
-                    "law.</li><li"
+                    "The Supreme Court"
                 ],
                 "PERSON": [
                     "Steve Huffman",
                     "Steve Huffman",
                     "Kevin Roose",
-                    "Chatbot",
-                    "target=\"_blank\">Meta"
+                    "Chatbot"
                 ],
                 "LAW": [
                     "Section 230",
-                    "Section 230</a"
+                    "Section 230"
                 ]
             }
         },
@@ -686,27 +698,30 @@
             "pubDate": "Fri, 17 Feb 2023 10:00:00 +0000",
             "title": "The Bing Who Loved Me + Elon Rewrites the Algorithm",
             "entities": {
-                "GPE": [
-                    "Sydney",
-                    "Sydney"
-                ],
                 "ORG": [
                     "Bing AI",
                     "Microsoft",
                     "AI",
                     "The New York Times"
                 ],
+                "GPE": [
+                    "Sydney",
+                    "Platformer"
+                ],
                 "PERSON": [
                     "Elon Musk\u2019s",
-                    "target=\"_blank\">Tiffany Hsu</a",
-                    "disinformation.</li><li",
+                    "Tiffany Hsu",
                     "Zo\u00eb Schiffer",
                     "Kevin Roose",
                     "Elon Musk",
                     "Twitter"
                 ],
+                "PRODUCT": [
+                    "Twitter"
+                ],
                 "DATE": [
-                    "today"
+                    "today",
+                    "these days"
                 ],
                 "WORK_OF_ART": [
                     "Hard Fork"
@@ -747,15 +762,18 @@
                     "Microsoft",
                     "Bard",
                     "Google",
-                    "OpenAI.</li><li",
-                    "Microsoft"
+                    "A.I.On",
+                    "Microsoft",
+                    "Microsoft",
+                    "Bard"
                 ],
                 "PERCENT": [
                     "7 percent"
                 ],
                 "GPE": [
                     "A.I.",
-                    "OpenAI"
+                    "OpenAI",
+                    "A.I."
                 ],
                 "WORK_OF_ART": [
                     "Nothing, Forever"
@@ -768,7 +786,8 @@
                 ],
                 "PERSON": [
                     "Sam Altman",
-                    "Kevin Scott"
+                    "OpenAI.Kevin Scott",
+                    "Twitch"
                 ]
             }
         },
@@ -799,6 +818,11 @@
             "pubDate": "Fri, 3 Feb 2023 10:00:00 +0000",
             "title": "A Trip to TikTok + ChatGPT\u2019s Origin Story + Kevin Systrom\u2019s Comeback",
             "entities": {
+                "ORG": [
+                    "TikTok",
+                    "Instagram",
+                    "TikTok"
+                ],
                 "WORK_OF_ART": [
                     "Transparency and Accountability Center"
                 ],
@@ -806,20 +830,15 @@
                     "OpenAI",
                     "A.I.",
                     "Instagram",
-                    "Instagram.</li></ul><p><strong"
+                    "OpenAI"
                 ],
                 "PERSON": [
                     "Kevin Systrom",
                     "Kevin Systrom",
-                    "target=\"_blank\">OpenAI",
-                    "Kevin Systrom"
+                    "Systrom"
                 ],
                 "DATE": [
                     "today"
-                ],
-                "ORG": [
-                    "TikTok",
-                    "lobbying.</li><li"
                 ]
             }
         },
@@ -853,32 +872,26 @@
                 "PERSON": [
                     "Donald Trump",
                     "Lucas Shaw",
-                    "Instagram accounts.</li><li",
-                    "Donald Trump"
+                    "Bloomberg",
+                    "Donald Trump",
+                    "Ruby Freeman"
                 ],
                 "ORG": [
                     "Facebook and Instagram",
                     "the Disney of Web3",
+                    "Trump",
+                    "Trump",
                     "the U.S. Capitol Riots",
                     "Truth Social"
                 ],
                 "GPE": [
                     "Netflix",
-                    "brazil"
+                    "Brazil",
+                    "Georgia"
                 ],
                 "DATE": [
-                    "today"
-                ],
-                "WORK_OF_ART": [
-                    "Trump",
-                    "Ruby Freeman</a>.</li></ul><p"
-                ],
-                "CARDINAL": [
-                    "target=\"_blank\">Jan.",
-                    "8"
-                ],
-                "NORP": [
-                    "Brazil</a"
+                    "today",
+                    "Jan. 8"
                 ]
             }
         },
@@ -911,33 +924,36 @@
             "entities": {
                 "DATE": [
                     "Nearly three months",
-                    "today"
+                    "today",
+                    "first 90 days"
                 ],
                 "PERSON": [
                     "Elon Musk's",
                     "Sarah Andersen",
                     "Sarah",
-                    "sarah-andersen",
-                    "Sarah Andersen</a",
+                    "Sarah Andersen",
                     "Andersen"
                 ],
                 "PRODUCT": [
+                    "Twitter",
                     "Twitter"
                 ],
                 "ORG": [
                     "Elon",
-                    "A.I. platforms.</li><li",
                     "Midjourney, Stable Diffusion",
+                    "DreamUp",
                     "CNET"
                 ],
                 "GPE": [
                     "A.I.",
+                    "A.I.",
                     "A.I."
                 ],
+                "WORK_OF_ART": [
+                    "Elon Musk\u2019s"
+                ],
                 "CARDINAL": [
-                    "90",
-                    "Three",
-                    "errors</a>.</li></ul"
+                    "Three"
                 ]
             }
         },
@@ -970,7 +986,7 @@
             "entities": {
                 "GPE": [
                     "OpenAI",
-                    "San Francisco.</li></ul><p><strong",
+                    "San Francisco",
                     "Brooklyn"
                 ],
                 "DATE": [
@@ -978,18 +994,15 @@
                 ],
                 "PERSON": [
                     "Cherie Shields",
-                    "robots</a>.</li><li><a href=\"https://www.nytimes.com/2023/01/12"
+                    "Kalley Huang",
+                    "Gen Z"
                 ],
                 "LANGUAGE": [
                     "English"
                 ],
                 "ORG": [
                     "Sandy",
-                    "Ore.</li><li><a",
                     "Columbia University"
-                ],
-                "WORK_OF_ART": [
-                    "Gen Z"
                 ]
             }
         },
@@ -1028,20 +1041,20 @@
                     "Google",
                     "Forbes",
                     "TikTok",
+                    "Project Texas",
+                    "TikTok",
                     "ByteDance",
                     "TikTok",
                     "TikTok",
                     "TikTok",
-                    "devices.</li><li",
-                    "Google",
+                    "TikTok",
+                    "Google Search",
                     "Microsoft",
-                    "Bing</a>.</li></ul"
+                    "Bing"
                 ],
                 "GPE": [
                     "U.S.",
                     "OpenAI",
-                    "TikTok.</li></ul><p><strong",
-                    "texas",
                     "U.S.",
                     "U.S.",
                     "OpenAI"
@@ -1052,16 +1065,12 @@
                 "DATE": [
                     "today"
                 ],
-                "LOC": [
-                    "Project Texas</a>"
-                ],
                 "PERSON": [
-                    "Emily Baker-White.</li><li",
+                    "Emily Baker-White",
                     "Shou Zi Chew"
                 ],
                 "NORP": [
-                    "Chinese",
-                    "chinese"
+                    "Chinese"
                 ]
             }
         },
@@ -1098,21 +1107,21 @@
                 ],
                 "ORG": [
                     "TikTok",
-                    "The New York",
+                    "The New York Times",
                     "FTX",
                     "FTX"
                 ],
+                "CARDINAL": [
+                    "2023.Also"
+                ],
                 "PERSON": [
                     "Sam Bankman-Fried\u2019s",
-                    "Yaffe-Bellany</a",
+                    "David Yaffe-Bellany",
                     "Bankman-Fried",
                     "John J. Ray III"
                 ],
                 "GPE": [
                     "Bahamas"
-                ],
-                "PRODUCT": [
-                    "holes</a>.</li></ul"
                 ]
             }
         },
@@ -1148,8 +1157,7 @@
                     "Harvard",
                     "Berkman Klein Center for Internet and",
                     "Society",
-                    "Cambridge University Leverhulme Center for the Future of Intelligence.</li></ul><p><strong>Additional reading:</strong></p><ul><li>ChatGPT",
-                    "Meta"
+                    "Cambridge University Leverhulme Center for the Future of Intelligence"
                 ],
                 "GPE": [
                     "OpenAI"
@@ -1159,11 +1167,10 @@
                 ],
                 "PERSON": [
                     "Aviv Ovadya",
-                    "Aviv Ovadya",
-                    "target=\"_blank\">Cicero AI</a"
+                    "Aviv Ovadya"
                 ],
-                "CARDINAL": [
-                    "model</a>.</li></ul"
+                "FAC": [
+                    "Cicero AI"
                 ]
             }
         },
@@ -1198,10 +1205,13 @@
                     "Elon Musk",
                     "Tim Cook",
                     "Paul Mozur",
+                    "Elon Musk",
                     "App Store",
                     "Musk",
                     "Tim Cook",
+                    "Twitter",
                     "Musk",
+                    "Sam Bankman-Fried",
                     "Andrew Ross Sorkin"
                 ],
                 "ORG": [
@@ -1210,13 +1220,16 @@
                     "the New York Times",
                     "S.B.F.",
                     "Apple",
+                    "Apple",
                     "Twitter Blue",
                     "Apple",
                     "Apple",
                     "C.E.O.",
-                    "Apple"
+                    "Apple",
+                    "TikTok"
                 ],
                 "PRODUCT": [
+                    "Twitter",
                     "Twitter",
                     "Twitter"
                 ],
@@ -1232,15 +1245,13 @@
                     "over 60,000"
                 ],
                 "GPE": [
-                    "china",
-                    "China</a",
-                    "china"
+                    "China"
                 ],
                 "DATE": [
                     "Wednesday"
                 ],
                 "FAC": [
-                    "the DealBook Summit.</li></ul><p"
+                    "the DealBook Summit"
                 ]
             }
         },
@@ -1272,30 +1283,29 @@
             "title": "A Hard Fork in the Road: FTX\u2019s Unraveling and Elon\u2019s Loyalty Oath",
             "entities": {
                 "CARDINAL": [
-                    "billions",
-                    "2.0.</p><p><br"
+                    "billions"
                 ],
                 "ORG": [
                     "FTX",
+                    "Twitter 2.0.Additional Resources",
+                    "FTX.In",
                     "Bloomberg",
                     "FTX",
-                    "Kelsey Piper"
+                    "Kelsey Piper",
+                    "Vox",
+                    "TikTok"
                 ],
                 "PERSON": [
-                    "Twitter",
                     "George K. Lerner",
                     "Matt Levine",
                     "Sam Bankman-Fried",
                     "Bankman-Fried",
+                    "Twitter",
                     "Elon Musk",
                     "Twitter",
-                    "severance.</li><li><a href=\"https://www.nytimes.com/2022/10/11"
-                ],
-                "NORP": [
-                    "FTX.</li><li"
+                    "Musk"
                 ],
                 "PRODUCT": [
-                    "Twitter",
                     "Twitter"
                 ]
             }
@@ -1337,23 +1347,18 @@
                 "ORG": [
                     "FTX",
                     "Meta",
-                    "mind?</p><p><i>\u201cHard Fork",
-                    "emails.</li><li",
+                    "TikTok",
                     "Binance",
                     "FTX",
-                    "href=\"https://www.nytimes.com/2022/11/09",
+                    "FTX",
                     "Lehman Brothers"
                 ],
                 "PERSON": [
                     "Elon Musk",
-                    "Twitter",
-                    "moment</a>?</li><li"
+                    "Twitter"
                 ],
                 "ORDINAL": [
                     "first"
-                ],
-                "GPE": [
-                    "target=\"_blank\">crypto"
                 ],
                 "CARDINAL": [
                     "11,000"
@@ -1392,7 +1397,8 @@
             "entities": {
                 "DATE": [
                     "another day",
-                    "a week ago"
+                    "a week ago",
+                    "recent days"
                 ],
                 "PERSON": [
                     "Elon Musk",
@@ -1400,26 +1406,19 @@
                     "David Sacks",
                     "Jason Calacanis",
                     "Sriram Krishnan",
-                    "href=\"https://www.nytimes.com/2022/10/31",
                     "Musk",
-                    "Musk.</li><li",
                     "Musk",
+                    "Musk",
+                    "Stephen King",
+                    "Twitter",
                     "Sarah Personette",
                     "Musk"
                 ],
                 "PRODUCT": [
                     "Twitter",
                     "Twitter",
+                    "Twitter",
                     "Twitter"
-                ],
-                "ORDINAL": [
-                    "first"
-                ],
-                "WORK_OF_ART": [
-                    "target=\"_blank\">Stephen King"
-                ],
-                "GPE": [
-                    "days.</li><li"
                 ]
             }
         },
@@ -1453,9 +1452,7 @@
                 "ORG": [
                     "Times",
                     "Apple",
-                    "Twitter.</a></li><li",
-                    "href=\"https://www.nytimes.com/2022/10/26",
-                    "href=\"https://twitter.com",
+                    "The New York",
                     "Spotify",
                     "Apple",
                     "Spotify",
@@ -1465,13 +1462,18 @@
                 ],
                 "PERSON": [
                     "Kate Conger",
+                    "Guest",
+                    "Kate Conger",
                     "Elon Musk",
                     "Elon Musk",
-                    "Mark Zuckerberg.</a></li></ul"
+                    "Twitter",
+                    "Mark Zuckerberg"
+                ],
+                "DATE": [
+                    "today"
                 ],
                 "GPE": [
                     "San Francisco",
-                    "New York",
                     "San Francisco"
                 ],
                 "MONEY": [
@@ -1479,6 +1481,9 @@
                 ],
                 "PRODUCT": [
                     "Twitter"
+                ],
+                "LOC": [
+                    "Tweet"
                 ],
                 "CARDINAL": [
                     "three"
@@ -1515,17 +1520,17 @@
                 "ORG": [
                     "Stability AI",
                     "Stable Diffusion",
-                    "Stability AI</li></ul><p><strong>Additional",
-                    "M.I.T. Technology Review)</li><li>\u201c<a",
-                    "The New York Times)</li></ul"
+                    "Stability AIAdditional resources\u201cEshoo Urges N.S.A. & O.S.T.P.",
+                    "Address Unsafe A.I. Practices",
+                    "The New York Times"
                 ],
                 "PERSON": [
                     "Emad Mostaque",
                     "A.I. Kevin",
                     "A.I. Casey",
-                    "Emad Mostaque</strong",
                     "Anna Eshoo",
                     "Melissa Heikkil\u00e4",
+                    "Review)\u201cA Coming-Out Party",
                     "Kevin Roose"
                 ],
                 "MONEY": [
@@ -1615,7 +1620,7 @@
                     "Kashmir Hill\u2019s"
                 ],
                 "WORK_OF_ART": [
-                    "target=\"_blank\">This Is Life in the Metaverse</a>.\"</p>\n"
+                    "This Is Life in the Metaverse"
                 ]
             }
         },
@@ -1650,8 +1655,7 @@
                     "Casey Newton"
                 ],
                 "DATE": [
-                    "Friday",
-                    "Oct. 7.</p"
+                    "Friday, Oct. 7"
                 ]
             }
         }

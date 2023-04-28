@@ -82,7 +82,7 @@
                 ],
                 "CARDINAL": [
                     "84",
-                    "84!</p"
+                    "84"
                 ],
                 "ORDINAL": [
                     "1st"
@@ -118,6 +118,7 @@
                     "Psalm"
                 ],
                 "CARDINAL": [
+                    "83",
                     "83"
                 ],
                 "PERSON": [
@@ -156,6 +157,7 @@
                     "Matt"
                 ],
                 "GPE": [
+                    "Psalm",
                     "Psalm",
                     "Psalm"
                 ],
@@ -386,8 +388,8 @@
                 "GPE": [
                     "Psalm"
                 ],
-                "NORP": [
-                    "weeks!</p"
+                "DATE": [
+                    "a couple of weeks"
                 ]
             }
         },
@@ -800,7 +802,8 @@
                     "Psalm"
                 ],
                 "DATE": [
-                    "a couple of weeks"
+                    "a couple of weeks",
+                    "July"
                 ]
             }
         },
@@ -1011,7 +1014,7 @@
                 ],
                 "CARDINAL": [
                     "62",
-                    "62</a"
+                    "62"
                 ],
                 "GPE": [
                     "Psalm",
@@ -1199,8 +1202,7 @@
                 "PERSON": [
                     "Amy Langle",
                     "Matt",
-                    "Matt",
-                    "difficulties!</p"
+                    "Matt"
                 ],
                 "CARDINAL": [
                     "57"
@@ -1272,7 +1274,8 @@
             "entities": {
                 "PERSON": [
                     "Curious Psalms",
-                    "Libby Backfish"
+                    "Libby Backfish",
+                    "Psalms"
                 ],
                 "ORG": [
                     "William Jessup University"
@@ -1634,8 +1637,8 @@
             "pubDate": "Wed, 08 Sep 2021 19:00:00 GMT",
             "title": "Psalm 45 with Libby Backfish",
             "entities": {
-                "CARDINAL": [
-                    "45"
+                "DATE": [
+                    "Psalm 45"
                 ],
                 "PERSON": [
                     "Libby",
@@ -1821,11 +1824,9 @@
                 "WORK_OF_ART": [
                     "Bible"
                 ],
-                "ORG": [
-                    "CMVghDg"
-                ],
                 "CARDINAL": [
-                    "40"
+                    "40",
+                    "U2"
                 ]
             }
         },
@@ -1956,16 +1957,20 @@
             "title": "Psalm 37: A Reading",
             "entities": {
                 "CARDINAL": [
-                    "37.&nbsp;</p"
+                    "37"
                 ],
                 "PERSON": [
                     "Gerry Adams",
                     "Grant Sork",
                     "Amy Langle",
-                    "Kyu Hahn"
+                    "Kyu Hahn",
+                    "Shine"
                 ],
                 "GPE": [
                     "Psalm"
+                ],
+                "ORG": [
+                    "Onycs"
                 ]
             }
         },

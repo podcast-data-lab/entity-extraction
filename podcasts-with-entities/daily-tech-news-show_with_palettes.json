@@ -40,9 +40,7 @@
             "entities": {
                 "ORG": [
                     "AI",
-                    "Human Computer Integration Lab",
-                    "That&#8217;s",
-                    "Irregularities &#8211"
+                    "Human Computer Integration Lab"
                 ],
                 "GPE": [
                     "Chicago",
@@ -53,6 +51,12 @@
                 ],
                 "DATE": [
                     "the year"
+                ],
+                "WORK_OF_ART": [
+                    "Voltage Irregularities"
+                ],
+                "CARDINAL": [
+                    "4508"
                 ]
             }
         },
@@ -91,6 +95,12 @@
                 ],
                 "NORP": [
                     "North American"
+                ],
+                "WORK_OF_ART": [
+                    "AI Sentient Fear"
+                ],
+                "CARDINAL": [
+                    "4507"
                 ]
             }
         },
@@ -125,7 +135,9 @@
                 "ORG": [
                     "GM Chair",
                     "Chevy Bolt EVs",
-                    "Social Media"
+                    "AT&T",
+                    "Social Media tiresContinue",
+                    "Social Media Wears Me Out"
                 ],
                 "PERSON": [
                     "Mary Barra"
@@ -141,8 +153,8 @@
                 "ORDINAL": [
                     "first"
                 ],
-                "MONEY": [
-                    "8211"
+                "CARDINAL": [
+                    "4506"
                 ]
             }
         },
@@ -190,8 +202,8 @@
                     "BeReal",
                     "AARP"
                 ],
-                "MONEY": [
-                    "8211"
+                "WORK_OF_ART": [
+                    "Gamers Get Old Too \u2013 DTNS"
                 ]
             }
         },
@@ -227,19 +239,21 @@
                     "two"
                 ],
                 "PERSON": [
-                    "Proton"
+                    "Proton",
+                    "AIContinue"
                 ],
                 "NORP": [
                     "Swiss"
                 ],
                 "ORG": [
                     "Proton Mail",
-                    "Proton Pass",
-                    "AI",
-                    "Bad Security Advice &"
+                    "Proton Pass"
                 ],
-                "MONEY": [
-                    "8211"
+                "WORK_OF_ART": [
+                    "Lucky is Bad Security Advice"
+                ],
+                "DATE": [
+                    "4504"
                 ]
             }
         },
@@ -271,18 +285,22 @@
             "pubDate": "Thu, 20 Apr 2023 20:54:05 +0000",
             "title": "Deep Mind Now Has Brains! \u2013 DTNS 4503",
             "entities": {
-                "MONEY": [
-                    "8220;A",
-                    "8211"
+                "WORK_OF_ART": [
+                    "A Word",
+                    "Deep Mind Now Has Brains"
                 ],
                 "PERSON": [
-                    "Tom Merritt&#8221",
+                    "Tom Merritt",
                     "Tom",
                     "Bard"
                 ],
                 "ORG": [
                     "Ruby Justice Th\u00e9lot",
-                    "Google"
+                    "Google",
+                    "notContinue"
+                ],
+                "DATE": [
+                    "4503"
                 ]
             }
         },
@@ -319,24 +337,25 @@
                 ],
                 "ORG": [
                     "AI",
-                    "AI",
-                    "Garden Warfare &#8211"
+                    "AI"
                 ],
                 "PERCENT": [
                     "up to 90%"
                 ],
+                "GPE": [
+                    "Netflix"
+                ],
                 "DATE": [
-                    "Tuesday"
+                    "Tuesday",
+                    "4502"
                 ],
                 "WORK_OF_ART": [
-                    "Love Is Blind"
+                    "Love Is Blind",
+                    "Call Of AI: Garden Warfare"
                 ],
                 "PERSON": [
                     "Tom Merritt",
-                    "Sarah"
-                ],
-                "CARDINAL": [
-                    "4502\"</span></a"
+                    "SarahContinue"
                 ]
             }
         },
@@ -374,14 +393,16 @@
                 ],
                 "ORG": [
                     "Amazon Prime Video",
-                    "AI GPGPU",
-                    "Mastodon &"
+                    "AI GPGPU"
                 ],
                 "LANGUAGE": [
                     "English"
                 ],
-                "MONEY": [
-                    "8211"
+                "WORK_OF_ART": [
+                    "There\u2019s No Place Like Mastodon \u2013 DTNS"
+                ],
+                "CARDINAL": [
+                    "4501"
                 ]
             }
         },
@@ -419,7 +440,8 @@
                     "Samsung"
                 ],
                 "WORK_OF_ART": [
-                    "Love"
+                    "Love",
+                    "Is Google in Panic Mode"
                 ],
                 "GPE": [
                     "Netflix"
@@ -427,8 +449,8 @@
                 "DATE": [
                     "March"
                 ],
-                "MONEY": [
-                    "8211"
+                "CARDINAL": [
+                    "4500"
                 ]
             }
         },
@@ -463,19 +485,21 @@
                 "PERSON": [
                     "Jeff Dwoskin",
                     "Tom Merritt",
-                    "Sarah Lane,<a"
+                    "Sarah Lane"
                 ],
                 "ORG": [
                     "AI",
                     "BeReal",
-                    "Spotify",
-                    "Like BeInteresting &#8211"
+                    "Spotify"
                 ],
                 "FAC": [
                     "Wordle"
                 ],
                 "GPE": [
                     "Heardle"
+                ],
+                "WORK_OF_ART": [
+                    "BeReal More Like BeInteresting \u2013 DTNS"
                 ]
             }
         },
@@ -507,8 +531,8 @@
             "pubDate": "Thu, 13 Apr 2023 21:01:27 +0000",
             "title": "PC Part Prices and 4K Gaming \u2013 DTNS 4498",
             "entities": {
-                "LAW": [
-                    "RTX 4070"
+                "DATE": [
+                    "4070"
                 ],
                 "PRODUCT": [
                     "Windows 11"
@@ -522,13 +546,15 @@
                 "PERSON": [
                     "Patrick Norton",
                     "Roger Chang",
-                    "Joe"
+                    "Joe",
+                    "MultipleContinue"
+                ],
+                "WORK_OF_ART": [
+                    "PC Part Prices"
                 ],
                 "CARDINAL": [
-                    "4"
-                ],
-                "MONEY": [
-                    "8211"
+                    "4",
+                    "4498"
                 ]
             }
         },
@@ -565,12 +591,12 @@
                     "HBO",
                     "AI",
                     "Stanford University",
-                    "Sims",
-                    "RPG",
-                    "Max &#8211"
+                    "Sims"
                 ],
                 "PERSON": [
                     "Max",
+                    "Max",
+                    "RPGContinue",
                     "Max"
                 ],
                 "DATE": [
@@ -578,6 +604,9 @@
                 ],
                 "GPE": [
                     "China"
+                ],
+                "CARDINAL": [
+                    "4497"
                 ]
             }
         }

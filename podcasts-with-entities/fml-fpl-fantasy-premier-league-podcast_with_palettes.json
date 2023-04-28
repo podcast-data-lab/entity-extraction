@@ -37,14 +37,15 @@
                 "FAC": [
                     "Patreon"
                 ],
-                "PRODUCT": [
-                    "Twitter"
+                "PERSON": [
+                    "Twitter",
+                    "DGW34\n"
                 ],
-                "NORP": [
+                "ORG": [
                     "YouTube"
                 ],
-                "GPE": [
-                    "FantasyPremierLeague"
+                "MONEY": [
+                    "#FPL #FMLFPL #"
                 ]
             }
         },
@@ -75,16 +76,21 @@
                     "four"
                 ],
                 "ORG": [
-                    "Alon"
+                    "Alon",
+                    "YouTube"
+                ],
+                "GPE": [
+                    "\u2019s"
                 ],
                 "FAC": [
                     "Patreon"
                 ],
-                "PRODUCT": [
+                "PERSON": [
                     "Twitter"
                 ],
-                "NORP": [
-                    "YouTube"
+                "MONEY": [
+                    "#FPL #FMLFPL #",
+                    "FantasyPremierLeague"
                 ]
             }
         },
@@ -114,7 +120,12 @@
                 "PERSON": [
                     "Guest Jason",
                     "Walsh",
-                    "BGW32"
+                    "Twitter",
+                    "BGW32 \n"
+                ],
+                "ORG": [
+                    "Blank",
+                    "YouTube"
                 ],
                 "DATE": [
                     "Wednesday 2:30pm"
@@ -126,14 +137,8 @@
                 "FAC": [
                     "Patreon"
                 ],
-                "PRODUCT": [
-                    "Twitter"
-                ],
-                "NORP": [
-                    "YouTube"
-                ],
-                "CARDINAL": [
-                    "#"
+                "MONEY": [
+                    "#FPL #FMLFPL #"
                 ]
             }
         },
@@ -162,11 +167,13 @@
             "entities": {
                 "PERSON": [
                     "Brighton",
-                    "Dean Smith"
+                    "Dean Smith",
+                    "Twitter"
                 ],
                 "ORG": [
                     "VAR",
-                    "Palace"
+                    "Palace",
+                    "YouTube"
                 ],
                 "GPE": [
                     "Liverpool"
@@ -174,11 +181,9 @@
                 "FAC": [
                     "Patreon"
                 ],
-                "PRODUCT": [
-                    "Twitter"
-                ],
-                "NORP": [
-                    "YouTube"
+                "MONEY": [
+                    "#FPL #FMLFPL #",
+                    "FantasyPremierLeague"
                 ]
             }
         },
@@ -206,20 +211,17 @@
             "title": "Ep. 400 - #GW29 So Far - Brodge and Potter Bite the Dust",
             "entities": {
                 "PERSON": [
-                    "Episode"
+                    "Episode",
+                    "Twitter"
                 ],
                 "QUANTITY": [
                     "a ton"
                 ],
-                "NORP": [
-                    "\u2019s",
-                    "YouTube"
-                ],
                 "FAC": [
                     "Patreon"
                 ],
-                "PRODUCT": [
-                    "Twitter"
+                "ORG": [
+                    "YouTube"
                 ]
             }
         },
@@ -249,18 +251,17 @@
                 "ORG": [
                     "FPL",
                     "RSS",
-                    "YouTube",
-                    "href=\"https://instagram.com"
-                ],
-                "PERSON": [
-                    "DGW29.</p",
-                    "Twitter"
+                    "YouTube"
                 ],
                 "FAC": [
                     "Patreon"
                 ],
-                "NORP": [
-                    "href=\"https://tiktok.com/@fmlfpl"
+                "PERSON": [
+                    "Twitter"
+                ],
+                "MONEY": [
+                    "#FMLFPL #",
+                    "FantasyPremierLeague"
                 ]
             }
         },
@@ -288,23 +289,20 @@
             "title": "Ep. 398 - #GW29 Int\u2019l Break - Hair Plug Italian ****",
             "entities": {
                 "DATE": [
-                    "two weeks"
+                    "two weeks from now"
                 ],
                 "FAC": [
                     "Patreon"
                 ],
                 "PERSON": [
-                    "Twitter",
-                    "href=\"https://www.dropbox.com/?q=%23FPL",
-                    "noreferrer\">#FMLFPL</a"
+                    "Twitter"
                 ],
                 "ORG": [
-                    "YouTube",
-                    "noreferrer\">https://podcasts.apple.com",
-                    "href=\"https://instagram.com"
+                    "YouTube"
                 ],
-                "NORP": [
-                    "href=\"https://tiktok.com/@fmlfpl"
+                "MONEY": [
+                    "#FPL #FMLFPL #",
+                    "FantasyPremierLeague"
                 ]
             }
         },
@@ -332,7 +330,10 @@
             "title": "Ep. 340 - On to Int\u2019l Break - Necktie",
             "entities": {
                 "CARDINAL": [
-                    "only four"
+                    "only four",
+                    "20:11",
+                    "32:42",
+                    "37:41"
                 ],
                 "QUANTITY": [
                     "a ton",
@@ -340,14 +341,22 @@
                 ],
                 "ORG": [
                     "FPL",
-                    "FPL",
-                    "names.</li"
+                    "FPL"
                 ],
                 "DATE": [
-                    "ten days"
+                    "ten days",
+                    "tomorrow"
                 ],
                 "PERSON": [
-                    "<li>09:28 - Wolves"
+                    "Leeds",
+                    "Brentham",
+                    "01:00:01 - Outro"
+                ],
+                "TIME": [
+                    "25:45 - Spurs"
+                ],
+                "GPE": [
+                    "Discord"
                 ]
             }
         },
@@ -381,11 +390,12 @@
                 "ORG": [
                     "DGW",
                     "Alon",
-                    "captains.</li",
+                    "Instagram",
                     "Chelsea"
                 ],
                 "CARDINAL": [
                     "only 4",
+                    "49:29",
                     "3"
                 ],
                 "PRODUCT": [
@@ -393,13 +403,26 @@
                     "Cole",
                     "Twitter"
                 ],
+                "GPE": [
+                    "\u2019s",
+                    "Mo cap",
+                    "West Ham",
+                    "Leicester",
+                    "Discord"
+                ],
                 "PERSON": [
-                    "li>04:37 - Kane",
-                    "United",
-                    "West Ham.</li",
+                    "04:37 - Kane",
+                    "Spurs",
+                    "Leeds",
                     "Kai",
                     "Baraka",
-                    "li>01:00:28 - Outro.</li"
+                    "01:00:28 - Outro"
+                ],
+                "TIME": [
+                    "18:00 - Spurs"
+                ],
+                "MONEY": [
+                    "54:56 - Little"
                 ]
             }
         },
@@ -429,15 +452,27 @@
                 "DATE": [
                     "these days"
                 ],
-                "PERSON": [
-                    "li>05:57 - FML FPL",
-                    "Reece",
-                    "West Ham.</li"
-                ],
                 "ORG": [
-                    "li>40:49 - Blank",
-                    "captains.</li",
-                    "outro.</li"
+                    "GW28"
+                ],
+                "CARDINAL": [
+                    "05:57",
+                    "36:22",
+                    "40:49",
+                    "59:12"
+                ],
+                "PERSON": [
+                    "Reece",
+                    "Everton",
+                    "Villa"
+                ],
+                "TIME": [
+                    "19:23 - Spurs",
+                    "45:11 - Fraser"
+                ],
+                "GPE": [
+                    "Southampton",
+                    "West Ham"
                 ]
             }
         },
@@ -468,9 +503,19 @@
                     "Walsh",
                     "Bielsa"
                 ],
+                "CARDINAL": [
+                    "14:00",
+                    "38:22",
+                    "47:58"
+                ],
                 "ORG": [
-                    "captains.</li",
-                    "outro.</li"
+                    "33:02 - Chelsea"
+                ],
+                "TIME": [
+                    "54:29"
+                ],
+                "GPE": [
+                    "01:05:32"
                 ]
             }
         },
@@ -521,21 +566,28 @@
             "pubDate": "Tue, 15 Feb 2022 08:19:30 GMT",
             "title": "Ep. 335 - On to DGW26 - Peaks and Valleys",
             "entities": {
-                "DATE": [
-                    "Odd week"
-                ],
                 "ORDINAL": [
                     "first"
                 ],
-                "PERSON": [
-                    "Bench Boosts"
-                ],
-                "FAC": [
-                    "Aston Villa.</li"
-                ],
                 "ORG": [
-                    "captains.</li",
-                    "outro.</li"
+                    "DGW",
+                    "44:19 - Everton"
+                ],
+                "PERSON": [
+                    "Bench Boosts",
+                    "Leeds"
+                ],
+                "TIME": [
+                    "08:23 - Triple",
+                    "31:01 - Spurs"
+                ],
+                "CARDINAL": [
+                    "15:20",
+                    "20:23"
+                ],
+                "GPE": [
+                    "Newcastle",
+                    "Discord"
                 ]
             }
         },
@@ -568,9 +620,15 @@
                 "DATE": [
                     "tomorrow"
                 ],
-                "ORG": [
-                    "captains.</li",
-                    "outro.</li"
+                "CARDINAL": [
+                    "04:57",
+                    "06:22",
+                    "16:06",
+                    "22:42",
+                    "44:05"
+                ],
+                "GPE": [
+                    "Discord"
                 ]
             }
         },
@@ -599,16 +657,29 @@
             "entities": {
                 "ORG": [
                     "FPL",
-                    "GW23.</li",
-                    "Bruno / Ronaldo / Man",
-                    "Liverpool",
-                    "captains.</li",
-                    "outro.</li"
+                    "Bruno / Ronaldo / Man"
                 ],
                 "DATE": [
                     "two years",
                     "two weeks",
                     "January"
+                ],
+                "GPE": [
+                    "\u2019s",
+                    "GW23",
+                    "Liverpool",
+                    "Discord"
+                ],
+                "CARDINAL": [
+                    "17:11",
+                    "19:36",
+                    "32:43"
+                ],
+                "PERSON": [
+                    "Luis Diaz"
+                ],
+                "TIME": [
+                    "52:11 - Our"
                 ]
             }
         },
@@ -636,14 +707,22 @@
             "title": "Ep. 332 - On to The Longest Break",
             "entities": {
                 "DATE": [
-                    "two fucking weeks"
+                    "two fucking weeks",
+                    "22:19"
                 ],
-                "ORG": [
-                    "GW23.</li",
-                    "outro.</li"
+                "GPE": [
+                    "GW23",
+                    "Discord"
+                ],
+                "TIME": [
+                    "07:59 -"
                 ],
                 "PERSON": [
-                    "Liverpool.</li"
+                    "Bruno",
+                    "Burnley"
+                ],
+                "ORG": [
+                    "Liverpool"
                 ]
             }
         },
@@ -672,17 +751,24 @@
             "entities": {
                 "ORG": [
                     "FPL",
-                    "GW22.</li",
-                    "bullshit.</li",
-                    "captains.</li",
-                    "outro.</li"
+                    "WC"
                 ],
                 "PERSON": [
                     "Walsh",
                     "Everton"
                 ],
-                "LOC": [
-                    "weekend.</li"
+                "CARDINAL": [
+                    "06:25"
+                ],
+                "DATE": [
+                    "31:26 - West Ham",
+                    "the weekend"
+                ],
+                "GPE": [
+                    "Discord"
+                ],
+                "TIME": [
+                    "59:28 - Our"
                 ]
             }
         },
@@ -709,17 +795,24 @@
             "pubDate": "Tue, 04 Jan 2022 09:11:47 GMT",
             "title": "Ep. 330 - On to a Break",
             "entities": {
-                "ORG": [
-                    "Cya &nbsp;in",
-                    "li>45:32 - Everton",
-                    "captains.</li",
-                    "outro.</li"
+                "DATE": [
+                    "a week in a half"
                 ],
-                "PRODUCT": [
-                    "FPL Patreon Cup!!!</li"
+                "ORG": [
+                    "08:51 - Arsenal",
+                    "Liverpool"
+                ],
+                "TIME": [
+                    "11:35 - Spurs",
+                    "21:43 - We"
                 ],
                 "PERSON": [
-                    "Liverpool.</li"
+                    "Leeds"
+                ],
+                "CARDINAL": [
+                    "26:52",
+                    "53:42",
+                    "59:47"
                 ]
             }
         },
@@ -749,15 +842,15 @@
                 "EVENT": [
                     "New Year"
                 ],
-                "PERSON": [
-                    "GW20?</li"
+                "ORG": [
+                    "Liverpool / Mane"
+                ],
+                "CARDINAL": [
+                    "22:20",
+                    "30:54"
                 ],
                 "GPE": [
-                    "Liverpool"
-                ],
-                "ORG": [
-                    "captains.</li",
-                    "outro.</li"
+                    "Discord"
                 ]
             }
         },
@@ -786,20 +879,21 @@
             "entities": {
                 "GPE": [
                     "Kinda",
-                    "Dawson"
+                    "Dawson",
+                    "West Ham"
                 ],
-                "PRODUCT": [
-                    "Crystal Palace</li"
-                ],
-                "PERSON": [
-                    "Brighton.</li"
-                ],
-                "LOC": [
-                    "West Ham.</li"
+                "TIME": [
+                    "09:31 - Spurs",
+                    "40:28 - Leicester"
                 ],
                 "ORG": [
-                    "captains.</li",
-                    "outro.</li"
+                    "Chelsea"
+                ],
+                "CARDINAL": [
+                    "32:10"
+                ],
+                "PERSON": [
+                    "Brighton"
                 ]
             }
         },
@@ -827,18 +921,23 @@
             "title": "Ep. 327 - On to GW19 - xAntibodies",
             "entities": {
                 "CARDINAL": [
-                    "Four"
+                    "Four",
+                    "10:20",
+                    "22:25",
+                    "32:22",
+                    "55:45"
+                ],
+                "TIME": [
+                    "11:54 - Spurs"
                 ],
                 "PERSON": [
-                    "li>17:48 - Kane",
-                    "Son"
+                    "17:48 - Kane",
+                    "Son",
+                    "Dele"
                 ],
                 "GPE": [
-                    "Newcastle"
-                ],
-                "ORG": [
-                    "captains.</li",
-                    "outro.</li"
+                    "Newcastle",
+                    "Discord"
                 ]
             }
         },
@@ -912,14 +1011,19 @@
                 "FAC": [
                     "West Ham"
                 ],
+                "CARDINAL": [
+                    "31:31",
+                    "42:07",
+                    "01:17:24"
+                ],
                 "PRODUCT": [
                     "Jimenez"
                 ],
                 "ORG": [
-                    "Liverpool",
-                    "penalties.</li",
-                    "captains.</li",
-                    "outro.</li"
+                    "Liverpool"
+                ],
+                "GPE": [
+                    "Discord"
                 ]
             }
         },
@@ -952,17 +1056,24 @@
                 "ORG": [
                     "GW",
                     "FPL",
-                    "captains.</li",
-                    "outro.</li"
+                    "31:33 - Chelsea",
+                    "Wildcard"
                 ],
                 "PERSON": [
                     "kinda"
                 ],
                 "CARDINAL": [
-                    "two"
+                    "two",
+                    "56:53"
                 ],
-                "LOC": [
-                    "Crystal"
+                "NORP": [
+                    "01:06:22 - Jota"
+                ],
+                "FAC": [
+                    "Crystal Palace"
+                ],
+                "GPE": [
+                    "01:25:03"
                 ]
             }
         },
@@ -993,15 +1104,24 @@
                     "One day",
                     "no days"
                 ],
-                "ORG": [
-                    "pileup.</li",
-                    "captains.</li",
-                    "outro.</li"
-                ],
                 "GPE": [
-                    "Aston",
-                    "Kane.</li",
+                    "\u2019s",
                     "Sancho"
+                ],
+                "TIME": [
+                    "06:03 - Sloppy",
+                    "24:14 - Spurs",
+                    "37:41 - Jim"
+                ],
+                "ORG": [
+                    "07:28 - Chelsea"
+                ],
+                "PERSON": [
+                    "Aston Villa",
+                    "Ollie"
+                ],
+                "CARDINAL": [
+                    "51:58"
                 ]
             }
         },
@@ -1032,16 +1152,18 @@
                     "One day"
                 ],
                 "NORP": [
-                    "GW",
-                    "GW13?</li"
+                    "GW"
+                ],
+                "CARDINAL": [
+                    "10:36",
+                    "19:43",
+                    "58:17 - Lamptey"
                 ],
                 "ORG": [
-                    "li>24:30 - Premium FWDs.</li",
-                    "captains.</li",
-                    "outro.</li"
+                    "31:58 -"
                 ],
-                "LOC": [
-                    "Crystal"
+                "FAC": [
+                    "Crystal Palace"
                 ]
             }
         },
@@ -1070,15 +1192,24 @@
             "entities": {
                 "ORG": [
                     "FPL",
-                    "captains.</li",
-                    "outro.</li"
+                    "31:40 - Brentham Defense"
                 ],
                 "CARDINAL": [
-                    "five"
+                    "five",
+                    "18:06",
+                    "30:27",
+                    "54:45"
                 ],
                 "PERSON": [
                     "Chelsea",
-                    "li>30:27 - Eddie\u2019s"
+                    "Aston Villa"
+                ],
+                "TIME": [
+                    "20:42 - Spurs"
+                ],
+                "GPE": [
+                    "Newcastle",
+                    "Discord"
                 ]
             }
         },
@@ -1105,18 +1236,26 @@
             "pubDate": "Tue, 02 Nov 2021 21:11:47 GMT",
             "title": "Ep. 319 - On to GW11 - Points in the Hand Are Better Than Points in the Bush",
             "entities": {
-                "LOC": [
-                    "Crystal"
-                ],
                 "ORG": [
-                    "outro.</li",
+                    "The State of Crystal Palace",
+                    "23:21 - Liverpool / Trent / Mane",
+                    "FML",
                     "Alon"
                 ],
-                "PRODUCT": [
-                    "FPL Links:</p"
+                "CARDINAL": [
+                    "28:54"
                 ],
-                "NORP": [
-                    "href=\"http://fmlfpl.com/"
+                "GPE": [
+                    "Discord"
+                ],
+                "TIME": [
+                    "59:16 -"
+                ],
+                "DATE": [
+                    "1:11:47 - Anus"
+                ],
+                "PERSON": [
+                    "https://www.twitch.tv/fmlfpl"
                 ]
             }
         },
@@ -1146,20 +1285,25 @@
                 "DATE": [
                     "a week"
                 ],
+                "TIME": [
+                    "01:06 - How",
+                    "38:45 - Podding"
+                ],
                 "PERSON": [
-                    "Kai Havertz.</li",
-                    "li>29:18 - Foden",
-                    "Brighton"
+                    "Kai Havertz",
+                    "Mo Salah",
+                    "Brighton",
+                    "https://www.twitch.tv/fmlfpl"
+                ],
+                "GPE": [
+                    "Discord"
+                ],
+                "CARDINAL": [
+                    "01:03:31"
                 ],
                 "ORG": [
-                    "outro.</li",
+                    "FML",
                     "Alon"
-                ],
-                "PRODUCT": [
-                    "FPL Links:</p"
-                ],
-                "NORP": [
-                    "href=\"http://fmlfpl.com/"
                 ]
             }
         },
@@ -1186,26 +1330,29 @@
             "pubDate": "Tue, 19 Oct 2021 07:46:16 GMT",
             "title": "Ep. 317 - On to GW9 - Fantasizing About Our Fantasy Teams",
             "entities": {
+                "ORG": [
+                    "06:05 - Chelsea",
+                    "FML",
+                    "Alon"
+                ],
+                "TIME": [
+                    "12:29 - Spurs"
+                ],
+                "CARDINAL": [
+                    "25:05",
+                    "54:08"
+                ],
                 "FAC": [
                     "Crystal Palace"
                 ],
                 "GPE": [
-                    "Man."
+                    "Man.",
+                    "Discord"
                 ],
                 "PERSON": [
                     "Vardy",
-                    "Kane"
-                ],
-                "ORG": [
-                    "more.</li",
-                    "outro.</li",
-                    "Alon"
-                ],
-                "PRODUCT": [
-                    "FPL Links:</p"
-                ],
-                "NORP": [
-                    "href=\"http://fmlfpl.com/"
+                    "Kane",
+                    "https://www.twitch.tv/fmlfpl"
                 ]
             }
         },
@@ -1236,18 +1383,17 @@
                     "Adam",
                     "Dan",
                     "Adam",
-                    "Dan"
+                    "Dan",
+                    "https://www.twitch.tv/fmlfpl"
                 ],
                 "ORG": [
+                    "Alon",
                     "FPL",
+                    "FML FPL Links",
                     "Alon"
                 ],
                 "PRODUCT": [
-                    "Twitter",
-                    "FPL Links:</p"
-                ],
-                "NORP": [
-                    "href=\"http://fmlfpl.com/"
+                    "Twitter"
                 ]
             }
         },
@@ -1274,23 +1420,34 @@
             "pubDate": "Tue, 05 Oct 2021 08:33:00 GMT",
             "title": "Ep. 315 - Another International Break",
             "entities": {
-                "PERSON": [
-                    "GW7",
-                    "Kane",
-                    "Rom",
-                    "Walsh",
-                    "Timo rant.</li"
-                ],
                 "ORG": [
+                    "Alon",
                     "FPL",
-                    "outro.</li",
+                    "Wildcard Team Selection Process",
+                    "FML",
                     "Alon"
                 ],
-                "PRODUCT": [
-                    "FPL Links:</p"
+                "PERSON": [
+                    "GW7",
+                    "GW7",
+                    "GW7",
+                    "Kane",
+                    "Son",
+                    "Rom",
+                    "Walsh",
+                    "Timo",
+                    "https://www.twitch.tv/fmlfpl"
                 ],
-                "NORP": [
-                    "href=\"http://fmlfpl.com/"
+                "TIME": [
+                    "15:00 - Spurs"
+                ],
+                "CARDINAL": [
+                    "22:02",
+                    "28:41",
+                    "34:14"
+                ],
+                "GPE": [
+                    "Discord"
                 ]
             }
         },
@@ -1319,23 +1476,26 @@
             "entities": {
                 "ORG": [
                     "Alon",
-                    "chat.</li",
-                    "outro.</li",
+                    "Chelsea",
+                    "Emi",
+                    "FML",
                     "Alon"
                 ],
                 "GPE": [
-                    "Liverpool"
+                    "Liverpool",
+                    "Lukaku",
+                    "Discord"
+                ],
+                "CARDINAL": [
+                    "08:58",
+                    "26:13",
+                    "32:09"
                 ],
                 "PERSON": [
-                    "Chelsea attack.</li",
                     "Jack",
-                    "Sarr"
-                ],
-                "PRODUCT": [
-                    "FPL Links:</p"
-                ],
-                "NORP": [
-                    "href=\"http://fmlfpl.com/"
+                    "Sarr",
+                    "GW7",
+                    "https://www.twitch.tv/fmlfpl"
                 ]
             }
         },
@@ -1364,22 +1524,21 @@
             "entities": {
                 "PERSON": [
                     "Walsh",
-                    "Bamford replacements.</li",
-                    "li>35:09 - Jota"
+                    "Bamford",
+                    "35:09 - Jota",
+                    "https://www.twitch.tv/fmlfpl"
                 ],
                 "ORG": [
-                    "li>05:51 - Leagues",
-                    "outro.</li",
+                    "05:51 - Leagues",
+                    "Liverpool",
+                    "FML",
                     "Alon"
                 ],
+                "CARDINAL": [
+                    "18:38"
+                ],
                 "GPE": [
-                    "Liverpool"
-                ],
-                "PRODUCT": [
-                    "FPL Links:</p"
-                ],
-                "NORP": [
-                    "href=\"http://fmlfpl.com/"
+                    "Discord"
                 ]
             }
         },
@@ -1408,6 +1567,7 @@
             "entities": {
                 "PERSON": [
                     "Carl Anka",
+                    "Marcus Rashford",
                     "Carl",
                     "Ronaldo",
                     "Ole",
@@ -1417,24 +1577,24 @@
                     "Carl Anka",
                     "Follow Carl",
                     "Twitter",
-                    "Wrighty"
+                    "Wrighty",
+                    "https://www.twitch.tv/fmlfpl"
                 ],
                 "ORG": [
                     "Manchester United",
-                    "Marcus",
                     "Manchester United",
                     "Business Casual, Unserious",
                     "DDG",
                     "FPL",
-                    "href=\"https://twitter.com",
-                    "target=\"_blank\">https://theathletic.com",
-                    "target=\"_blank\">https://theathletic.com",
                     "House",
                     "Alon"
                 ],
                 "WORK_OF_ART": [
                     "You Are A Champion:",
                     "You Are A Champion"
+                ],
+                "PRODUCT": [
+                    "Alon"
                 ],
                 "GPE": [
                     "Manchester United",
@@ -1444,14 +1604,10 @@
                     "Henderson"
                 ],
                 "NORP": [
-                    "Athletic",
-                    "href=\"http://fmlfpl.com/"
+                    "Athletic"
                 ],
                 "PERCENT": [
                     "33%"
-                ],
-                "PRODUCT": [
-                    "FPL Links:</p"
                 ]
             }
         },
@@ -1479,17 +1635,26 @@
             "title": "Ep. 311 - On to GW5 - Walsh is on Wildcard",
             "entities": {
                 "PERSON": [
-                    "Walsh\u2019s Wildcard"
+                    "Walsh\u2019s Wildcard",
+                    "Wildcard",
+                    "Wildcard",
+                    "https://www.twitch.tv/fmlfpl"
                 ],
                 "ORG": [
                     "the Mo/Rom/Ron",
-                    "li>01:15:19 - Walsh\u2019s",
-                    "Wildcard tinker.</li",
-                    "outro.</li",
+                    "Ronaldo",
                     "Alon"
                 ],
-                "NORP": [
-                    "href=\"http://fmlfpl.com/"
+                "CARDINAL": [
+                    "33:22",
+                    "39:13",
+                    "52:42"
+                ],
+                "TIME": [
+                    "59:30 -"
+                ],
+                "GPE": [
+                    "Discord"
                 ]
             }
         },
@@ -1523,10 +1688,6 @@
                     "Mitski",
                     "FPL",
                     "FPL",
-                    "Manchester United",
-                    "herd.</li",
-                    "GW4.</li",
-                    "outro.</li",
                     "Alon"
                 ],
                 "WORK_OF_ART": [
@@ -1534,18 +1695,25 @@
                 ],
                 "PERSON": [
                     "B.",
-                    "Antonio"
+                    "Antonio cap",
+                    "Leeds",
+                    "https://www.twitch.tv/fmlfpl"
+                ],
+                "TIME": [
+                    "08:05 - Leagues",
+                    "24:46 - Premiums"
                 ],
                 "CARDINAL": [
+                    "08:53",
+                    "20:59",
                     "Two",
-                    "three"
+                    "three",
+                    "58:32"
                 ],
                 "GPE": [
+                    "Manchester United",
                     "\u2019s",
                     "Discord"
-                ],
-                "NORP": [
-                    "href=\"http://fmlfpl.com/"
                 ]
             }
         },
@@ -1574,18 +1742,32 @@
             "entities": {
                 "NORP": [
                     "GW2",
-                    "GW2",
-                    "href=\"http://fmlfpl.com/"
+                    "GW2"
                 ],
                 "ORG": [
-                    "things.</li",
-                    "outro.</li",
+                    "09:31 - Leagues",
+                    "01:01:35 - Livramento",
                     "Alon"
+                ],
+                "TIME": [
+                    "11:17 -"
                 ],
                 "PERSON": [
                     "Antonio",
                     "Toney",
-                    "Armstrong"
+                    "Armstrong",
+                    "Callum",
+                    "https://www.twitch.tv/fmlfpl"
+                ],
+                "GPE": [
+                    "Benrahma",
+                    "Discord"
+                ],
+                "CARDINAL": [
+                    "41:43"
+                ],
+                "DATE": [
+                    "51:29 - Mo + Trent + Bruno + Rom - get\u2019em"
                 ]
             }
         },
@@ -1614,20 +1796,31 @@
             "entities": {
                 "NORP": [
                     "GW2",
-                    "href=\"http://fmlfpl.com/"
+                    "GW2"
                 ],
                 "GPE": [
-                    "Southampton"
+                    "GW1",
+                    "Southampton",
+                    "Man.",
+                    "Liverpool",
+                    "Discord"
                 ],
-                "ORG": [
-                    "Liverpool chat.</li",
-                    "outro.</li",
-                    "Alon"
+                "CARDINAL": [
+                    "17:23",
+                    "22:25"
+                ],
+                "TIME": [
+                    "37:08 - Spurs",
+                    "46:01 - 4.0"
                 ],
                 "PERSON": [
                     "Toney",
                     "Mo",
-                    "Bruno"
+                    "Bruno",
+                    "https://www.twitch.tv/fmlfpl"
+                ],
+                "ORG": [
+                    "Alon"
                 ]
             }
         },
@@ -1657,20 +1850,27 @@
                 "FAC": [
                     "GW1"
                 ],
-                "NORP": [
-                    "some.</p",
-                    "href=\"http://fmlfpl.com/"
+                "ORG": [
+                    "Bachmann",
+                    "Liverpool / Jota / Tsimikas",
+                    "01:08:02 - Gundo",
+                    "Alon"
+                ],
+                "DATE": [
+                    "09:08 - Early Wildcard",
+                    "39:38 - Wilf"
+                ],
+                "CARDINAL": [
+                    "4.0",
+                    "30:22",
+                    "51:43"
                 ],
                 "GPE": [
-                    "Lukaku"
+                    "West Ham"
                 ],
-                "LOC": [
-                    "West Ham.</li"
-                ],
-                "ORG": [
-                    "li>01:04:42 - Discord",
-                    "outro.</li",
-                    "Alon"
+                "PERSON": [
+                    "01:04:42 - Discord",
+                    "https://www.twitch.tv/fmlfpl"
                 ]
             }
         },
@@ -1701,42 +1901,59 @@
                     "Neil Atkinson",
                     "Neil",
                     "Neil",
+                    "Alc\u00e2ntara",
+                    "Pep",
+                    "Klopp",
                     "Sadio Mane",
                     "Aston Villa",
                     "Burnley",
-                    "Neil"
+                    "Neil",
+                    "https://www.twitch.tv/fmlfpl"
                 ],
                 "ORG": [
-                    "Anfield",
+                    "Anfield Wrap",
+                    "Alon",
                     "The Anfield Wrap",
                     "Anfield Wrap",
                     "The Anfield Wrap",
+                    "07:17 - Konate",
                     "VVD",
-                    "Liverpool centerbacks.</li",
                     "Liverpool",
                     "Chelsea",
-                    "needle.</li",
                     "Crystal Palace",
+                    "Everton",
                     "The Anfield Wrap\u2019s",
+                    "FPL",
                     "Alon"
                 ],
                 "GPE": [
                     "Liverpool",
+                    "https://twitter.com/Knox_Harrington",
+                    "Liverpool",
+                    "Liverpool",
+                    "Liverpool",
                     "Firmino",
+                    "Liverpool",
                     "Man",
                     "Brighton",
                     "Southampton",
                     "Wolves"
                 ],
-                "DATE": [
-                    "last season"
-                ],
                 "CARDINAL": [
+                    "14:12",
+                    "15:17",
+                    "23:09",
+                    "24:55",
+                    "38:22",
+                    "four",
                     "four"
                 ],
-                "NORP": [
-                    "four.</li",
-                    "href=\"http://fmlfpl.com/"
+                "TIME": [
+                    "21:32 - Players"
+                ],
+                "DATE": [
+                    "last season",
+                    "this season"
                 ]
             }
         },
@@ -1772,19 +1989,16 @@
                 ],
                 "ORG": [
                     "GW1",
-                    "Fuck.</p",
-                    "li>50:47 - Budget-priced Midfielders",
-                    "outro.</li",
+                    "01:20 - Patreon",
+                    "01:23:46 - Budget",
                     "Alon"
                 ],
                 "GPE": [
                     "Discord"
                 ],
                 "PERSON": [
-                    "Forwards"
-                ],
-                "NORP": [
-                    "href=\"http://fmlfpl.com/"
+                    "Forwards",
+                    "https://www.twitch.tv/fmlfpl"
                 ]
             }
         },
@@ -1814,40 +2028,58 @@
                 "CARDINAL": [
                     "one",
                     "21/22",
-                    "20/21",
-                    "20/21",
-                    "19/20 and 20/21"
-                ],
-                "ORG": [
-                    "Premier League",
-                    "defense.</li",
-                    "defense.</li",
-                    "fixtures.</li",
-                    "Alon"
+                    "10:24",
+                    "three",
+                    "18:04",
+                    "24:11",
+                    "27:00",
+                    "29:51",
+                    "44:29",
+                    "50:37"
                 ],
                 "PERSON": [
                     "Bradley",
-                    "Jerry",
                     "Billy",
-                    "Bradley Hayden.</strong></li",
-                    "Ismaila",
-                    "Josh King.</li",
-                    "Jerry Jamieson.</strong",
-                    "li><strong>50:37 - Brentford",
-                    "Billy Grant.</strong",
-                    "Bryan"
+                    "Kiko Femenia",
+                    "Joao Pedro",
+                    "Jerry Jamieson",
+                    "Billy Grant",
+                    "Mathias Jensen",
+                    "01:15:28 - Ivan Toney",
+                    "Ivan Toney",
+                    "https://www.twitch.tv/fmlfpl"
                 ],
-                "LOC": [
+                "PRODUCT": [
                     "Patreon Discord"
                 ],
+                "ORG": [
+                    "00:53 - Watford",
+                    "05:47 - Watford\u2019s",
+                    "30:09 - Norwich\u2019s",
+                    "48:20 - Norwich\u2019s",
+                    "Alon"
+                ],
+                "FAC": [
+                    "Bradley Hayden",
+                    "01:56 - Watford\u2019s",
+                    "Milot Rashica"
+                ],
+                "DATE": [
+                    "20/21 season",
+                    "20/21 season"
+                ],
                 "TIME": [
-                    "midfield"
+                    "50:14 - Jerry"
                 ],
                 "GPE": [
-                    "Milot"
+                    "01:01:01 - Brentford\u2019s",
+                    "Brentford"
                 ],
                 "NORP": [
-                    "href=\"http://fmlfpl.com/"
+                    "01:07:07 - Bryan Mbeumo"
+                ],
+                "EVENT": [
+                    "01:24:07 - Billy"
                 ]
             }
         },
@@ -1874,24 +2106,26 @@
             "pubDate": "Tue, 27 Jul 2021 09:17:24 GMT",
             "title": "Ep. 303 - Preseason Pod 2/4 - Mid-Priced Assets",
             "entities": {
-                "PERSON": [
-                    "thoughts.</li",
-                    "li>07:33 - Walsh\u2019s",
-                    "thoughts.</li",
-                    "Forwards"
-                ],
-                "CARDINAL": [
-                    "5.0m).</li",
-                    "5.0m).</li",
-                    "7.0-8.0m).</li",
-                    "7.0-8.0m).</li"
-                ],
                 "ORG": [
-                    "outro.</li",
+                    "Alon",
                     "Alon"
                 ],
-                "NORP": [
-                    "href=\"http://fmlfpl.com/"
+                "TIME": [
+                    "10:37 - Mid",
+                    "21:56 - Mid"
+                ],
+                "CARDINAL": [
+                    "5.0",
+                    "5.0",
+                    "7.0-8.0",
+                    "7.0-8.0"
+                ],
+                "GPE": [
+                    "01:11:27"
+                ],
+                "PERSON": [
+                    "Forwards",
+                    "https://www.twitch.tv/fmlfpl"
                 ]
             }
         },
@@ -1920,11 +2154,22 @@
             "entities": {
                 "ORG": [
                     "FPL",
+                    "Intro / Admin / Autopick",
+                    "01:26:47 - Guess Walsh\u2019s",
                     "Alon"
+                ],
+                "TIME": [
+                    "04:04 -"
+                ],
+                "DATE": [
+                    "07:25 - Premium",
+                    "this year"
                 ],
                 "CARDINAL": [
                     "5.5",
+                    "22:17",
                     "5.5",
+                    "32:55",
                     "8.5",
                     "8.5",
                     "three",
@@ -1932,11 +2177,11 @@
                     "2",
                     "3"
                 ],
-                "DATE": [
-                    "this year"
+                "WORK_OF_ART": [
+                    "Links:\n\n  Check"
                 ],
-                "NORP": [
-                    "href=\"http://fmlfpl.com/"
+                "PERSON": [
+                    "https://www.twitch.tv/fmlfpl"
                 ]
             }
         },
@@ -1966,22 +2211,31 @@
                 "PERSON": [
                     "Final Euros",
                     "Euros",
-                    "<li>06:28 - Questions",
-                    "@FMLFPL"
+                    "@FMLFPL",
+                    "https://www.twitch.tv/fmlfpl"
                 ],
                 "ORG": [
                     "Euro Fantasy",
-                    "li>25:48 - Belgium",
-                    "target=\"_blank\">https://www.twitch.tv"
+                    "FPL",
+                    "Discord\n  25:48 - Belgium",
+                    "PremierLeague"
                 ],
                 "EVENT": [
                     "Round"
                 ],
-                "GPE": [
-                    "France"
+                "CARDINAL": [
+                    "16"
                 ],
-                "NORP": [
-                    "href=\"http://fmlfpl.com/"
+                "GPE": [
+                    "Italy",
+                    "France",
+                    "FantasyPremierLeague"
+                ],
+                "TIME": [
+                    "29:29 - How"
+                ],
+                "MONEY": [
+                    "#FPL #"
                 ]
             }
         },
@@ -2009,28 +2263,35 @@
             "title": "Ep. 300 - On to Euros Round of 16 with Hope in Our Hearts",
             "entities": {
                 "DATE": [
-                    "the last two MDs"
+                    "the last two MDs",
+                    "17:11 - Day"
                 ],
                 "ORG": [
-                    "li>09:08 - Euros league",
-                    "target=\"_blank\">https://www.twitch.tv",
-                    "Fantasy Premier League <"
-                ],
-                "LOC": [
-                    "Round"
+                    "Intro / Admin\n 00:52 - How",
+                    "Discord\n  51:35 - Building",
+                    "Fantasy Premier League",
+                    "PremierLeague"
                 ],
                 "CARDINAL": [
-                    "16"
+                    "10:35",
+                    "45:04"
                 ],
-                "PRODUCT": [
-                    "R16"
+                "TIME": [
+                    "13:34 - Teams"
                 ],
                 "NORP": [
-                    "href=\"http://fmlfpl.com/"
+                    "R16"
                 ],
                 "PERSON": [
                     "@FMLFPL",
+                    "https://www.twitch.tv/fmlfpl",
                     "Euros Fantasy Euros EuroFantasy"
+                ],
+                "MONEY": [
+                    "#FPL #"
+                ],
+                "GPE": [
+                    "FantasyPremierLeague"
                 ]
             }
         },
@@ -2057,19 +2318,24 @@
             "pubDate": "Sun, 20 Jun 2021 01:49:10 GMT",
             "title": "Ep. 299 - On to Euros MD3 - Snap Back to Reality",
             "entities": {
-                "GPE": [
-                    "Discord"
+                "CARDINAL": [
+                    "16:57"
                 ],
-                "NORP": [
-                    "href=\"http://fmlfpl.com/"
+                "GPE": [
+                    "Discord",
+                    "FantasyPremierLeague"
                 ],
                 "PERSON": [
                     "@FMLFPL",
+                    "https://www.twitch.tv/fmlfpl",
                     "Euros Fantasy Euros EuroFantasy"
                 ],
                 "ORG": [
-                    "target=\"_blank\">https://www.twitch.tv",
-                    "Fantasy Premier League <"
+                    "Fantasy Premier League",
+                    "PremierLeague"
+                ],
+                "MONEY": [
+                    "#FPL #"
                 ]
             }
         },
@@ -2097,23 +2363,27 @@
             "title": "Ep. 298 - On to Euros MD2 - Chaos Reigns",
             "entities": {
                 "DATE": [
-                    "the final day"
+                    "the final day",
+                    "07:45 - Matchday"
+                ],
+                "CARDINAL": [
+                    "2"
                 ],
                 "ORG": [
-                    "li>05:53 - Euros League",
-                    "li>36:47 - England Questions</li",
-                    "target=\"_blank\">https://www.twitch.tv",
-                    "Fantasy Premier League <"
-                ],
-                "QUANTITY": [
-                    "2 Questions</li"
-                ],
-                "NORP": [
-                    "href=\"http://fmlfpl.com/"
+                    "Discord\n  54:50 -",
+                    "Fantasy Premier League",
+                    "PremierLeague"
                 ],
                 "PERSON": [
                     "@FMLFPL",
+                    "https://www.twitch.tv/fmlfpl",
                     "Euros Fantasy Euros EuroFantasy"
+                ],
+                "MONEY": [
+                    "#FPL #"
+                ],
+                "GPE": [
+                    "FantasyPremierLeague"
                 ]
             }
         },
@@ -2147,27 +2417,40 @@
                 "LAW": [
                     "MD1 Euro Fantasy"
                 ],
+                "PRODUCT": [
+                    "Patreon"
+                ],
                 "CARDINAL": [
                     "2/2"
                 ],
+                "TIME": [
+                    "night"
+                ],
                 "ORG": [
                     "Fantasy Euros League",
-                    "FPL",
-                    "Group of Death</li",
-                    "target=\"_blank\">https://www.twitch.tv",
-                    "Fantasy Premier League <"
+                    "FPL / Rules\n  08:22 - Chips\n  ",
+                    "Group of Death\n  18:27 - Home",
+                    "Outro",
+                    "Fantasy Premier League",
+                    "PremierLeague"
                 ],
                 "PERSON": [
                     "Code",
                     "@FMLFPL",
+                    "https://www.twitch.tv/fmlfpl",
                     "Euros Fantasy Euros EuroFantasy"
                 ],
                 "GPE": [
+                    "https://gaming.uefa.com/en/uefaeuro2020fantasyfootball/leagues/58OPBSKD08/0046004D004C002000460050004C/FML%20FPL",
                     "France",
-                    "Discord"
+                    "Discord",
+                    "FantasyPremierLeague"
                 ],
                 "NORP": [
-                    "href=\"http://fmlfpl.com/"
+                    "Chess"
+                ],
+                "MONEY": [
+                    "#FPL #"
                 ]
             }
         },
@@ -2194,6 +2477,9 @@
             "pubDate": "Fri, 28 May 2021 07:42:51 GMT",
             "title": "Ep. 296 - Post-Mortem Season Review - What Happens When You Die?",
             "entities": {
+                "QUANTITY": [
+                    "a ton"
+                ],
                 "DATE": [
                     "this season",
                     "season to season",
@@ -2201,11 +2487,13 @@
                 ],
                 "PERSON": [
                     "Walsh",
-                    "li>23:28 - Theo Epstein",
+                    "Outro",
+                    "WGTA Thread",
                     "Theo Epstein",
                     "Bill Simmons",
                     "Theo",
-                    "@FMLFPL"
+                    "@FMLFPL",
+                    "https://www.twitch.tv/fmlfpl"
                 ],
                 "ORDINAL": [
                     "second"
@@ -2213,15 +2501,27 @@
                 "ORG": [
                     "Alon",
                     "COVID",
-                    "target=\"_blank\">https://twitter.com/WGTA_FPL/status/1397932630625198081</a></p>\n<p",
+                    "Discord\n  ",
                     "NBA",
-                    "target=\"_blank\">https://www.twitch.tv"
+                    "Fantasy Premier League",
+                    "PremierLeague"
+                ],
+                "NORP": [
+                    "\u2019s"
+                ],
+                "CARDINAL": [
+                    "11:35",
+                    "39:43",
+                    "49:37"
                 ],
                 "TIME": [
                     "30 minutes"
                 ],
-                "NORP": [
-                    "href=\"http://fmlfpl.com/"
+                "MONEY": [
+                    "#FPL #"
+                ],
+                "GPE": [
+                    "FantasyPremierLeague"
                 ]
             }
         },
@@ -2248,21 +2548,32 @@
             "pubDate": "Fri, 21 May 2021 07:15:26 GMT",
             "title": "Ep. 295 - On to GW38 - Gross Fantasy Perverts",
             "entities": {
-                "PERSON": [
-                    "li>11:28 - VAR",
-                    "@FMLFPL"
+                "FAC": [
+                    "Crystal Palace\n  "
                 ],
                 "ORG": [
                     "Shit / Walsh\u2019s Balls / Fixtures / Punts / Rants / Tangents / Etc",
+                    "Outro",
                     "Alon",
-                    "Episode 1",
-                    "target=\"_blank\">https://www.twitch.tv"
+                    "Fantasy Premier League",
+                    "PremierLeague"
                 ],
                 "WORK_OF_ART": [
                     "Wide Flank"
                 ],
-                "NORP": [
-                    "href=\"http://fmlfpl.com/"
+                "PERSON": [
+                    "Episode 1",
+                    "@FMLFPL",
+                    "https://www.twitch.tv/fmlfpl"
+                ],
+                "CARDINAL": [
+                    "https://youtu.be/4V-AGdQZDiM"
+                ],
+                "MONEY": [
+                    "#FPL #"
+                ],
+                "GPE": [
+                    "FantasyPremierLeague"
                 ]
             }
         },
@@ -2289,14 +2600,21 @@
             "pubDate": "Mon, 17 May 2021 06:56:06 GMT",
             "title": "Ep. 294 - On to GW37 - To Live Without xHope Is To Cease To Live",
             "entities": {
-                "NORP": [
-                    "href=\"http://fmlfpl.com/"
+                "ORG": [
+                    "Discord\n  31:04",
+                    "Liverpool Win\n  34:23 - Lingard / Bandwagon Guys\n  38:45 - Our Teams / Transfers / Captains",
+                    "Fantasy Premier League",
+                    "PremierLeague"
                 ],
                 "PERSON": [
-                    "@FMLFPL"
+                    "@FMLFPL",
+                    "https://www.twitch.tv/fmlfpl"
                 ],
-                "ORG": [
-                    "target=\"_blank\">https://www.twitch.tv"
+                "MONEY": [
+                    "#FPL #"
+                ],
+                "GPE": [
+                    "FantasyPremierLeague"
                 ]
             }
         },
@@ -2326,16 +2644,28 @@
                 "ORG": [
                     "GW",
                     "FPL",
-                    "target=\"_blank\">https://www.twitch.tv"
+                    "Fantasy Premier League",
+                    "PremierLeague"
                 ],
                 "DATE": [
                     "the season"
                 ],
-                "NORP": [
-                    "href=\"http://fmlfpl.com/"
+                "CARDINAL": [
+                    "13:22",
+                    "46:03"
+                ],
+                "TIME": [
+                    "26:40 -"
                 ],
                 "PERSON": [
-                    "@FMLFPL"
+                    "@FMLFPL",
+                    "https://www.twitch.tv/fmlfpl"
+                ],
+                "MONEY": [
+                    "#FPL #"
+                ],
+                "GPE": [
+                    "FantasyPremierLeague"
                 ]
             }
         },
@@ -2363,21 +2693,25 @@
             "title": "Ep. 292 - On to GW35 - Le Double",
             "entities": {
                 "CARDINAL": [
-                    "35"
+                    "35",
+                    "33:00",
+                    "46:24"
                 ],
                 "ORG": [
-                    "li>33:00 - Kun",
-                    "href=\"https://twitter.com",
-                    "target=\"_blank\">https://www.twitch.tv"
-                ],
-                "MONEY": [
-                    "28"
-                ],
-                "NORP": [
-                    "href=\"http://fmlfpl.com/"
+                    "Discord\n  43:38 -",
+                    "Outro\n\nCitehchants Alternative",
+                    "Fantasy Premier League",
+                    "PremierLeague"
                 ],
                 "PERSON": [
-                    "@FMLFPL"
+                    "@FMLFPL",
+                    "https://www.twitch.tv/fmlfpl"
+                ],
+                "MONEY": [
+                    "#FPL #"
+                ],
+                "GPE": [
+                    "FantasyPremierLeague"
                 ]
             }
         },
@@ -2406,20 +2740,18 @@
             "entities": {
                 "PERSON": [
                     "Mike Goodman",
-                    "@FMLFPL"
+                    "https://twitter.com/doublepivotpod\n",
+                    "@FMLFPL",
+                    "https://www.twitch.tv/fmlfpl"
                 ],
                 "ORG": [
                     "CBS Sports",
-                    "the European Super",
-                    "href=\"https://twitter.com",
-                    "CBS",
-                    "target=\"_blank\">https://www.twitch.tv"
+                    "Alon",
+                    "the European Super League",
+                    "CBS"
                 ],
                 "WORK_OF_ART": [
                     "The Double Pivot Podcast"
-                ],
-                "NORP": [
-                    "href=\"http://fmlfpl.com/"
                 ]
             }
         },
@@ -2449,16 +2781,25 @@
                 "DATE": [
                     "The end of the season"
                 ],
-                "NORP": [
-                    "GW33</li",
-                    "href=\"http://fmlfpl.com/"
-                ],
-                "PERSON": [
-                    "li>25:28 - Questions",
-                    "@FMLFPL"
+                "CARDINAL": [
+                    "17:40",
+                    "25:28",
+                    "53:48"
                 ],
                 "ORG": [
-                    "target=\"_blank\">https://www.twitch.tv"
+                    "Discord\n  39:14 - Random Thoughts\n  44:04",
+                    "Fantasy Premier League",
+                    "PremierLeague"
+                ],
+                "PERSON": [
+                    "@FMLFPL",
+                    "https://www.twitch.tv/fmlfpl"
+                ],
+                "MONEY": [
+                    "#FPL #"
+                ],
+                "GPE": [
+                    "FantasyPremierLeague"
                 ]
             }
         },
@@ -2486,15 +2827,22 @@
             "title": "Ep. 289 - On to GW33 - English as a Second Language",
             "entities": {
                 "PERSON": [
-                    "Kane",
+                    "Mendy / Chelsea",
+                    "Kane Replacements",
                     "Wildcard",
-                    "@FMLFPL"
-                ],
-                "NORP": [
-                    "href=\"http://fmlfpl.com/"
+                    "@FMLFPL",
+                    "https://www.twitch.tv/fmlfpl"
                 ],
                 "ORG": [
-                    "target=\"_blank\">https://www.twitch.tv"
+                    "Discord\n  38:14 - Walsh Wildcard",
+                    "Fantasy Premier League",
+                    "PremierLeague"
+                ],
+                "MONEY": [
+                    "#FPL #"
+                ],
+                "GPE": [
+                    "FantasyPremierLeague"
                 ]
             }
         },
@@ -2522,17 +2870,36 @@
             "title": "Ep. 288 - On to GW32 - Fun",
             "entities": {
                 "ORG": [
-                    "li>11:44 - Lingard / West Ham",
-                    "target=\"_blank\">https://www.twitch.tv"
+                    "Intro / Admin\n 00:31 - Alon\u2019s Wildcard Team and How\u2019d We Do",
+                    "Target\n  ",
+                    "Fantasy Premier League",
+                    "PremierLeague"
+                ],
+                "MONEY": [
+                    "11:44 - Lingard /",
+                    "#FPL #"
+                ],
+                "CARDINAL": [
+                    "17:22",
+                    "24:29",
+                    "29:04",
+                    "34:56",
+                    "39:54",
+                    "42:43",
+                    "48:11"
                 ],
                 "FAC": [
                     "the Beach / Defenses"
                 ],
-                "NORP": [
-                    "href=\"http://fmlfpl.com/"
+                "TIME": [
+                    "44:51 - Our"
                 ],
                 "PERSON": [
-                    "@FMLFPL"
+                    "@FMLFPL",
+                    "https://www.twitch.tv/fmlfpl"
+                ],
+                "GPE": [
+                    "FantasyPremierLeague"
                 ]
             }
         },
@@ -2560,17 +2927,30 @@
             "title": "Ep. 287 - On to GW31 - Alon on Wildcard",
             "entities": {
                 "GPE": [
-                    "Lotta"
+                    "Lotta",
+                    "Liverpool",
+                    "FantasyPremierLeague"
                 ],
                 "ORG": [
                     "Alon on Wildcard",
-                    "target=\"_blank\">https://www.twitch.tv"
+                    "Discord\n  47:23 - Our Teams / Transfers / Captains",
+                    "Fantasy Premier League",
+                    "PremierLeague"
                 ],
-                "NORP": [
-                    "href=\"http://fmlfpl.com/"
+                "CARDINAL": [
+                    "14:48",
+                    "29:00",
+                    "33:48"
+                ],
+                "TIME": [
+                    "21:59 - Spurs Questions"
                 ],
                 "PERSON": [
-                    "@FMLFPL"
+                    "@FMLFPL",
+                    "https://www.twitch.tv/fmlfpl"
+                ],
+                "MONEY": [
+                    "#FPL #"
                 ]
             }
         },
@@ -2597,15 +2977,23 @@
             "pubDate": "Tue, 30 Mar 2021 06:55:25 GMT",
             "title": "Ep. 286 - On to GW30 - Run-in Mailbag",
             "entities": {
-                "ORG": [
-                    "li>19:28 - Lotta",
-                    "target=\"_blank\">https://www.twitch.tv"
-                ],
-                "NORP": [
-                    "href=\"http://fmlfpl.com/"
+                "CARDINAL": [
+                    "15:26",
+                    "37:33"
                 ],
                 "PERSON": [
-                    "@FMLFPL"
+                    "@FMLFPL",
+                    "https://www.twitch.tv/fmlfpl"
+                ],
+                "ORG": [
+                    "Fantasy Premier League",
+                    "PremierLeague"
+                ],
+                "MONEY": [
+                    "#FPL #"
+                ],
+                "GPE": [
+                    "FantasyPremierLeague"
                 ]
             }
         },
@@ -2633,16 +3021,28 @@
             "title": "Ep. 285 - On to Blank GW29 - Dumb Things Work All the Time",
             "entities": {
                 "CARDINAL": [
-                    "four"
-                ],
-                "NORP": [
-                    "href=\"http://fmlfpl.com/"
+                    "four",
+                    "10:29"
                 ],
                 "PERSON": [
-                    "@FMLFPL"
+                    "Leeds\n  ",
+                    "@FMLFPL",
+                    "https://www.twitch.tv/fmlfpl"
+                ],
+                "GPE": [
+                    "Newcastle",
+                    "FantasyPremierLeague"
+                ],
+                "DATE": [
+                    "17:50 - West Ham"
                 ],
                 "ORG": [
-                    "target=\"_blank\">https://www.twitch.tv"
+                    "Discord\n  ",
+                    "Fantasy Premier League",
+                    "PremierLeague"
+                ],
+                "MONEY": [
+                    "#FPL #"
                 ]
             }
         },
@@ -2669,17 +3069,30 @@
             "pubDate": "Tue, 09 Mar 2021 07:03:42 GMT",
             "title": "Ep. 284 - On to GW28 with a Cherry in Our Onion",
             "entities": {
-                "PERSON": [
-                    "Mug",
-                    "Son",
-                    "@FMLFPL"
-                ],
                 "ORG": [
-                    "li>07:13 - Bruno",
-                    "target=\"_blank\">https://www.twitch.tv"
+                    "FPL",
+                    "Discord\n  46:56 - Our Teams / Transfers / Captains",
+                    "Fantasy Premier League",
+                    "PremierLeague"
                 ],
-                "NORP": [
-                    "href=\"http://fmlfpl.com/"
+                "DATE": [
+                    "06:31 - Feb."
+                ],
+                "PERSON": [
+                    "Son",
+                    "@FMLFPL",
+                    "https://www.twitch.tv/fmlfpl"
+                ],
+                "CARDINAL": [
+                    "22:51",
+                    "31:27",
+                    "51:38"
+                ],
+                "MONEY": [
+                    "#FPL #"
+                ],
+                "GPE": [
+                    "FantasyPremierLeague"
                 ]
             }
         },
@@ -2707,15 +3120,27 @@
             "title": "Ep. 283 - On to GW26 Part II with Seven Matches To Go and Walsh on Wildcard",
             "entities": {
                 "NORP": [
-                    "Shortish",
-                    "href=\"http://fmlfpl.com/"
-                ],
-                "PERSON": [
-                    "li>27:59 - Question(s",
-                    "@FMLFPL"
+                    "Shortish"
                 ],
                 "ORG": [
-                    "target=\"_blank\">https://www.twitch.tv"
+                    "No Leagues Update\n  05:07 - Tottenham Hotspur\n  16:04 - Mid-priced",
+                    "Discord\n  ",
+                    "Fantasy Premier League",
+                    "PremierLeague"
+                ],
+                "CARDINAL": [
+                    "23:16"
+                ],
+                "PERSON": [
+                    "Wildcard Update",
+                    "@FMLFPL",
+                    "https://www.twitch.tv/fmlfpl"
+                ],
+                "MONEY": [
+                    "#FPL #"
+                ],
+                "GPE": [
+                    "FantasyPremierLeague"
                 ]
             }
         },
@@ -2742,14 +3167,27 @@
             "pubDate": "Wed, 24 Feb 2021 06:48:49 GMT",
             "title": "Ep. 282 - On to GW26 - It's Double Pleasure To Deceive the Deceiver",
             "entities": {
-                "NORP": [
-                    "href=\"http://fmlfpl.com/"
+                "ORG": [
+                    "Intro / Admin\n 00:50 - How\u2019d We Do",
+                    "Discord\n  ",
+                    "Fantasy Premier League",
+                    "PremierLeague"
+                ],
+                "CARDINAL": [
+                    "13:18",
+                    "29:50",
+                    "35:37",
+                    "56:00"
                 ],
                 "PERSON": [
-                    "@FMLFPL"
+                    "@FMLFPL",
+                    "https://www.twitch.tv/fmlfpl"
                 ],
-                "ORG": [
-                    "target=\"_blank\">https://www.twitch.tv"
+                "MONEY": [
+                    "#FPL #"
+                ],
+                "GPE": [
+                    "FantasyPremierLeague"
                 ]
             }
         },
@@ -2779,18 +3217,23 @@
                 "DATE": [
                     "this week"
                 ],
+                "GPE": [
+                    "\u2019s",
+                    "FantasyPremierLeague"
+                ],
                 "ORG": [
-                    "City Defenders / Form",
-                    "target=\"_blank\">https://www.twitch.tv"
-                ],
-                "QUANTITY": [
-                    "25 Questions</li"
-                ],
-                "NORP": [
-                    "href=\"http://fmlfpl.com/"
+                    "No Leagues Update",
+                    "City Defenders / Form Players",
+                    "Discord\n  ",
+                    "Fantasy Premier League",
+                    "PremierLeague"
                 ],
                 "PERSON": [
-                    "@FMLFPL"
+                    "@FMLFPL",
+                    "https://www.twitch.tv/fmlfpl"
+                ],
+                "MONEY": [
+                    "#FPL #"
                 ]
             }
         },
@@ -2819,17 +3262,31 @@
             "entities": {
                 "GPE": [
                     "Lotta",
-                    "lotta"
+                    "lotta",
+                    "FantasyPremierLeague"
+                ],
+                "DATE": [
+                    "2021"
                 ],
                 "ORG": [
-                    "href=\"https://fantasy.premierleague.com",
-                    "target=\"_blank\">https://www.twitch.tv"
+                    "FML",
+                    "Join Public League",
+                    "Intro / Admin / FML FPL Patreon Change Name Cup",
+                    "04:35 - Leagues Update",
+                    "Discord\n  43:28 - Our Teams / Transfers / Caps",
+                    "Fantasy Premier League",
+                    "PremierLeague"
                 ],
-                "NORP": [
-                    "href=\"http://fmlfpl.com/"
+                "CARDINAL": [
+                    "24:14",
+                    "28:16"
                 ],
                 "PERSON": [
-                    "@FMLFPL"
+                    "@FMLFPL",
+                    "https://www.twitch.tv/fmlfpl"
+                ],
+                "MONEY": [
+                    "#FPL #"
                 ]
             }
         },
@@ -2856,26 +3313,43 @@
             "pubDate": "Thu, 04 Feb 2021 08:11:44 GMT",
             "title": "Ep. 279 - On to GW23 with The FML FPL Patreon Cup",
             "entities": {
-                "GPE": [
-                    "Man"
+                "EVENT": [
+                    "Cup"
                 ],
                 "DATE": [
+                    "2021",
                     "monthly"
+                ],
+                "ORG": [
+                    "FML",
+                    "Intro / Admin / FML FPL Patreon Change Name Cup / Annual Patreon",
+                    "No Leagues Update\n  07:33 - Transfer",
+                    "Discord\n  47:57 - Our Teams / Transfers / Caps",
+                    "Fantasy Premier League",
+                    "PremierLeague"
+                ],
+                "CARDINAL": [
+                    "10:23",
+                    "13:38",
+                    "30:23"
+                ],
+                "GPE": [
+                    "Man",
+                    "FantasyPremierLeague"
+                ],
+                "TIME": [
+                    "24:53 - West"
+                ],
+                "PERSON": [
+                    "Outro",
+                    "@FMLFPL",
+                    "https://www.twitch.tv/fmlfpl"
                 ],
                 "PRODUCT": [
                     "Patreon"
                 ],
-                "ORDINAL": [
-                    "43bc"
-                ],
-                "NORP": [
-                    "href=\"http://fmlfpl.com/"
-                ],
-                "PERSON": [
-                    "@FMLFPL"
-                ],
-                "ORG": [
-                    "target=\"_blank\">https://www.twitch.tv"
+                "MONEY": [
+                    "#FPL #"
                 ]
             }
         },
@@ -2903,19 +3377,23 @@
             "title": "Ep. 278 - On to GW22 - We\u2019re Testy (and Tired)",
             "entities": {
                 "CARDINAL": [
-                    "two"
+                    "two",
+                    "20:37"
                 ],
                 "TIME": [
-                    "an hour"
+                    "an hour",
+                    "08:28 - Spurs Performance / Leicester"
                 ],
-                "NORP": [
-                    "href=\"http://fmlfpl.com/"
-                ],
-                "PERSON": [
-                    "@FMLFPL"
+                "DATE": [
+                    "12:07 - Son"
                 ],
                 "ORG": [
-                    "target=\"_blank\">https://www.twitch.tv"
+                    "Discord\n  ",
+                    "Fantasy Premier League"
+                ],
+                "PERSON": [
+                    "@FMLFPL",
+                    "https://www.twitch.tv/fmlfpl"
                 ]
             }
         },
@@ -2944,13 +3422,25 @@
             "entities": {
                 "ORG": [
                     "FPL",
-                    "target=\"_blank\">https://www.twitch.tv"
+                    "Intro / Admin\n 00:54",
+                    "05:57 - Leagues Update",
+                    "Fantasy Premier League",
+                    "PremierLeague"
                 ],
-                "NORP": [
-                    "href=\"http://fmlfpl.com/"
+                "GPE": [
+                    "\u2019s",
+                    "Discord",
+                    "FantasyPremierLeague"
+                ],
+                "CARDINAL": [
+                    "51:58"
                 ],
                 "PERSON": [
-                    "@FMLFPL"
+                    "@FMLFPL",
+                    "https://www.twitch.tv/fmlfpl"
+                ],
+                "MONEY": [
+                    "#FPL #"
                 ]
             }
         },
@@ -2977,14 +3467,22 @@
             "pubDate": "Fri, 22 Jan 2021 08:30:56 GMT",
             "title": "Ep. 276 - On to GW20 - CHANGE NAME",
             "entities": {
-                "NORP": [
-                    "href=\"http://fmlfpl.com/"
-                ],
                 "PERSON": [
-                    "@FMLFPL"
+                    "Sorta",
+                    "@FMLFPL",
+                    "https://www.twitch.tv/fmlfpl"
+                ],
+                "GPE": [
+                    "Discord",
+                    "FantasyPremierLeague"
                 ],
                 "ORG": [
-                    "target=\"_blank\">https://www.twitch.tv"
+                    "01:03:49 - Anus Slap(s",
+                    "Fantasy Premier League",
+                    "PremierLeague"
+                ],
+                "MONEY": [
+                    "#FPL #"
                 ]
             }
         },
@@ -3015,22 +3513,34 @@
                     "this week",
                     "just a couple days"
                 ],
+                "GPE": [
+                    "\u2019s",
+                    "FantasyPremierLeague"
+                ],
+                "ORG": [
+                    "No Leagues Update",
+                    "Discord\n  47:07 - Our Teams / Aston Villa Outbreak / Transfers / Caps",
+                    "Burnley",
+                    "Fantasy Premier League",
+                    "PremierLeague"
+                ],
+                "CARDINAL": [
+                    "11:17",
+                    "34:20",
+                    "36:31"
+                ],
                 "PERSON": [
                     "Paul",
                     "Bruno",
+                    "Paul\n  15:25 -",
+                    "Outro",
                     "Bruno",
                     "Paul",
-                    "@FMLFPL"
+                    "@FMLFPL",
+                    "https://www.twitch.tv/fmlfpl"
                 ],
-                "CARDINAL": [
-                    "19"
-                ],
-                "ORG": [
-                    "Burnley",
-                    "target=\"_blank\">https://www.twitch.tv"
-                ],
-                "NORP": [
-                    "href=\"http://fmlfpl.com/"
+                "MONEY": [
+                    "#FPL #"
                 ]
             }
         },
@@ -3057,14 +3567,19 @@
             "pubDate": "Tue, 05 Jan 2021 07:54:01 GMT",
             "title": "Ep. 274 - On to GW18 - Soul Evisceration",
             "entities": {
-                "NORP": [
-                    "href=\"http://fmlfpl.com/"
-                ],
                 "PERSON": [
-                    "@FMLFPL"
+                    "@FMLFPL",
+                    "https://www.twitch.tv/fmlfpl"
                 ],
                 "ORG": [
-                    "target=\"_blank\">https://www.twitch.tv"
+                    "Fantasy Premier League",
+                    "PremierLeague"
+                ],
+                "MONEY": [
+                    "#FPL #"
+                ],
+                "GPE": [
+                    "FantasyPremierLeague"
                 ]
             }
         },
@@ -3096,17 +3611,27 @@
                 ],
                 "ORG": [
                     "FPL",
-                    "li>02:54 - Leagues",
-                    "target=\"_blank\">https://www.twitch.tv"
+                    "Discord\n  ",
+                    "Fantasy Premier League",
+                    "PremierLeague"
+                ],
+                "EVENT": [
+                    "New Year"
+                ],
+                "CARDINAL": [
+                    "17:19",
+                    "40:10"
                 ],
                 "GPE": [
-                    "New Year!</p"
-                ],
-                "NORP": [
-                    "href=\"http://fmlfpl.com/"
+                    "Dallas",
+                    "FantasyPremierLeague"
                 ],
                 "PERSON": [
-                    "@FMLFPL"
+                    "@FMLFPL",
+                    "https://www.twitch.tv/fmlfpl"
+                ],
+                "MONEY": [
+                    "#FPL #"
                 ]
             }
         },
@@ -3134,17 +3659,27 @@
             "title": "Ep. 272 - On to GW15 - Scams and Frauds",
             "entities": {
                 "PERSON": [
+                    "Dark Alon",
                     "Walsh",
-                    "@FMLFPL"
+                    "@FMLFPL",
+                    "https://www.twitch.tv/fmlfpl"
                 ],
-                "PRODUCT": [
-                    "KdB</li"
-                ],
-                "NORP": [
-                    "href=\"http://fmlfpl.com/"
+                "CARDINAL": [
+                    "10:34",
+                    "42:22",
+                    "52:22"
                 ],
                 "ORG": [
-                    "target=\"_blank\">https://www.twitch.tv"
+                    "KdB\n  20:14 - Spurs Questions\n  32:01 - Defender Questions\n  ",
+                    "Discord\n  ",
+                    "Fantasy Premier League",
+                    "PremierLeague"
+                ],
+                "MONEY": [
+                    "#FPL #"
+                ],
+                "GPE": [
+                    "FantasyPremierLeague"
                 ]
             }
         },
@@ -3173,15 +3708,20 @@
             "entities": {
                 "PERSON": [
                     "Kevin",
-                    "li>26:28 - Questions",
-                    "@FMLFPL"
+                    "@FMLFPL",
+                    "https://www.twitch.tv/fmlfpl"
                 ],
                 "ORG": [
-                    "li>22:16 - Liverpool / Trent",
-                    "target=\"_blank\">https://www.twitch.tv"
+                    "22:16 - Liverpool / Trent / Robbo\n  ",
+                    "Discord\n  32:20 - Big Sam",
+                    "Fantasy Premier League",
+                    "PremierLeague"
                 ],
-                "NORP": [
-                    "href=\"http://fmlfpl.com/"
+                "MONEY": [
+                    "#FPL #"
+                ],
+                "GPE": [
+                    "FantasyPremierLeague"
                 ]
             }
         },
@@ -3208,23 +3748,35 @@
             "pubDate": "Mon, 14 Dec 2020 08:32:05 GMT",
             "title": "Ep. 270 - On to GW13 - Ranting and Raving",
             "entities": {
+                "ORG": [
+                    "Alon",
+                    "Fantasy Premier League",
+                    "PremierLeague"
+                ],
                 "DATE": [
                     "an entire weekend"
                 ],
                 "CARDINAL": [
-                    "half"
+                    "half",
+                    "10:22",
+                    "19:25",
+                    "22:24",
+                    "50:31"
                 ],
                 "PERSON": [
                     "Walsh",
-                    "Jota",
-                    "Leeds",
-                    "@FMLFPL"
+                    "Chelsea",
+                    "@FMLFPL",
+                    "https://www.twitch.tv/fmlfpl"
                 ],
-                "NORP": [
-                    "href=\"http://fmlfpl.com/"
+                "FAC": [
+                    "Discord\n  41:04 - Brighton &"
                 ],
-                "ORG": [
-                    "target=\"_blank\">https://www.twitch.tv"
+                "MONEY": [
+                    "#FPL #"
+                ],
+                "GPE": [
+                    "FantasyPremierLeague"
                 ]
             }
         },
@@ -3251,14 +3803,26 @@
             "pubDate": "Tue, 08 Dec 2020 08:37:14 GMT",
             "title": "Ep. 269 - On to GW12 - Ready for Liftoff",
             "entities": {
-                "NORP": [
-                    "href=\"http://fmlfpl.com/"
+                "TIME": [
+                    "01:10 - How\u2019d We"
                 ],
-                "PERSON": [
-                    "@FMLFPL"
+                "CARDINAL": [
+                    "23:52"
                 ],
                 "ORG": [
-                    "target=\"_blank\">https://www.twitch.tv"
+                    "Discord\n  53:05 - Our Teams / Transfers / Caps",
+                    "Fantasy Premier League",
+                    "PremierLeague"
+                ],
+                "PERSON": [
+                    "@FMLFPL",
+                    "https://www.twitch.tv/fmlfpl"
+                ],
+                "MONEY": [
+                    "#FPL #"
+                ],
+                "GPE": [
+                    "FantasyPremierLeague"
                 ]
             }
         },
@@ -3286,17 +3850,24 @@
             "title": "Ep. 268 - On to GW11 - Match of the Day Surprise",
             "entities": {
                 "GPE": [
-                    "Lotta"
+                    "Lotta",
+                    "FantasyPremierLeague"
                 ],
                 "ORG": [
                     "FPL",
-                    "target=\"_blank\">https://www.twitch.tv"
+                    "Discord\n  46:23 - Fulham Argument",
+                    "Fantasy Premier League",
+                    "PremierLeague"
                 ],
-                "NORP": [
-                    "href=\"http://fmlfpl.com/"
+                "CARDINAL": [
+                    "20:49"
                 ],
                 "PERSON": [
-                    "@FMLFPL"
+                    "@FMLFPL",
+                    "https://www.twitch.tv/fmlfpl"
+                ],
+                "MONEY": [
+                    "#FPL #"
                 ]
             }
         },
@@ -3325,14 +3896,20 @@
             "entities": {
                 "ORG": [
                     "ICT",
-                    "target=\"_blank\">https://www.twitch.tv"
+                    "Discord\n  57:50 - Our Teams / Transfers / Caps",
+                    "Fantasy Premier League",
+                    "PremierLeague"
+                ],
+                "GPE": [
+                    "\u2019s",
+                    "FantasyPremierLeague"
                 ],
                 "PERSON": [
-                    "<li>15:01 - ICT",
-                    "@FMLFPL"
+                    "@FMLFPL",
+                    "https://www.twitch.tv/fmlfpl"
                 ],
-                "NORP": [
-                    "href=\"http://fmlfpl.com/"
+                "MONEY": [
+                    "#FPL #"
                 ]
             }
         },
@@ -3362,14 +3939,25 @@
                 "FAC": [
                     "International Break Wild West"
                 ],
-                "NORP": [
-                    "href=\"http://fmlfpl.com/"
-                ],
-                "PERSON": [
-                    "@FMLFPL"
+                "GPE": [
+                    "\u2019s",
+                    "Discord",
+                    "FantasyPremierLeague"
                 ],
                 "ORG": [
-                    "target=\"_blank\">https://www.twitch.tv"
+                    "Intro / Admin\n 02:08 -",
+                    "Fantasy Premier League",
+                    "PremierLeague"
+                ],
+                "CARDINAL": [
+                    "24:13"
+                ],
+                "PERSON": [
+                    "@FMLFPL",
+                    "https://www.twitch.tv/fmlfpl"
+                ],
+                "MONEY": [
+                    "#FPL #"
                 ]
             }
         },
@@ -3402,13 +3990,26 @@
                 ],
                 "ORG": [
                     "Champions League",
-                    "target=\"_blank\">https://www.twitch.tv"
+                    "Intro / Admin\n 00:54",
+                    "04:06 - Leagues Updates\n ",
+                    "Fantasy Premier League",
+                    "PremierLeague"
                 ],
-                "NORP": [
-                    "href=\"http://fmlfpl.com/"
+                "CARDINAL": [
+                    "25:10"
+                ],
+                "FAC": [
+                    "Discord\n 37:32"
                 ],
                 "PERSON": [
-                    "@FMLFPL"
+                    "@FMLFPL",
+                    "https://www.twitch.tv/fmlfpl"
+                ],
+                "MONEY": [
+                    "#FPL #"
+                ],
+                "GPE": [
+                    "FantasyPremierLeague"
                 ]
             }
         },
@@ -3437,13 +4038,25 @@
             "entities": {
                 "ORG": [
                     "FPL",
-                    "target=\"_blank\">https://www.twitch.tv"
+                    "Discord\n  45:04 - Bunch of Random Topics\n  59:39 - Our Teams / Transfers / Caps for GW7",
+                    "Fantasy Premier League",
+                    "PremierLeague"
                 ],
-                "NORP": [
-                    "href=\"http://fmlfpl.com/"
+                "TIME": [
+                    "15:11"
+                ],
+                "CARDINAL": [
+                    "19:53"
                 ],
                 "PERSON": [
-                    "@FMLFPL"
+                    "@FMLFPL",
+                    "https://www.twitch.tv/fmlfpl"
+                ],
+                "MONEY": [
+                    "#FPL #"
+                ],
+                "GPE": [
+                    "FantasyPremierLeague"
                 ]
             }
         },
@@ -3473,14 +4086,26 @@
                 "PRODUCT": [
                     "FPL"
                 ],
-                "NORP": [
-                    "href=\"http://fmlfpl.com/"
+                "TIME": [
+                    "16:31 - Leagues Updates"
+                ],
+                "CARDINAL": [
+                    "27:18"
+                ],
+                "GPE": [
+                    "Discord",
+                    "FantasyPremierLeague"
                 ],
                 "PERSON": [
-                    "@FMLFPL"
+                    "@FMLFPL",
+                    "https://www.twitch.tv/fmlfpl"
                 ],
                 "ORG": [
-                    "target=\"_blank\">https://www.twitch.tv"
+                    "Fantasy Premier League",
+                    "PremierLeague"
+                ],
+                "MONEY": [
+                    "#FPL #"
                 ]
             }
         },
@@ -3507,19 +4132,31 @@
             "pubDate": "Sun, 11 Oct 2020 08:11:08 GMT",
             "title": "Ep. 262 - On to GW5 - Not Gonna Work Here Anymore",
             "entities": {
-                "LOC": [
-                    "International Break"
-                ],
                 "NORP": [
-                    "\u2019s",
-                    "href=\"http://fmlfpl.com/"
+                    "\u2019s"
                 ],
                 "PERSON": [
                     "Aston Villa",
-                    "@FMLFPL"
+                    "@FMLFPL",
+                    "https://www.twitch.tv/fmlfpl"
+                ],
+                "TIME": [
+                    "27:17 - Spurs"
+                ],
+                "CARDINAL": [
+                    "36:48",
+                    "42:43"
                 ],
                 "ORG": [
-                    "target=\"_blank\">https://www.twitch.tv"
+                    "Discord\n  ",
+                    "Fantasy Premier League",
+                    "PremierLeague"
+                ],
+                "MONEY": [
+                    "#FPL #"
+                ],
+                "GPE": [
+                    "FantasyPremierLeague"
                 ]
             }
         },
@@ -3548,7 +4185,9 @@
             "entities": {
                 "PERSON": [
                     "David Mooney",
-                    "@FMLFPL"
+                    "https://twitter.com/DavidMooney\nBlue Moon Podcast",
+                    "@FMLFPL",
+                    "https://www.twitch.tv/fmlfpl"
                 ],
                 "GPE": [
                     "Manchester",
@@ -3557,21 +4196,14 @@
                 ],
                 "ORG": [
                     "BBC Radio",
-                    "FPL",
-                    "target=\"_blank\">https://theathletic.com",
-                    "target=\"_blank\">https://www.twitch.tv"
+                    "Alon",
+                    "FPL"
                 ],
                 "PRODUCT": [
                     "the \u201cBlue Moon Podcast"
                 ],
-                "LOC": [
-                    "Blue Moon Podcast"
-                ],
                 "CARDINAL": [
                     "one"
-                ],
-                "NORP": [
-                    "href=\"http://fmlfpl.com/"
                 ]
             }
         },
@@ -3600,16 +4232,24 @@
             "entities": {
                 "ORG": [
                     "FPL",
-                    "target=\"_blank\">https://www.twitch.tv"
+                    "Discord\n  ",
+                    "Fantasy Premier League",
+                    "PremierLeague"
                 ],
                 "GPE": [
-                    "\u2019s"
+                    "\u2019s",
+                    "FantasyPremierLeague"
                 ],
-                "NORP": [
-                    "href=\"http://fmlfpl.com/"
+                "CARDINAL": [
+                    "24:11",
+                    "57:12"
                 ],
                 "PERSON": [
-                    "@FMLFPL"
+                    "@FMLFPL",
+                    "https://www.twitch.tv/fmlfpl"
+                ],
+                "MONEY": [
+                    "#FPL #"
                 ]
             }
         },
@@ -3638,15 +4278,23 @@
             "entities": {
                 "ORG": [
                     "Alon on Wildcard",
-                    "li>08:30 - Leagues",
-                    "target=\"_blank\">https://www.twitch.tv"
+                    "Fantasy Premier League",
+                    "PremierLeague"
+                ],
+                "GPE": [
+                    "\u2019s",
+                    "Discord",
+                    "FantasyPremierLeague"
+                ],
+                "CARDINAL": [
+                    "16:57"
                 ],
                 "PERSON": [
-                    "li>01:11:03 - Alon Wildcard",
-                    "@FMLFPL"
+                    "@FMLFPL",
+                    "https://www.twitch.tv/fmlfpl"
                 ],
-                "NORP": [
-                    "href=\"http://fmlfpl.com/"
+                "MONEY": [
+                    "#FPL #"
                 ]
             }
         },
@@ -3675,20 +4323,25 @@
             "entities": {
                 "ORG": [
                     "Alon",
-                    "FPL",
-                    "target=\"_blank\">https://www.twitch.tv"
+                    "Discord\n  ",
+                    "Fantasy Premier League",
+                    "PremierLeague"
                 ],
                 "GPE": [
-                    "\u2019s"
+                    "\u2019s",
+                    "FantasyPremierLeague"
                 ],
-                "PRODUCT": [
-                    "GW1"
-                ],
-                "NORP": [
-                    "href=\"http://fmlfpl.com/"
+                "CARDINAL": [
+                    "28:52",
+                    "32:12",
+                    "49:01"
                 ],
                 "PERSON": [
-                    "@FMLFPL"
+                    "@FMLFPL",
+                    "https://www.twitch.tv/fmlfpl"
+                ],
+                "MONEY": [
+                    "#FPL #"
                 ]
             }
         },
@@ -3717,13 +4370,26 @@
             "entities": {
                 "ORG": [
                     "FUCKIN",
-                    "target=\"_blank\">https://www.twitch.tv"
+                    "GOOOOOOOOOoooooOOooooOO",
+                    "Discord\n  ",
+                    "Fantasy Premier League",
+                    "PremierLeague"
                 ],
-                "NORP": [
-                    "href=\"http://fmlfpl.com/"
+                "CARDINAL": [
+                    "29:59",
+                    "35:26",
+                    "42:10"
+                ],
+                "GPE": [
+                    "Liverpool",
+                    "FantasyPremierLeague"
                 ],
                 "PERSON": [
-                    "@FMLFPL"
+                    "@FMLFPL",
+                    "https://www.twitch.tv/fmlfpl"
+                ],
+                "MONEY": [
+                    "#FPL #"
                 ]
             }
         },
@@ -3754,22 +4420,30 @@
                     "third"
                 ],
                 "ORG": [
+                    "ICYMI",
                     "254 - Preseason Pod 1/3 - Premium Priced Guys",
-                    "href=\"https://anchor.fm/fmlfpl/episodes/Ep--254---Preseason-Pod-13---Premium-Priced-Guys",
-                    "href=\"https://anchor.fm/fmlfpl",
-                    "target=\"_blank\">https://www.twitch.tv"
+                    "Defenders\n  31:57 - 6.0",
+                    "Fantasy Premier League",
+                    "PremierLeague"
                 ],
                 "CARDINAL": [
                     "255"
                 ],
-                "GPE": [
-                    "Us"
-                ],
                 "NORP": [
-                    "href=\"http://fmlfpl.com/"
+                    "Goalkeepers",
+                    "Forwards"
+                ],
+                "GPE": [
+                    "Us",
+                    "Discord",
+                    "FantasyPremierLeague"
                 ],
                 "PERSON": [
-                    "@FMLFPL"
+                    "@FMLFPL",
+                    "https://www.twitch.tv/fmlfpl"
+                ],
+                "MONEY": [
+                    "#FPL #"
                 ]
             }
         },
@@ -3799,22 +4473,33 @@
                 "CARDINAL": [
                     "two thirds",
                     "5.0",
-                    "8.0-6.5",
-                    "8.0-6.5"
+                    "21:13"
                 ],
                 "DATE": [
-                    "next week"
+                    "next week",
+                    "40:31 - 8.0-6.5"
+                ],
+                "FAC": [
+                    "GW1",
+                    "Palace\n  "
+                ],
+                "ORG": [
+                    "02:16 - Doherty",
+                    "Chelsea",
+                    "Fantasy Premier League",
+                    "PremierLeague"
                 ],
                 "PERSON": [
                     "T. Silva",
-                    "li>11:35 - Eze",
-                    "@FMLFPL"
+                    "@FMLFPL",
+                    "https://www.twitch.tv/fmlfpl"
                 ],
-                "NORP": [
-                    "href=\"http://fmlfpl.com/"
+                "GPE": [
+                    "Shanghai",
+                    "FantasyPremierLeague"
                 ],
-                "ORG": [
-                    "target=\"_blank\">https://www.twitch.tv"
+                "MONEY": [
+                    "#FPL #"
                 ]
             }
         },
@@ -3848,12 +4533,22 @@
                     "Next week"
                 ],
                 "ORG": [
-                    "Beginner"
+                    "Beginner",
+                    "Fantasy Premier League",
+                    "PremierLeague"
+                ],
+                "GPE": [
+                    "Man",
+                    "Discord",
+                    "FantasyPremierLeague"
                 ],
                 "CARDINAL": [
                     "5.5",
                     "5.5",
-                    "#"
+                    "8.5"
+                ],
+                "TIME": [
+                    "01:07:37 - Forwards"
                 ],
                 "PERSON": [
                     "@FMLFPL",
@@ -3861,9 +4556,6 @@
                 ],
                 "MONEY": [
                     "#FPL #"
-                ],
-                "GPE": [
-                    "FantasyPremierLeague"
                 ]
             }
         },
@@ -3900,14 +4592,15 @@
                     "@FMLFPL",
                     "https://www.twitch.tv/fmlfpl"
                 ],
+                "ORG": [
+                    "Fantasy Premier League",
+                    "PremierLeague"
+                ],
                 "MONEY": [
                     "#FPL #"
                 ],
                 "GPE": [
                     "FantasyPremierLeague"
-                ],
-                "CARDINAL": [
-                    "#"
                 ]
             }
         },
@@ -3936,23 +4629,34 @@
             "entities": {
                 "PERSON": [
                     "Walsh",
-                    "@FMLFPL"
-                ],
-                "GPE": [
-                    "Slack",
-                    "UCZikELJczbLKc_40syGKyxg"
+                    "01:01:15 - Mou / Spurs",
+                    "@FMLFPL",
+                    "https://www.twitch.tv/fmlfpl"
                 ],
                 "ORG": [
-                    "Palace",
+                    "Slack to Discord\n 04:37 - Walsh\u2019s",
+                    "Palace Defenses",
                     "DEF",
-                    "target=\"_blank\">https://www.twitch.tv"
+                    "GK\n  ",
+                    "Improve\n  01:30:26 - Man",
+                    "Fantasy Premier League",
+                    "PremierLeague"
+                ],
+                "CARDINAL": [
+                    "25:43",
+                    "29:03"
                 ],
                 "WORK_OF_ART": [
-                    "Set and Forget\u201d Guys</li>\n  <li>39:13 - Some Cheap",
-                    "Spending Nothing"
+                    "Set and Forget\u201d Guys\n  39:13 - Some Cheap Midfielders\n  44:22 - Greenwood\n  45:50 - Saka\n  48:32 - Trossard\n  "
                 ],
-                "NORP": [
-                    "href=\"http://fmlfpl.com/"
+                "DATE": [
+                    "50:57 - Mo"
+                ],
+                "MONEY": [
+                    "#FPL #"
+                ],
+                "GPE": [
+                    "FantasyPremierLeague"
                 ]
             }
         },
@@ -3981,19 +4685,25 @@
             "entities": {
                 "PERSON": [
                     "Walsh",
-                    "@FMLFPL"
+                    "@FMLFPL",
+                    "https://www.twitch.tv/fmlfpl"
+                ],
+                "CARDINAL": [
+                    "20:32",
+                    "44:38",
+                    "48:29"
                 ],
                 "ORG": [
                     "U Defense / Promoted Teams",
-                    "Ings / Injury",
-                    "li>31:40 - Value",
-                    "target=\"_blank\">https://www.twitch.tv"
+                    "29:07 - Ings / Injury",
+                    "Fantasy Premier League",
+                    "PremierLeague"
                 ],
-                "NORP": [
-                    "href=\"http://fmlfpl.com/"
+                "MONEY": [
+                    "#FPL #"
                 ],
                 "GPE": [
-                    "UCZikELJczbLKc_40syGKyxg"
+                    "FantasyPremierLeague"
                 ]
             }
         },
@@ -4022,17 +4732,25 @@
             "entities": {
                 "ORG": [
                     "Alon",
-                    "target=\"_blank\">https://www.twitch.tv"
+                    "Liverpool\n  20:30 - Kane / Spurs\n  ",
+                    "Fantasy Premier League",
+                    "PremierLeague"
                 ],
                 "PERSON": [
                     "Walsh",
-                    "Simple.</p",
-                    "li>20:30 - Kane",
-                    "Current Tinkers</li",
-                    "@FMLFPL"
+                    "Brighton",
+                    "@FMLFPL",
+                    "https://www.twitch.tv/fmlfpl"
                 ],
-                "NORP": [
-                    "href=\"http://fmlfpl.com/"
+                "CARDINAL": [
+                    "29:58",
+                    "56:10"
+                ],
+                "MONEY": [
+                    "#FPL #"
+                ],
+                "GPE": [
+                    "FantasyPremierLeague"
                 ]
             }
         },
@@ -4059,18 +4777,24 @@
             "pubDate": "Fri, 17 Jul 2020 07:33:29 GMT",
             "title": "Ep. 249 - On to GW37+ Kinda Weird Kinda Bad Pod",
             "entities": {
-                "EVENT": [
-                    "Housekeeping / Cup"
+                "ORG": [
+                    "09:39 - Housekeeping / Cup Winner",
+                    "Slack\n  47:09",
+                    "Fantasy Premier League",
+                    "PremierLeague"
+                ],
+                "CARDINAL": [
+                    "30:42"
                 ],
                 "PERSON": [
-                    "<li>19:03 - Free Hit</li",
-                    "@FMLFPL"
+                    "@FMLFPL",
+                    "https://www.twitch.tv/fmlfpl"
                 ],
-                "NORP": [
-                    "href=\"http://fmlfpl.com/"
+                "MONEY": [
+                    "#FPL #"
                 ],
-                "ORG": [
-                    "target=\"_blank\">https://www.twitch.tv"
+                "GPE": [
+                    "FantasyPremierLeague"
                 ]
             }
         },
@@ -4100,21 +4824,26 @@
                 "DATE": [
                     "this week"
                 ],
+                "GPE": [
+                    "\u2019s",
+                    "FantasyPremierLeague"
+                ],
                 "EVENT": [
                     "FA Cup Rotation"
+                ],
+                "TIME": [
+                    "51:25 - GW36+"
                 ],
                 "PERSON": [
                     "@FMLFPL",
                     "https://www.twitch.tv/fmlfpl"
                 ],
+                "ORG": [
+                    "Fantasy Premier League",
+                    "PremierLeague"
+                ],
                 "MONEY": [
                     "#FPL #"
-                ],
-                "GPE": [
-                    "FantasyPremierLeague"
-                ],
-                "CARDINAL": [
-                    "#"
                 ]
             }
         },
@@ -4141,18 +4870,24 @@
             "pubDate": "Fri, 10 Jul 2020 07:33:53 GMT",
             "title": "Ep. 247 - On to GW35+ Punch In Punch Out",
             "entities": {
+                "ORG": [
+                    "Liverpool / Salah\n  43:08 - Chelsea Tangent\n  46:49 - Questions",
+                    "Fantasy Premier League",
+                    "PremierLeague"
+                ],
+                "DATE": [
+                    "59:33 - GW35+"
+                ],
+                "GPE": [
+                    "Transfers",
+                    "FantasyPremierLeague"
+                ],
                 "PERSON": [
                     "@FMLFPL",
                     "https://www.twitch.tv/fmlfpl"
                 ],
                 "MONEY": [
                     "#FPL #"
-                ],
-                "GPE": [
-                    "FantasyPremierLeague"
-                ],
-                "CARDINAL": [
-                    "#"
                 ]
             }
         },
@@ -4179,11 +4914,25 @@
             "pubDate": "Mon, 06 Jul 2020 08:22:07 GMT",
             "title": "Ep. 246 - On to GW34+ with Things You Hate to See",
             "entities": {
+                "CARDINAL": [
+                    "11:13",
+                    "20:58"
+                ],
+                "GPE": [
+                    "Liverpool",
+                    "FantasyPremierLeague"
+                ],
                 "PERSON": [
+                    "Gabriel Jesus",
                     "@FMLFPL"
                 ],
+                "TIME": [
+                    "55:51 - GW34+"
+                ],
                 "ORG": [
-                    "Apple Podcasts"
+                    "Transfers\n  ",
+                    "Apple Podcasts",
+                    "Fantasy Premier League"
                 ],
                 "MONEY": [
                     "#FPL #"
@@ -4213,18 +4962,30 @@
             "pubDate": "Fri, 26 Jun 2020 08:13:23 GMT",
             "title": "Ep. 245 - On to GW32+ with This Is Fine",
             "entities": {
-                "GPE": [
+                "ORG": [
                     "Liverpool",
-                    "Man"
+                    "Apple Podcasts",
+                    "Fantasy Premier League"
                 ],
-                "NORP": [
-                    "href=\"http://fmlfpl.com/"
+                "MONEY": [
+                    "#FPL season"
+                ],
+                "EVENT": [
+                    "FA Cup"
+                ],
+                "TIME": [
+                    "11:55",
+                    "42:46 - Spurs"
+                ],
+                "GPE": [
+                    "Man",
+                    "FantasyPremierLeague"
+                ],
+                "CARDINAL": [
+                    "29:50"
                 ],
                 "PERSON": [
                     "@FMLFPL"
-                ],
-                "ORG": [
-                    "Apple Podcasts"
                 ]
             }
         },
@@ -4251,17 +5012,25 @@
             "pubDate": "Mon, 22 Jun 2020 07:39:59 GMT",
             "title": "Ep. 244 - On to GW31+ with The Beginning of the End",
             "entities": {
+                "ORG": [
+                    "FHers",
+                    "Slack\n  ",
+                    "iTunes",
+                    "Fantasy Premier League"
+                ],
                 "CARDINAL": [
-                    "FHers</li"
+                    "27:16",
+                    "35:37",
+                    "56:31"
                 ],
                 "PERSON": [
                     "@FMLFPL"
                 ],
-                "ORG": [
-                    "iTunes"
-                ],
                 "MONEY": [
                     "#FPL #"
+                ],
+                "GPE": [
+                    "FantasyPremierLeague"
                 ]
             }
         },

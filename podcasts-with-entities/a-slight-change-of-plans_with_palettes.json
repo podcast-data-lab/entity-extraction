@@ -40,8 +40,8 @@
                     "Marisa",
                     "Keep"
                 ],
-                "ORG": [
-                    "href=\"https://drmarisagfranco.com"
+                "WORK_OF_ART": [
+                    "Platonic: How the Science of Attachment Can Help You Make"
                 ]
             }
         },
@@ -75,10 +75,14 @@
                     "Kelly",
                     "Maya",
                     "Kelly",
-                    "Kelly"
+                    "Kelly",
+                    "Kelly Corrigan Wonders"
                 ],
                 "ORG": [
                     "PBS"
+                ],
+                "WORK_OF_ART": [
+                    "Tell Me More"
                 ]
             }
         },
@@ -110,16 +114,14 @@
                     "Jamil Zaki",
                     "Jamil",
                     "Maya",
-                    "Jamil"
+                    "Jamil",
+                    "@DrMayaShankar"
                 ],
                 "ORG": [
                     "Stanford"
                 ],
                 "CARDINAL": [
                     "three"
-                ],
-                "GPE": [
-                    "Instagram"
                 ]
             }
         },
@@ -148,7 +150,8 @@
             "title": "A Science Journalist Tries to Hack Heartbreak",
             "entities": {
                 "PERSON": [
-                    "Florence Williams"
+                    "Florence Williams",
+                    "@DrMayaShankar"
                 ],
                 "CARDINAL": [
                     "twenty-five-year"
@@ -159,9 +162,6 @@
                 ],
                 "WORK_OF_ART": [
                     "Heartbreak: A Personal and Scientific Journey"
-                ],
-                "GPE": [
-                    "Instagram"
                 ]
             }
         },
@@ -199,9 +199,6 @@
                 "PERSON": [
                     "Emily",
                     "Maya"
-                ],
-                "ORG": [
-                    "href=\"https://slate.com"
                 ]
             }
         },
@@ -235,10 +232,8 @@
                 "PERSON": [
                     "Vanessa Bohns",
                     "Maya",
-                    "Vanessa"
-                ],
-                "GPE": [
-                    "Instagram"
+                    "Vanessa",
+                    "@DrMayaShankar"
                 ]
             }
         },
@@ -269,7 +264,8 @@
                 "PERSON": [
                     "Hasan Minhaj",
                     "Hasan",
-                    "Hasan"
+                    "Hasan",
+                    "@DrMayaShankar"
                 ],
                 "ORDINAL": [
                     "second"
@@ -279,9 +275,6 @@
                 ],
                 "WORK_OF_ART": [
                     "The Daily Show"
-                ],
-                "GPE": [
-                    "Instagram"
                 ]
             }
         },
@@ -311,6 +304,9 @@
             "entities": {
                 "ORG": [
                     "Modupe Akinola"
+                ],
+                "LOC": [
+                    "Instagram\u00a0@DrMayaShankar"
                 ]
             }
         },
@@ -338,11 +334,13 @@
             "title": "Coming Soon: Stories about Heartbreak, Empathy, Stress, and Much More!",
             "entities": {
                 "DATE": [
-                    "February 20"
+                    "February 20",
+                    "the season ahead"
                 ],
                 "PERSON": [
                     "Hasan Minhaj",
-                    "Maya"
+                    "Maya",
+                    "@DrMayaShankar"
                 ]
             }
         },
@@ -502,6 +500,12 @@
                 "GPE": [
                     "El Salvador",
                     "the United States"
+                ],
+                "LOC": [
+                    "Instagram\u00a0@DrMayaShankar"
+                ],
+                "ORG": [
+                    "Pushkin.fm"
                 ]
             }
         },
@@ -571,10 +575,14 @@
                     "Pushkin"
                 ],
                 "ORG": [
-                    "Theranos"
+                    "Theranos",
+                    "Pushkin.fm"
                 ],
                 "GPE": [
                     "Holmes"
+                ],
+                "LOC": [
+                    "Instagram\u00a0@DrMayaShankar"
                 ]
             }
         },
@@ -602,12 +610,16 @@
             "pubDate": "Mon, 14 Nov 2022 05:00:00 +0000",
             "title": "The Science of Loneliness",
             "entities": {
-                "GPE": [
-                    "U.S."
+                "ORG": [
+                    "U.S. Surgeon",
+                    "Pushkin.fm"
                 ],
                 "PERSON": [
                     "Vivek Murthy",
                     "Pushkin"
+                ],
+                "LOC": [
+                    "Instagram\u00a0@DrMayaShankar"
                 ]
             }
         },
@@ -643,6 +655,12 @@
                 ],
                 "DATE": [
                     "his thirties"
+                ],
+                "LOC": [
+                    "Instagram\u00a0@DrMayaShankar"
+                ],
+                "ORG": [
+                    "Pushkin.fm"
                 ]
             }
         },
@@ -679,6 +697,12 @@
                 ],
                 "WORK_OF_ART": [
                     "Grammy"
+                ],
+                "LOC": [
+                    "Instagram\u00a0@DrMayaShankar"
+                ],
+                "ORG": [
+                    "Pushkin.fm"
                 ]
             }
         },
@@ -709,6 +733,12 @@
                 "PERSON": [
                     "Annie Duke",
                     "Pushkin"
+                ],
+                "LOC": [
+                    "Instagram\u00a0@DrMayaShankar"
+                ],
+                "ORG": [
+                    "Pushkin.fm"
                 ]
             }
         },
@@ -739,6 +769,12 @@
                 "PERSON": [
                     "Priya Parker",
                     "Pushkin"
+                ],
+                "LOC": [
+                    "Instagram\u00a0@DrMayaShankar"
+                ],
+                "ORG": [
+                    "Pushkin.fm"
                 ]
             }
         },
@@ -775,7 +811,11 @@
                     "decades"
                 ],
                 "ORG": [
-                    "Christy"
+                    "Christy",
+                    "Pushkin.fm"
+                ],
+                "LOC": [
+                    "Instagram\u00a0@DrMayaShankar"
                 ]
             }
         },
@@ -806,6 +846,12 @@
                 "PERSON": [
                     "Daniel Pink",
                     "Pushkin"
+                ],
+                "LOC": [
+                    "Instagram\u00a0@DrMayaShankar"
+                ],
+                "ORG": [
+                    "Pushkin.fm"
                 ]
             }
         },
@@ -852,7 +898,13 @@
                 ],
                 "GPE": [
                     "Louisiana",
-                    "America.</p"
+                    "America"
+                ],
+                "LOC": [
+                    "Instagram\u00a0@DrMayaShankar"
+                ],
+                "ORG": [
+                    "Pushkin.fm"
                 ]
             }
         },
@@ -885,7 +937,8 @@
                     "Each week"
                 ],
                 "PERSON": [
-                    "Pushkin"
+                    "Pushkin",
+                    "Pushkin.fm"
                 ]
             }
         },
@@ -914,7 +967,6 @@
             "entities": {
                 "ORG": [
                     "Meditative Story",
-                    "Instagram",
                     "Meditative Story"
                 ],
                 "DATE": [
@@ -947,14 +999,16 @@
             "title": "A Theranos Whistleblower",
             "entities": {
                 "PERSON": [
-                    "Erika Cheung\u2019s",
+                    "Instagram @DrMayaShankar",
+                    "Erika Cheung",
                     "Pushkin"
                 ],
                 "ORDINAL": [
                     "first"
                 ],
                 "ORG": [
-                    "Theranos"
+                    "Theranos",
+                    "Pushkin.fm"
                 ]
             }
         },
@@ -985,6 +1039,9 @@
                 "PERSON": [
                     "Ayelet Fishbach",
                     "Pushkin"
+                ],
+                "ORG": [
+                    "Pushkin.fm"
                 ]
             }
         },
@@ -1013,8 +1070,15 @@
             "title": "A Holocaust Survivor's Story",
             "entities": {
                 "PERSON": [
+                    "@DrMayaShankar",
                     "Edith Eger",
                     "Pushkin"
+                ],
+                "ORG": [
+                    "Instagram",
+                    "Auschwitz",
+                    "Edith",
+                    "Pushkin.fm"
                 ],
                 "DATE": [
                     "just 16 years old",
@@ -1025,9 +1089,8 @@
                     "Nazis",
                     "Jewish"
                 ],
-                "ORG": [
-                    "Auschwitz",
-                    "Edith"
+                "EVENT": [
+                    "Holocaust"
                 ]
             }
         },
@@ -1056,15 +1119,18 @@
             "title": "Jeopardy! Changed My Life",
             "entities": {
                 "PERSON": [
+                    "@DrMayaShankar",
                     "Scott Menke",
                     "Scott",
                     "Pushkin"
                 ],
+                "ORG": [
+                    "Instagram",
+                    "Jeopardy",
+                    "Pushkin.fm"
+                ],
                 "CARDINAL": [
                     "at least one"
-                ],
-                "ORG": [
-                    "Jeopardy"
                 ]
             }
         },
@@ -1095,13 +1161,12 @@
                 "PERSON": [
                     "Ethan Kross",
                     "Ethan",
+                    "@DrMayaShankar",
                     "Pushkin"
                 ],
                 "ORG": [
-                    "&ldquo;mental"
-                ],
-                "DATE": [
-                    "you&rsquo;d"
+                    "Instagram",
+                    "Pushkin.fm"
                 ]
             }
         },
@@ -1134,7 +1199,10 @@
                     "Pushkin"
                 ],
                 "DATE": [
-                    "you&rsquo;d"
+                    "age 35"
+                ],
+                "ORG": [
+                    "Pushkin.fm"
                 ]
             }
         },
@@ -1162,14 +1230,18 @@
             "pubDate": "Tue, 31 May 2022 07:00:00 +0000",
             "title": "\"I Don't Feel Like a Boy, I Am a Boy\"",
             "entities": {
-                "DATE": [
-                    "three years old",
-                    "you&rsquo;d"
-                ],
                 "PERSON": [
+                    "Jodie Patterson",
                     "Jodie",
-                    "too.&nbsp;</p",
+                    "@DrMayaShankar",
                     "Pushkin"
+                ],
+                "DATE": [
+                    "three years old"
+                ],
+                "ORG": [
+                    "Instagram",
+                    "Pushkin.fm"
                 ]
             }
         },
@@ -1196,12 +1268,12 @@
             "title": "Headspace x Dr. Maya Shankar: Understanding Change",
             "entities": {
                 "ORG": [
-                    "the Radio Headspace Podcast"
+                    "the Radio Headspace Podcast",
+                    "Pushkin.fm"
                 ],
                 "DATE": [
                     "all week",
-                    "this week",
-                    "you&rsquo;d"
+                    "this week"
                 ],
                 "ORDINAL": [
                     "first"
@@ -1235,14 +1307,13 @@
             "title": "Sneak Peek: Season 4 of A Slight Change of Plans!",
             "entities": {
                 "DATE": [
-                    "next week",
-                    "you&rsquo;d"
-                ],
-                "NORP": [
-                    "season!</p"
+                    "next week"
                 ],
                 "PERSON": [
                     "Pushkin"
+                ],
+                "ORG": [
+                    "Pushkin.fm"
                 ]
             }
         },
@@ -1270,8 +1341,7 @@
             "title": "A Conversation About A Slight Change of Plans",
             "entities": {
                 "DATE": [
-                    "the end of this month",
-                    "you&rsquo;d"
+                    "the end of this month"
                 ],
                 "PERSON": [
                     "Maya",
@@ -1279,7 +1349,8 @@
                     "Longform",
                     "Maya",
                     "Max",
-                    "Pushkin"
+                    "Pushkin",
+                    "Pushkin.fm"
                 ],
                 "WORK_OF_ART": [
                     "A Slight Change of Plans"
@@ -1311,7 +1382,7 @@
             "title": "The Thai Cave Rescue",
             "entities": {
                 "PERSON": [
-                    "Richard \"",
+                    "Richard",
                     "Harry\" Harris",
                     "Maya",
                     "Pushkin"
@@ -1321,6 +1392,12 @@
                 ],
                 "GPE": [
                     "Thailand"
+                ],
+                "ORG": [
+                    "Pushkin.fm"
+                ],
+                "PRODUCT": [
+                    "Learn"
                 ]
             }
         },
@@ -1352,6 +1429,12 @@
                     "Julia Samuel",
                     "Maya",
                     "Pushkin"
+                ],
+                "ORG": [
+                    "Pushkin.fm"
+                ],
+                "PRODUCT": [
+                    "Learn"
                 ]
             }
         },
@@ -1391,6 +1474,12 @@
                 "DATE": [
                     "19 years old",
                     "the months"
+                ],
+                "ORG": [
+                    "Pushkin.fm"
+                ],
+                "PRODUCT": [
+                    "Learn"
                 ]
             }
         },
@@ -1432,6 +1521,12 @@
                 "CARDINAL": [
                     "only one",
                     "every 1.5 million"
+                ],
+                "ORG": [
+                    "Pushkin.fm"
+                ],
+                "PRODUCT": [
+                    "Learn"
                 ]
             }
         },
@@ -1474,6 +1569,12 @@
                 ],
                 "GPE": [
                     "North Korea"
+                ],
+                "ORG": [
+                    "Pushkin.fm"
+                ],
+                "PRODUCT": [
+                    "Learn"
                 ]
             }
         },
@@ -1506,6 +1607,12 @@
                     "Maya",
                     "Michael",
                     "Pushkin"
+                ],
+                "ORG": [
+                    "Pushkin.fm"
+                ],
+                "PRODUCT": [
+                    "Learn"
                 ]
             }
         },
@@ -1551,7 +1658,11 @@
                     "Texas"
                 ],
                 "ORG": [
-                    "Anderson Cancer Center"
+                    "Anderson Cancer Center",
+                    "Pushkin.fm"
+                ],
+                "PRODUCT": [
+                    "Learn"
                 ]
             }
         },
@@ -1592,6 +1703,9 @@
                 ],
                 "GPE": [
                     "Glory"
+                ],
+                "PRODUCT": [
+                    "Learn"
                 ]
             }
         },
@@ -1629,6 +1743,12 @@
                 ],
                 "DATE": [
                     "age 24"
+                ],
+                "ORG": [
+                    "Pushkin.fm"
+                ],
+                "PRODUCT": [
+                    "Learn"
                 ]
             }
         },
@@ -1661,6 +1781,9 @@
                 ],
                 "PERSON": [
                     "Pushkin"
+                ],
+                "PRODUCT": [
+                    "Learn"
                 ]
             }
         },
@@ -1700,6 +1823,9 @@
                 "FAC": [
                     "Heartbreak",
                     "Heartbreak"
+                ],
+                "PRODUCT": [
+                    "Learn"
                 ]
             }
         },
@@ -1748,8 +1874,8 @@
                     "Yale",
                     "Bren\u00e9 Brown"
                 ],
-                "CARDINAL": [
-                    "2022.</p><p"
+                "PRODUCT": [
+                    "Learn"
                 ]
             }
         },
@@ -1786,6 +1912,9 @@
                 "DATE": [
                     "2016",
                     "22 years old"
+                ],
+                "PRODUCT": [
+                    "Learn"
                 ]
             }
         },
@@ -1827,6 +1956,9 @@
                 ],
                 "CARDINAL": [
                     "about one"
+                ],
+                "PRODUCT": [
+                    "Learn"
                 ]
             }
         },
@@ -1870,6 +2002,9 @@
                 ],
                 "GPE": [
                     "U.S."
+                ],
+                "PRODUCT": [
+                    "Learn"
                 ]
             }
         },
@@ -1900,6 +2035,9 @@
                 "PERSON": [
                     "Angela Duckworth",
                     "Angela"
+                ],
+                "PRODUCT": [
+                    "Learn"
                 ]
             }
         },
@@ -1940,8 +2078,10 @@
                     "Maya @DrMayaShankar"
                 ],
                 "ORG": [
-                    "Ariana Grande",
-                    "Backstage Pass"
+                    "Ariana Grande"
+                ],
+                "PRODUCT": [
+                    "Learn"
                 ]
             }
         },
@@ -1992,6 +2132,9 @@
                 ],
                 "ORG": [
                     "Gabby"
+                ],
+                "PRODUCT": [
+                    "Learn"
                 ]
             }
         },
@@ -2029,6 +2172,9 @@
                 ],
                 "CARDINAL": [
                     "one"
+                ],
+                "PRODUCT": [
+                    "Learn"
                 ]
             }
         },
@@ -2059,6 +2205,9 @@
                 "PERSON": [
                     "Annie Duke",
                     "Maya @DrMayaShankar"
+                ],
+                "PRODUCT": [
+                    "Learn"
                 ]
             }
         },
@@ -2087,8 +2236,12 @@
             "title": "Riz Ahmed Plays Himself",
             "entities": {
                 "PERSON": [
+                    "Oscar-Nominated",
                     "Riz Ahmed",
                     "Maya @DrMayaShankar"
+                ],
+                "PRODUCT": [
+                    "Learn"
                 ]
             }
         },
@@ -2127,6 +2280,9 @@
                 ],
                 "WORK_OF_ART": [
                     "Slight Change of Plans"
+                ],
+                "PRODUCT": [
+                    "Learn"
                 ]
             }
         },
@@ -2170,6 +2326,9 @@
                 ],
                 "CARDINAL": [
                     "50 or"
+                ],
+                "PRODUCT": [
+                    "Learn"
                 ]
             }
         },
@@ -2198,6 +2357,9 @@
             "entities": {
                 "PERSON": [
                     "Maya @DrMayaShankar"
+                ],
+                "PRODUCT": [
+                    "Learn"
                 ]
             }
         },
@@ -2230,10 +2392,9 @@
                 ],
                 "DATE": [
                     "Monday",
-                    "October 11th!</strong></p><p"
+                    "October 11th!Maya"
                 ],
                 "PERSON": [
-                    "Maya",
                     "Laurie Santos",
                     "Maya",
                     "Laurie",
@@ -2241,6 +2402,9 @@
                 ],
                 "ORG": [
                     "The Happiness Lab"
+                ],
+                "PRODUCT": [
+                    "Learn"
                 ]
             }
         },
@@ -2272,6 +2436,9 @@
                 "PERSON": [
                     "Kacey Musgraves",
                     "Maya @DrMayaShankar"
+                ],
+                "PRODUCT": [
+                    "Learn"
                 ]
             }
         },
@@ -2306,6 +2473,9 @@
                 ],
                 "DATE": [
                     "20 years old"
+                ],
+                "PRODUCT": [
+                    "Learn"
                 ]
             }
         },
@@ -2333,9 +2503,14 @@
             "pubDate": "Thu, 22 Jul 2021 07:02:00 +0000",
             "title": "I'm Not as Free as I Thought ",
             "entities": {
+                "ORG": [
+                    "Morgan Givens"
+                ],
                 "PERSON": [
-                    "Morgan Givens",
                     "Maya @DrMayaShankar"
+                ],
+                "PRODUCT": [
+                    "Learn"
                 ]
             }
         },
@@ -2363,11 +2538,17 @@
             "pubDate": "Thu, 15 Jul 2021 07:02:00 +0000",
             "title": "The Life-Changing Diagnosis",
             "entities": {
+                "ORG": [
+                    "Scott"
+                ],
                 "CARDINAL": [
                     "4"
                 ],
                 "PERSON": [
                     "Maya @DrMayaShankar"
+                ],
+                "PRODUCT": [
+                    "Learn"
                 ]
             }
         },
@@ -2406,6 +2587,9 @@
                 ],
                 "DATE": [
                     "five months"
+                ],
+                "PRODUCT": [
+                    "Learn"
                 ]
             }
         },
@@ -2437,7 +2621,8 @@
                     "Adam Grant",
                     "Maya",
                     "Adam",
-                    "Maya @DrMayaShankar"
+                    "Maya @DrMayaShankar",
+                    "Learn"
                 ]
             }
         },
@@ -2480,6 +2665,9 @@
                 ],
                 "DATE": [
                     "one day"
+                ],
+                "PRODUCT": [
+                    "Learn"
                 ]
             }
         },
@@ -2511,6 +2699,9 @@
                 "PERSON": [
                     "Tommy Caldwell's",
                     "Maya @DrMayaShankar"
+                ],
+                "PRODUCT": [
+                    "Learn"
                 ]
             }
         },
@@ -2542,6 +2733,9 @@
                     "Maya",
                     "Katy Milkman",
                     "Maya @DrMayaShankar"
+                ],
+                "PRODUCT": [
+                    "Learn"
                 ]
             }
         },
@@ -2581,6 +2775,9 @@
                 ],
                 "GPE": [
                     "Arkansas"
+                ],
+                "PRODUCT": [
+                    "Learn"
                 ]
             }
         },
@@ -2614,6 +2811,9 @@
                 ],
                 "PERSON": [
                     "Maya @DrMayaShankar"
+                ],
+                "PRODUCT": [
+                    "Learn"
                 ]
             }
         },
@@ -2648,6 +2848,9 @@
                 ],
                 "CARDINAL": [
                     "hundreds"
+                ],
+                "PRODUCT": [
+                    "Learn"
                 ]
             }
         },
@@ -2677,8 +2880,11 @@
             "entities": {
                 "PERSON": [
                     "Maya Shankar",
-                    "Michael Lewis.</p><p",
+                    "Michael Lewis",
                     "Maya @DrMayaShankar"
+                ],
+                "PRODUCT": [
+                    "Learn"
                 ]
             }
         },
@@ -2706,7 +2912,10 @@
             "title": "Introducing A Slight Change of Plans",
             "entities": {
                 "PERSON": [
-                    "Maya"
+                    "Maya Shankar"
+                ],
+                "PRODUCT": [
+                    "Learn"
                 ]
             }
         }
@@ -2747,18 +2956,8 @@
     ],
     "title": "A Slight Change of Plans",
     "entities": {
-        "ORG": [
-            "Apple Podcasts",
-            "the Juilliard School",
-            "Rhodes Scholar",
-            "KKK"
-        ],
-        "WORK_OF_ART": [
-            "Best Show of the Year 2021 Editor's Note:",
-            "PhD",
-            "Best Show of the Year"
-        ],
         "PERSON": [
+            "@DrMayaShankar",
             "Maya Shankar",
             "Maya",
             "Shankar",
@@ -2774,6 +2973,18 @@
             "Adam Grant",
             "Angela Duckworth",
             "Shankar"
+        ],
+        "ORG": [
+            "Instagram",
+            "Apple Podcasts",
+            "the Juilliard School",
+            "Rhodes Scholar",
+            "KKK"
+        ],
+        "WORK_OF_ART": [
+            "Best Show of the Year 2021 Editor's Note:",
+            "PhD",
+            "Best Show of the Year"
         ],
         "DATE": [
             "2021",

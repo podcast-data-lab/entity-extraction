@@ -272,6 +272,9 @@
                 ],
                 "WORK_OF_ART": [
                     "The Sunday Story"
+                ],
+                "ORDINAL": [
+                    "First"
                 ]
             }
         },
@@ -549,7 +552,8 @@
                     "Rodney Carmichael"
                 ],
                 "ORG": [
-                    "Megan Thee Stallion"
+                    "Megan Thee Stallion",
+                    "Louder Than A Riot"
                 ],
                 "WORK_OF_ART": [
                     "The Sunday Story"
@@ -1458,6 +1462,10 @@
                 ],
                 "ORDINAL": [
                     "first"
+                ],
+                "ORG": [
+                    "Taking Cover",
+                    "NPR"
                 ]
             }
         },
@@ -1738,11 +1746,12 @@
                 "WORK_OF_ART": [
                     "Women's History Month"
                 ],
+                "ORG": [
+                    "Untold Power: The Fascinating Rise",
+                    "First Lady Edith Wilson"
+                ],
                 "NORP": [
                     "Complex"
-                ],
-                "ORG": [
-                    "First Lady Edith"
                 ]
             }
         },
@@ -1997,8 +2006,7 @@
                 "DATE": [
                     "Three years ago",
                     "March 11, 2020",
-                    "Today",
-                    "a href=\"https://www.npr.org/series/1149850650"
+                    "Today"
                 ],
                 "ORG": [
                     "the World Health Organization",
@@ -2009,6 +2017,9 @@
                 ],
                 "PERSON": [
                     "Ari Daniel"
+                ],
+                "WORK_OF_ART": [
+                    "Hidden Viruses: How Pandemics Really Begin"
                 ],
                 "GPE": [
                     "Bangladesh",
@@ -2292,18 +2303,22 @@
                 ],
                 "ORG": [
                     "Academy Awards Ceremony",
+                    "The Banshees of Inisherin",
                     "the Academy of Motion Picture Arts and Sciences"
                 ],
                 "DATE": [
                     "year",
-                    "This week"
+                    "This week",
+                    "Sunday"
                 ],
                 "WORK_OF_ART": [
-                    "Everything Everywhere All At",
-                    "The Banshees of Inisherin"
+                    "Everything Everywhere All At Once"
                 ],
                 "NORP": [
                     "Irish"
+                ],
+                "EVENT": [
+                    "Pop Culture Happy Hour"
                 ],
                 "LAW": [
                     "the Best Picture Category"
@@ -2620,7 +2635,8 @@
                 "PERSON": [
                     "Rachel Martin",
                     "Anna King",
-                    "Cody Easterday"
+                    "Cody Easterday",
+                    "Ghost Herd"
                 ],
                 "ORG": [
                     "Northwest Public Broadcasting",
@@ -3564,6 +3580,7 @@
                 ],
                 "ORG": [
                     "NPR",
+                    "White Lies",
                     "Beck Grace"
                 ],
                 "PERSON": [
@@ -3863,16 +3880,14 @@
                 "PERSON": [
                     "Ari Shapiro",
                     "Ari",
-                    "Ari",
-                    "href=\"https://www.npr.org/2023/01/20/1150359834"
+                    "Ari"
                 ],
                 "ORDINAL": [
                     "third",
                     "First"
                 ],
                 "LAW": [
-                    "Chapter 1</strong></em></a><em><strong",
-                    "Chapter 2</strong></em></a><em><strong"
+                    "Chapter 1 and Chapter 2"
                 ]
             }
         },
@@ -4129,7 +4144,10 @@
                 "DATE": [
                     "Every year",
                     "years",
-                    "This week"
+                    "Last week",
+                    "Sunday",
+                    "This week",
+                    "next Sunday"
                 ],
                 "CARDINAL": [
                     "thousands",
@@ -4153,7 +4171,8 @@
                     "Senegalese",
                     "North Africa",
                     "Spain",
-                    "Nador"
+                    "Nador",
+                    "Morocco"
                 ],
                 "PERSON": [
                     "Melilla",

@@ -29,8 +29,7 @@
             "title": "Episode 353: Easter outage and unethical things",
             "entities": {
                 "PERSON": [
-                    "Dave",
-                    "Dot Dev"
+                    "Dave"
                 ],
                 "ORG": [
                     "Jamison"
@@ -163,7 +162,8 @@
                     "two months ago"
                 ],
                 "CARDINAL": [
-                    "3"
+                    "3",
+                    "4"
                 ]
             }
         },
@@ -188,13 +188,11 @@
             "title": "Episode 350: Bombing a technical interview and background vetting",
             "entities": {
                 "PERSON": [
-                    "Dave"
+                    "Dave",
+                    "Dustin"
                 ],
                 "ORG": [
                     "Jamison"
-                ],
-                "NORP": [
-                    "Dustin"
                 ],
                 "PRODUCT": [
                     "I\u2019m 28"
@@ -262,7 +260,6 @@
             "title": "Episode 348: Making too many mistakes and low code career risk",
             "entities": {
                 "PERSON": [
-                    "Dave",
                     "Dave"
                 ],
                 "ORG": [
@@ -334,12 +331,10 @@
             "title": "Episode 346: Changing jobs with no raise and wrangling a cowboy coder",
             "entities": {
                 "PERSON": [
-                    "Dave",
-                    "Jamison,</p"
+                    "Dave"
                 ],
                 "ORG": [
-                    "Jamison",
-                    "Dave &"
+                    "Jamison"
                 ],
                 "ORDINAL": [
                     "first",
@@ -374,7 +369,8 @@
             "title": "Episode 345: Head of Engineering vs writing code and Voluntary Severance",
             "entities": {
                 "PERSON": [
-                    "Dave"
+                    "Dave",
+                    "Show Notes\n\n  https://charity.wtf/2019/01/04/engineering-management-the-pendulum-or-the-ladder/"
                 ],
                 "ORG": [
                     "Jamison",
@@ -411,7 +407,6 @@
             "entities": {
                 "PERSON": [
                     "Dave",
-                    "someday.</p",
                     "Compiler"
                 ],
                 "ORG": [
@@ -487,6 +482,7 @@
                     "Jamison",
                     "Jamison",
                     "AI",
+                    "PS",
                     "AI"
                 ],
                 "DATE": [
@@ -576,16 +572,13 @@
             "entities": {
                 "PERSON": [
                     "Dave",
-                    "Daniel asks,</p"
+                    "Daniel"
                 ],
                 "ORG": [
                     "Jamison"
                 ],
                 "DATE": [
                     "several weeks"
-                ],
-                "NORP": [
-                    "XYZ.</p"
                 ],
                 "CARDINAL": [
                     "one"
@@ -688,8 +681,7 @@
                     "Dave"
                 ],
                 "ORG": [
-                    "Jamison",
-                    "nits.]</p"
+                    "Jamison"
                 ],
                 "DATE": [
                     "1 year",
@@ -729,7 +721,6 @@
             "entities": {
                 "PERSON": [
                     "Dave",
-                    "Dave",
                     "Dave"
                 ],
                 "ORG": [
@@ -738,10 +729,11 @@
                 "DATE": [
                     "quarterly",
                     "every quarter",
+                    "a few weeks",
                     "the quarter",
                     "a couple of months",
                     "9 months ago",
-                    "months ago",
+                    "3 months ago",
                     "the past few weeks",
                     "each day",
                     "9 months ago"
@@ -781,10 +773,8 @@
             "entities": {
                 "PERSON": [
                     "Dave",
-                    "Greetings Jamison",
                     "Dave",
-                    "job.</p",
-                    "Listener"
+                    "Charlie"
                 ],
                 "ORG": [
                     "Jamison",
@@ -860,12 +850,11 @@
             "entities": {
                 "PERSON": [
                     "Dave",
-                    "fun.</p"
+                    "Show Notes\n\n  "
                 ],
                 "ORG": [
                     "Jamison",
-                    "CTO",
-                    "href=\"https://thesystemsthinker.com"
+                    "CTO"
                 ],
                 "DATE": [
                     "5 years",
@@ -877,6 +866,9 @@
                 "CARDINAL": [
                     "three",
                     "two"
+                ],
+                "GPE": [
+                    "\u200c"
                 ]
             }
         },
@@ -949,16 +941,15 @@
             "title": "Episode 331: Prickly ticket and title downgrade",
             "entities": {
                 "PERSON": [
-                    "Dave",
-                    "you</li"
+                    "Dave"
                 ],
                 "ORG": [
                     "Jamison",
-                    "communication.</li",
                     "CTO"
                 ],
                 "DATE": [
                     "half a year",
+                    "the upcoming year",
                     "the weekend"
                 ],
                 "CARDINAL": [
@@ -972,11 +963,11 @@
                     "first",
                     "first"
                 ],
+                "WORK_OF_ART": [
+                    "Lead Developer"
+                ],
                 "PERCENT": [
                     "30%"
-                ],
-                "PRODUCT": [
-                    "Employment"
                 ]
             }
         },
@@ -1042,12 +1033,11 @@
                 "ORG": [
                     "Jamison"
                 ],
-                "DATE": [
-                    "a few months",
-                    "15+ years"
-                ],
                 "ORDINAL": [
                     "first"
+                ],
+                "DATE": [
+                    "15+ years"
                 ]
             }
         },
@@ -1110,6 +1100,7 @@
             "title": "Episode 327: Remote with onsite team and undercover refactor",
             "entities": {
                 "PERSON": [
+                    "Dave",
                     "Dave"
                 ],
                 "ORG": [
@@ -1118,7 +1109,8 @@
                     "Red Hat"
                 ],
                 "CARDINAL": [
-                    "one"
+                    "one",
+                    "two"
                 ],
                 "DATE": [
                     "every week"
@@ -1153,16 +1145,19 @@
                     "QA"
                 ],
                 "DATE": [
-                    "a year ago",
+                    "\u200cAbout a year ago",
                     "decades",
                     "my early days",
                     "Months later",
-                    "the second half",
                     "about 6 months ago"
                 ],
                 "CARDINAL": [
                     "Zero",
-                    "10"
+                    "10",
+                    "half"
+                ],
+                "ORDINAL": [
+                    "second"
                 ]
             }
         },
@@ -1199,7 +1194,8 @@
                     "that day",
                     "another year",
                     "3 years",
-                    "one week later"
+                    "one week later",
+                    "several years"
                 ],
                 "CARDINAL": [
                     "two",
@@ -1300,17 +1296,13 @@
             "entities": {
                 "PERSON": [
                     "Dave",
-                    "Listener Olexander",
-                    "Listener Kieran"
+                    "Kieran"
                 ],
                 "ORG": [
                     "Jamison"
                 ],
                 "DATE": [
                     "more than a year"
-                ],
-                "NORP": [
-                    "javascript).</p"
                 ]
             }
         },
@@ -1417,7 +1409,7 @@
                     "Steve",
                     "Steve",
                     "Steve",
-                    "Steve",
+                    "Occasionally Steve",
                     "Steve"
                 ],
                 "ORG": [
@@ -1450,14 +1442,16 @@
             "entities": {
                 "PERSON": [
                     "Dave",
-                    "Listener Albert Camus"
+                    "Albert Camus"
                 ],
                 "ORG": [
-                    "Jamison"
+                    "Jamison",
+                    "Hello Team"
                 ],
                 "DATE": [
                     "this a few years ago",
                     "at least the next couple of years",
+                    "the coming year",
                     "more than 15 years"
                 ]
             }
@@ -1501,14 +1495,14 @@
                     "early next year"
                 ],
                 "TIME": [
-                    "eight hours"
+                    "eight hours",
+                    "their hours"
                 ],
                 "ORDINAL": [
                     "first"
                 ],
-                "GPE": [
-                    "Feelin",
-                    "P.S."
+                "WORK_OF_ART": [
+                    "Feelin\u2019 Guilty\n\n    P.S."
                 ]
             }
         },
@@ -1535,12 +1529,10 @@
                 "PERSON": [
                     "Dave",
                     "Javascript",
-                    "Listener James",
-                    "job.</p"
+                    "Listener James"
                 ],
                 "ORG": [
-                    "Jamison",
-                    "the latest &"
+                    "Jamison"
                 ],
                 "DATE": [
                     "10 years",
@@ -1650,13 +1642,13 @@
                     "SSE",
                     "the Big Software Companies",
                     "PE",
-                    "PE",
                     "PE"
                 ],
                 "DATE": [
                     "six years",
                     "last year",
-                    "a few years ago"
+                    "a few years ago",
+                    "a number of years"
                 ],
                 "ORDINAL": [
                     "first"
@@ -1694,15 +1686,15 @@
             "entities": {
                 "PERSON": [
                     "Dave",
-                    "bigCar",
-                    "job.</p"
+                    "bigCar"
                 ],
                 "ORG": [
                     "Jamison"
                 ],
                 "CARDINAL": [
                     "two",
-                    "two"
+                    "two",
+                    "https://twitter.com/ryanflorence/status/1534951668214771721"
                 ],
                 "DATE": [
                     "under 30",
@@ -1744,15 +1736,20 @@
                     "the past year and a half",
                     "the past year",
                     "3 years ago",
-                    "the early days",
-                    "two-fold:</p"
+                    "the early days"
                 ],
                 "CARDINAL": [
                     "5",
                     "5",
                     "4",
                     "1",
-                    "1"
+                    "1",
+                    "two-fold",
+                    "1",
+                    "2"
+                ],
+                "WORK_OF_ART": [
+                    "Love"
                 ]
             }
         },
@@ -1778,9 +1775,8 @@
             "entities": {
                 "PERSON": [
                     "Dave",
-                    "Dave &",
-                    "Jamison,</p",
-                    "Johnny Threehands</p"
+                    "Dave & Jamison",
+                    "Johnny Threehands"
                 ],
                 "ORG": [
                     "Jamison",
@@ -1790,7 +1786,8 @@
                     "8 years",
                     "8 months",
                     "4 months",
-                    "about 3 months"
+                    "about 3 months",
+                    "months"
                 ],
                 "ORDINAL": [
                     "First",
@@ -1921,22 +1918,24 @@
                 ],
                 "DATE": [
                     "5 years ago",
-                    "5 years",
+                    "5 years ago",
                     "years"
                 ],
+                "GPE": [
+                    "P.S."
+                ],
                 "CARDINAL": [
-                    "9",
                     "3",
                     "One",
                     "one",
                     "1on1"
                 ],
-                "GPE": [
-                    "P.S."
-                ],
                 "ORDINAL": [
                     "first",
                     "first"
+                ],
+                "WORK_OF_ART": [
+                    "Love"
                 ]
             }
         },
@@ -1966,12 +1965,10 @@
                 "ORG": [
                     "Jamison"
                 ],
-                "GPE": [
-                    "Nordic"
-                ],
                 "DATE": [
                     "about a decade",
                     "a half a year",
+                    "as many years",
                     "some months",
                     "Each week",
                     "at least six months",
@@ -1983,7 +1980,6 @@
                     "first"
                 ],
                 "CARDINAL": [
-                    "as many years.</p",
                     "one"
                 ]
             }
@@ -2097,7 +2093,8 @@
                 ],
                 "ORG": [
                     "Jamison",
-                    "mastering jellyfish metrics"
+                    "mastering jellyfish metrics",
+                    "Show Notes\n\n  https://www.gamasutra.com/view/feature/4111/dirty_coding_tricks.php?page=4"
                 ],
                 "DATE": [
                     "1 1/2 years",
@@ -2140,8 +2137,7 @@
             "title": "Episode 302: Bad boss movies and well-written emails",
             "entities": {
                 "PERSON": [
-                    "Dave",
-                    "Compilers:_Principles,_Techniques,_and_Tools\">Dragon"
+                    "Dave"
                 ],
                 "ORG": [
                     "Jamison",
@@ -2150,6 +2146,9 @@
                 ],
                 "LANGUAGE": [
                     "English"
+                ],
+                "GPE": [
+                    "Wikipedia"
                 ]
             }
         },
@@ -2174,8 +2173,7 @@
             "title": "Episode 301: I forced the framework and product stealing credit",
             "entities": {
                 "PERSON": [
-                    "Dave",
-                    "Listener Casey"
+                    "Dave"
                 ],
                 "ORG": [
                     "Jamison"
@@ -2248,11 +2246,11 @@
             "entities": {
                 "PERSON": [
                     "Dave",
-                    "Dave"
+                    "Dave",
+                    "Show Notes\n\n  https://www.hillelwayne.com/post/we-are-not-special/"
                 ],
                 "ORG": [
                     "Jamison",
-                    "I\u2019d",
                     "Jamison",
                     "VP"
                 ]
@@ -2287,12 +2285,12 @@
                 ],
                 "DATE": [
                     "2022",
-                    "May",
+                    "May of 2020",
                     "this past year",
                     "three months ago",
                     "a week",
                     "Some days",
-                    "the past three"
+                    "the past three months"
                 ],
                 "ORDINAL": [
                     "second"
@@ -2359,7 +2357,8 @@
             "title": "Episode 296: Low performer and frantic manager",
             "entities": {
                 "PERSON": [
-                    "Dave"
+                    "Dave",
+                    "Howdy"
                 ],
                 "ORG": [
                     "Jamison",
@@ -2418,14 +2417,14 @@
                     "Jamison",
                     "Hurt"
                 ],
+                "WORK_OF_ART": [
+                    "Love"
+                ],
                 "ORDINAL": [
                     "first"
                 ],
                 "DATE": [
                     "nearly 10 years"
-                ],
-                "GPE": [
-                    "non-FAANG"
                 ],
                 "TIME": [
                     "1-2 hours",
@@ -2470,7 +2469,6 @@
                     "Brett",
                     "Brett",
                     "Brett",
-                    "exactly</em",
                     "Retro"
                 ],
                 "CARDINAL": [
@@ -2548,14 +2546,12 @@
             "title": "Episode 292: Haunted by former co-worker and awkward manager endorsement",
             "entities": {
                 "PERSON": [
-                    "Dave",
-                    "job.</p"
+                    "Dave"
                 ],
                 "ORG": [
                     "Jamison"
                 ],
                 "CARDINAL": [
-                    "one",
                     "121"
                 ]
             }
@@ -2587,8 +2583,7 @@
                     "Sarah",
                     "Sarah",
                     "Sarah",
-                    "Sarah",
-                    "job.</p"
+                    "Sarah"
                 ],
                 "ORG": [
                     "Jamison"
@@ -2610,9 +2605,6 @@
                 "CARDINAL": [
                     "one",
                     "2"
-                ],
-                "NORP": [
-                    "Hosts!</p"
                 ]
             }
         },
@@ -2714,7 +2706,8 @@
             "title": "Episode 288: Too excited about learning and furious boss when quitting",
             "entities": {
                 "PERSON": [
-                    "Dave"
+                    "Dave",
+                    "Show Notes\n\n  Tom7"
                 ],
                 "ORG": [
                     "Jamison",
@@ -2730,8 +2723,11 @@
                 "TIME": [
                     "working hours"
                 ],
-                "GPE": [
-                    "Eh0tM"
+                "CARDINAL": [
+                    "https://www.youtube.com/c/suckerpinch"
+                ],
+                "PRODUCT": [
+                    "https://www.youtube.com/watch?v=qTBAW-Eh0tM"
                 ]
             }
         },
@@ -2756,8 +2752,7 @@
             "title": "Episode 287: Informal favoritism and post-hoc finger pointing",
             "entities": {
                 "PERSON": [
-                    "Dave",
-                    "Listener Sara"
+                    "Dave"
                 ],
                 "ORG": [
                     "Jamison"
@@ -2791,10 +2786,14 @@
                 "ORG": [
                     "Jamison",
                     "Smart Contracts",
+                    "PS",
                     "WFH"
                 ],
                 "TIME": [
                     "about 2 hours"
+                ],
+                "GPE": [
+                    "https://blog.standuply.com/are-your-standups-awesome-91fb124033be"
                 ]
             }
         },
@@ -2820,11 +2819,10 @@
             "entities": {
                 "PERSON": [
                     "Dave",
-                    "https://charity.wtf/2017/05/11"
+                    "https://charity.wtf/2019/01/04/engineering-management-the-pendulum-or-the-ladder/\n  https://charity.wtf/2017/05/11/the-engineer-manager-pendulum/"
                 ],
                 "ORG": [
-                    "Jamison",
-                    "the Front End Lead"
+                    "Jamison"
                 ],
                 "DATE": [
                     "the past couple of years"
@@ -2863,6 +2861,7 @@
                 "DATE": [
                     "last month",
                     "a few months earlier",
+                    "1 week",
                     "more than a few months",
                     "tomorrow",
                     "months to a year",
@@ -2934,8 +2933,7 @@
             "title": "Episode 282: Setting boundaries late and junior joy",
             "entities": {
                 "PERSON": [
-                    "Dave",
-                    "Listener Rafael"
+                    "Dave"
                 ],
                 "ORG": [
                     "Jamison"
@@ -3059,11 +3057,10 @@
             "title": "Episode 279: (Rerun of 220) Premature leadership push and credit and status",
             "entities": {
                 "CARDINAL": [
-                    "220.</p"
+                    "220"
                 ],
                 "PERSON": [
                     "Dave",
-                    "box.</p",
                     "Jira"
                 ],
                 "ORG": [
@@ -3151,7 +3148,6 @@
                 ],
                 "ORG": [
                     "Jamison",
-                    "Engineer",
                     "MacBook",
                     "MacBook"
                 ],
@@ -3239,6 +3235,7 @@
                     "Dave"
                 ],
                 "ORG": [
+                    "Jamison",
                     "Jamison"
                 ],
                 "ORDINAL": [
@@ -3246,6 +3243,9 @@
                 ],
                 "TIME": [
                     "2 hours"
+                ],
+                "CARDINAL": [
+                    "4"
                 ],
                 "DATE": [
                     "over a year",
@@ -3285,7 +3285,8 @@
                 ],
                 "DATE": [
                     "the new year",
-                    "next year"
+                    "next year",
+                    "the new year"
                 ],
                 "CARDINAL": [
                     "one"
@@ -3385,7 +3386,6 @@
             "entities": {
                 "PERSON": [
                     "Dave",
-                    "Listener Lisa",
                     "Dave"
                 ],
                 "ORG": [
@@ -3537,8 +3537,7 @@
             "entities": {
                 "PERSON": [
                     "Dave",
-                    "Twitter",
-                    "https://interviewing.io/</p"
+                    "@Channel Twitter"
                 ],
                 "ORG": [
                     "Jamison"
@@ -3647,7 +3646,7 @@
                 "PERSON": [
                     "Dave",
                     "Smith",
-                    "Dance,</p"
+                    "Dance"
                 ],
                 "ORG": [
                     "Jamison"
@@ -3743,12 +3742,12 @@
                 "ORG": [
                     "Jamison"
                 ],
-                "CARDINAL": [
-                    "one",
-                    "one"
-                ],
                 "DATE": [
+                    "one day",
                     "the last year"
+                ],
+                "CARDINAL": [
+                    "one"
                 ]
             }
         },
@@ -3777,11 +3776,11 @@
                 ],
                 "ORG": [
                     "Jamison",
-                    "Software"
+                    "Software Engineering"
                 ],
                 "DATE": [
                     "10+ years",
-                    "years",
+                    "eight years",
                     "THREE",
                     "two/three months"
                 ],
@@ -3863,11 +3862,10 @@
                     "Jamison",
                     "ASCII",
                     "EL",
-                    "SO - Dave &amp",
-                    "Jamison",
+                    "SO - Dave & Jamison",
                     "SSE",
                     "P.P.S.",
-                    "REFUSED TO NEGOTIATE ON ANYTHING!",
+                    "REFUSED TO NEGOTIATE ON ANYTHING",
                     "COVID"
                 ],
                 "WORK_OF_ART": [
@@ -3915,7 +3913,7 @@
                 ],
                 "CARDINAL": [
                     "256",
-                    "240</a"
+                    "240"
                 ],
                 "TIME": [
                     "40 seconds"
@@ -4010,7 +4008,7 @@
                     "35+ years old",
                     "just 6 months",
                     "10 years",
-                    "the 10 year barrier?</p"
+                    "the 10 year"
                 ],
                 "CARDINAL": [
                     "one",
@@ -4048,7 +4046,8 @@
             "title": "Episode 255: Only positive feedback and overworked and siloed",
             "entities": {
                 "PERSON": [
-                    "Dave"
+                    "Dave",
+                    "Jon"
                 ],
                 "ORG": [
                     "Jamison"
@@ -4100,14 +4099,12 @@
                     "20k",
                     "January",
                     "30k",
-                    "one year"
+                    "one year",
+                    "the 21st century"
                 ],
                 "CARDINAL": [
                     "three",
                     "only about half"
-                ],
-                "ORDINAL": [
-                    "21st"
                 ]
             }
         },
@@ -4139,6 +4136,7 @@
                     "LOL"
                 ],
                 "ORDINAL": [
+                    "first",
                     "first",
                     "first"
                 ],
@@ -4255,8 +4253,7 @@
             "title": "Episode 250: The management track and active listening",
             "entities": {
                 "PERSON": [
-                    "Dave",
-                    "TL)?</p"
+                    "Dave"
                 ],
                 "ORG": [
                     "Jamison"
@@ -4309,14 +4306,8 @@
                     "a couple of years",
                     "3 years"
                 ],
-                "GPE": [
-                    "it\u201d</li"
-                ],
                 "WORK_OF_ART": [
                     "Unit Testing"
-                ],
-                "NORP": [
-                    "Jamison</p"
                 ],
                 "CARDINAL": [
                     "half",
@@ -4431,6 +4422,9 @@
                 ],
                 "PERCENT": [
                     "25%"
+                ],
+                "DATE": [
+                    "days"
                 ]
             }
         },
@@ -4455,8 +4449,7 @@
             "title": "Episode 245: Sweating the small stuff and quit my first job?",
             "entities": {
                 "PERSON": [
-                    "Dave",
-                    "job.</p"
+                    "Dave"
                 ],
                 "ORG": [
                     "Jamison"
@@ -4514,11 +4507,11 @@
                     "about a month",
                     "two-weeks",
                     "next week",
+                    "three more months",
                     "the years"
                 ],
                 "CARDINAL": [
-                    "1",
-                    "three"
+                    "1"
                 ]
             }
         },
@@ -4590,7 +4583,9 @@
                     "Dave"
                 ],
                 "ORG": [
-                    "Jamison",
+                    "Jamison"
+                ],
+                "NORP": [
                     "BO"
                 ],
                 "GPE": [
@@ -4623,8 +4618,7 @@
                 ],
                 "ORG": [
                     "Jamison",
-                    "ATM",
-                    "IDE extension).</p"
+                    "ATM"
                 ],
                 "CARDINAL": [
                     "3",
@@ -4702,14 +4696,11 @@
                 ],
                 "ORG": [
                     "Jamison",
-                    "mermaid.js).</p"
+                    "VP"
                 ],
                 "DATE": [
                     "5 years",
                     "A MONTH AGO"
-                ],
-                "NORP": [
-                    "wizards:</p"
                 ]
             }
         },
@@ -4785,8 +4776,7 @@
                     "Jamison",
                     "SoftSkills",
                     "CS",
-                    "CS",
-                    "wiki/Knuth%27s_up-arrow_notation\n"
+                    "CS"
                 ],
                 "GPE": [
                     "Spotify"
@@ -4840,6 +4830,9 @@
                 ],
                 "CARDINAL": [
                     "2"
+                ],
+                "GPE": [
+                    "Vettery"
                 ]
             }
         },
@@ -4874,7 +4867,6 @@
                     "3",
                     "4",
                     "1",
-                    "9pm.</p",
                     "nearly zero"
                 ],
                 "DATE": [
@@ -4882,8 +4874,8 @@
                     "the very first day",
                     "several months"
                 ],
-                "GPE": [
-                    "it-.html"
+                "TIME": [
+                    "9pm"
                 ]
             }
         },
@@ -4918,10 +4910,11 @@
                 ],
                 "DATE": [
                     "my first year",
+                    "around 15 months",
                     "the next year"
                 ],
-                "CARDINAL": [
-                    "15"
+                "GPE": [
+                    "Colombia"
                 ]
             }
         },
@@ -4996,6 +4989,9 @@
                     "AI",
                     "AI"
                 ],
+                "ORDINAL": [
+                    "First"
+                ],
                 "CARDINAL": [
                     "approximately 10"
                 ],
@@ -5026,7 +5022,6 @@
             "entities": {
                 "PERSON": [
                     "Dave",
-                    "Jamison,</p",
                     "Git"
                 ],
                 "ORG": [
@@ -5095,7 +5090,8 @@
                     "Jamison",
                     "Engineer",
                     "Product Management",
-                    "Product Management"
+                    "Product Management",
+                    "Engineers"
                 ],
                 "DATE": [
                     "two years",
@@ -5295,7 +5291,6 @@
             "entities": {
                 "PERSON": [
                     "Dave",
-                    "Dave",
                     "Bob",
                     "Bob",
                     "Bob",
@@ -5303,7 +5298,6 @@
                     "Bob"
                 ],
                 "ORG": [
-                    "Jamison",
                     "Jamison",
                     "CS",
                     "CS"
@@ -5353,6 +5347,7 @@
                 ],
                 "ORG": [
                     "Jamison",
+                    "SCP",
                     "CI",
                     "PHP"
                 ],
@@ -5394,7 +5389,8 @@
                     "Jamison",
                     "CTO",
                     "CTO",
-                    "SEND"
+                    "CTO",
+                    "SEND HALP"
                 ],
                 "DATE": [
                     "weeks",
@@ -5462,7 +5458,6 @@
             "entities": {
                 "PERSON": [
                     "Dave",
-                    "box.</p",
                     "Jira"
                 ],
                 "ORG": [
@@ -5508,6 +5503,7 @@
                 ],
                 "TIME": [
                     "the minute",
+                    "the hour",
                     "6 hours"
                 ],
                 "GPE": [
@@ -5537,11 +5533,7 @@
             "title": "Episode 218: Referral underperforming and take a tech lead role",
             "entities": {
                 "PERSON": [
-                    "Dave",
-                    "Dave",
-                    "him.</p",
-                    "for.</p",
-                    "for.</p"
+                    "Dave"
                 ],
                 "ORG": [
                     "Jamison",
@@ -5550,9 +5542,10 @@
                 "DATE": [
                     "Last year",
                     "About 3 months",
-                    "months",
-                    "months",
+                    "6 months",
+                    "7 months",
                     "yearly",
+                    "1 Year",
                     "today"
                 ],
                 "TIME": [
@@ -5588,6 +5581,7 @@
                     "Jamison"
                 ],
                 "CARDINAL": [
+                    "two",
                     "one"
                 ]
             }
@@ -5648,14 +5642,15 @@
             "title": "Episode 215: Many jobs in one and junior git stickler",
             "entities": {
                 "PERSON": [
-                    "Dave",
-                    "Listener Ryan"
+                    "Dave"
                 ],
                 "ORG": [
                     "Jamison",
-                    "QA"
+                    "QA",
+                    ":P"
                 ],
                 "DATE": [
+                    "about 25 years",
                     "About a year ago",
                     "6 months",
                     "2 years"
@@ -5687,7 +5682,7 @@
             "entities": {
                 "PERSON": [
                     "Dave",
-                    "https://en.wikipedia.org"
+                    "Show Notes\n\n  https://www.youtube.com/watch?v=D4tvZJGNIhM\n  "
                 ],
                 "ORG": [
                     "Jamison"
@@ -5730,7 +5725,8 @@
                     "Layoffs"
                 ],
                 "ORG": [
-                    "Jamison"
+                    "Jamison",
+                    "COVID"
                 ],
                 "CARDINAL": [
                     "one"
@@ -5770,14 +5766,13 @@
                     "NP"
                 ],
                 "DATE": [
-                    "two years",
-                    "2017",
-                    "2017"
+                    "two years"
                 ],
                 "CARDINAL": [
                     "10",
                     "One",
-                    "one"
+                    "one",
+                    "a million"
                 ],
                 "PERCENT": [
                     "more than 50%"
@@ -5807,12 +5802,12 @@
                 "PERSON": [
                     "Dave",
                     "Dave",
-                    "Dave",
-                    "yet.</p"
+                    "Dave"
                 ],
                 "ORG": [
                     "Jamison",
-                    "Jamison"
+                    "Jamison",
+                    "TON"
                 ],
                 "CARDINAL": [
                     "5",
@@ -5919,12 +5914,11 @@
             "entities": {
                 "PERSON": [
                     "Dave",
-                    "Dave",
                     "Bob Marley",
                     "Jimi Hendrix",
                     "Jimi",
                     "Jimi",
-                    "Bob Marley</p",
+                    "Bob Marley",
                     "Dave"
                 ],
                 "ORG": [
@@ -5969,15 +5963,20 @@
                     "the past year and a half",
                     "the past year",
                     "3 years ago",
-                    "the early days",
-                    "two-fold:</p"
+                    "the early days"
                 ],
                 "CARDINAL": [
                     "5",
                     "5",
                     "4",
                     "1",
-                    "1"
+                    "1",
+                    "two-fold",
+                    "1",
+                    "2"
+                ],
+                "WORK_OF_ART": [
+                    "Love"
                 ]
             }
         },
@@ -6003,7 +6002,7 @@
             "entities": {
                 "PERSON": [
                     "Dave",
-                    "Dave + Jamison,</p"
+                    "Dave + Jamison"
                 ],
                 "ORG": [
                     "Jamison",
@@ -6012,6 +6011,7 @@
                 "DATE": [
                     "day",
                     "the end of the day",
+                    "weekly",
                     "about 10 months ago"
                 ],
                 "TIME": [
@@ -6046,8 +6046,7 @@
             "title": "Episode 205: Old code outage and questions leaking",
             "entities": {
                 "PERSON": [
-                    "Dave",
-                    "you.</p"
+                    "Dave"
                 ],
                 "ORG": [
                     "Jamison"
@@ -6126,13 +6125,13 @@
                     "Jamison"
                 ],
                 "CARDINAL": [
-                    "Two",
-                    "nearly two"
+                    "Two"
                 ],
                 "DATE": [
                     "2nd year",
                     "Yesterday",
-                    "Today"
+                    "Today",
+                    "nearly two years"
                 ]
             }
         },
@@ -6157,7 +6156,6 @@
             "title": "Episode 202: Can't stand up and new team, new me",
             "entities": {
                 "PERSON": [
-                    "Dave",
                     "Dave",
                     "Jira"
                 ],
@@ -6197,7 +6195,7 @@
             "entities": {
                 "PERSON": [
                     "Dave",
-                    "Listener Andrew",
+                    "Andrew",
                     "Soft Skills Eng"
                 ],
                 "ORG": [
@@ -6251,21 +6249,25 @@
                     "one",
                     "One"
                 ],
+                "EVENT": [
+                    "\ud83c\udf89\ud83c\udf89\ud83c\udf89"
+                ],
                 "PERSON": [
                     "Dave",
-                    "Soft Skills",
                     "Dave",
-                    "nick-names",
                     "emoji"
                 ],
                 "ORG": [
+                    "Jamison",
+                    "Soft Skills Engineering\n\n\n  \n    Right",
                     "Jamison",
                     "FTPing",
                     "FAANG",
                     "Twilio",
                     "Twilio",
                     "Twilio",
-                    "CCTV"
+                    "CCTV",
+                    "Playground"
                 ],
                 "DATE": [
                     "two days",
@@ -6305,6 +6307,9 @@
                 ],
                 "PERCENT": [
                     "25%"
+                ],
+                "WORK_OF_ART": [
+                    "\ud83c\udffb\u200d\u2642\ufe0f.\n  \n  \n    Had"
                 ]
             }
         },
@@ -6349,6 +6354,9 @@
                     "2PM",
                     "12",
                     "2PM"
+                ],
+                "GPE": [
+                    "US"
                 ],
                 "LOC": [
                     "Europe",
@@ -6396,7 +6404,8 @@
                 "ORG": [
                     "Jamison",
                     "VP of Engineering",
-                    "AWS"
+                    "AWS",
+                    "the Principals and Seniors"
                 ],
                 "DATE": [
                     "daily",
@@ -6437,7 +6446,6 @@
             "entities": {
                 "PERSON": [
                     "Dave",
-                    "very</em",
                     "Listener Zezima"
                 ],
                 "ORG": [
@@ -6447,7 +6455,7 @@
                 "DATE": [
                     "8+ years",
                     "every day",
-                    "a year",
+                    "a year or so",
                     "about a year and a half"
                 ],
                 "CARDINAL": [
@@ -6483,7 +6491,8 @@
                     "QA"
                 ],
                 "DATE": [
-                    "5+ years"
+                    "5+ years",
+                    "the next forty years"
                 ],
                 "CARDINAL": [
                     "40"
@@ -6514,12 +6523,14 @@
             "title": "Episode 195: Ad-hoc promotion and quitting a huge company with Charity Majors",
             "entities": {
                 "ORG": [
-                    "href=\"https://twitter.com",
                     "CTO",
                     "Second Life",
                     "Parse",
                     "Jamison",
                     "the Software Development VP"
+                ],
+                "GPE": [
+                    "Honeycomb"
                 ],
                 "PERSON": [
                     "Facebook",
@@ -6538,7 +6549,10 @@
                     "3",
                     "two",
                     "one",
-                    "one"
+                    "one",
+                    "1",
+                    "2",
+                    "3"
                 ]
             }
         },
@@ -6568,6 +6582,9 @@
                 "ORG": [
                     "Jamison"
                 ],
+                "DATE": [
+                    "every week"
+                ],
                 "CARDINAL": [
                     "one"
                 ]
@@ -6594,15 +6611,14 @@
             "title": "Episode 193: Playing the field and paying for speaking",
             "entities": {
                 "PERSON": [
-                    "Dave",
-                    "job.</p"
+                    "Dave"
                 ],
                 "ORG": [
                     "Jamison"
                 ],
                 "DATE": [
                     "summer",
-                    "the last couple of years.</p"
+                    "the last couple of years"
                 ],
                 "CARDINAL": [
                     "one",
@@ -6633,11 +6649,9 @@
             "entities": {
                 "PERSON": [
                     "Dropbox",
-                    "Dave",
-                    "Dave &"
+                    "Dave"
                 ],
                 "ORG": [
-                    "Jamison",
                     "Jamison"
                 ],
                 "ORDINAL": [
@@ -6668,7 +6682,6 @@
             "entities": {
                 "PERSON": [
                     "Dave",
-                    "Hey Jamison",
                     "Dave"
                 ],
                 "ORG": [
@@ -6812,14 +6825,14 @@
                     "mid 30s",
                     "about 20 years",
                     "about 4 years ago",
+                    "3 years",
                     "About 6 months ago",
-                    "5 or 10 years"
+                    "5 or 10 years",
+                    "6 months"
                 ],
                 "CARDINAL": [
                     "two",
-                    "about 8",
-                    "3",
-                    "6"
+                    "about 8"
                 ],
                 "ORDINAL": [
                     "first"
@@ -6931,8 +6944,7 @@
                 ],
                 "ORG": [
                     "Jamison",
-                    "ATM",
-                    "IDE extension).</p"
+                    "ATM"
                 ],
                 "CARDINAL": [
                     "3",
@@ -7037,9 +7049,7 @@
                 ],
                 "ORG": [
                     "Jamison",
-                    "I\u2019d",
-                    "Jamison",
-                    "I\u2019d"
+                    "Jamison"
                 ],
                 "CARDINAL": [
                     "only one",
@@ -7218,8 +7228,7 @@
             "title": "Episode 176: Afraid to disappoint and tech co-founder advice",
             "entities": {
                 "PERSON": [
-                    "Dave",
-                    "job.</p"
+                    "Dave"
                 ],
                 "ORG": [
                     "Jamison",
@@ -7230,6 +7239,10 @@
                 "DATE": [
                     "three months",
                     "a few weeks"
+                ],
+                "GPE": [
+                    "Runar",
+                    "Norway"
                 ]
             }
         },
@@ -7254,7 +7267,6 @@
             "title": "Episode 175: Famous devs at conferences and becoming obsolete",
             "entities": {
                 "PERSON": [
-                    "Dave",
                     "Dave"
                 ],
                 "ORG": [
@@ -7324,8 +7336,7 @@
             "title": "Episode 173: Newbie burden and getting a 25% raise",
             "entities": {
                 "PERSON": [
-                    "Dave",
-                    "Software Engineer"
+                    "Dave"
                 ],
                 "ORG": [
                     "Jamison",
@@ -7337,6 +7348,8 @@
                     "6 months from now"
                 ],
                 "CARDINAL": [
+                    "1",
+                    "2",
                     "one"
                 ],
                 "ORDINAL": [
@@ -7425,7 +7438,8 @@
                     "first"
                 ],
                 "GPE": [
-                    "P.S."
+                    "P.S.",
+                    "Germany"
                 ],
                 "DATE": [
                     "a couple of months",
@@ -7457,10 +7471,11 @@
             "title": "Episode 170: Code rage and code review etiquette",
             "entities": {
                 "LOC": [
-                    "the Hackernoon Noonies"
+                    "the Hackernoon Noonies",
+                    "Past Me"
                 ],
                 "PERSON": [
-                    "Dev Podcast</a",
+                    "Dev Podcast",
                     "Dave",
                     "Grumpy"
                 ],
@@ -7496,15 +7511,16 @@
                     "the Hackernoon Noonies"
                 ],
                 "PERSON": [
-                    "Dev Podcast</a",
-                    "Dave",
-                    "him.</p"
+                    "Dev Podcast",
+                    "Dave"
                 ],
                 "ORG": [
                     "Jamison"
                 ],
                 "CARDINAL": [
-                    "One"
+                    "One",
+                    "1",
+                    "2"
                 ],
                 "TIME": [
                     "hours",
@@ -7540,7 +7556,8 @@
             "entities": {
                 "PERSON": [
                     "Dave",
-                    "OneNote"
+                    "OneNote",
+                    "Stefan\n  \n  \n    "
                 ],
                 "ORG": [
                     "Jamison",
@@ -7554,6 +7571,7 @@
                     "One"
                 ],
                 "DATE": [
+                    "a couple of weeks",
                     "days",
                     "my wfh days"
                 ]
@@ -7660,7 +7678,7 @@
                 ],
                 "DATE": [
                     "7 years",
-                    "a year"
+                    "a year or so"
                 ],
                 "CARDINAL": [
                     "quarter"
@@ -7771,12 +7789,12 @@
             "title": "Episode 162 (rerun of episode 113): Quitting Your First Job and Too Many Responsibilities",
             "entities": {
                 "PERSON": [
-                    "Dave"
+                    "Dave",
+                    "Engineer"
                 ],
                 "ORG": [
                     "Jamison",
                     "Sr",
-                    "Engineer",
                     "Ferrari I\u2019m"
                 ],
                 "ORDINAL": [
@@ -7787,10 +7805,8 @@
                     "about two years ago",
                     "the next 4 months",
                     "a few months",
+                    "the next 12 months",
                     "the next 18 months"
-                ],
-                "CARDINAL": [
-                    "12"
                 ]
             }
         },
@@ -7815,14 +7831,17 @@
             "title": "Episode 161: Trapped as a QA engineer and trapped as a generalist",
             "entities": {
                 "PERSON": [
-                    "Dave"
+                    "Dave",
+                    "Kotlin"
                 ],
                 "ORG": [
                     "Jamison",
                     "CS",
                     "QA",
                     "QA",
+                    "QA",
                     "Programmer",
+                    "Mobile",
                     "Visual Studio",
                     "IoT",
                     "RxJava, Dagger",
@@ -7833,10 +7852,6 @@
                     "8 years later",
                     "the years",
                     "3 years ago"
-                ],
-                "GPE": [
-                    "Mobile",
-                    "Kotlin.</p"
                 ],
                 "ORDINAL": [
                     "first"
@@ -7868,7 +7883,6 @@
             "entities": {
                 "PERSON": [
                     "Dave",
-                    "Hello Jamison",
                     "Dave"
                 ],
                 "ORG": [
@@ -7884,10 +7898,14 @@
                 "DATE": [
                     "6-8 weeks",
                     "the last four years",
-                    "the last year"
+                    "the last year",
+                    "this year"
                 ],
                 "GPE": [
                     "n\u2019t"
+                ],
+                "NORP": [
+                    "BA"
                 ]
             }
         },
@@ -8035,8 +8053,7 @@
                 "ORG": [
                     "Jamison",
                     "Bachelor",
-                    "Computational Mathematics &",
-                    "Computer Science",
+                    "Computational Mathematics & Computer Science",
                     "Software Engineering"
                 ],
                 "CARDINAL": [
@@ -8114,6 +8131,7 @@
             "entities": {
                 "DATE": [
                     "today",
+                    "a couple years",
                     "More than a month",
                     "daily"
                 ],
@@ -8156,14 +8174,13 @@
                     "71"
                 ],
                 "DATE": [
-                    "August 2017.</p"
+                    "August 2017"
                 ],
                 "PERSON": [
                     "Dave"
                 ],
                 "ORG": [
                     "Jamison",
-                    "peer?</li",
                     "Jamis Buck"
                 ]
             }
@@ -8201,6 +8218,7 @@
                     "American"
                 ],
                 "GPE": [
+                    "US",
                     "NY"
                 ]
             }
@@ -8307,16 +8325,15 @@
             "pubDate": "Mon, 18 Mar 2019 19:00:00 +0000",
             "title": "Episode 149: How to get my engineering career back on track and how to thrive in a heavy process environment",
             "entities": {
-                "ORG": [
-                    "href=\"https://twitter.com",
-                    "Jamison",
-                    "CMMI"
-                ],
                 "GPE": [
                     "Nedda"
                 ],
                 "PERSON": [
                     "Dave"
+                ],
+                "ORG": [
+                    "Jamison",
+                    "CMMI"
                 ]
             }
         },
@@ -8422,6 +8439,7 @@
                     "the day",
                     "the day",
                     "this week",
+                    "this week",
                     "annual"
                 ],
                 "ORDINAL": [
@@ -8490,10 +8508,9 @@
             "entities": {
                 "PERSON": [
                     "Dave",
-                    "Jonathan",
+                    "Jonathan Cutrell",
                     "Software Engineer",
-                    "Follow Jonathan Cutrell",
-                    "Twitter"
+                    "Follow Jonathan Cutrell"
                 ],
                 "ORG": [
                     "Jamison",
@@ -8504,6 +8521,9 @@
                 ],
                 "ORDINAL": [
                     "third"
+                ],
+                "PRODUCT": [
+                    "Twitter"
                 ]
             }
         },
@@ -8559,17 +8579,19 @@
             "title": "Episode 142: Can I get hired above my level even though I look inexperienced on paper and should I be brutally honest in peer performance reviews",
             "entities": {
                 "PERSON": [
-                    "Dave"
+                    "Dave",
+                    "CV"
                 ],
                 "ORG": [
                     "Jamison"
                 ],
-                "CARDINAL": [
-                    "66"
-                ],
                 "DATE": [
                     "4 months",
+                    "everyday",
                     "6 months"
+                ],
+                "CARDINAL": [
+                    "One"
                 ]
             }
         },
@@ -8629,7 +8651,8 @@
             "title": "Episode 140: Should I apologize for my bugs after I quit and should I become a project manager",
             "entities": {
                 "PERSON": [
-                    "Dave"
+                    "Dave",
+                    "Shan"
                 ],
                 "ORG": [
                     "Jamison"
@@ -8702,7 +8725,6 @@
             "title": "Episode 138: Should I ask for a raise before my annual review and how to keep up with young, single, overtime-working co-workers",
             "entities": {
                 "PERSON": [
-                    "Dave",
                     "Dave"
                 ],
                 "ORG": [
@@ -8926,8 +8948,7 @@
             "title": "Episode 132: Should I tell my boss I'm planning to quit and keeping tech talks going",
             "entities": {
                 "PERSON": [
-                    "Dave",
-                    "say</em"
+                    "Dave"
                 ],
                 "ORG": [
                     "Jamison"
@@ -8965,8 +8986,7 @@
                     "Dave"
                 ],
                 "ORG": [
-                    "Jamison",
-                    "BO"
+                    "Jamison"
                 ],
                 "CARDINAL": [
                     "3",
@@ -8977,6 +8997,9 @@
                 "DATE": [
                     "Some days",
                     "a week"
+                ],
+                "NORP": [
+                    "BO"
                 ],
                 "GPE": [
                     "\ud83d\ude41"
@@ -9009,7 +9032,7 @@
                     "One"
                 ],
                 "DATE": [
-                    "December 14",
+                    "December 14, 2017",
                     "the past year",
                     "all day"
                 ],
@@ -9090,15 +9113,15 @@
                     "at LEAST 40",
                     "80 - 100",
                     "45K",
-                    "3",
                     "one"
                 ],
                 "TIME": [
                     "two hours"
                 ],
                 "DATE": [
+                    "3 - 4 months",
                     "5 years",
-                    "the next 10"
+                    "the next 10 years"
                 ]
             }
         },
@@ -9123,6 +9146,7 @@
             "title": "Episode 127: Leaving a Job I Love and My Role Is Being Eroded",
             "entities": {
                 "PERSON": [
+                    "Dave",
                     "Dave"
                 ],
                 "ORG": [
@@ -9248,8 +9272,7 @@
             "title": "Episode 124: Pair Programming Pain and Side Hustle CEO",
             "entities": {
                 "PERSON": [
-                    "Dave",
-                    "Soft Skills"
+                    "Dave"
                 ],
                 "ORG": [
                     "Jamison",
@@ -9297,8 +9320,7 @@
             "entities": {
                 "PERSON": [
                     "Dave",
-                    "Dave",
-                    "job.</p"
+                    "Dave"
                 ],
                 "ORG": [
                     "Jamison",
@@ -9328,7 +9350,7 @@
                     "about 4 hours"
                 ],
                 "CARDINAL": [
-                    "about 2-3"
+                    "about 2-3 minutes"
                 ]
             }
         },
@@ -9434,7 +9456,6 @@
                 "DATE": [
                     "one fateful day",
                     "10 plus years",
-                    "my early 30s",
                     "about 10 years",
                     "early the next day",
                     "9"
@@ -9511,8 +9532,7 @@
             "entities": {
                 "PERSON": [
                     "Dave",
-                    "Email Jamison",
-                    "jamison.dance@walmartlabs.com\">jamison.dance@walmartlabas.com</a>!</p"
+                    "Email Jamison"
                 ],
                 "ORG": [
                     "Jamison",
@@ -9561,10 +9581,11 @@
                 ],
                 "CARDINAL": [
                     "360",
-                    "two"
+                    "two",
+                    "One"
                 ],
                 "DATE": [
-                    "7 months"
+                    "7 months ago"
                 ]
             }
         },
@@ -9589,8 +9610,7 @@
             "title": "Episode 116: Weekend Warrioring and Reaching the End of the Career Ladder",
             "entities": {
                 "PERSON": [
-                    "Dave",
-                    "job.</p"
+                    "Dave"
                 ],
                 "ORG": [
                     "Jamison",
@@ -9609,9 +9629,6 @@
                     "three",
                     "three",
                     "One"
-                ],
-                "NORP": [
-                    "projects).</p"
                 ]
             }
         },
@@ -9647,9 +9664,6 @@
                 ],
                 "CARDINAL": [
                     "two"
-                ],
-                "NORP": [
-                    "happened.</p"
                 ]
             }
         },
@@ -9681,6 +9695,7 @@
                     "Goodhart"
                 ],
                 "ORG": [
+                    "Jamison",
                     "Jamison"
                 ]
             }
@@ -9706,12 +9721,12 @@
             "title": "Episode 113: Quitting Your First Job and Too Many Responsibilities",
             "entities": {
                 "PERSON": [
-                    "Dave"
+                    "Dave",
+                    "Engineer"
                 ],
                 "ORG": [
                     "Jamison",
                     "Sr",
-                    "Engineer",
                     "Ferrari I\u2019m"
                 ],
                 "ORDINAL": [
@@ -9722,10 +9737,8 @@
                     "about two years ago",
                     "the next 4 months",
                     "a few months",
+                    "the next 12 months",
                     "the next 18 months"
-                ],
-                "CARDINAL": [
-                    "12"
                 ]
             }
         },
@@ -9780,18 +9793,15 @@
             "entities": {
                 "PERSON": [
                     "Dave",
-                    "Hello Jamison",
                     "Dave",
                     "Erlang",
-                    "API client).</p",
-                    "JIRAs",
-                    "job.</p"
+                    "JIRAs"
                 ],
                 "ORG": [
                     "Jamison",
                     "Elm",
-                    "FP",
-                    "un-un-learn"
+                    "un-un-learn",
+                    "API"
                 ],
                 "DATE": [
                     "7 years",
@@ -9827,11 +9837,11 @@
                     "Jamison"
                 ],
                 "CARDINAL": [
-                    "fewer than 10",
-                    "twelve"
+                    "fewer than 10"
                 ],
                 "DATE": [
-                    "about a year"
+                    "about a year",
+                    "another twelve months"
                 ]
             }
         },
@@ -9892,19 +9902,16 @@
             "entities": {
                 "DATE": [
                     "this week",
-                    "November 15th"
+                    "next week",
+                    "November 15th, 2016"
                 ],
                 "ORG": [
                     "Jamison",
-                    "Jamison",
-                    "talent?</li"
+                    "Jamison"
                 ],
                 "PERSON": [
                     "Dave",
                     "Dave"
-                ],
-                "CARDINAL": [
-                    "2016.</p"
                 ]
             }
         },
@@ -9932,7 +9939,8 @@
                     "Dave"
                 ],
                 "ORG": [
-                    "Jamison"
+                    "Jamison",
+                    "Khan Academy Engineering Principles"
                 ]
             }
         },
@@ -9984,7 +9992,11 @@
             "pubDate": "Mon, 30 Apr 2018 19:00:00 +0000",
             "title": "Episode 107: Silence After Interviews and Newsletter Politics",
             "entities": {
+                "PERSON": [
+                    "Dave"
+                ],
                 "ORG": [
+                    "Jamison",
                     "SSE"
                 ],
                 "CARDINAL": [
@@ -10011,7 +10023,14 @@
             "link": "https://softskills.audio/2018/04/22/episode-106-working-from-home-without-rotting-and-meetup-etiquette/",
             "pubDate": "Sun, 22 Apr 2018 19:00:00 +0000",
             "title": "Episode 106: Working From Home Without Rotting and Meetup Etiquette",
-            "entities": {}
+            "entities": {
+                "PERSON": [
+                    "Dave"
+                ],
+                "ORG": [
+                    "Jamison"
+                ]
+            }
         },
         {
             "content": "<p><a href=\"https://twitter.com/djsmith42\">Dave</a> and <a href=\"https://twitter.com/jamison_dance\">Jamison</a> answer these questions:</p>\n\n<ol>\n  <li>I\u2019ve been a software engineer for 13 years and would like to apply for a management role. I\u2019ve never managed before. How do I apply for a job as a manager without managerial experience?</li>\n  <li>How do I deal with annoying noises around my desk? One neighbor listens to loud music. Another one pops the bubbles on his bubblewrap (to calm himself obviously but also infuriate me). Please help =)</li>\n</ol>\n",
@@ -10033,6 +10052,12 @@
             "pubDate": "Thu, 12 Apr 2018 19:00:00 +0000",
             "title": "Episode 105: Interviewing for Management and Annoying Noises",
             "entities": {
+                "PERSON": [
+                    "Dave"
+                ],
+                "ORG": [
+                    "Jamison"
+                ],
                 "DATE": [
                     "13 years"
                 ],
@@ -10061,6 +10086,12 @@
             "pubDate": "Fri, 06 Apr 2018 19:00:00 +0000",
             "title": "Episode 104: Interviews With VPs and Hiring a Tester",
             "entities": {
+                "PERSON": [
+                    "Dave"
+                ],
+                "ORG": [
+                    "Jamison"
+                ],
                 "ORDINAL": [
                     "second",
                     "second"
@@ -10091,10 +10122,12 @@
             "title": "Episode 103: Team Dynamics and Bad Code",
             "entities": {
                 "PERSON": [
-                    "Dan"
+                    "Dan",
+                    "Dave"
                 ],
                 "ORG": [
                     "ThanksBot",
+                    "Jamison",
                     "CS"
                 ]
             }
@@ -10119,6 +10152,12 @@
             "pubDate": "Sat, 24 Mar 2018 19:00:00 +0000",
             "title": "Episode 102: Correcting English and Tyranny of the Urgent",
             "entities": {
+                "PERSON": [
+                    "Dave"
+                ],
+                "ORG": [
+                    "Jamison"
+                ],
                 "LANGUAGE": [
                     "English"
                 ],
@@ -10153,7 +10192,14 @@
             "link": "https://softskills.audio/2018/03/17/episode-101-developer-health-and-whiteboard-interviews/",
             "pubDate": "Sat, 17 Mar 2018 19:00:00 +0000",
             "title": "Episode 101: Style In Code Reviews and How To Thank My Manager",
-            "entities": {}
+            "entities": {
+                "PERSON": [
+                    "Dave"
+                ],
+                "ORG": [
+                    "Jamison"
+                ]
+            }
         },
         {
             "content": "<p><a href=\"https://twitter.com/djsmith42\">Dave</a> and <a href=\"https://twitter.com/jamison_dance\">Jamison</a> answer these questions:</p>\n\n<ol>\n  <li>Do you have any recommendations for maintaining physical health in a software developer role? For example, strategies to maintain good posture, reduce eye strain, etc.</li>\n  <li>Is the practice of asking interviewing developers to regurgitate 20 year old algorithms on a whiteboard a recent trend or is this something new? Can you make sense of this madness?</li>\n</ol>\n\n<p><a href=\"https://www.health.harvard.edu/staying-healthy/why-sitting-may-be-hazardous-to-your-health\">This</a> is a pretty good summary of some of the health effects of sitting.</p>\n\n<p><a href=\"https://twitter.com/threepointone/status/942872860779057153\">Here</a> is the tweet Jamison talked about.</p>\n",
@@ -10175,14 +10221,15 @@
             "pubDate": "Fri, 09 Mar 2018 19:00:00 +0000",
             "title": "Episode 99: Developer Health and Whiteboard Interviews",
             "entities": {
-                "DATE": [
-                    "20 year old"
-                ],
                 "PERSON": [
-                    "madness?</li"
+                    "Dave"
                 ],
                 "ORG": [
+                    "Jamison",
                     "Jamison"
+                ],
+                "DATE": [
+                    "20 year old"
                 ]
             }
         },
@@ -10205,7 +10252,14 @@
             "link": "https://softskills.audio/2018/03/02/episode-98-management-tasks-i-hate-and-difficult-co-workers/",
             "pubDate": "Fri, 02 Mar 2018 19:00:00 +0000",
             "title": "Episode 98 (Rerun of Episode 57): Disliking Management and Difficult Co-workers",
-            "entities": {}
+            "entities": {
+                "PERSON": [
+                    "Dave"
+                ],
+                "ORG": [
+                    "Jamison"
+                ]
+            }
         },
         {
             "content": "<p>This week Jamison and Dave answer these questions:</p>\n\n<ol>\n  <li>\n    <p>We have a great intern, who is smart and has good ideas but is also very quiet.</p>\n\n    <p>She\u2019s got a great deal of potential, and I want to tell her that being more vocal and assertive can help her greatly, both in her career and in life.</p>\n\n    <p>How can I give her this feedback, without it sounding like a criticism of her personality, or her introverted tendencies?\u201d</p>\n  </li>\n  <li>\n    <p>Recently a team member was let go. I am the team lead so I played a role in their termination. While they weren\u2019t a good fit for the team, I\u2019d still like to be in touch and help them improve their skills. Should I steer clear of this? My gut says yes but my heart says no.</p>\n  </li>\n</ol>\n\n",
@@ -10268,8 +10322,8 @@
                     "one"
                 ],
                 "ORG": [
-                    "well?</li",
-                    "Wikipedia"
+                    "Wikipedia",
+                    "Hoobastank"
                 ]
             }
         },
@@ -10298,13 +10352,12 @@
                 ],
                 "PERSON": [
                     "Jamison",
-                    "Dave"
+                    "Dave",
+                    "Jack",
+                    "Beanstalk"
                 ],
                 "NORP": [
                     "creepy"
-                ],
-                "ORG": [
-                    "Beanstalk</a"
                 ]
             }
         },
@@ -10396,13 +10449,11 @@
                 ],
                 "PERSON": [
                     "Jamison",
+                    "Dave",
                     "Dave"
                 ],
                 "CARDINAL": [
                     "two"
-                ],
-                "ORG": [
-                    "href=\"http://www.kalzumeus.com/2012/01/23"
                 ]
             }
         },
@@ -10526,7 +10577,6 @@
                 "ORG": [
                     "NoRedInk",
                     "Jamison",
-                    "href=\"https://zachholman.com",
                     "Google"
                 ]
             }
@@ -10557,9 +10607,6 @@
                 "PERSON": [
                     "Jamison",
                     "Dave"
-                ],
-                "ORG": [
-                    "href=\"https://twitter.com"
                 ]
             }
         },
@@ -10745,7 +10792,7 @@
                     "Dave"
                 ],
                 "ORG": [
-                    "more?</li"
+                    "Khan Academy"
                 ]
             }
         },
@@ -10775,6 +10822,10 @@
                 "PERSON": [
                     "Jamison",
                     "Dave"
+                ],
+                "ORG": [
+                    "Jamison",
+                    "HBR"
                 ]
             }
         },
@@ -10805,6 +10856,9 @@
                     "Jamison",
                     "Dave",
                     "Goodhart"
+                ],
+                "ORG": [
+                    "Jamison"
                 ]
             }
         },
@@ -10836,10 +10890,8 @@
                     "Dave"
                 ],
                 "CARDINAL": [
-                    "10"
-                ],
-                "ORG": [
-                    "future?</li"
+                    "10",
+                    "nine"
                 ]
             }
         },
@@ -10874,8 +10926,8 @@
                     "2%"
                 ],
                 "CARDINAL": [
-                    "6</a>.</p",
-                    "23</a"
+                    "6",
+                    "23"
                 ]
             }
         },
@@ -10939,7 +10991,7 @@
                     "Europe"
                 ],
                 "CARDINAL": [
-                    "26</a"
+                    "26"
                 ]
             }
         },
@@ -11060,7 +11112,6 @@
                     "Dave"
                 ],
                 "ORG": [
-                    "peer?</li",
                     "Jamis Buck"
                 ]
             }
@@ -11146,7 +11197,8 @@
                     "a year"
                 ],
                 "ORG": [
-                    "href=\"https://danluu.com"
+                    "Jamison",
+                    "Hammock-Driven Development"
                 ]
             }
         },
@@ -11271,14 +11323,13 @@
             "title": "Episode 63: (Rerun) Management Snobs and Two Bosses",
             "entities": {
                 "PERSON": [
-                    "Dave",
-                    "CUT</em"
+                    "Dave"
                 ],
                 "DATE": [
                     "this week"
                 ],
                 "CARDINAL": [
-                    "41.</p",
+                    "41",
                     "two"
                 ]
             }
@@ -11387,7 +11438,11 @@
             "pubDate": "Thu, 11 May 2017 19:00:00 +0000",
             "title": "Episode 59: Buying Training and Unrelated Experience",
             "entities": {
+                "ORG": [
+                    "the Single Level of Abstraction Principle"
+                ],
                 "CARDINAL": [
+                    "57",
                     "two"
                 ]
             }
@@ -11446,7 +11501,14 @@
             "link": "https://softskills.audio/2017/04/25/episode-57-management-tasks-i-hate-and-difficult-co-workers/",
             "pubDate": "Tue, 25 Apr 2017 19:00:00 +0000",
             "title": "Episode 57: Disliking Management and Difficult Co-workers",
-            "entities": {}
+            "entities": {
+                "PERSON": [
+                    "Dave"
+                ],
+                "ORG": [
+                    "Jamison"
+                ]
+            }
         },
         {
             "content": "<ol>\n  <li>How do I keep meetings on track?</li>\n  <li>I work in an agency with a designer-centric culture. How do I make myself heard?</li>\n</ol>\n\n<p><a href=\"https://twitter.com/djsmith42\">Dave</a> and <a href=\"https://twitter.com/jamison_dance\">Jamison</a> answer these questions:</p>\n",
@@ -11467,7 +11529,14 @@
             "link": "https://softskills.audio/2017/04/18/episode-56-meetings-on-track-and-designer-centric-culture/",
             "pubDate": "Tue, 18 Apr 2017 19:00:00 +0000",
             "title": "Episode 56: Keeping Meetings On Track and Designer-centric Culture",
-            "entities": {}
+            "entities": {
+                "PERSON": [
+                    "Dave"
+                ],
+                "ORG": [
+                    "Jamison"
+                ]
+            }
         },
         {
             "content": "<p>It\u2019s a special ng-conf live episode! <a href=\"https://twitter.com/djsmith42\">Dave</a> and <a href=\"https://twitter.com/jamison_dance\">Jamison</a> answer these questions in front of a live audience:</p>\n\n<ol>\n  <li>When you go freelancing, do your coding skills atrophy?</li>\n  <li>What is something you wish you knew about freelancing before you started?</li>\n  <li>I met all my aggressive career goals. What next?</li>\n</ol>\n\n<p>Here is the <a href=\"https://docs.google.com/document/d/1qr0d05X5-AsyDYqKRCfgGGcWSshTMd_vfTggfhDpbls/edit\">Khan Academy Engineering Ladder</a> Jamison mentioned towards the end of the show.</p>\n",
@@ -11488,7 +11557,16 @@
             "link": "https://softskills.audio/2017/04/11/episode-55-ng-conf-live-episode/",
             "pubDate": "Tue, 11 Apr 2017 19:00:00 +0000",
             "title": "Episode 55: Ng-Conf Live Episode",
-            "entities": {}
+            "entities": {
+                "PERSON": [
+                    "Dave",
+                    "Ladder Jamison"
+                ],
+                "ORG": [
+                    "Jamison",
+                    "the Khan Academy Engineering"
+                ]
+            }
         },
         {
             "content": "<p><a href=\"https://twitter.com/djsmith42\">Dave</a> and <a href=\"https://twitter.com/jamison_dance\">Jamison</a> answer these questions:</p>\n\n<ol>\n  <li>Our codebase is really bad, and management hired a contractor behind our backs to rewrite it. What should I do?</li>\n  <li>How important are job titles when looking for a new job?</li>\n</ol>\n\n<p>Here is the <a href=\"https://docs.google.com/document/d/1qr0d05X5-AsyDYqKRCfgGGcWSshTMd_vfTggfhDpbls/edit\">Khan Academy Engineering Ladder</a> Jamison mentioned towards the end of the show.</p>\n",
@@ -11509,7 +11587,16 @@
             "link": "https://softskills.audio/2017/04/04/episode-54-sneaky-contractors-and-job-title-growth/",
             "pubDate": "Tue, 04 Apr 2017 19:00:00 +0000",
             "title": "Episode 54: Sneaky Contractors and Job Titles",
-            "entities": {}
+            "entities": {
+                "PERSON": [
+                    "Dave",
+                    "Ladder Jamison"
+                ],
+                "ORG": [
+                    "Jamison",
+                    "the Khan Academy Engineering"
+                ]
+            }
         },
         {
             "content": "<p><a href=\"https://twitter.com/djsmith42\">Dave</a> and <a href=\"https://twitter.com/jamison_dance\">Jamison</a> answer these questions:</p>\n\n<ol>\n  <li>I was hired for one thing, but ended up doing something <em>very</em> different that I don\u2019t enjoy. What do I do?</li>\n  <li>How do I tell my manager that I\u2019m moving into management on another team?</li>\n</ol>\n",
@@ -11531,11 +11618,14 @@
             "pubDate": "Wed, 29 Mar 2017 19:00:00 +0000",
             "title": "Episode 53: Bait and Switch and Informing Your Manager",
             "entities": {
+                "PERSON": [
+                    "Dave"
+                ],
+                "ORG": [
+                    "Jamison"
+                ],
                 "CARDINAL": [
                     "one"
-                ],
-                "PERSON": [
-                    "very</em"
                 ]
             }
         },
@@ -11559,7 +11649,11 @@
             "pubDate": "Tue, 21 Mar 2017 19:00:00 +0000",
             "title": "Episode 52: Slowness Guilt and I Have No Side Projects",
             "entities": {
+                "PERSON": [
+                    "Dave"
+                ],
                 "ORG": [
+                    "Jamison",
                     "GitHub"
                 ]
             }
@@ -11585,13 +11679,14 @@
             "title": "Episode 51: Junior Scrum Master In Trouble And Jamison Has No Degree",
             "entities": {
                 "PERSON": [
-                    "lots</em"
+                    "Dave"
+                ],
+                "ORG": [
+                    "Jamison",
+                    "Jamison"
                 ],
                 "CARDINAL": [
                     "two"
-                ],
-                "ORG": [
-                    "Jamison"
                 ],
                 "GPE": [
                     "LinkedIn"
@@ -11621,7 +11716,14 @@
             "link": "https://softskills.audio/2017/03/07/episode-50-help-i-didnt-quit-and-manager-of-no-one/",
             "pubDate": "Tue, 07 Mar 2017 19:00:00 +0000",
             "title": "Episode 50: I Didn't Quit and Manager of Zero People",
-            "entities": {}
+            "entities": {
+                "PERSON": [
+                    "Dave"
+                ],
+                "ORG": [
+                    "Jamison"
+                ]
+            }
         },
         {
             "content": "<p><a href=\"https://twitter.com/djsmith42\">Dave</a> and <a href=\"https://twitter.com/jamison_dance\">Jamison</a> answer these questions:</p>\n\n<ol>\n  <li>What do I do if I suspect my co-worker plagiarized my homework assignment in their own interview?</li>\n  <li>My employer is making me provide my own laptop. Is this normal?</li>\n</ol>\n\n<p>We mention <a href=\"https://www.joelonsoftware.com/2000/08/09/the-joel-test-12-steps-to-better-code/\">The Joel Test</a>. Also remember to tweet about the show for  endorsements from <a href=\"https://www.linkedin.com/in/dave-smith-8895461/\">Dave</a> and <a href=\"https://www.linkedin.com/in/jamison-dance-70469b28/\">Jamison</a> for completely serious and relevant skills like doomsday-bunker-building and yodeling.</p>\n",
@@ -11642,7 +11744,19 @@
             "link": "https://softskills.audio/2017/02/28/episode-49-candidate-plagarism-and-tightwad-employer/",
             "pubDate": "Tue, 28 Feb 2017 19:00:00 +0000",
             "title": "Episode 49: Candidate Plagiarism and a Tightwad Employer",
-            "entities": {}
+            "entities": {
+                "PERSON": [
+                    "Dave",
+                    "Dave"
+                ],
+                "ORG": [
+                    "Jamison",
+                    "Jamison"
+                ],
+                "PRODUCT": [
+                    "The Joel Test"
+                ]
+            }
         },
         {
             "content": "<p><a href=\"https://twitter.com/djsmith42\">Dave</a> and <a href=\"https://twitter.com/jamison_dance\">Jamison</a> answer these questions:</p>\n\n<ol>\n  <li>When and how do you quit a company that is on a death march?</li>\n  <li>How do I find out if I\u2019m underpaid?</li>\n</ol>\n",
@@ -11663,7 +11777,14 @@
             "link": "https://softskills.audio/2017/02/21/episode-48-quitting-a-death-march-and-discovering-if-im-underpaid/",
             "pubDate": "Tue, 21 Feb 2017 19:00:00 +0000",
             "title": "Episode 48: Quitting a Death March & Am  I Underpaid",
-            "entities": {}
+            "entities": {
+                "PERSON": [
+                    "Dave"
+                ],
+                "ORG": [
+                    "Jamison"
+                ]
+            }
         },
         {
             "content": "<p><a href=\"https://twitter.com/djsmith42\">Dave</a> and <a href=\"https://twitter.com/jamison_dance\">Jamison</a> answer these questions:</p>\n\n<ol>\n  <li>How soon into a new job is it appropriate to raise concerns?</li>\n  <li>What do you do when issues in your personal life affect your work?</li>\n</ol>\n\n<p>Thank you to Algolia for sponsoring this episode. Check out their job posting at <a href=\"https://www.algolia.com/softskillsengineering\">algolia.com/softskillsengineering</a>.</p>\n\n<p>Also thanks to Battlefield: Bad Company 2, which I spent 310 hours playing.</p>\n",
@@ -11686,7 +11807,11 @@
             "title": "Episode 47: Speaking Up In A New Job and Personal Issues",
             "entities": {
                 "PERSON": [
+                    "Dave",
                     "Algolia"
+                ],
+                "ORG": [
+                    "Jamison"
                 ],
                 "TIME": [
                     "310 hours"
@@ -11714,7 +11839,11 @@
             "title": "Episode 46: My New Crappy Job and Youth vs the Status Quo",
             "entities": {
                 "PERSON": [
+                    "Dave",
                     "Algolia"
+                ],
+                "ORG": [
+                    "Jamison"
                 ]
             }
         },
@@ -11742,8 +11871,8 @@
                     "first",
                     "first"
                 ],
-                "CARDINAL": [
-                    "five"
+                "DATE": [
+                    "five years"
                 ],
                 "PERSON": [
                     "Algolia"
@@ -11775,8 +11904,7 @@
                     "Julia Evans"
                 ],
                 "ORG": [
-                    "Jamison",
-                    "description?</li"
+                    "Jamison"
                 ],
                 "ORDINAL": [
                     "second"
@@ -11805,22 +11933,17 @@
             "entities": {
                 "PERSON": [
                     "Dave",
-                    "I&#39;ve"
+                    "Samantha \ud83d\udc1d Qui\u00f1ones"
                 ],
                 "ORG": [
-                    "Jamison",
-                    "companies?</li",
-                    "Samantha \ud83d\udc1d Qui\u00f1ones",
-                    "href=\"https://twitter.com"
+                    "Jamison"
                 ],
                 "ORDINAL": [
                     "second"
                 ],
                 "DATE": [
-                    "20 years"
-                ],
-                "CARDINAL": [
-                    "14"
+                    "20 years",
+                    "December 14, 2016"
                 ]
             }
         },
@@ -11939,15 +12062,10 @@
             "entities": {
                 "PERSON": [
                     "Dave",
-                    "Lara Hogan.</li"
+                    "Lara Hogan"
                 ],
                 "ORG": [
-                    "Jamison",
-                    "demeaning?</li"
-                ],
-                "CARDINAL": [
-                    "one",
-                    "1:1</a"
+                    "Jamison"
                 ],
                 "ORDINAL": [
                     "first"
@@ -12006,8 +12124,7 @@
                     "Dave"
                 ],
                 "ORG": [
-                    "Jamison",
-                    "work?</li"
+                    "Jamison"
                 ]
             }
         },
@@ -12037,7 +12154,8 @@
                 ],
                 "ORG": [
                     "Jamison",
-                    "Jamison"
+                    "Jamison",
+                    "Netflix"
                 ]
             }
         },
@@ -12065,8 +12183,7 @@
                     "Dave"
                 ],
                 "ORG": [
-                    "Jamison",
-                    "talent?</li"
+                    "Jamison"
                 ]
             }
         },
@@ -12210,8 +12327,7 @@
                     "Dave"
                 ],
                 "ORG": [
-                    "Jamison",
-                    "repository?</li"
+                    "Jamison"
                 ]
             }
         },
@@ -12267,17 +12383,13 @@
                     "28"
                 ],
                 "ORG": [
-                    "Jamison",
-                    "decisions.</li",
-                    "things.</li",
-                    "clear.</li"
+                    "Jamison"
                 ],
                 "PERSON": [
                     "Dave",
                     "Dave",
-                    "might</em",
-                    "Dave",
-                    "li><a href=\"https://twitter.com"
+                    "Staying",
+                    "Dave"
                 ],
                 "DATE": [
                     "Two to three years",
@@ -12286,6 +12398,9 @@
                 ],
                 "ORDINAL": [
                     "first"
+                ],
+                "FAC": [
+                    "Monty Hall"
                 ]
             }
         },
@@ -12319,6 +12434,9 @@
                 ],
                 "PERSON": [
                     "Dave"
+                ],
+                "DATE": [
+                    "these days"
                 ]
             }
         },
@@ -12346,11 +12464,12 @@
                     "26"
                 ],
                 "ORG": [
-                    "Jamison"
+                    "Jamison",
+                    "Do Things"
                 ],
                 "PERSON": [
                     "Dave",
-                    "mzabriskie\">Matt Zabriskie\u2019s</a"
+                    "Matt Zabriskie"
                 ]
             }
         },
@@ -12379,23 +12498,16 @@
                 ],
                 "ORG": [
                     "Jamison",
-                    "href=\"http://randsinrepose.com",
+                    "jargon",
                     "Jamison"
                 ],
                 "PERSON": [
                     "Dave",
-                    "Dave Smith",
                     "Dave"
                 ],
-                "GPE": [
-                    "last month?</li",
-                    "Nerds</a"
-                ],
-                "NORP": [
-                    "id=\"can"
-                ],
-                "LOC": [
-                    "knowledge.</li"
+                "DATE": [
+                    "last month",
+                    "last month"
                 ]
             }
         },
@@ -12423,14 +12535,14 @@
                     "24"
                 ],
                 "ORG": [
-                    "Jamison",
-                    "href=\"https://twitter.com"
+                    "Jamison"
                 ],
                 "PERSON": [
                     "Dave"
                 ],
                 "PRODUCT": [
-                    "Twitter"
+                    "Twitter",
+                    "https://twitter.com/iam_preethi/status/766758679743954944"
                 ]
             }
         },
@@ -12498,7 +12610,8 @@
                     "21"
                 ],
                 "ORG": [
-                    "Jamison"
+                    "Jamison",
+                    "jargon"
                 ],
                 "PERSON": [
                     "Dave"
@@ -12926,7 +13039,7 @@
                 ],
                 "ORG": [
                     "Jamison",
-                    "CTO.</p"
+                    "CTO"
                 ],
                 "PERSON": [
                     "Dave",

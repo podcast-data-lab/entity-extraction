@@ -28,20 +28,24 @@
             "title": "Bonus: Miriam J. Anderson reviews \u201cWar, Women, and Post-conflict Empowerment\u201d",
             "entities": {
                 "WORK_OF_ART": [
-                    "War, Women"
+                    "War, Women",
+                    "Read More..."
                 ],
                 "ORG": [
-                    "Sierra",
-                    "Review"
+                    "Sierra Leone"
                 ],
                 "NORP": [
                     "Sierra Leoneans"
                 ],
                 "PERSON": [
-                    "Miriam Anderson"
+                    "Miriam Anderson",
+                    "Anderson"
+                ],
+                "DATE": [
+                    "week"
                 ],
                 "FAC": [
-                    "The Monkey Cage.&#160"
+                    "The Monkey Cage"
                 ]
             }
         },
@@ -65,21 +69,25 @@
             "entities": {
                 "PERSON": [
                     "Carolyn E. Holmes",
-                    "Evan"
+                    "Eve Fairbanks",
+                    "Evan Lieberman"
                 ],
                 "ORG": [
-                    "The Monkey Cage",
-                    "Racial Awakening&#160;by"
+                    "The Monkey Cage"
                 ],
                 "CARDINAL": [
                     "about two"
                 ],
                 "GPE": [
                     "South Africa",
-                    "South Africa"
+                    "South Africa",
+                    "Apartheid"
                 ],
                 "LOC": [
                     "the New South Africa"
+                ],
+                "WORK_OF_ART": [
+                    "Read More..."
                 ]
             }
         },
@@ -99,12 +107,15 @@
             "pubDate": "Sat, 08 Apr 2023 13:00:00 +0000",
             "title": "Ep. 169: A conversation with Oumar Ba, Marame Gueye, and Bamba Ndiaye on Senegalese democracy",
             "entities": {
+                "DATE": [
+                    "Today"
+                ],
                 "PERSON": [
                     "Rachel",
                     "Oumar Ba",
                     "Marame Gueye",
                     "Macky Sall",
-                    "Ousmane"
+                    "Ousmane Sonko\u2019s"
                 ],
                 "ORG": [
                     "Bamba Ndiaye"
@@ -112,6 +123,9 @@
                 "NORP": [
                     "Senegalese",
                     "Senegalese"
+                ],
+                "WORK_OF_ART": [
+                    "Read More..."
                 ]
             }
         },
@@ -193,7 +207,8 @@
                 "PERSON": [
                     "Jeffrey Paller",
                     "Prince Guma",
-                    "Patience Mususa"
+                    "Patience Mususa",
+                    "Jeffrey"
                 ],
                 "ORG": [
                     "the Governance and Local Development Policy Institute"
@@ -203,6 +218,10 @@
                 ],
                 "LOC": [
                     "Africa"
+                ],
+                "WORK_OF_ART": [
+                    "Five Trends",
+                    "Read More..."
                 ]
             }
         },
@@ -223,10 +242,7 @@
             "title": "Ep. 166: A conversation with fellow Bamba Ndiaye and Ugandan activist Bwesigye Bwa Mwesigire",
             "entities": {
                 "PERSON": [
-                    "Fellow Bamba Ndiaye",
-                    "Bwesigye Bwa",
-                    "Mwesigire",
-                    "href=\"https://www.ufahamuafrica.com/2023/03/11"
+                    "Fellow Bamba Ndiaye"
                 ],
                 "LOC": [
                     "Africa"
@@ -236,11 +252,13 @@
                 ],
                 "ORG": [
                     "Ugandan",
-                    "Emory University&#8217;s Institute of African Studies",
+                    "Bwesigye Bwa Mwesigire",
+                    "Emory University\u2019s Institute of African Studies",
                     "Cornell University"
                 ],
                 "WORK_OF_ART": [
-                    "PhD"
+                    "PhD",
+                    "Read More..."
                 ],
                 "LANGUAGE": [
                     "English"
@@ -292,9 +310,8 @@
                     "Diakhoumba Gassama"
                 ],
                 "ORG": [
-                    "the Hewlett Foundation&#8217;s Gender Equity and Governance Program",
+                    "the Hewlett Foundation\u2019s",
                     "Maseke Rioba",
-                    "FGM",
                     "FGM"
                 ],
                 "GPE": [
@@ -322,14 +339,18 @@
             "pubDate": "Sat, 18 Feb 2023 14:00:00 +0000",
             "title": "Bonus: Travis B. Curtice\u2019s review of \u201cPolicing and Politics in Nigeria\u201d",
             "entities": {
+                "ORG": [
+                    "The Monkey Cage\u2019s",
+                    "ENDSARS"
+                ],
                 "PERSON": [
                     "Travis B. Curtice"
                 ],
-                "ORG": [
-                    "ENDSARS"
-                ],
                 "DATE": [
                     "July 2022"
+                ],
+                "WORK_OF_ART": [
+                    "Read More..."
                 ]
             }
         }

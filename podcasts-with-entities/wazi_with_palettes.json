@@ -36,11 +36,17 @@
             "pubDate": "Fri, 11 Mar 2022 08:56:28 GMT",
             "title": "Wrong Answers Only ",
             "entities": {
+                "ORG": [
+                    "Wrong Answers"
+                ],
                 "DATE": [
                     "last season"
                 ],
                 "WORK_OF_ART": [
                     "Love"
+                ],
+                "LAW": [
+                    "Miriam(Artist)-https://www.instagram.com/mimi_koko2/\nWazi-https://www.instagram.com/wazipodcast/"
                 ]
             }
         },
@@ -69,17 +75,17 @@
             "pubDate": "Thu, 24 Feb 2022 07:00:00 GMT",
             "title": "Things We Like - INSECURE",
             "entities": {
-                "ORG": [
-                    "Miriam &"
-                ],
-                "PERSON": [
-                    "Daisy"
+                "CARDINAL": [
+                    "\ud83c\udffe."
                 ],
                 "PRODUCT": [
                     "Insecure"
                 ],
                 "DATE": [
                     "the last 5 seasons"
+                ],
+                "LAW": [
+                    "Miriam(Artist)-https://www.instagram.com/mimi_koko2/\nWazi-https://www.instagram.com/wazipodcast/"
                 ]
             }
         },
@@ -109,6 +115,7 @@
             "title": "Things We Like Intro",
             "entities": {
                 "ORG": [
+                    "Hosted",
                     "Daisy Nduta &"
                 ],
                 "PERSON": [
@@ -117,6 +124,9 @@
                 ],
                 "WORK_OF_ART": [
                     "We Got Y'all"
+                ],
+                "LAW": [
+                    "Miriam(Artist)-https://www.instagram.com/mimi_koko2/\nWazi-https://www.instagram.com/wazipodcast/"
                 ]
             }
         },
@@ -148,12 +158,13 @@
                 ],
                 "PERSON": [
                     "Chepkemboi Mang'ira",
+                    "Follow Own Your Culture on Instagram",
                     "Buy Chepkemboi's"
                 ],
                 "ORG": [
-                    "author &amp",
+                    "author & founder",
                     "Own Your Culture",
-                    "art &"
+                    "art & fashion"
                 ]
             }
         },
@@ -182,15 +193,13 @@
             "entities": {
                 "PERSON": [
                     "Chao AKA Headstrong Historian",
-                    "Kenyan History.</p",
-                    "Chao Maina</strong"
+                    "Kenyan History",
+                    "\ud83d\ude0a\nYou",
+                    "Chao Maina"
                 ],
                 "NORP": [
                     "Kenyan",
                     "African"
-                ],
-                "GPE": [
-                    "headstronghistorian/\">Instagram</a"
                 ]
             }
         },
@@ -221,7 +230,8 @@
                     "first"
                 ],
                 "PERSON": [
-                    "Monica Kemoli"
+                    "Monica Kemoli",
+                    "\ud83d\ude0a\n"
                 ],
                 "ORG": [
                     "Tangaza Magazine",
@@ -232,6 +242,9 @@
                 ],
                 "DATE": [
                     "its first year"
+                ],
+                "GPE": [
+                    "Tangaza"
                 ]
             }
         },
@@ -262,6 +275,9 @@
                 "CARDINAL": [
                     "one"
                 ],
+                "DATE": [
+                    "today"
+                ],
                 "WORK_OF_ART": [
                     "Love"
                 ],
@@ -269,10 +285,10 @@
                     "Uzen Ikhile",
                     "Diana Wambui",
                     "Yuhi Kamugisha",
-                    "Joel Meshak.</p"
+                    "Joel Meshak"
                 ],
                 "ORG": [
-                    "DM us even!</p"
+                    "Signal"
                 ]
             }
         },
@@ -311,7 +327,7 @@
                     "II"
                 ],
                 "ORG": [
-                    "DM us even!</p"
+                    "Signal"
                 ]
             }
         },
@@ -349,7 +365,7 @@
                 ],
                 "ORG": [
                     "Immigrant",
-                    "DM us even!</p"
+                    "Signal"
                 ]
             }
         },
@@ -377,20 +393,20 @@
             "pubDate": "Wed, 07 Jul 2021 07:41:52 GMT",
             "title": "LANGUAGE & BARRIERS",
             "entities": {
+                "ORG": [
+                    "KAYA II",
+                    "language & it\u2019s",
+                    "Signal"
+                ],
                 "CARDINAL": [
-                    "II",
                     "4",
                     "5"
-                ],
-                "ORG": [
-                    "language &",
-                    "DM us even!</p"
                 ],
                 "PERSON": [
                     "Uzen Ikhile",
                     "Diana Wambui",
                     "Yuhi Kamugisha",
-                    "Joel Meshak.</p"
+                    "Joel Meshak"
                 ]
             }
         },
@@ -425,8 +441,8 @@
                     "Miriam",
                     "Daisy"
                 ],
-                "ORG": [
-                    "DM us even!</p"
+                "LAW": [
+                    "Miriam(Artist)-https://www.instagram.com/mimi_koko2/\nWazi-https://www.instagram.com/wazipodcast/\nDaisy-https://www.instagram.com/ndutadaisy/"
                 ]
             }
         },
@@ -456,8 +472,7 @@
                 "PERSON": [
                     "Samuel Sichangi",
                     "Dj",
-                    "Blinky Bill).</p",
-                    "\ud83d\ude0a</p"
+                    "Blinky Bill"
                 ],
                 "CARDINAL": [
                     "1/6",
@@ -466,6 +481,9 @@
                 "ORG": [
                     "EA",
                     "Red Bull Music"
+                ],
+                "GPE": [
+                    "Nairobi"
                 ],
                 "NORP": [
                     "Kenyans"
@@ -498,20 +516,21 @@
                 "DATE": [
                     "This week"
                 ],
+                "ORG": [
+                    "Kilihippie",
+                    "Kilihippie",
+                    "Kilihippie"
+                ],
                 "GPE": [
-                    "Nairobi"
+                    "Nairobi",
+                    "Kilihippie-https://www.instagram.com/kilihippie/"
                 ],
                 "PERSON": [
                     "Hop",
-                    "socials:</p",
-                    "album/1447-vol-1\">https://mookh.com",
                     "Hii Si"
                 ],
-                "ORG": [
-                    "Kilihippie",
-                    "kilihippie/\">https://www.instagram.com/kilihippie/</a></p",
-                    "Kilihippie",
-                    "mookh&nbsp;</p"
+                "PRODUCT": [
+                    "Blacc"
                 ]
             }
         },
@@ -541,8 +560,11 @@
                 "CARDINAL": [
                     "20"
                 ],
-                "PERSON": [
-                    "job\".</p"
+                "ORG": [
+                    "Taxes"
+                ],
+                "LAW": [
+                    "Miriam(Artist)-https://www.instagram.com/mimi_koko2/\nWazi-https://www.instagram.com/wazipodcast/"
                 ]
             }
         },
@@ -576,11 +598,15 @@
                     "Usanii"
                 ],
                 "GPE": [
-                    "Sanaa"
+                    "Sanaa",
+                    "Kenya"
                 ],
                 "PERSON": [
                     "Wairimu Nduba",
+                    "Wer Jokenya",
                     "Wer Jokenya!You",
+                    "Wer Jokenya",
+                    "Wer Jokenya Instagram",
                     "Wer Jokenya"
                 ],
                 "NORP": [
@@ -617,11 +643,18 @@
                     "this week"
                 ],
                 "ORG": [
-                    "YOU!We're"
+                    "YOU!We're",
+                    "Hosted"
                 ],
                 "PERSON": [
                     "Miriam Koske",
-                    "Daisy Nduta</p"
+                    "Daisy Nduta"
+                ],
+                "LAW": [
+                    "Miriam(Artist)-https://www.instagram.com/mimi_koko2/\nWazi-https://www.instagram.com/wazipodcast/"
+                ],
+                "NORP": [
+                    "Clean-https://www.rrr.org.au/explore/programs/so-fresh-so-clean"
                 ]
             }
         },
@@ -653,7 +686,7 @@
                 ],
                 "PERSON": [
                     "Morris Mwangi",
-                    "\ud83d\ude0a</p"
+                    "\ud83d\ude0a\nMorris-https://www.instagram.com/morristheactor/"
                 ],
                 "ORG": [
                     "AKA Morris"
@@ -666,6 +699,9 @@
                 ],
                 "NORP": [
                     "African"
+                ],
+                "FAC": [
+                    "Naivaa- https://www.instagram.com/nai_vaa/"
                 ]
             }
         },
@@ -698,6 +734,9 @@
                 ],
                 "DATE": [
                     "our 20s"
+                ],
+                "LAW": [
+                    "Miriam(Artist)-https://www.instagram.com/mimi_koko2/\nWazi-https://www.instagram.com/wazipodcast/"
                 ]
             }
         },
@@ -724,23 +763,19 @@
             "pubDate": "Wed, 07 Oct 2020 07:00:00 GMT",
             "title": "Doing What Makes You Happy & Other Tales with Wahura Kabutha",
             "entities": {
-                "CARDINAL": [
-                    "3"
-                ],
                 "PERSON": [
+                    "Episode 3",
                     "Wahura Kabutha",
                     "Wahura",
                     "Youtube",
-                    "watch).</p",
-                    "\ud83d\ude0a</p",
-                    "Wahura"
+                    "YouTube-https://www.youtube.com/channel/UCuCsv_d1SHgOk9wV_tZugdQ"
                 ],
                 "NORP": [
                     "Kenyan"
                 ],
                 "ORG": [
                     "Wahura",
-                    "channel/UCuCsv_d1SHgOk9wV_tZugdQ\">https://www.youtube.com/channel/UCuCsv_d1SHgOk9wV_tZugdQ</a></p>\n<p>Wazi-<a href=\"https://www.instagram.com"
+                    "Wahura"
                 ]
             }
         },
@@ -768,7 +803,7 @@
             "title": "Paukwa? Pakawa x2 :It's a Throwback Trivia",
             "entities": {
                 "CARDINAL": [
-                    "2!!</p"
+                    "2"
                 ],
                 "DATE": [
                     "This week"
@@ -776,9 +811,15 @@
                 "NORP": [
                     "Kenyan"
                 ],
+                "ORG": [
+                    "Hosted"
+                ],
                 "PERSON": [
                     "Miriam Koske",
-                    "Daisy Nduta</p"
+                    "Daisy Nduta"
+                ],
+                "LAW": [
+                    "Miriam(Artist)-https://www.instagram.com/mimi_koko2/\nWazi-https://www.instagram.com/wazipodcast/"
                 ]
             }
         },
@@ -807,7 +848,7 @@
             "entities": {
                 "GPE": [
                     "Sanaa",
-                    "Nairobi.</p"
+                    "Nairobi"
                 ],
                 "ORDINAL": [
                     "2nd"
@@ -818,6 +859,9 @@
                 "ORG": [
                     "Naivaa",
                     "Naivaa"
+                ],
+                "FAC": [
+                    "Naivaa- https://www.instagram.com/nai_vaa/"
                 ]
             }
         },
@@ -850,6 +894,12 @@
                 "PERSON": [
                     "Miriam Koske",
                     "Miriam"
+                ],
+                "GPE": [
+                    "Nairobi"
+                ],
+                "LAW": [
+                    "Miriam(Artist)-https://www.instagram.com/mimi_koko2/\nWazi-https://www.instagram.com/wazipodcast/"
                 ]
             }
         },
@@ -878,11 +928,11 @@
             "entities": {
                 "PERSON": [
                     "Jeremy Mwendwa",
-                    "Bay Media</a>.He"
+                    "Entrepreneur",
+                    "Jeremy-https://www.instagram.com/jaymwendwa/\nGrand Bay Media -https://www.instagram.com/grandbaymedia/\nWAZI-https://www.instagram.com/wazipodcast/"
                 ],
-                "ORG": [
-                    "film&amp;Tv",
-                    "Socials:</p"
+                "FAC": [
+                    "Grand Bay Media"
                 ],
                 "DATE": [
                     "the years"
@@ -913,7 +963,8 @@
             "title": "Usanii wa Sanaa ",
             "entities": {
                 "GPE": [
-                    "Sanaa"
+                    "Sanaa",
+                    "Nairobi"
                 ],
                 "DATE": [
                     "this every other week"
@@ -956,6 +1007,7 @@
                 ],
                 "ORG": [
                     "Instagram",
+                    "Spotify",
                     "Apple Podcast",
                     "Google Podcast",
                     "iHeart"

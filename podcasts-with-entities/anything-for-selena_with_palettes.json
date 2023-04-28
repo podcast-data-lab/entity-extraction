@@ -41,6 +41,9 @@
                 "ORDINAL": [
                     "first"
                 ],
+                "ORG": [
+                    "WBUR"
+                ],
                 "CARDINAL": [
                     "two"
                 ],
@@ -51,7 +54,7 @@
                     "Violation"
                 ],
                 "DATE": [
-                    "March 22.</p"
+                    "March 22"
                 ]
             }
         },
@@ -99,6 +102,9 @@
                 ],
                 "GPE": [
                     "Argentina"
+                ],
+                "DATE": [
+                    "decades ago"
                 ]
             }
         },
@@ -257,7 +263,7 @@
                 ],
                 "ORG": [
                     "Selena",
-                    "WBUR"
+                    "WBUR Cityspace"
                 ]
             }
         },
@@ -293,13 +299,14 @@
             "pubDate": "Sat, 13 Mar 2021 17:17:34 -0500",
             "title": "Selena y nosotros",
             "entities": {
+                "ORG": [
+                    "el final de la",
+                    "Selena",
+                    "a\u00f1o de an\u00e1lisis del legado de Selena"
+                ],
                 "GPE": [
                     "Anything",
                     "revela"
-                ],
-                "ORG": [
-                    "Selena",
-                    "a\u00f1o de an\u00e1lisis del legado de Selena"
                 ],
                 "PERSON": [
                     "Maria"
@@ -350,7 +357,7 @@
                 ],
                 "PERSON": [
                     "Maria",
-                    "La Reina\u2019s"
+                    "La Reina"
                 ],
                 "DATE": [
                     "year-long"
@@ -389,6 +396,9 @@
             "pubDate": "Fri, 12 Mar 2021 18:44:52 -0500",
             "title": "Selena y raza",
             "entities": {
+                "GPE": [
+                    "Tras el debut"
+                ],
                 "PERSON": [
                     "de la",
                     "Maria",
@@ -501,7 +511,7 @@
                     "Maria explora",
                     "honran",
                     "recuerdan",
-                    "el vac\u00edo que dej\u00f3.</p"
+                    "el vac\u00edo que dej\u00f3"
                 ],
                 "NORP": [
                     "han"
@@ -689,6 +699,15 @@
             "pubDate": "Tue, 09 Mar 2021 14:32:06 -0500",
             "title": "Tensi\u00f3n tejana ",
             "entities": {
+                "ORG": [
+                    "Selena",
+                    "fue",
+                    "como",
+                    "de Estados Unidos",
+                    "Incluso el New York Times",
+                    "Selena",
+                    "Sin"
+                ],
                 "PERSON": [
                     "reina de la",
                     "elev\u00f3",
@@ -704,14 +723,6 @@
                 ],
                 "DATE": [
                     "1990"
-                ],
-                "ORG": [
-                    "fue",
-                    "como",
-                    "de Estados Unidos",
-                    "Incluso el New York Times",
-                    "Selena",
-                    "Sin"
                 ],
                 "GPE": [
                     "m\u00fasica",
@@ -753,6 +764,10 @@
             "pubDate": "Tue, 02 Feb 2021 14:25:05 -0500",
             "title": "Tejano Tension",
             "entities": {
+                "CARDINAL": [
+                    "5",
+                    "two"
+                ],
                 "ORG": [
                     "Selena",
                     "Tejano",
@@ -775,9 +790,6 @@
                     "Latino",
                     "Selena",
                     "Maria"
-                ],
-                "CARDINAL": [
-                    "two"
                 ]
             }
         },
@@ -813,13 +825,6 @@
             "pubDate": "Mon, 08 Mar 2021 12:38:07 -0500",
             "title": "La pol\u00edtica de las pompis ",
             "entities": {
-                "GPE": [
-                    "los noventa",
-                    "la cultura",
-                    "los traseros",
-                    "raza",
-                    "la cultura latina"
-                ],
                 "WORK_OF_ART": [
                     "Baby Got Back"
                 ],
@@ -839,6 +844,12 @@
                     "JLO",
                     "Ella",
                     "conversaci\u00f3n postergada"
+                ],
+                "GPE": [
+                    "la cultura",
+                    "los traseros",
+                    "raza",
+                    "la cultura latina."
                 ],
                 "NORP": [
                     "belfie"
@@ -935,12 +946,13 @@
             "title": "Nace un s\u00edmbolo ",
             "entities": {
                 "ORG": [
+                    "el transcurso de su vida",
                     "Selena",
                     "un",
                     "el modelo",
                     "para todos los Latinos",
                     "sigue la",
-                    "Curly Velasquez de Pero Like.</p"
+                    "Curly Velasquez de Pero Like"
                 ],
                 "PERSON": [
                     "manifestaci\u00f3n de una",
@@ -1134,7 +1146,7 @@
             "title": "Selena y yo",
             "entities": {
                 "PERSON": [
-                    "su ni\u00f1ez",
+                    "Durante su ni\u00f1ez",
                     "Mar\u00eda Garc\u00eda",
                     "la mexicana",
                     "Mar\u00eda Garc\u00eda",

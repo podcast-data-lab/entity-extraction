@@ -206,7 +206,7 @@
                     "Moraes"
                 ],
                 "ORG": [
-                    "Mamadou Ndiaye <",
+                    "Mamadou Ndiaye",
                     "UN News"
                 ]
             }
@@ -296,13 +296,14 @@
             "entities": {
                 "GPE": [
                     "MyH20",
+                    "China",
                     "MyH20"
                 ],
                 "CARDINAL": [
                     "two\u00a0billion"
                 ],
                 "PERSON": [
-                    "Xiaoyuan \"Charlene\"",
+                    "Xiaoyuan \"Charlene\" Ren",
                     "Jane Goodall",
                     "Xiaoyuan Ren"
                 ],
@@ -408,10 +409,7 @@
                     "South Asian"
                 ],
                 "GPE": [
-                    "Los Angeles.</p><p"
-                ],
-                "PRODUCT": [
-                    "Learn"
+                    "Los Angeles"
                 ],
                 "ORG": [
                     "UN News"
@@ -518,6 +516,9 @@
                     "nearly 200,000",
                     "around 300"
                 ],
+                "DATE": [
+                    "annually"
+                ],
                 "PERSON": [
                     "Dana Tizya-Tramm",
                     "Vuntut Gwitchin First Nation",
@@ -612,7 +613,16 @@
                 ],
                 "ORG": [
                     "UN",
-                    "href=\"https://soundcloud.com"
+                    "Apple Podcast",
+                    "Castbox",
+                    "Google Podcast",
+                    "SoundCloud"
+                ],
+                "GPE": [
+                    "Spotify"
+                ],
+                "PERSON": [
+                    "Stitcher"
                 ]
             }
         }
@@ -649,9 +659,6 @@
     "pubDate": "Thu, 28 Oct 2021 03:35:05 -0400",
     "title": "No Denying It",
     "entities": {
-        "PERSON": [
-            "p><strong><a"
-        ],
         "ORG": [
             "UN",
             "UN"

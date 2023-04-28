@@ -42,6 +42,12 @@
                     "Adam",
                     "Bruce",
                     "Adam"
+                ],
+                "EVENT": [
+                    "the Show 1517 Podcasts 1517"
+                ],
+                "GPE": [
+                    "Youtube"
                 ]
             }
         },
@@ -78,12 +84,15 @@
                 "CARDINAL": [
                     "1"
                 ],
+                "ORG": [
+                    "Christ",
+                    "Apple Podcasts 1517"
+                ],
                 "DATE": [
                     "1517"
                 ],
-                "ORG": [
-                    "Podcast Network",
-                    "Apple"
+                "GPE": [
+                    "Youtube"
                 ]
             }
         },
@@ -123,9 +132,15 @@
                 "DATE": [
                     "today"
                 ],
+                "EVENT": [
+                    "the Show 1517 Podcasts 1517"
+                ],
+                "GPE": [
+                    "Youtube"
+                ],
                 "ORG": [
                     "The Podcast Network",
-                    "Apple"
+                    "Apple Podcasts"
                 ]
             }
         },
@@ -158,12 +173,16 @@
                 ],
                 "ORG": [
                     "Caleb",
-                    "the Thinking Fellows"
+                    "the Thinking Fellows",
+                    "the God Hypothesis  Cosmic Chemistry"
                 ],
                 "PERSON": [
                     "Adam",
                     "Bruce",
-                    "Science Mix</a></p"
+                    "Science Mix"
+                ],
+                "GPE": [
+                    "Youtube"
                 ]
             }
         },
@@ -196,11 +215,16 @@
                 ],
                 "PERSON": [
                     "Adam",
-                    "Bruce",
-                    "Hour Hymn Sing</a></p"
+                    "Bruce"
                 ],
                 "NORP": [
                     "Christian"
+                ],
+                "EVENT": [
+                    "the Show 1517 Podcasts Happy Hour Hymn Sing 1517"
+                ],
+                "GPE": [
+                    "Youtube"
                 ]
             }
         },
@@ -233,7 +257,12 @@
                 ],
                 "PERSON": [
                     "Adam",
-                    "Bruce"
+                    "Bruce",
+                    "Adam Francsico",
+                    "Bruce Hillman"
+                ],
+                "EVENT": [
+                    "the Show 1517 Podcasts 1517"
                 ]
             }
         },
@@ -272,7 +301,12 @@
                     "Scott Keith",
                     "Adam Francisco",
                     "Bruce Hilman",
-                    "scott-keith\">Scott Keith</a></p"
+                    "Caleb Keith",
+                    "Scott Keith",
+                    "Adam Francisco Bruce"
+                ],
+                "EVENT": [
+                    "the Show 1517 Podcasts Preaching the Text See More"
                 ]
             }
         },
@@ -351,7 +385,7 @@
                     "Adam Francisco",
                     "Bruce Hillman",
                     "John Hoyum",
-                    "John Hoyum</a></p"
+                    "John Hoyum"
                 ]
             }
         },
@@ -379,18 +413,22 @@
             "pubDate": "Tue, 07 Feb 2023 20:32:00 +0000",
             "title": "The Return of the King (Lord of the Ring's Trilogy)",
             "entities": {
-                "GPE": [
-                    "Keith",
-                    "Tolkien"
-                ],
                 "PERSON": [
+                    "Scott Keith",
                     "Caleb Keith",
                     "Adam Francisco",
                     "Bruce Hilman",
                     "Tolkien"
                 ],
                 "ORG": [
+                    "Rings",
                     "Tolkien"
+                ],
+                "GPE": [
+                    "Tolkien"
+                ],
+                "EVENT": [
+                    "the Show 1517 Podcasts  Preaching the Text"
                 ]
             }
         },
@@ -420,7 +458,7 @@
             "entities": {
                 "ORG": [
                     "The Two Towers",
-                    "Rings",
+                    "the Rings Trilogy",
                     "the Rings Trilogy"
                 ],
                 "PERSON": [
@@ -442,6 +480,9 @@
                 ],
                 "LOC": [
                     "Middle Earth"
+                ],
+                "EVENT": [
+                    "the Show 1517 Podcasts"
                 ]
             }
         },
@@ -478,8 +519,7 @@
                     "Jim",
                     "Jim",
                     "Jim",
-                    "Jim</a><br",
-                    "L\u00f8ked"
+                    "Jim  Free"
                 ],
                 "GPE": [
                     "Christ"
@@ -488,7 +528,7 @@
                     "1517"
                 ],
                 "ORG": [
-                    "Fellows Absolution"
+                    "the Show Thinking Fellows Absolution"
                 ]
             }
         },
@@ -516,21 +556,24 @@
             "pubDate": "Thu, 12 Jan 2023 13:00:00 +0000",
             "title": "New Year, New You",
             "entities": {
+                "ORG": [
+                    "Thinking Fellows"
+                ],
                 "DATE": [
                     "2022",
-                    "1517"
+                    "1517",
+                    "2022"
                 ],
                 "CARDINAL": [
-                    "2023",
-                    "2022.</p"
+                    "2023"
                 ],
                 "PERSON": [
                     "Scott",
                     "Bruce Hilman",
                     "Bruce"
                 ],
-                "ORG": [
-                    "Apple"
+                "EVENT": [
+                    "the Show 1517 Podcasts 1517 Homepage\u00a0 Thinking Fellows on Apple Podcasts"
                 ]
             }
         },
@@ -558,18 +601,22 @@
             "pubDate": "Mon, 02 Jan 2023 16:06:00 +0000",
             "title": "The Fellowship of the Ring",
             "entities": {
+                "ORG": [
+                    "Thinking Fellows",
+                    "Rings",
+                    "Hobbit"
+                ],
                 "PERSON": [
                     "J.R.R. Tolkien's"
                 ],
                 "ORDINAL": [
                     "first"
                 ],
-                "ORG": [
-                    "Rings",
-                    "Hobbit"
-                ],
                 "NORP": [
                     "Christian"
+                ],
+                "EVENT": [
+                    "the Show 1517 Podcasts"
                 ]
             }
         },
@@ -633,6 +680,10 @@
             "pubDate": "Sat, 17 Dec 2022 16:47:00 +0000",
             "title": "The Hobbit",
             "entities": {
+                "ORG": [
+                    "Thinking Fellows",
+                    "Hobbit"
+                ],
                 "PERSON": [
                     "Fellows",
                     "Roman Catcholic"
@@ -644,8 +695,8 @@
                 "ORDINAL": [
                     "first"
                 ],
-                "ORG": [
-                    "Hobbit"
+                "EVENT": [
+                    "the Show 1517 Podcasts  The Hobbit"
                 ]
             }
         },
@@ -673,25 +724,32 @@
             "pubDate": "Sun, 11 Dec 2022 15:49:00 +0000",
             "title": "Reading Tolkien",
             "entities": {
-                "GPE": [
-                    "J.R.R. Tolkien"
-                ],
                 "ORG": [
+                    "Thinking Fellows",
                     "Caleb",
                     "Tolkien",
                     "Tolkien",
-                    "C.S. Lewis"
+                    "C.S. Lewis",
+                    "Apple Podcasts"
+                ],
+                "GPE": [
+                    "J.R.R. Tolkien"
                 ],
                 "PERSON": [
                     "Adam",
-                    "Tolkien",
-                    "Apple Podcasts</a"
+                    "Tolkien"
                 ],
                 "NORP": [
                     "Roman Catholic",
                     "Roman",
                     "Christian",
                     "Christian"
+                ],
+                "EVENT": [
+                    "the Show 1517 Podcasts Preaching the Text:  "
+                ],
+                "FAC": [
+                    "Spotify"
                 ]
             }
         },
@@ -720,22 +778,24 @@
             "title": "How the Church Reads the Bible",
             "entities": {
                 "ORG": [
+                    "Caleb",
                     "Scott"
                 ],
                 "PERSON": [
                     "Adam",
                     "John Hoyum",
-                    "John"
+                    "John",
+                    "Steve Paulson"
                 ],
                 "WORK_OF_ART": [
                     "Bible",
-                    "true\">Preaching the Text with Steve Paulson",
                     "Bible",
                     "Bible"
                 ],
                 "DATE": [
                     "1517",
-                    "Tuesday"
+                    "Tuesday",
+                    "1517"
                 ]
             }
         },
@@ -766,12 +826,16 @@
                 "DATE": [
                     "this year",
                     "1517",
+                    "1517 1517",
                     "Tuesday",
                     "next week",
                     "Tuesday"
                 ],
                 "PRODUCT": [
                     "Scott"
+                ],
+                "EVENT": [
+                    "Podcasts Giving"
                 ],
                 "GPE": [
                     "Giving"
@@ -811,6 +875,9 @@
                 "NORP": [
                     "Christians",
                     "Christians"
+                ],
+                "EVENT": [
+                    "the Show 1517 Podcasts HWSS Bentonville"
                 ]
             }
         },
@@ -851,6 +918,9 @@
                 ],
                 "ORG": [
                     "HWSS"
+                ],
+                "EVENT": [
+                    "the Show 1517 Podcasts \u00a0"
                 ]
             }
         },
@@ -887,8 +957,13 @@
                 ],
                 "PERSON": [
                     "Fellows",
-                    "Luther",
-                    "Scott"
+                    "Luther"
+                ],
+                "EVENT": [
+                    "Reformation Day Blog 1517"
+                ],
+                "WORK_OF_ART": [
+                    "The Unintended Reformation"
                 ]
             }
         },
@@ -916,18 +991,20 @@
             "pubDate": "Wed, 26 Oct 2022 13:16:00 +0000",
             "title": "Justification By The Word",
             "entities": {
+                "ORG": [
+                    "The Thinking Fellows",
+                    "Lexham Academic",
+                    "Amazon  Justification"
+                ],
                 "PERSON": [
                     "Jack Kilcrease",
                     "Jack",
-                    "Jack",
                     "Word",
+                    "Jack",
                     "Word"
                 ],
                 "GPE": [
-                    "Word</span></em><span"
-                ],
-                "ORG": [
-                    "Lexham Academic"
+                    "Lexham"
                 ]
             }
         },
@@ -956,7 +1033,8 @@
             "title": "Consciences Captive to the Word of God (HWSS Live 2022)",
             "entities": {
                 "ORG": [
-                    "The Thinking Fellows"
+                    "The Thinking Fellows",
+                    "Worms"
                 ],
                 "GPE": [
                     "Sandiego",
@@ -968,8 +1046,8 @@
                     "Fellows",
                     "Luther"
                 ],
-                "CARDINAL": [
-                    "2023</a></p"
+                "DATE": [
+                    "2023"
                 ]
             }
         },
@@ -999,7 +1077,8 @@
             "entities": {
                 "ORG": [
                     "The Thinking Fellows",
-                    "Apple"
+                    "the Show  Thinking Fellows on",
+                    "Apple Podcasts 1517 Podcasts \u00a0"
                 ],
                 "PERSON": [
                     "Bruce Hillman",
@@ -1033,7 +1112,7 @@
             "entities": {
                 "ORG": [
                     "Thinking Fellows",
-                    "Apple"
+                    "Apple Podcasts"
                 ]
             }
         },
@@ -1133,7 +1212,7 @@
                 "ORG": [
                     "Caleb",
                     "Scott",
-                    "Apple"
+                    "the Show  Thinking Fellows on"
                 ],
                 "PERSON": [
                     "Adam"
@@ -1173,8 +1252,7 @@
             "entities": {
                 "ORG": [
                     "Caleb",
-                    "Scott",
-                    "Apple"
+                    "Scott"
                 ],
                 "PERSON": [
                     "Adam"
@@ -1215,15 +1293,11 @@
                     "Reformation",
                     "Reformation"
                 ],
-                "WORK_OF_ART": [
-                    "Rate the Show"
-                ],
-                "ORG": [
-                    "Apple",
-                    "Apple"
-                ],
                 "DATE": [
                     "1521"
+                ],
+                "ORG": [
+                    "The Three Treatises\u00a0"
                 ]
             }
         },
@@ -1259,9 +1333,6 @@
                 ],
                 "NORP": [
                     "Christianity"
-                ],
-                "WORK_OF_ART": [
-                    "A Case for the Real Jesus\u00a0</a></p"
                 ]
             }
         },
@@ -1296,6 +1367,9 @@
                 "NORP": [
                     "Christian",
                     "Christian"
+                ],
+                "ORG": [
+                    "the Show Credo 1517"
                 ]
             }
         },
@@ -1328,8 +1402,7 @@
                 ],
                 "PERSON": [
                     "Adam Francisco",
-                    "Gospel",
-                    "Justin Martyr"
+                    "Gospel"
                 ]
             }
         },
@@ -1360,8 +1433,7 @@
                 "ORG": [
                     "The Thinking Fellows",
                     "Daniel Emery Price",
-                    "the New Testament",
-                    "Sort of Commentary on the Parables"
+                    "the New Testament"
                 ],
                 "PERSON": [
                     "Erick Sorenson",
@@ -1402,20 +1474,19 @@
             "entities": {
                 "ORG": [
                     "Caleb",
+                    "Scott",
                     "the Old Testament",
                     "the Old Testament",
-                    "the Old Testament"
+                    "the Old Testament",
+                    "the OT Unveiling Mercy Podcast  Limping With God  Christ",
+                    "OT"
                 ],
                 "PERSON": [
-                    "Scott",
                     "Adam",
                     "Chad Bird"
                 ],
-                "TIME": [
-                    "minutes"
-                ],
-                "WORK_OF_ART": [
-                    "https://www.1517.org/podcasts/unveiling-mercy\">Unveiling Mercy Podcast</a></p"
+                "EVENT": [
+                    "the Show 40 minutes"
                 ]
             }
         },
@@ -1445,7 +1516,8 @@
             "entities": {
                 "ORG": [
                     "Caleb",
-                    "Apple"
+                    "the Show  Thinking Fellows on",
+                    "Apple Podcasts"
                 ],
                 "CARDINAL": [
                     "two"
@@ -1491,8 +1563,7 @@
             "title": "Why You Should Have Children",
             "entities": {
                 "ORG": [
-                    "Thinking Fellows",
-                    "Apple"
+                    "Thinking Fellows"
                 ]
             }
         },
@@ -1521,8 +1592,7 @@
             "title": "Why You Should Read Things With Which You Disagree",
             "entities": {
                 "ORG": [
-                    "The Thinking Fellows",
-                    "Apple"
+                    "The Thinking Fellows"
                 ]
             }
         },
@@ -1551,14 +1621,10 @@
             "title": "Why You Should Study History",
             "entities": {
                 "ORG": [
-                    "The Thinking Fellows",
-                    "Apple"
+                    "The Thinking Fellows"
                 ],
                 "PERSON": [
                     "Francisco"
-                ],
-                "WORK_OF_ART": [
-                    "Rate the Show"
                 ]
             }
         },
@@ -1593,11 +1659,8 @@
                 "CARDINAL": [
                     "one"
                 ],
-                "WORK_OF_ART": [
-                    "Rate the Show"
-                ],
-                "ORG": [
-                    "Apple"
+                "DATE": [
+                    "1517"
                 ]
             }
         },
@@ -1626,8 +1689,8 @@
             "title": "Why You Should Study Philosophy",
             "entities": {
                 "ORG": [
-                    "Scott",
-                    "Apple"
+                    "Caleb",
+                    "Scott"
                 ],
                 "PERSON": [
                     "Dan Deen"
@@ -1660,14 +1723,15 @@
             "entities": {
                 "ORG": [
                     "Thinking Fellows",
-                    "Apple"
+                    "the Thinking Fellows  Rate"
                 ],
                 "PERSON": [
                     "Law",
                     "Gospel"
                 ],
                 "CARDINAL": [
-                    "two"
+                    "two",
+                    "1517"
                 ]
             }
         },
@@ -1698,13 +1762,16 @@
                 "ORG": [
                     "Caleb",
                     "Scott",
-                    "Apple"
+                    "Apple Podcasts"
                 ],
                 "PERSON": [
                     "Adam"
                 ],
-                "WORK_OF_ART": [
-                    "Rate Thinking Fellows on"
+                "DATE": [
+                    "1517"
+                ],
+                "LAW": [
+                    "Podcast Network Celebration\u00a0 Support the Show  Rate Thinking Fellows"
                 ]
             }
         },
@@ -1733,6 +1800,7 @@
             "title": "Why You Should Know Something About Islam",
             "entities": {
                 "ORG": [
+                    "Caleb",
                     "Scott",
                     "Islam"
                 ],
@@ -1742,6 +1810,9 @@
                 "NORP": [
                     "Islam",
                     "Christianity"
+                ],
+                "DATE": [
+                    "1517"
                 ]
             }
         },
@@ -1774,6 +1845,16 @@
                 ],
                 "NORP": [
                     "Reformation"
+                ],
+                "DATE": [
+                    "1517",
+                    "1517"
+                ],
+                "LAW": [
+                    "Podcast Network Celebration Support"
+                ],
+                "ORG": [
+                    "HWSS Confrences"
                 ]
             }
         },
@@ -1801,12 +1882,14 @@
             "pubDate": "Tue, 19 Apr 2022 16:02:39 +0000",
             "title": "Why You Should Have a Low Anthropology",
             "entities": {
+                "ORG": [
+                    "Thinking Fellows"
+                ],
                 "NORP": [
                     "Christians"
                 ],
                 "PERSON": [
-                    "Gospel",
-                    "href=\"https://www.1517.org\">1517</a></p"
+                    "Gospel"
                 ]
             }
         },
@@ -1933,14 +2016,8 @@
                 "DATE": [
                     "today"
                 ],
-                "GPE": [
-                    "Arkansas"
-                ],
-                "WORK_OF_ART": [
-                    "Rate the Thinking Fellows on"
-                ],
                 "ORG": [
-                    "Apple"
+                    "the Thinking Fellows  HWSS Arkansas"
                 ]
             }
         },
@@ -1970,6 +2047,12 @@
             "entities": {
                 "PERSON": [
                     "Fellows"
+                ],
+                "ORG": [
+                    "NWA"
+                ],
+                "DATE": [
+                    "1517"
                 ]
             }
         },
@@ -1997,8 +2080,8 @@
             "pubDate": "Wed, 09 Mar 2022 02:00:22 +0000",
             "title": "The Abolition of Man",
             "entities": {
-                "WORK_OF_ART": [
-                    "true\">The Abolition of Man</span></em><span data-preserver-spaces="
+                "ORG": [
+                    "Thinking Fellows"
                 ],
                 "PERSON": [
                     "C.S. Lewis",
@@ -2007,6 +2090,9 @@
                 ],
                 "NORP": [
                     "Christian"
+                ],
+                "EVENT": [
+                    "the Show 1517 Podcasts"
                 ]
             }
         },
@@ -2034,15 +2120,22 @@
             "pubDate": "Tue, 01 Mar 2022 19:37:21 +0000",
             "title": "C.S. Lewis on The Way",
             "entities": {
-                "LAW": [
-                    "chapter two"
-                ],
                 "PERSON": [
+                    "Fellows",
                     "Lewis",
                     "Tao"
                 ],
+                "LAW": [
+                    "chapter two"
+                ],
+                "WORK_OF_ART": [
+                    "The Abolition of Man"
+                ],
                 "NORP": [
                     "Christian"
+                ],
+                "DATE": [
+                    "1517 1517"
                 ]
             }
         },
@@ -2074,10 +2167,9 @@
                     "first"
                 ],
                 "WORK_OF_ART": [
-                    "true\">The Abolition of Man"
+                    "The Abolition of Man"
                 ],
                 "PERSON": [
-                    "Lewis",
                     "Lewis"
                 ]
             }
@@ -2114,13 +2206,15 @@
                 ],
                 "DATE": [
                     "2022",
+                    "1517",
                     "1517"
                 ],
                 "NORP": [
                     "Lutherans"
                 ],
                 "ORG": [
-                    "the Thinking Fellows"
+                    "the Thinking Fellows",
+                    "HWSS NWA 1517 Home"
                 ]
             }
         },
@@ -2149,16 +2243,14 @@
             "title": "Jordan Peterson Needs a Preacher",
             "entities": {
                 "PERSON": [
+                    "Fellows",
                     "Jordan Peterson",
-                    "Joe Rogan Podcast",
+                    "Peterson",
                     "Peterson"
                 ],
                 "WORK_OF_ART": [
                     "Bible",
                     "The Thinking Fellows"
-                ],
-                "NORP": [
-                    "sin.</span></p"
                 ]
             }
         },
@@ -2187,9 +2279,10 @@
             "title": "The Last Battle",
             "entities": {
                 "ORG": [
-                    "Thinking Fellows",
-                    "Narnia</span></em><span",
-                    "Battle</span></em><span"
+                    "Thinking Fellows"
+                ],
+                "WORK_OF_ART": [
+                    "The Chronicles of Narnia"
                 ],
                 "GPE": [
                     "Narnia"
@@ -2233,14 +2326,14 @@
                 "ORDINAL": [
                     "first"
                 ],
-                "ORG": [
-                    "Narnia</span></em><span"
+                "WORK_OF_ART": [
+                    "The Chronicles of Narnia"
                 ],
                 "GPE": [
                     "Narnia"
                 ],
-                "CARDINAL": [
-                    "1517</span></p"
+                "DATE": [
+                    "1517"
                 ]
             }
         },
@@ -2284,6 +2377,9 @@
                 ],
                 "NORP": [
                     "Christian"
+                ],
+                "DATE": [
+                    "1517"
                 ]
             }
         },
@@ -2321,7 +2417,11 @@
                 ],
                 "GPE": [
                     "Narnia",
-                    "Pevensie"
+                    "Pevensie",
+                    "Narnia"
+                ],
+                "EVENT": [
+                    "the Show 1517 Podcasts 1517 Blog"
                 ]
             }
         },
@@ -2350,24 +2450,28 @@
             "title": "The Voyage of the Dawn Treader",
             "entities": {
                 "PERSON": [
+                    "Scott",
                     "Adam"
                 ],
                 "ORG": [
                     "Caleb"
                 ],
-                "GPE": [
-                    "Treader.</span></em><span",
-                    "Aslan"
+                "WORK_OF_ART": [
+                    "The Voyage of the Dawn Treader",
+                    "The Chronicles of Narnia"
                 ],
                 "ORDINAL": [
                     "third"
                 ],
                 "DATE": [
-                    "four years"
+                    "four years",
+                    "1517 1517"
                 ],
                 "NORP": [
-                    "Caspian",
                     "Christian"
+                ],
+                "GPE": [
+                    "Aslan"
                 ]
             }
         },
@@ -2395,27 +2499,28 @@
             "pubDate": "Tue, 28 Dec 2021 15:39:53 +0000",
             "title": "Prince Caspian",
             "entities": {
+                "PERSON": [
+                    "Scott",
+                    "Prince Caspian",
+                    "C.S. Lewis",
+                    "Gospel"
+                ],
                 "ORG": [
                     "Caleb",
                     "Caleb",
                     "Scott"
                 ],
-                "PRODUCT": [
-                    "Caspian</span></em><span"
-                ],
                 "ORDINAL": [
                     "second"
                 ],
-                "PERSON": [
-                    "C.S. Lewis",
-                    "Gospel"
-                ],
                 "GPE": [
-                    "Narnia.</span></em><span"
+                    "Narnia"
                 ],
                 "NORP": [
-                    "Christian",
-                    "Caspian"
+                    "Christian"
+                ],
+                "EVENT": [
+                    "the Show 1517 Podcasts"
                 ]
             }
         },
@@ -2454,8 +2559,15 @@
                 "ORDINAL": [
                     "first"
                 ],
+                "GPE": [
+                    "Narnia"
+                ],
                 "NORP": [
                     "Christian"
+                ],
+                "DATE": [
+                    "Christmas",
+                    "1517 1517"
                 ]
             }
         },
@@ -2484,14 +2596,15 @@
             "title": "The Chronicles of Narnia",
             "entities": {
                 "ORG": [
-                    "Scott",
-                    "Narnia</span></em><span"
+                    "Caleb",
+                    "Scott"
                 ],
                 "PERSON": [
                     "Adam",
                     "C.S. Lewis"
                 ],
                 "GPE": [
+                    "Narnia",
                     "Narnia"
                 ],
                 "CARDINAL": [
@@ -2542,6 +2655,9 @@
                 ],
                 "NORP": [
                     "Roman Catholic"
+                ],
+                "EVENT": [
+                    "the Show 1517 Podcasts \u00a0"
                 ]
             }
         },
@@ -2581,6 +2697,9 @@
                 "NORP": [
                     "Christian"
                 ],
+                "DATE": [
+                    "1517"
+                ],
                 "CARDINAL": [
                     "Two",
                     "Three"
@@ -2617,10 +2736,6 @@
                 ],
                 "PERSON": [
                     "Lewis"
-                ],
-                "WORK_OF_ART": [
-                    "The Space Trilogy",
-                    "The Weight of Glory</a></p"
                 ]
             }
         },
@@ -2649,23 +2764,26 @@
             "title": "C.S. Lewis: The Most Reluctant Convert",
             "entities": {
                 "PERSON": [
+                    "Scott",
                     "Caleb Keith",
                     "Adam Francisco",
                     "Lewis",
                     "Lewis"
                 ],
                 "ORG": [
-                    "C.S. Lewis"
+                    "C.S. Lewis",
+                    "the Show The Thinking Fellowship",
+                    "The Thinking Fellows"
                 ],
                 "NORP": [
                     "Christianity"
                 ],
                 "DATE": [
-                    "Today"
+                    "Today",
+                    "1517"
                 ],
-                "WORK_OF_ART": [
-                    "true\">The Thinking Fellowship",
-                    "The Thinking Fellows first C.S. Lewis Episode</span></a></p"
+                "GPE": [
+                    "C.S."
                 ]
             }
         },
@@ -2764,7 +2882,8 @@
             "title": "Comfort and Assurance",
             "entities": {
                 "ORG": [
-                    "The Thinking Fellows"
+                    "The Thinking Fellows",
+                    "the Show HWSS Registration \u00a0"
                 ],
                 "GPE": [
                     "Las Vegas"
@@ -2838,11 +2957,13 @@
             "title": "The Pope and the Law",
             "entities": {
                 "ORG": [
+                    "Caleb",
                     "Scott",
-                    "the Smalcald Articles"
+                    "the Smalcald Articles",
+                    "The Outlaw God Podcast"
                 ],
-                "WORK_OF_ART": [
-                    "outlawgod\">The Outlaw God Podcast</a></p"
+                "EVENT": [
+                    "the Show 1517"
                 ]
             }
         },
@@ -2870,17 +2991,19 @@
             "pubDate": "Wed, 06 Oct 2021 04:53:18 +0000",
             "title": "The Chief Article of the Christian Faith",
             "entities": {
-                "PERSON": [
-                    "Scott"
+                "ORG": [
+                    "Caleb",
+                    "Scott",
+                    "the Smalcald Articles"
                 ],
                 "ORDINAL": [
                     "first"
                 ],
-                "ORG": [
-                    "the Smalcald Articles"
-                ],
                 "NORP": [
                     "trinitarian"
+                ],
+                "EVENT": [
+                    "the Show 1517 Podcasts"
                 ]
             }
         },
@@ -2909,11 +3032,18 @@
             "title": "Introducing The Smalcald Articles",
             "entities": {
                 "ORG": [
+                    "Caleb",
                     "Scott",
                     "Smalcald"
                 ],
                 "PERSON": [
                     "Luther"
+                ],
+                "DATE": [
+                    "1517 1517"
+                ],
+                "GPE": [
+                    "Las Vegas"
                 ]
             }
         },
@@ -2954,6 +3084,12 @@
                 ],
                 "FAC": [
                     "the Lutheran Confessions"
+                ],
+                "WORK_OF_ART": [
+                    "Bible"
+                ],
+                "GPE": [
+                    "Las Vegas"
                 ]
             }
         },
@@ -2981,6 +3117,9 @@
             "pubDate": "Tue, 14 Sep 2021 21:34:01 +0000",
             "title": "Nobody Talks About Melanchthon",
             "entities": {
+                "ORG": [
+                    "Caleb"
+                ],
                 "PRODUCT": [
                     "Scott"
                 ],
@@ -2997,7 +3136,7 @@
                 "PERSON": [
                     "Philip Melanchthon",
                     "Sermon",
-                    "Bob Hiller</a></p"
+                    "Bob Hiller"
                 ],
                 "GPE": [
                     "Lutheran"
@@ -3028,14 +3167,18 @@
             "pubDate": "Tue, 07 Sep 2021 11:01:14 +0000",
             "title": "Vocation and the Drowning of Baptism",
             "entities": {
+                "ORG": [
+                    "Caleb",
+                    "the Book of Concord"
+                ],
                 "PERSON": [
                     "Scott"
                 ],
-                "ORG": [
-                    "the Book of Concord"
-                ],
                 "ORDINAL": [
                     "First"
+                ],
+                "EVENT": [
+                    "the Show 1517 Podcasts  HWSS Las Vegas"
                 ]
             }
         },
@@ -3134,14 +3277,15 @@
             "pubDate": "Wed, 18 Aug 2021 15:48:51 +0000",
             "title": "Freedom and Reason",
             "entities": {
+                "ORG": [
+                    "Caleb",
+                    "the Augsburg Confession"
+                ],
                 "PERSON": [
                     "Scott"
                 ],
                 "LAW": [
                     "Article 18"
-                ],
-                "ORG": [
-                    "the Augsburg Confession"
                 ]
             }
         },
@@ -3170,11 +3314,15 @@
             "title": "Do I Have To Obey Government?",
             "entities": {
                 "ORG": [
+                    "Caleb",
                     "Scott"
                 ],
                 "LAW": [
                     "article 16 of the Augsburg Confession",
                     "Article 16"
+                ],
+                "EVENT": [
+                    "the Show 1517 Podcasts 1517 Music  HWSS Las Vegas"
                 ]
             }
         },
@@ -3238,10 +3386,8 @@
                 ],
                 "ORG": [
                     "Caleb",
-                    "Augsburg"
-                ],
-                "WORK_OF_ART": [
-                    "Rate the Show"
+                    "Augsburg",
+                    "the Show  Rate the Show on"
                 ]
             }
         },
@@ -3270,7 +3416,7 @@
             "title": "Confession is for Absolution",
             "entities": {
                 "ORG": [
-                    "Augsburg Confession",
+                    "The Augsburg Confession",
                     "the Augsburg Confession"
                 ],
                 "CARDINAL": [
@@ -3279,9 +3425,6 @@
                 ],
                 "NORP": [
                     "Lutherans"
-                ],
-                "WORK_OF_ART": [
-                    "true\">The Christ Key</span></a></p> <p>"
                 ]
             }
         },
@@ -3320,6 +3463,9 @@
                 ],
                 "CARDINAL": [
                     "7-9"
+                ],
+                "EVENT": [
+                    "the Show 1517 Podcasts"
                 ]
             }
         },
@@ -3348,9 +3494,13 @@
             "title": "How am I Saved?",
             "entities": {
                 "ORG": [
+                    "Caleb",
                     "Scott",
                     "the Augsburg Confession",
                     "the Augsburg Confession"
+                ],
+                "EVENT": [
+                    "the Show 1517 Podcasts"
                 ]
             }
         },
@@ -3379,9 +3529,11 @@
             "title": "A Race Toward Justification ",
             "entities": {
                 "ORG": [
+                    "Caleb",
                     "Scott",
                     "the Augsburg Confession",
-                    "Caleb"
+                    "Caleb",
+                    "Apple Podcasts"
                 ],
                 "ORDINAL": [
                     "first"
@@ -3395,6 +3547,9 @@
                 ],
                 "PERSON": [
                     "Scott"
+                ],
+                "DATE": [
+                    "1517"
                 ]
             }
         },
@@ -3434,7 +3589,7 @@
                     "Reformation"
                 ],
                 "WORK_OF_ART": [
-                    "href=\"https://bookofconcord.org/\">The Book of Concord"
+                    "The Book of Concord"
                 ]
             }
         },
@@ -3462,11 +3617,17 @@
             "pubDate": "Tue, 15 Jun 2021 17:27:46 +0000",
             "title": "What About Evolution?",
             "entities": {
+                "ORG": [
+                    "Caleb"
+                ],
                 "PERSON": [
                     "Scott"
                 ],
                 "WORK_OF_ART": [
                     "Bible"
+                ],
+                "EVENT": [
+                    "the Show 1517 Podcasts"
                 ]
             }
         },
@@ -3504,6 +3665,9 @@
                 ],
                 "GPE": [
                     "Baptism"
+                ],
+                "WORK_OF_ART": [
+                    "Bible"
                 ]
             }
         },
@@ -3543,7 +3707,11 @@
                     "Christians"
                 ],
                 "WORK_OF_ART": [
-                    "The Book of Concord\u00a0<"
+                    "Bible",
+                    "The Book of Concord"
+                ],
+                "EVENT": [
+                    "Believe Series"
                 ]
             }
         },
@@ -3574,8 +3742,7 @@
                 "ORG": [
                     "The Thinking Fellows Podcast",
                     "Caleb",
-                    "A Field Guide",
-                    "Apple"
+                    "Apple Podcast"
                 ],
                 "DATE": [
                     "1517"
@@ -3593,7 +3760,6 @@
                     "Bible",
                     "Bible",
                     "Bible",
-                    "A Field Guide",
                     "Bible"
                 ]
             }
@@ -3625,8 +3791,7 @@
                 "PERSON": [
                     "Philip Bartelt",
                     "John Hoyum",
-                    "Luther",
-                    "Kolb"
+                    "Luther"
                 ],
                 "ORG": [
                     "the \"Holy Maker",
@@ -3666,13 +3831,11 @@
                     "Scott"
                 ],
                 "DATE": [
-                    "the year"
+                    "the year",
+                    "1517"
                 ],
                 "ORG": [
                     "Caleb"
-                ],
-                "GPE": [
-                    "Concord"
                 ]
             }
         },
@@ -3776,12 +3939,13 @@
             "pubDate": "Tue, 20 Apr 2021 23:50:04 +0000",
             "title": "Thou Shalt Not Steal",
             "entities": {
-                "ORG": [
-                    "Caleb"
-                ],
                 "PERSON": [
+                    "Scott",
                     "John discuss Luther\u2019s",
                     "Luther"
+                ],
+                "ORG": [
+                    "Caleb"
                 ],
                 "ORDINAL": [
                     "seventh"
@@ -3853,14 +4017,15 @@
             "pubDate": "Tue, 06 Apr 2021 18:17:38 +0000",
             "title": "Remember the Sabbath",
             "entities": {
-                "ORG": [
-                    "Caleb"
-                ],
                 "PERSON": [
+                    "Scott",
                     "Adam",
                     "Law",
                     "Adam",
                     "Luther"
+                ],
+                "ORG": [
+                    "Caleb"
                 ],
                 "ORDINAL": [
                     "third",
@@ -3897,15 +4062,17 @@
             "pubDate": "Tue, 30 Mar 2021 18:23:55 +0000",
             "title": "In Defense of Christian Ritual ",
             "entities": {
-                "ORG": [
-                    "Caleb"
-                ],
                 "PERSON": [
+                    "Scott",
                     "Adam",
                     "David Andersen",
                     "Ed Killian",
                     "David",
                     "David"
+                ],
+                "ORG": [
+                    "Caleb",
+                    "Amazon"
                 ],
                 "WORK_OF_ART": [
                     "In Defense of Christian Ritual",
@@ -3949,6 +4116,12 @@
                 "ORDINAL": [
                     "first",
                     "second"
+                ],
+                "EVENT": [
+                    "the Show"
+                ],
+                "DATE": [
+                    "1517"
                 ]
             }
         },
@@ -4011,6 +4184,10 @@
             "pubDate": "Tue, 09 Mar 2021 17:25:53 +0000",
             "title": "Q&A: Lewis, Tolkien, and Hearing the Gospel",
             "entities": {
+                "ORG": [
+                    "Caleb",
+                    "C.S. Lewis"
+                ],
                 "PERSON": [
                     "Scott",
                     "J.R.R. Tolkien",
@@ -4019,12 +4196,7 @@
                 "NORP": [
                     "Christian"
                 ],
-                "ORG": [
-                    "C.S. Lewis"
-                ],
                 "WORK_OF_ART": [
-                    "Bible",
-                    "The Chronicles of Narnia\u00a0<",
                     "Bible"
                 ]
             }
@@ -4054,7 +4226,8 @@
             "entities": {
                 "ORG": [
                     "Caleb",
-                    "the Small Catechism"
+                    "the Small Catechism",
+                    "The Small Catechism \u00a0"
                 ],
                 "PERSON": [
                     "Scott",
@@ -4066,6 +4239,9 @@
                 ],
                 "PRODUCT": [
                     "Answers"
+                ],
+                "DATE": [
+                    "1517"
                 ]
             }
         },
@@ -4095,7 +4271,8 @@
                 "ORG": [
                     "Caleb",
                     "Luther",
-                    "the Small Catechism"
+                    "the Small Catechism",
+                    "the Table of Duties"
                 ],
                 "PERSON": [
                     "Scott",
@@ -4131,7 +4308,8 @@
             "title": "The Sacrament of the Altar",
             "entities": {
                 "ORG": [
-                    "the Small Catechism, Luther"
+                    "the Small Catechism, Luther",
+                    "The Small Catechism\u00a0"
                 ],
                 "PERSON": [
                     "Luther"
@@ -4173,6 +4351,12 @@
                 ],
                 "FAC": [
                     "the Small Catechism"
+                ],
+                "NORP": [
+                    "Christians"
+                ],
+                "DATE": [
+                    "1517"
                 ]
             }
         },
@@ -4207,7 +4391,11 @@
                     "Caleb",
                     "Catechism",
                     "the Means of Grace",
-                    "Baptism, Luther follows Scripture"
+                    "Baptism, Luther follows Scripture",
+                    "The Small Catechism Online"
+                ],
+                "DATE": [
+                    "1517"
                 ]
             }
         },
@@ -4234,11 +4422,12 @@
             "pubDate": "Tue, 26 Jan 2021 19:44:49 +0000",
             "title": "The Petitions of the Lord\u2019s Prayer",
             "entities": {
+                "PERSON": [
+                    "Scott",
+                    "Rod"
+                ],
                 "ORG": [
                     "Caleb"
-                ],
-                "PERSON": [
-                    "Rod"
                 ]
             }
         },
@@ -4267,7 +4456,8 @@
             "title": "The Creed",
             "entities": {
                 "ORG": [
-                    "Caleb"
+                    "Caleb",
+                    "the Small Catechism"
                 ],
                 "PERSON": [
                     "Scott",
@@ -4275,7 +4465,7 @@
                     "Luther"
                 ],
                 "WORK_OF_ART": [
-                    "the Book of Concord"
+                    "the Show Outline of the Book of Concord"
                 ]
             }
         },
@@ -4345,7 +4535,12 @@
                 ],
                 "PERSON": [
                     "Scott",
-                    "Rod"
+                    "Rod",
+                    "Lange Outline"
+                ],
+                "DATE": [
+                    "this day",
+                    "1517"
                 ]
             }
         },
@@ -4373,6 +4568,9 @@
             "pubDate": "Tue, 29 Dec 2020 17:48:07 +0000",
             "title": "Introduction to the Lutheran Confessions ",
             "entities": {
+                "ORG": [
+                    "Caleb"
+                ],
                 "PERSON": [
                     "Scott",
                     "Scott"
@@ -4382,10 +4580,10 @@
                 ],
                 "WORK_OF_ART": [
                     "the Book of Concord",
-                    "The Book of Concord\u00a0<"
+                    "The Book of Concord"
                 ],
-                "ORG": [
-                    "https://www.amazon.com/dp/0800627407/ref=cm_sw_em_r_mt_dp_-T26FbC6FNAVM"
+                "DATE": [
+                    "1517"
                 ]
             }
         },
@@ -4413,18 +4611,20 @@
             "pubDate": "Tue, 22 Dec 2020 17:32:59 +0000",
             "title": "Mall Santa",
             "entities": {
+                "ORG": [
+                    "Caleb",
+                    "Santa"
+                ],
                 "PERSON": [
                     "Scott",
                     "Scott"
                 ],
                 "DATE": [
                     "Christmas",
-                    "Christmas"
+                    "Christmas",
+                    "1517"
                 ],
                 "GPE": [
-                    "Santa"
-                ],
-                "ORG": [
                     "Santa"
                 ]
             }
@@ -4453,11 +4653,12 @@
             "pubDate": "Tue, 15 Dec 2020 18:20:54 +0000",
             "title": "Christmas and Church Seasons",
             "entities": {
+                "PERSON": [
+                    "Scott",
+                    "Dave Rufner"
+                ],
                 "ORG": [
                     "Caleb"
-                ],
-                "PERSON": [
-                    "Dave Rufner"
                 ],
                 "DATE": [
                     "Christmas"
@@ -4497,6 +4698,9 @@
                 "PERSON": [
                     "Rod Rosenbladt",
                     "John Hoyum"
+                ],
+                "DATE": [
+                    "1517"
                 ]
             }
         },
@@ -4529,6 +4733,7 @@
                 ],
                 "DATE": [
                     "Tuesday 2020",
+                    "1517",
                     "Tuesday"
                 ],
                 "ORG": [
@@ -4573,7 +4778,6 @@
                     "John Hoyum"
                 ],
                 "NORP": [
-                    "Christianity",
                     "Christianity"
                 ]
             }
@@ -4608,6 +4812,9 @@
                 "LOC": [
                     "Caleb"
                 ],
+                "DATE": [
+                    "1517"
+                ],
                 "WORK_OF_ART": [
                     "Rate the Show"
                 ]
@@ -4639,8 +4846,7 @@
             "entities": {
                 "PERSON": [
                     "Scott",
-                    "Paul Koch",
-                    "Jagged Word"
+                    "Paul Koch"
                 ],
                 "ORG": [
                     "Caleb"
@@ -4678,7 +4884,7 @@
                 "PERSON": [
                     "Scott",
                     "Chad Bird",
-                    "Mike Heiser.</p"
+                    "Mike Heiser"
                 ],
                 "ORG": [
                     "Caleb",
@@ -4714,16 +4920,16 @@
             "title": "The Seculosity of COVID",
             "entities": {
                 "ORG": [
+                    "Caleb",
                     "Scott",
                     "COVID",
-                    "Mockingbird Ministries",
-                    "HWSS"
+                    "Mockingbird Ministries"
                 ],
                 "PERSON": [
                     "Dave Zahl"
                 ],
                 "CARDINAL": [
-                    "2021</a></p"
+                    "2021"
                 ]
             }
         },
@@ -4760,7 +4966,8 @@
                     "Luther"
                 ],
                 "DATE": [
-                    "1520"
+                    "1520",
+                    "1517"
                 ],
                 "WORK_OF_ART": [
                     "The Three Treatises"
@@ -4930,9 +5137,6 @@
                 ],
                 "DATE": [
                     "today"
-                ],
-                "LAW": [
-                    "Article on the Law"
                 ]
             }
         },
@@ -4968,6 +5172,9 @@
                 ],
                 "ORG": [
                     "Caleb"
+                ],
+                "DATE": [
+                    "1517"
                 ]
             }
         },
@@ -5002,6 +5209,9 @@
                 "ORG": [
                     "Caleb",
                     "the Augsburg Confession"
+                ],
+                "DATE": [
+                    "1517"
                 ]
             }
         },
@@ -5041,9 +5251,6 @@
                 ],
                 "DATE": [
                     "today"
-                ],
-                "WORK_OF_ART": [
-                    "https://www.1517.org/contributors/philip-bartelt\">Philip Bartelt"
                 ]
             }
         },
@@ -5080,13 +5287,11 @@
                     "Rod"
                 ],
                 "DATE": [
-                    "Days"
+                    "Days",
+                    "1517"
                 ],
                 "LOC": [
                     "Bergen"
-                ],
-                "EVENT": [
-                    "https://www.youtube.com/channel/UCD-6xia3Way8k7XECrcp4ww\">Lutheran Study Days"
                 ]
             }
         },
@@ -5119,8 +5324,7 @@
                 ],
                 "ORG": [
                     "Caleb",
-                    "Melanchthon",
-                    "Apple"
+                    "Melanchthon"
                 ]
             }
         },
@@ -5155,7 +5359,8 @@
                     "Scott",
                     "Rod",
                     "Scott",
-                    "Allegory"
+                    "Allegory",
+                    "Gospel"
                 ],
                 "GPE": [
                     "MA"
@@ -5191,12 +5396,14 @@
             "title": "Weak on Sanctification ",
             "entities": {
                 "ORG": [
-                    "Caleb",
-                    "Apple"
+                    "Caleb"
                 ],
                 "PERSON": [
                     "Scott",
                     "Rod"
+                ],
+                "GPE": [
+                    "Credo"
                 ]
             }
         },
@@ -5225,19 +5432,20 @@
             "title": "Why Not Just Study The Bible",
             "entities": {
                 "PERSON": [
-                    "Scott",
-                    "dp/1945978783"
+                    "Scott"
                 ],
-                "LOC": [
+                "ORG": [
                     "Caleb"
                 ],
                 "WORK_OF_ART": [
-                    "Bible",
-                    "Rate the Show"
+                    "Bible"
                 ],
                 "CARDINAL": [
                     "one",
                     "one"
+                ],
+                "NORP": [
+                    "Itunes"
                 ]
             }
         },
@@ -5267,14 +5475,10 @@
             "entities": {
                 "ORG": [
                     "Thinking Fellows",
-                    "New York Times",
-                    "craftofpreaching\">The Craft of Preaching"
+                    "New York Times"
                 ],
                 "PERSON": [
                     "Are Protests Unsafe"
-                ],
-                "WORK_OF_ART": [
-                    "Rate the Show"
                 ]
             }
         },
@@ -5309,13 +5513,10 @@
                 ],
                 "ORG": [
                     "Caleb",
-                    "Apple"
+                    "Apple Podcasts The Outlaw God Podcast"
                 ],
                 "NORP": [
                     "Christians"
-                ],
-                "WORK_OF_ART": [
-                    "https://podcasts.apple.com/us/podcast/outlaw-god/id1514026452\">The Outlaw God Podcast</a></p"
                 ]
             }
         },
@@ -5355,9 +5556,6 @@
                 ],
                 "DATE": [
                     "today"
-                ],
-                "WORK_OF_ART": [
-                    "https://podcasts.apple.com/us/podcast/outlaw-god/id1514026452\">The Outlaw God Podcast</a></p"
                 ]
             }
         },
@@ -5387,13 +5585,10 @@
             "entities": {
                 "ORG": [
                     "the Thinking Fellows",
-                    "Apple"
+                    "Uwe Siemon-Netto"
                 ],
                 "CARDINAL": [
                     "two"
-                ],
-                "PERSON": [
-                    "Uwe Siemon-Netto"
                 ]
             }
         },
@@ -5427,13 +5622,11 @@
                 ],
                 "ORG": [
                     "Caleb",
-                    "Apple"
+                    "Apple Podcast",
+                    "The Theologians Craft Outlaw"
                 ],
                 "CARDINAL": [
                     "one"
-                ],
-                "NORP": [
-                    "Theologians"
                 ]
             }
         },
@@ -5461,6 +5654,9 @@
             "pubDate": "Tue, 09 Jun 2020 16:13:20 +0000",
             "title": "Are the Categories of Cross and Glory Useful?",
             "entities": {
+                "ORG": [
+                    "The Junior Fellows"
+                ],
                 "ORDINAL": [
                     "second"
                 ],
@@ -5534,8 +5730,7 @@
             "title": "Expertism ",
             "entities": {
                 "ORG": [
-                    "The Thinking Fellows",
-                    "Apple"
+                    "The Thinking Fellows"
                 ]
             }
         },
@@ -5565,9 +5760,6 @@
             "entities": {
                 "PERSON": [
                     "Fellows"
-                ],
-                "ORG": [
-                    "Apple"
                 ]
             }
         },
@@ -5598,12 +5790,14 @@
                 "PERSON": [
                     "Fellows"
                 ],
+                "LOC": [
+                    "Earth"
+                ],
                 "WORK_OF_ART": [
-                    "The Tip of the Iceberg</a></p",
-                    "The Other Worldview</a></p"
+                    "The Tip of the Iceberg  The Abolition of Man  The Other Worldview  The Cruelest Miles  Who Gets to"
                 ],
                 "ORG": [
-                    "The Cruelest Miles</a></p"
+                    "Narrate the World"
                 ]
             }
         },
@@ -5631,20 +5825,18 @@
             "pubDate": "Tue, 05 May 2020 16:31:25 +0000",
             "title": "Lutheran Language and Other Questions",
             "entities": {
-                "ORG": [
-                    "Caleb",
-                    "the Thinking Fellows",
-                    "Apple"
-                ],
                 "PERSON": [
+                    "Scott",
                     "Adam",
                     "Paul"
                 ],
+                "ORG": [
+                    "Caleb",
+                    "the Thinking Fellows",
+                    "the Resurrection  Faithless to Fearless  The Resurrection Fact Mere Christianity Sensible Christianity  "
+                ],
                 "GPE": [
                     "Lutheran"
-                ],
-                "WORK_OF_ART": [
-                    "The Resurrection Fact</a></p"
                 ]
             }
         },
@@ -5672,14 +5864,14 @@
             "pubDate": "Tue, 28 Apr 2020 18:00:02 +0000",
             "title": "Hard Choices",
             "entities": {
+                "ORG": [
+                    "Caleb"
+                ],
                 "PERSON": [
                     "Scott Keith",
                     "Joined",
                     "Paul Koch",
                     "Paul"
-                ],
-                "ORG": [
-                    "Apple"
                 ]
             }
         },
@@ -5715,8 +5907,7 @@
                 ],
                 "ORG": [
                     "Caleb",
-                    "Scandinavian Lutheranism",
-                    "Apple"
+                    "Scandinavian Lutheranism"
                 ]
             }
         },
@@ -5751,20 +5942,21 @@
                     "John",
                     "Fellows",
                     "John",
-                    "Forde"
+                    "Forde",
+                    "Youtube"
                 ],
                 "ORG": [
-                    "Caleb"
+                    "Caleb",
+                    "the Cross  Theology"
                 ],
                 "GPE": [
                     "Seattle"
                 ],
-                "WORK_OF_ART": [
-                    "https://www.youtube.com/channel/UChDdMiZJv8oYMJQQx2vHSzg\">1517 Youtube"
+                "DATE": [
+                    "1517"
                 ],
                 "NORP": [
-                    "Theologian",
-                    "Meets"
+                    "Theologian"
                 ]
             }
         },
@@ -5792,11 +5984,11 @@
             "pubDate": "Tue, 07 Apr 2020 17:08:42 +0000",
             "title": "Fasting, Natural Law, and Baptism",
             "entities": {
+                "ORG": [
+                    "Caleb"
+                ],
                 "PERSON": [
                     "Scott Keith"
-                ],
-                "ORG": [
-                    "Apple"
                 ]
             }
         },
@@ -5830,11 +6022,14 @@
                 ],
                 "ORG": [
                     "Caleb",
-                    "The Craft of Preaching",
-                    "craftofpreaching\">The Craft"
+                    "The Craft of Preaching"
                 ],
                 "DATE": [
+                    "1517",
                     "1517"
+                ],
+                "WORK_OF_ART": [
+                    "Rate the Show The Craft of Preaching  Finding Christ in the Straw"
                 ]
             }
         },
@@ -5900,6 +6095,7 @@
             "title": "COVID-19",
             "entities": {
                 "ORG": [
+                    "Caleb",
                     "Scott",
                     "the Corona Virus"
                 ],
@@ -5908,7 +6104,7 @@
                     "Martin Luther\u2019s"
                 ],
                 "WORK_OF_ART": [
-                    "Handing Over the Goods</a></p"
+                    "Handing Over the Goods  Luther\u2019s Letters of Spiritual Counsel"
                 ]
             }
         },
@@ -5944,7 +6140,6 @@
                 "ORG": [
                     "Caleb",
                     "Straw",
-                    "Apple",
                     "Straw"
                 ]
             }
@@ -5975,21 +6170,12 @@
             "entities": {
                 "ORG": [
                     "The Thinking Fellows",
-                    "class=\"p1\"><a",
-                    "class=\"p2\"><a",
-                    "class=\"p2\"><a",
-                    "class=\"p2\"><a"
+                    "Happiness"
                 ],
                 "PERSON": [
                     "David Andersen",
-                    "Jordan B.",
+                    "Jordan B. Peterson",
                     "bush"
-                ],
-                "CARDINAL": [
-                    "12"
-                ],
-                "WORK_OF_ART": [
-                    "https://thejaggedword.com/2016/06/27/dont-worry-be-happy/\">Don\u2019t Worry be Happy Jagged Word</a></p"
                 ]
             }
         },
@@ -6085,16 +6271,17 @@
             "title": "The Empty Tomb",
             "entities": {
                 "ORG": [
-                    "the Thinking Fellows",
-                    "Apple"
+                    "the Thinking Fellows"
                 ],
                 "PERSON": [
                     "Scott",
-                    "Adam",
-                    "Resurrection Fact</a></p"
+                    "Adam"
                 ],
                 "FAC": [
                     "Caleb"
+                ],
+                "WORK_OF_ART": [
+                    "Rate on Apple Podcasts  Faithless to Fearless  Credo  Resurrection Fact"
                 ]
             }
         },
@@ -6123,8 +6310,7 @@
             "title": "Faithless to Fearless",
             "entities": {
                 "ORG": [
-                    "The Thinking Fellows",
-                    "Apple"
+                    "The Thinking Fellows"
                 ],
                 "PERSON": [
                     "David Andersen"
@@ -6166,8 +6352,7 @@
             "entities": {
                 "PERSON": [
                     "Rod Rosenbladt",
-                    "Scott Keith",
-                    "All</a></p"
+                    "Scott Keith"
                 ],
                 "ORG": [
                     "Caleb"
@@ -6180,6 +6365,12 @@
                 ],
                 "NORP": [
                     "Christianity"
+                ],
+                "DATE": [
+                    "1517"
+                ],
+                "WORK_OF_ART": [
+                    "Rate the Show  Why Believe Anything"
                 ]
             }
         },
@@ -6208,17 +6399,17 @@
             "title": "Christian Apologetics?",
             "entities": {
                 "ORG": [
-                    "Thinking Fellows",
-                    "Apple"
+                    "Thinking Fellows"
                 ],
                 "NORP": [
                     "Christian"
                 ],
-                "WORK_OF_ART": [
-                    "Rate the Show"
+                "DATE": [
+                    "1517"
                 ],
-                "PERSON": [
-                    "Paul Little"
+                "WORK_OF_ART": [
+                    "Rate the Show",
+                    "Paul Little How To Give Your Faith Away"
                 ]
             }
         },
@@ -6253,7 +6444,11 @@
                     "Caleb"
                 ],
                 "DATE": [
-                    "the month of January"
+                    "the month of January",
+                    "1517"
+                ],
+                "WORK_OF_ART": [
+                    "The Small Catechism\u00a0  Mere Christianity\u00a0"
                 ]
             }
         },
@@ -6286,12 +6481,12 @@
                     "Caleb Keith"
                 ],
                 "ORG": [
-                    "Scott"
+                    "Scott",
+                    "Amazon"
                 ],
                 "CARDINAL": [
                     "Two",
                     "Two",
-                    "Three",
                     "Two"
                 ],
                 "NORP": [
@@ -6330,7 +6525,8 @@
                     "The Thinking Fellows"
                 ],
                 "DATE": [
-                    "2019"
+                    "2019",
+                    "1517"
                 ],
                 "EVENT": [
                     "New Year\u2019s"
@@ -6405,7 +6601,14 @@
                     "the Old Testament",
                     "Caleb",
                     "the Gospel of Christ",
-                    "the Old Testament"
+                    "the Old Testament",
+                    "OT"
+                ],
+                "DATE": [
+                    "1517 40min"
+                ],
+                "WORK_OF_ART": [
+                    "Bible"
                 ]
             }
         },
@@ -6481,6 +6684,8 @@
                     "the Thinking Fellows"
                 ],
                 "DATE": [
+                    "1517",
+                    "1517",
                     "1517"
                 ]
             }
@@ -6540,8 +6745,8 @@
             "entities": {
                 "PERSON": [
                     "Fellows",
-                    "z6kgvhG3AkI\">Ken Ham",
-                    "Bill"
+                    "Ken Ham",
+                    "Bill Nye"
                 ]
             }
         },
@@ -6569,6 +6774,11 @@
             "pubDate": "Tue, 12 Nov 2019 14:33:04 +0000",
             "title": "A Missionary to the U.S.",
             "entities": {
+                "ORG": [
+                    "The Thinking Fellows",
+                    "Campbell",
+                    "Family Register for HWSS2020"
+                ],
                 "PERSON": [
                     "Delwyn Campbell",
                     "Gospel",
@@ -6576,9 +6786,6 @@
                 ],
                 "GPE": [
                     "Gary Indiana"
-                ],
-                "ORG": [
-                    "Campbell"
                 ],
                 "DATE": [
                     "2019"
@@ -6616,6 +6823,9 @@
                 "PERSON": [
                     "Dave Zahl",
                     "Dave"
+                ],
+                "CARDINAL": [
+                    "2020"
                 ]
             }
         },
@@ -6650,8 +6860,7 @@
                     "Fellows",
                     "Drs",
                     "Jim Nestingen",
-                    "Steve Paulson",
-                    "All</a></p"
+                    "Steve Paulson"
                 ],
                 "CARDINAL": [
                     "Two",
@@ -6685,15 +6894,10 @@
             "entities": {
                 "PERSON": [
                     "Fellows",
-                    "All</a></p"
+                    "Joy"
                 ],
                 "CARDINAL": [
-                    "two"
-                ],
-                "ORG": [
-                    "href=\"https://signupforms.com"
-                ],
-                "DATE": [
+                    "two",
                     "2020"
                 ]
             }
@@ -6728,6 +6932,9 @@
                 "PERSON": [
                     "Law",
                     "Gospel"
+                ],
+                "GPE": [
+                    "Germany"
                 ]
             }
         },
@@ -6761,9 +6968,11 @@
                 "NORP": [
                     "Christian"
                 ],
+                "DATE": [
+                    "1517"
+                ],
                 "CARDINAL": [
-                    "Two",
-                    "Three"
+                    "Two"
                 ]
             }
         },
@@ -6793,14 +7002,13 @@
             "entities": {
                 "PERSON": [
                     "Fellows",
-                    "Calvin"
+                    "Adam",
+                    "Twitter",
+                    "Scott"
                 ],
                 "ORG": [
                     "Reformed",
-                    "href=\"https://twitter.com"
-                ],
-                "GPE": [
-                    "Institutes</a"
+                    "Facebook Thinking Fellows"
                 ]
             }
         },
@@ -6872,7 +7080,6 @@
                     "Scott",
                     "Adam",
                     "Rod",
-                    "All</a></p",
                     "Thomas Nagel Introduction"
                 ],
                 "DATE": [
@@ -6880,9 +7087,6 @@
                 ],
                 "CARDINAL": [
                     "two"
-                ],
-                "WORK_OF_ART": [
-                    "A Short Introduction To Philosophy\u00a0<"
                 ]
             }
         },
@@ -6918,6 +7122,9 @@
                 ],
                 "NORP": [
                     "Christian"
+                ],
+                "DATE": [
+                    "1517"
                 ],
                 "CARDINAL": [
                     "Two",
@@ -7004,6 +7211,7 @@
                     "Christian"
                 ],
                 "DATE": [
+                    "1517",
                     "1517"
                 ],
                 "GPE": [
@@ -7038,17 +7246,16 @@
                 "ORG": [
                     "The Thinking Fellows",
                     "Christian Scripture",
-                    "The New Testament Documents Are They Reliable</a></p"
+                    "The New Testament Documents Are They Reliable  History"
                 ],
                 "WORK_OF_ART": [
                     "Bible"
                 ],
-                "NORP": [
-                    "Christianity",
-                    "Christianity"
-                ],
                 "PERSON": [
                     "Law"
+                ],
+                "NORP": [
+                    "Christianity"
                 ]
             }
         },
@@ -7080,10 +7287,14 @@
                     "2019"
                 ],
                 "ORG": [
-                    "Thinking Fellows"
+                    "Thinking Fellows",
+                    "the Thinking Fellows  "
                 ],
                 "NORP": [
                     "Scriptural"
+                ],
+                "WORK_OF_ART": [
+                    "The Soul of Christianity"
                 ]
             }
         },
@@ -7115,7 +7326,8 @@
                     "Answer"
                 ],
                 "ORG": [
-                    "the Thinking Fellows"
+                    "the Thinking Fellows",
+                    "The Essential Erasmus"
                 ],
                 "DATE": [
                     "Today"
@@ -7126,8 +7338,8 @@
                 "PERSON": [
                     "Prayer"
                 ],
-                "WORK_OF_ART": [
-                    "Lutheran Book of Prayer</a><br /"
+                "GPE": [
+                    "Norway"
                 ]
             }
         },
@@ -7155,16 +7367,14 @@
             "pubDate": "Tue, 30 Jul 2019 16:19:38 +0000",
             "title": "The English Reformation and the Lutherans",
             "entities": {
-                "ORG": [
+                "GPE": [
                     "Lutheran",
+                    "Lutheran",
+                    "Bergen Norway"
+                ],
+                "ORG": [
                     "the Church of England",
                     "Thinking Fellows"
-                ],
-                "GPE": [
-                    "Lutheran"
-                ],
-                "WORK_OF_ART": [
-                    "Study Days"
                 ],
                 "NORP": [
                     "Enthusiasts"
@@ -7204,6 +7414,9 @@
                 ],
                 "PERSON": [
                     "Fellows"
+                ],
+                "DATE": [
+                    "1517"
                 ]
             }
         },
@@ -7232,19 +7445,20 @@
             "title": "Stoicism ",
             "entities": {
                 "ORG": [
-                    "the Thinking Fellows",
-                    "the Stoic Bridge",
-                    "Apple",
-                    "Apple"
+                    "the Thinking Fellows"
                 ],
                 "PERSON": [
                     "Jordan Peterson",
+                    "Show Notes Podcast Network",
                     "Neil Robinson",
                     "Jordan Peterson"
                 ],
                 "NORP": [
                     "Christianity",
                     "Christianity"
+                ],
+                "FAC": [
+                    "the Stoic Bridge"
                 ],
                 "CARDINAL": [
                     "12"
@@ -7294,9 +7508,6 @@
                 ],
                 "DATE": [
                     "the second half of the 20th century"
-                ],
-                "WORK_OF_ART": [
-                    "soulofchristianity\">The Soul"
                 ]
             }
         },
@@ -7337,6 +7548,7 @@
                     "two"
                 ],
                 "DATE": [
+                    "1517",
                     "1517"
                 ]
             }
@@ -7367,7 +7579,7 @@
             "entities": {
                 "PERSON": [
                     "Dan van Voorhis",
-                    "History Almanac</a"
+                    "Christian History Almanac"
                 ],
                 "NORP": [
                     "Christian"
@@ -7381,6 +7593,9 @@
                 ],
                 "WORK_OF_ART": [
                     "Great Awakenings"
+                ],
+                "DATE": [
+                    "1517"
                 ]
             }
         },
@@ -7409,11 +7624,11 @@
             "title": "The First Great Awakening ",
             "entities": {
                 "ORG": [
-                    "The Thinking Fellows"
+                    "The Thinking Fellows",
+                    "Christian History"
                 ],
                 "PERSON": [
-                    "Dan van Voorhis",
-                    "Christian History"
+                    "Dan van Voorhis"
                 ],
                 "NORP": [
                     "Christianity"
@@ -7423,6 +7638,12 @@
                 ],
                 "ORDINAL": [
                     "first"
+                ],
+                "WORK_OF_ART": [
+                    "Christian History Almanac\u00a0  "
+                ],
+                "CARDINAL": [
+                    "8"
                 ]
             }
         },
@@ -7452,6 +7673,7 @@
             "entities": {
                 "GPE": [
                     "America",
+                    "the United States",
                     "the United States"
                 ],
                 "NORP": [
@@ -7460,12 +7682,6 @@
                 "PERSON": [
                     "Dan van Voorhis",
                     "Dan"
-                ],
-                "ORG": [
-                    "class=\"p2\"><a"
-                ],
-                "LAW": [
-                    "Constitution"
                 ]
             }
         },
@@ -7504,11 +7720,11 @@
                 "GPE": [
                     "America"
                 ],
-                "WORK_OF_ART": [
-                    "A Model of Christian Charity</a></p"
+                "DATE": [
+                    "the first 3000 Years"
                 ],
-                "CARDINAL": [
-                    "3000"
+                "ORG": [
+                    "The Founding Brothers"
                 ]
             }
         },
@@ -7537,11 +7753,8 @@
             "title": "How Do You Know What You Know?",
             "entities": {
                 "ORG": [
-                    "Thinking Fellows"
-                ],
-                "PERSON": [
-                    "History Almanac</a",
-                    "Family Style Theology</a></p"
+                    "Thinking Fellows",
+                    "Soul Craft"
                 ]
             }
         },
@@ -7571,6 +7784,13 @@
             "entities": {
                 "PERSON": [
                     "Fellows"
+                ],
+                "ORG": [
+                    "Apologetics Academy Scott",
+                    "Facebook Dr. Rosenbladt on Facebook Caleb"
+                ],
+                "PRODUCT": [
+                    "Twitter"
                 ]
             }
         },
@@ -7605,7 +7825,8 @@
                     "the Thirty Years War"
                 ],
                 "DATE": [
-                    "this summer"
+                    "this summer",
+                    "1517"
                 ]
             }
         },
@@ -7634,11 +7855,12 @@
             "title": "Gnesios, Philipists, and the Formula of Concord",
             "entities": {
                 "DATE": [
-                    "Today"
+                    "Today",
+                    "1517"
                 ],
                 "ORG": [
                     "the Thinking Fellows",
-                    "Formula"
+                    "The Christian History Almanac"
                 ],
                 "ORDINAL": [
                     "second"
@@ -7676,7 +7898,8 @@
             "entities": {
                 "DATE": [
                     "Between the years 1550",
-                    "1560"
+                    "1560",
+                    "1517"
                 ],
                 "NORP": [
                     "Reformation",
@@ -7719,9 +7942,8 @@
                 "EVENT": [
                     "Melanchthon"
                 ],
-                "PRODUCT": [
-                    "Notes",
-                    "https://1517.org/speakers\">1517 Speakers</a></p"
+                "DATE": [
+                    "1517"
                 ]
             }
         },
@@ -7750,20 +7972,24 @@
             "title": "The Power and Primacy of the Pope, Calvin's Geneva, and Luther on the Quran",
             "entities": {
                 "DATE": [
-                    "the years 1540 through 1545"
+                    "the years 1540 through 1545",
+                    "1517"
                 ],
                 "NORP": [
-                    "Reformation"
+                    "Reformation",
+                    "Podcasts"
                 ],
                 "PERSON": [
                     "Luther",
                     "Calvin",
-                    "Luther",
-                    "Christian History"
+                    "Luther"
                 ],
                 "GPE": [
                     "Lutheran",
                     "Geneva"
+                ],
+                "PRODUCT": [
+                    "The Power"
                 ]
             }
         },
@@ -7792,17 +8018,20 @@
             "title": "Evolution, Zwingli, and other Questions",
             "entities": {
                 "PERSON": [
-                    "Fellows",
-                    "Christian History Magazine</a></p"
+                    "Fellows"
                 ],
                 "DATE": [
-                    "one week"
+                    "one week",
+                    "1517"
                 ],
                 "NORP": [
                     "Reformation"
                 ],
                 "GPE": [
                     "Zwingli"
+                ],
+                "ORG": [
+                    "Christian History Magazine Sensible Christianity  Signature"
                 ]
             }
         },
@@ -7830,19 +8059,27 @@
             "pubDate": "Tue, 02 Apr 2019 15:09:24 +0000",
             "title": "Luther\u2019s Commentaries and Smalcald",
             "entities": {
+                "ORG": [
+                    "Thinking Fellows",
+                    "Smalcald"
+                ],
                 "DATE": [
-                    "between 1535 and 1539"
+                    "between 1535 and 1539",
+                    "1517"
                 ],
                 "PERSON": [
                     "Luther",
                     "Calvin"
                 ],
-                "ORG": [
-                    "Smalcald"
+                "EVENT": [
+                    "Podcasts Dictionary"
                 ],
                 "NORP": [
                     "Latin",
                     "Greek"
+                ],
+                "GPE": [
+                    "Context Calvin"
                 ]
             }
         },
@@ -7878,8 +8115,13 @@
                     "Luther"
                 ],
                 "NORP": [
-                    "Turkish",
-                    "European"
+                    "Turkish"
+                ],
+                "DATE": [
+                    "1517"
+                ],
+                "ORG": [
+                    "The European Reformations Speakers"
                 ]
             }
         },
@@ -7908,18 +8150,24 @@
             "title": "1530: The Augsburg Confession",
             "entities": {
                 "DATE": [
-                    "1530"
+                    "1530",
+                    "1517",
+                    "1517"
                 ],
                 "GPE": [
                     "Augsburg",
                     "Lutheran"
                 ],
                 "ORG": [
-                    "Augsburg"
+                    "Augsburg",
+                    "the Augsburg Confession"
                 ],
                 "NORP": [
                     "Lutherans",
                     "Christian"
+                ],
+                "PERSON": [
+                    "Episode"
                 ]
             }
         },
@@ -7954,13 +8202,11 @@
                     "Ulrich Zwingli"
                 ],
                 "GPE": [
-                    "Wittenberg",
-                    "href=\"https://1517.org"
+                    "Wittenberg"
                 ],
                 "PERSON": [
                     "Zwingli",
                     "Francisco",
-                    "Zwingli",
                     "Bullinger"
                 ],
                 "ORG": [
@@ -7996,7 +8242,8 @@
             "title": "Luther\u2019s Catechisms",
             "entities": {
                 "ORG": [
-                    "the Thinking Fellows"
+                    "the Thinking Fellows",
+                    "The Small Catechism The Large Catechsim"
                 ],
                 "NORP": [
                     "Christian"
@@ -8043,20 +8290,18 @@
                     "Catechesis"
                 ],
                 "DATE": [
-                    "the late 1520s"
+                    "the late 1520s",
+                    "1517"
                 ],
                 "NORP": [
                     "antinomian",
                     "Christian"
                 ],
-                "FAC": [
-                    "Bound Choice"
-                ],
                 "PRODUCT": [
                     "Election"
                 ],
                 "ORG": [
-                    "Wittenberg Theological"
+                    "Wittenberg Theological Method"
                 ]
             }
         },
@@ -8128,9 +8373,6 @@
                 ],
                 "ORG": [
                     "Thinking Fellows"
-                ],
-                "WORK_OF_ART": [
-                    "http://ctsfw.net/media/pdfs/BrauerTheLutheranReformation.pdf\">Pelikan Resource</a></p> <p><a href=\"http://bookofconcord.org"
                 ]
             }
         },
@@ -8166,7 +8408,8 @@
                 ],
                 "PERSON": [
                     "Keith",
-                    "Reformation Humanism"
+                    "Reformation Humanism",
+                    "Meeting Melanchthon"
                 ],
                 "GPE": [
                     "Melanchthon"
@@ -8213,7 +8456,10 @@
                     "Greek"
                 ],
                 "CARDINAL": [
-                    "Three"
+                    "1517Podcasts"
+                ],
+                "LAW": [
+                    "The Three Treatises  "
                 ]
             }
         },
@@ -8247,6 +8493,9 @@
                 ],
                 "NORP": [
                     "Reformation"
+                ],
+                "DATE": [
+                    "1517"
                 ]
             }
         },
@@ -8283,6 +8532,9 @@
                 ],
                 "LOC": [
                     "the Middle Ages"
+                ],
+                "ORG": [
+                    "The Conservative Reformation  Radical Reformation Caleb"
                 ]
             }
         },
@@ -8319,7 +8571,7 @@
                     "the Apostles Creed"
                 ],
                 "WORK_OF_ART": [
-                    "href=\"https://www.soulofchristianity.org\">The Soul of Christianity</a></p"
+                    "The Soul of Christianity 1517 Podcasts HWSS Mockingbird Ministries"
                 ]
             }
         },
@@ -8347,12 +8599,18 @@
             "pubDate": "Tue, 01 Jan 2019 17:14:48 +0000",
             "title": "Discussing Atonement ",
             "entities": {
+                "ORG": [
+                    "Caleb"
+                ],
                 "PERSON": [
                     "Scott Keith",
                     "Kelsi Klembara"
                 ],
                 "NORP": [
                     "Christian"
+                ],
+                "DATE": [
+                    "1517"
                 ]
             }
         },
@@ -8387,13 +8645,10 @@
                 "PERSON": [
                     "Keith",
                     "Caleb",
-                    "Keith Advent Blog</a></p"
+                    "Keith"
                 ],
                 "NORP": [
                     "Christians"
-                ],
-                "GPE": [
-                    "Keith"
                 ]
             }
         },
@@ -8422,12 +8677,14 @@
             "title": "Creativity and Vocation",
             "entities": {
                 "ORG": [
+                    "Caleb",
                     "Scott"
                 ],
                 "PERSON": [
                     "Doug Klembara"
                 ],
                 "DATE": [
+                    "1517",
                     "1517"
                 ]
             }
@@ -8459,11 +8716,11 @@
                 "PERSON": [
                     "Scott",
                     "Dan Price",
-                    "Dan",
-                    "Main Site</a></p"
+                    "Dan"
                 ],
                 "ORG": [
-                    "Caleb"
+                    "Caleb",
+                    "Donate Earlybird Registatrion\u00a0 City Events HWSS Main Site"
                 ],
                 "DATE": [
                     "1517",
@@ -8498,6 +8755,10 @@
             "pubDate": "Tue, 04 Dec 2018 19:56:07 +0000",
             "title": "Q&A December 2018: Sin, Love, and Wrath",
             "entities": {
+                "ORG": [
+                    "Caleb",
+                    "Great Commission Design Donate  Being Dad"
+                ],
                 "PERSON": [
                     "Scott Keith"
                 ]
@@ -8532,14 +8793,13 @@
                 ],
                 "ORG": [
                     "the Thinking Fellows",
-                    "Resource"
+                    "Great Commission Design Featured Resource"
                 ],
                 "NORP": [
                     "Christian"
                 ],
-                "CARDINAL": [
-                    "1",
-                    "1",
+                "DATE": [
+                    "Tuesday",
                     "1517"
                 ]
             }
@@ -8569,12 +8829,12 @@
             "title": "Translation",
             "entities": {
                 "ORG": [
-                    "The Thinking Fellows"
+                    "The Thinking Fellows",
+                    "Galatians Commentary  Meeting Melanchthon"
                 ],
                 "NORP": [
                     "Christians",
-                    "Reformation",
-                    "Galatians"
+                    "Reformation"
                 ],
                 "WORK_OF_ART": [
                     "Bible"
@@ -8582,8 +8842,11 @@
                 "LANGUAGE": [
                     "English"
                 ],
-                "PERSON": [
-                    "Commision Design</a></p"
+                "DATE": [
+                    "1517"
+                ],
+                "GPE": [
+                    "Wasteland"
                 ]
             }
         },
@@ -8695,7 +8958,8 @@
             "entities": {
                 "ORG": [
                     "The Thinking Fellows",
-                    "Scriptures"
+                    "Scriptures",
+                    "the Will Banned Books \u00a0"
                 ],
                 "PERSON": [
                     "Donavon Riley",
@@ -8703,6 +8967,9 @@
                     "Scott",
                     "Donavon Talk",
                     "Fellows"
+                ],
+                "DATE": [
+                    "1517"
                 ]
             }
         },
@@ -8735,7 +9002,7 @@
                 ],
                 "ORG": [
                     "the Thinking Fellows",
-                    "Augsburg"
+                    "the Augsburg Confession  Lutheran Theology  Free"
                 ],
                 "PERSON": [
                     "Jim Nestingen",
@@ -8746,8 +9013,7 @@
                     "Christianity"
                 ],
                 "WORK_OF_ART": [
-                    "Handing Over The Goods</a></p",
-                    "https://www.bookofconcord.org/defense_4_justification.php\">The Apology"
+                    "Handing Over The Goods  Small Catechsim  The Theology of the Pain of God The Apology"
                 ]
             }
         },
@@ -8780,7 +9046,6 @@
                 ],
                 "PERSON": [
                     "John Warwick Montgomery",
-                    "Always Be Ready</a></p",
                     "Francsico Apologetics"
                 ],
                 "DATE": [
@@ -8821,6 +9086,9 @@
                 ],
                 "CARDINAL": [
                     "four"
+                ],
+                "ORG": [
+                    "The Podcast Network"
                 ]
             }
         },
@@ -8852,6 +9120,9 @@
                     "Fellows",
                     "Fellows",
                     "Luther"
+                ],
+                "ORG": [
+                    "Tactics"
                 ]
             }
         },
@@ -8925,6 +9196,9 @@
                 ],
                 "ORG": [
                     "Christ"
+                ],
+                "WORK_OF_ART": [
+                    "Lutheran Study Days Conference"
                 ]
             }
         },
@@ -8952,14 +9226,14 @@
             "pubDate": "Wed, 12 Sep 2018 19:29:09 +0000",
             "title": "The Doctrine of Sin",
             "entities": {
+                "ORG": [
+                    "Thinking Fellows"
+                ],
                 "ORDINAL": [
                     "first"
                 ],
                 "NORP": [
                     "Christian"
-                ],
-                "WORK_OF_ART": [
-                    "The Space Trilogy</a></p> <p"
                 ]
             }
         },
@@ -8992,14 +9266,19 @@
                     "Drs",
                     "Jim Nestingen",
                     "John Pless",
-                    "Nestingen",
-                    "Luther"
+                    "Nestingen"
                 ],
                 "GPE": [
                     "Bergen Norway"
                 ],
                 "DATE": [
                     "years"
+                ],
+                "ORG": [
+                    "Luther's Small Catechism"
+                ],
+                "WORK_OF_ART": [
+                    "The Small Catechism"
                 ]
             }
         },
@@ -9031,11 +9310,11 @@
                     "a summer"
                 ],
                 "PERSON": [
-                    "Luther"
+                    "Luther",
+                    "quod"
                 ],
                 "NORP": [
-                    "Latin",
-                    "est</em"
+                    "Latin"
                 ],
                 "ORG": [
                     "Translation and Reflection of Theses 1"
@@ -9072,15 +9351,16 @@
                 "PERSON": [
                     "Keith",
                     "Bruce Hilman",
-                    "David Bentley Heart",
-                    "Jacques Derrida",
+                    "David Bentley Heart -  ",
+                    "Jacques Derrida -  ",
+                    "Jaimie Smith",
                     "Kevin Van Houser"
                 ],
                 "ORG": [
                     "Church"
                 ],
-                "GPE": [
-                    "-<span"
+                "WORK_OF_ART": [
+                    "What\u2019s the Meaning"
                 ]
             }
         },
@@ -9109,17 +9389,17 @@
             "title": "Reflecting on the International Academy of Apologetics ",
             "entities": {
                 "PERSON": [
-                    "Caleb",
-                    "Fellows"
+                    "Caleb"
                 ],
                 "CARDINAL": [
                     "three"
                 ],
                 "ORG": [
-                    "the International Academy of Apologetics"
+                    "the International Academy of Apologetics",
+                    "Apologetics"
                 ],
-                "WORK_OF_ART": [
-                    "The Space Trilogy</a></p>"
+                "NORP": [
+                    "Christianity"
                 ]
             }
         },
@@ -9151,25 +9431,24 @@
                     "Keith",
                     "Bruce Hilman",
                     "Augustine",
-                    "Chadwick",
-                    "Brown"
+                    "Augustine  Chadwick",
+                    "Augustine  Brown",
+                    "Augustine"
                 ],
                 "CARDINAL": [
                     "two",
                     "4"
                 ],
                 "ORG": [
-                    "the Thinking Fellows",
-                    "Wills"
+                    "the Thinking Fellows"
                 ],
                 "NORP": [
                     "Augustine",
-                    "Lutherans"
-                ],
-                "EVENT": [
-                    "The Great Divorce</a></p"
+                    "Lutherans",
+                    "Hippo"
                 ],
                 "WORK_OF_ART": [
+                    "The Great Divorce Gary Wills",
                     "A Very Short"
                 ]
             }
@@ -9204,10 +9483,14 @@
                 ],
                 "ORG": [
                     "Luther's Commentary on The Epistle",
-                    "href=\"https://www.1517legacy.com/academy/\">1517 Academy\u00a0</a></p"
+                    "The Commentary 1517 Academy",
+                    "Podcast Network"
                 ],
                 "NORP": [
                     "Galatians"
+                ],
+                "DATE": [
+                    "1517"
                 ]
             }
         },
@@ -9242,19 +9525,25 @@
                     "Caleb",
                     "the University of Nottingham",
                     "MDiv",
-                    "Concordia Theological Seminary"
+                    "Concordia Theological Seminary",
+                    "Podcast Network Concordia St. Louis University of Nottingham"
                 ],
                 "PERSON": [
                     "Keith",
                     "Jacob Meuller",
                     "Jacob",
-                    "Jacob",
-                    "Videocast</a></p"
+                    "Jacob"
                 ],
                 "GPE": [
                     "Theology",
                     "MA",
                     "Saint Louis"
+                ],
+                "DATE": [
+                    "1517"
+                ],
+                "EVENT": [
+                    "Videocast 1517"
                 ]
             }
         },
@@ -9288,13 +9577,18 @@
                 "CARDINAL": [
                     "two"
                 ],
+                "NORP": [
+                    "Christianity"
+                ],
                 "PERSON": [
-                    "Christianity</em",
                     "Rosenbladt",
                     "Lewis"
                 ],
                 "DATE": [
                     "1517"
+                ],
+                "EVENT": [
+                    "Academy Mere Christianity  Chesterton Orthodoxy The Podcast Network"
                 ]
             }
         },
@@ -9323,7 +9617,8 @@
             "title": "Orthodox, Historical, Reformational",
             "entities": {
                 "ORG": [
-                    "the Thinking Fellows"
+                    "the Thinking Fellows",
+                    "Bauer"
                 ],
                 "PERSON": [
                     "Intellectual Origins"
@@ -9357,17 +9652,21 @@
                 "ORG": [
                     "Caleb",
                     "Forde",
-                    "Theology Cross",
+                    "Videocast  Theology Cross",
                     "Augustinian Theology"
                 ],
                 "PERSON": [
                     "Keith",
                     "Forde",
-                    "Maritn Luther's",
-                    "Family Style Theology</a></p",
-                    "Videocast</a></p",
+                    "Maritn Luther's Heidelberg Disputation",
                     "Martin Luther's",
-                    "Alister McGrath Martin Luther's"
+                    "Martin Luther's"
+                ],
+                "WORK_OF_ART": [
+                    "On Being a Theologian of the Cross"
+                ],
+                "PRODUCT": [
+                    "Alister McGrath"
                 ]
             }
         },
@@ -9397,10 +9696,14 @@
             "entities": {
                 "PERSON": [
                     "Fellows",
-                    "Lutheran"
+                    "Lutheran",
+                    "Kai Solo"
                 ],
-                "GPE": [
-                    "Concord"
+                "WORK_OF_ART": [
+                    "The Gospel for Those Broken"
+                ],
+                "ORG": [
+                    "the Church  Free to Be Book of Concord Online  Where Christ Is Present"
                 ]
             }
         },
@@ -9436,9 +9739,6 @@
                 ],
                 "ORG": [
                     "OUP"
-                ],
-                "WORK_OF_ART": [
-                    "The Works of Plato</a></p"
                 ]
             }
         },
@@ -9468,6 +9768,9 @@
             "entities": {
                 "ORG": [
                     "Thinking Fellows"
+                ],
+                "DATE": [
+                    "1517"
                 ]
             }
         },
@@ -9498,17 +9801,17 @@
             "entities": {
                 "PERSON": [
                     "Fellows",
-                    "Christianity</em",
                     "Fellows"
                 ],
                 "ORG": [
                     "C.S. Lewis"
                 ],
                 "WORK_OF_ART": [
-                    "The Case for Christianity</em",
-                    "The Case for Christianity</em",
-                    "The Case for Christianity</a></p",
-                    "https://shop.1517legacy.com/products/the-resurrection-fact\">The Ressurection Fact</a></p"
+                    "The Case for Christianity",
+                    "The Case for Christianity  Mere Christianity\u00a0 The Ressurection Fact \u00a0"
+                ],
+                "NORP": [
+                    "Christianity"
                 ],
                 "ORDINAL": [
                     "first"
@@ -9548,7 +9851,8 @@
             "entities": {
                 "PERSON": [
                     "Fellows",
-                    "Fellows"
+                    "Fellows",
+                    "Network Luther's"
                 ],
                 "GPE": [
                     "Lutheran"
@@ -9556,8 +9860,14 @@
                 "NORP": [
                     "Anglicans"
                 ],
+                "DATE": [
+                    "1517"
+                ],
                 "CARDINAL": [
                     "39"
+                ],
+                "LOC": [
+                    "Articles"
                 ]
             }
         },
@@ -9591,8 +9901,10 @@
                 ],
                 "PERSON": [
                     "Russell Dawn",
-                    "Dawn",
-                    "Wade"
+                    "Dawn"
+                ],
+                "GPE": [
+                    "TF"
                 ]
             }
         },
@@ -9661,13 +9973,6 @@
             "entities": {
                 "NORP": [
                     "Christians"
-                ],
-                "CARDINAL": [
-                    "12pt;\">Show",
-                    "12pt;\"><a",
-                    "12pt;\"><a",
-                    "12pt;\"><a",
-                    "12pt;\"><a"
                 ]
             }
         },
@@ -9698,17 +10003,17 @@
             "entities": {
                 "ORG": [
                     "Thinking Fellows",
-                    "https://www.cph.org/p-6922-chemnitzs-works-set-vol-1-8.aspx\">Chemnitz"
+                    "Amazon Chemnitz's"
                 ],
                 "PERSON": [
                     "Rosenbladt",
                     "Matin Chemnitz's",
-                    "Rosenbladts",
-                    "h2><a",
-                    "rel=\"noopener\"><span style=\"font-size"
+                    "Rosenbladts"
                 ],
                 "CARDINAL": [
                     "Two",
+                    "TWO",
+                    "30min",
                     "Two"
                 ],
                 "GPE": [
@@ -9717,8 +10022,11 @@
                 "FAC": [
                     "the Thinking Fellows"
                 ],
-                "ORDINAL": [
-                    "Second"
+                "LAW": [
+                    "the New Testament"
+                ],
+                "WORK_OF_ART": [
+                    "Works  The Second Martin"
                 ]
             }
         },
@@ -9749,73 +10057,48 @@
             "entities": {
                 "ORG": [
                     "the Thinking Fellows",
-                    "400;\">The Genius",
-                    "400;\">The Authority",
-                    "Truth",
-                    "400;\">The Basic Works of Aristotle</span></a></p",
+                    "Christian Doctrines",
+                    "The Early Church",
+                    "the New Testament  Paul Little:",
+                    "Logic  The Basic Works of Aristotle  Questions",
+                    "Christian Hospitality",
+                    "Muslim Immigration",
                     "Augustinian Theology"
                 ],
                 "CARDINAL": [
-                    "14pt;\">Doctrine:</span></p",
-                    "400;\">Lutheran",
-                    "400;\">Called",
-                    "400;\">Martin",
-                    "400;\">In",
-                    "400;\">Hallmarks",
-                    "400;\">A",
-                    "400;\">Christianity",
-                    "3,000",
-                    "400;\">The",
-                    "400",
-                    "14pt;\">Apologetics:</span></p",
-                    "400;\">Sensible",
-                    "400;\">The",
-                    "400;\">Why",
-                    "400;\">Religion",
-                    "400;\">Tractatus",
-                    "400",
-                    "400",
-                    "400;\">The",
-                    "400;\">Language",
-                    "400;\">Questions",
-                    "400;\">Nicomachean",
-                    "400",
-                    "400;\">Orthodoxy</span></a></p",
-                    "400;\">Christian",
-                    "400;\">The",
-                    "400;\">Martin"
-                ],
-                "PERSON": [
-                    "Steve Paulson</span></a></p",
-                    "Steve Mueller</span></a></p",
-                    "T.C. Hammond</span></a></p",
-                    "Berkhof History",
-                    "Law",
-                    "John Stott</span></a></p",
-                    "Mind Matters</span></a></p",
-                    "Greg Kokul</span></a></p",
-                    "Logico Theologicus</span></a></p",
-                    "Greg Mcallen</span></a></p",
-                    "Hospitality"
+                    "1517"
                 ],
                 "WORK_OF_ART": [
-                    "Lutheran Identity</span></a></p",
-                    "Brown the Rise of Western",
-                    "400;\">The Case For Christianity</span></a></p",
-                    "400;\">The Defense of the Gospel",
-                    "The Resurrection Fact</span></a></p",
-                    "400;\">The Dumb",
-                    "400;\">The Strange Death of Europe</span></a></p"
+                    "Store: Code (Thinking Fellows 18) 1517",
+                    "The Genius of Luther's Theology  Hallmarks of Lutheran Identity  ",
+                    "The Case For Christianity  Sensible Christianity  History, Law",
+                    "Religion on Trial  Tactics Greg Kokul  Tractatus Logico Theologicus  The Resurrection Fact Philosophy",
+                    "Nicomachean Ethics  Philosophy: A Very Short Introduction What The Fellows Are Reading:  Men Without Work America\u2019s Invisible Crisis  Essentialism",
+                    "The Dumb Ox  Orthodoxy  The Strange Death of Europe"
+                ],
+                "PERSON": [
+                    "Steve Paulson",
+                    "Steve Mueller",
+                    "Martin Luther\u2019s",
+                    "T.C. Hammond  Know",
+                    "J.T. Mueller",
+                    "Peter Brown",
+                    "Steven Ozman",
+                    "Louis Berkhof History",
+                    "John Stott",
+                    "John Hospers",
+                    "Greg Mcallen",
+                    "Martin Luther's"
                 ],
                 "NORP": [
                     "Christian",
                     "Christian",
-                    "https://www.cph.org/p-640-christian-dogmatics-set.aspx\">Christian",
                     "Christian",
-                    "Muslim"
+                    "Christianity",
+                    "Christianity"
                 ],
-                "ORDINAL": [
-                    "First"
+                "DATE": [
+                    "the First 3,000 years"
                 ]
             }
         },
@@ -9851,7 +10134,8 @@
                     "April"
                 ],
                 "PERSON": [
-                    "Luther"
+                    "Luther",
+                    "Podcasts Luther's Small Catechsim"
                 ]
             }
         },
@@ -9898,9 +10182,14 @@
                 "LOC": [
                     "the Prodigal Son"
                 ],
+                "GPE": [
+                    "the Kingdom  Capon: Parables of"
+                ],
                 "WORK_OF_ART": [
-                    "The Waiting Father</a></p",
-                    "A Story Telling God\u00a0<"
+                    "A Story Telling God\u00a0 40min in the Old Testament 30min"
+                ],
+                "LAW": [
+                    "the New Testament"
                 ]
             }
         },
@@ -9933,8 +10222,17 @@
                     "The Resurrection of Christ"
                 ],
                 "NORP": [
-                    "Christian",
-                    "href=\"http://www.christholdfast.org"
+                    "Christian"
+                ],
+                "CARDINAL": [
+                    "40min",
+                    "30min"
+                ],
+                "LAW": [
+                    "the Old Testament Vitrue"
+                ],
+                "ORG": [
+                    "the New Testament"
                 ]
             }
         },
@@ -9966,19 +10264,18 @@
                 "PERSON": [
                     "Keith",
                     "Caleb",
-                    "Scriptures",
-                    "https://www.amazon.com/s/?ie=UTF8&keywords=mere+christianity%27&tag=geminipcstand-20&index=stripbooks&hvadid=33778269333&hvqmt=e&hvbmt=e&hvdev=c&ref=pd_sl_7vu6nbum74_e"
+                    "Scriptures"
                 ],
                 "DATE": [
-                    "month"
+                    "month",
+                    "1517"
                 ],
                 "ORDINAL": [
                     "first"
                 ],
                 "ORG": [
                     "Church",
-                    "blog/2018/cslewis\">C.S. Lewis",
-                    "Bondage"
+                    "the Old Testament  Mere Christianity\u00a0 "
                 ]
             }
         },
@@ -10010,8 +10307,8 @@
                 "PERSON": [
                     "Keith",
                     "Luther",
-                    "scottkeith\">Scott Keith",
-                    "riley\">Donovan Riley"
+                    "Scott Keith",
+                    "Donovan Riley"
                 ],
                 "GPE": [
                     "Minnesota"
@@ -10020,7 +10317,7 @@
                     "Donovan Riley"
                 ],
                 "WORK_OF_ART": [
-                    "The Genius of Luther's Theology</a></p"
+                    "The Genius of Luther's Theology"
                 ],
                 "DATE": [
                     "1517",
@@ -10053,10 +10350,6 @@
             "pubDate": "Tue, 13 Mar 2018 19:00:58 +0000",
             "title": "Shakespeare and Reformation Thought",
             "entities": {
-                "DATE": [
-                    "Today",
-                    "1517"
-                ],
                 "PERSON": [
                     "Fellows",
                     "John Norton",
@@ -10064,7 +10357,6 @@
                     "Shakespeare",
                     "Macbeth",
                     "Leer",
-                    "Killing Physicians",
                     "Shakespeare"
                 ],
                 "NORP": [
@@ -10074,12 +10366,14 @@
                     "Concordia University Irvine",
                     "Killing Physicians:",
                     "Reformation Saints",
-                    "Hamlet"
+                    "Hamlet",
+                    "Killing Physicians: Amazon"
                 ],
                 "FAC": [
                     "Blind Heroes"
                 ],
-                "CARDINAL": [
+                "DATE": [
+                    "1517",
                     "1517"
                 ]
             }
@@ -10111,7 +10405,9 @@
             "entities": {
                 "ORG": [
                     "the Book of Concord",
-                    "Formula"
+                    "Formula",
+                    "Concord",
+                    "CPH BoC  Tapert BoC"
                 ],
                 "GPE": [
                     "Concord"
@@ -10121,14 +10417,10 @@
                 ],
                 "PERSON": [
                     "Fellows",
-                    "Kolb Wengert",
-                    "Context"
+                    "Kolb Wengert BoC"
                 ],
                 "FAC": [
                     "the Lutheran Confessions"
-                ],
-                "WORK_OF_ART": [
-                    "href=\"https://bookofconcord.org\">The Book of Concord"
                 ]
             }
         },
@@ -10201,9 +10493,7 @@
                     "Martin Luther",
                     "Cranmer",
                     "Queen Mary",
-                    "Thomas Cranmer",
-                    "https://www.amazon.com/Emblem-Faith-Untouched-Religious-Biography-ebook/dp/B01MXUXZAT/ref=sr_1_2?ie=UTF8&qid=1519159884&sr=8-2&keywords=Cranmer",
-                    "Thomas Cranmer</a></p"
+                    "Thomas Cranmer"
                 ],
                 "NORP": [
                     "Anglican"
@@ -10212,7 +10502,8 @@
                     "Cranmer"
                 ],
                 "WORK_OF_ART": [
-                    "the Book of Common Prayer"
+                    "the Book of Common Prayer",
+                    "The Book of Common Prayer  Thomas Cranmer a Life  Emblem of Faith Untouched  The Collects of"
                 ],
                 "CARDINAL": [
                     "39"
@@ -10251,21 +10542,24 @@
                     "Romans"
                 ],
                 "PERSON": [
-                    "Wittenberg",
-                    "The Worlds of Medevil",
-                    "Wittenberg",
-                    "Bear Grylls Survival Handbook</a></p"
+                    "Wittenberg"
+                ],
+                "GPE": [
+                    "Geneva",
+                    "Geneva"
                 ],
                 "WORK_OF_ART": [
-                    "The Freedom of the Hills</a></p",
-                    "Bede A History of the"
+                    "The Worlds of Medevil Europe  ",
+                    "The Freedom of the Hills  The Happiness of Pursuit  On Being a Theologian of the Cross  "
+                ],
+                "FAC": [
+                    "The Great Lie"
                 ],
                 "ORG": [
-                    "Christus",
-                    "The Nordic Theory"
-                ],
-                "LANGUAGE": [
-                    "English"
+                    "Wittenberg",
+                    "Christus Victor",
+                    "The Nordic Theory",
+                    "the English Church"
                 ]
             }
         },
@@ -10298,27 +10592,16 @@
                     "Today"
                 ],
                 "NORP": [
+                    "Christianity",
                     "Christianity"
                 ],
                 "PERSON": [
                     "Law",
+                    "Paul Maier",
                     "Skeleton"
                 ],
                 "WORK_OF_ART": [
-                    "400;\">Why Should Anybody Believe Anything",
-                    "Fellows: Introduction"
-                ],
-                "CARDINAL": [
-                    "400;\">The",
-                    "400;\">In",
-                    "400;\">Church",
-                    "400;\">Paul",
-                    "400;\">Mathematics",
-                    "400;\">Thinking"
-                ],
-                "ORG": [
-                    "400;\">The Killing",
-                    "Maier"
+                    "The Idea of A University  The Killing of History  In Defense of History  Church Dogmatics (Barth"
                 ]
             }
         },
@@ -10354,13 +10637,12 @@
                     "Luther"
                 ],
                 "ORG": [
-                    "The Small Catechism"
+                    "The Small Catechism",
+                    "Concord",
+                    "the Catechism Catechism Free Nestingen Audio"
                 ],
                 "GPE": [
                     "Chrisitan"
-                ],
-                "CARDINAL": [
-                    "400;\">Nestingen"
                 ]
             }
         },
@@ -10397,21 +10679,19 @@
                 "PERSON": [
                     "Jesus",
                     "Jesus Christ",
-                    "Martin Chemnitz</a></p",
-                    "Deus Homo</a></p"
+                    "Rosenbladt",
+                    "Martin Chemnitz"
                 ],
                 "ORG": [
                     "The Thinking Fellows",
-                    "Rosenbladt",
-                    "400;\">The Lion",
                     "Witch"
                 ],
                 "CARDINAL": [
                     "two",
-                    "Two",
-                    "400;\">Chytraeus",
-                    "400;\">On",
-                    "400;\">FF"
+                    "Two"
+                ],
+                "GPE": [
+                    "The City"
                 ]
             }
         },
@@ -10441,9 +10721,6 @@
             "title": "C.S. Lewis",
             "entities": {
                 "PERSON": [
-                    "C.S. Lewis",
-                    "Screwtape",
-                    "George Macdonald",
                     "C.S. Lewis"
                 ],
                 "NORP": [
@@ -10453,12 +10730,16 @@
                 "DATE": [
                     "the 20th century"
                 ],
-                "QUANTITY": [
-                    "4 Loves Audiobook</a><br"
+                "CARDINAL": [
+                    "4"
                 ],
                 "WORK_OF_ART": [
-                    "The Everlasting Man</a><br />",
-                    "The Space Trilogy</a></p"
+                    "The Great Divorce  The Screwtape Letters Abolition of Man  George Macdonald",
+                    "The Everlasting Man  Phantastes  The Fellowship  C.S. Lewis",
+                    "Problem of Pain  Miracles  The Space Trilogy"
+                ],
+                "ORG": [
+                    "GK Orthodoxy  "
                 ]
             }
         },
@@ -10500,9 +10781,6 @@
                     "two",
                     "15",
                     "One"
-                ],
-                "PERSON": [
-                    "Chad Bird</a></p"
                 ]
             }
         },
@@ -10535,7 +10813,11 @@
                     "2018"
                 ],
                 "PERSON": [
-                    "Francisco"
+                    "Francisco",
+                    "Fellows Bundle"
+                ],
+                "ORG": [
+                    "Post Modern Times"
                 ]
             }
         },
@@ -10569,14 +10851,11 @@
                     "the last two years",
                     "2018"
                 ],
-                "PERSON": [
-                    "Fellows"
+                "ORG": [
+                    "Show Notes Thinking Fellows"
                 ],
                 "WORK_OF_ART": [
-                    "https://www.thinkingfellows.com/blog/2016/12/16/episode-47\">Thinking Fellows on the authority of Scripture</a></p"
-                ],
-                "NORP": [
-                    "Christianity"
+                    "Thinking Fellows on the authority of Scripture Sensible Christianity"
                 ]
             }
         },
@@ -10613,6 +10892,12 @@
                 ],
                 "TIME": [
                     "2-3min"
+                ],
+                "ORG": [
+                    "Gospel TF",
+                    "Sin",
+                    "Grace",
+                    "Means of Grace"
                 ]
             }
         },
@@ -10645,10 +10930,8 @@
                     "two"
                 ],
                 "ORG": [
-                    "Scriptures"
-                ],
-                "WORK_OF_ART": [
-                    "Working For Our Neighbor</a></p"
+                    "Scriptures",
+                    "Soul Craft Mike Rowe Works"
                 ]
             }
         },
@@ -10678,7 +10961,8 @@
             "title": "Synergism",
             "entities": {
                 "PERSON": [
-                    "Fellows"
+                    "Fellows",
+                    "Caleb Keith"
                 ],
                 "NORP": [
                     "Christianity",
@@ -10687,8 +10971,11 @@
                 "GPE": [
                     "America"
                 ],
-                "CARDINAL": [
-                    "2018</a></p"
+                "DATE": [
+                    "2018"
+                ],
+                "EVENT": [
+                    "the Prodigal Son"
                 ]
             }
         },
@@ -10721,10 +11008,13 @@
                     "Keith",
                     "Aaron Pederson",
                     "Luther",
-                    "Johan Arndt</a></p"
+                    "Johan Arndt Donate"
                 ],
                 "ORG": [
                     "Rosenbladt"
+                ],
+                "DATE": [
+                    "1517"
                 ]
             }
         },
@@ -10799,15 +11089,13 @@
                     "Adam Francisco",
                     "Francisco",
                     "Luther",
-                    "Luther",
-                    "Brecht",
-                    "Luther for Armchair Theologians</a></p"
+                    "Luther"
                 ],
                 "GPE": [
                     "Rome"
                 ],
                 "WORK_OF_ART": [
-                    "https://shop.1517legacy.com/products/the-resurrection-fact\">The Resurrection Fact</a></p"
+                    "The Resurrection Fact  Brecht: Shaping and Defining the Reformation  The Fabricated Luther  Paulson: Luther for Armchair Theologians"
                 ]
             }
         },
@@ -10840,10 +11128,11 @@
                     "Caleb Keith",
                     "Montgomery",
                     "Montgomery",
-                    "Law"
+                    "Law",
+                    "Joy  Defending the Gospel"
                 ],
-                "WORK_OF_ART": [
-                    "Defending the Gospel in Legal Style</a></p"
+                "NORP": [
+                    "Christianity"
                 ]
             }
         },
@@ -10874,13 +11163,12 @@
             "entities": {
                 "ORG": [
                     "the Thinking Fellows",
-                    "Mockingbird Ministries"
+                    "Mockingbird Ministries",
+                    "Sinners and Saints Mockingbird Events  The Mockingbird Devotional\u00a0  Grace and Addiction  Being Dad"
                 ],
                 "PERSON": [
                     "Keith",
-                    "David Zahl",
-                    "Law",
-                    "Grace"
+                    "David Zahl"
                 ],
                 "GPE": [
                     "Mockingbird"
@@ -10890,9 +11178,6 @@
                 ],
                 "LOC": [
                     "NYC"
-                ],
-                "WORK_OF_ART": [
-                    "The Mockingbird Devotional"
                 ]
             }
         },
@@ -10924,8 +11209,7 @@
                 "PERSON": [
                     "Chad Bird",
                     "Chad",
-                    "Blog",
-                    "Chad Bird</a></p"
+                    "Chad Bird"
                 ],
                 "ORG": [
                     "the Thinking Fellows"
@@ -10935,8 +11219,13 @@
                 ],
                 "WORK_OF_ART": [
                     "a Prodigal Soul",
-                    "Night Driving on Amazon</a></p",
-                    "Luke+15/\">The Prodigal"
+                    "Night Driving on Amazon Chadbird.com 40min"
+                ],
+                "LAW": [
+                    "the Old Testament 1517 Blog:"
+                ],
+                "EVENT": [
+                    "The Prodigal Son  Being Dad"
                 ]
             }
         },
@@ -10976,7 +11265,7 @@
                     "Martin Luther"
                 ],
                 "WORK_OF_ART": [
-                    "The Ressurection Fact</a></p"
+                    "The Ressurection Fact"
                 ],
                 "ORG": [
                     "Faith"
@@ -11014,17 +11303,20 @@
                 ],
                 "ORG": [
                     "Church",
-                    "Islam"
+                    "Islam",
+                    "iTunes Donate Intro",
+                    "the Book of Concord"
                 ],
                 "NORP": [
                     "Islam",
-                    "Christians"
+                    "Christians",
+                    "Islam"
+                ],
+                "WORK_OF_ART": [
+                    "The Show Notes Here We Still Stand"
                 ],
                 "PERSON": [
                     "Martin Luther Preface"
-                ],
-                "WORK_OF_ART": [
-                    "the Book of Concord</a></p"
                 ]
             }
         },
@@ -11053,27 +11345,25 @@
             "pubDate": "Fri, 06 Oct 2017 18:00:03 +0000",
             "title": "The Heidelberg Disputation",
             "entities": {
+                "ORG": [
+                    "The Heidelberg Disputation",
+                    "iTunes Donate The Heidelberg Disputation Online The"
+                ],
                 "ORDINAL": [
                     "first",
                     "500th"
                 ],
                 "PERSON": [
                     "Luther",
-                    "Fellows",
-                    "id=\"yui_3_17_2_6_1507237268938_1158\"><a href= \""
+                    "Fellows"
                 ],
                 "CARDINAL": [
-                    "28"
+                    "28",
+                    "95"
                 ],
                 "NORP": [
                     "Christian",
                     "Reformation"
-                ],
-                "WORK_OF_ART": [
-                    "http://bookofconcord.org/heidelberg.php\">The Heidelberg Disputation"
-                ],
-                "QUANTITY": [
-                    "95 Theses</a><br"
                 ]
             }
         },
@@ -11103,7 +11393,8 @@
             "title": "Matthias Flacius",
             "entities": {
                 "ORG": [
-                    "The Thinking Fellows"
+                    "The Thinking Fellows",
+                    "iTunes Donate An Uncompromising Gospel  A Path Strewn With Sinners Formula of Concord"
                 ],
                 "PERSON": [
                     "Wade Johnston",
@@ -11116,9 +11407,6 @@
                 ],
                 "GPE": [
                     "Concord"
-                ],
-                "PRODUCT": [
-                    "id=\"yui_3_17_2_1_1506707205751_19764"
                 ]
             }
         },
@@ -11161,21 +11449,22 @@
                 ],
                 "ORG": [
                     "The Thinking Fellows",
-                    "The Woman Jesus Called"
+                    "The Woman Jesus Called",
+                    "An Uncompromising\u00a0Gospel\u00a0   The Book of Concord"
                 ],
                 "CARDINAL": [
-                    "two",
-                    "em><a",
-                    "em><a"
+                    "two"
+                ],
+                "WORK_OF_ART": [
+                    "An Uncompromising Gospel",
+                    "Ph.D.",
+                    "Bible",
+                    "An Uncompromising Gospel",
+                    "The Book of Concord (Online",
+                    "The Book of Concord"
                 ],
                 "NORP": [
                     "Reformation"
-                ],
-                "WORK_OF_ART": [
-                    "Ph.D.",
-                    "Bible",
-                    "The Book of Concord",
-                    "The Book of Concord</a></div"
                 ]
             }
         },
@@ -11255,6 +11544,9 @@
                     "Law",
                     "Gospel"
                 ],
+                "WORK_OF_ART": [
+                    "The Necessary Distinction"
+                ],
                 "CARDINAL": [
                     "two"
                 ]
@@ -11286,16 +11578,15 @@
             "title": "What Drove Luther's Hammer?",
             "entities": {
                 "PERSON": [
-                    "Drove Luther's Hammer",
+                    "Drove Luther's",
                     "Martin Luther's",
                     "Rosenbladt"
                 ],
                 "CARDINAL": [
-                    "two",
-                    "Three",
-                    "400;\">Bainton</span></a></p",
-                    "400;\">Kittleson</span></a></p",
-                    "400;\">Rupp</span></a></p"
+                    "two"
+                ],
+                "WORK_OF_ART": [
+                    "Three Treatises  Bainton  Kittleson  Rupp"
                 ]
             }
         },
@@ -11329,14 +11620,16 @@
                     "Jim Nestingen",
                     "Martin Luther",
                     "Philip Melanchthon",
-                    "Luther",
-                    "Loci Communes"
+                    "Luther"
                 ],
                 "CARDINAL": [
                     "two"
                 ],
                 "LOC": [
                     "the Lutheran Reformation"
+                ],
+                "DATE": [
+                    "1521"
                 ]
             }
         },
@@ -11367,13 +11660,11 @@
             "entities": {
                 "PERSON": [
                     "Scott Keith",
-                    "Paul Koch",
-                    "Jagged Word Website</a></p"
+                    "Paul Koch"
                 ],
                 "WORK_OF_ART": [
                     "The Jagged Word Field Guide To Being A Man",
-                    "The Jagged Word Field Guide To Being A Man</a></p",
-                    "Woman The Forgotten Story</a></p"
+                    "The Art of Manliness"
                 ]
             }
         },
@@ -11419,9 +11710,6 @@
                 ],
                 "NORP": [
                     "Lutherans"
-                ],
-                "GPE": [
-                    "Will</a></p"
                 ]
             }
         },
@@ -11456,7 +11744,10 @@
                     "Scott Keith",
                     "Kevin McClain",
                     "Nestingen",
-                    "Episode One"
+                    "Luther Luther Biographies  Luther's Works"
+                ],
+                "ORG": [
+                    "Genesis"
                 ]
             }
         },
@@ -11486,6 +11777,7 @@
             "title": "Soli Deo Gloria",
             "entities": {
                 "ORG": [
+                    "the Thinking Fellows  ",
                     "Church"
                 ]
             }
@@ -11518,7 +11810,8 @@
                 "ORG": [
                     "the Thinking Fellows",
                     "Cindy",
-                    "Wisdom"
+                    "Wisdom",
+                    "Women's Bible Studies"
                 ],
                 "PERSON": [
                     "Keith",
@@ -11527,8 +11820,7 @@
                     "Cindy Koch"
                 ],
                 "WORK_OF_ART": [
-                    "Woman the Forgotten Story",
-                    "Bible"
+                    "Woman the Forgotten Story"
                 ],
                 "DATE": [
                     "1517"
@@ -11561,14 +11853,16 @@
             "entities": {
                 "PERSON": [
                     "Fellows",
-                    "Jesus",
-                    "Deus Homo</a></p"
+                    "Jesus the Messiah  Cur Deus Homo"
                 ],
                 "NORP": [
                     "Christianity"
                 ],
                 "WORK_OF_ART": [
-                    "https://shop.1517legacy.com/products/bible-in-an-hour-mp3-pdf\">The Bible"
+                    "Bible"
+                ],
+                "GPE": [
+                    "Japan"
                 ]
             }
         },
@@ -11603,11 +11897,11 @@
                     "Fellows",
                     "Solas",
                     "Francisco",
-                    "Keith",
-                    "Fellows Episode"
+                    "Keith"
                 ],
                 "ORG": [
-                    "Sola Fide"
+                    "Sola Fide",
+                    "Solas of the Reformation Thinking Fellows Episode"
                 ]
             }
         },
@@ -11649,8 +11943,7 @@
                     "the Great Ideas of the"
                 ],
                 "ORG": [
-                    "the Means of Grace</a></p",
-                    "Fellows on Beza</a></p"
+                    "the Means of Grace  Thinking Fellows on Election Thinking Fellows on Beza  Walther Election"
                 ]
             }
         },
@@ -11695,7 +11988,7 @@
                     "Reformation"
                 ],
                 "ORG": [
-                    "the Council of Trent</a></p"
+                    "the Council of Trent"
                 ]
             }
         },
@@ -11770,8 +12063,7 @@
                 "PERSON": [
                     "Keith",
                     "Keith",
-                    "Keith",
-                    "https://www.1517legacy.com/contributors/scott-keith/\">Scott"
+                    "Keith"
                 ]
             }
         },
@@ -11805,15 +12097,16 @@
                     "Beza",
                     "John Calvin",
                     "Mallinsons Ph.D.",
-                    "Beza",
-                    "Jeff"
+                    "Beza"
                 ],
                 "ORDINAL": [
                     "4th"
                 ],
-                "WORK_OF_ART": [
-                    "http://www.truecovenanter.com/supralapsarian/bezas_table.html\">Sum Total\u00a0of Christianity</a></p",
-                    "The Golden Chain</a></p"
+                "NORP": [
+                    "Christianity"
+                ],
+                "FAC": [
+                    "The Golden Chain  Jeff's"
                 ]
             }
         },
@@ -11843,18 +12136,15 @@
             "entities": {
                 "PERSON": [
                     "Calvin",
-                    "Faithfull Masks</a></p",
-                    "Jeff",
-                    "Calvin",
                     "Scott",
-                    "Jeff Outline",
-                    "Jagged Word</a></p"
+                    "Jeff Outline"
                 ],
                 "NORP": [
                     "Lutherans"
                 ],
                 "ORG": [
-                    "Calvinists"
+                    "Calvinists",
+                    "the Legacy Project Virtue"
                 ],
                 "DATE": [
                     "1521"
@@ -11892,17 +12182,16 @@
                 "ORG": [
                     "the Thinking Fellows",
                     "Melanchthon",
-                    "Augsburg"
+                    "Philip Melanchthon Augsburg Confession Episode",
+                    "the Augsburg Confession",
+                    "Loci Thinking Fellows Episode 2 Law"
                 ],
                 "GPE": [
                     "Lutheran"
                 ],
                 "PERSON": [
                     "Philip Melanchthon",
-                    "Keith",
-                    "Episode",
-                    "Philip Melanchthon</a></p",
-                    "Fellows Episode 2 Law</a></p"
+                    "Keith"
                 ],
                 "DATE": [
                     "1521"
@@ -11935,8 +12224,8 @@
             "entities": {
                 "ORG": [
                     "The Thinking Fellows",
-                    "Intro",
-                    "the Book of Concord</a"
+                    "the Book of Concord Bente Intro",
+                    "the Book of Concord\u00a0 Episode"
                 ],
                 "CARDINAL": [
                     "about one"
@@ -11947,12 +12236,10 @@
                 ],
                 "PERSON": [
                     "Philip Melanchthon",
-                    "Keith",
-                    "Context"
+                    "Keith"
                 ],
                 "WORK_OF_ART": [
-                    "The Book of Concord</a></p",
-                    "the Book of Concord</a></p"
+                    "The Book of Concord  Sources and Context"
                 ]
             }
         },
@@ -11985,17 +12272,17 @@
                     "John Calvin",
                     "Calvin",
                     "Calvin",
-                    "Calvin",
-                    "John Calvin",
-                    "Calvin",
-                    "Keith"
+                    "John Calvin"
                 ],
                 "ORG": [
-                    "the Thinking Fellows"
+                    "the Thinking Fellows",
+                    "Keith on Election"
                 ],
                 "NORP": [
-                    "Christian",
                     "Christian"
+                ],
+                "GPE": [
+                    "Context"
                 ]
             }
         },
@@ -12026,18 +12313,17 @@
                 "PERSON": [
                     "James Nestingen",
                     "Nestingen",
-                    "Thinking Fellows",
-                    "Forde",
-                    "Christain Classics"
+                    "Forde"
                 ],
                 "DATE": [
                     "Today"
                 ],
+                "ORG": [
+                    "Packer\u00a0Page",
+                    "The Captivation of the Will"
+                ],
                 "CARDINAL": [
                     "270-318"
-                ],
-                "ORG": [
-                    "The Captivation of the Will</a></p"
                 ]
             }
         },
@@ -12072,15 +12358,16 @@
                     "Fellows",
                     "Martin Luther",
                     "Francisco",
+                    "Oberman",
                     "Luther Man",
-                    "Baton",
-                    "Kittleson",
+                    "Reformer",
                     "Kolb",
                     "Martin Luther",
-                    "Brecht",
                     "Nestingen",
-                    "Martin Luther A",
-                    "Luther for Armchair Theologians</a></p"
+                    "Martin Luther A Life  "
+                ],
+                "NORP": [
+                    "Reformation"
                 ]
             }
         },
@@ -12125,8 +12412,7 @@
                     "Wasteland"
                 ],
                 "WORK_OF_ART": [
-                    "Fear and Trembling\u00a0<",
-                    "The Sickness Unto Death</a></p"
+                    "Works of Love  Grace in Practice  Fear and Trembling\u00a0  The Sickness Unto Death  Burden of Soren"
                 ]
             }
         },
@@ -12159,12 +12445,14 @@
                 ],
                 "PERSON": [
                     "Thomas Aquinas",
-                    "Episode",
-                    "Thomas Aquinas</a></p"
+                    "Thomas Aquinas  Episode on Transhumanism  Contact"
                 ],
                 "CARDINAL": [
                     "63",
                     "63"
+                ],
+                "ORG": [
+                    "Crosswise Institute  Episode 63"
                 ]
             }
         },
@@ -12196,7 +12484,7 @@
                     "Today",
                     "This year",
                     "summer",
-                    "this June"
+                    "June"
                 ],
                 "PERSON": [
                     "Fellows",
@@ -12212,7 +12500,8 @@
                     "The Thinking Fellows",
                     "Institute",
                     "the Thinking Fellows",
-                    "Crosswise"
+                    "Crosswise",
+                    "Crosswise Institute"
                 ],
                 "CARDINAL": [
                     "ten"
@@ -12251,15 +12540,18 @@
                     "John",
                     "John",
                     "Jesus",
-                    "St John",
-                    "John"
+                    "Damascene  John"
                 ],
                 "GPE": [
                     "Damascus",
-                    "Damascus"
+                    "Damascus",
+                    "Islam"
                 ],
                 "DATE": [
                     "Friday"
+                ],
+                "ORG": [
+                    "CrossWise Institute  The Fount of Knowledge\u00a0  Lombard's Sentences"
                 ]
             }
         },
@@ -12290,6 +12582,7 @@
                 "PERSON": [
                     "Thomas Aquinas",
                     "Thomas Aquinas",
+                    "Peter Kreeft",
                     "Edward Feser",
                     "Philip Watson",
                     "Peter Morison"
@@ -12303,10 +12596,11 @@
                 ],
                 "ORG": [
                     "Theology",
+                    "the Thinking Fellows  Philosophical Apologetics",
                     "Philosophical Apologetics"
                 ],
-                "WORK_OF_ART": [
-                    "https://www.amazon.com/Summa-Thomas-Aquinas/dp/089870300X\">Peter Kreeft: A Summa of the Summa</a></p"
+                "DATE": [
+                    "Today"
                 ],
                 "GPE": [
                     "Beginner"
@@ -12337,6 +12631,10 @@
             "pubDate": "Fri, 31 Mar 2017 18:24:47 +0000",
             "title": "Episode One On Luther ",
             "entities": {
+                "CARDINAL": [
+                    "One",
+                    "one"
+                ],
                 "EVENT": [
                     "the Great Thinkers of the Christian Faith"
                 ],
@@ -12349,17 +12647,17 @@
                     "Chruch History",
                     "Donovan Riley",
                     "Luther",
-                    "Oberman Luther</a></p"
+                    "Brand Luther  Luther",
+                    "Oberman Luther  ",
+                    "McGrath"
                 ],
                 "DATE": [
                     "Today",
-                    "Today"
+                    "Today",
+                    "1517"
                 ],
-                "CARDINAL": [
-                    "one"
-                ],
-                "ORG": [
-                    "Luther's Theology"
+                "WORK_OF_ART": [
+                    "Higher Things SimulCast"
                 ]
             }
         },
@@ -12388,11 +12686,13 @@
             "title": "Gresham Machen",
             "entities": {
                 "ORG": [
-                    "the Thinking Fellows"
+                    "the Thinking Fellows",
+                    "State"
                 ],
                 "PERSON": [
                     "Dan Van Voorhis",
-                    "Dan"
+                    "Dan",
+                    "Machen"
                 ],
                 "ORDINAL": [
                     "first"
@@ -12401,12 +12701,10 @@
                     "American",
                     "Christian",
                     "Lutherans",
-                    "Christianity",
                     "Christianity"
                 ],
                 "EVENT": [
-                    "World War I",
-                    "ViW Reformation Series"
+                    "World War I\u00a0\u00a0  Shall the Fundamentalists Win"
                 ]
             }
         },
@@ -12451,12 +12749,13 @@
                     "Johan Arndt",
                     "Fellows",
                     "Christian History",
-                    "Dan Van Voorhis",
-                    "Arndt",
-                    "Pia Desideria</a></p"
+                    "Dan Van Voorhis"
                 ],
                 "NORP": [
-                    "https://www.amazon.com/Freedom-Christian-Martin-Luther/dp/080066311X/ref=sr_1_1?s=books&ie=UTF8&qid=1489774423&sr=1-1&keywords=the+freedom+of+the+christian"
+                    "Christian"
+                ],
+                "GPE": [
+                    "TF"
                 ]
             }
         },
@@ -12494,13 +12793,14 @@
                     "Augustine"
                 ],
                 "GPE": [
-                    "Hippo"
+                    "Hippo",
+                    "Wasteland"
                 ],
                 "PERSON": [
                     "Fellows",
                     "Jeff Mallinson",
-                    "Augustine Confessions</a></p",
-                    "Chadwick Augustine"
+                    "Augustine Confessions  Augustine: City",
+                    "Chadwick Augustine Bio"
                 ]
             }
         },
@@ -12563,7 +12863,6 @@
                     "Koch",
                     "Keith",
                     "Fellows",
-                    "C.S. Lewis",
                     "Forde Free"
                 ],
                 "FAC": [
@@ -12601,9 +12900,6 @@
             "pubDate": "Fri, 24 Feb 2017 17:20:02 +0000",
             "title": "Preaching Law and Gospel",
             "entities": {
-                "ORG": [
-                    "The Thinking Fellows"
-                ],
                 "CARDINAL": [
                     "one"
                 ],
@@ -12614,9 +12910,6 @@
                 ],
                 "GPE": [
                     "Lutheranism"
-                ],
-                "WORK_OF_ART": [
-                    "The Faith We Hold</a></p"
                 ]
             }
         },
@@ -12654,12 +12947,9 @@
                 "NORP": [
                     "Christians"
                 ],
-                "GPE": [
-                    "Denver"
-                ],
                 "PERSON": [
                     "\u2022Samuel P. Huntington",
-                    "https://www.amazon.com/End-History-Last-Man/dp/0743284550\">\u2022Francis Fukuyama"
+                    "\u2022Francis Fukuyama"
                 ]
             }
         },
@@ -12733,11 +13023,13 @@
                     "This week",
                     "year two"
                 ],
-                "NORP": [
-                    "Christian",
-                    "Christian"
-                ],
                 "ORG": [
+                    "Speakers Bureau  Pieper Christian Dogmatics"
+                ],
+                "PERSON": [
+                    "Christian Dogmatics"
+                ],
+                "GPE": [
                     "Intro",
                     "Apologetics"
                 ]
@@ -12768,14 +13060,13 @@
             "title": "Anniversary Special Part 1",
             "entities": {
                 "ORG": [
-                    "the Thinking Fellows"
+                    "the Thinking Fellows",
+                    "Christian Perfection",
+                    "Theologians Craft  Epistemology of Theology  Sources and Context of BoC"
                 ],
                 "DATE": [
                     "first year",
                     "year two"
-                ],
-                "NORP": [
-                    "Christian"
                 ],
                 "PERSON": [
                     "Tom Oden"
@@ -12809,9 +13100,6 @@
                 "DATE": [
                     "the latter half of 2016",
                     "2017"
-                ],
-                "PERSON": [
-                    "All</a></p"
                 ]
             }
         },
@@ -12877,7 +13165,8 @@
                 "PERSON": [
                     "Fellows",
                     "Adam Francisco",
-                    "Francisco"
+                    "Francisco",
+                    "Jesus Answering"
                 ],
                 "ORG": [
                     "Islam",
@@ -12885,7 +13174,7 @@
                 ],
                 "NORP": [
                     "Islam",
-                    "Muslims"
+                    "Islam"
                 ]
             }
         },
@@ -12916,15 +13205,16 @@
                 "PERSON": [
                     "Fellows",
                     "John W. Montgomery",
-                    "Montgomery",
-                    "C.S. Lewis",
-                    "C.S. Lewis"
+                    "Montgomery"
                 ],
                 "CARDINAL": [
                     "30min"
                 ],
                 "TIME": [
                     "14 hours"
+                ],
+                "NORP": [
+                    "Christianity"
                 ]
             }
         },
@@ -12958,8 +13248,14 @@
                     "Christmas"
                 ],
                 "NORP": [
-                    "Christians",
-                    "Christian"
+                    "Christians"
+                ],
+                "ORG": [
+                    "the Thinking Fellows",
+                    "Mueller Christian Dogmatics"
+                ],
+                "FAC": [
+                    "Chemnitz"
                 ],
                 "CARDINAL": [
                     "Two"
@@ -12994,17 +13290,11 @@
                     "This week"
                 ],
                 "PERSON": [
-                    "Jesus"
+                    "Jesus",
+                    "John Stott"
                 ],
                 "LAW": [
                     "the New Testament"
-                ],
-                "ORG": [
-                    "href=\"http://intervarsity.org",
-                    "Lord</a></p"
-                ],
-                "NORP": [
-                    "Christianity"
                 ]
             }
         },
@@ -13073,8 +13363,10 @@
                     "Christians"
                 ],
                 "PERSON": [
-                    "Fellows",
-                    "Nestle Aland"
+                    "Fellows"
+                ],
+                "CARDINAL": [
+                    "28"
                 ]
             }
         },
@@ -13104,8 +13396,7 @@
             "entities": {
                 "PERSON": [
                     "Philosopher Dan",
-                    "http://www.1517legacy.com/contributors/rick-ritchie/\">Rick Ritchie",
-                    "C.S. Lewis"
+                    "Rick Ritchie"
                 ],
                 "CARDINAL": [
                     "two",
@@ -13114,8 +13405,8 @@
                 "DATE": [
                     "1517"
                 ],
-                "WORK_OF_ART": [
-                    "Dialoges Concerning Natural Religion</a></p"
+                "ORG": [
+                    "Legacy  Dialoges Concerning Natural Religion  C.S."
                 ]
             }
         },
@@ -13150,17 +13441,10 @@
                     "centuries"
                 ],
                 "ORG": [
-                    "the Thinking Fellows",
-                    "Universe",
-                    "Nothing</a></p"
+                    "the Thinking Fellows"
                 ],
                 "PERSON": [
-                    "Dan Been",
-                    "https://www.amazon.com/Critique-Pure-Reason-Immanuel-Kant/dp/1537260057/ref=sr_1_1?ie=UTF8&qid=1479075117&sr=8-1&keywords=Critique+of+Pure+Reason",
-                    "Kant"
-                ],
-                "CARDINAL": [
-                    "8pt;\">Logio-</span"
+                    "Dan Been"
                 ]
             }
         },
@@ -13189,14 +13473,10 @@
             "title": "Miracles",
             "entities": {
                 "WORK_OF_ART": [
-                    "Bible",
-                    "Faith Founded on Fact</a></p"
+                    "Bible"
                 ],
                 "ORG": [
                     "Thinking Fellows"
-                ],
-                "PERSON": [
-                    "Abject Failure</a></p"
                 ]
             }
         },
@@ -13228,16 +13508,17 @@
                     "Today"
                 ],
                 "PERSON": [
-                    "Fellows",
-                    "Law",
-                    "All</a></p"
+                    "Fellows"
                 ],
                 "WORK_OF_ART": [
-                    "The Resurrection Fact Now Out!</p",
-                    "The Case for Christ</a></p> <p><a",
-                    "The Case for Christianity</a></p",
-                    "The Problem of Pain</a></p",
-                    "Faith Founded on Fact</a></p"
+                    "The Case for Christ  History, Law",
+                    "The Case for Christianity  The Problem of Pain  Faith Founded on Fact \u00a0"
+                ],
+                "NORP": [
+                    "Christianity"
+                ],
+                "ORG": [
+                    "Stone"
                 ]
             }
         },
@@ -13277,14 +13558,14 @@
                     "the Lutheran Reformation"
                 ],
                 "PERSON": [
-                    "Steve Hein"
+                    "Steve Hein",
+                    "Luther Luther '"
                 ],
                 "NORP": [
-                    "Reformation",
-                    "Christian"
+                    "Reformation"
                 ],
-                "ORG": [
-                    "The Christian Life Cross"
+                "LAW": [
+                    "The Heidelberg Disputation Here I Stand Gospel and Law Luther"
                 ]
             }
         },
@@ -13319,9 +13600,9 @@
                     "Christians"
                 ],
                 "PERSON": [
-                    "Episode",
-                    "Nestingen</a></p",
-                    "Kolb</a></p"
+                    "Nestingen Episode",
+                    "Kolb",
+                    "Anderson"
                 ]
             }
         },
@@ -13352,17 +13633,14 @@
                 "ORG": [
                     "New Testament",
                     "the New Testament",
-                    "Apologetics"
+                    "the Show International Apologetics Academy Experiment",
+                    "the Historical-Critical Method  Guest Episode",
+                    "iTunes"
                 ],
                 "PERSON": [
                     "Fellows",
-                    "Guest Episode",
-                    "Nestingen</a></p",
-                    "Episode",
-                    "Kolb</a></p"
-                ],
-                "WORK_OF_ART": [
-                    "name=\"yui_3_17_2_4_1476457672993_6599\">The End of the Historical-Critical"
+                    "Nestingen",
+                    "Kolb"
                 ]
             }
         },
@@ -13397,7 +13675,8 @@
                     "Fellows"
                 ],
                 "ORG": [
-                    "New Testament"
+                    "New Testament",
+                    "Speakers Bureau  Resurrection Fact  Where Have all the Nones Gone \u00a0"
                 ]
             }
         },
@@ -13429,7 +13708,7 @@
                     "one"
                 ],
                 "WORK_OF_ART": [
-                    "The Idea of the University</a></p"
+                    "The Idea of the University  Resurrection Fact: Pre-Order \u00a0"
                 ]
             }
         },
@@ -13465,20 +13744,17 @@
                     "Kolb",
                     "Martin Luther",
                     "Kolb",
-                    "Simeon-Netto</a></p",
                     "Keith Translations"
                 ],
                 "ORG": [
-                    "Loci of Philip Melanchthon"
+                    "Loci of Philip Melanchthon",
+                    "Simeon-Netto"
                 ],
                 "GPE": [
                     "Lutheran"
                 ],
                 "CARDINAL": [
                     "Two"
-                ],
-                "WORK_OF_ART": [
-                    "Moonwalking With Einstein"
                 ]
             }
         },
@@ -13515,8 +13791,8 @@
                 "GPE": [
                     "Apologetics"
                 ],
-                "NORP": [
-                    "Christianity"
+                "ORG": [
+                    "Apologetics Academy\u00a0  Tactics"
                 ]
             }
         },
@@ -13544,12 +13820,14 @@
             "pubDate": "Fri, 16 Sep 2016 15:52:29 +0000",
             "title": "Drs. Kolb and Siemon-Netto talk Two Kingdoms",
             "entities": {
+                "ORG": [
+                    "Hallo",
+                    "the Thinking Fellows",
+                    "Uwe Siemon-Netto",
+                    "The Fabricated Luther Confession Augustana  "
+                ],
                 "DATE": [
                     "This week"
-                ],
-                "ORG": [
-                    "the Thinking Fellows",
-                    "Uwe Siemon-Netto"
                 ],
                 "GPE": [
                     "Germany",
@@ -13562,6 +13840,9 @@
                     "Drs",
                     "Bob Kolb",
                     "Keith"
+                ],
+                "NORP": [
+                    "Absurd"
                 ]
             }
         },
@@ -13595,8 +13876,10 @@
                 "ORG": [
                     "Islam",
                     "the World Trade Center 9/11/01",
-                    "Augsburg",
-                    "Influence of German Biblical"
+                    "the Augsburg Confession -"
+                ],
+                "NORP": [
+                    "German"
                 ]
             }
         },
@@ -13630,6 +13913,9 @@
                 "PERSON": [
                     "Bill",
                     "Ted"
+                ],
+                "WORK_OF_ART": [
+                    "Coming Soon The Resurrection Fact"
                 ]
             }
         },
@@ -13668,8 +13954,8 @@
                     "Christian",
                     "Christianity"
                 ],
-                "WORK_OF_ART": [
-                    "The Defense Never Rests</a></p"
+                "PERSON": [
+                    "History Law"
                 ]
             }
         },
@@ -13698,20 +13984,12 @@
             "title": "The Bondage of the Will",
             "entities": {
                 "ORG": [
-                    "the Thinking Fellows"
+                    "the Thinking Fellows",
+                    "the Will Thinking Fellows on Facebook Thinking Fellows"
                 ],
                 "PERSON": [
                     "Jim Nestingen",
-                    "Luther",
-                    "id=\"yui_3_17_2_4_1472217669702_2126\"><a id=",
-                    "name=\"yui_3_17_2_4_1472217669702_2125\">Luther"
-                ],
-                "WORK_OF_ART": [
-                    "\"yui_3_17_2_4_1472217669702_2140\">Thinking Fellows on Facebook</a></p",
-                    "\"yui_3_17_2_4_1472217669702_2144\">Thinking Fellows on Twitter</a></p"
-                ],
-                "NORP": [
-                    "Show</a></p"
+                    "Luther"
                 ]
             }
         },
@@ -13750,7 +14028,7 @@
                 "PERSON": [
                     "Jim Nestingen",
                     "Nestingen",
-                    "Bly"
+                    "Robert Bly"
                 ]
             }
         },
@@ -13779,22 +14057,22 @@
             "title": "The Role of a Pastor",
             "entities": {
                 "DATE": [
-                    "dir=\"ltr\">This week",
+                    "This week",
                     "1517"
                 ],
                 "PERSON": [
                     "Fellows",
                     "Joel Hess",
                     "Joel",
-                    "Jagged Word Website</a></p",
-                    "Peter Brown</a></p"
+                    "Twitter",
+                    "Augustine",
+                    "Peter Brown Luther"
                 ],
                 "PRODUCT": [
                     "Jagged"
                 ],
                 "WORK_OF_ART": [
-                    "http://www.facebook.com/TheJaggedWord/\">The Jagged Word on Facebook</a></p",
-                    "https://twitter.com/thejaggedword\">The Jagged Word on Twitter</a></p"
+                    "Facebook The Jagged Word"
                 ]
             }
         },
@@ -13828,16 +14106,13 @@
                 "PERSON": [
                     "Fellows",
                     "Joel Fitzpatrick",
-                    "Fellows",
-                    "C.S. Lewis"
+                    "Fellows"
+                ],
+                "ORG": [
+                    "the Fitzes  C.S. Lewis"
                 ],
                 "CARDINAL": [
-                    "14",
-                    "2",
                     "Four"
-                ],
-                "WORK_OF_ART": [
-                    "yui_3_17_2_7_1471010433227_2085\">Front Porch with the Fitzes</a></p>"
                 ]
             }
         },
@@ -13871,20 +14146,17 @@
                 "ORG": [
                     "the Thinking Fellows",
                     "Trinity",
-                    "the New Earth Satisfy Our Deepest"
+                    "the New Earth Satisfy Our Deepest Longings"
                 ],
                 "PERSON": [
                     "Elyse Fitzpatrick",
                     "Joel Fitzpatrick",
                     "Fellows",
                     "Fellows",
-                    "J.T. Mueller</a></p"
+                    "J.T. Mueller"
                 ],
                 "NORP": [
                     "Christian"
-                ],
-                "WORK_OF_ART": [
-                    "yui_3_17_2_1_1470341121682_38436\">Lutheran Leprechauns\u00a0<"
                 ]
             }
         },
@@ -13922,10 +14194,6 @@
                 ],
                 "PERSON": [
                     "Fellows"
-                ],
-                "WORK_OF_ART": [
-                    "name=\"yui_3_17_2_6_1469803867437_14511\">Working For Our Neighbor",
-                    "name=\"yui_3_17_2_6_1469803867437_15525\">Where Christ Is Present:</a></p"
                 ]
             }
         },
@@ -13954,23 +14222,25 @@
             "title": "Missions",
             "entities": {
                 "CARDINAL": [
-                    "26"
+                    "26",
+                    "200"
                 ],
                 "PERSON": [
                     "Fellows",
                     "Craig Donofrio",
                     "Donofrio",
-                    "Paula",
-                    "T</a><a id=\"yui_3_17_2_3_1469145197469_17124\""
+                    "Craig",
+                    "Paula"
                 ],
                 "NORP": [
                     "Lutherans"
                 ],
                 "GPE": [
-                    "the United States"
+                    "the United States",
+                    "Eurasia"
                 ],
-                "PRODUCT": [
-                    "id=\"yui_3_17_2_3_1469145197469_17122"
+                "WORK_OF_ART": [
+                    "The Flaw of the Excluded Middle"
                 ]
             }
         },
@@ -14008,8 +14278,8 @@
                     "Elyse Fitzpatrick",
                     "Jessica Thompson"
                 ],
-                "LOC": [
-                    "Porch"
+                "ORG": [
+                    "Grace"
                 ]
             }
         },
@@ -14044,12 +14314,13 @@
                     "Episode",
                     "Fellows",
                     "Dan van Voorhis",
-                    "Norman Cohn",
-                    "Mark Brighton"
+                    "Featured This Episode",
+                    "Mark Brighton",
+                    "Facebook Twitter"
                 ],
                 "GPE": [
-                    "Wasteland",
-                    "https://shop.1517legacy.com/product/t-shirt-virtue-in-the-wasteland-everything-is-going-to-be-ok/"
+                    "the Wasteland Podcast  Norman Cohn",
+                    "Wasteland"
                 ],
                 "ORG": [
                     "Pursuit"
@@ -14083,7 +14354,8 @@
                 "ORG": [
                     "The Thinking Fellows",
                     "Loci",
-                    "Rosenbladt"
+                    "Rosenbladt",
+                    "LCRL"
                 ],
                 "CARDINAL": [
                     "23"
@@ -14091,10 +14363,14 @@
                 "PERSON": [
                     "Keith",
                     "Francisco",
-                    "Law"
+                    "Law",
+                    "Twitter"
                 ],
                 "GPE": [
                     "Two Kingdom"
+                ],
+                "NORP": [
+                    "Christianity"
                 ]
             }
         },
@@ -14128,7 +14404,8 @@
                 ],
                 "PERSON": [
                     "Fellows",
-                    "Fellows"
+                    "Fellows",
+                    "Featured this Episode:"
                 ],
                 "GPE": [
                     "486th"
@@ -14137,7 +14414,7 @@
                     "the Augsburg Confession",
                     "Theology of",
                     "the Augsburg Confession",
-                    "augsburgconfession.php\">The Augsburg Confession"
+                    "The Augsburg Confession Online Donate Facebook"
                 ]
             }
         },
@@ -14166,11 +14443,16 @@
             "title": "Father's Day",
             "entities": {
                 "GPE": [
-                    "Fatherhood"
+                    "Fatherhood",
+                    "MI"
                 ],
                 "PERSON": [
                     "Fellows",
+                    "Featured this Episode",
                     "Keith"
+                ],
+                "NORP": [
+                    "iTunes"
                 ]
             }
         },
@@ -14198,11 +14480,13 @@
             "pubDate": "Fri, 10 Jun 2016 14:57:34 +0000",
             "title": "The Church",
             "entities": {
+                "PERSON": [
+                    "Episode",
+                    "Fellows",
+                    "Featured This Episode"
+                ],
                 "CARDINAL": [
                     "20"
-                ],
-                "PERSON": [
-                    "Fellows"
                 ],
                 "ORG": [
                     "Church",
@@ -14213,9 +14497,6 @@
                 ],
                 "ORDINAL": [
                     "first"
-                ],
-                "NORP": [
-                    "Show</a></p"
                 ]
             }
         },
@@ -14244,19 +14525,19 @@
             "title": "Hitmen and Midwives of God",
             "entities": {
                 "CARDINAL": [
-                    "19",
-                    "17"
+                    "19"
                 ],
                 "PERSON": [
                     "Fellow",
                     "Paul Koch",
                     "Fellows",
+                    "Featured This Episode",
                     "Keith",
                     "Fri",
-                    "Koch",
-                    "Jagged Word</a></div"
+                    "Koch"
                 ],
                 "ORG": [
+                    "PS: Listen for the bee",
                     "Cadillac",
                     "Emmanuel Lutheran Church",
                     "Cadillac"
@@ -14266,11 +14547,9 @@
                     "United States"
                 ],
                 "DATE": [
+                    "June 17",
                     "11198",
                     "49601"
-                ],
-                "WORK_OF_ART": [
-                    "The Proper Distinction Between Law and Gospel</a></div"
                 ]
             }
         },
@@ -14301,6 +14580,12 @@
                 "ORG": [
                     "Means of Grace",
                     "Christ"
+                ],
+                "PERSON": [
+                    "Featured This Episode Donate"
+                ],
+                "FAC": [
+                    "the Blood Facebook Twitter"
                 ]
             }
         },
@@ -14339,10 +14624,10 @@
                     "Confession and Absolution",
                     "Confession and Absolution",
                     "Christ's Forgiveness",
-                    "Jim Nestingen Confession"
-                ],
-                "WORK_OF_ART": [
-                    "Porch With The Fitzes</a></p"
+                    "the Thinking Fellows",
+                    "The Fitzes  Means of Grace Being Dad",
+                    "Jim Nestingen Confession",
+                    "Absolution"
                 ]
             }
         },
@@ -14376,7 +14661,9 @@
                 ],
                 "PERSON": [
                     "Fellows",
-                    "Fellows"
+                    "Fellows",
+                    "Audio",
+                    "Legacy Luther's Small Catechism Romans"
                 ],
                 "ORG": [
                     "the Means of Grace"
@@ -14412,7 +14699,11 @@
             "entities": {
                 "ORG": [
                     "Grace of Christ",
-                    "The Christian Life Cross"
+                    "The Christian Life Cross",
+                    "the Thinking Fellows Facebook Twitter"
+                ],
+                "PERSON": [
+                    "Featured This Episode"
                 ]
             }
         },
@@ -14440,12 +14731,18 @@
             "pubDate": "Fri, 29 Apr 2016 15:21:40 +0000",
             "title": "Good Works",
             "entities": {
+                "NORP": [
+                    "Lutherans"
+                ],
                 "CARDINAL": [
                     "14"
                 ],
                 "PERSON": [
-                    "James Richard Melanchthon</a></p",
-                    "Jagged Word</a></p"
+                    "Featured this Episode",
+                    "James Richard Melanchthon"
+                ],
+                "ORG": [
+                    "Speakers\nBureau"
                 ]
             }
         },
@@ -14481,10 +14778,12 @@
                     "This week"
                 ],
                 "PERSON": [
-                    "Fellows"
+                    "Fellows",
+                    "Featured this Episode",
+                    "Wittenberg"
                 ],
-                "CARDINAL": [
-                    "seven"
+                "ORG": [
+                    "Geneva\r\nLoci Translations"
                 ]
             }
         },
@@ -14514,23 +14813,23 @@
             "entities": {
                 "ORG": [
                     "the Thinking Fellows",
-                    "Project"
+                    "Project",
+                    "Geneva\r\nFacebook"
                 ],
                 "PERSON": [
                     "Loci",
                     "Brian Thomas",
                     "Brian Thomas",
                     "Wittenberg",
-                    "Fellows"
+                    "Fellows",
+                    "Featured this Episode",
+                    "Wittenberg"
                 ],
                 "DATE": [
                     "1517"
                 ],
                 "GPE": [
                     "Geneva"
-                ],
-                "CARDINAL": [
-                    "seven"
                 ]
             }
         },
@@ -14567,17 +14866,11 @@
                 "LOC": [
                     "the Lutheran Reformation"
                 ],
-                "ORG": [
-                    "UTF8&qid=1460050364&sr=8-1&keywords",
-                    "Bondage",
-                    "Augsburg",
-                    "subscribe/\">1517 Newsletter</a></p"
+                "WORK_OF_ART": [
+                    "Featured the Episode"
                 ],
-                "GPE": [
-                    "Will</a></p"
-                ],
-                "CARDINAL": [
-                    "18"
+                "LAW": [
+                    "Article 18 of the Augsburg Confession\r\n1517 Newsletter"
                 ]
             }
         },
@@ -14611,8 +14904,8 @@
                 "ORG": [
                     "The Thinking Fellows"
                 ],
-                "MONEY": [
-                    "UTF8&qid=1459487143&sr=8-1&keywords"
+                "PERSON": [
+                    "Featured This Episode"
                 ]
             }
         },
@@ -14641,10 +14934,13 @@
             "title": "Atonement",
             "entities": {
                 "DATE": [
-                    "This week"
+                    "This week",
+                    "this week",
+                    "1517"
                 ],
                 "ORG": [
-                    "the Thinking Fellows"
+                    "the Thinking Fellows",
+                    "Social Media"
                 ],
                 "PERSON": [
                     "Fellows"
@@ -14653,7 +14949,7 @@
                     "the Lutheran Confessions"
                 ],
                 "GPE": [
-                    "Concord"
+                    "Wasteland"
                 ]
             }
         },
@@ -14684,6 +14980,7 @@
                 "DATE": [
                     "Last week",
                     "This week",
+                    "this week",
                     "1517"
                 ],
                 "ORDINAL": [
@@ -14693,7 +14990,7 @@
                     "2"
                 ],
                 "PERSON": [
-                    "href=\"http://www.thinkingfellows.com\">http://www.thinkingfellows.com</a"
+                    "Audio"
                 ]
             }
         },
@@ -14731,12 +15028,10 @@
                 "PERSON": [
                     "Solas",
                     "Drs",
+                    "Featured",
                     "Keith Loci",
                     "Allegory",
-                    "Legacy Blog</a></p"
-                ],
-                "NORP": [
-                    "href=\"http://www.1517legacy.com\">1517"
+                    "Gospel\r\n1517"
                 ]
             }
         },
@@ -14767,16 +15062,14 @@
                 "NORP": [
                     "Christianity"
                 ],
-                "CARDINAL": [
-                    "Two"
-                ],
                 "ORG": [
-                    "Doctrinal Theology</a></p",
-                    "Know-Creeds-Councils-Justin-Holcomb",
-                    "the Creeds and Councils\u00a0<"
+                    "Sacrifice",
+                    "Doctrinal Theology",
+                    "the Creeds and Councils\u00a0\r\nLutheran Theology"
                 ],
-                "DATE": [
-                    "UTF8&qid=1457721186&sr=1-1&keywords"
+                "CARDINAL": [
+                    "Two",
+                    "Two"
                 ]
             }
         },
@@ -14810,7 +15103,8 @@
                 "ORG": [
                     "the Thinking Fellows",
                     "Church",
-                    "Rosenbladt"
+                    "Rosenbladt",
+                    "the Thinking Fellows"
                 ],
                 "PERSON": [
                     "Drs",
@@ -14820,8 +15114,8 @@
                 "GPE": [
                     "Keith"
                 ],
-                "DATE": [
-                    "1517"
+                "NORP": [
+                    "Christianity"
                 ]
             }
         },
@@ -14891,14 +15185,14 @@
                 "ORG": [
                     "the Thinking Fellows",
                     "Sin",
-                    "Rosenbladt",
-                    "href=\"http://www.christholdfast.org/conference/\">http://www.christholdfast.org/conference/</a></p>"
+                    "Rosenbladt"
                 ],
                 "PERSON": [
                     "Gospel",
                     "Law",
                     "Drs",
                     "Francisco",
+                    "Featured",
                     "Alone Booklet"
                 ],
                 "GPE": [
@@ -14934,14 +15228,18 @@
                 "ORG": [
                     "Rosenbladt",
                     "Loci",
-                    "href=\"http://www.christholdfast.org/christholdfastpodcast/\">Christ Hold Fast: The Definitive Third"
+                    "Speakers Bureau"
                 ],
                 "GPE": [
                     "Keith"
                 ],
                 "PERSON": [
                     "Francisco",
-                    "Law"
+                    "Law",
+                    "Featured"
+                ],
+                "DATE": [
+                    "1517"
                 ]
             }
         },
@@ -14971,15 +15269,15 @@
             "title": "Sin",
             "entities": {
                 "ORG": [
-                    "The Thinking Fellows",
-                    "Rosenbladt"
+                    "Thinking Fellows",
+                    "Rosenbladt",
+                    "http://www.1517legacy.com"
                 ],
                 "GPE": [
                     "Keith"
                 ],
                 "PERSON": [
                     "Francisco",
-                    "Loci Method",
                     "Grace"
                 ]
             }

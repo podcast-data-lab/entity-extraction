@@ -122,6 +122,9 @@
                 ],
                 "CARDINAL": [
                     "hundreds"
+                ],
+                "PRODUCT": [
+                    "Learn"
                 ]
             }
         },
@@ -154,6 +157,12 @@
                 ],
                 "GPE": [
                     "Iran"
+                ],
+                "DATE": [
+                    "1985"
+                ],
+                "PRODUCT": [
+                    "Learn"
                 ]
             }
         },
@@ -193,6 +202,9 @@
                 ],
                 "NORP": [
                     "American"
+                ],
+                "PRODUCT": [
+                    "Learn"
                 ]
             }
         },
@@ -231,6 +243,9 @@
                 ],
                 "GPE": [
                     "Hollywood"
+                ],
+                "PRODUCT": [
+                    "Learn"
                 ]
             }
         },
@@ -267,6 +282,9 @@
                 ],
                 "DATE": [
                     "1920"
+                ],
+                "PRODUCT": [
+                    "Learn"
                 ]
             }
         },
@@ -295,8 +313,11 @@
             "pubDate": "Wed, 05 Aug 2020 06:59:00 +0000",
             "title": "Bonus Episode 5: The Freak Bicycle Accident Behind a Children\u2019s Classic",
             "entities": {
-                "PERSON": [
-                    "Ludwig Bemelmans"
+                "ORG": [
+                    "Ludwig"
+                ],
+                "PRODUCT": [
+                    "Learn"
                 ]
             }
         },
@@ -331,6 +352,9 @@
                 ],
                 "EVENT": [
                     "Watergate"
+                ],
+                "PRODUCT": [
+                    "Learn"
                 ]
             }
         },
@@ -364,6 +388,9 @@
                 ],
                 "DATE": [
                     "1888"
+                ],
+                "PRODUCT": [
+                    "Learn"
                 ]
             }
         },
@@ -394,6 +421,9 @@
             "entities": {
                 "CARDINAL": [
                     "two"
+                ],
+                "PRODUCT": [
+                    "Learn"
                 ]
             }
         },
@@ -428,6 +458,9 @@
                 ],
                 "PERSON": [
                     "Wright"
+                ],
+                "PRODUCT": [
+                    "Learn"
                 ]
             }
         },
@@ -458,6 +491,12 @@
             "entities": {
                 "GPE": [
                     "Hollywood"
+                ],
+                "NORP": [
+                    "Frenchman"
+                ],
+                "PRODUCT": [
+                    "Learn"
                 ]
             }
         },
@@ -488,6 +527,9 @@
             "entities": {
                 "PERSON": [
                     "Koch"
+                ],
+                "PRODUCT": [
+                    "Learn"
                 ]
             }
         },
@@ -521,6 +563,9 @@
                 ],
                 "LOC": [
                     "earth"
+                ],
+                "PRODUCT": [
+                    "Learn"
                 ]
             }
         },
@@ -551,6 +596,9 @@
             "entities": {
                 "PERSON": [
                     "Gypsy"
+                ],
+                "PRODUCT": [
+                    "Learn"
                 ]
             }
         },
@@ -581,6 +629,9 @@
             "entities": {
                 "DATE": [
                     "19th century"
+                ],
+                "PRODUCT": [
+                    "Learn"
                 ]
             }
         },
@@ -610,7 +661,11 @@
             "title": "FB 105: High Hitler: How a Meth-Peddling Doctor Changed the Course of World War II",
             "entities": {
                 "CARDINAL": [
-                    "one"
+                    "one",
+                    "millions"
+                ],
+                "PRODUCT": [
+                    "Learn"
                 ]
             }
         },
@@ -644,6 +699,9 @@
                 ],
                 "ORG": [
                     "Major League Baseball"
+                ],
+                "PRODUCT": [
+                    "Learn"
                 ]
             }
         },
@@ -677,6 +735,9 @@
                 ],
                 "WORK_OF_ART": [
                     "Lecture Notes"
+                ],
+                "PRODUCT": [
+                    "Learn"
                 ]
             }
         },
@@ -715,6 +776,9 @@
                 ],
                 "EVENT": [
                     "World War I"
+                ],
+                "PRODUCT": [
+                    "Learn"
                 ]
             }
         },
@@ -742,7 +806,11 @@
             "link": "https://omny.fm/shows/flashback-historys-unintended-consequences/fb-101-mcveigh-s-mentor-how-henry-ford-inspired-th",
             "pubDate": "Wed, 06 May 2020 07:00:00 +0000",
             "title": "FB 101: McVeigh\u2019s Mentor: How Henry Ford Inspired the Oklahoma City Bombing",
-            "entities": {}
+            "entities": {
+                "PRODUCT": [
+                    "Learn"
+                ]
+            }
         },
         {
             "content": "<p>Each of us handles social distancing in our own way. Some are doing virtual yoga classes. Others are turning to art. And then there are those truly rare birds... like Sir Issac Newton. He once turned his time in quarantine into an opportunity to change the way we understand the world around us. Learn about history\u2019s unintended consequences on Flashback, a new podcast from OZY and iHeart Radio Podcast Network. Find out how some of the best-laid plans can go horribly wrong or prove unexpectedly magnificent.\u00a0\u00a0</p><p> </p> Learn more about your ad-choices at <a href=\"https://www.iheartpodcastnetwork.com\">https://www.iheartpodcastnetwork.com</a><p>See <a href=\"https://omnystudio.com/listener\">omnystudio.com/listener</a> for privacy information.</p>",
@@ -772,6 +840,9 @@
                 "ORG": [
                     "OZY",
                     "iHeart Radio Podcast Network"
+                ],
+                "PRODUCT": [
+                    "Learn"
                 ]
             }
         },
@@ -811,6 +882,9 @@
                 ],
                 "NORP": [
                     "American"
+                ],
+                "PRODUCT": [
+                    "Learn"
                 ]
             }
         }

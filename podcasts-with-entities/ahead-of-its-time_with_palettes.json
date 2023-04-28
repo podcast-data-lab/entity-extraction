@@ -39,26 +39,32 @@
             "pubDate": "Tue, 18 Oct 2022 04:05:00 +0000",
             "title": "Facial Recognition: How a forgotten AI pioneer, the CIA, and Google Glass are helping the visually impaired",
             "entities": {
-                "ORG": [
-                    "href=\"https://twitter.com",
-                    "CIA",
-                    "Karthik",
-                    "Apple"
+                "PERSON": [
+                    "Shaun Raviv",
+                    "Woody Bledsoe",
+                    "Karthik Kannan",
+                    "Woody Bledsoe",
+                    "Woody Bledsoe",
+                    "Woody",
+                    "Glass"
                 ],
                 "DATE": [
                     "1960",
                     "years",
                     "more than 50 years ago"
                 ],
-                "PERSON": [
-                    "Woody Bledsoe",
-                    "Woody Bledsoe",
-                    "Woody",
-                    "Glass"
+                "ORG": [
+                    "CIA",
+                    "Karthik",
+                    "Envision",
+                    "Apple"
                 ],
                 "ORDINAL": [
                     "first",
                     "first"
+                ],
+                "WORK_OF_ART": [
+                    "Take Our Listener"
                 ],
                 "TIME": [
                     "5 minute"
@@ -116,6 +122,7 @@
                 "ORG": [
                     "EV",
                     "Tesla",
+                    "GM",
                     "VW",
                     "GM",
                     "EV",
@@ -124,19 +131,23 @@
                 ],
                 "PERSON": [
                     "Wally Rippel",
+                    "Wim Ouboter",
                     "Wally",
                     "Wally"
                 ],
                 "GPE": [
-                    "LA",
-                    "href=\"https://microlino"
+                    "LA"
+                ],
+                "NORP": [
+                    "Microlino",
+                    "Microlino"
                 ],
                 "ORDINAL": [
                     "first",
                     "first"
                 ],
-                "NORP": [
-                    "Microlino"
+                "WORK_OF_ART": [
+                    "Take Our Listener"
                 ],
                 "TIME": [
                     "5 minute"
@@ -187,6 +198,15 @@
                     "1971",
                     "more than 30 years"
                 ],
+                "PERSON": [
+                    "Greg Newby",
+                    "Michael Hart",
+                    "Manolis Kelaidis",
+                    "Michael Hart",
+                    "Project Gutenberg",
+                    "Project Gutenberg",
+                    "Gutenberg"
+                ],
                 "PRODUCT": [
                     "eBook",
                     "eBook"
@@ -209,10 +229,8 @@
                     "Manolis",
                     "Apple"
                 ],
-                "PERSON": [
-                    "Michael Hart",
-                    "Project Gutenberg",
-                    "Gutenberg"
+                "WORK_OF_ART": [
+                    "Take Our Listener"
                 ],
                 "TIME": [
                     "5 minute"
@@ -262,7 +280,8 @@
                     "1954"
                 ],
                 "PERSON": [
-                    "calvin-fuller\">Calvin Fuller\u2019</a",
+                    "Calvin Fuller\u2019s",
+                    "Bob Freling",
                     "Calvin Fuller",
                     "Bob Freling",
                     "Bob"
@@ -275,12 +294,13 @@
                     "Chinese",
                     "African"
                 ],
+                "ORG": [
+                    "Bell Labs",
+                    "the Solar Electric Light Fund",
+                    "Apple"
+                ],
                 "PERCENT": [
                     "6%"
-                ],
-                "ORG": [
-                    "Electric Light Fund",
-                    "Apple"
                 ],
                 "CARDINAL": [
                     "more than 1-million",
@@ -289,6 +309,9 @@
                 ],
                 "GPE": [
                     "Benin"
+                ],
+                "WORK_OF_ART": [
+                    "Take Our Listener"
                 ],
                 "MONEY": [
                     "100"
@@ -342,22 +365,19 @@
                 ],
                 "PERSON": [
                     "WiFi",
-                    "Alexandra",
                     "WiFi",
+                    "Alexandra Dean",
+                    "Hedy Lamarr",
+                    "WiFi",
+                    "Harald Haas",
+                    "LiFi",
                     "Hedy Lamarr",
                     "Harald",
                     "Hedy",
                     "TED"
                 ],
-                "ORG": [
-                    "WiFi",
-                    "href=\"https://twitter.com",
-                    "LiFi <",
-                    "Apple"
-                ],
                 "GPE": [
-                    "Hollywood",
-                    "Lamarr</a"
+                    "Hollywood"
                 ],
                 "TIME": [
                     "night",
@@ -365,6 +385,15 @@
                 ],
                 "NORP": [
                     "Nazi"
+                ],
+                "LOC": [
+                    "LiFi"
+                ],
+                "WORK_OF_ART": [
+                    "Take Our Listener"
+                ],
+                "ORG": [
+                    "Apple"
                 ]
             }
         },
@@ -398,11 +427,16 @@
             "pubDate": "Tue, 9 Aug 2022 04:05:00 +0000",
             "title": "Cell Phones: The portable police radio and Apple\u2019s secret project that changed the way we communicate",
             "entities": {
+                "PERSON": [
+                    "Marty Cooper",
+                    "Bas Ordering",
+                    "Steve Jobs",
+                    "Marty Cooper",
+                    "Bas"
+                ],
                 "ORG": [
-                    "href=\"https://twitter.com",
                     "Motorola",
                     "Bell",
-                    "href=\"https://dynallc.com",
                     "Apple",
                     "Motorola",
                     "iPhone",
@@ -413,17 +447,15 @@
                     "first",
                     "first"
                 ],
-                "PERSON": [
-                    "Steve Jobs",
-                    "Marty Cooper",
-                    "Bas"
-                ],
                 "DATE": [
                     "1973",
                     "Today",
                     "the day",
                     "the next three decades",
                     "2007"
+                ],
+                "WORK_OF_ART": [
+                    "Take Our Listener"
                 ],
                 "TIME": [
                     "5 minute"
@@ -478,6 +510,13 @@
                     "Today",
                     "the next era"
                 ],
+                "PERSON": [
+                    "Steven Sasson",
+                    "Eric Fossum",
+                    "Steven",
+                    "Eric Fossum",
+                    "Steven"
+                ],
                 "ORDINAL": [
                     "first"
                 ],
@@ -485,11 +524,6 @@
                     "NASA",
                     "Kodak",
                     "Apple"
-                ],
-                "PERSON": [
-                    "Steven",
-                    "Eric Fossum",
-                    "Steven"
                 ],
                 "CARDINAL": [
                     "one",
@@ -537,9 +571,10 @@
                 ],
                 "PERSON": [
                     "Tom Zimmerman",
-                    "rscrockett/\">Bob Crockett</a",
                     "Bob Crockett",
-                    "Rubin <"
+                    "Tom",
+                    "Bob Crockett",
+                    "Jake Rubin"
                 ],
                 "DATE": [
                     "one day",
@@ -552,9 +587,6 @@
                     "one",
                     "one",
                     "five"
-                ],
-                "WORK_OF_ART": [
-                    "Please Take Our Listener"
                 ],
                 "TIME": [
                     "5 minute"

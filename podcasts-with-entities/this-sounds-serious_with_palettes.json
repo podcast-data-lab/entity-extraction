@@ -86,8 +86,7 @@
                     "Ryan",
                     "Mark",
                     "Catherine Winder",
-                    "Jem Gerrard",
-                    "Podcasts</a"
+                    "Jem Gerrard"
                 ],
                 "CARDINAL": [
                     "eight",
@@ -95,7 +94,9 @@
                 ],
                 "ORG": [
                     "sci-fi",
-                    "Maddy"
+                    "Maddy",
+                    "Apple Podcasts",
+                    "Spotify"
                 ],
                 "GPE": [
                     "Hollywood"
@@ -211,8 +212,7 @@
                 ],
                 "PERSON": [
                     "Frank Reeves",
-                    "Kirk",
-                    "href=\"https://tss.supercast.tech/\">Click here</a"
+                    "Kirk"
                 ],
                 "DATE": [
                     "the entire season"
@@ -293,8 +293,7 @@
             "title": "5: The Con Man\u2019s Handbook",
             "entities": {
                 "PERSON": [
-                    "Kirk",
-                    "it.</p><p><a href=\"https://tss.supercast.tech/\">Click here</a"
+                    "Kirk"
                 ],
                 "WORK_OF_ART": [
                     "Con Man\u2019s Handbook"
@@ -338,8 +337,7 @@
                 ],
                 "PERSON": [
                     "Kirk Todd",
-                    "Helen Chatham",
-                    "href=\"https://tss.supercast.tech/\">Click here</a"
+                    "Helen Chatham"
                 ],
                 "DATE": [
                     "the entire season"
@@ -463,8 +461,7 @@
                 ],
                 "PERSON": [
                     "Gwen Radford",
-                    "Kirk Todd",
-                    "href=\"https://tss.supercast.tech/\">Click here</a"
+                    "Kirk Todd"
                 ],
                 "GPE": [
                     "Grand Casino"
@@ -548,6 +545,9 @@
             "entities": {
                 "PERSON": [
                     "Louise Burns"
+                ],
+                "ORG": [
+                    "Record Club"
                 ]
             }
         },
@@ -726,7 +726,7 @@
             "title": "4: Subcultures",
             "entities": {
                 "GPE": [
-                    "Manhattan Media"
+                    "Manhattan"
                 ],
                 "WORK_OF_ART": [
                     "Here\u2019s Some Information"
@@ -735,7 +735,8 @@
                     "TSS"
                 ],
                 "PERSON": [
-                    "Jimmy"
+                    "Jimmy",
+                    "Melissa"
                 ]
             }
         },
@@ -814,7 +815,7 @@
                 ],
                 "PERSON": [
                     "Jimmy Kline",
-                    "Melissa Turner.</p"
+                    "Melissa Turner"
                 ],
                 "GPE": [
                     "Tom Day",
@@ -931,6 +932,9 @@
             "pubDate": "Sat, 16 Jun 2018 17:00:00 +0000",
             "title": "8: The Finale",
             "entities": {
+                "PERSON": [
+                    "Daniel"
+                ],
                 "CARDINAL": [
                     "911"
                 ]

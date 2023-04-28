@@ -44,7 +44,8 @@
                     "Nelson Mandela",
                     "Lulu",
                     "Lulu",
-                    "Lulu"
+                    "Lulu",
+                    "Lulu Gwagwa"
                 ],
                 "ORG": [
                     "Lereko Investments",
@@ -58,8 +59,7 @@
                     "the World Bank",
                     "Lereko Investments",
                     "FirstRand",
-                    "Sun International",
-                    "Dr Lulu Gwagwa.</p"
+                    "Sun International"
                 ],
                 "GPE": [
                     "South Africa",
@@ -109,12 +109,17 @@
             "pubDate": "Thu, 11 Oct 2018 08:47:00 +0000",
             "title": "028: Karan Singh -- Going Beyond a Platform Play with Rwanda's Yegomoto",
             "entities": {
+                "PERSON": [
+                    "Karan Singh"
+                ],
                 "GPE": [
+                    "Yegomoto",
                     "Rwanda",
                     "India",
                     "Singapore",
                     "Rwanda",
-                    "Kigali"
+                    "Kigali",
+                    "Singh"
                 ],
                 "PRODUCT": [
                     "Twitter"
@@ -168,6 +173,7 @@
             "entities": {
                 "PERSON": [
                     "Akin Sawyerr",
+                    "Feleman",
                     "Twitter",
                     "Akin",
                     "Splash"
@@ -176,7 +182,8 @@
                     "RocRemit",
                     "Splash Mobile Money",
                     "Sierra Leone",
-                    "Akin"
+                    "Akin",
+                    "Akin Sawyerr"
                 ],
                 "GPE": [
                     "Sub-Saharan Africa",
@@ -217,6 +224,14 @@
                     "Leo",
                     "Leo"
                 ],
+                "LOC": [
+                    "Africa",
+                    "Africa",
+                    "Africa",
+                    "Africa",
+                    "Africa",
+                    "Africa"
+                ],
                 "GPE": [
                     "Linkedin",
                     "Nigeria",
@@ -225,13 +240,6 @@
                     "Lagos",
                     "Leo",
                     "Nigeria"
-                ],
-                "LOC": [
-                    "Africa",
-                    "Africa",
-                    "Africa",
-                    "Africa",
-                    "Africa"
                 ],
                 "DATE": [
                     "the last five years",
@@ -245,7 +253,7 @@
                     "Ringier",
                     "Jumia Nigeria",
                     "Startup Partners Africa",
-                    "Leo Stiegeler.</p>\n"
+                    "Leo Stiegeler"
                 ],
                 "NORP": [
                     "Swiss",
@@ -283,6 +291,7 @@
             "entities": {
                 "PERSON": [
                     "Mira Mehta",
+                    "Tomato Jos",
                     "Mira",
                     "Mira",
                     "Mira",
@@ -291,7 +300,7 @@
                     "Tomato Jos",
                     "Dangote",
                     "Mira",
-                    "Mira Mehta.</p"
+                    "Mira Mehta"
                 ],
                 "GPE": [
                     "Kaduna",
@@ -358,13 +367,13 @@
             "entities": {
                 "PERSON": [
                     "Nnamdi Oranye",
+                    "Disrupting Africa",
                     "@Nnamdi Oranye",
-                    "Nnamdi",
                     "Disrupting Africa",
                     "Nnamdi",
-                    "Nnamdi",
                     "Botswana",
-                    "McKinsey"
+                    "McKinsey",
+                    "Nnamdi Oranye"
                 ],
                 "LOC": [
                     "Africa",
@@ -372,7 +381,6 @@
                     "Silicon Valley",
                     "Africa",
                     "Africa",
-                    "South Africa.</p",
                     "Africa"
                 ],
                 "GPE": [
@@ -382,7 +390,19 @@
                     "UK",
                     "Nigeria",
                     "Australia",
-                    "Sub-Saharan Africa"
+                    "Sub-Saharan Africa",
+                    "South Africa"
+                ],
+                "PRODUCT": [
+                    "Twitter"
+                ],
+                "ORG": [
+                    "Nnamdi",
+                    "BBC",
+                    "CNBC",
+                    "Mail & Guardian",
+                    "Nnamdi",
+                    "Nnamdi"
                 ],
                 "DATE": [
                     "weekly",
@@ -404,13 +424,6 @@
                     "98.7",
                     "one",
                     "3"
-                ],
-                "ORG": [
-                    "BBC",
-                    "CNBC",
-                    "Mail & Guardian.</p",
-                    "Nnamdi",
-                    "Nnamdi"
                 ],
                 "ORDINAL": [
                     "first"
@@ -447,10 +460,19 @@
                     "Jumia Nigeria",
                     "Manuel",
                     "Manuel",
-                    "Manuel Koser.</p"
+                    "Manuel Koser"
+                ],
+                "ORG": [
+                    "Silvertree Holdings",
+                    "Boston Consulting Group",
+                    "BCG",
+                    "BCG",
+                    "Silvertree Holdings",
+                    "Jumia",
+                    "Manuel",
+                    "Jumia Nigeria"
                 ],
                 "NORP": [
-                    "Holdings</a",
                     "South African",
                     "South African",
                     "African"
@@ -465,15 +487,6 @@
                     "South Africa\u2019s",
                     "Zando",
                     "Zando"
-                ],
-                "ORG": [
-                    "Boston Consulting Group",
-                    "BCG",
-                    "BCG",
-                    "Silvertree Holdings",
-                    "Jumia",
-                    "Manuel",
-                    "Jumia Nigeria"
                 ],
                 "DATE": [
                     "day",
@@ -517,9 +530,10 @@
                     "Amanda Arch",
                     "Joanna",
                     "Joanna",
-                    "Joanna Bichsel.</p"
+                    "Joanna Bichsel"
                 ],
                 "GPE": [
+                    "Kasha",
                     "East Africa\u2019s",
                     "Canada",
                     "Seattle",
@@ -582,7 +596,8 @@
                     "Ethiopia",
                     "Addis",
                     "Ethiopia",
-                    "Spotify"
+                    "Spotify",
+                    "Addis Alemayehou"
                 ],
                 "ORG": [
                     "251 Communications",
@@ -649,18 +664,17 @@
                     "Bram Fudzulani",
                     "Bram",
                     "Malawi",
-                    "Bram",
                     "Malawi",
                     "Malawi",
                     "Bram",
-                    "Angle Dimension",
                     "Bram",
                     "Bram",
-                    "Bram Fudzulani.</p"
+                    "Bram Fudzulani"
                 ],
                 "ORG": [
                     "Angle Dimension",
                     "ISP",
+                    "Angle Dimension",
                     "Malawi\u2019s ICT Association"
                 ],
                 "GPE": [
@@ -707,8 +721,7 @@
             "entities": {
                 "GPE": [
                     "Hunnam",
-                    "Hunnam",
-                    "Lanre"
+                    "Hunnam"
                 ],
                 "PERSON": [
                     "Lanre Oloniniyi",
@@ -718,7 +731,8 @@
                     "Lanre",
                     "Lanre",
                     "Orbitt",
-                    "VC"
+                    "VC",
+                    "Lanre Oloniniyi"
                 ],
                 "ORG": [
                     "Orbitt Capital"
@@ -769,24 +783,14 @@
             "entities": {
                 "ORG": [
                     "Florida Uzoaru",
+                    "Slide Safe, Nigeria\u2019s",
                     "STI",
                     "LinkedIn @Florida Uzoaru",
                     "Slide Safe",
                     "Slide Safe",
                     "Slide Safe",
-                    "the CC Hub"
-                ],
-                "GPE": [
-                    "Nigeria",
-                    "Florida",
-                    "Nigeria",
-                    "Nigeria",
-                    "Florida",
-                    "Nigeria",
-                    "Florida",
-                    "Nigeria",
-                    "Nigeria",
-                    "Florida"
+                    "the CC Hub",
+                    "Florida Uzoaru"
                 ],
                 "ORDINAL": [
                     "first"
@@ -796,6 +800,16 @@
                 ],
                 "NORP": [
                     "Nigerian"
+                ],
+                "GPE": [
+                    "Florida",
+                    "Nigeria",
+                    "Nigeria",
+                    "Florida",
+                    "Nigeria",
+                    "Florida",
+                    "Nigeria",
+                    "Nigeria"
                 ],
                 "DATE": [
                     "her 20s"
@@ -845,8 +859,20 @@
                     "Henri",
                     "Henri"
                 ],
+                "ORG": [
+                    "ARED Group",
+                    "ARED Group",
+                    "ARED Group",
+                    "NGO",
+                    "ARED Group",
+                    "Africa Forum",
+                    "the SEIF Social Entrepreneurship Award",
+                    "Henri Nyakarundi"
+                ],
+                "PRODUCT": [
+                    "Twitter"
+                ],
                 "GPE": [
-                    "href='http://www.a",
                     "Facebook",
                     "LinkedIn",
                     "Instagram",
@@ -854,23 +880,11 @@
                     "US",
                     "Rwanda"
                 ],
-                "PRODUCT": [
-                    "Twitter"
-                ],
                 "NORP": [
                     "Rwandese"
                 ],
                 "LOC": [
                     "Africa"
-                ],
-                "ORG": [
-                    "ARED Group",
-                    "ARED Group",
-                    "NGO",
-                    "ARED Group",
-                    "Africa Forum",
-                    "the SEIF Social Entrepreneurship Award",
-                    "Henri"
                 ],
                 "LAW": [
                     "the Siemens Empowerment Award"
@@ -907,7 +921,7 @@
                     "Sam",
                     "Sam",
                     "Sam",
-                    "Sam Gikandi.</p"
+                    "Sam Gikandi"
                 ],
                 "LOC": [
                     "Africa",
@@ -980,11 +994,17 @@
             "title": "015: Gregory Rockson \u2013 At the Forefront of Africa\u2019s Digital Healthcare Sector",
             "entities": {
                 "PERSON": [
-                    "Gregory Rockson",
+                    "Rockson",
                     "Greg",
                     "Greg",
                     "mPharma",
-                    "Greg Rockson.</p"
+                    "Greg Rockson"
+                ],
+                "ORG": [
+                    "mPharma",
+                    "MPharma",
+                    "mPharma",
+                    "mPharma"
                 ],
                 "GPE": [
                     "Ghana",
@@ -995,11 +1015,6 @@
                 ],
                 "PRODUCT": [
                     "Twitter"
-                ],
-                "ORG": [
-                    "MPharma",
-                    "mPharma",
-                    "mPharma"
                 ],
                 "NORP": [
                     "Africans",
@@ -1037,16 +1052,16 @@
             "entities": {
                 "PERSON": [
                     "Neil Gordon",
-                    "GAEX)</a",
                     "Neil",
                     "Neil",
                     "Blockchain",
                     "Neil",
                     "Neil",
-                    "Neil Gordon.</p"
+                    "Neil Gordon"
                 ],
                 "ORG": [
-                    "a href='http://www.gaex.co/'>Global Agricultural Exchange",
+                    "Global Agricultural Exchange",
+                    "GAEX",
                     "GAEX",
                     "JPMorgan",
                     "Deutsche Bank",
@@ -1127,7 +1142,10 @@
                 ],
                 "PRODUCT": [
                     "Twitter",
-                    "the Top 10 Tips on Cultivating an Entrepreneur Mindset</p"
+                    "the Top 10 Tips on Cultivating an Entrepreneur"
+                ],
+                "GPE": [
+                    "Mindset"
                 ]
             }
         },
@@ -1157,7 +1175,8 @@
             "entities": {
                 "GPE": [
                     "Jalakasi",
-                    "Nairobi"
+                    "Nairobi",
+                    "Jalakasi"
                 ],
                 "LOC": [
                     "Africa",
@@ -1262,6 +1281,9 @@
                     "BRCK",
                     "Savannah Fund",
                     "The White African"
+                ],
+                "PRODUCT": [
+                    "Twitter"
                 ]
             }
         },

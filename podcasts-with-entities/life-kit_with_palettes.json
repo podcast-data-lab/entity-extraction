@@ -277,6 +277,9 @@
             "entities": {
                 "PERSON": [
                     "Maya Lau"
+                ],
+                "ORG": [
+                    "Other People's Pockets"
                 ]
             }
         },
@@ -759,11 +762,7 @@
             "link": "https://www.npr.org/2023/03/01/1160475109/do-i-have-to-listen-to-my-boss-complain-work-boundaries",
             "pubDate": "Thu, 02 Mar 2023 08:00:01 +0000",
             "title": "Dear Life Kit: Do I have to listen to my boss complain?",
-            "entities": {
-                "PERSON": [
-                    "Anne Helen Petersen"
-                ]
-            }
+            "entities": {}
         },
         {
             "content": "Longing to quit your job and follow your passion? Or perhaps take a break to travel? Or move to a new place? First, you'll need to look at your finances. In this episode, Jill Schlesinger, a certified financial planner and business analyst for CBS News, walks through her five steps for assessing your financial situation before a possible life change.",
@@ -2057,9 +2056,6 @@
             "pubDate": "Thu, 24 Nov 2022 08:03:28 +0000",
             "title": "How to set boundaries with family",
             "entities": {
-                "PERSON": [
-                    "you</em"
-                ],
                 "DATE": [
                     "January 2021"
                 ]
@@ -2317,6 +2313,9 @@
             "entities": {
                 "PERSON": [
                     "Catherine Newman"
+                ],
+                "ORG": [
+                    "Real Simple"
                 ]
             }
         },
@@ -3161,6 +3160,9 @@
                 ],
                 "PERSON": [
                     "Rachel Wilkerson Miller"
+                ],
+                "ORG": [
+                    "Self"
                 ]
             }
         },
@@ -3569,6 +3571,9 @@
                 ],
                 "PERSON": [
                     "Susan Cain"
+                ],
+                "LOC": [
+                    "Bittersweet: How Sorrow"
                 ]
             }
         },
@@ -3813,7 +3818,8 @@
             "title": "Crypto 101: blockchains, currencies and security",
             "entities": {
                 "PERSON": [
-                    "Bitcoin"
+                    "Bitcoin",
+                    "Life Kit"
                 ]
             }
         },
@@ -3924,6 +3930,9 @@
             "entities": {
                 "WORK_OF_ART": [
                     "Paco de Leon"
+                ],
+                "ORG": [
+                    "Finance"
                 ]
             }
         },
@@ -4123,6 +4132,9 @@
             "entities": {
                 "PERSON": [
                     "Becca Levy"
+                ],
+                "WORK_OF_ART": [
+                    "Breaking the Age Code: How Your Beliefs About Aging Determine How Long & Well You Live"
                 ]
             }
         },
@@ -4261,7 +4273,7 @@
             "title": "Life Kit presents: What's in a dad?",
             "entities": {
                 "PERSON": [
-                    "Code Switch</em",
+                    "Code Switch",
                     "Gene Demby",
                     "Hari Kondabolu"
                 ]
@@ -4726,6 +4738,9 @@
             "entities": {
                 "PERSON": [
                     "Pamela Paul"
+                ],
+                "WORK_OF_ART": [
+                    "100 Things We've Lost To The Internet"
                 ]
             }
         },
@@ -4782,6 +4797,9 @@
             "entities": {
                 "PERSON": [
                     "Angela Garbes"
+                ],
+                "ORG": [
+                    "Essential Labor"
                 ]
             }
         },
@@ -5223,8 +5241,8 @@
                 "PERSON": [
                     "Catherine Price"
                 ],
-                "PRODUCT": [
-                    "The Power of Fun</em"
+                "ORG": [
+                    "The Power of Fun"
                 ],
                 "CARDINAL": [
                     "three"
@@ -5427,7 +5445,7 @@
                     "Daniel H. Pink"
                 ],
                 "PRODUCT": [
-                    "The Power of Regret</em"
+                    "The Power of Regret"
                 ],
                 "CARDINAL": [
                     "four"
@@ -5686,10 +5704,9 @@
                     "Julia Cameron"
                 ],
                 "WORK_OF_ART": [
-                    "Morning Pages"
-                ],
-                "ORG": [
-                    "connection</em"
+                    "Morning Pages",
+                    "Seeking Wisdom",
+                    "The Artist's Way"
                 ]
             }
         },
@@ -6072,6 +6089,9 @@
                 "PERSON": [
                     "Alicia Menendez"
                 ],
+                "ORG": [
+                    "The Likeability Trap"
+                ],
                 "DATE": [
                     "June 2021"
                 ]
@@ -6183,6 +6203,9 @@
             "entities": {
                 "PERSON": [
                     "Rainesford Stauffer"
+                ],
+                "PRODUCT": [
+                    "An Ordinary Age"
                 ]
             }
         },
@@ -6954,8 +6977,7 @@
                 ],
                 "PERSON": [
                     "Sam Sanders",
-                    "Celeste Headlee",
-                    "really</em"
+                    "Celeste Headlee"
                 ]
             }
         },
@@ -7106,8 +7128,8 @@
                 "DATE": [
                     "Thanksgiving"
                 ],
-                "GPE": [
-                    "New York Times</em"
+                "ORG": [
+                    "New York Times"
                 ],
                 "PERSON": [
                     "Eric Kim"
@@ -7308,7 +7330,7 @@
                     "this weekend"
                 ],
                 "PERSON": [
-                    "Sam",
+                    "Sam Sanders",
                     "Sam",
                     "Ayana Elizabeth Johnson",
                     "Kendra Pierre-Louis"
@@ -7389,8 +7411,10 @@
             "pubDate": "Mon, 25 Oct 2021 04:03:42 +0000",
             "title": "Climate Anxiety Is Real. Here's How To Address It",
             "entities": {
+                "PERSON": [
+                    "Phoenix Smith"
+                ],
                 "GPE": [
-                    "Phoenix",
                     "Smith"
                 ],
                 "DATE": [
@@ -7420,6 +7444,9 @@
             "pubDate": "Thu, 21 Oct 2021 04:03:01 +0000",
             "title": "Inbox Zero Isn't The Goal Anymore. Try Inbox Infinity",
             "entities": {
+                "GPE": [
+                    "it?In"
+                ],
                 "ORG": [
                     "New York Times"
                 ],
@@ -7574,7 +7601,8 @@
                 ],
                 "PERSON": [
                     "Michael W. Twitty",
-                    "Mihesuah <"
+                    "Rujuta Diwekar",
+                    "Devon Mihesuah"
                 ]
             }
         },
@@ -7641,6 +7669,9 @@
                 ],
                 "GPE": [
                     "U.S."
+                ],
+                "PERSON": [
+                    "Will Stronge"
                 ]
             }
         },
@@ -7719,6 +7750,9 @@
             "entities": {
                 "NORP": [
                     "Americans"
+                ],
+                "ORG": [
+                    "National Suicide Prevention Month"
                 ]
             }
         },
@@ -7770,7 +7804,7 @@
             "title": "Is It Laziness, Or A Sign You Need To Slow Down?",
             "entities": {
                 "PERSON": [
-                    "Devon"
+                    "Devon Price"
                 ],
                 "WORK_OF_ART": [
                     "Laziness Does Not Exist"
@@ -7799,8 +7833,11 @@
             "title": "How To Stop Getting Interrupted At Work",
             "entities": {
                 "PERSON": [
-                    "Stacey Vanek Smith",
-                    "Machiavelli"
+                    "LOT.So",
+                    "Stacey Vanek Smith"
+                ],
+                "WORK_OF_ART": [
+                    "Machiavelli For Women"
                 ],
                 "CARDINAL": [
                     "over four"
@@ -7830,7 +7867,7 @@
             "title": "In 'We're Not Broken,' Author Eric Garcia Takes On Myths About Autism",
             "entities": {
                 "PERSON": [
-                    "Eric Garcia.<br><br",
+                    "Eric Garcia",
                     "Garcia"
                 ]
             }
@@ -7908,7 +7945,6 @@
             "entities": {
                 "ORG": [
                     "NPR",
-                    "href=\"https://twitter.com",
                     "HRT"
                 ],
                 "PERSON": [
@@ -7941,11 +7977,11 @@
             "title": "How To Tap Into The Good Anxiety In Your Life",
             "entities": {
                 "PERSON": [
-                    "Wendy",
+                    "Wendy Suzuki",
                     "Suzuki"
                 ],
-                "PRODUCT": [
-                    "the Power"
+                "ORG": [
+                    "Good Anxiety: Harnessing the Power"
                 ]
             }
         },
@@ -8020,6 +8056,9 @@
                     "Shanita Williams",
                     "Williams",
                     "Stacy-Marie Ishmael"
+                ],
+                "ORG": [
+                    "Feedback Mentality"
                 ],
                 "CARDINAL": [
                     "five"
@@ -8173,6 +8212,9 @@
             "pubDate": "Mon, 23 Aug 2021 04:03:52 +0000",
             "title": "How To Give Good Feedback",
             "entities": {
+                "PERSON": [
+                    "Massella Dukuly"
+                ],
                 "FAC": [
                     "LifeLabs Learning"
                 ],
@@ -8277,6 +8319,10 @@
             "pubDate": "Sat, 14 Aug 2021 04:03:15 +0000",
             "title": "Life Kit Presents: CNN's Chasing Life",
             "entities": {
+                "ORG": [
+                    "CNN",
+                    "Chasing Life"
+                ],
                 "PERSON": [
                     "Sanjay Gupta",
                     "Gupta"
@@ -8418,6 +8464,9 @@
             "pubDate": "Tue, 03 Aug 2021 04:03:38 +0000",
             "title": "Money Talks: How To Teach Kids About Finance",
             "entities": {
+                "PERSON": [
+                    "Jen Hemphill"
+                ],
                 "ORG": [
                     "Hemphill"
                 ]
@@ -8445,7 +8494,8 @@
             "title": "Here's How Relationship Contracts Can Help Couples",
             "entities": {
                 "PERSON": [
-                    "Mandy Len Catron"
+                    "Mandy Len Catron",
+                    "Life Kit"
                 ],
                 "ORG": [
                     "Catron"
@@ -8622,13 +8672,13 @@
             "entities": {
                 "PERSON": [
                     "Kimberly B. Cummings",
-                    "Clare Marie Schneider,</em></a><em",
+                    "Clare Marie Schneider",
+                    "Neal Rauch",
+                    "We'd",
                     "Life Kit"
                 ],
                 "GPE": [
-                    "Cummings",
-                    "Neal",
-                    "newsletter</em></a><em>.</em"
+                    "Cummings"
                 ],
                 "CARDINAL": [
                     "202-216-9823"
@@ -9036,6 +9086,9 @@
             "entities": {
                 "PERSON": [
                     "Alicia Menendez"
+                ],
+                "ORG": [
+                    "The Likeability Trap"
                 ]
             }
         },
@@ -10521,7 +10574,8 @@
                 ],
                 "PERSON": [
                     "Sam Sanders",
-                    "Maddie Sofia"
+                    "Maddie Sofia",
+                    "https://n.pr/2MCba0l"
                 ]
             }
         },
@@ -10773,7 +10827,7 @@
                     "36"
                 ],
                 "WORK_OF_ART": [
-                    "Love"
+                    "Love With Anyone"
                 ]
             }
         },
@@ -11047,11 +11101,7 @@
             "link": "https://www.npr.org/2021/01/25/960423678/how-to-set-boundaries-with-family-and-stick-to-them",
             "pubDate": "Tue, 26 Jan 2021 05:17:09 +0000",
             "title": "Setting boundaries with family",
-            "entities": {
-                "PERSON": [
-                    "you</em"
-                ]
-            }
+            "entities": {}
         },
         {
             "content": "Alexi Pappas is an Olympic runner, an actor and, now, a memoirist. In her new book, <em>Bravey</em>, she shares her struggles with mental health and learning to seek help.",
@@ -11076,7 +11126,8 @@
             "title": "Olympic Runner Alexi Pappas On Learning To Ask For Help",
             "entities": {
                 "PERSON": [
-                    "Alexi Pappas"
+                    "Alexi Pappas",
+                    "Bravey"
                 ],
                 "EVENT": [
                     "Olympic"
@@ -11703,6 +11754,9 @@
                 "DATE": [
                     "this year"
                 ],
+                "ORG": [
+                    "Bazaar"
+                ],
                 "PERSON": [
                     "Tiffany Dodson",
                     "Julia Furlan"
@@ -12306,8 +12360,7 @@
                 ],
                 "PERSON": [
                     "Sam Sanders",
-                    "Celeste Headlee",
-                    "really</em"
+                    "Celeste Headlee"
                 ]
             }
         },
@@ -13265,7 +13318,7 @@
                     "Elizabeth Segran"
                 ],
                 "EVENT": [
-                    "The Rocket Years"
+                    "The Rocket Years: How Your Twenties Launch the Rest of Your Life"
                 ]
             }
         },
@@ -13397,6 +13450,9 @@
                 "PERSON": [
                     "Sonia Livingstone",
                     "Alicia Blum-Ross"
+                ],
+                "ORG": [
+                    "Parenting For A Digital Future"
                 ]
             }
         },
@@ -13526,7 +13582,6 @@
             "entities": {
                 "PERSON": [
                     "Layla Saad's",
-                    "White Supremacy</em",
                     "Saad"
                 ]
             }
@@ -13608,6 +13663,9 @@
                 "CARDINAL": [
                     "4"
                 ],
+                "WORK_OF_ART": [
+                    "Radical Compassion"
+                ],
                 "DATE": [
                     "daily"
                 ]
@@ -13660,9 +13718,6 @@
             "entities": {
                 "PERSON": [
                     "Laurie Santos"
-                ],
-                "ORG": [
-                    "Happiness"
                 ]
             }
         },
@@ -13690,6 +13745,9 @@
             "entities": {
                 "PERSON": [
                     "WNYC Studio's"
+                ],
+                "PRODUCT": [
+                    "Nancy"
                 ]
             }
         },
@@ -13916,15 +13974,13 @@
             "title": "How White Parents Can Talk To Their Kids About Race",
             "entities": {
                 "ORG": [
-                    "NPR"
+                    "NPR",
+                    "Raising White Kids:"
                 ],
                 "PERSON": [
                     "Michel Martin",
                     "Jennifer Harvey",
                     "Harvey"
-                ],
-                "WORK_OF_ART": [
-                    "Raising White Kids: Bringing Up Children"
                 ]
             }
         },
@@ -13954,11 +14010,14 @@
                     "more than five years ago"
                 ],
                 "PERSON": [
-                    "Code Switch,</em",
+                    "Code Switch",
                     "Jamil Smith"
                 ],
+                "ORG": [
+                    "Rolling Stone"
+                ],
                 "GPE": [
-                    "Stone</em"
+                    "New Republic"
                 ],
                 "WORK_OF_ART": [
                     "What Does Seeing Black Men Die Do for You"
@@ -14045,8 +14104,10 @@
             "title": "Be Honest And Concrete: Tips For Talking To Kids About Death",
             "entities": {
                 "PERSON": [
-                    "Hooper",
-                    "Sesame Street</em"
+                    "Hooper"
+                ],
+                "FAC": [
+                    "Sesame Street"
                 ]
             }
         },
@@ -14429,7 +14490,11 @@
                 ],
                 "ORG": [
                     "Public Service Loan Forgiveness",
+                    "Death, Sex & Money",
                     "WNYC Studios"
+                ],
+                "GPE": [
+                    "Life Kit"
                 ]
             }
         },
@@ -14783,6 +14848,7 @@
             "title": "Anxious Thoughts? 5 Tips To Help You Sleep",
             "entities": {
                 "PERSON": [
+                    "Life Kit",
                     "Allison Aubrey"
                 ]
             }
@@ -14896,6 +14962,9 @@
                 "CARDINAL": [
                     "Millions"
                 ],
+                "PERSON": [
+                    "Life Kit"
+                ],
                 "ORG": [
                     "WFH"
                 ],
@@ -14927,6 +14996,9 @@
             "entities": {
                 "ORG": [
                     "Coronavirus"
+                ],
+                "PERSON": [
+                    "Life Kit"
                 ]
             }
         },
@@ -14958,6 +15030,9 @@
                     "Big Mouth",
                     "Kroll",
                     "Goldberg"
+                ],
+                "ORG": [
+                    "Life Kit"
                 ]
             }
         },
@@ -15109,6 +15184,7 @@
                     "BJ Fogg's"
                 ],
                 "PERSON": [
+                    "Tiny Habits",
                     "Fogg"
                 ]
             }
@@ -15241,6 +15317,9 @@
             "entities": {
                 "ORG": [
                     "NPR"
+                ],
+                "PERSON": [
+                    "Life Kit"
                 ]
             }
         },
@@ -15292,6 +15371,9 @@
                 "CARDINAL": [
                     "One",
                     "4"
+                ],
+                "ORG": [
+                    "Radical Compassion"
                 ],
                 "DATE": [
                     "daily"
@@ -16040,7 +16122,7 @@
             "title": "Fake news: How to spot misinformation",
             "entities": {
                 "PERSON": [
-                    "Life Kit<"
+                    "Life Kit"
                 ],
                 "CARDINAL": [
                     "five"
@@ -16937,7 +17019,9 @@
                     "these days"
                 ],
                 "ORG": [
-                    "Non-GMO"
+                    "Non-GMO",
+                    "you.- Non-GMO",
+                    "outdoors.-"
                 ],
                 "CARDINAL": [
                     "six"
@@ -16999,6 +17083,9 @@
                 ],
                 "LOC": [
                     "Cookie Monster"
+                ],
+                "PERSON": [
+                    "Build"
                 ]
             }
         },
@@ -17056,7 +17143,11 @@
             "title": "Kindness Can Be Taught. Here's How",
             "entities": {
                 "ORG": [
-                    "Harvard"
+                    "Harvard",
+                    "yourself.- Practice"
+                ],
+                "PERSON": [
+                    "kindness.- Kindness"
                 ]
             }
         },
@@ -17159,6 +17250,12 @@
             "entities": {
                 "CARDINAL": [
                     "Two"
+                ],
+                "ORG": [
+                    "NAPFA"
+                ],
+                "PERSON": [
+                    "Kent"
                 ]
             }
         },
@@ -17187,7 +17284,9 @@
                     "four"
                 ],
                 "ORG": [
-                    "F"
+                    "F",
+                    "crashes.-",
+                    "fees.- Invest"
                 ],
                 "DATE": [
                     "every year"
@@ -17214,7 +17313,11 @@
             },
             "pubDate": "Mon, 29 Apr 2019 05:54:00 +0000",
             "title": "Get Started Saving",
-            "entities": {}
+            "entities": {
+                "ORG": [
+                    "Save"
+                ]
+            }
         },
         {
             "content": "Whether a school shooting or a deadly tornado, scary events in the news can leave parents struggling to know when \u2014 and how \u2014 they should talk with their kids about it. Rosemarie Truglio of Sesame Workshop and Tara Conley, a media studies professor at Montclair State University, give us tips. <br><br>- Limit their exposure to breaking news.<br>- For the really big stories, pick a quiet moment and start the conversation by asking what kids have heard and how they're feeling.<br>- Give facts and context: Let kids know that most scary news events are rare. Show them where it is happening on a map.  <br>- When they ask why something happened, avoid labels like \"bad guys.\" <br>- Encourage kids to process the story through play, art, even video.<br>- Take positive action together.",
@@ -17242,7 +17345,8 @@
                     "Tara Conley"
                 ],
                 "ORG": [
-                    "Montclair State University"
+                    "Montclair State University",
+                    "feeling.- Give"
                 ]
             }
         },
@@ -17406,6 +17510,7 @@
             "title": "Anxious Thoughts? 5 Tips To Help You Sleep",
             "entities": {
                 "PERSON": [
+                    "Life Kit",
                     "Allison Aubrey"
                 ]
             }
@@ -17431,11 +17536,14 @@
             "pubDate": "Mon, 29 Apr 2019 04:34:00 +0000",
             "title": "Don't Count Sheep: Better Bedtime Rituals",
             "entities": {
+                "PERSON": [
+                    "Melatonin"
+                ],
                 "TIME": [
                     "the wee hours"
                 ],
                 "PRODUCT": [
-                    "up.<br>- Sleep"
+                    "Sleep"
                 ]
             }
         },
@@ -17464,12 +17572,13 @@
                     "night",
                     "late morning"
                 ],
+                "PERSON": [
+                    "remember:- Start",
+                    "Ban"
+                ],
                 "DATE": [
                     "the day",
                     "the day"
-                ],
-                "PERSON": [
-                    "Ban"
                 ]
             }
         },
@@ -17519,7 +17628,11 @@
             },
             "pubDate": "Mon, 29 Apr 2019 04:04:09 +0000",
             "title": "Never Pay An Unnecessary Fee Again",
-            "entities": {}
+            "entities": {
+                "ORG": [
+                    "fees.-"
+                ]
+            }
         },
         {
             "content": "To many, it's a dreaded task: making a budget to keep track of money. Guess what? You can do it, and we show you some tools that can help \u2014 maybe even make it fun. The founder of the popular budgeting software You Need A Budget tells us how to track your spending.<br><br>Here's what to remember:<br>- Don't budget just because you should: Set a goal.<br>- Leverage anxiety from a life change and turn it into motivation.<br>- Follow the 50-30-20 method.<br>- Use the power of scarcity.<br>- A roommate is worth 1,000 coffees.<br>- Find the budgeting technique that works for you. Here's a worksheet to get you started: https://bit.ly/2umlqex.",

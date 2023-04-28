@@ -257,8 +257,8 @@
             "title": "The Why, How, and Maybe Not of Geoengineering",
             "entities": {
                 "PERSON": [
-                    "Silver Lining's",
-                    "Kelly Wanser"
+                    "Kelly Wanser",
+                    "Eliza Strickland"
                 ],
                 "ORG": [
                     "IEEE Spectrum"
@@ -300,12 +300,12 @@
                     "the University of Pittsburgh Medical Center",
                     "the University of Pittsburgh",
                     "Infectious Diseases Epidemiology Research Unit",
-                    "href=\"https://academic.oup.com",
                     "@IEEE Spectrum"
                 ],
                 "DATE": [
                     "any given day",
                     "over a century",
+                    "today",
                     "today",
                     "weekly"
                 ],
@@ -317,7 +317,8 @@
                 ],
                 "PERSON": [
                     "Lee Harrison",
-                    "Lee Harrison</a>"
+                    "Lee Harrison",
+                    "@COMSOL"
                 ]
             }
         },
@@ -369,9 +370,10 @@
                 ],
                 "PERSON": [
                     "Deep Learning",
-                    "Christopher Bouton.</p"
+                    "Christopher Bouton"
                 ],
                 "GPE": [
+                    "Vyasa",
                     "Vyasa"
                 ]
             }
@@ -408,18 +410,24 @@
                 "GPE": [
                     "Pittsburgh",
                     "New York\u2019s",
+                    "Wired",
                     "B.S."
                 ],
                 "LOC": [
                     "Hudson Valley"
                 ],
                 "ORG": [
-                    "href=\"https://www.caranddriver.com/author/227183/John-Voelcker/\">John Voelcker</a",
+                    "IEEE Spectrum",
+                    "Popular Science",
                     "Industrial Engineering",
                     "Stanford"
                 ],
                 "PERSON": [
-                    "Popular Science</em>"
+                    "John Voelcker",
+                    "Green Car Reports"
+                ],
+                "DATE": [
+                    "today"
                 ]
             }
         },
@@ -459,7 +467,7 @@
                     "IBM",
                     "IBM",
                     "IBM",
-                    "the University of Minnesota\u2019s<",
+                    "the University of Minnesota\u2019sCharles Babbage Institute",
                     "IBM",
                     "MIT Press"
                 ],
@@ -475,14 +483,10 @@
                     "40th"
                 ],
                 "PERSON": [
-                    "James Cortada",
-                    "Babbage Institute</a"
+                    "James Cortada"
                 ],
                 "WORK_OF_ART": [
                     "Ph.D."
-                ],
-                "NORP": [
-                    "href=\"https://mitpress.mit.edu"
                 ]
             }
         },
@@ -521,7 +525,8 @@
                 "ORG": [
                     "the University of Central Florida",
                     "Graduate Research",
-                    "Adaptive Systems"
+                    "the University of Central Florida's",
+                    "Complex Adaptive Systems Laboratory"
                 ],
                 "DATE": [
                     "2005",
@@ -535,9 +540,6 @@
                 ],
                 "WORK_OF_ART": [
                     "Ph.D."
-                ],
-                "LOC": [
-                    "Central Florida</a"
                 ]
             }
         },
@@ -572,10 +574,11 @@
             "entities": {
                 "ORG": [
                     "Amaco",
-                    "IEEE Spectrum\u2019s"
-                ],
-                "NORP": [
-                    "british"
+                    "BP",
+                    "IEEE Spectrum\u2019s",
+                    "Sunthetics",
+                    "COMSOL",
+                    "IEEE Spectrum"
                 ],
                 "ORDINAL": [
                     "30th",
@@ -626,8 +629,10 @@
                     "today",
                     "today"
                 ],
+                "WORK_OF_ART": [
+                    "The China Syndrome"
+                ],
                 "GPE": [
-                    "China",
                     "Chernobyl"
                 ],
                 "PERSON": [
@@ -686,6 +691,7 @@
                     "BP",
                     "BP",
                     "the California Energy Commission",
+                    "Cognite",
                     "Energy Industry Transformation"
                 ],
                 "LOC": [
@@ -739,9 +745,9 @@
                     "Cambridge University Press",
                     "AI",
                     "the University of Surrey",
-                    "the David Geffen School of Medicine",
                     "UCLA",
-                    "Yale Law School"
+                    "Yale Law School",
+                    "Emperor's College"
                 ],
                 "DATE": [
                     "today",
@@ -749,10 +755,14 @@
                     "last summer"
                 ],
                 "PERSON": [
-                    "Ais"
+                    "Ais",
+                    "Ryan Abbott"
                 ],
                 "WORK_OF_ART": [
                     "The Reasonable Robot: Artificial Intelligence"
+                ],
+                "FAC": [
+                    "the David Geffen School of Medicine"
                 ],
                 "GPE": [
                     "the United States",
@@ -810,8 +820,7 @@
                     "Detroit",
                     "Philadelphia",
                     "Pittsburgh",
-                    "St Louis",
-                    "href=\"https://econ.jhu.edu"
+                    "St Louis"
                 ],
                 "DATE": [
                     "50 and 60 years ago",
@@ -819,11 +828,11 @@
                     "21st Century Cities Initiative"
                 ],
                 "PERSON": [
-                    "matthew-e-kahn/\">Matthew"
+                    "Matthew Kahn"
                 ],
                 "ORG": [
                     "Johns Hopkins University",
-                    "the Potential of Post-Industrial Cities</a>.</p"
+                    "Unlocking the Potential of Post-Industrial Cities"
                 ]
             }
         },
@@ -878,6 +887,9 @@
                 ],
                 "NORP": [
                     "Sean"
+                ],
+                "WORK_OF_ART": [
+                    "Appalachia\u2019s Natural Gas Counties: How"
                 ]
             }
         },
@@ -917,10 +929,13 @@
                     "one"
                 ],
                 "PERSON": [
+                    "Waterloo Ph.D.",
+                    "Brokoslaw Laschowski",
                     "Laschowski"
                 ],
                 "GPE": [
-                    "exoskeleton"
+                    "exoskeleton",
+                    "Spotify"
                 ]
             }
         },
@@ -1007,7 +1022,8 @@
                     "ten",
                     "thirty",
                     "one",
-                    "thirty-first"
+                    "thirty-first",
+                    "more than 40"
                 ],
                 "ORDINAL": [
                     "second",
@@ -1029,11 +1045,13 @@
                     "the Faculty of Environment",
                     "the University of Manitoba",
                     "Renaissance",
-                    "Oxford University"
+                    "IEEE Spectrum",
+                    "Grand Transitions",
+                    "Oxford University Press"
                 ],
                 "PERSON": [
                     "Aristotle",
-                    "Bertrand",
+                    "Bertrand Russell",
                     "V\u00e1clav Smil"
                 ],
                 "NORP": [
@@ -1079,10 +1097,11 @@
                     "2015",
                     "2016",
                     "that year",
+                    "earlier that year",
                     "fourth-century"
                 ],
                 "PERSON": [
-                    "Michael Hayden</a",
+                    "Michael Hayden",
                     "Hayden",
                     "Brexit",
                     "Trickbot",
@@ -1099,6 +1118,9 @@
                     "FireEye",
                     "Quis",
                     "the Secure Systems Laboratory"
+                ],
+                "PRODUCT": [
+                    "Cyberattacks"
                 ],
                 "NORP": [
                     "Russian",
@@ -1173,7 +1195,8 @@
                 ],
                 "GPE": [
                     "the North Carolina",
-                    "North Carolina"
+                    "North Carolina",
+                    "Spotify"
                 ],
                 "ORG": [
                     "House",
@@ -1238,25 +1261,20 @@
             "title": "Reversing Climate Change by Pulling Carbon Out of the Air",
             "entities": {
                 "GPE": [
-                    "\u2019s",
                     "The United States"
                 ],
                 "ORDINAL": [
                     "first"
                 ],
                 "DATE": [
-                    "more than forty years",
+                    "more than forty years ago",
                     "Twenty years from now",
-                    "Last year"
+                    "Last year",
+                    "today"
                 ],
                 "ORG": [
-                    "Air Company"
-                ],
-                "CARDINAL": [
-                    "One"
-                ],
-                "PERSON": [
-                    "Thermostat</a"
+                    "Air Company",
+                    "Global Thermostat"
                 ]
             }
         },
@@ -1291,6 +1309,7 @@
             "entities": {
                 "DATE": [
                     "2020",
+                    "the next four years",
                     "today"
                 ],
                 "ORG": [
@@ -1301,13 +1320,10 @@
                 "GPE": [
                     "Ohio",
                     "Virginia",
-                    "virginia",
                     "U.S."
                 ],
                 "CARDINAL": [
-                    "100",
-                    "two",
-                    "four"
+                    "more than 100"
                 ],
                 "PERSON": [
                     "Kathy Hipple"
@@ -1348,10 +1364,11 @@
                     "Sony",
                     "Tesla",
                     "The Christian Bible",
-                    "The Argonne National Laboratory",
+                    "Argonne National Laboratory",
                     "Collaborative Center for Energy Storage Science",
                     "Argonne\u2019s Joint Center for Energy Storage Research",
-                    "Lawrence Berkeley National Laboratory"
+                    "Lawrence Berkeley National Laboratory",
+                    "@Argonne Available"
                 ],
                 "NORP": [
                     "Walkmans",
@@ -1372,6 +1389,9 @@
                     "Venkat Srinivasan",
                     "Venkat Srinivasan",
                     "Venkat Srinivasan"
+                ],
+                "GPE": [
+                    "Spotify"
                 ]
             }
         },
@@ -1416,7 +1436,6 @@
                     "2017"
                 ],
                 "PERSON": [
-                    "many</em",
                     "Unhealthy Politics"
                 ]
             }
@@ -1455,7 +1474,8 @@
                     "FCC",
                     "FCC",
                     "FCC",
-                    "Business Development and Spectrum Policy"
+                    "Business Development and Spectrum Policy",
+                    "CommScope"
                 ],
                 "ORDINAL": [
                     "first"
@@ -1528,22 +1548,23 @@
                 "DATE": [
                     "1936",
                     "2 November 1948",
-                    "truman-1942-20201031-5kkw5lpdavejpf4mx5k2pr7trm-story.html\">Dewey Defeats",
                     "2016",
                     "2016",
                     "2020",
-                    "four years",
+                    "four years earlier",
                     "a century",
-                    "2020"
+                    "2020",
+                    "today"
                 ],
-                "PERSON": [
-                    "Literary Digest",
-                    "Clinton",
-                    "James Comey",
-                    "consumer</em",
-                    "Biden",
-                    "Biden",
-                    "Marco Varone"
+                "ORG": [
+                    "the Literary Digest",
+                    "the Chicago Tribune",
+                    "Dewey Defeats Truman",
+                    "Amazon",
+                    "Google",
+                    "AI",
+                    "AI",
+                    "AI"
                 ],
                 "FAC": [
                     "Alf Landon"
@@ -1553,23 +1574,25 @@
                     "One",
                     "One"
                 ],
+                "PERSON": [
+                    "Clinton",
+                    "James Comey",
+                    "Biden",
+                    "Biden",
+                    "Marco Varone"
+                ],
                 "GPE": [
-                    "Chicago",
                     "Netflix",
                     "Florida",
                     "Texas",
                     "Ohio",
                     "U.S."
                 ],
-                "ORG": [
-                    "Amazon",
-                    "Google",
-                    "AI",
-                    "AI",
-                    "AI"
-                ],
                 "WORK_OF_ART": [
                     "Fortune"
+                ],
+                "TIME": [
+                    "the morning"
                 ],
                 "PRODUCT": [
                     "Expert.ai"
@@ -1723,11 +1746,13 @@
                     "fifth"
                 ],
                 "PERSON": [
-                    "Megan Condis",
-                    "Fake Geeks"
+                    "Megan Condis"
+                ],
+                "WORK_OF_ART": [
+                    "Gaming Masculinity: Trolls, Fake Geeks"
                 ],
                 "PRODUCT": [
-                    "the Gendered Battle for Online Culture</a>.</p"
+                    "the Gendered Battle for Online Culture"
                 ]
             }
         },
@@ -1773,6 +1798,12 @@
                 ],
                 "FAC": [
                     "Shivendra Panwar"
+                ],
+                "ORG": [
+                    "IEEE Spectrum"
+                ],
+                "WORK_OF_ART": [
+                    "Breaking the Latency Barrier"
                 ]
             }
         },
@@ -1806,15 +1837,12 @@
             "title": "Are Electronic Media Any Good at Getting Out the Vote?",
             "entities": {
                 "EVENT": [
-                    "Get Out the Vote</em></a><em"
+                    "Get Out the Vote"
                 ],
                 "PERSON": [
                     "Donald Green",
                     "Alan Gerber",
-                    "Green</a"
-                ],
-                "GPE": [
-                    "href=\"https://polisci.columbia.edu"
+                    "Donald Green"
                 ],
                 "ORG": [
                     "Columbia University"
@@ -1858,13 +1886,13 @@
                 "CARDINAL": [
                     "two",
                     "zero",
-                    "CO2",
-                    "One",
-                    "One"
+                    "CO2"
                 ],
                 "ORG": [
                     "Google",
-                    "Exxon-Mobil\u2019s"
+                    "IEEE Spectrum",
+                    "Exxon-Mobil\u2019s",
+                    "the Air Company"
                 ],
                 "NORP": [
                     "Canadian"
@@ -1909,12 +1937,9 @@
             "entities": {
                 "DATE": [
                     "2011",
+                    "2012",
                     "these days",
                     "today"
-                ],
-                "PERSON": [
-                    "TED",
-                    "Online Filter Bubbles</a"
                 ],
                 "ORG": [
                     "Ground News",
@@ -2003,16 +2028,18 @@
             "pubDate": "Thu, 08 Oct 2020 07:00:00 -0400",
             "title": "Reimagining Public Buses in the Age of Uber",
             "entities": {
+                "PERSON": [
+                    "Marchetti",
+                    "Cesare Marchetti",
+                    "Tommaso Gecchelin",
+                    "Uber"
+                ],
                 "NORP": [
                     "Italian",
                     "Italian"
                 ],
-                "PERSON": [
-                    "Cesare Marchetti"
-                ],
                 "DATE": [
                     "daily",
-                    "nine-days",
                     "a decade earlier",
                     "the past seven years"
                 ],
@@ -2028,15 +2055,16 @@
                     "Italy",
                     "Venice"
                 ],
+                "PERCENT": [
+                    "8 percent"
+                ],
                 "CARDINAL": [
-                    "8",
                     "two",
                     "three"
                 ],
                 "ORG": [
                     "AI",
-                    "href=\"https://tommasogecchelin.com/about/\">Tommaso Gecchelin</a>",
-                    "Uber.</p"
+                    "NEXT Future Transportation"
                 ]
             }
         },
@@ -2071,16 +2099,18 @@
             "entities": {
                 "DATE": [
                     "today",
-                    "last April",
+                    "last April\u2019s",
                     "2005",
                     "fifteen years later"
                 ],
-                "PERSON": [
-                    "href=\"https://www.cnbc.com/2020/04/06",
-                    "Bob Charette"
+                "WORK_OF_ART": [
+                    "The Hidden World of Legacy IT"
                 ],
                 "GPE": [
                     "New Jersey"
+                ],
+                "PERSON": [
+                    "Bob Charette"
                 ]
             }
         },
@@ -2135,10 +2165,16 @@
                 ],
                 "LOC": [
                     "the Pacific Coast",
-                    "the Rocky Mountains"
+                    "the Rocky Mountains",
+                    "Atlantic"
                 ],
                 "ORG": [
-                    "InvestigateWest"
+                    "IEEE Spectrum",
+                    "InvestigateWest",
+                    "IEEE Spectrum"
+                ],
+                "WORK_OF_ART": [
+                    "Who Killed the Supergrid"
                 ],
                 "PERSON": [
                     "Peter Fairley"
@@ -2209,7 +2245,8 @@
                     "one"
                 ],
                 "PERSON": [
-                    "Kublai Khan"
+                    "Kublai Khan",
+                    "Jacob Goldstein"
                 ],
                 "TIME": [
                     "last night"
@@ -2217,6 +2254,9 @@
                 "ORG": [
                     "National Public Radio\u2019s",
                     "Hachette Books"
+                ],
+                "WORK_OF_ART": [
+                    "Planet Money"
                 ]
             }
         },
@@ -2262,10 +2302,12 @@
                     "Netflix",
                     "the MIT Sloan School's",
                     "the Digital Economy",
-                    "Procter &amp",
+                    "Procter & Gamble",
                     "Google",
                     "Intel",
                     "Siemens",
+                    "The Innovator\u2019s Hypothesis",
+                    "Recommendation Engines",
                     "MIT Press"
                 ],
                 "TIME": [
@@ -2274,12 +2316,13 @@
                 "GPE": [
                     "Kindles"
                 ],
-                "PERSON": [
-                    "Michael Schrage"
-                ],
                 "DATE": [
+                    "today",
                     "2014",
                     "2020"
+                ],
+                "PERSON": [
+                    "Michael Schrage"
                 ]
             }
         }

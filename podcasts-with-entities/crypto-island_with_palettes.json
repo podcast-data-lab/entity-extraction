@@ -94,7 +94,11 @@
             "link": "https://podcasters.spotify.com/pod/show/pj-vogt/episodes/Sole-Proprietor-e1o9n8s",
             "pubDate": "Sat, 24 Sep 2022 02:35:39 GMT",
             "title": "Sole Proprietor ",
-            "entities": {}
+            "entities": {
+                "ORG": [
+                    "Bad Bets"
+                ]
+            }
         },
         {
             "content": "<p>An art heist in the crypto world plunges us headfirst into another mystery \u2014 why did so many celebrities suddenly start selling us on NFTs last year? (To help support the show or subscribe to the free newsletter, check out http://www.pjvogt.com)</p>\n",
@@ -183,9 +187,6 @@
                 ],
                 "PERSON": [
                     "Twitter"
-                ],
-                "WORK_OF_ART": [
-                    "target=\"_blank\">Visit Crypto Island"
                 ]
             }
         },
@@ -218,10 +219,10 @@
                 ],
                 "PERSON": [
                     "Bitcoin",
-                    "too.&nbsp;</p"
-                ],
-                "NORP": [
                     "Bitcoin"
+                ],
+                "GPE": [
+                    "Miami"
                 ]
             }
         },
@@ -283,8 +284,10 @@
                     "19-year-old"
                 ],
                 "GPE": [
-                    "Spain",
-                    "US"
+                    "Spain"
+                ],
+                "LAW": [
+                    "the US Constitution"
                 ]
             }
         },

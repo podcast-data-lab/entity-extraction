@@ -52,7 +52,7 @@
                 ],
                 "ORG": [
                     "T.J. Stiles",
-                    "American Academy of Achievement 2023"
+                    "American Academy of Achievement"
                 ],
                 "PERSON": [
                     "David Blight",
@@ -311,6 +311,7 @@
             "title": "Best of - John Irving: A Literary Life",
             "entities": {
                 "DATE": [
+                    "2022",
                     "a big year",
                     "80",
                     "seven years",
@@ -588,6 +589,7 @@
             "entities": {
                 "CARDINAL": [
                     "One",
+                    "One",
                     "500"
                 ],
                 "PERSON": [
@@ -647,6 +649,12 @@
             "pubDate": "Mon, 22 Aug 2022 07:05:00 +0000",
             "title": "Best Of - B.B. King: King of the Blues",
             "entities": {
+                "ORG": [
+                    "BB King",
+                    "The Rolling Stones",
+                    "Academy of Achievement Summit",
+                    "King\u2019s"
+                ],
                 "GPE": [
                     "Mississippi",
                     "Chicago"
@@ -661,11 +669,6 @@
                     "Eric Clapton",
                     "Carlos Santana",
                     "Bonnie Raitt"
-                ],
-                "ORG": [
-                    "The Rolling Stones",
-                    "Academy of Achievement Summit",
-                    "King\u2019s"
                 ],
                 "ORDINAL": [
                     "first"
@@ -1396,15 +1399,16 @@
             "pubDate": "Mon, 21 Mar 2022 07:05:00 +0000",
             "title": "Best of - Coach John Wooden: Character for Life",
             "entities": {
+                "PERSON": [
+                    "March Madness",
+                    "John Wooden",
+                    "Wooden",
+                    "Wooden"
+                ],
                 "ORG": [
                     "UCLA",
                     "NCAA",
                     "Coach"
-                ],
-                "PERSON": [
-                    "John Wooden",
-                    "Wooden",
-                    "Wooden"
                 ],
                 "DATE": [
                     "2016"
@@ -2051,7 +2055,7 @@
                 ],
                 "ORG": [
                     "Brill Building",
-                    "the Rock n' Roll Hall of Fame.</p><p><br"
+                    "the Rock n' Roll Hall of Fame"
                 ],
                 "PRODUCT": [
                     "Carole King's"
@@ -2314,8 +2318,8 @@
                 "ORG": [
                     "Indiana Jones"
                 ],
-                "CARDINAL": [
-                    "2015.</p"
+                "DATE": [
+                    "2015"
                 ]
             }
         },
@@ -2469,10 +2473,7 @@
                     "Broadway"
                 ],
                 "DATE": [
-                    "November"
-                ],
-                "CARDINAL": [
-                    "2015.</p"
+                    "November of 2015"
                 ]
             }
         },
@@ -2750,13 +2751,13 @@
                 "PERSON": [
                     "Coach K",
                     "Mike Krzyzewski",
-                    "Coach K",
-                    "Coach K's"
+                    "Coach K"
                 ],
                 "ORG": [
                     "NCAA",
                     "the \u00a0USA Men\u2019s National Team",
-                    "the Duke University Blue Devils"
+                    "the Duke University Blue Devils",
+                    "Coach K's"
                 ],
                 "CARDINAL": [
                     "three"
@@ -2960,7 +2961,7 @@
                 ],
                 "DATE": [
                     "today",
-                    "May 4th).</p><p",
+                    "May 4th).Baseball",
                     "this day",
                     "1996",
                     "the day"
@@ -3651,19 +3652,25 @@
                 ],
                 "PERSON": [
                     "Arthur Golden",
+                    "Geisha",
                     "Carol Shields",
                     "Ken Burns"
+                ],
+                "ORG": [
+                    "Memoirs",
+                    "The Stone Diaries",
+                    "Shelby Foote",
+                    "the Civil Rights Movement"
                 ],
                 "WORK_OF_ART": [
                     "the Pulitzer Prize"
                 ],
-                "ORG": [
-                    "Shelby Foote",
-                    "the Civil Rights Movement"
-                ],
                 "EVENT": [
                     "the Civil War",
                     "the Civil War"
+                ],
+                "GPE": [
+                    "Shiloh"
                 ],
                 "ORDINAL": [
                     "first"
@@ -3868,7 +3875,7 @@
                     "Don Giovanni",
                     "Carlo Maria Giulini",
                     "Eberhard Wachter",
-                    "Joan Sutherland.</p"
+                    "Joan Sutherland"
                 ],
                 "DATE": [
                     "2020",
@@ -3974,6 +3981,9 @@
                 ],
                 "ORG": [
                     "NPR"
+                ],
+                "GPE": [
+                    "America"
                 ]
             }
         },
@@ -4173,7 +4183,8 @@
                     "de Havilland"
                 ],
                 "WORK_OF_ART": [
-                    "Gone With The Wind"
+                    "Gone With The Wind",
+                    "The Heiress"
                 ],
                 "DATE": [
                     "1930",
@@ -4323,6 +4334,7 @@
                     "Splash",
                     "Opie",
                     "Ron Howard",
+                    "SEQUENCE\u00a0Opie",
                     "Ron Howard"
                 ],
                 "PRODUCT": [
@@ -4335,7 +4347,7 @@
                     "Cocoon",
                     "American Graffiti",
                     "Frontier Woman",
-                    "Journey.</strong></p><p><br"
+                    "Journey"
                 ],
                 "CARDINAL": [
                     "two",
@@ -4800,12 +4812,13 @@
             "pubDate": "Mon, 20 Apr 2020 07:05:02 +0000",
             "title": "Gertrude Elion and Baruch Blumberg: Vaccine Hunters",
             "entities": {
+                "CARDINAL": [
+                    "Millions",
+                    "two"
+                ],
                 "DATE": [
                     "each year",
                     "the 20th century"
-                ],
-                "CARDINAL": [
-                    "two"
                 ],
                 "WORK_OF_ART": [
                     "Nobel Prize"
@@ -5187,7 +5200,8 @@
             "entities": {
                 "ORG": [
                     "the Civil Rights Movement",
-                    "the Charlie Haden &"
+                    "the Charlie Haden &",
+                    "Verve Records"
                 ],
                 "CARDINAL": [
                     "17"
@@ -5199,8 +5213,7 @@
                 ],
                 "PERSON": [
                     "John Lewis",
-                    "Hank Jones",
-                    "Verve"
+                    "Hank Jones"
                 ],
                 "DATE": [
                     "March",
@@ -5346,6 +5359,9 @@
                 ],
                 "FAC": [
                     "Broadway"
+                ],
+                "ORG": [
+                    "Opera"
                 ]
             }
         },
@@ -5420,8 +5436,7 @@
             "title": "Ian McEwan: Illuminating the Human Condition",
             "entities": {
                 "PERSON": [
-                    "Ian McEwan",
-                    "WhatItTakesNow</p"
+                    "Ian McEwan"
                 ],
                 "WORK_OF_ART": [
                     "Atonement",
@@ -5571,7 +5586,7 @@
                 ],
                 "PERSON": [
                     "Kiri Te Kanawa",
-                    "Lady"
+                    "Lady Diana"
                 ],
                 "FAC": [
                     "Covent Garden"
@@ -5631,7 +5646,8 @@
                     "the United States"
                 ],
                 "DATE": [
-                    "15"
+                    "15",
+                    "the age of 33"
                 ]
             }
         },
@@ -6035,6 +6051,9 @@
                     "Petraeus",
                     "CIA"
                 ],
+                "WORK_OF_ART": [
+                    "The Surge"
+                ],
                 "GPE": [
                     "U.S.",
                     "Afghanistan",
@@ -6121,9 +6140,6 @@
             "pubDate": "Mon, 6 May 2019 07:01:00 +0000",
             "title": "A. Scott Berg: Chronicler of The American Century",
             "entities": {
-                "WORK_OF_ART": [
-                    "Pulitzer-Prize"
-                ],
                 "ORDINAL": [
                     "first"
                 ],
@@ -6229,30 +6245,31 @@
             "pubDate": "Mon, 8 Apr 2019 07:01:00 +0000",
             "title": "Peter Gabriel: Genesis of a Rock Star",
             "entities": {
-                "ORG": [
-                    "&quot;Red",
-                    "Genesis",
-                    "Real World Records",
-                    "Bokant\u00e9 + Metropole Orkest"
+                "WORK_OF_ART": [
+                    "In Your Eyes",
+                    "Red Rain"
                 ],
                 "PERSON": [
                     "Peter Gabriel",
                     "Peter Gabriel",
-                    "Gabriel"
+                    "Biko",
+                    "Gabriel",
+                    "Resistencia"
                 ],
                 "DATE": [
                     "1970"
                 ],
+                "ORG": [
+                    "Genesis",
+                    "Real World Records",
+                    "Bokant\u00e9 + Metropole Orkest"
+                ],
                 "CARDINAL": [
                     "two",
-                    "hundreds",
-                    "24:49.<br"
-                ],
-                "WORK_OF_ART": [
-                    "Language Advisory:"
+                    "hundreds"
                 ],
                 "GPE": [
-                    "Los de Abajo.</p"
+                    "Los de Abajo"
                 ]
             }
         },
@@ -6444,14 +6461,17 @@
                     "85 year olds",
                     "1960"
                 ],
-                "PERSON": [
-                    "Cider House",
-                    "Michael Caine",
-                    "Cockney"
+                "WORK_OF_ART": [
+                    "Hannah And Her Sisters",
+                    "The Cider House"
                 ],
                 "GPE": [
                     "Alfred",
                     "Hollywood"
+                ],
+                "PERSON": [
+                    "Michael Caine",
+                    "Cockney"
                 ],
                 "CARDINAL": [
                     "150"
@@ -6508,7 +6528,8 @@
                 ],
                 "DATE": [
                     "the month",
-                    "2009"
+                    "2009",
+                    "daily"
                 ]
             }
         },
@@ -6594,6 +6615,9 @@
                 ],
                 "NORP": [
                     "African-American"
+                ],
+                "WORK_OF_ART": [
+                    "Chances Are"
                 ]
             }
         },
@@ -6628,14 +6652,24 @@
             "entities": {
                 "PERSON": [
                     "Oscar Hammerstein",
-                    "Sondheim"
+                    "Sondheim",
+                    "Gypsy",
+                    "Sweeney Todd",
+                    "George"
                 ],
                 "DATE": [
                     "1957",
-                    "the next 60 years"
+                    "the next 60 years",
+                    "Sunday"
                 ],
-                "ORG": [
-                    "&quot;A"
+                "WORK_OF_ART": [
+                    "West Side Story",
+                    "A Funny Thing Happened on the Way to the Forum",
+                    "A Little Night Music",
+                    "Into the Woods"
+                ],
+                "PRODUCT": [
+                    "Assassins"
                 ],
                 "FAC": [
                     "Broadway"
@@ -6817,7 +6851,7 @@
                     "West African"
                 ],
                 "WORK_OF_ART": [
-                    "the Nobel Peace"
+                    "the Nobel Peace Prize"
                 ]
             }
         },
@@ -6850,19 +6884,14 @@
             "pubDate": "Mon, 8 Oct 2018 07:01:00 +0000",
             "title": "Lynsey Addario: Portraits of Love and War",
             "entities": {
-                "WORK_OF_ART": [
-                    "This Pulitzer Prize"
-                ],
                 "CARDINAL": [
                     "70"
                 ],
                 "GPE": [
                     "Iraq",
+                    "Libya",
                     "Afghanistan",
                     "Libya"
-                ],
-                "ORG": [
-                    "Libya &"
                 ],
                 "PERSON": [
                     "Lynsey Addario"
@@ -6998,11 +7027,15 @@
                     "Taupin",
                     "John",
                     "Taupin",
-                    "Elton John"
+                    "Elton John",
+                    "Daniel"
                 ],
                 "DATE": [
                     "over 50 years",
                     "1967"
+                ],
+                "WORK_OF_ART": [
+                    "\"Your Song"
                 ]
             }
         },
@@ -7037,9 +7070,6 @@
             "entities": {
                 "CARDINAL": [
                     "three"
-                ],
-                "ORG": [
-                    "pen &amp"
                 ],
                 "PERSON": [
                     "Khaled Hosseini",
@@ -7092,7 +7122,7 @@
                 "ORG": [
                     "National Geographic Explorers",
                     "KaraSquare.com",
-                    "BenSound.com &amp"
+                    "BenSound.com & PremiumBeat.com"
                 ],
                 "LOC": [
                     "Africa"
@@ -7234,7 +7264,7 @@
             "title": "John Banville: Literary Confessions",
             "entities": {
                 "GPE": [
-                    "Ireland"
+                    "& Ireland"
                 ],
                 "PERSON": [
                     "Banville"
@@ -7280,11 +7310,13 @@
             "title": "Julie Andrews: An Angel on My Shoulder",
             "entities": {
                 "PERSON": [
-                    "Julie Andrews",
-                    "Mary Poppins</em> &amp;<em"
+                    "Julie Andrews"
                 ],
                 "ORG": [
-                    "London Vaudeville"
+                    "London Vaudeville",
+                    "My Fair Lady & Camelot",
+                    "Mary Poppins &The Sound of Music",
+                    "The Princess Diaries"
                 ],
                 "FAC": [
                     "Broadway"
@@ -7424,6 +7456,9 @@
             "pubDate": "Mon, 23 Apr 2018 07:01:00 +0000",
             "title": "Demis Hassabis: A.I. Mastermind",
             "entities": {
+                "ORG": [
+                    "Artificial Intelligence"
+                ],
                 "GPE": [
                     "A.I."
                 ],
@@ -7431,7 +7466,7 @@
                     "Demis Hassabis",
                     "Deep Mind",
                     "Marvin Minsky",
-                    "Ray Kurzweil.</p"
+                    "Ray Kurzweil"
                 ]
             }
         },
@@ -7487,8 +7522,8 @@
                 "DATE": [
                     "1960"
                 ],
-                "PRODUCT": [
-                    "Pulitzer"
+                "WORK_OF_ART": [
+                    "the Pulitzer Prize"
                 ]
             }
         },
@@ -7580,11 +7615,11 @@
                     "today",
                     "2017"
                 ],
+                "WORK_OF_ART": [
+                    "Oslo"
+                ],
                 "LOC": [
                     "\u201cSouth Pacific"
-                ],
-                "ORG": [
-                    "&quot;My Fair"
                 ]
             }
         },
@@ -7630,8 +7665,14 @@
                     "1961"
                 ],
                 "NORP": [
-                    "British",
-                    "French"
+                    "British"
+                ],
+                "ORG": [
+                    "Godspell"
+                ],
+                "WORK_OF_ART": [
+                    "Brideshead Revisited",
+                    "The French Lieutenant\u2019s Woman"
                 ]
             }
         },
@@ -7800,11 +7841,12 @@
             "pubDate": "Mon, 1 Jan 2018 08:01:00 +0000",
             "title": "Edward Teller: Destroyer of Worlds",
             "entities": {
-                "LOC": [
-                    "Hydrogen"
+                "ORG": [
+                    "the Hydrogen Bomb"
                 ],
                 "PERSON": [
                     "Reagan",
+                    "Strangelove",
                     "Hitler",
                     "Teller"
                 ],
@@ -7987,23 +8029,21 @@
             "title": "Ernest J. Gaines: Letters of My Ancestors",
             "entities": {
                 "PERSON": [
-                    "Ernest Gaines",
-                    "&quot"
+                    "Ernest Gaines"
                 ],
                 "DATE": [
                     "1930",
                     "40"
                 ],
                 "GPE": [
-                    "Louisiana",
-                    "Dying,&quot"
-                ],
-                "ORG": [
-                    "Lesson Before",
-                    "Gaines"
+                    "Louisiana"
                 ],
                 "WORK_OF_ART": [
-                    "quot;The Autobiography of Miss Jane Pittman,&quot; &quot;A Gathering of Old Men,&quot"
+                    "The Autobiography of Miss Jane Pittman",
+                    "\"A Gathering of Old Men"
+                ],
+                "ORG": [
+                    "Gaines"
                 ]
             }
         },
@@ -8047,6 +8087,9 @@
                 "DATE": [
                     "1950",
                     "today"
+                ],
+                "WORK_OF_ART": [
+                    "Weather Report"
                 ]
             }
         },
@@ -8083,8 +8126,7 @@
                     "the United States"
                 ],
                 "ORG": [
-                    "the Office of Management &",
-                    "Budget",
+                    "the Office of Management & Budget",
                     "the Obama Administration, Panetta",
                     "OMB",
                     "the White House",
@@ -8140,6 +8182,9 @@
                     "60 years",
                     "years",
                     "1960"
+                ],
+                "ORG": [
+                    "KaraSquare.com"
                 ]
             }
         },
@@ -8287,8 +8332,7 @@
                 ],
                 "ORG": [
                     "Amazon.com",
-                    "Amazon",
-                    "watch &amp"
+                    "Amazon"
                 ],
                 "MONEY": [
                     "135 billion dollars"
@@ -8329,7 +8373,7 @@
                     "Don Giovanni",
                     "Carlo Maria Giulini",
                     "Eberhard Wachter",
-                    "Joan Sutherland.</p"
+                    "Joan Sutherland"
                 ],
                 "GPE": [
                     "America",
@@ -8375,14 +8419,15 @@
             "pubDate": "Mon, 17 Jul 2017 07:01:00 +0000",
             "title": "Naomi Judd: Dream Chaser",
             "entities": {
-                "DATE": [
-                    "eight glorious years",
-                    "1980"
-                ],
                 "PERSON": [
+                    "Naomi Judd's",
                     "Wynonna",
                     "Naomi",
                     "Wynonna"
+                ],
+                "DATE": [
+                    "eight glorious years",
+                    "1980"
                 ],
                 "CARDINAL": [
                     "fourteen",
@@ -8482,15 +8527,16 @@
             "entities": {
                 "PERSON": [
                     "Robert Langer's",
-                    "Robert Langer"
+                    "Robert Langer",
+                    "Cancer"
                 ],
                 "FAC": [
                     "Langer's Lab"
                 ],
                 "ORG": [
                     "MIT",
-                    "Cancer.<br",
-                    "Karasquare.com"
+                    "Karasquare.com",
+                    "Bensound.com"
                 ],
                 "ORDINAL": [
                     "first"
@@ -8529,17 +8575,18 @@
             "pubDate": "Mon, 5 Jun 2017 07:01:00 +0000",
             "title": "Sally Ride and Eileen Collins: Wonder Women",
             "entities": {
+                "PERSON": [
+                    "Sally Ride",
+                    "Eileen Collins",
+                    "Sally Ride",
+                    "Eileen Collins"
+                ],
                 "ORDINAL": [
                     "first",
                     "first"
                 ],
                 "NORP": [
                     "American"
-                ],
-                "PERSON": [
-                    "Eileen Collins",
-                    "Sally Ride",
-                    "Eileen Collins"
                 ],
                 "CARDINAL": [
                     "two"
@@ -8636,7 +8683,7 @@
                 "ORG": [
                     "Les Wexner's",
                     "L Brands",
-                    "Bath &",
+                    "Bath & Body Works",
                     "Wexner",
                     "Limited",
                     "Wexner",
@@ -8645,11 +8692,9 @@
                 "GPE": [
                     "Columbus",
                     "Ohio",
-                    "Victoria",
-                    "BenSound.com.</p"
+                    "Victoria"
                 ],
                 "PERSON": [
-                    "Body Works",
                     "Henri Bendel",
                     "Kara Square"
                 ],
@@ -8693,16 +8738,17 @@
                 "PERSON": [
                     "Nora Ephron",
                     "kvell",
-                    "Harry Met",
-                    "Harry Met",
-                    "Sally&quot"
+                    "Harry Met Sally",
+                    "Harry Met Sally"
                 ],
-                "GPE": [
-                    "Seattle&quot",
-                    "Hollywood"
+                "WORK_OF_ART": [
+                    "\"Sleepless in Seattle\""
                 ],
                 "ORG": [
                     "Ephron"
+                ],
+                "GPE": [
+                    "Hollywood"
                 ]
             }
         },
@@ -8758,8 +8804,7 @@
                     "African-American"
                 ],
                 "GPE": [
-                    "the United States",
-                    "BenSound.com.</p"
+                    "the United States"
                 ]
             }
         },
@@ -8799,15 +8844,14 @@
                 ],
                 "GPE": [
                     "the United States",
-                    "Princeton",
-                    "BenSound.com.</p"
+                    "Princeton"
                 ],
                 "ORG": [
                     "NPR",
                     "the Supreme Court",
                     "Sotomayor",
                     "Yale",
-                    "Brightside Studio &"
+                    "Brightside Studio & BenSound.com"
                 ],
                 "DATE": [
                     "2016"
@@ -8849,6 +8893,11 @@
             "pubDate": "Mon, 13 Mar 2017 07:01:00 +0000",
             "title": "Sally Field: Embracing Fear",
             "entities": {
+                "PERSON": [
+                    "Sally Field",
+                    "Sally",
+                    "Lee Strasberg"
+                ],
                 "GPE": [
                     "America",
                     "Hollywood"
@@ -8862,11 +8911,11 @@
                     "Sally Field"
                 ],
                 "WORK_OF_ART": [
-                    "The Flying Nun"
-                ],
-                "PERSON": [
-                    "Sally",
-                    "Lee Strasberg"
+                    "The Flying Nun",
+                    "Norma Rae",
+                    "Places in the Heart",
+                    "Steel Magnolias",
+                    "Forrest Gump"
                 ]
             }
         },
@@ -8899,6 +8948,9 @@
             "pubDate": "Mon, 27 Feb 2017 08:01:00 +0000",
             "title": "Reid Hoffman: Silicon Valley Grandmaster",
             "entities": {
+                "GPE": [
+                    "LinkedIn"
+                ],
                 "DATE": [
                     "the days",
                     "1990",
@@ -8961,7 +9013,6 @@
                 ],
                 "ORG": [
                     "Wilson",
-                    "&quot;Ma Rainey's Black",
                     "Wilson",
                     "the Century Cycle",
                     "Lloyd Richards",
@@ -8977,13 +9028,15 @@
                     "Charlie Haden &",
                     "Hank Jones",
                     "Sergei Stern",
-                    "Kara Square.</p"
+                    "Kara Square"
                 ],
                 "FAC": [
                     "Broadway"
                 ],
-                "GPE": [
-                    "Sun&quot"
+                "WORK_OF_ART": [
+                    "Ma Rainey's Black Bottom",
+                    "The Piano Lesson",
+                    "A Raisin in the Sun"
                 ]
             }
         },
@@ -9184,6 +9237,9 @@
                 ],
                 "NORP": [
                     "American"
+                ],
+                "DATE": [
+                    "the past century"
                 ]
             }
         },
@@ -9220,7 +9276,7 @@
                     "Albie Sachs",
                     "Sachs",
                     "the Academy of Achievement",
-                    "The Constitutional Court of South Africa.</p"
+                    "The Constitutional Court of South Africa"
                 ],
                 "DATE": [
                     "one day in 1988",
@@ -9339,6 +9395,7 @@
                     "the Brooklyn Dodgers'",
                     "Lincoln",
                     "LBJ",
+                    "White House",
                     "White House"
                 ],
                 "GPE": [
@@ -9492,6 +9549,9 @@
                 "DATE": [
                     "sixty year",
                     "her days"
+                ],
+                "GPE": [
+                    "America"
                 ]
             }
         },
@@ -9571,6 +9631,9 @@
             "pubDate": "Mon, 29 Aug 2016 10:00:00 +0000",
             "title": "Steven Rosenberg: Finding a Cure for Cancer",
             "entities": {
+                "CARDINAL": [
+                    "One"
+                ],
                 "PERSON": [
                     "Steven Rosenberg",
                     "Rosenberg",
@@ -9582,9 +9645,6 @@
                 ],
                 "DATE": [
                     "over four decades"
-                ],
-                "CARDINAL": [
-                    "one"
                 ]
             }
         },
@@ -9696,7 +9756,7 @@
                     "less than four minutes"
                 ],
                 "LOC": [
-                    "Mt. Everest.</p"
+                    "Mt. Everest"
                 ]
             }
         },
@@ -9738,7 +9798,7 @@
                     "Elie Wiesel",
                     "Auschwitz",
                     "Buchenwald",
-                    "Erik"
+                    "Erik Satie"
                 ],
                 "WORK_OF_ART": [
                     "Night",
@@ -9751,8 +9811,7 @@
                     "July 2, 2016"
                 ],
                 "ORG": [
-                    "KaraSquare.com",
-                    "BenSound.com &amp"
+                    "KaraSquare.com"
                 ]
             }
         },
@@ -9843,14 +9902,18 @@
                     "the Golden Age of Hollywood"
                 ],
                 "GPE": [
-                    "Olivia de Havilland",
-                    "Own&quot"
+                    "Olivia de Havilland"
                 ],
                 "PERSON": [
                     "Melanie Hamilton",
                     "Melanie",
                     "Scarlett",
                     "de Havilland"
+                ],
+                "WORK_OF_ART": [
+                    "Gone With The Wind",
+                    "To Each His Own",
+                    "The Heiress"
                 ],
                 "DATE": [
                     "100 years old",
@@ -9899,13 +9962,18 @@
                     "Janusz Kaminski",
                     "Spielberg"
                 ],
-                "ORG": [
-                    "&quot;Schindler's",
-                    "Kaminski"
+                "WORK_OF_ART": [
+                    "Schindler's List",
+                    "Saving Private Ryan",
+                    "Bridge of Spies"
                 ],
                 "DATE": [
                     "twenty-five years ago",
                     "1970"
+                ],
+                "ORG": [
+                    "Lincoln",
+                    "Kaminski"
                 ],
                 "ORDINAL": [
                     "first"
@@ -9945,13 +10013,14 @@
             "title": "Quincy Jones: The Music Man",
             "entities": {
                 "PERSON": [
-                    "Quincy Jones",
+                    "Quincy Jones\u2019s",
                     "Frank Sinatra",
                     "Ray Charles",
                     "Sarah Vaughan",
                     "Aretha Franklin",
                     "Michael Jackson",
-                    "Quincy Jones"
+                    "Quincy Jones",
+                    "r&b"
                 ],
                 "GPE": [
                     "America"
@@ -10137,6 +10206,7 @@
             "title": "Coach John Wooden: Character for Life",
             "entities": {
                 "PERSON": [
+                    "March Madness",
                     "John Wooden",
                     "Wooden"
                 ],
@@ -10349,12 +10419,11 @@
                     "Martin Luther King Jr\u2019s",
                     "Young"
                 ],
-                "ORG": [
-                    "ambassador &amp",
-                    "King\u2019s"
-                ],
                 "ORDINAL": [
                     "first"
+                ],
+                "ORG": [
+                    "King\u2019s"
                 ],
                 "LAW": [
                     "the Civil Rights Act",
@@ -10576,8 +10645,7 @@
             "title": "William McRaven: A Life of Service",
             "entities": {
                 "PERSON": [
-                    "William &quot;Bill&quot",
-                    "McRaven",
+                    "William \"",
                     "Osama Bin Laden"
                 ],
                 "GPE": [
@@ -10636,13 +10704,13 @@
                 ],
                 "LOC": [
                     "Pacific",
-                    "South",
                     "\u201cSouth Pacific"
                 ],
                 "EVENT": [
                     "World War II"
                 ],
                 "WORK_OF_ART": [
+                    "Tales of the South Pacific",
                     "Pulitzer"
                 ],
                 "FAC": [
@@ -10682,17 +10750,16 @@
                 "PERSON": [
                     "Coach K",
                     "Mike Krzyzewski",
-                    "Coach K",
-                    "me.&quot;</p"
+                    "Coach K"
                 ],
                 "ORG": [
                     "NCAA",
                     "Final Fours",
                     "NCAA",
                     "Gold Medals",
-                    "the USA Men\u2019s National Team.<br /",
+                    "the USA Men\u2019s National Team",
                     "the Blue Devils",
-                    "Bensound.com</p"
+                    "Bensound.com"
                 ],
                 "CARDINAL": [
                     "five",
@@ -10711,6 +10778,9 @@
                 ],
                 "GPE": [
                     "Chicago"
+                ],
+                "WORK_OF_ART": [
+                    "Music \"Going Higher"
                 ]
             }
         },
@@ -10743,6 +10813,12 @@
             "pubDate": "Mon, 12 Oct 2015 10:00:00 +0000",
             "title": "B.B. King: King of the Blues",
             "entities": {
+                "ORG": [
+                    "BB King",
+                    "The Rolling Stones",
+                    "Academy of Achievement Summit",
+                    "King\u2019s"
+                ],
                 "GPE": [
                     "Mississippi",
                     "Chicago"
@@ -10757,11 +10833,6 @@
                     "Eric Clapton",
                     "Carlos Santana",
                     "Bonnie Raitt"
-                ],
-                "ORG": [
-                    "The Rolling Stones",
-                    "Academy of Achievement Summit",
-                    "King\u2019s"
                 ],
                 "ORDINAL": [
                     "first"
@@ -10817,7 +10888,11 @@
                     "first"
                 ],
                 "ORG": [
-                    "the Academy of Achievement"
+                    "the Academy of Achievement",
+                    "CC Attribution"
+                ],
+                "WORK_OF_ART": [
+                    "The Long Goodbye"
                 ]
             }
         },
@@ -10910,6 +10985,9 @@
                 "GPE": [
                     "Nashville"
                 ],
+                "DATE": [
+                    "17"
+                ],
                 "CARDINAL": [
                     "Two"
                 ],
@@ -10946,6 +11024,9 @@
             "pubDate": "Mon, 31 Aug 2015 10:00:00 +0000",
             "title": "Oprah Winfrey: The Queen of Talk\u2026 and Determination",
             "entities": {
+                "ORDINAL": [
+                    "Fourth"
+                ],
                 "WORK_OF_ART": [
                     "What It Takes"
                 ],
@@ -11014,7 +11095,8 @@
                     "African-American"
                 ],
                 "WORK_OF_ART": [
-                    "The Catch"
+                    "The Catch",
+                    "Theme Music"
                 ]
             }
         },

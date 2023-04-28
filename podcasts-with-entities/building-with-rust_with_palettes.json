@@ -41,11 +41,18 @@
                 ],
                 "ORG": [
                     "Rust London",
-                    "href=\"https://twitter.com",
                     "Rust London",
                     "DOT",
+                    "the Rustacean Station Discord",
+                    "13:28 - Ernest's",
                     "Rust London",
                     "the Rust Foundation"
+                ],
+                "PRODUCT": [
+                    "Twitter"
+                ],
+                "DATE": [
+                    "the early days"
                 ]
             }
         },
@@ -77,23 +84,32 @@
                 "PERSON": [
                     "Nick Cameron",
                     "Nick",
-                    "Twitter",
-                    "Nick",
                     "Nick"
                 ],
                 "ORG": [
                     "Rust",
-                    "href=\"https://twitter.com/nick_r_cameron",
+                    "Nick's",
                     "Nick's Rust",
                     "DOT",
-                    "Rust",
-                    "programming?</li"
+                    "the Rustacean Station Discord",
+                    "7:14 - Memories",
+                    "Rust"
                 ],
                 "DATE": [
                     "2019",
                     "2021",
                     "annual",
                     "2022"
+                ],
+                "PRODUCT": [
+                    "Twitter"
+                ],
+                "CARDINAL": [
+                    "1:09",
+                    "2:04",
+                    "17:43",
+                    "31:16",
+                    "55:00"
                 ]
             }
         },
@@ -128,23 +144,37 @@
                     "Josh",
                     "Lang",
                     "Josh",
+                    "@josh_triplett",
+                    "Timestamps",
                     "Josh",
                     "Josh",
                     "Josh",
                     "Josh",
                     "Lang",
-                    "Lang",
-                    "Josh",
                     "Josh"
                 ],
                 "LOC": [
                     "Rust Language"
                 ],
                 "ORG": [
-                    "href=\"https://joshtriplett.org",
+                    "https://lang-team.rust-lang.org/decision_process.html",
                     "DOT",
+                    "the Rustacean Station Discord",
                     "Rust",
-                    "don't?</li"
+                    "34:12 - Advice"
+                ],
+                "TIME": [
+                    "8:42",
+                    "13:12 - Important language",
+                    "50:09 - Long"
+                ],
+                "CARDINAL": [
+                    "17:42",
+                    "1:05:29",
+                    "1:11:58"
+                ],
+                "MONEY": [
+                    "23:45 - Difficulties"
                 ]
             }
         },
@@ -175,29 +205,40 @@
             "entities": {
                 "PERSON": [
                     "Leonora Tindall",
-                    "Nora"
+                    "Nora",
+                    "Timestamps"
                 ],
                 "CARDINAL": [
-                    "one"
+                    "one",
+                    "24:31",
+                    "49:12"
+                ],
+                "DATE": [
+                    "2nd"
+                ],
+                "ORG": [
+                    "Programming Rust",
+                    "Programming Rust 2nd Edition",
+                    "DOT",
+                    "the Rustacean Station Discord",
+                    "Programming Rust"
+                ],
+                "PERCENT": [
+                    "40%"
+                ],
+                "TIME": [
+                    "8:29 - Working"
                 ],
                 "ORDINAL": [
-                    "2nd",
                     "second",
                     "first",
                     "second"
                 ],
-                "PRODUCT": [
-                    "href=\"https://nora.codes/\">https://nora.codes/</a>.&nbsp;Her",
-                    "Twitter"
+                "WORK_OF_ART": [
+                    "Programming Rust\n  12:00 - Developing"
                 ],
-                "ORG": [
-                    "href=\"https://twitter.com",
-                    "DOT",
-                    "fun</li",
-                    "CancerIQ</li"
-                ],
-                "PERCENT": [
-                    "40%"
+                "FAC": [
+                    "Fastly\n  35:18 -"
                 ],
                 "GPE": [
                     "California"
@@ -234,10 +275,16 @@
                     "Ralf"
                 ],
                 "ORG": [
-                    "Planck Institute for Software Systems",
+                    "the Max Planck Institute for Software Systems",
+                    "MPI-SWS",
+                    "Ralf",
+                    "GhostCell",
                     "XOR",
-                    "Ghost Collections",
-                    "href=\"https://github.com"
+                    "Ghost Collections"
+                ],
+                "PRODUCT": [
+                    "RustBelt",
+                    "Ralf"
                 ]
             }
         },
@@ -269,12 +316,15 @@
                     "Tim McNamara",
                     "Tim"
                 ],
+                "WORK_OF_ART": [
+                    "Rust in Action"
+                ],
                 "GPE": [
                     "New Zealand's",
                     "New Zealand"
                 ],
-                "LOC": [
-                    "with!</p"
+                "ORG": [
+                    "Rust in Action"
                 ]
             }
         },
@@ -306,11 +356,11 @@
                     "Luca Palmieri"
                 ],
                 "ORG": [
-                    "href=\"https://github.com",
-                    "TrueLayer"
+                    "TrueLayer",
+                    "PayDirect"
                 ],
-                "LOC": [
-                    "with!</p"
+                "CARDINAL": [
+                    "Zero"
                 ]
             }
         }

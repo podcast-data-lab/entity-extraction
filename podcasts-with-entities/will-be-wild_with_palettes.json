@@ -33,10 +33,6 @@
             "pubDate": "Mon, 08 Aug 2022 07:01:00 -0000",
             "title": "Has Been Wild (A Hearings Breakdown) | 10",
             "entities": {
-                "PERSON": [
-                    "Andrea",
-                    "6th.</p><p><br></p><p"
-                ],
                 "CARDINAL": [
                     "1/6"
                 ],
@@ -44,7 +40,10 @@
                     "Trump"
                 ],
                 "DATE": [
-                    "January"
+                    "January 6th"
+                ],
+                "PERSON": [
+                    "Privacy Policy"
                 ],
                 "GPE": [
                     "California"
@@ -80,9 +79,8 @@
                     "Robin Hood",
                     "Persona"
                 ],
-                "NORP": [
-                    "French",
-                    "French"
+                "EVENT": [
+                    "The French Deception"
                 ],
                 "MONEY": [
                     "$50 million"
@@ -96,11 +94,13 @@
                 "DATE": [
                     "years"
                 ],
+                "NORP": [
+                    "French"
+                ],
                 "PRODUCT": [
                     "Wondery Plus"
                 ],
                 "GPE": [
-                    "WBW_Persona",
                     "California"
                 ]
             }
@@ -129,9 +129,6 @@
             "pubDate": "Mon, 13 Jun 2022 07:01:00 -0000",
             "title": "Should Be Wild (A Hearings Playbook) | 9",
             "entities": {
-                "PERSON": [
-                    "Andrea"
-                ],
                 "CARDINAL": [
                     "1/6"
                 ],
@@ -140,6 +137,9 @@
                 ],
                 "DATE": [
                     "January 6"
+                ],
+                "PERSON": [
+                    "Privacy Policy"
                 ],
                 "GPE": [
                     "California"
@@ -191,6 +191,9 @@
                 "WORK_OF_ART": [
                     "Will Be Wild"
                 ],
+                "PERSON": [
+                    "Privacy Policy"
+                ],
                 "GPE": [
                     "California"
                 ]
@@ -220,6 +223,9 @@
             "pubDate": "Mon, 30 May 2022 07:01:00 -0000",
             "title": "War Games | 7",
             "entities": {
+                "PERSON": [
+                    "Privacy Policy"
+                ],
                 "GPE": [
                     "California"
                 ]
@@ -260,6 +266,9 @@
                 "CARDINAL": [
                     "two"
                 ],
+                "PERSON": [
+                    "Privacy Policy"
+                ],
                 "GPE": [
                     "California"
                 ]
@@ -295,14 +304,11 @@
                 "PERSON": [
                     "Danny Rodriguez's",
                     "Danny Rodriguez's",
-                    "Ryan J. Reilly's"
+                    "Ryan J. Reilly's",
+                    "Privacy Policy"
                 ],
                 "ORG": [
-                    "href=\"https://storage.courtlistener.com",
                     "YouTube"
-                ],
-                "NORP": [
-                    "J278CGW4FSY"
                 ],
                 "GPE": [
                     "California"
@@ -346,7 +352,8 @@
                     "Capitol"
                 ],
                 "PERSON": [
-                    "Reffitt"
+                    "Reffitt",
+                    "Harbinger Podcast"
                 ],
                 "DATE": [
                     "January 6th"
@@ -391,6 +398,9 @@
                 ],
                 "CARDINAL": [
                     "Two"
+                ],
+                "PERSON": [
+                    "Privacy Policy"
                 ]
             }
         },
@@ -431,6 +441,9 @@
                     "one",
                     "nearly 1",
                     "7"
+                ],
+                "PERSON": [
+                    "Privacy Policy"
                 ],
                 "GPE": [
                     "California"
@@ -474,6 +487,9 @@
                 ],
                 "DATE": [
                     "January 6th"
+                ],
+                "PERSON": [
+                    "Privacy Policy"
                 ]
             }
         },
@@ -506,8 +522,8 @@
                 "CARDINAL": [
                     "8"
                 ],
-                "PERSON": [
-                    "Will Be"
+                "WORK_OF_ART": [
+                    "Will Be Wild"
                 ],
                 "DATE": [
                     "that day",
@@ -583,11 +599,6 @@
     ],
     "title": "Will Be Wild",
     "entities": {
-        "PERSON": [
-            "Will Be Wild</em",
-            "Andrea Bernstein",
-            "Ilya Marritz"
-        ],
         "CARDINAL": [
             "8"
         ],
@@ -595,6 +606,10 @@
             "January 6th",
             "January 6th",
             "January 6th"
+        ],
+        "PERSON": [
+            "Andrea Bernstein",
+            "Ilya Marritz"
         ],
         "GPE": [
             "America"

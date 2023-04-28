@@ -30,11 +30,15 @@
             "pubDate": "Tue, 18 Apr 2023 21:34:23 +0000",
             "title": "A trip down Myspace memory lane",
             "entities": {
+                "ORG": [
+                    "VOTE"
+                ],
                 "GPE": [
                     "US"
                 ],
                 "PERSON": [
-                    "TANGOTI.COM"
+                    "TANGOTI.COM",
+                    "Bridget"
                 ],
                 "DATE": [
                     "every day"
@@ -127,16 +131,15 @@
                     "Twitter Spaces",
                     "Bridget",
                     "BFF",
-                    "OscarsSoWhite",
                     "the Academy Awards",
+                    "LISTEN",
                     "SUBSCRIBE",
                     "JON"
                 ],
                 "PERSON": [
                     "April Reign",
                     "Jon Paul",
-                    "Femme",
-                    "https%3A%2F%2Fwww.bet.com%2Farticle%2Fsj85cv%2Fblack"
+                    "Femme"
                 ]
             }
         },
@@ -191,8 +194,7 @@
             "title": "Celebrating Black history by preserving our voices - BEST OF TANGOTI",
             "entities": {
                 "PERSON": [
-                    "We're",
-                    "Jocelyn Robinson.</p><p"
+                    "Jocelyn Robinson"
                 ]
             }
         },
@@ -218,13 +220,13 @@
             "pubDate": "Thu, 12 Jan 2023 00:36:08 +0000",
             "title": "BONUS: The Meghan Markle  information war",
             "entities": {
+                "GPE": [
+                    "Meghan"
+                ],
                 "PERSON": [
-                    "Meghan",
                     "Harry",
-                    "aria-hidden=\"true\">Former",
                     "Asha Rangappa",
-                    "Harry",
-                    "GWrN4GdTN1JZqRu0o5%2FePrB90uv%2BItJJRNHfvVrU8Cc%3D&amp;reserved=0"
+                    "Harry"
                 ]
             }
         },
@@ -261,7 +263,7 @@
                     "Romania"
                 ],
                 "ORG": [
-                    "The Entire Digital Space Is Rotten.<a href=\"https://www.thenation.com/article/society/toxic-podcasting/\">https://www.thenation.com/article/society/toxic-podcasting/</a></p"
+                    "The Entire Digital Space Is"
                 ]
             }
         },
@@ -287,17 +289,17 @@
             "pubDate": "Wed, 21 Dec 2022 05:01:00 +0000",
             "title": "Part One: Why Trump Targeted Two Black Election Workers",
             "entities": {
-                "PERSON": [
-                    "Shaye Moss",
-                    "Miles Gray",
-                    "Bridget"
+                "ORG": [
+                    "Ruby Freeman & Shaye Moss",
+                    "The Daily Zeitgeist\u2019s"
                 ],
                 "DATE": [
                     "Jan 6th",
                     "2020"
                 ],
-                "ORG": [
-                    "The Daily Zeitgeist\u2019s"
+                "PERSON": [
+                    "Miles Gray",
+                    "Bridget"
                 ]
             }
         },
@@ -323,6 +325,9 @@
             "pubDate": "Sat, 17 Dec 2022 04:04:45 +0000",
             "title": "Elon Musk\u2019s very weird night on Twitter- STUFF MOM NEVER TOLD YOU",
             "entities": {
+                "TIME": [
+                    "Last night"
+                ],
                 "PERSON": [
                     "Elon Musk"
                 ],
@@ -390,8 +395,11 @@
                 "NORP": [
                     "Kardashian"
                 ],
+                "PERSON": [
+                    "Easter",
+                    "https://twitter.com/OnPunsnNeedles/status/1600905934678548480"
+                ],
                 "WORK_OF_ART": [
-                    "Easter: https://www.tiktok.com/@plantawhisperer/video/7087734906087853354?is_copy_url=1&amp;is_from_webapp=v1</p>\r\n<p",
                     "The Gendering of Holiday Labor"
                 ]
             }
@@ -490,7 +498,7 @@
             "title": "Are genetic testing services protecting our data?",
             "entities": {
                 "CARDINAL": [
-                    "23&amp;Me",
+                    "23&Me",
                     "23andMe"
                 ]
             }
@@ -562,9 +570,6 @@
                 ],
                 "PERSON": [
                     "Laura Bliss"
-                ],
-                "ORG": [
-                    "href=\"https://twitter.com/mslaurabliss\"><strong"
                 ]
             }
         },
@@ -626,16 +631,23 @@
                 "PERSON": [
                     "Alejandra Caraballo",
                     "Alejandra",
-                    "Alejandra"
+                    "Follow Alejandra"
+                ],
+                "ORG": [
+                    "Harvard"
                 ],
                 "LOC": [
                     "NYC"
                 ],
                 "GPE": [
-                    "VIRTUALLY"
+                    "VIRTUALLY",
+                    "TANGOTI.COM"
                 ],
                 "CARDINAL": [
                     "5/28"
+                ],
+                "PRODUCT": [
+                    "Subscribe"
                 ],
                 "WORK_OF_ART": [
                     "Queering The Law"
@@ -664,22 +676,17 @@
             "pubDate": "Wed, 16 Nov 2022 05:01:00 +0000",
             "title": "Leslie Jones: How Milo Yiannopoulos Weaponized A Ghostbusters Remake",
             "entities": {
-                "PERSON": [
-                    "We're",
-                    "Milo Yiannopoulos",
-                    "Leslie Jones"
-                ],
                 "ORG": [
                     "Prop",
                     "Hood Politics",
-                    "comedian &amp",
-                    "SNL"
+                    "comedian & SNL"
                 ],
                 "PRODUCT": [
                     "Twitter"
                 ],
-                "DATE": [
-                    "2016"
+                "PERSON": [
+                    "Milo Yiannopoulos",
+                    "Leslie Jones"
                 ]
             }
         },
@@ -709,7 +716,10 @@
                     "Pennsylvania"
                 ],
                 "PERSON": [
-                    "Tarika Barrett"
+                    "Barrett"
+                ],
+                "PRODUCT": [
+                    "Learn"
                 ]
             }
         },
@@ -736,12 +746,14 @@
             "title": "What Elon Musk Could Learn from the #EndFathersDay Hoax",
             "entities": {
                 "PERSON": [
-                    "Joelle Monique",
-                    "Mikki Kendall's",
-                    "Guardian</em"
+                    "Joelle Monique"
                 ],
                 "PRODUCT": [
                     "Twitter"
+                ],
+                "ORG": [
+                    "Mikki Kendall's",
+                    "Guardian"
                 ]
             }
         },
@@ -775,8 +787,8 @@
                 "GPE": [
                     "the United States",
                     "MOZILLA",
-                    "Bridget",
-                    "https%3A%2F%2Fwww.mobilize.us%2Fwomensmarch%2Fevent%2F540899%2F%3Freferring_vol%3D3699693%26rname%3DBridget%26timeslot%3D3786510%26referring_participation%3D21991983%26referring_data_signature%3Dv1"
+                    "TANGOTI.COM",
+                    "IRL"
                 ],
                 "ORG": [
                     "COVID",
@@ -814,8 +826,10 @@
             "entities": {
                 "GPE": [
                     "MOZILLA",
-                    "http%3A%2F%2Ftangoti.com%2FIRL&amp;data=05%7C01%7CJoeyPatt%40iheartmedia.com%7C5dd6623f04f6403633e108dabe8d7a66%7C122a527e5b714eba878d9810b495b9e3%7C0%7C0%7C638031812096107597%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&amp;sdata=98idcHlJ8q8ky0Da56WeA9yp3W26zIgKvMixMHv5rkQ%3D&amp;reserved=0\">TANGOTI.COM",
-                    "IRL"
+                    "TANGOTI.COM",
+                    "IRL",
+                    "IRL",
+                    "TANGOTI.COM"
                 ],
                 "PERSON": [
                     "Sam",
@@ -854,7 +868,9 @@
                 "ORG": [
                     "GamerGate",
                     "DongleGate",
-                    "PlayHaven"
+                    "The Hacker News",
+                    "PlayHaven",
+                    "https://news.ycombinator.com/item?id=5398681"
                 ],
                 "PERSON": [
                     "Adria Richards",
@@ -862,7 +878,8 @@
                     "Amanda Blum's"
                 ],
                 "DATE": [
-                    "2013"
+                    "2013",
+                    "today"
                 ]
             }
         },
@@ -965,6 +982,9 @@
             "entities": {
                 "PERSON": [
                     "Bridget Todd"
+                ],
+                "PRODUCT": [
+                    "SUBSCRIBE TO"
                 ]
             }
         },
@@ -1005,14 +1025,19 @@
             "title": "Should EVERYTHING be \u201ccontent?\u201d  What happens when parents overshare their kids online? (with Mom Uncharted)",
             "entities": {
                 "PERSON": [
-                    "Sarah Adams",
-                    "TANGOTI.COM"
+                    "Sarah Adams"
                 ],
                 "NORP": [
                     "TikTok"
                 ],
                 "WORK_OF_ART": [
                     "Generation Shared"
+                ],
+                "GPE": [
+                    "TANGOTI.COM"
+                ],
+                "ORG": [
+                    "hello@tangoti.comSee"
                 ]
             }
         },
@@ -1071,14 +1096,14 @@
                 "PERSON": [
                     "Kanye West",
                     "Joan Donovan",
-                    "Emily Dryfuss",
-                    "Kanye West.</p"
+                    "Emily Dryfuss"
                 ],
                 "NORP": [
                     "Bridget"
                 ],
                 "ORG": [
-                    "Harvard"
+                    "Harvard",
+                    "Kanye West"
                 ],
                 "WORK_OF_ART": [
                     "\u201cThe Meme Wars: The Untold Story of the Online Battles Upending Democracy in America"
@@ -1111,18 +1136,19 @@
             "title": "The art of \u201cAnti-influencing\u201d - City CastDC",
             "entities": {
                 "PERSON": [
-                    "Peanut Butter",
-                    "Cast"
+                    "Peanut Butter"
                 ],
                 "GPE": [
                     "Bridget",
                     "Washington DC",
                     "DC",
+                    "City Cast DC",
                     "Bridget",
                     "Hey DC"
                 ],
                 "LOC": [
-                    "City Cast DC"
+                    "City Cast DC",
+                    "Hey DC"
                 ],
                 "DATE": [
                     "This week"
@@ -1161,8 +1187,7 @@
                     "Will Kimberly"
                 ],
                 "ORG": [
-                    "KIMBERLY\u2019S GO FUND",
-                    "TANGOTI.COM/STORE</p"
+                    "TANGOTI.COM/STORE"
                 ]
             }
         },
@@ -1189,13 +1214,14 @@
             "title": "Women are fighting for change in Iran after the death of Mahsa Amini",
             "entities": {
                 "DATE": [
-                    "year old"
+                    "22 year old"
                 ],
                 "PERSON": [
                     "Mahsa Amini",
                     "Negar Mortazavi"
                 ],
                 "GPE": [
+                    "Iran",
                     "Iran"
                 ],
                 "ORG": [
@@ -1228,14 +1254,15 @@
                 "PERSON": [
                     "Queen",
                     "Meghan Markle",
+                    "Bridget",
                     "Anney",
                     "Sam"
                 ],
                 "GPE": [
                     "Meghan Markle"
                 ],
-                "CARDINAL": [
-                    "09-2021.pdf&amp;data=05%7C01%7Ctariharrison%40iheartmedia.com%7Cc50f9bb2851445608ba808daa0b712e5%7C122a527e5b714eba878d9810b495b9e3%7C0%7C0%7C637999006603063902%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&amp;sdata"
+                "ORG": [
+                    "https://botsentinel.com/reports/documents/duke-and-duchess-of-sussex/report-11-09-2021.pdfSee"
                 ]
             }
         },
@@ -1263,7 +1290,12 @@
             "entities": {
                 "ORG": [
                     "Rabia Chaudry",
-                    "Rabia",
+                    "Rabia"
+                ],
+                "PRODUCT": [
+                    "The Hidden Djinn"
+                ],
+                "PERSON": [
                     "Rabia"
                 ]
             }
@@ -1297,7 +1329,7 @@
                     "National Voter Registration Day",
                     "the Voter Formation Project",
                     "the Voter Formation Project",
-                    "TANGOTI.COM/STORE</p"
+                    "TANGOTI.COM/STORE"
                 ],
                 "GPE": [
                     "the United States"
@@ -1337,7 +1369,8 @@
             "entities": {
                 "ORG": [
                     "AI",
-                    "Mozilla\u2019s Internet Health Report"
+                    "Mozilla\u2019s Internet Health Report",
+                    "https://twitter.com/solanasaurusSee"
                 ],
                 "PERSON": [
                     "Solana Larsen"
@@ -1373,18 +1406,18 @@
                     "almost a decade of harassment"
                 ],
                 "GPE": [
-                    "transphobia"
+                    "transphobia",
+                    "TANGOTI.COM"
                 ],
                 "PERSON": [
                     "Kiwi Farms",
-                    "Chris Chan",
-                    "TANGOTI.COM"
+                    "Chris Chan"
                 ],
                 "ORG": [
+                    "INPUT",
                     "Kiwi Farms",
                     "Kiwi Farms",
-                    "msnbc",
-                    "msnbc"
+                    "hello@tangoti.comSee"
                 ]
             }
         },
@@ -1414,6 +1447,8 @@
                     "Jo Piazza"
                 ],
                 "ORG": [
+                    "Influence",
+                    "TradWives",
                     "Influence"
                 ]
             }
@@ -1444,8 +1479,10 @@
                     "21"
                 ],
                 "PERSON": [
-                    "dir=\"ltr\">Sydette Harry",
-                    "Sydette",
+                    "Sydette Harry",
+                    "Follow Sydette"
+                ],
+                "GPE": [
                     "TANGOTI.COM"
                 ]
             }
@@ -1514,6 +1551,7 @@
             "title": "Digital rapper FN Meka and the new era of digital Blackface",
             "entities": {
                 "WORK_OF_ART": [
+                    "AI",
                     "FN Meka"
                 ],
                 "ORDINAL": [
@@ -1560,7 +1598,7 @@
                     "Laura Bates"
                 ],
                 "ORG": [
-                    "The Entire Digital Space Is Rotten.<a href=\"https://www.thenation.com/article/society/toxic-podcasting/\">https://www.thenation.com/article/society/toxic-podcasting/</a></p"
+                    "The Entire Digital Space Is"
                 ]
             }
         },
@@ -1586,12 +1624,12 @@
             "pubDate": "Wed, 24 Aug 2022 00:31:37 +0000",
             "title": "DOXXING 101:  Our personal information is available online and it\u2019s putting women at risk. Meet the woman who is fighting back.",
             "entities": {
-                "PERSON": [
-                    "Shauna Dillavou"
-                ],
                 "ORG": [
                     "Brightlines",
                     "Chase"
+                ],
+                "PRODUCT": [
+                    "Learn"
                 ]
             }
         },
@@ -1645,6 +1683,7 @@
             "title": "The Amber Heard v Johnny Depp trial may be over, but the online harassment continues",
             "entities": {
                 "PERSON": [
+                    "Johnny",
                     "pro-Johnny",
                     "YouTuber"
                 ],
@@ -1680,7 +1719,8 @@
                 ],
                 "PERSON": [
                     "Matt Gaetz",
-                    "Olivia Julianna"
+                    "Olivia Julianna",
+                    "Follow Olivia"
                 ],
                 "DATE": [
                     "19 year old"
@@ -1729,10 +1769,9 @@
                     "Sophia Amoruso",
                     "Elizabeth Holmes",
                     "Jamie Loftus",
-                    "Follow Jamie",
                     "Jamie",
                     "The Bechdel Cast",
-                    "jamie-lof-95721611/</a></p"
+                    "Lolita Podcast"
                 ],
                 "GPE": [
                     "Sandberg"
@@ -1778,11 +1817,16 @@
                 "PERSON": [
                     "Alex Jones",
                     "Sandy Hook",
-                    "Infowars",
-                    "TANGOTI.COM"
+                    "Infowars"
                 ],
                 "MONEY": [
                     "4.1"
+                ],
+                "GPE": [
+                    "TANGOTI.COM"
+                ],
+                "ORG": [
+                    "hello@tangoti.comSee"
                 ]
             }
         },
@@ -1811,12 +1855,13 @@
                 "PERSON": [
                     "Nichelle Nichols",
                     "Blair Imani",
-                    "Blair",
-                    "TANGOTI.COM"
+                    "Blair"
                 ],
                 "ORG": [
-                    "Star Trek",
-                    "IqPPbRGrhVyG8kQ%2FtVxaZyaLkC695JQWdDKDIvzpupU%3D&amp;reserved=0\">https://www.tangoti.com"
+                    "Star Trek"
+                ],
+                "GPE": [
+                    "TANGOTI.COM"
                 ]
             }
         },
@@ -1849,7 +1894,11 @@
                 ],
                 "ORG": [
                     "Instagram Adam Mosseri",
-                    "href=\"https://twitter.com"
+                    "TANGOTI.COM/STORE",
+                    "hello@tangoti.comSee"
+                ],
+                "MONEY": [
+                    "https://twitter.com/mosseri/status/1551890839584088065\r\nWant"
                 ]
             }
         },
@@ -1890,17 +1939,14 @@
                 ],
                 "PERSON": [
                     "Wagatwe Wanjuki",
-                    "aria-hidden=\"true\">Read",
                     "Wagatwe",
-                    "Follow Wagatwe's",
-                    "GhOUVNmX8I9eV0gYdxmBYoHGAVpQAVoOpgzC5JSgnhA%3D&amp;reserved=0",
-                    "TANGOTI.COM"
-                ],
-                "ORG": [
-                    "VbqdkvHtQkmuYbD8YRbzlqFP5JPIe3RBY5PN8nJs%2Fqs%3D&amp;reserved=0"
+                    "Follow Wagatwe's"
                 ],
                 "FAC": [
                     "Patreon"
+                ],
+                "GPE": [
+                    "TANGOTI.COM"
                 ]
             }
         },
@@ -1978,14 +2024,19 @@
                 "PERSON": [
                     "Katrine Mar\u00e7al",
                     "Katrine",
-                    "Follow Katrine",
-                    "TANGOTI.COM"
+                    "Follow Katrine"
                 ],
                 "WORK_OF_ART": [
                     "Mother of Invention: How Good Ideas Get Ignored"
                 ],
-                "MONEY": [
-                    "http%3A%2F%2Ftangoti.com%2FSTORE&amp;data=05%7C01%7Ctariharrison%40iheartmedia.com%7C4fe84a795e2842bbbefa08da6995fa31%7C122a527e5b714eba878d9810b495b9e3%7C0%7C0%7C637938390123989115%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&amp;sdata="
+                "PRODUCT": [
+                    "Twitter"
+                ],
+                "GPE": [
+                    "TANGOTI.COM"
+                ],
+                "ORG": [
+                    "hello@tangoti.comSee"
                 ]
             }
         },
@@ -2020,7 +2071,9 @@
                     "this week"
                 ],
                 "ORG": [
-                    "Christian Walker"
+                    "Christian Walker",
+                    "TANGOTI.COM/STORE",
+                    "hello@tangoti.comSee"
                 ]
             }
         },
@@ -2053,7 +2106,8 @@
                     "Lena Dunham"
                 ],
                 "ORG": [
-                    "TANGOTI.COM/STORE</p"
+                    "TANGOTI.COM/STORE",
+                    "hello@tangoti.comSee"
                 ]
             }
         },
@@ -2080,7 +2134,9 @@
             "title": "We\u2019re wrong about trafficking, with Michael Hobbes - BEST OF TANGOTI",
             "entities": {
                 "ORG": [
-                    "Target"
+                    "Target",
+                    "TANGOTI.COM/STORE",
+                    "hello@tangoti.comSee"
                 ],
                 "PERSON": [
                     "Michael Hobbes",
@@ -2117,7 +2173,7 @@
                 ],
                 "PERSON": [
                     "Mike",
-                    "Lena Dunham.</p",
+                    "Lena Dunham",
                     "Lena Dunham",
                     "Ben Shapiro"
                 ]
@@ -2153,10 +2209,16 @@
                 ],
                 "PERSON": [
                     "Heather Booth",
-                    "Jane"
+                    "Follow Heather Booth",
+                    "Learn"
+                ],
+                "WORK_OF_ART": [
+                    "The Jane Collective"
                 ],
                 "ORG": [
-                    "hboothgo\">https://twitter.com/hboothgo</a></p"
+                    "AbortionFunds.org\u00a0\r\nWant",
+                    "TANGOTI.COM/STORE",
+                    "hello@tangoti.comSee"
                 ]
             }
         },
@@ -2227,7 +2289,9 @@
                     "Georgia"
                 ],
                 "ORG": [
-                    "Shay Freemen"
+                    "Shay Freemen",
+                    "TANGOTI.COM/STORE",
+                    "hello@tangoti.comSee"
                 ]
             }
         },
@@ -2255,8 +2319,14 @@
             "entities": {
                 "PERSON": [
                     "Moodie",
-                    "Moodie",
+                    "https://www.dcpofficial.com/woke-af\r\nFollow",
+                    "Moodie"
+                ],
+                "GPE": [
                     "TANGOTI.COM"
+                ],
+                "ORG": [
+                    "hello@tangoti.comSee"
                 ]
             }
         },
@@ -2290,7 +2360,7 @@
                     "Kim Kelly",
                     "Talia Jane",
                     "Talia Jane",
-                    "at&nbsp;<a href=\"mailto:hello@tangoti.com"
+                    "TANGOTI.COM"
                 ],
                 "ORG": [
                     "Amazon",
@@ -2301,8 +2371,10 @@
                     "Starbucks"
                 ],
                 "GPE": [
-                    "Talia",
                     "Talia"
+                ],
+                "WORK_OF_ART": [
+                    "Read Talia's Medium"
                 ]
             }
         },
@@ -2332,17 +2404,18 @@
                     "Kim Kelly",
                     "Follow Kim Kelly",
                     "Twitter",
-                    "TANGOTI.COM"
-                ],
-                "ORG": [
-                    "Kim&rsquo;s",
-                    "The Untold History of American Labor"
+                    "Kim",
+                    "https://www.simonandschuster.com/books/Fight-Like-Hell/Kim-Kelly/9781982171056"
                 ],
                 "WORK_OF_ART": [
-                    "Fight Like"
+                    "Fight Like Hell\r\n"
+                ],
+                "ORG": [
+                    "American Labor",
+                    "hello@tangoti.comSee"
                 ],
                 "GPE": [
-                    "href=\"https://www.simonandschuster.com"
+                    "TANGOTI.COM"
                 ]
             }
         },
@@ -2368,15 +2441,15 @@
             "pubDate": "Fri, 10 Jun 2022 09:00:00 +0000",
             "title": "Evan Rachel Wood\u2019s abuse by Marylin Manson is a tech issue - STUFF MOM NEVER TOLD YOU",
             "entities": {
-                "ORG": [
-                    "Phoenix Rising",
-                    "it&rsquo;s"
-                ],
                 "PERSON": [
+                    "Evan Rachel Wood\u2019s",
                     "Brian Warner",
-                    "Marylin Manson.&nbsp;</p",
+                    "Marylin Manson",
                     "Sam",
                     "Anney"
+                ],
+                "ORG": [
+                    "Phoenix Rising"
                 ]
             }
         },
@@ -2421,23 +2494,22 @@
             "title": "Why did right wing media spend money spreading anti-Amber Heard content?",
             "entities": {
                 "PRODUCT": [
-                    "the Amber Heard Johnny",
-                    "The Bleak Spectacle of the Amber Heard-Johnny Depp Trial"
+                    "the Amber Heard Johnny"
                 ],
                 "PERSON": [
-                    "Johnny Depp",
-                    "Follow Ryan",
-                    "store:<a",
-                    "TANGOTI.COM"
+                    "Johnny Depp"
+                ],
+                "WORK_OF_ART": [
+                    "The Bleak Spectacle of the Amber Heard-Johnny Depp Trial by Micheal Hobbes"
                 ],
                 "ORG": [
-                    "Amber Heard&rsquo;s",
-                    "r\">https://michaelhobbes.substack.com/p",
-                    "The Daily Wire Spent",
-                    "L3eHtFotgaNHJiDgndqqcBwY5jYXOfTfPruUxecYZwQ%3D&amp;reserved=0"
+                    "The Daily Wire Spent"
                 ],
                 "MONEY": [
                     "Thousands of Dollars"
+                ],
+                "GPE": [
+                    "TANGOTI.COM"
                 ]
             }
         },
@@ -2467,9 +2539,11 @@
                     "Ashley Reese",
                     "Follow Ashley"
                 ],
-                "ORG": [
-                    "Digital Void",
-                    "href=\"http://tangoti.com"
+                "LOC": [
+                    "Digital Void:"
+                ],
+                "GPE": [
+                    "TANGOTI.COM"
                 ]
             }
         },
@@ -2496,15 +2570,8 @@
             "title": "Uvalde school shooter had a history of threatening girls online",
             "entities": {
                 "GPE": [
-                    "texas",
-                    "texas"
-                ],
-                "PERSON": [
-                    "store:<a",
+                    "https://www.washingtonpost.com/technology/2022/05/28/uvalde-texas-gunman-online-threats/",
                     "TANGOTI.COM"
-                ],
-                "ORG": [
-                    "L3eHtFotgaNHJiDgndqqcBwY5jYXOfTfPruUxecYZwQ%3D&amp;reserved=0"
                 ]
             }
         },
@@ -2530,21 +2597,21 @@
             "pubDate": "Fri, 27 May 2022 08:00:00 +0000",
             "title": "Missy Elliott: Digital Innovator - Best of TANGOTI",
             "entities": {
-                "ORG": [
-                    "it&rsquo;s"
+                "DATE": [
+                    "few weeks",
+                    "Halloween 2008"
                 ],
                 "PERSON": [
                     "Missy Elliott",
                     "Shaviro",
-                    "Elliott",
-                    "Richie Tenenbaum",
-                    "TANGOTI.COM"
+                    "Richie Tenenbaum"
+                ],
+                "WORK_OF_ART": [
+                    "Supa Dupa Fly: Black Women as Cyborgs"
                 ],
                 "GPE": [
-                    "Margot"
-                ],
-                "DATE": [
-                    "Halloween 2008"
+                    "Margot",
+                    "TANGOTI.COM"
                 ]
             }
         },
@@ -2573,7 +2640,8 @@
                 "ORG": [
                     "the Slap A Teacher Challenge",
                     "TikTok",
-                    "TANGOTI.COM/STORE</p"
+                    "TANGOTI.COM/STORE",
+                    "hello@tangoti.comSee"
                 ],
                 "PERSON": [
                     "Abbie Richards",
@@ -2609,29 +2677,29 @@
                 "GPE": [
                     "VIRTUALLY",
                     "Netflix",
-                    "netflix",
-                    "netflix",
-                    "netflix"
+                    "TANGOTI.COM"
                 ],
                 "CARDINAL": [
-                    "5/28"
+                    "5/28",
+                    "150"
                 ],
                 "ORDINAL": [
                     "first"
                 ],
+                "DATE": [
+                    "over a decade"
+                ],
                 "PERSON": [
                     "B. Pagels-Minor",
-                    "Dave Chapelle&rsquo;s"
+                    "Dave Chapelle\u2019s"
                 ],
                 "ORG": [
                     "Netflix",
                     "the Real Problem Is Netflix",
                     "the Washington Post",
                     "the Trans Lifeline",
-                    "href=\"https://translifeline.org",
-                    "the Transgender Law Center",
-                    "href=\"https://transgenderlawcenter.org/donate\">https://transgenderlawcenter.org/donate</a></p",
-                    "href=\"http://tangoti.com"
+                    "the Transgender Law Center:",
+                    "hello@tangoti.comSee"
                 ]
             }
         },
@@ -2657,31 +2725,34 @@
             "pubDate": "Wed, 18 May 2022 02:04:36 +0000",
             "title": "Janet Jackson\u2019s trauma led to the creation of YouTube. And it says a lot about the internet",
             "entities": {
-                "ORG": [
-                    "SHOW",
-                    "SuperBowl &ldquo;wardrobe",
-                    "&ldquo;Again&rdquo;&nbsp"
-                ],
                 "LOC": [
                     "NYC"
                 ],
                 "GPE": [
-                    "VIRTUALLY"
+                    "VIRTUALLY",
+                    "Bridget",
+                    "TANGOTI.COM"
                 ],
                 "CARDINAL": [
                     "5/28"
                 ],
                 "PERSON": [
-                    "Janet Jackson&rsquo;s",
+                    "Janet Jackson",
                     "Kimberly Foster",
                     "Harriet",
                     "Follow ForHarriet",
                     "Janet Jackson",
-                    "Janet Jackson",
-                    "TANGOTI.COM"
+                    "Janet Jackson"
                 ],
-                "NORP": [
-                    "Bridget&rsquo;s"
+                "ORG": [
+                    "SuperBowl",
+                    "YouTube"
+                ],
+                "FAC": [
+                    "Patreon"
+                ],
+                "WORK_OF_ART": [
+                    "\u201cTogether Again"
                 ]
             }
         },
@@ -2709,21 +2780,24 @@
             "entities": {
                 "PERSON": [
                     "Alejandra Caraballo",
-                    "=",
-                    "Alejandra"
+                    "Alejandra",
+                    "Follow Alejandra"
                 ],
                 "ORG": [
-                    "SHOW",
-                    "the Trevor Project"
+                    "Harvard"
                 ],
                 "LOC": [
                     "NYC"
                 ],
                 "GPE": [
-                    "VIRTUALLY"
+                    "VIRTUALLY",
+                    "TANGOTI.COM"
                 ],
                 "CARDINAL": [
                     "5/28"
+                ],
+                "PRODUCT": [
+                    "Subscribe"
                 ],
                 "WORK_OF_ART": [
                     "Queering The Law"
@@ -2760,14 +2834,14 @@
                 ],
                 "ORG": [
                     "TANGOTI",
-                    "efficient&nbsp",
                     "FBI",
                     "The Geena Davis Institute on Gender",
-                    "TANGOTI.COM/STORE</p"
+                    "TANGOTI.COM/STORE"
                 ],
                 "GPE": [
                     "Bridget",
-                    "Bridget"
+                    "Bridget",
+                    "n\u2019t"
                 ],
                 "PERSON": [
                     "Dana Scully",
@@ -2797,8 +2871,16 @@
             "pubDate": "Fri, 06 May 2022 11:00:00 +0000",
             "title": "When will Twitter listen to Black women? BEST OF TANGOTI",
             "entities": {
-                "WORK_OF_ART": [
-                    "Elon Musk potentially&nbsp;buying Twitter"
+                "PRODUCT": [
+                    "Elon Musk",
+                    "Twitter"
+                ],
+                "PERSON": [
+                    "Twitter"
+                ],
+                "ORG": [
+                    "TANGOTI.COM/STORE",
+                    "hello@tangoti.comSee"
                 ]
             }
         },
@@ -2829,8 +2911,10 @@
                 ],
                 "ORG": [
                     "Politico",
-                    "a Supreme Court",
-                    "FDA"
+                    "Supreme Court",
+                    "FDA",
+                    "TANGOTI.COM/STORE",
+                    "hello@tangoti.comSee"
                 ],
                 "LAW": [
                     "Roe v Wade"
@@ -2844,14 +2928,7 @@
                 "PERSON": [
                     "Bridget",
                     "Sam",
-                    "Anney",
-                    "ACCESS:&nbsp;<a"
-                ],
-                "NORP": [
-                    "https%3A%2F%2Ffront.moveon.org%2Fbans"
-                ],
-                "CARDINAL": [
-                    "tPb9sTvmbgVFA1USlLh5VGlWBKj9%2BqIwNGlY4zpstMM%3D&amp;reserved=0"
+                    "Anney"
                 ]
             }
         },
@@ -2878,15 +2955,23 @@
             "title": "Elon Musk is buying Twitter. Here\u2019s what it means for marginalized folks on",
             "entities": {
                 "PERSON": [
-                    "Michael"
+                    "Michael",
+                    "Elon Musk\u2019s",
+                    "\u0532\u0561\u0580\u0565\u0582 \u0541\u0565\u0566"
                 ],
-                "ORG": [
-                    "Elon",
-                    "TANGOTI.COM/STORE</p",
-                    "dag"
+                "PRODUCT": [
+                    "Twitter",
+                    "Learn"
                 ],
                 "MONEY": [
                     "44 billion dollar"
+                ],
+                "ORG": [
+                    "UltraViolet",
+                    "dag"
+                ],
+                "GPE": [
+                    "TANGOTI.COM"
                 ]
             }
         },
@@ -2912,32 +2997,36 @@
             "pubDate": "Wed, 20 Apr 2022 01:37:23 +0000",
             "title": "Anna Delvey scammed her out of thousands of dollars; are scammers like Anna being rewarded for their cons?",
             "entities": {
+                "GPE": [
+                    "Netflix",
+                    "Morocco"
+                ],
                 "NORP": [
                     "German"
                 ],
                 "PERSON": [
-                    "Anna Delvey&rsquo;s",
+                    "Anna Delvey\u2019s",
                     "Rachel Deloache Williams",
                     "Anna",
                     "Rachel",
-                    "Sorokin Almost Ruined"
+                    "Rachel",
+                    "\u0532\u0561\u0580\u0565\u0582 \u0541\u0565\u0566"
                 ],
                 "MONEY": [
                     "62,000"
                 ],
-                "EVENT": [
-                    "Inventing Anna"
+                "DATE": [
+                    "today"
                 ],
-                "ORG": [
-                    "Anna &lsquo;Delvey&rsquo",
-                    "TANGOTI.COM/STORE</p",
-                    "dag"
+                "EVENT": [
+                    "Inventing Anna and Hulu\u2019s The Dropout"
                 ],
                 "WORK_OF_ART": [
-                    "My Friend Anna"
+                    "My Friend Anna:"
                 ],
-                "GPE": [
-                    "href=\"https://www.simonandschuster.com"
+                "ORG": [
+                    "TANGOTI.COM/STORE\r\nSubscribe",
+                    "dag"
                 ]
             }
         },
@@ -2968,14 +3057,14 @@
                 ],
                 "ORG": [
                     "TikTok",
-                    "The Washington Post- &ldquo;She",
-                    "TikTok"
+                    "TikTok",
+                    "TANGOTI.COM/STORE"
                 ],
                 "WORK_OF_ART": [
                     "Dating DC"
                 ],
                 "GPE": [
-                    "jail:&rdquo"
+                    "Washington"
                 ]
             }
         },
@@ -3002,19 +3091,18 @@
             "title": "Meet the woman who went undercover to infiltrate white supremacists  (Live from Union Stage!)",
             "entities": {
                 "PERSON": [
-                    "Amanda Moore",
-                    "at&nbsp;<a href=\"mailto:hello@tangoti.com"
+                    "Amanda Moore"
                 ],
                 "GPE": [
                     "Washington DC's",
-                    "Amanda"
+                    "Amanda",
+                    "Amanda",
+                    "TANGOTI.COM"
                 ],
                 "ORG": [
                     "Union Stage",
-                    "Digital Void's Our Connected Future event.<br"
-                ],
-                "FAC": [
-                    "Digital Void:&nbsp;<a"
+                    "Digital Void's Our Connected Future event",
+                    "Digital Void"
                 ]
             }
         },
@@ -3042,6 +3130,7 @@
             "entities": {
                 "PERSON": [
                     "Alison Turkos",
+                    "Alison",
                     "My Letter",
                     "Follow Alison"
                 ],
@@ -3050,8 +3139,7 @@
                 ],
                 "ORG": [
                     "the New York Police Department",
-                    "href=\"https://twitter.com",
-                    "TANGOTI.COM/STORE</p"
+                    "TANGOTI.COM/STORE"
                 ]
             }
         },
@@ -3090,15 +3178,12 @@
             "pubDate": "Tue, 22 Mar 2022 21:24:33 +0000",
             "title": "Gender Pay Gap Bot calls out performative tweets on International Women's Day (and spreads a little social media chaos along the way)",
             "entities": {
-                "WORK_OF_ART": [
-                    "the Gender Pay Gap Bot"
-                ],
                 "PERSON": [
                     "Francessa Lawson",
-                    "at&nbsp;<a href=\"mailto:hello@tangoti.com"
+                    "TANGOTI.COM"
                 ],
-                "GPE": [
-                    "http%3A%2F%2Ftangoti.com%2FSTORE&amp;data=04%7C01%7Ctariharrison%40iheartmedia.com%7C3a0837eb7b884694863f08da0c479436%7C122a527e5b714eba878d9810b495b9e3%7C0%7C0%7C637835798837629448%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000&amp;sdata=5w6KFOu%2FItxrq5qkgaeMiRAZeB7R4K4h3vjNFThxt6w%3D&amp;reserved=0"
+                "ORG": [
+                    "https://twitter.com/PayGapApp"
                 ]
             }
         },
@@ -3165,15 +3250,15 @@
                 "PERSON": [
                     "Whitney Houston",
                     "Brooke Obie",
-                    "Read Brooke's",
+                    "Read\u00a0Deepfakes",
                     "Al Sharpton Boycott",
-                    "at&nbsp;<a href=\"mailto:hello@tangoti.com"
+                    "TANGOTI.COM"
                 ],
                 "GPE": [
-                    "Las Vegas.&nbsp"
+                    "Las Vegas"
                 ],
                 "WORK_OF_ART": [
-                    "The Zombification of Whitney"
+                    "The Zombification of Whitney Houston"
                 ]
             }
         },
@@ -3202,12 +3287,10 @@
                 "ORG": [
                     "TikTok",
                     "Marieke Kuypers",
-                    "F5kcYmwdU61CSKNizT7Co8gN9gl7rviQBKOUXnfLzzY%3D&amp;reserved=0\">https://twitter.com"
+                    "TANGOTI.COM/STORE"
                 ],
                 "GPE": [
                     "Ukraine",
-                    "russia",
-                    "russia",
                     "Ukraine"
                 ],
                 "PERSON": [
@@ -3222,6 +3305,9 @@
                 ],
                 "NORP": [
                     "Dutch"
+                ],
+                "PRODUCT": [
+                    "Subscribe"
                 ]
             }
         },
@@ -3257,13 +3343,13 @@
                     "Shafiqah Hudson",
                     "Twitter",
                     "Christopher",
-                    "ftI33GtLIUiUTT33jbW2ltG0WcfjPRqLMiJirEozxok%3D&amp;reserved=0\">TANGOTI.COM"
+                    "TANGOTI.COM"
                 ],
                 "ORG": [
                     "Bot Sentinel",
-                    "RBHohamPahClIkPRPLIhRWrdiEFvtWyXL8bWOHq7Tnk%3D&amp;reserved=0\">https://podcasts.apple.com/us/podcast",
                     "Meghan Markle",
-                    "WYZwb8CPKzKhwu0IllibhaR69VVS4cx%2FOCdhtcWkOtU%3D&amp;reserved=0\">https://www.buzzfeednews.com"
+                    "Black Women for Black Lives",
+                    "you!)Subscribe"
                 ],
                 "PRODUCT": [
                     "Twitter"
@@ -3301,18 +3387,21 @@
                 "GPE": [
                     "Labyrinths",
                     "Amanda",
+                    "Amanda",
                     "Labyrinths"
                 ],
                 "PERSON": [
                     "Amanda Knox",
                     "Chris",
+                    "https://amandamarieknox.medium.com/who-owns-my-name-93561f83e502Amanda",
                     "Chris",
-                    "http%3A%2F%2Ftangoti.com%2Fstore&amp;data=04%7C01%7Ctariharrison%40iheartmedia.com%7Ca1467eb6eb0b44bc6b2c08d9fb39da04%7C122a527e5b714eba878d9810b495b9e3%7C0%7C0%7C637817048211851676%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C0&amp;sdata=5WFXwk3JpFqR5MyNNji5haXTXRzizNmalETEe3dAZB0%3D&amp;reserved=0\">TANGOTI.COM"
+                    "TANGOTI.COM"
                 ],
                 "ORG": [
-                    "Amanda",
-                    "TANGOTI",
-                    "Hello@Tangoti.com</p><p"
+                    "TANGOTI"
+                ],
+                "PRODUCT": [
+                    "Learn"
                 ]
             }
         },
@@ -3339,7 +3428,10 @@
             "title": "There Are No Girls On The Internet is back for a brand new season!",
             "entities": {
                 "DATE": [
-                    "March"
+                    "March 1st"
+                ],
+                "PRODUCT": [
+                    "Learn"
                 ]
             }
         },
@@ -3371,21 +3463,27 @@
                 "ORG": [
                     "TANGOTI",
                     "Estella's Brilliant Bus",
+                    "TO ESTELLA\u2019S BRILLIANT BUS:",
                     "Estella",
-                    "Estella\u2019s Brilliant Bus",
-                    "jVsfa%2B5QX1sQSxv5bkI9Oc3%2FWcyTxAC4iNjV%2BSxjDmI%3D&amp;reserved=0\">https://www.youtube.com/watch?v"
+                    "Estella\u2019s Brilliant Bus"
                 ],
                 "PERSON": [
                     "Estella Pyfrom",
-                    "TO ESTELLA\u2019S BRILLIANT",
-                    "Estella"
+                    "Estella",
+                    "https://www.youtube.com/watch?v=gVNodM0F5gU"
                 ],
                 "DATE": [
                     "the age of 85",
                     "2015"
                 ],
+                "GPE": [
+                    "TANGOTI.COM"
+                ],
                 "EVENT": [
                     "Super Bowl"
+                ],
+                "PRODUCT": [
+                    "Learn"
                 ]
             }
         },
@@ -3421,10 +3519,15 @@
                     "Sex and The City"
                 ],
                 "ORG": [
+                    "Podcaster",
                     "TikToker"
                 ],
                 "PERSON": [
+                    "McNamara",
                     "Wanna"
+                ],
+                "PRODUCT": [
+                    "Learn"
                 ]
             }
         },
@@ -3460,6 +3563,9 @@
                 "DATE": [
                     "our new season",
                     "March 1st"
+                ],
+                "PRODUCT": [
+                    "Learn"
                 ]
             }
         },
@@ -3496,7 +3602,7 @@
                     "Bridget"
                 ],
                 "PERSON": [
-                    "http%3A%2F%2Ftangoti.com%2FSTORE&amp;data=04%7C01%7Ctariharrison%40iheartmedia.com%7Ce9a1f4e7d9b34bdeb45d08d9d0a0df9f%7C122a527e5b714eba878d9810b495b9e3%7C0%7C0%7C637770211626696914%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000&amp;sdata=62JrcpYErGKyJupIKzXGakZsOjC2UcNdl5%2FqVSS92fE%3D&amp;reserved=0\">TANGOTI.COM"
+                    "TANGOTI.COM"
                 ]
             }
         },
@@ -3523,15 +3629,17 @@
             "title": "TANGOTI CLASSIC: How The Matrix Explains a Trans Experience ",
             "entities": {
                 "ORG": [
-                    "Vox",
-                    "House of Tulip: https://www.gofundme.com/f/housing-for-tgnc-people-experiencing-homelessness</p><p><br></p><p>Read Emily\u2019s"
+                    "Vox"
                 ],
                 "DATE": [
                     "1999"
                 ],
                 "WORK_OF_ART": [
                     "The Matrix",
-                    "The Matrix: https://www.vox.com/culture/2019/3/30/18286436/the-matrix-wachowskis-trans-experience-redpill</p><p><br></p><p>Hello@Tangoti.com</p><p>"
+                    "The Matrix: https://www.vox.com/culture/2019/3/30/18286436/the-matrix-wachowskis-trans-experience-redpillHello@Tangoti.com  "
+                ],
+                "PRODUCT": [
+                    "Learn"
                 ]
             }
         },
@@ -3567,6 +3675,9 @@
                 "PERSON": [
                     "Melissa Ryan",
                     "Ctrl Alt"
+                ],
+                "PRODUCT": [
+                    "Learn"
                 ]
             }
         },
@@ -3636,6 +3747,9 @@
                 ],
                 "PERSON": [
                     "Kamala Harris'"
+                ],
+                "PRODUCT": [
+                    "Learn"
                 ]
             }
         },
@@ -3668,6 +3782,9 @@
                 ],
                 "CARDINAL": [
                     "one"
+                ],
+                "PRODUCT": [
+                    "Learn"
                 ]
             }
         },
@@ -3701,6 +3818,9 @@
                 ],
                 "PERSON": [
                     "SabrinaPrater625"
+                ],
+                "PRODUCT": [
+                    "Learn"
                 ]
             }
         },
@@ -3770,14 +3890,19 @@
                 "PERSON": [
                     "Abbie Richards",
                     "Abbie",
-                    "Follow Abbie"
+                    "Abbie"
                 ],
                 "ORG": [
                     "Media Matters"
                 ],
                 "EVENT": [
-                    "the Astroworld Festival",
-                    "Astroworld Festival"
+                    "the Astroworld Festival"
+                ],
+                "NORP": [
+                    "TikTok"
+                ],
+                "PRODUCT": [
+                    "Learn"
                 ]
             }
         },
@@ -3827,10 +3952,10 @@
                     "Jeff",
                     "Michael Amato",
                     "Therapy Den",
-                    "Jeff"
+                    "https://www.therapyden.com/Jeff"
                 ],
-                "EVENT": [
-                    "Astroworld Festival"
+                "PRODUCT": [
+                    "Learn"
                 ]
             }
         },
@@ -3861,14 +3986,13 @@
                     "Facebook",
                     "Kairos Campaign"
                 ],
-                "PERSON": [
-                    "Kairos",
-                    "Jelani Drew-Davi",
-                    "Sophie Zhang\u2019s"
-                ],
                 "DATE": [
                     "3 days",
                     "3 day"
+                ],
+                "PERSON": [
+                    "Jelani Drew-Davi",
+                    "Sophie Zhang\u2019s"
                 ]
             }
         },
@@ -3900,12 +4024,15 @@
                 ],
                 "ORG": [
                     "Netflix",
-                    "the Transgender Law Center",
-                    "eCF6T5tHUE47kTExx2Iec0DQS8v5R6Jq4vXMp09QCq4%3D&amp;reserved=0\">https://transgenderlawcenter.org"
+                    "the Washington Post",
+                    "the Trans Lifeline",
+                    "the Transgender Law Center"
                 ],
                 "GPE": [
-                    "Washington",
                     "netflix"
+                ],
+                "FAC": [
+                    "Learn"
                 ]
             }
         },
@@ -3932,6 +4059,7 @@
             "title": "How to be a whistleblower with Sophie Zhang ",
             "entities": {
                 "PERSON": [
+                    "Frances Haugen",
                     "Meet Sophie Zhang"
                 ],
                 "DATE": [
@@ -3972,6 +4100,9 @@
                 "PERSON": [
                     "Anney",
                     "Sam"
+                ],
+                "PRODUCT": [
+                    "Learn"
                 ]
             }
         },
@@ -4004,7 +4135,8 @@
                     "LulaRoe"
                 ],
                 "PRODUCT": [
-                    "LulaRich"
+                    "LulaRich",
+                    "Learn"
                 ],
                 "CARDINAL": [
                     "thousands"
@@ -4041,6 +4173,9 @@
                 ],
                 "ORG": [
                     "Bloodbathandbeyond"
+                ],
+                "PRODUCT": [
+                    "Learn"
                 ]
             }
         },
@@ -4111,17 +4246,18 @@
             "pubDate": "Thu, 16 Sep 2021 22:18:20 +0000",
             "title": "Nicki Minaj, WTF are you doing? ",
             "entities": {
-                "PERSON": [
-                    "Nicki Minaj",
-                    "Nicki Minaj",
-                    "Husband Sued",
-                    "COVID-19"
-                ],
                 "ORG": [
                     "COVID",
-                    "Harassing Sexual Assault Victim",
                     "Facts",
                     "CDC"
+                ],
+                "PERSON": [
+                    "Nicki Minaj",
+                    "Husband Sued",
+                    "COVID-19 Vaccinesfrom"
+                ],
+                "PRODUCT": [
+                    "Learn"
                 ]
             }
         },
@@ -4147,21 +4283,24 @@
             "pubDate": "Tue, 14 Sep 2021 00:13:24 +0000",
             "title": "Why we\u2019re all burnt out + Our first live show! ",
             "entities": {
-                "ORDINAL": [
-                    "first"
-                ],
-                "WORK_OF_ART": [
-                    "Unfinished Live on Sep 23 and 24th",
-                    "Can't Even: How Millennials Became the Burnout Generation"
-                ],
                 "ORG": [
+                    "BIG NEWS",
                     "Shed",
                     "TANGOTI",
                     "Amazon",
                     "LulaRoe",
                     "LulaRoe",
                     "MLM",
+                    "https://www.wired.com/story/how-work-became-an-inescapable-hellhole/How Millennials Became The Burnout Generation",
                     "Anne\u2019s Substack Culture Study"
+                ],
+                "ORDINAL": [
+                    "first"
+                ],
+                "WORK_OF_ART": [
+                    "Unfinished Live on Sep 23 and 24th",
+                    "Can't Even: How Millennials Became the Burnout Generation",
+                    ": https://www.amazon.com/Cant-Even-Millennials-Burnout-Generation/dp/0358315077How Work Became an Inescapable Hellhole :"
                 ],
                 "LOC": [
                     "NYC"
@@ -4175,11 +4314,13 @@
                 "PERSON": [
                     "Roberta Blevins",
                     "Anne Helen Peterson",
-                    "Get Anne's",
-                    "https://annehelen.substack.com/</p><p"
+                    "Get Anne's"
                 ],
                 "NORP": [
                     "\u2019s"
+                ],
+                "FAC": [
+                    "Learn"
                 ]
             }
         },
@@ -4211,6 +4352,9 @@
                 "ORG": [
                     "TX",
                     "The Anti-Abortion Movement Was Always Built on Lies"
+                ],
+                "PRODUCT": [
+                    "Learn"
                 ]
             }
         },
@@ -4275,8 +4419,8 @@
                 "PERSON": [
                     "Mike"
                 ],
-                "ORG": [
-                    "Hello@Tangoti.com</p><p"
+                "PRODUCT": [
+                    "Learn"
                 ]
             }
         },
@@ -4303,10 +4447,14 @@
             "title": "DISINFORMED: CBS erases Black women in a story about racial bias",
             "entities": {
                 "PERSON": [
+                    "Joy Buolamwini",
                     "Deb Raji"
                 ],
                 "ORG": [
                     "CBS"
+                ],
+                "PRODUCT": [
+                    "Learn"
                 ]
             }
         },
@@ -4334,10 +4482,12 @@
             "entities": {
                 "ORG": [
                     "Rabia Chaudry",
+                    "The Hidden Djinn",
+                    "Rabia",
                     "Rabia"
                 ],
-                "PERSON": [
-                    "Rabia"
+                "PRODUCT": [
+                    "Learn"
                 ]
             }
         },
@@ -4371,15 +4521,16 @@
                 ],
                 "ORG": [
                     "Mecca",
-                    "Goop"
+                    "Goop",
+                    "Mecca Life"
                 ],
                 "PERSON": [
                     "Gwyneth Paltrow",
                     "Gwyneth Paltrow\u2019s",
                     "Paltrow"
                 ],
-                "GPE": [
-                    "Mecca"
+                "PRODUCT": [
+                    "Learn"
                 ]
             }
         },
@@ -4424,6 +4575,10 @@
                 ],
                 "ORDINAL": [
                     "first"
+                ],
+                "PRODUCT": [
+                    "Epstein",
+                    "Learn"
                 ]
             }
         },
@@ -4501,7 +4656,10 @@
                     "Jessica AKA BloodBathAndBeyond",
                     "You\u2019re Wrong",
                     "Micheal Hobbes",
-                    "Follow Jessica"
+                    "Jessica"
+                ],
+                "PRODUCT": [
+                    "Learn"
                 ]
             }
         },
@@ -4533,6 +4691,9 @@
                 "PERSON": [
                     "Kamala Harris",
                     "Superheros"
+                ],
+                "PRODUCT": [
+                    "Learn"
                 ]
             }
         },
@@ -4567,6 +4728,9 @@
                     "Michael Hobbes",
                     "Sarah Marshall",
                     "Michael"
+                ],
+                "PRODUCT": [
+                    "Learn"
                 ]
             }
         },
@@ -4595,8 +4759,8 @@
                 "PERSON": [
                     "Gunter"
                 ],
-                "ORG": [
-                    "Ifeoma Ozoma\u2019s"
+                "PRODUCT": [
+                    "Learn"
                 ]
             }
         },
@@ -4636,8 +4800,8 @@
                 "ORG": [
                     "Truth"
                 ],
-                "GPE": [
-                    "Us"
+                "PRODUCT": [
+                    "Learn"
                 ]
             }
         },
@@ -4673,6 +4837,9 @@
                 "ORG": [
                     "Trump",
                     "Nandini's Medium"
+                ],
+                "PRODUCT": [
+                    "Learn"
                 ]
             }
         },
@@ -4716,7 +4883,8 @@
                     "ENOUGH"
                 ],
                 "FAC": [
-                    "Capitol"
+                    "Capitol",
+                    "Learn"
                 ],
                 "CARDINAL": [
                     "55165"
@@ -4755,6 +4923,9 @@
                 ],
                 "GPE": [
                     "n\u2019t"
+                ],
+                "PRODUCT": [
+                    "Learn"
                 ]
             }
         },
@@ -4785,6 +4956,9 @@
                 ],
                 "WORK_OF_ART": [
                     "The Mob Came For Me"
+                ],
+                "PRODUCT": [
+                    "Learn"
                 ]
             }
         },
@@ -4811,6 +4985,7 @@
             "title": "Why everyone is mad at Jimmy Fallon and Addison Rae",
             "entities": {
                 "ORG": [
+                    "TikTok",
                     "Addison Rae\u2019s"
                 ],
                 "WORK_OF_ART": [
@@ -4845,7 +5020,6 @@
                 "GPE": [
                     "Georgia",
                     "Anoa",
-                    "Anoa",
                     "Georgia"
                 ],
                 "DATE": [
@@ -4854,13 +5028,12 @@
                 "PERSON": [
                     "Anoa Changa",
                     "Georgians",
+                    "Follow Anoa",
                     "TANGOTI.COM"
                 ],
-                "LOC": [
-                    "Follow Anoa"
-                ],
                 "PRODUCT": [
-                    "Twitter"
+                    "Twitter",
+                    "Learn"
                 ],
                 "ORG": [
                     "Failsafe",
@@ -4913,6 +5086,9 @@
                 ],
                 "NORP": [
                     "\u2019s"
+                ],
+                "PRODUCT": [
+                    "Learn"
                 ]
             }
         },
@@ -4938,13 +5114,15 @@
             "pubDate": "Tue, 23 Mar 2021 21:51:18 +0000",
             "title": "DISINFORMED: Understanding Section 230 with Evan Greer ",
             "entities": {
+                "NORP": [
+                    "Musician"
+                ],
                 "PERSON": [
                     "Evan Greer",
                     "Follow Evan",
                     "Evan",
                     "Spotify",
                     "Carrie Goldberg",
-                    "https://podcasts.apple.com/us/podcast/there-are-no-girls-on-the-internet/id1520715907?i=1000489091000</p><p><br></p><p>VOTE",
                     "TANGOTI.COM"
                 ],
                 "LAW": [
@@ -4954,11 +5132,11 @@
                     "Surveillance",
                     "TANGOTI"
                 ],
-                "CARDINAL": [
-                    "https://evangreer.bandcamp.com/album/spotify-is-surveillance</p><p>Learn"
-                ],
                 "GPE": [
                     "US"
+                ],
+                "PRODUCT": [
+                    "Learn"
                 ]
             }
         },
@@ -4987,6 +5165,9 @@
                 "PERSON": [
                     "Bridget Todd",
                     "Susan Kare"
+                ],
+                "PRODUCT": [
+                    "Learn"
                 ]
             }
         },
@@ -5012,9 +5193,16 @@
             "pubDate": "Tue, 16 Mar 2021 16:53:13 +0000",
             "title": "DISINFORMED: The Future of the Internet with Sydette Harry ",
             "entities": {
+                "NORP": [
+                    "Archivist"
+                ],
                 "PERSON": [
                     "Sydette Harry",
+                    "Sydette\u2019s Wired",
                     "Sydette"
+                ],
+                "PRODUCT": [
+                    "Learn"
                 ]
             }
         },
@@ -5048,16 +5236,15 @@
                     "TANGOTI.COM"
                 ],
                 "ORG": [
-                    "Estella\u2019s Brilliant Bus.</p><p><br></p><p",
-                    "Estella",
                     "Estella\u2019s Brilliant Bus",
-                    "Estella\u2019s Super Bowl"
+                    "Estella",
+                    "Estella\u2019s Brilliant Bus:"
+                ],
+                "EVENT": [
+                    "Super Bowl"
                 ],
                 "PRODUCT": [
                     "Learn"
-                ],
-                "CARDINAL": [
-                    "http://estellasbrilliantbus.org/</p><p><br></p><p>Watch"
                 ]
             }
         },
@@ -5091,6 +5278,15 @@
                     "Oprah",
                     "Prince Harry",
                     "Meghan"
+                ],
+                "NORP": [
+                    "Black"
+                ],
+                "DATE": [
+                    "years"
+                ],
+                "PRODUCT": [
+                    "Learn"
                 ]
             }
         },
@@ -5131,6 +5327,9 @@
                 "NORP": [
                     "Mexican",
                     "American"
+                ],
+                "PRODUCT": [
+                    "Learn"
                 ]
             }
         },
@@ -5158,16 +5357,21 @@
             "pubDate": "Wed, 03 Mar 2021 00:13:30 +0000",
             "title": "DISINFORMED: Meet the activist using data science to fights Nazis",
             "entities": {
+                "NORP": [
+                    "Activist",
+                    "Nazis"
+                ],
                 "PERSON": [
                     "Emily Gorcenski",
                     "Follow Emily",
-                    "Twitter"
-                ],
-                "NORP": [
-                    "Nazis"
+                    "Twitter",
+                    "Vigil"
                 ],
                 "ORG": [
                     "Apple Podcasts"
+                ],
+                "PRODUCT": [
+                    "Learn"
                 ]
             }
         },
@@ -5204,6 +5408,9 @@
                 ],
                 "NORP": [
                     "Nazis"
+                ],
+                "PRODUCT": [
+                    "Learn"
                 ]
             }
         },
@@ -5232,15 +5439,18 @@
             "pubDate": "Wed, 24 Feb 2021 00:38:53 +0000",
             "title": "DISINFORMED: Immigrant communities are facing a flood of disinformation",
             "entities": {
-                "ORG": [
-                    "United We Dream",
-                    "United We Dream:</p><p><br></p><p><strong"
-                ],
                 "PERSON": [
+                    "Meghna Mahadevan",
                     "Clubhouse"
+                ],
+                "ORG": [
+                    "United We Dream"
                 ],
                 "DATE": [
                     "Friday, Feb 26th"
+                ],
+                "PRODUCT": [
+                    "Learn"
                 ]
             }
         },
@@ -5270,7 +5480,7 @@
                 "GPE": [
                     "Australia",
                     "OrganiseUs",
-                    "OrganiseUs",
+                    "Australia",
                     "Tabatha",
                     "Melbourne",
                     "Australia",
@@ -5282,10 +5492,17 @@
                 "PERSON": [
                     "Tabatha Fulker",
                     "Follow Tabatha",
-                    "Twitter"
+                    "Twitter",
+                    "OrganiseUs"
+                ],
+                "CARDINAL": [
+                    "https://twitter.com/tabfulLearn"
                 ],
                 "NORP": [
                     "Australian"
+                ],
+                "PRODUCT": [
+                    "Learn"
                 ]
             }
         },
@@ -5316,15 +5533,17 @@
                 "ORG": [
                     "Ifeoma Ozoma",
                     "TANGOTI",
-                    "Pinterest"
+                    "Pinterest",
+                    "Bridget on Instagram"
                 ],
                 "PERSON": [
-                    "Follow Ifeoma",
-                    "Follow Bridget",
-                    "Twitter"
+                    "Follow Ifeoma"
                 ],
                 "GPE": [
                     "Ifeoma"
+                ],
+                "FAC": [
+                    "Learn"
                 ]
             }
         },
@@ -5368,9 +5587,6 @@
                 ],
                 "ORG": [
                     "The National Suicide Prevention Lifeline"
-                ],
-                "CARDINAL": [
-                    "24/7:</p><p"
                 ]
             }
         },
@@ -5403,7 +5619,8 @@
                 ],
                 "ORG": [
                     "Trump",
-                    "Pen America\u2019s"
+                    "Pen America\u2019s",
+                    "Pen\u2019s"
                 ],
                 "ORDINAL": [
                     "second"
@@ -5411,6 +5628,9 @@
                 "PERSON": [
                     "Nora Benavidez",
                     "Follow Nora"
+                ],
+                "PRODUCT": [
+                    "Learn"
                 ]
             }
         },
@@ -5449,6 +5669,9 @@
                 "PERSON": [
                     "Leslie Mac",
                     "https://twitter.com/LeslieMacWatch AOC's"
+                ],
+                "PRODUCT": [
+                    "Learn"
                 ]
             }
         },
@@ -5481,15 +5704,12 @@
                     "Rothschild",
                     "Abbie Richards",
                     "Abbie",
-                    "JacobsQuest",
                     "Follow Abbie",
-                    "Wanna"
+                    "Wanna",
+                    "Learn"
                 ],
                 "GPE": [
                     "California"
-                ],
-                "ORG": [
-                    "MWHOvtIdDyoisXkqHktFF465NwavMrGpcBI8kzxqUZo%3D&amp;reserved=0\">https://twitter.com"
                 ]
             }
         },
@@ -5530,7 +5750,8 @@
                     "first"
                 ],
                 "PRODUCT": [
-                    "Twitter"
+                    "Twitter",
+                    "Learn"
                 ]
             }
         },
@@ -5562,11 +5783,14 @@
                     "years"
                 ],
                 "PERSON": [
-                    "Shireen Mitchell"
+                    "Shireen Mitchell",
+                    "Follow Shireen"
                 ],
                 "ORG": [
-                    "Stop Online Violence Against Women",
-                    "href=\"%20https://twitter.com/digitalsista?ref_src"
+                    "Stop Online Violence Against Women"
+                ],
+                "PRODUCT": [
+                    "Learn"
                 ]
             }
         },
@@ -5604,6 +5828,9 @@
                 ],
                 "WORK_OF_ART": [
                     "Ctrl\u00a0Alt-Right Delete"
+                ],
+                "PRODUCT": [
+                    "Learn"
                 ]
             }
         },
@@ -5641,6 +5868,9 @@
                 ],
                 "GPE": [
                     "Spotify"
+                ],
+                "PRODUCT": [
+                    "Learn"
                 ]
             }
         },
@@ -5701,6 +5931,9 @@
             "entities": {
                 "PERSON": [
                     "Jocelyn Robinson"
+                ],
+                "PRODUCT": [
+                    "Learn"
                 ]
             }
         },
@@ -5739,6 +5972,9 @@
                 "ORG": [
                     "Lynika",
                     "TANGOTI"
+                ],
+                "PRODUCT": [
+                    "Learn"
                 ]
             }
         },
@@ -5771,11 +6007,16 @@
                 "PERSON": [
                     "Jacqueline Keeler",
                     "Jacqueline",
-                    "https://www.pollennationmagazine.com/</p><p><br></p><p><br></p><p>Follow Jacqueline",
-                    "Twitter"
+                    "https://www.pollennationmagazine.com/Follow Jacqueline"
+                ],
+                "MONEY": [
+                    "#NotYourMascot movement"
                 ],
                 "ORG": [
                     "Pollen Nation's Facebook"
+                ],
+                "PRODUCT": [
+                    "Learn"
                 ]
             }
         },
@@ -5806,6 +6047,9 @@
                     "Elizabeth Johnson",
                     "Johnson",
                     "Johnson"
+                ],
+                "PRODUCT": [
+                    "Learn"
                 ]
             }
         },
@@ -5834,6 +6078,10 @@
                 "ORG": [
                     "Netflix",
                     "The Netflix Movie \"Cuties\" Has Become The Latest Target Of"
+                ],
+                "PRODUCT": [
+                    "Cuties",
+                    "Learn"
                 ],
                 "CARDINAL": [
                     "#"
@@ -5865,15 +6113,19 @@
             "entities": {
                 "PERSON": [
                     "Anne Helen Peterson",
-                    "Get Anne's",
-                    "https://annehelen.substack.com/</p><p"
+                    "Get Anne's"
                 ],
                 "WORK_OF_ART": [
-                    "Can't Even: How Millennials Became the Burnout Generation"
+                    "Can't Even: How Millennials Became the Burnout Generation",
+                    ": https://www.amazon.com/Cant-Even-Millennials-Burnout-Generation/dp/0358315077How Work Became an Inescapable Hellhole :"
                 ],
                 "ORG": [
                     "Substack's Culture Study",
+                    "https://www.wired.com/story/how-work-became-an-inescapable-hellhole/How Millennials Became The Burnout Generation",
                     "Anne\u2019s Substack Culture Study"
+                ],
+                "FAC": [
+                    "Learn"
                 ]
             }
         },
@@ -5903,6 +6155,9 @@
                 "ORG": [
                     "the Color of Change",
                     "Zola"
+                ],
+                "PRODUCT": [
+                    "Learn"
                 ]
             }
         },
@@ -5938,6 +6193,9 @@
                 "ORG": [
                     "Trump",
                     "Nandini's Medium"
+                ],
+                "PRODUCT": [
+                    "Learn"
                 ]
             }
         },
@@ -5969,6 +6227,9 @@
                     "Shaviro",
                     "Elliott",
                     "Richie Tenenbaum"
+                ],
+                "WORK_OF_ART": [
+                    "Supa Dupa Fly: Black Women"
                 ],
                 "FAC": [
                     "Hiphop Videos"
@@ -6009,6 +6270,9 @@
                 ],
                 "PRODUCT": [
                     "TechCrunch"
+                ],
+                "ORG": [
+                    "Hello@Tangoti.com"
                 ]
             }
         },
@@ -6050,6 +6314,12 @@
                 ],
                 "NORP": [
                     "Bridget"
+                ],
+                "GPE": [
+                    "https://gen.medium.com/aaron-colemans-ex-girlfriend-says-his-misogynist-abuse-didn-t-stop-in-middle-school-1c82a836a5d8"
+                ],
+                "PRODUCT": [
+                    "Learn"
                 ]
             }
         },
@@ -6081,6 +6351,9 @@
                 ],
                 "CARDINAL": [
                     "Only one"
+                ],
+                "PRODUCT": [
+                    "Learn"
                 ]
             }
         },
@@ -6113,6 +6386,9 @@
                 "ORG": [
                     "Islamicized Star Trek",
                     "Star Trek"
+                ],
+                "PRODUCT": [
+                    "Learn"
                 ]
             }
         },
@@ -6146,6 +6422,9 @@
                 ],
                 "PERSON": [
                     "Bridget Todd"
+                ],
+                "PRODUCT": [
+                    "Learn"
                 ]
             }
         },
@@ -6174,6 +6453,9 @@
             "entities": {
                 "PERSON": [
                     "Vanessa Guill\u00e9n's"
+                ],
+                "PRODUCT": [
+                    "Learn"
                 ]
             }
         },
@@ -6201,14 +6483,18 @@
             "title": "How The Matrix Explains a Trans Experience ",
             "entities": {
                 "ORG": [
-                    "Vox"
+                    "Vox",
+                    "House of Tulip"
                 ],
                 "DATE": [
                     "1999"
                 ],
                 "WORK_OF_ART": [
                     "The Matrix",
-                    "The Matrix: https://www.vox.com/culture/2019/3/30/18286436/the-matrix-wachowskis-trans-experience-redpill</strong></p><p><br></p><p><strong>Hello@Tangoti.com</strong></p><p>"
+                    "The Matrix: https://www.vox.com/culture/2019/3/30/18286436/the-matrix-wachowskis-trans-experience-redpillHello@Tangoti.com  "
+                ],
+                "PRODUCT": [
+                    "Learn"
                 ]
             }
         },
@@ -6244,6 +6530,9 @@
                 "GPE": [
                     "Talia",
                     "Talia"
+                ],
+                "PRODUCT": [
+                    "Learn"
                 ]
             }
         },
@@ -6269,14 +6558,15 @@
             "pubDate": "Tue, 21 Jul 2020 08:30:00 +0000",
             "title": "#DisabledandCute ",
             "entities": {
+                "PERSON": [
+                    "Keah Brown",
+                    "Hello@Tangoti.comTANGOTI.COM"
+                ],
                 "MONEY": [
                     "#DisabledAndCute"
                 ],
-                "ORG": [
-                    "Hello@Tangoti.com</p><p"
-                ],
-                "PERSON": [
-                    "TANGOTI.COM"
+                "PRODUCT": [
+                    "Learn"
                 ]
             }
         },
@@ -6303,11 +6593,14 @@
             "title": "Tune Into: Disabled and Cute",
             "entities": {
                 "PERSON": [
-                    "Keah Brown",
-                    "DisabledAndCute</p><p"
+                    "Join Bridget",
+                    "Keah Brown"
                 ],
                 "DATE": [
                     "Tuesday"
+                ],
+                "PRODUCT": [
+                    "Learn"
                 ]
             }
         },
@@ -6339,7 +6632,8 @@
                 ],
                 "PRODUCT": [
                     "Twitter",
-                    "Twitter"
+                    "Twitter",
+                    "Learn"
                 ],
                 "CARDINAL": [
                     "#"
@@ -6373,6 +6667,10 @@
                 ],
                 "PERSON": [
                     "Shafiqah Hudson"
+                ],
+                "PRODUCT": [
+                    "Twitter",
+                    "Learn"
                 ],
                 "DATE": [
                     "Tuesday"
@@ -6414,6 +6712,9 @@
                 ],
                 "LOC": [
                     "Mars"
+                ],
+                "PRODUCT": [
+                    "Learn"
                 ]
             }
         },
@@ -6452,6 +6753,9 @@
                 ],
                 "NORP": [
                     "Kenyan"
+                ],
+                "PRODUCT": [
+                    "Learn"
                 ]
             }
         },
@@ -6488,6 +6792,9 @@
                 "GPE": [
                     "Yacht",
                     "Broadband"
+                ],
+                "PRODUCT": [
+                    "Learn"
                 ]
             }
         },
@@ -6512,7 +6819,11 @@
             "link": "https://omny.fm/shows/there-are-no-girls-on-the-internet/introducing-there-are-no-girls-on-the-internet",
             "pubDate": "Fri, 26 Jun 2020 18:16:00 +0000",
             "title": "Introducing: There Are No Girls on the Internet",
-            "entities": {}
+            "entities": {
+                "PRODUCT": [
+                    "Learn"
+                ]
+            }
         }
     ],
     "itunes": {

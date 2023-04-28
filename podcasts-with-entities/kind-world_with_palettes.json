@@ -41,6 +41,9 @@
                 "ORDINAL": [
                     "first"
                 ],
+                "ORG": [
+                    "WBUR"
+                ],
                 "CARDINAL": [
                     "two"
                 ],
@@ -51,7 +54,7 @@
                     "Violation"
                 ],
                 "DATE": [
-                    "March 22.</p"
+                    "March 22"
                 ]
             }
         },
@@ -202,7 +205,7 @@
                     "Selena"
                 ],
                 "PERSON": [
-                    "Futuro Studios.</p",
+                    "Futuro Studios",
                     "Maria Garcia",
                     "Maria Garcia",
                     "Maria"
@@ -249,12 +252,12 @@
             "entities": {
                 "WORK_OF_ART": [
                     "Anything For Selena",
+                    "About The Show",
                     "Anything For Selena"
                 ],
                 "ORG": [
                     "WBUR",
                     "Selena",
-                    "United",
                     "Selena"
                 ],
                 "PERSON": [
@@ -275,7 +278,8 @@
                 "GPE": [
                     "Mexico",
                     "States",
-                    "Grammy"
+                    "Grammy",
+                    "the United States"
                 ],
                 "NORP": [
                     "American",
@@ -326,6 +330,10 @@
                 ],
                 "DATE": [
                     "today"
+                ],
+                "WORK_OF_ART": [
+                    "About The Show",
+                    "Port Of Entry"
                 ],
                 "CARDINAL": [
                     "two"
@@ -877,7 +885,7 @@
             "pubDate": "Mon, 08 Jun 2020 16:48:53 -0400",
             "title": "Walk With Shawn",
             "entities": {
-                "PERSON": [
+                "ORG": [
                     "Shawn Dromgoole"
                 ],
                 "DATE": [
@@ -1178,8 +1186,8 @@
                 "ORDINAL": [
                     "3rd"
                 ],
-                "CARDINAL": [
-                    "about #"
+                "MONEY": [
+                    "about #COVIDKindness"
                 ]
             }
         },
@@ -1289,8 +1297,8 @@
                 "GPE": [
                     "California"
                 ],
-                "ORG": [
-                    "Kind World"
+                "WORK_OF_ART": [
+                    "Kind World: www.wbur.org/supportkindworld"
                 ]
             }
         },
@@ -1376,7 +1384,8 @@
                     "1-800-273"
                 ],
                 "DATE": [
-                    "8255"
+                    "8255",
+                    "741741"
                 ]
             }
         },
@@ -1443,7 +1452,11 @@
             "link": "https://www.wbur.org/kindworld/2020/04/14/dinner-carla-heather",
             "pubDate": "Mon, 13 Apr 2020 17:01:18 -0400",
             "title": "A Shining Light",
-            "entities": {}
+            "entities": {
+                "NORP": [
+                    "COVIDKindness"
+                ]
+            }
         },
         {
             "content": "",
@@ -1741,7 +1754,7 @@
             "title": "A Moment Of Kindness From Mallory",
             "entities": {
                 "PERSON": [
-                    "Van Fossen"
+                    "Listener Mallory Van Fossen"
                 ]
             }
         },
@@ -1821,7 +1834,7 @@
                 ],
                 "DATE": [
                     "every day",
-                    "March 10.</p"
+                    "March 10"
                 ]
             }
         },
@@ -2239,6 +2252,9 @@
                 "NORP": [
                     "Jewish",
                     "Czech"
+                ],
+                "EVENT": [
+                    "Holocaust"
                 ]
             }
         },
@@ -2575,6 +2591,9 @@
             "entities": {
                 "WORK_OF_ART": [
                     "Lifelines"
+                ],
+                "FAC": [
+                    "The Southern Border"
                 ]
             }
         },
@@ -2712,7 +2731,7 @@
             "title": "BONUS: One Kid's Extraordinary Summer",
             "entities": {
                 "DATE": [
-                    "year-old"
+                    "11-year-old"
                 ],
                 "ORG": [
                     "Ruby"
@@ -3149,7 +3168,9 @@
                 ],
                 "PERSON": [
                     "Jonathan Mande",
-                    "Jorge Perez-Albela",
+                    "Jorge Perez-Albela"
+                ],
+                "ORG": [
                     "WBUR"
                 ]
             }
@@ -3404,7 +3425,7 @@
                 "PERSON": [
                     "Shirley Wang",
                     "Lin Wang",
-                    "Charles Barkley.</p"
+                    "Charles Barkley"
                 ],
                 "ORG": [
                     "NBA Hall-of-Famer"
@@ -3822,7 +3843,8 @@
             "entities": {
                 "PERSON": [
                     "Julie Lindahl",
-                    "Rachael Cerrotti"
+                    "Rachael Cerrotti",
+                    "Rachael"
                 ],
                 "CARDINAL": [
                     "two"
@@ -4084,7 +4106,7 @@
             "title": "Open Road",
             "entities": {
                 "DATE": [
-                    "p>10-year-old"
+                    "10-year-old"
                 ],
                 "PERSON": [
                     "Phil"
@@ -4509,7 +4531,7 @@
             "pubDate": "Tue, 06 Dec 2016 04:55:07 -0500",
             "title": "Bonding In A Checkout Line",
             "entities": {
-                "WORK_OF_ART": [
+                "PERSON": [
                     "Suzie Skougard"
                 ]
             }
@@ -5127,7 +5149,10 @@
             "title": "Sister Sue, The Nun At The County Jail",
             "entities": {
                 "PERSON": [
-                    "Sue Kintzele's"
+                    "Sister Sue Kintzele's"
+                ],
+                "ORG": [
+                    "Sister Sue"
                 ]
             }
         },
@@ -5175,8 +5200,9 @@
                 "CARDINAL": [
                     "dozens"
                 ],
-                "FAC": [
-                    "Trout Lake"
+                "GPE": [
+                    "Trout Lake",
+                    "Washington"
                 ]
             }
         },
@@ -5369,9 +5395,6 @@
             "pubDate": "Wed, 19 Nov 2014 23:27:29 -0500",
             "title": "'A Second Mother To Me'",
             "entities": {
-                "DATE": [
-                    "Every year"
-                ],
                 "ORG": [
                     "De Smet Jesuit High School"
                 ],
@@ -5497,7 +5520,7 @@
             "title": "An Ordinary, Beautiful Life",
             "entities": {
                 "PERSON": [
-                    "Shelagh Gordon",
+                    "Gordon",
                     "Catherine Porter"
                 ],
                 "DATE": [
@@ -5623,13 +5646,14 @@
             "pubDate": "Wed, 11 Dec 2013 01:14:28 -0500",
             "title": "Remembering Karim",
             "entities": {
-                "DATE": [
-                    "25 years"
-                ],
                 "GPE": [
+                    "Karim Alagha",
                     "Cambridge",
                     "Karim",
                     "Karim"
+                ],
+                "DATE": [
+                    "25 years"
                 ]
             }
         },

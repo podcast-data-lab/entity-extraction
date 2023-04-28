@@ -40,6 +40,9 @@
                 ],
                 "FAC": [
                     "Planet Money"
+                ],
+                "ORG": [
+                    "Cover"
                 ]
             }
         },
@@ -69,6 +72,10 @@
             "entities": {
                 "PERSON": [
                     "Alexis Rivas"
+                ],
+                "ORG": [
+                    "Cover",
+                    "Cover"
                 ],
                 "NORP": [
                     "Tesla"
@@ -128,11 +135,16 @@
             "pubDate": "Thu, 23 Mar 2023 04:00:00 +0000",
             "title": "Tiny Chips, Giant Stakes",
             "entities": {
+                "ORG": [
+                    "Microchips",
+                    "Tufts University"
+                ],
                 "GPE": [
                     "Taiwan",
                     "China",
                     "U.S.",
-                    "China"
+                    "China",
+                    "US"
                 ],
                 "MONEY": [
                     "tens of billions of dollars"
@@ -140,9 +152,6 @@
                 "PERSON": [
                     "Chris Miller",
                     "Jacob"
-                ],
-                "ORG": [
-                    "Tufts University"
                 ],
                 "EVENT": [
                     "Chip War: The Fight"
@@ -270,13 +279,11 @@
                     "Lidar"
                 ],
                 "CARDINAL": [
-                    "one"
+                    "one",
+                    "millions"
                 ],
                 "GPE": [
                     "Luminar"
-                ],
-                "MONEY": [
-                    "millions of cars?</p><p"
                 ]
             }
         },
@@ -306,6 +313,7 @@
             "entities": {
                 "PERSON": [
                     "Chace Barber",
+                    "Chace",
                     "Chace",
                     "Pushkin"
                 ],
@@ -345,7 +353,6 @@
             "entities": {
                 "PERSON": [
                     "Pushkin",
-                    "Other People's",
                     "Maya Lau",
                     "Maya",
                     "Mistress Marley"
@@ -446,6 +453,9 @@
                 ],
                 "WORK_OF_ART": [
                     "Smart Talks"
+                ],
+                "GPE": [
+                    "IBM.See"
                 ]
             }
         },
@@ -646,14 +656,15 @@
             "pubDate": "Thu, 12 Jan 2023 05:05:00 +0000",
             "title": "Turning Waves Into Electricity",
             "entities": {
-                "ORG": [
-                    "Oscilla Power",
-                    "Oahu"
-                ],
                 "PERSON": [
+                    "Tim Mundon",
                     "Tim",
                     "Tim Mundon",
                     "Pushkin"
+                ],
+                "ORG": [
+                    "Oscilla Power",
+                    "Oahu"
                 ],
                 "DATE": [
                     "more than a decade"
@@ -685,7 +696,8 @@
             "title": "From Some of My Best Friends Are: Everything Dope Comes from Chicago",
             "entities": {
                 "DATE": [
-                    "the new year"
+                    "the new year",
+                    "today"
                 ],
                 "PERSON": [
                     "Pushkin",
@@ -709,8 +721,7 @@
                 ],
                 "ORG": [
                     "Khalil",
-                    "TikTok",
-                    "AOvVaw3zGxSA6DpDJ--3O2cfcboL\">https://link.chtbl.com"
+                    "TikTok"
                 ]
             }
         },
@@ -738,15 +749,17 @@
             "pubDate": "Thu, 15 Dec 2022 05:05:00 +0000",
             "title": "Flying on Battery Power",
             "entities": {
+                "PERSON": [
+                    "Forslund",
+                    "Pushkin"
+                ],
                 "ORG": [
                     "Heart Aerospace",
                     "Anders"
                 ],
                 "DATE": [
-                    "2050"
-                ],
-                "PERSON": [
-                    "Pushkin"
+                    "2050",
+                    "years"
                 ]
             }
         },
@@ -774,8 +787,11 @@
             "pubDate": "Thu, 08 Dec 2022 05:05:00 +0000",
             "title": "Bringing Back the American Hoodie",
             "entities": {
+                "PERSON": [
+                    "Bayard\u00a0Winthrop",
+                    "Pushkin"
+                ],
                 "ORG": [
-                    "Winthrop",
                     "American Giant"
                 ],
                 "GPE": [
@@ -791,9 +807,6 @@
                 ],
                 "MONEY": [
                     "138"
-                ],
-                "PERSON": [
-                    "Pushkin"
                 ]
             }
         },
@@ -869,13 +882,14 @@
                 ],
                 "ORG": [
                     "Medium",
-                    "Rushkoff",
-                    "https://www.pushkin.fm",
-                    "AOvVaw1plp180vkz5DN1LcxENbzj\">https://www.pushkin.fm"
+                    "Rushkoff"
                 ],
                 "WORK_OF_ART": [
                     "Survival of the Richest",
                     "Story of the Week"
+                ],
+                "GPE": [
+                    "https://onezero.medium.com/survival-of-the-richest-9ef6cddd0cc1"
                 ]
             }
         },
@@ -943,7 +957,8 @@
                 "DATE": [
                     "May of this year",
                     "Last week",
-                    "a few days"
+                    "a few days",
+                    "earlier this year"
                 ],
                 "PERSON": [
                     "Sam Bankman-Fried",
@@ -981,7 +996,8 @@
             "title": "Machiavelli's Tips for Getting Ahead at Work",
             "entities": {
                 "PERSON": [
-                    "Vanek Smith",
+                    "Stacey Vanek Smith",
+                    "Stacey",
                     "Pushkin"
                 ],
                 "WORK_OF_ART": [
@@ -1093,8 +1109,12 @@
                 "PERSON": [
                     "Chris Best",
                     "Chris",
+                    "Substack",
                     "Chris",
                     "Pushkin"
+                ],
+                "ORG": [
+                    "Substack"
                 ],
                 "CARDINAL": [
                     "a thousand"
@@ -1125,18 +1145,18 @@
             "pubDate": "Thu, 13 Oct 2022 04:05:00 +0000",
             "title": "Shopify: The Business That Helps Build Businesses",
             "entities": {
-                "PERSON": [
+                "ORG": [
                     "Harley Finkelstein",
-                    "Pushkin"
+                    "Harley"
                 ],
                 "GPE": [
                     "Shopify"
                 ],
-                "ORG": [
-                    "Harley"
-                ],
                 "CARDINAL": [
                     "millions"
+                ],
+                "PERSON": [
+                    "Pushkin"
                 ]
             }
         },
@@ -1169,6 +1189,7 @@
                     "billions of tons"
                 ],
                 "PERSON": [
+                    "Shaun",
                     "Pushkin"
                 ]
             }
@@ -1199,6 +1220,7 @@
             "entities": {
                 "PERSON": [
                     "Al Doan",
+                    "Al",
                     "Al",
                     "Jenny Doan",
                     "Pushkin"
@@ -1248,6 +1270,9 @@
                     "Chris Severn",
                     "Chris",
                     "Pushkin"
+                ],
+                "ORG": [
+                    "Turquoise Health"
                 ],
                 "DATE": [
                     "decades",
@@ -1333,7 +1358,7 @@
                     "more than 40%"
                 ],
                 "NORP": [
-                    "Automattic.</p"
+                    "Automattic"
                 ],
                 "MONEY": [
                     "multibillion-dollar"
@@ -1373,6 +1398,9 @@
                 ],
                 "CARDINAL": [
                     "billions"
+                ],
+                "DATE": [
+                    "a year"
                 ]
             }
         },
@@ -1406,6 +1434,9 @@
                 "PERSON": [
                     "Dallas Campbell",
                     "Katrine Mar\u00e7al"
+                ],
+                "FAC": [
+                    "History Hit"
                 ]
             }
         },
@@ -1435,13 +1466,13 @@
             "entities": {
                 "PERSON": [
                     "Rajiv Maheswaran",
+                    "Rajiv",
                     "Pushkin"
                 ],
                 "ORG": [
                     "Second Spectrum",
                     "NBA",
-                    "Major League",
-                    "Rajiv"
+                    "Major League Soccer"
                 ],
                 "DATE": [
                     "Today"
@@ -1481,7 +1512,7 @@
                 ],
                 "ORG": [
                     "JetBlue",
-                    "Breeze.</p"
+                    "Breeze"
                 ],
                 "DATE": [
                     "decades",
@@ -1519,7 +1550,7 @@
                     "Pushkin"
                 ],
                 "ORG": [
-                    "Athletic Brewing"
+                    "Athletic Brewing Company"
                 ]
             }
         },
@@ -1595,7 +1626,7 @@
                     "the New York Stock Exchange"
                 ],
                 "DATE": [
-                    "the end of the year.</p"
+                    "the end of the year"
                 ]
             }
         },
@@ -1680,6 +1711,9 @@
                     "Shimon Elkabetz",
                     "Uber",
                     "Pushkin"
+                ],
+                "LOC": [
+                    "Tomorrow.io"
                 ],
                 "ORG": [
                     "JetBlue",
@@ -1799,6 +1833,7 @@
             "entities": {
                 "ORG": [
                     "Hot Money",
+                    "the Financial Times",
                     "Financial Times",
                     "Nilsson",
                     "FBI"
@@ -1819,8 +1854,11 @@
                 "GPE": [
                     "Ohio"
                 ],
-                "NORP": [
-                    "Facebook"
+                "DATE": [
+                    "the early 1990s"
+                ],
+                "PRODUCT": [
+                    "Twitter"
                 ],
                 "WORK_OF_ART": [
                     "Hot Money"
@@ -1861,8 +1899,7 @@
                     "Capstone"
                 ],
                 "DATE": [
-                    "Later this month",
-                    "you&rsquo;d"
+                    "Later this month"
                 ],
                 "CARDINAL": [
                     "one",
@@ -1897,17 +1934,18 @@
             "pubDate": "Wed, 01 Jun 2022 04:05:00 +0000",
             "title": "Putting a Car on the Moon",
             "entities": {
+                "ORG": [
+                    "What\u2019s Your Problem",
+                    "Eddie"
+                ],
                 "PERSON": [
                     "Jacob Goldstein",
                     "Eddie Alterman",
                     "Eddie Alterman"
                 ],
                 "PRODUCT": [
-                    "Car Show!</p",
+                    "Car Show",
                     "Car Show"
-                ],
-                "ORG": [
-                    "Eddie"
                 ],
                 "LOC": [
                     "the Lunar Rover"
@@ -1951,11 +1989,10 @@
                 "DATE": [
                     "the next few years",
                     "today",
-                    "you&rsquo;d"
+                    "2024"
                 ],
                 "CARDINAL": [
-                    "billions",
-                    "2024.</p"
+                    "billions"
                 ]
             }
         },
@@ -1985,18 +2022,17 @@
             "entities": {
                 "PERSON": [
                     "Katherine Sizov",
+                    "Katherine",
                     "Pushkin"
                 ],
                 "ORG": [
-                    "Strella Biotech.</p",
-                    "Katherine"
+                    "Strella Biotech"
                 ],
                 "CARDINAL": [
                     "Tons"
                 ],
                 "DATE": [
-                    "2018",
-                    "you&rsquo;d"
+                    "2018"
                 ],
                 "GPE": [
                     "America"
@@ -2034,9 +2070,6 @@
                 ],
                 "ORG": [
                     "Apple"
-                ],
-                "DATE": [
-                    "you&rsquo;d"
                 ]
             }
         },
@@ -2115,10 +2148,8 @@
                     "Pushkin"
                 ],
                 "ORG": [
-                    "Ginkgo Bioworks"
-                ],
-                "DATE": [
-                    "you&rsquo;d"
+                    "Ginkgo Bioworks",
+                    "Ginkgo"
                 ]
             }
         },
@@ -2151,17 +2182,18 @@
                     "Pushkin"
                 ],
                 "ORG": [
-                    "Planet"
+                    "Planet",
+                    "Amazon"
                 ],
                 "LOC": [
                     "Earth"
                 ],
+                "DATE": [
+                    "today"
+                ],
                 "MONEY": [
                     "million-dollar",
                     "thousand-dollar"
-                ],
-                "DATE": [
-                    "you&rsquo;d"
                 ]
             }
         },
@@ -2190,7 +2222,6 @@
             "title": "Growing a Weed Business",
             "entities": {
                 "PERSON": [
-                    "Joy",
                     "Raft Hollingsworth",
                     "Anthony Bourdain",
                     "Pushkin"
@@ -2207,6 +2238,9 @@
                 ],
                 "MONEY": [
                     "hundreds of millions of dollars"
+                ],
+                "PRODUCT": [
+                    "Learn"
                 ]
             }
         },
@@ -2245,15 +2279,19 @@
                     "Moderna",
                     "Moderna"
                 ],
-                "DATE": [
-                    "today"
-                ],
                 "ORG": [
+                    "Noubar",
                     "Noubar",
                     "COVID"
                 ],
+                "DATE": [
+                    "today"
+                ],
                 "CARDINAL": [
                     "millions"
+                ],
+                "PRODUCT": [
+                    "Learn"
                 ]
             }
         },
@@ -2298,6 +2336,9 @@
                 ],
                 "GPE": [
                     "Rafael"
+                ],
+                "PRODUCT": [
+                    "Learn"
                 ]
             }
         },
@@ -2333,6 +2374,9 @@
                 "ORG": [
                     "DuoLingo",
                     "DuoLingo"
+                ],
+                "PRODUCT": [
+                    "Learn"
                 ]
             }
         },
@@ -2374,6 +2418,9 @@
                 "ORG": [
                     "AI",
                     "AI"
+                ],
+                "PRODUCT": [
+                    "Learn"
                 ]
             }
         },
@@ -2404,7 +2451,6 @@
                 "PERSON": [
                     "Keenan Wyrobek",
                     "Zipline",
-                    "Zipline",
                     "Pushkin"
                 ],
                 "CARDINAL": [
@@ -2417,6 +2463,9 @@
                 ],
                 "NORP": [
                     "Americans"
+                ],
+                "PRODUCT": [
+                    "Learn"
                 ]
             }
         },
@@ -2444,12 +2493,13 @@
             "pubDate": "Thu, 17 Mar 2022 04:02:00 +0000",
             "title": "Becoming a Dog Ramp Mogul",
             "entities": {
+                "ORG": [
+                    "Ramon van Meer",
+                    "Apple"
+                ],
                 "PERSON": [
                     "Alpha Paw",
                     "Pushkin"
-                ],
-                "ORG": [
-                    "Apple"
                 ],
                 "MONEY": [
                     "over $30 million"
@@ -2459,6 +2509,9 @@
                 ],
                 "DATE": [
                     "today"
+                ],
+                "PRODUCT": [
+                    "Learn"
                 ]
             }
         },
@@ -2487,6 +2540,12 @@
             "entities": {
                 "PERSON": [
                     "Jacob Goldstein"
+                ],
+                "DATE": [
+                    "March 17th"
+                ],
+                "PRODUCT": [
+                    "Learn"
                 ]
             }
         }

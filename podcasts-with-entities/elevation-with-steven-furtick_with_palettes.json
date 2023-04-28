@@ -37,13 +37,12 @@
                 "WORK_OF_ART": [
                     "Your Limitation Can Unlock God\u2019s Power"
                 ],
-                "CARDINAL": [
-                    "3",
-                    "15",
-                    "2"
-                ],
                 "DATE": [
-                    "49"
+                    "Judges 3"
+                ],
+                "CARDINAL": [
+                    "15-25",
+                    "2"
                 ]
             }
         },
@@ -78,7 +77,7 @@
                     "John 5"
                 ],
                 "CARDINAL": [
-                    "1-15</p"
+                    "1-15"
                 ]
             }
         },
@@ -113,7 +112,7 @@
                     "7"
                 ],
                 "CARDINAL": [
-                    "17-19</p"
+                    "17-19"
                 ]
             }
         },
@@ -140,9 +139,6 @@
             "pubDate": "Sun, 16 Apr 2023 23:49:37 GMT",
             "title": "Instruments Of Victory",
             "entities": {
-                "ORG": [
-                    "win.</p"
-                ],
                 "WORK_OF_ART": [
                     "Instruments Of Victory"
                 ],
@@ -152,7 +148,7 @@
                 "CARDINAL": [
                     "1-15",
                     "6",
-                    "13</p"
+                    "13"
                 ]
             }
         },
@@ -225,7 +221,7 @@
                     "11-19",
                     "3",
                     "20",
-                    "28-31</p"
+                    "28-31"
                 ]
             }
         },
@@ -262,7 +258,7 @@
                     "6",
                     "7",
                     "1",
-                    "24"
+                    "24-27"
                 ]
             }
         },
@@ -290,24 +286,23 @@
             "title": "The Storm Has Its Purpose (Rich Wilkerson Jr.)",
             "entities": {
                 "WORK_OF_ART": [
-                    "The Storm Has Its Purpose"
+                    "The Storm Has Its Purpose",
+                    "The Gospel\n"
                 ],
                 "PERSON": [
                     "Rich Wilkerson",
+                    "Mark 6",
                     "Matthew 14",
                     "Peter Leave"
                 ],
+                "CARDINAL": [
+                    "45",
+                    "2",
+                    "32"
+                ],
                 "ORG": [
-                    "rel=\"nofollow\">http://www.elevationchurch.org/giving/</a></p",
                     "Response",
                     "SHIP"
-                ],
-                "CARDINAL": [
-                    "6",
-                    "45-56</p",
-                    "2</p",
-                    "32",
-                    "13:03"
                 ]
             }
         },
@@ -334,6 +329,9 @@
             "pubDate": "Sun, 12 Mar 2023 23:30:16 GMT",
             "title": "Stretch The Truth (Tim Somers)",
             "entities": {
+                "WORK_OF_ART": [
+                    "Stretch The Truth"
+                ],
                 "PERSON": [
                     "Tim Somers",
                     "Jesus"
@@ -368,14 +366,15 @@
                 ],
                 "PERSON": [
                     "Steven",
-                    "Matthew 4",
-                    "John 4"
+                    "Joshua 3"
                 ],
                 "CARDINAL": [
-                    "3",
                     "13",
                     "12",
-                    "43-53</p"
+                    "43"
+                ],
+                "PRODUCT": [
+                    "Matthew 4"
                 ]
             }
         },
@@ -407,14 +406,16 @@
                 ],
                 "PERSON": [
                     "Steven Furtick",
+                    "Joshua 1"
+                ],
+                "TIME": [
+                    "7-11"
+                ],
+                "PRODUCT": [
                     "Joshua 2"
                 ],
                 "CARDINAL": [
-                    "1",
-                    "1</p"
-                ],
-                "DATE": [
-                    "7-11&nbsp;</p"
+                    "1"
                 ]
             }
         },
@@ -472,15 +473,17 @@
             "pubDate": "Mon, 13 Feb 2023 03:48:01 GMT",
             "title": "Forward Not Finished",
             "entities": {
+                "WORK_OF_ART": [
+                    "Forward Not Finished"
+                ],
                 "PERSON": [
-                    "Steven Furtick",
-                    "John 11"
+                    "Steven Furtick"
                 ],
                 "CARDINAL": [
                     "34",
-                    "5-9</p",
+                    "5",
                     "4-6",
-                    "29</p"
+                    "29"
                 ],
                 "DATE": [
                     "22"
@@ -518,12 +521,11 @@
                     "John 21"
                 ],
                 "CARDINAL": [
-                    "24",
-                    "36",
-                    "22",
-                    "14</p",
+                    "24-25",
+                    "22-23",
+                    "14",
                     "45",
-                    "1</p"
+                    "1"
                 ],
                 "DATE": [
                     "5"
@@ -553,19 +555,23 @@
             "pubDate": "Sun, 29 Jan 2023 23:27:37 GMT",
             "title": "Don't Fight Your Future",
             "entities": {
-                "PERSON": [
-                    "you.</p",
-                    "Steven Furtick"
-                ],
                 "WORK_OF_ART": [
                     "Don\u2019t Fight Your Future"
                 ],
+                "PERSON": [
+                    "Steven Furtick"
+                ],
                 "CARDINAL": [
                     "4",
-                    "20-24&nbsp;</p",
-                    "5&nbsp;</p",
+                    "11",
                     "20",
-                    "19</p"
+                    "19"
+                ],
+                "TIME": [
+                    "20-24"
+                ],
+                "QUANTITY": [
+                    "5\u00a0\nJeremiah 29"
                 ]
             }
         },
@@ -601,8 +607,10 @@
                 ],
                 "CARDINAL": [
                     "4",
-                    "14",
-                    "10-11</p"
+                    "14-24"
+                ],
+                "TIME": [
+                    "10-11"
                 ]
             }
         },
@@ -637,13 +645,12 @@
                 ],
                 "CARDINAL": [
                     "4",
-                    "20-24&nbsp;</p",
-                    "5&nbsp;</p",
+                    "5",
                     "25",
-                    "23"
+                    "23-34"
                 ],
-                "ORG": [
-                    "Genesis"
+                "TIME": [
+                    "20-24"
                 ]
             }
         },
@@ -681,9 +688,11 @@
                 ],
                 "CARDINAL": [
                     "4",
-                    "14",
-                    "1",
-                    "4-9</p"
+                    "14-24",
+                    "4"
+                ],
+                "FAC": [
+                    "Jeremiah 1"
                 ]
             }
         },
@@ -714,7 +723,7 @@
                     "New Year"
                 ],
                 "DATE": [
-                    "the year"
+                    "the year ahead"
                 ]
             }
         },
@@ -749,13 +758,11 @@
                     "Christ"
                 ],
                 "CARDINAL": [
-                    "11",
-                    "1-3</p",
-                    "17",
-                    "7-8</p",
+                    "1-3",
+                    "7-8",
                     "92",
                     "12",
-                    "25</p"
+                    "25"
                 ]
             }
         },
@@ -790,10 +797,14 @@
                     "Steven Furtick",
                     "John 1"
                 ],
+                "TIME": [
+                    "33-38"
+                ],
+                "QUANTITY": [
+                    "14\u00a0\n"
+                ],
                 "CARDINAL": [
-                    "33",
-                    "5",
-                    "17"
+                    "17-25"
                 ]
             }
         },
@@ -827,9 +838,12 @@
                     "Steven Furtick"
                 ],
                 "CARDINAL": [
-                    "54-58&nbsp;</p",
+                    "1",
+                    "15",
+                    "54",
+                    "2",
                     "13",
-                    "14-19</p"
+                    "14-19"
                 ]
             }
         },
@@ -864,12 +878,15 @@
                 ],
                 "CARDINAL": [
                     "3",
-                    "14-21</p",
+                    "14-21",
                     "4",
-                    "1</p",
-                    "11",
-                    "1</p",
-                    "27</p"
+                    "1",
+                    "8",
+                    "1",
+                    "27"
+                ],
+                "EVENT": [
+                    "Hebrews 11"
                 ]
             }
         },
@@ -904,17 +921,14 @@
                 ],
                 "CARDINAL": [
                     "8",
-                    "15-20&nbsp;</p",
+                    "15-20",
                     "9",
-                    "1-5&nbsp;</p",
+                    "1-5",
                     "4",
-                    "6-9&nbsp;</p",
-                    "8",
-                    "31</p"
+                    "31"
                 ],
-                "NORP": [
-                    "Philippians",
-                    "Romans"
+                "TIME": [
+                    "6-9\u00a0\nRomans 8"
                 ]
             }
         },
@@ -944,8 +958,10 @@
                 "PERSON": [
                     "Steven Furtick"
                 ],
+                "FAC": [
+                    "Leviticus 11"
+                ],
                 "CARDINAL": [
-                    "11",
                     "29",
                     "44"
                 ]
@@ -974,6 +990,9 @@
             "pubDate": "Mon, 07 Nov 2022 02:48:38 GMT",
             "title": "I'm Annoyed (Robert Madu)",
             "entities": {
+                "WORK_OF_ART": [
+                    "I\u2019m Annoyed"
+                ],
                 "PERSON": [
                     "Robert Madu"
                 ],
@@ -982,7 +1001,7 @@
                 ],
                 "CARDINAL": [
                     "16",
-                    "16-18</p"
+                    "16-18"
                 ]
             }
         },
@@ -1011,30 +1030,31 @@
             "entities": {
                 "PERSON": [
                     "Christine Caine",
-                    "Ezekiel 16"
+                    "Jesus"
                 ],
                 "CARDINAL": [
-                    "17",
-                    "20-37</p",
+                    "20",
                     "13",
-                    "12-13</p",
-                    "49",
+                    "12",
+                    "49-50",
                     "19",
-                    "17</p",
+                    "17",
                     "19",
-                    "26</p",
-                    "24",
-                    "21</p",
+                    "26",
+                    "21",
                     "6",
-                    "19</p",
-                    "2",
-                    "1</p",
-                    "12</p",
+                    "19",
+                    "1",
+                    "12",
                     "3",
                     "13"
                 ],
                 "ORG": [
-                    "Genesis"
+                    "Genesis",
+                    "Ezekiel 16",
+                    "Genesis",
+                    "Genesis",
+                    "Zechariah 9"
                 ],
                 "NORP": [
                     "Philippians"
@@ -1075,9 +1095,11 @@
                 ],
                 "CARDINAL": [
                     "4",
-                    "16-18&nbsp;</p",
-                    "13",
-                    "30</p"
+                    "16-18",
+                    "30"
+                ],
+                "LAW": [
+                    "Numbers 13"
                 ]
             }
         },
@@ -1104,12 +1126,15 @@
             "pubDate": "Sun, 16 Oct 2022 23:41:44 GMT",
             "title": "Keep It 100",
             "entities": {
+                "WORK_OF_ART": [
+                    "Keep It"
+                ],
                 "CARDINAL": [
                     "100",
                     "4",
                     "13",
                     "17",
-                    "15"
+                    "15-17"
                 ],
                 "PERSON": [
                     "Steven Furtick"
@@ -1149,8 +1174,8 @@
                     "Steven Furtick",
                     "Matthew 14"
                 ],
-                "CARDINAL": [
-                    "22"
+                "TIME": [
+                    "22-36"
                 ]
             }
         },
@@ -1185,17 +1210,13 @@
                 "PERSON": [
                     "Chetwyn Pete"
                 ],
-                "GPE": [
-                    "WGfmr9qExkw",
-                    "WGfmr9qExkw"
-                ],
                 "CARDINAL": [
                     "41",
-                    "38-44</p",
+                    "38",
                     "28",
-                    "13</p",
+                    "13",
                     "39",
-                    "2-9</p"
+                    "2"
                 ]
             }
         },
@@ -1230,9 +1251,11 @@
                     "Steven Furtick"
                 ],
                 "CARDINAL": [
-                    "1-5&nbsp;</p",
-                    "13",
+                    "1-5",
                     "26"
+                ],
+                "LAW": [
+                    "Numbers 13"
                 ]
             }
         },
@@ -1268,20 +1291,16 @@
                 ],
                 "ORG": [
                     "Genesis",
-                    "Genesis"
+                    "Genesis",
+                    "Hebrews 11"
                 ],
                 "CARDINAL": [
                     "32",
-                    "21-32</p",
+                    "21",
                     "33",
-                    "1-4</p",
-                    "8",
-                    "31</p",
-                    "11",
-                    "21</p"
-                ],
-                "NORP": [
-                    "Romans"
+                    "1",
+                    "31",
+                    "21"
                 ]
             }
         },
@@ -1313,8 +1332,9 @@
                 ],
                 "CARDINAL": [
                     "2",
-                    "21</p",
-                    "1-18</p"
+                    "21",
+                    "1",
+                    "1-18"
                 ],
                 "PERSON": [
                     "Steven Furtick"
@@ -1358,9 +1378,8 @@
                 ],
                 "CARDINAL": [
                     "12",
-                    "1",
-                    "11",
-                    "36</p"
+                    "1-2",
+                    "36"
                 ]
             }
         },
@@ -1393,9 +1412,8 @@
                 "PERSON": [
                     "Steven"
                 ],
-                "CARDINAL": [
-                    "30",
-                    "19"
+                "TIME": [
+                    "19-21"
                 ]
             }
         },
@@ -1426,17 +1444,16 @@
                     "He\u2019s Still The Shepherd"
                 ],
                 "PERSON": [
-                    "Steven Furtick",
-                    "VB4SuosdqJg"
+                    "Steven Furtick"
                 ],
                 "CARDINAL": [
                     "3",
                     "3",
                     "23",
-                    "1-4</p",
+                    "1-4",
                     "21",
                     "1",
-                    "17</p"
+                    "17"
                 ],
                 "DATE": [
                     "12"
@@ -1469,15 +1486,10 @@
                 "WORK_OF_ART": [
                     "Faithful With A Few"
                 ],
-                "PERSON": [
-                    "QUFFLUhqbVd5cVRLU09aamV2QWJpd2pxZ20xMGd5bk1QZ3xBQ3Jtc0tudEZCTzh4VDhDbWVhejN6SzhuUGFDMDV4MEJQWUZ4cHhnNFpwbkNKR0ZuTXVPaTRPMDdTRzlqQkVRd0NaYXo1R0YzNkdUSHRtU3IxMi1NdVBYWHE0T0FGcEVHNkRGLWRzeXB1T21nWEhHdFdIbnRmUQ&amp;q"
-                ],
-                "ORG": [
-                    "FFUQEHRSMQA"
-                ],
                 "CARDINAL": [
-                    "7",
-                    "2</p"
+                    "16",
+                    "7-24",
+                    "2"
                 ],
                 "DATE": [
                     "7"
@@ -1512,30 +1524,29 @@
                 ],
                 "PERSON": [
                     "Larry Brey",
-                    "Jesus",
-                    "Timothy 1",
-                    "Timothy 4",
-                    "Timothy 2"
+                    "Jesus"
                 ],
                 "CARDINAL": [
-                    "20",
-                    "22",
+                    "2",
+                    "7",
+                    "22-24",
                     "14",
                     "8-15",
                     "19",
-                    "7",
-                    "51-59</p",
+                    "51-59",
                     "8",
-                    "1</p",
                     "1",
-                    "9</p",
+                    "9",
+                    "1",
                     "15-16",
-                    "18</p",
-                    "12</p",
+                    "18",
+                    "1",
+                    "12",
                     "16",
-                    "1</p",
-                    "12</p",
-                    "1-6</p"
+                    "1",
+                    "12",
+                    "2",
+                    "1-6"
                 ]
             }
         },
@@ -2166,8 +2177,8 @@
                 "PERSON": [
                     "Larry Brey"
                 ],
-                "NORP": [
-                    "Christ.</p"
+                "GPE": [
+                    "Christ"
                 ]
             }
         },
@@ -2256,16 +2267,15 @@
                 "PERSON": [
                     "Rich Wilkerson Jr.",
                     "Steven Furtick",
-                    "Van Andel",
-                    "Santander Arena</p>"
+                    "Van Andel Arena",
+                    "Nationwide Arena",
+                    "Santander Arena"
                 ],
                 "ORG": [
                     "Vous Church",
                     "IL",
-                    "Gainbridge Fieldhouse</p",
-                    "Nationwide",
-                    "NJ",
-                    "Prudential Center</p"
+                    "Capital One Arena",
+                    "NJ"
                 ],
                 "DATE": [
                     "April 26 - Chicago",
@@ -2277,12 +2287,15 @@
                     "May 4 - Newark",
                     "May 5 - Boston"
                 ],
+                "FAC": [
+                    "NOW Arena",
+                    "Prudential Center",
+                    "TD Garden"
+                ],
                 "GPE": [
+                    "Gainbridge Fieldhouse",
                     "DC",
                     "MA"
-                ],
-                "CARDINAL": [
-                    "One"
                 ]
             }
         },
@@ -2420,10 +2433,27 @@
             "entities": {
                 "WORK_OF_ART": [
                     "When Never Meets Now",
-                    "The Danger Of Blanket"
+                    "The Danger Of Blanket Statements\n  "
                 ],
                 "DATE": [
-                    "our best days"
+                    "our best days",
+                    "7:28"
+                ],
+                "CARDINAL": [
+                    "2:27",
+                    "19:31",
+                    "29:04",
+                    "35:11",
+                    "41:20",
+                    "58:04",
+                    "1:02:19",
+                    "1:07:53",
+                    "1:12:05"
+                ],
+                "TIME": [
+                    "16:14",
+                    "23:18",
+                    "46:28"
                 ]
             }
         },
@@ -2513,14 +2543,12 @@
             "title": "Better Than Ever: 2021 Year In Review",
             "entities": {
                 "DATE": [
-                    "This year"
+                    "This year",
+                    "2021"
                 ],
                 "PERSON": [
                     "Steven",
                     "Holly"
-                ],
-                "CARDINAL": [
-                    "2021.</p"
                 ]
             }
         },
@@ -3279,8 +3307,7 @@
             "title": "The Guided Mind & The Guarded Heart",
             "entities": {
                 "WORK_OF_ART": [
-                    "The Guided Mind &",
-                    "The Guarded Heart"
+                    "The Guided Mind & The Guarded Heart"
                 ],
                 "PERSON": [
                     "Steven Furtick"
@@ -3348,7 +3375,8 @@
                     "You Can Be Satisfied"
                 ],
                 "PERSON": [
-                    "Lisa Harper"
+                    "Lisa Harper",
+                    "Jesus"
                 ]
             }
         },
@@ -3540,7 +3568,7 @@
             "title": "Too Grown To Give Up",
             "entities": {
                 "WORK_OF_ART": [
-                    "Too Grown To Give Up,\u201d&nbsp;Pastor"
+                    "Too Grown To Give Up"
                 ],
                 "PERSON": [
                     "Steven Furtick"
@@ -3579,6 +3607,9 @@
                 ],
                 "PERSON": [
                     "Steven Furtick"
+                ],
+                "DATE": [
+                    "every season"
                 ]
             }
         },
@@ -4200,8 +4231,8 @@
                     "Holly Furtick",
                     "Steven"
                 ],
-                "CARDINAL": [
-                    "2020.</p"
+                "DATE": [
+                    "2020"
                 ]
             }
         },
@@ -4305,9 +4336,6 @@
                 "PERSON": [
                     "Holly Furtick",
                     "Mary"
-                ],
-                "NORP": [
-                    "it.</strong></p"
                 ]
             }
         },
@@ -4440,6 +4468,9 @@
             "pubDate": "Mon, 30 Nov 2020 01:00:00 GMT",
             "title": "I Woke Up Like This (Levi Lusko)",
             "entities": {
+                "WORK_OF_ART": [
+                    "I Woke Up Like This"
+                ],
                 "PERSON": [
                     "Levi Lusko",
                     "Pastor Levi"
@@ -4481,8 +4512,8 @@
                 "ORG": [
                     "Elevation Church"
                 ],
-                "NORP": [
-                    "day.</strong></p"
+                "DATE": [
+                    "every day"
                 ]
             }
         },
@@ -4754,7 +4785,7 @@
             "title": "Just The 2 Of Us",
             "entities": {
                 "WORK_OF_ART": [
-                    "Just The 2 Of Us"
+                    "Just The 2"
                 ],
                 "PERSON": [
                     "Steven Furtick",
@@ -4863,17 +4894,17 @@
             "title": "The Year I Saw (Tauren Wells) ",
             "entities": {
                 "DATE": [
-                    "This year"
-                ],
-                "PERSON": [
-                    "yet.</p",
-                    "Tauren Wells"
+                    "This year",
+                    "the next season"
                 ],
                 "WORK_OF_ART": [
                     "The Year I Saw"
                 ],
                 "NORP": [
                     "Christian"
+                ],
+                "PERSON": [
+                    "Tauren Wells"
                 ]
             }
         },
@@ -4901,7 +4932,6 @@
             "title": "It\u2019s Your Time (Larry Brey) ",
             "entities": {
                 "PERSON": [
-                    "you.</p",
                     "Larry Brey"
                 ]
             }
@@ -5161,6 +5191,9 @@
             "pubDate": "Mon, 29 Jun 2020 00:00:00 GMT",
             "title": "Hope Is In Our DNA (Lisa Harper)",
             "entities": {
+                "GPE": [
+                    "n\u2019t"
+                ],
                 "WORK_OF_ART": [
                     "Hope Is In Our DNA",
                     "Bible"
@@ -5203,6 +5236,9 @@
                     "John 4",
                     "Joseph",
                     "Jacob"
+                ],
+                "GPE": [
+                    "Israel"
                 ]
             }
         },
@@ -5270,7 +5306,7 @@
                 ],
                 "PERSON": [
                     "Steven",
-                    "Matthew 11:28).&nbsp;Are"
+                    "Matthew 11:28"
                 ],
                 "DATE": [
                     "John 4"

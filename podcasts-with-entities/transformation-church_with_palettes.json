@@ -32,12 +32,15 @@
             "pubDate": "Sun, 23 Apr 2023 21:45:01 +0000",
             "title": "You Thought You Were Feeling Me??? // KingNUMB (Part 2) // Tim Ross",
             "entities": {
-                "CARDINAL": [
-                    "46:1",
-                    "10"
+                "PERSON": [
+                    "Amos 5:18-"
                 ],
                 "ORG": [
+                    "NLTIsaiah",
                     "NLT"
+                ],
+                "PRODUCT": [
+                    "46:1-10"
                 ]
             }
         },
@@ -68,10 +71,8 @@
                 "PERSON": [
                     "Jerry Flowers",
                     "Jesus",
-                    "NKJV",
-                    "br />John 8:12",
-                    "br />Matthew 21:14",
-                    "NKJV"
+                    "Luke 13:10-17",
+                    "NKJVMatthew"
                 ],
                 "DATE": [
                     "18 years"
@@ -81,15 +82,19 @@
                 ],
                 "ORG": [
                     "Church",
-                    "NKJV",
-                    "NKJV"
+                    "NKJVJohn"
+                ],
+                "PRODUCT": [
+                    "23:6 NKJV1"
                 ],
                 "CARDINAL": [
-                    "13:10",
+                    "1:6",
                     "5:8"
                 ],
+                "WORK_OF_ART": [
+                    "NKJVMatthew 21:14"
+                ],
                 "TIME": [
-                    "5:28",
                     "13:13"
                 ]
             }
@@ -130,7 +135,8 @@
                     "the Kingdom"
                 ],
                 "MONEY": [
-                    "#FinancialSeries #TransformationChurch #"
+                    "#easymoney",
+                    "#TransformationChurch #"
                 ]
             }
         },
@@ -162,17 +168,18 @@
                     "Week 3"
                 ],
                 "PERSON": [
-                    "Robert Morris",
-                    "NJKV"
+                    "Robert Morris"
                 ],
                 "CARDINAL": [
                     "4",
-                    "7:1-2",
-                    "15:7-8",
+                    "15:7",
                     "15:9"
                 ],
                 "NORP": [
                     "Selfish"
+                ],
+                "GPE": [
+                    "NJKVDeuteronomy"
                 ]
             }
         },
@@ -204,40 +211,41 @@
                     "Bible"
                 ],
                 "PERSON": [
-                    "Matthew 6:21",
-                    "Sow Frequently",
-                    "Save Fundamentally:",
-                    "Set Apart"
+                    "Matthew 6:21"
                 ],
                 "DATE": [
-                    "last week",
-                    "41:25-32"
+                    "last week"
                 ],
                 "ORDINAL": [
                     "First"
                 ],
-                "MONEY": [
-                    "#FinancialSeries #"
+                "ORG": [
+                    "TastingSet",
+                    "NLTProverbs",
+                    "NLTMatthew",
+                    "NLTProverbs",
+                    "NIV2",
+                    "ESVPsalm",
+                    "NLTMalachi",
+                    "NKJVDeuteronomy",
+                    "NIV"
+                ],
+                "GPE": [
+                    "TithingBy",
+                    "Corinthians",
+                    "NLTGenesis"
                 ],
                 "CARDINAL": [
                     "11:4",
                     "25",
                     "14-15",
-                    "10:22",
+                    "13:22",
                     "34:8",
-                    "3:8-12",
-                    "26:1-2",
+                    "26:1",
                     "12"
                 ],
-                "ORG": [
-                    "NIV",
-                    "NIV"
-                ],
-                "GPE": [
-                    "Corinthians"
-                ],
-                "TIME": [
-                    "27:30"
+                "NORP": [
+                    "MSGMatthew"
                 ]
             }
         },
@@ -266,31 +274,27 @@
             "title": "MONEY FOLLOW$ MA$TERY // EASY MONEY (PART 1) // MICHAEL TODD",
             "entities": {
                 "DATE": [
-                    "Week 1"
+                    "Week 1",
+                    "17:24-27"
                 ],
                 "ORG": [
                     "the Easy Money Series",
-                    "the Purpose Gospel"
+                    "the Purpose Gospel",
+                    "Mastery.#easymoney #",
+                    "NLTColossians 3:23-24",
+                    "NIV"
                 ],
                 "PRODUCT": [
                     "the Poverty Gospel"
                 ],
                 "PERSON": [
-                    "Pastor Mike",
-                    "Matthew 6:33",
-                    "Matthew 17:24-27"
+                    "Pastor Mike"
                 ],
                 "WORK_OF_ART": [
                     "the Master"
                 ],
                 "MONEY": [
-                    "#transformationchurch #financialstewardship</b><br"
-                ],
-                "CARDINAL": [
-                    "28:12"
-                ],
-                "NORP": [
-                    "Colossians"
+                    "#transformationchurch #"
                 ]
             }
         },
@@ -325,9 +329,6 @@
                     "Pastor Mike",
                     "Jesus"
                 ],
-                "MONEY": [
-                    "#KingDUMB"
-                ],
                 "CARDINAL": [
                     "#"
                 ]
@@ -361,7 +362,7 @@
                     "Pastor Mike",
                     "Jesus"
                 ],
-                "ORG": [
+                "MONEY": [
                     "#KingdomSeries #"
                 ],
                 "CARDINAL": [
@@ -395,23 +396,29 @@
             "entities": {
                 "PERSON": [
                     "Pastor Mike",
-                    "br />Joshua 1:3"
+                    "Matthew 6:33",
+                    "John 2:17"
                 ],
                 "LOC": [
                     "Earth"
                 ],
                 "ORG": [
-                    "NIV",
-                    "NIV",
-                    "NASB",
-                    "NIV"
-                ],
-                "TIME": [
-                    "1:26"
+                    "NKJVPsalms",
+                    "NIVJoshua",
+                    "ESVIsaiah"
                 ],
                 "CARDINAL": [
                     "115:16",
-                    "66:1"
+                    "7"
+                ],
+                "QUANTITY": [
+                    "66:1 NIV1"
+                ],
+                "NORP": [
+                    "NKJV2 Corinthians"
+                ],
+                "WORK_OF_ART": [
+                    "NASBMatthew 24:35 NIV"
                 ]
             }
         },
@@ -445,7 +452,7 @@
                 "PERSON": [
                     "Pastor Mike"
                 ],
-                "ORG": [
+                "MONEY": [
                     "#KingdomSeries #"
                 ]
             }
@@ -482,7 +489,8 @@
                     "the Kingdom"
                 ],
                 "CARDINAL": [
-                    "ONE"
+                    "ONE",
+                    "#"
                 ],
                 "MONEY": [
                     "#Seek1st #KingdomMessage"
@@ -532,6 +540,9 @@
                 "LANGUAGE": [
                     "Hebrew",
                     "Hebrew"
+                ],
+                "ORG": [
+                    "CT"
                 ]
             }
         },
@@ -579,7 +590,7 @@
                     "2023!We"
                 ],
                 "MONEY": [
-                    "#VisionSunday2023 #Kingdom"
+                    "#VisionSunday2023 #Kingdom #TheRiseofAHolyRebellion"
                 ]
             }
         },
@@ -645,8 +656,8 @@
                 "PERSON": [
                     "Pastor Mike"
                 ],
-                "MONEY": [
-                    "#CuffedToTheClock #"
+                "CARDINAL": [
+                    "#"
                 ]
             }
         },
@@ -970,9 +981,6 @@
                 ],
                 "PERSON": [
                     "Dharius Daniels"
-                ],
-                "MONEY": [
-                    "#IDontNeedClosure #"
                 ]
             }
         },
@@ -1004,7 +1012,9 @@
                     "Transformation Church"
                 ],
                 "CARDINAL": [
-                    "three"
+                    "three",
+                    "#",
+                    "#"
                 ],
                 "DATE": [
                     "Flood Sunday",
@@ -1012,9 +1022,6 @@
                 ],
                 "PERSON": [
                     "Pastor Mike"
-                ],
-                "TIME": [
-                    "#"
                 ]
             }
         },
@@ -1047,7 +1054,7 @@
                     "900 days",
                     "every Sunday",
                     "Monday",
-                    "828282.<br",
+                    "828282",
                     "828282"
                 ],
                 "ORG": [
@@ -1055,16 +1062,16 @@
                     "CST",
                     "CST",
                     "SAVED",
-                    "Transformation Church",
-                    "rel=\"noopener\">https://www.instagram.com"
+                    "Transformation Church"
                 ],
                 "PERSON": [
                     "TC",
                     "Pastor Mike",
-                    "TC"
+                    "TC",
+                    "https://transformchurch.us/give/. Text \u2018"
                 ],
                 "MONEY": [
-                    "#TCIsBack #TCHomecoming #"
+                    "#TCHomecoming #"
                 ],
                 "TIME": [
                     "11am",
@@ -1072,6 +1079,9 @@
                 ],
                 "WORK_OF_ART": [
                     "Monday Night Prayer"
+                ],
+                "GPE": [
+                    "mystory@transformchurch.us"
                 ],
                 "CARDINAL": [
                     "transformchurch.us"
@@ -1151,6 +1161,7 @@
                     "Launching In Victory"
                 ],
                 "MONEY": [
+                    "friend!#LaunchInVictory #",
                     "CharlesMetcalf"
                 ]
             }
@@ -1189,7 +1200,7 @@
                     "Pastor Charles"
                 ],
                 "MONEY": [
-                    "#PracticeMakesPerfect #"
+                    "friend!#LaunchInVictory #PracticeMakesPerfect #"
                 ]
             }
         },
@@ -1224,8 +1235,8 @@
                 "PERSON": [
                     "Charles Metcalf"
                 ],
-                "CARDINAL": [
-                    "#"
+                "MONEY": [
+                    "#ASafePlaceToStart #"
                 ]
             }
         },
@@ -1265,7 +1276,6 @@
                     "TC Nation"
                 ],
                 "MONEY": [
-                    "#HereIsHoly",
                     "7N7"
                 ]
             }
@@ -1298,20 +1308,21 @@
                     "a season",
                     "week 3",
                     "every Sunday",
-                    "Monday",
-                    "828282.<br"
+                    "Monday"
                 ],
                 "PERSON": [
                     "Amberly Bell",
                     "TC",
+                    "https://transformchurch.us/give/.",
                     "Text"
                 ],
                 "MONEY": [
-                    "#HereIsHoly"
+                    "#WhatImHearingHere"
                 ],
                 "CARDINAL": [
                     "#",
-                    "77977.<br",
+                    "#",
+                    "77977.If",
                     "transformchurch.us"
                 ],
                 "TIME": [
@@ -1325,9 +1336,6 @@
                 ],
                 "WORK_OF_ART": [
                     "Monday Night Prayer"
-                ],
-                "NORP": [
-                    "CST).<br"
                 ]
             }
         },
@@ -1397,9 +1405,6 @@
                 "WORK_OF_ART": [
                     "Here Is Holy"
                 ],
-                "DATE": [
-                    "week one"
-                ],
                 "PERSON": [
                     "Pastor Charles",
                     "Jesus"
@@ -1450,7 +1455,7 @@
                     "Jesus"
                 ],
                 "MONEY": [
-                    "#TimRoss #EmbassyCity #"
+                    "#FunMonth #TimRoss #EmbassyCity #"
                 ]
             }
         },
@@ -1619,10 +1624,8 @@
                     "week 9"
                 ],
                 "ORG": [
-                    "Cuffing Season"
-                ],
-                "MONEY": [
-                    "#CuffedToConstant"
+                    "Cuffing Season",
+                    "friend.#CuffingSeason #"
                 ],
                 "CARDINAL": [
                     "#",
@@ -1691,7 +1694,8 @@
             "entities": {
                 "ORG": [
                     "Spirit",
-                    "Cuffing Season"
+                    "Cuffing Season",
+                    "CuffingSeason"
                 ],
                 "DATE": [
                     "week 7"
@@ -1739,8 +1743,8 @@
                 "PERSON": [
                     "Pastor Mike"
                 ],
-                "MONEY": [
-                    "#CuffedToCake #"
+                "CARDINAL": [
+                    "#"
                 ]
             }
         },
@@ -1856,7 +1860,8 @@
                     "Cuffing Season"
                 ],
                 "PERSON": [
-                    "Pastor Mike"
+                    "Pastor Mike",
+                    "CuffedtoConvenience"
                 ],
                 "GPE": [
                     "Christ"
@@ -1892,6 +1897,12 @@
                 ],
                 "PERSON": [
                     "Pastor Mike"
+                ],
+                "GPE": [
+                    "today!#CuffingSeason"
+                ],
+                "ORG": [
+                    "CuffedToComfort"
                 ]
             }
         },
@@ -1925,9 +1936,6 @@
                 "PERSON": [
                     "Cuffing Season",
                     "Pastor Mike"
-                ],
-                "MONEY": [
-                    "#Samson #"
                 ]
             }
         },
@@ -2072,11 +2080,12 @@
                 "PERSON": [
                     "Charles Metcalf"
                 ],
+                "MONEY": [
+                    "#MoMoneyMoProblems #ImLivingLarge #",
+                    "CharlesMetcalf"
+                ],
                 "CARDINAL": [
                     "#"
-                ],
-                "MONEY": [
-                    "CharlesMetcalf"
                 ]
             }
         },
@@ -2108,7 +2117,7 @@
                     "the third week",
                     "every Sunday",
                     "Monday",
-                    "828282.<br",
+                    "828282",
                     "828282"
                 ],
                 "WORK_OF_ART": [
@@ -2117,26 +2126,28 @@
                 ],
                 "PERSON": [
                     "Robert Morris",
-                    "TC"
+                    "TC",
+                    "https://transformchurch.us/give/. Text \u2018"
                 ],
                 "ORG": [
                     "Gateway Church",
                     "CST",
                     "CST",
                     "SAVED",
-                    "Transformation Church",
-                    "rel=\"noopener\">https://www.instagram.com"
+                    "Transformation Church"
                 ],
                 "GPE": [
                     "Dallas",
                     "Fort Worth",
-                    "Texas"
+                    "Texas",
+                    "mystory@transformchurch.us"
                 ],
                 "CARDINAL": [
                     "#",
-                    "#",
-                    "#",
                     "transformchurch.us"
+                ],
+                "MONEY": [
+                    "#generosity"
                 ],
                 "TIME": [
                     "11am",
@@ -2171,16 +2182,18 @@
                 "PERSON": [
                     "Pastor Mike",
                     "Jesus",
-                    "TC"
+                    "TC",
+                    "https://transformchurch.us/give/. Text \u2018"
                 ],
                 "CARDINAL": [
+                    "#",
                     "#",
                     "transformchurch.us"
                 ],
                 "DATE": [
                     "every Sunday",
                     "Monday",
-                    "828282.<br",
+                    "828282",
                     "828282"
                 ],
                 "TIME": [
@@ -2191,11 +2204,13 @@
                     "CST",
                     "CST",
                     "SAVED",
-                    "Transformation Church",
-                    "rel=\"noopener\">https://www.instagram.com"
+                    "Transformation Church"
                 ],
                 "WORK_OF_ART": [
                     "Monday Night Prayer"
+                ],
+                "GPE": [
+                    "mystory@transformchurch.us"
                 ]
             }
         },
@@ -2231,27 +2246,31 @@
                 ],
                 "PERSON": [
                     "Pastor Mike",
-                    "TC"
+                    "TC",
+                    "https://transformchurch.us/give/. Text \u2018"
+                ],
+                "ORG": [
+                    "purposeJoin us",
+                    "CST",
+                    "CST",
+                    "SAVED",
+                    "Transformation Church"
                 ],
                 "DATE": [
                     "every Sunday",
                     "Monday",
-                    "828282.<br",
+                    "828282",
                     "828282"
                 ],
                 "TIME": [
                     "11am",
                     "6pm"
                 ],
-                "ORG": [
-                    "CST",
-                    "CST",
-                    "SAVED",
-                    "Transformation Church",
-                    "rel=\"noopener\">https://www.instagram.com"
-                ],
                 "WORK_OF_ART": [
                     "Monday Night Prayer"
+                ],
+                "GPE": [
+                    "mystory@transformchurch.us"
                 ]
             }
         },
@@ -2283,16 +2302,17 @@
                     "this year",
                     "every Sunday",
                     "Monday",
-                    "828282.<br",
+                    "828282",
                     "828282"
                 ],
                 "PERSON": [
                     "God",
                     "Pastor Mike",
-                    "TC"
+                    "TC",
+                    "https://transformchurch.us/give/. Text \u2018"
                 ],
                 "MONEY": [
-                    "#HereWeGo #Obedience"
+                    "#HereWeGo #"
                 ],
                 "TIME": [
                     "11am",
@@ -2302,11 +2322,13 @@
                     "CST",
                     "CST",
                     "SAVED",
-                    "Transformation Church",
-                    "rel=\"noopener\">https://www.instagram.com"
+                    "Transformation Church"
                 ],
                 "WORK_OF_ART": [
                     "Monday Night Prayer"
+                ],
+                "GPE": [
+                    "mystory@transformchurch.us"
                 ],
                 "CARDINAL": [
                     "transformchurch.us"
@@ -2339,17 +2361,20 @@
             "entities": {
                 "PERSON": [
                     "Mike",
-                    "TC"
+                    "TC",
+                    "https://transformchurch.us/give/. Text \u2018"
+                ],
+                "MONEY": [
+                    "#NoLimits"
                 ],
                 "CARDINAL": [
-                    "#",
                     "#",
                     "transformchurch.us"
                 ],
                 "DATE": [
                     "every Sunday",
                     "Monday",
-                    "828282.<br",
+                    "828282",
                     "828282"
                 ],
                 "TIME": [
@@ -2360,11 +2385,13 @@
                     "CST",
                     "CST",
                     "SAVED",
-                    "Transformation Church",
-                    "rel=\"noopener\">https://www.instagram.com"
+                    "Transformation Church"
                 ],
                 "WORK_OF_ART": [
                     "Monday Night Prayer"
+                ],
+                "GPE": [
+                    "mystory@transformchurch.us"
                 ]
             }
         },
@@ -2396,12 +2423,20 @@
                     "today",
                     "every Sunday",
                     "Monday",
-                    "828282.<br",
+                    "828282",
                     "828282"
                 ],
                 "PERSON": [
                     "Pastor Mike",
-                    "TC"
+                    "TC",
+                    "https://transformchurch.us/give/. Text \u2018"
+                ],
+                "MONEY": [
+                    "#HereIsHoly"
+                ],
+                "CARDINAL": [
+                    "#",
+                    "transformchurch.us"
                 ],
                 "TIME": [
                     "11am",
@@ -2411,14 +2446,13 @@
                     "CST",
                     "CST",
                     "SAVED",
-                    "Transformation Church",
-                    "rel=\"noopener\">https://www.instagram.com"
+                    "Transformation Church"
                 ],
                 "WORK_OF_ART": [
                     "Monday Night Prayer"
                 ],
-                "CARDINAL": [
-                    "transformchurch.us"
+                "GPE": [
+                    "mystory@transformchurch.us"
                 ]
             }
         },
@@ -2447,16 +2481,25 @@
             "title": "The 3 Habits of Here // Here Is Holy (Part 3) // Michael Todd",
             "entities": {
                 "GPE": [
-                    "n\u2019t"
+                    "n\u2019t",
+                    "mystory@transformchurch.us"
                 ],
                 "PERSON": [
                     "Pastor Mike",
-                    "TC"
+                    "TC",
+                    "https://transformchurch.us/give/. Text \u2018"
+                ],
+                "CARDINAL": [
+                    "#",
+                    "transformchurch.us"
+                ],
+                "PRODUCT": [
+                    "HonestyJoin"
                 ],
                 "DATE": [
                     "every Sunday",
                     "Monday",
-                    "828282.<br",
+                    "828282",
                     "828282"
                 ],
                 "TIME": [
@@ -2467,14 +2510,10 @@
                     "CST",
                     "CST",
                     "SAVED",
-                    "Transformation Church",
-                    "rel=\"noopener\">https://www.instagram.com"
+                    "Transformation Church"
                 ],
                 "WORK_OF_ART": [
                     "Monday Night Prayer"
-                ],
-                "CARDINAL": [
-                    "transformchurch.us"
                 ]
             }
         },
@@ -2505,7 +2544,7 @@
                 "DATE": [
                     "every Sunday",
                     "Monday",
-                    "828282.<br",
+                    "828282",
                     "828282"
                 ],
                 "TIME": [
@@ -2516,14 +2555,17 @@
                     "CST",
                     "CST",
                     "SAVED",
-                    "Transformation Church",
-                    "rel=\"noopener\">https://www.instagram.com"
+                    "Transformation Church"
                 ],
                 "WORK_OF_ART": [
                     "Monday Night Prayer"
                 ],
+                "GPE": [
+                    "mystory@transformchurch.us"
+                ],
                 "PERSON": [
-                    "TC"
+                    "TC",
+                    "https://transformchurch.us/give/. Text \u2018"
                 ],
                 "CARDINAL": [
                     "transformchurch.us"
@@ -2558,13 +2600,14 @@
                     "Here Is Holy, Pastor Mike",
                     "Monday Night Prayer"
                 ],
-                "MONEY": [
-                    "#HereIAm"
+                "CARDINAL": [
+                    "#",
+                    "transformchurch.us"
                 ],
                 "DATE": [
                     "every Sunday",
                     "Monday",
-                    "828282.<br",
+                    "828282",
                     "828282"
                 ],
                 "TIME": [
@@ -2575,14 +2618,14 @@
                     "CST",
                     "CST",
                     "SAVED",
-                    "Transformation Church",
-                    "rel=\"noopener\">https://www.instagram.com"
+                    "Transformation Church"
+                ],
+                "GPE": [
+                    "mystory@transformchurch.us"
                 ],
                 "PERSON": [
-                    "TC"
-                ],
-                "CARDINAL": [
-                    "transformchurch.us"
+                    "TC",
+                    "https://transformchurch.us/give/. Text \u2018"
                 ]
             }
         },
@@ -2618,12 +2661,13 @@
                     "today",
                     "every Sunday",
                     "Monday",
-                    "828282.<br",
+                    "828282",
                     "828282"
                 ],
                 "PERSON": [
                     "Michael",
-                    "TC"
+                    "TC",
+                    "https://transformchurch.us/give/. Text \u2018"
                 ],
                 "CARDINAL": [
                     "One",
@@ -2637,11 +2681,13 @@
                     "CST",
                     "CST",
                     "SAVED",
-                    "Transformation Church",
-                    "rel=\"noopener\">https://www.instagram.com"
+                    "Transformation Church"
                 ],
                 "WORK_OF_ART": [
                     "Monday Night Prayer"
+                ],
+                "GPE": [
+                    "mystory@transformchurch.us"
                 ]
             }
         },
@@ -2677,27 +2723,27 @@
                 ],
                 "PERSON": [
                     "Pastor Charles",
-                    "TC"
+                    "TC",
+                    "https://transformchurch.us/give/. Text \u2018"
                 ],
                 "MONEY": [
                     "#HowToWinTheWar #"
                 ],
+                "ORG": [
+                    "BattleWithin Join",
+                    "CST",
+                    "CST",
+                    "SAVED",
+                    "Transformation Church"
+                ],
                 "DATE": [
                     "every Sunday",
                     "Monday",
-                    "828282.<br",
                     "828282"
                 ],
                 "TIME": [
                     "11am",
                     "6pm"
-                ],
-                "ORG": [
-                    "CST",
-                    "CST",
-                    "SAVED",
-                    "Transformation Church",
-                    "rel=\"noopener\">https://www.instagram.com/wearetransformation/?hl"
                 ],
                 "WORK_OF_ART": [
                     "Monday Night Prayer"
@@ -2731,35 +2777,33 @@
                 "PERSON": [
                     "Dessert",
                     "Gossip",
-                    "TC"
+                    "TC",
+                    "https://transformchurch.us/give/. Text \u2018"
                 ],
                 "DATE": [
                     "the first week",
                     "every Sunday",
                     "Monday",
-                    "828282.<br",
                     "828282"
                 ],
                 "WORK_OF_ART": [
                     "The Sauce, Pastor Charles",
                     "Monday Night Prayer"
                 ],
-                "MONEY": [
-                    "#TheSauce #"
+                "CARDINAL": [
+                    "#",
+                    "transformchurch.us"
+                ],
+                "ORG": [
+                    "TheSauce #Prayer",
+                    "CST",
+                    "CST",
+                    "SAVED",
+                    "Transformation Church"
                 ],
                 "TIME": [
                     "11am",
                     "6pm"
-                ],
-                "ORG": [
-                    "CST",
-                    "CST",
-                    "SAVED",
-                    "Transformation Church",
-                    "rel=\"noopener\">https://www.instagram.com/wearetransformation/?hl"
-                ],
-                "CARDINAL": [
-                    "transformchurch.us"
                 ]
             }
         },
@@ -2793,12 +2837,12 @@
                     "Joseph",
                     "Immanuel",
                     "Pastor Charles",
-                    "TC"
+                    "TC",
+                    "https://transformchurch.us/give/. Text \u2018"
                 ],
                 "DATE": [
                     "every Sunday",
                     "Monday",
-                    "828282.<br",
                     "828282"
                 ],
                 "TIME": [
@@ -2809,8 +2853,7 @@
                     "CST",
                     "CST",
                     "SAVED",
-                    "Transformation Church",
-                    "rel=\"noopener\">https://www.instagram.com/wearetransformation/?hl"
+                    "Transformation Church"
                 ],
                 "WORK_OF_ART": [
                     "Monday Night Prayer"
@@ -2846,16 +2889,15 @@
             "entities": {
                 "PERSON": [
                     "Pastor Mike",
-                    "Joseph<br /><br />Join",
-                    "TC"
+                    "TC",
+                    "https://transformchurch.us/give/. Text \u2018"
                 ],
                 "MONEY": [
-                    "#AreYouFrustrated #Fractured"
+                    "#AreYouFrustrated #Fractured #JosephJoin"
                 ],
                 "DATE": [
                     "every Sunday",
                     "Monday",
-                    "828282.<br",
                     "828282"
                 ],
                 "TIME": [
@@ -2866,8 +2908,7 @@
                     "CST",
                     "CST",
                     "SAVED",
-                    "Transformation Church",
-                    "rel=\"noopener\">https://www.instagram.com/wearetransformation/?hl"
+                    "Transformation Church"
                 ],
                 "WORK_OF_ART": [
                     "Monday Night Prayer"
@@ -2904,15 +2945,22 @@
                 "PERSON": [
                     "Pastor Mike",
                     "Crazy Faith",
-                    "TC"
+                    "TC",
+                    "https://transformchurch.us/give/. Text \u2018"
                 ],
                 "MONEY": [
                     "#FaithMove"
                 ],
+                "CARDINAL": [
+                    "#",
+                    "transformchurch.us"
+                ],
+                "PRODUCT": [
+                    "EternityJoin"
+                ],
                 "DATE": [
                     "every Sunday",
                     "Monday",
-                    "828282.<br",
                     "828282"
                 ],
                 "TIME": [
@@ -2923,14 +2971,10 @@
                     "CST",
                     "CST",
                     "SAVED",
-                    "Transformation Church",
-                    "rel=\"noopener\">https://www.instagram.com/wearetransformation/?hl"
+                    "Transformation Church"
                 ],
                 "WORK_OF_ART": [
                     "Monday Night Prayer"
-                ],
-                "CARDINAL": [
-                    "transformchurch.us"
                 ]
             }
         },
@@ -2960,12 +3004,12 @@
             "entities": {
                 "PERSON": [
                     "Pastor Mike",
-                    "TC"
+                    "TC",
+                    "https://transformchurch.us/give/. Text \u2018"
                 ],
                 "DATE": [
                     "every Sunday",
                     "Monday",
-                    "828282.<br",
                     "828282"
                 ],
                 "TIME": [
@@ -2976,8 +3020,7 @@
                     "CST",
                     "CST",
                     "SAVED",
-                    "Transformation Church",
-                    "rel=\"noopener\">https://www.instagram.com/wearetransformation/?hl"
+                    "Transformation Church"
                 ],
                 "WORK_OF_ART": [
                     "Monday Night Prayer"
@@ -3016,12 +3059,12 @@
                 ],
                 "PERSON": [
                     "Dharius Daniels",
-                    "TC"
+                    "TC",
+                    "https://transformchurch.us/give/. Text \u2018"
                 ],
                 "DATE": [
                     "every Sunday",
                     "Monday",
-                    "828282.<br",
                     "828282"
                 ],
                 "TIME": [
@@ -3032,8 +3075,7 @@
                     "CST",
                     "CST",
                     "SAVED",
-                    "Transformation Church",
-                    "rel=\"noopener\">https://www.instagram.com/wearetransformation/?hl"
+                    "Transformation Church"
                 ],
                 "WORK_OF_ART": [
                     "Monday Night Prayer"
@@ -3069,24 +3111,24 @@
             "entities": {
                 "PERSON": [
                     "Mike",
-                    "TC"
+                    "TC",
+                    "https://transformchurch.us/give/. Text \u2018"
+                ],
+                "ORG": [
+                    "friend!Join",
+                    "CST",
+                    "CST",
+                    "SAVED",
+                    "Transformation Church"
                 ],
                 "DATE": [
                     "every Sunday",
                     "Monday",
-                    "828282.<br",
                     "828282"
                 ],
                 "TIME": [
                     "11am",
                     "6pm"
-                ],
-                "ORG": [
-                    "CST",
-                    "CST",
-                    "SAVED",
-                    "Transformation Church",
-                    "rel=\"noopener\">https://www.instagram.com/wearetransformation/?hl"
                 ],
                 "WORK_OF_ART": [
                     "Monday Night Prayer"
@@ -3122,24 +3164,24 @@
             "entities": {
                 "PERSON": [
                     "Pastor Mike",
-                    "TC"
+                    "TC",
+                    "https://transformchurch.us/give/. Text \u2018"
+                ],
+                "ORG": [
+                    "friend!Join",
+                    "CST",
+                    "CST",
+                    "SAVED",
+                    "Transformation Church"
                 ],
                 "DATE": [
                     "every Sunday",
                     "Monday",
-                    "828282.<br",
                     "828282"
                 ],
                 "TIME": [
                     "11am",
                     "6pm"
-                ],
-                "ORG": [
-                    "CST",
-                    "CST",
-                    "SAVED",
-                    "Transformation Church",
-                    "rel=\"noopener\">https://www.instagram.com/wearetransformation/?hl"
                 ],
                 "WORK_OF_ART": [
                     "Monday Night Prayer"
@@ -3175,12 +3217,12 @@
             "entities": {
                 "PERSON": [
                     "Pastor Mike",
-                    "TC"
+                    "TC",
+                    "https://transformchurch.us/give/. Text \u2018"
                 ],
                 "DATE": [
                     "every Sunday",
                     "Monday",
-                    "828282.<br",
                     "828282"
                 ],
                 "TIME": [
@@ -3191,8 +3233,7 @@
                     "CST",
                     "CST",
                     "SAVED",
-                    "Transformation Church",
-                    "rel=\"noopener\">https://www.instagram.com/wearetransformation/?hl"
+                    "Transformation Church"
                 ],
                 "WORK_OF_ART": [
                     "Monday Night Prayer"
@@ -3228,12 +3269,12 @@
             "entities": {
                 "PERSON": [
                     "Pastor Mike",
-                    "TC"
+                    "TC",
+                    "https://transformchurch.us/give/. Text \u2018"
                 ],
                 "DATE": [
                     "every Sunday",
                     "Monday",
-                    "828282.<br",
                     "828282"
                 ],
                 "TIME": [
@@ -3244,8 +3285,7 @@
                     "CST",
                     "CST",
                     "SAVED",
-                    "Transformation Church",
-                    "rel=\"noopener\">https://www.instagram.com/wearetransformation/?hl"
+                    "Transformation Church"
                 ],
                 "WORK_OF_ART": [
                     "Monday Night Prayer"
@@ -3281,12 +3321,12 @@
             "entities": {
                 "PERSON": [
                     "Pastor Mike",
-                    "TC"
+                    "TC",
+                    "https://transformchurch.us/give/. Text \u2018"
                 ],
                 "DATE": [
                     "every Sunday",
                     "Monday",
-                    "828282.<br",
                     "828282"
                 ],
                 "TIME": [
@@ -3297,8 +3337,7 @@
                     "CST",
                     "CST",
                     "SAVED",
-                    "Transformation Church",
-                    "rel=\"noopener\">https://www.instagram.com/wearetransformation/?hl"
+                    "Transformation Church"
                 ],
                 "WORK_OF_ART": [
                     "Monday Night Prayer"
@@ -3334,12 +3373,12 @@
             "entities": {
                 "PERSON": [
                     "Michael",
-                    "TC"
+                    "TC",
+                    "https://transformchurch.us/give/. Text \u2018"
                 ],
                 "DATE": [
                     "every Sunday",
                     "Monday",
-                    "828282.<br",
                     "828282"
                 ],
                 "TIME": [
@@ -3350,8 +3389,7 @@
                     "CST",
                     "CST",
                     "SAVED",
-                    "Transformation Church",
-                    "rel=\"noopener\">https://www.instagram.com/wearetransformation/?hl"
+                    "Transformation Church"
                 ],
                 "WORK_OF_ART": [
                     "Monday Night Prayer"
@@ -3388,7 +3426,6 @@
                 "DATE": [
                     "every Sunday",
                     "Monday",
-                    "828282.<br",
                     "828282"
                 ],
                 "TIME": [
@@ -3399,14 +3436,14 @@
                     "CST",
                     "CST",
                     "SAVED",
-                    "Transformation Church",
-                    "rel=\"noopener\">https://www.instagram.com/wearetransformation/?hl"
+                    "Transformation Church"
                 ],
                 "WORK_OF_ART": [
                     "Monday Night Prayer"
                 ],
                 "PERSON": [
-                    "TC"
+                    "TC",
+                    "https://transformchurch.us/give/. Text \u2018"
                 ],
                 "CARDINAL": [
                     "transformchurch.us"
@@ -3441,13 +3478,13 @@
                     "Today",
                     "every Sunday",
                     "Monday",
-                    "828282.<br",
                     "828282"
                 ],
                 "PERSON": [
                     "Crazyer Faith",
                     "Pastor Michael",
-                    "TC"
+                    "TC",
+                    "https://transformchurch.us/give/. Text \u2018"
                 ],
                 "TIME": [
                     "11am",
@@ -3457,8 +3494,7 @@
                     "CST",
                     "CST",
                     "SAVED",
-                    "Transformation Church",
-                    "rel=\"noopener\">https://www.instagram.com/wearetransformation/?hl"
+                    "Transformation Church"
                 ],
                 "WORK_OF_ART": [
                     "Monday Night Prayer"
@@ -3495,7 +3531,6 @@
                     "the sixth week",
                     "every Sunday",
                     "Monday",
-                    "828282.<br",
                     "828282"
                 ],
                 "CARDINAL": [
@@ -3509,8 +3544,7 @@
                     "CST",
                     "CST",
                     "SAVED",
-                    "Transformation Church",
-                    "rel=\"noopener\">https://www.instagram.com/wearetransformation/?hl"
+                    "Transformation Church"
                 ],
                 "TIME": [
                     "11am",
@@ -3520,7 +3554,8 @@
                     "Monday Night Prayer"
                 ],
                 "PERSON": [
-                    "TC"
+                    "TC",
+                    "https://transformchurch.us/give/. Text \u2018"
                 ]
             }
         },
@@ -3551,7 +3586,6 @@
                     "the fifth week",
                     "every Sunday",
                     "Monday",
-                    "828282.<br",
                     "828282"
                 ],
                 "CARDINAL": [
@@ -3565,8 +3599,7 @@
                     "CST",
                     "CST",
                     "SAVED",
-                    "Transformation Church",
-                    "rel=\"noopener\">https://www.instagram.com/wearetransformation/?hl"
+                    "Transformation Church"
                 ],
                 "TIME": [
                     "11am",
@@ -3576,7 +3609,8 @@
                     "Monday Night Prayer"
                 ],
                 "PERSON": [
-                    "TC"
+                    "TC",
+                    "https://transformchurch.us/give/. Text \u2018"
                 ]
             }
         },
@@ -3607,12 +3641,12 @@
                     "the fourth week",
                     "every Sunday",
                     "Monday",
-                    "828282.<br",
                     "828282"
                 ],
                 "PERSON": [
                     "Tim Ross",
-                    "TC"
+                    "TC",
+                    "https://transformchurch.us/give/. Text \u2018"
                 ],
                 "TIME": [
                     "11am",
@@ -3622,8 +3656,7 @@
                     "CST",
                     "CST",
                     "SAVED",
-                    "Transformation Church",
-                    "rel=\"noopener\">https://www.instagram.com/wearetransformation/?hl"
+                    "Transformation Church"
                 ],
                 "WORK_OF_ART": [
                     "Monday Night Prayer"
@@ -3661,7 +3694,6 @@
                     "Today",
                     "every Sunday",
                     "Monday",
-                    "828282.<br",
                     "828282"
                 ],
                 "ORG": [
@@ -3669,8 +3701,7 @@
                     "CST",
                     "CST",
                     "SAVED",
-                    "Transformation Church",
-                    "rel=\"noopener\">https://www.instagram.com/wearetransformation/?hl"
+                    "Transformation Church"
                 ],
                 "TIME": [
                     "11am",
@@ -3680,7 +3711,8 @@
                     "Monday Night Prayer"
                 ],
                 "PERSON": [
-                    "TC"
+                    "TC",
+                    "https://transformchurch.us/give/. Text \u2018"
                 ],
                 "CARDINAL": [
                     "transformchurch.us"
@@ -3714,12 +3746,12 @@
                     "the second week",
                     "every Sunday",
                     "Monday",
-                    "828282.<br",
                     "828282"
                 ],
                 "PERSON": [
                     "Charles Metcalf",
-                    "TC"
+                    "TC",
+                    "https://transformchurch.us/give/. Text \u2018"
                 ],
                 "TIME": [
                     "11am",
@@ -3729,8 +3761,7 @@
                     "CST",
                     "CST",
                     "SAVED",
-                    "Transformation Church",
-                    "rel=\"noopener\">https://www.instagram.com/wearetransformation/?hl"
+                    "Transformation Church"
                 ],
                 "WORK_OF_ART": [
                     "Monday Night Prayer"
@@ -3769,13 +3800,13 @@
                     "the first week",
                     "every Sunday",
                     "Monday",
-                    "828282.<br",
                     "828282"
                 ],
                 "PERSON": [
                     "Brie Davis",
                     "Brie",
-                    "TC"
+                    "TC",
+                    "https://transformchurch.us/give/. Text \u2018"
                 ],
                 "PRODUCT": [
                     "I\u2019m Hurting"
@@ -3788,8 +3819,7 @@
                     "CST",
                     "CST",
                     "SAVED",
-                    "Transformation Church",
-                    "rel=\"noopener\">https://www.instagram.com/wearetransformation/?hl"
+                    "Transformation Church"
                 ],
                 "WORK_OF_ART": [
                     "Monday Night Prayer"
@@ -3830,7 +3860,6 @@
                     "this year",
                     "every Sunday",
                     "Monday",
-                    "828282.<br",
                     "828282"
                 ],
                 "ORG": [
@@ -3840,8 +3869,7 @@
                     "CST",
                     "CST",
                     "SAVED",
-                    "Transformation Church",
-                    "rel=\"noopener\">https://www.instagram.com/wearetransformation/?hl"
+                    "Transformation Church"
                 ],
                 "PERSON": [
                     "Bianca",
@@ -3849,7 +3877,8 @@
                     "Ryen",
                     "Bianca",
                     "Jesus Christ",
-                    "TC"
+                    "TC",
+                    "https://transformchurch.us/give/. Text \u2018"
                 ],
                 "WORK_OF_ART": [
                     "The Father\u2019s House",
@@ -3898,7 +3927,6 @@
                     "This week",
                     "every Sunday",
                     "Monday",
-                    "828282.<br",
                     "828282"
                 ],
                 "ORG": [
@@ -3907,13 +3935,13 @@
                     "CST",
                     "CST",
                     "SAVED",
-                    "Transformation Church",
-                    "rel=\"noopener\">https://www.instagram.com/wearetransformation/?hl"
+                    "Transformation Church"
                 ],
                 "PERSON": [
                     "Mike Jr.",
-                    "JaQuetta.<br",
-                    "TC"
+                    "JaQuetta",
+                    "TC",
+                    "https://transformchurch.us/give/. Text \u2018"
                 ],
                 "WORK_OF_ART": [
                     "Pastor Mike Jr.",
@@ -3960,7 +3988,6 @@
                     "Today",
                     "every Sunday",
                     "Monday",
-                    "828282.<br",
                     "828282"
                 ],
                 "ORG": [
@@ -3969,14 +3996,14 @@
                     "CST",
                     "CST",
                     "SAVED",
-                    "Transformation Church",
-                    "rel=\"noopener\">https://www.instagram.com/wearetransformation/?hl"
+                    "Transformation Church"
                 ],
                 "PERSON": [
                     "Mike Jr.",
                     "JaQuetta",
                     "Pastor Chad",
-                    "TC"
+                    "TC",
+                    "https://transformchurch.us/give/. Text \u2018"
                 ],
                 "WORK_OF_ART": [
                     "Pastor Mike Jr.",
@@ -4024,15 +4051,13 @@
                     "summer",
                     "This week",
                     "20 years",
-                    "828282.<br",
                     "828282"
                 ],
                 "ORG": [
                     "FUN",
                     "Social Dallas",
                     "SAVED",
-                    "Transformation Church",
-                    "rel=\"noopener\">https://www.instagram.com/wearetransformation/?hl"
+                    "Transformation Church"
                 ],
                 "PERSON": [
                     "Robert Madu",
@@ -4040,7 +4065,8 @@
                     "Pastor Robert",
                     "Taylor",
                     "Pastor Robert",
-                    "TC"
+                    "TC",
+                    "https://transformchurch.us/give/. Text \u2018"
                 ],
                 "GPE": [
                     "Dallas",
@@ -4079,13 +4105,13 @@
                     "the fourth week",
                     "every Sunday",
                     "Monday",
-                    "828282.<br",
                     "828282"
                 ],
                 "PERSON": [
                     "Joseph",
                     "Pastor Charles",
-                    "TC"
+                    "TC",
+                    "https://transformchurch.us/give/. Text \u2018"
                 ],
                 "TIME": [
                     "11am",
@@ -4095,8 +4121,7 @@
                     "CST",
                     "CST",
                     "SAVED",
-                    "Transformation Church",
-                    "rel=\"noopener\">https://www.instagram.com/wearetransformation/?hl"
+                    "Transformation Church"
                 ],
                 "WORK_OF_ART": [
                     "Monday Night Prayer"
@@ -4133,12 +4158,12 @@
                     "the third week",
                     "every Sunday",
                     "Monday",
-                    "828282.<br",
                     "828282"
                 ],
                 "PERSON": [
                     "Charles",
-                    "TC"
+                    "TC",
+                    "https://transformchurch.us/give/. Text \u2018"
                 ],
                 "TIME": [
                     "11am",
@@ -4148,8 +4173,7 @@
                     "CST",
                     "CST",
                     "SAVED",
-                    "Transformation Church",
-                    "rel=\"noopener\">https://www.instagram.com/wearetransformation/?hl"
+                    "Transformation Church"
                 ],
                 "WORK_OF_ART": [
                     "Monday Night Prayer"
@@ -4185,7 +4209,6 @@
                 "DATE": [
                     "every Sunday",
                     "Monday",
-                    "828282.<br",
                     "828282"
                 ],
                 "TIME": [
@@ -4196,14 +4219,14 @@
                     "CST",
                     "CST",
                     "SAVED",
-                    "Transformation Church",
-                    "rel=\"noopener\">https://www.instagram.com/wearetransformation/?hl"
+                    "Transformation Church"
                 ],
                 "WORK_OF_ART": [
                     "Monday Night Prayer"
                 ],
                 "PERSON": [
-                    "TC"
+                    "TC",
+                    "https://transformchurch.us/give/. Text \u2018"
                 ],
                 "CARDINAL": [
                     "transformchurch.us"
@@ -4237,7 +4260,6 @@
                     "the second week",
                     "every Sunday",
                     "Monday",
-                    "828282.<br",
                     "828282"
                 ],
                 "TIME": [
@@ -4248,14 +4270,14 @@
                     "CST",
                     "CST",
                     "SAVED",
-                    "Transformation Church",
-                    "rel=\"noopener\">https://www.instagram.com/wearetransformation/?hl"
+                    "Transformation Church"
                 ],
                 "WORK_OF_ART": [
                     "Monday Night Prayer"
                 ],
                 "PERSON": [
-                    "TC"
+                    "TC",
+                    "https://transformchurch.us/give/. Text \u2018"
                 ],
                 "CARDINAL": [
                     "transformchurch.us"
@@ -4289,21 +4311,20 @@
                     "the first week",
                     "every Sunday",
                     "Monday",
-                    "828282.<br",
                     "828282"
                 ],
                 "PERSON": [
                     "Pastor Charles",
                     "Calling",
-                    "TC"
+                    "TC",
+                    "https://transformchurch.us/give/. Text \u2018"
                 ],
                 "ORG": [
                     "Purpose",
                     "CST",
                     "CST",
                     "SAVED",
-                    "Transformation Church",
-                    "rel=\"noopener\">https://www.instagram.com/wearetransformation/?hl"
+                    "Transformation Church"
                 ],
                 "TIME": [
                     "11am",
@@ -4344,7 +4365,6 @@
                     "Week 7",
                     "every Sunday",
                     "Monday",
-                    "828282.<br",
                     "828282"
                 ],
                 "WORK_OF_ART": [
@@ -4363,11 +4383,11 @@
                     "CST",
                     "CST",
                     "SAVED",
-                    "Transformation Church",
-                    "rel=\"noopener\">https://www.instagram.com/wearetransformation/?hl"
+                    "Transformation Church"
                 ],
                 "PERSON": [
-                    "TC"
+                    "TC",
+                    "https://transformchurch.us/give/. Text \u2018"
                 ]
             }
         },
@@ -4401,7 +4421,6 @@
                     "828282",
                     "every Sunday",
                     "Monday",
-                    "828282.<br",
                     "828282"
                 ],
                 "CARDINAL": [
@@ -4416,14 +4435,14 @@
                     "CST",
                     "CST",
                     "SAVED",
-                    "Transformation Church",
-                    "rel=\"noopener\">https://www.instagram.com/wearetransformation/?hl"
+                    "Transformation Church"
                 ],
                 "WORK_OF_ART": [
                     "Monday Night Prayer"
                 ],
                 "PERSON": [
-                    "TC"
+                    "TC",
+                    "https://transformchurch.us/give/. Text \u2018"
                 ]
             }
         },
@@ -4455,7 +4474,6 @@
                     "Today",
                     "every Sunday",
                     "Monday",
-                    "828282.<br",
                     "828282"
                 ],
                 "WORK_OF_ART": [
@@ -4470,11 +4488,11 @@
                     "CST",
                     "CST",
                     "SAVED",
-                    "Transformation Church",
-                    "rel=\"noopener\">https://www.instagram.com/wearetransformation/?hl"
+                    "Transformation Church"
                 ],
                 "PERSON": [
-                    "TC"
+                    "TC",
+                    "https://transformchurch.us/give/. Text \u2018"
                 ],
                 "CARDINAL": [
                     "transformchurch.us"
@@ -4508,7 +4526,6 @@
                     "Week 4",
                     "every Sunday",
                     "Monday",
-                    "828282.<br",
                     "828282"
                 ],
                 "CARDINAL": [
@@ -4523,15 +4540,15 @@
                     "CST",
                     "CST",
                     "SAVED",
-                    "Transformation Church",
-                    "rel=\"noopener\">https://www.instagram.com/wearetransformation/?hl"
+                    "Transformation Church"
                 ],
                 "PERSON": [
                     "Gifts",
                     "Gifts",
                     "Pastor Michael",
                     "Gifts",
-                    "TC"
+                    "TC",
+                    "https://transformchurch.us/give/. Text \u2018"
                 ],
                 "TIME": [
                     "11am",
@@ -4569,21 +4586,20 @@
                     "Week 3",
                     "every Sunday",
                     "Monday",
-                    "828282.<br",
                     "828282"
                 ],
                 "PERSON": [
                     "Upgrade",
                     "Michael Todd",
-                    "TC"
+                    "TC",
+                    "https://transformchurch.us/give/. Text \u2018"
                 ],
                 "ORG": [
                     "the Full Trinity",
                     "CST",
                     "CST",
                     "SAVED",
-                    "Transformation Church",
-                    "rel=\"noopener\">https://www.instagram.com/wearetransformation/?hl"
+                    "Transformation Church"
                 ],
                 "WORK_OF_ART": [
                     "The Holy Spirit",
@@ -4625,12 +4641,12 @@
                     "Week 2",
                     "every Sunday",
                     "Monday",
-                    "828282.<br",
                     "828282"
                 ],
                 "PERSON": [
                     "Upgrade",
-                    "TC"
+                    "TC",
+                    "https://transformchurch.us/give/. Text \u2018"
                 ],
                 "WORK_OF_ART": [
                     "The Holy Spirit",
@@ -4648,8 +4664,7 @@
                     "CST",
                     "CST",
                     "SAVED",
-                    "Transformation Church",
-                    "rel=\"noopener\">https://www.instagram.com/wearetransformation/?hl"
+                    "Transformation Church"
                 ]
             }
         },
@@ -4680,12 +4695,12 @@
                     "Today",
                     "every Sunday",
                     "Monday",
-                    "828282.<br",
                     "828282"
                 ],
                 "PERSON": [
                     "Upgrade",
-                    "TC"
+                    "TC",
+                    "https://transformchurch.us/give/. Text \u2018"
                 ],
                 "WORK_OF_ART": [
                     "The Holy Spirit",
@@ -4700,8 +4715,7 @@
                     "CST",
                     "CST",
                     "SAVED",
-                    "Transformation Church",
-                    "rel=\"noopener\">https://www.instagram.com/wearetransformation/?hl"
+                    "Transformation Church"
                 ],
                 "CARDINAL": [
                     "transformchurch.us"
@@ -4735,12 +4749,12 @@
                     "Resurrection Sunday",
                     "every Sunday",
                     "Monday",
-                    "828282.<br",
                     "828282"
                 ],
                 "PERSON": [
                     "Michael",
-                    "TC"
+                    "TC",
+                    "https://transformchurch.us/give/. Text \u2018"
                 ],
                 "FAC": [
                     "Easter Sunday"
@@ -4753,8 +4767,7 @@
                     "CST",
                     "CST",
                     "SAVED",
-                    "Transformation Church",
-                    "rel=\"noopener\">https://www.instagram.com/wearetransformation/?hl"
+                    "Transformation Church"
                 ],
                 "WORK_OF_ART": [
                     "Monday Night Prayer"
@@ -4794,7 +4807,6 @@
                 "DATE": [
                     "every Sunday",
                     "Monday",
-                    "828282.<br",
                     "828282"
                 ],
                 "TIME": [
@@ -4805,14 +4817,14 @@
                     "CST",
                     "CST",
                     "SAVED",
-                    "Transformation Church",
-                    "rel=\"noopener\">https://www.instagram.com/wearetransformation/?hl"
+                    "Transformation Church"
                 ],
                 "WORK_OF_ART": [
                     "Monday Night Prayer"
                 ],
                 "PERSON": [
-                    "TC"
+                    "TC",
+                    "https://transformchurch.us/give/. Text \u2018"
                 ],
                 "CARDINAL": [
                     "transformchurch.us",
@@ -4850,7 +4862,6 @@
                     "the fourth week",
                     "every Sunday",
                     "Monday",
-                    "828282.<br",
                     "828282"
                 ],
                 "WORK_OF_ART": [
@@ -4862,7 +4873,6 @@
                     "Second",
                     "first",
                     "first",
-                    "First",
                     "First"
                 ],
                 "ORG": [
@@ -4871,12 +4881,12 @@
                     "CST",
                     "CST",
                     "SAVED",
-                    "Transformation Church",
-                    "rel=\"noopener\">https://www.instagram.com/wearetransformation/?hl"
+                    "Transformation Church"
                 ],
                 "PERSON": [
                     "Michael",
-                    "TC"
+                    "TC",
+                    "https://transformchurch.us/give/. Text \u2018"
                 ],
                 "TIME": [
                     "11am",
@@ -4885,7 +4895,7 @@
                 "CARDINAL": [
                     "transformchurch.us",
                     "12",
-                    "19",
+                    "1901:21:09",
                     "14"
                 ]
             }
@@ -4981,7 +4991,6 @@
                     "the first week",
                     "every Sunday",
                     "Monday",
-                    "828282.<br",
                     "828282"
                 ],
                 "ORG": [
@@ -4990,7 +4999,7 @@
                     "CST",
                     "SAVED",
                     "Transformation Church",
-                    "rel=\"noopener\">https://www.instagram.com/wearetransformation/?hl"
+                    "PURPOSE51:57 - PROVISION Follows"
                 ],
                 "WORK_OF_ART": [
                     "Are You Chasing Paper",
@@ -5002,11 +5011,7 @@
                 "PERSON": [
                     "a Purpose Chaser",
                     "TC",
-                    "br />36:18 - Luke Chapter 16",
-                    "br />48:10 - Proverbs Chapter",
-                    "br />51:57 - PROVISION",
-                    "br />53:37 - Luke Chapter 12",
-                    "br />55:37 - 1 Kings"
+                    "https://transformchurch.us/give/. Text \u2018"
                 ],
                 "TIME": [
                     "11am",
@@ -5014,19 +5019,20 @@
                 ],
                 "CARDINAL": [
                     "transformchurch.us",
-                    "24",
-                    "12",
-                    "33",
-                    "24",
-                    "41",
+                    "1222:52",
+                    "3325:24",
+                    "10",
+                    "4155:37",
                     "17",
                     "2",
                     "18",
-                    "17"
+                    "17",
+                    "2701:04:55"
                 ],
                 "LAW": [
                     "Chapter 11",
-                    "Chapter 28"
+                    "Chapter 28",
+                    "Chapter 19"
                 ]
             }
         },
@@ -5092,7 +5098,6 @@
                     "God this year",
                     "every Sunday",
                     "Monday",
-                    "828282.<br",
                     "828282",
                     "21",
                     "43"
@@ -5100,10 +5105,7 @@
                 "PERSON": [
                     "Paul",
                     "TC",
-                    "br />26:39 - 2021 Is",
-                    "br />39:03 - James Chapter 1",
-                    "br />46:32 - ARROGANCE Is The PRIMARY Ingredient That Will Make You ASSUME You Can Take",
-                    "br />55:12 - 2 Timothy Chapter 3 Verse 1 through",
+                    "https://transformchurch.us/give/. Text \u2018",
                     "n\u2019t Matter"
                 ],
                 "TIME": [
@@ -5115,33 +5117,30 @@
                     "CST",
                     "SAVED",
                     "Transformation Church",
-                    "rel=\"noopener\">https://www.instagram.com/wearetransformation/?hl",
-                    "CALM",
-                    "CRISIS"
+                    "DECISION39:03 - James Chapter 1",
+                    "CALM"
                 ],
                 "WORK_OF_ART": [
                     "Monday Night Prayer"
                 ],
                 "CARDINAL": [
                     "transformchurch.us",
-                    "19",
-                    "17",
-                    "4",
+                    "815:11",
+                    "2315:20",
+                    "1915:30",
+                    "1715:48",
+                    "616:23",
+                    "419:27",
                     "10",
                     "13",
-                    "15",
-                    "13",
-                    "27",
+                    "1",
                     "14",
-                    "15",
                     "18",
-                    "22",
-                    "23",
-                    "26"
+                    "2001:01:25",
+                    "23"
                 ],
                 "LAW": [
                     "Chapter 5",
-                    "Chapter 4",
                     "Chapter 5",
                     "Chapter 27",
                     "Chapter 27",
@@ -5149,10 +5148,14 @@
                     "Chapter 27"
                 ],
                 "EVENT": [
-                    "The Year Of The ANTI-DRIFT"
+                    "The Year Of The ANTI-DRIFT - The Myth Of The DRIFT"
                 ],
                 "PRODUCT": [
                     "VS"
+                ],
+                "QUANTITY": [
+                    "456:56 - Acts 27",
+                    "2601:08:07 - Acts Chapter"
                 ]
             }
         },
@@ -5251,22 +5254,23 @@
                 ],
                 "PERSON": [
                     "Jesus",
-                    "TC"
+                    "TC",
+                    "https://transformchurch.us/give/. Text \u2018"
+                ],
+                "ORG": [
+                    "friend!Join",
+                    "CST",
+                    "NoonDay Prayer",
+                    "CST",
+                    "SAVED",
+                    "Transformation Church"
                 ],
                 "TIME": [
                     "11am",
                     "12pm"
                 ],
-                "ORG": [
-                    "CST",
-                    "NoonDay Prayer",
-                    "CST",
-                    "SAVED",
-                    "Transformation Church",
-                    "rel=\"noopener\">https://www.instagram.com/wearetransformation/?hl"
-                ],
                 "CARDINAL": [
-                    "918-992-7623.<br",
+                    "918",
                     "transformchurch.us"
                 ]
             }
@@ -5298,10 +5302,12 @@
                     "Us"
                 ],
                 "PERSON": [
-                    "Michael Todd<br />An",
-                    "TC"
+                    "Michael ToddAn Anchor",
+                    "TC",
+                    "https://transformchurch.us/give/. Text \u2018"
                 ],
                 "DATE": [
+                    "Holds?Today",
                     "21 Days",
                     "every Sunday",
                     "weekly",
@@ -5316,11 +5322,10 @@
                     "NoonDay Prayer",
                     "CST",
                     "SAVED",
-                    "Transformation Church",
-                    "rel=\"noopener\">https://www.instagram.com/wearetransformation/?hl"
+                    "Transformation Church"
                 ],
                 "CARDINAL": [
-                    "918-992-7623.<br",
+                    "918",
                     "transformchurch.us"
                 ]
             }
@@ -5360,7 +5365,8 @@
                 ],
                 "PERSON": [
                     "Michael",
-                    "TC"
+                    "TC",
+                    "https://transformchurch.us/give/. Text \u2018"
                 ],
                 "ORG": [
                     "Vision",
@@ -5371,15 +5377,14 @@
                     "NoonDay Prayer",
                     "CST",
                     "SAVED",
-                    "Transformation Church",
-                    "rel=\"noopener\">https://www.instagram.com/wearetransformation/?hl"
+                    "Transformation Church"
                 ],
                 "TIME": [
                     "11am",
                     "12pm"
                 ],
                 "CARDINAL": [
-                    "918-992-7623.<br",
+                    "918",
                     "transformchurch.us"
                 ]
             }
@@ -5449,19 +5454,19 @@
                     "NoonDay Prayer",
                     "CST",
                     "SAVED",
-                    "Transformation Church",
-                    "rel=\"noopener\">https://www.instagram.com/wearetransformation/?hl"
+                    "Transformation Church"
                 ],
                 "TIME": [
                     "11am",
                     "12pm"
                 ],
                 "CARDINAL": [
-                    "918-992-7623.<br",
+                    "918",
                     "transformchurch.us"
                 ],
                 "PERSON": [
-                    "TC"
+                    "TC",
+                    "https://transformchurch.us/give/. Text \u2018"
                 ]
             }
         },
@@ -5501,19 +5506,19 @@
                     "NoonDay Prayer",
                     "CST",
                     "SAVED",
-                    "Transformation Church",
-                    "rel=\"noopener\">https://www.instagram.com/wearetransformation/?hl"
+                    "Transformation Church"
                 ],
                 "PERSON": [
                     "God",
-                    "TC"
+                    "TC",
+                    "https://transformchurch.us/give/. Text \u2018"
                 ],
                 "TIME": [
                     "11am",
                     "12pm"
                 ],
                 "CARDINAL": [
-                    "918-992-7623.<br",
+                    "918",
                     "transformchurch.us"
                 ]
             }
@@ -5556,22 +5561,25 @@
                     "NoonDay Prayer",
                     "CST",
                     "SAVED",
-                    "Transformation Church",
-                    "rel=\"noopener\">https://www.instagram.com/wearetransformation/?hl"
+                    "Transformation Church"
                 ],
                 "GPE": [
                     "US"
+                ],
+                "LOC": [
+                    "freedom!Join"
                 ],
                 "TIME": [
                     "11am",
                     "12pm"
                 ],
                 "CARDINAL": [
-                    "918-992-7623.<br",
+                    "918",
                     "transformchurch.us"
                 ],
                 "PERSON": [
-                    "TC"
+                    "TC",
+                    "https://transformchurch.us/give/. Text \u2018"
                 ]
             }
         },
@@ -5606,27 +5614,26 @@
                 ],
                 "ORG": [
                     "\u201cForgiveness University",
+                    "you!Join us",
                     "CST",
                     "NoonDay Prayer",
                     "SAVED",
-                    "Transformation Church",
-                    "rel=\"noopener\">https://www.instagram.com/wearetransformation/?hl"
+                    "Transformation Church"
                 ],
                 "PERSON": [
                     "Lysa TerKeurst",
                     "TC",
+                    "https://transformchurch.us/give/.",
                     "Text"
                 ],
                 "TIME": [
                     "11am",
                     "12pm"
                 ],
-                "NORP": [
-                    "CST).<br"
-                ],
                 "CARDINAL": [
-                    "918-992-7623.<br",
-                    "77977.<br"
+                    "918",
+                    "77977.If",
+                    "transformchurch.us"
                 ]
             }
         },
@@ -5666,20 +5673,20 @@
                     "NoonDay Prayer",
                     "CST",
                     "SAVED",
-                    "Transformation Church",
-                    "rel=\"noopener\">https://www.instagram.com/wearetransformation/?hl"
+                    "Transformation Church"
                 ],
                 "PERSON": [
                     "Michael",
                     "Unaware",
-                    "TC"
+                    "TC",
+                    "https://transformchurch.us/give/. Text \u2018"
                 ],
                 "TIME": [
                     "11 am",
                     "12pm"
                 ],
                 "CARDINAL": [
-                    "918-992-7623.<br",
+                    "918",
                     "transformchurch.us"
                 ]
             }
@@ -5792,9 +5799,10 @@
             "title": "Forgiveness Understood // The Forgiveness Process // FU Forgiveness University (Part 4) Michael Todd",
             "entities": {
                 "PERSON": [
-                    "Mike Todd<",
+                    "Mike ToddToday",
                     "Pastor Michael",
-                    "TC"
+                    "TC",
+                    "https://transformchurch.us/give/. Text \u2018"
                 ],
                 "ORG": [
                     "\u201cForgiveness University",
@@ -5814,11 +5822,8 @@
                     "11am",
                     "12pm"
                 ],
-                "NORP": [
-                    "CST).<br"
-                ],
                 "CARDINAL": [
-                    "918-992-7623.<br",
+                    "918",
                     "transformchurch.us"
                 ]
             }
@@ -5920,20 +5925,21 @@
                     "NoonDay Prayer",
                     "CST",
                     "SAVED",
-                    "Transformation Church",
-                    "rel=\"noopener\">https://www.instagram.com/wearetransformation/?hl"
+                    "Transformation Church"
                 ],
                 "CARDINAL": [
                     "1",
-                    "918-992-7623.<br",
+                    "918",
                     "transformchurch.us"
                 ],
                 "PERSON": [
-                    "Michael Todd<br",
+                    "Michael ToddDescription",
                     "Pastor Michael",
-                    "TC"
+                    "TC",
+                    "https://transformchurch.us/give/. Text \u2018"
                 ],
                 "DATE": [
+                    "Today",
                     "This week",
                     "every Sunday",
                     "weekly",
@@ -6178,7 +6184,7 @@
             "title": "Run Your Race // Fun Month at TC(Week 3) Pastor Craig Groeschel",
             "entities": {
                 "PERSON": [
-                    "Craig Groeschel",
+                    "Craig GroeschelDo",
                     "Pastor Craig",
                     "Jesus"
                 ],
@@ -6242,22 +6248,21 @@
             "title": "Pressed + Purposed // Fun Month (Bianca Olthoff)(Week 1)",
             "entities": {
                 "ORG": [
-                    "Bianca",
+                    "Bianca Olthoff",
                     "Bianca",
                     "Pastor Bianca Olthoff",
                     "House"
-                ],
-                "PERSON": [
-                    "do.<br",
-                    "Throwback",
-                    "OC",
-                    "Matt Olthoff"
                 ],
                 "DATE": [
                     "Fun Month",
                     "this Sunday",
                     "Sunday",
                     "Today"
+                ],
+                "PERSON": [
+                    "Throwback",
+                    "OC",
+                    "Matt Olthoff"
                 ],
                 "GPE": [
                     "California"
@@ -6315,11 +6320,12 @@
             "pubDate": "Mon, 20 Jul 2020 17:59:18 +0000",
             "title": "There's No Condom For Your Heart // Relationship Goals Reloaded (Part 9)",
             "entities": {
-                "PERSON": [
-                    "Pastor Mike"
-                ],
                 "DATE": [
+                    "ties?Today",
                     "week 9"
+                ],
+                "PERSON": [
+                    "Mike"
                 ]
             }
         },

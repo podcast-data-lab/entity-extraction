@@ -77,8 +77,8 @@
                 "CARDINAL": [
                     "one"
                 ],
-                "PERCENT": [
-                    "more than 30 years.</p"
+                "DATE": [
+                    "more than 30 years"
                 ]
             }
         },
@@ -149,6 +149,9 @@
                 ],
                 "ORG": [
                     "Shelli"
+                ],
+                "GPE": [
+                    "Arizona"
                 ]
             }
         },
@@ -218,7 +221,7 @@
             "entities": {
                 "PERSON": [
                     "Kim",
-                    "Fred Lamb.</p"
+                    "Fred Lamb"
                 ],
                 "CARDINAL": [
                     "two"
@@ -1110,7 +1113,7 @@
                     "The New York Times"
                 ],
                 "PERSON": [
-                    "Zoe Chace.</p>"
+                    "Zoe Chace"
                 ]
             }
         },
@@ -1190,7 +1193,8 @@
                 "ORG": [
                     "Chana",
                     "Success Academy",
-                    "BHS"
+                    "BHS",
+                    "SIS"
                 ],
                 "CARDINAL": [
                     "two",
@@ -1246,7 +1250,7 @@
                     "the years"
                 ],
                 "CARDINAL": [
-                    "293.</p><img"
+                    "293"
                 ]
             }
         },
@@ -1284,11 +1288,10 @@
                 "ORG": [
                     "the New York City Board of Education",
                     "the School for International Studies",
-                    "Brown v. Board of Education",
-                    "planned.</p><img"
+                    "Brown v. Board of Education"
                 ],
                 "PRODUCT": [
-                    "I.S. 293.</p>"
+                    "I.S. 293"
                 ],
                 "DATE": [
                     "1963",
@@ -1948,7 +1951,7 @@
             "pubDate": "Fri, 19 Feb 2016 10:30:00 +0000",
             "title": "Serial S02 - Ep. 8: Hindsight, Part 2",
             "entities": {
-                "PERSON": [
+                "ORG": [
                     "Woulda"
                 ]
             }
@@ -1980,7 +1983,11 @@
             "link": "https://serialpodcast.org/season-two/7/hindsight-part-1",
             "pubDate": "Thu, 18 Feb 2016 10:30:00 +0000",
             "title": "Serial S02 - Ep. 7: Hindsight, Part 1",
-            "entities": {}
+            "entities": {
+                "PERSON": [
+                    "Bowe Bergdahl"
+                ]
+            }
         },
         {
             "author": "serialshows@nytimes.com (This American Life)",
@@ -2046,11 +2053,13 @@
                 "ORG": [
                     "CIA",
                     "FBI",
-                    "YouTube",
-                    "Bergdahl"
+                    "YouTube"
                 ],
                 "GPE": [
                     "the Portland PD"
+                ],
+                "PERSON": [
+                    "Bergdahl"
                 ]
             }
         },
@@ -2111,6 +2120,9 @@
             "pubDate": "Thu, 24 Dec 2015 10:30:00 +0000",
             "title": "Serial S02 - Ep. 3: Escaping",
             "entities": {
+                "ORG": [
+                    "Bergdahl\u2019s"
+                ],
                 "DATE": [
                     "first year"
                 ]
@@ -2147,8 +2159,7 @@
                 "ORG": [
                     "Bergdahl",
                     "Taliban",
-                    "the U.S. Army\u2019s",
-                    "us?<img"
+                    "the U.S. Army\u2019s"
                 ],
                 "DATE": [
                     "those days",
@@ -2584,10 +2595,8 @@
                     "Adnan",
                     "Jay",
                     "Jay",
+                    "Jay",
                     "Jay"
-                ],
-                "PRODUCT": [
-                    "Jay?<img"
                 ]
             }
         },
@@ -2716,7 +2725,7 @@
                     "21 minutes"
                 ],
                 "DATE": [
-                    "January 13th, 1999.<br"
+                    "January 13th, 1999"
                 ]
             }
         },

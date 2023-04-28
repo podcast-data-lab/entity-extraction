@@ -2374,13 +2374,20 @@
             "pubDate": "Thu, 21 Nov 2019 02:57:00 GMT",
             "title": "Kenyan Plug Pod Presents Sheng with Shi: Episode 8 ",
             "entities": {
-                "CARDINAL": [
-                    "#"
+                "MONEY": [
+                    "#Kenyanslang #Shenglessons"
+                ],
+                "WORK_OF_ART": [
+                    "Music\nIntro/ Outro"
                 ],
                 "PERSON": [
                     "Suzziah ft Barak",
+                    "Formu",
                     "Nitakuhara",
                     "Bora Uhai"
+                ],
+                "DATE": [
+                    "this week"
                 ],
                 "GPE": [
                     "Rada"
@@ -2414,27 +2421,32 @@
             "entities": {
                 "CARDINAL": [
                     "42",
-                    "11:00)</p",
-                    "23:30)</p",
+                    "254",
                     "254"
                 ],
                 "ORG": [
                     "Forbidden Fruit",
                     "Charcoal"
                 ],
+                "TIME": [
+                    "01:33",
+                    "11:00",
+                    "23:30"
+                ],
                 "PERSON": [
                     "Kenyan Excellence",
-                    "Xenia Manasseh"
+                    "Xenia Manasseh",
+                    "Enjoy"
                 ],
                 "GPE": [
                     "Kenyan",
                     "Empawa"
                 ],
+                "WORK_OF_ART": [
+                    "Controversy:"
+                ],
                 "NORP": [
                     "African"
-                ],
-                "DATE": [
-                    "Nuffa 23"
                 ]
             }
         },
@@ -2464,14 +2476,19 @@
             "title": "Kenyan Plug Pod Presents Sheng with Shi: Episode 7",
             "entities": {
                 "PERSON": [
-                    "Shi",
+                    "Sheng with Shi",
                     "Intro",
                     "Trap Tears - Baraka",
-                    "Benny Ali &",
-                    "Joseph Kiwango</p"
+                    "Benny Ali & Joseph Kiwango\n\u00a0"
                 ],
                 "DATE": [
-                    "This weeks"
+                    "Wednesday",
+                    "weeks"
+                ],
+                "ORG": [
+                    "Unadai",
+                    "Twende",
+                    "Amenishikisha"
                 ]
             }
         },
@@ -2503,9 +2520,11 @@
                 "CARDINAL": [
                     "41"
                 ],
+                "WORK_OF_ART": [
+                    "Music\nIntro: Cashmere Tears- Kojey Radical",
+                    "Controversy of the week"
+                ],
                 "PERSON": [
-                    "Intro",
-                    "Kojey Radical",
                     "Code Switch",
                     "Kenyan Excellence",
                     "Kenyan Hip Hop Awards"
@@ -2513,8 +2532,13 @@
                 "GPE": [
                     "Unkut Africa"
                 ],
-                "WORK_OF_ART": [
-                    "Controversy of the week"
+                "TIME": [
+                    "08:07",
+                    "24:43",
+                    "29:52"
+                ],
+                "NORP": [
+                    "Artist"
                 ],
                 "ORG": [
                     "Kojey Radical and Elaine"
@@ -2550,7 +2574,16 @@
                     "New week"
                 ],
                 "ORG": [
-                    "Intro/Outro"
+                    "Bamba"
+                ],
+                "PERSON": [
+                    "Chocha"
+                ],
+                "WORK_OF_ART": [
+                    "Bonus:"
+                ],
+                "GPE": [
+                    "Intro"
                 ],
                 "ORDINAL": [
                     "7th"
@@ -2587,22 +2620,26 @@
                 ],
                 "CARDINAL": [
                     "10",
-                    "6:30)</p",
-                    "8:54)</p",
-                    "32:30)</p"
+                    "26:05"
                 ],
-                "ORG": [
-                    "NAYE TUNYUMIRWE &",
-                    "Urges &nbsp;(04:48)</p"
+                "WORK_OF_ART": [
+                    "Intro: Enjoyment (",
+                    "Controversy of the week",
+                    "MBA"
                 ],
                 "PERSON": [
-                    "RICKMAN MANRICK Prod Artin",
+                    "Outro",
                     "Jesus Walks",
                     "Kanye West",
                     "Kenyan Excellence"
                 ],
-                "DATE": [
-                    "the week"
+                "TIME": [
+                    "04:48",
+                    "6:30",
+                    "32:30"
+                ],
+                "GPE": [
+                    "Noma"
                 ]
             }
         },
@@ -2634,11 +2671,16 @@
                 "NORP": [
                     "Kenyan"
                 ],
-                "CARDINAL": [
-                    "#"
+                "PERSON": [
+                    "Umeweza",
+                    "Dai"
                 ],
                 "ORG": [
-                    "Magix Enga &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;https://www.youtube.com"
+                    "Unadai"
+                ],
+                "WORK_OF_ART": [
+                    "Dunda: Club\u00a0\nDundaing: Clubbing",
+                    "Music\u00a0\nIntro: Tunji -Dash https://www.youtube.com/watch?v=gRFa-RgaPNg\nOutro:"
                 ]
             }
         },
@@ -2672,13 +2714,14 @@
                 ],
                 "PERSON": [
                     "Sheng",
-                    "Dez-Lotto"
+                    "Nimeisha"
                 ],
                 "CARDINAL": [
                     "three"
                 ],
-                "ORG": [
-                    "Intro/Outro"
+                "GPE": [
+                    "Imenikalia",
+                    "Nimeisha"
                 ]
             }
         },
@@ -2712,15 +2755,16 @@
                 ],
                 "ORG": [
                     "Intro/Outro",
-                    "href=\"https://soundcloud.com",
-                    "Toxicity</p",
                     "United Masters-Artist Plug"
                 ],
                 "PERSON": [
                     "Jakk Quill",
-                    "Vin Diesel&nbsp;</p",
+                    "Vin Diesel",
                     "Kenyan Excellence",
-                    "Eluid Kipchoge</p"
+                    "Eluid Kipchoge"
+                ],
+                "WORK_OF_ART": [
+                    "Heat of the Week"
                 ],
                 "TIME": [
                     "20:57"
@@ -2758,6 +2802,7 @@
                 "PERSON": [
                     "Sheng",
                     "Rieng",
+                    "Rada\nRieng",
                     "Rada"
                 ],
                 "ORG": [
@@ -2923,17 +2968,25 @@
             "entities": {
                 "CARDINAL": [
                     "36",
-                    "#"
+                    "#",
+                    "Nineteen"
                 ],
                 "PERSON": [
                     "Pesh",
-                    "Bey",
                     "Oksyde ft Katapilla",
-                    "Tunji https://www.youtube.com/watch?v=3vKEa9YF2Rk</p",
-                    "Kenyan Excellence:</p"
+                    "Kenyan Excellence"
                 ],
                 "ORG": [
-                    "Monski &"
+                    "Monski & Tunji https://www.youtube.com/watch?v=3vKEa9YF2Rk\n\nBrand New Episodes of Sheng with Shi!"
+                ],
+                "DATE": [
+                    "Tuesday"
+                ],
+                "GPE": [
+                    "Meme"
+                ],
+                "WORK_OF_ART": [
+                    "Kile Mwoto hi"
                 ]
             }
         },
@@ -2966,12 +3019,18 @@
                     "Chai"
                 ],
                 "WORK_OF_ART": [
-                    "the \"Queendom."
+                    "the \"Queendom",
+                    "Kile Mwoto Hi Wiki"
                 ],
                 "PERSON": [
+                    "Meme",
                     "Kenyan Excellence",
                     "Muthoni Drummer Queen",
-                    "KhaliCartel3"
+                    "Noma Ni"
+                ],
+                "TIME": [
+                    "25:49",
+                    "26:22"
                 ],
                 "CARDINAL": [
                     "two"
@@ -3002,21 +3061,28 @@
             "title": "Kenyan Plug Podcast Episode 34: I Can't",
             "entities": {
                 "ORG": [
-                    "Intro &",
+                    "Intro & Outro",
+                    "Ngori\u00a0\n\nSocials of",
                     "Mogul",
                     "IG"
-                ],
-                "PERSON": [
-                    "Outro",
-                    "Kulishwa L&nbsp;</p",
-                    "Kenyan Excellence",
-                    "@theaddress_ke"
                 ],
                 "GPE": [
                     "Xenia"
                 ],
+                "PERSON": [
+                    "Kulishwa L\u00a0\n",
+                    "Kenyan Excellence",
+                    "@theaddress_ke",
+                    "Noma Ni"
+                ],
+                "WORK_OF_ART": [
+                    "Kile Mwoto"
+                ],
                 "NORP": [
                     "Kenyan"
+                ],
+                "DATE": [
+                    "early teenage years"
                 ]
             }
         },
@@ -3045,25 +3111,32 @@
             "pubDate": "Tue, 08 Oct 2019 17:30:59 GMT",
             "title": "Kenyan Plug Podcast Episode 33: Balance",
             "entities": {
+                "ORG": [
+                    "Intro",
+                    "Kwa",
+                    "Kenyan Music Scene\u00a0\nNoma Ni"
+                ],
+                "GPE": [
+                    "Meme"
+                ],
+                "DATE": [
+                    "the Week",
+                    "the week"
+                ],
                 "TIME": [
-                    "03:56"
+                    "03:56",
+                    "22:40"
                 ],
                 "PERSON": [
                     "Kwagramvitunidifferent",
-                    "Kenyan Excellence"
-                ],
-                "ORG": [
-                    "Kwa"
+                    "Kenyan Excellence",
+                    "Adoveli Podcast"
                 ],
                 "PRODUCT": [
                     "254 Podcast"
                 ],
                 "MONEY": [
-                    "254Drip&nbsp;</p",
-                    "22:40) &nbsp;Kenyan Music Scene&nbsp;</p"
-                ],
-                "DATE": [
-                    "the week"
+                    "#254Drip\u00a0\n"
                 ],
                 "NORP": [
                     "Kenyan"
@@ -3103,14 +3176,12 @@
                     "Nuffa"
                 ],
                 "WORK_OF_ART": [
-                    "MBA"
+                    "MBA",
+                    "Raw 2"
                 ],
                 "PERSON": [
                     "Beat Alert",
-                    "Dope"
-                ],
-                "ORG": [
-                    "Raw 2"
+                    "Intro"
                 ]
             }
         },

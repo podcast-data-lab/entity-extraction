@@ -37,7 +37,7 @@
             "title": "Are All Religions The Same?",
             "entities": {
                 "PERSON": [
-                    "Andy Mburu.</p"
+                    "Andy Mburu"
                 ]
             }
         },
@@ -68,6 +68,9 @@
             "entities": {
                 "NORP": [
                     "Christian"
+                ],
+                "GPE": [
+                    "Lwanda"
                 ]
             }
         },
@@ -125,7 +128,11 @@
             "link": "https://podcasters.spotify.com/pod/show/noel-nderitu/episodes/Engaging-Culture-e1319mj",
             "pubDate": "Fri, 18 Jun 2021 17:00:00 GMT",
             "title": "Engaging Culture",
-            "entities": {}
+            "entities": {
+                "PERSON": [
+                    "Charles Righa"
+                ]
+            }
         },
         {
             "content": "<p>An introduction to what apologetics is all about. Featuring Andy Mburu. We also touch on whether Christianity is the white man's religion and whether the Bible is reliable.</p>\n",
@@ -257,6 +264,9 @@
             "entities": {
                 "GPE": [
                     "Kenya"
+                ],
+                "LOC": [
+                    "West"
                 ]
             }
         }

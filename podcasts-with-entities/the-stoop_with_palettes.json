@@ -49,15 +49,15 @@
             "entities": {
                 "PERSON": [
                     "Leila",
+                    "Hana",
                     "Joshua Johnson",
                     "Hana"
                 ],
-                "ORG": [
-                    "Hana.</p",
-                    "W. Kamau Bell"
-                ],
                 "GPE": [
                     "Leila"
+                ],
+                "ORG": [
+                    "W. Kamau Bell"
                 ]
             }
         },
@@ -152,6 +152,9 @@
             "pubDate": "Fri, 13 Jan 2023 05:09:53 -0000",
             "title": "I Belong to Me",
             "entities": {
+                "CARDINAL": [
+                    "One"
+                ],
                 "DATE": [
                     "Today",
                     "Regina"
@@ -201,13 +204,13 @@
             "entities": {
                 "GPE": [
                     "Afro",
-                    "Duran",
                     "Duran"
                 ],
                 "PERSON": [
                     "Duran Durag",
                     "Saturn",
-                    "Sai Sion"
+                    "Sai Sion",
+                    "Duran Durag"
                 ],
                 "ORG": [
                     "Blackity-Blacktic",
@@ -302,9 +305,6 @@
             "pubDate": "Fri, 02 Dec 2022 06:37:43 -0000",
             "title": "Inside These Walls",
             "entities": {
-                "DATE": [
-                    "Today"
-                ],
                 "PERSON": [
                     "Leila"
                 ],
@@ -465,6 +465,14 @@
             "pubDate": "Fri, 21 Oct 2022 00:07:34 -0000",
             "title": "Reclaiming Black in Australia",
             "entities": {
+                "PERSON": [
+                    "Stoopin",
+                    "Rhianna Patrick",
+                    "Rhianna",
+                    "Jackie Huggins",
+                    "Daniel Browning",
+                    "Will Rhianna"
+                ],
                 "GPE": [
                     "Australia"
                 ],
@@ -472,13 +480,6 @@
                     "Indigenous",
                     "Blackness",
                     "Aurora Liddle Christie"
-                ],
-                "PERSON": [
-                    "Rhianna Patrick",
-                    "Rhianna",
-                    "Jackie Huggins",
-                    "Daniel Browning",
-                    "Will Rhianna"
                 ],
                 "NORP": [
                     "Jamaican",
@@ -578,7 +579,7 @@
                 "PERSON": [
                     "Psyche Williams-Forson",
                     "Gail Myers",
-                    "Bryant Terry.</em></p"
+                    "Bryant Terry"
                 ],
                 "NORP": [
                     "Anthropologist"
@@ -678,7 +679,7 @@
                     "summer"
                 ],
                 "PERSON": [
-                    "RuPaul",
+                    "RuPaul\u2019s Drag Race",
                     "Bob the Drag Queen",
                     "Shangela",
                     "BeBe Zahara Benet",
@@ -720,13 +721,11 @@
                 ],
                 "PERSON": [
                     "Afia",
-                    "Afia"
+                    "Afia",
+                    "S***hole Country"
                 ],
                 "DATE": [
                     "Today"
-                ],
-                "PRODUCT": [
-                    "S***hole"
                 ]
             }
         },
@@ -1387,7 +1386,8 @@
                     "Love\u2019s Not Colorblind: Race and Representation"
                 ],
                 "LOC": [
-                    "Crystal"
+                    "Crystal",
+                    "Black"
                 ]
             }
         },
@@ -1424,7 +1424,8 @@
                     "Angela"
                 ],
                 "CARDINAL": [
-                    "3"
+                    "3",
+                    "911"
                 ]
             }
         },
@@ -1489,7 +1490,7 @@
                 ],
                 "DATE": [
                     "this season",
-                    "August 19th!</p"
+                    "August 19th"
                 ],
                 "GPE": [
                     "Hana",
@@ -1528,7 +1529,7 @@
                 "PERSON": [
                     "Chris Stewart",
                     "Rob Fields",
-                    "Sam Adewumi.</p"
+                    "Sam Adewumi"
                 ]
             }
         },
@@ -1672,7 +1673,7 @@
             "title": "EP 48: Butter on a Burn",
             "entities": {
                 "ORG": [
-                    "superstitions &"
+                    "superstitions & home"
                 ],
                 "PERSON": [
                     "Hana"
@@ -1722,7 +1723,7 @@
                     "HBCU"
                 ],
                 "PERSON": [
-                    "Stacey Abrams</p"
+                    "Stacey Abrams"
                 ]
             }
         },
@@ -1767,7 +1768,8 @@
                     "Natalie Gill",
                     "Noleca Radway",
                     "Natalie Gill",
-                    "Michael Oshindoro"
+                    "Crishan Wright",
+                    "Michael Oshindoro Crishan"
                 ],
                 "GPE": [
                     "Ethiopia",
@@ -1775,9 +1777,6 @@
                 ],
                 "LOC": [
                     "Noleca Radway"
-                ],
-                "ORG": [
-                    "Crishan Wright &"
                 ]
             }
         },
@@ -2012,7 +2011,8 @@
                 "PERSON": [
                     "Papi Oji",
                     "Stephen Ojo",
-                    "Judicaelle\u00a0Irakoze"
+                    "Judicaelle\u00a0Irakoze",
+                    "Tineka Smith"
                 ],
                 "NORP": [
                     "Africans",
@@ -2050,14 +2050,11 @@
             "pubDate": "Thu, 11 Jun 2020 05:26:08 -0000",
             "title": "Ep 39: For Ima",
             "entities": {
-                "PERSON": [
-                    "We're"
-                ],
                 "DATE": [
                     "14-year-old"
                 ],
-                "PRODUCT": [
-                    "Ima.\u00a0<"
+                "ORG": [
+                    "Ima.\u00a0\n      "
                 ]
             }
         },
@@ -2132,11 +2129,7 @@
             "link": "https://beta.prx.org/stories/364949",
             "pubDate": "Wed, 01 Apr 2020 05:43:43 -0000",
             "title": "Ep 37: Together and apart",
-            "entities": {
-                "PERSON": [
-                    "We're"
-                ]
-            }
+            "entities": {}
         },
         {
             "author": "hangout@thestoop.org (Hana Baba and Leila Day)",
@@ -2260,7 +2253,7 @@
                 "PERSON": [
                     "Sequoia Holmes",
                     "Jessica Jupiter",
-                    "Kelly Wickham Hurst</em"
+                    "Kelly Wickham Hurst"
                 ],
                 "WORK_OF_ART": [
                     "Black Women"
@@ -2338,20 +2331,19 @@
             "pubDate": "Wed, 04 Dec 2019 21:58:10 -0000",
             "title": "EP. 32: In Deep Waters",
             "entities": {
-                "DATE": [
-                    "Season 4",
-                    "Today"
-                ],
                 "PERCENT": [
                     "nearly 70%"
                 ],
                 "NORP": [
                     "African American"
                 ],
+                "DATE": [
+                    "Today"
+                ],
                 "PERSON": [
                     "Jen Chien Sound",
                     "Seth Samuel Associate",
-                    "Natalie Peart</p"
+                    "Natalie Peart"
                 ]
             }
         },
@@ -2510,8 +2502,7 @@
             "entities": {
                 "PERSON": [
                     "Killer Mike",
-                    "Mike",
-                    "We're"
+                    "Mike"
                 ],
                 "DATE": [
                     "3 days"
@@ -2830,8 +2821,8 @@
                     "Furqan",
                     "Fatima Jones",
                     "Aponi",
-                    "Robert Liu-Trujillo.</p",
-                    "Robert Liu-Trujillo</p"
+                    "Robert Liu-Trujillo",
+                    "Robert Liu-Trujillo"
                 ],
                 "ORG": [
                     "Furqan"
@@ -3177,7 +3168,7 @@
                 ],
                 "PERSON": [
                     "Aesha Ashe",
-                    "Theresa Ruth Howard.</p"
+                    "Theresa Ruth Howard"
                 ]
             }
         },
@@ -3211,9 +3202,6 @@
             "pubDate": "Wed, 21 Mar 2018 01:12:27 -0000",
             "title": "Episode 11: Pretty for a dark-skinned girl",
             "entities": {
-                "DATE": [
-                    "Season 2"
-                ],
                 "ORG": [
                     "Compton"
                 ],
@@ -3259,8 +3247,7 @@
                     "Stoop"
                 ],
                 "DATE": [
-                    "a full season",
-                    "Leila Day"
+                    "a full season"
                 ],
                 "PERSON": [
                     "Hana Baba"
@@ -3301,6 +3288,9 @@
             "entities": {
                 "PERSON": [
                     "Stacia Brown"
+                ],
+                "LOC": [
+                    "Black"
                 ]
             }
         },
@@ -3379,7 +3369,7 @@
                 ],
                 "PERSON": [
                     "Yaa Gyasi",
-                    "DJ Taha"
+                    "DJ Taha Roubi"
                 ]
             }
         },
@@ -3501,14 +3491,17 @@
                 ],
                 "PERSON": [
                     "Meklit Hadero",
-                    "Alsarah"
+                    "Alsarah",
+                    "Episode"
                 ],
                 "GPE": [
-                    "Oddisee"
+                    "Oddisee",
+                    "Nubatones"
                 ],
                 "NORP": [
                     "AlSarah",
-                    "African"
+                    "African",
+                    "American"
                 ]
             }
         },
@@ -3596,7 +3589,7 @@
                     "Chinaka Hodge",
                     "Seth Samuel Illustration",
                     "Neema Iyer",
-                    "Megan Jones</p"
+                    "Megan Jones"
                 ]
             }
         },
@@ -3636,8 +3629,7 @@
                 "PERSON": [
                     "Hana Baba",
                     "Hana",
-                    "Hana Baba Sound Design",
-                    "Jef Cunningham Digital Production/PodOps: Megan Jones</p"
+                    "Jef Cunningham Digital Production/PodOps: Megan Jones"
                 ],
                 "GPE": [
                     "Leila"
@@ -3645,7 +3637,7 @@
                 "ORG": [
                     "Stoop",
                     "iTunes",
-                    "Leila Day &"
+                    "Leila Day & Hana Baba Sound Design"
                 ]
             }
         },
@@ -3688,20 +3680,17 @@
                     "Hana",
                     "Instagram",
                     "Stoop",
-                    "Serie McDougal",
-                    "Digital Production/PodOps: Megan Jones</p"
+                    "Serie McDougal"
                 ],
                 "CARDINAL": [
-                    "2"
+                    "2",
+                    "#"
                 ],
                 "PERSON": [
                     "Al Letson",
                     "Al Letson",
-                    "Chris Hoff</p",
-                    "Neema"
-                ],
-                "MONEY": [
-                    "#blacklove"
+                    "Chris Hoff",
+                    "Neema Iyer"
                 ],
                 "PRODUCT": [
                     "Twitter"
@@ -3738,6 +3727,9 @@
             "pubDate": "Wed, 19 Jul 2017 04:48:35 -0000",
             "title": "Episode 1: Nice tribal wear. Now take it off.",
             "entities": {
+                "CARDINAL": [
+                    "1"
+                ],
                 "NORP": [
                     "African",
                     "African Americans",
@@ -3747,16 +3739,15 @@
                     "Leila Day"
                 ],
                 "PERSON": [
-                    "Hana Baba"
+                    "Hana Baba",
+                    "Twitter"
                 ],
                 "ORG": [
-                    "Stoop"
+                    "Stoop",
+                    "Instagram"
                 ],
                 "ORDINAL": [
                     "first"
-                ],
-                "PRODUCT": [
-                    "Twitter"
                 ]
             }
         },
@@ -3792,7 +3783,6 @@
             "title": "Preview The Stoop",
             "entities": {
                 "DATE": [
-                    "Preview Season 1",
                     "Season 1",
                     "Summer 2017",
                     "Leila Day"

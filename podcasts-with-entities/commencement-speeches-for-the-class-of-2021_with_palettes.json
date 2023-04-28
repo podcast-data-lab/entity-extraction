@@ -34,13 +34,14 @@
             "entities": {
                 "DATE": [
                     "2021",
-                    "Saturday"
+                    "Saturday",
+                    "2021"
                 ],
                 "PERSON": [
                     "Bowen Yang"
                 ],
-                "CARDINAL": [
-                    "2021.</p><p"
+                "PRODUCT": [
+                    "Learn"
                 ]
             }
         },
@@ -68,13 +69,14 @@
             "title": "Ben Bowlin",
             "entities": {
                 "DATE": [
+                    "2021",
                     "2021"
                 ],
                 "PERSON": [
                     "Ben Bowlin"
                 ],
-                "CARDINAL": [
-                    "2021.</p><p"
+                "PRODUCT": [
+                    "Learn"
                 ]
             }
         },
@@ -104,13 +106,14 @@
             "entities": {
                 "DATE": [
                     "2021",
-                    "today"
+                    "today",
+                    "2021"
                 ],
                 "PERSON": [
                     "Jo Piazza"
                 ],
-                "CARDINAL": [
-                    "2021.</p><p"
+                "PRODUCT": [
+                    "Learn"
                 ]
             }
         },
@@ -138,13 +141,14 @@
             "title": "Demi Lovato",
             "entities": {
                 "DATE": [
+                    "2021",
                     "2021"
                 ],
                 "PERSON": [
                     "Demi Lovato"
                 ],
-                "CARDINAL": [
-                    "2021.</p><p"
+                "PRODUCT": [
+                    "Learn"
                 ]
             }
         },
@@ -177,6 +181,9 @@
                 ],
                 "PERSON": [
                     "Nikki Glaser"
+                ],
+                "PRODUCT": [
+                    "Learn"
                 ]
             }
         },
@@ -204,10 +211,11 @@
             "title": "Minnie Driver",
             "entities": {
                 "DATE": [
+                    "2021",
                     "2021"
                 ],
-                "CARDINAL": [
-                    "2021.</p><p"
+                "PRODUCT": [
+                    "Learn"
                 ]
             }
         },
@@ -235,6 +243,7 @@
             "title": "Michelle Williams",
             "entities": {
                 "DATE": [
+                    "2021",
                     "2021"
                 ],
                 "ORG": [
@@ -243,8 +252,8 @@
                 "PERSON": [
                     "Michelle Williams"
                 ],
-                "CARDINAL": [
-                    "2021.</p><p"
+                "PRODUCT": [
+                    "Learn"
                 ]
             }
         },
@@ -272,13 +281,14 @@
             "title": "Erin Andrews",
             "entities": {
                 "DATE": [
+                    "2021",
                     "2021"
                 ],
                 "PERSON": [
                     "Erin Andrews"
                 ],
-                "CARDINAL": [
-                    "2021.</p><p"
+                "PRODUCT": [
+                    "Learn"
                 ]
             }
         },
@@ -311,8 +321,14 @@
                     "Academy Award",
                     "John Legend"
                 ],
+                "ORG": [
+                    "R&B"
+                ],
                 "ORDINAL": [
                     "first"
+                ],
+                "PRODUCT": [
+                    "Learn"
                 ]
             }
         },
@@ -344,6 +360,9 @@
                 "PERSON": [
                     "Bill",
                     "Melinda Gates"
+                ],
+                "PRODUCT": [
+                    "Learn"
                 ]
             }
         },
@@ -370,13 +389,14 @@
             "title": "Halsey",
             "entities": {
                 "DATE": [
+                    "2020",
                     "2020"
                 ],
                 "PERSON": [
                     "Halsey"
                 ],
-                "CARDINAL": [
-                    "2020.</p><p"
+                "PRODUCT": [
+                    "Learn"
                 ]
             }
         },
@@ -410,6 +430,9 @@
                 ],
                 "ORG": [
                     "Eli Manning"
+                ],
+                "PRODUCT": [
+                    "Learn"
                 ]
             }
         },
@@ -439,11 +462,7 @@
                     "Aaron Mahnke",
                     "Lore",
                     "Aaron Mahnke\u2019s",
-                    "Dana Schwartz.</p><p"
-                ],
-                "DATE": [
-                    "2015",
-                    "2016"
+                    "Dana Schwartz"
                 ],
                 "ORG": [
                     "Amazon",
@@ -455,6 +474,9 @@
                 ],
                 "FAC": [
                     "Noble Blood"
+                ],
+                "PRODUCT": [
+                    "Learn"
                 ]
             }
         },
@@ -494,6 +516,9 @@
                 ],
                 "PERSON": [
                     "Abby Wambach"
+                ],
+                "PRODUCT": [
+                    "Learn"
                 ]
             }
         },
@@ -520,13 +545,17 @@
             "title": "Angela Yee",
             "entities": {
                 "DATE": [
-                    "2020"
+                    "2020",
+                    "tomorrow"
                 ],
                 "PERSON": [
                     "Angela Yee"
                 ],
                 "ORG": [
                     "The Breakfast Club"
+                ],
+                "PRODUCT": [
+                    "Learn"
                 ]
             }
         },
@@ -565,6 +594,9 @@
                 ],
                 "ORG": [
                     "New York Times"
+                ],
+                "PRODUCT": [
+                    "Learn"
                 ]
             }
         },
@@ -605,6 +637,9 @@
                 ],
                 "ORG": [
                     "X"
+                ],
+                "PRODUCT": [
+                    "Learn"
                 ]
             }
         },
@@ -635,6 +670,9 @@
                 ],
                 "PERSON": [
                     "Becky G"
+                ],
+                "PRODUCT": [
+                    "Learn"
                 ]
             }
         },
@@ -672,6 +710,9 @@
                 ],
                 "DATE": [
                     "weekly"
+                ],
+                "PRODUCT": [
+                    "Learn"
                 ]
             }
         },
@@ -702,6 +743,9 @@
                 ],
                 "ORG": [
                     "Bobbi Brown Cosmetics Bobbi Brown"
+                ],
+                "PRODUCT": [
+                    "Learn"
                 ]
             }
         },
@@ -735,6 +779,9 @@
                 ],
                 "PERSON": [
                     "Bobby Flay"
+                ],
+                "PRODUCT": [
+                    "Learn"
                 ]
             }
         },
@@ -765,6 +812,9 @@
                 ],
                 "PERSON": [
                     "Chelsea Handler"
+                ],
+                "PRODUCT": [
+                    "Learn"
                 ]
             }
         },
@@ -789,7 +839,11 @@
             "link": "https://omny.fm/shows/commencement-speeches-for-the-class-of-2021/chris-broussard",
             "pubDate": "Fri, 15 May 2020 10:02:00 +0000",
             "title": "Chris Broussard",
-            "entities": {}
+            "entities": {
+                "PERSON": [
+                    "Learn"
+                ]
+            }
         },
         {
             "content": "<p>In this episode of Commencement: Speeches for the Class of 2020, Chuck Bryant, co-host of the Stuff You Should Know podcast, reminds graduates to not let this season define them, reminding them the world believes in their ability to craft a better future for themselves.</p><p> </p> Learn more about your ad-choices at <a href=\"https://www.iheartpodcastnetwork.com\">https://www.iheartpodcastnetwork.com</a><p>See <a href=\"https://omnystudio.com/listener\">omnystudio.com/listener</a> for privacy information.</p>",
@@ -820,7 +874,10 @@
                     "Chuck Bryant"
                 ],
                 "ORG": [
-                    "the Stuff"
+                    "the Stuff You Should Know"
+                ],
+                "PRODUCT": [
+                    "Learn"
                 ]
             }
         },
@@ -854,6 +911,9 @@
                 ],
                 "PERSON": [
                     "Mike Krzyzewski"
+                ],
+                "PRODUCT": [
+                    "Learn"
                 ]
             }
         },
@@ -884,6 +944,9 @@
                 ],
                 "PERSON": [
                     "David Chang"
+                ],
+                "PRODUCT": [
+                    "Learn"
                 ]
             }
         },
@@ -917,6 +980,9 @@
                 ],
                 "ORG": [
                     "Goldman Sachs"
+                ],
+                "PRODUCT": [
+                    "Learn"
                 ]
             }
         },
@@ -942,8 +1008,11 @@
             "pubDate": "Fri, 15 May 2020 09:50:00 +0000",
             "title": "DJ Khaled",
             "entities": {
-                "CARDINAL": [
-                    "2020,</p><p"
+                "DATE": [
+                    "2020"
+                ],
+                "PRODUCT": [
+                    "Learn"
                 ]
             }
         },
@@ -975,6 +1044,9 @@
                 ],
                 "PERSON": [
                     "Doritos Valedictorian"
+                ],
+                "PRODUCT": [
+                    "Learn"
                 ]
             }
         },
@@ -1005,6 +1077,9 @@
                 ],
                 "PERSON": [
                     "Jennifer Aaker"
+                ],
+                "PRODUCT": [
+                    "Learn"
                 ]
             }
         },
@@ -1038,6 +1113,9 @@
                 ],
                 "ORG": [
                     "Columbia University"
+                ],
+                "PRODUCT": [
+                    "Learn"
                 ]
             }
         },
@@ -1071,11 +1149,14 @@
                 "ORG": [
                     "the Public Information Office",
                     "the U.S. Census Bureau",
-                    "the U.S. Census Bureau"
+                    "the U.S. Census Bureau",
+                    "the 2020 Census"
                 ],
                 "DATE": [
-                    "2020",
                     "2020"
+                ],
+                "PRODUCT": [
+                    "Learn"
                 ]
             }
         },
@@ -1109,6 +1190,9 @@
                 ],
                 "ORG": [
                     "iHeart Latino"
+                ],
+                "PRODUCT": [
+                    "Learn"
                 ]
             }
         },
@@ -1140,11 +1224,14 @@
                 ],
                 "PERSON": [
                     "Enrique Santos",
-                    "Ejecutivo Creativo",
-                    "del mundo.</p><p"
+                    "Ejecutivo Creativo"
                 ],
                 "PRODUCT": [
-                    "sean"
+                    "sean",
+                    "Learn"
+                ],
+                "ORG": [
+                    "del mundo"
                 ]
             }
         },
@@ -1177,6 +1264,9 @@
                 "ORG": [
                     "United States Army General",
                     "the McChrystal Group Stanley Allen McChrystal"
+                ],
+                "PRODUCT": [
+                    "Learn"
                 ]
             }
         },
@@ -1208,6 +1298,9 @@
                 ],
                 "PERSON": [
                     "George Lopez"
+                ],
+                "PRODUCT": [
+                    "Learn"
                 ]
             }
         },
@@ -1240,6 +1333,9 @@
                     "National Public Radio",
                     "NPR",
                     "The New York Times"
+                ],
+                "PRODUCT": [
+                    "Learn"
                 ]
             }
         },
@@ -1270,6 +1366,9 @@
                 ],
                 "PERSON": [
                     "Henry Winkler"
+                ],
+                "PRODUCT": [
+                    "Learn"
                 ]
             }
         },
@@ -1312,6 +1411,9 @@
                 "DATE": [
                     "today",
                     "2020"
+                ],
+                "PRODUCT": [
+                    "Learn"
                 ]
             }
         },
@@ -1345,6 +1447,9 @@
                 ],
                 "GPE": [
                     "Disgraceland"
+                ],
+                "PRODUCT": [
+                    "Learn"
                 ]
             }
         },
@@ -1381,6 +1486,9 @@
                 ],
                 "TIME": [
                     "a minute"
+                ],
+                "PRODUCT": [
+                    "Learn"
                 ]
             }
         },
@@ -1414,6 +1522,9 @@
                 ],
                 "ORG": [
                     "the Stuff You Should Know"
+                ],
+                "PRODUCT": [
+                    "Learn"
                 ]
             }
         },
@@ -1447,6 +1558,9 @@
                 ],
                 "PERSON": [
                     "Katie Couric"
+                ],
+                "PRODUCT": [
+                    "Learn"
                 ]
             }
         },
@@ -1477,6 +1591,9 @@
                 ],
                 "PERSON": [
                     "Kesha"
+                ],
+                "PRODUCT": [
+                    "Learn"
                 ]
             }
         },
@@ -1522,6 +1639,9 @@
                 "GPE": [
                     "US",
                     "US"
+                ],
+                "PRODUCT": [
+                    "Learn"
                 ]
             }
         },
@@ -1552,6 +1672,9 @@
                 ],
                 "PERSON": [
                     "Mary J. Blige"
+                ],
+                "PRODUCT": [
+                    "Learn"
                 ]
             }
         },
@@ -1586,6 +1709,9 @@
                 "ORG": [
                     "Ariel Investments",
                     "DreamWorks Animation"
+                ],
+                "PRODUCT": [
+                    "Learn"
                 ]
             }
         },
@@ -1616,6 +1742,9 @@
                 ],
                 "PERSON": [
                     "Mike Sievert"
+                ],
+                "PRODUCT": [
+                    "Learn"
                 ]
             }
         },
@@ -1646,6 +1775,9 @@
                 ],
                 "PERSON": [
                     "Pitbull"
+                ],
+                "PRODUCT": [
+                    "Learn"
                 ]
             }
         },
@@ -1670,7 +1802,11 @@
             "link": "https://omny.fm/shows/commencement-speeches-for-the-class-of-2021/pitbull-en-espa-ol",
             "pubDate": "Fri, 15 May 2020 08:58:00 +0000",
             "title": "Pitbull (En Espa\u00f1ol)",
-            "entities": {}
+            "entities": {
+                "PERSON": [
+                    "Learn"
+                ]
+            }
         },
         {
             "content": "<p><br></p><p> </p> Learn more about your ad-choices at <a href=\"https://www.iheartpodcastnetwork.com\">https://www.iheartpodcastnetwork.com</a><p>See <a href=\"https://omnystudio.com/listener\">omnystudio.com/listener</a> for privacy information.</p>",
@@ -1693,7 +1829,11 @@
             "link": "https://omny.fm/shows/commencement-speeches-for-the-class-of-2021/rita-wilson",
             "pubDate": "Fri, 15 May 2020 08:56:00 +0000",
             "title": "Rita Wilson",
-            "entities": {}
+            "entities": {
+                "PERSON": [
+                    "Learn"
+                ]
+            }
         },
         {
             "content": "<p>Ryan Seacrest is an Emmy-winning television host, radio personality, mega producer, entrepreneur, and philanthropist. As one of the most recognizable voices across television and radio, Seacrest is host of \u201cOn Air with Ryan Seacrest,\u201d his market-topping #1 nationally-syndicated LA morning drive-time show for iHeart Media\u2019s 102.7 KIIS-FM, as well as a nationally-syndicated Top 40 radio show.</p><p> </p> Learn more about your ad-choices at <a href=\"https://www.iheartpodcastnetwork.com\">https://www.iheartpodcastnetwork.com</a><p>See <a href=\"https://omnystudio.com/listener\">omnystudio.com/listener</a> for privacy information.</p>",
@@ -1737,6 +1877,9 @@
                 ],
                 "ORG": [
                     "iHeart Media\u2019s"
+                ],
+                "PRODUCT": [
+                    "Learn"
                 ]
             }
         },
@@ -1770,6 +1913,9 @@
                 ],
                 "CARDINAL": [
                     "half"
+                ],
+                "PRODUCT": [
+                    "Learn"
                 ]
             }
         },
@@ -1800,6 +1946,9 @@
                 ],
                 "PERSON": [
                     "Smokey Robinson"
+                ],
+                "PRODUCT": [
+                    "Learn"
                 ]
             }
         },
@@ -1831,6 +1980,9 @@
                 "ORG": [
                     "MSNBC",
                     "Stephanie Ruhle"
+                ],
+                "PRODUCT": [
+                    "Learn"
                 ]
             }
         },
@@ -1877,6 +2029,9 @@
                 ],
                 "ORDINAL": [
                     "first"
+                ],
+                "PRODUCT": [
+                    "Learn"
                 ]
             }
         },
@@ -1916,6 +2071,9 @@
                 ],
                 "PERSON": [
                     "Tim Cook"
+                ],
+                "PRODUCT": [
+                    "Learn"
                 ]
             }
         },
@@ -1947,6 +2105,9 @@
                 ],
                 "PERSON": [
                     "Tim McGraw"
+                ],
+                "PRODUCT": [
+                    "Learn"
                 ]
             }
         },
@@ -1977,6 +2138,9 @@
                 ],
                 "PERSON": [
                     "Tom Brokaw"
+                ],
+                "PRODUCT": [
+                    "Learn"
                 ]
             }
         },
@@ -2008,6 +2172,9 @@
                 "DATE": [
                     "2020",
                     "today"
+                ],
+                "PRODUCT": [
+                    "Learn"
                 ]
             }
         },
@@ -2034,8 +2201,7 @@
             "title": "Introducing - Commencement: Speeches For The Class 2020",
             "entities": {
                 "DATE": [
-                    "four long years",
-                    "2020"
+                    "four long years"
                 ],
                 "CARDINAL": [
                     "one",
@@ -2045,7 +2211,11 @@
                     "John Legend"
                 ],
                 "ORG": [
-                    "State Farm"
+                    "State Farm",
+                    "the 2020 Census"
+                ],
+                "PRODUCT": [
+                    "Learn"
                 ]
             }
         }

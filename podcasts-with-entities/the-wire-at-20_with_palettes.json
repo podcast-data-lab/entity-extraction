@@ -144,7 +144,7 @@
                     "Karen Thorson",
                     "Jermaine Crawford",
                     "Williams",
-                    "Michael Kenneth"
+                    "Michael Kenneth Williams"
                 ],
                 "CARDINAL": [
                     "one",
@@ -200,8 +200,8 @@
                 "WORK_OF_ART": [
                     "The Academy"
                 ],
-                "FAC": [
-                    "Season 4.</p><p"
+                "DATE": [
+                    "Season"
                 ]
             }
         },
@@ -229,16 +229,17 @@
             "pubDate": "Thu, 23 Jun 2022 13:00:00 +0000",
             "title": "\u201cWe're Making it for Baltimoreans\u201d (with Felicia \u201cSnoop\u201d Pearson)",
             "entities": {
-                "GPE": [
-                    "Baltimore",
-                    "Charm City",
-                    "Baltimore"
-                ],
                 "PERSON": [
+                    "Wire",
                     "David Simon",
                     "JD Williams",
                     "Method Man",
                     "Felicia"
+                ],
+                "GPE": [
+                    "Baltimore",
+                    "Charm City",
+                    "Baltimore"
                 ],
                 "CARDINAL": [
                     "20",
@@ -246,6 +247,9 @@
                 ],
                 "ORG": [
                     "Andre Royo"
+                ],
+                "PRODUCT": [
+                    "Pearson"
                 ]
             }
         },
@@ -275,6 +279,7 @@
             "entities": {
                 "PERSON": [
                     "Alexa Fogel",
+                    "Wire",
                     "Jimmy McNulty",
                     "Wendell Pierce",
                     "Domenick Lombardozzi",
@@ -285,6 +290,9 @@
                 "ORG": [
                     "Dominic West",
                     "Andre Royo"
+                ],
+                "DATE": [
+                    "between seasons"
                 ]
             }
         },
@@ -316,18 +324,17 @@
                     "Hassan Johnson",
                     "Method Man"
                 ],
-                "ORG": [
-                    "Roland &ldquo;Wee-Bey&rdquo",
-                    "Wee-Bey"
-                ],
-                "GPE": [
-                    "Brice"
+                "WORK_OF_ART": [
+                    "Roland \u201cWee-Bey\u201d Brice"
                 ],
                 "CARDINAL": [
                     "20"
                 ],
                 "LOC": [
                     "Staten Island"
+                ],
+                "ORG": [
+                    "Wee-Bey"
                 ]
             }
         },
@@ -395,7 +402,8 @@
                     "the HBO Original Series The Wire"
                 ],
                 "PERSON": [
-                    "Method Man"
+                    "Method Man",
+                    "Wire"
                 ],
                 "CARDINAL": [
                     "8"
@@ -454,11 +462,11 @@
         "ORG": [
             "HBO",
             "HBO",
-            "HBO"
+            "HBO Max"
         ],
         "PERSON": [
             "Method Man",
-            "David"
+            "David Simon\u2019s"
         ],
         "CARDINAL": [
             "eight",

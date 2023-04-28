@@ -80,6 +80,9 @@
                 "ORG": [
                     "Visa",
                     "MasterCard"
+                ],
+                "DATE": [
+                    "today"
                 ]
             }
         },
@@ -110,7 +113,8 @@
             "entities": {
                 "PERSON": [
                     "Patricia",
-                    "Pushkin"
+                    "Pushkin",
+                    "Pushkin.fm"
                 ],
                 "NORP": [
                     "OnlyFans",
@@ -143,9 +147,13 @@
             "pubDate": "Tue, 05 Jul 2022 04:01:00 +0000",
             "title": "Episode 6: Knocking on the Door of a Porn Empire",
             "entities": {
+                "CARDINAL": [
+                    "One"
+                ],
                 "PERSON": [
                     "Patricia",
-                    "Pushkin"
+                    "Pushkin",
+                    "Pushkin.fm"
                 ],
                 "GPE": [
                     "Prague"
@@ -184,7 +192,8 @@
                     "Almost overnight"
                 ],
                 "PERSON": [
-                    "Pushkin"
+                    "Pushkin",
+                    "Pushkin.fm"
                 ]
             }
         },
@@ -219,14 +228,16 @@
                 "GPE": [
                     "Ohio"
                 ],
+                "DATE": [
+                    "the early 1990s"
+                ],
                 "ORG": [
                     "FBI"
                 ],
-                "PRODUCT": [
-                    "Twitter"
-                ],
                 "PERSON": [
-                    "Pushkin"
+                    "Twitter",
+                    "Pushkin",
+                    "Pushkin.fm"
                 ]
             }
         },
@@ -259,14 +270,13 @@
                     "Fabian Thylmann",
                     "Patricia",
                     "Pushkin",
-                    "at&nbsp;</a><a href=\"http://pushkin.fm/"
+                    "Pushkin.fm"
                 ],
                 "ORG": [
                     "Goldman Sachs"
                 ],
                 "DATE": [
-                    "years",
-                    "you&rsquo;d"
+                    "years"
                 ]
             }
         },
@@ -296,13 +306,12 @@
             "title": "Episode 2: The Darth Vader of Porn",
             "entities": {
                 "DATE": [
-                    "A decade ago",
-                    "you&rsquo;d"
+                    "A decade ago"
                 ],
                 "PERSON": [
                     "Fabian Thylmann",
                     "Pushkin",
-                    "at&nbsp;</a><a href=\"http://pushkin.fm/"
+                    "Pushkin.fm"
                 ],
                 "CARDINAL": [
                     "one"
@@ -347,10 +356,7 @@
                     "Alex Barker",
                     "Patricia Nilsson",
                     "Pushkin",
-                    "at&nbsp;</a><a href=\"http://pushkin.fm/"
-                ],
-                "DATE": [
-                    "you&rsquo;d"
+                    "Pushkin.fm"
                 ]
             }
         },
@@ -387,7 +393,7 @@
                     "Alex Barker"
                 ],
                 "DATE": [
-                    "June"
+                    "June 7th"
                 ]
             }
         }

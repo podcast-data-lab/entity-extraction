@@ -36,22 +36,22 @@
             "entities": {
                 "PERSON": [
                     "Alfonso Cuaron",
-                    "Alfonso Cuaron"
+                    "Alfonso Cuaron",
+                    "Participant"
                 ],
                 "ORG": [
                     "Participant",
+                    "the Museum of Modern Art",
                     "Participant",
                     "NDWA",
-                    "the National Domestic Workers",
+                    "the National Domestic Workers Alliance",
                     "the National Domestic Workers Alliance",
                     "NDWA",
-                    "Sunstorm"
-                ],
-                "WORK_OF_ART": [
-                    "target=\"_blank\">Museum of Modern Art",
-                    "target=\"_blank\">Participant at MoMA"
+                    "Sunstorm",
+                    "NDWA.See Privacy Policy"
                 ],
                 "GPE": [
+                    "New York",
                     "Roma",
                     "Mexico",
                     "California"
@@ -84,22 +84,21 @@
             "title": "Reprise: Making Empathy Go Viral with Heather McGhee",
             "entities": {
                 "PERSON": [
+                    "Heather McGhee",
                     "Alicia",
-                    "Gary",
-                    "Participant"
+                    "Gary"
                 ],
                 "DATE": [
                     "2008",
                     "January 2020"
                 ],
-                "LOC": [
-                    "North Carolina.</p><p"
+                "GPE": [
+                    "North Carolina",
+                    "California"
                 ],
                 "ORG": [
-                    "NDWA"
-                ],
-                "GPE": [
-                    "California"
+                    "NDWA",
+                    "Participant Media"
                 ]
             }
         },
@@ -135,10 +134,11 @@
                     "this season"
                 ],
                 "ORG": [
-                    "the National Domestic Workers",
+                    "the National Domestic Workers Alliance",
                     "the National Domestic Workers Alliance",
                     "NDWA",
-                    "Sunstorm"
+                    "Sunstorm",
+                    "NDWA.See Privacy Policy"
                 ],
                 "GPE": [
                     "California"
@@ -172,18 +172,19 @@
             "entities": {
                 "ORG": [
                     "The Disability Visibility Project",
-                    "href=\"https://twitter.com",
-                    "the National Domestic Workers",
+                    "the National Domestic Workers Alliance",
                     "the National Domestic Workers Alliance",
                     "NDWA",
-                    "Sunstorm"
+                    "Sunstorm",
+                    "NDWA.See Privacy Policy"
                 ],
                 "PERSON": [
                     "Alice Wong\u2019s",
                     "Alicia",
                     "Covid",
                     "Alice",
-                    "Alice"
+                    "Alice",
+                    "@SFdirewolf Instagram"
                 ],
                 "GPE": [
                     "California"
@@ -216,15 +217,16 @@
             "title": "Tired and Excited with Baratunde Thurston",
             "entities": {
                 "PERSON": [
-                    "Baratunde Thurston",
-                    "America Outdoors</em"
+                    "Baratunde Thurston"
                 ],
                 "ORG": [
                     "PBS",
-                    "the National Domestic Workers",
+                    "America Outdoors",
+                    "the National Domestic Workers Alliance",
                     "the National Domestic Workers Alliance",
                     "NDWA",
-                    "Sunstorm"
+                    "Sunstorm",
+                    "NDWA.See Privacy Policy"
                 ],
                 "MONEY": [
                     "1"
@@ -365,10 +367,11 @@
                 ],
                 "ORG": [
                     "Peloton",
-                    "the National Domestic Workers",
+                    "the National Domestic Workers Alliance",
                     "the National Domestic Workers Alliance",
                     "NDWA",
-                    "Sunstorm"
+                    "Sunstorm",
+                    "NDWA.See Privacy Policy"
                 ],
                 "GPE": [
                     "California"
@@ -460,10 +463,11 @@
                 ],
                 "ORG": [
                     "the White House",
-                    "the National Domestic Workers",
+                    "the National Domestic Workers Alliance",
                     "the National Domestic Workers Alliance",
                     "NDWA",
-                    "Sunstorm"
+                    "Sunstorm",
+                    "NDWA.See Privacy Policy"
                 ]
             }
         },
@@ -493,7 +497,7 @@
             "entities": {
                 "DATE": [
                     "the past year",
-                    "May 18!</p><p><a"
+                    "May 18!sunstormpod.comSee"
                 ],
                 "PERSON": [
                     "Ai-jen Poo",
@@ -505,9 +509,6 @@
                 "GPE": [
                     "Tunde Oyeneyin",
                     "California"
-                ],
-                "WORK_OF_ART": [
-                    "target=\"_blank\">sunstormpod.com</a></p><p>See Privacy Policy"
                 ]
             }
         },
@@ -538,24 +539,22 @@
             "entities": {
                 "GPE": [
                     "Georgia",
-                    "Georgia",
                     "California"
                 ],
                 "PERSON": [
-                    "really</em",
                     "Atlantan Ns\u00e9 Ufot",
                     "Nse"
                 ],
                 "ORG": [
-                    "href=\"https://newgeorgiaproject.org/",
-                    "Senate",
-                    "href=\"https://twitter.com",
                     "the New Georgia Project",
-                    "href=\"https://newgeorgiaproject.org/",
+                    "Senate",
+                    "the New Georgia Project",
                     "the National Domestic Workers Alliance",
+                    "Participant",
                     "the National Domestic Workers Alliance",
                     "NDWA",
-                    "Sunstorm"
+                    "Sunstorm",
+                    "NDWA.See Privacy Policy"
                 ],
                 "DATE": [
                     "today"
@@ -604,20 +603,20 @@
                 "PERSON": [
                     "Nikema Williams",
                     "John Lewis",
-                    "Nikema"
+                    "Nikema",
+                    "Sunstorm"
                 ],
                 "ORG": [
                     "Covid-19",
                     "the National Domestic Workers Alliance",
+                    "Participant",
                     "the National Domestic Workers Alliance",
                     "NDWA",
-                    "Sunstorm"
+                    "Sunstorm",
+                    "NDWA.See Privacy Policy"
                 ],
                 "DATE": [
                     "the early days"
-                ],
-                "PRODUCT": [
-                    "Zoom kindergarten.</p><p><br></p><p><br></p><p"
                 ],
                 "CARDINAL": [
                     "97779"
@@ -670,9 +669,11 @@
                 ],
                 "ORG": [
                     "the National Domestic Workers Alliance",
+                    "Participant",
                     "the National Domestic Workers Alliance",
                     "NDWA",
-                    "Sunstorm"
+                    "Sunstorm",
+                    "NDWA.See Privacy Policy"
                 ]
             }
         },
@@ -742,27 +743,32 @@
                 "PERSON": [
                     "Marisa Franco",
                     "Marisa",
-                    "Twitter"
+                    "Twitter",
+                    "@marisa_franco",
+                    "Mijente",
+                    "Sunstorm"
                 ],
                 "PRODUCT": [
                     "Latinx"
                 ],
-                "DATE": [
-                    "2015"
-                ],
                 "GPE": [
+                    "Mijente",
                     "Arizona",
                     "California"
                 ],
-                "ORG": [
-                    "href=\"https://twitter.com",
-                    "the National Domestic Workers Alliance",
-                    "the National Domestic Workers Alliance",
-                    "NDWA",
-                    "Sunstorm"
+                "DATE": [
+                    "2015"
                 ],
                 "CARDINAL": [
                     "97779"
+                ],
+                "ORG": [
+                    "the National Domestic Workers Alliance",
+                    "Participant",
+                    "the National Domestic Workers Alliance",
+                    "NDWA",
+                    "Sunstorm",
+                    "NDWA.See Privacy Policy"
                 ]
             }
         },
@@ -795,13 +801,16 @@
                     "Equal Justice",
                     "The Legacy Museum and National Memorial",
                     "the National Domestic Workers Alliance",
+                    "Participant",
                     "the National Domestic Workers Alliance",
                     "NDWA",
-                    "Sunstorm"
+                    "Sunstorm",
+                    "NDWA.See Privacy Policy"
                 ],
                 "PERSON": [
                     "Bryan Stevenson",
-                    "Bryan"
+                    "Bryan",
+                    "Sunstorm"
                 ],
                 "GPE": [
                     "America",
@@ -844,7 +853,8 @@
                     "Raquel Willis",
                     "Raquel",
                     "Raquel",
-                    "Raquel"
+                    "Raquel",
+                    "Sunstorm"
                 ],
                 "FAC": [
                     "the White House"
@@ -858,15 +868,18 @@
                 ],
                 "GPE": [
                     "Georgia",
-                    "New York",
+                    "New York City",
                     "California"
                 ],
                 "ORG": [
                     "Insta",
+                    "SUNSTORM",
                     "the National Domestic Workers Alliance",
+                    "Participant",
                     "the National Domestic Workers Alliance",
                     "NDWA",
-                    "Sunstorm"
+                    "Sunstorm",
+                    "NDWA.See Privacy Policy"
                 ]
             }
         },
@@ -939,7 +952,8 @@
                     "Jenny",
                     "Alicia",
                     "Jenny",
-                    "Jenny Yang"
+                    "Jenny Yang",
+                    "Sunstorm"
                 ],
                 "WORK_OF_ART": [
                     "Gen Z"
@@ -949,9 +963,11 @@
                 ],
                 "ORG": [
                     "the National Domestic Workers Alliance",
+                    "Participant",
                     "the National Domestic Workers Alliance",
                     "NDWA",
-                    "Sunstorm"
+                    "Sunstorm",
+                    "NDWA.See Privacy Policy"
                 ],
                 "GPE": [
                     "California"
@@ -988,14 +1004,22 @@
                     "Colin Kaepernick",
                     "Ferguson",
                     "Megan",
-                    "Twitter"
+                    "Sunstorm"
                 ],
                 "ORG": [
                     "Megan",
                     "the National Domestic Workers Alliance",
+                    "Participant",
                     "the National Domestic Workers Alliance",
                     "NDWA",
-                    "Sunstorm"
+                    "Sunstorm",
+                    "NDWA.See Privacy Policy"
+                ],
+                "PRODUCT": [
+                    "Twitter"
+                ],
+                "FAC": [
+                    "@mPinoeText SUNSTORM"
                 ],
                 "CARDINAL": [
                     "97779"
@@ -1042,9 +1066,11 @@
                 ],
                 "ORG": [
                     "the National Domestic Workers Alliance",
+                    "Participant",
                     "the National Domestic Workers Alliance",
                     "NDWA",
-                    "Sunstorm"
+                    "Sunstorm",
+                    "NDWA.See Privacy Policy"
                 ],
                 "GPE": [
                     "California"
@@ -1076,13 +1102,18 @@
             "pubDate": "Tue, 07 Apr 2020 07:00:00 -0000",
             "title": "Bonus: How We Care About Care",
             "entities": {
+                "CARDINAL": [
+                    "Over 100 million",
+                    "millions"
+                ],
                 "NORP": [
                     "Americans",
                     "Americans"
                 ],
                 "PERSON": [
                     "Ai-jen",
-                    "Participant",
+                    "Sunstorm",
+                    "Participant Media",
                     "Alicia Garza",
                     "Kristina Mevs-Apgar",
                     "Jess Morales Rocketto",
@@ -1093,10 +1124,7 @@
                     "Mary Phillips-Sandy",
                     "Mia Warren",
                     "Jen Kwok",
-                    "Jody"
-                ],
-                "CARDINAL": [
-                    "millions"
+                    "Jody Shelton"
                 ],
                 "GPE": [
                     "Coronavirus",
@@ -1105,16 +1133,19 @@
                 "ORG": [
                     "NDWA",
                     "Coronavirus Care Fund",
-                    "DomesticWorkers.org/carefund</strong></a><strong>",
                     "NDWA",
                     "The Mash-Up",
                     "the National Domestic Workers Alliance",
                     "NDWA",
-                    "Sunstorm"
+                    "Sunstorm",
+                    "NDWA.See Privacy Policy"
                 ],
                 "DATE": [
                     "today",
                     "today"
+                ],
+                "TIME": [
+                    "DomesticWorkers.org/carefund"
                 ]
             }
         },
@@ -1145,7 +1176,7 @@
             "entities": {
                 "PERSON": [
                     "Alicia",
-                    "Participant",
+                    "Participant Media",
                     "Alicia Garza",
                     "Kristina Mevs-Apgar",
                     "Jess Morales Rocketto",
@@ -1156,17 +1187,19 @@
                     "Mary Phillips-Sandy",
                     "Mia Warren",
                     "Jen Kwok",
-                    "Jody Shelton.</strong></p><p><strong>&nbsp;</strong></p><p><strong"
+                    "Jody Shelton"
                 ],
                 "DATE": [
                     "their decades"
                 ],
                 "ORG": [
+                    "Sunstorm",
                     "NDWA",
                     "The Mash-Up",
                     "the National Domestic Workers Alliance",
                     "NDWA",
-                    "Sunstorm"
+                    "Sunstorm",
+                    "NDWA.See Privacy Policy"
                 ],
                 "NORP": [
                     "Americans"
@@ -1259,11 +1292,12 @@
                     "The Mash-Up",
                     "the National Domestic Workers Alliance",
                     "NDWA",
-                    "Sunstorm"
+                    "Sunstorm",
+                    "NDWA.See Privacy Policy"
                 ],
                 "PERSON": [
                     "Comedian",
-                    "Participant",
+                    "Participant Media",
                     "Alicia Garza",
                     "Kristina Mevs-Apgar",
                     "Jess Morales Rocketto",
@@ -1274,7 +1308,11 @@
                     "Mary Phillips-Sandy",
                     "Mia Warren",
                     "Jen Kwok",
-                    "Jody"
+                    "Jody Shelton"
+                ],
+                "GPE": [
+                    "United Shades of America",
+                    "California"
                 ],
                 "CARDINAL": [
                     "two"
@@ -1284,9 +1322,6 @@
                 ],
                 "NORP": [
                     "Americans"
-                ],
-                "GPE": [
-                    "California"
                 ]
             }
         },
@@ -1323,7 +1358,7 @@
                     "Alicia",
                     "Dawn",
                     "Charley West",
-                    "Participant",
+                    "Participant Media",
                     "Alicia Garza",
                     "Kristina Mevs-Apgar",
                     "Jess Morales Rocketto",
@@ -1334,22 +1369,25 @@
                     "Mary Phillips-Sandy",
                     "Mia Warren",
                     "Jen Kwok",
-                    "Jody Shelton.</p><p>&nbsp;</p><p"
+                    "Jody Shelton"
                 ],
                 "PERCENT": [
                     "100%"
                 ],
                 "GPE": [
                     "Hollywood",
+                    "Los Angeles",
                     "California"
                 ],
                 "ORG": [
                     "the Hammer Museum",
+                    "Sunstorm",
                     "NDWA",
                     "The Mash-Up",
                     "the National Domestic Workers Alliance",
                     "NDWA",
-                    "Sunstorm"
+                    "Sunstorm",
+                    "NDWA.See Privacy Policy"
                 ],
                 "NORP": [
                     "Americans"
@@ -1390,7 +1428,7 @@
                     "Alicia",
                     "Shine Theory",
                     "Ann Friedman",
-                    "Participant",
+                    "Participant Media",
                     "Alicia Garza",
                     "Kristina Mevs-Apgar",
                     "Jess Morales Rocketto",
@@ -1401,7 +1439,7 @@
                     "Mary Phillips-Sandy",
                     "Mia Warren",
                     "Jen Kwok",
-                    "Jody Shelton.</p><p>&nbsp;</p><p"
+                    "Jody Shelton"
                 ],
                 "ORG": [
                     "BFF",
@@ -1409,7 +1447,8 @@
                     "The Mash-Up",
                     "the National Domestic Workers Alliance",
                     "NDWA",
-                    "Sunstorm"
+                    "Sunstorm",
+                    "NDWA.See Privacy Policy"
                 ],
                 "WORK_OF_ART": [
                     "Call Your Girlfriend"
@@ -1452,7 +1491,7 @@
                     "Ai-jen",
                     "Jane Fonda\u2019s",
                     "Fire Drill",
-                    "Participant",
+                    "Participant Media",
                     "Alicia Garza",
                     "Kristina Mevs-Apgar",
                     "Jess Morales Rocketto",
@@ -1463,7 +1502,7 @@
                     "Mary Phillips-Sandy",
                     "Mia Warren",
                     "Jen Kwok",
-                    "Jody Shelton.</p><p>&nbsp;</p><p"
+                    "Jody Shelton"
                 ],
                 "ORDINAL": [
                     "first"
@@ -1480,7 +1519,8 @@
                     "The Mash-Up",
                     "the National Domestic Workers Alliance",
                     "NDWA",
-                    "Sunstorm"
+                    "Sunstorm",
+                    "NDWA.See Privacy Policy"
                 ],
                 "NORP": [
                     "Americans"
@@ -1516,7 +1556,7 @@
                     "Tony Award",
                     "Sarah Jones",
                     "Alicia",
-                    "Participant",
+                    "Participant Media",
                     "Alicia Garza",
                     "Kristina Mevs-Apgar",
                     "Jess Morales Rocketto",
@@ -1527,7 +1567,7 @@
                     "Mary Phillips-Sandy",
                     "Mia Warren",
                     "Jen Kwok",
-                    "Jody Shelton.</p><p>&nbsp;</p><p"
+                    "Jody Shelton"
                 ],
                 "FAC": [
                     "Broadway"
@@ -1537,7 +1577,8 @@
                     "The Mash-Up",
                     "the National Domestic Workers Alliance",
                     "NDWA",
-                    "Sunstorm"
+                    "Sunstorm",
+                    "NDWA.See Privacy Policy"
                 ],
                 "NORP": [
                     "Americans"
@@ -1580,7 +1621,7 @@
                     "M\u00f3nica Ram\u00edrez",
                     "C. Younger",
                     "Sarita Gupta",
-                    "Participant",
+                    "Participant Media",
                     "Alicia Garza",
                     "Kristina Mevs-Apgar",
                     "Jess Morales Rocketto",
@@ -1591,7 +1632,7 @@
                     "Mary Phillips-Sandy",
                     "Mia Warren",
                     "Jen Kwok",
-                    "Jody Shelton.</p><p>&nbsp;</p><p"
+                    "Jody Shelton"
                 ],
                 "CARDINAL": [
                     "five"
@@ -1607,7 +1648,8 @@
                     "The Mash-Up",
                     "the National Domestic Workers Alliance",
                     "NDWA",
-                    "Sunstorm"
+                    "Sunstorm",
+                    "NDWA.See Privacy Policy"
                 ],
                 "NORP": [
                     "Americans"
@@ -1653,7 +1695,7 @@
                     "Alicia",
                     "Ai-jen\u2019s",
                     "Shannen Doherty",
-                    "Participant",
+                    "Participant Media",
                     "Alicia Garza",
                     "Kristina Mevs-Apgar",
                     "Jess Morales Rocketto",
@@ -1664,19 +1706,19 @@
                     "Mary Phillips-Sandy",
                     "Mia Warren",
                     "Jen Kwok",
-                    "Jody Shelton.</p><p><br></p><p"
+                    "Jody Shelton"
                 ],
                 "ORG": [
+                    "Sunstorm",
                     "NDWA",
                     "The Mash-Up",
                     "the National Domestic Workers Alliance",
-                    "NDWA"
+                    "NDWA",
+                    "Sunstorm",
+                    "NDWA.See Privacy Policy"
                 ],
                 "NORP": [
                     "Americans"
-                ],
-                "WORK_OF_ART": [
-                    "members.&nbsp;Guests on Sunstorm"
                 ]
             }
         },
@@ -1706,9 +1748,10 @@
             "title": "Making Empathy Go Viral with Heather McGhee",
             "entities": {
                 "PERSON": [
+                    "Heather McGhee",
                     "Alicia",
                     "Gary",
-                    "Participant",
+                    "Participant Media",
                     "Alicia Garza",
                     "Kristina Mevs-Apgar",
                     "Jess Morales Rocketto",
@@ -1719,16 +1762,17 @@
                     "Mary Phillips-Sandy",
                     "Mia Warren",
                     "Jen Kwok",
-                    "Jody Shelton.</p><p"
+                    "Jody Shelton"
                 ],
                 "DATE": [
                     "2008"
                 ],
                 "GPE": [
-                    "North Carolina.</p><p><br></p><p",
+                    "North Carolina",
                     "California"
                 ],
                 "ORG": [
+                    "Sunstorm",
                     "NDWA",
                     "The Mash-Up"
                 ],
@@ -1764,7 +1808,7 @@
             "entities": {
                 "PERSON": [
                     "Alicia and Ai-jen",
-                    "Participant",
+                    "Participant Media",
                     "Alicia Garza",
                     "Kristina Mevs-Apgar",
                     "Jess Morales Rocketto",
@@ -1775,7 +1819,7 @@
                     "Mary Phillips-Sandy",
                     "Mia Warren",
                     "Jen Kwok",
-                    "Jody Shelton.</p><p><br></p><p"
+                    "Jody Shelton"
                 ],
                 "ORG": [
                     "New York Times",
@@ -1783,11 +1827,12 @@
                     "NDWA",
                     "The Mash-Up",
                     "the National Domestic Workers Alliance",
-                    "NDWA"
+                    "NDWA",
+                    "Sunstorm",
+                    "NDWA.See Privacy Policy"
                 ],
                 "WORK_OF_ART": [
-                    "You Were Born For This",
-                    "members.&nbsp;Guests on Sunstorm"
+                    "You Were Born For This"
                 ],
                 "DATE": [
                     "about this year"
@@ -1833,9 +1878,7 @@
                     "Ai-jen",
                     "Chani Nicholas",
                     "Sarah Jones",
-                    "Dolores Huerta",
-                    "we</em",
-                    "Participant"
+                    "Dolores Huerta"
                 ],
                 "CARDINAL": [
                     "two"
@@ -1846,7 +1889,8 @@
                 ],
                 "ORG": [
                     "Dawn-Lyen Gardner",
-                    "NDWA"
+                    "NDWA",
+                    "Participant Media"
                 ]
             }
         }
@@ -1899,6 +1943,9 @@
     ],
     "title": "Sunstorm with Alicia Garza & Ai-jen Poo",
     "entities": {
+        "ORG": [
+            "Sunstorm"
+        ],
         "CARDINAL": [
             "two"
         ],
@@ -1909,6 +1956,9 @@
         "PERSON": [
             "Alicia Garza",
             "Ai-jen Poo"
+        ],
+        "DATE": [
+            "today"
         ]
     }
 }

@@ -82,6 +82,9 @@
                 ],
                 "DATE": [
                     "the beginning of the end"
+                ],
+                "ORG": [
+                    "McAfee"
                 ]
             }
         },
@@ -190,7 +193,7 @@
                     "Jamie Tarabay"
                 ],
                 "ORG": [
-                    "McAfee\u2019s"
+                    "McAfee"
                 ]
             }
         },
@@ -219,6 +222,9 @@
             "pubDate": "Thu, 16 Feb 2023 05:01:00 +0000",
             "title": "McAfee Part 1: The Virus",
             "entities": {
+                "ORG": [
+                    "McAfee"
+                ],
                 "DATE": [
                     "the 1990s",
                     "the early days"
@@ -309,7 +315,8 @@
                     "Main Street"
                 ],
                 "GPE": [
-                    "Hollywood"
+                    "Hollywood",
+                    "Washington"
                 ]
             }
         },
@@ -406,7 +413,8 @@
                     "25-year"
                 ],
                 "ORG": [
-                    "the National Enquirer"
+                    "the National Enquirer",
+                    "CEO.See"
                 ]
             }
         },
@@ -488,6 +496,9 @@
                     "Amazon",
                     "Amazon.com",
                     "Amazon"
+                ],
+                "GPE": [
+                    "Seattle"
                 ]
             }
         },
@@ -527,6 +538,9 @@
                 ],
                 "ORG": [
                     "Amazon"
+                ],
+                "GPE": [
+                    "Hollywood"
                 ],
                 "ORDINAL": [
                     "first"
@@ -608,14 +622,13 @@
             "pubDate": "Thu, 10 Mar 2022 05:01:00 +0000",
             "title": "Amazon Part 1: The Inventor vs. The Monopolist",
             "entities": {
-                "DATE": [
-                    "Today",
-                    "1994",
-                    "years"
-                ],
                 "ORG": [
                     "Amazon",
                     "Amazon"
+                ],
+                "DATE": [
+                    "1994",
+                    "years"
                 ],
                 "PERSON": [
                     "Jeff Bezos",
@@ -912,6 +925,7 @@
             "title": "TikTok Part 2: The Silent Force from China",
             "entities": {
                 "ORG": [
+                    "TikTok",
                     "ByteDance",
                     "TikTok",
                     "ByteDance"
@@ -996,14 +1010,15 @@
             "pubDate": "Thu, 01 Apr 2021 08:00:00 +0000",
             "title": "Coming Soon: A New Season of Foundering",
             "entities": {
-                "CARDINAL": [
-                    "2 billion",
-                    "two"
-                ],
                 "ORG": [
+                    "TikTok",
                     "TikTok",
                     "Bloomberg Technology",
                     "TikTok"
+                ],
+                "CARDINAL": [
+                    "2 billion",
+                    "two"
                 ],
                 "DATE": [
                     "this season"
@@ -1141,6 +1156,11 @@
             "pubDate": "Thu, 23 Jul 2020 10:00:00 +0000",
             "title": "WeWork Part 6: IPO -- Just Kidding",
             "entities": {
+                "ORG": [
+                    "WeWork",
+                    "IPO",
+                    "WeWork"
+                ],
                 "DATE": [
                     "nine years",
                     "2019",
@@ -1152,10 +1172,6 @@
                 "PERSON": [
                     "Adam Neumann",
                     "Ellen Huet"
-                ],
-                "ORG": [
-                    "IPO",
-                    "WeWork"
                 ]
             }
         },
@@ -1194,7 +1210,7 @@
                 "DATE": [
                     "the previous five years",
                     "four-year",
-                    "July 27.</p><p"
+                    "July 27.See"
                 ],
                 "LOC": [
                     "Blood River"
@@ -1357,11 +1373,12 @@
             "pubDate": "Thu, 25 Jun 2020 10:01:00 +0000",
             "title": "WeWork Part 2: The Bar Is Now at Your Desk",
             "entities": {
+                "ORG": [
+                    "WeWork",
+                    "WeWork\u2019s"
+                ],
                 "PERSON": [
                     "Ellen Huet"
-                ],
-                "ORG": [
-                    "WeWork\u2019s"
                 ],
                 "DATE": [
                     "early days"
@@ -1394,15 +1411,14 @@
             "pubDate": "Thu, 25 Jun 2020 10:00:00 +0000",
             "title": "WeWork Part 1: Capitalist Kibbutz",
             "entities": {
+                "CARDINAL": [
+                    "1"
+                ],
                 "PERSON": [
-                    "The WeWork Story",
                     "Adam Neumann",
                     "WeWork",
                     "Ellen Huet",
                     "Adam"
-                ],
-                "CARDINAL": [
-                    "1:</p><p"
                 ],
                 "ORG": [
                     "WeWork",
@@ -1448,8 +1464,7 @@
                     "WeWork"
                 ],
                 "CARDINAL": [
-                    "thousands",
-                    "2020.</p><p"
+                    "thousands"
                 ],
                 "DATE": [
                     "just a few months",
@@ -1487,7 +1502,8 @@
             "entities": {
                 "ORG": [
                     "Bloomberg Technology",
-                    "Decrypted"
+                    "Decrypted",
+                    "WeWork"
                 ],
                 "PERSON": [
                     "Ellen Huet"
@@ -1528,24 +1544,21 @@
                     "Brad",
                     "Aki",
                     "Brad",
-                    "Facebook Broke"
+                    "Young Blood"
                 ],
                 "CARDINAL": [
                     "one",
-                    "2</a"
+                    "1",
+                    "2"
                 ],
                 "GPE": [
                     "Decrypted"
                 ],
                 "ORG": [
-                    "the Pursuit of Eternal"
+                    "the Pursuit of Eternal Youth\r\n"
                 ],
                 "WORK_OF_ART": [
-                    "Sparked the Fake News Boom",
-                    "the Whistleblower Behind a Silicon Valley"
-                ],
-                "NORP": [
-                    "BLM8634583738\">Human"
+                    "Facebook Broke His Business\r\nA Hacker's Redemption"
                 ]
             }
         },
@@ -1781,11 +1794,8 @@
             "pubDate": "Fri, 25 Oct 2019 08:00:00 +0000",
             "title": "Coming Soon: Travel Genius Season 2",
             "entities": {
-                "PERSON": [
-                    "Bloomberg",
-                    "Mark Ellwood"
-                ],
                 "ORG": [
+                    "Bloomberg's",
                     "Travel Genius",
                     "Disney"
                 ],
@@ -1795,8 +1805,11 @@
                 "FAC": [
                     "Nikki Ekstein"
                 ],
+                "PERSON": [
+                    "Mark Ellwood"
+                ],
                 "DATE": [
-                    "Nov. 6.</p><p"
+                    "Nov. 6.See"
                 ]
             }
         },
@@ -2383,8 +2396,7 @@
             "title": "Bloomberg and Wondery Present: The Shrink Next Door",
             "entities": {
                 "PERSON": [
-                    "Marty Markowitz",
-                    "href=\"http://bloomberg.com"
+                    "Marty Markowitz"
                 ],
                 "DATE": [
                     "the next twenty-nine years"
@@ -2707,9 +2719,6 @@
             "pubDate": "Fri, 05 Apr 2019 18:42:13 +0000",
             "title": "Coming Soon: The Pay Check Season 2",
             "entities": {
-                "WORK_OF_ART": [
-                    "The Pay Check"
-                ],
                 "DATE": [
                     "a second season",
                     "the next six weeks",
@@ -2811,9 +2820,6 @@
             "pubDate": "Tue, 12 Feb 2019 11:00:00 +0000",
             "title": "A Message from The Pay Check",
             "entities": {
-                "WORK_OF_ART": [
-                    "The Pay Check"
-                ],
                 "CARDINAL": [
                     "212",
                     "617-0166"
@@ -2924,12 +2930,11 @@
             "pubDate": "Tue, 11 Dec 2018 10:00:00 +0000",
             "title": "The Decrypted Gift Guide",
             "entities": {
-                "DATE": [
-                    "the season",
-                    "this week"
-                ],
                 "ORG": [
                     "Decrypted"
+                ],
+                "DATE": [
+                    "this week"
                 ],
                 "PERSON": [
                     "Pia Gadkari",
@@ -3426,6 +3431,7 @@
                 ],
                 "ORG": [
                     "Bloomberg Technology's",
+                    "Tesla",
                     "Tesla"
                 ],
                 "CARDINAL": [
@@ -3585,7 +3591,8 @@
                 "DATE": [
                     "The third season",
                     "Sept. 4",
-                    "the entire season"
+                    "the entire season",
+                    "every Tuesday"
                 ],
                 "GPE": [
                     "Decrypted"
@@ -4119,7 +4126,8 @@
                 "PERSON": [
                     "Yuji Nakamura",
                     "Aki Ito",
-                    "Roger Ver"
+                    "Roger Ver",
+                    "Bitcoin Jesus"
                 ]
             }
         },
@@ -4188,7 +4196,8 @@
             "title": "Facebook\u2019s Former Employees Open Up About the Data Scandal",
             "entities": {
                 "DATE": [
-                    "This week"
+                    "This week",
+                    "today"
                 ],
                 "ORG": [
                     "Bloomberg Technology's"
@@ -5181,7 +5190,8 @@
             "entities": {
                 "DATE": [
                     "The year is 2005",
-                    "A decade"
+                    "A decade",
+                    "next month"
                 ],
                 "ORG": [
                     "Apple",
@@ -5726,12 +5736,16 @@
             "pubDate": "Tue, 30 May 2017 21:15:00 +0000",
             "title": "Masayoshi Son's $100 Billion Bet to Conquer the Future",
             "entities": {
-                "GPE": [
+                "ORG": [
                     "Masayoshi Son",
-                    "Japan"
+                    "Bloomberg Technology's",
+                    "SoftBank"
                 ],
                 "CARDINAL": [
                     "one"
+                ],
+                "GPE": [
+                    "Japan"
                 ],
                 "MONEY": [
                     "a record $100 billion"
@@ -5739,10 +5753,6 @@
                 "DATE": [
                     "This week",
                     "30 years ago"
-                ],
-                "ORG": [
-                    "Bloomberg Technology's",
-                    "SoftBank"
                 ],
                 "PERSON": [
                     "Peter Elstrom",
@@ -6032,6 +6042,10 @@
             "pubDate": "Thu, 20 Apr 2017 21:53:00 +0000",
             "title": "Pinterest's Second Act",
             "entities": {
+                "ORG": [
+                    "Remember Pinterest",
+                    "Bloomberg Technology's"
+                ],
                 "DATE": [
                     "Only a few years ago",
                     "This week"
@@ -6039,14 +6053,12 @@
                 "LOC": [
                     "Silicon Valley"
                 ],
-                "ORG": [
-                    "Bloomberg Technology's"
-                ],
                 "PERSON": [
                     "Sarah Frier",
                     "Ben Silbermann",
                     "Evan Sharp",
-                    "Tim Kendall"
+                    "Tim Kendall",
+                    "map?See"
                 ],
                 "CARDINAL": [
                     "three"
@@ -6149,16 +6161,16 @@
             "entities": {
                 "ORG": [
                     "YouTube",
+                    "AT&T",
                     "Wal-Mart",
                     "Bloomberg Technology's"
                 ],
-                "PERSON": [
-                    "AT&amp;T",
-                    "Mark Bergen",
-                    "Aki Ito"
-                ],
                 "DATE": [
                     "This week"
+                ],
+                "PERSON": [
+                    "Mark Bergen",
+                    "Aki Ito"
                 ]
             }
         },
@@ -6452,7 +6464,7 @@
             "title": "Silicon Valley's Revolt Against Trump's Travel Ban",
             "entities": {
                 "DATE": [
-                    "his eighth day",
+                    "eighth day",
                     "This week"
                 ],
                 "PERSON": [
@@ -6498,8 +6510,9 @@
             "pubDate": "Mon, 30 Jan 2017 22:37:00 +0000",
             "title": "The Untold Story of One of Uber's Very First Drivers",
             "entities": {
-                "QUANTITY": [
-                    "More than 1.5 million"
+                "CARDINAL": [
+                    "More than 1.5 million",
+                    "one"
                 ],
                 "DATE": [
                     "This week"
@@ -6509,9 +6522,6 @@
                     "Uber",
                     "Brad",
                     "Eric Newcomer"
-                ],
-                "CARDINAL": [
-                    "one"
                 ],
                 "ORDINAL": [
                     "first"
@@ -6842,6 +6852,11 @@
             "pubDate": "Fri, 25 Nov 2016 22:16:00 +0000",
             "title": "The Fake Reviews and Counterfeits That Amazon's Trying to Quash",
             "entities": {
+                "PERSON": [
+                    "Bloomberg",
+                    "Brad Stone",
+                    "Spencer Soper"
+                ],
                 "ORG": [
                     "Amazon.com",
                     "Bloomberg Technology's",
@@ -6855,10 +6870,6 @@
                 ],
                 "DATE": [
                     "This week"
-                ],
-                "PERSON": [
-                    "Brad Stone",
-                    "Spencer Soper"
                 ]
             }
         },

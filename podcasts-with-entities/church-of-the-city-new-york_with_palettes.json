@@ -118,16 +118,10 @@
             "pubDate": "Mon, 10 Apr 2023 14:43:00 +0000",
             "title": "Easter Sunday 2023 - Jon Tyson",
             "entities": {
-                "EVENT": [
-                    "1\":2,\"2\":\"This Easter Sunday",
-                    "This Easter"
+                "DATE": [
+                    "Sunday"
                 ],
                 "PERSON": [
-                    "Pastor Jon",
-                    "Jesus",
-                    "Jesus",
-                    "Jesus",
-                    "Jesus",
                     "Pastor Jon",
                     "Jesus",
                     "Jesus",
@@ -136,12 +130,7 @@
                 ],
                 "NORP": [
                     "Christianity",
-                    "Christian",
-                    "Christianity",
                     "Christian"
-                ],
-                "DATE": [
-                    "Sunday"
                 ]
             }
         },
@@ -171,41 +160,30 @@
             "title": "God Comes Where He\u2019s Wanted 2.0: Palm Sunday - Suzy Silk",
             "entities": {
                 "DATE": [
-                    "1\":2,\"2\":\"This Sunday",
                     "This Sunday"
                 ],
                 "PERSON": [
                     "Pastor Suzy",
                     "Jesus",
-                    "Jesus",
-                    "Pastor Suzy",
-                    "Jesus",
                     "Jesus"
                 ],
                 "WORK_OF_ART": [
-                    "God Comes Where He\u2019s Wanted",
                     "God Comes Where He\u2019s Wanted"
                 ],
                 "CARDINAL": [
-                    "2.0",
                     "2.0"
                 ],
                 "GPE": [
                     "Jerusalem",
-                    "His Kingdom come",
-                    "Jerusalem",
-                    "His Kingdom"
+                    "His Kingdom come."
                 ],
                 "FAC": [
-                    "Palm Sunday",
                     "Palm Sunday"
                 ],
                 "EVENT": [
-                    "Holy Week",
                     "Holy Week"
                 ],
                 "ORDINAL": [
-                    "first",
                     "first"
                 ]
             }
@@ -236,23 +214,17 @@
             "title": "God Comes Where He's Wanted 2.0: Forgiveness - Jon Tyson",
             "entities": {
                 "DATE": [
-                    "1\":2,\"2\":\"This Sunday",
                     "This Sunday"
                 ],
                 "PERSON": [
                     "Pastor Jon",
-                    "Jesus",
-                    "Pastor Jon"
-                ],
-                "CARDINAL": [
-                    "2.0\\",
-                    "2.0"
+                    "Jesus"
                 ],
                 "WORK_OF_ART": [
                     "God Comes Where He's Wanted"
                 ],
-                "NORP": [
-                    "Jesus.</span></p"
+                "CARDINAL": [
+                    "2.0"
                 ]
             }
         },
@@ -282,23 +254,19 @@
             "title": "God Comes Where He's Wanted 2.0: The Lord's Prayer - Jon Tyson",
             "entities": {
                 "DATE": [
-                    "1\":2,\"2\":\"This Sunday",
                     "This Sunday"
                 ],
                 "PERSON": [
-                    "Pastor Jon",
                     "Pastor Jon"
-                ],
-                "CARDINAL": [
-                    "2.0\\",
-                    "2.0"
-                ],
-                "NORP": [
-                    "Western Christianity",
-                    "Western Christianity"
                 ],
                 "WORK_OF_ART": [
                     "God Comes Where He's Wanted"
+                ],
+                "CARDINAL": [
+                    "2.0"
+                ],
+                "NORP": [
+                    "Western Christianity"
                 ]
             }
         },
@@ -328,25 +296,19 @@
             "title": "God Comes Where He's Wanted 2.0: Ask, Seek, Knock - Ashley Anderson",
             "entities": {
                 "DATE": [
-                    "1\":2,\"2\":\"This Sunday",
                     "This Sunday"
                 ],
                 "PERSON": [
                     "Pastor Ashley",
-                    "Jesus",
-                    "Pastor Ashley",
                     "Jesus"
                 ],
                 "WORK_OF_ART": [
-                    "\\\"God Comes Where He's Wanted",
                     "God Comes Where He's Wanted"
                 ],
                 "CARDINAL": [
-                    "2.0\\",
                     "2.0"
                 ],
                 "FAC": [
-                    "Luke 11",
                     "Luke 11"
                 ]
             }
@@ -377,25 +339,18 @@
             "title": "God Comes Where He's Wanted 2.0: Asking for a Friend - Suzy Silk",
             "entities": {
                 "DATE": [
-                    "1\":2,\"2\":\"This Sunday",
                     "This Sunday"
                 ],
                 "PERSON": [
                     "Pastor Suzy",
                     "Jesus",
                     "Luke",
-                    "Jesus",
-                    "Pastor Suzy",
-                    "Jesus",
-                    "Luke",
                     "Jesus"
                 ],
                 "WORK_OF_ART": [
-                    "God Comes Where He\u2019s Wanted",
                     "God Comes Where He\u2019s Wanted"
                 ],
                 "CARDINAL": [
-                    "2.0",
                     "2.0"
                 ]
             }
@@ -426,29 +381,21 @@
             "title": "God Comes Where He's Wanted 2.0: Cultivating Revival - Jon Tyson",
             "entities": {
                 "DATE": [
-                    "1\":2,\"2\":\"This Sunday",
                     "This Sunday"
                 ],
                 "ORG": [
-                    "the urgent movement of God",
-                    "Asbury University",
                     "the urgent movement of God",
                     "Asbury University"
                 ],
                 "PERSON": [
                     "Pastor Jon",
                     "2 Chronicles",
-                    "Pastor Jon",
-                    "Pastor Jon",
-                    "2 Chronicles",
                     "Pastor Jon"
                 ],
                 "WORK_OF_ART": [
-                    "God Comes Where He\u2019s Wanted",
                     "God Comes Where He\u2019s Wanted"
                 ],
                 "CARDINAL": [
-                    "2",
                     "2"
                 ]
             }
@@ -479,25 +426,19 @@
             "title": "God Comes Where He's Wanted 2.0: Asbury Outpouring - Jon Tyson",
             "entities": {
                 "DATE": [
-                    "1\":2,\"2\":\"This Sunday",
-                    "last week",
                     "This Sunday",
                     "last week"
                 ],
                 "PERSON": [
-                    "Pastor Jon",
                     "Pastor Jon"
                 ],
                 "ORG": [
-                    "Asbury University",
                     "Asbury University"
                 ],
                 "WORK_OF_ART": [
-                    "the Holy Spirit",
                     "the Holy Spirit"
                 ],
                 "GPE": [
-                    "Asbury",
                     "Asbury"
                 ]
             }
@@ -528,39 +469,7 @@
             "title": "God Comes Where He's Wanted: The Cry of the Lord - Suzy Silk",
             "entities": {
                 "DATE": [
-                    "our final week",
-                    "years",
-                    "\\n\\nToday"
-                ],
-                "LOC": [
-                    "Eden"
-                ],
-                "ORDINAL": [
-                    "first"
-                ],
-                "PERSON": [
-                    "Adam",
-                    "David",
-                    "David",
-                    "Obed Edom",
-                    "Edom",
-                    "David",
-                    "Covenant",
-                    "David",
-                    "Jesus Christ",
-                    "Covenant"
-                ],
-                "GPE": [
-                    "Israel",
-                    "Jerusalem"
-                ],
-                "WORK_OF_ART": [
-                    "the Law of Moses"
-                ],
-                "ORG": [
-                    "Uzzah",
-                    "Obed Edom",
-                    "Levites"
+                    "our final week"
                 ]
             }
         },
@@ -590,23 +499,18 @@
             "title": "God Comes Where He's Wanted: The Cry of the Region - Sam Gibson",
             "entities": {
                 "DATE": [
-                    "1\":2,\"2\":\"This Sunday",
                     "This Sunday"
                 ],
                 "PERSON": [
-                    "Pastor Sam",
                     "Pastor Sam"
                 ],
                 "WORK_OF_ART": [
-                    "God Comes Where He\u2019s Wanted",
                     "God Comes Where He\u2019s Wanted"
                 ],
                 "CARDINAL": [
-                    "three",
                     "three"
                 ],
                 "GPE": [
-                    "Scripture",
                     "Scripture"
                 ]
             }
@@ -637,27 +541,20 @@
             "title": "God Comes Where He's Wanted: The Cry of the Church - Lee Cummings",
             "entities": {
                 "DATE": [
-                    "Sunday",
-                    "Sunday",
                     "This Sunday",
                     "the end of January"
                 ],
                 "PERSON": [
-                    "Corey Russell",
                     "Lee Cummings",
                     "Jesus",
-                    "Lee Cummings",
-                    "Jesus"
+                    "Emily Lindquist"
                 ],
                 "WORK_OF_ART": [
-                    "God Comes Where He\u2019s Wanted",
-                    "God Comes Where He\u2019s Wanted",
                     "God Comes Where He\u2019s Wanted"
                 ],
                 "ORG": [
-                    "Liturgy",
                     "Living the Liturgy",
-                    "Church of the City New York.</p"
+                    "Church of the City New York"
                 ]
             }
         },
@@ -728,29 +625,19 @@
             "pubDate": "Mon, 23 Jan 2023 02:07:00 +0000",
             "title": "God Comes Where He's Wanted: The Cry of the Home - Jon Tyson",
             "entities": {
-                "ORDINAL": [
-                    "12pt"
-                ],
-                "DATE": [
-                    "Sunday",
-                    "the end of January"
-                ],
                 "PERSON": [
                     "Jon Tyson",
-                    "Jon Tyson"
+                    "Emily Lindquist"
                 ],
                 "WORK_OF_ART": [
-                    "God Comes Where He\u2019s Wanted",
                     "God Comes Where He\u2019s Wanted"
                 ],
-                "ORG": [
-                    "Liturgy",
-                    "Living the Liturgy",
-                    "class=\"xgmjVLxjqfcXK5BV_XyN\"><span",
-                    "Church of the City"
+                "DATE": [
+                    "the end of January"
                 ],
-                "CARDINAL": [
-                    "12pt;\"><a"
+                "ORG": [
+                    "Living the Liturgy",
+                    "Church of the City New York"
                 ]
             }
         },
@@ -779,28 +666,19 @@
             "pubDate": "Mon, 16 Jan 2023 01:59:00 +0000",
             "title": "God Comes Where He's Wanted: The Cry of the Heart - Jon Tyson",
             "entities": {
-                "DATE": [
-                    "Sunday",
-                    "Sunday",
-                    "the end of January",
-                    "Sunday"
-                ],
                 "PERSON": [
                     "Jon Tyson",
-                    "Jon Tyson",
-                    "Jon Tyson",
-                    "Jon Tyson"
+                    "Emily Lindquist"
                 ],
                 "WORK_OF_ART": [
-                    "God Comes Where He\u2019s Wanted",
-                    "God Comes Where He\u2019s Wanted",
-                    "God Comes Where He\u2019s Wanted",
-                    "Our Living the Liturgy",
                     "God Comes Where He\u2019s Wanted"
+                ],
+                "DATE": [
+                    "the end of January"
                 ],
                 "ORG": [
                     "Living the Liturgy",
-                    "Church of the City"
+                    "Church of the City New York"
                 ]
             }
         },
@@ -829,40 +707,25 @@
             "pubDate": "Tue, 10 Jan 2023 17:37:00 +0000",
             "title": "God Comes Where He's Wanted - Jon Tyson",
             "entities": {
-                "DATE": [
-                    "Sunday",
-                    "Sunday",
-                    "the end of January",
-                    "Sunday"
-                ],
                 "PERSON": [
                     "Jon Tyson",
-                    "Jon Tyson",
-                    "Jon Tyson",
-                    "Jon Tyson"
+                    "Emily Lindquist"
                 ],
                 "ORDINAL": [
-                    "first",
-                    "first",
-                    "first",
                     "first"
                 ],
                 "EVENT": [
-                    "the New Year",
-                    "the New Year",
-                    "the New Year",
                     "the New Year"
                 ],
                 "WORK_OF_ART": [
-                    "God Comes Where He\u2019s Wanted",
-                    "God Comes Where He\u2019s Wanted",
-                    "God Comes Where He\u2019s Wanted",
-                    "Our Living the Liturgy",
                     "God Comes Where He\u2019s Wanted"
+                ],
+                "DATE": [
+                    "the end of January"
                 ],
                 "ORG": [
                     "Living the Liturgy",
-                    "Church of the City"
+                    "Church of the City New York"
                 ],
                 "GPE": [
                     "Sanctuary"
@@ -895,19 +758,7 @@
             "title": "Advent Week IV: Lessons & Carols - Jon Tyson",
             "entities": {
                 "DATE": [
-                    "Sunday",
-                    "annual",
-                    "Christmas",
-                    "year",
-                    "year",
-                    "Christmas",
                     "This Sunday",
-                    "annual",
-                    "Christmas",
-                    "year",
-                    "year",
-                    "Christmas",
-                    "Sunday",
                     "annual",
                     "Christmas",
                     "year",
@@ -916,28 +767,12 @@
                 ],
                 "PERSON": [
                     "Jesus",
-                    "Jesus\\u2019",
-                    "Jesus\\u2019",
                     "Jesus",
-                    "Jesus",
-                    "Jesus",
-                    "Jesus",
-                    "Jesus\\u2019",
-                    "Jesus\\u2019"
+                    "Jesus"
                 ],
                 "ORG": [
                     "Lessons & Carols",
-                    "Lessons & Carols",
-                    "Lessons & Carols",
                     "Living the Liturgy"
-                ],
-                "ORDINAL": [
-                    "first",
-                    "first"
-                ],
-                "GPE": [
-                    "it\\u2019s",
-                    "it\\u2019s"
                 ]
             }
         },
@@ -966,37 +801,24 @@
             "pubDate": "Mon, 12 Dec 2022 21:12:00 +0000",
             "title": "Advent Week III: There is a Way - Jon Tyson",
             "entities": {
-                "DATE": [
-                    "Sunday",
-                    "Christmas",
-                    "Christmas",
-                    "Sunday",
-                    "Christmas"
-                ],
                 "PERSON": [
                     "Jon Tyson",
                     "John 14:1-10",
                     "Jesus",
                     "Jesus",
-                    "Jon Tyson",
-                    "John 14:1-10",
-                    "Jesus",
-                    "Jesus",
-                    "Jon Tyson",
-                    "John 14:1-10",
-                    "Jesus",
-                    "Jesus"
+                    "Emily Lindquist"
                 ],
                 "ORDINAL": [
-                    "first",
-                    "first",
                     "first"
+                ],
+                "DATE": [
+                    "Christmas"
                 ],
                 "GPE": [
                     "Sanctuary"
                 ],
                 "ORG": [
-                    "Church of the City"
+                    "Church of the City New York"
                 ]
             }
         },
@@ -1025,22 +847,17 @@
             "pubDate": "Mon, 05 Dec 2022 02:58:00 +0000",
             "title": "Advent Week II: There is a Darkness - Jon Tyson",
             "entities": {
-                "DATE": [
-                    "Sunday"
-                ],
                 "PERSON": [
                     "Jon Tyson",
                     "John 3:16-21",
                     "Jesus",
-                    "Jon Tyson",
-                    "John 3:16-21",
-                    "Jesus"
+                    "Emily Lindquist"
                 ],
                 "GPE": [
                     "Sanctuary"
                 ],
                 "ORG": [
-                    "Church of the City"
+                    "Church of the City New York"
                 ]
             }
         },
@@ -1070,21 +887,9 @@
             "title": "Advent Week I: There is a Light - Suzy Silk",
             "entities": {
                 "DATE": [
-                    "1\":2,\"2\":\"This Sunday",
-                    "This Sunday",
-                    "1\":2,\"2\":\"This Sunday"
+                    "This Sunday"
                 ],
                 "PERSON": [
-                    "Pastor Suzy",
-                    "John 1",
-                    "Jesus",
-                    "Jesus",
-                    "Jesus\u2019 Light",
-                    "Pastor Suzy",
-                    "John 1",
-                    "Jesus",
-                    "Jesus",
-                    "Jesus\u2019 Light",
                     "Pastor Suzy",
                     "John 1",
                     "Jesus",
@@ -1092,8 +897,6 @@
                     "Jesus\u2019 Light"
                 ],
                 "WORK_OF_ART": [
-                    "the Light of the World",
-                    "the Light of the World",
                     "the Light of the World"
                 ],
                 "ORG": [
@@ -1127,27 +930,15 @@
             "title": "The Jesus Stuff: Truth - Ashley Anderson",
             "entities": {
                 "DATE": [
-                    "1\":2,\"2\":\"This Sunday",
-                    "today",
                     "This Sunday"
                 ],
                 "PERSON": [
                     "Pastor Ashley",
                     "The Jesus Stuff",
                     "Jesus",
-                    "Jesus",
-                    "Pastor Ashley",
-                    "The Jesus Stuff",
-                    "Jesus",
-                    "Jesus",
-                    "Pastor Ashley",
-                    "The Jesus Stuff",
-                    "Jesus",
                     "Jesus"
                 ],
                 "WORK_OF_ART": [
-                    "Fall",
-                    "Fall",
                     "Fall"
                 ]
             }
@@ -1178,41 +969,25 @@
             "title": "The Jesus Stuff: God's Love - David Bennett",
             "entities": {
                 "DATE": [
-                    "1\":2,\"2\":\"This Sunday",
-                    "This Sunday",
-                    "1\":2,\"2\":\"This Sunday"
+                    "This Sunday"
                 ],
                 "PERSON": [
                     "David Bennett",
                     "The Jesus Stuff",
                     "David",
                     "Jesus",
-                    "David Bennett",
-                    "The Jesus Stuff",
-                    "David",
+                    "Jon Tyson",
+                    "Sexual Formation - Jon Tyson",
                     "Jesus",
-                    "David Bennett",
-                    "The Jesus Stuff",
-                    "David",
-                    "Jesus",
-                    "Sexual Formation - Jon Tyson</p",
-                    "Jesus",
-                    "QqF0MwqjuBU\">Watch</a></p",
                     "Jesus",
                     "Gender"
                 ],
                 "WORK_OF_ART": [
-                    "Fall",
-                    "Fall",
                     "Fall"
                 ],
                 "ORG": [
-                    "Sense of the Church: Marriage - Jon Tyson</p",
-                    "the Gay Community - Jon Tyson</p",
-                    "the Trans Community - Jon Tyson</p"
-                ],
-                "LAW": [
-                    "https://open.spotify.com/episode/02lgGq2Cy940N7JC0eG3n5?si=-6mmC0N2TNy77twfGjW5tQ"
+                    "the Gay Community - Jon Tyson",
+                    "the Trans Community - Jon Tyson"
                 ]
             }
         },
@@ -1242,21 +1017,15 @@
             "title": "The Jesus Stuff: Justice Margin - Suzy Silk",
             "entities": {
                 "DATE": [
-                    "1\":2,\"2\":\"This Sunday",
                     "This Sunday"
                 ],
                 "PERSON": [
                     "Pastor Suzy",
                     "The Jesus Stuff",
                     "Jesus",
-                    "Jesus",
-                    "Pastor Suzy",
-                    "The Jesus Stuff",
-                    "Jesus",
                     "Jesus"
                 ],
                 "WORK_OF_ART": [
-                    "Fall",
                     "Fall"
                 ]
             }
@@ -1287,21 +1056,15 @@
             "title": "The Jesus Stuff: The Table - Jon Tyson",
             "entities": {
                 "DATE": [
-                    "1\":2,\"2\":\"This Sunday",
                     "This Sunday"
                 ],
                 "PERSON": [
                     "Pastor Jon",
                     "The Jesus Stuff",
                     "Jesus",
-                    "Jesus",
-                    "Pastor Jon",
-                    "The Jesus Stuff",
-                    "Jesus",
                     "Jesus"
                 ],
                 "WORK_OF_ART": [
-                    "Fall",
                     "Fall"
                 ]
             }
@@ -1371,17 +1134,13 @@
             "title": "The Jesus Stuff: Dependence - Suzy Silk",
             "entities": {
                 "DATE": [
-                    "1\":2,\"2\":\"This Sunday",
                     "This Sunday"
                 ],
                 "PERSON": [
                     "Pastor Suzy",
-                    "The Jesus Stuff",
-                    "Pastor Suzy",
                     "The Jesus Stuff"
                 ],
                 "WORK_OF_ART": [
-                    "Fall",
                     "Fall"
                 ]
             }
@@ -1411,24 +1170,17 @@
             "title": "The Jesus Stuff: Healing - Darren Rouanzoin",
             "entities": {
                 "DATE": [
-                    "1\":2,\"2\":\"This Sunday",
                     "This Sunday"
                 ],
                 "PERSON": [
                     "Darren Rouanzoin",
                     "The Jesus Stuff",
-                    "Jesus",
-                    "Darren Rouanzoin",
-                    "The Jesus Stuff",
                     "Jesus"
                 ],
                 "WORK_OF_ART": [
-                    "Fall",
-                    "the Holy Spirit",
                     "Fall"
                 ],
                 "GPE": [
-                    "Kingdom",
                     "Kingdom"
                 ]
             }
@@ -1510,25 +1262,18 @@
             "title": "The Jesus Stuff: Radical Obedience - Jon Tyson",
             "entities": {
                 "DATE": [
-                    "1\":2,\"2\":\"This Sunday",
                     "This Sunday"
                 ],
                 "PERSON": [
                     "Pastor Jon",
                     "The Jesus Stuff",
                     "Jesus",
-                    "The Jesus Stuff",
-                    "Pastor Jon",
-                    "The Jesus Stuff",
-                    "Jesus",
                     "The Jesus Stuff"
                 ],
                 "WORK_OF_ART": [
-                    "Fall",
                     "Fall"
                 ],
                 "CARDINAL": [
-                    "three",
                     "three"
                 ]
             }
@@ -1560,7 +1305,6 @@
             "title": "The Jesus Stuff - Jon Tyson",
             "entities": {
                 "DATE": [
-                    "1\":2,\"2\":\"This Sunday",
                     "This Sunday"
                 ],
                 "PERSON": [
@@ -1571,18 +1315,9 @@
                     "Jesus",
                     "Gospel",
                     "Jesus",
-                    "the Jesus Stuff",
-                    "Pastor Jon",
-                    "The Jesus Stuff",
-                    "Jesus",
-                    "Jesus",
-                    "Jesus",
-                    "Gospel",
-                    "Jesus",
-                    "the Jesus Stuff.<br"
+                    "the Jesus Stuff"
                 ],
                 "WORK_OF_ART": [
-                    "Fall",
                     "Fall"
                 ]
             }
@@ -1664,8 +1399,6 @@
             "title": "Defiant Joy: The Peace of God - Ashley Anderson",
             "entities": {
                 "DATE": [
-                    "1\":2,\"2\":\"This Sunday",
-                    "Summer",
                     "This Sunday",
                     "Summer"
                 ],
@@ -1676,18 +1409,10 @@
                     "Paul",
                     "Pastor Ashley",
                     "Paul",
-                    "Jesus",
-                    "Pastor Ashley",
-                    "Joy",
-                    "Paul",
-                    "Paul",
-                    "Pastor Ashley",
-                    "Paul"
+                    "Jesus"
                 ],
                 "NORP": [
-                    "Philippians",
-                    "Philippians",
-                    "Jesus.</span></p"
+                    "Philippians"
                 ]
             }
         },
@@ -1718,12 +1443,9 @@
             "title": "Defiant Joy: Unity in the Lord - Darren Whitehead",
             "entities": {
                 "DATE": [
-                    "1\":2,\"2\":\"This Sunday",
-                    "Summer",
-                    "today",
-                    "today",
                     "This Sunday",
                     "Summer",
+                    "today",
                     "today"
                 ],
                 "PERSON": [
@@ -1734,42 +1456,25 @@
                     "Jesus",
                     "Jesus",
                     "Pastor Darren",
-                    "Jesus",
-                    "Darren Whitehead",
-                    "Joy",
-                    "Paul",
-                    "Paul",
-                    "Jesus",
-                    "Jesus",
-                    "Pastor Darren",
                     "Jesus"
                 ],
                 "NORP": [
-                    "Philippians",
                     "Philippians"
                 ],
                 "CARDINAL": [
                     "two",
                     "one",
-                    "one",
-                    "two",
-                    "one",
                     "one"
                 ],
                 "GPE": [
-                    "Philippi",
                     "Philippi"
                 ],
                 "ORG": [
                     "Spirit",
                     "Spirit",
-                    "Spirit",
-                    "Spirit",
-                    "Spirit",
                     "Spirit"
                 ],
                 "ORDINAL": [
-                    "first",
                     "first"
                 ]
             }
@@ -1801,21 +1506,15 @@
             "title": "Defiant Joy: Live Up to Your Citizenship - Suzy Silk",
             "entities": {
                 "DATE": [
-                    "1\":2,\"2\":\"This Sunday",
-                    "Summer",
                     "This Sunday",
                     "Summer"
                 ],
                 "PERSON": [
                     "Pastor Suzy",
                     "Joy",
-                    "Paul",
-                    "Pastor Suzy",
-                    "Joy",
                     "Paul"
                 ],
                 "NORP": [
-                    "Philippians",
                     "Philippians"
                 ]
             }
@@ -1847,8 +1546,6 @@
             "title": "Defiant Joy: Thoroughly Converted  - Jon Tyson",
             "entities": {
                 "DATE": [
-                    "1\":2,\"2\":\"This Sunday",
-                    "Summer",
                     "This Sunday",
                     "Summer"
                 ],
@@ -1856,14 +1553,9 @@
                     "Pastor Jon",
                     "Joy",
                     "Paul",
-                    "Jesus",
-                    "Pastor Jon",
-                    "Joy",
-                    "Paul",
                     "Jesus"
                 ],
                 "NORP": [
-                    "Philippians",
                     "Philippians"
                 ]
             }
@@ -1895,8 +1587,6 @@
             "title": "Defiant Joy: The Concerns of Christ - Suzy Silk",
             "entities": {
                 "DATE": [
-                    "1\":2,\"2\":\"This Sunday",
-                    "Summer",
                     "This Sunday",
                     "Summer"
                 ],
@@ -1905,22 +1595,17 @@
                     "Joy",
                     "Paul",
                     "Timothy",
-                    "Paul",
-                    "Pastor Suzy",
-                    "Joy",
-                    "Paul",
-                    "Timothy",
                     "Paul"
                 ],
                 "NORP": [
                     "Philippians",
-                    "Philippians",
-                    "Philippians",
                     "Philippians"
                 ],
                 "LAW": [
-                    "Chapter 2",
                     "Chapter 2"
+                ],
+                "ORG": [
+                    "Christ"
                 ]
             }
         },
@@ -1951,8 +1636,6 @@
             "title": "Defiant Joy: Complain or Contribute",
             "entities": {
                 "DATE": [
-                    "1\":2,\"2\":\"This Sunday",
-                    "Summer",
                     "This Sunday",
                     "Summer"
                 ],
@@ -1961,26 +1644,16 @@
                     "Joy",
                     "Paul",
                     "Paul",
-                    "Jesus",
-                    "Pastor Keithen",
-                    "Joy",
-                    "Paul",
-                    "Paul",
                     "Jesus"
                 ],
                 "NORP": [
                     "Philippians",
-                    "Philippians",
-                    "Philippians",
                     "Philippians"
                 ],
                 "CARDINAL": [
-                    "2",
                     "2"
                 ],
                 "GPE": [
-                    "Philippi",
-                    "Israel",
                     "Philippi",
                     "Israel"
                 ]
@@ -2013,9 +1686,6 @@
             "title": "Defiant Joy: Grasping or Giving: Community in the way of Jesus - Jon Tyson",
             "entities": {
                 "DATE": [
-                    "1\":2,\"2\":\"This Sunday",
-                    "Summer",
-                    "today",
                     "This Sunday",
                     "Summer",
                     "today"
@@ -2024,14 +1694,9 @@
                     "Pastor Jon",
                     "Joy",
                     "Jesus",
-                    "Jesus",
-                    "Pastor Jon",
-                    "Joy",
-                    "Jesus",
                     "Jesus"
                 ],
                 "NORP": [
-                    "Philippians",
                     "Philippians"
                 ]
             }
@@ -2063,8 +1728,6 @@
             "title": "Defiant Joy: Unity & Division  - Jon Tyson",
             "entities": {
                 "DATE": [
-                    "1\":2,\"2\":\"This Sunday",
-                    "Summer",
                     "This Sunday",
                     "Summer"
                 ],
@@ -2073,15 +1736,9 @@
                     "Joy",
                     "Paul",
                     "Jon",
-                    "Jesus",
-                    "Pastor Jon",
-                    "Joy",
-                    "Paul",
-                    "Jon",
                     "Jesus"
                 ],
                 "NORP": [
-                    "Philippians",
                     "Philippians"
                 ]
             }
@@ -2113,8 +1770,6 @@
             "title": "Defiant Joy: No Matter What - Matt Ro",
             "entities": {
                 "DATE": [
-                    "1\":2,\"2\":\"This Sunday",
-                    "Summer",
                     "This Sunday",
                     "Summer"
                 ],
@@ -2124,20 +1779,12 @@
                     "Paul",
                     "Paul",
                     "Jesus",
-                    "Jesus",
-                    "Matthew Ro",
-                    "Joy",
-                    "Paul",
-                    "Paul",
-                    "Jesus",
                     "Jesus"
                 ],
                 "NORP": [
-                    "Philippians",
                     "Philippians"
                 ],
                 "ORDINAL": [
-                    "second",
                     "second"
                 ]
             }
@@ -2169,7 +1816,6 @@
             "title": "Defiant Joy: Proclamation of the Gospel  - Suzy Silk",
             "entities": {
                 "DATE": [
-                    "1\":2,\"2\":\"This Sunday",
                     "This Sunday"
                 ],
                 "PERSON": [
@@ -2177,19 +1823,12 @@
                     "Joy",
                     "Paul",
                     "Paul",
-                    "Paul",
-                    "Pastor Suzy",
-                    "Joy",
-                    "Paul",
-                    "Paul",
                     "Paul"
                 ],
                 "NORP": [
-                    "Philippians",
                     "Philippians"
                 ],
                 "ORG": [
-                    "Christ",
                     "Christ"
                 ]
             }
@@ -2220,17 +1859,8 @@
             "pubDate": "Wed, 29 Jun 2022 04:04:58 +0000",
             "title": "Above All Else - Banning Liebscher",
             "entities": {
-                "DATE": [
-                    "This Sunday"
-                ],
-                "NORP": [
-                    "Philippians"
-                ],
                 "PERSON": [
                     "Banning Liebscher",
-                    "Jesus",
-                    "Jesus",
-                    "Guest Pastor Banning Liebscher",
                     "Jesus",
                     "Jesus"
                 ]
@@ -2263,14 +1893,9 @@
             "title": "Defiant Joy: The Work of God - Suzy Silk",
             "entities": {
                 "DATE": [
-                    "1\":2,\"2\":\"This Sunday",
                     "This Sunday"
                 ],
                 "PERSON": [
-                    "Pastor Suzy",
-                    "Joy",
-                    "Paul",
-                    "Paul",
                     "Pastor Suzy",
                     "Joy",
                     "Paul",
@@ -2278,25 +1903,19 @@
                 ],
                 "NORP": [
                     "Philippians",
-                    "Philippians",
-                    "Philippians",
                     "Philippians"
                 ],
                 "WORK_OF_ART": [
-                    "the Work of God",
                     "the Work of God"
                 ],
                 "CARDINAL": [
-                    "one",
                     "one"
                 ],
                 "GPE": [
-                    "us",
                     "us"
                 ],
                 "ORG": [
-                    "the Good News of the",
-                    "the Good News of the Gospel.<br"
+                    "the Good News of the Gospel"
                 ]
             }
         },
@@ -2327,8 +1946,6 @@
             "title": "Defiant Joy: A Study Through Philippians  - Jon Tyson",
             "entities": {
                 "DATE": [
-                    "1\":2,\"2\":\"This Sunday",
-                    "Summer",
                     "This Sunday",
                     "Summer"
                 ],
@@ -2337,25 +1954,16 @@
                     "Joy",
                     "Paul",
                     "Jesus",
-                    "Paul",
-                    "Pastor Jon",
-                    "Joy",
-                    "Paul",
-                    "Jesus",
                     "Paul"
                 ],
                 "NORP": [
-                    "Philippians",
                     "Philippians"
                 ],
                 "GPE": [
-                    "Philippi",
                     "Philippi"
                 ],
                 "ORG": [
-                    "Spirit",
-                    "Spirit",
-                    "flourishing.</span></p"
+                    "Spirit"
                 ]
             }
         },
@@ -2386,13 +1994,9 @@
             "title": "Seizing Divine Moments - Guy Wasko",
             "entities": {
                 "DATE": [
-                    "Sunday",
                     "Sunday"
                 ],
                 "PERSON": [
-                    "Guy Wasko",
-                    "Jonathan",
-                    "Samuel",
                     "Guy Wasko",
                     "Jonathan",
                     "Samuel"
@@ -2426,18 +2030,9 @@
             "title": "Seeing Jesus: Through Despair - Suzy Silk",
             "entities": {
                 "DATE": [
-                    "1\":2,\"2\":\"This Sunday",
                     "This Sunday"
                 ],
                 "PERSON": [
-                    "Pastor Suzy",
-                    "Mary Magdalene\u2019s",
-                    "Jesus",
-                    "Jesus",
-                    "Mary",
-                    "Jesus",
-                    "Jesus",
-                    "Jesus",
                     "Pastor Suzy",
                     "Mary Magdalene\u2019s",
                     "Jesus",
@@ -2476,7 +2071,6 @@
             "title": "Seeing Jesus Through Denying Faith  - Jon Tyson",
             "entities": {
                 "DATE": [
-                    "1\":2,\"2\":\"This Sunday",
                     "This Sunday"
                 ],
                 "PERSON": [
@@ -2485,15 +2079,7 @@
                     "Jesus",
                     "Pastor Jon",
                     "Judas",
-                    "Jesus",
-                    "Pastor Jon",
-                    "Judas",
-                    "Jesus",
-                    "Pastor Jon",
-                    "Judas"
-                ],
-                "NORP": [
-                    "Jesus.</span></p"
+                    "Jesus"
                 ]
             }
         },
@@ -2524,20 +2110,10 @@
             "title": "Seeing Jesus: Through Doubt  - Jon Tyson",
             "entities": {
                 "DATE": [
-                    "1\":2,\"2\":\"This Sunday",
-                    "today",
                     "This Sunday",
                     "today"
                 ],
                 "PERSON": [
-                    "Pastor Jon",
-                    "\\\"Seeing Jesus Through",
-                    "Thomas",
-                    "Jesus",
-                    "Jesus",
-                    "Thomas",
-                    "Jesus",
-                    "Thomas",
                     "Pastor Jon",
                     "Thomas",
                     "Jesus",
@@ -2547,7 +2123,6 @@
                     "Thomas"
                 ],
                 "ORDINAL": [
-                    "first",
                     "first"
                 ]
             }
@@ -2579,26 +2154,19 @@
             "title": "Seeing Jesus: Through Disappointment - Suzy Silk",
             "entities": {
                 "DATE": [
-                    "1\":2,\"2\":\"This Sunday",
-                    "today",
-                    "This Sunday"
+                    "This Sunday",
+                    "today"
                 ],
                 "PERSON": [
-                    "Pastor Suzy",
-                    "Jesus",
-                    "Jesus",
                     "Pastor Suzy",
                     "Jesus",
                     "Jesus"
                 ],
                 "CARDINAL": [
                     "two",
-                    "three",
-                    "two",
                     "three"
                 ],
                 "GPE": [
-                    "Emmaus",
                     "Emmaus"
                 ]
             }
@@ -2630,7 +2198,6 @@
             "title": "Seeing Jesus: When Your Faith Fails - Jon Tyson",
             "entities": {
                 "DATE": [
-                    "1\":2,\"2\":\"This Sunday",
                     "This Sunday"
                 ],
                 "PERSON": [
@@ -2641,18 +2208,9 @@
                     "Pastor Jon",
                     "Jesus",
                     "Jesus",
-                    "Peter",
-                    "Pastor Jon",
-                    "Jesus",
-                    "Jesus",
-                    "Peter",
-                    "Pastor Jon",
-                    "Jesus",
-                    "Jesus",
                     "Peter"
                 ],
                 "CARDINAL": [
-                    "three",
                     "three"
                 ]
             }
@@ -2684,7 +2242,6 @@
             "title": "Easter Sunday: Seeing Jesus  - Jon Tyson",
             "entities": {
                 "EVENT": [
-                    "Easter Sunday this year",
                     "Easter Sunday this year"
                 ],
                 "PERSON": [
@@ -2693,28 +2250,18 @@
                     "John",
                     "John",
                     "Jesus",
-                    "Jesus",
-                    "Pastor Jon",
-                    "Jesus",
-                    "John",
-                    "John",
-                    "Jesus",
                     "Jesus"
                 ],
                 "CARDINAL": [
-                    "three",
                     "three"
                 ],
                 "NORP": [
-                    "Greek",
                     "Greek"
                 ],
                 "DATE": [
-                    "today",
                     "today"
                 ],
                 "ORG": [
-                    "Easter",
                     "Easter"
                 ]
             }
@@ -2747,15 +2294,9 @@
             "entities": {
                 "DATE": [
                     "week",
-                    "today",
-                    "week"
+                    "today"
                 ],
                 "PERSON": [
-                    "Jon Tyson",
-                    "Jesus",
-                    "Pharisees",
-                    "Jesus",
-                    "Pharissee",
                     "Jon Tyson",
                     "Jesus",
                     "Pharisees",
@@ -2763,11 +2304,9 @@
                     "Pharissee"
                 ],
                 "GPE": [
-                    "Jerusalem",
                     "Jerusalem"
                 ],
                 "FAC": [
-                    "Palm Sunday",
                     "Palm Sunday"
                 ]
             }
@@ -2798,8 +2337,6 @@
             "title": "Converting the Church: Kill the Prophets - Suzy Silk",
             "entities": {
                 "DATE": [
-                    "1\":2,\"2\":\"This week",
-                    "his final days",
                     "This week",
                     "his final days"
                 ],
@@ -2809,20 +2346,10 @@
                     "Pharisees",
                     "Jesus",
                     "Jesus",
-                    "Jesus",
-                    "Pastor Suzy",
-                    "Jesus",
-                    "Pharisees",
-                    "Jesus",
-                    "Jesus",
                     "Jesus"
                 ],
                 "CARDINAL": [
-                    "23",
                     "23"
-                ],
-                "GPE": [
-                    "heart.</span"
                 ]
             }
         },
@@ -2940,16 +2467,12 @@
             "title": "Converting the Church: Weightier Things - Jon Tyson",
             "entities": {
                 "DATE": [
-                    "1\":2,\"2\":\"This Sunday",
                     "This Sunday"
                 ],
                 "ORG": [
-                    "Converting the Church",
                     "Converting the Church"
                 ],
                 "PERSON": [
-                    "Pastor Jon",
-                    "Jesus",
                     "Pastor Jon",
                     "Jesus"
                 ]
@@ -2982,26 +2505,18 @@
             "title": "Converting the Church: False Promises - Suzy Silk",
             "entities": {
                 "DATE": [
-                    "1\":2,\"2\":\"This Sunday",
                     "This Sunday"
                 ],
                 "PERSON": [
                     "Pastor Suzy",
                     "Jesus",
                     "Pharisees",
-                    "Jesus",
-                    "Pastor Suzy",
-                    "Jesus",
-                    "Pharisees",
-                    "Jesus",
-                    "div class=\"py-3"
+                    "Jesus"
                 ],
                 "ORG": [
-                    "Converting the Church",
                     "Converting the Church"
                 ],
                 "ORDINAL": [
-                    "third",
                     "third"
                 ]
             }
@@ -3033,29 +2548,21 @@
             "title": "Converting the Church: Converts of Hell - Jon Tyson",
             "entities": {
                 "DATE": [
-                    "1\":2,\"2\":\"This Sunday",
                     "This Sunday"
                 ],
                 "PERSON": [
                     "Pastor Jon",
                     "Jesus",
                     "Jesus",
-                    "Jesus",
-                    "Pastor Jon",
-                    "Jesus",
-                    "Jesus",
                     "Jesus"
                 ],
                 "ORDINAL": [
-                    "second",
                     "second"
                 ],
                 "CARDINAL": [
-                    "23",
                     "23"
                 ],
                 "GPE": [
-                    "the Kingdom of Heaven",
                     "the Kingdom of Heaven"
                 ]
             }
@@ -3086,7 +2593,6 @@
             "title": "Converting the Church: Shutting Doors in People's Faces - Ralph Castillo",
             "entities": {
                 "DATE": [
-                    "1\":2,\"2\":\"This Sunday",
                     "This Sunday"
                 ],
                 "PERSON": [
@@ -3094,23 +2600,15 @@
                     "Jesus",
                     "Pharisees",
                     "Jesus",
-                    "Pharisees",
-                    "Ralph Castillo",
-                    "Jesus",
-                    "Pharisees",
-                    "Jesus",
                     "Pharisees"
                 ],
                 "ORDINAL": [
-                    "first",
                     "first"
                 ],
                 "CARDINAL": [
-                    "seven",
                     "seven"
                 ],
                 "GPE": [
-                    "the Kingdom of Heaven",
                     "the Kingdom of Heaven"
                 ]
             }
@@ -3142,8 +2640,6 @@
             "title": "Converting the Church: Everything for Show  - Jon Tyson",
             "entities": {
                 "DATE": [
-                    "1\":2,\"2\":\"This Sunday",
-                    "today",
                     "This Sunday",
                     "today"
                 ],
@@ -3151,14 +2647,9 @@
                     "Pastor Jon",
                     "Jesus",
                     "Pharisees",
-                    "Jesus",
-                    "Pastor Jon",
-                    "Jesus",
-                    "Pharisees",
                     "Jesus"
                 ],
                 "ORG": [
-                    "Converting the Church",
                     "Converting the Church"
                 ]
             }
@@ -3189,8 +2680,6 @@
             "title": "Converting the Church: Heavy Burdens - Jon Tyson",
             "entities": {
                 "DATE": [
-                    "1\":2,\"2\":\"This Sunday",
-                    "day",
                     "This Sunday",
                     "day"
                 ],
@@ -3200,17 +2689,9 @@
                     "Matthew 23",
                     "Jesus",
                     "Pharisees",
-                    "Jesus",
-                    "Pastor Jon",
-                    "Jesus",
-                    "Matthew 23",
-                    "Jesus",
-                    "Pharisees",
-                    "Jesus",
-                    "Good News"
+                    "Jesus"
                 ],
                 "ORG": [
-                    "Converting the Church",
                     "Converting the Church"
                 ],
                 "WORK_OF_ART": [
@@ -3286,23 +2767,17 @@
             "title": "SEEKING GOD: Worshipers - Jon Tyson",
             "entities": {
                 "DATE": [
-                    "1\":2,\"2\":\"This Sunday",
                     "This Sunday"
                 ],
                 "PERSON": [
                     "Pastor Jon",
                     "John",
-                    "Jesus",
-                    "Pastor Jon",
-                    "John",
                     "Jesus"
                 ],
                 "WORK_OF_ART": [
-                    "Seeking God series",
                     "Seeking God series"
                 ],
                 "FAC": [
-                    "Worshiper",
                     "Worshiper"
                 ]
             }
@@ -3333,14 +2808,9 @@
             "title": "SEEKING GOD: Intercessors - Corey Russell",
             "entities": {
                 "DATE": [
-                    "1\":2,\"2\":\"This Sunday",
                     "This Sunday"
                 ],
                 "PERSON": [
-                    "Corey Russell",
-                    "Isaiah",
-                    "Pastor Corey",
-                    "Jesus",
                     "Corey Russell",
                     "Isaiah",
                     "Pastor Corey",
@@ -3466,17 +2936,18 @@
             "pubDate": "Mon, 20 Dec 2021 20:50:29 +0000",
             "title": "Advent: Lessons & Carols - Suzy Silk",
             "entities": {
+                "PERSON": [
+                    "This Advent Season",
+                    "Jesus",
+                    "Pastor Suzy",
+                    "Mary",
+                    "Mary"
+                ],
                 "DATE": [
                     "Christmas",
                     "this week",
                     "the end of the day",
                     "Christmas"
-                ],
-                "PERSON": [
-                    "Jesus",
-                    "Pastor Suzy",
-                    "Mary",
-                    "Mary"
                 ],
                 "ORG": [
                     "Lessons & Carols"
@@ -3965,7 +3436,7 @@
                 ],
                 "GPE": [
                     "the Kingdom of God",
-                    "His Kingdom cause.</p"
+                    "His Kingdom"
                 ]
             }
         },
@@ -4233,7 +3704,7 @@
             "title": "Colossians: The Transformation You Long For - Ashley Anderson",
             "entities": {
                 "DATE": [
-                    "class=\"p1\">This past Sunday"
+                    "This past Sunday"
                 ],
                 "PERSON": [
                     "Pastor Ashley",
@@ -4318,7 +3789,7 @@
             "title": "Colossians: The Victory You Long For - Phil Manginelli",
             "entities": {
                 "DATE": [
-                    "class=\"p1\">This past Sunday"
+                    "This past Sunday"
                 ],
                 "PERSON": [
                     "Phil Manginelli",
@@ -4445,9 +3916,10 @@
             "title": "Colossians: The Holiness You Long For - Jon Tyson",
             "entities": {
                 "DATE": [
-                    "Sunday",
+                    "This Sunday",
                     "summer",
-                    "last week's"
+                    "last week's",
+                    "today"
                 ],
                 "NORP": [
                     "Colossians"
@@ -4490,9 +3962,6 @@
                     "This Sunday",
                     "summer"
                 ],
-                "LOC": [
-                    "Pastor Olivia"
-                ],
                 "NORP": [
                     "Colossians"
                 ],
@@ -4500,7 +3969,8 @@
                     "The Savior You Long For"
                 ],
                 "PERSON": [
-                    "Jesus"
+                    "Jesus",
+                    "Gospel"
                 ]
             }
         },
@@ -4531,7 +4001,7 @@
             "title": "Colossians: The Power You Long For - Ralph Castillo",
             "entities": {
                 "DATE": [
-                    "This Sunday"
+                    "Sunday"
                 ],
                 "PERSON": [
                     "Ralph Castillo"
@@ -4614,7 +4084,7 @@
             "title": "Colossians: The Life You Long For - Jon Tyson",
             "entities": {
                 "DATE": [
-                    "Sunday",
+                    "This Sunday",
                     "Summer"
                 ],
                 "PERSON": [
@@ -4624,10 +4094,7 @@
                     "Jesus"
                 ],
                 "WORK_OF_ART": [
-                    "The Life You Long For\u201d.<span"
-                ],
-                "ORG": [
-                    "Apple"
+                    "The Life You Long For"
                 ],
                 "NORP": [
                     "Colossians"
@@ -4664,7 +4131,7 @@
             "title": "Unexpected Jesus: Unexpected Change - Jon Tyson",
             "entities": {
                 "DATE": [
-                    "Sunday"
+                    "This Sunday"
                 ],
                 "PERSON": [
                     "Pastor Jon",
@@ -4702,6 +4169,9 @@
             "pubDate": "Mon, 24 May 2021 17:34:24 +0000",
             "title": "Unexpected Jesus: Unexpected Inclusion - Ashley Anderson",
             "entities": {
+                "DATE": [
+                    "This Sunday"
+                ],
                 "PERSON": [
                     "Pastor Ashley",
                     "Jesus"
@@ -4769,8 +4239,8 @@
             "pubDate": "Mon, 10 May 2021 17:39:15 +0000",
             "title": "Unexpected Jesus: Unexpected Peace - Suzy Silk",
             "entities": {
-                "DATE": [
-                    "This Sunday"
+                "ORG": [
+                    "UNEXPECTED PEACE - This Sunday"
                 ],
                 "PERSON": [
                     "Jesus",
@@ -4804,13 +4274,14 @@
             "pubDate": "Mon, 03 May 2021 16:49:54 +0000",
             "title": "Unexpected Jesus : Unexpected Visitation - Pastor Rafael Castillo",
             "entities": {
-                "DATE": [
-                    "Sunday"
-                ],
                 "PERSON": [
+                    "UNEXPECTED VISITATION -",
                     "Rafael Castillo",
                     "Jesus",
                     "Jesus"
+                ],
+                "DATE": [
+                    "Sunday"
                 ],
                 "GPE": [
                     "Emmaus"
@@ -4878,15 +4349,17 @@
             "pubDate": "Mon, 19 Apr 2021 16:15:31 +0000",
             "title": "Unexpected Jesus: Unexpected Extravagance - Olivia Munn-Shirsath",
             "entities": {
-                "DATE": [
-                    "This past Sunday",
-                    "year"
+                "ORG": [
+                    "UNEXPECTED EXTRAVAGANCE - This past"
                 ],
                 "PERSON": [
                     "Mary of Bethany",
                     "Jesus",
                     "David",
                     "Mary"
+                ],
+                "DATE": [
+                    "year"
                 ]
             }
         },
@@ -4915,12 +4388,14 @@
             "pubDate": "Mon, 12 Apr 2021 18:16:44 +0000",
             "title": "Unexpected Jesus: Unexpected Kingdom - Jon Tyson",
             "entities": {
+                "PERSON": [
+                    "UNEXPECTED KINGDOM",
+                    "Jon Tyson",
+                    "Jesus",
+                    "Gospel"
+                ],
                 "DATE": [
                     "This past Sunday"
-                ],
-                "PERSON": [
-                    "Jon Tyson",
-                    "Jesus"
                 ],
                 "ORG": [
                     "Unexpected Jesus"
@@ -4952,13 +4427,14 @@
             "pubDate": "Mon, 29 Mar 2021 17:28:45 +0000",
             "title": "Sin: Falling Short - Suzy Silk",
             "entities": {
+                "ORG": [
+                    "SIN",
+                    "Pastor Suzy",
+                    "Easter, Holy Week"
+                ],
                 "DATE": [
                     "This Sunday",
                     "Holy Week"
-                ],
-                "ORG": [
-                    "Pastor Suzy",
-                    "Easter, Holy Week"
                 ],
                 "PERSON": [
                     "Jesus",
@@ -5110,8 +4586,9 @@
             "pubDate": "Sat, 06 Mar 2021 00:45:50 +0000",
             "title": "Sin: Rebellion - Jon Tyson",
             "entities": {
-                "MONEY": [
-                    "#000000;\">SIN AS"
+                "ORG": [
+                    "SIN",
+                    "Genesis"
                 ],
                 "DATE": [
                     "This past Sunday",
@@ -5123,14 +4600,8 @@
                     "Eve",
                     "Jesus"
                 ],
-                "ORG": [
-                    "Genesis"
-                ],
                 "CARDINAL": [
                     "3"
-                ],
-                "NORP": [
-                    "sin.</span></p"
                 ]
             }
         },
@@ -5235,19 +4706,14 @@
             "pubDate": "Mon, 08 Feb 2021 17:11:14 +0000",
             "title": "A Creative Minority: Authority - Suzy Silk",
             "entities": {
-                "CARDINAL": [
-                    "1\":2,\"2\":\"CREATIVE",
-                    "one",
-                    "2\":13247,\"3\":{\"1\":0},\"4\":[null,2,16776960],\"5\":{\"1\":[{\"1\":2,\"2\":0,\"5\":[null,2,0]},{\"1\":0,\"2\":0,\"3\":3},{\"1\":1,\"2\":0,\"4\":1}]},\"6\":{\"1\":[{\"1\":2,\"2\":0,\"5\":[null,2,0]},{\"1\":0,\"2\":0,\"3\":3},{\"1\":1,\"2\":0,\"4\":1}]},\"7\":{\"1\":[{\"1\":2,\"2\":0,\"5\":[null,2,0]},{\"1\":0,\"2\":0,\"3\":3},{\"1\":1,\"2\":0,\"4\":1}]},\"8\":{\"1\":[{\"1\":2,\"2\":0,\"5\":[null,2,0]},{\"1\":0,\"2\":0,\"3\":3},{\"1\":1,\"2\":0,\"4\":1}]},\"10\":2,\"11\":4,\"12\":0,\"15\":\"Arial\",\"16\":12",
-                    "one"
-                ],
                 "DATE": [
-                    "This past Sunday",
                     "This past Sunday"
                 ],
                 "PERSON": [
-                    "Pastor Suzy",
                     "Pastor Suzy"
+                ],
+                "CARDINAL": [
+                    "one"
                 ]
             }
         },
@@ -5543,23 +5009,16 @@
             "pubDate": "Mon, 14 Dec 2020 18:17:02 +0000",
             "title": "A Defiant Christmas: Defiant Joy - Suzy Silk",
             "entities": {
+                "DATE": [
+                    "This Past Sunday",
+                    "a difficult year"
+                ],
                 "ORG": [
-                    "Pastor Susy",
                     "Pastor Susy"
                 ],
                 "PERSON": [
                     "Jesus Christ",
-                    "Joy",
-                    "Jesus Christ",
                     "Joy"
-                ],
-                "DATE": [
-                    "a difficult year",
-                    "This Past Sunday",
-                    "a difficult year"
-                ],
-                "CARDINAL": [
-                    "2\":13245,\"3\":{\"1\":0},\"5\":{\"1\":[{\"1\":2,\"2\":0,\"5\":[null,2,0]},{\"1\":0,\"2\":0,\"3\":3},{\"1\":1,\"2\":0,\"4\":1}]},\"6\":{\"1\":[{\"1\":2,\"2\":0,\"5\":[null,2,0]},{\"1\":0,\"2\":0,\"3\":3},{\"1\":1,\"2\":0,\"4\":1}]},\"7\":{\"1\":[{\"1\":2,\"2\":0,\"5\":[null,2,0]},{\"1\":0,\"2\":0,\"3\":3},{\"1\":1,\"2\":0,\"4\":1}]},\"8\":{\"1\":[{\"1\":2,\"2\":0,\"5\":[null,2,0]},{\"1\":0,\"2\":0,\"3\":3},{\"1\":1,\"2\":0,\"4\":1}]},\"10\":2,\"11\":4,\"12\":0,\"15\":\"Arial\",\"16\":12"
                 ]
             }
         },
@@ -5587,15 +5046,11 @@
             "pubDate": "Mon, 07 Dec 2020 02:32:33 +0000",
             "title": "A Defiant Christmas: Defiant Peace - Jon Tyson",
             "entities": {
-                "PERSON": [
-                    "Pastor John",
-                    "Pastor John"
-                ],
-                "CARDINAL": [
-                    "2\":13245,\"3\":{\"1\":0},\"5\":{\"1\":[{\"1\":2,\"2\":0,\"5\":[null,2,0]},{\"1\":0,\"2\":0,\"3\":3},{\"1\":1,\"2\":0,\"4\":1}]},\"6\":{\"1\":[{\"1\":2,\"2\":0,\"5\":[null,2,0]},{\"1\":0,\"2\":0,\"3\":3},{\"1\":1,\"2\":0,\"4\":1}]},\"7\":{\"1\":[{\"1\":2,\"2\":0,\"5\":[null,2,0]},{\"1\":0,\"2\":0,\"3\":3},{\"1\":1,\"2\":0,\"4\":1}]},\"8\":{\"1\":[{\"1\":2,\"2\":0,\"5\":[null,2,0]},{\"1\":0,\"2\":0,\"3\":3},{\"1\":1,\"2\":0,\"4\":1}]},\"10\":2,\"11\":4,\"12\":0,\"15\":\"Arial\",\"16\":12"
-                ],
                 "DATE": [
                     "This Sunday"
+                ],
+                "PERSON": [
+                    "Pastor John"
                 ]
             }
         },
@@ -5625,26 +5080,18 @@
             "pubDate": "Mon, 30 Nov 2020 14:14:50 +0000",
             "title": "A Defiant Christmas: Defiant Hope - Suzy Silk",
             "entities": {
-                "ORG": [
-                    "HOPE - Pastor Suzy",
-                    "King Ahaz of Judah",
-                    "King Ahaz of Judah"
+                "PERSON": [
+                    "Pastor Suzy",
+                    "Emmanuel"
                 ],
                 "DATE": [
                     "this past Sunday",
                     "a year like 2020",
                     "two thousand years ago",
-                    "Today",
-                    "this past Sunday",
-                    "a year",
-                    "2020.<br",
-                    "two thousand years ago",
                     "Today"
                 ],
-                "PERSON": [
-                    "Emmanuel",
-                    "Suzy",
-                    "Emmanuel"
+                "ORG": [
+                    "King Ahaz of Judah"
                 ]
             }
         },
@@ -5674,15 +5121,7 @@
             "pubDate": "Mon, 23 Nov 2020 20:32:21 +0000",
             "title": "Disruptive Discipleship: City on a Hill -  Jon Tyson",
             "entities": {
-                "ORG": [
-                    "ON A HILL CANNOT BE"
-                ],
                 "PERSON": [
-                    "Pastor Jon",
-                    "Jesus",
-                    "Jesus",
-                    "Jesus",
-                    "Jesus",
                     "Pastor Jon",
                     "Jesus",
                     "Jesus",
@@ -5717,20 +5156,12 @@
             "pubDate": "Mon, 16 Nov 2020 18:13:44 +0000",
             "title": "Disruptive Discipleship: Blessed are the Persecuted - Jon Tyson",
             "entities": {
-                "WORK_OF_ART": [
-                    "\"1\":2,\"2\":\"BLESSED ARE THOSE WHO ARE PERSECUTED - This past Sunday"
+                "DATE": [
+                    "This past Sunday"
                 ],
                 "PERSON": [
                     "Pastor Jon",
-                    "Jesus",
-                    "Pastor Jon",
                     "Jesus"
-                ],
-                "CARDINAL": [
-                    "2\":46013,\"3\":{\"1\":0},\"5\":{\"1\":[{\"1\":2,\"2\":0,\"5\":[null,2,0]},{\"1\":0,\"2\":0,\"3\":3},{\"1\":1,\"2\":0,\"4\":1}]},\"6\":{\"1\":[{\"1\":2,\"2\":0,\"5\":[null,2,0]},{\"1\":0,\"2\":0,\"3\":3},{\"1\":1,\"2\":0,\"4\":1}]},\"7\":{\"1\":[{\"1\":2,\"2\":0,\"5\":[null,2,0]},{\"1\":0,\"2\":0,\"3\":3},{\"1\":1,\"2\":0,\"4\":1}]},\"8\":{\"1\":[{\"1\":2,\"2\":0,\"5\":[null,2,0]},{\"1\":0,\"2\":0,\"3\":3},{\"1\":1,\"2\":0,\"4\":1}]},\"10\":2,\"11\":4,\"12\":0,\"15\":\"Arial\",\"16\":12,\"18\":1"
-                ],
-                "DATE": [
-                    "This past Sunday"
                 ]
             }
         },
@@ -5795,19 +5226,14 @@
             "pubDate": "Mon, 02 Nov 2020 14:30:06 +0000",
             "title": "Disruptive Discipleship: The Pure in Heart - Ashley Anderson",
             "entities": {
-                "WORK_OF_ART": [
-                    "\"1\":2,\"2\":\"BLESSED ARE THE PURE"
+                "ORG": [
+                    "BLESSED"
                 ],
                 "DATE": [
-                    "This past Sunday",
                     "This past Sunday"
                 ],
                 "PERSON": [
-                    "Ashley Anderson",
                     "Ashley Anderson"
-                ],
-                "CARDINAL": [
-                    "2\":46013,\"3\":{\"1\":0},\"5\":{\"1\":[{\"1\":2,\"2\":0,\"5\":[null,2,0]},{\"1\":0,\"2\":0,\"3\":3},{\"1\":1,\"2\":0,\"4\":1}]},\"6\":{\"1\":[{\"1\":2,\"2\":0,\"5\":[null,2,0]},{\"1\":0,\"2\":0,\"3\":3},{\"1\":1,\"2\":0,\"4\":1}]},\"7\":{\"1\":[{\"1\":2,\"2\":0,\"5\":[null,2,0]},{\"1\":0,\"2\":0,\"3\":3},{\"1\":1,\"2\":0,\"4\":1}]},\"8\":{\"1\":[{\"1\":2,\"2\":0,\"5\":[null,2,0]},{\"1\":0,\"2\":0,\"3\":3},{\"1\":1,\"2\":0,\"4\":1}]},\"10\":2,\"11\":4,\"12\":0,\"15\":\"Arial\",\"16\":12,\"18\":1"
                 ]
             }
         },
@@ -5883,7 +5309,8 @@
             "title": "Disruptive Discipleship: Those Who Hunger and Thirst - Jon Tyson",
             "entities": {
                 "DATE": [
-                    "This past Sunday"
+                    "This past Sunday",
+                    "today"
                 ],
                 "PERSON": [
                     "Pastor Jon"
@@ -5934,6 +5361,9 @@
                 ],
                 "PERSON": [
                     "Jesus"
+                ],
+                "GPE": [
+                    "New Jerusalem"
                 ]
             }
         },
@@ -6040,7 +5470,7 @@
                     "Jesus"
                 ],
                 "GPE": [
-                    "the Kingdom of God.</p"
+                    "the Kingdom of God"
                 ]
             }
         },
@@ -6331,17 +5761,12 @@
             "title": "Crying Out: A Cry for Encouragement Part 2 - Jon Tyson",
             "entities": {
                 "PERSON": [
-                    "CRY",
-                    "Jon Tyson",
                     "Pastor Jon"
                 ],
                 "CARDINAL": [
-                    "2",
-                    "about three",
                     "about three"
                 ],
                 "LOC": [
-                    "Hebrews 10:19-25",
                     "Hebrews 10:19-25"
                 ]
             }
@@ -6374,19 +5799,11 @@
             "title": "Crying Out: A Cry for Encouragement - Jon Tyson",
             "entities": {
                 "PERSON": [
-                    "CRY",
-                    "Pastor Jon",
-                    "Jon"
+                    "Pastor Jon"
                 ],
                 "ORG": [
                     "Church",
-                    "the ministry of the Holy Trinity",
-                    "Church",
                     "the ministry of the Holy Trinity"
-                ],
-                "CARDINAL": [
-                    "2\":829,\"3\":{\"1\":0},\"5\":{\"1\":[{\"1\":2,\"2\":0,\"5\":[null,2,0]},{\"1\":0,\"2\":0,\"3\":3},{\"1\":1,\"2\":0,\"4\":1}]},\"6\":{\"1\":[{\"1\":2,\"2\":0,\"5\":[null,2,0]},{\"1\":0,\"2\":0,\"3\":3},{\"1\":1,\"2\":0,\"4\":1}]},\"7\":{\"1\":[{\"1\":2,\"2\":0,\"5\":[null,2,0]},{\"1\":0,\"2\":0,\"3\":3},{\"1\":1,\"2\":0,\"4\":1}]},\"8\":{\"1\":[{\"1\":2,\"2\":0,\"5\":[null,2,0]},{\"1\":0,\"2\":0,\"3\":3},{\"1\":1,\"2\":0,\"4\":1}]},\"11\":4,\"12\":0",
-                    "1\":0}\uee10[null,26,{\"6\":1}]\">Pastor"
                 ]
             }
         },
@@ -6418,12 +5835,7 @@
             "title": "Crying Out: Prayer in a Time of Fruitlessness - Suzy Silk",
             "entities": {
                 "WORK_OF_ART": [
-                    "1\":2,\"2\":\"PRAYER IN A TIME OF FRUITLESSNESS",
-                    "Bible",
                     "Bible"
-                ],
-                "PERSON": [
-                    "Pastor Suzy"
                 ]
             }
         },
@@ -6455,14 +5867,8 @@
             "title": "Crying Out: A Cry For Others - Jon Tyson",
             "entities": {
                 "PERSON": [
-                    "CRY",
-                    "Jon Tyson",
-                    "Jesus",
                     "Jon Tyson",
                     "Jesus"
-                ],
-                "DATE": [
-                    "This past Sunday"
                 ]
             }
         },
@@ -6493,21 +5899,16 @@
             "pubDate": "Mon, 29 Jun 2020 12:00:00 +0000",
             "title": "Crying Out: Coaching Tips to Bridge Racial Barriers - Dr. David Ireland",
             "entities": {
-                "ORG": [
-                    "Christ Church",
-                    "Christ Church"
-                ],
                 "PERSON": [
-                    "David Ireland",
-                    "Paul",
-                    "Peter",
+                    "Guest",
                     "David Ireland",
                     "Paul",
                     "Peter"
                 ],
+                "ORG": [
+                    "Christ Church"
+                ],
                 "CARDINAL": [
-                    "three",
-                    "2\":829,\"3\":{\"1\":0},\"5\":{\"1\":[{\"1\":2,\"2\":0,\"5\":[null,2,0]},{\"1\":0,\"2\":0,\"3\":3},{\"1\":1,\"2\":0,\"4\":1}]},\"6\":{\"1\":[{\"1\":2,\"2\":0,\"5\":[null,2,0]},{\"1\":0,\"2\":0,\"3\":3},{\"1\":1,\"2\":0,\"4\":1}]},\"7\":{\"1\":[{\"1\":2,\"2\":0,\"5\":[null,2,0]},{\"1\":0,\"2\":0,\"3\":3},{\"1\":1,\"2\":0,\"4\":1}]},\"8\":{\"1\":[{\"1\":2,\"2\":0,\"5\":[null,2,0]},{\"1\":0,\"2\":0,\"3\":3},{\"1\":1,\"2\":0,\"4\":1}]},\"11\":4,\"12\":0",
                     "three"
                 ]
             }
@@ -6540,10 +5941,6 @@
             "title": "Crying Out: A Cry for Breakthrough - Jon Tyson",
             "entities": {
                 "PERSON": [
-                    "Jon Tyson",
-                    "Jesus",
-                    "God",
-                    "Isaiah",
                     "Jon Tyson",
                     "Jesus",
                     "God",
@@ -6618,11 +6015,7 @@
             "pubDate": "Mon, 08 Jun 2020 12:00:00 +0000",
             "title": "Crying Out: Prophetic Lament - Suzy Silk",
             "entities": {
-                "ORG": [
-                    "Pastor Suzy"
-                ],
                 "PERSON": [
-                    "Jesus",
                     "Pastor Suzy",
                     "Jesus"
                 ]
@@ -6655,22 +6048,16 @@
             "title": "Crying Out: That You May Pray - Jon Tyson",
             "entities": {
                 "PERSON": [
-                    "Pastor Jon",
-                    "YoutUbe",
                     "Pastor Jon"
                 ],
                 "DATE": [
                     "this summer",
-                    "this season",
-                    "this summer",
                     "this season"
                 ],
                 "ORG": [
-                    "COVID-19",
                     "COVID-19"
                 ],
                 "CARDINAL": [
-                    "2\":13247,\"3\":{\"1\":0},\"4\":[null,2,16776960],\"5\":{\"1\":[{\"1\":2,\"2\":0,\"5\":[null,2,0]},{\"1\":0,\"2\":0,\"3\":3},{\"1\":1,\"2\":0,\"4\":1}]},\"6\":{\"1\":[{\"1\":2,\"2\":0,\"5\":[null,2,0]},{\"1\":0,\"2\":0,\"3\":3},{\"1\":1,\"2\":0,\"4\":1}]},\"7\":{\"1\":[{\"1\":2,\"2\":0,\"5\":[null,2,0]},{\"1\":0,\"2\":0,\"3\":3},{\"1\":1,\"2\":0,\"4\":1}]},\"8\":{\"1\":[{\"1\":2,\"2\":0,\"5\":[null,2,0]},{\"1\":0,\"2\":0,\"3\":3},{\"1\":1,\"2\":0,\"4\":1}]},\"10\":0,\"11\":4,\"12\":0,\"15\":\"Arial\",\"16\":9",
                     "1"
                 ]
             }
@@ -6762,20 +6149,13 @@
             "title": "Church in a time of Crisis: Self-Control in a Time of Self-Fulfillment - Jon Tyson",
             "entities": {
                 "PERSON": [
-                    "Pastor Jon",
                     "Pastor Jon"
                 ],
                 "ORG": [
-                    "Spirit",
-                    "YouTube",
                     "Spirit"
                 ],
                 "GPE": [
-                    "Kingdom",
                     "Kingdom"
-                ],
-                "CARDINAL": [
-                    "2\":9155,\"3\":{\"1\":0},\"4\":[null,2,16776960],\"9\":0,\"10\":2,\"11\":4,\"12\":0,\"16\":9"
                 ]
             }
         },
@@ -6955,22 +6335,9 @@
             "pubDate": "Mon, 18 May 2020 12:00:00 +0000",
             "title": "The Church in A Time of Crisis: Gentleness in a Time of Roughness - Suzy Silk",
             "entities": {
-                "WORK_OF_ART": [
-                    "1\":2,\"2\":\"GENTLENESS IN A TIME OF ROUGHNESS -"
-                ],
-                "DATE": [
-                    "This past Sunday"
-                ],
                 "PERSON": [
-                    "Pastor Suzy",
-                    "Jesus",
-                    "Jesus",
-                    "Pastor Suzy",
                     "Jesus",
                     "Jesus"
-                ],
-                "CARDINAL": [
-                    "2\":15171,\"3\":{\"1\":0},\"4\":[null,2,16777215],\"9\":0,\"11\":4,\"12\":0,\"14\":[null,2,0],\"15\":\"Arial\",\"16\":12"
                 ]
             }
         },
@@ -7127,9 +6494,6 @@
                 ],
                 "ORG": [
                     "Church"
-                ],
-                "NORP": [
-                    "http://arrabon.com/race-class-and-the-kingdom-of-god-study-series/"
                 ]
             }
         },
@@ -7189,22 +6553,11 @@
             "pubDate": "Mon, 11 May 2020 12:53:09 +0000",
             "title": "Church in a Time of Crisis: Faithfulness in a Time of Compromise - Jon Tyson",
             "entities": {
-                "WORK_OF_ART": [
-                    "1\":2,\"2\":\"FAITHFULNESS IN A TIME OF COMPROMISE - This past Sunday"
-                ],
                 "ORG": [
-                    "Spirit",
                     "Spirit"
                 ],
                 "PERSON": [
-                    "Pastor Jon",
                     "Pastor Jon"
-                ],
-                "CARDINAL": [
-                    "2\":9155,\"3\":{\"1\":0},\"4\":[null,2,16776960],\"9\":0,\"10\":2,\"11\":4,\"12\":0,\"16\":12"
-                ],
-                "GPE": [
-                    "us.</span></p"
                 ]
             }
         },
@@ -7354,18 +6707,8 @@
             "pubDate": "Mon, 04 May 2020 17:46:40 +0000",
             "title": "Church In A Time of Crisis: Restorative Goodness in a Time of Brokenness - Jon Tyson",
             "entities": {
-                "DATE": [
-                    "This past Sunday"
-                ],
                 "PERSON": [
-                    "Jon Tyson",
                     "Jon Tyson"
-                ],
-                "CARDINAL": [
-                    "2\":9155,\"3\":{\"1\":0},\"4\":[null,2,16776960],\"9\":0,\"10\":2,\"11\":4,\"12\":0,\"16\":12"
-                ],
-                "ORG": [
-                    "good.</span></p"
                 ]
             }
         },
@@ -7455,15 +6798,8 @@
             "pubDate": "Mon, 27 Apr 2020 15:50:10 +0000",
             "title": "Church In A Time of Crisis: Kindness in a Time of Harshness - Jon Tyson",
             "entities": {
-                "DATE": [
-                    "1\":2,\"2\":\"This past Sunday"
-                ],
                 "PERSON": [
-                    "Pastor Jon",
                     "Pastor Jon"
-                ],
-                "CARDINAL": [
-                    "2\":9155,\"3\":{\"1\":0},\"4\":[null,2,16776960],\"9\":0,\"10\":2,\"11\":4,\"12\":0,\"16\":12"
                 ]
             }
         },
@@ -7554,6 +6890,9 @@
                 "ORG": [
                     "Spirit",
                     "Spirit"
+                ],
+                "PERSON": [
+                    "Abraham"
                 ]
             }
         },
@@ -7585,8 +6924,8 @@
                     "Spirit",
                     "Spirit"
                 ],
-                "GPE": [
-                    "Matthew.</p"
+                "PERSON": [
+                    "Matthew"
                 ]
             }
         },
@@ -7617,6 +6956,9 @@
                 "ORG": [
                     "Spirit",
                     "Spirit"
+                ],
+                "GPE": [
+                    "Proverbs"
                 ]
             }
         },
@@ -7646,20 +6988,8 @@
             "pubDate": "Mon, 20 Apr 2020 13:48:23 +0000",
             "title": "Patient Endurance in a Time of Stress - Suzy Silk",
             "entities": {
-                "WORK_OF_ART": [
-                    "1\":2,\"2\":\"PATIENT ENDURANCE"
-                ],
-                "DATE": [
-                    "Sunday"
-                ],
                 "ORG": [
-                    "Spirit",
-                    "Pastor Suzy",
-                    "Father\u2019s.\\n",
                     "Spirit"
-                ],
-                "CARDINAL": [
-                    "2\":9155,\"3\":{\"1\":0},\"4\":[null,2,16776960],\"9\":0,\"10\":2,\"11\":4,\"12\":0,\"16\":12"
                 ],
                 "PERSON": [
                     "Pastor Suzy"
@@ -7812,26 +7142,14 @@
             "pubDate": "Mon, 13 Apr 2020 20:47:22 +0000",
             "title": "Church In A Time of Crisis: Transcendent Peace in a Time of Anxiety - Jon Tyson",
             "entities": {
-                "EVENT": [
-                    "This Easter",
-                    "This Easter"
-                ],
                 "DATE": [
-                    "Sunday",
                     "Sunday"
                 ],
                 "PERSON": [
                     "Pastor Jon",
                     "Jesus",
                     "Jesus",
-                    "Jesus",
-                    "Pastor Jon",
-                    "Jesus",
-                    "Jesus",
                     "Jesus"
-                ],
-                "CARDINAL": [
-                    "2\":9155,\"3\":{\"1\":0},\"4\":[null,2,16776960],\"9\":0,\"10\":2,\"11\":4,\"12\":0,\"16\":12"
                 ]
             }
         },
@@ -7892,9 +7210,6 @@
                 "ORG": [
                     "Spirit",
                     "Spirit"
-                ],
-                "PERSON": [
-                    "joy.</p"
                 ]
             }
         },
@@ -7925,9 +7240,6 @@
                 "ORG": [
                     "Spirit",
                     "Spirit"
-                ],
-                "PERSON": [
-                    "joy.</p"
                 ]
             }
         },
@@ -7959,8 +7271,11 @@
                     "Spirit",
                     "Spirit"
                 ],
-                "FAC": [
-                    "Psalm 73.</p"
+                "GPE": [
+                    "Psalm"
+                ],
+                "CARDINAL": [
+                    "73"
                 ]
             }
         },
@@ -7992,15 +7307,7 @@
             "entities": {
                 "PERSON": [
                     "Pastor Jon",
-                    "Word",
-                    "Pastor Jon",
                     "Word"
-                ],
-                "CARDINAL": [
-                    "2\":15299,\"3\":{\"1\":0},\"4\":[null,2,16776960],\"9\":0,\"10\":0,\"11\":4,\"12\":0,\"14\":[null,2,0],\"15\":\"Arial\",\"16\":12"
-                ],
-                "GPE": [
-                    "us.</span></p"
                 ]
             }
         },
@@ -8060,19 +7367,11 @@
             "pubDate": "Tue, 31 Mar 2020 13:31:29 +0000",
             "title": "Church in a Time of Crisis: Love In A time of Selfishness - Jon Tyson",
             "entities": {
-                "DATE": [
-                    "This past Sunday"
-                ],
                 "ORG": [
-                    "Spirit",
                     "Spirit"
                 ],
                 "PERSON": [
-                    "Pastor Jon",
                     "Pastor Jon"
-                ],
-                "GPE": [
-                    "us.</span></p"
                 ]
             }
         },
@@ -8169,6 +7468,9 @@
                 ],
                 "ORDINAL": [
                     "fourth"
+                ],
+                "DATE": [
+                    "the week"
                 ]
             }
         },
@@ -8202,6 +7504,9 @@
                 ],
                 "ORDINAL": [
                     "third"
+                ],
+                "DATE": [
+                    "the week"
                 ]
             }
         },
@@ -8235,6 +7540,9 @@
                 ],
                 "ORDINAL": [
                     "second"
+                ],
+                "DATE": [
+                    "the week"
                 ]
             }
         },
@@ -8268,6 +7576,9 @@
                 ],
                 "ORDINAL": [
                     "first"
+                ],
+                "DATE": [
+                    "this week"
                 ]
             }
         },
@@ -8297,22 +7608,16 @@
             "pubDate": "Tue, 24 Mar 2020 18:09:21 +0000",
             "title": "Church in A Time of Crisis: Fruit of the Spirit in a Time of the Flesh - Jon Tyson",
             "entities": {
-                "DATE": [
-                    "This past Sunday",
-                    "This past Sunday"
-                ],
                 "PERSON": [
-                    "Pastor Jon",
-                    "Pastor Jon",
                     "Pastor Jon"
                 ],
                 "ORG": [
                     "Spirit",
                     "Spirit",
-                    "Spirit",
-                    "Spirit",
-                    "Spirit",
-                    "Spirit"
+                    "Church of the City"
+                ],
+                "GPE": [
+                    "New York"
                 ]
             }
         },
@@ -8382,22 +7687,18 @@
             "title": "Sin: An Overview - Suzy Silk",
             "entities": {
                 "DATE": [
-                    "1\":2,\"2\":\"- This past Sunday",
-                    "this season",
                     "this season"
                 ],
                 "GPE": [
                     "Lent",
-                    "Lent"
+                    "Easter",
+                    "New York"
                 ],
                 "ORG": [
                     "Sin",
-                    "Easter",
-                    "Sin",
-                    "Easter.<br"
+                    "Church of the City"
                 ],
                 "PERSON": [
-                    "Jesus",
                     "Jesus"
                 ]
             }
@@ -8429,16 +7730,12 @@
             "title": "Altars: The Region - Jon Tyson",
             "entities": {
                 "PERSON": [
-                    "Pastor Jon",
                     "Pastor Jon"
                 ],
                 "GPE": [
-                    "New York",
                     "New York"
                 ],
                 "CARDINAL": [
-                    "one",
-                    "one",
                     "one",
                     "one"
                 ]
@@ -8505,29 +7802,14 @@
             "pubDate": "Tue, 11 Feb 2020 16:17:54 +0000",
             "title": "Altars: The Home - Jon Tyson",
             "entities": {
-                "GPE": [
-                    "HOME\\n",
-                    "New York"
-                ],
-                "DATE": [
-                    "Sunday",
-                    "daily",
-                    "daily"
-                ],
-                "PERSON": [
-                    "Pastor Jon",
-                    "Pastor Jon"
-                ],
                 "CARDINAL": [
-                    "6",
-                    "2\":9189,\"3\":{\"1\":0},\"5\":{\"1\":[{\"1\":2,\"2\":0,\"5\":[null,2,0]},{\"1\":0,\"2\":0,\"3\":3},{\"1\":1,\"2\":0,\"4\":1}]},\"8\":{\"1\":[{\"1\":2,\"2\":0,\"5\":[null,2,0]},{\"1\":0,\"2\":0,\"3\":3},{\"1\":1,\"2\":0,\"4\":1}]},\"9\":0,\"10\":2,\"11\":4,\"12\":0,\"16\":10",
                     "6"
                 ],
-                "ORG": [
-                    "YouTube"
+                "DATE": [
+                    "daily"
                 ],
-                "NORP": [
-                    "@churchofthecitynewyork</span></p"
+                "GPE": [
+                    "New York"
                 ]
             }
         },
@@ -8557,12 +7839,7 @@
             "pubDate": "Tue, 04 Feb 2020 16:35:15 +0000",
             "title": "Altars: The Heart - Jon Tyson",
             "entities": {
-                "DATE": [
-                    "This past Sunday"
-                ],
                 "PERSON": [
-                    "Pastor Jon",
-                    "Jesus",
                     "Altars",
                     "Pastor Jon",
                     "Jesus"
@@ -8595,7 +7872,11 @@
             "link": "https://traffic.libsyn.com/secure/cotcnyc/2020-01-26_CHURCH.NYC_-_An_Overcoming_Spirit_-_Jon_Tyson_-_Podcast.mp3",
             "pubDate": "Sat, 01 Feb 2020 17:53:33 +0000",
             "title": "CHURCH.NYC: An Overcoming Spirit - Jon Tyson",
-            "entities": {}
+            "entities": {
+                "GPE": [
+                    "New York"
+                ]
+            }
         },
         {
             "content": "<p>This past Sunday, Pastor Suzy Silk preached about creating a culture of honor that springs out of honoring Christ first. In turn, we receive honor from each other as we see each other's story, calling, sacrifice, gifts, authority, and future.</p> <p>Church of the City New York<br /> https://church.nyc | @churchofthecitynewyork</p>",
@@ -8629,6 +7910,9 @@
                 ],
                 "ORDINAL": [
                     "first"
+                ],
+                "GPE": [
+                    "New York"
                 ]
             }
         },
@@ -8697,7 +7981,7 @@
                     "Jesus"
                 ],
                 "DATE": [
-                    "2020-01-05</p"
+                    "2020-01-05"
                 ]
             }
         },
@@ -8730,7 +8014,7 @@
             "entities": {
                 "DATE": [
                     "the third week",
-                    "2019-12-15</p"
+                    "2019-12-15"
                 ],
                 "PERSON": [
                     "Jon Tyson",
@@ -8740,10 +8024,11 @@
                     "Word",
                     "John",
                     "John",
-                    "Jesus Christ"
+                    "Jesus Christ",
+                    "John 1:1-18"
                 ],
-                "CARDINAL": [
-                    "1:1-18</p"
+                "GPE": [
+                    "New York"
                 ]
             }
         },
@@ -8777,7 +8062,7 @@
                 "DATE": [
                     "the second week",
                     "this season",
-                    "2019-12-08</p"
+                    "2019-12-08"
                 ],
                 "PERSON": [
                     "Jon Tyson",
@@ -8785,6 +8070,9 @@
                 ],
                 "ORG": [
                     "Genesis"
+                ],
+                "GPE": [
+                    "New York"
                 ]
             }
         },
@@ -8816,7 +8104,8 @@
             "title": "Emmanuel: Who is God - Suzy Silk",
             "entities": {
                 "DATE": [
-                    "This week"
+                    "This week",
+                    "1:46-55"
                 ],
                 "ORG": [
                     "Suzy Silk",
@@ -8825,12 +8114,9 @@
                 "WORK_OF_ART": [
                     "Bible"
                 ],
-                "CARDINAL": [
-                    "12"
-                ],
                 "PERSON": [
+                    "Mary\u2019s Song",
                     "Mary",
-                    "Mary said:</p",
                     "Savior",
                     "Abraham"
                 ],
@@ -8838,7 +8124,8 @@
                     "the Mighty One"
                 ],
                 "GPE": [
-                    "Israel"
+                    "Israel",
+                    "New York"
                 ]
             }
         },
@@ -8877,11 +8164,17 @@
                 ],
                 "DATE": [
                     "Vision Day 2019",
-                    "2019-08",
+                    "2019-08-24",
                     "our day"
                 ],
                 "CARDINAL": [
                     "three"
+                ],
+                "GPE": [
+                    "New York"
+                ],
+                "ORG": [
+                    "@COTCNYC"
                 ]
             }
         },
@@ -8914,21 +8207,23 @@
             "entities": {
                 "ORG": [
                     "Pastor Suzy Silk",
-                    "Godly"
+                    "Godly",
+                    "Church of the City",
+                    "@COTCNYC"
                 ],
                 "CARDINAL": [
+                    "1",
                     "1"
                 ],
                 "PERSON": [
                     "Peter sermon series",
-                    "Citizens</em",
                     "Peter"
                 ],
-                "GPE": [
-                    "Name</em"
-                ],
                 "DATE": [
-                    "2019-09-01</p"
+                    "2019-09-01"
+                ],
+                "GPE": [
+                    "New York"
                 ]
             }
         },
@@ -8962,21 +8257,30 @@
                 "PERSON": [
                     "Pastor Jon",
                     "Peter sermon series",
-                    "Citizens</em",
                     "Peter",
                     "Pastor Jon"
                 ],
                 "CARDINAL": [
                     "1",
-                    "4",
-                    "13</p"
+                    "1",
+                    "4"
                 ],
                 "DATE": [
                     "today",
-                    "2019-08"
+                    "2019-08-25"
                 ],
                 "ORDINAL": [
                     "first"
+                ],
+                "MONEY": [
+                    "13 \u00a0 "
+                ],
+                "ORG": [
+                    "Church of the City",
+                    "@COTCNYC"
+                ],
+                "GPE": [
+                    "New York"
                 ]
             }
         },
@@ -9008,19 +8312,26 @@
             "title": "Citizens: A Counter-Culture of Hope - Jon Tyson",
             "entities": {
                 "PERSON": [
-                    "Jon",
-                    "Citizens</em",
+                    "Pastor Jon",
                     "Peter",
                     "Peter"
                 ],
+                "GPE": [
+                    "Citizens",
+                    "New York"
+                ],
                 "DATE": [
                     "summer",
-                    "2019-08-18</p"
+                    "2019-08-18"
                 ],
                 "CARDINAL": [
                     "1",
-                    "4",
-                    "7</p"
+                    "1",
+                    "4"
+                ],
+                "ORG": [
+                    "7 \u00a0 Church of the City",
+                    "@COTCNYC"
                 ]
             }
         },
@@ -9051,28 +8362,27 @@
             "pubDate": "Fri, 16 Aug 2019 16:00:41 +0000",
             "title": "Citizens: Eager Hope - Suzy Silk",
             "entities": {
+                "PERSON": [
+                    "Pastor Suzy"
+                ],
                 "DATE": [
                     "summer",
-                    "2019-08-11</p"
+                    "2019-08-11",
+                    "15-18a"
                 ],
                 "CARDINAL": [
                     "1",
-                    "1Pet-3-15\">But",
-                    "11.666666030883789px",
-                    "1Pet-3-17\"><sup",
-                    "3",
-                    "15"
-                ],
-                "PERSON": [
-                    "Peter",
-                    "Citizens</em",
-                    "Peter"
-                ],
-                "ORG": [
-                    "Citizens of the Kingdom of God"
+                    "1",
+                    "3"
                 ],
                 "GPE": [
-                    "Christ"
+                    "the Kingdom of God",
+                    "Christ",
+                    "New York"
+                ],
+                "ORG": [
+                    "Church of the City",
+                    "@COTCNYC"
                 ]
             }
         },
@@ -9105,13 +8415,13 @@
             "entities": {
                 "PERSON": [
                     "Jon",
-                    "Citizens</em",
+                    "Citizens",
                     "Jesus"
                 ],
                 "DATE": [
                     "week",
                     "summer",
-                    "2019-08-04</p"
+                    "2019-08-04"
                 ],
                 "CARDINAL": [
                     "1",
@@ -9120,11 +8430,19 @@
                     "1",
                     "3",
                     "1",
-                    "2",
-                    "21</p"
+                    "1",
+                    "2"
                 ],
                 "ORG": [
-                    "Spirit"
+                    "Spirit",
+                    "Church of the City",
+                    "@COTCNYC"
+                ],
+                "MONEY": [
+                    "21 \u00a0 "
+                ],
+                "GPE": [
+                    "New York"
                 ]
             }
         },
@@ -9157,22 +8475,28 @@
             "entities": {
                 "PERSON": [
                     "Pastor Jon",
-                    "Citizens</em",
+                    "Citizens",
                     "Jesus"
                 ],
                 "CARDINAL": [
                     "1",
                     "2",
                     "11-12",
-                    "1Pet-2-11\"><span",
-                    "1Pet-2-12\"><sup",
+                    "1",
                     "2",
-                    "11-12</p"
+                    "11-12"
                 ],
                 "DATE": [
                     "summer",
-                    "2019-07-28</p",
+                    "2019-07-28",
                     "the day"
+                ],
+                "ORG": [
+                    "Church of the City",
+                    "@COTCNYC"
+                ],
+                "GPE": [
+                    "New York"
                 ]
             }
         },
@@ -9205,24 +8529,26 @@
             "entities": {
                 "DATE": [
                     "This week",
-                    "2019-07-21</p"
+                    "2019-07-21"
                 ],
                 "PERSON": [
                     "Pastor Jon",
                     "Peter sermon series",
                     "Citizens",
-                    "Jesus Christ.</span>\"</p"
+                    "Jesus Christ"
                 ],
                 "CARDINAL": [
                     "1",
-                    "1Pet-2-5\">you",
-                    "8.75px",
+                    "1",
                     "2",
                     "4"
                 ],
                 "ORG": [
                     "Stone",
-                    "id=\"en-NIV-30405"
+                    "@COTCNYC"
+                ],
+                "GPE": [
+                    "New York"
                 ]
             }
         },
@@ -9255,18 +8581,28 @@
             "entities": {
                 "DATE": [
                     "This week",
-                    "2019-07-14</p"
+                    "2019-07-14"
                 ],
                 "CARDINAL": [
                     "1",
                     "1",
-                    "13</p"
+                    "1"
                 ],
                 "PERSON": [
                     "Peter sermon series",
                     "Citizens",
                     "Tyler Prieb",
                     "Jesus Christ"
+                ],
+                "MONEY": [
+                    "13 \u00a0 "
+                ],
+                "ORG": [
+                    "Church of the City",
+                    "@COTCNYC"
+                ],
+                "GPE": [
+                    "New York"
                 ]
             }
         },
@@ -9302,13 +8638,16 @@
                     "1",
                     "1:1-12",
                     "1",
-                    "1-3</p"
+                    "1",
+                    "1-3"
                 ],
                 "PERSON": [
                     "Peter",
+                    "Pastor Suzy",
                     "Citizens",
                     "Peter",
                     "Jesus",
+                    "Peter",
                     "Jesus Christ",
                     "Galatia",
                     "Cappadocia",
@@ -9318,17 +8657,20 @@
                     "Jesus Christ"
                 ],
                 "DATE": [
-                    "this summer"
+                    "this summer",
+                    "their day"
                 ],
                 "ORG": [
                     "Pontus",
-                    "Spirit"
+                    "Spirit",
+                    "@COTCNYC"
                 ],
                 "LOC": [
                     "Asia"
                 ],
                 "GPE": [
-                    "Bithynia"
+                    "Bithynia",
+                    "New York"
                 ]
             }
         },
@@ -9361,18 +8703,18 @@
             "entities": {
                 "DATE": [
                     "summer",
-                    "2019-06-30</p"
+                    "2019-06-30"
                 ],
                 "ORG": [
-                    "New Yorker"
+                    "New Yorker",
+                    "@COTCNYC"
                 ],
                 "PERSON": [
                     "Matthew 10",
-                    "http://churchofthecity.nyc |"
+                    "Matthew 10:7 \u00a0 Church"
                 ],
-                "CARDINAL": [
-                    "Ezek-47-6",
-                    "10:7</span></p"
+                "GPE": [
+                    "New York"
                 ]
             }
         },
@@ -9405,14 +8747,21 @@
             "entities": {
                 "DATE": [
                     "summer",
-                    "2019-06-23</p"
+                    "2019-06-23"
                 ],
                 "PERSON": [
-                    "Mark Sayers",
-                    "http://churchofthecity.nyc |"
+                    "Mark Sayers"
                 ],
                 "GPE": [
-                    "the Kingdom of God"
+                    "the Kingdom of God",
+                    "New York"
+                ],
+                "CARDINAL": [
+                    "1"
+                ],
+                "ORG": [
+                    "Church of the City",
+                    "@COTCNYC"
                 ]
             }
         },
@@ -9444,27 +8793,23 @@
             "entities": {
                 "DATE": [
                     "summer",
-                    "2019-06-16</p"
+                    "2019-06-16"
                 ],
                 "ORG": [
-                    "Stephanie London"
+                    "Stephanie London",
+                    "@COTCNYC"
                 ],
                 "CARDINAL": [
                     "1",
-                    "1Pet-1-4\">and",
-                    "11.6667px",
-                    "1Pet-1-7\"><sup",
-                    "1Pet-1-8\">Though"
+                    "1"
                 ],
                 "PERSON": [
                     "Jesus Christ",
                     "Jesus Christ",
-                    "Jesus Christ",
-                    "Peter 1:3-8</span></p",
-                    "http://churchofthecity.nyc |"
+                    "Jesus Christ"
                 ],
                 "GPE": [
-                    "revealed.</span"
+                    "New York"
                 ]
             }
         },
@@ -9497,26 +8842,23 @@
             "entities": {
                 "ORG": [
                     "Suzy Silk",
-                    "a\">a</a>]\">[<a"
+                    "@COTCNYC"
                 ],
                 "DATE": [
                     "summer",
-                    "2019-06-16</p"
+                    "2019-06-16"
                 ],
                 "PRODUCT": [
                     "Matthew 13"
                 ],
                 "CARDINAL": [
-                    "Matt-13-32\"><span",
-                    "0.625em",
-                    "22px"
-                ],
-                "QUANTITY": [
-                    "about sixty pounds"
+                    "about sixty"
                 ],
                 "PERSON": [
-                    "-fn=\"#fen-NIV-23573a",
-                    "http://churchofthecity.nyc |"
+                    "Matthew 13:31-33"
+                ],
+                "GPE": [
+                    "New York"
                 ]
             }
         },
@@ -9550,27 +8892,24 @@
                 "DATE": [
                     "Pentecost Sunday",
                     "summer",
-                    "2019-06-09</p"
+                    "2019-06-09"
                 ],
                 "PERSON": [
                     "Adam Durso",
-                    "Revival",
-                    "http://churchofthecity.nyc |"
+                    "Revival"
                 ],
                 "ORG": [
-                    "Ezekiel"
+                    "Ezekiel",
+                    "@COTCNYC"
                 ],
                 "LOC": [
                     "River"
                 ],
-                "CARDINAL": [
-                    "8.75px",
-                    "47:3-6"
+                "WORK_OF_ART": [
+                    "Ezekiel 47:3-6\u00a0 \u00a0 Church of the City"
                 ],
-                "PRODUCT": [
-                    "Ezek-47-4\">He",
-                    "Ezek-47-5\">He",
-                    "Ezek-47-6\">He"
+                "GPE": [
+                    "New York"
                 ]
             }
         },
@@ -9606,11 +8945,11 @@
                     "Revival",
                     "Jesus",
                     "Jesus",
-                    "http://churchofthecity.nyc |"
+                    "Cory Russell \u00a0 \u00a0 Church"
                 ],
                 "DATE": [
                     "summer",
-                    "2019-06-02</p"
+                    "2019-06-02"
                 ],
                 "ORDINAL": [
                     "third",
@@ -9618,10 +8957,14 @@
                 ],
                 "ORG": [
                     "Trinity",
-                    "Trinity"
+                    "Trinity",
+                    "@COTCNYC"
                 ],
                 "NORP": [
                     "Christian"
+                ],
+                "GPE": [
+                    "New York"
                 ]
             }
         },
@@ -9654,17 +8997,21 @@
             "entities": {
                 "PERSON": [
                     "Banning Liebscher",
-                    "Jesus Culture",
-                    "http://churchofthecity.nyc |"
+                    "Jesus Culture"
                 ],
                 "CARDINAL": [
                     "two"
                 ],
                 "ORG": [
-                    "Community"
+                    "Community",
+                    "Banning Liebscher \u00a0 \u00a0 Church of",
+                    "@COTCNYC"
                 ],
                 "DATE": [
-                    "2019-05-05</p"
+                    "2019-05-05"
+                ],
+                "GPE": [
+                    "New York"
                 ]
             }
         },
@@ -9703,14 +9050,19 @@
                     "the Power of God"
                 ],
                 "DATE": [
-                    "2019-05-26</p"
+                    "2019-05-26"
                 ],
                 "ORG": [
-                    "Spirit"
+                    "Spirit",
+                    "@COTCNYC"
                 ],
                 "CARDINAL": [
+                    "2",
                     "1",
                     "6"
+                ],
+                "GPE": [
+                    "New York"
                 ]
             }
         },
@@ -9749,17 +9101,17 @@
                     "the Mission of God"
                 ],
                 "DATE": [
-                    "2019-05-19</p"
+                    "2019-05-19"
                 ],
                 "CARDINAL": [
-                    "2Cor-5-20\">We",
                     "2"
                 ],
-                "PRODUCT": [
-                    "Isa-43-1"
-                ],
                 "ORG": [
+                    "Church of the City",
                     "@COTCNYC"
+                ],
+                "GPE": [
+                    "New York"
                 ]
             }
         },
@@ -9794,27 +9146,21 @@
                     "Easter",
                     "Jesus",
                     "Jon Tyson",
-                    "Kingdom Values",
-                    "hearts,<strong"
+                    "Kingdom Values"
                 ],
                 "DATE": [
                     "40 days",
-                    "2019-05-12</p",
-                    "daily"
+                    "2019-05-12",
+                    "daily",
+                    "2:42-47"
                 ],
                 "ORG": [
                     "New Testament Community",
+                    "Church of the City",
                     "@COTCNYC"
                 ],
-                "PRODUCT": [
-                    "Isa-43-1\">\"</span></span",
-                    "Isa-43-1"
-                ],
                 "GPE": [
-                    "need.<strong"
-                ],
-                "CARDINAL": [
-                    "2:42-47</span></span></p"
+                    "New York"
                 ]
             }
         },
@@ -9849,24 +9195,25 @@
                     "Easter",
                     "Jesus",
                     "Suzy Silk",
-                    "Kingdom Values"
+                    "Kingdom Values",
+                    "Jacob",
+                    "Isaiah"
                 ],
                 "DATE": [
                     "40 days",
-                    "2019-05-05</p"
+                    "2019-05-05"
                 ],
                 "ORG": [
                     "Identity",
+                    "1 \u00a0 Church of",
                     "@COTCNYC"
                 ],
-                "PRODUCT": [
-                    "Isa-43-1\">'Do",
-                    "Isa-43-1\">I",
-                    "Isa-43-1"
+                "GPE": [
+                    "Israel",
+                    "New York"
                 ],
                 "CARDINAL": [
-                    "43",
-                    "1</span></span></p"
+                    "43"
                 ]
             }
         },
@@ -9906,7 +9253,7 @@
                 ],
                 "DATE": [
                     "40 days",
-                    "2019-04-28</p"
+                    "2019-04-28"
                 ],
                 "ORDINAL": [
                     "first",
@@ -9914,7 +9261,8 @@
                     "first"
                 ],
                 "GPE": [
-                    "the Kingdom of Heaven"
+                    "the Kingdom of Heaven",
+                    "New York"
                 ],
                 "NORP": [
                     "Jew",
@@ -9955,13 +9303,20 @@
                 "PERSON": [
                     "Jon Tyson",
                     "Jesus",
+                    "Jesus",
                     "Jesus"
                 ],
                 "EVENT": [
                     "Easter Sunday"
                 ],
                 "DATE": [
-                    "2019-04-21</p"
+                    "2019-04-21"
+                ],
+                "GPE": [
+                    "New York"
+                ],
+                "ORG": [
+                    "@COTCNYC"
                 ]
             }
         },
@@ -9995,28 +9350,28 @@
                 "PERSON": [
                     "Jon Tyson",
                     "Jesus",
-                    "Jesus"
+                    "Jesus",
+                    "Jesus",
+                    "Luke"
                 ],
                 "DATE": [
                     "today",
-                    "2019-04-14</p"
+                    "2019-04-14",
+                    "44-49"
                 ],
                 "TIME": [
-                    "about noon"
+                    "about noon",
+                    "three in the afternoon"
                 ],
                 "CARDINAL": [
-                    "three",
-                    "Luke-23-45\"><sup",
-                    "8.75px",
-                    "23",
-                    "44-49</span></p"
+                    "two",
+                    "23"
                 ],
-                "PRODUCT": [
-                    "id=\"en-NIV-25982",
-                    "Luke-23-46\">Jesus"
+                "GPE": [
+                    "New York"
                 ],
                 "ORG": [
-                    "\u201d<span"
+                    "@COTCNYC"
                 ]
             }
         },
@@ -10052,19 +9407,25 @@
                     "Jesus",
                     "Jesus",
                     "Jesus",
-                    "Eloi"
+                    "lema sabachthani",
+                    "Mark"
                 ],
                 "DATE": [
-                    "2019-04-07</p"
+                    "2019-04-07",
+                    "33-34"
                 ],
                 "TIME": [
                     "noon",
+                    "three in the afternoon",
                     "three in the afternoon"
                 ],
+                "GPE": [
+                    "Eloi",
+                    "Eloi",
+                    "New York"
+                ],
                 "CARDINAL": [
-                    "three",
-                    "15",
-                    "33"
+                    "15"
                 ],
                 "ORG": [
                     "@COTCNYC"
@@ -10103,14 +9464,17 @@
                     "Jesus",
                     "Jesus",
                     "Jesus",
-                    "Jesus"
+                    "Jesus",
+                    "John 19:"
                 ],
                 "DATE": [
-                    "2019-03-31</p"
+                    "2019-03-31"
                 ],
                 "CARDINAL": [
-                    "19",
-                    "28"
+                    "28-30"
+                ],
+                "GPE": [
+                    "New York"
                 ],
                 "ORG": [
                     "@COTCNYC"
@@ -10148,37 +9512,29 @@
                     "Suzy Silk",
                     "Jesus",
                     "Jesus",
-                    "\u201d<span style=\"font-size",
-                    "class=\"small-caps\">this",
                     "Jesus",
-                    "Luke 23:32-43</p"
+                    "Jesus",
+                    "Jesus",
+                    "Luke 23:32-43"
                 ],
                 "DATE": [
-                    "2019-03-24</p",
+                    "2019-03-24",
                     "today"
                 ],
                 "CARDINAL": [
-                    "11.666666030883789px",
-                    "8.75px",
-                    "11.666666030883789px",
-                    "Luke-23-39\">One",
-                    "Luke-23-41\">We",
-                    "Luke-23-42\"><sup"
-                ],
-                "PRODUCT": [
-                    "Luke-23-33\">When",
-                    "Luke-23-35\"><sup",
-                    "Luke-23-43\">Jesus"
+                    "Two",
+                    "One"
                 ],
                 "ORG": [
                     "Skull",
                     "@COTCNYC"
                 ],
-                "GPE": [
-                    "NIV-25970"
-                ],
                 "NORP": [
-                    "Jews"
+                    "Jews",
+                    "jews"
+                ],
+                "GPE": [
+                    "New York"
                 ]
             }
         },
@@ -10217,18 +9573,20 @@
                     "Jesus",
                     "Mary",
                     "Mary Magdalene",
-                    "Jesus"
+                    "Jesus",
+                    "John"
                 ],
                 "DATE": [
-                    "2019-03-17</p"
+                    "2019-03-17",
+                    "23-27"
                 ],
                 "CARDINAL": [
                     "four",
-                    "19",
-                    "23"
+                    "19"
                 ],
                 "GPE": [
-                    "Clopas"
+                    "Clopas",
+                    "New York"
                 ],
                 "ORG": [
                     "@COTCNYC"
@@ -10265,22 +9623,27 @@
                 "PERSON": [
                     "Jon Tyson",
                     "Jesus",
-                    "Jesus"
+                    "Jesus",
+                    "Jesus",
+                    "Luke"
                 ],
                 "NORP": [
                     "Christian"
                 ],
                 "DATE": [
                     "today",
-                    "2019-03"
+                    "2019-03-10",
+                    "33-34"
                 ],
                 "ORG": [
                     "Skull",
                     "@COTCNYC"
                 ],
                 "CARDINAL": [
-                    "23",
-                    "33"
+                    "23"
+                ],
+                "GPE": [
+                    "New York"
                 ]
             }
         },
@@ -10314,10 +9677,14 @@
                 "PERSON": [
                     "Jon Tyson",
                     "Jesus",
-                    "Jesus"
+                    "Jesus",
+                    "John 15:4 \u00a0 \u00a0 Church of the City"
                 ],
                 "DATE": [
-                    "2019-03-03</p"
+                    "2019-03-03"
+                ],
+                "GPE": [
+                    "New York"
                 ],
                 "ORG": [
                     "@COTCNYC"
@@ -10355,10 +9722,17 @@
                     "Suzy Silk",
                     "Jesus",
                     "Jesus",
-                    "John 13:36-14:10a</p"
+                    "John 13:36-14:10a"
                 ],
                 "DATE": [
-                    "2019-02-24</p"
+                    "2019-02-24"
+                ],
+                "ORG": [
+                    "Church of the City",
+                    "@COTCNYC"
+                ],
+                "GPE": [
+                    "New York"
                 ]
             }
         },
@@ -10392,14 +9766,17 @@
                 "PERSON": [
                     "Jon Tyson",
                     "Jesus",
-                    "Jesus"
+                    "Jesus",
+                    "John 10:9-10 \u00a0 Church of the City"
                 ],
                 "DATE": [
-                    "2019-02-17</p"
+                    "2019-02-17"
                 ],
-                "CARDINAL": [
-                    "John-10-9\"><span",
-                    "8.75px"
+                "GPE": [
+                    "New York"
+                ],
+                "ORG": [
+                    "@COTCNYC"
                 ]
             }
         },
@@ -10438,13 +9815,18 @@
                 ],
                 "CARDINAL": [
                     "ninety-nine",
-                    "one",
                     "hundred",
                     "one",
                     "ninety-nine"
                 ],
                 "DATE": [
-                    "2019-02-10</p"
+                    "2019-02-10"
+                ],
+                "GPE": [
+                    "New York"
+                ],
+                "ORG": [
+                    "@COTCNYC"
                 ]
             }
         },
@@ -10480,11 +9862,18 @@
                     "Jesus"
                 ],
                 "DATE": [
-                    "2019-02-03</p"
+                    "2019-02-03"
                 ],
                 "CARDINAL": [
                     "10",
-                    "11</p"
+                    "11"
+                ],
+                "ORG": [
+                    "Church of the City",
+                    "@COTCNYC"
+                ],
+                "GPE": [
+                    "New York"
                 ]
             }
         },
@@ -10518,15 +9907,23 @@
                 "PERSON": [
                     "Suzy Silk",
                     "Jesus",
-                    "Jesus",
-                    "http://churchofthecity.nyc |"
+                    "Jesus"
                 ],
                 "DATE": [
-                    "2019-01-27</p"
+                    "2019-01-27"
                 ],
                 "CARDINAL": [
-                    "8",
-                    "12</p"
+                    "8"
+                ],
+                "MONEY": [
+                    "12 \u00a0 "
+                ],
+                "ORG": [
+                    "Church of the City",
+                    "@COTCNYC"
+                ],
+                "GPE": [
+                    "New York"
                 ]
             }
         },
@@ -10561,22 +9958,23 @@
                     "Jon Tyson",
                     "Jesus",
                     "Jesus",
-                    "John-6-35\">Then",
-                    "Jesus",
-                    "http://churchofthecity.nyc |"
+                    "Jesus"
                 ],
                 "GPE": [
-                    "Epiphany"
+                    "Epiphany",
+                    "New York"
                 ],
                 "DATE": [
-                    "2019-01-20</p"
-                ],
-                "PRODUCT": [
-                    "class=\"woj\">I"
+                    "2019-01-20"
                 ],
                 "CARDINAL": [
-                    "6",
-                    "35"
+                    "6"
+                ],
+                "MONEY": [
+                    "35 \u00a0 "
+                ],
+                "ORG": [
+                    "@COTCNYC"
                 ]
             }
         },
@@ -10608,8 +10006,7 @@
             "title": "Prioritizing the Presence of God - Pete Grieg",
             "entities": {
                 "PERSON": [
-                    "Pete Grieg",
-                    "http://churchofthecity.nyc |"
+                    "Pete Grieg"
                 ],
                 "CARDINAL": [
                     "24",
@@ -10621,8 +10018,14 @@
                 ],
                 "DATE": [
                     "1-18",
-                    "2019-01-13</p",
-                    "11a"
+                    "2019-01-13"
+                ],
+                "ORG": [
+                    "11a \u00a0 Church of the City",
+                    "@COTCNYC"
+                ],
+                "GPE": [
+                    "New York"
                 ]
             }
         },
@@ -10654,8 +10057,7 @@
             "title": "Creating a Culture of Honor - Jon Tyson",
             "entities": {
                 "PERSON": [
-                    "Jon Tyson",
-                    "http://churchofthecity.nyc |"
+                    "Jon Tyson"
                 ],
                 "EVENT": [
                     "the New Year"
@@ -10666,11 +10068,17 @@
                 "CARDINAL": [
                     "12",
                     "10",
-                    "12",
-                    "10"
+                    "12"
                 ],
                 "DATE": [
-                    "2019-01-06</p"
+                    "2019-01-06"
+                ],
+                "ORG": [
+                    "10 \u00a0 Church of the City",
+                    "@COTCNYC"
+                ],
+                "GPE": [
+                    "New York"
                 ]
             }
         },
@@ -10704,19 +10112,25 @@
                 "PERSON": [
                     "Jon Tyson",
                     "Luke",
-                    "David a Savior",
-                    "http://churchofthecity.nyc |"
+                    "David a Savior"
                 ],
                 "CARDINAL": [
                     "2",
                     "8-15",
                     "2",
-                    "10"
+                    "10-11"
                 ],
                 "DATE": [
                     "the third week",
-                    "2018-12-16</p",
+                    "2018-12-16",
                     "Today"
+                ],
+                "ORG": [
+                    "Church of the City",
+                    "@COTCNYC"
+                ],
+                "GPE": [
+                    "New York"
                 ]
             }
         },
@@ -10750,22 +10164,27 @@
                 "PERSON": [
                     "Suzy Silk",
                     "Isaiah",
-                    "Jesus",
-                    "http://churchofthecity.nyc |"
+                    "Jesus"
                 ],
                 "CARDINAL": [
-                    "2"
+                    "2",
+                    "9",
+                    "6-7a"
                 ],
                 "ORG": [
-                    "Peace"
+                    "Peace",
+                    "@COTCNYC"
                 ],
                 "DATE": [
                     "the second week",
-                    "2018-12-09</p",
-                    "6-7a</span></span></span></span></p"
+                    "2018-12-09"
                 ],
-                "PRODUCT": [
-                    "id=\"en-NIV-17836"
+                "WORK_OF_ART": [
+                    "Wonderful Counselor, Mighty God",
+                    "Everlasting Father, Prince of Peace"
+                ],
+                "GPE": [
+                    "New York"
                 ]
             }
         },
@@ -10798,31 +10217,29 @@
             "entities": {
                 "PERSON": [
                     "Jon Tyson",
-                    "Matthew 2:",
-                    "Matthew 2:",
-                    "http://churchofthecity.nyc |"
+                    "Matthew 2:"
                 ],
                 "CARDINAL": [
                     "1-18",
-                    "8.75px",
-                    "6"
+                    "2"
                 ],
                 "ORG": [
                     "Hope",
-                    "Bethlehem"
+                    "Bethlehem",
+                    "@COTCNYC"
                 ],
                 "DATE": [
                     "the first week",
-                    "2018-12-02</p"
-                ],
-                "PRODUCT": [
-                    "Matt-2-6",
-                    "Matt-2-6\">are",
-                    "Matt-2-6\">for",
-                    "Matt-2-6\">who"
+                    "2018-12-02"
                 ],
                 "GPE": [
-                    "Israel"
+                    "Judah",
+                    "Judah",
+                    "Israel",
+                    "New York"
+                ],
+                "MONEY": [
+                    "6\u00a0 Church"
                 ]
             }
         },
@@ -10855,22 +10272,24 @@
             "entities": {
                 "PERSON": [
                     "Suzy Silk",
-                    "Matthew 6:",
-                    "http://churchofthecity.nyc |"
+                    "Matthew 6:"
                 ],
                 "CARDINAL": [
                     "1-6",
                     "16",
-                    "6",
-                    "3"
+                    "6"
                 ],
                 "DATE": [
-                    "2018-11-25</p"
+                    "2018-11-25"
                 ],
-                "PRODUCT": [
-                    "Matt-6",
-                    "id=\"en-NIV-23287",
-                    "Matt-6"
+                "PERCENT": [
+                    "3-4 Church"
+                ],
+                "GPE": [
+                    "New York"
+                ],
+                "ORG": [
+                    "@COTCNYC"
                 ]
             }
         },
@@ -10903,16 +10322,22 @@
             "entities": {
                 "PERSON": [
                     "Suzy Silk",
-                    "http://churchofthecity.nyc |"
+                    "Jesus"
                 ],
                 "CARDINAL": [
                     "11",
                     "35",
                     "11",
-                    "35</p"
+                    "35"
                 ],
                 "DATE": [
-                    "2018-11-04</p"
+                    "2018-11-04"
+                ],
+                "GPE": [
+                    "New York"
+                ],
+                "ORG": [
+                    "@COTCNYC"
                 ]
             }
         },
@@ -10944,21 +10369,21 @@
             "title": "Commitment Must Be Stronger Than Preference -  Suzy Silk",
             "entities": {
                 "PERSON": [
-                    "Suzy Silk",
-                    "http://churchofthecity.nyc |"
+                    "Suzy Silk"
                 ],
                 "CARDINAL": [
-                    "31-34",
-                    "Jer-31",
-                    "Jer-31",
-                    "31:32</p"
+                    "31-34"
                 ],
                 "DATE": [
                     "2018-10-14"
                 ],
-                "PRODUCT": [
-                    "Jer-31-33\">after",
-                    "class=\"text Jer-31-33\">I"
+                "GPE": [
+                    "Israel",
+                    "New York"
+                ],
+                "ORG": [
+                    "Jeremiah 31:32 Church",
+                    "@COTCNYC"
                 ]
             }
         },
@@ -10990,14 +10415,19 @@
             "title": "Truth Must Be Stronger Than Lies - Suzy Silk",
             "entities": {
                 "PERSON": [
-                    "Suzy Silk",
-                    "http://churchofthecity.nyc |"
+                    "Suzy Silk"
                 ],
                 "NORP": [
                     "Romans"
                 ],
                 "DATE": [
                     "2018-09-23"
+                ],
+                "GPE": [
+                    "New York"
+                ],
+                "ORG": [
+                    "@COTCNYC"
                 ]
             }
         },
@@ -11029,8 +10459,7 @@
             "title": "Worship Must Be Stronger Than Idolatry - Jon Tyson",
             "entities": {
                 "PERSON": [
-                    "Jon Tyson",
-                    "http://churchofthecity.nyc |"
+                    "Jon Tyson"
                 ],
                 "NORP": [
                     "Romans"
@@ -11040,6 +10469,12 @@
                 ],
                 "DATE": [
                     "2018-09-16"
+                ],
+                "GPE": [
+                    "New York"
+                ],
+                "ORG": [
+                    "@COTCNYC"
                 ]
             }
         },
@@ -11071,15 +10506,19 @@
             "title": "This Must Be Stronger Than That - Jon Tyson",
             "entities": {
                 "PERSON": [
-                    "Jon Tyson",
-                    "http://churchofthecity.nyc |"
+                    "Jon Tyson"
                 ],
                 "CARDINAL": [
-                    "3",
-                    "10\">His"
+                    "3"
                 ],
                 "DATE": [
                     "2018-09-09"
+                ],
+                "GPE": [
+                    "New York"
+                ],
+                "ORG": [
+                    "@COTCNYC"
                 ]
             }
         },
@@ -11113,11 +10552,19 @@
                 "PERSON": [
                     "Suzy Silk",
                     "Luke",
-                    "Jesus",
-                    "http://churchofthecity.nyc |"
+                    "Jesus"
                 ],
                 "DATE": [
                     "2018-09-02"
+                ],
+                "WORK_OF_ART": [
+                    "Ask the Lord"
+                ],
+                "GPE": [
+                    "New York"
+                ],
+                "ORG": [
+                    "@COTCNYC"
                 ]
             }
         },
@@ -11149,12 +10596,17 @@
             "title": "Fall Vision Day 2018 - Here For This",
             "entities": {
                 "PERSON": [
-                    "Tyler Prieb",
-                    "http://churchofthecity.nyc |"
+                    "Tyler Prieb"
                 ],
                 "DATE": [
                     "the months ahead",
                     "2018-08"
+                ],
+                "GPE": [
+                    "New York"
+                ],
+                "ORG": [
+                    "@COTCNYC"
                 ]
             }
         },
@@ -11187,17 +10639,18 @@
             "entities": {
                 "ORG": [
                     "Fall Vision Conference",
-                    "Ephesus"
+                    "Ephesus",
+                    "@COTCNYC"
                 ],
                 "PERSON": [
                     "Jon Tyson",
                     "2nd Timothy",
                     "Paul",
-                    "Timothy",
-                    "http://churchofthecity.nyc |"
+                    "Timothy"
                 ],
                 "GPE": [
-                    "New York City"
+                    "New York City",
+                    "New York"
                 ],
                 "DATE": [
                     "2018-08"
@@ -11232,8 +10685,7 @@
             "title": "Teach Us To Pray - Week 10 - Prayer For Spiritual Awakening",
             "entities": {
                 "PERSON": [
-                    "Jon Tyson",
-                    "http://churchofthecity.nyc |"
+                    "Jon Tyson"
                 ],
                 "FAC": [
                     "Habakkuk 3"
@@ -11243,7 +10695,11 @@
                     "ten or eleven years"
                 ],
                 "ORG": [
-                    "Spirit"
+                    "Spirit",
+                    "@COTCNYC"
+                ],
+                "GPE": [
+                    "New York"
                 ]
             }
         },
@@ -11275,14 +10731,20 @@
             "title": "Teach Us To Pray - Week 9 - Divine Intercession",
             "entities": {
                 "PERSON": [
-                    "Rich Villodas",
-                    "http://churchofthecity.nyc |"
+                    "Rich Villodas"
                 ],
                 "CARDINAL": [
                     "Acts 12"
                 ],
                 "DATE": [
                     "2018-08-19"
+                ],
+                "ORG": [
+                    "Marjorie Thompson Church",
+                    "@COTCNYC"
+                ],
+                "GPE": [
+                    "New York"
                 ]
             }
         },
@@ -11315,22 +10777,23 @@
             "entities": {
                 "PERSON": [
                     "Ralph Castillo",
-                    "Elisha",
-                    "http://churchofthecity.nyc |"
+                    "Elisha"
                 ],
                 "CARDINAL": [
                     "2",
                     "three",
                     "five",
-                    "six",
-                    "2",
-                    "13:18b-19a</p"
+                    "six"
                 ],
                 "DATE": [
                     "2018-08-12"
                 ],
                 "GPE": [
-                    "Israel"
+                    "Israel",
+                    "New York"
+                ],
+                "ORG": [
+                    "@COTCNYC"
                 ]
             }
         },
@@ -11362,14 +10825,17 @@
             "title": "Teach Us To Pray - Week 7 - The Art of Contemplation",
             "entities": {
                 "PERSON": [
-                    "Suzy Silk",
-                    "http://churchofthecity.nyc |"
+                    "Suzy Silk"
                 ],
                 "ORG": [
-                    "Genesis"
+                    "Genesis",
+                    "@COTCNYC"
                 ],
                 "DATE": [
                     "2018-08-05"
+                ],
+                "GPE": [
+                    "New York"
                 ]
             }
         },
@@ -11402,12 +10868,17 @@
             "entities": {
                 "PERSON": [
                     "Jon Tyson",
-                    "Luke",
-                    "http://churchofthecity.nyc |"
+                    "Luke"
                 ],
                 "DATE": [
                     "22",
                     "2018-07-29"
+                ],
+                "GPE": [
+                    "New York"
+                ],
+                "ORG": [
+                    "@COTCNYC"
                 ]
             }
         },
@@ -11439,11 +10910,16 @@
             "entities": {
                 "PERSON": [
                     "Adam Durso",
-                    "Samuel",
-                    "http://churchofthecity.nyc |"
+                    "Samuel"
                 ],
                 "DATE": [
-                    "2018-07-22</p"
+                    "2018-07-22"
+                ],
+                "GPE": [
+                    "New York"
+                ],
+                "ORG": [
+                    "@COTCNYC"
                 ]
             }
         },
@@ -11476,17 +10952,17 @@
             "entities": {
                 "PERSON": [
                     "Suzy Silk",
-                    "Ezekiel 1",
-                    "http://churchofthecity.nyc |"
+                    "Ezekiel 1"
                 ],
                 "GPE": [
-                    "Glory"
+                    "Glory",
+                    "New York"
                 ],
                 "DATE": [
                     "2018-07-15"
                 ],
-                "NORP": [
-                    "Colossians"
+                "ORG": [
+                    "@COTCNYC"
                 ]
             }
         },
@@ -11518,15 +10994,18 @@
             "title": "Teach Us To Pray - Week 3 - Passionate Prayer Pursues",
             "entities": {
                 "PERSON": [
-                    "Suzy Silk",
-                    "http://churchofthecity.nyc |"
+                    "Suzy Silk"
                 ],
                 "ORG": [
-                    "Song of Songs 3"
+                    "Song of Songs 3",
+                    "@COTCNYC"
                 ],
                 "DATE": [
                     "daily",
                     "2018-07-08"
+                ],
+                "GPE": [
+                    "New York"
                 ]
             }
         },
@@ -11558,18 +11037,20 @@
             "title": "Teach Us To Pray - Week 2 - Attention Leads To Adoration",
             "entities": {
                 "PERSON": [
-                    "Jon Tyson",
-                    "Mary Oliver</p>",
-                    "http://churchofthecity.nyc |"
+                    "Jon Tyson"
                 ],
                 "GPE": [
-                    "Psalm"
+                    "Psalm",
+                    "New York"
                 ],
                 "CARDINAL": [
                     "73"
                 ],
                 "DATE": [
                     "2018-07-01"
+                ],
+                "ORG": [
+                    "@COTCNYC"
                 ]
             }
         },
@@ -11601,8 +11082,7 @@
             "title": "Teach Us To Pray - Week 1 - Pray What You've Got",
             "entities": {
                 "PERSON": [
-                    "Jon Tyson",
-                    "http://churchofthecity.nyc |"
+                    "Jon Tyson"
                 ],
                 "NORP": [
                     "Philippians"
@@ -11612,6 +11092,12 @@
                 ],
                 "DATE": [
                     "2018-06-24"
+                ],
+                "GPE": [
+                    "New York"
+                ],
+                "ORG": [
+                    "@COTCNYC"
                 ]
             }
         },
@@ -11645,8 +11131,7 @@
                 "PERSON": [
                     "Jon Tyson",
                     "Mark 8",
-                    "Jesus",
-                    "http://churchofthecity.nyc |"
+                    "Jesus"
                 ],
                 "DATE": [
                     "2018-06-17"
@@ -11656,6 +11141,12 @@
                 ],
                 "NORP": [
                     "Christianity"
+                ],
+                "GPE": [
+                    "New York"
+                ],
+                "ORG": [
+                    "@COTCNYC"
                 ]
             }
         },
@@ -11688,14 +11179,17 @@
             "entities": {
                 "PERSON": [
                     "Jon Tyson",
-                    "Matthew 6",
-                    "http://churchofthecity.nyc |"
+                    "Matthew 6"
                 ],
                 "GPE": [
-                    "Kingdom"
+                    "Kingdom",
+                    "New York"
                 ],
                 "DATE": [
                     "2018-06-10"
+                ],
+                "ORG": [
+                    "@COTCNYC"
                 ]
             }
         },
@@ -11728,14 +11222,20 @@
             "entities": {
                 "PERSON": [
                     "Suzy Silk",
-                    "Matthew 5",
-                    "http://churchofthecity.nyc |"
+                    "Matthew 5"
                 ],
                 "DATE": [
                     "2018-06-03"
                 ],
                 "NORP": [
                     "180AD"
+                ],
+                "ORG": [
+                    "Rome) Church",
+                    "@COTCNYC"
+                ],
+                "GPE": [
+                    "New York"
                 ]
             }
         },
@@ -11768,14 +11268,19 @@
             "entities": {
                 "PERSON": [
                     "Jon Tyson",
-                    "Mark 12",
-                    "http://churchofthecity.nyc |"
+                    "Mark 12"
                 ],
                 "DATE": [
                     "2018-05-27"
                 ],
                 "NORP": [
                     "Christianity"
+                ],
+                "GPE": [
+                    "New York"
+                ],
+                "ORG": [
+                    "@COTCNYC"
                 ]
             }
         },
@@ -11808,8 +11313,7 @@
             "entities": {
                 "PERSON": [
                     "Suzy Silk",
-                    "Jesus",
-                    "http://churchofthecity.nyc |"
+                    "Jesus"
                 ],
                 "CARDINAL": [
                     "2"
@@ -11819,7 +11323,11 @@
                     "those days"
                 ],
                 "ORG": [
-                    "Spirit"
+                    "Spirit",
+                    "@COTCNYC"
+                ],
+                "GPE": [
+                    "New York"
                 ]
             }
         },
@@ -11852,15 +11360,17 @@
             "entities": {
                 "PERSON": [
                     "Jon Tyson",
-                    "Jesus",
-                    "Andy Crouch</p",
-                    "http://churchofthecity.nyc |"
+                    "Jesus"
                 ],
                 "ORG": [
-                    "Philippians 2"
+                    "Philippians 2",
+                    "@COTCNYC"
                 ],
                 "DATE": [
                     "2018-05-13"
+                ],
+                "GPE": [
+                    "New York"
                 ]
             }
         },
@@ -11893,12 +11403,12 @@
             "entities": {
                 "PERSON": [
                     "Jon Tyson",
-                    "Gender",
-                    "http://churchofthecity.nyc |"
+                    "Gender"
                 ],
                 "ORG": [
                     "Genesis",
-                    "the Trans Community"
+                    "the Trans Community",
+                    "@COTCNYC"
                 ],
                 "CARDINAL": [
                     "19"
@@ -11906,8 +11416,8 @@
                 "DATE": [
                     "2018-05-06"
                 ],
-                "NORP": [
-                    "Galatians"
+                "GPE": [
+                    "New York"
                 ]
             }
         },
@@ -11940,22 +11450,24 @@
             "entities": {
                 "PERSON": [
                     "Jon Tyson",
-                    "Jesus Christ",
-                    "http://churchofthecity.nyc |"
+                    "Jesus Christ"
                 ],
                 "CARDINAL": [
-                    "1",
-                    "6:11</p"
+                    "1"
                 ],
                 "NORP": [
                     "Corinthians"
                 ],
                 "ORG": [
                     "Church",
-                    "Spirit"
+                    "Spirit",
+                    "@COTCNYC"
                 ],
                 "DATE": [
-                    "2018-04-29</p"
+                    "2018-04-29"
+                ],
+                "GPE": [
+                    "New York"
                 ]
             }
         },
@@ -11989,14 +11501,19 @@
                 "PERSON": [
                     "Jon Tyson",
                     "Matthew 5",
-                    "Gospel",
-                    "http://churchofthecity.nyc |"
+                    "Gospel"
                 ],
                 "DATE": [
-                    "2018-04-22</p"
+                    "2018-04-22"
                 ],
                 "CARDINAL": [
                     "between two"
+                ],
+                "GPE": [
+                    "New York"
+                ],
+                "ORG": [
+                    "@COTCNYC"
                 ]
             }
         },
@@ -12029,11 +11546,16 @@
             "entities": {
                 "PERSON": [
                     "Jon Tyson",
-                    "Matthew 19",
-                    "http://churchofthecity.nyc |"
+                    "Matthew 19"
                 ],
                 "DATE": [
-                    "2018-04-15</p"
+                    "2018-04-15"
+                ],
+                "GPE": [
+                    "New York"
+                ],
+                "ORG": [
+                    "@COTCNYC"
                 ]
             }
         },
@@ -12067,11 +11589,17 @@
                 "PERSON": [
                     "Jon Tyson",
                     "Luke",
-                    "Jesus",
-                    "http://churchofthecity.nyc |"
+                    "Jesus"
                 ],
                 "DATE": [
-                    "2018-04-08</p"
+                    "2018-04-08"
+                ],
+                "ORG": [
+                    "\" - Isaiah 30:18 Church",
+                    "@COTCNYC"
+                ],
+                "GPE": [
+                    "New York"
                 ]
             }
         },
@@ -12105,11 +11633,16 @@
                 "PERSON": [
                     "Jon Tyson",
                     "Jesus",
-                    "Easter",
-                    "http://churchofthecity.nyc |"
+                    "Easter"
                 ],
                 "DATE": [
-                    "2018-04-01</p"
+                    "2018-04-01"
+                ],
+                "GPE": [
+                    "New York"
+                ],
+                "ORG": [
+                    "@COTCNYC"
                 ]
             }
         },
@@ -12141,8 +11674,7 @@
             "title": "The Prodigal Church Series - A Model Church",
             "entities": {
                 "PERSON": [
-                    "Jon Tyson",
-                    "http://churchofthecity.nyc |"
+                    "Jon Tyson"
                 ],
                 "CARDINAL": [
                     "1"
@@ -12151,10 +11683,14 @@
                     "Thessalonians"
                 ],
                 "ORG": [
-                    "The Prodigal Church"
+                    "The Prodigal Church",
+                    "@COTCNYC"
                 ],
                 "DATE": [
-                    "2018-03-25</p"
+                    "2018-03-25"
+                ],
+                "GPE": [
+                    "New York"
                 ]
             }
         },
@@ -12186,16 +11722,19 @@
             "title": "The Prodigal Church Series - Laodicea",
             "entities": {
                 "PERSON": [
-                    "Suzy Silk",
-                    "http://churchofthecity.nyc |"
+                    "Suzy Silk"
                 ],
                 "ORG": [
                     "Revelations 3",
                     "Laodicea",
-                    "The Prodigal Church"
+                    "The Prodigal Church",
+                    "@COTCNYC"
                 ],
                 "DATE": [
-                    "2018-03-18</p"
+                    "2018-03-18"
+                ],
+                "GPE": [
+                    "New York"
                 ]
             }
         },
@@ -12228,15 +11767,18 @@
             "entities": {
                 "PERSON": [
                     "Jon Tyson",
-                    "Sardis",
-                    "http://churchofthecity.nyc |"
+                    "Sardis"
                 ],
                 "ORG": [
                     "Revelations 3",
-                    "The Prodigal Church"
+                    "The Prodigal Church",
+                    "@COTCNYC"
                 ],
                 "DATE": [
-                    "2018-03-11</p"
+                    "2018-03-11"
+                ],
+                "GPE": [
+                    "New York"
                 ]
             }
         },
@@ -12268,15 +11810,16 @@
             "title": "The Prodigal Church Series - Thyatira",
             "entities": {
                 "PERSON": [
-                    "Jon Tyson",
-                    "http://churchofthecity.nyc |"
+                    "Jon Tyson"
                 ],
                 "ORG": [
                     "Revelations 2",
-                    "The Prodigal Church"
+                    "The Prodigal Church",
+                    "@COTCNYC"
                 ],
                 "GPE": [
-                    "Thyatira"
+                    "Thyatira",
+                    "New York"
                 ],
                 "DATE": [
                     "2018-03-04"
@@ -12314,20 +11857,23 @@
             "title": "Revelation of Jesus Christ - Corey Russell",
             "entities": {
                 "GPE": [
-                    "IHOP"
+                    "IHOP",
+                    "New York"
                 ],
                 "PERSON": [
                     "Corey Russell",
                     "Jesus Christ",
                     "Jesus Christ",
-                    "Jesus",
-                    "http://churchofthecity.nyc |"
+                    "Jesus"
                 ],
                 "DATE": [
                     "2018-02-25"
                 ],
                 "WORK_OF_ART": [
                     "Bible"
+                ],
+                "ORG": [
+                    "@COTCNYC"
                 ]
             }
         },
@@ -12359,14 +11905,18 @@
             "title": "Releasing the Spirit of Prayer - Corey Russell",
             "entities": {
                 "GPE": [
-                    "IHOP"
+                    "IHOP",
+                    "New York"
                 ],
                 "PERSON": [
                     "Corey Russell",
-                    "http://churchofthecity.nyc |"
+                    "\" - Corey Russell Church"
                 ],
                 "DATE": [
                     "2018-02-25"
+                ],
+                "ORG": [
+                    "@COTCNYC"
                 ]
             }
         },
@@ -12398,15 +11948,18 @@
             "title": "The Prodigal Church Series - Pergamum",
             "entities": {
                 "PERSON": [
-                    "Suzy Silk",
-                    "http://churchofthecity.nyc |"
+                    "Suzy Silk"
                 ],
                 "ORG": [
                     "Revelations 2",
-                    "The Prodigal Church"
+                    "The Prodigal Church",
+                    "@COTCNYC"
                 ],
                 "DATE": [
                     "2018-02-25"
+                ],
+                "GPE": [
+                    "New York"
                 ]
             }
         },
@@ -12438,17 +11991,21 @@
             "title": "The Prodigal Church Series - Ephesus",
             "entities": {
                 "PERSON": [
-                    "Jon Tyson",
-                    "http://churchofthecity.nyc |"
+                    "Jon Tyson"
                 ],
                 "ORG": [
                     "Revelations 2",
                     "Ephesus",
                     "The Prodigal Church",
-                    "Spirit"
+                    "Spirit",
+                    "God\" Church of the City",
+                    "@COTCNYC"
                 ],
                 "DATE": [
                     "2018-02-18"
+                ],
+                "GPE": [
+                    "New York"
                 ]
             }
         },
@@ -12481,8 +12038,7 @@
             "entities": {
                 "PERSON": [
                     "Jon Tyson",
-                    "Jesus",
-                    "http://churchofthecity.nyc |"
+                    "Jesus"
                 ],
                 "NORP": [
                     "Colossians"
@@ -12494,7 +12050,9 @@
                     "2018-02-11"
                 ],
                 "ORG": [
-                    "a Christian Community"
+                    "a Christian Community",
+                    "Church of the City",
+                    "@COTCNYC"
                 ]
             }
         },
@@ -12526,8 +12084,7 @@
             "title": "The Way of Jesus Series - Social Renewal",
             "entities": {
                 "PERSON": [
-                    "Suzy Silk",
-                    "http://churchofthecity.nyc |"
+                    "Suzy Silk"
                 ],
                 "CARDINAL": [
                     "2"
@@ -12541,7 +12098,8 @@
                 ],
                 "ORG": [
                     "Spirit",
-                    "Spirit"
+                    "Spirit",
+                    "@COTCNYC"
                 ]
             }
         },
@@ -12575,14 +12133,16 @@
                 "PERSON": [
                     "Jon Tyson",
                     "John 3",
-                    "Son",
-                    "http://churchofthecity.nyc |"
+                    "Son"
                 ],
                 "WORK_OF_ART": [
                     "The Way of Jesus series"
                 ],
                 "DATE": [
                     "2018-01-28"
+                ],
+                "ORG": [
+                    "@COTCNYC"
                 ]
             }
         },
@@ -12627,8 +12187,8 @@
                 "NORP": [
                     "Christian"
                 ],
-                "GPE": [
-                    "Dallas"
+                "ORG": [
+                    "@COTCNYC"
                 ]
             }
         },
@@ -12668,6 +12228,9 @@
                 ],
                 "DATE": [
                     "2018-01-14"
+                ],
+                "ORG": [
+                    "@COTCNYC"
                 ]
             }
         },
@@ -12708,6 +12271,9 @@
                 ],
                 "DATE": [
                     "2018-01-07"
+                ],
+                "ORG": [
+                    "@COTCNYC"
                 ]
             }
         },
@@ -12740,9 +12306,6 @@
             "entities": {
                 "GPE": [
                     "New York - COTCNYC - Jon Tyson"
-                ],
-                "PERSON": [
-                    "John 1 - 2017-12-24</p"
                 ]
             }
         },
@@ -12774,8 +12337,7 @@
             "title": "White As Snow",
             "entities": {
                 "CARDINAL": [
-                    "5",
-                    "one"
+                    "5"
                 ],
                 "GPE": [
                     "Christ"
@@ -12810,13 +12372,10 @@
             "title": "Advent Series - A Joyful God",
             "entities": {
                 "GPE": [
-                    "New York - COTCNYC - Jon Tyson"
-                ],
-                "PERSON": [
-                    "Isaiah"
+                    "New York - COTCNYC - Jon Tyson Isaiah"
                 ],
                 "DATE": [
-                    "61 - 2017-12-17</p"
+                    "61 - 2017-12-17"
                 ]
             }
         },
@@ -12851,14 +12410,13 @@
                     "night"
                 ],
                 "DATE": [
+                    "2017",
                     "this end of year",
-                    "the past year"
+                    "the past year",
+                    "2018"
                 ],
                 "PERSON": [
                     "Jon Tyson"
-                ],
-                "CARDINAL": [
-                    "2018.</p"
                 ]
             }
         },
@@ -12893,6 +12451,7 @@
                     "Jon Tyson"
                 ],
                 "DATE": [
+                    "next year",
                     "years Christmas"
                 ]
             }
@@ -12928,7 +12487,7 @@
                     "New York - COTCNYC - Suzy"
                 ],
                 "DATE": [
-                    "11 - 2017-12-10</p"
+                    "11 - 2017-12-10"
                 ]
             }
         },
@@ -12960,7 +12519,7 @@
             "title": "Advent Series -  The Government Of God",
             "entities": {
                 "GPE": [
-                    "New York - COTCNYC - Jon Tyson"
+                    "New York - COTCNYC - Jon Tyson Isaiah"
                 ]
             }
         },
@@ -12995,7 +12554,7 @@
                     "New York - COTCNYC - Suzy"
                 ],
                 "DATE": [
-                    "7 - 2017-11-26</p"
+                    "7 - 2017-11-26"
                 ]
             }
         },
@@ -13027,10 +12586,10 @@
             "title": "Holy Ambition Series - Holy Celebration",
             "entities": {
                 "GPE": [
-                    "New York - COTCNYC - Jon Tyson"
+                    "New York - COTCNYC - Jon Tyson Nehemiah"
                 ],
                 "DATE": [
-                    "12 - 2017-11-19</p"
+                    "12 - 2017-11-19"
                 ]
             }
         },
@@ -13062,10 +12621,10 @@
             "title": "Holy Ambition Series - Holy Culture",
             "entities": {
                 "GPE": [
-                    "New York - COTCNYC - Jon Tyson"
+                    "New York - COTCNYC - Jon Tyson Nehemiah"
                 ],
                 "DATE": [
-                    "10 - 2017-11-12</p"
+                    "10 - 2017-11-12"
                 ]
             }
         },
@@ -13096,10 +12655,10 @@
             "title": "Holy Ambition Series - Holy Response",
             "entities": {
                 "GPE": [
-                    "New York - COTCNYC - Jon Tyson"
+                    "New York - COTCNYC - Jon Tyson Nehemiah"
                 ],
                 "DATE": [
-                    "8 - 2017-11-05</p"
+                    "8 - 2017-11-05"
                 ]
             }
         },
@@ -13134,7 +12693,7 @@
                     "New York - COTCNYC - Suzy"
                 ],
                 "DATE": [
-                    "7 - 2017-10-29</p"
+                    "7 - 2017-10-29"
                 ]
             }
         },
@@ -13166,10 +12725,10 @@
             "title": "Holy Ambition Series - Holy Confrontation",
             "entities": {
                 "GPE": [
-                    "New York - COTCNYC - Jon Tyson"
+                    "New York - COTCNYC - Jon Tyson Nehemiah"
                 ],
                 "DATE": [
-                    "5 - 2017-10-22</p"
+                    "5 - 2017-10-22"
                 ]
             }
         },
@@ -13201,10 +12760,10 @@
             "title": "Holy Ambition Series - Holy Resistance",
             "entities": {
                 "GPE": [
-                    "New York - COTCNYC - Jon Tyson"
+                    "New York - COTCNYC - Jon Tyson Nehemiah"
                 ],
                 "DATE": [
-                    "4 - 2017-10-15</p"
+                    "4 - 2017-10-15"
                 ]
             }
         },
@@ -13242,7 +12801,7 @@
                     "Rob Reimer"
                 ],
                 "DATE": [
-                    "2017-10-08</p"
+                    "2017-10-08"
                 ]
             }
         },
@@ -13273,10 +12832,10 @@
             "title": "Holy Ambition Series - Here's What's Possible",
             "entities": {
                 "GPE": [
-                    "New York - COTCNYC - Jon Tyson"
+                    "New York - COTCNYC - Jon Tyson Nehemiah"
                 ],
                 "DATE": [
-                    "2:11-20 - 2017-10-01</p"
+                    "2:11-20 - 2017-10-01"
                 ]
             }
         },
@@ -13309,6 +12868,9 @@
             "entities": {
                 "GPE": [
                     "New York - COTCNYC - Suzy"
+                ],
+                "CARDINAL": [
+                    "2:1-10 - 2017-09"
                 ]
             }
         },
@@ -13340,7 +12902,7 @@
             "title": "Holy Ambition Series - Life of Consequence",
             "entities": {
                 "GPE": [
-                    "New York - COTCNYC - Jon Tyson"
+                    "New York - COTCNYC - Jon Tyson Nehemiah 1 - 2017-09-17"
                 ]
             }
         },
@@ -13373,7 +12935,7 @@
                     "New York - COTCNYC - Jon Tyson"
                 ],
                 "DATE": [
-                    "Sunday - 2017-09-10</p"
+                    "Sunday - 2017-09-10"
                 ]
             }
         },
@@ -13438,11 +13000,11 @@
             "title": "Making Sense of Church - Ephesians - Week 19",
             "entities": {
                 "GPE": [
-                    "New York - COTCNYC - Jon Tyson"
+                    "New York - COTCNYC - Jon Tyson Ephesians"
                 ],
                 "CARDINAL": [
                     "6",
-                    "v5-9 - 2017-08-27</p"
+                    "v5-9 - 2017-08-27"
                 ]
             }
         },
@@ -13473,7 +13035,7 @@
             "title": "Making Sense of Church - Ephesians - Week 18",
             "entities": {
                 "GPE": [
-                    "New York - COTCNYC - Jon Tyson"
+                    "New York - COTCNYC - Jon Tyson Ephesians"
                 ],
                 "CARDINAL": [
                     "6"
@@ -13507,13 +13069,13 @@
             "title": "Making Sense of Church - Ephesians - Week 17",
             "entities": {
                 "GPE": [
-                    "New York - COTCNYC - Jon Tyson"
+                    "New York - COTCNYC - Jon Tyson Ephesians"
                 ],
                 "CARDINAL": [
                     "5"
                 ],
                 "DATE": [
-                    "33 - 2017-08-13</p"
+                    "33 - 2017-08-13"
                 ]
             }
         },
@@ -13544,13 +13106,13 @@
             "title": "Making Sense of Church - Ephesians - Week 16",
             "entities": {
                 "GPE": [
-                    "New York - COTCNYC - Jon Tyson"
+                    "New York - COTCNYC - Jon Tyson Ephesians"
                 ],
                 "CARDINAL": [
                     "5"
                 ],
                 "DATE": [
-                    "20 - 2017-08-06</p"
+                    "20 - 2017-08-06"
                 ]
             }
         },
@@ -13624,7 +13186,7 @@
                     "5"
                 ],
                 "DATE": [
-                    "14 - 2017-07-23</p"
+                    "14 - 2017-07-23"
                 ]
             }
         },
@@ -13655,13 +13217,13 @@
             "title": "Making Sense of Church - Ephesians - Week 13",
             "entities": {
                 "GPE": [
-                    "New York - COTCNYC - Jon Tyson"
+                    "New York - COTCNYC - Jon Tyson Ephesians"
                 ],
                 "CARDINAL": [
                     "4"
                 ],
                 "DATE": [
-                    "32 - 2017-07-16</p"
+                    "32 - 2017-07-16"
                 ]
             }
         },
@@ -13692,7 +13254,7 @@
             "title": "Making Sense of Church - Ephesians - Week 12",
             "entities": {
                 "GPE": [
-                    "New York - COTCNYC - Jon Tyson"
+                    "New York - COTCNYC - Jon Tyson Ephesians"
                 ],
                 "CARDINAL": [
                     "4"
@@ -13732,7 +13294,7 @@
                     "3"
                 ],
                 "DATE": [
-                    "21 - 2017-07-02</p"
+                    "21 - 2017-07-02"
                 ]
             }
         },
@@ -13797,13 +13359,13 @@
             "title": "Making Sense of Church - Ephesians - Week 9",
             "entities": {
                 "GPE": [
-                    "New York - COTCNYC - Jon Tyson"
+                    "New York - COTCNYC - Jon Tyson Ephesians"
                 ],
                 "CARDINAL": [
                     "2"
                 ],
                 "DATE": [
-                    "22 - 2017-06-18</p"
+                    "22 - 2017-06-18"
                 ]
             }
         },
@@ -13834,7 +13396,7 @@
             "title": "Making Sense of Church - Ephesians - Week 8",
             "entities": {
                 "GPE": [
-                    "New York - COTCNYC - Jon Tyson"
+                    "New York - COTCNYC - Jon Tyson Ephesians"
                 ],
                 "CARDINAL": [
                     "2"
@@ -13868,7 +13430,7 @@
             "title": "Making Sense of Church - Ephesians - Week 7",
             "entities": {
                 "GPE": [
-                    "New York - COTCNYC - Corey Russell<br"
+                    "New York - COTCNYC - Corey Russell Ephesians"
                 ],
                 "CARDINAL": [
                     "1"
@@ -13902,13 +13464,13 @@
             "title": "Making Sense of Church - Ephesians - Week 6",
             "entities": {
                 "GPE": [
-                    "New York - COTCNYC - Jon Tyson"
+                    "New York - COTCNYC - Jon Tyson Ephesians"
                 ],
                 "CARDINAL": [
                     "1"
                 ],
                 "DATE": [
-                    "14 - 2017-05-28</p"
+                    "14 - 2017-05-28"
                 ]
             }
         },
@@ -13973,7 +13535,7 @@
             "title": "Making Sense of Church - Ephesians - Week 4",
             "entities": {
                 "GPE": [
-                    "New York - COTCNYC - Jon Tyson"
+                    "New York - COTCNYC - Jon Tyson Ephesians"
                 ],
                 "CARDINAL": [
                     "1"
@@ -14007,7 +13569,7 @@
             "title": "Making Sense of Church - Ephesians - Week 3",
             "entities": {
                 "GPE": [
-                    "New York - COTCNYC - Jon Tyson"
+                    "New York - COTCNYC - Jon Tyson Ephesians"
                 ],
                 "CARDINAL": [
                     "1"
@@ -14041,7 +13603,7 @@
             "title": "Making Sense of Church - Ephesians - Week 2",
             "entities": {
                 "GPE": [
-                    "New York - COTCNYC - Jon Tyson"
+                    "New York - COTCNYC - Jon Tyson Acts"
                 ],
                 "CARDINAL": [
                     "19"
@@ -14074,12 +13636,11 @@
             "pubDate": "Tue, 06 Jun 2017 17:39:33 +0000",
             "title": "Making Sense of Church - Ephesians - Week 1",
             "entities": {
-                "CARDINAL": [
-                    "left;\">Church",
-                    "19"
-                ],
                 "GPE": [
-                    "New York - COTCNYC - Jon Tyson"
+                    "New York - COTCNYC - Jon Tyson Acts"
+                ],
+                "CARDINAL": [
+                    "19"
                 ]
             }
         }

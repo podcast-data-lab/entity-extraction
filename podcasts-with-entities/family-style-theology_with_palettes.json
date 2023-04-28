@@ -38,22 +38,24 @@
             "entities": {
                 "PERSON": [
                     "Noah",
-                    "Joel Allen Hess</a></p"
+                    "Joel Allen Hess"
                 ],
                 "WORK_OF_ART": [
-                    "Bible"
+                    "Bible Verses"
+                ],
+                "ORG": [
+                    "Genesis",
+                    "Genesis",
+                    "Genesis"
                 ],
                 "CARDINAL": [
                     "6",
                     "5",
-                    "2:22"
-                ],
-                "ORG": [
-                    "Genesis",
-                    "Genesis"
+                    "1517.org/podcasts"
                 ],
                 "DATE": [
-                    "8:10-12"
+                    "8:10-12",
+                    "2:22-23"
                 ],
                 "ORDINAL": [
                     "first"
@@ -91,16 +93,17 @@
                     "Elsa",
                     "Anna",
                     "John 19:30",
-                    "John 3:16</p",
+                    "John 3:16",
                     "Frozen",
-                    "Joel Allen Hess</a></p"
+                    "Joel Allen Hess"
                 ],
                 "WORK_OF_ART": [
-                    "Bible"
+                    "Bible Verses"
                 ],
                 "CARDINAL": [
                     "32",
-                    "3"
+                    "3",
+                    "1517.org/podcasts"
                 ]
             }
         },
@@ -132,14 +135,15 @@
             "entities": {
                 "PERSON": [
                     "Cinderella",
-                    "Rev 21:2</p",
-                    "Joel Allen Hess</a></p"
+                    "Joel Allen Hess"
                 ],
                 "WORK_OF_ART": [
-                    "Bible"
+                    "Bible Verses"
                 ],
                 "CARDINAL": [
-                    "3:7"
+                    "3:7",
+                    "21:2",
+                    "1517.org/podcasts"
                 ]
             }
         },
@@ -169,25 +173,26 @@
             "pubDate": "Thu, 23 Feb 2023 05:50:00 +0000",
             "title": "Tales of Salvation: Snow White and Ashes",
             "entities": {
-                "PERSON": [
+                "ORG": [
                     "Cindy",
-                    "Ash",
-                    "Joel Allen Hess</a></p"
+                    "Genesis"
                 ],
                 "WORK_OF_ART": [
                     "Snow White",
-                    "Bible"
+                    "Bible Verses"
+                ],
+                "PERSON": [
+                    "Ash",
+                    "Joel Allen Hess"
                 ],
                 "DATE": [
                     "Wednesday"
                 ],
-                "ORG": [
-                    "Genesis"
-                ],
                 "CARDINAL": [
                     "3:1-6",
                     "1",
-                    "23</p"
+                    "23",
+                    "1517.org/podcasts"
                 ]
             }
         },
@@ -254,17 +259,21 @@
                 "GPE": [
                     "Cindy"
                 ],
+                "DATE": [
+                    "today"
+                ],
                 "WORK_OF_ART": [
                     "Bible"
                 ],
                 "PERSON": [
                     "John 1:16-17",
                     "Matthew 5:17-18",
-                    "Joel Allen Hess</a></p"
+                    "Joel Allen Hess"
                 ],
                 "CARDINAL": [
                     "20-22",
-                    "23"
+                    "23",
+                    "1517.org/podcasts"
                 ],
                 "NORP": [
                     "Romans",
@@ -298,28 +307,35 @@
             "pubDate": "Sat, 24 Dec 2022 21:36:00 +0000",
             "title": "The Word Lives With Us: Flesh",
             "entities": {
-                "ORG": [
-                    "Apple",
-                    "Genesis"
+                "DATE": [
+                    "Christmas",
+                    "today"
                 ],
                 "GPE": [
                     "Cindy"
                 ],
                 "PERSON": [
                     "Jesus",
+                    "John 1:114",
                     "John 14:8-9",
-                    "Joel Allen Hess</a></p"
+                    "Joel Allen Hess"
                 ],
                 "WORK_OF_ART": [
                     "Bible",
                     "Exodus 33:20-23",
                     "Merry Christmas Satan"
                 ],
+                "ORG": [
+                    "Genesis"
+                ],
                 "PRODUCT": [
                     "3:8-10"
                 ],
                 "NORP": [
                     "Greek"
+                ],
+                "CARDINAL": [
+                    "1517.org/podcasts"
                 ]
             }
         },
@@ -351,23 +367,25 @@
             "entities": {
                 "PERSON": [
                     "Jesus",
+                    "John 1:10-13",
                     "Matthew 16:22-23",
-                    "Joel Allen Hess</a></p"
+                    "\u03c0\u03af\u03c3\u03c4\u03b9\u03c2",
+                    "Joel Allen Hess"
                 ],
                 "DATE": [
-                    "1:10-13",
                     "1:10-13"
                 ],
                 "GPE": [
                     "Cindy"
                 ],
                 "WORK_OF_ART": [
-                    "the Word of God!</p",
+                    "the Word of God!",
                     "Bible",
                     "Merry Christmas Satan"
                 ],
                 "CARDINAL": [
-                    "5:8-9</p"
+                    "5:8-9",
+                    "1517.org/podcasts"
                 ],
                 "NORP": [
                     "Greek"
@@ -404,9 +422,10 @@
                     "John",
                     "Jesus",
                     "Cindy",
+                    "Jesus",
+                    "John 1:6-9",
                     "John 1:19",
-                    "Luther\u2019s Catechism</p",
-                    "Joel Allen Hess</a></p"
+                    "Joel Allen Hess"
                 ],
                 "NORP": [
                     "Baptist",
@@ -416,7 +435,8 @@
                     "Bible"
                 ],
                 "CARDINAL": [
-                    "2:1-5"
+                    "2:1-5",
+                    "1517.org/podcasts"
                 ],
                 "DATE": [
                     "christmas"
@@ -452,22 +472,22 @@
                 "PERSON": [
                     "Jesus",
                     "Cindy",
-                    "rel=\"noopener\">LINK TO ADVENT CALENDAR</a></p",
+                    "LINK",
                     "John 1:4-6",
                     "John 8:12",
                     "\u03c6\u03c9\u03c2",
-                    "Joel Allen Hess</a></p"
-                ],
-                "WORK_OF_ART": [
-                    "Bible"
+                    "Joel Allen Hess"
                 ],
                 "ORG": [
+                    "CRAFTS",
+                    "ADVENT Bible",
                     "Genesis"
                 ],
                 "CARDINAL": [
                     "1:3-5",
                     "1",
-                    "22:3"
+                    "22:3",
+                    "1517.org/podcasts"
                 ],
                 "NORP": [
                     "Greek"
@@ -506,24 +526,27 @@
                     "JOHN",
                     "Word",
                     "Word",
-                    "rel=\"noopener\">LINK TO ADVENT CALENDAR</a></p",
+                    "Jesus",
+                    "LINK",
+                    "Luke 2:4",
                     "John 1:1-3",
-                    "Joel Allen Hess</a></p"
+                    "Joel Allen Hess"
                 ],
                 "CARDINAL": [
                     "1:1-3",
-                    "2:4"
+                    "1:1-2",
+                    "1517.org/podcasts"
                 ],
                 "ORG": [
-                    "Apple",
+                    "CRAFTS",
+                    "ADVENT Bible",
                     "Genesis"
-                ],
-                "WORK_OF_ART": [
-                    "Bible",
-                    "Merry Christmas Satan"
                 ],
                 "NORP": [
                     "Greek"
+                ],
+                "WORK_OF_ART": [
+                    "Merry Christmas Satan"
                 ]
             }
         },
@@ -557,14 +580,14 @@
                     "Cindy",
                     "Son",
                     "Luke 2:29-32",
-                    "Luther\u2019s Small Catechism</p",
-                    "Joel A. Hess</a></p"
+                    "Joel A. Hess"
                 ],
-                "FAC": [
+                "PRODUCT": [
                     "Revelation 21:4"
                 ],
                 "ORG": [
-                    "Psalm 41:13"
+                    "Psalm 41:13",
+                    "Luther\u2019s Small Catechism"
                 ],
                 "DATE": [
                     "christmas"
@@ -600,15 +623,15 @@
                 "PERSON": [
                     "Cindy",
                     "Matthew 4:1-2",
-                    "Luther\u2019s Small Catechism</p",
-                    "Joel A. Hess</a></p"
+                    "Joel A. Hess"
                 ],
                 "DATE": [
                     "today",
                     "3:1-7"
                 ],
                 "ORG": [
-                    "Genesis"
+                    "Genesis",
+                    "Luther\u2019s Small Catechism"
                 ]
             }
         },
@@ -640,17 +663,17 @@
             "entities": {
                 "PERSON": [
                     "Cindy",
-                    "Luther\u2019s Small Catechism</p",
-                    "Joel A. Hess</a></p"
-                ],
-                "TIME": [
-                    "28:13"
+                    "Proverbs",
+                    "Joel A. Hess"
                 ],
                 "CARDINAL": [
                     "51",
                     "1",
                     "18",
                     "21-22"
+                ],
+                "ORG": [
+                    "Luther\u2019s Small Catechism"
                 ]
             }
         },
@@ -684,17 +707,17 @@
                     "Cindy",
                     "Matthew 6:33",
                     "Psalm 106:1",
-                    "Luther\u2019s Small Catechism</p",
-                    "Joel A. Hess</a></p"
+                    "Joel A. Hess"
                 ],
                 "ORG": [
-                    "The Forth Petition"
+                    "The Forth Petition",
+                    "Luther\u2019s Small Catechism"
                 ],
                 "DATE": [
                     "daily"
                 ],
                 "CARDINAL": [
-                    "145:15"
+                    "145:15-16"
                 ]
             }
         },
@@ -727,11 +750,11 @@
                 "PERSON": [
                     "Cindy",
                     "John 3:16",
-                    "Luther\u2019s Small Catechism</p",
-                    "Joel A. Hess</a></p"
+                    "Joel A. Hess"
                 ],
-                "GPE": [
-                    "you?<span"
+                "ORG": [
+                    "Genesis",
+                    "Luther\u2019s Small Catechism"
                 ],
                 "CARDINAL": [
                     "3"
@@ -768,11 +791,10 @@
                     "Cindy",
                     "Matthew 3:2",
                     "Matthew 6:33",
-                    "Luther\u2019s Small Catechism</p",
-                    "Joel A. Hess</a></p"
+                    "Joel A. Hess"
                 ],
                 "ORG": [
-                    "Apple"
+                    "Luther\u2019s Small Catechism"
                 ]
             }
         },
@@ -805,10 +827,11 @@
                 "PERSON": [
                     "Cindy",
                     "Matthew 28:19-20",
-                    "Joel A. Hess</a></p"
+                    "Joel A. Hess"
                 ],
                 "ORG": [
-                    "the First Petition of the Lord\u2019s"
+                    "the First Petition of the Lord\u2019s",
+                    "Luther\u2019s Small Catechism"
                 ]
             }
         },
@@ -840,13 +863,11 @@
             "entities": {
                 "PERSON": [
                     "Cindy",
-                    "Joel A. Hess</a></p"
+                    "Luke 11:1-4",
+                    "Joel A. Hess"
                 ],
                 "DATE": [
                     "Today"
-                ],
-                "CARDINAL": [
-                    "11:1"
                 ]
             }
         },
@@ -880,7 +901,7 @@
                     "Cindy Koch",
                     "Lift High the Cross",
                     "Lamb",
-                    "Joel A. Hess</a></p"
+                    "Joel A. Hess"
                 ],
                 "ORG": [
                     "the Christian Faith",
@@ -894,13 +915,12 @@
                     "Crown Him"
                 ],
                 "WORK_OF_ART": [
-                    "Lutheran Service Book"
+                    "Crown Him with Many Crowns\" Lutheran Service Book"
                 ],
                 "MONEY": [
-                    "525</p"
+                    "#525 Revelation"
                 ],
                 "CARDINAL": [
-                    "22",
                     "13",
                     "2:9"
                 ],
@@ -939,7 +959,7 @@
                     "Cindy Koch",
                     "Lift High the Cross",
                     "Lamb",
-                    "Joel A. Hess</a></p"
+                    "Joel A. Hess"
                 ],
                 "ORG": [
                     "the Christian Faith",
@@ -955,7 +975,7 @@
                     "Lutheran Service Book"
                 ],
                 "MONEY": [
-                    "411</p"
+                    "#411 Revelation"
                 ],
                 "TIME": [
                     "21:23"
@@ -1000,25 +1020,24 @@
                     "Lift High the Cross",
                     "Lamb",
                     "Luke 12:32",
-                    "Joel A. Hess</a></p"
+                    "Joel A. Hess"
                 ],
                 "ORG": [
                     "the Christian Faith",
-                    "Eagle",
-                    "Apple"
+                    "Eagle"
                 ],
                 "DATE": [
-                    "this season",
-                    "103:3-5,<span"
+                    "this season"
                 ],
                 "PRODUCT": [
                     "Crown Him"
                 ],
                 "MONEY": [
-                    "735</p"
+                    "735"
                 ],
                 "CARDINAL": [
-                    "23</p"
+                    "103:3",
+                    "23"
                 ]
             }
         },
@@ -1052,28 +1071,24 @@
                     "Cindy Koch",
                     "Lift High the Cross",
                     "Lamb",
-                    "Joel A. Hess</a></p"
+                    "Joel A. Hess"
                 ],
                 "ORG": [
                     "the Christian Faith",
-                    "Eagle",
-                    "Genesis"
+                    "Eagle"
                 ],
                 "DATE": [
-                    "this season"
+                    "this season",
+                    "22:1-13"
                 ],
                 "PRODUCT": [
-                    "Crown Him",
-                    "Revelation 22:1-5</p"
+                    "Crown Him"
                 ],
                 "WORK_OF_ART": [
-                    "Lutheran Service Book"
+                    "The Lamb\" Lutheran Service Book"
                 ],
                 "MONEY": [
-                    "547</p"
-                ],
-                "CARDINAL": [
-                    "22:1"
+                    "#547"
                 ]
             }
         },
@@ -1108,14 +1123,13 @@
                     "Lift High the Cross",
                     "Lamb",
                     "Psalm 91:1-2",
-                    "Matthew 4:6-7</p",
-                    "Joel A. Hess</a></p"
+                    "Matthew 4:6-7",
+                    "Joel A. Hess"
                 ],
                 "ORG": [
                     "the Christian Faith",
                     "Eagle",
-                    "Eagle",
-                    "Wings\" Lutheran Service Book"
+                    "Eagle"
                 ],
                 "DATE": [
                     "this season"
@@ -1123,8 +1137,11 @@
                 "PRODUCT": [
                     "Crown Him"
                 ],
+                "WORK_OF_ART": [
+                    "Lutheran Service Book"
+                ],
                 "MONEY": [
-                    "727</p"
+                    "#727"
                 ]
             }
         },
@@ -1158,7 +1175,7 @@
                     "Cindy Koch",
                     "Lift High the Cross",
                     "Lamb",
-                    "Joel A. Hess</a></p"
+                    "Joel A. Hess"
                 ],
                 "ORG": [
                     "the Christian Faith",
@@ -1171,10 +1188,10 @@
                     "Crown Him"
                 ],
                 "WORK_OF_ART": [
-                    "Lutheran Service Book"
+                    "Lift High the Cross\" Lutheran Service Book"
                 ],
                 "MONEY": [
-                    "837</p"
+                    "837"
                 ]
             }
         },
@@ -1211,6 +1228,15 @@
                 ],
                 "NORP": [
                     "Romans"
+                ],
+                "DATE": [
+                    "1517"
+                ],
+                "LAW": [
+                    "Podcast Network"
+                ],
+                "GPE": [
+                    "Virginia"
                 ]
             }
         },
@@ -1241,10 +1267,12 @@
             "title": "Beloved",
             "entities": {
                 "DATE": [
-                    "today"
+                    "today",
+                    "1517"
                 ],
                 "GPE": [
-                    "Psalm"
+                    "Psalm",
+                    "Virginia"
                 ],
                 "CARDINAL": [
                     "31:23"
@@ -1253,8 +1281,10 @@
                     "Romans"
                 ],
                 "PERSON": [
-                    "Gift Challenge",
-                    "Advent Calendar \"Free Gift"
+                    "Gift Challenge"
+                ],
+                "LAW": [
+                    "Podcast Network"
                 ]
             }
         },
@@ -1289,14 +1319,22 @@
                 ],
                 "PERSON": [
                     "Jesus",
-                    "Gift Challenge",
-                    "Advent Calendar \"Free Gift"
+                    "Gift Challenge"
                 ],
                 "ORG": [
                     "Psalm 31:22"
                 ],
                 "NORP": [
                     "Romans"
+                ],
+                "DATE": [
+                    "1517"
+                ],
+                "LAW": [
+                    "Podcast Network"
+                ],
+                "GPE": [
+                    "Virginia"
                 ]
             }
         },
@@ -1337,6 +1375,15 @@
                 ],
                 "NORP": [
                     "Romans"
+                ],
+                "DATE": [
+                    "1517"
+                ],
+                "LAW": [
+                    "Podcast Network"
+                ],
+                "GPE": [
+                    "Virginia"
                 ]
             }
         },
@@ -1376,6 +1423,15 @@
                 ],
                 "NORP": [
                     "Romans"
+                ],
+                "DATE": [
+                    "1517"
+                ],
+                "LAW": [
+                    "Podcast Network"
+                ],
+                "GPE": [
+                    "Virginia"
                 ]
             }
         },
@@ -1408,15 +1464,21 @@
                 "PERSON": [
                     "Jesus",
                     "Infant",
-                    "Gift Challenge",
-                    "Advent Calendar \"Free Gift"
+                    "Gift Challenge"
                 ],
                 "DATE": [
-                    "today"
+                    "today",
+                    "1517"
                 ],
                 "NORP": [
                     "Magi",
                     "Romans"
+                ],
+                "LAW": [
+                    "Podcast Network"
+                ],
+                "GPE": [
+                    "Virginia"
                 ]
             }
         },
@@ -1453,7 +1515,8 @@
                     "Snake"
                 ],
                 "DATE": [
-                    "Today"
+                    "Today",
+                    "1517"
                 ],
                 "PRODUCT": [
                     "Advent"
@@ -1461,11 +1524,17 @@
                 "PERSON": [
                     "Jesus",
                     "Gift Challenge",
-                    "Van Dyck</a></p",
-                    "Advent Calendar \"Free Gift"
+                    "Truth Jesus",
+                    "Van Dyck"
                 ],
                 "NORP": [
                     "Romans"
+                ],
+                "LAW": [
+                    "Podcast Network"
+                ],
+                "GPE": [
+                    "Virginia"
                 ]
             }
         },
@@ -1497,11 +1566,11 @@
             "entities": {
                 "PERSON": [
                     "Jesus",
-                    "Gift Challenge",
-                    "Advent Calendar \"Free Gift"
+                    "Gift Challenge"
                 ],
                 "DATE": [
-                    "today"
+                    "today",
+                    "1517"
                 ],
                 "FAC": [
                     "the Garden of Eden"
@@ -1511,6 +1580,12 @@
                 ],
                 "NORP": [
                     "Romans"
+                ],
+                "LAW": [
+                    "Podcast Network"
+                ],
+                "GPE": [
+                    "Virginia"
                 ]
             }
         },
@@ -1542,17 +1617,23 @@
             "entities": {
                 "PERSON": [
                     "Advent",
-                    "Gift Challenge",
-                    "Advent Calendar \"Free Gift"
+                    "Gift Challenge"
                 ],
                 "GPE": [
-                    "Psalm"
+                    "Psalm",
+                    "Virginia"
                 ],
                 "CARDINAL": [
                     "31:16"
                 ],
                 "NORP": [
                     "Romans"
+                ],
+                "DATE": [
+                    "1517"
+                ],
+                "LAW": [
+                    "Podcast Network"
                 ]
             }
         },
@@ -1583,7 +1664,8 @@
             "title": "Hands",
             "entities": {
                 "DATE": [
-                    "today"
+                    "today",
+                    "1517"
                 ],
                 "CARDINAL": [
                     "31:15"
@@ -1592,8 +1674,13 @@
                     "Romans"
                 ],
                 "PERSON": [
-                    "Gift Challenge",
-                    "Advent Calendar \"Free Gift"
+                    "Gift Challenge"
+                ],
+                "LAW": [
+                    "Podcast Network"
+                ],
+                "GPE": [
+                    "Virginia"
                 ]
             }
         },
@@ -1624,12 +1711,12 @@
             "title": "I Trust In You",
             "entities": {
                 "DATE": [
-                    "today"
+                    "today",
+                    "1517"
                 ],
                 "PERSON": [
                     "Adam",
-                    "Gift Challenge",
-                    "Advent Calendar \"Free Gift"
+                    "Gift Challenge"
                 ],
                 "EVENT": [
                     "Satan"
@@ -1641,6 +1728,12 @@
                 ],
                 "NORP": [
                     "Romans"
+                ],
+                "LAW": [
+                    "Podcast Network"
+                ],
+                "GPE": [
+                    "Virginia"
                 ]
             }
         },
@@ -1671,7 +1764,8 @@
             "title": "Fear Not",
             "entities": {
                 "DATE": [
-                    "Christmas"
+                    "Christmas",
+                    "1517"
                 ],
                 "CARDINAL": [
                     "31:13"
@@ -1680,8 +1774,13 @@
                     "Romans"
                 ],
                 "PERSON": [
-                    "Gift Challenge:",
-                    "Advent Calendar \"Free Gift"
+                    "Gift Challenge:"
+                ],
+                "LAW": [
+                    "Podcast Network"
+                ],
+                "GPE": [
+                    "Virginia"
                 ]
             }
         },
@@ -1712,7 +1811,8 @@
             "title": "Broken",
             "entities": {
                 "DATE": [
-                    "Christmas"
+                    "Christmas",
+                    "1517"
                 ],
                 "CARDINAL": [
                     "31:12"
@@ -1723,6 +1823,12 @@
                 "PERSON": [
                     "Gift Challenge",
                     "Advent Calendar \"Free Gift"
+                ],
+                "LAW": [
+                    "Podcast Network"
+                ],
+                "GPE": [
+                    "Virginia"
                 ]
             }
         },
@@ -1759,8 +1865,16 @@
                     "Romans"
                 ],
                 "PERSON": [
-                    "Gift Challenge",
-                    "Advent Calendar \"Free Gift"
+                    "Gift Challenge"
+                ],
+                "DATE": [
+                    "1517"
+                ],
+                "LAW": [
+                    "Podcast Network"
+                ],
+                "GPE": [
+                    "Virginia"
                 ]
             }
         },
@@ -1792,14 +1906,23 @@
             "entities": {
                 "PERSON": [
                     "Advent",
-                    "Gift Challenge",
-                    "Advent Calendar \"Free Gift"
+                    "Gift Challenge"
+                ],
+                "GPE": [
+                    "Psalm",
+                    "Virginia"
                 ],
                 "CARDINAL": [
                     "31:10"
                 ],
                 "NORP": [
                     "Romans"
+                ],
+                "DATE": [
+                    "1517"
+                ],
+                "LAW": [
+                    "Podcast Network"
                 ]
             }
         },
@@ -1834,13 +1957,22 @@
                     "Advent",
                     "Jesus Christ",
                     "Gift Challenge",
-                    "Advent Calendar \"Free Gift"
+                    "Healing Gift  Advent Calendar \"Free Gift"
                 ],
                 "CARDINAL": [
                     "31:9"
                 ],
                 "NORP": [
                     "Romans"
+                ],
+                "DATE": [
+                    "1517"
+                ],
+                "LAW": [
+                    "Podcast Network"
+                ],
+                "GPE": [
+                    "Virginia"
                 ]
             }
         },
@@ -1871,16 +2003,22 @@
             "title": "Freedom",
             "entities": {
                 "DATE": [
-                    "today"
+                    "today",
+                    "1517"
                 ],
                 "PERSON": [
                     "Jesus Christ",
                     "Psalm 31:8",
-                    "Gift Challenge",
-                    "Advent Calendar \"Free Gift"
+                    "Gift Challenge"
                 ],
                 "NORP": [
                     "Romans"
+                ],
+                "LAW": [
+                    "Podcast Network"
+                ],
+                "GPE": [
+                    "Virginia"
                 ]
             }
         },
@@ -1919,6 +2057,15 @@
                 "PERSON": [
                     "Gift Challenge",
                     "Advent Calendar \"Free Gift"
+                ],
+                "DATE": [
+                    "1517"
+                ],
+                "LAW": [
+                    "Podcast Network"
+                ],
+                "GPE": [
+                    "Virginia"
                 ]
             }
         },
@@ -1958,6 +2105,15 @@
                 ],
                 "NORP": [
                     "Romans"
+                ],
+                "DATE": [
+                    "1517"
+                ],
+                "LAW": [
+                    "Podcast Network"
+                ],
+                "GPE": [
+                    "Virginia"
                 ]
             }
         },
@@ -1989,14 +2145,22 @@
             "entities": {
                 "PERSON": [
                     "Jesus",
-                    "Gift Challenge",
-                    "Advent Calendar \"Free Gift"
+                    "Gift Challenge"
                 ],
                 "CARDINAL": [
                     "31:5"
                 ],
                 "NORP": [
                     "Romans"
+                ],
+                "DATE": [
+                    "1517"
+                ],
+                "LAW": [
+                    "Podcast Network"
+                ],
+                "GPE": [
+                    "Virginia"
                 ]
             }
         },
@@ -2029,11 +2193,19 @@
                 "PERSON": [
                     "Jesus",
                     "Psalm 31:4",
-                    "Gift Challenge",
-                    "Advent Calendar \"Free Gift"
+                    "Gift Challenge"
                 ],
                 "NORP": [
                     "Romans"
+                ],
+                "DATE": [
+                    "1517"
+                ],
+                "LAW": [
+                    "Podcast Network"
+                ],
+                "GPE": [
+                    "Virginia"
                 ]
             }
         },
@@ -2071,8 +2243,16 @@
                     "Romans"
                 ],
                 "PERSON": [
-                    "Gift Challenge",
-                    "Advent Calendar \"Free Gift"
+                    "Gift Challenge"
+                ],
+                "DATE": [
+                    "1517"
+                ],
+                "LAW": [
+                    "Podcast Network"
+                ],
+                "GPE": [
+                    "Virginia"
                 ]
             }
         },
@@ -2106,7 +2286,7 @@
                     "Jesus",
                     "Advent",
                     "Son",
-                    "href=\"https://familystyletheology.com"
+                    "Gift Challenge"
                 ],
                 "CARDINAL": [
                     "31:2"
@@ -2114,9 +2294,14 @@
                 "NORP": [
                     "Romans"
                 ],
-                "WORK_OF_ART": [
-                    "target=\"_blank",
-                    "\"noopener\">1517 Podcast"
+                "DATE": [
+                    "1517"
+                ],
+                "LAW": [
+                    "Podcast Network"
+                ],
+                "GPE": [
+                    "Virginia"
                 ]
             }
         },
@@ -2152,12 +2337,18 @@
                 "NORP": [
                     "Romans"
                 ],
-                "WORK_OF_ART": [
-                    "target=\"_blank",
-                    "\"noopener\">1517 Podcast"
-                ],
                 "PERSON": [
-                    "href=\"https://familystyletheology.com"
+                    "Gift Challenge",
+                    "Advent Calendar \"Free Gift"
+                ],
+                "DATE": [
+                    "1517"
+                ],
+                "LAW": [
+                    "Podcast Network"
+                ],
+                "GPE": [
+                    "Virginia"
                 ]
             }
         },
@@ -2191,17 +2382,17 @@
                     "Christmas",
                     "the days",
                     "every day",
-                    "Christmas"
+                    "1517"
                 ],
                 "PERSON": [
                     "Cindy",
                     "Advent",
-                    "Jesus Christ",
-                    "href=\"https://familystyletheology.com"
+                    "Jesus Christ"
                 ],
                 "GPE": [
                     "Psalm",
-                    "Virginia"
+                    "Virginia",
+                    "Merry"
                 ],
                 "CARDINAL": [
                     "31"
@@ -2325,6 +2516,9 @@
                 "PERSON": [
                     "Jesus",
                     "Cindy"
+                ],
+                "ORG": [
+                    "Easter"
                 ]
             }
         },
@@ -2473,7 +2667,8 @@
             "title": "Free Christmas Present",
             "entities": {
                 "DATE": [
-                    "Christmas"
+                    "Christmas",
+                    "1517"
                 ],
                 "ORG": [
                     "FREE"
@@ -2510,10 +2705,12 @@
             "title": "Water of Life",
             "entities": {
                 "DATE": [
-                    "almost Christmas"
+                    "almost Christmas",
+                    "1517"
                 ],
                 "PERSON": [
-                    "Jesus"
+                    "Jesus",
+                    "Advent Calendar Resource"
                 ]
             }
         },
@@ -2544,19 +2741,19 @@
             "title": "The Last Sun",
             "entities": {
                 "DATE": [
-                    "today"
+                    "today",
+                    "16",
+                    "1517"
                 ],
                 "ORG": [
                     "Advent Devotion"
                 ],
                 "PERSON": [
-                    "Jesus"
+                    "Jesus",
+                    "Advent Calendar Resource"
                 ],
                 "FAC": [
                     "Revelation 22:3-5"
-                ],
-                "CARDINAL": [
-                    "16.</p"
                 ]
             }
         },
@@ -2588,6 +2785,9 @@
             "entities": {
                 "PERSON": [
                     "Jesus"
+                ],
+                "DATE": [
+                    "1517"
                 ]
             }
         },
@@ -2621,12 +2821,16 @@
                     "the Advent of Jesus"
                 ],
                 "DATE": [
-                    "today"
+                    "today",
+                    "27",
+                    "1517"
                 ],
                 "CARDINAL": [
                     "1",
-                    "12:13-14",
-                    "27.</p"
+                    "12:13-14"
+                ],
+                "PERSON": [
+                    "Advent Calendar Resource"
                 ]
             }
         },
@@ -2659,8 +2863,10 @@
                 "PERSON": [
                     "Advent",
                     "Matthew 26:26-28",
-                    "Jesus",
-                    "blood!</p"
+                    "Jesus"
+                ],
+                "DATE": [
+                    "1517"
                 ]
             }
         },
@@ -2695,13 +2901,17 @@
                 ],
                 "PERSON": [
                     "Cindy",
-                    "Jesus"
+                    "Jesus",
+                    "Advent Calendar Resource"
                 ],
                 "NORP": [
                     "Romans"
                 ],
                 "ORG": [
                     "Christ"
+                ],
+                "DATE": [
+                    "1517"
                 ]
             }
         },
@@ -2733,12 +2943,14 @@
             "entities": {
                 "DATE": [
                     "today",
-                    "today"
+                    "today",
+                    "1517"
                 ],
                 "PERSON": [
                     "Jesus",
                     "Matthew 28:18-20",
-                    "Jesus"
+                    "Jesus",
+                    "Advent Calendar Resource"
                 ]
             }
         },
@@ -2770,7 +2982,11 @@
             "entities": {
                 "PERSON": [
                     "Jesus",
-                    "Matthew 16:24-27.</p"
+                    "Matthew 16:24-27",
+                    "Advent Calendar Resource"
+                ],
+                "DATE": [
+                    "1517"
                 ]
             }
         },
@@ -2810,6 +3026,9 @@
                 ],
                 "NORP": [
                     "Magi"
+                ],
+                "DATE": [
+                    "1517"
                 ]
             }
         },
@@ -2841,10 +3060,14 @@
             "entities": {
                 "PERSON": [
                     "Cindy",
-                    "Jesus"
+                    "Jesus",
+                    "Advent Calendar Resource"
                 ],
                 "LAW": [
                     "this Advent Devotion"
+                ],
+                "DATE": [
+                    "1517"
                 ]
             }
         },
@@ -2880,7 +3103,11 @@
                 "PERSON": [
                     "Luke",
                     "Son",
-                    "Jesus.</p"
+                    "Jesus",
+                    "Advent Calendar Resource"
+                ],
+                "DATE": [
+                    "1517"
                 ]
             }
         },
@@ -2914,11 +3141,13 @@
                     "first"
                 ],
                 "PERSON": [
-                    "Advent",
-                    "Advent Calendar</a></p"
+                    "Advent"
                 ],
                 "FAC": [
-                    "Luke 2:8-9.</p"
+                    "Luke 2:8-9"
+                ],
+                "DATE": [
+                    "1517"
                 ]
             }
         },
@@ -2953,13 +3182,17 @@
                     "the City of David"
                 ],
                 "PERSON": [
-                    "Luke"
+                    "Luke",
+                    "Advent Calendar Resource"
                 ],
                 "CARDINAL": [
                     "2:4"
                 ],
                 "EVENT": [
                     "this Advent Devotion"
+                ],
+                "DATE": [
+                    "1517"
                 ]
             }
         },
@@ -2990,14 +3223,17 @@
             "title": "The Sweetest Name",
             "entities": {
                 "DATE": [
-                    "Today"
+                    "Today",
+                    "1517"
                 ],
                 "ORG": [
                     "Advent Devotion",
                     "Cindy"
                 ],
                 "PERSON": [
-                    "Mary"
+                    "Mary",
+                    "Jesus",
+                    "Advent Calendar Resource"
                 ]
             }
         },
@@ -3029,13 +3265,15 @@
             "entities": {
                 "PERSON": [
                     "Discuss Psalm",
-                    "Jesus"
+                    "Jesus",
+                    "Advent Calendar Resource"
                 ],
                 "CARDINAL": [
                     "89:1"
                 ],
                 "DATE": [
-                    "today"
+                    "today",
+                    "1517"
                 ],
                 "ORG": [
                     "Advent Devotion"
@@ -3069,10 +3307,14 @@
             "title": "City of David",
             "entities": {
                 "PERSON": [
-                    "Jesus"
+                    "Jesus",
+                    "Advent Calendar  "
                 ],
                 "GPE": [
                     "the City of David"
+                ],
+                "DATE": [
+                    "1517"
                 ]
             }
         },
@@ -3102,56 +3344,21 @@
             "pubDate": "Sun, 08 Dec 2019 08:00:00 +0000",
             "title": "Spirit",
             "entities": {
-                "MONEY": [
-                    "000000",
-                    "000000",
-                    "000000",
-                    "000000",
-                    "000000"
-                ],
-                "NORP": [
-                    "sans&quot;,&quot;helvetica",
-                    "neue&quot;,sans",
-                    "sans&quot;,&quot;helvetica",
-                    "neue&quot;,sans",
-                    "sans&quot;,&quot;helvetica",
-                    "neue&quot;,sans",
-                    "sans&quot;,&quot;helvetica",
-                    "neue&quot;,sans",
-                    "sans&quot;,&quot;helvetica",
-                    "neue&quot;,sans"
-                ],
-                "ORDINAL": [
-                    "16px",
-                    "16px",
-                    "16px",
-                    "16px",
-                    "16px"
-                ],
-                "CARDINAL": [
-                    "400",
-                    "2",
-                    "400",
-                    "2",
-                    "400",
-                    "2",
-                    "400",
-                    "2",
-                    "400",
-                    "2"
-                ],
                 "PERSON": [
-                    "Join Cindy",
+                    "Cindy",
                     "Isaiah",
                     "Jesus",
-                    "Son of God.</p"
+                    "Son",
+                    "Advent Calendar  Resource Pages"
                 ],
                 "DATE": [
-                    "today"
+                    "today",
+                    "1517"
                 ],
                 "ORG": [
                     "Advent Devotion",
-                    "Spirit"
+                    "Spirit",
+                    "Podcast Network"
                 ]
             }
         },
@@ -3182,17 +3389,16 @@
             "title": "Light in the Darkness",
             "entities": {
                 "DATE": [
-                    "today"
+                    "today",
+                    "1517"
                 ],
                 "ORG": [
                     "Advent Devotion"
                 ],
                 "PERSON": [
                     "Isaiah",
-                    "Jesus"
-                ],
-                "GPE": [
-                    "the Gospel of John.</p"
+                    "Jesus",
+                    "Advent Calendar Resource"
                 ]
             }
         },
@@ -3229,6 +3435,9 @@
                     "Isaiah",
                     "Jesus",
                     "Immanuel"
+                ],
+                "DATE": [
+                    "1517"
                 ]
             }
         },
@@ -3259,7 +3468,8 @@
             "title": "The Ram",
             "entities": {
                 "DATE": [
-                    "today"
+                    "today",
+                    "1517"
                 ],
                 "ORG": [
                     "Advent Devotion",
@@ -3269,7 +3479,8 @@
                 "PERSON": [
                     "Cindy",
                     "Abraham",
-                    "Isaac"
+                    "Isaac",
+                    "Advent Calendar Resource"
                 ],
                 "CARDINAL": [
                     "22:8-18"
@@ -3303,7 +3514,8 @@
             "title": "Kids and Kings",
             "entities": {
                 "DATE": [
-                    "Today"
+                    "Today",
+                    "1517"
                 ],
                 "ORG": [
                     "Advent Devotion",
@@ -3312,7 +3524,8 @@
                 "PERSON": [
                     "Abraham",
                     "Cindy",
-                    "Jesus"
+                    "Jesus",
+                    "Advent Calendar Resource"
                 ]
             }
         },
@@ -3342,19 +3555,18 @@
             "pubDate": "Tue, 03 Dec 2019 08:00:00 +0000",
             "title": "A Rainbow Promise",
             "entities": {
-                "DATE": [
-                    "Today",
-                    "9:16"
-                ],
-                "GPE": [
-                    "Cindy"
+                "PERSON": [
+                    "Cindy",
+                    "Jesus Christ",
+                    "Advent Calendar Resource"
                 ],
                 "ORG": [
                     "Genesis",
                     "this Advent Devotion"
                 ],
-                "PERSON": [
-                    "Jesus Christ.</p"
+                "DATE": [
+                    "9:16",
+                    "1517"
                 ]
             }
         },
@@ -3387,6 +3599,13 @@
                 "ORG": [
                     "Advent Devotion",
                     "Genesis"
+                ],
+                "DATE": [
+                    "Christmas",
+                    "1517"
+                ],
+                "PERSON": [
+                    "Advent Calendar Resource"
                 ]
             }
         },
@@ -3466,11 +3685,10 @@
                     "Family Style Theology",
                     "Cindy",
                     "Jesus",
-                    "Jesus",
-                    "Advent Calendar</a></p"
+                    "Jesus"
                 ],
-                "WORK_OF_ART": [
-                    "\"noopener\">1517 Podcast"
+                "PRODUCT": [
+                    "Advent Calendar Resource"
                 ]
             }
         },
@@ -3500,112 +3718,21 @@
             "pubDate": "Fri, 30 Aug 2019 17:09:45 +0000",
             "title": "Baptism Episode 6: Worthy of Eternal Life",
             "entities": {
-                "MONEY": [
-                    "000000",
-                    "192930",
-                    "000000",
-                    "192930",
-                    "000000",
-                    "192930",
-                    "000000",
-                    "192930",
-                    "000000",
-                    "192930",
-                    "000000",
-                    "192930"
-                ],
-                "ORG": [
-                    "Verdana",
-                    "Verdana",
-                    "Verdana",
-                    "Verdana",
-                    "Verdana",
-                    "Verdana",
-                    "PDF Resource",
-                    "Verdana",
-                    "https://www.pinterest.com/familystyletheology/baptism/",
-                    "Verdana",
-                    "Verdana",
-                    "Verdana",
-                    "Verdana",
-                    "Verdana"
-                ],
-                "GPE": [
-                    "Arial",
-                    "Arial",
-                    "Arial",
-                    "Arial",
-                    "Arial",
-                    "Arial",
-                    "Arial",
-                    "Arial",
-                    "Arial",
-                    "Arial",
-                    "Arial",
-                    "Arial"
+                "CARDINAL": [
+                    "six"
                 ],
                 "PERSON": [
-                    "Helvetica",
-                    "Helvetica",
-                    "Martin Luther\u2019s Flood Prayer",
-                    "Helvetica",
-                    "Helvetica",
-                    "Helvetica",
-                    "Helvetica",
-                    "Helvetica",
-                    "Helvetica",
-                    "Helvetica",
-                    "Helvetica",
-                    "Helvetica",
-                    "Helvetica"
-                ],
-                "ORDINAL": [
-                    "14px",
-                    "18px",
-                    "14px",
-                    "18px",
-                    "14px",
-                    "14px",
-                    "14px",
-                    "14px"
-                ],
-                "CARDINAL": [
-                    "400",
-                    "2",
-                    "400",
-                    "2",
-                    "six",
-                    "22.</span></p",
-                    "400",
-                    "2",
-                    "400",
-                    "2",
-                    "400",
-                    "2",
-                    "18px;\"><a",
-                    "400",
-                    "2",
-                    "400",
-                    "2",
-                    "18px;\"><a",
-                    "400",
-                    "2",
-                    "400",
-                    "2",
-                    "18px;\"><a",
-                    "400",
-                    "2",
-                    "400",
-                    "2",
-                    "18px;\"><a",
-                    "400",
-                    "2"
+                    "Martin Luther\u2019s Flood Prayer"
                 ],
                 "LAW": [
                     "Revelation 21"
                 ],
-                "WORK_OF_ART": [
-                    "noopener\"><span"
+                "DATE": [
+                    "22"
+                ],
+                "ORG": [
+                    "PDF Resource Pages",
+                    "Crafts"
                 ]
             }
         },
@@ -3635,108 +3762,15 @@
             "pubDate": "Fri, 30 Aug 2019 16:54:18 +0000",
             "title": "Baptism Episode 5: Safe and Secure",
             "entities": {
-                "MONEY": [
-                    "000000",
-                    "192930",
-                    "000000",
-                    "192930",
-                    "000000",
-                    "192930",
-                    "000000",
-                    "192930",
-                    "000000",
-                    "192930",
-                    "000000",
-                    "192930"
-                ],
-                "ORG": [
-                    "Verdana",
-                    "Verdana",
-                    "Verdana",
-                    "Verdana",
-                    "Verdana",
-                    "Verdana",
-                    "PDF Resource",
-                    "Verdana",
-                    "https://www.pinterest.com/familystyletheology/baptism/",
-                    "Verdana",
-                    "Verdana",
-                    "Verdana",
-                    "Verdana",
-                    "Verdana"
-                ],
-                "GPE": [
-                    "Arial",
-                    "Arial",
-                    "Arial",
-                    "Arial",
-                    "Arial",
-                    "Arial",
-                    "Arial",
-                    "Arial",
-                    "Arial",
-                    "Arial",
-                    "Arial",
-                    "Arial"
+                "CARDINAL": [
+                    "six"
                 ],
                 "PERSON": [
-                    "Helvetica",
-                    "Helvetica",
-                    "Martin Luther\u2019s Flood Prayer",
-                    "Helvetica",
-                    "Helvetica",
-                    "Helvetica",
-                    "Helvetica",
-                    "Helvetica",
-                    "Helvetica",
-                    "Helvetica",
-                    "Helvetica",
-                    "Helvetica",
-                    "Helvetica"
+                    "Martin Luther\u2019s Flood Prayer"
                 ],
-                "ORDINAL": [
-                    "14px",
-                    "18px",
-                    "14px",
-                    "18px",
-                    "14px",
-                    "14px",
-                    "14px",
-                    "14px"
-                ],
-                "CARDINAL": [
-                    "400",
-                    "2",
-                    "400",
-                    "2",
-                    "six",
-                    "400",
-                    "2",
-                    "400",
-                    "2",
-                    "400",
-                    "2",
-                    "18px;\"><a",
-                    "400",
-                    "2",
-                    "400",
-                    "2",
-                    "18px;\"><a",
-                    "400",
-                    "2",
-                    "400",
-                    "2",
-                    "18px;\"><a",
-                    "400",
-                    "2",
-                    "400",
-                    "2",
-                    "18px;\"><a",
-                    "400",
-                    "2"
-                ],
-                "WORK_OF_ART": [
-                    "noopener\"><span"
+                "ORG": [
+                    "PDF Resource Pages",
+                    "Crafts"
                 ]
             }
         },
@@ -3766,118 +3800,28 @@
             "pubDate": "Fri, 30 Aug 2019 16:46:54 +0000",
             "title": "Baptism Episode 4: For You",
             "entities": {
-                "MONEY": [
-                    "000000",
-                    "192930",
-                    "000000",
-                    "192930",
-                    "000000",
-                    "192930",
-                    "000000",
-                    "192930",
-                    "000000",
-                    "192930",
-                    "000000",
-                    "192930"
-                ],
-                "ORG": [
-                    "Verdana",
-                    "Verdana",
-                    "Genesis",
-                    "Verdana",
-                    "Verdana",
-                    "Verdana",
-                    "Verdana",
-                    "PDF Resource",
-                    "Verdana",
-                    "https://www.pinterest.com/familystyletheology/baptism/",
-                    "Verdana",
-                    "Verdana",
-                    "Verdana",
-                    "Verdana",
-                    "Verdana"
-                ],
-                "GPE": [
-                    "Arial",
-                    "Arial",
-                    "Psalm",
-                    "Arial",
-                    "Arial",
-                    "Arial",
-                    "Arial",
-                    "Arial",
-                    "Arial",
-                    "Arial",
-                    "Arial",
-                    "Arial",
-                    "Arial"
+                "CARDINAL": [
+                    "six"
                 ],
                 "PERSON": [
-                    "Helvetica",
-                    "Helvetica",
-                    "Martin Luther\u2019s Flood Prayer",
-                    "Helvetica",
-                    "Helvetica",
-                    "Helvetica",
-                    "Helvetica",
-                    "Helvetica",
-                    "Helvetica",
-                    "Helvetica",
-                    "Helvetica",
-                    "Helvetica",
-                    "Helvetica"
+                    "Martin Luther\u2019s Flood Prayer"
                 ],
                 "ORDINAL": [
-                    "14px",
-                    "18px",
-                    "first",
-                    "14px",
-                    "18px",
-                    "14px",
-                    "14px",
-                    "14px",
-                    "14px"
+                    "first"
                 ],
-                "CARDINAL": [
-                    "400",
-                    "2",
-                    "400",
-                    "2",
-                    "six",
-                    "6.</span></p",
-                    "400",
-                    "2",
-                    "400",
-                    "2",
-                    "400",
-                    "2",
-                    "18px;\"><a",
-                    "400",
-                    "2",
-                    "400",
-                    "2",
-                    "18px;\"><a",
-                    "400",
-                    "2",
-                    "400",
-                    "2",
-                    "18px;\"><a",
-                    "400",
-                    "2",
-                    "400",
-                    "2",
-                    "18px;\"><a",
-                    "400",
-                    "2"
+                "ORG": [
+                    "Genesis",
+                    "PDF Resource Pages",
+                    "Crafts"
+                ],
+                "GPE": [
+                    "Psalm"
                 ],
                 "DATE": [
                     "51"
                 ],
                 "NORP": [
                     "Romans"
-                ],
-                "WORK_OF_ART": [
-                    "noopener\"><span"
                 ]
             }
         },
@@ -3907,67 +3851,17 @@
             "pubDate": "Fri, 30 Aug 2019 16:43:23 +0000",
             "title": "Baptism Episode 3:  Washing Away Sin",
             "entities": {
-                "MONEY": [
-                    "192930",
-                    "192930",
-                    "192930",
-                    "192930",
-                    "192930",
-                    "192930"
-                ],
-                "ORG": [
-                    "Verdana",
-                    "Verdana",
-                    "Verdana",
-                    "PDF Resource",
-                    "https://www.pinterest.com/familystyletheology/baptism/",
-                    "Verdana",
-                    "Verdana",
-                    "Verdana"
-                ],
-                "GPE": [
-                    "Arial",
-                    "Arial",
-                    "Arial",
-                    "Arial",
-                    "Arial",
-                    "Arial"
+                "CARDINAL": [
+                    "six"
                 ],
                 "PERSON": [
-                    "Helvetica",
                     "Martin Luther\u2019s Flood Prayer",
-                    "Jesus",
-                    "Helvetica",
-                    "Helvetica",
-                    "Helvetica",
-                    "Helvetica",
-                    "Helvetica"
+                    "Jesus"
                 ],
-                "ORDINAL": [
-                    "18px",
-                    "18px"
-                ],
-                "CARDINAL": [
-                    "400",
-                    "2",
-                    "six",
-                    "400",
-                    "2",
-                    "18px;\"><a",
-                    "400",
-                    "2",
-                    "18px;\"><a",
-                    "400",
-                    "2",
-                    "18px;\"><a",
-                    "400",
-                    "2",
-                    "18px;\"><a",
-                    "400",
-                    "2"
-                ],
-                "WORK_OF_ART": [
-                    "noopener\"><span"
+                "ORG": [
+                    "PDF Resource Pages",
+                    "Crafts",
+                    "www.1517.org"
                 ]
             }
         },
@@ -3997,54 +3891,12 @@
             "pubDate": "Fri, 30 Aug 2019 16:40:39 +0000",
             "title": "Baptism Episode 2: Salvation",
             "entities": {
-                "MONEY": [
-                    "192930",
-                    "192930",
-                    "000000",
-                    "000000",
-                    "000000",
-                    "000000",
-                    "000000",
-                    "000000",
-                    "000000",
-                    "000000",
-                    "192930",
-                    "192930"
-                ],
-                "NORP": [
-                    "karla&quot;,sans",
-                    "karla&quot;,sans",
-                    "karla&quot;,sans",
-                    "karla&quot;,sans"
-                ],
-                "ORDINAL": [
-                    "18px",
-                    "18px",
-                    "18px",
-                    "18px"
-                ],
                 "CARDINAL": [
-                    "400",
-                    "2",
-                    "six",
-                    "400",
-                    "2",
-                    "18px;\"><a",
-                    "400",
-                    "2",
-                    "18px;\"><a",
-                    "400",
-                    "2",
-                    "400",
-                    "2",
-                    "400",
-                    "2"
+                    "six"
                 ],
                 "PERSON": [
                     "Martin Luther\u2019s Flood Prayer",
-                    "Exodus",
-                    "large;\"><a",
-                    "large;\"><a"
+                    "Exodus"
                 ],
                 "LOC": [
                     "the Red Sea"
@@ -4053,11 +3905,7 @@
                     "Bible Story"
                 ],
                 "ORG": [
-                    "PDF Resource",
-                    "https://www.pinterest.com/familystyletheology/baptism/"
-                ],
-                "PRODUCT": [
-                    "href=\"https://familystyletheology.com/"
+                    "PDF Resource Pages"
                 ]
             }
         },
@@ -4087,57 +3935,21 @@
             "pubDate": "Fri, 30 Aug 2019 16:35:28 +0000",
             "title": "Baptism Episode 1: Luther's Flood Prayer",
             "entities": {
-                "MONEY": [
-                    "192930",
-                    "000000",
-                    "000000",
-                    "000000",
-                    "000000",
-                    "000000",
-                    "000000",
-                    "000000",
-                    "000000",
-                    "000000",
-                    "005000"
-                ],
-                "ORDINAL": [
-                    "18px",
-                    "18px"
-                ],
                 "CARDINAL": [
-                    "400",
-                    "2",
-                    "six",
-                    "400",
-                    "2",
-                    "18px;\"><a",
-                    "400",
-                    "2",
-                    "18px;\"><a",
-                    "400",
-                    "2",
-                    "18px;\"><a",
-                    "400",
-                    "2",
-                    "18px;\"><a",
-                    "400",
-                    "2"
+                    "six"
                 ],
                 "PERSON": [
                     "Martin Luther\u2019s Flood Prayer",
                     "Noah"
                 ],
                 "WORK_OF_ART": [
-                    "Bible",
-                    "noopener\"><span"
+                    "Bible"
                 ],
                 "ORG": [
                     "the Flood in Genesis",
-                    "PDF Resource",
-                    "https://www.pinterest.com/familystyletheology/baptism/"
-                ],
-                "PRODUCT": [
-                    "href=\"https://familystyletheology.com/"
+                    "PDF Resource Pages",
+                    "Crafts",
+                    "www.1517.org"
                 ]
             }
         },
@@ -4167,51 +3979,27 @@
             "pubDate": "Wed, 24 Apr 2019 04:17:01 +0000",
             "title": "Fairy Tales: Lion King",
             "entities": {
-                "MONEY": [
-                    "000000",
-                    "000000",
-                    "000000"
-                ],
-                "ORG": [
-                    "Verdana",
-                    "the Lion King",
-                    "Verdana",
-                    "Verdana",
-                    "rel=\"noopener\">Fairy Tales Resource",
-                    "noopener\">1517 Podcast"
-                ],
-                "GPE": [
-                    "Arial",
-                    "Christ",
-                    "Arial",
-                    "Arial"
-                ],
                 "PERSON": [
-                    "Helvetica",
                     "Cindy Koch",
                     "J.R.R. Tolkien",
-                    "Jesus Christ.</span></p",
-                    "Helvetica",
-                    "Resources:</strong></p",
-                    "Helvetica"
-                ],
-                "ORDINAL": [
-                    "14px",
-                    "14px",
-                    "14px"
+                    "J.R.R. Tolkein"
                 ],
                 "CARDINAL": [
-                    "400",
-                    "2",
-                    "#",
-                    "six",
-                    "400",
-                    "2",
-                    "400",
-                    "2"
+                    "six"
+                ],
+                "ORG": [
+                    "the Lion King",
+                    "Fairy Tales Resource Pages",
+                    "Podcast Network"
+                ],
+                "GPE": [
+                    "Christ"
                 ],
                 "WORK_OF_ART": [
                     "On Fairy Stories"
+                ],
+                "DATE": [
+                    "1517"
                 ]
             }
         },
@@ -4241,54 +4029,30 @@
             "pubDate": "Wed, 24 Apr 2019 04:15:32 +0000",
             "title": "Fairy Tales: Jack and the Beanstalk",
             "entities": {
-                "MONEY": [
-                    "000000",
-                    "000000",
-                    "000000"
-                ],
-                "ORG": [
-                    "Verdana",
-                    "Verdana",
-                    "Verdana",
-                    "rel=\"noopener\">Fairy Tales Resource",
-                    "noopener\">1517 Podcast"
-                ],
-                "GPE": [
-                    "Arial",
-                    "Kingdom",
-                    "Arial",
-                    "Arial"
-                ],
                 "PERSON": [
-                    "Helvetica",
                     "Cindy Koch",
                     "Jack",
                     "Beanstalk",
                     "David",
                     "Goliath",
                     "J.R.R. Tolkien",
-                    "Jesus Christ.</span></p",
-                    "Helvetica",
-                    "Resources:</strong></p",
-                    "Helvetica"
-                ],
-                "ORDINAL": [
-                    "14px",
-                    "14px",
-                    "14px"
+                    "J.R.R. Tolkein"
                 ],
                 "CARDINAL": [
-                    "400",
-                    "2",
-                    "#",
-                    "six",
-                    "400",
-                    "2",
-                    "400",
-                    "2"
+                    "six"
+                ],
+                "GPE": [
+                    "Kingdom"
                 ],
                 "WORK_OF_ART": [
                     "On Fairy Stories"
+                ],
+                "ORG": [
+                    "Fairy Tales Resource Pages",
+                    "Podcast Network"
+                ],
+                "DATE": [
+                    "1517"
                 ]
             }
         },
@@ -4318,50 +4082,24 @@
             "pubDate": "Wed, 24 Apr 2019 04:13:33 +0000",
             "title": "Fairy Tales: Cinderella",
             "entities": {
-                "MONEY": [
-                    "000000",
-                    "000000",
-                    "000000"
-                ],
-                "ORG": [
-                    "Verdana",
-                    "Verdana",
-                    "Verdana",
-                    "rel=\"noopener\">Fairy Tales Resource",
-                    "noopener\">1517 Podcast"
-                ],
-                "GPE": [
-                    "Arial",
-                    "Arial",
-                    "Arial"
-                ],
                 "PERSON": [
-                    "Helvetica",
                     "Cindy Koch",
                     "Cinderella",
                     "J.R.R. Tolkien",
-                    "Jesus Christ.</span></p",
-                    "Helvetica",
-                    "Resources:</strong></p",
-                    "Helvetica"
-                ],
-                "ORDINAL": [
-                    "14px",
-                    "14px",
-                    "14px"
+                    "J.R.R. Tolkein"
                 ],
                 "CARDINAL": [
-                    "400",
-                    "2",
-                    "#",
-                    "six",
-                    "400",
-                    "2",
-                    "400",
-                    "2"
+                    "six"
                 ],
                 "WORK_OF_ART": [
                     "On Fairy Stories"
+                ],
+                "ORG": [
+                    "Fairy Tales Resource Pages",
+                    "Podcast Network"
+                ],
+                "DATE": [
+                    "1517"
                 ]
             }
         },
@@ -4391,51 +4129,25 @@
             "pubDate": "Wed, 24 Apr 2019 04:11:44 +0000",
             "title": "Fairy Tales: The Little Mermaid",
             "entities": {
-                "MONEY": [
-                    "000000",
-                    "000000",
-                    "000000"
-                ],
-                "ORG": [
-                    "Verdana",
-                    "Christ",
-                    "Verdana",
-                    "Verdana",
-                    "rel=\"noopener\">Fairy Tales Resource",
-                    "noopener\">1517 Podcast"
-                ],
-                "GPE": [
-                    "Arial",
-                    "Arial",
-                    "Arial"
-                ],
                 "PERSON": [
-                    "Helvetica",
                     "Cindy Koch",
                     "J.R.R. Tolkien",
-                    "Jesus Christ.</span></p",
-                    "Helvetica",
-                    "Resources:</strong></p",
-                    "Helvetica"
-                ],
-                "ORDINAL": [
-                    "14px",
-                    "14px",
-                    "14px"
+                    "J.R.R. Tolkein"
                 ],
                 "CARDINAL": [
-                    "400",
-                    "2",
-                    "#",
-                    "six",
-                    "400",
-                    "2",
-                    "400",
-                    "2"
+                    "six"
                 ],
                 "WORK_OF_ART": [
                     "The Little Mermaid",
                     "On Fairy Stories"
+                ],
+                "ORG": [
+                    "Christ",
+                    "Fairy Tales Resource Pages",
+                    "Podcast Network"
+                ],
+                "DATE": [
+                    "1517"
                 ]
             }
         },
@@ -4467,24 +4179,24 @@
             "entities": {
                 "PERSON": [
                     "Cindy Koch",
-                    "J.R.R. Tolkien",
-                    "Jesus Christ.</span></p"
+                    "J.R.R. Tolkien"
                 ],
                 "CARDINAL": [
-                    "#",
                     "six"
                 ],
                 "GPE": [
                     "Pinocchio",
-                    "noopener\"><span"
+                    "Tolkien"
                 ],
                 "WORK_OF_ART": [
-                    "On Fairy Stories"
+                    "On Fairy Stories",
+                    "Fairy Story Resource Pages"
                 ],
-                "MONEY": [
-                    "#ffffff;\">Fairy Story Resource",
-                    "#ffffff;\">\"On Fairy Stories",
-                    "ffffff;\">1517"
+                "DATE": [
+                    "1517"
+                ],
+                "ORG": [
+                    "Podcast Network"
                 ]
             }
         },
@@ -4514,36 +4226,24 @@
             "pubDate": "Wed, 24 Apr 2019 04:07:16 +0000",
             "title": "Fairy Tales: Snow White",
             "entities": {
-                "MONEY": [
-                    "000000"
-                ],
-                "ORG": [
-                    "Verdana",
-                    "Snow White",
-                    "rel=\"noopener\">Fairy Tales Resource",
-                    "noopener\">1517 Podcast"
-                ],
-                "GPE": [
-                    "Arial"
-                ],
                 "PERSON": [
-                    "Helvetica",
                     "Cindy Koch",
                     "J.R.R. Tolkien",
-                    "Jesus Christ.</span></p",
-                    "Resources:</strong></p"
-                ],
-                "ORDINAL": [
-                    "14px"
+                    "J.R.R. Tolkein"
                 ],
                 "CARDINAL": [
-                    "400",
-                    "2",
-                    "#",
                     "six"
+                ],
+                "ORG": [
+                    "Snow White",
+                    "Fairy Tales Resource Pages",
+                    "Podcast Network"
                 ],
                 "WORK_OF_ART": [
                     "On Fairy Stories"
+                ],
+                "DATE": [
+                    "1517"
                 ]
             }
         },
@@ -4573,21 +4273,13 @@
             "pubDate": "Thu, 17 Jan 2019 04:19:54 +0000",
             "title": "Daughter: Happily Ever... Now!",
             "entities": {
+                "PERSON": [
+                    "Family Style Theology",
+                    "Daughter",
+                    "Daughter: Our Story Remembered  Study Worksheets"
+                ],
                 "CARDINAL": [
-                    "0px 0px",
-                    "10.66px;\"><span",
-                    "13",
-                    "0px 0px",
-                    "0px 0px",
-                    "10.66px;\"><span",
-                    "0px 0px",
-                    "10.66px;\"><a",
-                    "0px 0px",
-                    "10.66px;\"><a",
-                    "0px 0px",
-                    "10.66px;\"><a",
-                    "0px 0px",
-                    "10.66px;\"><a"
+                    "13"
                 ],
                 "WORK_OF_ART": [
                     "Bible"
@@ -4596,7 +4288,8 @@
                     "Revelation 21"
                 ],
                 "DATE": [
-                    "22"
+                    "22",
+                    "1517"
                 ],
                 "FAC": [
                     "the Garden of Eden"
@@ -4604,8 +4297,8 @@
                 "LOC": [
                     "the New Earth"
                 ],
-                "PERSON": [
-                    "Podcast Network</span></a></p"
+                "ORG": [
+                    "Podcast Network"
                 ]
             }
         },
@@ -4635,29 +4328,24 @@
             "pubDate": "Thu, 17 Jan 2019 04:17:44 +0000",
             "title": "Daughter: Something's Not Right",
             "entities": {
-                "CARDINAL": [
-                    "0px 0px",
-                    "10.66px;\"><span",
-                    "13",
-                    "0px 0px",
-                    "0px 0px",
-                    "10.66px;\"><span",
-                    "0px 0px",
-                    "10.66px;\"><a",
-                    "0px 0px",
-                    "10.66px;\"><a",
-                    "0px 0px",
-                    "10.66px;\"><a",
-                    "0px 0px",
-                    "10.66px;\"><a"
-                ],
                 "PERSON": [
+                    "Family Style Theology",
+                    "Daughter",
                     "Sarah",
                     "Mary",
-                    "Podcast Network</span></a></p"
+                    "Daughter: Our Story Remembered  Study Worksheets"
+                ],
+                "CARDINAL": [
+                    "13"
                 ],
                 "WORK_OF_ART": [
                     "Bible"
+                ],
+                "DATE": [
+                    "1517"
+                ],
+                "ORG": [
+                    "Podcast Network"
                 ]
             }
         },
@@ -4687,27 +4375,13 @@
             "pubDate": "Thu, 17 Jan 2019 04:14:34 +0000",
             "title": "Daughter: Look in the Mirror?",
             "entities": {
-                "CARDINAL": [
-                    "0px 0px",
-                    "10.66px;\"><span",
-                    "13",
-                    "0px 0px",
-                    "10.66px;\"><span",
-                    "0px 0px",
-                    "10.66px;\"><span",
-                    "0px 0px",
-                    "10.66px;\"><a",
-                    "0px 0px",
-                    "10.66px;\"><a",
-                    "0px 0px",
-                    "10.66px;\"><a",
-                    "0px 0px",
-                    "10.66px;\"><a"
-                ],
                 "PERSON": [
-                    "Calibri;\"><a name=\"_Hlk535437157\"></a",
                     "Family Style Theology",
-                    "Podcast Network</span></a></p"
+                    "Daughter",
+                    "Daughter: Our Story Remembered  Study Worksheets"
+                ],
+                "CARDINAL": [
+                    "13"
                 ],
                 "WORK_OF_ART": [
                     "Bible",
@@ -4715,6 +4389,12 @@
                 ],
                 "NORP": [
                     "Romans"
+                ],
+                "DATE": [
+                    "1517"
+                ],
+                "ORG": [
+                    "Podcast Network"
                 ]
             }
         },
@@ -4744,28 +4424,24 @@
             "pubDate": "Thu, 17 Jan 2019 04:12:21 +0000",
             "title": "Daughter: Unexpected Bride",
             "entities": {
-                "CARDINAL": [
-                    "0px 0px",
-                    "10.66px;\"><span",
-                    "13",
-                    "0px 0px",
-                    "0px 0px",
-                    "10.66px;\"><span",
-                    "0px 0px",
-                    "10.66px;\"><a",
-                    "0px 0px",
-                    "10.66px;\"><a",
-                    "0px 0px",
-                    "10.66px;\"><a",
-                    "0px 0px",
-                    "10.66px;\"><a"
-                ],
                 "PERSON": [
+                    "Family Style Theology",
+                    "Daughter",
                     "Proverbs",
-                    "Podcast Network</span></a></p"
+                    "Daughter: Our Story Remembered  Study Worksheets"
+                ],
+                "CARDINAL": [
+                    "13"
                 ],
                 "WORK_OF_ART": [
                     "Bible"
+                ],
+                "ORG": [
+                    "the Old Testament",
+                    "Podcast Network"
+                ],
+                "DATE": [
+                    "1517"
                 ]
             }
         },
@@ -4795,37 +4471,25 @@
             "pubDate": "Thu, 17 Jan 2019 04:09:38 +0000",
             "title": "Daughter: A New Name",
             "entities": {
-                "CARDINAL": [
-                    "0px 0px",
-                    "10.66px;\"><span",
-                    "13",
-                    "3",
-                    "0px 0px",
-                    "10.66px;\"><span",
-                    "0px 0px",
-                    "10.66px;\"><span",
-                    "0px 0px",
-                    "10.66px;\"><a",
-                    "0px 0px",
-                    "10.66px;\"><a",
-                    "0px 0px",
-                    "10.66px;\"><a",
-                    "0px 0px",
-                    "10.66px;\"><a"
-                ],
                 "PERSON": [
-                    "Calibri;\"><a name=\"_Hlk535436297\"></a",
                     "Family Style Theology",
-                    "Podcast Network</span></a></p"
+                    "Daughter",
+                    "Daughter: Our Story Remembered  Study Worksheets"
+                ],
+                "CARDINAL": [
+                    "13",
+                    "3"
                 ],
                 "WORK_OF_ART": [
                     "Bible"
                 ],
                 "ORG": [
-                    "Genesis"
+                    "Genesis",
+                    "Podcast Network"
                 ],
                 "DATE": [
-                    "today"
+                    "today",
+                    "1517"
                 ]
             }
         },
@@ -4855,21 +4519,14 @@
             "pubDate": "Thu, 17 Jan 2019 04:06:21 +0000",
             "title": "Daughter: World of Doubt",
             "entities": {
+                "PERSON": [
+                    "Family Style Theology",
+                    "Daughter",
+                    "Daughter: Our Story Remembered  Study Worksheets"
+                ],
                 "CARDINAL": [
-                    "0px 0px",
-                    "10.66px;\"><span",
                     "13",
-                    "0px 0px",
-                    "0px 0px",
-                    "10.66px;\"><span",
-                    "0px 0px",
-                    "10.66px;\"><a",
-                    "0px 0px",
-                    "10.66px;\"><a",
-                    "0px 0px",
-                    "10.66px;\"><a",
-                    "0px 0px",
-                    "10.66px;\"><a"
+                    "3"
                 ],
                 "WORK_OF_ART": [
                     "Bible"
@@ -4878,10 +4535,11 @@
                     "first"
                 ],
                 "ORG": [
-                    "Genesis"
+                    "Genesis",
+                    "Podcast Network"
                 ],
-                "PERSON": [
-                    "Podcast Network</span></a></p"
+                "DATE": [
+                    "1517"
                 ]
             }
         },
@@ -4911,33 +4569,26 @@
             "pubDate": "Thu, 17 Jan 2019 04:02:26 +0000",
             "title": "Daughter: A Beautiful Creation",
             "entities": {
+                "PERSON": [
+                    "Family Style Theology",
+                    "Daughter",
+                    "Daughter: Our Story Remembered  Study Worksheets"
+                ],
                 "CARDINAL": [
-                    "0px 0px",
-                    "10.66px;\"><span",
-                    "13",
-                    "0px 0px",
-                    "0px 0px",
-                    "10.66px;\"><span",
-                    "0px 0px",
-                    "10.66px;\"><a",
-                    "0px 0px",
-                    "10.66px;\"><a",
-                    "0px 0px",
-                    "10.66px;\"><a",
-                    "0px 0px",
-                    "10.66px;\"><a"
+                    "13"
                 ],
                 "DATE": [
-                    "Today"
+                    "Today",
+                    "1517"
                 ],
                 "WORK_OF_ART": [
                     "Bible"
                 ],
                 "LAW": [
-                    "Genesis 1"
+                    "Genesis 1 and"
                 ],
-                "PERSON": [
-                    "Podcast Network</span></a></p"
+                "ORG": [
+                    "Podcast Network"
                 ]
             }
         },
@@ -4967,36 +4618,29 @@
             "pubDate": "Tue, 15 Jan 2019 04:24:29 +0000",
             "title": "Daughter: What is Your Story?",
             "entities": {
+                "PERSON": [
+                    "Family Style Theology",
+                    "Daughter",
+                    "John 1.",
+                    "Daughter: Our Story Remembered\u00a0  Study Worksheets"
+                ],
                 "CARDINAL": [
-                    "0px 0px",
-                    "10.66px;\"><span",
                     "13",
                     "1",
-                    "139",
-                    "0px 0px",
-                    "0px 0px",
-                    "10.66px;\"><span",
-                    "0px 0px",
-                    "10.66px;\"><a",
-                    "0px 0px",
-                    "10.66px;\"><a",
-                    "0px 0px",
-                    "10.66px;\"><a",
-                    "0px 0px",
-                    "10.66px;\"><a"
+                    "139"
                 ],
                 "WORK_OF_ART": [
                     "Bible"
                 ],
                 "ORG": [
-                    "Genesis"
+                    "Genesis",
+                    "Podcast Network"
                 ],
                 "GPE": [
                     "Psalm"
                 ],
-                "PERSON": [
-                    "John 1.</span></p",
-                    "Podcast Network</span></a></p"
+                "DATE": [
+                    "1517"
                 ]
             }
         },
@@ -5073,6 +4717,9 @@
                 ],
                 "ORDINAL": [
                     "first"
+                ],
+                "DATE": [
+                    "today"
                 ]
             }
         },
@@ -5227,9 +4874,6 @@
                 ],
                 "PERSON": [
                     "Cindy"
-                ],
-                "ORDINAL": [
-                    "First"
                 ]
             }
         },

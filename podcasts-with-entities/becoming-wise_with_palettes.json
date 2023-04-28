@@ -39,7 +39,11 @@
             "title": "What did you love? What would you like to hear?",
             "entities": {
                 "CARDINAL": [
-                    "two"
+                    "two",
+                    "three"
+                ],
+                "ORG": [
+                    "Becoming Wise"
                 ],
                 "DATE": [
                     "these months",
@@ -76,27 +80,24 @@
             "pubDate": "Mon, 8 Jul 2019 05:30:06 +0000",
             "title": "Releasing Anger as an Act of Self-Compassion | Sharon Salzberg and Robert Thurman",
             "entities": {
-                "ORG": [
-                    "Anger",
-                    "the Insight Meditation Society"
+                "DATE": [
+                    "season two"
                 ],
                 "PERSON": [
-                    "Sharon Salzberg",
-                    "Robert Thurman",
                     "Robert Thurman",
                     "Sharon Salzberg",
+                    "Salzberg",
                     "Sharon Salzberg",
                     "Barre",
                     "Robert Thurman"
                 ],
-                "DATE": [
-                    "season two"
-                ],
                 "NORP": [
                     "American"
                 ],
+                "ORG": [
+                    "the Insight Meditation Society"
+                ],
                 "GPE": [
-                    "Salzberg",
                     "Massachusetts",
                     "Tibet",
                     "U.S."
@@ -144,7 +145,6 @@
             "title": "Healing Through Story | Desmond Tutu",
             "entities": {
                 "PERSON": [
-                    "Through Story",
                     "Desmond Tutu",
                     "Desmond Tutu"
                 ],
@@ -199,14 +199,7 @@
             "pubDate": "Mon, 24 Jun 2019 05:30:32 +0000",
             "title": "The Daily Opportunity in Randomness | Leonard Mlodinow",
             "entities": {
-                "WORK_OF_ART": [
-                    "alt=\"The Daily Opportunity",
-                    "The Drunkard\u2019s Walk: How Randomness Rules Our Lives",
-                    "Subliminal: How Your Unconscious Mind Rules Your Behavior",
-                    "Elastic: Flexible Thinking in a Constantly Changing World"
-                ],
                 "PERSON": [
-                    "Leonard Mlodinow",
                     "Leonard Mlodinow",
                     "Einstein",
                     "Leonard Mlodinow"
@@ -216,6 +209,11 @@
                 ],
                 "EVENT": [
                     "Holocaust"
+                ],
+                "WORK_OF_ART": [
+                    "The Drunkard\u2019s Walk: How Randomness Rules Our Lives",
+                    "Subliminal: How Your Unconscious Mind Rules Your Behavior",
+                    "Elastic: Flexible Thinking in a Constantly Changing World"
                 ]
             }
         },
@@ -248,12 +246,9 @@
             "pubDate": "Mon, 17 Jun 2019 05:30:24 +0000",
             "title": "The Inner Life of Social Change | Ruby Sales",
             "entities": {
-                "CARDINAL": [
-                    "one"
-                ],
                 "ORG": [
                     "the Spirit House Project",
-                    "the Equal Justice Initiative\u2019s"
+                    "the Equal Justice Initiative\u2019s Legacy Museum"
                 ]
             }
         },
@@ -289,8 +284,6 @@
                 "PERSON": [
                     "Terry Tempest",
                     "Williams",
-                    "Terry Tempest",
-                    "Williams",
                     "Williams",
                     "Williams"
                 ],
@@ -303,7 +296,7 @@
                 "WORK_OF_ART": [
                     "When Women Were Birds",
                     "Refuge: An Unnatural History of Family and Place",
-                    "The Hour of Land: A Personal Topography of America\u2019s"
+                    "The Hour of Land: A Personal Topography of America\u2019s National Parks"
                 ],
                 "CARDINAL": [
                     "Fifty-four"
@@ -340,7 +333,6 @@
             "title": "Who We\u2019re Called to Become | James Martin",
             "entities": {
                 "PERSON": [
-                    "James Martin",
                     "James Martin",
                     "James Martin",
                     "Humor",
@@ -391,14 +383,13 @@
             "pubDate": "Mon, 27 May 2019 05:30:38 +0000",
             "title": "Happiness Is Practice, Not Pleasure | Matthieu Ricard",
             "entities": {
-                "PERSON": [
-                    "Matthieu Ricard",
-                    "Matthieu Ricard"
-                ],
                 "NORP": [
                     "French",
                     "Tibetan",
                     "Buddhist"
+                ],
+                "ORG": [
+                    "Ricard"
                 ],
                 "WORK_OF_ART": [
                     "Altruism: The Power of Compassion to Change Yourself and the World"
@@ -434,11 +425,7 @@
             "pubDate": "Mon, 20 May 2019 05:30:10 +0000",
             "title": "A Planetary Sense of Love | Natalie Batalha",
             "entities": {
-                "WORK_OF_ART": [
-                    "alt=\"A Planetary Sense of Love"
-                ],
                 "PERSON": [
-                    "Natalie Batalha",
                     "Astronomer Natalie Batalha",
                     "Natalie Batalha"
                 ],
@@ -451,7 +438,7 @@
                     "Santa Cruz"
                 ],
                 "DATE": [
-                    "2011"
+                    "2011 to 2017"
                 ]
             }
         },
@@ -485,7 +472,6 @@
             "title": "Our Lives Can Be Signposts for What's Possible | Vincent Harding",
             "entities": {
                 "PERSON": [
-                    "Vincent Harding",
                     "Martin Luther King",
                     "Vincent Harding",
                     "Vincent Harding"
@@ -495,7 +481,7 @@
                 ],
                 "WORK_OF_ART": [
                     "Hope and History:",
-                    "Is America Possible?\u201d</p"
+                    "Is America Possible"
                 ]
             }
         },
@@ -528,27 +514,23 @@
             "pubDate": "Mon, 6 May 2019 05:30:09 +0000",
             "title": "Art and Justice Work Together | Rami Nashashibi",
             "entities": {
-                "PERSON": [
-                    "Work Together",
-                    "Rami Nashashibi",
-                    "Rami Nashashibi",
-                    "Rami Nashashibi"
-                ],
                 "ORG": [
+                    "Rami Nashashibi",
                     "Islam",
                     "MacArthur"
                 ],
                 "GPE": [
                     "Chicago"
                 ],
+                "PERSON": [
+                    "Rami Nashashibi"
+                ],
                 "DATE": [
-                    "2017"
+                    "2017",
+                    "2018"
                 ],
                 "WORK_OF_ART": [
                     "Opus Prize"
-                ],
-                "CARDINAL": [
-                    "2018.</p"
                 ]
             }
         },
@@ -582,7 +564,6 @@
             "title": "Nurturing Our Children\u2019s Souls | Sandy Eisenberg Sasso",
             "entities": {
                 "PERSON": [
-                    "Sandy Eisenberg Sasso",
                     "Sandy Eisenberg Sasso",
                     "Sandy Sasso",
                     "Beth-El Zedeck"
@@ -628,17 +609,18 @@
             "pubDate": "Mon, 22 Apr 2019 05:30:27 +0000",
             "title": "The Everyday Gift of Writing | Naomi Shihab Nye",
             "entities": {
-                "WORK_OF_ART": [
-                    "alt=\"The Everyday Gift of Writing"
-                ],
                 "PERSON": [
                     "Naomi Shihab Nye",
-                    "Naomi Shihab Nye",
-                    "Naomi Shihab Nye"
+                    "Transfer"
                 ],
                 "ORG": [
-                    "Texas State University",
-                    "Tiny"
+                    "Texas State University"
+                ],
+                "CARDINAL": [
+                    "19"
+                ],
+                "WORK_OF_ART": [
+                    "The Tiny Journalist"
                 ]
             }
         },
@@ -671,25 +653,15 @@
             "pubDate": "Mon, 15 Apr 2019 09:00:45 +0000",
             "title": "Friendship and the Democratic Process | Kwame Anthony Appiah | Becoming Wise",
             "entities": {
-                "NORP": [
-                    "Democratic"
+                "ORG": [
+                    "the\u00a0New York Times",
+                    "Ethicist",
+                    "New York University",
+                    "Cosmopolitanism: Ethics"
                 ],
                 "PERSON": [
                     "Kwame Anthony Appiah",
-                    "Becoming Wise",
-                    "Anthony Appiah",
-                    "Kwame Anthony Appiah",
-                    "Revolutions Happen</a></em>.</p"
-                ],
-                "GPE": [
-                    "New York Times</em"
-                ],
-                "ORG": [
-                    "Ethicist",
-                    "New York University"
-                ],
-                "CARDINAL": [
-                    "em><a"
+                    "Revolutions Happen"
                 ]
             }
         },
@@ -723,8 +695,6 @@
             "title": "Life Beyond the Mind | Eckhart Tolle",
             "entities": {
                 "PERSON": [
-                    "Eckhart Tolle",
-                    "Eckhart Tolle",
                     "Eckhart Tolle"
                 ],
                 "DATE": [
@@ -737,6 +707,9 @@
                 ],
                 "CARDINAL": [
                     "Millions"
+                ],
+                "FAC": [
+                    "Eckhart Tolle"
                 ]
             }
         },
@@ -772,12 +745,12 @@
                 "PERSON": [
                     "Jennifer Michael Hecht",
                     "Jennifer Michael Hecht",
-                    "Jennifer Michael Hecht",
-                    "dp/0060097957\">Doubt",
+                    "Said",
                     "Jennifer Michael Hecht\u2019s"
                 ],
-                "CARDINAL": [
-                    "em><a"
+                "WORK_OF_ART": [
+                    "the Philosophies Against It",
+                    "Producer\u2019s Note:"
                 ]
             }
         },
@@ -810,11 +783,7 @@
             "pubDate": "Mon, 25 Mar 2019 08:00:55 +0000",
             "title": "The Pilgrimage of \u201cWho Am I?\u201d | Paulo Coelho",
             "entities": {
-                "WORK_OF_ART": [
-                    "alt=\"The Pilgrimage of \u201cWho Am I"
-                ],
                 "PERSON": [
-                    "Paulo Coelho",
                     "Paulo Coelho",
                     "Paulo Coelho"
                 ],
@@ -852,17 +821,22 @@
             "pubDate": "Mon, 11 Mar 2019 16:22:16 +0000",
             "title": "Season Two Trailer",
             "entities": {
-                "CARDINAL": [
-                    "Two",
-                    "hundreds"
-                ],
                 "DATE": [
                     "season two",
                     "Monday March 25, 2019"
                 ],
                 "PERSON": [
-                    "Krista Tippett.</span></p></p",
+                    "Krista Tippett",
                     "Replenish"
+                ],
+                "CARDINAL": [
+                    "hundreds"
+                ],
+                "PRODUCT": [
+                    "Learn"
+                ],
+                "GPE": [
+                    "https://onbeing.org/series/becoming-wise/."
                 ]
             }
         },
@@ -895,11 +869,7 @@
             "pubDate": "Mon, 25 Jul 2016 09:01:06 +0000",
             "title": "Einstein Speaks to Us About Race | S. James Gates",
             "entities": {
-                "GPE": [
-                    "Us"
-                ],
                 "PERSON": [
-                    "S. James Gates",
                     "S. James Gates",
                     "Albert Einstein\u2019s"
                 ]
@@ -935,8 +905,6 @@
             "title": "Trauma and Resilience Land in Our Bodies | Bessel van der Kolk",
             "entities": {
                 "PERSON": [
-                    "Bessel van der",
-                    "Kolk",
                     "Psychiatrist Bessel van der",
                     "Kolk"
                 ]
@@ -971,17 +939,14 @@
             "pubDate": "Fri, 8 Jul 2016 09:00:28 +0000",
             "title": "Evil, Forgiveness, and Prayer | Elie Wiesel",
             "entities": {
-                "WORK_OF_ART": [
-                    "alt=\"Evil, Forgiveness",
-                    "Night"
-                ],
                 "PERSON": [
-                    "Prayer",
-                    "Elie Wiesel",
                     "Elie Wiesel"
                 ],
                 "EVENT": [
                     "Holocaust"
+                ],
+                "WORK_OF_ART": [
+                    "Night"
                 ]
             }
         },
@@ -1014,11 +979,7 @@
             "pubDate": "Tue, 5 Jul 2016 09:00:36 +0000",
             "title": "We Are the Beloved Community | John Lewis",
             "entities": {
-                "ORG": [
-                    "Beloved Community"
-                ],
                 "PERSON": [
-                    "John Lewis",
                     "John Lewis"
                 ]
             }
@@ -1053,9 +1014,6 @@
             "title": "The Universe Participates in the Mystery of God | Guy Consolmagno and George Coyne",
             "entities": {
                 "PERSON": [
-                    "Universe Participates",
-                    "Guy Consolmagno",
-                    "George Coyne",
                     "Guy Consolmagno",
                     "George Coyne"
                 ]
@@ -1091,7 +1049,6 @@
             "title": "I Feel, Therefore I Am | Eve Ensler",
             "entities": {
                 "PERSON": [
-                    "Eve Ensler",
                     "Eve Ensler"
                 ]
             }
@@ -1125,15 +1082,11 @@
             "pubDate": "Mon, 13 Jun 2016 09:00:15 +0000",
             "title": "We Reclaim Abandoned Spaces | Shane Claiborne",
             "entities": {
-                "ORG": [
-                    "Reclaim Abandoned Spaces"
-                ],
-                "PERSON": [
-                    "Shane Claiborne",
-                    "Shane Claiborne"
-                ],
                 "NORP": [
                     "New Monastic"
+                ],
+                "PERSON": [
+                    "Shane Claiborne"
                 ]
             }
         },
@@ -1167,7 +1120,6 @@
             "title": "We Choose Our Own Tribes | Seth Godin",
             "entities": {
                 "PERSON": [
-                    "Seth Godin",
                     "Entrepreneur",
                     "Seth Godin"
                 ]
@@ -1203,7 +1155,6 @@
             "title": "Spirituality Is Enfolded Into the Act of Living | Sylvia Boorstein",
             "entities": {
                 "PERSON": [
-                    "Sylvia Boorstein",
                     "Sylvia Boorstein"
                 ]
             }
@@ -1237,14 +1188,7 @@
             "pubDate": "Mon, 23 May 2016 09:00:28 +0000",
             "title": "The Good in the Other, the Doubt in Ourselves | Frances Kissling",
             "entities": {
-                "WORK_OF_ART": [
-                    "alt=\"The Good in the Other"
-                ],
-                "FAC": [
-                    "Doubt"
-                ],
                 "PERSON": [
-                    "Frances Kissling",
                     "Frances Kissling"
                 ]
             }
@@ -1278,12 +1222,7 @@
             "pubDate": "Mon, 16 May 2016 09:00:26 +0000",
             "title": "The Inner World Is a Great, Undiscovered Terrain | Pico Iyer",
             "entities": {
-                "WORK_OF_ART": [
-                    "alt=\"The Inner World Is a Great"
-                ],
                 "PERSON": [
-                    "Undiscovered Terrain",
-                    "Pico Iyer",
                     "Pico Iyer"
                 ]
             }
@@ -1318,11 +1257,7 @@
             "title": "Present to Life, Moment by Moment | Jon Kabat-Zinn",
             "entities": {
                 "PERSON": [
-                    "Jon Kabat-Zinn",
                     "Jon Kabat-Zinn"
-                ],
-                "DATE": [
-                    "daily"
                 ]
             }
         },
@@ -1356,14 +1291,9 @@
             "title": "The Paradox of Suffering and Love | Kate Braestrup",
             "entities": {
                 "GPE": [
-                    "Suffering",
                     "UU"
                 ],
-                "WORK_OF_ART": [
-                    "Love"
-                ],
                 "PERSON": [
-                    "Kate Braestrup",
                     "Kate Braestrup"
                 ]
             }
@@ -1397,11 +1327,7 @@
             "pubDate": "Mon, 25 Apr 2016 09:00:19 +0000",
             "title": "Enriched by Difference | Jonathan Sacks",
             "entities": {
-                "ORG": [
-                    "Difference"
-                ],
                 "PERSON": [
-                    "Jonathan Sacks",
                     "Jonathan Sacks"
                 ]
             }
@@ -1435,9 +1361,6 @@
             "pubDate": "Mon, 18 Apr 2016 09:00:03 +0000",
             "title": "The Hidden Hand of the Equations | Brian Greene",
             "entities": {
-                "WORK_OF_ART": [
-                    "alt=\"The Hidden Hand of the Equations | Brian Greene"
-                ],
                 "PERSON": [
                     "Brian Greene"
                 ]
@@ -1472,11 +1395,7 @@
             "pubDate": "Mon, 11 Apr 2016 09:00:24 +0000",
             "title": "The Desire to Know Each Other | Elizabeth Alexander",
             "entities": {
-                "WORK_OF_ART": [
-                    "alt=\"The Desire to Know Each Other"
-                ],
                 "PERSON": [
-                    "Elizabeth Alexander",
                     "Elizabeth Alexander"
                 ]
             }
@@ -1511,7 +1430,6 @@
             "title": "Compassion for Our Bodies | Matthew Sanford",
             "entities": {
                 "PERSON": [
-                    "Matthew Sanford",
                     "Matthew Sanford"
                 ]
             }
@@ -1545,12 +1463,14 @@
             "pubDate": "Fri, 18 Mar 2016 09:00:19 +0000",
             "title": "Beauty Is an Edge of Becoming | John O'Donohue",
             "entities": {
-                "PERSON": [
-                    "John O'Donohue",
-                    "John O\u2019Donohue"
+                "WORK_OF_ART": [
+                    "Beauty isn\u2019t"
                 ],
                 "NORP": [
                     "Irish"
+                ],
+                "PERSON": [
+                    "John O\u2019Donohue"
                 ]
             }
         },
@@ -1583,11 +1503,7 @@
             "pubDate": "Fri, 18 Mar 2016 09:00:00 +0000",
             "title": "Courage Is Born from Struggle | Bren\u00e9 Brown",
             "entities": {
-                "ORG": [
-                    "Struggle"
-                ],
                 "PERSON": [
-                    "Bren\u00e9 Brown",
                     "Bren\u00e9 Brown"
                 ]
             }
@@ -1621,18 +1537,11 @@
             "pubDate": "Fri, 18 Mar 2016 09:00:00 +0000",
             "title": "Mapping Meaning in a Digital Age | Maria Popova",
             "entities": {
-                "WORK_OF_ART": [
-                    "alt=\"Mapping Meaning in a"
-                ],
-                "ORG": [
-                    "Digital",
-                    "Brain Pickings"
-                ],
-                "PERSON": [
-                    "Maria Popova"
-                ],
                 "CARDINAL": [
                     "two"
+                ],
+                "ORG": [
+                    "Brain Pickings"
                 ]
             }
         }

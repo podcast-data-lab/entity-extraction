@@ -42,13 +42,11 @@
                 "GPE": [
                     "Paulina",
                     "California",
-                    "russia",
-                    "california",
                     "Los Angeles"
                 ],
                 "PERSON": [
                     "Bobby",
-                    "Marafioti"
+                    "Oksana Marafioti"
                 ],
                 "NORP": [
                     "Romani American",
@@ -88,13 +86,11 @@
             "entities": {
                 "PERSON": [
                     "Morro Bay",
-                    "Marafioti"
+                    "Oksana Marafioti"
                 ],
                 "GPE": [
                     "Paulina",
                     "California",
-                    "russia",
-                    "california",
                     "Los Angeles"
                 ],
                 "NORP": [
@@ -181,7 +177,8 @@
             "entities": {
                 "DATE": [
                     "12 years old",
-                    "17"
+                    "17",
+                    "April 11th"
                 ],
                 "PERSON": [
                     "Paulina Stevens",
@@ -233,7 +230,7 @@
             "entities": {
                 "PERSON": [
                     "Simu Liu",
-                    "Miller Mobley.</p"
+                    "Miller Mobley"
                 ],
                 "GPE": [
                     "Marvel"
@@ -326,8 +323,7 @@
             "title": "Asian Enough: Leyna Bloom",
             "entities": {
                 "PERSON": [
-                    "Leyna Bloom",
-                    "Zenobia.</p"
+                    "Leyna Bloom"
                 ],
                 "ORDINAL": [
                     "first"
@@ -341,6 +337,9 @@
                 ],
                 "DATE": [
                     "more than 20 years ago"
+                ],
+                "GPE": [
+                    "Zenobia"
                 ]
             }
         },
@@ -375,11 +374,12 @@
             "title": "Asian Enough: Hari Kondabolu",
             "entities": {
                 "PERSON": [
-                    "Hari Kondabolu</strong></a><strong",
-                    "Rob Holysz.</p"
+                    "Hari Kondabolu",
+                    "Rob Holysz"
                 ],
                 "WORK_OF_ART": [
-                    "The Simpsons"
+                    "The Simpsons",
+                    "The Problem With Apu"
                 ]
             }
         },
@@ -422,7 +422,7 @@
                 "PERSON": [
                     "Tamil Canadian",
                     "Mindy Kaling",
-                    "Yasara Gunawardena"
+                    "Yasara Gunawardena / Netflix"
                 ],
                 "NORP": [
                     "Asian American"
@@ -464,6 +464,9 @@
                 ],
                 "WORK_OF_ART": [
                     "Charlie\u2019s Angels"
+                ],
+                "ORG": [
+                    "Sophy Holland"
                 ]
             }
         },
@@ -612,7 +615,7 @@
             "entities": {
                 "PERSON": [
                     "Nicole Chung",
-                    "Erica Tappis.</p"
+                    "Erica Tappis"
                 ],
                 "WORK_OF_ART": [
                     "All You Can Ever Know"
@@ -771,8 +774,7 @@
             "title": "Asian Enough: Jujubee",
             "entities": {
                 "PERSON": [
-                    "Jujubee",
-                    "\u2019</p"
+                    "Jujubee"
                 ],
                 "NORP": [
                     "Laotian"
@@ -814,7 +816,7 @@
                 ],
                 "PERSON": [
                     "Min Jin Lee",
-                    "Elena Seibert.</p"
+                    "Elena Seibert"
                 ],
                 "NORP": [
                     "Asian"
@@ -853,7 +855,7 @@
             "entities": {
                 "PERSON": [
                     "Ruby Ibarra",
-                    "Donna"
+                    "Donna Ibarra"
                 ],
                 "NORP": [
                     "Filipina American"
@@ -898,7 +900,7 @@
                 ],
                 "PERSON": [
                     "Sandra Oh",
-                    "James White.</p>\n"
+                    "James White"
                 ],
                 "NORP": [
                     "anti-Asian",
@@ -1089,7 +1091,7 @@
                     "Kamala Harris"
                 ],
                 "LOC": [
-                    "Northern California.</p"
+                    "Northern California"
                 ]
             }
         },
@@ -1226,11 +1228,11 @@
             "entities": {
                 "PERSON": [
                     "Jose Antonio Vargas",
+                    "Advertisement] Asian",
                     "App"
                 ],
                 "NORP": [
-                    "Asian American",
-                    "Asian"
+                    "Asian American"
                 ],
                 "WORK_OF_ART": [
                     "Little America"
@@ -1275,14 +1277,14 @@
                     "App"
                 ],
                 "NORP": [
-                    "Asian Americans"
+                    "Asian Americans",
+                    "Asian"
                 ],
                 "WORK_OF_ART": [
                     "Crazy Rich Asians",
                     "Little America"
                 ],
                 "ORG": [
-                    "Asian Enough",
                     "Apple"
                 ]
             }
@@ -1426,7 +1428,7 @@
                 "GPE": [
                     "South Korea",
                     "Argentina",
-                    "Los Angeles.</p><p>[Advertisement]"
+                    "Los Angeles.[Advertisement"
                 ],
                 "WORK_OF_ART": [
                     "Little America"
@@ -1477,9 +1479,6 @@
                     "Always Be My Maybe",
                     "Little America"
                 ],
-                "NORP": [
-                    "Asian"
-                ],
                 "ORG": [
                     "Apple"
                 ]
@@ -1521,11 +1520,10 @@
                 ],
                 "NORP": [
                     "Muslim",
-                    "Americans",
-                    "Asian"
+                    "Americans"
                 ],
                 "CARDINAL": [
-                    "9/11.</p><p>[Advertisement"
+                    "9/11.[Advertisement"
                 ],
                 "WORK_OF_ART": [
                     "Little America"
@@ -1580,8 +1578,7 @@
                     "Mexico"
                 ],
                 "NORP": [
-                    "Thai",
-                    "Asian"
+                    "Thai"
                 ],
                 "WORK_OF_ART": [
                     "Little America"
@@ -1702,7 +1699,7 @@
                     "Viet Thanh Nguyen"
                 ],
                 "ORG": [
-                    "the \u201cCrazy Rich Asians\u201d effect.</p>\n"
+                    "the \u201cCrazy Rich Asians\u201d effect"
                 ]
             }
         },
@@ -1855,12 +1852,14 @@
             "pubDate": "Wed, 4 Mar 2020 00:32:03 +0000",
             "title": "Introducing Asian Enough",
             "entities": {
+                "ORG": [
+                    "Asian Enough"
+                ],
                 "NORP": [
-                    "Asian",
                     "Asian American"
                 ],
                 "DATE": [
-                    "March 17th.</p"
+                    "March 17th"
                 ]
             }
         }

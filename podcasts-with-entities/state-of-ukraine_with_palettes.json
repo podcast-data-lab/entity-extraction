@@ -981,6 +981,7 @@
                 "GPE": [
                     "U.S.",
                     "U.S.",
+                    "Ukraine",
                     "Poland"
                 ],
                 "LOC": [
@@ -1749,7 +1750,6 @@
                 "GPE": [
                     "Russia",
                     "Ukraine",
-                    "stalemate?<br/>And",
                     "Ukraine",
                     "Armenia"
                 ],
@@ -4970,7 +4970,7 @@
                 ],
                 "WORK_OF_ART": [
                     "The Fight of Our Lives: My Time with Zelenskyy",
-                    "Battle for Democracy and What it Means for the World</em>"
+                    "Battle for Democracy and What it Means for the World"
                 ],
                 "GPE": [
                     "Ukraine"
@@ -5102,6 +5102,7 @@
                     "Thursday"
                 ],
                 "GPE": [
+                    "Ukraine",
                     "Ukraine"
                 ],
                 "NORP": [
@@ -12391,6 +12392,7 @@
                     "Ukraine",
                     "Russia",
                     "Ukraine",
+                    "Germany",
                     "Russia",
                     "Russia",
                     "Ukraine",
@@ -13537,15 +13539,15 @@
             "entities": {
                 "ORG": [
                     "NPR",
-                    "Slate"
+                    "Slate",
+                    "The Bomb: Presidents Generals"
                 ],
                 "PERSON": [
                     "Rachel Martin",
                     "Fred Kaplan"
                 ],
                 "WORK_OF_ART": [
-                    "The Bomb: Presidents Generals",
-                    "the Secret History of Nuclear"
+                    "the Secret History of Nuclear War"
                 ],
                 "GPE": [
                     "Russia",
@@ -13850,7 +13852,8 @@
             "title": "If China aligns itself with Russia, that could impact its reputation and economy",
             "entities": {
                 "ORG": [
-                    "NPR"
+                    "NPR",
+                    "Economist"
                 ],
                 "PERSON": [
                     "Rachel Martin",

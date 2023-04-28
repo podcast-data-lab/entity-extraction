@@ -101,7 +101,13 @@
             "pubDate": "Wed, 29 Mar 2023 07:00:00 -0400",
             "title": "2023-03-29. AI Again",
             "entities": {
+                "ORG": [
+                    "AI"
+                ],
                 "PERSON": [
+                    "Aboard"
+                ],
+                "GPE": [
                     "Aboard"
                 ]
             }
@@ -523,7 +529,6 @@
             "title": "2022-12-14. An Apology Regarding Aboard",
             "entities": {
                 "PERSON": [
-                    "Rich",
                     "Paul",
                     "Aboard",
                     "Aboard"

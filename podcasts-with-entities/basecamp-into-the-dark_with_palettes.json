@@ -44,10 +44,14 @@
                 "PERSON": [
                     "Joel Muddamalle",
                     "Jeremy",
-                    "Joel Muddamalle"
+                    "Joel Muddamalle",
+                    "https://www.instagram.com/allthings.allpeople/\nFind"
                 ],
                 "ORG": [
                     "Biblical"
+                ],
+                "CARDINAL": [
+                    "https://www.allthingsallpeople.org/"
                 ]
             }
         },
@@ -115,23 +119,27 @@
             "pubDate": "Tue, 03 May 2022 08:00:04 GMT",
             "title": "Church of Jesus Christ of Latter-day Saints",
             "entities": {
-                "PERSON": [
-                    "p>13,000 Latter-day",
-                    "Jeremy",
-                    "David",
-                    "LDS"
+                "CARDINAL": [
+                    "13,000"
+                ],
+                "DATE": [
+                    "Latter-day",
+                    "April 2022",
+                    "monthly"
                 ],
                 "GPE": [
                     "Salt Lake City",
                     "Utah",
-                    "Instagram</a>.</p"
+                    "Instagram"
                 ],
-                "DATE": [
-                    "April 2022",
-                    "monthly"
+                "PERSON": [
+                    "Jeremy",
+                    "David",
+                    "LDS"
                 ],
                 "ORG": [
-                    "LDS General Conference and see"
+                    "LDS General Conference and see",
+                    "BASECAMP"
                 ],
                 "WORK_OF_ART": [
                     "All Things All People",
@@ -201,7 +209,7 @@
             "title": "Tim Mackie- Knowing the Real, Mind-blowing Jesus",
             "entities": {
                 "PERSON": [
-                    "Tim Mackie!</p"
+                    "Tim Mackie"
                 ],
                 "CARDINAL": [
                     "one"
@@ -236,8 +244,7 @@
                     "Austin Suggs",
                     "Gospel Simplicity",
                     "Austin",
-                    "Gospel Simplicity",
-                    "Email Jeremy"
+                    "https://www.instagram.com/allthings.allpeople/\nEmail Jeremy"
                 ],
                 "ORG": [
                     "YouTube"
@@ -286,6 +293,9 @@
                     "Josh",
                     "Ben",
                     "Jeremy"
+                ],
+                "PRODUCT": [
+                    "Jeremy@allthingsallpeople.org\n"
                 ]
             }
         },
@@ -319,12 +329,14 @@
                 "PERSON": [
                     "Vera Schmitz",
                     "Natalie Abbott",
-                    "Jeremy"
+                    "Jeremy",
+                    "Follow Dwell Differently",
+                    "https://www.instagram.com/allthings.allpeople/\nReach"
                 ],
                 "ORG": [
                     "Dwell Differently",
                     "Dwell Differently",
-                    "Jeremy &"
+                    "Jeremy & ATAP:"
                 ]
             }
         },
@@ -357,20 +369,20 @@
                     "Gavin",
                     "Gavin",
                     "Jeremy",
-                    "movement.</p",
-                    "Gavin",
-                    "Jeremy"
+                    "Gavin"
                 ],
                 "ORG": [
                     "YouTuber",
                     "First Baptist Church",
                     "Christendom",
                     "YouTube",
-                    "YouTube"
+                    "YouTube",
+                    "Reach"
                 ],
                 "GPE": [
                     "Ojai",
-                    "California"
+                    "California",
+                    "Jeremy"
                 ],
                 "NORP": [
                     "Catholic",
@@ -407,7 +419,8 @@
                     "Matt Chandler",
                     "Jeremy",
                     "Lauren",
-                    "Lauren"
+                    "Lauren",
+                    "https://laurenchandler.com/\nReach"
                 ],
                 "CARDINAL": [
                     "one"
@@ -459,7 +472,8 @@
                 "PERSON": [
                     "Gospel",
                     "Gospel",
-                    "Jesus"
+                    "Jesus",
+                    "https://www.instagram.com/allthings.allpeople/\n"
                 ]
             }
         },
@@ -486,6 +500,13 @@
             "pubDate": "Tue, 31 Aug 2021 03:33:04 GMT",
             "title": "BASECAMP- Scientology",
             "entities": {
+                "ORG": [
+                    "BASECAMP",
+                    "Scientology",
+                    "Scientology",
+                    "Scientology",
+                    "the Church of Scientology"
+                ],
                 "WORK_OF_ART": [
                     "Into the Dark"
                 ],
@@ -495,21 +516,14 @@
                 "NORP": [
                     "American"
                 ],
-                "ORG": [
-                    "Scientology",
-                    "Scientology",
-                    "the Church of Scientology.&nbsp;</p"
-                ],
                 "PERSON": [
                     "Jeremy",
                     "Josh",
-                    "Ben"
+                    "Ben",
+                    "Jesus"
                 ],
                 "DATE": [
                     "each month"
-                ],
-                "PRODUCT": [
-                    "Jesus!</p"
                 ]
             }
         },
@@ -542,7 +556,7 @@
                     "Chris",
                     "Jeremy",
                     "Kaleidoscope",
-                    "Follow Kaleidoscope",
+                    "https://readkaleidoscope.com/\nFollow Kaleidoscope",
                     "Jeremy"
                 ],
                 "LOC": [
@@ -643,6 +657,9 @@
                 ],
                 "LOC": [
                     "Hillsong NYC"
+                ],
+                "CARDINAL": [
+                    "https://www.instagram.com/allthings.allpeople/?hl=en"
                 ]
             }
         },
@@ -680,7 +697,8 @@
                     "The Church of Jesus Christ",
                     "Latter-day",
                     "Latter-Day Saints",
-                    "the Latter-Day Saints"
+                    "the Latter-Day Saints",
+                    "Gospel with Mormons"
                 ],
                 "GPE": [
                     "Salt Lake City"
@@ -717,8 +735,9 @@
                     "Jesus",
                     "Jeremy",
                     "Glen",
-                    "https://speaklife.org.uk/</p",
-                    "Follow Glen"
+                    "Follow Glen",
+                    "Twitter",
+                    "https://twitter.com/glenscrivener?s=20\nHelp ATAP Win"
                 ],
                 "WORK_OF_ART": [
                     "Speak Life"
@@ -730,7 +749,7 @@
                     "Church"
                 ],
                 "DATE": [
-                    "the last few years.</p"
+                    "the last few years"
                 ]
             }
         },
@@ -812,6 +831,9 @@
                 ],
                 "DATE": [
                     "every day"
+                ],
+                "PRODUCT": [
+                    "Website- https://www.brettmccracken.com/\nGo Vote"
                 ]
             }
         },
@@ -842,7 +864,8 @@
                 "PERSON": [
                     "Stephen Nichols",
                     "Nichols",
-                    "Jeremy"
+                    "Jeremy",
+                    "https://www.amazon.com/R-C-Sproul-Stephen-Nichols/dp/1433544776\nCheck"
                 ],
                 "DATE": [
                     "the last years",
@@ -850,8 +873,7 @@
                     "the last 100 years"
                 ],
                 "ORG": [
-                    "R.C. Sproul's",
-                    "Ligonier Ministries"
+                    "R.C. Sproul's"
                 ],
                 "CARDINAL": [
                     "one"
@@ -863,7 +885,8 @@
                     "Sproul"
                 ],
                 "WORK_OF_ART": [
-                    "R.C. Sproul: A Life"
+                    "R.C. Sproul: A Life",
+                    "Contact Jeremy: Jeremy@allthingsallpeople.org\n"
                 ]
             }
         },
@@ -946,14 +969,15 @@
                     "one"
                 ],
                 "PERSON": [
-                    "Tim Mackie!</p",
+                    "Tim Mackie",
                     "Tim",
                     "Tim",
                     "Jesus",
                     "Tim",
                     "Jeremy",
                     "Jesus",
-                    "Follow Jeremy"
+                    "Follow Jeremy",
+                    "https://www.instagram.com/allthings.allpeople/\nEmail"
                 ],
                 "ORG": [
                     "The Bible Project",
@@ -994,9 +1018,10 @@
                 "PERSON": [
                     "Carrington Gaines",
                     "King Jesus",
+                    "Jesus",
                     "Follow Carrington",
                     "Follow Jeremy",
-                    "Email Jeremy"
+                    "https://www.instagram.com/allthings.allpeople/\nEmail Jeremy"
                 ],
                 "CARDINAL": [
                     "one"
@@ -1048,7 +1073,8 @@
                     "Bobby",
                     "Follow Bobby",
                     "Twitter",
-                    "Follow Jeremy"
+                    "Follow Jeremy",
+                    "https://www.instagram.com/allthings.allpeople/\n"
                 ],
                 "WORK_OF_ART": [
                     "The Paradox of Sonship: Christology in the Epistle",
@@ -1226,7 +1252,10 @@
                     "Mark",
                     "Luke",
                     "Follow Jeremy",
-                    "Email Jeremy"
+                    "https://www.instagram.com/allthings.allpeople/\nEmail Jeremy"
+                ],
+                "DATE": [
+                    "each day"
                 ]
             }
         },
@@ -1268,6 +1297,9 @@
                 ],
                 "NORP": [
                     "Christians"
+                ],
+                "ORG": [
+                    "Follow Deuteronomemes"
                 ]
             }
         },
@@ -1303,7 +1335,7 @@
                     "Jeremy",
                     "Pre-Order",
                     "Amy",
-                    "https://amygannett.com/</p",
+                    "Visit Tiny Theologians",
                     "Email Jeremy"
                 ],
                 "ORG": [
@@ -1352,7 +1384,7 @@
                     "Jeremy",
                     "Struecker",
                     "Follow Jeremy",
-                    "Jeremy"
+                    "https://www.instagram.com/allthings.allpeople/\nReach"
                 ],
                 "ORG": [
                     "U.S. Army Ranger",
@@ -1368,6 +1400,9 @@
                 "TIME": [
                     "minutes",
                     "that horrible night"
+                ],
+                "GPE": [
+                    "Jeremy"
                 ]
             }
         },
@@ -1398,17 +1433,19 @@
                 "PERSON": [
                     "Phylicia Masonheimer",
                     "Verity",
+                    "Phylicia",
                     "Josh",
+                    "Van",
                     "Follow Phylicia",
-                    "Follow Jeremy"
+                    "Follow Jeremy",
+                    "https://www.instagram.com/allthings.allpeople/\n"
                 ],
                 "WORK_OF_ART": [
                     "Bible",
                     "the All Things All People Podcast, Phylicia and Jeremy"
                 ],
                 "ORG": [
-                    "Every Woman",
-                    "nbsp;Phylicia"
+                    "Every Woman"
                 ],
                 "NORP": [
                     "Theologian",
@@ -1458,12 +1495,14 @@
                 "PERSON": [
                     "Jesus",
                     "Jeremy",
-                    "Andreas Kostenberger!</p",
+                    "Andreas Kostenberger",
                     "Kostenberger",
                     "Jesus",
                     "Jesus",
                     "Kostenberger",
-                    "Follow Jeremy"
+                    "Follow Jeremy",
+                    "https://www.instagram.com/allthings.allpeople/\n",
+                    "Email ATAP- Jeremy@allthingsallpeople.org\n"
                 ],
                 "ORG": [
                     "New Testament"
@@ -1508,7 +1547,8 @@
                 ],
                 "PERSON": [
                     "Josh",
-                    "Ben"
+                    "Ben",
+                    "https://www.instagram.com/allthings.allpeople/\nContact Jeremy"
                 ],
                 "DATE": [
                     "week"
@@ -1548,8 +1588,9 @@
                     "Jesus",
                     "Sarah",
                     "Jeremy",
-                    "Sarah",
-                    "Follow Jeremy"
+                    "Follow Sarah",
+                    "Follow Jeremy",
+                    "https://www.instagram.com/allthings.allpeople/\nContact Jeremy"
                 ],
                 "NORP": [
                     "Californian",
@@ -1562,7 +1603,6 @@
                 ],
                 "ORG": [
                     "Calvary Chapel Costa Mesa",
-                    "Creation Fest",
                     "Creation Fest"
                 ]
             }
@@ -1597,12 +1637,14 @@
                     "Swamidass",
                     "Jeremy",
                     "Swamidass",
-                    "Follow Jeremy"
+                    "Follow Jeremy",
+                    "https://www.instagram.com/allthings.allpeople/\nReach"
                 ],
                 "ORG": [
                     "Washington University",
                     "The Surprising Science of Universal Ancestry",
-                    "Genesis"
+                    "Genesis",
+                    "Questions!- Jeremy@allthingsallpeople.org\n"
                 ],
                 "GPE": [
                     "St. Louis"
@@ -1642,8 +1684,9 @@
                     "Crenshaw",
                     "Crenshaw",
                     "Crenshaw",
+                    "Crenshaw",
                     "Follow Jeremy",
-                    "Email Jeremy"
+                    "https://www.instagram.com/allthings.allpeople/\nEmail Jeremy"
                 ],
                 "ORG": [
                     "Baylor University"
@@ -1653,7 +1696,7 @@
                     "Christian"
                 ],
                 "WORK_OF_ART": [
-                    "the All Things All People Podcast.</p>\n<p>Follow Dr. Crenshaw on Instagram: https://www.instagram.com/christina_crenshaw/</p"
+                    "the All Things All People Podcast"
                 ]
             }
         },
@@ -1689,21 +1732,23 @@
                     "Jeremy",
                     "Bobby",
                     "Jesus",
-                    "him.</p",
                     "Follow Bobby",
-                    "Follow Jeremy"
+                    "Follow Jeremy",
+                    "https://www.instagram.com/allthings.allpeople/\nEmail"
                 ],
                 "WORK_OF_ART": [
                     "One Minute Apologist",
                     "Ph.D."
                 ],
-                "CARDINAL": [
-                    "60",
-                    "One"
+                "TIME": [
+                    "60 seconds"
                 ],
                 "NORP": [
                     "Christian",
                     "YouTube-"
+                ],
+                "CARDINAL": [
+                    "One"
                 ]
             }
         },
@@ -1817,7 +1862,7 @@
                     "Miller",
                     "Jeremy",
                     "Miller",
-                    "Follow Jeremy"
+                    "https://www.thegoodbook.com/authors/corey-miller\nFollow Jeremy"
                 ],
                 "ORG": [
                     "Mormon"
@@ -1863,13 +1908,16 @@
                     "Jeff",
                     "Jeremy",
                     "Jeff",
-                    "Follow Jeremy"
+                    "Follow Jeremy",
+                    "https://www.instagram.com/allthings.allpeople/\n",
+                    "Jeremy@allthingsallpeople.org\n"
                 ],
                 "CARDINAL": [
                     "One"
                 ],
                 "WORK_OF_ART": [
-                    "Inform, Inspire and"
+                    "Inform, Inspire and",
+                    "Contact Jeremy"
                 ],
                 "NORP": [
                     "Intertwine",
@@ -1909,19 +1957,26 @@
             "entities": {
                 "PERSON": [
                     "Lauren Scott",
-                    "Maverick City.&nbsp;</p",
                     "Lauren",
                     "Jeremy",
-                    "Follow Jeremy"
+                    "Follow Lauren",
+                    "Follow Jeremy",
+                    "https://www.instagram.com/allthings.allpeople/\nContact Jeremy"
                 ],
                 "ORG": [
                     "International House of Prayer"
+                ],
+                "GPE": [
+                    "Maverick City"
                 ],
                 "ORDINAL": [
                     "first"
                 ],
                 "NORP": [
                     "Christian"
+                ],
+                "DATE": [
+                    "today"
                 ]
             }
         },
@@ -1956,8 +2011,9 @@
                     "Jeremy",
                     "Yahweh",
                     "Nickel",
-                    "Nickel",
-                    "Follow Jeremy"
+                    "https://www.amazon.com/Gordon-D.-Nickel/e/B001KI9U5C%3Fref=dbs_a_mng_rwt_scns_share\nFollow Dr. Nickel",
+                    "Follow Jeremy",
+                    "https://www.instagram.com/allthings.allpeople/\nEmail"
                 ],
                 "ORG": [
                     "Islam",
@@ -1973,7 +2029,8 @@
                     "Islamic",
                     "Islam",
                     "Muslims",
-                    "Muslims"
+                    "Muslims",
+                    "Christianity"
                 ]
             }
         },
@@ -2008,7 +2065,8 @@
                     "Sam",
                     "Follow Sam",
                     "Follow Sam",
-                    "Follow Jeremy",
+                    "https://twitter.com/DrSamChan\nFollow Jeremy",
+                    "https://www.instagram.com/allthings.allpeople/\n",
                     "Email Jeremy"
                 ],
                 "WORK_OF_ART": [
@@ -2019,8 +2077,7 @@
                     "Christian"
                 ],
                 "ORG": [
-                    "the City Bible Forum",
-                    "Instagram- https://www.instagram.com/drsamchan/</p"
+                    "the City Bible Forum"
                 ],
                 "GPE": [
                     "Sydney",
@@ -2063,6 +2120,7 @@
                     "John",
                     "Follow John",
                     "Twitter",
+                    "Follow John",
                     "Follow Jeremy",
                     "Email Jeremy"
                 ],
@@ -2073,6 +2131,9 @@
                 ],
                 "DATE": [
                     "the past few years"
+                ],
+                "CARDINAL": [
+                    "https://www.instagram.com/allthings.allpeople/?hl=en"
                 ]
             }
         },
@@ -2143,7 +2204,7 @@
                     "Kostenberger",
                     "Kostenberger",
                     "Follow Jeremy",
-                    "Follow Jeremy",
+                    "https://www.instagram.com/allthings.allpeople/\nFollow Jeremy",
                     "Twitter",
                     "Email Jeremy"
                 ],
@@ -2252,8 +2313,8 @@
                     "Bart Ehrman",
                     "Follow Mike",
                     "Twitter",
-                    "Mike",
-                    "Follow Jeremy"
+                    "Follow Jeremy",
+                    "https://www.instagram.com/allthings.allpeople/\nJoin"
                 ],
                 "CARDINAL": [
                     "thirty",
@@ -2264,12 +2325,15 @@
                 ],
                 "ORG": [
                     "Biblical Theology",
-                    "Systematic Theology",
-                    "Facebook Group"
+                    "Systematic Theology"
                 ],
                 "NORP": [
                     "Christian",
                     "Christians"
+                ],
+                "WORK_OF_ART": [
+                    "Facebook Group",
+                    "Contact Jeremy for Booking and Questions: Jeremy@allthingsallpeople.org\n"
                 ]
             }
         },
@@ -2301,16 +2365,18 @@
                     "Dorothy Greco",
                     "Missio Alliance",
                     "David C Cook",
+                    "Dorothy",
                     "Jeremy",
                     "Buy Dorothy's",
                     "Follow Dorothy",
                     "Twitter",
                     "Dorothy",
-                    "Jeremy",
-                    "Follow Jeremy"
+                    "Follow Jeremy",
+                    "https://www.instagram.com/allthings.allpeople/\n"
                 ],
                 "NORP": [
-                    "Christianity"
+                    "Christianity",
+                    "http://www.dorothygreco.com/\u00a0\n"
                 ],
                 "ORG": [
                     "Relevant Magazine",
@@ -2327,7 +2393,10 @@
                 ],
                 "DATE": [
                     "January of 2017",
-                    "September"
+                    "September of this year"
+                ],
+                "GPE": [
+                    "Jeremy"
                 ]
             }
         },
@@ -2360,7 +2429,6 @@
                     "Jeremy",
                     "Buy Justin's",
                     "Follow Justin",
-                    "Twitter",
                     "Follow Jeremy",
                     "Twitter"
                 ],
@@ -2386,10 +2454,11 @@
                     "YouTube"
                 ],
                 "DATE": [
-                    "the years"
+                    "the years",
+                    "2005"
                 ],
-                "CARDINAL": [
-                    "2005.</p"
+                "LOC": [
+                    "Twitter"
                 ]
             }
         },
@@ -2461,16 +2530,17 @@
                     "Kristi",
                     "Kristi",
                     "Jeremy",
+                    "Jesus",
                     "Buy Jesus",
                     "Kristi",
-                    "Follow Kristi",
+                    "https://www.newlensbiblicalstudies.com/\nFollow Kristi",
                     "Follow Jeremy",
-                    "Email Jeremy"
+                    "https://www.instagram.com/allthings.allpeople/\nEmail Jeremy"
                 ],
                 "ORG": [
                     "Lifeway",
                     "Williamson College",
-                    "the ministry of Jesus.</p>\n<p"
+                    "https://www.lifeway.com/en/product/jesus-and-women-bible-study-book-P005821584\nMake"
                 ],
                 "WORK_OF_ART": [
                     "Jesus and Women",
@@ -2478,9 +2548,6 @@
                 ],
                 "GPE": [
                     "Israel"
-                ],
-                "CARDINAL": [
-                    "https://www.lifeway.com/en/product/jesus-and-women-bible-study-book-P005821584</p"
                 ]
             }
         },
@@ -2559,9 +2626,11 @@
                 "PERSON": [
                     "Joe Barnes",
                     "Jeremy",
+                    "Follow Joe",
+                    "https://www.instagram.com/iamjoe_l/\nGo",
                     "Joe",
                     "Follow Jeremy",
-                    "Email Jeremy"
+                    "https://www.instagram.com/allthings.allpeople/\nEmail Jeremy"
                 ],
                 "GPE": [
                     "Maverick City",
@@ -2569,7 +2638,8 @@
                 ],
                 "CARDINAL": [
                     "14 MILLION",
-                    "one"
+                    "one",
+                    "Jeremy@AllThingsAllPeople.org"
                 ],
                 "ORG": [
                     "YouTube"
@@ -2653,14 +2723,16 @@
                     "Jesus",
                     "Jeremy",
                     "Josh",
-                    "Jeremy"
+                    "Jeremy",
+                    "https://www.instagram.com/allthings.allpeople/\nContact Jeremy"
                 ],
                 "ORG": [
                     "Aramaic"
                 ],
                 "DATE": [
                     "around 33 years",
-                    "daily"
+                    "daily",
+                    "today"
                 ]
             }
         },
@@ -2730,19 +2802,23 @@
             "entities": {
                 "GPE": [
                     "America",
-                    "America.</p"
+                    "America"
                 ],
                 "ORG": [
-                    "Church"
-                ],
-                "PERSON": [
-                    "John Piper",
-                    "Barnabas",
+                    "Church",
+                    "Barnabas Piper",
                     "Follow Barnabas",
                     "Barnabas"
                 ],
+                "PERSON": [
+                    "John Piper",
+                    "Barnabas"
+                ],
                 "WORK_OF_ART": [
-                    "The Happy Rant Podcast\"-"
+                    "The Happy Rant Podcast\"- https://thehappyrant.libsyn.com/\nReach"
+                ],
+                "CARDINAL": [
+                    "Jeremy@AllThingsAllPeople.org"
                 ]
             }
         },
@@ -2776,6 +2852,7 @@
                     "Andy",
                     "Andy Bannister",
                     "Follow Jeremy",
+                    "https://www.instagram.com/allthings.allpeople/\nReach",
                     "Jeremy"
                 ],
                 "NORP": [
@@ -2785,7 +2862,6 @@
                 "ORG": [
                     "Islam",
                     "Allah",
-                    "href=\"https://ivpbooks.com",
                     "the Solas Centre for Public Christianity"
                 ],
                 "WORK_OF_ART": [
@@ -2826,13 +2902,15 @@
                 "PERSON": [
                     "Alvin Plantinga's",
                     "Follow Jeremy",
-                    "Email Jeremy"
+                    "https://www.instagram.com/allthings.allpeople/\nEmail Jeremy"
                 ],
                 "ORG": [
+                    "Defense",
                     "the Ganesh Chaturthi"
                 ],
                 "GPE": [
-                    "India"
+                    "India",
+                    "Yahweh"
                 ],
                 "WORK_OF_ART": [
                     "All Things All People Podcast"
@@ -3051,6 +3129,12 @@
                     "Christianity",
                     "Christianity",
                     "Buddhist"
+                ],
+                "WORK_OF_ART": [
+                    "Jeremy on Instagram"
+                ],
+                "PERSON": [
+                    "https://www.instagram.com/allthings.allpeople/\n"
                 ]
             }
         },
@@ -3081,18 +3165,22 @@
                 "NORP": [
                     "American"
                 ],
+                "DATE": [
+                    "today"
+                ],
+                "GPE": [
+                    "Foley Beach",
+                    "the United States"
+                ],
                 "PERSON": [
-                    "Foley",
                     "Foley Beach",
                     "Jeremy",
-                    "Foley Beach"
+                    "Follow Foley Beach",
+                    "https://www.instagram.com/allthings.allpeople/\n- Follow"
                 ],
                 "ORG": [
                     "the Episcopal Church",
                     "the Anglican Church"
-                ],
-                "GPE": [
-                    "the United States"
                 ],
                 "LOC": [
                     "North America"
@@ -3141,7 +3229,9 @@
                 "PERSON": [
                     "Caleb Edwards",
                     "Jeremy",
-                    "Follow Caleb"
+                    "https://www.instagram.com/calebdedwards/\n- Follow",
+                    "https://www.instagram.com/naiothmovement/\n- Jeremy",
+                    "https://www.instagram.com/allthings.allpeople/\n"
                 ],
                 "CARDINAL": [
                     "one"
@@ -3177,15 +3267,16 @@
             "entities": {
                 "NORP": [
                     "Christians",
-                    "Christian"
+                    "Christian",
+                    "Christians"
                 ],
                 "PERSON": [
-                    "Karen Swallow",
+                    "Karen Swallow Prior",
                     "Jeremy",
                     "Prior",
                     "Jeremy",
                     "Karen Swallow Prior's",
-                    "Karen Swallow Prior"
+                    "https://www.instagram.com/allthings.allpeople/\n"
                 ],
                 "WORK_OF_ART": [
                     "the All Things All People Podcast"
@@ -3195,6 +3286,9 @@
                 ],
                 "DATE": [
                     "over 20 years"
+                ],
+                "ORG": [
+                    "Amazon"
                 ]
             }
         },
@@ -3229,7 +3323,8 @@
                 "PERSON": [
                     "Jeremy",
                     "Jesus",
-                    "Jeremy"
+                    "Jeremy",
+                    "https://www.instagram.com/allthings.allpeople/\n"
                 ],
                 "NORP": [
                     "Catholic"
@@ -3270,12 +3365,13 @@
                     "Bible"
                 ],
                 "ORG": [
-                    "Question &"
+                    "Question & Discussion"
                 ],
                 "PERSON": [
                     "Jeremy",
                     "Jehovah",
-                    "Jeremy"
+                    "Jeremy",
+                    "https://www.instagram.com/allthings.allpeople/\n"
                 ],
                 "DATE": [
                     "Seventh Day"
@@ -3316,7 +3412,8 @@
                 ],
                 "PERSON": [
                     "Jorge Gil",
-                    "Jorge Gil"
+                    "Jorge Gil",
+                    "https://www.instagram.com/allthings.allpeople/\n"
                 ],
                 "ORG": [
                     "Frank Turek's",

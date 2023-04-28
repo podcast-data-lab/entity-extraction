@@ -605,6 +605,9 @@
                 ],
                 "PRODUCT": [
                     "Latinx"
+                ],
+                "WORK_OF_ART": [
+                    "Identity at Play"
                 ]
             }
         },
@@ -909,13 +912,6 @@
             "pubDate": "Thu, 19 May 2022 17:53:34 -0000",
             "title": "Jon Batiste on the art of pushing your limits",
             "entities": {
-                "PERSON": [
-                    "Jon Batiste",
-                    "Oscar",
-                    "Jon",
-                    "Adam",
-                    "Adam Grant"
-                ],
                 "DATE": [
                     "a record year"
                 ],
@@ -932,6 +928,12 @@
                 ],
                 "TIME": [
                     "late-night"
+                ],
+                "PERSON": [
+                    "Oscar",
+                    "Jon",
+                    "Adam",
+                    "Adam Grant"
                 ]
             }
         },
@@ -987,8 +989,8 @@
                 "NORP": [
                     "Saleem"
                 ],
-                "PRODUCT": [
-                    "More Than A Feeling.</p"
+                "ORG": [
+                    "More Than A Feeling"
                 ],
                 "PERCENT": [
                     "Ten Percent"
@@ -1035,7 +1037,7 @@
                 "PERSON": [
                     "Mona",
                     "Mona",
-                    "Mona Chalabi</a",
+                    "Mona Chalabi",
                     "Mona Chalabi"
                 ],
                 "GPE": [
@@ -1108,7 +1110,7 @@
                     "Tobias Rose",
                     "Derrick Beasley",
                     "Alan Thompson",
-                    "Sammy Case</strong",
+                    "Sammy Case",
                     "TED",
                     "Far Flung",
                     "Saleem Reshamwala",
@@ -1125,7 +1127,7 @@
                     "Roxanne Hai Lash",
                     "Colin Helms",
                     "Abbey White",
-                    "Kristin Mueller.</p"
+                    "Kristin Mueller"
                 ],
                 "GPE": [
                     "Soul City",
@@ -1136,14 +1138,13 @@
                 ],
                 "DATE": [
                     "1969",
+                    "today",
                     "this week"
                 ],
-                "WORK_OF_ART": [
-                    "target=\"_blank\">Souvenir Book of Soul City</a"
-                ],
                 "ORG": [
+                    "the Souvenir Book of Soul City",
                     "Shirlette Ammons",
-                    "Durham\u2019s Black Wall"
+                    "Durham\u2019s Black Wall Street"
                 ],
                 "FAC": [
                     "Parish Street"
@@ -1206,7 +1207,7 @@
                     "Sea of Thieves",
                     "Fortnite",
                     "Melancholy, Malice",
-                    "Linda &amp",
+                    "Linda & Joan",
                     "Pindrop",
                     "Pindrop"
                 ],
@@ -1215,7 +1216,6 @@
                     "Wes Locher",
                     "Peril",
                     "Russell Quinn",
-                    "Joan",
                     "Lee Yancy",
                     "Raph Koster",
                     "Phil Cook",
@@ -1233,15 +1233,13 @@
                     "Nicole Bode",
                     "Abbey White",
                     "Paul Durbin",
-                    "Kristin Mueller.</p",
-                    "We're"
+                    "Kristin Mueller"
                 ],
                 "LOC": [
                     "Braving Britannia"
                 ],
                 "GPE": [
-                    "Ultima Online",
-                    "at</em"
+                    "Ultima Online"
                 ]
             }
         },
@@ -1306,7 +1304,7 @@
                     "Wanda Dalla Costa",
                     "Saleem Reshamwala",
                     "Twitter",
-                    "title=\"Lemon Guo\"",
+                    "Lemon Guo",
                     "Byron Crenshaw",
                     "Bass Tone Paintings",
                     "Wanda Dalla Costa",
@@ -1332,17 +1330,13 @@
                     "Colin Helms",
                     "Paul Durbin",
                     "Nicole Bode",
-                    "Kristin Mueller.</p",
-                    "We're"
+                    "Kristin Mueller"
                 ],
                 "CARDINAL": [
                     "one"
                 ],
                 "ORG": [
                     "Pindrop"
-                ],
-                "GPE": [
-                    "at</em"
                 ]
             }
         },
@@ -1414,7 +1408,6 @@
                     "Kayfex",
                     "Marcos Maizel",
                     "TED",
-                    "Resistencia",
                     "Jesse Baker",
                     "Eric Nuzum",
                     "Elyse Blennerhassett",
@@ -1429,8 +1422,7 @@
                     "Hernando Suarez",
                     "Hernando Su\u00e1rez",
                     "Oscar Durand",
-                    "Kristin Mueller.</p",
-                    "We're"
+                    "Kristin Mueller"
                 ],
                 "GPE": [
                     "Lima",
@@ -1438,20 +1430,24 @@
                     "Quechua",
                     "Quechua",
                     "Quechua",
-                    "Peru",
-                    "at</em"
+                    "Peru"
                 ],
                 "WORK_OF_ART": [
-                    "the Andean Bronx"
+                    "the Andean Bronx",
+                    "Quechua es Resistencia"
                 ],
                 "CARDINAL": [
                     "nearly ten million"
                 ],
                 "ORG": [
                     "Renata Flores",
+                    "@Kidethnic",
                     "Renata Flores",
                     "Uchpa",
                     "Pindrop"
+                ],
+                "PRODUCT": [
+                    "Twitter"
                 ],
                 "FAC": [
                     "Spotify",
@@ -1528,8 +1524,7 @@
                     "Roxanne Hai Lash",
                     "Colin Helms",
                     "Kristin Mueller",
-                    "Abbey",
-                    "We're"
+                    "Abbey White"
                 ],
                 "LOC": [
                     "Easter Island"
@@ -1542,16 +1537,13 @@
                     "each year",
                     "today"
                 ],
-                "WORK_OF_ART": [
-                    "Mysteries of Easter Island",
-                    "target=\"_blank\">\"The Mysteries of Easter Island"
-                ],
                 "ORG": [
+                    "@kidethnic",
                     "Sergio Matau Rapu",
                     "Pindrop"
                 ],
-                "GPE": [
-                    "at</em"
+                "WORK_OF_ART": [
+                    "The Mysteries of Easter Island"
                 ]
             }
         },
@@ -1650,8 +1642,8 @@
                 "GPE": [
                     "Mexico City"
                 ],
-                "QUANTITY": [
-                    "21 million minds.</p"
+                "CARDINAL": [
+                    "21 million"
                 ]
             }
         },
@@ -1699,13 +1691,11 @@
                     "66 million year old"
                 ],
                 "GPE": [
-                    "New Jersey",
-                    "at</em"
+                    "New Jersey"
                 ],
                 "PERSON": [
                     "Ken Lacovara",
-                    "Leslie Knope",
-                    "We're"
+                    "Leslie Knope"
                 ],
                 "CARDINAL": [
                     "15,000"
@@ -1754,8 +1744,7 @@
                     "AfroBubbleGum",
                     "Nairobi",
                     "Kenya",
-                    "AfroBubbleGum",
-                    "at</em"
+                    "AfroBubbleGum"
                 ],
                 "LOC": [
                     "Africa"
@@ -1763,8 +1752,7 @@
                 "PERSON": [
                     "Wanuri Kahiu",
                     "Blinky",
-                    "Bill Sellanga.</p",
-                    "We're"
+                    "Bill Sellanga"
                 ]
             }
         },
@@ -1818,7 +1806,8 @@
             "title": "Bangkok",
             "entities": {
                 "GPE": [
-                    "Bangkok"
+                    "Bangkok",
+                    "Thailand"
                 ]
             }
         }
@@ -1866,6 +1855,9 @@
             "Bangkok",
             "New Jersey",
             "Mexico City"
+        ],
+        "ORG": [
+            "Pindrop"
         ]
     }
 }

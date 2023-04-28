@@ -34,10 +34,8 @@
             "pubDate": "Tue, 25 Apr 2023 14:00:00 -0000",
             "title": "Know What You\u2019re Saying: How Communicating Tests Our Understanding",
             "entities": {
-                "WORK_OF_ART": [
-                    "target=\"_blank\">Gregory LaBlanc</a"
-                ],
                 "ORG": [
+                    "Gregory LaBlanc",
                     "Stanford",
                     "University.fm"
                 ],
@@ -50,6 +48,7 @@
                 "PERSON": [
                     "LaBlanc",
                     "Matt Abrahams",
+                    "Talk Smart",
                     "LaBlanc"
                 ],
                 "GPE": [
@@ -88,15 +87,13 @@
                     "Fogg",
                     "Matt Abrahams",
                     "Talk Smart",
+                    "Talk Smart",
                     "Fogg"
                 ],
                 "ORG": [
                     "Stanford",
                     "Stanford Graduate School of Business",
-                    "href=\"https://tinyhabits.com"
-                ],
-                "WORK_OF_ART": [
-                    "target=\"_blank\">Think Fast, Talk"
+                    "StanfordTiny"
                 ],
                 "GPE": [
                     "California"
@@ -134,12 +131,11 @@
                 ],
                 "ORG": [
                     "Romeo",
+                    "Romeo",
+                    "Stanford Language Center",
                     "Stanford Continuing Studies",
                     "Romeo",
                     "Waseda University"
-                ],
-                "WORK_OF_ART": [
-                    "target=\"_blank\">Stanford Language Center</a>"
                 ],
                 "LANGUAGE": [
                     "English"
@@ -175,24 +171,17 @@
             "pubDate": "Tue, 04 Apr 2023 14:00:00 -0000",
             "title": "Quick Thinks: How Others Define Us ",
             "entities": {
-                "CARDINAL": [
-                    "target=\"_blank\">Brian",
-                    "the&nbsp;</em><a"
-                ],
                 "PERSON": [
+                    "Brian Lowery",
+                    "Talk Smart",
                     "Matt Abrahams",
                     "Brian Lowery",
                     "Brian"
                 ],
                 "ORG": [
-                    "The Social Creation of You</em></a>.&nbsp;Lowery",
-                    "Stanford Institute",
-                    "podcast,&nbsp;</em><a"
-                ],
-                "WORK_OF_ART": [
-                    "target=\"_blank\">Know What You See.&nbsp;</a></p><p><u>Resources</u>:</p><p>https://www.gsb.stanford.edu/faculty-research/faculty/brian-lowery</p><p><a href=\"https://www.harpercollins.com",
-                    "target=\"_blank\">Selfless: The Social Creation of \"",
-                    "target=\"_blank\">Know What You See Podcast</a></p><p>See Privacy Policy at <"
+                    "The Social Creation of You",
+                    "Stanford Institute on Race",
+                    "The Social Creation of \""
                 ],
                 "GPE": [
                     "California"
@@ -225,20 +214,19 @@
             "title": "You Need a Manifesto: How to Communicate Your Convictions",
             "entities": {
                 "PERSON": [
-                    "Charlotte Burgess-Auburn.</p><p><a",
-                    "Matt Abrahams"
+                    "Charlotte Burgess-Auburn",
+                    "Matt Abrahams",
+                    "Talk Smart"
+                ],
+                "GPE": [
+                    "Burgess-Auburn",
+                    "California"
                 ],
                 "ORG": [
                     "the Director of Community"
                 ],
-                "WORK_OF_ART": [
-                    "Need A Manifesto: How To Craft Your Convictions And Put Them To Work,&nbsp;she"
-                ],
                 "ORDINAL": [
                     "first"
-                ],
-                "GPE": [
-                    "California"
                 ]
             }
         },
@@ -271,7 +259,8 @@
                     "Nancy Duarte",
                     "Duarte",
                     "Duarte",
-                    "Matt Abrahams"
+                    "Matt Abrahams",
+                    "Talk Smart"
                 ],
                 "ORG": [
                     "Duarte Inc"
@@ -310,16 +299,15 @@
             "title": "Fact or Fiction? How to Communicate When We Hold Different Beliefs",
             "entities": {
                 "PERSON": [
+                    "Seema Yasmin",
                     "Yasmin",
-                    "Matt Abrahams"
+                    "Matt Abrahams",
+                    "Talk Smart"
                 ],
                 "ORG": [
                     "COVID-19",
                     "Yasmin",
                     "Yasmin"
-                ],
-                "WORK_OF_ART": [
-                    "target=\"_blank\">Think Fast, Talk Smart.</a></p><p"
                 ],
                 "GPE": [
                     "California"
@@ -352,15 +340,15 @@
             "title": "Magic Words: Change What You Say to Inspire and Influence Others",
             "entities": {
                 "PERSON": [
-                    "href=\"https://jonahberger.com/",
+                    "Jonah Berger",
                     "Berger",
                     "Berger",
                     "Berger",
-                    "Matt Abrahams"
+                    "Matt Abrahams",
+                    "Talk Smart"
                 ],
                 "WORK_OF_ART": [
-                    "PhD",
-                    "target=\"_blank\">Think Fast, Talk"
+                    "PhD"
                 ],
                 "DATE": [
                     "07"
@@ -403,12 +391,13 @@
             "pubDate": "Tue, 28 Feb 2023 15:00:00 -0000",
             "title": "Equity by Design: How Diversity Ignites Creativity ",
             "entities": {
+                "PERSON": [
+                    "Adina Sterling",
+                    "Matt Abrahams"
+                ],
                 "ORG": [
                     "Sterling",
-                    "DE&amp;I"
-                ],
-                "PERSON": [
-                    "Matt Abrahams"
+                    "DE&I"
                 ],
                 "GPE": [
                     "California"
@@ -446,29 +435,20 @@
                     "First",
                     "first"
                 ],
-                "PERSON": [
-                    "em>,&nbsp;</em",
-                    "Matt",
-                    "Matt",
-                    "questions,&nbsp;Matt"
-                ],
                 "WORK_OF_ART": [
-                    "Ask Me Anything"
+                    "Ask Me Anything",
+                    "Successful Communication[3:51]",
+                    "Using Paraphrasing"
                 ],
-                "ORG": [
-                    "worst&nbsp;</em",
-                    "Successful Communication</em></strong></p><p>[3:51]<strong"
+                "PERSON": [
+                    "Matt",
+                    "Matt",
+                    "Matt"
                 ],
                 "CARDINAL": [
                     "three",
-                    "Three",
-                    "1",
                     "three",
-                    "2",
-                    "3",
-                    "2:</strong",
-                    "3:</strong",
-                    "5:</strong"
+                    "3"
                 ],
                 "GPE": [
                     "California"
@@ -504,9 +484,9 @@
                     "Matt Abrahams",
                     "Matt",
                     "Descript Overdub",
-                    "information.</li><li",
                     "Matt Abrahams",
                     "Talk Smart",
+                    "ChatGPT.[00:01:17] ChatGPT's",
                     "Matt",
                     "Matt",
                     "Matt",
@@ -518,6 +498,7 @@
                 ],
                 "ORG": [
                     "AI",
+                    "ChatGPT",
                     "AI",
                     "ChatGPT",
                     "Ethics",
@@ -601,17 +582,14 @@
                 "PERSON": [
                     "Robert Cialdini",
                     "Cialdini",
-                    "Matt Abrahams"
+                    "Matt Abrahams",
+                    "Talk Smart"
                 ],
                 "ORG": [
                     "Arizona State University",
-                    "directions.&nbsp;</p><p>\u201cIt",
                     "Cialdini",
                     "FOMO",
                     "Stanford Graduate School of Business"
-                ],
-                "WORK_OF_ART": [
-                    "target=\"_blank\">Think Fast, Talk"
                 ],
                 "GPE": [
                     "California"
@@ -647,31 +625,29 @@
                     "Stanford Graduate School of Business",
                     "GSB",
                     "Stanford Graduate School of Business",
-                    "Stanford"
+                    "Stanford",
+                    "FamiliesAn Economist\u2019s Take on Why Parental Leave MattersHow Companies Can Solve"
                 ],
                 "PERSON": [
                     "Myra Strober",
+                    "Matt Abrahams",
                     "Strober",
+                    "Abby Davisson",
                     "Davisson",
-                    "\u201d</p><p><a",
+                    "Talk Smart",
+                    "Myra Strober: Breaking Barriers",
                     "Myra",
                     "Davisson"
                 ],
                 "DATE": [
                     "40 years"
                 ],
-                "TIME": [
-                    "target=\"_blank\">Matt"
-                ],
                 "WORK_OF_ART": [
-                    ">Money and Love: An Intelligent Roadmap for Life\u2019s Biggest Decisions</em></a><em",
-                    "target=\"_blank\">Think Fast, Talk",
-                    "Strober: Breaking Barriers",
-                    "Balance In Work",
-                    "Strober: How the Workplace Works",
-                    "Economist\u2019s Take on Why Parental Leave Matters</a></p><p><a"
+                    "Money and Love: An Intelligent Roadmap for Life\u2019s Biggest Decisions",
+                    "Love"
                 ],
                 "GPE": [
+                    "HarperCollinsStrober",
                     "California"
                 ]
             }
@@ -703,9 +679,6 @@
             "entities": {
                 "CARDINAL": [
                     "one"
-                ],
-                "WORK_OF_ART": [
-                    "target=\"_blank\">Baba"
                 ],
                 "PERSON": [
                     "Matt Abrahams's"
@@ -746,14 +719,16 @@
             "pubDate": "Tue, 06 Dec 2022 15:00:00 -0000",
             "title": "Listen Up: Why It\u2019s Better to Be Interested than Interesting",
             "entities": {
-                "PERSON": [
-                    "Alison",
-                    "Wood Brooks",
-                    "Wood Brooks"
-                ],
                 "ORG": [
+                    "Alison Wood Brooks",
                     "Hellman Faculty Fellow",
-                    "Harvard Business School"
+                    "Harvard Business School",
+                    "LISTEN"
+                ],
+                "PERSON": [
+                    "Wood Brooks",
+                    "Talk Smart",
+                    "Wood Brooks"
                 ],
                 "GPE": [
                     "California"
@@ -787,15 +762,14 @@
             "entities": {
                 "PERSON": [
                     "Michele Gelfand",
+                    "Gelfand",
+                    "Talk Smart",
                     "Matt Abrahams"
                 ],
                 "ORG": [
                     "Gelfand",
+                    "Gelfand",
                     "Gelfand"
-                ],
-                "WORK_OF_ART": [
-                    "target=\"_blank\">Threatening Language <",
-                    "target=\"_blank\">Why The Pandemic Slammed Loose Countries</a></p><p>See Privacy Policy at <"
                 ],
                 "GPE": [
                     "California"
@@ -828,10 +802,12 @@
             "title": "Strategy Success: How to Communicate Your Gameplan",
             "entities": {
                 "PERSON": [
+                    "Jesper S\u00f8rensen",
                     "S\u00f8rensen",
+                    "Talk Smart",
                     "Matt Abrahams",
-                    "B. S\u00f8rensen",
-                    "Glenn R. Carrol",
+                    "Jesper B. S\u00f8rensen",
+                    "Glenn R. CarrollClass",
                     "Jesper S\u00f8renson"
                 ],
                 "GPE": [
@@ -840,9 +816,7 @@
                     "California"
                 ],
                 "WORK_OF_ART": [
-                    "target=\"_blank\">Making Great Strategy: Arguing for Organizational Advantage</a",
-                    "target=\"_blank\">l</a></p><p><a href=\"https://www.gsb.stanford.edu/insights/class-takeaways-crafting-leading-strategy",
-                    "target=\"_blank\">Class Takeaways: Crafting and Leading Strategy</a"
+                    "Making Great Strategy: Arguing for Organizational Advantage"
                 ],
                 "CARDINAL": [
                     "Five"
@@ -879,11 +853,13 @@
             "entities": {
                 "PERSON": [
                     "Jeremy Utley",
-                    "Talk Smart,</em",
+                    "Talk Smart",
                     "Matt Abrahams"
                 ],
                 "ORG": [
-                    "Stanford"
+                    "Stanford",
+                    "Utley",
+                    "Utley"
                 ],
                 "GPE": [
                     "California"
@@ -915,14 +891,15 @@
             "pubDate": "Tue, 11 Oct 2022 14:00:00 -0000",
             "title": "Feeling Nervous? How Anxiety Can Fuel Better Communication",
             "entities": {
-                "GPE": [
-                    "McGonigal</a",
-                    "California"
-                ],
                 "PERSON": [
+                    "Kelly McGonigal",
                     "McGonigal",
+                    "Talk Smart",
                     "McGonigal",
                     "Matt Abrahams"
+                ],
+                "GPE": [
+                    "California"
                 ]
             }
         },
@@ -996,21 +973,20 @@
                     "only one"
                 ],
                 "PERSON": [
-                    "target=\"_blank\">Michele Gelfand</a",
+                    "Michele Gelfand",
                     "Gelfand",
-                    "Talk Smart,</em",
-                    "Matt Abrahams"
-                ],
-                "WORK_OF_ART": [
-                    "Threatening Language Can Be Contagious",
-                    "target=\"_blank\">Mindset Quiz: How Tight or Loose Are You?</a></li></ul><p><strong>Other articles:&nbsp;</strong></p><ul><li><a href=\"https://6da7445f-6d63-4d8a-8fb3-542cdc35731b.filesusr.com/ugd/6df109_8fe44bcf8ac6413697f8482974efcedd.pdf"
+                    "Talk Smart",
+                    "Matt Abrahams",
+                    "\u201dSHOW"
                 ],
                 "ORG": [
-                    "This New Tool Tracks Its Spread</em></a></li><li><a",
+                    "Gelfand",
+                    "InsightsThreatening Language Can Be Contagious",
+                    "This New Tool Tracks Its SpreadWhy",
                     "COVID-19"
                 ],
                 "GPE": [
-                    "U.S.</em></a></li></ul><p><br></p><p><strong",
+                    "NOTES\ufeffStanford",
                     "California"
                 ],
                 "NORP": [
@@ -1046,19 +1022,19 @@
             "pubDate": "Tue, 30 Aug 2022 12:00:00 -0000",
             "title": "Best Of: Lessons from Neuroscientist Andrew Huberman to Help You Hack your Speaking Anxiety",
             "entities": {
-                "WORK_OF_ART": [
-                    "target=\"_blank\">Andrew Huberman</a>",
-                    "target=\"_blank\">Huberman Lab Podcast</a>"
+                "PERSON": [
+                    "Andrew Huberman",
+                    "Huberman",
+                    "Huberman Lab Podcast",
+                    "Huberman",
+                    "Talk Smart LinkedIn",
+                    "Talk Smart websiteTimestamps[1:32",
+                    "Talk Smart",
+                    "Matt"
                 ],
                 "ORG": [
-                    "Stanford",
-                    "the community &amp",
-                    "alertness</p><p>[12:50] EMDR Eye Movement Desensitization Reprocessing"
-                ],
-                "PERSON": [
-                    "Huberman",
-                    "Timestamps</strong></p><p>[1:32",
-                    "Matt"
+                    "Stanford University",
+                    "EMDR Eye Movement Desensitization Reprocessing"
                 ],
                 "CARDINAL": [
                     "three"
@@ -1094,7 +1070,10 @@
             "title": "Ties That Bind: Why Remote and Hybrid Teams Need the Right Connection",
             "entities": {
                 "PERSON": [
-                    "Michael Arena"
+                    "Michael Arena",
+                    "Glenn Carroll",
+                    "Michael Arena",
+                    "Talk Smart"
                 ],
                 "ORG": [
                     "Stanford",
@@ -1105,7 +1084,6 @@
                     "GSB"
                 ],
                 "CARDINAL": [
-                    "target=\"_blank\">Michael",
                     "millions"
                 ],
                 "GPE": [
@@ -1139,24 +1117,28 @@
             "title": "Best of: Techniques for Managing Your Reputation",
             "entities": {
                 "PERSON": [
-                    "Matt Abrahams</a",
-                    "Allison Kluger</a",
-                    "Daniel Diermeier</li><li>\u201c<a href=\"https://www.nytimes.com/2018/09/16",
+                    "Matt Abrahams",
                     "Allison Kluger",
-                    "Allison Kluger"
+                    "Talk Smart LinkedIn",
+                    "Talk Smart",
+                    "Allison Kluger",
+                    "Daniel Diermeier\u201cHow Tylenol Made a Comeback",
+                    "Kluger"
+                ],
+                "GPE": [
+                    "LinkedIn",
+                    "California"
                 ],
                 "ORG": [
-                    "the community &amp",
                     "Stanford",
                     "Stanford",
                     "Success"
                 ],
-                "WORK_OF_ART": [
-                    "target=\"_blank\">Think Fast, Talk Smart LinkedIn page</a>.</p><p><em",
-                    "target=\"_blank\">\u201cIf Not You, Then Who\u201d</a></li></ul><p>See Privacy Policy"
+                "PRODUCT": [
+                    "Notes"
                 ],
-                "GPE": [
-                    "California"
+                "WORK_OF_ART": [
+                    "Telling your Story Can Lead to"
                 ]
             }
         },
@@ -1188,31 +1170,23 @@
                 "PERSON": [
                     "Paul Oyer",
                     "Paul Oyer",
+                    "Talk Smart",
                     "Matt Abrahams",
-                    "Paul Oyer</p><p><a",
                     "Paul Oyer Explains How Economics",
-                    "William",
-                    "Richard Russo</p><p"
+                    "William ManchesterEmpire Falls",
+                    "Richard RussoSee"
                 ],
                 "ORG": [
                     "Oyer\u2019s",
-                    "Stanford Graduate School of Business",
-                    "the Economics of Sports</em"
+                    "Stanford Graduate School of Business"
                 ],
                 "GPE": [
-                    "dating.</p><p>\u201cEconomics",
                     "LinkedIn",
                     "California"
                 ],
                 "WORK_OF_ART": [
                     "Think Fast, Talk Smart",
-                    "An Economist Goes"
-                ],
-                "CARDINAL": [
-                    "away-580-million"
-                ],
-                "MONEY": [
-                    "$580 Million"
+                    "Notes: An Economist Goes to the Game: How to Throw Away $580 Million and Other Surprising Insights from the Economics of Sports"
                 ]
             }
         },
@@ -1242,7 +1216,8 @@
             "title": "Best Of:  Summer Learning Series, How Humor Can Be a Secret Weapon in Communication",
             "entities": {
                 "WORK_OF_ART": [
-                    "Summer Learning Series"
+                    "Summer Learning Series",
+                    "Humor, Seriously"
                 ],
                 "CARDINAL": [
                     "one"
@@ -1251,7 +1226,8 @@
                     "Stanford"
                 ],
                 "PERSON": [
-                    "target=\"_blank\">Naomi Bagdonas</a>"
+                    "Jennifer Aaker",
+                    "Naomi Bagdonas"
                 ],
                 "GPE": [
                     "California"
@@ -1283,33 +1259,34 @@
             "pubDate": "Tue, 21 Jun 2022 14:00:00 -0000",
             "title": "Courage, Ambiguity, Belonging and Data: How to Design Your Communication for Success",
             "entities": {
-                "WORK_OF_ART": [
-                    "target=\"_blank\">Think Fast, Talk Smart</a>,&nbsp;strategic",
-                    "The Secret Language of Maps</em",
-                    "target=\"_blank\">Website and Transcripts</a></p><p>Think Fast, Talk Smart",
-                    "Theater and Performance"
-                ],
-                "TIME": [
-                    "target=\"_blank\">Matt"
+                "PERSON": [
+                    "Talk Smart",
+                    "Matt Abrahams",
+                    "Ashish Goel",
+                    "Susie Wise",
+                    "Carissa Carter",
+                    "Andrea Small",
+                    "Talk Smart Website",
+                    "LinkedInAleta Hayes",
+                    "Talk Smart",
+                    "Sarah Stein Greenberg"
                 ],
                 "CARDINAL": [
                     "four",
                     "four",
                     "four"
                 ],
-                "NORP": [
-                    "Ashish",
-                    "target=\"_blank\">L</a><a"
-                ],
-                "PERSON": [
-                    "Belonging</em>;&nbsp;Carissa Carter",
-                    "Matt Abrahams",
-                    "Sarah Stein Greenberg</a><em",
-                    "Empathy"
-                ],
                 "ORG": [
-                    "href=\"https://news.stanford.edu",
-                    "Stanford Graduate School"
+                    "Stanford",
+                    "Courage",
+                    "Talk Smart LinkedIn CommunityMatt Abrahams",
+                    "Theater and Performance studiesInterpersonal Dynamics",
+                    "Stanford Graduate School of BusinessThink Fast",
+                    "Ideas & Empathy"
+                ],
+                "WORK_OF_ART": [
+                    "Design for Belonging",
+                    "The Secret Language of Maps"
                 ],
                 "GPE": [
                     "California"
@@ -1342,9 +1319,13 @@
             "title": "Communicating Uncertainty: How to Connect With Your Audience, Even When The Answers Aren\u2019t Clear",
             "entities": {
                 "PERSON": [
-                    "Matt Abrahams"
+                    "Talk Smart",
+                    "Lloyd Minor",
+                    "Matt Abrahams",
+                    "Talk Smart"
                 ],
                 "ORG": [
+                    "Stanford Medical School",
                     "Stanford Graduate School of Business"
                 ],
                 "GPE": [
@@ -1384,17 +1365,21 @@
                 "PERSON": [
                     "Huang",
                     "Huang",
+                    "Talk Smart",
+                    "Huang",
                     "Matt Abrahams",
-                    "Motivation</a"
-                ],
-                "WORK_OF_ART": [
-                    "target=\"_blank\">Think Fast, Talk Smart</a>&nbsp;<em",
-                    "Pursuit of the Same Goal Can Turn Friends Into",
-                    "Faculty Research"
+                    "Talk Smart"
                 ],
                 "ORG": [
                     "Stanford Graduate School of Business",
+                    "Show Notes\"How Pursuit",
                     "Stanford"
+                ],
+                "EVENT": [
+                    "the Same Goal Can Turn Friends Into Foes"
+                ],
+                "WORK_OF_ART": [
+                    "Faculty Research: Organizational Behavior and Human Decision Processes See Privacy Policy"
                 ],
                 "GPE": [
                     "California"
@@ -1429,18 +1414,17 @@
                 "PERSON": [
                     "Fred Luskin",
                     "Luskin",
+                    "Talk Smart",
                     "Matt Abrahams",
-                    "Luskin"
+                    "Luskin",
+                    "Talk Smart"
                 ],
-                "WORK_OF_ART": [
-                    "target=\"_blank\">Stanford University Forgiveness",
-                    "target=\"_blank\">Think Fast, Talk"
+                "ORG": [
+                    "Stanford University Forgiveness Project",
+                    "Stanford Graduate School of Business"
                 ],
                 "CARDINAL": [
                     "one"
-                ],
-                "ORG": [
-                    "Stanford Graduate School of Business"
                 ],
                 "GPE": [
                     "California"
@@ -1473,9 +1457,11 @@
             "title": "Are You Listening?: How to Stay Open and Curious to Other People\u2019s Ideas",
             "entities": {
                 "PERSON": [
+                    "Talk Smart",
                     "Kristin Hansen",
                     "Matt Abrahams",
-                    "Hansen"
+                    "Hansen",
+                    "Talk Smart"
                 ],
                 "ORG": [
                     "Civic Health Project",
@@ -1484,9 +1470,6 @@
                 "GPE": [
                     "U.S.",
                     "California"
-                ],
-                "WORK_OF_ART": [
-                    "target=\"_blank\">Think Fast, Talk Smart</a>&nbsp;<em"
                 ]
             }
         },
@@ -1515,22 +1498,18 @@
             "pubDate": "Tue, 12 Apr 2022 16:00:00 -0000",
             "title": "Lean Messaging: How Simple Messages Really Stick",
             "entities": {
-                "NORP": [
-                    "href=\"https://profiles.stanford.edu"
-                ],
                 "PERSON": [
-                    "Blank</a",
+                    "Talk Smart",
+                    "Steve Blank",
                     "Matt Abrahams",
+                    "Talk Smart",
                     "Lecturer Matt Abrahams"
                 ],
                 "ORG": [
                     "Stanford",
+                    "the\u00a0Department of Management Science and Engineering",
                     "Lean Startups",
                     "Stanford Graduate School of Business"
-                ],
-                "WORK_OF_ART": [
-                    "target=\"_blank\">Department of Management Science",
-                    "target=\"_blank\">Think Fast, Talk Smart</a>&nbsp;<em"
                 ],
                 "DATE": [
                     "45 years"
@@ -1572,6 +1551,7 @@
                 ],
                 "ORG": [
                     "the Hasso Plattner Institute of Design",
+                    "Stanford",
                     "Abrahams"
                 ],
                 "GPE": [
@@ -1642,20 +1622,16 @@
             "pubDate": "Tue, 01 Mar 2022 16:00:00 -0000",
             "title": "Step Up and Stand Out: How to Create the Right Environment for Communication",
             "entities": {
-                "FAC": [
-                    "target=\"_blank\">Jonathan Levav</a"
+                "PERSON": [
+                    "Jonathan Levav",
+                    "Matt Abrahams",
+                    "Talk Smart"
                 ],
                 "ORG": [
                     "the King Philanthropies Professor of Marketing",
                     "Levav",
                     "Levav",
                     "Stanford Graduate School of Business"
-                ],
-                "PERSON": [
-                    "Matt Abrahams"
-                ],
-                "WORK_OF_ART": [
-                    "target=\"_blank\">Think Fast, Talk"
                 ],
                 "GPE": [
                     "California"
@@ -1688,12 +1664,11 @@
             "title": "Communicating Our Mistakes: How to Avoid Common Flaws and Make Better Decisions ",
             "entities": {
                 "PERSON": [
+                    "Talk Smart",
                     "Matt Abrahams",
                     "Jonathan Berk",
-                    "Jules van Binsbergen"
-                ],
-                "WORK_OF_ART": [
-                    "target=\"_blank\">Think Fast, Talk Smart</a>&nbsp;<em"
+                    "Jules van Binsbergen",
+                    "Talk Smart"
                 ],
                 "ORG": [
                     "Stanford Graduate School of Business"
@@ -1769,20 +1744,19 @@
             "pubDate": "Wed, 02 Feb 2022 17:00:00 -0000",
             "title": "Telling Good Stories: How to Use the Elements of Narrative to Keep Listeners Engaged",
             "entities": {
+                "PERSON": [
+                    "Paula Moya",
+                    "Contemporary Literary",
+                    "Talk Smart",
+                    "Moya",
+                    "Matt Abrahams",
+                    "Moya",
+                    "Talk Smart"
+                ],
                 "ORG": [
-                    "href=\"https://english.stanford.edu",
                     "Stanford University",
                     "The Social Imperative: Race, Close Reading",
-                    "Contemporary Literary Criticism</em>.&nbsp;</p><p",
                     "Stanford Graduate School of Business"
-                ],
-                "PERSON": [
-                    "Talk Smart",
-                    "Matt Abrahams",
-                    "Moya"
-                ],
-                "WORK_OF_ART": [
-                    "target=\"_blank\">Think Fast, Talk"
                 ],
                 "GPE": [
                     "California"
@@ -1815,11 +1789,9 @@
             "title": "Make Numbers Count: How to Communicate Data Effectively ",
             "entities": {
                 "PERSON": [
+                    "Chip Heath",
                     "Matt Abrahams",
-                    "\u201c&nbsp;</p><p><a"
-                ],
-                "WORK_OF_ART": [
-                    "target=\"_blank\">Think Fast, Talk Smart</a>&nbsp;<em"
+                    "Talk Smart"
                 ],
                 "ORG": [
                     "Stanford Graduate School of Business"
@@ -1855,13 +1827,15 @@
             "title": "Speaking Up Without Freaking Out: How to Tackle Communication Anxiety",
             "entities": {
                 "PERCENT": [
-                    "p>\u201cEighty five percent",
+                    "Eighty five percent",
                     "the other",
                     "15%"
                 ],
                 "PERSON": [
                     "Matt Abrahams",
+                    "Talk Smart",
                     "Matt Abrahams",
+                    "Talk Smart",
                     "Matt Abrahams"
                 ],
                 "ORG": [
@@ -1872,10 +1846,8 @@
                 "CARDINAL": [
                     "one"
                 ],
-                "WORK_OF_ART": [
-                    "target=\"_blank\">Think Fast, Talk Smart</a>&nbsp;<em"
-                ],
                 "GPE": [
+                    "stanford.io/AMP",
                     "California"
                 ]
             }
@@ -1907,15 +1879,14 @@
             "entities": {
                 "ORG": [
                     "Stanford Graduate School of Business",
+                    "the Center for Entrepreneurial Studies",
                     "Stanford Graduate School of Business"
                 ],
                 "PERSON": [
-                    "Stephanos Zenios</a",
-                    "Startup Garage</a"
-                ],
-                "WORK_OF_ART": [
-                    "target=\"_blank\">Center for Entrepreneurial Studies</a",
-                    "target=\"_blank\">Think Fast, Talk Smart</a"
+                    "Stephanos Zenios",
+                    "Zenios",
+                    "Startup Garage",
+                    "Talk Smart"
                 ],
                 "GPE": [
                     "California"
@@ -1947,18 +1918,16 @@
             "pubDate": "Fri, 03 Dec 2021 02:00:00 -0000",
             "title": "Stay Creative: How to Keep Your Ideas Fresh and Practical",
             "entities": {
-                "WORK_OF_ART": [
-                    "target=\"_blank\">Justin Berg</a>",
-                    "target=\"_blank\">Think Fast, Talk Smart</a><em"
+                "PERSON": [
+                    "Justin Berg",
+                    "Talk Smart",
+                    "Berg",
+                    "Matt Abrahams",
+                    "Talk Smart"
                 ],
                 "ORG": [
                     "Stanford Graduate School of Business",
                     "Stanford Graduate School of Business"
-                ],
-                "PERSON": [
-                    "Talk Smart",
-                    "Berg",
-                    "Matt Abrahams"
                 ],
                 "GPE": [
                     "California"
@@ -1992,14 +1961,13 @@
             "entities": {
                 "PERSON": [
                     "Talk Smart",
-                    "Matt"
+                    "Matt Abrahams",
+                    "Matt",
+                    "Talk Smart"
                 ],
                 "ORG": [
                     "Stanford",
                     "Stanford Graduate School of Business"
-                ],
-                "TIME": [
-                    "target=\"_blank\">Matt"
                 ],
                 "ORDINAL": [
                     "first"
@@ -2008,8 +1976,8 @@
                     "three",
                     "three"
                 ],
-                "WORK_OF_ART": [
-                    "target=\"_blank\">Think Fast, Talk"
+                "DATE": [
+                    "the holiday season"
                 ],
                 "GPE": [
                     "California"
@@ -2044,30 +2012,25 @@
                 "ORG": [
                     "Stanford",
                     "Stanford Graduate School of Business",
-                    "Washington Post",
+                    "Briggs Washington Post",
+                    "New York UniversityKay Kostopolous",
                     "Actor",
-                    "Actor"
-                ],
-                "WORK_OF_ART": [
-                    "target=\"_blank\">Melissa Jones Briggs</a>",
-                    "target=\"_blank\">Think Fast, Talk Smart</a><em",
-                    "target=\"_blank\">Kay Kostopolous</a>"
+                    "Drama TeacherSee Privacy Policy"
                 ],
                 "PERSON": [
+                    "Melissa Jones Briggs",
                     "Jones Briggs",
                     "Matt Abrahams",
                     "Jones Briggs",
-                    "Melissa Jones",
-                    "target=\"_blank\">Kenji Yoshino</a>",
-                    "Theater",
-                    "Drama"
-                ],
-                "GPE": [
-                    "New York",
-                    "California"
+                    "Talk Smart",
+                    "Kenji Yoshino",
+                    "Theater CoachErving Grossman"
                 ],
                 "NORP": [
                     "Canadian-American"
+                ],
+                "GPE": [
+                    "California"
                 ]
             }
         },
@@ -2099,26 +2062,25 @@
                 "ORDINAL": [
                     "first"
                 ],
+                "PERSON": [
+                    "Talk Smart",
+                    "Phillip Zimbardo",
+                    "Matt Abrahams",
+                    "Zimbardo",
+                    "Talk Smart"
+                ],
                 "ORG": [
                     "Stanford",
                     "Stanford Graduate School of Business"
                 ],
-                "GPE": [
-                    "href=\"https://psychology.stanford.edu",
-                    "California"
-                ],
-                "WORK_OF_ART": [
-                    "target=\"_blank\">Phillip Zimbardo</a>&nbsp;sits",
-                    "target=\"_blank\">Stanford Prison Experiment</a>&nbsp",
-                    "target=\"_blank\">Think Fast, Talk"
-                ],
-                "PERSON": [
-                    "Matt Abrahams",
-                    "Zimbardo"
-                ],
                 "CARDINAL": [
-                    "two",
-                    "1971&nbsp;<a"
+                    "two"
+                ],
+                "DATE": [
+                    "1971"
+                ],
+                "GPE": [
+                    "California"
                 ]
             }
         },
@@ -2149,20 +2111,20 @@
             "entities": {
                 "PERSON": [
                     "Collins Dobbs",
+                    "Talk Smart",
+                    "Dobbs",
                     "Matt Abrahams",
-                    "Dobbs"
+                    "Dobbs",
+                    "Leadership Labs",
+                    "Talk Smart"
                 ],
                 "ORG": [
                     "Stanford Graduate School of Business",
-                    "including&nbsp;Interpersonal Dynamics",
+                    "Interpersonal Dynamics",
                     "Stanford Graduate School of Business"
                 ],
                 "GPE": [
-                    "Talk Smart</em>,&nbsp;Dobbs",
                     "California"
-                ],
-                "WORK_OF_ART": [
-                    "target=\"_blank\">Think Fast, Talk Smart</a>&nbsp;<em"
                 ]
             }
         },
@@ -2191,18 +2153,16 @@
             "pubDate": "Thu, 30 Sep 2021 22:30:00 -0000",
             "title": "Speak like a Founder: How Successful Entrepreneurs Communicate to Their Teams",
             "entities": {
-                "PERSON": [
-                    "target=\"_blank\">Stefanos Zenios</a",
-                    "Talk Smart",
-                    "Zenios"
-                ],
                 "ORG": [
+                    "Stefanos Zenios",
                     "The Investment Group",
-                    "Information &",
                     "Stanford"
                 ],
-                "TIME": [
-                    "target=\"_blank\">Matt"
+                "PERSON": [
+                    "Talk Smart",
+                    "Matt Abrahams",
+                    "Zenios",
+                    "Startup Garage"
                 ],
                 "GPE": [
                     "California"
@@ -2239,7 +2199,7 @@
                     "the Stanford Mind and Body Lab"
                 ],
                 "PERSON": [
-                    "Alia",
+                    "Alia Crum",
                     "Crum",
                     "Matt Abrahams"
                 ],
@@ -2274,12 +2234,14 @@
             "title": "Brains Love Stories: How Leveraging Neuroscience Can Capture People's Emotions",
             "entities": {
                 "PERSON": [
+                    "Talk Smart",
                     "Matt Abrahams",
+                    "David Eagleman",
                     "Eagleman"
                 ],
                 "ORG": [
                     "PBS",
-                    "href=\"https://www.pbs.org"
+                    "Brain"
                 ],
                 "GPE": [
                     "California"
@@ -2311,16 +2273,16 @@
             "pubDate": "Thu, 19 Aug 2021 13:00:00 -0000",
             "title": "The New Normal: How Hybrid Work Actually Works",
             "entities": {
+                "CARDINAL": [
+                    "One"
+                ],
                 "PERSON": [
                     "Pamela Hinds",
                     "Fortinet Founders Chair",
                     "Matt Abrahams"
                 ],
                 "ORG": [
-                    "Stanford"
-                ],
-                "NORP": [
-                    "href=\"https://profiles.stanford.edu"
+                    "Stanford University"
                 ],
                 "GPE": [
                     "California"
@@ -2354,12 +2316,13 @@
             "entities": {
                 "PERSON": [
                     "Talk Smart",
-                    "Lecturer Robert",
-                    "Matt Abrahams"
+                    "Lecturer Robert Siegel",
+                    "Matt Abrahams",
+                    "Siegel"
                 ],
                 "ORG": [
                     "Stanford",
-                    "Digital and Physical"
+                    "Digital and Physical Specifically"
                 ],
                 "WORK_OF_ART": [
                     "The Brains and Brawn Company: How Leading Organizations Blend the Best of"
@@ -2396,7 +2359,7 @@
             "entities": {
                 "PERSON": [
                     "Talk Smart",
-                    "target=\"_blank\">Sara Singe</a>",
+                    "Sara Singer",
                     "Matt Abrahams"
                 ],
                 "ORG": [
@@ -2438,12 +2401,13 @@
                 ],
                 "PERSON": [
                     "Talk Smart",
+                    "Jeff Immelt",
                     "Matt Abrahams",
                     "Immelt"
                 ],
                 "ORG": [
                     "General Electric",
-                    "Stanford Graduate School of Business lecturer&nbsp;<a href=\"https://www.linkedin.com"
+                    "Stanford Graduate School of Business"
                 ],
                 "GPE": [
                     "California"
@@ -2475,20 +2439,22 @@
             "pubDate": "Thu, 03 Jun 2021 17:00:00 -0000",
             "title": "How We Gain \u2014 Or Give Away \u2014 Authority While Speaking",
             "entities": {
+                "WORK_OF_ART": [
+                    "Simple language"
+                ],
                 "PERSON": [
                     "Jeffrey Pfeffer",
+                    "Talk Smart",
                     "Matt Abrahams",
-                    "Jeffrey Pfeffer"
-                ],
-                "ORG": [
-                    "href=\"https://jeffreypfeffer.com",
-                    "Stanford Graduate School of Business"
-                ],
-                "WORK_OF_ART": [
-                    "target=\"_blank\">Think Fast, Talk Smart</a>&nbsp;<em"
+                    "Jeffrey Pfeffer",
+                    "Talk Smart"
                 ],
                 "GPE": [
+                    "Paycheck",
                     "California"
+                ],
+                "ORG": [
+                    "Stanford Graduate School of Business"
                 ]
             }
         },
@@ -2519,14 +2485,13 @@
             "entities": {
                 "PERSON": [
                     "Andrew Huberman",
-                    "Matt Abrahams"
+                    "Matt Abrahams",
+                    "Huberman",
+                    "Talk Smart"
                 ],
                 "ORG": [
                     "Stanford University",
                     "Stanford Graduate School of Business"
-                ],
-                "WORK_OF_ART": [
-                    "target=\"_blank\">Think Fast, Talk Smart</a>&nbsp;<em"
                 ],
                 "GPE": [
                     "California"
@@ -2558,20 +2523,21 @@
             "pubDate": "Thu, 22 Apr 2021 17:20:51 -0000",
             "title": "Speech That Empowers: How to Encourage Growth and Resilience in a Younger Audience",
             "entities": {
+                "ORG": [
+                    "Communication",
+                    "Stanford University",
+                    "Lythcott-Haims",
+                    "Stanford Graduate School of Business"
+                ],
                 "PERSON": [
                     "Julie Lythcott-Haims",
                     "Talk Smart",
                     "Matt Abrahams",
                     "Adult",
-                    "\u201d</p><p><a"
-                ],
-                "ORG": [
-                    "Stanford",
-                    "Lythcott-Haims",
-                    "Stanford Graduate School of Business"
+                    "Talk Smart"
                 ],
                 "WORK_OF_ART": [
-                    "target=\"_blank\">Think Fast, Talk Smart</a"
+                    "Your Turn: How to be an"
                 ],
                 "GPE": [
                     "California"
@@ -2607,13 +2573,11 @@
                     "millions"
                 ],
                 "PERSON": [
-                    "Talk Smart,</em",
+                    "Talk Smart",
                     "Matt Abrahams",
                     "Associate Dean",
-                    "Sarah Soule"
-                ],
-                "WORK_OF_ART": [
-                    "target=\"_blank\">Think Fast, Talk Smart</a>&nbsp;<em"
+                    "Sarah Soule",
+                    "Talk Smart"
                 ],
                 "ORG": [
                     "Stanford Graduate School of Business"
@@ -2648,21 +2612,20 @@
             "pubDate": "Wed, 31 Mar 2021 22:00:00 -0000",
             "title": "Dissolve Disagreements: How Communication Impacts Conflict",
             "entities": {
-                "GPE": [
-                    "Halevy</a",
-                    "California"
-                ],
                 "ORG": [
+                    "Nir Halevy",
                     "Stanford Graduate School of Business",
                     "Stanford Graduate School of Business"
                 ],
                 "PERSON": [
+                    "Talk Smart",
                     "Halevy",
                     "Matt Abrahams",
-                    "Halevy"
+                    "Halevy",
+                    "Talk Smart"
                 ],
-                "WORK_OF_ART": [
-                    "target=\"_blank\">Think Fast, Talk Smart</a>&nbsp;<em"
+                "GPE": [
+                    "California"
                 ]
             }
         },
@@ -2691,18 +2654,19 @@
             "pubDate": "Thu, 11 Mar 2021 21:00:00 -0000",
             "title": "Question Everything: Why Curiosity Is Communication\u2019s Secret Weapon  ",
             "entities": {
+                "PERSON": [
+                    "Talk Smart",
+                    "Matt Abrahams",
+                    "Debra Schifrin",
+                    "Talk Smart",
+                    "Matt Abrahams"
+                ],
                 "ORG": [
                     "Stanford Graduate School of Business",
                     "Stanford Graduate School of Business"
                 ],
-                "PERSON": [
-                    "Matt Abrahams",
-                    "Debra Schifrin",
-                    "Schifrin",
-                    "Matt Abrahams"
-                ],
-                "WORK_OF_ART": [
-                    "target=\"_blank\">Think Fast, Talk Smart</a>&nbsp;<em"
+                "PRODUCT": [
+                    "Schifrin"
                 ],
                 "GPE": [
                     "California"
@@ -2738,7 +2702,7 @@
                     "Stanford",
                     "Interpersonal Dynamics",
                     "Stanford",
-                    "href=\"https://connectandrelate.com/",
+                    "Interpersonal Dynamics",
                     "Stanford Graduate School of Business"
                 ],
                 "DATE": [
@@ -2747,16 +2711,13 @@
                 "CARDINAL": [
                     "thousands"
                 ],
-                "TIME": [
-                    "target=\"_blank\">Matt"
-                ],
                 "PERSON": [
-                    "david-l-bradford",
+                    "Talk Smart",
+                    "Matt Abrahams",
+                    "David Bradford",
+                    "Carole Robin",
                     "Robin",
-                    "Talk Smart</em></a><em>&nbsp;is"
-                ],
-                "WORK_OF_ART": [
-                    "target=\"_blank\">David Bradford</a>&nbsp;and Carole Robin,&nbsp;lecturer"
+                    "Talk Smart"
                 ],
                 "GPE": [
                     "Bradford",
@@ -2795,18 +2756,17 @@
                     "Talk Smart",
                     "Matt Abrahams",
                     "Hancock",
-                    "Hancock"
+                    "Hancock",
+                    "Talk Smart"
                 ],
                 "ORG": [
                     "the Stanford Social Media Lab",
                     "the Department of Communication",
+                    "Stanford",
                     "Stanford Graduate School of Business"
                 ],
                 "ORDINAL": [
                     "first"
-                ],
-                "WORK_OF_ART": [
-                    "target=\"_blank\">Think Fast, Talk Smart</a>&nbsp;<em"
                 ],
                 "GPE": [
                     "California"
@@ -2839,16 +2799,16 @@
             "title": "Writing to Win: How to Quickly Capture Readers and Keep Them Engaged",
             "entities": {
                 "PERSON": [
-                    "glenn-kramon",
-                    "target=\"_blank\">Glenn Kramon</a>",
+                    "Glenn Kramon",
+                    "Talk Smart",
                     "Matt Abrahams",
                     "Glenn Kramon"
                 ],
                 "ORG": [
-                    "Stanford"
+                    "Stanford",
+                    "the New York Times"
                 ],
                 "GPE": [
-                    "New York",
                     "California"
                 ]
             }
@@ -2881,11 +2841,12 @@
                 "CARDINAL": [
                     "more than 20"
                 ],
+                "PERSON": [
+                    "Talk Smart",
+                    "Matt Abrahams"
+                ],
                 "NORP": [
                     "Latin"
-                ],
-                "PERSON": [
-                    "Matt Abrahams"
                 ],
                 "GPE": [
                     "California"
@@ -2921,11 +2882,10 @@
                     "90 to 95%"
                 ],
                 "PERSON": [
+                    "Talk Smart",
                     "Matt Abrahams",
-                    "Shiv"
-                ],
-                "WORK_OF_ART": [
-                    "target=\"_blank\">Think Fast, Talk Smart</a"
+                    "Shiv",
+                    "Talk Smart"
                 ],
                 "ORG": [
                     "Stanford Graduate School of Business"
@@ -2964,10 +2924,10 @@
                     "Associate Dean",
                     "Brian Lowery",
                     "Matt Abrahams",
-                    "\u201d</p><p><a",
-                    "Talk Smart</em></a><em>&nbsp;is"
+                    "Talk Smart"
                 ],
                 "ORG": [
+                    "Society",
                     "Stanford Graduate School of Business"
                 ],
                 "GPE": [
@@ -3002,17 +2962,14 @@
             "entities": {
                 "PERSON": [
                     "Talk Smart",
-                    "david-f-demarest",
-                    "Matt Abrahams"
+                    "David Demarest",
+                    "Matt Abrahams",
+                    "Privacy Policy"
                 ],
                 "ORG": [
                     "Stanford Graduate School of Business",
                     "Stanford University\u2019s",
-                    "Demarest</a",
                     "Stanford Graduate School of Business"
-                ],
-                "WORK_OF_ART": [
-                    "target=\"_blank\">Think Fast, Talk Smart</a"
                 ],
                 "GPE": [
                     "California"
@@ -3045,9 +3002,11 @@
             "title": "Words Matter: How to Make Your Communication Inclusive ",
             "entities": {
                 "PERSON": [
-                    "Talk Smart,</em",
+                    "Talk Smart",
+                    "Sarah Soule",
                     "Associate Dean",
-                    "Matt Abrahams"
+                    "Matt Abrahams",
+                    "Talk Smart"
                 ],
                 "ORG": [
                     "Stanford Graduate School of Business"
@@ -3087,13 +3046,14 @@
                     "Tina Seelig",
                     "Matt Abrahams",
                     "Seelig",
-                    "Talk Smart"
+                    "Talk Smart",
+                    "Knight Hennessy"
                 ],
                 "ORG": [
                     "Stanford",
                     "Management Science and Engineering",
                     "Stanford Graduate School of Business",
-                    "target=\"_blank\">Stanford Technology Ventures Program"
+                    "CreativityStanford Technology Ventures Program"
                 ],
                 "GPE": [
                     "California"
@@ -3126,7 +3086,7 @@
             "title": "Showing Your Smile From Behind a Mask: How Culture and Emotion Impact Communication ",
             "entities": {
                 "PERSON": [
-                    "Talk Smart,</em",
+                    "Talk Smart",
                     "Matt Abrahams",
                     "Jeanne Tsai",
                     "Jeanne",
@@ -3136,6 +3096,7 @@
                 "ORG": [
                     "Stanford",
                     "the Culture and Emotion Lab",
+                    "Communication",
                     "Stanford Graduate School of Business"
                 ],
                 "GPE": [
@@ -3170,8 +3131,10 @@
             "entities": {
                 "PERSON": [
                     "Talk Smart",
+                    "Christian Wheeler",
                     "Matt Abrahams",
-                    "Wheeler"
+                    "Wheeler",
+                    "Talk Smart"
                 ],
                 "ORG": [
                     "the StrataComm Professor of Management and Professor of Marketing",
@@ -3208,28 +3171,29 @@
             "pubDate": "Thu, 13 Aug 2020 07:00:00 -0000",
             "title": "Think Fast: You Asked, We Answered",
             "entities": {
+                "PERSON": [
+                    "Talk Smart",
+                    "Matt Abrahams",
+                    "Shawon Jackon",
+                    "Talk Smart",
+                    "Matt Abrahams"
+                ],
                 "ORG": [
                     "Stanford",
                     "Shawon",
                     "Stanford",
+                    "Harvard Kennedy School",
                     "Stanford Graduate School of Business"
                 ],
                 "PRODUCT": [
                     "GSB",
                     "GSB"
                 ],
-                "PERSON": [
-                    "Matt Abrahams",
-                    "Shawon Jackon",
-                    "Harvard Kennedy",
-                    "Matt Abrahams"
-                ],
                 "WORK_OF_ART": [
                     "MBA"
                 ],
                 "DATE": [
-                    "21",
-                    "School.&nbsp;</p><p><a"
+                    "21"
                 ],
                 "GPE": [
                     "California"
@@ -3262,8 +3226,9 @@
             "title": "Quick Think: How to Craft Your Body Language When Confronting Objections",
             "entities": {
                 "PERSON": [
+                    "Talk Smart",
                     "Matt Abrahams",
-                    "Talk Smart</em></a><em>&nbsp;is",
+                    "Talk Smart",
                     "Matt Abrahams"
                 ],
                 "ORG": [
@@ -3300,23 +3265,22 @@
             "pubDate": "Thu, 16 Jul 2020 19:00:00 -0000",
             "title": "The Art of Negotiation: How to Get More of What You Want",
             "entities": {
-                "PERSON": [
-                    "Matt",
-                    "Maggie Neale",
-                    "Talk Smart</em></a><em>&nbsp;is",
-                    "Matt Abrahams"
-                ],
                 "ORG": [
                     "Stanford",
                     "Maggie",
                     "Stanford Graduate School of Business"
                 ],
                 "PRODUCT": [
-                    "GSB",
-                    "solving.&nbsp;Listen"
+                    "GSB"
+                ],
+                "PERSON": [
+                    "Maggie Neale",
+                    "Talk Smart",
+                    "Matt Abrahams"
                 ],
                 "GPE": [
                     "Business",
+                    "Life",
                     "California"
                 ],
                 "DATE": [
@@ -3349,9 +3313,13 @@
             "pubDate": "Thu, 02 Jul 2020 19:00:00 -0000",
             "title": "Be Better At Work: How to Communicate Better With Coworkers and Employees",
             "entities": {
+                "DATE": [
+                    "groups?In"
+                ],
                 "PERSON": [
                     "Matt Abrahams",
                     "Bob Sutton",
+                    "Talk Smart",
                     "Lecturer Matt Abrahams"
                 ],
                 "ORG": [
@@ -3391,11 +3359,12 @@
             "title": "Make \u2019Em Laugh: How to Use Humor as a Secret Weapon in Your Communication",
             "entities": {
                 "PERSON": [
-                    "Abrahams</a",
+                    "Talk Smart",
+                    "Matt Abrahams",
                     "Jennifer Aaker",
                     "Lecturer Naomi",
                     "Aaker",
-                    "Humor-Seriously-Secret-Business-harness",
+                    "Talk Smart",
                     "Matt Abrahams"
                 ],
                 "ORG": [
@@ -3405,6 +3374,9 @@
                 "GPE": [
                     "Bagdonas",
                     "California"
+                ],
+                "NORP": [
+                    "Humor"
                 ],
                 "DATE": [
                     "October of this year"
@@ -3621,6 +3593,7 @@
             "title": "Quick Think: Use This Framework to Speak up in Virtual Meetings",
             "entities": {
                 "PERSON": [
+                    "Talk Smart",
                     "Matt Abrahams"
                 ],
                 "CARDINAL": [
@@ -3656,12 +3629,11 @@
             "pubDate": "Fri, 27 Mar 2020 20:57:08 -0000",
             "title": "Quick Think: Communicating and Leading Virtually",
             "entities": {
-                "PERSON": [
-                    "Quick Thinks</em",
-                    "Matt Abrahams"
-                ],
                 "ORG": [
                     "Stanford"
+                ],
+                "PERSON": [
+                    "Matt Abrahams"
                 ],
                 "GPE": [
                     "California"
@@ -3730,12 +3702,13 @@
             "pubDate": "Thu, 27 Feb 2020 19:00:00 -0000",
             "title": "The Journey to Mastery: How Self Reflection Can Improve Communication ",
             "entities": {
-                "ORG": [
-                    "Talk Smart,&nbsp;Stanford Graduate School of Business"
-                ],
                 "PERSON": [
+                    "Talk Smart",
                     "JD Schramm",
                     "Matt Abrahams"
+                ],
+                "ORG": [
+                    "Stanford Graduate School of Business"
                 ],
                 "GPE": [
                     "California"
@@ -3767,13 +3740,12 @@
             "pubDate": "Tue, 11 Feb 2020 23:00:00 -0000",
             "title": "When Knowing Too Much Can Hurt Your Communication: How to Make Complex Ideas Accessible",
             "entities": {
-                "ORG": [
-                    "scientific)&nbsp;and",
-                    "jargon"
-                ],
                 "GPE": [
                     "n\u2019t",
                     "California"
+                ],
+                "ORG": [
+                    "jargon"
                 ],
                 "PERSON": [
                     "Talk Smart",
@@ -3849,7 +3821,8 @@
                 "PERSON": [
                     "Matt Abrahams",
                     "Adam Tobin",
-                    "Dan Klein"
+                    "Dan Klein",
+                    "Talk Smart"
                 ],
                 "GPE": [
                     "California"
@@ -3945,7 +3918,8 @@
     "title": "Think Fast, Talk Smart: Communication Techniques",
     "entities": {
         "PERSON": [
-            "Matt Abrahams"
+            "Matt Abrahams",
+            "Talk Smart"
         ],
         "ORG": [
             "Strategic Communication",

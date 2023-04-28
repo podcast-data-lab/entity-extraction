@@ -38,6 +38,9 @@
             "pubDate": "Thu, 27 Apr 2023 17:00:00 +0000",
             "title": "#167 Questions on Mission, Evangelism, Islam and other religions",
             "entities": {
+                "ORDINAL": [
+                    "First"
+                ],
                 "DATE": [
                     "2019"
                 ],
@@ -45,20 +48,20 @@
                     "Tom Wright",
                     "Jesus",
                     "Jesus",
-                    "block\">And Tom",
+                    "Tom",
                     "Tom"
                 ],
                 "NORP": [
-                    "post-Christian"
+                    "post-Christian",
+                    "Muslim"
                 ],
                 "PRODUCT": [
+                    "\u2022 Subscribe",
+                    "\u2022",
                     "eBook"
                 ],
                 "GPE": [
                     "USA"
-                ],
-                "ORG": [
-                    "href='http://www.premierinsight.org"
                 ]
             }
         },
@@ -89,24 +92,23 @@
             "pubDate": "Thu, 20 Apr 2023 17:00:00 +0000",
             "title": "#166 Justin Brierley asks Tom Wright his own personal questions",
             "entities": {
-                "ORG": [
-                    "Brierley",
-                    "the Anglican Church",
-                    "Justin",
-                    "href='http://www.premierinsight.org"
+                "PERSON": [
+                    "Justin Brierley",
+                    "Tom",
+                    "Tom"
                 ],
                 "LOC": [
                     "the Ask NT Wright Anything"
                 ],
-                "PERSON": [
-                    "Tom",
-                    "Tom"
-                ],
                 "WORK_OF_ART": [
                     "Bible"
                 ],
+                "ORG": [
+                    "the Anglican Church",
+                    "Justin"
+                ],
                 "PRODUCT": [
-                    "block\">Keep",
+                    "\u2022",
                     "eBook"
                 ],
                 "GPE": [
@@ -149,17 +151,16 @@
                 "ORDINAL": [
                     "first"
                 ],
-                "CARDINAL": [
-                    "2019.</p"
+                "DATE": [
+                    "2019"
                 ],
                 "PRODUCT": [
+                    "\u2022 Subscribe",
+                    "\u2022",
                     "eBook"
                 ],
                 "GPE": [
                     "USA"
-                ],
-                "ORG": [
-                    "href='http://www.premierinsight.org"
                 ]
             }
         },
@@ -190,24 +191,25 @@
             "pubDate": "Thu, 06 Apr 2023 17:00:00 +0000",
             "title": "#164 Easter questions on the resurrection of Jesus",
             "entities": {
-                "ORG": [
-                    "Easter",
-                    "Biblical",
-                    "href='http://www.premierinsight.org"
-                ],
                 "PERSON": [
+                    "Easter",
                     "Tom",
                     "Jesus",
                     "Jordan B Peterson",
                     "Tom"
                 ],
+                "ORG": [
+                    "Biblical"
+                ],
                 "ORDINAL": [
                     "First"
                 ],
-                "CARDINAL": [
-                    "2019.</p"
+                "DATE": [
+                    "2019"
                 ],
                 "PRODUCT": [
+                    "\u2022 Subscribe",
+                    "\u2022",
                     "eBook"
                 ],
                 "GPE": [
@@ -253,17 +255,16 @@
                 "ORDINAL": [
                     "first"
                 ],
-                "CARDINAL": [
-                    "2019.</p"
+                "DATE": [
+                    "2019"
                 ],
                 "PRODUCT": [
+                    "\u2022 Subscribe",
+                    "\u2022",
                     "eBook"
                 ],
                 "GPE": [
                     "USA"
-                ],
-                "ORG": [
-                    "href='http://www.premierinsight.org"
                 ]
             }
         },
@@ -296,7 +297,8 @@
             "entities": {
                 "DATE": [
                     "2019",
-                    "today"
+                    "today",
+                    "2019"
                 ],
                 "PERSON": [
                     "Tom",
@@ -305,16 +307,14 @@
                 "ORG": [
                     "the New Testament",
                     "Transgender",
-                    "Times",
-                    "href='http://www.premierinsight.org"
+                    "Times"
                 ],
                 "ORDINAL": [
                     "First"
                 ],
-                "CARDINAL": [
-                    "2019.</p"
-                ],
                 "PRODUCT": [
+                    "\u2022 Subscribe",
+                    "\u2022",
                     "eBook"
                 ],
                 "GPE": [
@@ -349,18 +349,18 @@
             "pubDate": "Thu, 16 Mar 2023 18:00:00 +0000",
             "title": "#161 Housebound prayers, computer programming, art and music - what counts as kingdom work?",
             "entities": {
+                "PERSON": [
+                    "Tom",
+                    "Tom"
+                ],
                 "GPE": [
                     "Kingdom",
                     "USA"
                 ],
                 "PRODUCT": [
+                    "\u2022 Subscribe",
+                    "\u2022",
                     "eBook"
-                ],
-                "PERSON": [
-                    "Tom"
-                ],
-                "ORG": [
-                    "href='http://www.premierinsight.org"
                 ]
             }
         },
@@ -401,13 +401,12 @@
                     "Tom"
                 ],
                 "PRODUCT": [
+                    "\u2022 Subscribe",
+                    "\u2022",
                     "eBook"
                 ],
                 "GPE": [
                     "USA"
-                ],
-                "ORG": [
-                    "href='http://www.premierinsight.org"
                 ]
             }
         },
@@ -439,6 +438,7 @@
             "title": "#159 What difference does prayer make? Tom shares his prayer habits",
             "entities": {
                 "PERSON": [
+                    "Tom",
                     "Kelly",
                     "Jennifer",
                     "Tom",
@@ -449,10 +449,9 @@
                     "USA"
                 ],
                 "PRODUCT": [
+                    "\u2022 Subscribe",
+                    "\u2022",
                     "eBook"
-                ],
-                "ORG": [
-                    "href='http://www.premierinsight.org"
                 ]
             }
         },
@@ -483,18 +482,19 @@
             "pubDate": "Thu, 23 Feb 2023 18:00:00 +0000",
             "title": "#158 Why don\u2019t I hear from God any more?",
             "entities": {
-                "ORG": [
-                    "Justin",
-                    "href='http://www.premierinsight.org"
-                ],
                 "PERSON": [
+                    "Tom",
                     "Nicole",
                     "Shelagh",
                     "Robert",
                     "Tom",
                     "Tom"
                 ],
+                "ORG": [
+                    "Justin"
+                ],
                 "PRODUCT": [
+                    "\u2022",
                     "eBook"
                 ],
                 "GPE": [
@@ -530,28 +530,32 @@
             "title": "#157 Making sense of Adam, Eve and the Genesis creation story",
             "entities": {
                 "PERSON": [
-                    "Wright",
+                    "Tom Wright",
                     "Justin",
                     "Adam",
-                    "block\">John Walton",
+                    "Tom",
+                    "John Walton",
+                    "Gregory K Beale",
+                    "Jon D Levenson",
                     "Tom"
                 ],
                 "ORG": [
                     "Genesis",
-                    "Genesis",
-                    "href='http://www.premierinsight.org"
+                    "Genesis"
                 ],
                 "ORDINAL": [
                     "First"
                 ],
-                "CARDINAL": [
-                    "2019.</p"
+                "DATE": [
+                    "2019"
                 ],
                 "WORK_OF_ART": [
-                    "The Lost World of Genesis One'</p",
-                    "The Temple and the Church's Mission'</p"
+                    "The Lost World of Genesis One'\n\n\n\n\n",
+                    "The Temple and the Church's Mission'"
                 ],
                 "PRODUCT": [
+                    "\u2022 Subscribe",
+                    "\u2022",
                     "eBook"
                 ],
                 "GPE": [
@@ -591,7 +595,8 @@
                     "Tom"
                 ],
                 "DATE": [
-                    "the 20th\u00a0Century"
+                    "the 20th\u00a0Century",
+                    "2019"
                 ],
                 "NORP": [
                     "Anglican"
@@ -599,17 +604,13 @@
                 "ORDINAL": [
                     "First"
                 ],
-                "CARDINAL": [
-                    "2019.</p"
-                ],
                 "PRODUCT": [
+                    "\u2022 Subscribe",
+                    "\u2022",
                     "eBook"
                 ],
                 "GPE": [
                     "USA"
-                ],
-                "ORG": [
-                    "href='http://www.premierinsight.org"
                 ]
             }
         },
@@ -641,6 +642,7 @@
             "title": "#155 Making sense of Old Testament violence",
             "entities": {
                 "PERSON": [
+                    "Tom",
                     "Qs",
                     "Andy\u00a0Stanley",
                     "Greg\u00a0Boyd",
@@ -651,19 +653,18 @@
                 ],
                 "PRODUCT": [
                     "Exodus",
+                    "\u2022 Subscribe",
+                    "\u2022",
                     "eBook"
                 ],
                 "ORDINAL": [
                     "First"
                 ],
-                "CARDINAL": [
-                    "2019.</p"
+                "DATE": [
+                    "2019"
                 ],
                 "GPE": [
                     "USA"
-                ],
-                "ORG": [
-                    "href='http://www.premierinsight.org"
                 ]
             }
         },
@@ -696,8 +697,7 @@
             "entities": {
                 "ORG": [
                     "Unbelievable",
-                    "Justin",
-                    "href='http://www.premierinsight.org"
+                    "Justin"
                 ],
                 "PERSON": [
                     "John",
@@ -707,10 +707,12 @@
                 "ORDINAL": [
                     "First"
                 ],
-                "CARDINAL": [
-                    "2016.</p"
+                "DATE": [
+                    "2016"
                 ],
                 "PRODUCT": [
+                    "\u2022 Subscribe",
+                    "\u2022",
                     "eBook"
                 ],
                 "GPE": [
@@ -756,13 +758,17 @@
                     "Tom"
                 ],
                 "ORG": [
-                    "Reformers",
-                    "href='http://www.premierinsight.org"
+                    "Reformers"
+                ],
+                "ORDINAL": [
+                    "First"
                 ],
                 "DATE": [
                     "2019"
                 ],
                 "PRODUCT": [
+                    "\u2022 Subscribe",
+                    "\u2022",
                     "eBook"
                 ],
                 "GPE": [
@@ -797,22 +803,22 @@
             "pubDate": "Thu, 12 Jan 2023 18:00:00 +0000",
             "title": "#152 - Can women lead in church? Why does 1 Timothy tell women to \u2019be silent\u2019?",
             "entities": {
+                "PERSON": [
+                    "Tom",
+                    "Tim",
+                    "Tom"
+                ],
                 "ORG": [
-                    "the New Testament",
-                    "href='http://www.premierinsight.org"
+                    "the New Testament"
                 ],
                 "CARDINAL": [
                     "1",
                     "5",
-                    "22",
-                    "2019.</p"
-                ],
-                "PERSON": [
-                    "Tim",
-                    "Tom"
+                    "22"
                 ],
                 "DATE": [
-                    "2:13-15"
+                    "2:13-15",
+                    "2019"
                 ],
                 "NORP": [
                     "complementarian",
@@ -822,6 +828,8 @@
                     "First"
                 ],
                 "PRODUCT": [
+                    "\u2022 Subscribe",
+                    "\u2022",
                     "eBook"
                 ],
                 "GPE": [
@@ -867,7 +875,6 @@
                 ],
                 "PRODUCT": [
                     "the Reimagining Global Mission",
-                    "\u2022 Subscribe",
                     "eBook"
                 ],
                 "ORG": [
@@ -918,7 +925,6 @@
                 ],
                 "PRODUCT": [
                     "the Reimagining Global Mission",
-                    "\u2022 Subscribe",
                     "eBook"
                 ],
                 "ORG": [
@@ -971,34 +977,25 @@
             "pubDate": "Thu, 22 Dec 2022 18:00:00 +0000",
             "title": "#149 Can we trust the Christmas story? Responding to Bart Ehrman",
             "entities": {
-                "ORG": [
-                    "kVReQx",
-                    "Justin",
-                    "Ascension",
-                    "kVReQx",
-                    "kVReQx",
-                    "kVReQx",
-                    "kVReQx",
-                    "kVReQx",
-                    "kVReQx",
-                    "kVReQx",
-                    "kVReQx",
-                    "href='http://www.premierinsight.org",
-                    "kVReQx"
-                ],
                 "PERSON": [
-                    "block\">Tom Wright",
+                    "Tom Wright",
                     "Bart Ehrman",
                     "Tom"
                 ],
+                "ORG": [
+                    "Justin",
+                    "Ascension"
+                ],
                 "DATE": [
                     "about Christmas",
-                    "December 2018</p"
+                    "December 2018"
                 ],
                 "ORDINAL": [
                     "first"
                 ],
                 "PRODUCT": [
+                    "\u2022 Subscribe",
+                    "\u2022",
                     "eBook"
                 ],
                 "GPE": [
@@ -1033,32 +1030,12 @@
             "pubDate": "Thu, 15 Dec 2022 18:00:00 +0000",
             "title": "#148 NT Wright on Reimagining Mission in the Global South - Oxford Conference Session 1",
             "entities": {
-                "ORG": [
-                    "kVReQx",
-                    "the Good Shepherd Church",
-                    "kVReQx",
-                    "kVReQx",
-                    "kVReQx",
-                    "kVReQx",
-                    "kVReQx",
-                    "kVReQx",
-                    "kVReQx",
-                    "kVReQx",
-                    "kVReQx",
-                    "kVReQx",
-                    "kVReQx",
-                    "kVReQx",
-                    "kVReQx",
-                    "kVReQx",
-                    "href='http://www.premierinsight.org",
-                    "kVReQx"
-                ],
                 "PERSON": [
-                    "block\">NT Wright",
+                    "Wright",
                     "Bishop Joseph D'Souza",
                     "Tom",
                     "Jesus",
-                    "Joseph D'Souza",
+                    "Bishop Joseph D'Souza",
                     "Tom"
                 ],
                 "NORP": [
@@ -1067,11 +1044,15 @@
                 "WORK_OF_ART": [
                     "Reimagining Mission in the Global South"
                 ],
+                "ORG": [
+                    "the Good Shepherd Church"
+                ],
                 "GPE": [
                     "India",
                     "USA"
                 ],
                 "PRODUCT": [
+                    "\u2022",
                     "eBook"
                 ]
             }
@@ -1103,15 +1084,16 @@
             "pubDate": "Thu, 08 Dec 2022 18:00:00 +0000",
             "title": "#147 Catholics have questions",
             "entities": {
+                "NORP": [
+                    "Catholic",
+                    "Catholic",
+                    "Anglican"
+                ],
                 "PERSON": [
                     "Tom",
                     "Justin Bass",
                     "Tom",
                     "Tom"
-                ],
-                "NORP": [
-                    "Catholic",
-                    "Anglican"
                 ],
                 "DATE": [
                     "6 year old"
@@ -1120,13 +1102,11 @@
                     "'Harvesting The Fruits"
                 ],
                 "PRODUCT": [
+                    "\u2022",
                     "eBook"
                 ],
                 "GPE": [
                     "USA"
-                ],
-                "ORG": [
-                    "href='http://www.premierinsight.org"
                 ]
             }
         },
@@ -1157,14 +1137,14 @@
             "pubDate": "Thu, 01 Dec 2022 18:00:00 +0000",
             "title": "#146 Can a Christian vote for Biden? Can faith be disentangled from left vs right politics?",
             "entities": {
-                "ORG": [
-                    "Texan Bible",
-                    "href='http://www.premierinsight.org"
-                ],
                 "PERSON": [
+                    "Tom",
                     "Justin Bass",
                     "Joe Biden",
                     "Tom"
+                ],
+                "ORG": [
+                    "Texan Bible"
                 ],
                 "GPE": [
                     "US",
@@ -1177,6 +1157,8 @@
                     "post-Christian"
                 ],
                 "PRODUCT": [
+                    "\u2022 Subscribe",
+                    "\u2022",
                     "eBook"
                 ]
             }
@@ -1209,9 +1191,7 @@
             "title": "#145 Should I use the word \u2019heaven\u2019? Will we know everything in the new creation?",
             "entities": {
                 "ORG": [
-                    "Old Testament",
-                    "href='https://www.premierunbelievable.com",
-                    "href='http://www.premierinsight.org"
+                    "Old Testament"
                 ],
                 "PERSON": [
                     "Jesus",
@@ -1227,7 +1207,10 @@
                     "Tuesday"
                 ],
                 "PRODUCT": [
-                    "eBook"
+                    "\u2022 Subscribe",
+                    "\u2022",
+                    "eBook",
+                    "\u2022 Support"
                 ]
             }
         },
@@ -1259,7 +1242,7 @@
             "title": "#144 Why is John\u2019s Gospel so different? What did Paul know about Jesus?",
             "entities": {
                 "PERSON": [
-                    "block\">Tom Wright",
+                    "Tom Wright",
                     "Justin Brierley",
                     "John",
                     "Jesus",
@@ -1272,12 +1255,12 @@
                     "this week"
                 ],
                 "ORG": [
-                    "New Testament",
-                    "href='https://www.premierunbelievable.com",
-                    "href='http://www.premierinsight.org"
+                    "New Testament"
                 ],
                 "PRODUCT": [
-                    "eBook"
+                    "\u2022",
+                    "eBook",
+                    "\u2022 Support"
                 ],
                 "GPE": [
                     "USA"
@@ -1311,28 +1294,29 @@
             "pubDate": "Thu, 10 Nov 2022 18:00:00 +0000",
             "title": "#143 The bedrock facts of the resurrection - NT Wright & Justin Bass",
             "entities": {
-                "ORG": [
-                    "Brierley",
-                    "New Testament",
-                    "href='https://www.premierunbelievable.com",
-                    "href='http://www.premierinsight.org"
-                ],
                 "PERSON": [
+                    "Justin Brierley",
                     "Tom Wright",
                     "Justin Bass",
                     "Jesus",
                     "Jesus",
                     "Tom"
                 ],
+                "ORG": [
+                    "New Testament"
+                ],
                 "WORK_OF_ART": [
                     "\u2018The Bedrock of Christianity: The unalterable",
-                    "The Bedrock of Christianity'"
+                    "For 'The Bedrock of Christianity'"
                 ],
                 "NORP": [
                     "Christianity"
                 ],
                 "PRODUCT": [
-                    "eBook"
+                    "\u2022 Subscribe",
+                    "\u2022",
+                    "eBook",
+                    "\u2022 Support"
                 ],
                 "GPE": [
                     "USA"
@@ -1367,30 +1351,31 @@
             "title": "#142 What did St Paul believe about justification, election and salvation?",
             "entities": {
                 "PERSON": [
-                    "block\">Tom Wright",
+                    "Tom Wright",
                     "Paul",
                     "Tom"
                 ],
                 "ORG": [
-                    "Justin",
-                    "href='https://www.premierunbelievable.com",
-                    "href='http://www.premierinsight.org"
+                    "Justin"
                 ],
                 "WORK_OF_ART": [
                     "Paul: A Biography"
                 ],
                 "CARDINAL": [
-                    "three",
-                    "2019.</p"
+                    "three"
                 ],
                 "DATE": [
-                    "today"
+                    "today",
+                    "2019"
                 ],
                 "ORDINAL": [
                     "first"
                 ],
                 "PRODUCT": [
-                    "eBook"
+                    "\u2022 Subscribe",
+                    "\u2022",
+                    "eBook",
+                    "\u2022 Support"
                 ],
                 "GPE": [
                     "USA"
@@ -1424,15 +1409,16 @@
             "pubDate": "Thu, 27 Oct 2022 17:00:00 +0000",
             "title": "#141 How do I talk to Muslims about Christ? Is Jesus the only way?",
             "entities": {
-                "NORP": [
-                    "post-Christian",
-                    "Muslim"
-                ],
                 "PERSON": [
+                    "Tom",
                     "Jesus",
                     "Jesus",
                     "Tom",
                     "Tom"
+                ],
+                "NORP": [
+                    "post-Christian",
+                    "Muslim"
                 ],
                 "ORDINAL": [
                     "first"
@@ -1441,11 +1427,9 @@
                     "2019"
                 ],
                 "PRODUCT": [
-                    "eBook"
-                ],
-                "ORG": [
-                    "href='https://www.premierunbelievable.com",
-                    "href='http://www.premierinsight.org"
+                    "\u2022",
+                    "eBook",
+                    "\u2022 Support"
                 ],
                 "GPE": [
                     "USA"
@@ -1479,6 +1463,12 @@
             "pubDate": "Thu, 20 Oct 2022 17:00:00 +0000",
             "title": "#140 Q&A on racial reconciliation and female leadership with Pastor Miles McPherson Pt 2",
             "entities": {
+                "PERSON": [
+                    "Tom",
+                    "Tom",
+                    "Miles McPherson",
+                    "Tom"
+                ],
                 "GPE": [
                     "USA",
                     "San Diego",
@@ -1491,22 +1481,17 @@
                 "ORDINAL": [
                     "second"
                 ],
-                "PERSON": [
-                    "Tom",
-                    "Miles McPherson",
-                    "Tom"
-                ],
                 "ORG": [
                     "Rock Church",
-                    "Rock Church",
-                    "href='https://www.premierunbelievable.com",
-                    "href='http://www.premierinsight.org"
+                    "Rock Church"
                 ],
-                "CARDINAL": [
-                    "2019.</p"
+                "DATE": [
+                    "2019"
                 ],
                 "PRODUCT": [
-                    "eBook"
+                    "\u2022",
+                    "eBook",
+                    "\u2022 Support"
                 ]
             }
         },
@@ -1538,26 +1523,26 @@
             "title": "#139 Q&A on New Creation & Salvation with Pastor Miles McPherson Pt 1",
             "entities": {
                 "PERSON": [
-                    "block\">NT Wright",
+                    "Wright",
                     "Miles McPherson",
                     "Tom",
                     "Tom"
                 ],
                 "ORG": [
                     "Rock Church",
-                    "Rock Church",
-                    "href='https://www.premierunbelievable.com",
-                    "href='http://www.premierinsight.org"
+                    "Rock Church"
                 ],
-                "CARDINAL": [
-                    "2019.</p"
+                "DATE": [
+                    "2019"
                 ],
                 "GPE": [
                     "San Diego",
                     "USA"
                 ],
                 "PRODUCT": [
-                    "eBook"
+                    "\u2022",
+                    "eBook",
+                    "\u2022 Support"
                 ]
             }
         },
@@ -1589,49 +1574,32 @@
             "title": "#138 An evening with NT Wright at The Rock Church",
             "entities": {
                 "ORG": [
-                    "HXVSK",
                     "The Rock Church",
                     "Second Temple Judaism",
-                    "HXVSK",
-                    "HXVSK",
                     "The New Testament In Its World",
-                    "HXVSK",
-                    "Rock Church",
-                    "HXVSK",
-                    "HXVSK",
-                    "HXVSK",
-                    "HXVSK",
-                    "HXVSK",
-                    "HXVSK",
-                    "href='https://www.premierunbelievable.com",
-                    "HXVSK",
-                    "href='http://www.premierinsight.org",
-                    "HXVSK"
+                    "Rock Church"
                 ],
                 "GPE": [
                     "San Diego",
                     "San Diego",
-                    "href='https://youtu.be",
                     "USA"
                 ],
                 "PERSON": [
                     "Tom Wright",
                     "Jesus",
-                    "D1kSQwgZNSM'>https://youtu.be",
                     "Tom"
                 ],
                 "DATE": [
                     "first-century",
-                    "Nov 2019.</p"
+                    "Nov 2019"
                 ],
                 "NORP": [
                     "Christians"
                 ],
-                "CARDINAL": [
-                    "href='https://zondervanacademic.com"
-                ],
                 "PRODUCT": [
-                    "eBook"
+                    "\u2022",
+                    "eBook",
+                    "\u2022 Support"
                 ]
             }
         },
@@ -1663,25 +1631,23 @@
             "title": "#137 Atheist asks: Was Jesus\u2019 death just a \u2019bad weekend at human camp\u2019?",
             "entities": {
                 "PERSON": [
-                    "block\">Tom Wright",
+                    "Tom Wright",
                     "Qs",
                     "Tom"
                 ],
                 "EVENT": [
-                    "The Day The Revolution Began"
+                    "The Day"
                 ],
                 "ORDINAL": [
                     "First"
                 ],
-                "CARDINAL": [
-                    "2018.</p"
+                "DATE": [
+                    "2018"
                 ],
                 "PRODUCT": [
-                    "eBook"
-                ],
-                "ORG": [
-                    "href='https://www.premierunbelievable.com",
-                    "href='http://www.premierinsight.org"
+                    "\u2022",
+                    "eBook",
+                    "\u2022 Support"
                 ],
                 "GPE": [
                     "USA"
@@ -1716,7 +1682,7 @@
             "title": "#136 Talking to kids about New Creation & responding to William Lane Craig",
             "entities": {
                 "PERSON": [
-                    "block\">Tom Wright",
+                    "Tom Wright",
                     "William Lane Craig",
                     "Tom"
                 ],
@@ -1724,11 +1690,9 @@
                     "2018"
                 ],
                 "PRODUCT": [
-                    "eBook"
-                ],
-                "ORG": [
-                    "href='https://www.premierunbelievable.com",
-                    "href='http://www.premierinsight.org"
+                    "\u2022",
+                    "eBook",
+                    "\u2022 Support"
                 ],
                 "GPE": [
                     "USA"
@@ -1763,7 +1727,7 @@
             "title": "#135 My weekend with Queen Elizabeth II",
             "entities": {
                 "PERSON": [
-                    "block\">NT Wright",
+                    "Wright",
                     "Queen",
                     "Tom"
                 ],
@@ -1771,13 +1735,13 @@
                     "Christian"
                 ],
                 "ORG": [
-                    "Unbelievable",
-                    "href='https://www.premierunbelievable.com",
-                    "href='https://www.premierunbelievable.com",
-                    "href='http://www.premierinsight.org"
+                    "Unbelievable"
                 ],
                 "PRODUCT": [
-                    "eBook"
+                    "\u2022 Subscribe",
+                    "\u2022",
+                    "eBook",
+                    "\u2022 Support"
                 ],
                 "GPE": [
                     "USA"
@@ -1825,11 +1789,10 @@
                     "Tom"
                 ],
                 "PRODUCT": [
-                    "eBook"
-                ],
-                "ORG": [
-                    "href='https://www.premierunbelievable.com",
-                    "href='http://www.premierinsight.org"
+                    "\u2022 Subscribe",
+                    "\u2022",
+                    "eBook",
+                    "\u2022 Support"
                 ]
             }
         },
@@ -1865,11 +1828,9 @@
                     "Tom"
                 ],
                 "PRODUCT": [
-                    "eBook"
-                ],
-                "ORG": [
-                    "href='https://www.premierunbelievable.com",
-                    "href='http://www.premierinsight.org"
+                    "\u2022",
+                    "eBook",
+                    "\u2022 Support"
                 ],
                 "GPE": [
                     "USA"
@@ -1903,6 +1864,10 @@
             "pubDate": "Thu, 25 Aug 2022 17:00:00 +0000",
             "title": "#132 Is the Bible anti-women? Does God hear the prayers of agnostics?",
             "entities": {
+                "PERSON": [
+                    "Tom",
+                    "Tom"
+                ],
                 "NORP": [
                     "Christianity"
                 ],
@@ -1917,14 +1882,10 @@
                     "USA"
                 ],
                 "PRODUCT": [
-                    "eBook"
-                ],
-                "PERSON": [
-                    "Tom"
-                ],
-                "ORG": [
-                    "href='https://www.premierunbelievable.com",
-                    "href='http://www.premierinsight.org"
+                    "\u2022 Subscribe",
+                    "\u2022",
+                    "eBook",
+                    "\u2022 Support"
                 ]
             }
         },
@@ -1955,19 +1916,19 @@
             "pubDate": "Thu, 18 Aug 2022 17:00:00 +0000",
             "title": "#131 Help! I\u2019m on the brink of atheism... Deconstruction and suffering",
             "entities": {
+                "PERSON": [
+                    "Tom",
+                    "Tom"
+                ],
                 "CARDINAL": [
                     "two",
                     "One"
                 ],
                 "PRODUCT": [
-                    "eBook"
-                ],
-                "PERSON": [
-                    "Tom"
-                ],
-                "ORG": [
-                    "href='https://www.premierunbelievable.com",
-                    "href='http://www.premierinsight.org"
+                    "\u2022 Subscribe",
+                    "\u2022",
+                    "eBook",
+                    "\u2022 Support"
                 ],
                 "GPE": [
                     "USA"
@@ -2009,11 +1970,10 @@
                     "Tom"
                 ],
                 "PRODUCT": [
-                    "eBook"
-                ],
-                "ORG": [
-                    "href='https://www.premierunbelievable.com",
-                    "href='http://www.premierinsight.org"
+                    "\u2022 Subscribe",
+                    "\u2022",
+                    "eBook",
+                    "\u2022 Support"
                 ],
                 "GPE": [
                     "USA"
@@ -2048,9 +2008,7 @@
             "title": "#129 Would God need to redeem aliens? Life beyond earth and the cosmos",
             "entities": {
                 "ORG": [
-                    "Universe",
-                    "href='https://www.premierunbelievable.com",
-                    "href='http://www.premierinsight.org"
+                    "Universe"
                 ],
                 "LOC": [
                     "Mount Zion"
@@ -2063,7 +2021,10 @@
                     "Tom"
                 ],
                 "PRODUCT": [
-                    "eBook"
+                    "\u2022 Subscribe",
+                    "\u2022",
+                    "eBook",
+                    "\u2022 Support"
                 ],
                 "GPE": [
                     "USA"
@@ -2098,6 +2059,7 @@
             "title": "#128 Why did God make childbirth difficult? More questions about Eden and the Fall",
             "entities": {
                 "PERSON": [
+                    "Adam",
                     "Eve",
                     "Jesus",
                     "Wright",
@@ -2105,9 +2067,8 @@
                 ],
                 "ORG": [
                     "Genesis",
-                    "JUSTIN",
-                    "href='https://www.premierunbelievable.com",
-                    "href='http://www.premierinsight.org"
+                    "Creation",
+                    "JUSTIN"
                 ],
                 "FAC": [
                     "the Garden of Eden"
@@ -2120,7 +2081,11 @@
                     "USA"
                 ],
                 "PRODUCT": [
-                    "eBook"
+                    "https://www.compassion.com/justin",
+                    "\u2022 Subscribe",
+                    "\u2022",
+                    "eBook",
+                    "\u2022 Support"
                 ]
             }
         },
@@ -2154,16 +2119,17 @@
                 "ORDINAL": [
                     "first"
                 ],
+                "PERSON": [
+                    "Tom",
+                    "Tom"
+                ],
                 "ORG": [
-                    "Genesis",
-                    "href='https://www.premierunbelievable.com",
-                    "href='http://www.premierinsight.org"
+                    "Genesis"
                 ],
                 "PRODUCT": [
-                    "eBook"
-                ],
-                "PERSON": [
-                    "Tom"
+                    "\u2022",
+                    "eBook",
+                    "\u2022 Support"
                 ],
                 "GPE": [
                     "USA"
@@ -2197,19 +2163,26 @@
             "pubDate": "Thu, 14 Jul 2022 18:00:00 +0000",
             "title": "#126 - From the slums of Kenya to new life - NT Wright meets Jey Mbiro",
             "entities": {
+                "ORG": [
+                    "Justin",
+                    "JUSTIN",
+                    "Justin"
+                ],
                 "PERSON": [
-                    "NT Wright",
+                    "Wright",
                     "Jey Mbiro",
                     "Jey"
                 ],
                 "NORP": [
                     "Kenyan",
                     "Christian",
-                    "Christians"
+                    "Christians",
+                    "Christian"
                 ],
                 "GPE": [
                     "Nairobi",
                     "East Africa",
+                    "Compassion",
                     "USA",
                     "USA",
                     "Compassion"
@@ -2217,9 +2190,6 @@
                 "DATE": [
                     "83393",
                     "ten years"
-                ],
-                "ORG": [
-                    "Justin"
                 ],
                 "WORK_OF_ART": [
                     "'Unbelievable"
@@ -2257,11 +2227,10 @@
             "title": "#125 - Situation, Theology, and Hermeneutics in Galatians",
             "entities": {
                 "ORG": [
-                    "Hermeneutics",
-                    "href='https://www.premierunbelievable.com",
-                    "href='http://www.premierinsight.org"
+                    "Hermeneutics"
                 ],
                 "NORP": [
+                    "Galatians",
                     "Galatians"
                 ],
                 "PERSON": [
@@ -2269,7 +2238,8 @@
                     "Tom"
                 ],
                 "PRODUCT": [
-                    "eBook"
+                    "eBook",
+                    "\u2022 Support"
                 ],
                 "GPE": [
                     "USA"
@@ -2303,19 +2273,18 @@
             "pubDate": "Thu, 30 Jun 2022 18:00:00 +0000",
             "title": "#124 - Medieval questions and the subject of Galatians",
             "entities": {
-                "NORP": [
-                    "Galatians"
-                ],
                 "PERSON": [
+                    "Medieval Questions",
                     "Tom",
                     "Tom"
                 ],
-                "PRODUCT": [
-                    "eBook"
+                "NORP": [
+                    "Galatians",
+                    "Galatians"
                 ],
-                "ORG": [
-                    "href='https://www.premierunbelievable.com",
-                    "href='http://www.premierinsight.org"
+                "PRODUCT": [
+                    "eBook",
+                    "\u2022 Support"
                 ],
                 "GPE": [
                     "USA"
@@ -2350,21 +2319,23 @@
             "title": "#123 How St. Paul changed the world Pt 2 - Tom Holland & NT Wright",
             "entities": {
                 "PERSON": [
+                    "Wright",
                     "Tom Holland",
                     "St Paul",
                     "Tom Holland",
                     "Wright",
-                    "Mikhaila Peterson",
                     "John Mccray"
                 ],
-                "GPE": [
-                    "href='https://youtu.be",
-                    "USA"
-                ],
                 "ORG": [
-                    "eBook &",
-                    "href='https://www.premierunbelievable.com",
-                    "href='http://www.premierinsight.org"
+                    "Mikhaila Peterson &",
+                    "eBook &"
+                ],
+                "PRODUCT": [
+                    "\u2022 More",
+                    "\u2022 Support"
+                ],
+                "GPE": [
+                    "USA"
                 ]
             }
         },
@@ -2402,23 +2373,24 @@
                     "Wright",
                     "Tom Holland",
                     "Wright",
-                    "Mikhaila Peterson",
                     "John Mccray"
                 ],
                 "ORG": [
                     "Justin",
-                    "eBook &",
-                    "href='https://www.premierunbelievable.com",
-                    "href='http://www.premierinsight.org"
+                    "Mikhaila Peterson &",
+                    "eBook &"
                 ],
                 "WORK_OF_ART": [
                     "Paul: A Biography"
                 ],
-                "CARDINAL": [
-                    "2018.</p"
+                "DATE": [
+                    "2018"
+                ],
+                "PRODUCT": [
+                    "\u2022 More",
+                    "\u2022 Support"
                 ],
                 "GPE": [
-                    "href='https://youtu.be",
                     "USA"
                 ]
             }
@@ -2450,23 +2422,24 @@
             "pubDate": "Thu, 09 Jun 2022 18:00:00 +0000",
             "title": "#121 Making sense of The Trinity",
             "entities": {
+                "DATE": [
+                    "Sunday",
+                    "John 17"
+                ],
+                "PERSON": [
+                    "Tom",
+                    "Jesus"
+                ],
                 "ORG": [
                     "Trinity",
                     "Trinity",
                     "Trinity",
-                    "Trinity",
                     "Spirit",
-                    "eBook &",
-                    "href='https://www.premierunbelievable.com",
-                    "href='http://www.premierinsight.org"
+                    "eBook &"
                 ],
-                "DATE": [
-                    "Sunday"
-                ],
-                "PERSON": [
-                    "Tom",
-                    "Jesus",
-                    "John"
+                "PRODUCT": [
+                    "\u2022 More",
+                    "\u2022 Support"
                 ],
                 "GPE": [
                     "USA"
@@ -2500,15 +2473,18 @@
             "pubDate": "Thu, 02 Jun 2022 18:00:00 +0000",
             "title": "#120 New Testament Q&A: Pharisees, contradictions & oral tradition",
             "entities": {
-                "ORG": [
-                    "the New Testament",
-                    "eBook &",
-                    "href='https://www.premierunbelievable.com",
-                    "href='http://www.premierinsight.org"
-                ],
                 "PERSON": [
+                    "Tom",
                     "Gospel",
                     "Gospels"
+                ],
+                "ORG": [
+                    "the New Testament",
+                    "eBook &"
+                ],
+                "PRODUCT": [
+                    "\u2022 More",
+                    "\u2022 Support"
                 ],
                 "GPE": [
                     "USA"
@@ -2542,12 +2518,13 @@
             "pubDate": "Thu, 26 May 2022 18:00:00 +0000",
             "title": "#119 Old Testament Q&A: Noah, Moses and where to start",
             "entities": {
+                "PERSON": [
+                    "Tom"
+                ],
                 "ORG": [
                     "the Old Testament - Where",
                     "Noahs",
-                    "eBook &",
-                    "href='https://www.premierunbelievable.com",
-                    "href='http://www.premierinsight.org"
+                    "eBook &"
                 ],
                 "NORP": [
                     "Christian"
@@ -2556,8 +2533,12 @@
                     "Jonah",
                     "USA"
                 ],
-                "FAC": [
-                    "Exodus 4?</p"
+                "WORK_OF_ART": [
+                    "Exodus 4"
+                ],
+                "PRODUCT": [
+                    "\u2022 More",
+                    "\u2022 Support"
                 ]
             }
         },
@@ -2593,12 +2574,16 @@
                 ],
                 "ORG": [
                     "Biblical",
-                    "eBook &",
-                    "href='https://www.premierunbelievable.com",
-                    "href='http://www.premierinsight.org"
+                    "eBook &"
                 ],
                 "PERSON": [
                     "Tom"
+                ],
+                "CARDINAL": [
+                    "\u2022"
+                ],
+                "PRODUCT": [
+                    "\u2022 Support"
                 ],
                 "GPE": [
                     "USA"
@@ -2632,19 +2617,24 @@
             "pubDate": "Fri, 13 May 2022 18:00:00 +0000",
             "title": "#117 I can\u2019t shake my sinful addiction",
             "entities": {
-                "PRODUCT": [
-                    "eBook"
+                "PERSON": [
+                    "Tom",
+                    "Tom",
+                    "Wright Online"
                 ],
                 "ORG": [
-                    "newsletter &",
-                    "href='http://www.premierinsight.org/ntwright'>http://www.premierinsight.org/ntwright</a></p"
+                    "\u2022 For Conference & live",
+                    "newsletter &"
+                ],
+                "PRODUCT": [
+                    "\u2022 More",
+                    "eBook",
+                    "\u2022 Support",
+                    "\u2022 Exclusive",
+                    "\u2022 Subscribe"
                 ],
                 "GPE": [
                     "USA"
-                ],
-                "PERSON": [
-                    "Tom",
-                    "Wright"
                 ]
             }
         },
@@ -2676,10 +2666,11 @@
             "title": "#116 Questions about Surprised By Hope",
             "entities": {
                 "PERSON": [
-                    "Surprised",
-                    "Surprised",
                     "Tom",
-                    "Wright"
+                    "Surprised",
+                    "\u2022 Get 'Surprised",
+                    "Tom",
+                    "Wright Online"
                 ],
                 "WORK_OF_ART": [
                     "Bible"
@@ -2689,11 +2680,13 @@
                     "USA"
                 ],
                 "PRODUCT": [
-                    "eBook"
+                    "\u2022 More",
+                    "eBook",
+                    "\u2022 Exclusive",
+                    "\u2022 Subscribe"
                 ],
                 "ORG": [
-                    "newsletter &",
-                    "href='http://www.premierinsight.org/ntwright'>http://www.premierinsight.org/ntwright</a></p"
+                    "newsletter &"
                 ]
             }
         },
@@ -2725,26 +2718,24 @@
             "title": "#115 Part 2: NT Wright, Esau McCaulley & Tim Mackie on race and the church",
             "entities": {
                 "PERSON": [
-                    "idvhxj",
                     "Wright",
                     "Esau McCaulley's",
                     "Tim Mackie",
-                    "idvhxj",
-                    "idvhxj",
-                    "idvhxj",
-                    "idvhxj",
-                    "idvhxj",
                     "Tom",
-                    "Wright",
-                    "idvhxj"
+                    "Wright Online"
                 ],
                 "ORG": [
                     "The Bible Project",
-                    "newsletter &",
-                    "href='http://www.premierinsight.org/ntwright'>http://www.premierinsight.org/ntwright</a></p"
+                    "Together PDX",
+                    "\u2022 For Conference & live",
+                    "newsletter &"
                 ],
                 "PRODUCT": [
-                    "eBook"
+                    "\u2022 More",
+                    "eBook",
+                    "\u2022 Support",
+                    "\u2022 Exclusive",
+                    "\u2022 Subscribe"
                 ],
                 "GPE": [
                     "USA"
@@ -2779,30 +2770,28 @@
             "title": "#114 NT Wright, Esau McCaulley & Tim Mackie on Reading the Gospels While Black Pt 1",
             "entities": {
                 "PERSON": [
-                    "idvhxj",
                     "Wright",
                     "Tim Mackie",
-                    "idvhxj",
-                    "idvhxj",
-                    "idvhxj",
-                    "idvhxj",
-                    "idvhxj",
                     "Tom",
-                    "Wright",
-                    "idvhxj"
+                    "Wright Online"
                 ],
                 "ORG": [
                     "Rev Esau McCaulley",
                     "Church",
-                    "newsletter &",
-                    "href='http://www.premierinsight.org/ntwright'>http://www.premierinsight.org/ntwright</a></p"
+                    "Together PDX",
+                    "\u2022 For Conference & live",
+                    "newsletter &"
                 ],
                 "WORK_OF_ART": [
                     "'Reading While Black'",
                     "Bible"
                 ],
                 "PRODUCT": [
-                    "eBook"
+                    "\u2022 More",
+                    "eBook",
+                    "\u2022 Support",
+                    "\u2022 Exclusive",
+                    "\u2022 Subscribe"
                 ],
                 "GPE": [
                     "USA"
@@ -2842,15 +2831,19 @@
                     "Jesus",
                     "Jesus",
                     "Tom",
-                    "Wright"
+                    "Wright Online"
                 ],
                 "ORG": [
                     "Easter",
-                    "newsletter &",
-                    "href='http://www.premierinsight.org/ntwright'>http://www.premierinsight.org/ntwright</a></p"
+                    "\u2022 For Conference & live",
+                    "newsletter &"
                 ],
                 "PRODUCT": [
-                    "eBook"
+                    "\u2022 More",
+                    "eBook",
+                    "\u2022 Support",
+                    "\u2022 Exclusive",
+                    "\u2022 Subscribe"
                 ],
                 "GPE": [
                     "USA"
@@ -2884,21 +2877,26 @@
             "pubDate": "Thu, 07 Apr 2022 18:00:00 +0000",
             "title": "#112 How do I pray for Ukraine?",
             "entities": {
+                "PERSON": [
+                    "Tom",
+                    "Tom",
+                    "Wright Online"
+                ],
                 "GPE": [
                     "Ukraine",
                     "Ukraine",
                     "USA"
                 ],
-                "PRODUCT": [
-                    "eBook"
-                ],
                 "ORG": [
-                    "newsletter &",
-                    "href='http://www.premierinsight.org/ntwright'>http://www.premierinsight.org/ntwright</a></p"
+                    "\u2022 For Conference & live",
+                    "newsletter &"
                 ],
-                "PERSON": [
-                    "Tom",
-                    "Wright"
+                "PRODUCT": [
+                    "\u2022 More",
+                    "eBook",
+                    "\u2022 Support",
+                    "\u2022 Exclusive",
+                    "\u2022 Subscribe"
                 ]
             }
         },
@@ -2936,10 +2934,13 @@
                     "Wright",
                     "Unbelievable",
                     "Tom",
-                    "Wright"
+                    "Wright Online"
+                ],
+                "GPE": [
+                    "USA"
                 ],
                 "ORG": [
-                    "href='http://www.premierinsight.org"
+                    "UK & Rest"
                 ]
             }
         },
@@ -2980,10 +2981,14 @@
                     "Tom",
                     "Unbelievable",
                     "Tom",
-                    "Wright"
+                    "Wright Online"
+                ],
+                "GPE": [
+                    "USA"
                 ],
                 "ORG": [
-                    "href='https://mailchi.mp/ae5bed53cbe0/ycrvpt1z2r'>NT"
+                    "UK & Rest",
+                    "SPCK & NT"
                 ]
             }
         },
@@ -3018,13 +3023,15 @@
                     "Wright",
                     "Unbelievable",
                     "Tom",
-                    "Wright"
+                    "Wright Online"
                 ],
                 "GPE": [
-                    "Qatar"
+                    "Qatar",
+                    "USA"
                 ],
                 "ORG": [
-                    "href='https://mailchi.mp/ae5bed53cbe0/ycrvpt1z2r'>NT"
+                    "UK & Rest",
+                    "SPCK & NT"
                 ]
             }
         },
@@ -3062,11 +3069,15 @@
                     "Wright",
                     "Unbelievable",
                     "Tom",
-                    "Wright"
+                    "Wright Online"
                 ],
                 "ORG": [
                     "Justin",
-                    "href='https://mailchi.mp/ae5bed53cbe0/ycrvpt1z2r'>NT"
+                    "UK & Rest",
+                    "SPCK & NT"
+                ],
+                "GPE": [
+                    "USA"
                 ]
             }
         },
@@ -3103,15 +3114,18 @@
                     "Wright",
                     "Unbelievable",
                     "Tom",
-                    "Wright"
+                    "Wright Online"
                 ],
                 "NORP": [
                     "Christian"
                 ],
                 "ORG": [
                     "Justin",
-                    "href='http://www.premierinsight.org",
-                    "href='https://mailchi.mp/ae5bed53cbe0/ycrvpt1z2r'>NT"
+                    "UK & Rest",
+                    "SPCK & NT"
+                ],
+                "GPE": [
+                    "USA"
                 ]
             }
         },
@@ -3146,7 +3160,14 @@
                     "Tom",
                     "Unbelievable",
                     "Tom",
-                    "Wright"
+                    "Wright Online"
+                ],
+                "GPE": [
+                    "USA"
+                ],
+                "ORG": [
+                    "UK & Rest",
+                    "SPCK & NT"
                 ]
             }
         },
@@ -3181,10 +3202,15 @@
                     "Tom",
                     "Paul",
                     "Tom",
-                    "Wright Online</a></p"
+                    "Wright Online"
                 ],
                 "ORG": [
-                    "Justin"
+                    "Justin",
+                    "UK & Rest",
+                    "SPCK & NT"
+                ],
+                "GPE": [
+                    "USA"
                 ]
             }
         },
@@ -3219,9 +3245,16 @@
                     "Muslims",
                     "Christians"
                 ],
+                "GPE": [
+                    "USA"
+                ],
+                "ORG": [
+                    "UK & Rest",
+                    "SPCK & NT"
+                ],
                 "PERSON": [
                     "Tom",
-                    "Wright Online</a></p"
+                    "Wright Online"
                 ]
             }
         },
@@ -3258,7 +3291,14 @@
                 "PERSON": [
                     "Tom",
                     "Tom",
-                    "Wright Online</a></p"
+                    "Wright Online"
+                ],
+                "GPE": [
+                    "USA"
+                ],
+                "ORG": [
+                    "UK & Rest",
+                    "SPCK & NT"
                 ]
             }
         },
@@ -3292,10 +3332,17 @@
                 "PERSON": [
                     "Tom",
                     "Tom",
-                    "Wright"
+                    "Wright Online"
                 ],
                 "WORK_OF_ART": [
                     "Open Theism"
+                ],
+                "GPE": [
+                    "USA"
+                ],
+                "ORG": [
+                    "UK & Rest",
+                    "SPCK & NT"
                 ]
             }
         },
@@ -3329,7 +3376,7 @@
                 "PERSON": [
                     "Tom Wright",
                     "Tom",
-                    "Wright"
+                    "Wright Online"
                 ],
                 "WORK_OF_ART": [
                     "Sacrificial Love'"
@@ -3337,8 +3384,15 @@
                 "EVENT": [
                     "London Bible Week"
                 ],
-                "CARDINAL": [
-                    "2017.</p"
+                "DATE": [
+                    "2017"
+                ],
+                "GPE": [
+                    "USA"
+                ],
+                "ORG": [
+                    "UK & Rest",
+                    "SPCK & NT"
                 ]
             }
         },
@@ -3373,16 +3427,20 @@
                     "Tom Wright",
                     "Jesus",
                     "Tom",
-                    "Wright"
+                    "Wright Online"
                 ],
                 "EVENT": [
                     "London Bible Week"
                 ],
-                "CARDINAL": [
-                    "2017.</p"
+                "DATE": [
+                    "2017"
+                ],
+                "GPE": [
+                    "USA"
                 ],
                 "ORG": [
-                    "href='https://mailchi.mp/ae5bed53cbe0/ycrvpt1z2r'>NT"
+                    "UK & Rest",
+                    "SPCK & NT"
                 ]
             }
         },
@@ -3416,13 +3474,20 @@
                 "PERSON": [
                     "Tom Wright",
                     "Tom",
-                    "Wright"
+                    "Wright Online"
                 ],
                 "EVENT": [
                     "London Bible Week"
                 ],
-                "CARDINAL": [
-                    "2017.</p"
+                "DATE": [
+                    "2017"
+                ],
+                "GPE": [
+                    "USA"
+                ],
+                "ORG": [
+                    "UK & Rest",
+                    "SPCK & NT"
                 ]
             }
         },
@@ -3459,12 +3524,15 @@
                 "PERSON": [
                     "Tom",
                     "Tom",
-                    "Wright"
+                    "Wright Online"
                 ],
                 "ORG": [
                     "European Super League",
-                    "href='http://www.premierinsight.org",
-                    "href='https://mailchi.mp/ae5bed53cbe0/ycrvpt1z2r'>NT"
+                    "UK & Rest",
+                    "SPCK & NT"
+                ],
+                "GPE": [
+                    "USA"
                 ]
             }
         },
@@ -3497,9 +3565,8 @@
             "entities": {
                 "PERSON": [
                     "Tom",
-                    "two.</p",
                     "Tom",
-                    "Wright"
+                    "Wright Online"
                 ],
                 "FAC": [
                     "Wycliffe Hall"
@@ -3507,9 +3574,15 @@
                 "DATE": [
                     "Christmas"
                 ],
+                "CARDINAL": [
+                    "two"
+                ],
+                "GPE": [
+                    "USA"
+                ],
                 "ORG": [
-                    "href='http://www.premierinsight.org",
-                    "href='https://mailchi.mp/ae5bed53cbe0/ycrvpt1z2r'>NT"
+                    "UK & Rest",
+                    "SPCK & NT"
                 ]
             }
         },
@@ -3545,11 +3618,15 @@
                 ],
                 "PERSON": [
                     "Tom",
-                    "Tom"
+                    "Tom",
+                    "Wright Online"
+                ],
+                "GPE": [
+                    "USA"
                 ],
                 "ORG": [
-                    "href='http://www.premierinsight.org",
-                    "href='https://mailchi.mp/ae5bed53cbe0/ycrvpt1z2r'>NT"
+                    "UK & Rest",
+                    "SPCK & NT"
                 ]
             }
         },
@@ -3589,10 +3666,14 @@
                 "PERSON": [
                     "Matthew 27",
                     "Tom",
-                    "Wright"
+                    "Wright Online"
+                ],
+                "GPE": [
+                    "USA"
                 ],
                 "ORG": [
-                    "href='http://www.premierinsight.org"
+                    "UK & Rest",
+                    "SPCK & NT"
                 ]
             }
         },
@@ -3626,13 +3707,15 @@
                 "ORDINAL": [
                     "second"
                 ],
-                "ORG": [
-                    "href='https://premierinsight.org",
-                    "href='https://mailchi.mp/ae5bed53cbe0/ycrvpt1z2r'>NT"
+                "GPE": [
+                    "USA"
                 ],
                 "PERSON": [
                     "Tom",
-                    "Wright"
+                    "Wright Online"
+                ],
+                "ORG": [
+                    "SPCK & NT"
                 ]
             }
         },
@@ -3669,12 +3752,15 @@
                 "PERSON": [
                     "Jesus",
                     "Tom",
+                    "Qs",
                     "Tom",
-                    "Wright"
+                    "Wright Online"
+                ],
+                "GPE": [
+                    "USA"
                 ],
                 "ORG": [
-                    "href='https://premierinsight.org",
-                    "href='https://mailchi.mp/ae5bed53cbe0/ycrvpt1z2r'>NT"
+                    "SPCK & NT"
                 ]
             }
         },
@@ -3712,11 +3798,13 @@
                     "Jesus",
                     "Tom",
                     "Tom",
-                    "Wright"
+                    "Wright Online"
+                ],
+                "GPE": [
+                    "USA"
                 ],
                 "ORG": [
-                    "href='https://premierinsight.org",
-                    "href='https://mailchi.mp/ae5bed53cbe0/ycrvpt1z2r'>NT"
+                    "SPCK & NT"
                 ]
             }
         },
@@ -3752,15 +3840,17 @@
                     "Tom",
                     "Qs",
                     "Tom",
-                    "Wright"
+                    "Wright Online"
                 ],
                 "NORP": [
                     "Christianity"
                 ],
                 "ORG": [
                     "the New Testament",
-                    "href='https://premierinsight.org",
-                    "href='https://mailchi.mp/ae5bed53cbe0/ycrvpt1z2r'>NT"
+                    "SPCK & NT"
+                ],
+                "GPE": [
+                    "USA"
                 ]
             }
         },
@@ -3796,7 +3886,7 @@
                     "Martin Luther's",
                     "Tom",
                     "Tom",
-                    "Wright"
+                    "Wright Online"
                 ],
                 "NORP": [
                     "Galatians",
@@ -3807,9 +3897,10 @@
                 "ORG": [
                     "Justin",
                     "Spirit",
-                    "href='https://eerdword.com",
-                    "href='https://premierinsight.org",
-                    "href='https://mailchi.mp/ae5bed53cbe0/ycrvpt1z2r'>NT"
+                    "SPCK & NT"
+                ],
+                "GPE": [
+                    "USA"
                 ]
             }
         },
@@ -3845,16 +3936,20 @@
                     "Paul",
                     "Paul",
                     "Tom",
-                    "Wright"
+                    "Wright Online"
                 ],
                 "CARDINAL": [
-                    "3",
-                    "2018.</p"
+                    "3"
                 ],
                 "ORG": [
                     "SPCK",
-                    "href='https://premierinsight.org",
-                    "href='https://mailchi.mp/ae5bed53cbe0/ycrvpt1z2r'>NT"
+                    "SPCK & NT"
+                ],
+                "DATE": [
+                    "2018"
+                ],
+                "GPE": [
+                    "USA"
                 ]
             }
         },
@@ -3891,16 +3986,20 @@
                     "Paul",
                     "Paul",
                     "Tom",
-                    "Wright"
+                    "Wright Online"
                 ],
                 "CARDINAL": [
-                    "2",
-                    "2018.</p"
+                    "2"
                 ],
                 "ORG": [
                     "SPCK",
-                    "href='https://premierinsight.org",
-                    "href='https://mailchi.mp/ae5bed53cbe0/ycrvpt1z2r'>NT"
+                    "SPCK & NT"
+                ],
+                "DATE": [
+                    "2018"
+                ],
+                "GPE": [
+                    "USA"
                 ]
             }
         },
@@ -3936,21 +4035,21 @@
                     "Paul",
                     "Paul",
                     "Tom",
-                    "Wright"
+                    "Wright Online"
                 ],
                 "FAC": [
                     "Westminster Central Hall"
                 ],
                 "GPE": [
-                    "London"
+                    "London",
+                    "USA"
                 ],
                 "ORG": [
                     "SPCK",
-                    "href='https://premierinsight.org",
-                    "href='https://mailchi.mp/ae5bed53cbe0/ycrvpt1z2r'>NT"
+                    "SPCK & NT"
                 ],
-                "CARDINAL": [
-                    "2018.</p"
+                "DATE": [
+                    "2018"
                 ]
             }
         },
@@ -3981,13 +4080,15 @@
             "pubDate": "Thu, 07 Oct 2021 18:00:00 +0000",
             "title": "#86 Deconstructing faith and answering atheism",
             "entities": {
-                "ORG": [
-                    "href='https://premierinsight.org",
-                    "href='https://mailchi.mp/ae5bed53cbe0/ycrvpt1z2r'>NT"
+                "GPE": [
+                    "USA"
                 ],
                 "PERSON": [
                     "Tom",
-                    "Wright"
+                    "Wright Online"
+                ],
+                "ORG": [
+                    "SPCK & NT"
                 ]
             }
         },
@@ -4020,17 +4121,17 @@
             "entities": {
                 "ORG": [
                     "Youth & Childrens",
-                    "href='https://premierinsight.org",
-                    "href='https://mailchi.mp/ae5bed53cbe0/ycrvpt1z2r'>NT"
+                    "SPCK & NT"
                 ],
                 "PERSON": [
-                    "jesus-storybook",
-                    "jesus-storybook",
                     "Bob Hartman",
                     "Andrew Peterson",
                     "Phil Vischer",
                     "Tom",
-                    "Wright"
+                    "Wright Online"
+                ],
+                "GPE": [
+                    "USA"
                 ]
             }
         },
@@ -4066,11 +4167,13 @@
                     "Jesus",
                     "Tom",
                     "Tom",
-                    "Wright"
+                    "Wright Online"
+                ],
+                "GPE": [
+                    "USA"
                 ],
                 "ORG": [
-                    "href='https://premierinsight.org",
-                    "href='https://mailchi.mp/ae5bed53cbe0/ycrvpt1z2r'>NT"
+                    "SPCK & NT"
                 ]
             }
         },
@@ -4102,16 +4205,16 @@
             "title": "#83 How do I feel God\u2018s presence?",
             "entities": {
                 "GPE": [
-                    "Damascus"
+                    "Damascus",
+                    "USA"
                 ],
                 "PERSON": [
                     "Paul",
                     "Tom",
-                    "Wright"
+                    "Wright Online"
                 ],
                 "ORG": [
-                    "href='https://premierinsight.org",
-                    "href='https://mailchi.mp/ae5bed53cbe0/ycrvpt1z2r'>NT"
+                    "SPCK & NT"
                 ]
             }
         },
@@ -4147,14 +4250,16 @@
                     "Jonathan Fletcher",
                     "Covid",
                     "Tom",
-                    "Wright"
+                    "Wright Online"
                 ],
                 "NORP": [
                     "Christian"
                 ],
+                "GPE": [
+                    "USA"
+                ],
                 "ORG": [
-                    "href='https://premierinsight.org",
-                    "href='https://mailchi.mp/ae5bed53cbe0/ycrvpt1z2r'>NT"
+                    "SPCK & NT"
                 ]
             }
         },
@@ -4196,13 +4301,15 @@
                 "WORK_OF_ART": [
                     "Bible"
                 ],
-                "ORG": [
-                    "href='https://premierinsight.org",
-                    "href='https://mailchi.mp/ae5bed53cbe0/ycrvpt1z2r'>NT"
+                "GPE": [
+                    "USA"
                 ],
                 "PERSON": [
                     "Tom",
-                    "Wright"
+                    "Wright Online"
+                ],
+                "ORG": [
+                    "SPCK & NT"
                 ]
             }
         },
@@ -4237,14 +4344,17 @@
                     "Wright",
                     "Tom",
                     "Tom",
-                    "Wright"
+                    "Wright Online"
                 ],
-                "CARDINAL": [
-                    "2021</a"
+                "GPE": [
+                    "Unbelievable",
+                    "USA"
+                ],
+                "DATE": [
+                    "2021"
                 ],
                 "ORG": [
-                    "href='https://premierinsight.org",
-                    "href='https://mailchi.mp/ae5bed53cbe0/ycrvpt1z2r'>NT"
+                    "SPCK & NT"
                 ]
             }
         },
@@ -4276,18 +4386,21 @@
             "title": "#79 How to retell the Jesus story to a world that\u2018s forgotten it",
             "entities": {
                 "PERSON": [
-                    "Wright",
+                    "NT Wright's",
                     "Tom",
                     "Tom",
-                    "Wright"
+                    "Wright Online"
                 ],
-                "CARDINAL": [
-                    "2021</p",
-                    "2021</a"
+                "DATE": [
+                    "Conference 2021",
+                    "2021"
+                ],
+                "GPE": [
+                    "Unbelievable",
+                    "USA"
                 ],
                 "ORG": [
-                    "href='https://premierinsight.org",
-                    "href='https://mailchi.mp/ae5bed53cbe0/ycrvpt1z2r'>NT"
+                    "SPCK & NT"
                 ]
             }
         },
@@ -4323,14 +4436,18 @@
                     "Jesus",
                     "Peter",
                     "Tom",
+                    "Gospels",
                     "Tom",
                     "Wright Online"
                 ],
                 "CARDINAL": [
                     "2"
                 ],
+                "GPE": [
+                    "USA"
+                ],
                 "ORG": [
-                    "href='http://www.premierinsight.org"
+                    "SPCK &\u00a0NT"
                 ]
             }
         },
@@ -4363,12 +4480,15 @@
             "entities": {
                 "ORG": [
                     "Spirit",
-                    "href='http://www.premierinsight.org",
-                    "href='https://mailchi.mp/ae5bed53cbe0/ycrvpt1z2r'>NT"
+                    "SPCK & NT"
                 ],
                 "PERSON": [
                     "Tom",
-                    "Tom"
+                    "Tom",
+                    "Wright Online"
+                ],
+                "GPE": [
+                    "USA"
                 ]
             }
         },
@@ -4402,11 +4522,14 @@
                 "PERSON": [
                     "Jesus",
                     "Tom",
-                    "Tom"
+                    "Tom",
+                    "Wright Online"
+                ],
+                "GPE": [
+                    "USA"
                 ],
                 "ORG": [
-                    "href='http://www.premierinsight.org",
-                    "href='https://mailchi.mp/ae5bed53cbe0/ycrvpt1z2r'>NT"
+                    "SPCK & NT"
                 ]
             }
         },
@@ -4442,11 +4565,14 @@
                     "Jesus",
                     "Tom",
                     "Jesus",
-                    "Tom"
+                    "Tom",
+                    "Wright Online"
+                ],
+                "GPE": [
+                    "USA"
                 ],
                 "ORG": [
-                    "href='http://www.premierinsight.org",
-                    "href='https://mailchi.mp/ae5bed53cbe0/ycrvpt1z2r'>NT"
+                    "SPCK & NT"
                 ]
             }
         },
@@ -4479,12 +4605,16 @@
             "entities": {
                 "ORG": [
                     "Lazarus",
-                    "href='http://www.premierinsight.org",
-                    "href='https://mailchi.mp/ae5bed53cbe0/ycrvpt1z2r'>NT"
+                    "SPCK & NT"
                 ],
                 "PERSON": [
                     "Wright",
-                    "Tom"
+                    "Jesus",
+                    "Tom",
+                    "Wright Online"
+                ],
+                "GPE": [
+                    "USA"
                 ]
             }
         },
@@ -4518,10 +4648,10 @@
                 "PERSON": [
                     "Tom Wright",
                     "Tom",
-                    "Wright"
+                    "Wright Online"
                 ],
-                "ORG": [
-                    "href='http://www.premierinsight.org"
+                "GPE": [
+                    "USA"
                 ]
             }
         },
@@ -4621,20 +4751,20 @@
                     "Paul",
                     "Abraham",
                     "Tom",
-                    "Wright"
+                    "Wright Online"
                 ],
                 "ORG": [
-                    "the New Testament",
-                    "href='http://www.premierinsight.org"
+                    "the New Testament"
                 ],
                 "NORP": [
                     "Romans"
                 ],
                 "GPE": [
-                    "Unbelievable"
+                    "Unbelievable",
+                    "USA"
                 ],
-                "CARDINAL": [
-                    "2021</a"
+                "DATE": [
+                    "2021\u00a0\n\n\n\n\n\n\n"
                 ]
             }
         },
@@ -4670,20 +4800,20 @@
                     "Proverbs",
                     "Song",
                     "Solomon",
-                    "Tom",
-                    "Wright"
+                    "Tom"
                 ],
                 "WORK_OF_ART": [
                     "Bible"
                 ],
                 "GPE": [
-                    "Unbelievable"
+                    "Unbelievable",
+                    "USA"
                 ],
-                "CARDINAL": [
-                    "2021</a"
+                "DATE": [
+                    "2021"
                 ],
                 "ORG": [
-                    "href='http://www.premierinsight.org"
+                    "SPCK&\u00a0NT"
                 ]
             }
         },
@@ -4720,20 +4850,18 @@
                 "PERSON": [
                     "Wright",
                     "Tom Holland",
-                    "Tom",
-                    "Wright"
+                    "Tom"
                 ],
                 "DATE": [
+                    "2021",
                     "2021"
                 ],
                 "GPE": [
-                    "Unbelievable"
-                ],
-                "CARDINAL": [
-                    "2021</a"
+                    "Unbelievable",
+                    "USA"
                 ],
                 "ORG": [
-                    "href='http://www.premierinsight.org"
+                    "SPCK&\u00a0NT"
                 ]
             }
         },
@@ -4764,23 +4892,22 @@
             "pubDate": "Thu, 03 Jun 2021 18:00:00 +0000",
             "title": "#68 Live audience show with Tom Wright and Tom Holland Pt 1",
             "entities": {
+                "ORG": [
+                    "Justin"
+                ],
                 "PERSON": [
-                    "NT Wright",
+                    "Wright",
                     "Tom Holland",
                     "Tom",
-                    "Wright"
+                    "Wright Online"
                 ],
                 "DATE": [
-                    "2021"
+                    "2021",
+                    "2021\u00a0\n\n\n\n\n\n\n"
                 ],
                 "GPE": [
-                    "Unbelievable"
-                ],
-                "CARDINAL": [
-                    "2021</a"
-                ],
-                "ORG": [
-                    "href='http://www.premierinsight.org"
+                    "Unbelievable",
+                    "USA"
                 ]
             }
         },
@@ -4812,26 +4939,22 @@
             "title": "#67 NT Wright & Douglas Murray pt 2 - Audience Q&A",
             "entities": {
                 "DATE": [
-                    "last week's"
+                    "last week's",
+                    "2021"
                 ],
                 "PERSON": [
                     "Wright",
                     "Douglas Murray",
                     "Tom",
-                    "Wright"
+                    "Tom",
+                    "Wright Online"
                 ],
                 "NORP": [
                     "post-Christian"
                 ],
-                "ORG": [
-                    "page/609baf73407d065a53243156/TzkWp'>survey",
-                    "href='http://www.premierinsight.org"
-                ],
                 "GPE": [
-                    "Unbelievable"
-                ],
-                "CARDINAL": [
-                    "2021</a"
+                    "Unbelievable",
+                    "USA"
                 ]
             }
         },
@@ -4866,23 +4989,23 @@
                     "Tom Wright",
                     "Douglas Murray",
                     "Douglas",
-                    "John Templeton",
                     "Tom",
-                    "Wright"
+                    "Tom",
+                    "Wright Online"
                 ],
                 "NORP": [
                     "Christianity",
                     "post-Christian"
                 ],
                 "ORG": [
-                    "page/609baf73407d065a53243156/TzkWp'>survey",
-                    "href='http://www.premierinsight.org"
+                    "the John Templeton Foundation"
                 ],
                 "GPE": [
-                    "Unbelievable"
+                    "Unbelievable",
+                    "USA"
                 ],
-                "CARDINAL": [
-                    "2021</a"
+                "DATE": [
+                    "2021"
                 ]
             }
         },
@@ -4923,27 +5046,22 @@
                 "PERSON": [
                     "Tom",
                     "Wright Online",
+                    "Wright",
                     "Douglas Murray",
-                    "Wright Anything",
                     "Wright Online",
                     "Tom",
-                    "Wright"
+                    "Wright Online"
                 ],
                 "WORK_OF_ART": [
-                    "The Acts of The Apostles.</p>\n\n\n\n<p"
+                    "The Acts of The Apostles"
                 ],
                 "TIME": [
-                    "8pm"
+                    "8pm",
+                    "3pm Eastern\n\n\n"
                 ],
                 "GPE": [
-                    "UK"
-                ],
-                "CARDINAL": [
-                    "3"
-                ],
-                "ORG": [
-                    "Sat 15",
-                    "href='http://www.premierinsight.org"
+                    "UK",
+                    "USA"
                 ]
             }
         },
@@ -4975,26 +5093,23 @@
             "title": "#64 Questions on the Acts of the Apostles",
             "entities": {
                 "DATE": [
-                    "today"
+                    "today",
+                    "13 May"
                 ],
                 "PERSON": [
                     "Tom",
                     "Wright Online",
+                    "Wright",
                     "Douglas Murray",
-                    "Wright Anything",
                     "Wright Online",
                     "Tom",
-                    "Wright"
+                    "Wright Online"
                 ],
                 "WORK_OF_ART": [
-                    "The Acts Of The Apostles.</p>\n\n\n\n<p"
+                    "The Acts Of The Apostles"
                 ],
-                "CARDINAL": [
-                    "13"
-                ],
-                "ORG": [
-                    "Sat 15",
-                    "href='http://www.premierinsight.org"
+                "GPE": [
+                    "USA"
                 ]
             }
         },
@@ -5027,18 +5142,18 @@
             "entities": {
                 "PERSON": [
                     "Tom",
-                    "groups/479453192594806/'>NT Wright",
+                    "Wright",
+                    "Wright",
                     "Douglas Murray",
-                    "Wright Anything",
                     "Tom",
-                    "Wright"
+                    "Wright Online\n\n\n\u00a0\n\n"
                 ],
                 "DATE": [
-                    "Thurs 13 May",
+                    "13 May",
                     "15 May\n\n\n\u00a0\n\n\n"
                 ],
-                "ORG": [
-                    "href='http://www.premierinsight.org"
+                "GPE": [
+                    "USA"
                 ]
             }
         },
@@ -5071,28 +5186,27 @@
             "entities": {
                 "PERSON": [
                     "Tom",
-                    "groups/479453192594806/'>NT Wright",
+                    "Wright",
                     "Torah",
                     "Tom\u00a0and\u00a0",
                     "Justin",
                     "Tom",
-                    "Douglas Murray</a",
+                    "Douglas Murray",
                     "Tom",
-                    "Wright"
+                    "Wright Online"
                 ],
                 "CARDINAL": [
                     "2"
                 ],
                 "DATE": [
                     "13th",
-                    "15th May\n\n\u00a0\n\n\n",
                     "15 May\n\n\n\u00a0\n\n\n"
                 ],
                 "WORK_OF_ART": [
-                    "Book for the\u00a0<a href='http://www.unbelievable.live/'>Unbelievable? & Ask NT Wright Anything"
+                    "Book for the\u00a0Unbelievable? & Ask NT Wright Anything"
                 ],
-                "ORG": [
-                    "href='http://www.premierinsight.org"
+                "GPE": [
+                    "USA"
                 ]
             }
         },
@@ -5127,15 +5241,19 @@
                     "Tom",
                     "Jesus",
                     "Tom",
-                    "Wright"
+                    "Wright Online"
                 ],
                 "ORG": [
-                    "Biblical",
-                    "Sat 15",
-                    "href='http://www.premierinsight.org"
+                    "Biblical"
                 ],
                 "WORK_OF_ART": [
-                    "Book for the\u00a0<a href='http://www.unbelievable.live/'>Unbelievable? & Ask NT Wright Anything"
+                    "Book for the\u00a0Unbelievable? & Ask NT Wright"
+                ],
+                "DATE": [
+                    "15 May"
+                ],
+                "GPE": [
+                    "USA"
                 ]
             }
         },
@@ -5169,17 +5287,19 @@
                 "PERSON": [
                     "Tom",
                     "Tom",
-                    "Wright"
+                    "Wright Online"
                 ],
                 "NORP": [
                     "Christian"
                 ],
                 "WORK_OF_ART": [
-                    "Book for the\u00a0<a href='http://www.unbelievable.live/'>Unbelievable? & Ask NT Wright Anything"
+                    "Book for the\u00a0Unbelievable? &"
                 ],
-                "ORG": [
-                    "Sat 15",
-                    "href='http://www.premierinsight.org"
+                "DATE": [
+                    "15 May\n\n\n"
+                ],
+                "GPE": [
+                    "USA"
                 ]
             }
         },
@@ -5211,23 +5331,21 @@
             "title": "#59 Evangelism and sharing the gospel",
             "entities": {
                 "GPE": [
-                    "n\u2019t"
+                    "n\u2019t",
+                    "USA"
                 ],
                 "NORP": [
                     "Christianity"
                 ],
                 "WORK_OF_ART": [
-                    "Book for the\u00a0<a href='http://www.unbelievable.live/'>Unbelievable? & Ask NT Wright Anything"
+                    "Book for the\u00a0Unbelievable? & Ask NT Wright Anything"
                 ],
                 "DATE": [
                     "15 May"
                 ],
-                "ORG": [
-                    "href='http://www.premierinsight.org"
-                ],
                 "PERSON": [
                     "Tom",
-                    "Wright"
+                    "Wright Online"
                 ]
             }
         },
@@ -5264,7 +5382,7 @@
                     "Tom",
                     "Francis Collins",
                     "Tom",
-                    "Wright"
+                    "Wright Online"
                 ],
                 "DATE": [
                     "6-day",
@@ -5274,15 +5392,13 @@
                     "first"
                 ],
                 "ORG": [
-                    "BioLogos",
-                    "href='http://www.premierinsight.org"
-                ],
-                "NORP": [
-                    "a-christian",
-                    "a-christian"
+                    "BioLogos"
                 ],
                 "WORK_OF_ART": [
-                    "Book for the\u00a0<a href='http://www.unbelievable.live/'>Unbelievable? & Ask NT Wright Anything"
+                    "Book for the\u00a0Unbelievable? & Ask NT Wright Anything"
+                ],
+                "GPE": [
+                    "USA"
                 ]
             }
         },
@@ -5315,25 +5431,26 @@
             "entities": {
                 "PERSON": [
                     "Tom",
+                    "Tiber",
                     "Alister McGrath",
                     "Tom",
-                    "Wright"
+                    "Wright Online"
                 ],
                 "NORP": [
                     "Roman Catholic"
                 ],
                 "GPE": [
-                    "Eastern Orthodox"
+                    "Eastern Orthodox",
+                    "USA"
                 ],
                 "ORG": [
-                    "CS Lewis",
-                    "The-CS-Lewis-podcast'>https://www.premierchristianradio.com/Shows",
-                    "The-CS-Lewis-podcast</a",
-                    "Sat 15",
-                    "href='http://www.premierinsight.org"
+                    "CS Lewis"
                 ],
                 "WORK_OF_ART": [
-                    "Book for the\u00a0<a href='http://www.unbelievable.live/'>Unbelievable? & Ask NT Wright Anything"
+                    "Book for the\u00a0Unbelievable? & Ask NT Wright"
+                ],
+                "DATE": [
+                    "15 May\n\n\n"
                 ]
             }
         },
@@ -5371,17 +5488,17 @@
                 "PERSON": [
                     "Tom",
                     "Tom",
-                    "Tom"
+                    "Tom",
+                    "Wright Online"
                 ],
                 "DATE": [
                     "Sunday"
                 ],
                 "WORK_OF_ART": [
-                    "Book for the\u00a0<a href='http://www.unbelievable.live/'>Unbelievable? & Ask NT Wright Anything"
+                    "Book for the\u00a0Unbelievable? & Ask NT Wright"
                 ],
-                "ORG": [
-                    "Sat 15",
-                    "href='http://www.premierinsight.org"
+                "GPE": [
+                    "USA"
                 ]
             }
         },
@@ -5424,11 +5541,8 @@
                     "Book for the Unbelievable",
                     "Bible"
                 ],
-                "LAW": [
-                    "Sat 15"
-                ],
-                "ORG": [
-                    "href='http://www.premierinsight.org/ntwright'>http://www.premierinsight.org/ntwright</a></p"
+                "GPE": [
+                    "USA"
                 ]
             }
         },
@@ -5459,17 +5573,19 @@
             "pubDate": "Thu, 25 Feb 2021 18:00:00 +0000",
             "title": "#54 Veganism, ethics and activism",
             "entities": {
+                "PERSON": [
+                    "Tom",
+                    "Wright",
+                    "PodBean"
+                ],
                 "GPE": [
                     "USA"
-                ],
-                "PERSON": [
-                    "Wright"
                 ],
                 "WORK_OF_ART": [
                     "Bible"
                 ],
-                "ORG": [
-                    "href='http://www.premierinsight.org/ntwright'>http://www.premierinsight.org/ntwright</a></p"
+                "NORP": [
+                    "iTunes"
                 ]
             }
         },
@@ -5502,18 +5618,21 @@
             "entities": {
                 "PERSON": [
                     "Tom",
-                    "Wright"
+                    "Wright",
+                    "PodBean"
                 ],
                 "GPE": [
                     "US",
                     "USA"
                 ],
                 "ORG": [
-                    "Trump",
-                    "href='http://www.premierinsight.org/ntwright'>http://www.premierinsight.org/ntwright</a></p"
+                    "Trump"
                 ],
                 "WORK_OF_ART": [
                     "Bible"
+                ],
+                "NORP": [
+                    "iTunes"
                 ]
             }
         },
@@ -5546,10 +5665,17 @@
             "entities": {
                 "PERSON": [
                     "Tom",
-                    "Wright"
+                    "Wright",
+                    "PodBean"
                 ],
                 "WORK_OF_ART": [
                     "Bible"
+                ],
+                "PRODUCT": [
+                    "Subscribe"
+                ],
+                "NORP": [
+                    "iTunes"
                 ]
             }
         },
@@ -5581,16 +5707,21 @@
             "title": "#51 Pain and suffering Part 1",
             "entities": {
                 "PERSON": [
-                    "class=\"x_MsoNormal\">NT Wright",
+                    "Tom",
+                    "Wright",
                     "Volf",
-                    "type=\"disc\"><li",
-                    "Wright"
+                    "Wright",
+                    "PodBean"
                 ],
                 "NORP": [
-                    "Miroslaf"
+                    "Miroslaf",
+                    "iTunes"
                 ],
                 "WORK_OF_ART": [
                     "Bible"
+                ],
+                "PRODUCT": [
+                    "Subscribe"
                 ]
             }
         },
@@ -5623,10 +5754,17 @@
             "entities": {
                 "PERSON": [
                     "Tom",
-                    "Wright"
+                    "Wright",
+                    "PodBean"
                 ],
                 "WORK_OF_ART": [
                     "Bible"
+                ],
+                "PRODUCT": [
+                    "Subscribe"
+                ],
+                "NORP": [
+                    "iTunes"
                 ]
             }
         },
@@ -5660,16 +5798,21 @@
                 "PERSON": [
                     "Tom",
                     "Wright",
-                    "Wright Anything"
+                    "Wright Anything",
+                    "PodBean"
                 ],
                 "NORP": [
-                    "Jews"
+                    "Jews",
+                    "iTunes"
                 ],
                 "GPE": [
                     "America"
                 ],
                 "WORK_OF_ART": [
                     "Bible"
+                ],
+                "PRODUCT": [
+                    "Subscribe"
                 ]
             }
         },
@@ -5702,10 +5845,17 @@
             "entities": {
                 "PERSON": [
                     "Tom",
-                    "Wright"
+                    "Wright",
+                    "PodBean"
                 ],
                 "WORK_OF_ART": [
                     "Bible"
+                ],
+                "PRODUCT": [
+                    "Subscribe"
+                ],
+                "NORP": [
+                    "iTunes"
                 ]
             }
         },
@@ -5737,12 +5887,19 @@
             "title": "#47 Should women preach and lead in church? What about marriage?",
             "entities": {
                 "PERSON": [
-                    "type=\"disc\"><li",
+                    "Tom",
                     "Wright",
-                    "Wright"
+                    "Wright",
+                    "PodBean"
                 ],
                 "WORK_OF_ART": [
                     "Bible"
+                ],
+                "PRODUCT": [
+                    "Subscribe"
+                ],
+                "NORP": [
+                    "iTunes"
                 ]
             }
         },
@@ -5774,10 +5931,18 @@
             "title": "#46 Big questions from and about children",
             "entities": {
                 "PERSON": [
-                    "Wright"
+                    "Tom",
+                    "Wright",
+                    "PodBean"
                 ],
                 "WORK_OF_ART": [
                     "Bible"
+                ],
+                "PRODUCT": [
+                    "Subscribe"
+                ],
+                "NORP": [
+                    "iTunes"
                 ]
             }
         },
@@ -5811,14 +5976,18 @@
                 "PERSON": [
                     "Tom",
                     "Tom",
-                    "Wright"
+                    "Wright",
+                    "PodBean"
                 ],
                 "ORG": [
                     "Coronavirus"
                 ],
                 "WORK_OF_ART": [
-                    "God and the Pandemic:\u00a0<a href='https://spckpublishing.co.uk/god-and-the-pandemic'>https://spckpublishing.co.uk/god-and-the-",
+                    "God and the Pandemic:\u00a0https://spckpublishing.co.uk/god-and-the-pandemic\u00a0\nSupport the\u00a0show",
                     "Bible"
+                ],
+                "NORP": [
+                    "iTunes"
                 ]
             }
         },
@@ -5849,20 +6018,26 @@
             "pubDate": "Wed, 07 Oct 2020 16:38:26 +0000",
             "title": "#44 Donald Trump, gay cakes and white privilege",
             "entities": {
-                "GPE": [
-                    "US"
-                ],
-                "NORP": [
-                    "Christian"
-                ],
                 "PERSON": [
+                    "Tom",
                     "Tom",
                     "Wright"
                 ],
+                "GPE": [
+                    "US",
+                    "PodBean"
+                ],
+                "NORP": [
+                    "Christian",
+                    "iTunes"
+                ],
                 "WORK_OF_ART": [
                     "Undermining Racism",
-                    "\u2018Reading",
+                    "\u2018Reading While Black\u2019:",
                     "Bible"
+                ],
+                "PRODUCT": [
+                    "Subscribe"
                 ]
             }
         },
@@ -5896,7 +6071,8 @@
                 "PERSON": [
                     "Wright",
                     "Justin",
-                    "Wright"
+                    "Wright",
+                    "PodBean"
                 ],
                 "DATE": [
                     "the years"
@@ -5912,6 +6088,9 @@
                 ],
                 "WORK_OF_ART": [
                     "Bible"
+                ],
+                "NORP": [
+                    "iTunes"
                 ]
             }
         },
@@ -5946,10 +6125,20 @@
                     "Ananias",
                     "Sapphira",
                     "Tom",
-                    "Wright"
+                    "Wright",
+                    "PodBean"
                 ],
                 "WORK_OF_ART": [
                     "Bible"
+                ],
+                "PRODUCT": [
+                    "Subscribe"
+                ],
+                "NORP": [
+                    "iTunes"
+                ],
+                "ORG": [
+                    "RSS Feed"
                 ]
             }
         },
@@ -5981,15 +6170,19 @@
             "title": "#41 Brexit, Abortion, Race and Critical Theory",
             "entities": {
                 "PERSON": [
+                    "Tom",
                     "Wright",
                     "Tom",
-                    "tom-wright</a></p"
+                    "PodBean"
                 ],
                 "WORK_OF_ART": [
                     "Bible"
                 ],
                 "ORG": [
                     "SPCK"
+                ],
+                "NORP": [
+                    "iTunes"
                 ]
             }
         },
@@ -6024,10 +6217,12 @@
                     "Tom",
                     "the Apostle Paul",
                     "Wright",
-                    "Tom"
+                    "Tom",
+                    "PodBean"
                 ],
                 "NORP": [
-                    "Christians"
+                    "Christians",
+                    "iTunesor"
                 ],
                 "WORK_OF_ART": [
                     "Bible"
@@ -6063,13 +6258,20 @@
             "entities": {
                 "PERSON": [
                     "Tom",
-                    "Wright"
+                    "Wright",
+                    "PodBean"
                 ],
                 "ORG": [
                     "Death Experiences"
                 ],
                 "WORK_OF_ART": [
                     "Bible"
+                ],
+                "PRODUCT": [
+                    "Subscribe"
+                ],
+                "NORP": [
+                    "iTunesor"
                 ]
             }
         },
@@ -6106,7 +6308,8 @@
                     "Tom",
                     "Gospels",
                     "Wright Online",
-                    "Wright"
+                    "Wright",
+                    "PodBean"
                 ],
                 "ORG": [
                     "Justin"
@@ -6114,6 +6317,9 @@
                 "WORK_OF_ART": [
                     "\u2018The Story of Acts 15",
                     "Bible"
+                ],
+                "NORP": [
+                    "iTunes"
                 ]
             }
         },
@@ -6146,13 +6352,13 @@
             "entities": {
                 "PERSON": [
                     "Tom",
-                    "Prof John Lennox",
-                    "Wright"
+                    "Prof John Lennox\u00a0https://www.premierdigital.info/28-may-special-guest-john-lennox",
+                    "Wright",
+                    "PodBean"
                 ],
                 "ORG": [
                     "Apologetics & Covid-19 Webinar",
-                    "Justin",
-                    "href='http://www.facebook.com"
+                    "Justin"
                 ],
                 "GPE": [
                     "UK"
@@ -6162,6 +6368,9 @@
                 ],
                 "WORK_OF_ART": [
                     "Bible"
+                ],
+                "NORP": [
+                    "iTunes"
                 ]
             }
         },
@@ -6194,13 +6403,20 @@
             "entities": {
                 "PERSON": [
                     "Tom",
-                    "Wright"
+                    "Wright",
+                    "PodBean"
                 ],
                 "CARDINAL": [
                     "one"
                 ],
                 "WORK_OF_ART": [
                     "Bible"
+                ],
+                "PRODUCT": [
+                    "Subscribe"
+                ],
+                "NORP": [
+                    "iTunes"
                 ]
             }
         },
@@ -6234,7 +6450,8 @@
                 "PERSON": [
                     "Easter",
                     "Tom",
-                    "Wright"
+                    "Wright",
+                    "PodBean"
                 ],
                 "WORK_OF_ART": [
                     "Unbelievable",
@@ -6242,6 +6459,9 @@
                 ],
                 "DATE": [
                     "Conference 2020"
+                ],
+                "NORP": [
+                    "iTunes"
                 ]
             }
         },
@@ -6274,10 +6494,11 @@
             "entities": {
                 "PERSON": [
                     "Wright",
-                    "Q&A.</p",
+                    "Tom",
                     "Paul",
                     "Jesus",
-                    "Wright"
+                    "Wright",
+                    "PodBean"
                 ],
                 "ORG": [
                     "SPCK",
@@ -6294,6 +6515,9 @@
                 ],
                 "DATE": [
                     "Conference 2020"
+                ],
+                "NORP": [
+                    "iTunes"
                 ]
             }
         },
@@ -6330,14 +6554,16 @@
                 "PERSON": [
                     "Maggie",
                     "Tom",
-                    "Wright"
+                    "Wright",
+                    "PodBean"
                 ],
                 "ORG": [
                     "Justin"
                 ],
                 "NORP": [
                     "Coronavirus",
-                    "Christians"
+                    "Christians",
+                    "iTunes"
                 ],
                 "WORK_OF_ART": [
                     "Unbelievable",
@@ -6380,7 +6606,8 @@
                     "Tom Wright",
                     "Jesus",
                     "Paul",
-                    "Wright"
+                    "Wright",
+                    "PodBean"
                 ],
                 "GPE": [
                     "London"
@@ -6390,7 +6617,14 @@
                     "12 March"
                 ],
                 "WORK_OF_ART": [
+                    "Register for An Evening",
                     "Bible"
+                ],
+                "PRODUCT": [
+                    "Subscribe"
+                ],
+                "NORP": [
+                    "iTunes"
                 ]
             }
         },
@@ -6422,7 +6656,8 @@
             "title": "#31 Jean Vanier and when leaders let us down",
             "entities": {
                 "PRODUCT": [
-                    "L\u2019Arche"
+                    "L\u2019Arche",
+                    "Subscribe"
                 ],
                 "PERSON": [
                     "Jean Vanier",
@@ -6430,7 +6665,8 @@
                     "Tom Wright",
                     "Jesus",
                     "Paul",
-                    "Wright"
+                    "Wright",
+                    "PodBean"
                 ],
                 "GPE": [
                     "London"
@@ -6440,7 +6676,11 @@
                     "12 March"
                 ],
                 "WORK_OF_ART": [
+                    "Register for An Evening",
                     "Bible"
+                ],
+                "NORP": [
+                    "iTunes"
                 ]
             }
         },
@@ -6476,7 +6716,12 @@
                     "Tom Wright",
                     "Jesus",
                     "Paul",
-                    "Wright"
+                    "Wright",
+                    "PodBean"
+                ],
+                "NORP": [
+                    "non-Christian",
+                    "iTunes"
                 ],
                 "GPE": [
                     "London"
@@ -6486,7 +6731,11 @@
                     "12 March"
                 ],
                 "WORK_OF_ART": [
+                    "Register for An Evening",
                     "Bible"
+                ],
+                "PRODUCT": [
+                    "Subscribe"
                 ]
             }
         },
@@ -6519,7 +6768,8 @@
             "entities": {
                 "PERSON": [
                     "Tom",
-                    "Wright"
+                    "Wright",
+                    "PodBean"
                 ],
                 "DATE": [
                     "today",
@@ -6530,6 +6780,12 @@
                 ],
                 "WORK_OF_ART": [
                     "Bible"
+                ],
+                "PRODUCT": [
+                    "Subscribe"
+                ],
+                "NORP": [
+                    "iTunes"
                 ]
             }
         },
@@ -6565,10 +6821,17 @@
                 ],
                 "PERSON": [
                     "Jesus",
-                    "Tom"
+                    "Tom",
+                    "PodBean"
                 ],
                 "WORK_OF_ART": [
                     "Bible"
+                ],
+                "PRODUCT": [
+                    "Subscribe"
+                ],
+                "NORP": [
+                    "iTunes"
                 ]
             }
         },
@@ -6601,11 +6864,12 @@
             "entities": {
                 "PERSON": [
                     "Tom",
-                    "NT Wright"
+                    "NT Wright",
+                    "PodBean",
+                    "Stitcher"
                 ],
                 "ORG": [
-                    "the Book of Daniel",
-                    "href='https://www.stitcher.com"
+                    "the Book of Daniel"
                 ],
                 "LOC": [
                     "Job"
@@ -6615,10 +6879,17 @@
                 ],
                 "GPE": [
                     "Unbelievable",
-                    "London"
+                    "London",
+                    "Spotify"
                 ],
                 "DATE": [
                     "Conference 2020"
+                ],
+                "PRODUCT": [
+                    "Subscribe"
+                ],
+                "NORP": [
+                    "iTunes"
                 ]
             }
         },
@@ -6650,15 +6921,21 @@
             "title": "#26 Bible translations and controversies ",
             "entities": {
                 "WORK_OF_ART": [
-                    "Bible"
+                    "Bible",
+                    "The Bible For Everyone\u2019"
                 ],
                 "PERSON": [
                     "Tom",
                     "n\u2019t Tom",
-                    "Francis"
+                    "Francis",
+                    "PodBean",
+                    "Stitcher"
                 ],
-                "ORG": [
-                    "href='https://www.stitcher.com"
+                "NORP": [
+                    "iTunes"
+                ],
+                "GPE": [
+                    "Spotify"
                 ]
             }
         },
@@ -6694,17 +6971,20 @@
                 ],
                 "NORP": [
                     "Christians",
-                    "Christian"
+                    "Christian",
+                    "iTunes"
                 ],
                 "PERSON": [
                     "Tom",
                     "Gospel",
-                    "Gifford",
-                    "Jesus",
-                    "NT Wright"
+                    "Tom",
+                    "Gifford Lectures",
+                    "NT Wright\u00a0https://spckpublishing.co.uk/history-and-eschatology\n\n\nFor",
+                    "PodBean"
                 ],
                 "WORK_OF_ART": [
-                    "\u2018History and Eschatology"
+                    "\u2018History and Eschatology",
+                    "For \u2018History and Eschatology: Jesus"
                 ],
                 "DATE": [
                     "2018"
@@ -6747,13 +7027,18 @@
                 ],
                 "PERSON": [
                     "Tom",
-                    "Mike Bird"
+                    "Mike Bird",
+                    "PodBean"
                 ],
                 "WORK_OF_ART": [
                     "book \u2018The New Testament"
                 ],
                 "ORDINAL": [
                     "first"
+                ],
+                "NORP": [
+                    "Christians",
+                    "iTunes"
                 ]
             }
         },
@@ -6788,18 +7073,25 @@
                     "Wright",
                     "Justin Brierley",
                     "Tom",
-                    "Tom"
+                    "Tom",
+                    "PodBean"
                 ],
                 "ORG": [
                     "Profile",
                     "Profile"
                 ],
                 "EVENT": [
-                    "The Day The Revolution"
+                    "The Day The Revolution Began"
                 ],
                 "CARDINAL": [
                     "one",
                     "one-half"
+                ],
+                "PRODUCT": [
+                    "Subscribe"
+                ],
+                "NORP": [
+                    "iTunes"
                 ]
             }
         },
@@ -6833,10 +7125,20 @@
                 "PERSON": [
                     "Jesus",
                     "Tom",
-                    "Tom"
+                    "Tom",
+                    "PodBean"
+                ],
+                "WORK_OF_ART": [
+                    "Unbelievable?"
                 ],
                 "GPE": [
                     "LA"
+                ],
+                "PRODUCT": [
+                    "Subscribe"
+                ],
+                "NORP": [
+                    "iTunes"
                 ]
             }
         },
@@ -6872,10 +7174,12 @@
                 ],
                 "PERSON": [
                     "Tom",
-                    "Tom"
+                    "Tom",
+                    "PodBean"
                 ],
                 "NORP": [
-                    "Christians"
+                    "Christians",
+                    "iTunes"
                 ],
                 "DATE": [
                     "today"
@@ -6884,8 +7188,14 @@
                     "one",
                     "one-half"
                 ],
+                "WORK_OF_ART": [
+                    "Unbelievable?"
+                ],
                 "GPE": [
                     "LA"
+                ],
+                "PRODUCT": [
+                    "Subscribe"
                 ]
             }
         },
@@ -6918,7 +7228,8 @@
             "entities": {
                 "NORP": [
                     "Christians",
-                    "Jewish"
+                    "Jewish",
+                    "iTunes"
                 ],
                 "GPE": [
                     "Israel",
@@ -6928,12 +7239,17 @@
                     "today"
                 ],
                 "WORK_OF_ART": [
-                    "Bible"
+                    "Bible",
+                    "Unbelievable?"
                 ],
                 "PERSON": [
                     "Jesus",
                     "Tom Wright",
-                    "Tom"
+                    "Tom",
+                    "PodBean"
+                ],
+                "PRODUCT": [
+                    "Subscribe"
                 ]
             }
         },
@@ -6968,18 +7284,24 @@
                     "Trinity"
                 ],
                 "NORP": [
-                    "Christian"
+                    "Christian",
+                    "iTunes"
                 ],
                 "WORK_OF_ART": [
-                    "Bible"
+                    "Bible",
+                    "Unbelievable?"
                 ],
                 "PERSON": [
                     "Tom",
                     "Tom Wright",
-                    "Tom Wright"
+                    "Tom Wright",
+                    "PodBean"
                 ],
                 "GPE": [
                     "LA"
+                ],
+                "PRODUCT": [
+                    "Subscribe"
                 ]
             }
         },
@@ -7012,7 +7334,8 @@
             "entities": {
                 "PERSON": [
                     "Tom",
-                    "Tom Wright"
+                    "Tom Wright",
+                    "PodBean"
                 ],
                 "WORK_OF_ART": [
                     "the The Lord\u2019s Prayer",
@@ -7020,6 +7343,9 @@
                 ],
                 "DATE": [
                     "2019"
+                ],
+                "NORP": [
+                    "iTunes"
                 ]
             }
         },
@@ -7054,15 +7380,17 @@
                 "PERSON": [
                     "Jesus",
                     "Tom Wright",
-                    "Tom"
+                    "Tom",
+                    "PodBean"
                 ],
                 "NORP": [
-                    "Muslim"
+                    "Muslim",
+                    "iTunes"
                 ],
                 "ORG": [
                     "SPCK"
                 ],
-                "GPE": [
+                "WORK_OF_ART": [
                     "Unbelievable"
                 ],
                 "DATE": [
@@ -7101,19 +7429,23 @@
                     "Jesus",
                     "Tom",
                     "Tom Wright",
-                    "June)</p"
+                    "PodBean"
                 ],
                 "WORK_OF_ART": [
                     "Unbelievable"
                 ],
                 "DATE": [
-                    "2019"
+                    "2019",
+                    "20 June"
                 ],
                 "PERCENT": [
                     "10%"
                 ],
-                "CARDINAL": [
-                    "20"
+                "PRODUCT": [
+                    "Subscribe"
+                ],
+                "NORP": [
+                    "iTunes"
                 ]
             }
         },
@@ -7149,19 +7481,23 @@
                     "Tom",
                     "Leonard Cohen",
                     "Tom",
-                    "June)</p"
+                    "PodBean"
                 ],
                 "WORK_OF_ART": [
                     "Unbelievable"
                 ],
                 "DATE": [
-                    "2019"
+                    "2019",
+                    "20 June"
                 ],
                 "PERCENT": [
                     "10%"
                 ],
-                "CARDINAL": [
-                    "20"
+                "PRODUCT": [
+                    "Subscribe"
+                ],
+                "NORP": [
+                    "iTunes"
                 ]
             }
         },
@@ -7194,17 +7530,22 @@
             "entities": {
                 "NORP": [
                     "Christian",
-                    "Christian"
+                    "Christian",
+                    "iTunes"
                 ],
                 "PERSON": [
                     "Tom Wright",
-                    "Tom"
+                    "Tom",
+                    "PodBean"
                 ],
                 "ORG": [
                     "Justin"
                 ],
                 "WORK_OF_ART": [
-                    "The Lord\u2019s Prayer <"
+                    "The Lord\u2019s Prayer http://ntwrightonline"
+                ],
+                "PRODUCT": [
+                    "Subscribe"
                 ]
             }
         },
@@ -7237,7 +7578,8 @@
             "entities": {
                 "PERSON": [
                     "Tom",
-                    "Tom"
+                    "Tom",
+                    "PodBean"
                 ],
                 "ORG": [
                     "the New Testament",
@@ -7248,8 +7590,11 @@
                     "today",
                     "2019"
                 ],
-                "GPE": [
+                "WORK_OF_ART": [
                     "Unbelievable"
+                ],
+                "NORP": [
+                    "iTunes"
                 ]
             }
         },
@@ -7284,14 +7629,21 @@
                     "Tom Wright",
                     "Justin",
                     "Adam",
-                    "Tom"
+                    "Tom",
+                    "PodBean"
                 ],
                 "ORG": [
                     "Genesis",
                     "Genesis"
                 ],
                 "WORK_OF_ART": [
-                    "The Lord\u2019s Prayer <"
+                    "The Lord\u2019s Prayer http://ntwrightonline"
+                ],
+                "PRODUCT": [
+                    "Subscribe"
+                ],
+                "NORP": [
+                    "iTunes"
                 ]
             }
         },
@@ -7327,11 +7679,15 @@
                     "Easter",
                     "Tom",
                     "Jesus",
-                    "Jordan B Peterson.</p",
-                    "Tom"
+                    "Jordan B Peterson",
+                    "Tom",
+                    "PodBean"
                 ],
                 "ORG": [
                     "Biblical"
+                ],
+                "NORP": [
+                    "iTunes"
                 ]
             }
         },
@@ -7370,7 +7726,9 @@
                     "the 20th Century"
                 ],
                 "NORP": [
-                    "Anglican"
+                    "Anglican",
+                    "PodBean",
+                    "iTunes"
                 ]
             }
         },
@@ -7408,10 +7766,13 @@
                     "Andy\u00a0Stanley",
                     "Greg\u00a0Boyd",
                     "Tom",
-                    "Greg\u00a0Boyd\u00a0& Paul Copan"
+                    "Greg\u00a0Boyd\u00a0& Paul Copan",
+                    "https://www.premierchristianradio.com/Shows/Saturday/Unbelievable/Episodes/Unbelievable-Greg-Boyd-Paul-Copan-debate-Old-Testament-violence-and-Boyd-s-new-theology-in-Crucifixion-Of-The-Warrior-God\nhttps://www.premierchristianradio.com/Shows/Saturday/Unbelievable/Episodes/Unbelievable-Boyd-Copan-pt-2-debating-Amalekite-destruction-Ananias-and-Sapphira\nSubscribe",
+                    "PodBean"
                 ],
                 "NORP": [
-                    "Christianity"
+                    "Christianity",
+                    "iTunes"
                 ],
                 "PRODUCT": [
                     "Exodus"
@@ -7420,7 +7781,8 @@
                     "20%"
                 ],
                 "WORK_OF_ART": [
-                    "The Bible For Everyone"
+                    "The Bible For Everyone",
+                    "Unbelievable"
                 ]
             }
         },
@@ -7455,19 +7817,26 @@
                 "ORG": [
                     "Unbelievable",
                     "Justin",
-                    "Unbelievable"
+                    "RSS"
                 ],
                 "PERSON": [
                     "John",
                     "Tom",
                     "Tom",
-                    "Tom Wright:</p"
+                    "Tom Wright"
                 ],
                 "PERCENT": [
                     "20%"
                 ],
                 "WORK_OF_ART": [
                     "The Bible For Everyone"
+                ],
+                "PRODUCT": [
+                    "Subscribe"
+                ],
+                "NORP": [
+                    "PodBean",
+                    "iTunes"
                 ]
             }
         },
@@ -7509,13 +7878,18 @@
                     "Michael"
                 ],
                 "ORG": [
-                    "Reformers"
+                    "Reformers",
+                    "RSS"
                 ],
                 "PERCENT": [
                     "20%"
                 ],
                 "CARDINAL": [
                     "Five"
+                ],
+                "NORP": [
+                    "PodBean",
+                    "iTunes"
                 ]
             }
         },
@@ -7546,29 +7920,32 @@
             "pubDate": "Wed, 30 Jan 2019 18:00:00 +0000",
             "title": "#6 Female church leadership, complementarity and marriage",
             "entities": {
+                "PERSON": [
+                    "Tom",
+                    "Tim",
+                    "Tom",
+                    "Paula Gooder",
+                    "Francesca Stavrakopoulou",
+                    "PodBean"
+                ],
                 "ORG": [
-                    "the New Testament",
-                    "href='https://www.premierchristianradio.com/Shows/Saturday/Unbelievable/Episodes/Unbelievable-Is-Christianity",
-                    "Paula-Gooder-Francesca-Stavrakopoulou'>https://www.premierchristianradio.com/Shows",
-                    "Paula-Gooder-Francesca-Stavrakopoulou</a></p"
+                    "the New Testament"
                 ],
                 "CARDINAL": [
                     "1",
                     "5",
                     "22"
                 ],
-                "PERSON": [
-                    "Tim",
-                    "Tom",
-                    "Paula Gooder",
-                    "Francesca Stavrakopoulou"
-                ],
                 "DATE": [
                     "2:13-15"
                 ],
                 "NORP": [
                     "complementarian",
-                    "egalitarian"
+                    "egalitarian",
+                    "iTunes"
+                ],
+                "PRODUCT": [
+                    "https://www.premierchristianradio.com/Shows/Saturday/Unbelievable/Episodes/Unbelievable-Is-Christianity-sexist-Paula-Gooder-Francesca-Stavrakopoulou\nSubscribe"
                 ]
             }
         },
@@ -7600,23 +7977,30 @@
             "title": "#5 Qs on the life of St Paul, justification and predestination",
             "entities": {
                 "PERSON": [
-                    "Wright",
+                    "Tom Wright",
                     "Paul",
                     "Tom",
-                    "Wright",
-                    "Tom Holland"
+                    "NT Wright",
+                    "Tom Holland",
+                    "PodBean"
                 ],
                 "ORG": [
                     "Justin"
                 ],
                 "WORK_OF_ART": [
-                    "Paul: A Biography"
+                    "Paul:"
                 ],
                 "CARDINAL": [
                     "three"
                 ],
                 "DATE": [
                     "today"
+                ],
+                "PRODUCT": [
+                    "Subscribe"
+                ],
+                "NORP": [
+                    "iTunes"
                 ]
             }
         },
@@ -7654,7 +8038,14 @@
                     "Tom"
                 ],
                 "NORP": [
-                    "post-Christian"
+                    "post-Christian",
+                    "Muslim",
+                    "PodBean",
+                    "iTunes"
+                ],
+                "ORG": [
+                    "Subscribe",
+                    "RSS"
                 ]
             }
         },
@@ -7687,14 +8078,20 @@
             "entities": {
                 "PERSON": [
                     "Tom Wright",
-                    "Bart Ehrman"
+                    "Bart Ehrman",
+                    "Bach"
                 ],
                 "ORG": [
                     "Justin",
-                    "href='https://commons.wikimedia.org/w"
+                    "Ascension",
+                    "Subscribe"
                 ],
                 "DATE": [
                     "about Christmas"
+                ],
+                "NORP": [
+                    "PodBean",
+                    "iTunes"
                 ]
             }
         },
@@ -7731,6 +8128,14 @@
                 ],
                 "EVENT": [
                     "The Day"
+                ],
+                "ORG": [
+                    "Subscribe",
+                    "RSS"
+                ],
+                "NORP": [
+                    "PodBean",
+                    "iTunes"
                 ]
             }
         },
@@ -7812,6 +8217,9 @@
                 "WORK_OF_ART": [
                     "Bible",
                     "New Testament"
+                ],
+                "GPE": [
+                    "Scotland"
                 ]
             }
         }

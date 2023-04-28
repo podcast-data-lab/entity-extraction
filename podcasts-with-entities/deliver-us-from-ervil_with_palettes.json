@@ -52,6 +52,7 @@
                     "Colonia LeBaron"
                 ],
                 "ORG": [
+                    "Novel",
                     "Novel"
                 ]
             }
@@ -97,6 +98,7 @@
                 ],
                 "ORG": [
                     "the Jenny Task Force",
+                    "Novel",
                     "Novel"
                 ]
             }
@@ -144,7 +146,8 @@
                     "Ervil LeBaron\u2019s"
                 ],
                 "ORG": [
-                    "Novel for iHeartRadio.<br><br>For"
+                    "Novel",
+                    "Novel"
                 ]
             }
         },
@@ -193,7 +196,8 @@
                     "Utah"
                 ],
                 "ORG": [
-                    "Novel for iHeartRadio.<br><br>For"
+                    "Novel",
+                    "Novel"
                 ]
             }
         },
@@ -236,6 +240,7 @@
                     "the Kingdom of God"
                 ],
                 "ORG": [
+                    "Novel",
                     "Novel"
                 ]
             }
@@ -265,6 +270,7 @@
             "entities": {
                 "ORG": [
                     "LeBaron",
+                    "Novel",
                     "Novel"
                 ],
                 "DATE": [
@@ -280,9 +286,14 @@
                     "the Book of the New Covenant"
                 ],
                 "PERSON": [
+                    "Ervil",
                     "Jesse Hyde",
                     "Gabriela",
+                    "Ervil",
                     "Arthur"
+                ],
+                "GPE": [
+                    "Ervil"
                 ]
             }
         },
@@ -312,15 +323,14 @@
                 "PERSON": [
                     "Ervil LeBaron",
                     "Ervil",
-                    "Jesse Hyde"
+                    "Jesse Hyde",
+                    "Ervil"
                 ],
                 "DATE": [
                     "1979"
                 ],
-                "GPE": [
-                    "Us"
-                ],
                 "ORG": [
+                    "Novel",
                     "Novel"
                 ]
             }
@@ -348,10 +358,17 @@
             "pubDate": "Wed, 01 Jun 2022 04:00:00 +0000",
             "title": "6: The Betrayal",
             "entities": {
+                "GPE": [
+                    "Ervil"
+                ],
                 "DATE": [
                     "1978"
                 ],
+                "PERSON": [
+                    "Ervil"
+                ],
                 "ORG": [
+                    "Novel",
                     "Novel"
                 ]
             }
@@ -382,13 +399,14 @@
                 "CARDINAL": [
                     "one"
                 ],
-                "GPE": [
-                    "Ervil"
+                "PERSON": [
+                    "Ervil LeBaron\u2019s"
                 ],
                 "DATE": [
                     "days"
                 ],
                 "ORG": [
+                    "Novel",
                     "Novel"
                 ]
             }
@@ -418,17 +436,17 @@
             "entities": {
                 "GPE": [
                     "Utah",
-                    "Ervil",
-                    "Ervil",
-                    "Us"
+                    "Ervil"
                 ],
                 "PERSON": [
-                    "Ervil"
+                    "Ervil",
+                    "Ervil LeBaron\u2019s"
                 ],
                 "DATE": [
                     "the summer of 1977"
                 ],
                 "ORG": [
+                    "Novel",
                     "Novel"
                 ]
             }
@@ -458,13 +476,14 @@
             "entities": {
                 "PERSON": [
                     "Ervil LeBaron",
-                    "Jesse"
+                    "Jesse",
+                    "Ervil"
                 ],
                 "DATE": [
                     "1977"
                 ],
                 "ORG": [
-                    "can&rsquo;t",
+                    "Novel",
                     "Novel"
                 ]
             }
@@ -493,18 +512,18 @@
             "title": "2: The Massacre in Los Molinos",
             "entities": {
                 "GPE": [
-                    "US",
-                    "Us"
+                    "US"
                 ],
                 "PERSON": [
                     "Colonia LeBaron",
-                    "Ervil",
+                    "Ervil LeBaron",
                     "Jesse"
                 ],
                 "DATE": [
                     "1974"
                 ],
                 "ORG": [
+                    "Novel",
                     "Novel"
                 ]
             }
@@ -550,7 +569,8 @@
                 ],
                 "ORG": [
                     "Mormon",
-                    "LeBarons &",
+                    "LeBarons",
+                    "Novel",
                     "Novel"
                 ],
                 "NORP": [
@@ -581,7 +601,8 @@
             "title": "Introducing Deliver Us From Ervil",
             "entities": {
                 "DATE": [
-                    "the 1940s"
+                    "the 1940s",
+                    "today"
                 ],
                 "ORG": [
                     "Mormon",
@@ -592,7 +613,7 @@
                     "Mexican"
                 ],
                 "PERSON": [
-                    "Ervil",
+                    "Ervil LeBaron\u2019s",
                     "Jesse Hyde",
                     "Ervil LeBaron"
                 ]
@@ -650,7 +671,8 @@
     "title": "Deliver Us From Ervil",
     "entities": {
         "DATE": [
-            "the 1940s"
+            "the 1940s",
+            "today"
         ],
         "ORG": [
             "Mormon",

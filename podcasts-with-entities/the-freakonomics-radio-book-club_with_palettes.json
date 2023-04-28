@@ -134,10 +134,10 @@
             "entities": {
                 "PERSON": [
                     "Scott Hershovitz",
-                    "Nasty"
+                    "Short"
                 ],
-                "NORP": [
-                    "Brutish"
+                "ORG": [
+                    "Nasty, Brutish"
                 ]
             }
         },
@@ -168,7 +168,7 @@
             "title": "14. Why Do Most Ideas Fail to Scale?",
             "entities": {
                 "WORK_OF_ART": [
-                    "The Voltage Effect</i>"
+                    "The Voltage Effect"
                 ],
                 "PERSON": [
                     "John List"
@@ -204,11 +204,14 @@
             "pubDate": "Thu, 18 Nov 2021 04:00:00 +0000",
             "title": "13. What\u2019s Wrong With Shortcuts?",
             "entities": {
+                "WORK_OF_ART": [
+                    "Thinking Better: The Art of the Shortcut in Math and Life"
+                ],
                 "PERSON": [
                     "Marcus du Sautoy"
                 ],
                 "ORG": [
-                    "the Freakonomics Radio Book Club.</p"
+                    "the Freakonomics Radio Book Club"
                 ]
             }
         },
@@ -244,7 +247,7 @@
                 ],
                 "PERSON": [
                     "Chris Bosh",
-                    "Angela Duckworth.</p"
+                    "Angela Duckworth"
                 ]
             }
         },
@@ -323,9 +326,13 @@
             "pubDate": "Sat, 25 Sep 2021 08:55:00 +0000",
             "title": "10. Check the Data: It\u2019s a Man\u2019s World",
             "entities": {
+                "WORK_OF_ART": [
+                    "Invisible Women: Data Bias",
+                    "World Designed for Men"
+                ],
                 "PERSON": [
                     "Caroline Criado Perez",
-                    "Maria Konnikova.</p><p"
+                    "Maria Konnikova"
                 ]
             }
         },
@@ -360,6 +367,9 @@
                     "Cass Sunstein",
                     "Thaler",
                     "Stephen Dubner"
+                ],
+                "GPE": [
+                    "Nudge"
                 ],
                 "DATE": [
                     "2008",
@@ -396,10 +406,10 @@
             "entities": {
                 "PERSON": [
                     "Bren Smith",
-                    "Stephen Dubner.</p"
+                    "Stephen Dubner"
                 ],
-                "GPE": [
-                    "Fish</em"
+                "PRODUCT": [
+                    "Eat Like"
                 ]
             }
         },
@@ -432,11 +442,13 @@
             "entities": {
                 "PERSON": [
                     "Robert Cialdini",
-                    "Influence</em",
-                    "Stephen Dubner.</p"
+                    "Stephen Dubner"
                 ],
                 "DATE": [
                     "1984"
+                ],
+                "WORK_OF_ART": [
+                    "Influence"
                 ],
                 "CARDINAL": [
                     "seven"
@@ -477,19 +489,19 @@
                     "New York",
                     "New York",
                     "New York",
-                    "New York",
-                    "Transformation,</em"
+                    "New York"
                 ],
                 "PERSON": [
                     "Covid",
-                    "Thomas Dyja",
-                    "Kurt Andersen.</p"
+                    "Thomas Dyja"
                 ],
                 "DATE": [
                     "Four Decades"
                 ],
                 "ORG": [
-                    "the Big Apple"
+                    "Transformation",
+                    "the Big Apple",
+                    "Kurt Andersen"
                 ]
             }
         },
@@ -520,16 +532,18 @@
             "pubDate": "Fri, 21 May 2021 19:40:00 +0000",
             "title": "5. A Rescue Plan for Black America",
             "entities": {
-                "GPE": [
-                    "New York",
-                    "America"
+                "ORG": [
+                    "New York Times"
                 ],
                 "PERSON": [
                     "Charles Blow",
-                    "Stephen Dubner.</p"
+                    "Stephen Dubner"
                 ],
-                "PRODUCT": [
-                    "Black Power Manifesto</em"
+                "GPE": [
+                    "America"
+                ],
+                "WORK_OF_ART": [
+                    "The Devil You Know: A Black Power Manifesto"
                 ],
                 "LOC": [
                     "South"
@@ -566,7 +580,10 @@
                 "PERSON": [
                     "Caitlin Doughty",
                     "Doughty",
-                    "Maria Konnikova.</p"
+                    "Maria Konnikova"
+                ],
+                "WORK_OF_ART": [
+                    "Smoke Gets in Your Eyes: And Other Lessons From the Crematory"
                 ]
             }
         },
@@ -597,9 +614,12 @@
             "pubDate": "Fri, 21 May 2021 19:20:00 +0000",
             "title": "3. Forget Everything You Know About Your Dog",
             "entities": {
+                "WORK_OF_ART": [
+                    "Inside of a Dog"
+                ],
                 "PERSON": [
                     "Alexandra Horowitz",
-                    "Stephen Dubner.</p"
+                    "Stephen Dubner"
                 ]
             }
         },
@@ -630,10 +650,13 @@
             "pubDate": "Fri, 21 May 2021 19:10:00 +0000",
             "title": "2. What if Your Company Had No Rules?",
             "entities": {
+                "ORG": [
+                    "Netflix"
+                ],
                 "PERSON": [
                     "Reed Hastings",
                     "Hastings",
-                    "Maria Konnikova.</p"
+                    "Maria Konnikova"
                 ]
             }
         },
@@ -666,10 +689,11 @@
             "entities": {
                 "PERSON": [
                     "Maria Konnikova",
-                    "Stephen Dubner.</p"
+                    "Stephen Dubner"
                 ],
                 "WORK_OF_ART": [
-                    "Ph.D."
+                    "Ph.D.",
+                    "The Biggest Bluff"
                 ]
             }
         }

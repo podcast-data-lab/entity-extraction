@@ -34,7 +34,7 @@
                     "This week",
                     "2020"
                 ],
-                "ORG": [
+                "GPE": [
                     "Gregory"
                 ]
             }
@@ -96,8 +96,14 @@
             "entities": {
                 "ORG": [
                     "Gregory Warner",
-                    "Gregory",
+                    "Rough Translation",
                     "NPR"
+                ],
+                "GPE": [
+                    "Gregory"
+                ],
+                "PRODUCT": [
+                    "Twitter"
                 ],
                 "DATE": [
                     "an exciting summer season"
@@ -295,9 +301,6 @@
             "entities": {
                 "CARDINAL": [
                     "two"
-                ],
-                "PERSON": [
-                    "really</em"
                 ]
             }
         },
@@ -665,7 +668,7 @@
                     "The past few years"
                 ],
                 "PERSON": [
-                    "TED Radio Hour</em"
+                    "TED Radio Hour"
                 ]
             }
         },
@@ -793,7 +796,8 @@
                     "U.S."
                 ],
                 "CARDINAL": [
-                    "2"
+                    "2",
+                    "1"
                 ]
             }
         },
@@ -1196,6 +1200,9 @@
             "entities": {
                 "PERSON": [
                     "Nanjala Nyabola"
+                ],
+                "WORK_OF_ART": [
+                    "Travelling While Black"
                 ]
             }
         },
@@ -1620,8 +1627,11 @@
                     "all 1,300 miles"
                 ],
                 "ORG": [
-                    "El Hilo</em></a",
+                    "El Hilo",
                     "NPR"
+                ],
+                "FAC": [
+                    "Radio Ambulante"
                 ]
             }
         },
@@ -2144,8 +2154,7 @@
                     "six-year-old"
                 ],
                 "GPE": [
-                    "Tokyo",
-                    "podcasts/510324"
+                    "Tokyo"
                 ],
                 "NORP": [
                     "American"
@@ -2182,9 +2191,6 @@
                 "ORG": [
                     "McDonald",
                     "Rough Translation"
-                ],
-                "GPE": [
-                    "podcasts/510324"
                 ]
             }
         },

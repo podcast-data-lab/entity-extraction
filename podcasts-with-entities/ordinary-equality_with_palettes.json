@@ -110,7 +110,8 @@
                     "Roe v. Wade"
                 ],
                 "PERSON": [
-                    "Kate"
+                    "Kate",
+                    "Twitter"
                 ],
                 "CARDINAL": [
                     "two",
@@ -181,11 +182,13 @@
                     "France"
                 ],
                 "PERSON": [
-                    "Kate"
+                    "Kate",
+                    "Twitter"
                 ],
                 "ORG": [
                     "ActBlue",
-                    "href=\"https://twitter.com"
+                    "ActBlue",
+                    "ActBlue"
                 ]
             }
         },
@@ -230,11 +233,13 @@
                     "first"
                 ],
                 "PERSON": [
-                    "Kate"
+                    "Kate",
+                    "Twitter"
                 ],
                 "ORG": [
                     "ActBlue",
-                    "href=\"https://twitter.com"
+                    "ActBlue",
+                    "ActBlue"
                 ],
                 "CARDINAL": [
                     "millions"
@@ -275,7 +280,8 @@
                 ],
                 "PERSON": [
                     "Kate",
-                    "Sherry Boston"
+                    "Sherry Boston",
+                    "Twitter"
                 ],
                 "GPE": [
                     "Georgia",
@@ -284,7 +290,8 @@
                 "ORG": [
                     "DA Boston",
                     "ActBlue",
-                    "href=\"https://twitter.com"
+                    "ActBlue",
+                    "ActBlue"
                 ],
                 "CARDINAL": [
                     "millions"
@@ -341,13 +348,17 @@
                     "Ordinary Equality's",
                     "Hill",
                     "ActBlue",
-                    "href=\"https://twitter.com"
+                    "ActBlue",
+                    "ActBlue"
                 ],
                 "NORP": [
                     "Congressional"
                 ],
                 "CARDINAL": [
                     "millions"
+                ],
+                "PRODUCT": [
+                    "Twitter"
                 ]
             }
         },
@@ -381,6 +392,7 @@
             "title": "Abortion is Good for Business",
             "entities": {
                 "LAW": [
+                    "Roe",
                     "Roe"
                 ],
                 "GPE": [
@@ -391,11 +403,13 @@
                     "post-Roe"
                 ],
                 "PERSON": [
-                    "Kate"
+                    "Kate",
+                    "Twitter"
                 ],
                 "ORG": [
                     "ActBlue",
-                    "href=\"https://twitter.com"
+                    "ActBlue",
+                    "ActBlue"
                 ],
                 "CARDINAL": [
                     "millions"
@@ -441,11 +455,13 @@
                 "PERSON": [
                     "Kate",
                     "Jasmine",
-                    "ofTexas"
+                    "ofTexas",
+                    "Twitter"
                 ],
                 "ORG": [
                     "ActBlue",
-                    "href=\"https://twitter.com"
+                    "ActBlue",
+                    "ActBlue"
                 ],
                 "CARDINAL": [
                     "millions"
@@ -599,7 +615,8 @@
                     "Kentucky"
                 ],
                 "ORG": [
-                    "the Kentucky Health Justice Network"
+                    "the Kentucky Health Justice Network",
+                    "ActBlue"
                 ]
             }
         },
@@ -636,16 +653,19 @@
                     "first"
                 ],
                 "LAW": [
-                    "Roe v. Wade</i>"
+                    "Roe v. Wade"
                 ],
                 "DATE": [
                     "1973",
                     "today"
                 ],
+                "EVENT": [
+                    "post-Roe"
+                ],
                 "ORG": [
                     "ActBlue",
                     "ActBlue",
-                    "all?issue_area=reproductive_justice</a></p>"
+                    "https://secure.actblue.com/directory/all?issue_area=reproductive_justice"
                 ]
             }
         },
@@ -724,11 +744,17 @@
             "entities": {
                 "PERSON": [
                     "Alyssa Milano",
+                    "Melrose Place",
                     "Alyssa",
-                    "href=\"https://noranow.org/\">NoRa"
+                    "Alyssa Milano",
+                    "NoRa",
+                    "Isha Sesay"
                 ],
                 "DATE": [
                     "decades"
+                ],
+                "ORG": [
+                    "Charmed"
                 ],
                 "CARDINAL": [
                     "one"
@@ -737,10 +763,8 @@
                     "Alyssa",
                     "Alyssa"
                 ],
-                "ORG": [
-                    "href=\"https://twitter.com",
-                    "en\">https://twitter.com",
-                    "href=\"https://instagram.com"
+                "PRODUCT": [
+                    "Twitter"
                 ]
             }
         },
@@ -857,7 +881,7 @@
             "entities": {
                 "DATE": [
                     "season",
-                    "1881-1928).</p"
+                    "1881-1928"
                 ],
                 "CARDINAL": [
                     "about one"
@@ -912,7 +936,7 @@
                 "DATE": [
                     "season",
                     "more than 100 years",
-                    "more than a century",
+                    "more than a century later",
                     "1736 - 1796"
                 ],
                 "LAW": [
@@ -932,6 +956,9 @@
                 ],
                 "GPE": [
                     "Kanien"
+                ],
+                "ORG": [
+                    "Degonwadonti"
                 ]
             }
         },
@@ -969,7 +996,7 @@
                 ],
                 "ORG": [
                     "Womanica",
-                    "Wonder Media Network.</p><p"
+                    "Wonder Media Network"
                 ],
                 "PERSON": [
                     "Kate Kelly",
@@ -977,15 +1004,15 @@
                 ],
                 "LAW": [
                     "Ordinary Equality",
-                    "the Equal Rights Amendment"
+                    "the Equal Rights Amendment",
+                    "the U.S. Constitution"
                 ],
                 "CARDINAL": [
                     "four"
                 ],
                 "GPE": [
                     "Upstate New York",
-                    "Las Vegas",
-                    "U.S."
+                    "Las Vegas"
                 ]
             }
         },
@@ -1018,15 +1045,21 @@
             "title": "Bonus: What\u2019s at Stake: Roe v. Wade",
             "entities": {
                 "CARDINAL": [
+                    "One",
                     "one"
                 ],
-                "PERSON": [
+                "DATE": [
+                    "today"
+                ],
+                "PRODUCT": [
                     "Twitter",
+                    "Twitter"
+                ],
+                "PERSON": [
                     "Kate Kelly"
                 ],
                 "ORG": [
-                    "href=\"https://twitter.com/Kate_Kelly_Esq\"><strong",
-                    "Twitter</strong></a></p><p><a href=\"https://twitter.com/jamiaw\"><strong>Jamia Wilson"
+                    "TwitterJamia Wilson"
                 ]
             }
         },
@@ -1093,13 +1126,15 @@
             "pubDate": "Wed, 7 Apr 2021 10:00:00 +0000",
             "title": "Changing the Way We Talk About Abortion",
             "entities": {
-                "PERSON": [
+                "PRODUCT": [
                     "Twitter",
+                    "Twitter"
+                ],
+                "PERSON": [
                     "Kate Kelly"
                 ],
                 "ORG": [
-                    "href=\"https://twitter.com/Kate_Kelly_Esq\"><strong",
-                    "Twitter</strong></a></p><p><a href=\"https://twitter.com/jamiaw\"><strong>Jamia Wilson"
+                    "TwitterJamia Wilson"
                 ]
             }
         },
@@ -1175,12 +1210,10 @@
             "entities": {
                 "ORG": [
                     "Reproductive Justice",
-                    "Reproductive Justice resources:</strong></p><ul><li><a",
-                    "Moms Rising</a></li><li><a href=\"https://www.theeducatedbirth.com/articles\">The Educated Birth</a></li><li",
-                    "BIPOC",
-                    "href=\"https://birthingfromwithin.com",
-                    "href=\"https://twitter.com/Kate_Kelly_Esq\"><strong",
-                    "Twitter</strong></a></p><p><a href=\"https://twitter.com/jamiaw\"><strong>Jamia Wilson"
+                    "Reproductive Justice",
+                    "Moms RisingThe Educated BirthBIPOC ExperienceBlack",
+                    "DoulaBirthing",
+                    "TwitterJamia Wilson"
                 ],
                 "DATE": [
                     "Today"
@@ -1188,16 +1221,18 @@
                 "PERSON": [
                     "Kate Kelly",
                     "Jamia Wilson",
-                    "Black Mamas Matter Alliance</a></li><li><a",
-                    "Twitter",
                     "Kate Kelly"
                 ],
-                "WORK_OF_ART": [
-                    "Birth for Every Body</a></li></ul></li><li>Disability Justice"
+                "NORP": [
+                    "WithinTrans"
                 ],
                 "CARDINAL": [
                     "516",
                     "636"
+                ],
+                "PRODUCT": [
+                    "Twitter",
+                    "Twitter"
                 ]
             }
         },
@@ -1235,7 +1270,6 @@
                 ],
                 "PERSON": [
                     "Kate",
-                    "Twitter",
                     "Kate Kelly"
                 ],
                 "NORP": [
@@ -1243,12 +1277,15 @@
                 ],
                 "ORG": [
                     "united southern white",
-                    "href=\"https://twitter.com/Kate_Kelly_Esq\"><strong",
-                    "Twitter</strong></a></p><p><a href=\"https://twitter.com/jamiaw\"><strong>Jamia Wilson on Twitter</strong></a></p><p"
+                    "TwitterJamia Wilson"
                 ],
                 "CARDINAL": [
                     "516",
                     "636"
+                ],
+                "PRODUCT": [
+                    "Twitter",
+                    "Twitter"
                 ]
             }
         },
@@ -1282,17 +1319,23 @@
             "title": "Roe v. Wade",
             "entities": {
                 "CARDINAL": [
+                    "One",
                     "one",
                     "516",
                     "636"
                 ],
-                "PERSON": [
+                "DATE": [
+                    "today"
+                ],
+                "PRODUCT": [
                     "Twitter",
+                    "Twitter"
+                ],
+                "PERSON": [
                     "Kate Kelly"
                 ],
                 "ORG": [
-                    "href=\"https://twitter.com/Kate_Kelly_Esq\"><strong",
-                    "Twitter</strong></a></p><p><a href=\"https://twitter.com/jamiaw\"><strong>Jamia Wilson"
+                    "TwitterJamia Wilson"
                 ]
             }
         },
@@ -1331,13 +1374,15 @@
                     "516",
                     "636"
                 ],
-                "PERSON": [
+                "PRODUCT": [
                     "Twitter",
+                    "Twitter"
+                ],
+                "PERSON": [
                     "Kate Kelly"
                 ],
                 "ORG": [
-                    "href=\"https://twitter.com/Kate_Kelly_Esq\"><strong",
-                    "Twitter</strong></a></p><p><a href=\"https://twitter.com/jamiaw\"><strong>Jamia Wilson"
+                    "TwitterJamia Wilson"
                 ]
             }
         },
@@ -1375,7 +1420,6 @@
                 ],
                 "PERSON": [
                     "Kate",
-                    "Twitter",
                     "Kate Kelly"
                 ],
                 "GPE": [
@@ -1386,12 +1430,14 @@
                 "CARDINAL": [
                     "516",
                     "636",
-                    "1-800-772"
+                    "1-800-772-9100"
+                ],
+                "PRODUCT": [
+                    "Twitter"
                 ],
                 "ORG": [
-                    "href=\"https://twitter.com/Kate_Kelly_Esq\"><strong",
-                    "Twitter</strong></a></p><p><a href=\"https://twitter.com/jamiaw\"><strong>Jamia Wilson on Twitter</strong></a></p><p",
-                    "The National Abortion Federation",
+                    "TwitterJamia Wilson",
+                    "TwitterThe National Abortion Federation",
                     "Hotline"
                 ]
             }
@@ -1429,13 +1475,15 @@
                     "516",
                     "636"
                 ],
-                "PERSON": [
+                "PRODUCT": [
                     "Twitter",
+                    "Twitter"
+                ],
+                "PERSON": [
                     "Kate Kelly"
                 ],
                 "ORG": [
-                    "href=\"https://twitter.com/Kate_Kelly_Esq\"><strong",
-                    "Twitter</strong></a></p><p><a href=\"https://twitter.com/jamiaw\"><strong>Jamia Wilson"
+                    "TwitterJamia Wilson"
                 ]
             }
         },
@@ -1472,13 +1520,15 @@
                     "516",
                     "636"
                 ],
-                "PERSON": [
+                "PRODUCT": [
                     "Twitter",
+                    "Twitter"
+                ],
+                "PERSON": [
                     "Kate Kelly"
                 ],
                 "ORG": [
-                    "href=\"https://twitter.com/Kate_Kelly_Esq\"><strong",
-                    "Twitter</strong></a></p><p><a href=\"https://twitter.com/jamiaw\"><strong>Jamia Wilson"
+                    "TwitterJamia Wilson"
                 ]
             }
         },
@@ -1517,17 +1567,18 @@
                 "CARDINAL": [
                     "one",
                     "516",
-                    "636",
-                    "Twitter</a></p><p><a"
+                    "636"
+                ],
+                "PRODUCT": [
+                    "Twitter"
                 ],
                 "PERSON": [
-                    "Twitter",
-                    "Kelly",
+                    "Kate Kelly",
                     "Cameron Esposito",
                     "Tom Williamson"
                 ],
                 "ORG": [
-                    "href=\"https://twitter.com"
+                    "TwitterJamia Wilson"
                 ]
             }
         },
@@ -1563,19 +1614,20 @@
                 "PERSON": [
                     "Kate Kelly",
                     "Jamia Wilson",
-                    "Twitter",
-                    "Kelly"
+                    "Kate Kelly"
                 ],
                 "DATE": [
                     "season 2"
                 ],
                 "CARDINAL": [
                     "516",
-                    "636",
-                    "Twitter</a></p><p><a"
+                    "636-3012.\u202cFollow"
+                ],
+                "PRODUCT": [
+                    "Twitter"
                 ],
                 "ORG": [
-                    "href=\"https://twitter.com",
+                    "TwitterJamia Wilson",
                     "Faith Salie",
                     "Crystal Eastman"
                 ]
@@ -1618,15 +1670,15 @@
                 ],
                 "ORG": [
                     "Kate Kelly",
-                    "href=\"https://twitter.com"
+                    "TwitterJamia Wilson"
                 ],
                 "PERSON": [
                     "Jamia Wilson",
-                    "Twitter",
-                    "Kelly"
+                    "Kate Kelly"
                 ],
-                "CARDINAL": [
-                    "Twitter</a></p><p><a"
+                "PRODUCT": [
+                    "Twitter",
+                    "Twitter"
                 ]
             }
         },
@@ -1658,12 +1710,13 @@
             "pubDate": "Tue, 27 Oct 2020 11:00:00 +0000",
             "title": "Season 2 is in the works",
             "entities": {
+                "PERSON": [
+                    "Kate Kelly",
+                    "Jamia Wilson"
+                ],
                 "DATE": [
                     "season two",
                     "the season"
-                ],
-                "PERSON": [
-                    "Jamia Wilson"
                 ],
                 "PRODUCT": [
                     "Twitter"
@@ -1697,11 +1750,7 @@
             "link": "https://ordinary-equality.simplecast.com/episodes/bonus-introducing-she-votes-y1pJiafd",
             "pubDate": "Mon, 10 Aug 2020 09:00:14 +0000",
             "title": "Bonus: Introducing She Votes!",
-            "entities": {
-                "PERSON": [
-                    "id1523079598"
-                ]
-            }
+            "entities": {}
         },
         {
             "author": "pod@wondermedianetwork.com (Wonder Media Network LLC)",
@@ -1765,7 +1814,11 @@
             "link": "https://ordinary-equality.simplecast.com/episodes/coming-soon-ordinary-equality-at-podapalooza-iXoamvtx",
             "pubDate": "Tue, 21 Apr 2020 20:03:07 +0000",
             "title": "Coming Soon: Ordinary Equality at Podapalooza!",
-            "entities": {}
+            "entities": {
+                "CARDINAL": [
+                    "https://www.podapalooza.org/"
+                ]
+            }
         },
         {
             "author": "pod@wondermedianetwork.com (Kate Kelly, Wonder Media Network)",
@@ -1798,35 +1851,31 @@
             "title": "Forward Together, Backward Never",
             "entities": {
                 "PRODUCT": [
-                    "Twitter",
-                    "Cosmopolitan"
+                    "Twitter"
                 ],
                 "ORG": [
                     "Equality Now",
                     "the Equal Rights Amendment",
-                    "href=\"https://www.pbs.org/newshour/",
+                    "www.equalitynow.org/era.To dive deeper",
                     "PBS",
+                    "Generation Ratify",
                     "American University"
                 ],
                 "GPE": [
-                    "virginia",
-                    "Virginia",
-                    "the United States Constitution Needs An Equal Rights Amendment"
+                    "Virginia"
                 ],
                 "LAW": [
                     "the Equal Rights Amendment"
                 ],
-                "CARDINAL": [
-                    "2020)</li><li><a"
-                ],
                 "PERSON": [
                     "Emilia Couture",
-                    "Kelly",
+                    "Kate Kelly",
                     "Teen Vogue"
                 ],
                 "DATE": [
                     "2019",
-                    "2019"
+                    "2019",
+                    "2018"
                 ]
             }
         },
@@ -1866,6 +1915,8 @@
                 "ORG": [
                     "Equality Now",
                     "the Equal Rights Amendment",
+                    "www.equalitynow.org/era.To dive deeper",
+                    "Approves Equal Rights Amendment",
                     "First Transgender Elected Official",
                     "Washington Post"
                 ],
@@ -1878,20 +1929,18 @@
                     "Rick Pearson",
                     "Bill Lukitsch",
                     "Bill Chapel *",
+                    "Alana Abramson",
                     "Ben Cardin",
                     "Lisa Murkowski"
                 ],
+                "CARDINAL": [
+                    "2020)\u201cDanica"
+                ],
                 "GPE": [
-                    "Chicago",
-                    "virginia",
-                    "virginia",
                     "Virginia"
                 ],
-                "CARDINAL": [
-                    "2018)</li><li><a"
-                ],
-                "WORK_OF_ART": [
-                    "Decades After The Deadline\u201d</a"
+                "LAW": [
+                    "the Equal Rights Amendment"
                 ]
             }
         },
@@ -1925,30 +1974,30 @@
             "pubDate": "Tue, 24 Mar 2020 10:00:03 +0000",
             "title": "An Amendment Resurrected",
             "entities": {
-                "PERSON": [
-                    "Twitter",
-                    "Colin Dwyer",
-                    "Danica Roem",
-                    "Kate Kelly",
-                    "Teen Vogue",
-                    "wmjowl\">\u201cI",
-                    "Alyssa Milano"
+                "PRODUCT": [
+                    "Twitter"
                 ],
                 "ORG": [
                     "Equality Now",
                     "the Equal Rights Amendment",
-                    "Anti-Trans Scare",
+                    "www.equalitynow.org/era.To dive deeper",
                     "CNN"
                 ],
                 "DATE": [
-                    "out:</p><ul><li><a",
                     "35 Years",
                     "2019",
                     "2019",
                     "2018"
                 ],
-                "CARDINAL": [
-                    "2017)</li><li><a"
+                "PERSON": [
+                    "Colin Dwyer",
+                    "Danica Roem",
+                    "Kate Kelly",
+                    "Teen Vogue",
+                    "Alyssa Milano"
+                ],
+                "WORK_OF_ART": [
+                    "The Equal Rights Amendment Can\u2019t Be Defeated by Anti-Trans Scare Tactics"
                 ]
             }
         },
@@ -1982,25 +2031,34 @@
             "pubDate": "Tue, 17 Mar 2020 10:00:10 +0000",
             "title": "The A+ Amendment",
             "entities": {
-                "PERSON": [
-                    "Twitter",
-                    "Evan Andrews"
+                "PRODUCT": [
+                    "Twitter"
                 ],
                 "ORG": [
                     "Equality Now",
-                    "the Equal Rights Amendment"
-                ],
-                "CARDINAL": [
-                    "could-1972",
-                    "2019)</li><li><a",
-                    "Three",
-                    "1997</li></ul"
-                ],
-                "WORK_OF_ART": [
-                    "amendment\">\u201cThe Strange Saga of the 27th Amendment"
+                    "the Equal Rights Amendment",
+                    "www.equalitynow.org/era.To dive deeper"
                 ],
                 "DATE": [
-                    "2018"
+                    "1972",
+                    "2018",
+                    "1997"
+                ],
+                "LAW": [
+                    "Equal Rights Amendment Have New Life",
+                    "The Equal Rights Amendment"
+                ],
+                "GPE": [
+                    "Texas"
+                ],
+                "PERSON": [
+                    "Evan Andrews"
+                ],
+                "TIME": [
+                    "2017)The ERA"
+                ],
+                "CARDINAL": [
+                    "Three"
                 ]
             }
         },
@@ -2034,24 +2092,20 @@
             "pubDate": "Tue, 10 Mar 2020 10:00:04 +0000",
             "title": "U.S. vs. the World",
             "entities": {
-                "PERSON": [
-                    "Twitter",
-                    "Julie Suk",
-                    "Heymann",
-                    "Amy Raub"
+                "PRODUCT": [
+                    "Twitter"
                 ],
                 "ORG": [
                     "Equality Now",
                     "the Equal Rights Amendment",
-                    "University of California Press",
-                    "World"
+                    "www.equalitynow.org/era.To dive deeper",
+                    "Equal Rights Amendment",
+                    "University of California Press"
                 ],
-                "DATE": [
-                    "out:</p><ul><li><a href=\"https://digitalcommons.law.yale.edu/yjlf"
-                ],
-                "CARDINAL": [
-                    "2017)</li><li><a",
-                    "2020)</li><li><a"
+                "PERSON": [
+                    "Julie Suk",
+                    "Jody Heymann",
+                    "Amy Raub"
                 ]
             }
         },
@@ -2085,40 +2139,33 @@
             "pubDate": "Tue, 3 Mar 2020 11:00:03 +0000",
             "title": "Not on a Pedestal, but in a Cage",
             "entities": {
-                "PERSON": [
-                    "Twitter",
-                    "Ginsburg",
-                    "Lauren",
-                    "Kathryn Schulz *",
-                    "Constitution</a",
-                    "Jennifer Carroll Foy",
-                    "Marie Claire",
-                    "Jamie B. Raskin *"
+                "PRODUCT": [
+                    "Twitter"
                 ],
                 "ORG": [
                     "Equality Now",
                     "the Equal Rights Amendment",
-                    "The Supreme Court"
+                    "www.equalitynow.org/era.To dive deeper",
+                    "Means Equal",
+                    "The Supreme Court",
+                    "The American People"
                 ],
-                "DATE": [
-                    "out:</p><ul><li><a",
-                    "Jamie+Raskin&qid=1583069327&s"
+                "FAC": [
+                    "The Ginsburg Tapes"
                 ],
-                "GPE": [
-                    "Pauli",
-                    "virginia"
+                "PERSON": [
+                    "Kathryn Schulz",
+                    "Marie Claire",
+                    "Jamie B. Raskin *"
                 ],
                 "CARDINAL": [
-                    "2017)</li><li><a",
-                    "2020)</li><li><a",
-                    "2016)</li><li><a",
-                    "2003)</li></ul"
+                    "2017)\u201cWomen"
                 ],
-                "WORK_OF_ART": [
-                    "amendment/\">\u201cWomen Are Not Granted Equality Anywhere"
+                "LAW": [
+                    "Constitution"
                 ],
-                "NORP": [
-                    "American"
+                "DATE": [
+                    "2003"
                 ]
             }
         },
@@ -2152,24 +2199,28 @@
             "pubDate": "Tue, 25 Feb 2020 11:00:20 +0000",
             "title": "Update: The ERA Today",
             "entities": {
-                "PERSON": [
-                    "Twitter",
-                    "Gue To Recognize",
-                    "Timothy Williams"
+                "PRODUCT": [
+                    "Twitter"
                 ],
                 "ORG": [
                     "Equality Now",
                     "the Equal Rights Amendment",
-                    "out:</p><ul><li><a href=\"https://www.google.com",
-                    "X&ved=2ahUKEwiTpuWl6uPnAhUlUt8KHTDaCHIQBSgAegQICxAn&biw=985&bih=1274\">3 State",
-                    "NPR"
+                    "www.equalitynow.org/era.To dive deeper"
+                ],
+                "PERSON": [
+                    "Ryan Miller *",
+                    "Danielle Kurtzleben *",
+                    "Timothy Williams"
                 ],
                 "CARDINAL": [
-                    "2020)</li><li><a",
-                    "2020)</li><li>\u201c<a"
+                    "2020)\u201cHouse",
+                    "2020)\u201cVirginia"
                 ],
                 "ORDINAL": [
                     "38th"
+                ],
+                "DATE": [
+                    "2020"
                 ]
             }
         },
@@ -2203,19 +2254,23 @@
             "pubDate": "Tue, 18 Feb 2020 11:00:16 +0000",
             "title": "Foot Soldiers of the Patriarchy",
             "entities": {
-                "PERSON": [
-                    "Twitter",
-                    "Suzanne Venker",
-                    "Marjorie J. Spruill *"
+                "PRODUCT": [
+                    "Twitter"
                 ],
                 "ORG": [
                     "Equality Now",
                     "the Equal Rights Amendment",
                     "MacKinnon",
-                    "href=\"https://www.amazon.com/Divided-We-Stand-Polarized-American/dp/1632863146\">Divided We Stand: The Battle Over Women\u2019s Rights and Family Values That Polarized American Politics</a"
+                    "The Battle Over Women\u2019s Rights and Family Values That Polarized American Politics"
                 ],
-                "TIME": [
-                    "2011)</li><li><a href=\"https://scholarship.law.umn.edu"
+                "PERSON": [
+                    "Mona Eltahawy",
+                    "Phyllis Schlafly",
+                    "Suzanne Venker",
+                    "Marjorie J. Spruill *"
+                ],
+                "DATE": [
+                    "2017"
                 ]
             }
         },
@@ -2249,26 +2304,28 @@
             "pubDate": "Tue, 11 Feb 2020 11:00:14 +0000",
             "title": "Victory! Well, Almost.",
             "entities": {
-                "PERSON": [
-                    "Twitter",
-                    "Sonia Johnson"
+                "PRODUCT": [
+                    "Twitter"
                 ],
                 "ORG": [
                     "Equality Now",
                     "the Equal Rights Amendment",
+                    "www.equalitynow.org/era.To dive deeper",
                     "New York Times",
+                    "the Mormon Church",
                     "New York Times"
                 ],
                 "DATE": [
                     "22, 1972:",
-                    "2012)</li><li>\u201c<a href=\"https://awpc.cattcenter.iastate.edu/2017/03/09"
-                ],
-                "NORP": [
-                    "Mormon"
+                    "Five Years",
+                    "1982"
                 ],
                 "CARDINAL": [
-                    "1979)</li><li>\u201c<a",
-                    "Five"
+                    "2012)\u201cPatriarchal",
+                    "1979)\u201cEleanor"
+                ],
+                "PERSON": [
+                    "Sonia Johnson"
                 ]
             }
         },
@@ -2302,23 +2359,24 @@
             "pubDate": "Tue, 4 Feb 2020 11:00:12 +0000",
             "title": "Equality Is Not a Feeling",
             "entities": {
-                "PERSON": [
-                    "Twitter",
-                    "Carolyn Maloney",
-                    "Catherine MacKinnon"
+                "PRODUCT": [
+                    "Twitter"
                 ],
                 "ORG": [
                     "Equality Now",
                     "the Equal Rights Amendment",
-                    "Guardian",
+                    "www.equalitynow.org/era.To dive deeper",
                     "Belknap Press"
                 ],
                 "WORK_OF_ART": [
-                    "Our Progress Have Been Greatly Exaggerated</a>"
+                    "Our Progress Have Been Greatly Exaggerated"
+                ],
+                "PERSON": [
+                    "Carolyn Maloney",
+                    "Catherine MacKinnon"
                 ],
                 "CARDINAL": [
-                    "2008)</li><li><a",
-                    "2016)</li><li><a"
+                    "2008)\u201cI\u2019m"
                 ],
                 "DATE": [
                     "2017"
@@ -2355,23 +2413,26 @@
             "pubDate": "Tue, 28 Jan 2020 11:00:19 +0000",
             "title": "The Ghost of Alice Paul",
             "entities": {
-                "PERSON": [
-                    "Twitter",
-                    "Jennifer Schuessler",
-                    "Mary Walton",
-                    "Sally Gregory McMillen",
-                    "B. Wells * Penguin Classics *"
+                "PRODUCT": [
+                    "Twitter"
                 ],
                 "ORG": [
                     "Equality Now",
                     "the Equal Rights Amendment",
+                    "www.equalitynow.org/era.To dive deeper",
+                    "the Women\u2019s Suffrage Movement",
                     "New York Times",
-                    "the Origins of the Women\u2019s Right Movement</a",
+                    "Woman\u2019s Crusade",
                     "Oxford University"
                 ],
-                "CARDINAL": [
-                    "2019)</li><li><a",
-                    "2015)</li><li><a"
+                "PERSON": [
+                    "Jennifer Schuessler",
+                    "Mary Walton",
+                    "Sally Gregory"
+                ],
+                "WORK_OF_ART": [
+                    "the Origins of the Women\u2019s Right Movement",
+                    "The Light of Truth (Ida B. Wells * Penguin Classics * Reprint 2014"
                 ],
                 "DATE": [
                     "2008"
@@ -2408,34 +2469,39 @@
             "pubDate": "Tue, 21 Jan 2020 11:00:07 +0000",
             "title": "Remember the Ladies",
             "entities": {
-                "PERSON": [
-                    "Twitter",
-                    "Alex Black",
-                    "Kate Kelly",
-                    "Danica Roem",
-                    "Teen Vogue",
-                    "Timothy Williams",
-                    "Catharine MacKinnon"
+                "PRODUCT": [
+                    "Twitter"
                 ],
                 "ORG": [
                     "Equality Now",
                     "the Equal Rights Amendment",
                     "Grace Lynch",
+                    "Equal Rights Amendment Can\u2019t Be Defeated",
                     "Anti-Trans Scare Tactics",
                     "New York Times",
                     "Torrey House",
                     "Belknap Press"
                 ],
+                "PERSON": [
+                    "Alex Black",
+                    "Kate Kelly",
+                    "Danica Roem",
+                    "Teen Vogue",
+                    "Timothy Williams",
+                    "Jacqueline Keeler"
+                ],
+                "CARDINAL": [
+                    "2020)\u201cVirginia",
+                    "2020)Women"
+                ],
                 "ORDINAL": [
                     "38th"
                 ],
-                "CARDINAL": [
-                    "2020)</p><p><i",
-                    "2020)</p><p><i",
-                    "2020)</p"
+                "FAC": [
+                    "Rebecca Hall *"
                 ],
-                "PRODUCT": [
-                    "books\">Jacqueline"
+                "DATE": [
+                    "2020"
                 ]
             }
         },
@@ -2469,20 +2535,13 @@
             "pubDate": "Tue, 14 Jan 2020 11:00:22 +0000",
             "title": "ERA Missionary",
             "entities": {
-                "PERSON": [
-                    "Twitter",
-                    "out:</p><ul><li><a href=\"https://www.teenvogue.com",
-                    "Kelly",
-                    "Teen Vogue",
-                    "Kelly",
-                    "Kate Kelly",
-                    "Martha Sonntag Bradley-Evans",
-                    "Johnson",
-                    "Wildfire Books"
+                "PRODUCT": [
+                    "Twitter"
                 ],
                 "ORG": [
                     "Equality Now",
                     "the Equal Rights Amendment",
+                    "www.equalitynow.org/era.To dive deeper",
                     "Salt Lake Tribune",
                     "Housewife to Heretic"
                 ],
@@ -2490,10 +2549,25 @@
                     "the United States Constitution Needs An Equal Rights Amendment",
                     "Utah"
                 ],
+                "PERSON": [
+                    "Kate Kelly",
+                    "Teen Vogue",
+                    "Kelly",
+                    "Kate Kelly",
+                    "Podiums",
+                    "Martha Sonntag Bradley-Evans",
+                    "Sonia Johnson",
+                    "Wildfire Books"
+                ],
                 "CARDINAL": [
-                    "2018)</li><li><a",
-                    "2019)</li><li><a",
-                    "2005)</li><li><a"
+                    "2018)\u201cKate",
+                    "2005)From"
+                ],
+                "NORP": [
+                    "\u2019s"
+                ],
+                "DATE": [
+                    "1989"
                 ]
             }
         },
@@ -2526,7 +2600,7 @@
             "pubDate": "Wed, 8 Jan 2020 07:00:06 +0000",
             "title": "Introducing: Ordinary Equality",
             "entities": {
-                "PERSON": [
+                "PRODUCT": [
                     "Twitter"
                 ],
                 "ORG": [

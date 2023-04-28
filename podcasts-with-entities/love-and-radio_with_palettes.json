@@ -36,17 +36,8 @@
             "entities": {
                 "PERSON": [
                     "Marilyn York",
-                    "Artist - Song",
-                    "Dialect - Invert Yr Path - Under",
-                    "Flore Laurentienne - Petit Piano - Volume",
-                    "Carlos Nin\u0303o &",
-                    "Carlos Nin\u0303o &",
-                    "Flame Not Stone",
-                    "Isik Kural - yeniden",
                     "Justin Varis - Red Grey Orange",
-                    "Steve Gunn &amp",
-                    "David Moore - Over",
-                    "Cue Shop - Multilane Traffic Interchange"
+                    "David Moore - Over"
                 ],
                 "GPE": [
                     "Reno",
@@ -54,23 +45,25 @@
                     "California"
                 ],
                 "ORG": [
-                    "Men's",
-                    "Dialect - Mesa - Keep Going",
-                    "Friends - Commend",
-                    "chrem &amp",
+                    "Men's Rights",
+                    "Carlos Nin\u0303o & Friends - Commend",
                     "Uva - Ramho",
-                    "Friends - Commend",
+                    "EPCarlos Nin\u0303o & Friends - Commend",
                     "Septentri - Exhibition",
-                    "Autistici &"
+                    "Gunn &"
+                ],
+                "LOC": [
+                    "NYC"
                 ],
                 "TIME": [
                     "4 - Live"
                 ],
-                "MONEY": [
-                    "100</p><p"
-                ],
                 "CARDINAL": [
+                    "26",
                     "1"
+                ],
+                "MONEY": [
+                    "#100Autistici &"
                 ]
             }
         },
@@ -100,13 +93,15 @@
             "title": "Refraction",
             "entities": {
                 "PERSON": [
-                    "Anwen"
+                    "Anwen",
+                    "Privacy Policy"
                 ],
                 "DATE": [
                     "almost a year"
                 ],
                 "WORK_OF_ART": [
-                    "Reckonings"
+                    "Reckonings",
+                    "Love +"
                 ],
                 "GPE": [
                     "California"
@@ -140,31 +135,18 @@
             "entities": {
                 "PERSON": [
                     "Art Jones",
-                    "Emily Sprague - Dock - Water Memory/Mount",
-                    "Marc Barreca - Vs Chorus - Music Works",
-                    "Li Yilei - 0.00",
+                    "RowLi Yilei - 0.00",
                     "Todd Barton - A River Song - Music and Poetry",
-                    "Champagne Dub - Drops",
-                    "Syrinx - Chant For Your Dragon King - Tumblers",
-                    "Mess Noir - Fdbck",
-                    "Rom - The Suite - Radical American Hippy",
-                    "Li Yilei - 0.00",
-                    "Syrinx - Journey Tree - Tumblers"
+                    "Rom - Computers - Radical American",
+                    "Rom - The Suite - Radical American",
+                    "KrautLi Yilei - 0.00"
                 ],
                 "ORG": [
                     "Ross - Memories",
-                    "Capitol K - City - Island",
-                    "Ursula K. Le Guin &amp;amp",
-                    "Capitol K - Celestial - Andean Dub</p><p",
-                    "Wharp &amp;amp",
-                    "Wharp &amp;amp",
-                    "Rom - Computers - Radical American Hippy",
-                    "Wharp &amp;amp",
-                    "Time",
-                    "Capitol K - Jamboree - Nomad"
-                ],
-                "PRODUCT": [
-                    "Capitol K - Breakers - Island"
+                    "KrautWharp &",
+                    "KrautQuixosis - Plan A - ZorroxxeSyrinx - Chant For Your Dragon King - Tumblers",
+                    "VaultQuixosis",
+                    "VaultCapitol K - Jamboree - Nomad JunkSee Privacy Policy"
                 ],
                 "GPE": [
                     "California"
@@ -204,7 +186,8 @@
                 ],
                 "ORG": [
                     "Tracie Morris",
-                    "Tracie Morris's"
+                    "Tracie Morris's",
+                    "here!https://traciemorris.com/Support"
                 ],
                 "ORDINAL": [
                     "second"
@@ -272,35 +255,34 @@
             "pubDate": "Wed, 15 Feb 2023 22:39:03 -0000",
             "title": "Occupation",
             "entities": {
+                "ORG": [
+                    "Artist - Title - AlbumAF Ursin - Reverie",
+                    "Negation</a",
+                    "Friends - Ground - <",
+                    "OSSIA - Devil\u2019s Dance - <",
+                    "Friends - <"
+                ],
                 "PERSON": [
-                    "Mushio Funazawa - Artist - &lt;a",
+                    "Mushio Funazawa - Artist",
                     "Tashi Wada",
                     "Yoshi Wada",
-                    "Hilvarenbeek Recordings&lt;/a&gt;</p><p>",
                     "Leandro Fresco - Cuando",
                     "Sol Grita La",
                     "Eduard Artemiev - Untitled",
-                    "lt;a href=\"https://www.discogs.com/%D0%AD%D0%B4%D1%83%D0%B0%D1%80%D0%B4-%D0%90%D1%80%D1%82%D0%B5%D0%BC%D1%8C%D0%B5%D0%B2-Andrey-Tarkovsky-Vol-4-ZerkaloStalker",
-                    "Tarkovsky Vol",
-                    "Hyperspace Jelly - (Interlude) - &",
+                    "release/3034697\">Andrey Tarkovsky Vol",
+                    "Hyperspace Jelly - (",
                     "Jan Jelinek - A",
-                    "Hyperspace Jelly - City Nights - &",
+                    "Hyperspace Jelly - City Nights",
                     "Craig Leon - The",
                     "Corey Fuller - Look",
                     "Tashi Wada",
                     "Yoshi Wada",
                     "Mushio Funazawa -"
                 ],
-                "ORG": [
-                    "Friends - Ground - &",
-                    "Schop - &lt;a href=\"https://biosphere.bandcamp.com",
-                    "pop-ambient-2013\"&gt;Pop Ambient",
-                    "the-canon\"&gt;Anthology",
-                    "Friends - &lt;a"
-                ],
                 "CARDINAL": [
-                    "4&lt;/a&gt;</p><p",
-                    "2"
+                    "14</a",
+                    "2",
+                    "14</a"
                 ],
                 "ORDINAL": [
                     "Tenth"
@@ -492,6 +474,9 @@
                 ],
                 "DATE": [
                     "Satan"
+                ],
+                "CARDINAL": [
+                    "Satomimagaehttps://satomimagae.bandcamp.com/track/inu-2Support"
                 ]
             }
         },
@@ -521,10 +506,10 @@
             "title": "Calling Hours",
             "entities": {
                 "ORG": [
-                    "Graham Putnam &",
-                    "Mahoney in Worcester"
+                    "Graham Putnam & Mahoney"
                 ],
                 "GPE": [
+                    "Worcester",
                     "Massachusetts",
                     "California"
                 ]
@@ -588,6 +573,9 @@
             "pubDate": "Wed, 26 Oct 2022 18:29:01 -0000",
             "title": "The Story of the Box",
             "entities": {
+                "ORG": [
+                    "Patreon!https://loveandradio.org/memberSee Privacy Policy"
+                ],
                 "GPE": [
                     "California"
                 ]
@@ -623,6 +611,9 @@
                 ],
                 "PERSON": [
                     "Andy"
+                ],
+                "FAC": [
+                    "Patreon"
                 ],
                 "GPE": [
                     "California"
@@ -668,6 +659,9 @@
                 ],
                 "DATE": [
                     "More than 15 years later"
+                ],
+                "FAC": [
+                    "Patreon"
                 ]
             }
         },
@@ -696,15 +690,15 @@
             "pubDate": "Wed, 14 Sep 2022 11:00:00 -0000",
             "title": "The World Tomorrow",
             "entities": {
-                "GPE": [
-                    "Washington",
-                    "California"
-                ],
                 "PERSON": [
+                    "Washington",
                     "Snap Judgment"
                 ],
                 "ORG": [
                     "the Worldwide Church of God"
+                ],
+                "GPE": [
+                    "California"
                 ]
             }
         },
@@ -733,8 +727,11 @@
             "pubDate": "Wed, 31 Aug 2022 16:00:22 -0000",
             "title": "Insufficient Data",
             "entities": {
-                "PERSON": [
+                "WORK_OF_ART": [
                     "Mess Mend"
+                ],
+                "ORG": [
+                    "Patreon!https://loveandradio.org/memberSee Privacy Policy"
                 ],
                 "GPE": [
                     "California"
@@ -768,17 +765,14 @@
             "entities": {
                 "ORG": [
                     "The Secrets Hotline",
-                    "Patreon"
+                    "Patreon",
+                    "B77"
                 ],
                 "CARDINAL": [
                     "1-929"
                 ],
                 "DATE": [
                     "today"
-                ],
-                "PERSON": [
-                    "B77",
-                    "Privacy Policy"
                 ],
                 "GPE": [
                     "California"
@@ -822,16 +816,13 @@
                 ],
                 "ORG": [
                     "DJ Amber Petty",
-                    "Idiom Creak</p><p><a href=\"https://idiomcreak.com/album/"
+                    "Idiom Creakhttps://idiomcreak.com/album/sweet-time-girlSupport"
                 ],
                 "CARDINAL": [
                     "two"
                 ],
                 "ORDINAL": [
                     "first"
-                ],
-                "PERSON": [
-                    "Patreon!</p><p><a href=\"https://www.patreon.com"
                 ]
             }
         },
@@ -867,9 +858,8 @@
                 "CARDINAL": [
                     "one"
                 ],
-                "PERSON": [
-                    "Ez\u00e9chiel Pailh\u00e9s</p><p",
-                    "Patreon!</p><p><a href=\"https://www.patreon.com"
+                "ORG": [
+                    "Ez\u00e9chiel"
                 ]
             }
         },
@@ -912,7 +902,8 @@
                     "Jeffrey Lewis - Now"
                 ],
                 "ORG": [
-                    "Patreon"
+                    "Patreon",
+                    "patreon.com/loveandradioSee Privacy Policy"
                 ],
                 "DATE": [
                     "today"
@@ -942,15 +933,18 @@
             "pubDate": "Wed, 06 Jul 2022 13:41:27 -0000",
             "title": "Seasons 8 and 9 Are Coming!",
             "entities": {
-                "PERSON": [
-                    "We're"
-                ],
                 "LAW": [
                     "Seasons 8 and 9"
                 ],
                 "DATE": [
                     "July 21",
                     "every other week"
+                ],
+                "ORG": [
+                    "Secrets Hotline"
+                ],
+                "PERSON": [
+                    "Privacy Policy"
                 ],
                 "GPE": [
                     "California"

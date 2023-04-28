@@ -268,8 +268,8 @@
                 "CARDINAL": [
                     "3"
                 ],
-                "ORG": [
-                    "href=\"https://freakonomics.com"
+                "LOC": [
+                    "Skies"
                 ]
             }
         },
@@ -305,8 +305,8 @@
                 "CARDINAL": [
                     "2"
                 ],
-                "ORG": [
-                    "href=\"https://freakonomics.com"
+                "LOC": [
+                    "Skies"
                 ]
             }
         },
@@ -340,8 +340,8 @@
                     "hundreds",
                     "1"
                 ],
-                "ORG": [
-                    "href=\"https://freakonomics.com"
+                "LOC": [
+                    "Skies"
                 ]
             }
         },
@@ -412,7 +412,7 @@
                     "fourth"
                 ],
                 "ORG": [
-                    "The Economics of Everyday Things</i"
+                    "The Economics of Everyday Things"
                 ],
                 "PERSON": [
                     "Zachary Crockett"
@@ -453,8 +453,7 @@
                     "China"
                 ],
                 "PERSON": [
-                    "Biden",
-                    "welfare?</p"
+                    "Biden"
                 ],
                 "CARDINAL": [
                     "billions"
@@ -497,7 +496,7 @@
                     "third"
                 ],
                 "ORG": [
-                    "The Economics of Everyday"
+                    "The Economics of Everyday Things"
                 ]
             }
         },
@@ -574,7 +573,7 @@
                 ],
                 "ORG": [
                     "Thin Mints",
-                    "The Economics of Everyday"
+                    "The Economics of Everyday Things"
                 ],
                 "PERSON": [
                     "Zachary Crockett"
@@ -611,6 +610,7 @@
             "title": "532. Do You Know Who Owns Your Vet?",
             "entities": {
                 "CARDINAL": [
+                    "2",
                     "2"
                 ]
             }
@@ -684,7 +684,10 @@
                 ],
                 "CARDINAL": [
                     "1",
-                    "2022.</p><p"
+                    "2"
+                ],
+                "DATE": [
+                    "2022"
                 ]
             }
         },
@@ -808,7 +811,9 @@
             "title": "528. Yuval Noah Harari Thinks Life is Meaningless and Amazing",
             "entities": {
                 "PERSON": [
-                    "Steve Levitt"
+                    "Steve Levitt",
+                    "Sapiens",
+                    "Homo Deus"
                 ]
             }
         },
@@ -845,8 +850,8 @@
                 "CARDINAL": [
                     "3"
                 ],
-                "ORG": [
-                    "href=\"https://freakonomics.com"
+                "WORK_OF_ART": [
+                    "In Search of the Real Adam Smith"
                 ]
             }
         },
@@ -975,6 +980,10 @@
             "pubDate": "Thu, 1 Dec 2022 04:00:00 +0000",
             "title": "524. How Important Is Breastfeeding, Really?",
             "entities": {
+                "GPE": [
+                    "Freakonomics",
+                    "M.D."
+                ],
                 "PERSON": [
                     "Bapu Jena"
                 ]
@@ -1305,6 +1314,7 @@
             "title": "Extra: Ken Burns | People I (Mostly) Admire",
             "entities": {
                 "EVENT": [
+                    "The Civil War",
                     "Holocaust"
                 ]
             }
@@ -1526,6 +1536,9 @@
             "entities": {
                 "ORG": [
                     "healthcare"
+                ],
+                "GPE": [
+                    "America"
                 ]
             }
         },
@@ -1556,14 +1569,11 @@
             "title": "512. Does Philosophy Still Matter?",
             "entities": {
                 "PERSON": [
-                    "Scott Hershovitz",
-                    "Nasty"
-                ],
-                "NORP": [
-                    "Brutish"
+                    "Scott Hershovitz"
                 ],
                 "ORG": [
-                    "the Freakonomics Radio Book Club.</p"
+                    "Nasty, Brutish",
+                    "the Freakonomics Radio Book Club"
                 ]
             }
         },
@@ -1592,7 +1602,11 @@
             "link": "http://freakonomics.com/",
             "pubDate": "Thu, 21 Jul 2022 03:00:00 +0000",
             "title": "511. Why Did You Marry That Person?",
-            "entities": {}
+            "entities": {
+                "GPE": [
+                    "Bridgerton"
+                ]
+            }
         },
         {
             "author": "editor@freakonomics.com (Freakonomics Radio + Stitcher)",
@@ -1622,6 +1636,9 @@
             "entities": {
                 "CARDINAL": [
                     "one"
+                ],
+                "ORG": [
+                    "Freakonomics Radio"
                 ]
             }
         },
@@ -1655,7 +1672,7 @@
                     "3"
                 ],
                 "WORK_OF_ART": [
-                    "What Can Blockchain Do for You?\")</p>\n"
+                    "What Can Blockchain Do for You"
                 ]
             }
         },
@@ -1688,11 +1705,8 @@
                 "CARDINAL": [
                     "2"
                 ],
-                "ORG": [
-                    "href=\"https://freakonomics.com"
-                ],
                 "WORK_OF_ART": [
-                    "target=\"_blank\">What Can Blockchain Do for You?</a>\")</p"
+                    "What Can Blockchain Do for You"
                 ]
             }
         },
@@ -1724,9 +1738,6 @@
             "entities": {
                 "CARDINAL": [
                     "1"
-                ],
-                "ORG": [
-                    "href=\"https://freakonomics.com"
                 ]
             }
         },
@@ -1760,7 +1771,8 @@
                     "Kevin Kelly"
                 ],
                 "GPE": [
-                    "A.I."
+                    "A.I.",
+                    "YouTube"
                 ]
             }
         },
@@ -1804,10 +1816,8 @@
                     "Saudi"
                 ],
                 "ORG": [
-                    "the P.G.A. Tour"
-                ],
-                "PERSON": [
-                    "Streisand Effect?</p"
+                    "the P.G.A. Tour",
+                    "Streisand Effect"
                 ]
             }
         },
@@ -1868,7 +1878,8 @@
                     "the Freakonomics Radio Network"
                 ],
                 "PERSON": [
-                    "Alexandra Horowitz"
+                    "Alexandra Horowitz",
+                    "Off Leash"
                 ],
                 "ORDINAL": [
                     "first"
@@ -1903,6 +1914,9 @@
             "entities": {
                 "CARDINAL": [
                     "4"
+                ],
+                "WORK_OF_ART": [
+                    "Freakonomics Radio Goes Back to School"
                 ]
             }
         },
@@ -1936,7 +1950,7 @@
                     "the Supreme Court"
                 ],
                 "LAW": [
-                    "Roe v. Wade</i>"
+                    "Roe v. Wade"
                 ],
                 "PERSON": [
                     "Steve Levitt\u2019s"
@@ -1983,6 +1997,9 @@
                 ],
                 "CARDINAL": [
                     "3"
+                ],
+                "WORK_OF_ART": [
+                    "Freakonomics Radio Goes Back to School"
                 ]
             }
         },
@@ -2017,6 +2034,9 @@
                 ],
                 "CARDINAL": [
                     "2"
+                ],
+                "WORK_OF_ART": [
+                    "Freakonomics Radio Goes Back to School"
                 ]
             }
         },
@@ -2054,6 +2074,9 @@
                 ],
                 "CARDINAL": [
                     "1"
+                ],
+                "WORK_OF_ART": [
+                    "Freakonomics Radio Goes Back to School"
                 ]
             }
         },
@@ -2325,7 +2348,7 @@
             "title": "494. Why Do Most Ideas Fail to Scale?",
             "entities": {
                 "WORK_OF_ART": [
-                    "The Voltage Effect</i>"
+                    "The Voltage Effect"
                 ],
                 "PERSON": [
                     "John List"
@@ -2368,9 +2391,6 @@
                 ],
                 "CARDINAL": [
                     "one"
-                ],
-                "NORP": [
-                    "happened.</p"
                 ]
             }
         },
@@ -2474,6 +2494,10 @@
             "pubDate": "Thu, 27 Jan 2022 04:00:00 +0000",
             "title": "492. How Did a Hayfield Become One of America\u2019s Hottest Cities?",
             "entities": {
+                "ORG": [
+                    "Frisco",
+                    "Frisco"
+                ],
                 "GPE": [
                     "Dallas"
                 ],
@@ -2483,9 +2507,6 @@
                 "NORP": [
                     "Democrats",
                     "American"
-                ],
-                "ORG": [
-                    "Frisco"
                 ]
             }
         },
@@ -2522,7 +2543,8 @@
                     "Dallas",
                     "Fort Worth",
                     "Chicago",
-                    "U.S."
+                    "U.S.",
+                    "Texas"
                 ],
                 "ORDINAL": [
                     "third"
@@ -2653,9 +2675,16 @@
             "pubDate": "Thu, 23 Dec 2021 04:00:00 +0000",
             "title": "487. Is It Okay to Have a Party Yet?",
             "entities": {
+                "GPE": [
+                    "Freakonomics",
+                    "M.D."
+                ],
                 "PERSON": [
                     "Bapu Jena",
                     "March Madness"
+                ],
+                "ORG": [
+                    "Freakonomics Radio"
                 ]
             }
         },
@@ -2832,11 +2861,14 @@
             "pubDate": "Thu, 18 Nov 2021 04:00:00 +0000",
             "title": "483. What\u2019s Wrong With Shortcuts?",
             "entities": {
+                "WORK_OF_ART": [
+                    "Thinking Better: The Art of the Shortcut in Math and Life"
+                ],
                 "PERSON": [
                     "Marcus du Sautoy"
                 ],
                 "ORG": [
-                    "the Freakonomics Radio Book Club.</p"
+                    "the Freakonomics Radio Book Club"
                 ]
             }
         },
@@ -2981,6 +3013,9 @@
                 "CARDINAL": [
                     "one",
                     "39"
+                ],
+                "ORG": [
+                    "Freakonomics Radio"
                 ]
             }
         },
@@ -3086,6 +3121,9 @@
             "pubDate": "Thu, 30 Sep 2021 03:00:00 +0000",
             "title": "That\u2019s a Great Question! (Ep. 192 Rebroadcast)",
             "entities": {
+                "ORG": [
+                    "Verbal"
+                ],
                 "DATE": [
                     "these days"
                 ],
@@ -3126,7 +3164,7 @@
                 ],
                 "PERSON": [
                     "Chris Bosh",
-                    "Angela Duckworth.</p"
+                    "Angela Duckworth"
                 ]
             }
         },
@@ -3246,6 +3284,9 @@
                     "Cass Sunstein",
                     "Thaler",
                     "Stephen Dubner"
+                ],
+                "GPE": [
+                    "Nudge"
                 ],
                 "DATE": [
                     "2008",
@@ -3526,6 +3567,9 @@
             "entities": {
                 "ORG": [
                     "healthcare"
+                ],
+                "GPE": [
+                    "America"
                 ]
             }
         },
@@ -3626,11 +3670,11 @@
                 "PERSON": [
                     "Bren Smith"
                 ],
-                "GPE": [
-                    "Fish</em"
+                "PRODUCT": [
+                    "Eat Like"
                 ],
                 "ORG": [
-                    "The Freakonomics Radio Book"
+                    "The Freakonomics Radio Book Club"
                 ]
             }
         },
@@ -3744,9 +3788,6 @@
             "entities": {
                 "CARDINAL": [
                     "another dozen"
-                ],
-                "PERSON": [
-                    "yet.</p"
                 ]
             }
         },
@@ -3778,11 +3819,16 @@
             "title": "463. How to Get Anyone to Do Anything",
             "entities": {
                 "PERSON": [
-                    "Robert Cialdini",
-                    "Influence</em"
+                    "Robert Cialdini"
                 ],
                 "DATE": [
                     "1984"
+                ],
+                "WORK_OF_ART": [
+                    "Influence"
+                ],
+                "ORG": [
+                    "the Freakonomics Radio Book Club"
                 ],
                 "CARDINAL": [
                     "seven"
@@ -4006,6 +4052,9 @@
             "pubDate": "Thu, 8 Apr 2021 03:00:00 +0000",
             "title": "457. Is Dialysis a Test Case of Medicare for All?",
             "entities": {
+                "PERSON": [
+                    "Kidney"
+                ],
                 "ORG": [
                     "Medicare",
                     "Medicare"
@@ -4107,7 +4156,8 @@
                     "Thomas Dyja"
                 ],
                 "ORG": [
-                    "the Freakonomics Radio Book Club"
+                    "the Freakonomics Radio Book Club",
+                    "Transformation"
                 ],
                 "DATE": [
                     "Four Decades"
@@ -4211,21 +4261,21 @@
             "pubDate": "Thu, 4 Mar 2021 04:00:00 +0000",
             "title": "453. A Rescue Plan for Black America",
             "entities": {
-                "GPE": [
-                    "New York",
-                    "America"
+                "ORG": [
+                    "New York Times",
+                    "the Freakonomics Radio Book Club"
                 ],
                 "PERSON": [
                     "Charles Blow"
                 ],
-                "PRODUCT": [
-                    "Black Power Manifesto</em"
+                "GPE": [
+                    "America"
+                ],
+                "WORK_OF_ART": [
+                    "The Devil You Know: A Black Power Manifesto"
                 ],
                 "LOC": [
                     "South"
-                ],
-                "ORG": [
-                    "the Freakonomics Radio Book"
                 ]
             }
         },
@@ -4288,6 +4338,7 @@
                     "G.E."
                 ],
                 "ORG": [
+                    "The Apprentice",
                     "C.E.O."
                 ]
             }
@@ -4349,9 +4400,10 @@
             "entities": {
                 "PERSON": [
                     "Caitlin Doughty",
-                    "Maria Konnikova.</p"
+                    "Maria Konnikova"
                 ],
                 "ORG": [
+                    "Smoke Gets in Your Eyes: And Other Lessons From the Crematory",
                     "the Freakonomics Radio Book Club"
                 ]
             }
@@ -4384,8 +4436,7 @@
             "title": "449. How to Fix the Incentives in Cancer Research",
             "entities": {
                 "CARDINAL": [
-                    "10 million",
-                    "one"
+                    "10 million"
                 ]
             }
         },
@@ -4672,10 +4723,8 @@
                     "Zappos"
                 ],
                 "DATE": [
-                    "Five years ago"
-                ],
-                "CARDINAL": [
-                    "46.</p"
+                    "Five years ago",
+                    "46"
                 ]
             }
         },
@@ -4756,6 +4805,9 @@
             "pubDate": "Thu, 26 Nov 2020 04:00:00 +0000",
             "title": "441. Does Advertising Actually Work? (Part 2: Digital)",
             "entities": {
+                "ORG": [
+                    "Google"
+                ],
                 "MONEY": [
                     "$2 trillion"
                 ]
@@ -4902,7 +4954,8 @@
                     "Iowa"
                 ],
                 "NORP": [
-                    "Democrats"
+                    "Democrats",
+                    "Republicans"
                 ]
             }
         },
@@ -4965,7 +5018,7 @@
                     "the Freakonomics Radio Book Club"
                 ],
                 "PERSON": [
-                    "Alexandra Horowitz.</p"
+                    "Alexandra Horowitz"
                 ]
             }
         },
@@ -5181,6 +5234,7 @@
             "entities": {
                 "ORG": [
                     "Yale\u2019s School of Management",
+                    "Sports Illustrated",
                     "Blackness in America"
                 ],
                 "GPE": [
@@ -5262,13 +5316,14 @@
             "pubDate": "Sat, 12 Sep 2020 12:00:00 +0000",
             "title": "What if Your Company Had No Rules?",
             "entities": {
+                "ORG": [
+                    "Netflix",
+                    "the Freakonomics Radio Book Club"
+                ],
                 "PERSON": [
                     "Reed Hastings",
                     "Maria Konnikova",
                     "Hastings"
-                ],
-                "ORG": [
-                    "the Freakonomics Radio Book Club"
                 ]
             }
         },
@@ -5334,6 +5389,9 @@
                 "PERSON": [
                     "Amy Farrah Fowler",
                     "Steve Levitt"
+                ],
+                "ORG": [
+                    "The Big Bang Theory"
                 ],
                 "CARDINAL": [
                     "one"
@@ -5527,12 +5585,14 @@
                     "G.D.P."
                 ],
                 "PERSON": [
-                    "Kate Raworth",
-                    "Doughnut Economics</em"
+                    "Kate Raworth"
                 ],
                 "GPE": [
                     "Raworth",
                     "Amsterdam"
+                ],
+                "WORK_OF_ART": [
+                    "Doughnut Economics"
                 ]
             }
         },
@@ -5563,6 +5623,9 @@
             "pubDate": "Thu, 6 Aug 2020 03:00:00 +0000",
             "title": "How the Supermarket Helped America Win the Cold War (Ep. 386 Rebroadcast)",
             "entities": {
+                "ORG": [
+                    "Aisle"
+                ],
                 "GPE": [
                     "U.S.",
                     "U.S.S.R."
@@ -5702,7 +5765,8 @@
             "title": "425. Remembrance of Economic Crises Past",
             "entities": {
                 "PERSON": [
-                    "Christina Romer"
+                    "Christina Romer",
+                    "Covid"
                 ],
                 "ORG": [
                     "White House"
@@ -5710,9 +5774,6 @@
                 "EVENT": [
                     "the Great Recession",
                     "the Great Depression"
-                ],
-                "NORP": [
-                    "Covid"
                 ]
             }
         },
@@ -5747,7 +5808,8 @@
                     "Maria Konnikova"
                 ],
                 "WORK_OF_ART": [
-                    "Ph.D."
+                    "Ph.D.",
+                    "The Biggest Bluff"
                 ]
             }
         },
@@ -5853,6 +5915,7 @@
             "title": "421. How to Prevent Another Great Depression",
             "entities": {
                 "CARDINAL": [
+                    "Millions",
                     "millions",
                     "four",
                     "one"
@@ -5886,17 +5949,16 @@
             "pubDate": "Thu, 4 Jun 2020 03:00:00 +0000",
             "title": "420. Which Jobs Will Come Back, and When?",
             "entities": {
+                "ORG": [
+                    "Covid-19",
+                    "the Great Labor Reallocation"
+                ],
                 "DATE": [
-                    "a century"
+                    "a century",
+                    "2020"
                 ],
                 "ORDINAL": [
                     "first"
-                ],
-                "ORG": [
-                    "the Great Labor Reallocation"
-                ],
-                "CARDINAL": [
-                    "2020.</p"
                 ]
             }
         },
@@ -6192,7 +6254,11 @@
             "link": "http://freakonomics.com/",
             "pubDate": "Thu, 9 Apr 2020 03:00:00 +0000",
             "title": "412. What Happens When Everyone Stays Home to Eat?",
-            "entities": {}
+            "entities": {
+                "ORG": [
+                    "Covid-19"
+                ]
+            }
         },
         {
             "author": "editor@freakonomics.com (Freakonomics Radio + Stitcher)",
@@ -6531,6 +6597,9 @@
             "pubDate": "Thu, 30 Jan 2020 04:00:00 +0000",
             "title": "How the San Francisco 49ers Stopped Being Losers (Ep. 350 Update)",
             "entities": {
+                "CARDINAL": [
+                    "One"
+                ],
                 "DATE": [
                     "this week",
                     "the 2018 season"
@@ -6607,6 +6676,9 @@
                 ],
                 "CARDINAL": [
                     "hundreds of thousands"
+                ],
+                "NORP": [
+                    "Americans"
                 ]
             }
         },
@@ -6737,10 +6809,8 @@
                     "the Yang Gang"
                 ],
                 "GPE": [
-                    "America"
-                ],
-                "NORP": [
-                    "Iowa.</p"
+                    "America",
+                    "Iowa"
                 ]
             }
         },
@@ -6842,11 +6912,7 @@
             "link": "http://freakonomics.com/",
             "pubDate": "Thu, 28 Nov 2019 04:00:00 +0000",
             "title": "How to Change Your Mind (Rebroadcast)",
-            "entities": {
-                "PERSON": [
-                    "encouraging</em"
-                ]
-            }
+            "entities": {}
         },
         {
             "author": "editor@freakonomics.com (Freakonomics Radio + Stitcher)",
@@ -7059,8 +7125,7 @@
                 ],
                 "GPE": [
                     "London",
-                    "London",
-                    "Fish</em"
+                    "London"
                 ],
                 "ORG": [
                     "Liverpool",
@@ -7105,8 +7170,7 @@
                 "PERSON": [
                     "David Cameron",
                     "Remain",
-                    "Cameron",
-                    "really</em"
+                    "Cameron"
                 ],
                 "GPE": [
                     "U.K."
@@ -7463,6 +7527,9 @@
             "pubDate": "Thu, 1 Aug 2019 03:00:00 +0000",
             "title": "386. How the Supermarket Helped America Win the Cold War",
             "entities": {
+                "ORG": [
+                    "Aisle"
+                ],
                 "GPE": [
                     "U.S.",
                     "U.S.S.R."
@@ -7570,8 +7637,10 @@
             "pubDate": "Thu, 11 Jul 2019 03:00:00 +0000",
             "title": "384. Abortion and Crime, Revisited",
             "entities": {
+                "LAW": [
+                    "Roe v. Wade"
+                ],
                 "PERSON": [
-                    "Roe",
                     "Steve Levitt",
                     "John Donohue"
                 ]
@@ -7674,7 +7743,7 @@
                     "Richard Thaler",
                     "Angela Duckworth",
                     "Katy Milkman",
-                    "Tom Gilovich.</p"
+                    "Tom Gilovich"
                 ]
             }
         },
@@ -7717,7 +7786,7 @@
                     "Mike Maughan"
                 ],
                 "ORG": [
-                    "Freakonomics Radio Orchestra.</p"
+                    "the Freakonomics Radio Orchestra"
                 ]
             }
         },
@@ -7764,7 +7833,7 @@
                 "ORG": [
                     "NASA",
                     "Planetary Protection",
-                    "the Freakonomics Radio Orchestra.</p"
+                    "the Freakonomics Radio Orchestra"
                 ]
             }
         },
@@ -7795,11 +7864,7 @@
             "link": "http://freakonomics.com/",
             "pubDate": "Thu, 30 May 2019 03:00:00 +0000",
             "title": "379. How to Change Your Mind",
-            "entities": {
-                "PERSON": [
-                    "encouraging</em"
-                ]
-            }
+            "entities": {}
         },
         {
             "author": "editor@freakonomics.com (Freakonomics Radio + Stitcher)",
@@ -7865,7 +7930,7 @@
                     "C.E.O."
                 ],
                 "CARDINAL": [
-                    "23andMe.</p"
+                    "23andMe"
                 ]
             }
         },
@@ -8142,7 +8207,11 @@
             "link": "http://freakonomics.com/",
             "pubDate": "Thu, 21 Mar 2019 03:00:00 +0000",
             "title": "Why You Shouldn\u2019t Open a Restaurant (Update)",
-            "entities": {}
+            "entities": {
+                "PERSON": [
+                    "Kenji Lopez-Alt"
+                ]
+            }
         },
         {
             "author": "editor@freakonomics.com (Freakonomics Radio + Stitcher)",
@@ -8398,8 +8467,7 @@
                     "Stephen Dubner\u2019s"
                 ],
                 "ORG": [
-                    "N.F.L.",
-                    "href=\"http://freakonomics.com"
+                    "N.F.L."
                 ]
             }
         },
@@ -8437,8 +8505,8 @@
                 "CARDINAL": [
                     "6"
                 ],
-                "ORG": [
-                    "href=\"http://freakonomics.com"
+                "WORK_OF_ART": [
+                    "The Hidden Side of Sports"
                 ]
             }
         },
@@ -8470,13 +8538,15 @@
             "pubDate": "Sat, 26 Jan 2019 13:00:00 +0000",
             "title": "Extra: Mark Cuban Full Interview",
             "entities": {
-                "PERSON": [
-                    "Shark Tank</em",
-                    "Dallas Mavericks",
-                    "Freakonomics Radio</em"
-                ],
                 "ORG": [
-                    "href=\"http://freakonomics.com"
+                    "Shark Tank",
+                    "Freakonomics Radio"
+                ],
+                "PERSON": [
+                    "Dallas Mavericks"
+                ],
+                "WORK_OF_ART": [
+                    "The Hidden Side of Sports"
                 ]
             }
         },
@@ -8510,14 +8580,16 @@
             "entities": {
                 "ORG": [
                     "N.F.L.",
-                    "U.F.C.",
-                    "href=\"http://freakonomics.com"
+                    "U.F.C."
                 ],
                 "GPE": [
                     "N.B.A."
                 ],
                 "CARDINAL": [
                     "5"
+                ],
+                "WORK_OF_ART": [
+                    "The Hidden Side of Sports"
                 ]
             }
         },
@@ -8552,11 +8624,13 @@
                 "ORG": [
                     "Major League Baseball",
                     "ESPN",
-                    "href=\"http://freakonomics.com"
+                    "Freakonomics Radio"
                 ],
                 "PERSON": [
-                    "Mark Teixeira",
-                    "Freakonomics Radio</em"
+                    "Mark Teixeira"
+                ],
+                "WORK_OF_ART": [
+                    "The Hidden Side of Sports"
                 ]
             }
         },
@@ -8591,8 +8665,8 @@
                 "CARDINAL": [
                     "4"
                 ],
-                "ORG": [
-                    "href=\"http://freakonomics.com"
+                "WORK_OF_ART": [
+                    "The Hidden Side of Sports"
                 ]
             }
         },
@@ -8630,8 +8704,8 @@
                 "ORG": [
                     "World Bank"
                 ],
-                "CARDINAL": [
-                    "2015.</p"
+                "DATE": [
+                    "2015"
                 ]
             }
         },
@@ -8817,8 +8891,8 @@
                     "Christian Finnegan",
                     "Alexandra Petri"
                 ],
-                "GPE": [
-                    "Washington"
+                "ORG": [
+                    "Washington Post"
                 ]
             }
         },
@@ -8852,7 +8926,7 @@
             "entities": {
                 "PERSON": [
                     "Manoush Zomorodi",
-                    "A.J. Jacobs.</p"
+                    "A.J. Jacobs"
                 ]
             }
         },
@@ -8891,8 +8965,8 @@
                 "TIME": [
                     "evening"
                 ],
-                "GPE": [
-                    "Washington"
+                "ORG": [
+                    "Washington Post"
                 ]
             }
         },
@@ -8924,14 +8998,15 @@
             "pubDate": "Thu, 13 Dec 2018 04:00:00 +0000",
             "title": "361. Freakonomics Radio Live: \u201cJesus Could Have Been a Pigeon.\u201d",
             "entities": {
+                "ORG": [
+                    "Grit",
+                    "Freakonomical",
+                    "iPod"
+                ],
                 "PERSON": [
                     "Angela Duckworth",
                     "Darwin",
                     "Mike Maughan"
-                ],
-                "ORG": [
-                    "Freakonomical",
-                    "iPod"
                 ]
             }
         },
@@ -8974,7 +9049,8 @@
                     "Protestantism"
                 ],
                 "GPE": [
-                    "Philippines"
+                    "Philippines",
+                    "Germany"
                 ]
             }
         },
@@ -9044,6 +9120,9 @@
             "entities": {
                 "GPE": [
                     "F.D.A."
+                ],
+                "LOC": [
+                    "Milktoberfest"
                 ]
             }
         },
@@ -9117,6 +9196,9 @@
                 ],
                 "DATE": [
                     "century-old"
+                ],
+                "GPE": [
+                    "n\u2019t"
                 ]
             }
         },
@@ -9182,8 +9264,8 @@
             "pubDate": "Sat, 27 Oct 2018 16:00:00 +0000",
             "title": "Extra: Elvis Costello Full Interview",
             "entities": {
-                "PERSON": [
-                    "Freakonomics Radio</em"
+                "ORG": [
+                    "Freakonomics Radio"
                 ]
             }
         },
@@ -9262,14 +9344,14 @@
             "title": "Extra: Jeremy Lin Full Interview",
             "entities": {
                 "ORG": [
-                    "NBA"
+                    "NBA",
+                    "Freakonomics Radio"
                 ],
                 "PERSON": [
-                    "Jeremy Lin",
-                    "Freakonomics Radio</em"
+                    "Jeremy Lin"
                 ],
                 "WORK_OF_ART": [
-                    "target=\"_blank\">The Hidden Side of Sports</a>.\u201d</p"
+                    "The Hidden Side of Sports"
                 ]
             }
         },
@@ -9419,14 +9501,13 @@
                     "2008"
                 ],
                 "PERSON": [
-                    "Shawn Johnson",
-                    "Freakonomics Radio</em"
+                    "Shawn Johnson"
                 ],
                 "ORG": [
-                    "href=\"http://freakonomics.com"
+                    "Freakonomics Radio"
                 ],
                 "WORK_OF_ART": [
-                    "target=\"_blank\">The Hidden Side of Sports</a>.\u201d</p"
+                    "The Hidden Side of Sports"
                 ]
             }
         },
@@ -9461,11 +9542,8 @@
                 "CARDINAL": [
                     "3"
                 ],
-                "ORG": [
-                    "href=\"http://freakonomics.com"
-                ],
                 "WORK_OF_ART": [
-                    "target=\"_blank\">The Hidden Side of Sports</a"
+                    "The Hidden Side of Sports"
                 ]
             }
         },
@@ -9498,20 +9576,16 @@
             "title": "Extra: Full Interviews With Jimmy Garoppolo, Joe Staley, Mike McGlinchey, and Kyle Juszczyk",
             "entities": {
                 "PERSON": [
-                    "Stephen Dubner\u2019s",
-                    "Freakonomics Radio</em"
+                    "Stephen Dubner\u2019s"
                 ],
                 "GPE": [
                     "San Francisco"
                 ],
+                "ORG": [
+                    "Freakonomics Radio"
+                ],
                 "CARDINAL": [
                     "350"
-                ],
-                "ORG": [
-                    "href=\"http://freakonomics.com"
-                ],
-                "WORK_OF_ART": [
-                    "target=\"_blank\">Hidden Side of Sports</a"
                 ]
             }
         },
@@ -9655,7 +9729,11 @@
             "link": "http://freakonomics.com/",
             "pubDate": "Thu, 30 Aug 2018 03:00:00 +0000",
             "title": "347. Why You Shouldn\u2019t Open a Restaurant",
-            "entities": {}
+            "entities": {
+                "PERSON": [
+                    "Kenji Lopez-Alt"
+                ]
+            }
         },
         {
             "author": "editor@freakonomics.com (Freakonomics Radio + Stitcher)",
@@ -9793,6 +9871,9 @@
             "pubDate": "Tue, 7 Aug 2018 03:00:00 +0000",
             "title": "A Conversation With PepsiCo C.E.O. Indra Nooyi (Ep. 316 Update)",
             "entities": {
+                "CARDINAL": [
+                    "One"
+                ],
                 "ORG": [
                     "C.E.O."
                 ],
@@ -10450,7 +10531,7 @@
                     "Freakonomics Radio"
                 ],
                 "WORK_OF_ART": [
-                    "The Secret Life of a C.E.O.\u201d</p>\n"
+                    "The Secret Life of a C.E.O."
                 ]
             }
         },
@@ -10517,7 +10598,7 @@
                     "Freakonomics Radio"
                 ],
                 "WORK_OF_ART": [
-                    "The Secret Life of a C.E.O.\u201d</p>\n"
+                    "The Secret Life of a C.E.O."
                 ]
             }
         },
@@ -10595,7 +10676,7 @@
                     "Freakonomics Radio"
                 ],
                 "WORK_OF_ART": [
-                    "The Secret Life of a C.E.O.\u201d</p>\n"
+                    "The Secret Life of a C.E.O."
                 ]
             }
         },
@@ -10662,7 +10743,7 @@
                     "Freakonomics Radio"
                 ],
                 "WORK_OF_ART": [
-                    "The Secret Life of a C.E.O.\u201d</p>\n"
+                    "The Secret Life of a C.E.O."
                 ]
             }
         },
@@ -10744,7 +10825,7 @@
                     "Freakonomics Radio"
                 ],
                 "WORK_OF_ART": [
-                    "The Secret Life of a C.E.O.\u201d</p>\n"
+                    "The Secret Life of a C.E.O."
                 ]
             }
         },
@@ -10811,7 +10892,7 @@
                     "Freakonomics Radio"
                 ],
                 "WORK_OF_ART": [
-                    "The Secret Life of a C.E.O.\u201d</p>\n"
+                    "The Secret Life of a C.E.O."
                 ]
             }
         },
@@ -10841,11 +10922,7 @@
             "link": "http://freakonomics.com/",
             "pubDate": "Thu, 1 Mar 2018 04:00:00 +0000",
             "title": "Does \u201cEarly Education\u201d Come Way Too Late? (Rebroadcast)",
-            "entities": {
-                "PERSON": [
-                    "home.</p"
-                ]
-            }
+            "entities": {}
         },
         {
             "author": "editor@freakonomics.com (Freakonomics Radio + Stitcher)",
@@ -10882,7 +10959,7 @@
                     "Freakonomics Radio"
                 ],
                 "WORK_OF_ART": [
-                    "The Secret Life of a C.E.O.\u201d</p>\n"
+                    "The Secret Life of a C.E.O."
                 ]
             }
         },
@@ -10915,6 +10992,9 @@
             "entities": {
                 "ORG": [
                     "C.E.O."
+                ],
+                "WORK_OF_ART": [
+                    "Secret Life of a C.E.O."
                 ]
             }
         },
@@ -10949,7 +11029,8 @@
                     "Only 5 percent"
                 ],
                 "WORK_OF_ART": [
-                    "Fortune 500"
+                    "Fortune 500",
+                    "The Secret Life of C.E.O.'s"
                 ],
                 "CARDINAL": [
                     "5"
@@ -11110,6 +11191,9 @@
                 ],
                 "CARDINAL": [
                     "3"
+                ],
+                "WORK_OF_ART": [
+                    "The Secret Life of C.E.O.'s"
                 ]
             }
         },
@@ -11165,6 +11249,9 @@
                 ],
                 "NORP": [
                     "Reddit"
+                ],
+                "WORK_OF_ART": [
+                    "The Secret Life of C.E.O.'s"
                 ]
             }
         },
@@ -11352,7 +11439,7 @@
             "title": "Make Me a Match (Rebroadcast)",
             "entities": {
                 "PERSON": [
-                    "Al Roth.</p"
+                    "Al Roth"
                 ]
             }
         },
@@ -11542,12 +11629,11 @@
             "pubDate": "Thu, 9 Nov 2017 04:00:00 +0000",
             "title": "308. How Can I Do the Most Social Good With $100? And Other FREAK-quently Asked Questions",
             "entities": {
-                "PERSON": [
-                    "Dubner",
-                    "Steve Levitt"
-                ],
                 "NORP": [
                     "Freakonomics"
+                ],
+                "PERSON": [
+                    "Steve Levitt"
                 ],
                 "WORK_OF_ART": [
                     "Ph.D."
@@ -11581,6 +11667,9 @@
             "pubDate": "Tue, 7 Nov 2017 04:00:00 +0000",
             "title": "Why Is There So Much Ground Beef in the World? (Special Feature)",
             "entities": {
+                "WORK_OF_ART": [
+                    "Tell Me Something I Don't Know"
+                ],
                 "PERSON": [
                     "Stephen J. Dubner",
                     "Alex Wagner",
@@ -12176,11 +12265,7 @@
             "link": "http://freakonomics.com/",
             "pubDate": "Thu, 20 Jul 2017 03:00:00 +0000",
             "title": "296. These Shoes Are Killing Me!",
-            "entities": {
-                "PERSON": [
-                    "quot;a coffin&quot"
-                ]
-            }
+            "entities": {}
         },
         {
             "author": "editor@freakonomics.com (Freakonomics Radio + Stitcher)",
@@ -12400,7 +12485,8 @@
                 ],
                 "ORG": [
                     "the Supreme Court",
-                    "WBEZ"
+                    "WBEZ",
+                    "Nerdette"
                 ]
             }
         },
@@ -12481,6 +12567,9 @@
                 ],
                 "NORP": [
                     "British"
+                ],
+                "GPE": [
+                    "California"
                 ]
             }
         },
@@ -12685,6 +12774,9 @@
             "entities": {
                 "ORG": [
                     "FDA"
+                ],
+                "LOC": [
+                    "Milktoberfest"
                 ]
             }
         },
@@ -13556,6 +13648,9 @@
             "pubDate": "Tue, 15 Nov 2016 04:00:00 +0000",
             "title": "Introducing Stephen J. Dubner's new podcast, \"Tell Me Something I Don't Know\"",
             "entities": {
+                "WORK_OF_ART": [
+                    "Tell Me Something I Don't Know"
+                ],
                 "PERSON": [
                     "Stephen J. Dubner",
                     "Debora Spar",
@@ -13565,11 +13660,10 @@
                     "Dubner"
                 ],
                 "ORG": [
-                    "&quot;TMSIDK,&quot",
+                    "Freakonomics Radio",
                     "Barnard College",
                     "New York Public Library",
-                    "Freakonomics Radio",
-                    "gig.</p"
+                    "Freakonomics Radio"
                 ],
                 "NORP": [
                     "iTunes"
@@ -13833,8 +13927,8 @@
                 "WORK_OF_ART": [
                     "Star Trek"
                 ],
-                "ORDINAL": [
-                    "24th"
+                "DATE": [
+                    "the 24th century"
                 ]
             }
         },
@@ -14045,7 +14139,7 @@
                     "FREAK"
                 ],
                 "PERSON": [
-                    "Asked Questions.</p>"
+                    "Asked Questions"
                 ]
             }
         },
@@ -14600,9 +14694,6 @@
             "pubDate": "Mon, 2 May 2016 03:00:00 +0000",
             "title": "245. Being Malcolm Gladwell",
             "entities": {
-                "GPE": [
-                    "ass,&quot"
-                ],
                 "PERSON": [
                     "Gladwell"
                 ]
@@ -14704,7 +14795,11 @@
             "link": "http://freakonomics.com/",
             "pubDate": "Thu, 14 Apr 2016 03:00:00 +0000",
             "title": "242. Is the World Ready for a Guaranteed Basic Income?",
-            "entities": {}
+            "entities": {
+                "DATE": [
+                    "decades"
+                ]
+            }
         },
         {
             "author": "editor@freakonomics.com (Freakonomics Radio + Stitcher)",
@@ -15086,9 +15181,6 @@
             "pubDate": "Thu, 21 Jan 2016 04:00:00 +0000",
             "title": "234. Do Boycotts Work?",
             "entities": {
-                "PERSON": [
-                    "The Montgomery Bus Boycott"
-                ],
                 "NORP": [
                     "South African"
                 ],
@@ -15184,11 +15276,7 @@
             "link": "http://freakonomics.com/",
             "pubDate": "Thu, 31 Dec 2015 04:00:00 +0000",
             "title": "When Willpower Isn\u2019t Enough (Rebroadcast)",
-            "entities": {
-                "ORG": [
-                    "where &quot;temptation bundling&quot"
-                ]
-            }
+            "entities": {}
         },
         {
             "author": "editor@freakonomics.com (Freakonomics Radio + Stitcher)",
@@ -15367,11 +15455,7 @@
             "link": "http://freakonomics.com/",
             "pubDate": "Thu, 19 Nov 2015 04:00:00 +0000",
             "title": "228. Does \u201cEarly Education\u201d Come Way Too Late?",
-            "entities": {
-                "PERSON": [
-                    "home.</p"
-                ]
-            }
+            "entities": {}
         },
         {
             "author": "editor@freakonomics.com (Freakonomics Radio + Stitcher)",
@@ -15870,8 +15954,10 @@
                     "Harlan Coben"
                 ],
                 "CARDINAL": [
-                    "70 million",
-                    "13&quot"
+                    "70 million"
+                ],
+                "LAW": [
+                    "Apollo 13"
                 ]
             }
         },
@@ -15904,6 +15990,9 @@
             "entities": {
                 "ORG": [
                     "FREAK"
+                ],
+                "PERSON": [
+                    "Asked Questions"
                 ]
             }
         },
@@ -16051,7 +16140,7 @@
             "title": "209. Make Me a Match",
             "entities": {
                 "PERSON": [
-                    "Al Roth.</p"
+                    "Al Roth"
                 ]
             }
         },
@@ -16148,7 +16237,7 @@
                 "PERSON": [
                     "Malcolm Gladwell",
                     "Ana Gasteyer",
-                    "David Paterson.</p"
+                    "David Paterson"
                 ]
             }
         },
@@ -16207,13 +16296,15 @@
             "pubDate": "Thu, 14 May 2015 03:00:00 +0000",
             "title": "206. Ten Years of Freakonomics",
             "entities": {
-                "PERSON": [
-                    "Dubner",
-                    "Levitt",
-                    "Rob"
-                ],
                 "GPE": [
+                    "Dubner",
                     "New York"
+                ],
+                "PERSON": [
+                    "Levitt"
+                ],
+                "ORG": [
+                    "Rob a Bank"
                 ],
                 "DATE": [
                     "a decade"
@@ -16281,7 +16372,11 @@
             "link": "http://freakonomics.com/",
             "pubDate": "Thu, 30 Apr 2015 03:00:00 +0000",
             "title": "Think Like a Child (Rebroadcast)",
-            "entities": {}
+            "entities": {
+                "DATE": [
+                    "eight year old"
+                ]
+            }
         },
         {
             "author": "editor@freakonomics.com (Freakonomics Radio + Stitcher)",
@@ -16487,11 +16582,7 @@
             "link": "http://freakonomics.com/",
             "pubDate": "Thu, 12 Mar 2015 04:00:00 +0000",
             "title": "200. When Willpower Isn\u2019t Enough",
-            "entities": {
-                "ORG": [
-                    "where &quot;temptation bundling&quot"
-                ]
-            }
+            "entities": {}
         },
         {
             "author": "editor@freakonomics.com (Freakonomics Radio + Stitcher)",
@@ -16749,14 +16840,14 @@
             "pubDate": "Thu, 15 Jan 2015 05:00:00 +0000",
             "title": "192. That\u2019s a Great Question!",
             "entities": {
+                "ORG": [
+                    "Verbal"
+                ],
                 "DATE": [
                     "these days"
                 ],
                 "CARDINAL": [
                     "at least one"
-                ],
-                "PERSON": [
-                    "one.</p"
                 ]
             }
         },
@@ -16910,9 +17001,6 @@
                 "CARDINAL": [
                     "billions",
                     "one"
-                ],
-                "ORG": [
-                    "pet &quot;aftercare.&quot"
                 ]
             }
         },
@@ -17010,7 +17098,7 @@
                 "PERSON": [
                     "Boris Johnson",
                     "Churchill",
-                    "Asked Questions.</p>"
+                    "Asked Questions"
                 ],
                 "GPE": [
                     "London"
@@ -17074,7 +17162,11 @@
             "link": "http://freakonomics.com/",
             "pubDate": "Thu, 6 Nov 2014 05:00:00 +0000",
             "title": "185. Should the U.S. Merge With Mexico?",
-            "entities": {}
+            "entities": {
+                "GPE": [
+                    "Amexico"
+                ]
+            }
         },
         {
             "author": "editor@freakonomics.com (Freakonomics Radio + Stitcher)",
@@ -17141,7 +17233,7 @@
                 "PERSON": [
                     "Malcolm Gladwell",
                     "Ana Gasteyer",
-                    "David Paterson.</p"
+                    "David Paterson"
                 ]
             }
         },
@@ -17643,15 +17735,17 @@
             "pubDate": "Thu, 26 Jun 2014 04:00:00 +0000",
             "title": "172. How to Screen Job Applicants, Act Your Age, and Get Your Brain Off Autopilot",
             "entities": {
+                "GPE": [
+                    "Dubner"
+                ],
                 "PERSON": [
-                    "Dubner",
                     "Levitt"
                 ],
                 "ORDINAL": [
                     "first"
                 ],
                 "WORK_OF_ART": [
-                    "Think Like a Freak\u201d Book Club.</p>\n"
+                    "Think Like a Freak\u201d Book Club"
                 ]
             }
         },
@@ -17711,7 +17805,7 @@
             "title": "170. Why America Doesn\u2019t Love Soccer (Yet)",
             "entities": {
                 "DATE": [
-                    "four years"
+                    "Every four years"
                 ],
                 "GPE": [
                     "U.S."
@@ -17807,7 +17901,11 @@
             "link": "http://freakonomics.com/",
             "pubDate": "Thu, 22 May 2014 04:00:00 +0000",
             "title": "168. Think Like a Child",
-            "entities": {}
+            "entities": {
+                "DATE": [
+                    "eight year old"
+                ]
+            }
         },
         {
             "author": "editor@freakonomics.com (Freakonomics Radio + Stitcher)",
@@ -18288,9 +18386,6 @@
             "pubDate": "Thu, 30 Jan 2014 14:00:00 +0000",
             "title": "153. Reasons to Not Be Ugly",
             "entities": {
-                "PERSON": [
-                    "quot;beauty premium&quot"
-                ],
                 "ORG": [
                     "NFL"
                 ]
@@ -18351,6 +18446,9 @@
             "pubDate": "Thu, 16 Jan 2014 14:00:00 +0000",
             "title": "Fear Thy Nature (Rebroadcast)",
             "entities": {
+                "WORK_OF_ART": [
+                    "Sleep No More"
+                ],
                 "ORG": [
                     "the Stanford Prison Experiment"
                 ]
@@ -18383,8 +18481,10 @@
             "pubDate": "Thu, 9 Jan 2014 14:00:00 +0000",
             "title": "151. Are We Ready to Legalize Drugs? And Other FREAK-Quently Asked Questions",
             "entities": {
+                "GPE": [
+                    "Dubner"
+                ],
                 "PERSON": [
-                    "Dubner",
                     "Levitt"
                 ]
             }
@@ -18674,7 +18774,11 @@
             "link": "http://freakonomics.com/",
             "pubDate": "Thu, 31 Oct 2013 13:00:00 +0000",
             "title": "Freakonomics Goes to College, Part 1 (Rebroadcast)",
-            "entities": {}
+            "entities": {
+                "DATE": [
+                    "these days"
+                ]
+            }
         },
         {
             "author": "editor@freakonomics.com (Freakonomics Radio + Stitcher)",
@@ -18734,9 +18838,6 @@
                 "CARDINAL": [
                     "billions",
                     "one"
-                ],
-                "ORG": [
-                    "pet &quot;aftercare.&quot"
                 ]
             }
         },
@@ -18795,10 +18896,12 @@
             "pubDate": "Thu, 3 Oct 2013 13:00:00 +0000",
             "title": "140. How to Think About Money, Choose Your Hometown, and Buy an Electric Toothbrush",
             "entities": {
+                "GPE": [
+                    "Dubner"
+                ],
                 "PERSON": [
-                    "Dubner",
                     "Levitt",
-                    "Asked Questions.</p>"
+                    "Asked Questions"
                 ],
                 "LOC": [
                     "FREAK"
@@ -19206,7 +19309,11 @@
             "link": "http://freakonomics.com/",
             "pubDate": "Wed, 3 Jul 2013 21:00:00 +0000",
             "title": "132. Jane Austen, Game Theorist",
-            "entities": {}
+            "entities": {
+                "WORK_OF_ART": [
+                    "Pride and Prejudice"
+                ]
+            }
         },
         {
             "author": "editor@freakonomics.com (Freakonomics Radio + Stitcher)",
@@ -19379,12 +19486,11 @@
             "pubDate": "Thu, 23 May 2013 13:00:00 +0000",
             "title": "127. Can You Be Too Smart for Your Own Good? And Other FREAK-quently Asked Questions",
             "entities": {
-                "PERSON": [
-                    "Dubner",
-                    "Levitt"
-                ],
                 "GPE": [
-                    "want&quot"
+                    "Dubner"
+                ],
+                "PERSON": [
+                    "Levitt"
                 ]
             }
         },
@@ -19417,9 +19523,6 @@
             "entities": {
                 "PERCENT": [
                     "94 percent"
-                ],
-                "PERSON": [
-                    "alarms?</p"
                 ]
             }
         },
@@ -19477,7 +19580,11 @@
             "link": "http://freakonomics.com/",
             "pubDate": "Wed, 1 May 2013 20:00:00 +0000",
             "title": "125. It\u2019s Crowded at the Top",
-            "entities": {}
+            "entities": {
+                "EVENT": [
+                    "the Great Recession"
+                ]
+            }
         },
         {
             "author": "editor@freakonomics.com (Freakonomics Radio + Stitcher)",
@@ -19864,8 +19971,8 @@
                     "Levitt",
                     "Dubner"
                 ],
-                "ORG": [
-                    "&quot;Freakonomics Experiments,&quot"
+                "WORK_OF_ART": [
+                    "Freakonomics Experiments"
                 ]
             }
         },
@@ -20005,7 +20112,7 @@
                     "Levitt",
                     "Dubner",
                     "Levitt",
-                    "Linda.</p"
+                    "Linda"
                 ],
                 "DATE": [
                     "\u2019 nights"
@@ -20528,16 +20635,17 @@
             "pubDate": "Wed, 5 Sep 2012 20:00:00 +0000",
             "title": "91. Can Selling Beer Cut Down on Public Drunkenness?",
             "entities": {
+                "ORG": [
+                    "Binge",
+                    "NFL",
+                    "West Virginia University"
+                ],
                 "PERSON": [
                     "Oliver Luck",
                     "Andrew"
                 ],
                 "CARDINAL": [
                     "1"
-                ],
-                "ORG": [
-                    "NFL",
-                    "West Virginia University"
                 ]
             }
         },
@@ -20679,7 +20787,11 @@
             "link": "http://freakonomics.com/",
             "pubDate": "Sun, 29 Jul 2012 12:00:00 +0000",
             "title": "86. Freakonomics Goes to College, Part 1",
-            "entities": {}
+            "entities": {
+                "DATE": [
+                    "these days"
+                ]
+            }
         },
         {
             "author": "editor@freakonomics.com (Freakonomics Radio + Stitcher)",
@@ -21046,11 +21158,7 @@
             "link": "http://freakonomics.com/",
             "pubDate": "Mon, 7 May 2012 14:00:00 +0000",
             "title": "74. Soul Possession",
-            "entities": {
-                "PERSON": [
-                    "n\u2019t yours?</p"
-                ]
-            }
+            "entities": {}
         },
         {
             "author": "editor@freakonomics.com (Freakonomics Radio + Stitcher)",
@@ -21201,9 +21309,6 @@
             "entities": {
                 "PERCENT": [
                     "94 percent"
-                ],
-                "PERSON": [
-                    "alarms?</p"
                 ]
             }
         },
@@ -21755,7 +21860,7 @@
             "title": "51. What Makes a Donor Donate?",
             "entities": {
                 "PERSON": [
-                    "John  List.</p"
+                    "John  List"
                 ]
             }
         },
@@ -22022,8 +22127,8 @@
             "pubDate": "Wed, 28 Sep 2011 06:08:00 +0000",
             "title": "42. The Upside of Quitting",
             "entities": {
-                "PERSON": [
-                    "Freakonomics Radio</em"
+                "ORG": [
+                    "Freakonomics Radio"
                 ]
             }
         },
@@ -22200,11 +22305,7 @@
             "link": "http://freakonomics.com/",
             "pubDate": "Wed, 6 Jul 2011 21:04:00 +0000",
             "title": "36. Hey Baby, Is That a Prius You're Driving?",
-            "entities": {
-                "PERSON": [
-                    "conservation&quot"
-                ]
-            }
+            "entities": {}
         },
         {
             "author": "editor@freakonomics.com (Freakonomics Radio + Stitcher)",
@@ -22236,8 +22337,8 @@
                 "ORG": [
                     "Freakonomics Radio"
                 ],
-                "PERSON": [
-                    "Quiz"
+                "EVENT": [
+                    "Quiz Bowl"
                 ]
             }
         },
@@ -22512,6 +22613,9 @@
                 ],
                 "DATE": [
                     "the past 100 years"
+                ],
+                "CARDINAL": [
+                    "zero"
                 ]
             }
         },
@@ -22674,11 +22778,7 @@
             "link": "http://freakonomics.com/",
             "pubDate": "Thu, 17 Feb 2011 00:42:00 +0000",
             "title": "22. Why Cities Rock",
-            "entities": {
-                "GPE": [
-                    "invention&quot"
-                ]
-            }
+            "entities": {}
         },
         {
             "author": "editor@freakonomics.com (Freakonomics Radio + Stitcher)",
@@ -22777,19 +22877,18 @@
             "pubDate": "Wed, 26 Jan 2011 15:52:00 +0000",
             "title": "19. Waiter, There\u2019s a Physicist in My Soup! (Part 1)",
             "entities": {
-                "ORG": [
-                    "The &quot;molecular gastronomy&quot"
-                ],
                 "DATE": [
                     "next month"
                 ],
-                "PERSON": [
-                    "quot;slow food&quot",
-                    "Alice Waters",
-                    "Nathan Myhrvold"
+                "WORK_OF_ART": [
+                    "Modernist Cuisine\""
                 ],
                 "CARDINAL": [
                     "two"
+                ],
+                "PERSON": [
+                    "Alice Waters",
+                    "Nathan Myhrvold"
                 ]
             }
         },
@@ -23089,6 +23188,9 @@
                     "NFL",
                     "Peyton Manning",
                     "Eli Manning"
+                ],
+                "PERSON": [
+                    "Tevye"
                 ]
             }
         },
@@ -23208,6 +23310,9 @@
                 ],
                 "DATE": [
                     "the fall season"
+                ],
+                "ORG": [
+                    "Freakonomics Radio"
                 ]
             }
         },

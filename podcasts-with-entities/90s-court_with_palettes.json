@@ -42,6 +42,9 @@
                 "DATE": [
                     "90s",
                     "the past 2.5 years"
+                ],
+                "PERSON": [
+                    "rad"
                 ]
             }
         },
@@ -128,16 +131,14 @@
                     "Lunchables",
                     "Kid Cuisine",
                     "Lisa",
-                    "Andy",
-                    "Goldeneye",
-                    "rad!</p"
+                    "Andy"
                 ],
                 "GPE": [
-                    "Chattahoochee"
+                    "Chattahoochee",
+                    "Goldeneye"
                 ],
                 "ORG": [
                     "90s Court",
-                    "Facebook and Twitter @90scourt",
                     "Instagram @90s.court"
                 ],
                 "CARDINAL": [
@@ -235,6 +236,7 @@
             "title": "Episode 95: Pepper Ann vs. Angela Anaconda",
             "entities": {
                 "ORG": [
+                    "90s Court",
                     "Angela Anaconda",
                     "Pepper Ann\u2019s",
                     "Nannette",
@@ -1941,6 +1943,7 @@
                     "Y2K"
                 ],
                 "PERSON": [
+                    "Lisa",
                     "Jennifer Lopez's",
                     "Andy"
                 ],
@@ -2464,6 +2467,9 @@
                     "This weeks",
                     "1977",
                     "2017"
+                ],
+                "LOC": [
+                    "https://earthsky.org/space/wow-signal-explained-comets-antonio-paris"
                 ]
             }
         },
@@ -2538,6 +2544,11 @@
             "pubDate": "Mon, 19 Oct 2020 12:00:00 GMT",
             "title": "Episode 56: Scream vs. I Know What You Did Last Summer",
             "entities": {
+                "PERSON": [
+                    "Spooky",
+                    "Lisa",
+                    "Andy"
+                ],
                 "DATE": [
                     "season",
                     "this week",
@@ -2553,10 +2564,6 @@
                 "CARDINAL": [
                     "two",
                     "about AtmosFear"
-                ],
-                "PERSON": [
-                    "Lisa",
-                    "Andy"
                 ],
                 "WORK_OF_ART": [
                     "Nine Inch Nail's",
@@ -2597,8 +2604,7 @@
                 ],
                 "ORG": [
                     "90s Court",
-                    "Drill &",
-                    "Fill",
+                    "Drill & Fill",
                     "Facebook and Twitter @90scourt",
                     "Instagram @90s.court"
                 ],
@@ -2715,11 +2721,12 @@
                     "Andy",
                     "Lisa"
                 ],
+                "WORK_OF_ART": [
+                    "Kiss From a Rose",
+                    "Sahy Uhns"
+                ],
                 "LOC": [
                     "Discovery Zone"
-                ],
-                "WORK_OF_ART": [
-                    "Sahy Uhns"
                 ]
             }
         },
@@ -2858,6 +2865,12 @@
             "pubDate": "Mon, 07 Sep 2020 12:00:00 GMT",
             "title": "Episode 50: Jurassic Park vs. Terminator 2: Judgment Day ",
             "entities": {
+                "ORG": [
+                    "90s Court",
+                    "the Thigh Master",
+                    "Facebook and Twitter @90scourt",
+                    "Instagram @90s.court"
+                ],
                 "CARDINAL": [
                     "5",
                     "two"
@@ -2873,11 +2886,6 @@
                 "WORK_OF_ART": [
                     "Theodore Rex",
                     "Sahy Uhns"
-                ],
-                "ORG": [
-                    "the Thigh Master",
-                    "Facebook and Twitter @90scourt",
-                    "Instagram @90s.court"
                 ],
                 "FAC": [
                     "Patreon"
@@ -2909,8 +2917,9 @@
             "pubDate": "Mon, 31 Aug 2020 12:00:00 GMT",
             "title": "Episode 49: Surge vs. Crystal Pepsi",
             "entities": {
-                "CARDINAL": [
-                    "3"
+                "DATE": [
+                    "Season 3 of 90s Court",
+                    "the 90s"
                 ],
                 "PERSON": [
                     "Surge",
@@ -2918,9 +2927,6 @@
                     "Andy",
                     "Mentos",
                     "Lisa"
-                ],
-                "DATE": [
-                    "the 90s"
                 ],
                 "FAC": [
                     "Patreon"
@@ -3229,6 +3235,13 @@
             "pubDate": "Mon, 29 Jun 2020 12:00:00 GMT",
             "title": "Episode 43: Men in Black vs. The Matrix",
             "entities": {
+                "ORG": [
+                    "90s Court",
+                    "Morpheus or Agents J",
+                    "SNES",
+                    "Facebook and Twitter @90scourt",
+                    "Instagram @90s.court"
+                ],
                 "CARDINAL": [
                     "two"
                 ],
@@ -3241,12 +3254,6 @@
                     "Andy",
                     "Sega",
                     "Lisa"
-                ],
-                "ORG": [
-                    "Morpheus or Agents J",
-                    "SNES",
-                    "Facebook and Twitter @90scourt",
-                    "Instagram @90s.court"
                 ],
                 "GPE": [
                     "Jurassic Park"
@@ -3338,6 +3345,11 @@
             "pubDate": "Mon, 15 Jun 2020 12:00:00 GMT",
             "title": "Episode 41: Hook vs. Jumanji",
             "entities": {
+                "ORG": [
+                    "90s Court",
+                    "Facebook and Twitter @90scourt",
+                    "Instagram @90s.court"
+                ],
                 "CARDINAL": [
                     "two"
                 ],
@@ -3358,10 +3370,6 @@
                 ],
                 "FAC": [
                     "Patreon"
-                ],
-                "ORG": [
-                    "Facebook and Twitter @90scourt",
-                    "Instagram @90s.court"
                 ],
                 "WORK_OF_ART": [
                     "Sahy Uhns"
@@ -3606,14 +3614,15 @@
             "pubDate": "Mon, 04 May 2020 12:00:00 GMT",
             "title": "Episode 36: The Little Mermaid vs. Beauty and the Beast",
             "entities": {
-                "DATE": [
-                    "this week"
-                ],
                 "ORG": [
+                    "Disney",
                     "90s Court",
                     "Jolt",
                     "Facebook and Twitter @90scourt",
                     "Instagram @90s.court"
+                ],
+                "DATE": [
+                    "this week"
                 ],
                 "CARDINAL": [
                     "Two"
@@ -4140,18 +4149,16 @@
             "pubDate": "Mon, 24 Feb 2020 13:00:00 GMT",
             "title": "Episode 26: Rugrats vs. Doug",
             "entities": {
-                "DATE": [
-                    "Season 2"
-                ],
-                "CARDINAL": [
-                    "two"
-                ],
                 "PERSON": [
+                    "Season 2",
                     "Nicktoons",
                     "Rugrats",
                     "Doug",
                     "Tommy Pickles",
                     "Doug Funnie"
+                ],
+                "CARDINAL": [
+                    "two"
                 ],
                 "ORG": [
                     "the Squiggle Wiggle Writer",
@@ -4551,10 +4558,11 @@
             "pubDate": "Mon, 16 Dec 2019 13:00:00 GMT",
             "title": "Episode 20: Home Alone vs. Home Alone 2",
             "entities": {
-                "GPE": [
-                    "Ahhhhhh",
-                    "New York",
-                    "Talkboy"
+                "ORG": [
+                    "Ahhhhhh!",
+                    "Trans-Siberian Orchestra",
+                    "Facebook and Twitter @90scourt",
+                    "Instagram @90s.court"
                 ],
                 "DATE": [
                     "this week"
@@ -4562,15 +4570,14 @@
                 "CARDINAL": [
                     "two"
                 ],
+                "GPE": [
+                    "New York",
+                    "Talkboy"
+                ],
                 "PERSON": [
                     "Kevin McCallister",
                     "Andy",
                     "Lisa"
-                ],
-                "ORG": [
-                    "Trans-Siberian Orchestra",
-                    "Facebook and Twitter @90scourt",
-                    "Instagram @90s.court"
                 ],
                 "FAC": [
                     "Patreon"
@@ -4657,6 +4664,15 @@
             "pubDate": "Mon, 02 Dec 2019 13:00:00 GMT",
             "title": "Episode 18: Screech vs. Urkel",
             "entities": {
+                "ORG": [
+                    "90s Court",
+                    "Family Matters",
+                    "Bell",
+                    "Mario Party",
+                    "N64",
+                    "Bell",
+                    "Instagram @90s.court"
+                ],
                 "DATE": [
                     "this week",
                     "the 90s"
@@ -4665,15 +4681,6 @@
                     "Screech",
                     "Andy",
                     "Lisa"
-                ],
-                "ORG": [
-                    "Family Matters",
-                    "Bell",
-                    "Mario Party",
-                    "N64",
-                    "Bell",
-                    "Facebook and Twitter @90scourt",
-                    "Instagram @90s.court"
                 ],
                 "CARDINAL": [
                     "one",
@@ -4806,6 +4813,10 @@
             "pubDate": "Mon, 04 Nov 2019 13:00:00 GMT",
             "title": "Episode 15: Spencers vs. Hot Topic",
             "entities": {
+                "PERSON": [
+                    "Dye",
+                    "Andy"
+                ],
                 "DATE": [
                     "This week",
                     "90s"
@@ -4817,9 +4828,6 @@
                     "Bart",
                     "Nightmare",
                     "Instagram @90s.court"
-                ],
-                "PERSON": [
-                    "Andy"
                 ],
                 "WORK_OF_ART": [
                     "Sahy Uhns"
@@ -4862,7 +4870,8 @@
                 ],
                 "ORG": [
                     "90s Court",
-                    "Simpson's Tree House of Horror"
+                    "Simpson's Tree House of Horror",
+                    "BEST"
                 ],
                 "PERSON": [
                     "Blair Witch",
@@ -5151,7 +5160,8 @@
                     "Lisa Frank",
                     "Andy",
                     "Lisa",
-                    "Marilyn Manson's"
+                    "Marilyn Manson's",
+                    "Beautiful People"
                 ],
                 "ORG": [
                     "Puppy Surprise",
@@ -5280,6 +5290,12 @@
             "pubDate": "Sat, 07 Sep 2019 19:07:02 GMT",
             "title": "Recess Minisode - Sept. 7, 2019",
             "entities": {
+                "ORG": [
+                    "Recess",
+                    "Ecco the Dolphin",
+                    "SEGA",
+                    "Instagram @90s.court"
+                ],
                 "WORK_OF_ART": [
                     "Where in the World is Carmen Sandiego",
                     "Facebook and Twitter @90sCourt",
@@ -5288,11 +5304,6 @@
                 "PERSON": [
                     "Andy",
                     "Andy"
-                ],
-                "ORG": [
-                    "Ecco the Dolphin",
-                    "SEGA",
-                    "Instagram @90s.court"
                 ]
             }
         },
@@ -5323,14 +5334,14 @@
             "entities": {
                 "ORG": [
                     "90s Court",
-                    "Facebook and Twitter @90scourt"
+                    "Facebook and Twitter @90scourt",
+                    "Instagram @90s.court"
                 ],
                 "CARDINAL": [
                     "two"
                 ],
                 "PERSON": [
-                    "Mortal Kombat",
-                    "Instagram @90s.court.&nbsp;</p>"
+                    "Mortal Kombat"
                 ],
                 "PRODUCT": [
                     "Twitter",
@@ -5499,11 +5510,8 @@
             "pubDate": "Mon, 12 Aug 2019 02:46:11 GMT",
             "title": "Episode 3 - The Sandlot vs. Rookie of the Year ",
             "entities": {
-                "CARDINAL": [
-                    "3",
-                    "90s.&nbsp;</p"
-                ],
                 "PERSON": [
+                    "Episode 3",
                     "Sandlot",
                     "Rookie",
                     "Singled Out"
@@ -5511,6 +5519,9 @@
                 "WORK_OF_ART": [
                     "Kiss / Marry / Kill",
                     "Sahy Uhns"
+                ],
+                "DATE": [
+                    "the 90s"
                 ],
                 "ORG": [
                     "Facebook @90sCourt"
@@ -5544,6 +5555,8 @@
                     "RECESS",
                     "OHH YEAHHH",
                     "Royal Rumble",
+                    "orange couch",
+                    "Nickelodeon",
                     "Facebook @90sCourt"
                 ],
                 "PERSON": [
@@ -5583,10 +5596,8 @@
             "pubDate": "Tue, 06 Aug 2019 02:23:54 GMT",
             "title": "Episode 2 - Tamagotchi vs. Furby ",
             "entities": {
-                "CARDINAL": [
-                    "2"
-                ],
                 "PERSON": [
+                    "Episode 2",
                     "Tamagotchi",
                     "Furby"
                 ],

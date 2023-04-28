@@ -31,12 +31,14 @@
             "pubDate": "Mon, 27 Jun 2022 04:01:00 +0000",
             "title": "9: Waiting for the Spirit in the Cape",
             "entities": {
-                "PERSON": [
-                    "Jamie"
-                ],
                 "ORG": [
+                    "Ghost Church",
                     "Cassadaga",
-                    "the Supreme Court"
+                    "Supreme Court"
+                ],
+                "PERSON": [
+                    "Jamie",
+                    "Find Uncle Dennis"
                 ],
                 "NORP": [
                     "American"
@@ -166,26 +168,25 @@
                     "Jamie",
                     "Olivia Woodward",
                     "George Colby's",
-                    "Follow Olivia's",
-                    "blog/2019",
-                    "blog/2019"
+                    "Follow Olivia's"
                 ],
                 "NORP": [
                     "American",
                     "Americans",
                     "Native",
                     "Mascogo",
-                    "Timucua",
-                    "Timucua-Indians",
-                    "Timucua-Indians"
+                    "Timucua"
                 ],
                 "TIME": [
                     "two hours"
                 ],
                 "ORG": [
+                    "Cassadaga",
                     "the Caddo Nation",
-                    "href=\"https://twitter.com/LivNative93\">https://twitter.com",
-                    "the Seneca Nation:&nbsp;<a href=\"hhttps://sni.org/\">https://sni.org/</a></p"
+                    "the Seneca Nation"
+                ],
+                "GPE": [
+                    "Miccosukee"
                 ]
             }
         },
@@ -293,17 +294,18 @@
                 ],
                 "PERSON": [
                     "Jamie",
-                    "Barbara Weisberg</p",
-                    "Lisa Morton</p",
-                    "Judith Wellman</p",
-                    "Susan Faludi</p><p"
+                    "Barbara Weisberg",
+                    "Lisa Morton",
+                    "Judith Wellman\r\nBacklash",
+                    "Susan FaludiSee"
                 ],
                 "ORG": [
                     "Spiritualist",
-                    "Fox"
-                ],
-                "EVENT": [
+                    "Fox",
                     "The Undeclared War Against American Women"
+                ],
+                "WORK_OF_ART": [
+                    "The Road to Seneca Falls"
                 ]
             }
         },

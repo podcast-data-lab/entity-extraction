@@ -52,7 +52,8 @@
                     "first"
                 ],
                 "DATE": [
-                    "one day"
+                    "one day",
+                    "late May"
                 ]
             }
         },
@@ -86,6 +87,7 @@
                 "PERSON": [
                     "Jay Shetty",
                     "Jay",
+                    "Radhi",
                     "Jay"
                 ],
                 "CARDINAL": [
@@ -94,6 +96,8 @@
                 ],
                 "NORP": [
                     "Hindu",
+                    "ashram",
+                    "ashram",
                     "ashram"
                 ],
                 "DATE": [
@@ -141,6 +145,9 @@
             "pubDate": "Wed, 29 Mar 2023 20:00:00 +0000",
             "title": "The Healing Power of Love (Island)",
             "entities": {
+                "CARDINAL": [
+                    "12"
+                ],
                 "GPE": [
                     "Spain"
                 ],
@@ -242,7 +249,8 @@
                 "PERSON": [
                     "Johnson",
                     "Nancy Cardwell",
-                    "Buenos Aires"
+                    "Buenos Aires",
+                    "Luis"
                 ],
                 "DATE": [
                     "23",
@@ -252,9 +260,6 @@
                 "PERCENT": [
                     "99 percent",
                     "1 percent"
-                ],
-                "ORG": [
-                    "Luis.</p"
                 ]
             }
         },
@@ -287,13 +292,13 @@
             "entities": {
                 "ORG": [
                     "Whole Foods",
-                    "Tiny Love Story.</p"
+                    "Tiny Love Story"
                 ],
                 "CARDINAL": [
                     "millions"
                 ],
                 "PERSON": [
-                    "Jessica"
+                    "Jessica Strange"
                 ],
                 "DATE": [
                     "These days"
@@ -385,8 +390,7 @@
                     "Annabelle"
                 ],
                 "CARDINAL": [
-                    "more than a dozen",
-                    "one"
+                    "more than a dozen"
                 ]
             }
         },
@@ -463,15 +467,13 @@
             "entities": {
                 "NORP": [
                     "ultra-Orthodox",
-                    "Hasidic",
-                    "jewish"
+                    "Hasidic"
                 ],
                 "PERSON": [
                     "Sara Glass",
                     "Anna Martin",
                     "God",
-                    "Sara",
-                    "Modern Love"
+                    "Sara"
                 ],
                 "ORDINAL": [
                     "first"
@@ -486,7 +488,11 @@
                     "two"
                 ],
                 "ORG": [
-                    "Sara's Modern Love"
+                    "Sara's Modern Love",
+                    "Modern Love"
+                ],
+                "TIME": [
+                    "afternoons"
                 ]
             }
         },
@@ -526,7 +532,8 @@
                 ],
                 "DATE": [
                     "2022",
-                    "weeks earlier"
+                    "weeks earlier",
+                    "2023"
                 ],
                 "LOC": [
                     "Atlantic"
@@ -612,10 +619,13 @@
                     "Terri",
                     "Dave",
                     "Janelle Funchess",
-                    "Judy"
+                    "Judy Mandell"
                 ],
                 "DATE": [
                     "Today"
+                ],
+                "WORK_OF_ART": [
+                    "Terri Cheney\u201cHe Had a \u2018Hunch\u2019 They\u2019d Get Hitched"
                 ]
             }
         },
@@ -646,14 +656,13 @@
             "pubDate": "Wed, 23 Nov 2022 21:00:00 +0000",
             "title": "Encore: When Two Open Marriages Collide",
             "entities": {
-                "DATE": [
-                    "Today",
-                    "the years"
-                ],
                 "PERSON": [
                     "Wayne Scott",
                     "Wayne",
                     "Elizabeth Thielman"
+                ],
+                "DATE": [
+                    "the years"
                 ]
             }
         },
@@ -685,19 +694,20 @@
             "title": "Falling for Your Sperm Donor",
             "entities": {
                 "NORP": [
-                    "Katharine",
                     "Katharine"
                 ],
                 "GPE": [
                     "South Dakota",
-                    "California"
+                    "California",
+                    "Michigan"
                 ],
                 "PERSON": [
                     "Katharine",
                     "Rex",
                     "Katharine",
                     "Anna Martin",
-                    "Rex"
+                    "Rex",
+                    "Katharine Dion"
                 ],
                 "DATE": [
                     "Today"
@@ -736,9 +746,10 @@
                     "Ari",
                     "Ari",
                     "Alix",
-                    "Ari Diaconis</li><li",
-                    "Ari Diaconis</a",
-                    "Alix"
+                    "Marry",
+                    "Ari",
+                    "Ari Diaconis",
+                    "Alix Diaconis"
                 ],
                 "GPE": [
                     "Dunia"
@@ -749,9 +760,6 @@
                 ],
                 "QUANTITY": [
                     "3,000-mile"
-                ],
-                "WORK_OF_ART": [
-                    "Was My World"
                 ]
             }
         },
@@ -836,6 +844,9 @@
                 "DATE": [
                     "Today",
                     "all these years"
+                ],
+                "WORK_OF_ART": [
+                    "Ma and Me"
                 ]
             }
         },
@@ -936,8 +947,7 @@
                     "first"
                 ],
                 "CARDINAL": [
-                    "two",
-                    "one"
+                    "two"
                 ]
             }
         },
@@ -1035,7 +1045,8 @@
                     "three"
                 ],
                 "DATE": [
-                    "22-year"
+                    "22-year",
+                    "many years later"
                 ]
             }
         },
@@ -1071,19 +1082,24 @@
                     "Diana",
                     "Anna Martin",
                     "Diana",
-                    "Diana",
-                    "Modern Love"
+                    "Diana"
                 ],
                 "ORG": [
                     "Modern Love",
-                    "Amazon"
+                    "Apple",
+                    "Amazon Music"
                 ],
                 "GPE": [
-                    "Manhattan"
+                    "Manhattan",
+                    "Spotify",
+                    "Stitcher"
                 ],
                 "DATE": [
                     "83-year-old",
                     "Wednesdays"
+                ],
+                "WORK_OF_ART": [
+                    "Love"
                 ]
             }
         },
@@ -1124,7 +1140,7 @@
                 "DATE": [
                     "seven months",
                     "A couple of years later",
-                    "years",
+                    "years ago",
                     "the summer"
                 ],
                 "GPE": [
@@ -1171,7 +1187,8 @@
                 "PERSON": [
                     "Meher Ahmad",
                     "Anna Martin",
-                    "Laura Pitcher"
+                    "Laura Pitcher",
+                    "Gen Z.Hey"
                 ],
                 "ORDINAL": [
                     "first"
@@ -1188,7 +1205,8 @@
                     "Today"
                 ],
                 "ORG": [
-                    "The New York Times"
+                    "The New York Times",
+                    "Modern Love"
                 ],
                 "LOC": [
                     "the Atlantic Ocean"
@@ -1225,7 +1243,7 @@
                 "DATE": [
                     "The year",
                     "2006",
-                    "Today"
+                    "\u201dToday"
                 ],
                 "PERSON": [
                     "Damon Young",
@@ -1280,11 +1298,13 @@
                 "PERSON": [
                     "Ayad Akhtar\u2019s",
                     "Ayad",
-                    "Ayad"
+                    "Ayad",
+                    "Ayad Akhtar"
                 ],
                 "GPE": [
                     "Pakistan",
-                    "n\u2019t"
+                    "n\u2019t",
+                    "America"
                 ],
                 "DATE": [
                     "the early \u201960s",
@@ -1300,9 +1320,6 @@
                 ],
                 "EVENT": [
                     "the 2013 Pulitzer Prize for Drama"
-                ],
-                "ORG": [
-                    "PEN America.</p"
                 ]
             }
         },
@@ -1338,7 +1355,7 @@
                     "4-year-old",
                     "Today",
                     "daily",
-                    "7 years"
+                    "7 years old"
                 ],
                 "PERSON": [
                     "Kevin Renn",
@@ -1355,7 +1372,7 @@
                 "QUANTITY": [
                     "over six feet"
                 ],
-                "ORG": [
+                "FAC": [
                     "Modern Love"
                 ]
             }
@@ -1446,14 +1463,13 @@
                     "Nora",
                     "Margaret Eginton Carmichael",
                     "Greg Carmichael",
-                    "Nora Johnson",
-                    "nora-johnson-dead",
-                    "target=\"_blank\">click here</a"
+                    "Nora Johnson"
                 ],
                 "DATE": [
                     "weekly",
                     "2014",
                     "Today",
+                    "their sixties",
                     "2017",
                     "84"
                 ],
@@ -1501,18 +1517,20 @@
             "pubDate": "Wed, 15 Jun 2022 20:00:00 +0000",
             "title": "A Younger Man",
             "entities": {
+                "PERSON": [
+                    "Heather von Rohr",
+                    "Nick",
+                    "Edgar"
+                ],
                 "GPE": [
                     "Los Angeles"
-                ],
-                "PERSON": [
-                    "Nick"
                 ],
                 "DATE": [
                     "13 years",
                     "Today"
                 ],
-                "WORK_OF_ART": [
-                    "target=\"_blank\">Edgar and Beatriz</a"
+                "ORG": [
+                    "Beatriz"
                 ],
                 "LOC": [
                     "Vows"
@@ -1550,6 +1568,7 @@
                     "Mansoor Adayfi",
                     "Guanta\u0301namo",
                     "Mansoor",
+                    "Mansoor",
                     "Anna Martin",
                     "Mansoor Adayfi",
                     "Found"
@@ -1561,14 +1580,16 @@
                     "today"
                 ],
                 "FAC": [
-                    "the Guanta\u0301namo Bay Naval Base"
+                    "the Guanta\u0301namo Bay Naval Base",
+                    "Guant\u00e1namo"
                 ],
                 "GPE": [
                     "Cuba",
                     "Yemen"
                 ],
                 "WORK_OF_ART": [
-                    "Guanta\u0301namo"
+                    "Guanta\u0301namo",
+                    "Don\u2019t Forget"
                 ],
                 "CARDINAL": [
                     "one",
@@ -1681,7 +1702,7 @@
                 ],
                 "ORG": [
                     "Modern Love",
-                    "Modern Love.</p"
+                    "Modern Love"
                 ],
                 "CARDINAL": [
                     "two"
@@ -1729,7 +1750,6 @@
                 ],
                 "GPE": [
                     "St. Louis",
-                    "cd96c5afa9d04832",
                     "Spotify"
                 ],
                 "CARDINAL": [
@@ -1904,6 +1924,7 @@
             "entities": {
                 "PERSON": [
                     "Genevieve Kingston",
+                    "Kingston",
                     "Kingston"
                 ],
                 "ORDINAL": [
@@ -1912,14 +1933,13 @@
                 ],
                 "DATE": [
                     "her final days",
-                    "today",
-                    "next-year"
-                ],
-                "ORG": [
-                    "Kingston"
+                    "today"
                 ],
                 "CARDINAL": [
                     "one"
+                ],
+                "ORG": [
+                    "Tiny Love Stories"
                 ]
             }
         },
@@ -2018,9 +2038,6 @@
                 ],
                 "NORP": [
                     "American"
-                ],
-                "ORG": [
-                    "href=\"http://nytimes.com"
                 ]
             }
         },
@@ -2053,27 +2070,23 @@
             "entities": {
                 "PERSON": [
                     "Hyla Sabesin Finn",
+                    "Hyla",
                     "Larry",
                     "Anna Martin",
                     "Hyla",
-                    "Larry"
+                    "Larry",
+                    "Modern Love"
                 ],
                 "DATE": [
                     "17",
                     "21-year-old",
                     "Today",
+                    "35 years",
                     "this year",
-                    "March 27.</i></p"
+                    "March 27"
                 ],
                 "WORK_OF_ART": [
                     "Modern Love"
-                ],
-                "CARDINAL": [
-                    "35"
-                ],
-                "ORG": [
-                    "Modern Love",
-                    "href=\"http://nytimes.com"
                 ],
                 "ORDINAL": [
                     "sixth"
@@ -2115,7 +2128,7 @@
                     "Andrew",
                     "Andrew",
                     "Sam",
-                    "Andrew\u2019s Muslim American",
+                    "Andrew\u2019s",
                     "Andrew",
                     "Sam",
                     "Oscar",
@@ -2124,7 +2137,8 @@
                 ],
                 "NORP": [
                     "Christian",
-                    "Indonesian"
+                    "Indonesian",
+                    "Muslim American"
                 ],
                 "DATE": [
                     "20",
@@ -2136,6 +2150,9 @@
                 ],
                 "FAC": [
                     "Modern Love"
+                ],
+                "CARDINAL": [
+                    "2011.According"
                 ],
                 "ORG": [
                     "Modern Love"
@@ -2175,8 +2192,7 @@
                     "589-8962"
                 ],
                 "PERSON": [
-                    "Anna Martin",
-                    "Click here</strong></a><strong"
+                    "Anna Martin"
                 ],
                 "CARDINAL": [
                     "one",
@@ -2187,7 +2203,11 @@
                     "Love"
                 ],
                 "ORG": [
-                    "Times"
+                    "Times",
+                    "Modern Love"
+                ],
+                "GPE": [
+                    "Spotify"
                 ]
             }
         },
@@ -2272,8 +2292,8 @@
                     "Ellen",
                     "Ellen",
                     "Ellen",
-                    "Ellen Umansky</li><li>\"Trusting",
-                    "Kim"
+                    "Ellen",
+                    "Kim Addonizio"
                 ],
                 "CARDINAL": [
                     "two",
@@ -2283,6 +2303,12 @@
                     "9",
                     "Today",
                     "today"
+                ],
+                "WORK_OF_ART": [
+                    "The Secret to Sibling Success"
+                ],
+                "ORG": [
+                    "Edge"
                 ]
             }
         },
@@ -2316,8 +2342,7 @@
                 "DATE": [
                     "2017",
                     "1918",
-                    "two-and-a-half minutes",
-                    "April"
+                    "two-and-a-half minutes"
                 ],
                 "ORDINAL": [
                     "first"
@@ -2334,7 +2359,8 @@
                 "PERSON": [
                     "Kerry Egan",
                     "Kerry",
-                    "Kerry Egan</li><li>\"If You Need Light"
+                    "Kerry Egan\"If You Need Light",
+                    "April Silva"
                 ],
                 "QUANTITY": [
                     "6-foot-one",
@@ -2373,7 +2399,7 @@
             "title": "When Two Open Marriages Collide",
             "entities": {
                 "PERSON": [
-                    "Wayne Scott",
+                    "Scott",
                     "Elizabeth Thielman",
                     "Wayne",
                     "Wayne",
@@ -2385,10 +2411,7 @@
                 ],
                 "DATE": [
                     "Today",
-                    "years"
-                ],
-                "CARDINAL": [
-                    "two"
+                    "the years"
                 ]
             }
         },
@@ -2428,12 +2451,13 @@
                 "PERSON": [
                     "Cameron Esposito",
                     "Cameron",
-                    "Cameron"
+                    "Cameron",
+                    "Gayle Brandeis"
                 ],
                 "ORG": [
                     "Boston City Hall",
                     "Modern Love",
-                    "Cameron Esposito</li><li>\"Here\u2019s a Chair for You"
+                    "Cameron"
                 ],
                 "ORDINAL": [
                     "first"
@@ -2448,6 +2472,9 @@
                 ],
                 "NORP": [
                     "lesbian"
+                ],
+                "WORK_OF_ART": [
+                    "New Hope"
                 ]
             }
         },
@@ -2495,8 +2522,7 @@
                 ],
                 "NORP": [
                     "Hindu",
-                    "un-American",
-                    "Hindu"
+                    "un-American"
                 ]
             }
         },
@@ -2580,8 +2606,8 @@
                     "Lorna",
                     "Lurline",
                     "Kadine",
-                    "Kadine Christie</li><li>\u201cAn Unexpected Sign",
-                    "Sarah Reynolds"
+                    "Kadine",
+                    "Sarah Reynolds Westin"
                 ],
                 "GPE": [
                     "Spalding",
@@ -2593,9 +2619,6 @@
                 "DATE": [
                     "40 years ago",
                     "today"
-                ],
-                "ORG": [
-                    "href=\"https://www.nytimes.com/2021/05/26"
                 ]
             }
         },
@@ -2775,9 +2798,9 @@
                 "PERSON": [
                     "Laura",
                     "Laura",
+                    "Featured stories:\u201cNo Sound",
                     "Laura",
-                    "Jennifer Byrne</li></ul><p><br",
-                    "Laura"
+                    "Jennifer ByrneLaura's"
                 ],
                 "DATE": [
                     "two decades"
@@ -2786,7 +2809,8 @@
                     "Colorado"
                 ],
                 "ORG": [
-                    "The New York Times"
+                    "The New York Times",
+                    "Android"
                 ]
             }
         },
@@ -2831,12 +2855,12 @@
                 "PERSON": [
                     "Paula",
                     "Jeff",
-                    "Paula McLain</li><li>\u201cA Sweet Reminder",
-                    "Paula"
+                    "Paula McLain\u201cA",
+                    "Sweet Reminder",
+                    "Meg ChristmanPaula's",
+                    "Android"
                 ],
                 "ORG": [
-                    "Meg Christman</li></ul><p><br",
-                    "Audm.</em><a",
                     "The New York Times"
                 ]
             }
@@ -2879,13 +2903,14 @@
                 ],
                 "PERSON": [
                     "Courtney Queeney",
-                    "Courtney",
                     "String",
-                    "Courtney"
+                    "Eliza RudalevigeCourtney's",
+                    "Android",
+                    "RSVP"
                 ],
                 "ORG": [
                     "Courtney",
-                    "Audm.</em><a",
+                    "Courtney",
                     "The New York Times",
                     "New York Times",
                     "Modern Love"
@@ -2898,9 +2923,6 @@
                 ],
                 "WORK_OF_ART": [
                     "Tiny Love Stories"
-                ],
-                "LAW": [
-                    "Article\" target=\"_blank\">RSVP here</a>.</p>\n"
                 ]
             }
         },
@@ -2937,10 +2959,11 @@
                     "Bette",
                     "Bette",
                     "Bette",
+                    "Featured stories:\u201cWidow Walks",
                     "Finds Hope",
                     "Bette Ann",
-                    "Alicia Gabe</li></ul><p><br",
-                    "Bette"
+                    "Alicia GabeBette's",
+                    "Android"
                 ],
                 "GPE": [
                     "Brooklyn",
@@ -2952,7 +2975,6 @@
                     "today"
                 ],
                 "ORG": [
-                    "Audm.</em><a",
                     "The New York Times"
                 ]
             }
@@ -2995,8 +3017,8 @@
                     "Sarah",
                     "Sarah",
                     "Andrew",
-                    "Andrew Lee</li><li>\u201cManic",
-                    "Andrew"
+                    "Andrew",
+                    "Jerico MandyburAndrew\u2019s"
                 ],
                 "ORDINAL": [
                     "first"
@@ -3019,7 +3041,8 @@
                     "Today"
                 ],
                 "ORG": [
-                    "The New York Times"
+                    "The New York Times",
+                    "Android"
                 ]
             }
         },
@@ -3061,7 +3084,10 @@
                     "Liz",
                     "Sarah",
                     "Liz",
-                    "Liz"
+                    "Featured stories:\u201cFlying Close to Temptation",
+                    "Liz",
+                    "E.J. SchwartzLiz's",
+                    "Android"
                 ],
                 "GPE": [
                     "New York City",
@@ -3077,9 +3103,7 @@
                     "The New York Times"
                 ],
                 "WORK_OF_ART": [
-                    "Featured stories:</p><ul><li>\u201cFlying Close to Temptation",
-                    "Liz Parker</li><li>\u201cWhat Love Feels Like",
-                    "E.J. Schwartz</li></ul><p><br"
+                    "Love Feels Like"
                 ]
             }
         },
@@ -3122,8 +3146,7 @@
                     "Dusty",
                     "Dusty",
                     "Timothy",
-                    "Timothy Braun</li></ul><p><br",
-                    "Timothy"
+                    "Timothy BraunTimothy's"
                 ],
                 "GPE": [
                     "Texas"
@@ -3137,7 +3160,8 @@
                     "She Wanted a Man With a Good Job Who Was Nice to Animals"
                 ],
                 "ORG": [
-                    "The New York Times"
+                    "The New York Times",
+                    "Android"
                 ]
             }
         },
@@ -3174,7 +3198,7 @@
                     "Malcolm Conner",
                     "Malcolm",
                     "Malcolm",
-                    "Malcolm"
+                    "Android"
                 ],
                 "DATE": [
                     "age 15",
@@ -3182,11 +3206,14 @@
                     "today"
                 ],
                 "ORG": [
-                    "Featured stories:</p><ul><li>\u201cThe Physics of Forbidden Love",
+                    "Featured stories:\u201cThe Physics of Forbidden Love",
                     "The New York Times"
                 ],
                 "GPE": [
                     "Train"
+                ],
+                "WORK_OF_ART": [
+                    "Cecilia PesaoMalcolm\u2019s"
                 ]
             }
         },
@@ -3225,18 +3252,20 @@
                 "GPE": [
                     "New York City"
                 ],
+                "ORDINAL": [
+                    "first"
+                ],
                 "DATE": [
-                    "their first date",
                     "Today"
                 ],
                 "PERSON": [
                     "Never Happened for Him",
-                    "Kathryn"
+                    "Kathryn Jarvis\u201cFirefighter",
+                    "Marlena BrownMarlena's"
                 ],
                 "ORG": [
-                    "Marlena Brown</li></ul><p><br",
-                    "Marlena",
-                    "The New York Times"
+                    "The New York Times",
+                    "Android"
                 ]
             }
         },
@@ -3274,18 +3303,18 @@
                 ],
                 "ORG": [
                     "Modern Love",
-                    "Maggie",
                     "The New York Times"
                 ],
                 "CARDINAL": [
                     "two"
                 ],
                 "PERSON": [
-                    "Featured stories:</p><ul><li>\u201cBye Bye \u2018Family\u2019 Minivan",
-                    "Kyrie"
+                    "Featured stories:\u201cBye Bye \u2018Family\u2019 Minivan",
+                    "Maggie SmithMaggie\u2019s",
+                    "Android"
                 ],
                 "WORK_OF_ART": [
-                    "the Demise of My Marriage on Google Maps"
+                    "Kyrie Robinson\u201cTracking the Demise of My Marriage on Google Maps"
                 ],
                 "DATE": [
                     "today"
@@ -3326,7 +3355,8 @@
                 ],
                 "DATE": [
                     "this season",
-                    "Oct. 14"
+                    "Oct. 14",
+                    "every Wednesday"
                 ],
                 "ORDINAL": [
                     "first"
@@ -3411,6 +3441,9 @@
                 ],
                 "WORK_OF_ART": [
                     "Sex Education"
+                ],
+                "GPE": [
+                    "Netflix"
                 ]
             }
         },
@@ -3447,6 +3480,9 @@
                     "Lorraine Toussaint",
                     "Kim McLarin",
                     "Kim"
+                ],
+                "WORK_OF_ART": [
+                    "The Glorias"
                 ]
             }
         },
@@ -3481,11 +3517,11 @@
             "entities": {
                 "PERSON": [
                     "Hasan Minhaj",
-                    "Hasan Minhaj&quot",
+                    "Hasan Minhaj",
                     "Brian Goedde's"
                 ],
                 "LAW": [
-                    "&quot;Patriot Act"
+                    "Patriot Act"
                 ]
             }
         },
@@ -3521,6 +3557,9 @@
                 "PERSON": [
                     "Saoirse Ronan"
                 ],
+                "WORK_OF_ART": [
+                    "Little Women"
+                ],
                 "NORP": [
                     "Iraqi"
                 ]
@@ -3555,13 +3594,14 @@
             "pubDate": "Wed, 20 May 2020 19:07:27 +0000",
             "title": "How \u2018Lolita\u2019 Freed Me From My Own Humbert | With Jameela Jamil",
             "entities": {
-                "PERSON": [
-                    "Vladimir Nabokov",
-                    "Bindu Bansinath",
-                    "Jamil"
+                "WORK_OF_ART": [
+                    "Lolita",
+                    "I Weigh"
                 ],
-                "GPE": [
-                    "Jameela"
+                "PERSON": [
+                    "Vladimir Nabokov\u2019s",
+                    "Bindu Bansinath",
+                    "Jameela Jamil"
                 ]
             }
         },
@@ -3596,7 +3636,7 @@
             "entities": {
                 "DATE": [
                     "today",
-                    "several months"
+                    "several months ago"
                 ]
             }
         },
@@ -3674,6 +3714,9 @@
                 "PERSON": [
                     "Daisy Edgar-Jones",
                     "Kyleigh Leddy's"
+                ],
+                "WORK_OF_ART": [
+                    "Normal People"
                 ]
             }
         },
@@ -3709,6 +3752,9 @@
                 "PERSON": [
                     "Laura Prepon",
                     "Sara Eckel's"
+                ],
+                "WORK_OF_ART": [
+                    "You And I, As Mothers"
                 ]
             }
         },
@@ -3743,9 +3789,6 @@
             "entities": {
                 "ORG": [
                     "COVID-19"
-                ],
-                "CARDINAL": [
-                    "one"
                 ]
             }
         },
@@ -3785,7 +3828,7 @@
                     "first"
                 ],
                 "WORK_OF_ART": [
-                    "Sugar Calling.&quot; Hear Cheryl Strayed"
+                    "Sugar Calling"
                 ],
                 "PERSON": [
                     "George Saunders"
@@ -3824,6 +3867,9 @@
                 "PERSON": [
                     "David Finch",
                     "Daniel Radcliffe"
+                ],
+                "WORK_OF_ART": [
+                    "Unbreakable Kimmy Schmidt"
                 ],
                 "GPE": [
                     "Netflix"
@@ -3892,10 +3938,9 @@
                 "PERSON": [
                     "Karla Derus",
                     "Karla",
+                    "Uzo Aduba",
+                    "America",
                     "Karla"
-                ],
-                "ORG": [
-                    "Uzo Aduba (&quot;Mrs"
                 ]
             }
         },
@@ -3930,6 +3975,9 @@
             "entities": {
                 "PERSON": [
                     "Ali Fazal"
+                ],
+                "GPE": [
+                    "Victoria"
                 ]
             }
         },
@@ -3963,8 +4011,13 @@
             "title": "Modern Love Presents: Shipwrecked",
             "entities": {
                 "ORG": [
-                    "WBUR",
-                    "&quot;Endless Thread.&quot"
+                    "WBUR"
+                ],
+                "PERSON": [
+                    "Endless Thread"
+                ],
+                "WORK_OF_ART": [
+                    "Endless Thread"
                 ]
             }
         },
@@ -4000,11 +4053,14 @@
                 "PERSON": [
                     "Gugu Mbatha-Raw"
                 ],
+                "WORK_OF_ART": [
+                    "The Morning Show"
+                ],
                 "CARDINAL": [
                     "two"
                 ],
                 "GPE": [
-                    "Notting"
+                    "Notting Hill"
                 ]
             }
         },
@@ -4037,11 +4093,12 @@
             "pubDate": "Wed, 4 Mar 2020 18:32:33 +0000",
             "title": "The Kindness, And Xanax, Of Strangers | With Lesley Manville",
             "entities": {
-                "ORG": [
-                    "Manville"
-                ],
                 "PERSON": [
+                    "Lesley Manville",
                     "Sally Hoskins"
+                ],
+                "WORK_OF_ART": [
+                    "Ordinary Love"
                 ]
             }
         },
@@ -4079,6 +4136,9 @@
                 ],
                 "ORG": [
                     "HBO"
+                ],
+                "WORK_OF_ART": [
+                    "Succession"
                 ]
             }
         },
@@ -4117,6 +4177,9 @@
                 "PERSON": [
                     "Nick Kroll",
                     "Tim Kreider's"
+                ],
+                "WORK_OF_ART": [
+                    "Olympic Dreams"
                 ]
             }
         },
@@ -4193,8 +4256,12 @@
                 "ORG": [
                     "NBC"
                 ],
+                "WORK_OF_ART": [
+                    "This Is Us",
+                    "A Beautiful Day"
+                ],
                 "DATE": [
-                    "years"
+                    "years later"
                 ]
             }
         },
@@ -4267,7 +4334,10 @@
                     "Evan James"
                 ],
                 "ORG": [
-                    "&quot;Queer Eye,&quot"
+                    "Queer Eye"
+                ],
+                "WORK_OF_ART": [
+                    "Next in Fashion"
                 ]
             }
         },
@@ -4340,6 +4410,9 @@
             "entities": {
                 "PERSON": [
                     "Rebecca Hall"
+                ],
+                "WORK_OF_ART": [
+                    "The Night House"
                 ]
             }
         },
@@ -4374,8 +4447,11 @@
             "entities": {
                 "PERSON": [
                     "Jenny Slate",
-                    "Catherine Down",
-                    "home.</p"
+                    "Catherine Down"
+                ],
+                "WORK_OF_ART": [
+                    "Stage Fright",
+                    "Little Weirds"
                 ]
             }
         },
@@ -4548,11 +4624,13 @@
                 "PERSON": [
                     "Jennifer Mascia",
                     "Ruth Wilson",
-                    "quot;His Dark",
                     "Jennifer"
                 ],
                 "ORG": [
                     "HBO"
+                ],
+                "WORK_OF_ART": [
+                    "His Dark Materials"
                 ]
             }
         },
@@ -4598,6 +4676,9 @@
                 ],
                 "CARDINAL": [
                     "15"
+                ],
+                "WORK_OF_ART": [
+                    "Show Me Love"
                 ]
             }
         },
@@ -4633,6 +4714,9 @@
                 "PERSON": [
                     "Greta Gerwig",
                     "Julia Anne Miller's"
+                ],
+                "WORK_OF_ART": [
+                    "Little Women"
                 ],
                 "GPE": [
                     "New York City"
@@ -4709,7 +4793,10 @@
             "title": "Waiting For The Wall To Crumble | With Kelly McCreary",
             "entities": {
                 "ORG": [
-                    "Kelly McCreary (&quot;Grey's"
+                    "Kelly McCreary"
+                ],
+                "WORK_OF_ART": [
+                    "Grey's Anatomy"
                 ],
                 "DATE": [
                     "decades"
@@ -4785,8 +4872,14 @@
             "pubDate": "Wed, 30 Oct 2019 18:37:24 +0000",
             "title": "We'll Meet Again In Five Years | With Regina King",
             "entities": {
+                "PERSON": [
+                    "Regina King"
+                ],
                 "ORG": [
                     "HBO"
+                ],
+                "PRODUCT": [
+                    "Watchmen"
                 ],
                 "DATE": [
                     "several years"
@@ -4823,16 +4916,20 @@
             "title": "Words With (I Wish We Were More Than) Friends | With Ben Platt",
             "entities": {
                 "GPE": [
-                    "Nevada"
+                    "Nevada",
+                    "Netflix"
                 ],
                 "ORG": [
                     "Justin Race",
-                    "Words With Friends.<br />",
+                    "Words With Friends",
                     "Justin"
                 ],
                 "PERSON": [
                     "Tony",
                     "Ben Platt"
+                ],
+                "WORK_OF_ART": [
+                    "The Politician"
                 ]
             }
         },
@@ -4868,6 +4965,9 @@
                 "PERSON": [
                     "Marisa Tomei",
                     "Judith Newman"
+                ],
+                "WORK_OF_ART": [
+                    "The Rose Tattoo"
                 ]
             }
         },
@@ -4955,8 +5055,11 @@
                 "PERSON": [
                     "Peter Sarsgaard"
                 ],
-                "PERCENT": [
-                    "more than 30 years.</p"
+                "WORK_OF_ART": [
+                    "The Sound of Silence"
+                ],
+                "DATE": [
+                    "more than 30 years"
                 ]
             }
         },
@@ -5000,7 +5103,7 @@
                 ],
                 "CARDINAL": [
                     "ten",
-                    "23andMe.<br"
+                    "23andMe"
                 ],
                 "ORG": [
                     "NBC"
@@ -5112,7 +5215,6 @@
             "title": "Seeing The World Through My Wife's Eyes With David Oyelowo | Encore",
             "entities": {
                 "PERSON": [
-                    "Go&quot",
                     "David Oyelowo"
                 ]
             }
@@ -5154,7 +5256,11 @@
                     "Anita",
                     "Miriam Shor"
                 ],
-                "ORG": [
+                "WORK_OF_ART": [
+                    "My Platonic Romance on the Psych Ward",
+                    "Lost Girls"
+                ],
+                "GPE": [
                     "Netflix"
                 ]
             }
@@ -5228,6 +5334,9 @@
             "entities": {
                 "PERSON": [
                     "Nikolaj Coster-Waldau"
+                ],
+                "WORK_OF_ART": [
+                    "Game of Thrones"
                 ]
             }
         },
@@ -5267,8 +5376,11 @@
                     "Amanda Gefter",
                     "Logan Browning"
                 ],
-                "GPE": [
+                "ORG": [
                     "Netflix"
+                ],
+                "WORK_OF_ART": [
+                    "Dear White People"
                 ]
             }
         },
@@ -5302,7 +5414,8 @@
             "title": "Could We Try Again? | With Marcia Cross",
             "entities": {
                 "PERSON": [
-                    "Meredith Hall"
+                    "Meredith Hall",
+                    "Marcia Cross"
                 ],
                 "DATE": [
                     "the year",
@@ -5312,9 +5425,9 @@
                     "1987",
                     "the year"
                 ],
-                "ORG": [
-                    "Marcia Cross",
-                    "&quot;Desperate Housewives,&quot"
+                "WORK_OF_ART": [
+                    "Desperate Housewives",
+                    "Quantico"
                 ]
             }
         },
@@ -5351,10 +5464,11 @@
                     "week"
                 ],
                 "PERSON": [
-                    "Mariclare Lawson"
-                ],
-                "ORG": [
+                    "Mariclare Lawson",
                     "Amanda Seyfried"
+                ],
+                "WORK_OF_ART": [
+                    "The Art of Racing in the Rain"
                 ]
             }
         },
@@ -5388,7 +5502,11 @@
             "title": "At What Age Is Love Enthralling? | With Jessica Walter",
             "entities": {
                 "PERSON": [
-                    "Jessica Walter"
+                    "Jessica Walter",
+                    "Archer"
+                ],
+                "WORK_OF_ART": [
+                    "Arrested Development"
                 ],
                 "ORG": [
                     "Sophy Burnham"
@@ -5425,14 +5543,15 @@
             "title": "A Tattoo For The Living | With Zosia Mamet",
             "entities": {
                 "PERSON": [
-                    "Alana Dakin"
+                    "Alana Dakin",
+                    "Zosia Mamet"
                 ],
                 "CARDINAL": [
                     "about two"
                 ],
-                "ORG": [
-                    "Living&quot",
-                    "Zosia Mamet"
+                "WORK_OF_ART": [
+                    "A Tattoo for the Living",
+                    "Tales of the City"
                 ]
             }
         },
@@ -5471,6 +5590,10 @@
                 ],
                 "ORG": [
                     "CBS"
+                ],
+                "WORK_OF_ART": [
+                    "Life in Pieces",
+                    "Band-Aid"
                 ]
             }
         },
@@ -5506,9 +5629,6 @@
                 "PERSON": [
                     "Zachary Quinto",
                     "Bob Morris's"
-                ],
-                "ORG": [
-                    "(&quot;NOS4A2&quot"
                 ]
             }
         },
@@ -5543,6 +5663,7 @@
             "entities": {
                 "PERSON": [
                     "John Cameron Mitchell",
+                    "Anthem",
                     "Ephi Stempler's"
                 ]
             }
@@ -5611,9 +5732,13 @@
             "title": "Misery Loves Fried Chicken | With William Jackson Harper",
             "entities": {
                 "PERSON": [
-                    "Taylor Swift albums?<br /",
+                    "Taylor Swift",
                     "William Jackson Harper",
+                    "Midsommar",
                     "Mark McDevitt's"
+                ],
+                "WORK_OF_ART": [
+                    "The Good Place"
                 ],
                 "CARDINAL": [
                     "about two"
@@ -5661,6 +5786,9 @@
                 ],
                 "ORG": [
                     "Academy Award"
+                ],
+                "WORK_OF_ART": [
+                    "Perpetual Grace, LTD"
                 ]
             }
         },
@@ -5699,6 +5827,9 @@
                 "PERSON": [
                     "Ginnifer Goodwin",
                     "Monica Wesolowska's"
+                ],
+                "WORK_OF_ART": [
+                    "The Twilight Zone"
                 ]
             }
         },
@@ -5739,6 +5870,9 @@
                 ],
                 "ORG": [
                     "Lake Bell"
+                ],
+                "WORK_OF_ART": [
+                    "Bless this Mess"
                 ]
             }
         },
@@ -5774,6 +5908,7 @@
                 "PERSON": [
                     "Elizabeth Koster",
                     "Sarah Goldberg",
+                    "Barry",
                     "Elizabeth"
                 ],
                 "ORG": [
@@ -5813,6 +5948,10 @@
                 "PERSON": [
                     "Pedro Pascal"
                 ],
+                "WORK_OF_ART": [
+                    "\"King Lear",
+                    "Game of Thrones"
+                ],
                 "ORG": [
                     "Jamison"
                 ]
@@ -5848,7 +5987,9 @@
             "title": "Talking to My Fianc\u00e9 About My New Girlfriend | With DeWanda Wise",
             "entities": {
                 "ORG": [
-                    "Sophie Lucido Johnson's",
+                    "Sophie Lucido Johnson's"
+                ],
+                "PERSON": [
                     "DeWanda Wise"
                 ]
             }
@@ -5885,6 +6026,9 @@
                 "PERSON": [
                     "Kim McLarin",
                     "Lorraine Toussaint"
+                ],
+                "WORK_OF_ART": [
+                    "The Village"
                 ]
             }
         },
@@ -5919,6 +6063,9 @@
             "entities": {
                 "PERSON": [
                     "Anna Chlumsky"
+                ],
+                "WORK_OF_ART": [
+                    "Veep"
                 ],
                 "ORG": [
                     "Brooks Rinehart's"
@@ -5971,6 +6118,9 @@
                 "LOC": [
                     "the Upper East Side"
                 ],
+                "WORK_OF_ART": [
+                    "Russian Doll"
+                ],
                 "DATE": [
                     "76-year-old"
                 ]
@@ -6005,11 +6155,12 @@
             "pubDate": "Wed, 27 Mar 2019 19:57:55 +0000",
             "title": "Comfort, If Not A Cure | With Nazanin Boniadi",
             "entities": {
-                "ORG": [
-                    "Nazanin Boniadi"
-                ],
                 "PERSON": [
+                    "Nazanin Boniadi",
                     "Tara Ebrahimi's"
+                ],
+                "WORK_OF_ART": [
+                    "Hotel Mumbai"
                 ]
             }
         },
@@ -6045,6 +6196,9 @@
                 "PERSON": [
                     "Catherine O'Hara",
                     "Patricia Morrisroe's"
+                ],
+                "WORK_OF_ART": [
+                    "Schitt's Creek"
                 ]
             }
         },
@@ -6079,7 +6233,7 @@
             "entities": {
                 "PERSON": [
                     "Jenny McPhee",
-                    "Zoe Saldana.</p"
+                    "Zoe Saldana"
                 ],
                 "CARDINAL": [
                     "about one"
@@ -6191,8 +6345,14 @@
                     "Ryan Pfeffer",
                     "William Jackson Harper"
                 ],
+                "WORK_OF_ART": [
+                    "The Good Place"
+                ],
                 "ORG": [
                     "the Huntington Avenue Theatre"
+                ],
+                "GPE": [
+                    "Boston"
                 ]
             }
         },
@@ -6228,16 +6388,17 @@
                 "DATE": [
                     "Last week",
                     "Today",
-                    "last summer"
+                    "last summer",
+                    "today"
                 ],
                 "PERSON": [
-                    "Amy Krouse Rosenthal -- &",
-                    "Marry",
+                    "Amy Krouse Rosenthal",
+                    "Marry my Husband",
                     "Jason",
                     "Jason"
                 ],
-                "ORG": [
-                    "Holland of &quot;High Flying"
+                "GPE": [
+                    "Holland"
                 ]
             }
         },
@@ -6307,15 +6468,20 @@
             "entities": {
                 "ORG": [
                     "the 91st",
-                    "Academy Awards",
-                    "Rachel Weisz of &quot;The",
-                    "&quot;At Eternity's"
+                    "Academy Awards"
                 ],
                 "CARDINAL": [
                     "two"
                 ],
                 "PERSON": [
+                    "Rachel Weisz",
                     "Willem Dafoe"
+                ],
+                "WORK_OF_ART": [
+                    "\"The Favourite"
+                ],
+                "FAC": [
+                    "Eternity's Gate"
                 ]
             }
         },
@@ -6352,10 +6518,11 @@
                     "week"
                 ],
                 "PERSON": [
-                    "Ann Leary"
-                ],
-                "ORG": [
+                    "Ann Leary",
                     "Connie Nielsen"
+                ],
+                "WORK_OF_ART": [
+                    "I Am the Night"
                 ]
             }
         },
@@ -6399,7 +6566,8 @@
                     "first"
                 ],
                 "EVENT": [
-                    "the Bosnian War"
+                    "the Bosnian War",
+                    "Cold War"
                 ]
             }
         },
@@ -6435,6 +6603,9 @@
                 "PERSON": [
                     "Emily Listfield",
                     "Carmen Ejogo"
+                ],
+                "WORK_OF_ART": [
+                    "True Detective"
                 ]
             }
         },
@@ -6575,8 +6746,13 @@
             "title": "The Shirt Stays On | With Finn Wittrock",
             "entities": {
                 "ORG": [
-                    "Jameson Rich",
-                    "Finn Wittrock"
+                    "Jameson Rich"
+                ],
+                "PERSON": [
+                    "Finn"
+                ],
+                "WORK_OF_ART": [
+                    "Write When You Get Work"
                 ]
             }
         },
@@ -6620,6 +6796,9 @@
                 ],
                 "PERSON": [
                     "Stanley Tucci"
+                ],
+                "WORK_OF_ART": [
+                    "A Private War"
                 ]
             }
         },
@@ -6655,6 +6834,9 @@
                 "PERSON": [
                     "Doris Iarovici",
                     "Michelle Rodriguez"
+                ],
+                "WORK_OF_ART": [
+                    "Widows"
                 ]
             }
         },
@@ -6693,6 +6875,9 @@
                 ],
                 "GPE": [
                     "Bhutan"
+                ],
+                "WORK_OF_ART": [
+                    "StartUp"
                 ]
             }
         },
@@ -6798,7 +6983,7 @@
             "entities": {
                 "PERSON": [
                     "Cindy Chupack",
-                    "Amy Landecker.</p"
+                    "Amy Landecker"
                 ]
             }
         },
@@ -6837,6 +7022,9 @@
                 ],
                 "ORG": [
                     "HBO"
+                ],
+                "WORK_OF_ART": [
+                    "The Wire"
                 ]
             }
         },
@@ -6872,6 +7060,9 @@
                 "PERSON": [
                     "Tim Elhajj",
                     "John C. Reilly"
+                ],
+                "ORG": [
+                    "The Sisters Brothers"
                 ]
             }
         },
@@ -6909,6 +7100,9 @@
                 ],
                 "ORG": [
                     "Kristen Bell"
+                ],
+                "WORK_OF_ART": [
+                    "The Good Place"
                 ]
             }
         },
@@ -6944,6 +7138,9 @@
                 "PERSON": [
                     "Victoria Redel",
                     "Rita Wilson"
+                ],
+                "WORK_OF_ART": [
+                    "Bigger Picture"
                 ]
             }
         },
@@ -6982,6 +7179,9 @@
                 "PERSON": [
                     "Olivia Munn",
                     "Marina Shifrin's"
+                ],
+                "WORK_OF_ART": [
+                    "The Predator"
                 ]
             }
         },
@@ -7023,8 +7223,8 @@
                 "GPE": [
                     "Boston"
                 ],
-                "PERSON": [
-                    "Stewart Gardner"
+                "ORG": [
+                    "Isabella Stewart Gardner"
                 ]
             }
         },
@@ -7064,6 +7264,9 @@
                 "PERSON": [
                     "Lloyd Zimmerman",
                     "Giancarlo Esposito"
+                ],
+                "WORK_OF_ART": [
+                    "Better Call Saul"
                 ]
             }
         },
@@ -7130,15 +7333,12 @@
             "pubDate": "Tue, 4 Sep 2018 12:56:37 +0000",
             "title": "Modern Love Playlist: In Sickness And In Health",
             "entities": {
-                "GPE": [
-                    "health&quot"
-                ],
                 "PERSON": [
                     "Michael Shannon",
                     "Sarah Silverman",
                     "Chris Messina",
                     "Rebecca Hall",
-                    "Patina Miller.</p"
+                    "Patina Miller"
                 ]
             }
         },
@@ -7180,6 +7380,9 @@
                 "PERSON": [
                     "Danielle Brooks",
                     "Cynthia Nixon"
+                ],
+                "GPE": [
+                    "Uma Thurman"
                 ]
             }
         },
@@ -7215,6 +7418,9 @@
                 "PERSON": [
                     "Gabrielle Zevin",
                     "Sandra Oh"
+                ],
+                "WORK_OF_ART": [
+                    "Killing Eve"
                 ]
             }
         },
@@ -7252,8 +7458,10 @@
                     "one"
                 ],
                 "ORG": [
-                    "WBUR",
-                    "&quot;Endless Thread.&quot"
+                    "WBUR"
+                ],
+                "WORK_OF_ART": [
+                    "Endless Thread"
                 ],
                 "GPE": [
                     "Woodstock"
@@ -7296,8 +7504,9 @@
                     "Awkwafina",
                     "Sarah Moses's"
                 ],
-                "ORG": [
-                    "&quot;Oceans Eight&quot"
+                "WORK_OF_ART": [
+                    "Crazy Rich Asians",
+                    "Oceans Eight"
                 ]
             }
         },
@@ -7333,6 +7542,9 @@
                 "PERSON": [
                     "Susan Perabo",
                     "Ellie Kemper"
+                ],
+                "WORK_OF_ART": [
+                    "Unbreakable Kimmy Schmidt"
                 ]
             }
         },
@@ -7406,6 +7618,9 @@
                 "PERSON": [
                     "Peter Goodman",
                     "Mike Colter"
+                ],
+                "WORK_OF_ART": [
+                    "Luke Cage"
                 ]
             }
         },
@@ -7439,10 +7654,11 @@
             "title": "A Hiker\u2019s Guide to Healing | With Cameron Esposito",
             "entities": {
                 "ORG": [
+                    "Aspen Matis",
                     "the Pacific Crest Trail"
                 ],
                 "PERSON": [
-                    "Cameron Esposito.</p"
+                    "Cameron Esposito"
                 ]
             }
         },
@@ -7481,10 +7697,14 @@
                 "PERSON": [
                     "Kalle Oskari Mattila",
                     "Pamela Anderson",
-                    "Cory Michael Smith"
+                    "Cory Michael Smith",
+                    "Gotham"
                 ],
-                "FAC": [
-                    "the Provincetown Film"
+                "DATE": [
+                    "1985"
+                ],
+                "LAW": [
+                    "the Provincetown Film Festival"
                 ]
             }
         },
@@ -7517,6 +7737,9 @@
             "pubDate": "Tue, 3 Jul 2018 17:35:34 +0000",
             "title": "My Back-Seat View Of A Great Romance | With Chlo\u00eb Grace Moretz",
             "entities": {
+                "WORK_OF_ART": [
+                    "The Miseducation of Cameron Post"
+                ],
                 "PERSON": [
                     "Rachel Monroe's"
                 ]
@@ -7554,6 +7777,9 @@
                 "PERSON": [
                     "Joshua Jackson",
                     "Evin Prison"
+                ],
+                "WORK_OF_ART": [
+                    "\"The Affair"
                 ],
                 "DATE": [
                     "26 months"
@@ -7593,7 +7819,8 @@
             "title": "The Hunter-Gatherer, Parking Division | With Jason Alexander",
             "entities": {
                 "GPE": [
-                    "New York City"
+                    "New York City",
+                    "Chinatown"
                 ],
                 "PERSON": [
                     "Jason Alexander",
@@ -7632,8 +7859,10 @@
             "entities": {
                 "PERSON": [
                     "Mandy Moore",
-                    "Us&quot",
                     "Anna March's"
+                ],
+                "WORK_OF_ART": [
+                    "This Is Us"
                 ]
             }
         },
@@ -7675,6 +7904,9 @@
                 ],
                 "ORG": [
                     "NBC"
+                ],
+                "PRODUCT": [
+                    "Reverie"
                 ]
             }
         },
@@ -7753,6 +7985,9 @@
                 ],
                 "ORG": [
                     "ABC"
+                ],
+                "WORK_OF_ART": [
+                    "Fresh Off The Boat"
                 ]
             }
         },
@@ -7786,8 +8021,10 @@
             "title": "The Language Of Love | With Saoirse Ronan",
             "entities": {
                 "PERSON": [
-                    "Saoirse Ronan",
-                    "quot;On Chesil Beach&quot"
+                    "Saoirse Ronan"
+                ],
+                "GPE": [
+                    "Chesil Beach"
                 ],
                 "NORP": [
                     "Iraqi"
@@ -7829,6 +8066,9 @@
                 ],
                 "GPE": [
                     "Maine"
+                ],
+                "WORK_OF_ART": [
+                    "Fear the Walking Dead"
                 ]
             }
         },
@@ -7863,13 +8103,14 @@
             "entities": {
                 "PERSON": [
                     "Kristen Scharold",
+                    "Rachel Weisz",
                     "Kristen"
                 ],
                 "NORP": [
                     "Christian"
                 ],
-                "ORG": [
-                    "Rachel Weisz"
+                "WORK_OF_ART": [
+                    "Disobedience"
                 ]
             }
         },
@@ -7904,7 +8145,8 @@
             "entities": {
                 "PERSON": [
                     "Stephanie Salda\u00f1a",
-                    "Linda Cardellini"
+                    "Linda Cardellini",
+                    "Bloodline"
                 ],
                 "GPE": [
                     "Syria"
@@ -7942,7 +8184,14 @@
             "link": "https://modern-love.simplecast.com/episodes/boy-what-a-fabulous-baker-with-abbi-jacobson-FlD7BS9b",
             "pubDate": "Wed, 25 Apr 2018 15:23:26 +0000",
             "title": "Boy, What A Fabulous Baker | With Abbi Jacobson",
-            "entities": {}
+            "entities": {
+                "PERSON": [
+                    "Abbi Jacobson"
+                ],
+                "WORK_OF_ART": [
+                    "Broad City"
+                ]
+            }
         },
         {
             "author": "modernlovepodcast@nytimes.com (The New York Times)",
@@ -7975,8 +8224,11 @@
             "entities": {
                 "PERSON": [
                     "Mel Rodriguez",
-                    "Last Man",
                     "Andy Christie's"
+                ],
+                "WORK_OF_ART": [
+                    "Overboard",
+                    "The Last Man on Earth"
                 ]
             }
         },
@@ -8045,6 +8297,7 @@
             "entities": {
                 "PERSON": [
                     "Krysten Ritter",
+                    "Jessica Jones",
                     "Sandra Barron's"
                 ]
             }
@@ -8082,8 +8335,7 @@
                     "this encore"
                 ],
                 "PERSON": [
-                    "Mykelti Williamson",
-                    "son.</p"
+                    "Mykelti Williamson"
                 ]
             }
         },
@@ -8191,8 +8443,11 @@
             "entities": {
                 "PERSON": [
                     "Bobby Cannavale",
-                    "Dominick Zarrillo's",
-                    "son.</p"
+                    "Robot",
+                    "Dominick Zarrillo's"
+                ],
+                "WORK_OF_ART": [
+                    "Jumanji: Welcome"
                 ]
             }
         },
@@ -8226,6 +8481,7 @@
             "title": "From He To She In First Grade | With Jennifer Beals",
             "entities": {
                 "PERSON": [
+                    "Jennifer Beals",
                     "Laurie Frankel's"
                 ]
             }
@@ -8263,8 +8519,8 @@
                     "Uma Thurman",
                     "Jessica Ciencin Henriquez's"
                 ],
-                "NORP": [
-                    "Parisian"
+                "WORK_OF_ART": [
+                    "The Parisian Woman"
                 ]
             }
         },
@@ -8300,6 +8556,9 @@
                 "PERSON": [
                     "Kumail Nanjiani",
                     "Emily Gordon"
+                ],
+                "WORK_OF_ART": [
+                    "The Big Sick"
                 ]
             }
         },
@@ -8332,11 +8591,12 @@
             "pubDate": "Wed, 7 Feb 2018 19:17:30 +0000",
             "title": "Missing A Father I Hardly Knew | With Willem Dafoe",
             "entities": {
-                "GPE": [
-                    "Florida"
-                ],
                 "PERSON": [
+                    "Willem Dafoe",
                     "Bruce Eric Kaplan's"
+                ],
+                "ORG": [
+                    "The Florida Project"
                 ]
             }
         },
@@ -8413,6 +8673,9 @@
                 "PERSON": [
                     "Andrea Martin",
                     "Randi Davenport's"
+                ],
+                "WORK_OF_ART": [
+                    "Great News"
                 ]
             }
         },
@@ -8448,6 +8711,9 @@
                 "PERSON": [
                     "Richard Jenkins",
                     "John Gfroerer's"
+                ],
+                "WORK_OF_ART": [
+                    "The Shape of Water"
                 ]
             }
         },
@@ -8482,6 +8748,12 @@
             "entities": {
                 "PERSON": [
                     "Lois Smith"
+                ],
+                "WORK_OF_ART": [
+                    "Lady Bird"
+                ],
+                "DATE": [
+                    "the golden years"
                 ]
             }
         },
@@ -8517,6 +8789,9 @@
                 "PERSON": [
                     "Margarita Levieva",
                     "Kristine Lloyd's"
+                ],
+                "WORK_OF_ART": [
+                    "The Deuce"
                 ],
                 "EVENT": [
                     "New Year's"
@@ -8556,8 +8831,11 @@
                     "Greta Gerwig",
                     "Julia Anne Miller's"
                 ],
+                "WORK_OF_ART": [
+                    "Lady Bird"
+                ],
                 "GPE": [
-                    "New York"
+                    "New York City"
                 ]
             }
         },
@@ -8592,6 +8870,9 @@
             "entities": {
                 "PERSON": [
                     "Kristin Scott Thomas"
+                ],
+                "WORK_OF_ART": [
+                    "Darkest Hour"
                 ]
             }
         },
@@ -8629,8 +8910,11 @@
                     "Sasheer Zamata",
                     "Julie"
                 ],
-                "ORG": [
-                    "dreamboat&quot"
+                "GPE": [
+                    "United States of Music"
+                ],
+                "WORK_OF_ART": [
+                    "Pizza Mind"
                 ]
             }
         },
@@ -8699,7 +8983,11 @@
             "title": "Modern Love Encore: 'A Heart Of Gold'",
             "entities": {
                 "PERSON": [
-                    "Ruth Negga"
+                    "Ruth Negga",
+                    "Preacher"
+                ],
+                "WORK_OF_ART": [
+                    "Loving"
                 ]
             }
         },
@@ -8734,6 +9022,9 @@
             "entities": {
                 "PERSON": [
                     "Paul Sun-Hyung Lee"
+                ],
+                "WORK_OF_ART": [
+                    "Kim's Convenience"
                 ]
             }
         },
@@ -8800,8 +9091,11 @@
             "pubDate": "Wed, 8 Nov 2017 17:24:37 +0000",
             "title": "A Family Fairytale, Twice Told | With Julia Stiles",
             "entities": {
-                "ORG": [
-                    "Julia Stiles (&quot;Riviera&quot"
+                "PERSON": [
+                    "Julia Stiles"
+                ],
+                "WORK_OF_ART": [
+                    "Riviera"
                 ],
                 "GPE": [
                     "New York City"
@@ -8836,7 +9130,11 @@
             "link": "https://modern-love.simplecast.com/episodes/cropped-out-of-my-own-fantasy-with-kirsten-vangsness-quKiq7jh",
             "pubDate": "Wed, 1 Nov 2017 15:20:45 +0000",
             "title": "Cropped Out Of My Own Fantasy | With Kirsten Vangsness",
-            "entities": {}
+            "entities": {
+                "WORK_OF_ART": [
+                    "Criminal Minds"
+                ]
+            }
         },
         {
             "author": "modernlovepodcast@nytimes.com (The New York Times)",
@@ -8869,6 +9167,10 @@
             "entities": {
                 "PERSON": [
                     "Cleopatra Coleman"
+                ],
+                "WORK_OF_ART": [
+                    "The Last Man On Earth",
+                    "White Famous"
                 ]
             }
         },
@@ -8903,6 +9205,10 @@
             "entities": {
                 "PERSON": [
                     "Kimberly H\u00e9bert Gregory"
+                ],
+                "WORK_OF_ART": [
+                    "Kevin (Probably) Saves the World",
+                    "Vice Principals"
                 ]
             }
         },
@@ -8936,8 +9242,10 @@
             "title": "My Husband Is Now My Wife | With Ann Dowd",
             "entities": {
                 "PERSON": [
-                    "Ann Dowd",
-                    "Handmaid"
+                    "Ann Dowd"
+                ],
+                "WORK_OF_ART": [
+                    "The Handmaid's Tale"
                 ],
                 "ORG": [
                     "Diane Daniel's"
@@ -9009,6 +9317,9 @@
             "entities": {
                 "PERSON": [
                     "Ali Fazal"
+                ],
+                "GPE": [
+                    "Victoria"
                 ]
             }
         },
@@ -9042,8 +9353,11 @@
             "title": "One Bouquet Of Fleeting Beauty | With Kerry Bish\u00e9",
             "entities": {
                 "PERSON": [
-                    "Kerry Bishe",
-                    "Catch"
+                    "Kerry Bishe"
+                ],
+                "WORK_OF_ART": [
+                    "Halt and Catch Fire",
+                    "Narcos"
                 ],
                 "CARDINAL": [
                     "one"
@@ -9094,9 +9408,11 @@
                 "PERSON": [
                     "Angela Bassett",
                     "Marcia DeSanctis'",
-                    "Psychic",
                     "Jesse Tyler Ferguson",
                     "Jerry Mahoney's"
+                ],
+                "WORK_OF_ART": [
+                    "What the Psychic Knew"
                 ]
             }
         },
@@ -9130,10 +9446,12 @@
             "title": "Promises That Can Bend | With Peter Gallagher",
             "entities": {
                 "PERSON": [
-                    "Peter Gallagher"
+                    "Peter Gallagher",
+                    "Grace",
+                    "Frankie"
                 ],
-                "PRODUCT": [
-                    "Frankie,&quot"
+                "WORK_OF_ART": [
+                    "The O.C."
                 ],
                 "CARDINAL": [
                     "one"
@@ -9170,11 +9488,11 @@
             "title": "No Bounds, Or Lanes | With Kyra Sedgwick",
             "entities": {
                 "WORK_OF_ART": [
-                    "Love"
+                    "Love",
+                    "The Closer"
                 ],
                 "PERSON": [
-                    "Kyra Sedgwick",
-                    "ride&quot"
+                    "Kyra Sedgwick"
                 ],
                 "ORG": [
                     "TNT"
@@ -9210,6 +9528,9 @@
             "pubDate": "Wed, 23 Aug 2017 18:12:50 +0000",
             "title": "Learning To Embrace Sexuality's Gray Areas | With Nico Tortorella",
             "entities": {
+                "PERSON": [
+                    "Nico Tortorella"
+                ],
                 "DATE": [
                     "the first weeks"
                 ]
@@ -9247,15 +9568,21 @@
                 "PERSON": [
                     "Cynthia Nixon"
                 ],
-                "DATE": [
-                    "New York,&quot",
-                    "95-year-old"
+                "WORK_OF_ART": [
+                    "The Last Boy",
+                    "A Quiet Passion"
+                ],
+                "GPE": [
+                    "New York"
                 ],
                 "CARDINAL": [
                     "about two"
                 ],
                 "ORG": [
                     "Mennonite"
+                ],
+                "DATE": [
+                    "95-year-old"
                 ]
             }
         },
@@ -9292,8 +9619,10 @@
                     "Betty Gilpin"
                 ],
                 "GPE": [
-                    "Netflix",
-                    "quot;G.L.O.W.&quot"
+                    "Netflix"
+                ],
+                "WORK_OF_ART": [
+                    "G.L.O.W."
                 ]
             }
         },
@@ -9329,8 +9658,14 @@
                 "DATE": [
                     "June"
                 ],
-                "GPE": [
+                "ORG": [
                     "Netflix"
+                ],
+                "WORK_OF_ART": [
+                    "Grace"
+                ],
+                "PERSON": [
+                    "Frankie"
                 ]
             }
         },
@@ -9404,7 +9739,8 @@
             "title": "I Need To Woman Up | With Cynthia Addai-Robinson",
             "entities": {
                 "PERSON": [
-                    "Cynthia Addai-Robinson"
+                    "Cynthia Addai-Robinson",
+                    "Shooter"
                 ],
                 "CARDINAL": [
                     "one"
@@ -9443,6 +9779,10 @@
                 "PERSON": [
                     "Zoe Lister-Jones",
                     "Lily King's"
+                ],
+                "WORK_OF_ART": [
+                    "Band Aid",
+                    "\"Life in Pieces"
                 ]
             }
         },
@@ -9477,6 +9817,9 @@
             "entities": {
                 "PERSON": [
                     "Jayne Atkinson"
+                ],
+                "ORG": [
+                    "House of Cards"
                 ]
             }
         },
@@ -9512,6 +9855,10 @@
                 "PERSON": [
                     "Kathryn Hahn",
                     "John Cho"
+                ],
+                "WORK_OF_ART": [
+                    "I Love Dick",
+                    "Star Trek"
                 ]
             }
         },
@@ -9544,8 +9891,11 @@
             "pubDate": "Wed, 21 Jun 2017 16:26:51 +0000",
             "title": "About That Rustle In The Bushes | With Danielle Brooks",
             "entities": {
-                "ORG": [
-                    "Brooks of &quot;Orange Is The New Black&quot"
+                "PERSON": [
+                    "Danielle Brooks"
+                ],
+                "WORK_OF_ART": [
+                    "Orange Is The New Black"
                 ]
             }
         },
@@ -9582,7 +9932,10 @@
                     "Griffin Dunne"
                 ],
                 "ORG": [
-                    "Amazon series &quot;I Love"
+                    "Amazon"
+                ],
+                "WORK_OF_ART": [
+                    "I Love Dick"
                 ]
             }
         },
@@ -9614,7 +9967,11 @@
             "link": "https://modern-love.simplecast.com/episodes/finding-marriage-losing-self-with-taylor-schilling-FQINIJjo",
             "pubDate": "Wed, 7 Jun 2017 16:13:08 +0000",
             "title": "Finding Marriage, Losing Self | With Taylor Schilling",
-            "entities": {}
+            "entities": {
+                "PERSON": [
+                    "Taylor Schilling"
+                ]
+            }
         },
         {
             "author": "modernlovepodcast@nytimes.com (The New York Times)",
@@ -9646,9 +10003,11 @@
             "title": "Standing By Your Man | With Chris Messina",
             "entities": {
                 "PERSON": [
-                    "Chris Messina",
-                    "Mindy",
-                    "Sweet"
+                    "Chris Messina"
+                ],
+                "WORK_OF_ART": [
+                    "The Mindy Project",
+                    "The Sweet Life"
                 ]
             }
         },
@@ -9717,10 +10076,9 @@
             "title": "A Slow Fade To Black | With Minnie Driver",
             "entities": {
                 "ORG": [
-                    "ABC"
-                ],
-                "GPE": [
-                    "quot;Speechless&quot"
+                    "Minnie Driver",
+                    "ABC",
+                    "Speechless"
                 ]
             }
         },
@@ -9762,6 +10120,10 @@
                 ],
                 "PERSON": [
                     "Gideon Glick"
+                ],
+                "WORK_OF_ART": [
+                    "Spring Awakening",
+                    "Significant Other\""
                 ]
             }
         },
@@ -9796,6 +10158,9 @@
             "entities": {
                 "PERSON": [
                     "Anna Chlumsky"
+                ],
+                "WORK_OF_ART": [
+                    "Veep"
                 ],
                 "DATE": [
                     "the 90 days"
@@ -9834,11 +10199,14 @@
             "pubDate": "Wed, 3 May 2017 15:25:01 +0000",
             "title": "A Prince Charming For The Prom | With Tituss Burgess",
             "entities": {
-                "LOC": [
+                "PERSON": [
                     "Tituss Burgess"
                 ],
                 "GPE": [
                     "Netflix"
+                ],
+                "WORK_OF_ART": [
+                    "Unbreakable Kimmy Schmidt"
                 ]
             }
         },
@@ -9874,8 +10242,8 @@
                 "PERSON": [
                     "Melanie Lynskey"
                 ],
-                "ORG": [
-                    "the new film &quot;Little Boxes&quot"
+                "WORK_OF_ART": [
+                    "\"Little Boxes"
                 ]
             }
         },
@@ -9913,6 +10281,9 @@
                 ],
                 "ORG": [
                     "NBC"
+                ],
+                "WORK_OF_ART": [
+                    "The Blacklist"
                 ],
                 "DATE": [
                     "22-year"
@@ -9957,6 +10328,9 @@
                 "ORG": [
                     "ABC"
                 ],
+                "WORK_OF_ART": [
+                    "The Catch"
+                ],
                 "CARDINAL": [
                     "one"
                 ],
@@ -10000,8 +10374,8 @@
                 "ORG": [
                     "HBO"
                 ],
-                "GPE": [
-                    "Lies&quot"
+                "WORK_OF_ART": [
+                    "Big Little Lies"
                 ],
                 "CARDINAL": [
                     "one"
@@ -10039,6 +10413,9 @@
             "entities": {
                 "PERSON": [
                     "Ry Russo-Young"
+                ],
+                "WORK_OF_ART": [
+                    "Before I Fall"
                 ]
             }
         },
@@ -10077,8 +10454,11 @@
                 "ORG": [
                     "Netflix"
                 ],
-                "ORDINAL": [
-                    "first"
+                "WORK_OF_ART": [
+                    "Love"
+                ],
+                "DATE": [
+                    "a first date"
                 ]
             }
         },
@@ -10116,6 +10496,9 @@
                 ],
                 "ORG": [
                     "Showtime"
+                ],
+                "WORK_OF_ART": [
+                    "Billions"
                 ]
             }
         },
@@ -10153,6 +10536,9 @@
                 ],
                 "ORG": [
                     "Netflix"
+                ],
+                "DATE": [
+                    "One Day"
                 ],
                 "CARDINAL": [
                     "one"
@@ -10193,6 +10579,9 @@
                 ],
                 "ORG": [
                     "Showtime"
+                ],
+                "WORK_OF_ART": [
+                    "Shameless"
                 ]
             }
         },
@@ -10226,14 +10615,18 @@
             "title": "Live From The Wilbur Theater (Part One) | With Brian Tyree Henry and Alysia Reiner",
             "entities": {
                 "PERSON": [
-                    "Brian Tyree Henry"
+                    "Brian Tyree Henry",
+                    "Alysia Reiner"
                 ],
                 "ORG": [
-                    "FX",
-                    "Alysia Reiner of &quot;Orange"
+                    "FX"
+                ],
+                "GPE": [
+                    "Atlanta",
+                    "Boston"
                 ],
                 "FAC": [
-                    "the Wilbur Theater in Boston.</p"
+                    "the Wilbur Theater"
                 ]
             }
         },
@@ -10267,14 +10660,16 @@
             "title": "Modern Love: The Podcast Valentine's Special",
             "entities": {
                 "PERSON": [
-                    "Forget Netflix",
                     "Settle",
                     "Tony Hale",
                     "Gillian Jacobs",
                     "Colin Farrell"
                 ],
                 "WORK_OF_ART": [
-                    "Modern Love: The Podcast"
+                    "Modern Love: The Podcast",
+                    "Veep",
+                    "Love",
+                    "The Lobster"
                 ]
             }
         },
@@ -10342,10 +10737,11 @@
             "title": "On The Precipice, Wings Spread | With Megan Hilty",
             "entities": {
                 "PERSON": [
-                    "Tony"
-                ],
-                "ORG": [
+                    "Tony",
                     "Megan Hilty"
+                ],
+                "WORK_OF_ART": [
+                    "Noises Off"
                 ]
             }
         },
@@ -10380,8 +10776,7 @@
             "entities": {
                 "PERSON": [
                     "Mykelti Williamson",
-                    "Oscar",
-                    "son.</p"
+                    "Oscar"
                 ]
             }
         },
@@ -10554,6 +10949,9 @@
                 ],
                 "ORG": [
                     "FX"
+                ],
+                "WORK_OF_ART": [
+                    "Better Things"
                 ]
             }
         },
@@ -10697,8 +11095,7 @@
             "title": "Fractured Beauty | With Molly Ringwald",
             "entities": {
                 "PERSON": [
-                    "Molly Ringwald",
-                    "divorce.</p"
+                    "Molly Ringwald"
                 ]
             }
         },
@@ -10732,8 +11129,7 @@
             "title": "Out Of The Darkness | With Mark Duplass",
             "entities": {
                 "PERSON": [
-                    "Mark Duplass",
-                    "worse&quot"
+                    "Filmmaker Mark Duplass"
                 ]
             }
         },
@@ -10840,15 +11236,19 @@
                 "PERSON": [
                     "David Harbour"
                 ],
-                "GPE": [
-                    "Netflix",
-                    "New York City"
+                "ORG": [
+                    "Netflix"
+                ],
+                "WORK_OF_ART": [
+                    "Stranger Things",
+                    "Modern Love Live",
+                    "Out From Under the Influence"
                 ],
                 "DATE": [
                     "week"
                 ],
-                "WORK_OF_ART": [
-                    "Modern Love Live"
+                "GPE": [
+                    "New York City"
                 ]
             }
         },
@@ -10882,7 +11282,8 @@
             "title": "Take Me As I Am, Whoever I Am | With Rebecca Hall",
             "entities": {
                 "PERSON": [
-                    "Rebecca Hall"
+                    "Rebecca Hall",
+                    "Christine"
                 ]
             }
         },
@@ -10920,6 +11321,9 @@
                 ],
                 "ORG": [
                     "ABC"
+                ],
+                "WORK_OF_ART": [
+                    "Fresh Off The Boat"
                 ]
             }
         },
@@ -10953,7 +11357,8 @@
             "title": "A Path To Fatherhood | With Dash Mihok",
             "entities": {
                 "PERSON": [
-                    "Dash Mihok"
+                    "Dash Mihok",
+                    "Ray Donovan"
                 ],
                 "ORG": [
                     "Showtime"
@@ -11027,7 +11432,7 @@
                     "Emmy Edition",
                     "Sarah Paulson",
                     "Sterling K. Brown",
-                    "Tony Hale.</p"
+                    "Tony Hale"
                 ],
                 "DATE": [
                     "This week"
@@ -11246,11 +11651,14 @@
             "pubDate": "Wed, 17 Aug 2016 14:27:51 +0000",
             "title": "A Prince Charming For The Prom | With Tituss Burgess",
             "entities": {
-                "LOC": [
+                "PERSON": [
                     "Tituss Burgess"
                 ],
                 "GPE": [
                     "Netflix"
+                ],
+                "WORK_OF_ART": [
+                    "Unbreakable Kimmy Schmidt"
                 ]
             }
         },
@@ -11323,6 +11731,10 @@
                 "ORG": [
                     "Netflix",
                     "NBC"
+                ],
+                "WORK_OF_ART": [
+                    "Love",
+                    "Community"
                 ]
             }
         },
@@ -11359,7 +11771,7 @@
                     "Gaby Hoffmann"
                 ],
                 "ORG": [
-                    "Amazon series &quot;Transparent,&quot",
+                    "Amazon",
                     "HBO"
                 ]
             }
@@ -11399,6 +11811,9 @@
                 ],
                 "ORG": [
                     "HBO"
+                ],
+                "WORK_OF_ART": [
+                    "Veep"
                 ]
             }
         },
@@ -11514,6 +11929,9 @@
                 ],
                 "ORG": [
                     "HBO"
+                ],
+                "WORK_OF_ART": [
+                    "The Wire"
                 ]
             }
         },
@@ -11582,10 +12000,8 @@
             "pubDate": "Wed, 15 Jun 2016 19:08:04 +0000",
             "title": "Fighting Words | With Alysia Reiner",
             "entities": {
-                "PERSON": [
-                    "Alysia Reiner"
-                ],
                 "GPE": [
+                    "Alysia",
                     "Orange"
                 ]
             }
@@ -11653,9 +12069,6 @@
             "pubDate": "Mon, 6 Jun 2016 03:46:28 +0000",
             "title": "The Wait | Modern Love Bonus Episode",
             "entities": {
-                "DATE": [
-                    "love,&quot"
-                ],
                 "ORG": [
                     "Modern Love"
                 ]
@@ -11760,8 +12173,7 @@
             "title": "Friends Without Benefits | With Taissa Farmiga",
             "entities": {
                 "PERSON": [
-                    "Taissa Farmiga",
-                    "benefits&quot"
+                    "Taissa Farmiga"
                 ],
                 "DATE": [
                     "years"
@@ -11835,8 +12247,10 @@
                     "Cheryl Strayed"
                 ],
                 "ORG": [
-                    "WBUR's &quot;Dear Sugar&quot",
-                    "memoir &quot;Wild&quot"
+                    "WBUR"
+                ],
+                "WORK_OF_ART": [
+                    "Dear Sugar"
                 ],
                 "ORDINAL": [
                     "second"
@@ -11907,7 +12321,8 @@
             "title": "Between The Bars | With Joshua Jackson",
             "entities": {
                 "PERSON": [
-                    "Joshua Jackson"
+                    "Joshua Jackson",
+                    "Evin Prison"
                 ],
                 "DATE": [
                     "26 months"

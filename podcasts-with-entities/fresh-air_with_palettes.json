@@ -32,26 +32,26 @@
             "entities": {
                 "PERSON": [
                     "Roy Wood Jr.",
+                    "Comedy Central",
                     "Trevor Noah",
                     "Terry Gross",
                     "Al Green",
+                    "Call Me",
                     "Ken Tucker",
                     "Justin Chang",
-                    "Judy Blume"
+                    "Judy Blume",
+                    "Margaret"
                 ],
                 "ORG": [
-                    "the White House Correspondents Dinner",
-                    "Comedy Central"
+                    "the White House Correspondents Dinner"
                 ],
                 "DATE": [
                     "this weekend",
                     "50 years"
                 ],
-                "CARDINAL": [
-                    "2018.<br><br"
-                ],
-                "GPE": [
-                    "Margaret.</em"
+                "WORK_OF_ART": [
+                    "The Daily Show",
+                    "Are You There God"
                 ]
             }
         },
@@ -97,6 +97,9 @@
                 "ORG": [
                     "Bloom",
                     "the Doula Project"
+                ],
+                "WORK_OF_ART": [
+                    "Fatal Attraction"
                 ]
             }
         },
@@ -126,6 +129,9 @@
                     "Gretchen Morgenson",
                     "Kevin Whitehead",
                     "Ahmad Jamal"
+                ],
+                "ORG": [
+                    "Plunderers"
                 ]
             }
         },
@@ -153,6 +159,9 @@
             "entities": {
                 "PERSON": [
                     "Virginia Sole-Smith"
+                ],
+                "WORK_OF_ART": [
+                    "Fat Talk"
                 ]
             }
         },
@@ -180,13 +189,11 @@
             "entities": {
                 "PERSON": [
                     "Judy Blume",
-                    "Judy Blume Forever</em"
+                    "Margaret",
+                    "Judy Blume Forever"
                 ],
                 "DATE": [
                     "1970"
-                ],
-                "GPE": [
-                    "Margaret.</em"
                 ],
                 "ORDINAL": [
                     "first"
@@ -224,6 +231,7 @@
                 ],
                 "NORP": [
                     "Soviet",
+                    "Americans",
                     "British"
                 ],
                 "GPE": [
@@ -232,8 +240,14 @@
                     "Netflix",
                     "Patagonia"
                 ],
+                "WORK_OF_ART": [
+                    "The Diplomat"
+                ],
                 "DATE": [
                     "18th-century"
+                ],
+                "ORG": [
+                    "Wager"
                 ]
             }
         },
@@ -263,8 +277,10 @@
                     "decades",
                     "April 10",
                     "1994",
+                    "1994",
                     "April 12",
-                    "1987"
+                    "1987",
+                    "1994"
                 ],
                 "PERSON": [
                     "Anne Perry",
@@ -272,8 +288,10 @@
                     "Kevin Whitehead",
                     "Walter Smith III's",
                     "Justin Chang",
-                    "Beau",
-                    "Afraid"
+                    "Beau"
+                ],
+                "ORG": [
+                    "Heavenly Creatures"
                 ],
                 "CARDINAL": [
                     "One"
@@ -281,8 +299,8 @@
                 "ORDINAL": [
                     "first"
                 ],
-                "ORG": [
-                    "casual.</em"
+                "GPE": [
+                    "Afraid"
                 ]
             }
         },
@@ -351,7 +369,7 @@
                 ],
                 "GPE": [
                     "New York",
-                    "New York</em",
+                    "New York",
                     "Kander",
                     "Kander"
                 ],
@@ -440,6 +458,11 @@
             "pubDate": "Mon, 17 Apr 2023 21:33:08 +0000",
             "title": "Keri Russell embraces her new role as 'The Diplomat'",
             "entities": {
+                "GPE": [
+                    "Felicity",
+                    "U.S.",
+                    "London"
+                ],
                 "DATE": [
                     "1998",
                     "2002"
@@ -449,14 +472,16 @@
                     "Matthew Rhys",
                     "Russell",
                     "Maureen Corrigan",
-                    "Will Be"
+                    "Will Be Fire"
+                ],
+                "NORP": [
+                    "Americans"
                 ],
                 "ORG": [
                     "Netflix"
                 ],
-                "GPE": [
-                    "U.S.",
-                    "London"
+                "WORK_OF_ART": [
+                    "The Diplomat"
                 ]
             }
         },
@@ -486,11 +511,15 @@
                     "Mary Louise Kelly",
                     "Justin Chang",
                     "Josh Groban",
-                    "Sweeney Todd</em",
+                    "Sweeney Todd",
                     "Ann Marie Baldonado"
                 ],
+                "ORG": [
+                    "NPR"
+                ],
                 "WORK_OF_ART": [
-                    "All Things Considered</em>"
+                    "All Things Considered",
+                    "Showing Up"
                 ],
                 "ORDINAL": [
                     "first"
@@ -525,19 +554,22 @@
                 "PERSON": [
                     "Mimi Sheraton",
                     "Michael Lerner",
-                    "Harlem Nights</em",
                     "Justin Chang",
+                    "Showing Up",
                     "Kelly Reichardt"
                 ],
-                "GPE": [
-                    "New York"
+                "ORG": [
+                    "The New York Times"
                 ],
                 "DATE": [
                     "earlier this month",
                     "earlier this month"
                 ],
-                "ORG": [
-                    "Barton Fink</em"
+                "GPE": [
+                    "Barton Fink"
+                ],
+                "FAC": [
+                    "Harlem Nights"
                 ]
             }
         },
@@ -642,12 +674,13 @@
                     "Mary Louise Kelly",
                     "David Bianculli"
                 ],
-                "WORK_OF_ART": [
-                    "All Things Considered</em>"
-                ],
                 "ORG": [
                     "NPR",
+                    "NPR",
                     "HBO"
+                ],
+                "WORK_OF_ART": [
+                    "All Things Considered"
                 ],
                 "DATE": [
                     "Sunday"
@@ -690,6 +723,9 @@
                     "Stephen Sondheim",
                     "Maureen Corrigan",
                     "Nicole Chung's"
+                ],
+                "PRODUCT": [
+                    "A Living Remedy"
                 ]
             }
         },
@@ -723,7 +759,8 @@
                     "Samara Joy",
                     "Justin Chang",
                     "Brooke Shields",
-                    "Tonya Mosley"
+                    "Tonya Mosley",
+                    "Pretty Baby"
                 ],
                 "GPE": [
                     "Grammy"
@@ -731,6 +768,9 @@
                 "WORK_OF_ART": [
                     "Best New Artist",
                     "Best Jazz Album"
+                ],
+                "CARDINAL": [
+                    "Thousand"
                 ]
             }
         },
@@ -773,6 +813,7 @@
                 "ORG": [
                     "Sire Records",
                     "Stein",
+                    "Air",
                     "Nike",
                     "Air Jordans"
                 ],
@@ -780,9 +821,7 @@
                     "two"
                 ],
                 "NORP": [
-                    "Ramones"
-                ],
-                "LOC": [
+                    "Ramones",
                     "Ice"
                 ],
                 "LAW": [
@@ -819,13 +858,16 @@
                 "ORG": [
                     "Supreme Court",
                     "New York Times",
-                    "Risky"
+                    "Times"
                 ],
                 "PERSON": [
                     "Eric Lipton",
                     "Kevin Whitehead",
                     "Louis Armstrong",
                     "Joe Oliver's"
+                ],
+                "PRODUCT": [
+                    "A Risky Wager"
                 ],
                 "ORDINAL": [
                     "first"
@@ -856,10 +898,14 @@
             "entities": {
                 "PERSON": [
                     "Clancy Martin",
-                    "Kill Yourself</em"
+                    "Kill Yourself"
                 ],
                 "CARDINAL": [
-                    "two"
+                    "two",
+                    "988"
+                ],
+                "WORK_OF_ART": [
+                    ", How Not"
                 ],
                 "ORG": [
                     "the National Suicide & Crisis Lifeline"
@@ -892,13 +938,16 @@
                     "Brooke Shields",
                     "Tonya Mosley",
                     "Calvin Klein",
-                    "Hulu",
+                    "Pretty Baby",
                     "Ken Tucker",
                     "Lana Del Rey's"
                 ],
                 "DATE": [
                     "11 months old",
                     "the age of 12"
+                ],
+                "WORK_OF_ART": [
+                    "Pretty Baby"
                 ]
             }
         },
@@ -934,6 +983,9 @@
                 ],
                 "ORG": [
                     "the Book of Revelation"
+                ],
+                "FAC": [
+                    "Rye Lane"
                 ]
             }
         },
@@ -962,12 +1014,16 @@
                 "PERSON": [
                     "Clint Smith's",
                     "Justin Chang",
-                    "Ted Lasso</em",
+                    "Ted Lasso",
                     "Roy Kent",
                     "Ann Marie Baldonado"
                 ],
                 "ORG": [
+                    "Above Ground",
                     "Brett Goldstein"
+                ],
+                "WORK_OF_ART": [
+                    "Tori and Lokita"
                 ]
             }
         },
@@ -1000,21 +1056,31 @@
                 "ORDINAL": [
                     "second"
                 ],
-                "ORG": [
-                    "Showtime",
-                    "Apple"
-                ],
                 "PERSON": [
+                    "Yellowjackets",
                     "Ann Marie Baldonado",
                     "Melanie Lynskey",
+                    "Yellowjackets",
                     "Terry Gross",
                     "Cinco Paul",
                     "David Bianculli"
+                ],
+                "ORG": [
+                    "Showtime",
+                    "Schmigadoon",
+                    "Apple",
+                    "Schmigadoon"
                 ],
                 "DATE": [
                     "over a year",
                     "years",
                     "the new season"
+                ],
+                "GPE": [
+                    "Oklahoma"
+                ],
+                "WORK_OF_ART": [
+                    "The Music Man and Brigadoon"
                 ]
             }
         },
@@ -1080,8 +1146,13 @@
             "entities": {
                 "PERSON": [
                     "Clint Smith's",
-                    "Ground</em",
                     "Justin Chang"
+                ],
+                "ORG": [
+                    "Above Ground"
+                ],
+                "CARDINAL": [
+                    "Thousand"
                 ]
             }
         },
@@ -1112,8 +1183,8 @@
                     "Maureen Corrigan",
                     "Catherine Lacey"
                 ],
-                "ORG": [
-                    "The Extraordinary Stress of Ordinary Life"
+                "WORK_OF_ART": [
+                    "Weathering: The Extraordinary Stress of Ordinary Life"
                 ]
             }
         },
@@ -1143,7 +1214,7 @@
                     "Brett Goldstein"
                 ],
                 "PERSON": [
-                    "Ted Lasso</em",
+                    "Ted Lasso",
                     "Roy Kent",
                     "Ann Marie Baldonado",
                     "Roy",
@@ -1179,12 +1250,19 @@
                     "Pink Martini",
                     "Billy Crudup"
                 ],
-                "WORK_OF_ART": [
-                    "All Things Considered</em>"
-                ],
                 "ORG": [
+                    "NPR",
                     "Apple",
                     "Mastercard"
+                ],
+                "WORK_OF_ART": [
+                    "All Things Considered"
+                ],
+                "PRODUCT": [
+                    "The Best Strangers"
+                ],
+                "DATE": [
+                    "Tomorrow"
                 ]
             }
         },
@@ -1267,14 +1345,15 @@
                 "CARDINAL": [
                     "some 5,000"
                 ],
+                "WORK_OF_ART": [
+                    "The Drag Explosion",
+                    "The Night Agent"
+                ],
                 "ORDINAL": [
                     "first"
                 ],
                 "ORG": [
                     "Netflix"
-                ],
-                "WORK_OF_ART": [
-                    "The Night"
                 ]
             }
         },
@@ -1309,7 +1388,10 @@
                     "NPR"
                 ],
                 "WORK_OF_ART": [
-                    "All Things Considered,</em"
+                    "All Things Considered"
+                ],
+                "PRODUCT": [
+                    "The Best Strangers"
                 ]
             }
         },
@@ -1343,7 +1425,6 @@
                 ],
                 "PERSON": [
                     "Matthew Desmond",
-                    "America.<br><br></em",
                     "Ken Tucker",
                     "Iris DeMent's"
                 ],
@@ -1358,6 +1439,12 @@
                 ],
                 "DATE": [
                     "each year"
+                ],
+                "PRODUCT": [
+                    "Poverty"
+                ],
+                "GPE": [
+                    "America"
                 ],
                 "CARDINAL": [
                     "three"
@@ -1399,8 +1486,11 @@
                     "Apple",
                     "Mastercard"
                 ],
+                "DATE": [
+                    "Tomorrow"
+                ],
                 "WORK_OF_ART": [
-                    "The Morning"
+                    "The Morning Show"
                 ]
             }
         },
@@ -1430,8 +1520,9 @@
                     "Bella DuBalle",
                     "Maureen Corrigan",
                     "Nora Ephron's",
+                    "Heartburn",
                     "Clancy Brown",
-                    "Shawshank Redemption</em>",
+                    "Highlander",
                     "John Wick",
                     "Krabs"
                 ],
@@ -1447,8 +1538,11 @@
                     "the years",
                     "later this month"
                 ],
+                "ORG": [
+                    "Shawshank Redemption"
+                ],
                 "LAW": [
-                    "Chapter 4</em"
+                    "Chapter 4"
                 ]
             }
         },
@@ -1476,17 +1570,14 @@
             "entities": {
                 "PERSON": [
                     "Michelle Yeoh",
-                    "Yeoh",
-                    "Tiger Hidden Dragon</em>",
-                    "Rich Asians</em",
-                    "We'll",
+                    "Rich Asians",
                     "Adam Sandler",
                     "David Bianculli",
+                    "Lucky Hank",
                     "Bob Odenkirk"
                 ],
                 "DATE": [
                     "last week",
-                    "Tomorrow",
                     "year"
                 ],
                 "ORDINAL": [
@@ -1497,10 +1588,9 @@
                 ],
                 "WORK_OF_ART": [
                     "Oscar",
-                    "Everything Everywhere All At"
-                ],
-                "GPE": [
-                    "Once</em"
+                    "Crouching Tiger Hidden Dragon",
+                    "Tomorrow Never Dies",
+                    "Uncut Gems"
                 ],
                 "ORG": [
                     "Bond",
@@ -1533,7 +1623,8 @@
                 "PERSON": [
                     "Bella DuBalle",
                     "Maureen Corrigan",
-                    "Nora Ephron's"
+                    "Nora Ephron's",
+                    "Heartburn"
                 ],
                 "GPE": [
                     "Tennessee"
@@ -1543,6 +1634,9 @@
                 ],
                 "ORDINAL": [
                     "40th"
+                ],
+                "ORG": [
+                    "Pineapple Street"
                 ]
             }
         },
@@ -1570,17 +1664,14 @@
             "entities": {
                 "PERSON": [
                     "Ricardo Nuila's",
-                    "Ben Taub Hospital",
-                    "Peril"
+                    "Ben Taub Hospital"
                 ],
                 "GPE": [
                     "Houston"
                 ],
                 "ORG": [
-                    "The People's Hospital"
-                ],
-                "NORP": [
-                    "American"
+                    "The People's Hospital",
+                    "American Medicine"
                 ]
             }
         },
@@ -1608,15 +1699,13 @@
             "entities": {
                 "PERSON": [
                     "Clancy Brown",
-                    "Shawshank Redemption</em>",
-                    "John Wick",
+                    "Highlander",
+                    "John Wick 4",
                     "Krabs",
-                    "Spongebob",
                     "Kevin Whitehead",
                     "Fred Hersch",
                     "Esperanza Spalding",
                     "John Powers",
-                    "Birnam Wood</em",
                     "Eleanor Catton"
                 ],
                 "DATE": [
@@ -1625,7 +1714,8 @@
                     "later this month"
                 ],
                 "ORG": [
-                    "Booker Prize"
+                    "Shawshank Redemption",
+                    "Birnam Wood"
                 ]
             }
         },
@@ -1654,13 +1744,17 @@
                 "PERSON": [
                     "Karen Fine",
                     "Ken Tucker",
-                    "Caroline Polachek"
+                    "Caroline Polachek",
+                    "Desire"
                 ],
                 "NORP": [
                     "Chinese"
                 ],
                 "ORG": [
                     "ADR"
+                ],
+                "WORK_OF_ART": [
+                    "The Other Family Doctor"
                 ]
             }
         },
@@ -1693,12 +1787,20 @@
                     "Farzon Nahvi"
                 ],
                 "ORG": [
-                    "Sun",
+                    "the New Yorker",
                     "ER",
-                    "COVID"
+                    "COVID",
+                    "ER"
+                ],
+                "WORK_OF_ART": [
+                    "Finding My Way",
+                    "Up With the Sun"
                 ],
                 "DATE": [
                     "the 1950s and '60s"
+                ],
+                "GPE": [
+                    "Seoul"
                 ],
                 "NORP": [
                     "American"
@@ -1731,6 +1833,7 @@
                     "Buster Keaton",
                     "Dana Stevens",
                     "Keaton",
+                    "Camera Man",
                     "Justin Chang"
                 ],
                 "DATE": [
@@ -1740,7 +1843,8 @@
                     "America"
                 ],
                 "ORG": [
-                    "Palm Trees & Power Lines</em"
+                    "Slate",
+                    "Palm Trees & Power Lines"
                 ]
             }
         },
@@ -1766,16 +1870,24 @@
             "pubDate": "Thu, 09 Mar 2023 21:53:46 +0000",
             "title": "Writer Thomas Mallon On His AIDS-Era Diaries",
             "entities": {
-                "GPE": [
-                    "New Yorker,</em"
+                "ORG": [
+                    "the New Yorker"
+                ],
+                "WORK_OF_ART": [
+                    "Finding My Way",
+                    "Up With the Sun"
                 ],
                 "PERSON": [
                     "Staying",
                     "Dick Kallman"
                 ],
                 "DATE": [
+                    "1980s",
                     "thirties",
                     "the 1950s and '60s"
+                ],
+                "GPE": [
+                    "Manhattan"
                 ]
             }
         },
@@ -1807,8 +1919,14 @@
                     "Wayne Shorter",
                     "John Powers"
                 ],
+                "ORG": [
+                    "We Are Electric"
+                ],
                 "DATE": [
                     "March 2"
+                ],
+                "GPE": [
+                    "Seoul"
                 ]
             }
         },
@@ -1874,9 +1992,6 @@
                     "Joanna Schwartz",
                     "David Bianculli",
                     "Mel Brooks'"
-                ],
-                "GPE": [
-                    "Hulu"
                 ]
             }
         },
@@ -1902,10 +2017,14 @@
             "pubDate": "Sat, 04 Mar 2023 13:00:21 +0000",
             "title": "Best Of: Cate Blanchett & Todd Field On 'T\u00e1r' / Actor Ke Huy Quan",
             "entities": {
+                "GPE": [
+                    "T\u00e1r"
+                ],
                 "ORG": [
                     "Cate Blanchett",
                     "Academy Awards",
-                    "the Temple of Doom </em",
+                    "Indiana Jones",
+                    "the Temple of Doom",
                     "Waymond"
                 ],
                 "CARDINAL": [
@@ -1918,10 +2037,8 @@
                 ],
                 "PERSON": [
                     "Maureen Corrigan",
-                    "You</em",
                     "Rebecca Makkai",
-                    "Ke Huy Quan",
-                    "Indiana Jones"
+                    "Ke Huy Quan"
                 ],
                 "DATE": [
                     "the '80s",
@@ -1929,9 +2046,6 @@
                 ],
                 "ORDINAL": [
                     "first"
-                ],
-                "GPE": [
-                    "Once</em"
                 ]
             }
         },
@@ -1959,12 +2073,15 @@
             "entities": {
                 "PERSON": [
                     "Doc Watson",
-                    "John Powers",
-                    "Perry Mason</em>"
+                    "John Powers"
                 ],
                 "DATE": [
                     "1988",
-                    "1989"
+                    "1989",
+                    "the new season"
+                ],
+                "ORG": [
+                    "Perry Mason"
                 ]
             }
         },
@@ -1995,6 +2112,9 @@
                 ],
                 "ORG": [
                     "QAnon"
+                ],
+                "WORK_OF_ART": [
+                    "Trust the Plan"
                 ]
             }
         },
@@ -2020,6 +2140,9 @@
             "pubDate": "Wed, 01 Mar 2023 20:44:25 +0000",
             "title": "Cate Blanchett & Dir. Todd Field On T\u00e1r",
             "entities": {
+                "GPE": [
+                    "T\u00e1r"
+                ],
                 "ORG": [
                     "Cate Blanchett",
                     "Academy Awards"
@@ -2063,18 +2186,19 @@
                     "New York Times",
                     "the Federal Reserve",
                     "Smialek",
-                    "Fed"
+                    "Fed",
+                    "Serial",
+                    "The Coldest Case in Laramie"
                 ],
                 "PERSON": [
                     "Jeanna Smialek",
-                    "Nick Quah",
-                    "Serial"
+                    "Nick Quah"
+                ],
+                "PRODUCT": [
+                    "Limitless"
                 ],
                 "DATE": [
                     "the new season"
-                ],
-                "LOC": [
-                    "The Coldest Case"
                 ]
             }
         },
@@ -2104,20 +2228,21 @@
                     "the '80s",
                     "decades"
                 ],
-                "PERSON": [
-                    "Indiana Jones",
-                    "Justin Chang"
-                ],
                 "ORG": [
-                    "the Temple of Doom </em",
+                    "Indiana Jones",
+                    "the Temple of Doom",
                     "Waymond"
                 ],
                 "WORK_OF_ART": [
                     "Oscar",
-                    "Everything Everywhere All at Once"
+                    "Everything Everywhere All at",
+                    "The Quiet Girl"
                 ],
                 "ORDINAL": [
                     "first"
+                ],
+                "PERSON": [
+                    "Justin Chang"
                 ],
                 "NORP": [
                     "Irish"
@@ -2146,21 +2271,24 @@
             "pubDate": "Sat, 25 Feb 2023 13:29:38 +0000",
             "title": "Best Of: 'Oscar Wars' / Marc Maron",
             "entities": {
+                "ORG": [
+                    "New Yorker",
+                    "the Academy of Motion Picture Arts and Sciences",
+                    "HBO"
+                ],
                 "PERSON": [
                     "Michael Schulman",
                     "Marc Maron",
-                    "Lynn",
+                    "Lynn Shelton",
                     "John Powers"
+                ],
+                "WORK_OF_ART": [
+                    "Oscar Wars"
                 ],
                 "GPE": [
                     "Hollywood",
-                    "Dark</em",
                     "Delhi",
                     "India"
-                ],
-                "ORG": [
-                    "the Academy of Motion Picture Arts",
-                    "HBO"
                 ],
                 "CARDINAL": [
                     "about two"
@@ -2195,11 +2323,12 @@
                 "PERSON": [
                     "Richard Belzer",
                     "John Munch",
-                    "Tim McCarver.<br><br",
+                    "Tim McCarver",
                     "David Bianculli",
                     "Billy Crudup"
                 ],
                 "ORG": [
+                    "Law & Order",
                     "Hall of Fame"
                 ],
                 "DATE": [
@@ -2229,8 +2358,10 @@
             "pubDate": "Thu, 23 Feb 2023 20:00:46 +0000",
             "title": "How An Ex-Con & Caterer Became Putin's Trusted Warlord",
             "entities": {
+                "ORG": [
+                    "Guardian"
+                ],
                 "PERSON": [
-                    "Guardian</em",
                     "Shaun Walker",
                     "Yevgeny Prigozhin"
                 ],
@@ -2271,6 +2402,9 @@
                     "Michael Schulman",
                     "Kevin Whitehead",
                     "Burt Bacharach"
+                ],
+                "WORK_OF_ART": [
+                    "Oscar Wars"
                 ]
             }
         },
@@ -2298,13 +2432,13 @@
             "entities": {
                 "PERSON": [
                     "Farzon Nahvi",
+                    "Code Gray",
                     "David Bianculli",
                     "John Oliver"
                 ],
                 "DATE": [
                     "the early months",
-                    "10 years",
-                    "Last Week"
+                    "10 years of Last Week"
                 ],
                 "GPE": [
                     "Manhattan"
@@ -2380,12 +2514,13 @@
             "entities": {
                 "ORG": [
                     "Philadelphia Orchestra/Met",
-                    "an Academy Award"
+                    "Fresh Air",
+                    "an Academy Award for Black Panther",
+                    "Wakanda Forever"
                 ],
                 "PERSON": [
                     "Yannick N\u00e9zet-S\u00e9guin",
                     "Ruth E. Carter",
-                    "Wakanda Forever</em",
                     "Tonya Mosley",
                     "Spike Lee"
                 ],
@@ -2421,12 +2556,10 @@
                     "David Jolicoeur",
                     "Ed Yong",
                     "Justin Chang",
-                    "Emily</em",
                     "Emily Bront\u00eb"
                 ],
                 "ORG": [
-                    "De La Soul",
-                    "Immense"
+                    "De La Soul"
                 ],
                 "DATE": [
                     "the late 1980s",
@@ -2434,6 +2567,12 @@
                 ],
                 "CARDINAL": [
                     "2000"
+                ],
+                "WORK_OF_ART": [
+                    "An Immense World"
+                ],
+                "GPE": [
+                    "Wuthering Heights"
                 ]
             }
         },
@@ -2463,7 +2602,7 @@
                     "Lynn Shelton",
                     "Marc Maron",
                     "Ken Tucker",
-                    "Bob"
+                    "Bob Dylan's"
                 ],
                 "DATE": [
                     "2020"
@@ -2496,10 +2635,14 @@
             "title": "A Playlist By Yannick N\u00e9zet-S\u00e9guin",
             "entities": {
                 "ORG": [
-                    "Philadelphia Orchestra/Met"
+                    "Philadelphia Orchestra/Met",
+                    "Fresh Air"
                 ],
                 "PERSON": [
                     "Yannick N\u00e9zet-S\u00e9guin"
+                ],
+                "GPE": [
+                    "Spotify"
                 ]
             }
         },
@@ -2531,14 +2674,14 @@
                 ],
                 "PERSON": [
                     "Ruth E. Carter",
-                    "Wakanda Forever</em",
                     "Tonya Mosley",
                     "Spike Lee",
                     "Maureen Corrigan",
                     "Stephen Marche"
                 ],
                 "ORG": [
-                    "an Academy Award"
+                    "an Academy Award for Black Panther",
+                    "Wakanda Forever"
                 ]
             }
         },
@@ -2619,17 +2762,21 @@
                     "Nan Goldin",
                     "Sackler",
                     "Goldin",
-                    "Laura",
+                    "Laura Poitras",
                     "Maureen Corrigan",
-                    "Thomas",
+                    "Thomas Mallon",
                     "Brad Mehldau"
                 ],
                 "WORK_OF_ART": [
-                    "Beauty and the Bloodshed</em>"
+                    "Beauty and the Bloodshed"
                 ],
                 "ORG": [
                     "Purdue Pharma",
-                    "OxyContin"
+                    "OxyContin",
+                    "Sun"
+                ],
+                "CARDINAL": [
+                    "One"
                 ]
             }
         },
@@ -2659,6 +2806,9 @@
                     "50 years",
                     "Saturday"
                 ],
+                "ORG": [
+                    "Schoolhouse Rock"
+                ],
                 "TIME": [
                     "morning"
                 ],
@@ -2666,7 +2816,7 @@
                     "Composer",
                     "Bob Dorough",
                     "Dave Frishberg",
-                    "Jack",
+                    "Jack Sheldon",
                     "Justin Chang",
                     "Magic Mike's",
                     "Channing Tatum"
@@ -2706,12 +2856,12 @@
                     "Nan Goldin",
                     "Sackler",
                     "Goldin",
-                    "Laura",
+                    "Laura Poitras",
                     "John Powers",
                     "Oscar"
                 ],
                 "WORK_OF_ART": [
-                    "Beauty and the Bloodshed</em>"
+                    "Beauty and the Bloodshed"
                 ],
                 "ORG": [
                     "Purdue Pharma",
@@ -2757,7 +2907,11 @@
                 "ORG": [
                     "Black Power",
                     "the Student Nonviolent Coordinating Committee",
-                    "SNCC"
+                    "SNCC",
+                    "the Civil Rights Movement"
+                ],
+                "WORK_OF_ART": [
+                    "Saying It Loud:"
                 ]
             }
         },
@@ -2786,12 +2940,15 @@
                 "PERSON": [
                     "Mark Pomerantz",
                     "Donald Trump's",
-                    "Donald",
+                    "Donald Trump",
                     "Maureen Corrigan",
                     "Thomas Mallon"
                 ],
                 "GPE": [
                     "Manhattan"
+                ],
+                "ORG": [
+                    "Sun"
                 ]
             }
         },
@@ -2853,13 +3010,12 @@
                 "PERSON": [
                     "Henry Marsh",
                     "Lizzy Caplan",
-                    "Fleishman",
                     "David Bianculli",
                     "Harrison Ford",
                     "Jason Segel"
                 ],
-                "GPE": [
-                    "Trouble"
+                "WORK_OF_ART": [
+                    "Fleishman Is in Trouble"
                 ]
             }
         },
@@ -2888,6 +3044,12 @@
                 "CARDINAL": [
                     "one"
                 ],
+                "ORG": [
+                    "Swimmers",
+                    "The Nation",
+                    "House",
+                    "Un-American Activities Committee"
+                ],
                 "NORP": [
                     "Japanese Americans",
                     "Japanese"
@@ -2900,14 +3062,12 @@
                     "Victor Navasky",
                     "David Bianculli"
                 ],
+                "WORK_OF_ART": [
+                    "Naming Names"
+                ],
                 "LOC": [
-                    "the Hollywood 10"
-                ],
-                "ORG": [
-                    "House"
-                ],
-                "PRODUCT": [
-                    "Un-American Activities"
+                    "the Hollywood 10",
+                    "Earth"
                 ],
                 "GPE": [
                     "Netflix"
@@ -2938,9 +3098,9 @@
             "entities": {
                 "PERSON": [
                     "Jere Van Dyk",
+                    "Without Borders",
                     "Kevin Whitehead",
-                    "Shirley Scott",
-                    "Cookbook</em"
+                    "Shirley Scott Cookbook"
                 ],
                 "DATE": [
                     "years"
@@ -3011,17 +3171,22 @@
             "pubDate": "Tue, 31 Jan 2023 19:34:43 +0000",
             "title": "Actor Lizzy Caplan",
             "entities": {
+                "WORK_OF_ART": [
+                    "Fleishman Is in Trouble"
+                ],
                 "PERSON": [
-                    "Fleishman",
                     "Lizzy Caplan",
                     "Libby",
-                    "Ann Marie",
+                    "Party Down",
+                    "Ann Marie Baldonado",
                     "David Bianculli",
                     "Jason Segel",
                     "Harrison Ford"
                 ],
                 "ORG": [
-                    "Caplan"
+                    "Caplan",
+                    "Mean Girls",
+                    "Freaks and Geeks"
                 ]
             }
         },
@@ -3051,8 +3216,7 @@
                     "Neurosurgeon"
                 ],
                 "PERSON": [
-                    "Henry Marsh",
-                    "Finally</em"
+                    "Henry Marsh"
                 ],
                 "GPE": [
                     "Ukraine"
@@ -3083,21 +3247,25 @@
             "entities": {
                 "PERSON": [
                     "F. Murray Abraham",
-                    "The White Lotus</em",
                     "Bert",
                     "David Bianculli",
                     "Rian Johnson's",
-                    "Natasha",
+                    "Natasha Lyonne",
                     "Jeff Guinn",
                     "Charles Manson",
-                    "Jim Jones"
+                    "Jim Jones",
+                    "Waco"
                 ],
                 "DATE": [
                     "1985",
                     "1993"
                 ],
                 "WORK_OF_ART": [
-                    "Best Actor Oscar for <em>Amadeus</em>"
+                    "Best Actor Oscar for Amadeus",
+                    "Poker Face"
+                ],
+                "ORG": [
+                    "The White Lotus"
                 ],
                 "GPE": [
                     "Italy"
@@ -3134,7 +3302,8 @@
             "entities": {
                 "DATE": [
                     "This month",
-                    "the centennial"
+                    "the centennial",
+                    "last week"
                 ],
                 "PERSON": [
                     "Sam Phillips",
@@ -3142,7 +3311,7 @@
                     "Jerry Lee Lewis",
                     "Carl Perkins",
                     "Johnny Cash",
-                    "Roy",
+                    "Roy Orbison",
                     "David Crosby",
                     "Graham Nash",
                     "Crosby",
@@ -3158,7 +3327,8 @@
                     "HBO"
                 ],
                 "GPE": [
-                    "Memphis"
+                    "Memphis",
+                    "Us"
                 ]
             }
         },
@@ -3184,8 +3354,8 @@
             "pubDate": "Thu, 26 Jan 2023 19:16:18 +0000",
             "title": "How Social Media's Role Was Left Out Of The Jan. 6 Report",
             "entities": {
-                "GPE": [
-                    "Washington"
+                "ORG": [
+                    "Washington Post"
                 ],
                 "PERSON": [
                     "Drew Harwell"
@@ -3218,7 +3388,9 @@
                     "Jeff Guinn",
                     "Charles Manson",
                     "Jim Jones",
+                    "Waco",
                     "David Bianculli",
+                    "Poker Face",
                     "Natasha Lyonne"
                 ],
                 "NORP": [
@@ -3259,14 +3431,16 @@
             "entities": {
                 "PERSON": [
                     "F. Murray Abraham",
-                    "The White Lotus</em",
                     "Bert"
                 ],
                 "DATE": [
                     "1985"
                 ],
                 "WORK_OF_ART": [
-                    "Best Actor Oscar for <em>Amadeus</em>"
+                    "Best Actor Oscar for Amadeus"
+                ],
+                "ORG": [
+                    "The White Lotus"
                 ],
                 "GPE": [
                     "Italy"
@@ -3313,7 +3487,7 @@
                     "Saket Soni"
                 ],
                 "WORK_OF_ART": [
-                    "The Great Escape</em"
+                    "The Great Escape"
                 ]
             }
         },
@@ -3342,10 +3516,12 @@
                 "PERSON": [
                     "Mary Ziegler",
                     "Jonathan Escoffery",
-                    "Survive You</em>",
                     "Maureen Corrigan's",
                     "Kevin Whitehead",
                     "Kenny Baron"
+                ],
+                "LAW": [
+                    "Roe: The History of a National Obsession"
                 ],
                 "GPE": [
                     "America",
@@ -3386,7 +3562,8 @@
                     "Rachael & Vilray's"
                 ],
                 "WORK_OF_ART": [
-                    "Love a Love Song"
+                    "I Love a Love Song",
+                    "Women Talking"
                 ],
                 "DATE": [
                     "the '30s and '40s",
@@ -3396,13 +3573,12 @@
                     "Rachael",
                     "Sam Briger",
                     "Maureen Corrigan",
-                    "This Other Eden,</em",
                     "Paul Harding",
-                    "Justin Chang",
-                    "Women Talking"
+                    "Justin Chang"
                 ],
                 "FAC": [
-                    "Lake Street Dive"
+                    "Lake Street Dive",
+                    "This Other Eden"
                 ]
             }
         },
@@ -3436,11 +3612,14 @@
                 "CARDINAL": [
                     "three"
                 ],
-                "ORG": [
-                    "Declassification"
+                "WORK_OF_ART": [
+                    "The Declassification Engine"
                 ],
                 "NORP": [
                     "French"
+                ],
+                "LOC": [
+                    "Saint Omer"
                 ]
             }
         },
@@ -3466,8 +3645,9 @@
             "pubDate": "Wed, 18 Jan 2023 19:24:40 +0000",
             "title": "What's Next For The New GOP-Led House?",
             "entities": {
-                "GPE": [
-                    "New York"
+                "ORG": [
+                    "New York Times",
+                    "House of Representatives"
                 ],
                 "PERSON": [
                     "Catie Edmondson",
@@ -3475,9 +3655,6 @@
                 ],
                 "NORP": [
                     "Republican"
-                ],
-                "ORG": [
-                    "House of Representatives"
                 ],
                 "DATE": [
                     "The next two years"
@@ -3511,6 +3688,9 @@
                 ],
                 "GPE": [
                     "the United States"
+                ],
+                "LAW": [
+                    "Roe: The History of a National Obsession"
                 ]
             }
         },
@@ -3546,7 +3726,12 @@
                 ],
                 "LOC": [
                     "South",
+                    "South",
                     "South"
+                ],
+                "GPE": [
+                    "America",
+                    "America"
                 ],
                 "LAW": [
                     "the National Book Award"
@@ -3585,9 +3770,12 @@
                 "PERSON": [
                     "Lauren Fleshman",
                     "Taffy Brodesser-Akner",
-                    "Fleishman",
                     "Justin Chang",
                     "Jafar Panahi"
+                ],
+                "WORK_OF_ART": [
+                    "Good For a Girl",
+                    "Fleishman Is In Trouble on Hulu"
                 ],
                 "ORG": [
                     "FX",
@@ -3625,8 +3813,15 @@
                     "Larry Sultan",
                     "Nathan Lane",
                     "Maureen Corrigan",
+                    "Sam",
                     "Allegra Goodman",
                     "Justin Chang"
+                ],
+                "WORK_OF_ART": [
+                    "Affliction, The Sweet Hereafter"
+                ],
+                "ORG": [
+                    "Continental Drift"
                 ],
                 "GPE": [
                     "California"
@@ -3701,10 +3896,10 @@
                     "Chloe Sorvino"
                 ],
                 "GPE": [
-                    "Trouble</em"
+                    "Trouble"
                 ],
                 "ORG": [
-                    "FX/Hulu.<br><br"
+                    "FX/Hulu"
                 ]
             }
         },
@@ -3738,7 +3933,8 @@
                 ],
                 "WORK_OF_ART": [
                     "Title IX",
-                    "Objectify Me"
+                    "Objectify Me",
+                    "Good for a Girl"
                 ],
                 "ORG": [
                     "Nike"
@@ -3769,8 +3965,7 @@
             "entities": {
                 "PERSON": [
                     "Jonathan Escoffery",
-                    "Ken Tucker",
-                    "SOS</em"
+                    "Ken Tucker"
                 ],
                 "GPE": [
                     "Miami"
@@ -3779,7 +3974,8 @@
                     "Jamaican"
                 ],
                 "ORG": [
-                    "SZA"
+                    "SZA",
+                    "SOS"
                 ]
             }
         },
@@ -3812,7 +4008,7 @@
                     "Luke Broadwater",
                     "John Powers",
                     "Noah Baumbach",
-                    "Don DeLillo's",
+                    "Don DeLillo",
                     "Robert Gottlieb",
                     "Joseph Heller",
                     "Toni Morrison",
@@ -3826,20 +4022,22 @@
                 ],
                 "ORG": [
                     "Congress",
+                    "the New York Times",
                     "Committee"
                 ],
-                "GPE": [
-                    "New York Times</em"
-                ],
                 "FAC": [
-                    "Capitol"
+                    "Capitol",
+                    "White Noise"
                 ],
                 "DATE": [
                     "the day",
                     "decades"
                 ],
+                "WORK_OF_ART": [
+                    "Turn Every Page"
+                ],
                 "PRODUCT": [
-                    "Power Broker </em"
+                    "Power Broker"
                 ]
             }
         },
@@ -3888,6 +4086,9 @@
                     "John Powers",
                     "Noah Baumbach"
                 ],
+                "FAC": [
+                    "White Noise"
+                ],
                 "GPE": [
                     "Netflix"
                 ]
@@ -3915,11 +4116,12 @@
             "pubDate": "Thu, 05 Jan 2023 20:06:33 +0000",
             "title": "How The Jan. 6 Committee Used TV Tactics Against Trump",
             "entities": {
+                "ORG": [
+                    "NYT",
+                    "Trump"
+                ],
                 "PERSON": [
                     "Luke Broadwater"
-                ],
-                "ORG": [
-                    "Trump"
                 ]
             }
         },
@@ -3960,8 +4162,10 @@
                     "D.C."
                 ],
                 "PERSON": [
-                    "Shahan Mufti",
-                    "American Caliph</em"
+                    "Shahan Mufti"
+                ],
+                "ORG": [
+                    "American Caliph"
                 ]
             }
         },
@@ -4010,11 +4214,17 @@
                     "decades",
                     "1952"
                 ],
+                "WORK_OF_ART": [
+                    "Turn Every Page"
+                ],
                 "PRODUCT": [
-                    "Power Broker </em"
+                    "Power Broker"
                 ],
                 "NORP": [
                     "British"
+                ],
+                "GPE": [
+                    "Ikiru"
                 ]
             }
         },
@@ -4048,14 +4258,16 @@
                     "Perez",
                     "Perez",
                     "Perez",
-                    "Spike Lee",
-                    "Max"
+                    "Spike Lee"
+                ],
+                "WORK_OF_ART": [
+                    "Soul Train"
                 ],
                 "ORG": [
                     "HBO"
                 ],
                 "PRODUCT": [
-                    "The Flight Attendant</em"
+                    "The Flight Attendant"
                 ]
             }
         },
@@ -4088,11 +4300,15 @@
                 "PERSON": [
                     "Seth Meyers",
                     "Stephen Merchant",
-                    "Ricky Gervais",
                     "Ken Tucker"
                 ],
                 "ORG": [
                     "NBC"
+                ],
+                "WORK_OF_ART": [
+                    "Late Night",
+                    "The Office with Ricky Gervais",
+                    "The Outlaws"
                 ],
                 "NORP": [
                     "British"
@@ -4154,7 +4370,6 @@
                 ],
                 "PERSON": [
                     "Michael Imperioli",
-                    "The White Lotus</em",
                     "Tony Soprano's",
                     "Christopher Moltisanti",
                     "Sam Briger",
@@ -4163,6 +4378,10 @@
                 "GPE": [
                     "Hollywood",
                     "Sicily"
+                ],
+                "ORG": [
+                    "HBO",
+                    "The White Lotus"
                 ]
             }
         },
@@ -4230,12 +4449,13 @@
                 "ORG": [
                     "HBO"
                 ],
+                "GPE": [
+                    "Rothaniel",
+                    "Carmichael"
+                ],
                 "PERSON": [
                     "Jerrod Carmichael",
                     "Nick Quah"
-                ],
-                "GPE": [
-                    "Carmichael"
                 ],
                 "FAC": [
                     "the Golden Globes"
@@ -4269,14 +4489,13 @@
                     "2022"
                 ],
                 "ORG": [
-                    "FX/Hulu"
-                ],
-                "GPE": [
-                    "Dogs</em",
-                    "Oklahoma Indian"
+                    "FX/Hulu series Reservation Dogs"
                 ],
                 "CARDINAL": [
                     "four"
+                ],
+                "GPE": [
+                    "Oklahoma Indian"
                 ],
                 "NORP": [
                     "Native"
@@ -4319,14 +4538,19 @@
                 ],
                 "PERSON": [
                     "Spielberg",
-                    "Terry Gross",
-                    "Ryan</em"
+                    "Terry Gross"
+                ],
+                "NORP": [
+                    "Fabelmans"
                 ],
                 "MONEY": [
                     "$40 million"
                 ],
                 "ORDINAL": [
                     "first"
+                ],
+                "ORG": [
+                    "Saving Private Ryan"
                 ],
                 "EVENT": [
                     "Holocaust"
@@ -4395,14 +4619,18 @@
                 "PERSON": [
                     "Sheryl Lee Ralph",
                     "Barbara Howard",
-                    "Abbott Elementary</em",
+                    "Abbott Elementary",
                     "Justin Chang"
                 ],
                 "ORG": [
-                    "ABC"
+                    "ABC",
+                    "Dreamgirls"
                 ],
                 "FAC": [
                     "Broadway"
+                ],
+                "GPE": [
+                    "Moesha"
                 ],
                 "CARDINAL": [
                     "11"
@@ -4434,20 +4662,21 @@
                 "PERSON": [
                     "Questlove",
                     "Questlove",
-                    "Jimmy Fallon</em",
                     "Oscar"
                 ],
                 "DATE": [
                     "Christmas",
-                    "this year",
-                    "Summer"
+                    "this year"
                 ],
                 "ORG": [
                     "the The Roots",
                     "Questlove's Spotify"
                 ],
                 "WORK_OF_ART": [
-                    "The Tonight Show"
+                    "The Tonight Show with Jimmy Fallon"
+                ],
+                "EVENT": [
+                    "Summer of Soul"
                 ]
             }
         },
@@ -4477,11 +4706,14 @@
                     "recent years",
                     "nearly two years"
                 ],
-                "GPE": [
-                    "New York Times</em"
+                "ORG": [
+                    "the New York Times'"
                 ],
                 "PERSON": [
                     "Matt Richtel"
+                ],
+                "WORK_OF_ART": [
+                    "The Inner Pandemic"
                 ]
             }
         },
@@ -4557,15 +4789,16 @@
                     "Somen",
                     "Steve\" Banerjee",
                     "Justin Chang",
-                    "Matilda</em",
                     "Rian Johnson's"
                 ],
                 "ORG": [
                     "Banerjee",
-                    "un"
+                    "un",
+                    "Matilda"
                 ],
                 "GPE": [
                     "Pakistan",
+                    "Pinnochio",
                     "Netflix"
                 ],
                 "DATE": [
@@ -4598,23 +4831,22 @@
                 "CARDINAL": [
                     "1952"
                 ],
-                "GPE": [
-                    "Noon</em",
-                    "America"
-                ],
                 "DATE": [
                     "70 years ago"
                 ],
+                "GPE": [
+                    "America"
+                ],
                 "ORG": [
-                    "congress",
-                    "The Hollywood Blacklist"
+                    "congress"
                 ],
                 "PERSON": [
                     "Glenn Frankel",
                     "Justin Chang"
                 ],
-                "NORP": [
-                    "American"
+                "WORK_OF_ART": [
+                    "High Noon: The Hollywood Blacklist and the Making of an American Classic",
+                    "The Way of Water"
                 ]
             }
         },
@@ -4644,6 +4876,12 @@
                     "Rachel Maddow's",
                     "Hitler"
                 ],
+                "ORG": [
+                    "Ultra",
+                    "Ultra",
+                    "the U. S. Senate",
+                    "House of Representatives"
+                ],
                 "GPE": [
                     "Germany"
                 ],
@@ -4656,10 +4894,6 @@
                     "Nazi",
                     "Americans",
                     "American"
-                ],
-                "ORG": [
-                    "the U. S. Senate",
-                    "House of Representatives"
                 ],
                 "CARDINAL": [
                     "millions"
@@ -4700,8 +4934,15 @@
                     "last month",
                     "2022"
                 ],
+                "GPE": [
+                    "Kindred"
+                ],
                 "ORG": [
-                    "FX"
+                    "FX",
+                    "Kindred"
+                ],
+                "PRODUCT": [
+                    "the Antebellum South"
                 ]
             }
         },
@@ -4744,6 +4985,9 @@
                 "NORP": [
                     "Americans"
                 ],
+                "WORK_OF_ART": [
+                    "American Midnight"
+                ],
                 "LOC": [
                     "Emerald City Nights"
                 ]
@@ -4775,14 +5019,16 @@
                     "Rian Johnson's",
                     "Maureen Corrigan",
                     "Jane Smiley",
-                    "Shelby Van Pelt's",
-                    "Bright Creatures</em"
+                    "Shelby Van Pelt's"
                 ],
                 "DATE": [
                     "a long weekend"
                 ],
                 "CARDINAL": [
                     "two"
+                ],
+                "ORG": [
+                    "Remarkably Bright Creatures"
                 ]
             }
         },
@@ -4813,18 +5059,20 @@
                     "day"
                 ],
                 "ORG": [
-                    "HBO"
+                    "HBO",
+                    "The White Lotus",
+                    "Laverne & Shirley"
                 ],
                 "PERSON": [
-                    "The White Lotus</em",
                     "Mike White",
                     "Michael Cecchi-Azzolina"
                 ],
-                "LOC": [
-                    "Fantasy Island </em"
-                ],
                 "GPE": [
+                    "Fantasy Island",
                     "New York City"
+                ],
+                "WORK_OF_ART": [
+                    "Your Table Is Ready"
                 ]
             }
         },
@@ -4850,17 +5098,21 @@
             "pubDate": "Fri, 09 Dec 2022 17:16:17 +0000",
             "title": "Neil Young / George Clooney",
             "entities": {
+                "LOC": [
+                    "Harvest Time",
+                    "Good Night"
+                ],
                 "PERSON": [
                     "Neil Young",
                     "Young",
-                    "George Clooney",
                     "Terry Gross",
+                    "Good Luck",
                     "Justin Chang",
                     "Guillermo del Toro's"
                 ],
                 "CARDINAL": [
                     "two",
-                    "2004.<br><br",
+                    "2004.George",
                     "two"
                 ],
                 "DATE": [
@@ -4868,8 +5120,13 @@
                     "last week",
                     "2005"
                 ],
+                "ORG": [
+                    "Clooney",
+                    "Matilda"
+                ],
                 "GPE": [
-                    "Netflix"
+                    "Netflix",
+                    "Pinocchio"
                 ]
             }
         },
@@ -4932,7 +5189,8 @@
                 ],
                 "ORG": [
                     "Banerjee",
-                    "un"
+                    "un",
+                    "Marvel: Eternals"
                 ],
                 "GPE": [
                     "Pakistan"
@@ -4998,16 +5256,16 @@
                     "the second season"
                 ],
                 "ORG": [
-                    "HBO"
+                    "HBO",
+                    "The White Lotus",
+                    "Laverne & Shirley"
                 ],
                 "PERSON": [
-                    "The White Lotus</em",
                     "Mike White",
-                    "Survivor</em",
                     "Ken Tucker"
                 ],
-                "LOC": [
-                    "Fantasy Island </em"
+                "GPE": [
+                    "Fantasy Island"
                 ],
                 "CARDINAL": [
                     "three"
@@ -5038,10 +5296,9 @@
             "entities": {
                 "PERSON": [
                     "James Gray's",
-                    "Armageddon Time</em",
+                    "Armageddon Time",
                     "Maureen Corrigan",
-                    "Physician Siddhartha Mukherjee",
-                    "The Song of the Cell</em"
+                    "Physician Siddhartha Mukherjee"
                 ],
                 "GPE": [
                     "Queens",
@@ -5053,6 +5310,9 @@
                 ],
                 "CARDINAL": [
                     "1"
+                ],
+                "WORK_OF_ART": [
+                    "The Song of the Cell"
                 ]
             }
         },
@@ -5082,12 +5342,17 @@
                     "Trevor Noah",
                     "Noah",
                     "Justin Chang",
-                    "Daughter</em",
                     "Tilda Swinton"
+                ],
+                "WORK_OF_ART": [
+                    "The Daily Show"
                 ],
                 "DATE": [
                     "seven years",
                     "two 2016"
+                ],
+                "GPE": [
+                    "Netflix"
                 ]
             }
         },
@@ -5113,12 +5378,11 @@
             "pubDate": "Thu, 01 Dec 2022 21:25:35 +0000",
             "title": "How Should Nations Memorialize Their Atrocities?",
             "entities": {
-                "GPE": [
-                    "Passed,</em",
-                    "U.S."
-                ],
                 "PERSON": [
                     "Clint Smith"
+                ],
+                "GPE": [
+                    "U.S."
                 ],
                 "LOC": [
                     "Atlantic"
@@ -5193,8 +5457,10 @@
             "pubDate": "Tue, 29 Nov 2022 20:47:56 +0000",
             "title": "Reporting On The Atrocities And Destruction In Ukraine",
             "entities": {
+                "ORG": [
+                    "Guardian"
+                ],
                 "PERSON": [
-                    "Guardian</em",
                     "Luke Harding",
                     "Harding"
                 ],
@@ -5268,12 +5534,17 @@
                 "PERSON": [
                     "Yankovic",
                     "David Bianculli",
-                    "Wednesday</em",
                     "Addams Familiy",
                     "Steve Lopez"
                 ],
+                "DATE": [
+                    "Wednesday"
+                ],
                 "ORG": [
                     "LA Times"
+                ],
+                "EVENT": [
+                    "Independence Day"
                 ]
             }
         },
@@ -5308,6 +5579,9 @@
                 ],
                 "NORP": [
                     "Polish"
+                ],
+                "ORG": [
+                    "EO"
                 ]
             }
         },
@@ -5345,12 +5619,12 @@
                     "Charlie Brown",
                     "Kevin Whitehead",
                     "Vince Guaraldi",
-                    "Charlie Brown Christmas.<br><br></em",
                     "Bugs Bunny",
                     "Daffy Duck",
                     "Jones"
                 ],
                 "WORK_OF_ART": [
+                    "A Charlie Brown Christmas",
                     "Bugs and Daffy's Thanksgiving Adventure"
                 ]
             }
@@ -5382,11 +5656,14 @@
                     "Brooks"
                 ],
                 "DATE": [
-                    "the years"
+                    "the years",
+                    "Wednesday"
+                ],
+                "WORK_OF_ART": [
+                    "All About Me"
                 ],
                 "PERSON": [
                     "David Bianculli",
-                    "Wednesday</em",
                     "Addams Family"
                 ]
             }
@@ -5419,7 +5696,11 @@
                 "PERSON": [
                     "Steve Lopez",
                     "Maureen Corrigan",
-                    "Claire Keegan's"
+                    "Claire Keegan's",
+                    "Foster"
+                ],
+                "EVENT": [
+                    "Independence Day"
                 ]
             }
         },
@@ -5446,11 +5727,13 @@
             "title": "Siddhartha Mukherjee On A Revolution In Cell Biology",
             "entities": {
                 "PERSON": [
-                    "Physician Siddhartha Mukherjee",
-                    "The Song of the Cell</em"
+                    "Physician Siddhartha Mukherjee"
                 ],
                 "CARDINAL": [
                     "1"
+                ],
+                "WORK_OF_ART": [
+                    "The Song of the Cell"
                 ]
             }
         },
@@ -5479,7 +5762,6 @@
                 "PERSON": [
                     "Misty Copeland",
                     "Michael Imperioli",
-                    "The White Lotus</em",
                     "Tony Soprano's",
                     "Christopher Moltisanti"
                 ],
@@ -5489,7 +5771,11 @@
                 ],
                 "ORG": [
                     "the American Ballet Theatre",
-                    "HBO"
+                    "HBO",
+                    "The White Lotus"
+                ],
+                "WORK_OF_ART": [
+                    "The Wind at My Back"
                 ],
                 "GPE": [
                     "Hollywood",
@@ -5520,21 +5806,24 @@
             "title": "Behind Yiddish 'Fiddler On The Roof'",
             "entities": {
                 "GPE": [
-                    "Yiddish",
-                    "New York Times</em"
+                    "Yiddish"
+                ],
+                "PERSON": [
+                    "Fiddler",
+                    "Roof",
+                    "Joel Grey",
+                    "Steven Skybell",
+                    "Justin Chang",
+                    "Said",
+                    "Harvey Weinstein"
                 ],
                 "FAC": [
                     "Broadway"
                 ],
-                "PERSON": [
-                    "Joel Grey",
-                    "Steven Skybell",
-                    "Justin Chang",
-                    "Harvey Weinstein"
-                ],
                 "ORG": [
                     "Tevye",
-                    "Yiddish"
+                    "Yiddish",
+                    "the New York Times"
                 ]
             }
         },
@@ -5560,6 +5849,9 @@
             "pubDate": "Thu, 17 Nov 2022 22:35:20 +0000",
             "title": "A Dangerous Game Over Taiwan",
             "entities": {
+                "ORG": [
+                    "New Yorker"
+                ],
                 "PERSON": [
                     "Dexter Filkins"
                 ],
@@ -5631,14 +5923,21 @@
                     "Sicily",
                     "Imperioli"
                 ],
+                "ORG": [
+                    "HBO",
+                    "The White Lotus"
+                ],
                 "PERSON": [
-                    "The White Lotus</em",
                     "Tony Soprano's",
                     "Christopher Moltisanti",
+                    "Talking Sopranos",
                     "Nick Quah"
                 ],
                 "DATE": [
                     "2021"
+                ],
+                "WORK_OF_ART": [
+                    "Woke Up This Morning"
                 ]
             }
         },
@@ -5674,6 +5973,9 @@
                 ],
                 "PERSON": [
                     "Raven Wilkinson"
+                ],
+                "WORK_OF_ART": [
+                    "The Wind at My Back"
                 ]
             }
         },
@@ -5716,7 +6018,7 @@
                     "Robert Williams",
                     "Justin Chang",
                     "Black Panther",
-                    "Wakanda Forever</em"
+                    "Wakanda Forever"
                 ],
                 "NORP": [
                     "Germans"
@@ -5755,9 +6057,13 @@
                     "Steven Spielberg's",
                     "Terry Gross",
                     "Maureen Corrigan",
-                    "Foster</em",
-                    "Claire",
+                    "Foster",
+                    "Claire Keegan",
                     "Matthew Delmont"
+                ],
+                "NORP": [
+                    "Fabelmans",
+                    "Half American"
                 ],
                 "DATE": [
                     "years"
@@ -5802,8 +6108,8 @@
             "pubDate": "Thu, 10 Nov 2022 20:24:47 +0000",
             "title": "Our New Climate Reality",
             "entities": {
-                "GPE": [
-                    "New York Times</em"
+                "ORG": [
+                    "New York Times"
                 ],
                 "PERSON": [
                     "David Wallace-Wells",
@@ -5815,6 +6121,12 @@
                 ],
                 "DATE": [
                     "coming decades"
+                ],
+                "WORK_OF_ART": [
+                    "Tulsa King"
+                ],
+                "GPE": [
+                    "Yellowstone"
                 ]
             }
         },
@@ -5842,8 +6154,10 @@
             "entities": {
                 "PERSON": [
                     "Spielberg",
-                    "Terry Gross",
-                    "Ryan</em"
+                    "Terry Gross"
+                ],
+                "NORP": [
+                    "Fabelmans"
                 ],
                 "DATE": [
                     "years",
@@ -5854,6 +6168,9 @@
                 ],
                 "ORDINAL": [
                     "first"
+                ],
+                "ORG": [
+                    "Saving Private Ryan"
                 ],
                 "EVENT": [
                     "Holocaust"
@@ -5931,6 +6248,10 @@
                 ],
                 "GPE": [
                     "Delmont"
+                ],
+                "NORP": [
+                    "Half American",
+                    "Fabelmans"
                 ]
             }
         },
@@ -5957,12 +6278,12 @@
             "title": "Best Of: 'Till' Director Chinonye Chukwu  / 'Shutter' Author Ramona Emerson",
             "entities": {
                 "PERSON": [
-                    "Till</em",
                     "Mamie Till-Mobley",
                     "Emmett",
                     "Chinonye Chukwu",
                     "Ken Tucker",
-                    "Taylor Swift's"
+                    "Taylor Swift's",
+                    "Shutter"
                 ],
                 "ORG": [
                     "the civil rights movement",
@@ -5996,11 +6317,14 @@
             "title": "'Pose' Actor Billy Porter",
             "entities": {
                 "PERSON": [
-                    "Tony",
-                    "Kinky Boots</em"
+                    "Tony"
                 ],
                 "FAC": [
                     "Broadway"
+                ],
+                "ORG": [
+                    "Kinky Boots",
+                    "Unprotected"
                 ]
             }
         },
@@ -6026,8 +6350,8 @@
             "pubDate": "Thu, 03 Nov 2022 21:48:11 +0000",
             "title": "How Election Deniers Might Impact The Midterms",
             "entities": {
-                "GPE": [
-                    "New York Times</em"
+                "ORG": [
+                    "New York Times"
                 ],
                 "PERSON": [
                     "Alexandra Berzon",
@@ -6074,14 +6398,17 @@
                     "Emerson"
                 ],
                 "PERSON": [
+                    "Shutter",
                     "John Powers"
                 ],
                 "CARDINAL": [
-                    "two",
-                    "1985</em"
+                    "two"
                 ],
                 "GPE": [
                     "Argentina"
+                ],
+                "DATE": [
+                    "1985"
                 ]
             }
         },
@@ -6108,7 +6435,6 @@
             "title": "'Till' Director Chinonye Chukwu",
             "entities": {
                 "PERSON": [
-                    "Till</em",
                     "Mamie Till-Mobley",
                     "Without Mamie Till-Mobley",
                     "Emmett",
@@ -6148,14 +6474,18 @@
                 ],
                 "PERSON": [
                     "Anthony Hopkins",
-                    "Hannibal Lecter",
+                    "Lambs",
                     "Sissy Spacek",
                     "George Romero",
-                    "Kathy Bates",
-                    "Misery</em"
+                    "Kathy Bates"
                 ],
                 "ORG": [
+                    "Hannibal Lecter",
+                    "Night of the Living Dead",
                     "Mercedes McCambridge"
+                ],
+                "WORK_OF_ART": [
+                    "The Exorcist"
                 ]
             }
         },
@@ -6185,7 +6515,7 @@
                     "Evan Osnos",
                     "Guo Wengui",
                     "Maureen Corrigan",
-                    "Alexandra Horowitz.<br><br",
+                    "Alexandra Horowitz",
                     "Jemele Hill",
                     "Tonya Mosley"
                 ],
@@ -6197,10 +6527,11 @@
                     "MAGA",
                     "ESPN",
                     "SportsCenter",
-                    "Trump"
+                    "Trump",
+                    "Uphill"
                 ],
                 "EVENT": [
-                    "The Year of the Puppy</em>"
+                    "The Year of the Puppy"
                 ],
                 "DATE": [
                     "2017"
@@ -6233,7 +6564,7 @@
                     "Stephen King",
                     "Jordan Peele",
                     "Justin Chang",
-                    "Armageddon Time</em"
+                    "Armageddon Time"
                 ]
             }
         },
@@ -6262,7 +6593,8 @@
                 "PERSON": [
                     "Scott Franzke",
                     "Ken Tucker",
-                    "Taylor Swift's"
+                    "Taylor Swift's",
+                    "Midnights"
                 ],
                 "ORG": [
                     "MLB"
@@ -6311,13 +6643,11 @@
                 ],
                 "ORG": [
                     "Deep State",
-                    "Trump"
-                ],
-                "NORP": [
-                    "American"
+                    "Trump",
+                    "American Resistance"
                 ],
                 "WORK_OF_ART": [
-                    "The Banshees of Inisherin</em>"
+                    "The Banshees of Inisherin"
                 ]
             }
         },
@@ -6345,7 +6675,9 @@
             "entities": {
                 "ORG": [
                     "ESPN",
-                    "Trump"
+                    "SportsCenter",
+                    "Trump",
+                    "Uphill"
                 ],
                 "DATE": [
                     "2017"
@@ -6399,7 +6731,7 @@
                     "Alexandra Horowitz"
                 ],
                 "EVENT": [
-                    "The Year of the Puppy</em>"
+                    "The Year of the Puppy"
                 ]
             }
         },
@@ -6430,24 +6762,29 @@
                     "age 96",
                     "2000"
                 ],
+                "WORK_OF_ART": [
+                    "Murder, She Wrote",
+                    "The Banshees of Inisherin"
+                ],
                 "PERSON": [
                     "Tony Awards",
                     "Mama Rose",
-                    "Gypsy</em",
                     "Lovett",
+                    "Sweeney Todd",
                     "Terry Gross's",
-                    "Justin Chang",
+                    "Chang",
                     "Colin Farrell",
                     "Hua Hsu"
                 ],
+                "GPE": [
+                    "Gypsy"
+                ],
                 "ORG": [
-                    "Lansbury"
+                    "Lansbury",
+                    "New Yorker"
                 ],
                 "CARDINAL": [
-                    "1980.<br><br"
-                ],
-                "WORK_OF_ART": [
-                    "The Banshees of Inisherin </em"
+                    "1980.Justin"
                 ],
                 "NORP": [
                     "Taiwanese"
@@ -6483,23 +6820,25 @@
                     "2000",
                     "1980"
                 ],
-                "NORP": [
-                    "Manchurian"
+                "WORK_OF_ART": [
+                    "Murder, She Wrote",
+                    "Beauty and the Beast"
                 ],
                 "ORG": [
+                    "The Manchurian Candidate",
                     "Disney",
                     "Lansbury"
-                ],
-                "WORK_OF_ART": [
-                    "Beauty and the Beast</em"
                 ],
                 "PERSON": [
                     "Tony Awards",
                     "Mama Rose",
-                    "Gypsy</em",
                     "Lovett",
+                    "Sweeney Todd",
                     "the Tony Award",
                     "Terry Gross's"
+                ],
+                "GPE": [
+                    "Gypsy"
                 ]
             }
         },
@@ -6566,6 +6905,9 @@
                 ],
                 "ORG": [
                     "GOP"
+                ],
+                "WORK_OF_ART": [
+                    "Weapons of Mass Delusion"
                 ]
             }
         },
@@ -6594,11 +6936,12 @@
                 "NORP": [
                     "Taiwanese"
                 ],
+                "ORG": [
+                    "New Yorker"
+                ],
                 "PERSON": [
                     "Hua Hsu",
-                    "True.<br><br></em",
-                    "David Bianculli",
-                    "Now!</em"
+                    "David Bianculli"
                 ],
                 "DATE": [
                     "the new season"
@@ -6678,6 +7021,9 @@
                 ],
                 "DATE": [
                     "about the early days"
+                ],
+                "WORK_OF_ART": [
+                    "Money: The True Story of a Made Up Thing"
                 ]
             }
         },
@@ -6705,13 +7051,13 @@
             "entities": {
                 "ORG": [
                     "Ronstadt",
-                    "Ronstadt"
+                    "Ronstadt",
+                    "Feels Like Home: A Song for the Sonoran Borderlands"
                 ],
                 "WORK_OF_ART": [
                     "Heart Like a Wheel",
                     "Desperado",
-                    "Faithless Love",
-                    "Feels Like Home: A Song for the"
+                    "Faithless Love"
                 ],
                 "DATE": [
                     "2013",
@@ -6719,10 +7065,8 @@
                 ],
                 "PERSON": [
                     "Ronstadt",
-                    "Sonoran",
                     "Terry Gross",
-                    "Justin Chang",
-                    "Till</em"
+                    "Justin Chang"
                 ],
                 "NORP": [
                     "Mexican"
@@ -6755,7 +7099,8 @@
             "title": "The Sensory Perceptions Of Animals",
             "entities": {
                 "WORK_OF_ART": [
-                    "Pulitzer Prize"
+                    "Pulitzer Prize",
+                    "An Immense World"
                 ],
                 "PERSON": [
                     "Ed Yong",
@@ -6792,7 +7137,8 @@
                 "PERSON": [
                     "Jacob Goldstein",
                     "Ken Tucker",
-                    "Ashley McBryde's"
+                    "Ashley McBryde's",
+                    "Lindeville"
                 ],
                 "ORDINAL": [
                     "first"
@@ -6803,6 +7149,9 @@
                 ],
                 "ORG": [
                     "Fed"
+                ],
+                "WORK_OF_ART": [
+                    "Money: The True Story of a Made Up Thing"
                 ]
             }
         },
@@ -6830,8 +7179,7 @@
             "entities": {
                 "PERSON": [
                     "Melissa Clark",
-                    "John Powers",
-                    "RRR.</em"
+                    "John Powers"
                 ],
                 "CARDINAL": [
                     "One",
@@ -6839,6 +7187,9 @@
                 ],
                 "NORP": [
                     "Indian"
+                ],
+                "ORG": [
+                    "RRR"
                 ]
             }
         },
@@ -6864,18 +7215,18 @@
             "pubDate": "Mon, 10 Oct 2022 19:37:33 +0000",
             "title": "Journalist Maggie Haberman On The Making Of Donald Trump",
             "entities": {
-                "GPE": [
-                    "New York Times</em"
+                "ORG": [
+                    "New York Times",
+                    "Trump"
                 ],
                 "PERSON": [
-                    "Maggie Haberman",
-                    "Man.</em"
-                ],
-                "ORG": [
-                    "Trump"
+                    "Maggie Haberman"
                 ],
                 "DATE": [
                     "Jan. 6"
+                ],
+                "WORK_OF_ART": [
+                    "Confidence Man"
                 ]
             }
         },
@@ -6904,9 +7255,9 @@
                 "PERSON": [
                     "Loretta Lynn",
                     "Coal Miner's",
-                    "Daughter</em",
+                    "Daughter",
                     "Terry Gross",
-                    "Justin Chang",
+                    "Chang reviews Bros",
                     "Billy Eichner"
                 ],
                 "DATE": [
@@ -6918,10 +7269,7 @@
                 "CARDINAL": [
                     "16",
                     "1",
-                    "2010.<br><br"
-                ],
-                "GPE": [
-                    "Bros</em"
+                    "2010.Justin"
                 ]
             }
         },
@@ -6949,7 +7297,10 @@
             "entities": {
                 "CARDINAL": [
                     "two",
-                    "2011.<br><br"
+                    "2011.Film"
+                ],
+                "WORK_OF_ART": [
+                    "Blood Money and Alice"
                 ],
                 "DATE": [
                     "their 20th Anniversary",
@@ -6960,6 +7311,9 @@
                     "Justin Chang",
                     "Todd Field",
                     "Cate Blanchett"
+                ],
+                "ORG": [
+                    "T\u00e1r"
                 ]
             }
         },
@@ -7030,7 +7384,7 @@
                 "PERSON": [
                     "Loretta Lynn",
                     "Coal Miner's",
-                    "Daughter</em",
+                    "Daughter",
                     "Terry Gross",
                     "Sue Graham Mingus",
                     "Charles Mingus"
@@ -7084,6 +7438,12 @@
                 "DATE": [
                     "March 2020",
                     "the early 2000s"
+                ],
+                "LOC": [
+                    "the Hulu series Reboot"
+                ],
+                "WORK_OF_ART": [
+                    "Our Missing Hearts"
                 ]
             }
         },
@@ -7110,19 +7470,16 @@
             "title": "Inside The World's Most Powerful Consulting Firm",
             "entities": {
                 "PERSON": [
+                    "McKinsey Comes",
                     "Walt Bogdanich",
                     "Michael Forsythe",
-                    "McKinsey",
-                    "John Powers"
+                    "McKinsey"
                 ],
                 "ORG": [
                     "FDA"
                 ],
                 "DATE": [
                     "the latest season"
-                ],
-                "GPE": [
-                    "Hulu"
                 ]
             }
         },
@@ -7157,8 +7514,7 @@
                     "Terry Gross",
                     "Edward Enninful",
                     "Maureen Corrigan",
-                    "Andrew Sean Greer's",
-                    "Less</em"
+                    "Andrew Sean Greer's"
                 ],
                 "DATE": [
                     "Sept. 22",
@@ -7205,7 +7561,6 @@
                 "PERSON": [
                     "Historian Jeff Shesol",
                     "John Glenn",
-                    "Mercury Rising</em",
                     "Kennedy",
                     "Justin Chang",
                     "Billy Eichner"
@@ -7219,6 +7574,9 @@
                 ],
                 "ORDINAL": [
                     "first"
+                ],
+                "ORG": [
+                    "Mercury Rising"
                 ],
                 "NORP": [
                     "Soviet"
@@ -7257,7 +7615,7 @@
                     "ProPublica"
                 ],
                 "PERSON": [
-                    "Abrahm Lustgarten.<br",
+                    "Abrahm Lustgarten.millionJazz",
                     "Kevin Whitehead",
                     "Mal Waldron"
                 ]
@@ -7298,8 +7656,7 @@
                     "Lou Reed"
                 ],
                 "CARDINAL": [
-                    "one",
-                    "2012.<br><br"
+                    "one"
                 ],
                 "FAC": [
                     "Henry VIII's",
@@ -7339,10 +7696,8 @@
             "title": "Uncovering Racial Violence During Jim Crow",
             "entities": {
                 "PERSON": [
-                    "Known,</em",
                     "Margaret Burnham",
-                    "David Bianculli",
-                    "em>11 Minutes</em>"
+                    "David Bianculli"
                 ],
                 "ORG": [
                     "the Jim Crow"
@@ -7354,8 +7709,11 @@
                 "CARDINAL": [
                     "roughly 1,000"
                 ],
+                "TIME": [
+                    "11 Minutes"
+                ],
                 "GPE": [
-                    "Las Vegas.<em"
+                    "Las Vegas"
                 ]
             }
         },
@@ -7414,15 +7772,14 @@
             "title": "Best Of: 'Reservation Dogs' Showrunner / The Mosquito Bowl Of WWII",
             "entities": {
                 "ORG": [
-                    "FX/Hulu",
+                    "FX/Hulu series Reservation Dogs",
                     "Marines"
-                ],
-                "GPE": [
-                    "Dogs</em",
-                    "Oklahoma Indian"
                 ],
                 "CARDINAL": [
                     "four"
+                ],
+                "GPE": [
+                    "Oklahoma Indian"
                 ],
                 "NORP": [
                     "Native"
@@ -7436,11 +7793,12 @@
                 "LOC": [
                     "Indian Territory"
                 ],
-                "DATE": [
-                    "Friday"
+                "WORK_OF_ART": [
+                    "Friday Night Lights"
                 ],
                 "EVENT": [
-                    "World War II"
+                    "World War II",
+                    "The Mosquito Bowl"
                 ]
             }
         },
@@ -7468,8 +7826,13 @@
             "entities": {
                 "PERSON": [
                     "Mary Roach",
+                    "Fuzz",
                     "Justin Chang",
                     "Marilyn Monroe"
+                ],
+                "GPE": [
+                    "Gulp",
+                    "Blonde"
                 ]
             }
         },
@@ -7527,11 +7890,16 @@
             "entities": {
                 "PERSON": [
                     "Edward Enninful",
-                    "Vogue Italia</em",
                     "David Bianculli"
                 ],
                 "GPE": [
                     "Ghana"
+                ],
+                "ORG": [
+                    "Vogue Italia"
+                ],
+                "WORK_OF_ART": [
+                    "Visible Man"
                 ]
             }
         },
@@ -7600,14 +7968,13 @@
             "title": "'Reservation Dogs' Showrunner Sterlin Harjo",
             "entities": {
                 "ORG": [
-                    "FX/Hulu"
-                ],
-                "GPE": [
-                    "Dogs</em",
-                    "Oklahoma Indian"
+                    "FX/Hulu series Reservation Dogs"
                 ],
                 "CARDINAL": [
                     "four"
+                ],
+                "GPE": [
+                    "Oklahoma Indian"
                 ],
                 "NORP": [
                     "Native"
@@ -7645,18 +8012,19 @@
                 "ORG": [
                     "NPR",
                     "Supreme Court",
-                    "ABC"
+                    "ABC",
+                    "Dreamgirls"
                 ],
                 "PERSON": [
                     "Nina Totenberg",
                     "Ruth Bader Ginsburg",
                     "Ginsburg",
+                    "Ruth",
                     "Sheryl Lee Ralph",
-                    "Abbott Elementary</em",
+                    "Abbott Elementary",
                     "Sidney Poitier",
                     "Ralph",
                     "Ralph",
-                    "Dreamgirls</em",
                     "Kevin Whitehead"
                 ],
                 "DATE": [
@@ -7668,6 +8036,9 @@
                 "ORDINAL": [
                     "first",
                     "first"
+                ],
+                "WORK_OF_ART": [
+                    "A Piece of the Action"
                 ],
                 "FAC": [
                     "Broadway"
@@ -7707,13 +8078,15 @@
                     "Midwesterner Tom Wambsgans",
                     "Kevin Whitehead",
                     "Ramsey Lewis",
-                    "Justin Chang",
-                    "The Woman",
+                    "Chang",
                     "Viola Davis"
                 ],
                 "DATE": [
                     "2005",
                     "1965"
+                ],
+                "ORG": [
+                    "Pride & Prejudice"
                 ],
                 "WORK_OF_ART": [
                     "The In Crowd"
@@ -7762,9 +8135,12 @@
                 "LOC": [
                     "Pacific"
                 ],
+                "WORK_OF_ART": [
+                    "The Mosquito Bowl"
+                ],
                 "EVENT": [
-                    "The Mosquito Bowl",
-                    "World War II</em"
+                    "World War II",
+                    "Holocaust"
                 ],
                 "GPE": [
                     "U.S."
@@ -7802,8 +8178,10 @@
                 ],
                 "PERSON": [
                     "Ruth Bader Ginsburg",
+                    "Ruth",
                     "Maureen Corrigan",
-                    "Ling Ma's"
+                    "Ling Ma's",
+                    "Bliss Montage"
                 ]
             }
         },
@@ -7829,14 +8207,15 @@
             "pubDate": "Tue, 13 Sep 2022 19:29:29 +0000",
             "title": "How One Law Firm Influenced The Trump Administration",
             "entities": {
+                "ORG": [
+                    "Damned",
+                    "Trump White House"
+                ],
                 "PERSON": [
                     "David Enrich"
                 ],
                 "DATE": [
                     "Jones Day"
-                ],
-                "ORG": [
-                    "Trump White House"
                 ]
             }
         },
@@ -7865,13 +8244,17 @@
                 "PERSON": [
                     "Sheryl Lee Ralph",
                     "Barbara Howard",
-                    "Abbott Elementary</em"
+                    "Abbott Elementary"
                 ],
                 "ORG": [
-                    "ABC"
+                    "ABC",
+                    "Dreamgirls"
                 ],
                 "FAC": [
                     "Broadway"
+                ],
+                "GPE": [
+                    "Moesha"
                 ]
             }
         },
@@ -7946,7 +8329,6 @@
                     "Justin Chang",
                     "Jesus",
                     "Maureen",
-                    "Survive You</em",
                     "Jonathan Escoffery"
                 ],
                 "DATE": [
@@ -7955,7 +8337,9 @@
                     "2003"
                 ],
                 "GPE": [
-                    "Iraq"
+                    "Iraq",
+                    "Naked",
+                    "Baghdad"
                 ]
             }
         },
@@ -7981,18 +8365,19 @@
             "pubDate": "Thu, 08 Sep 2022 19:42:28 +0000",
             "title": "YouTube's Chaotic Rise To World Domination",
             "entities": {
+                "PRODUCT": [
+                    "Subscribe"
+                ],
                 "PERSON": [
                     "Mark Bergen",
                     "Kevin Whitehead",
+                    "Hymn of the Third Galaxy",
                     "John Powers",
-                    "American Gigolo</em"
+                    "American Gigolo"
                 ],
                 "ORG": [
                     "YouTube",
                     "The Funky Freqs'"
-                ],
-                "ORDINAL": [
-                    "Third"
                 ]
             }
         },
@@ -8051,14 +8436,14 @@
             "title": "Tennis Legend John McEnroe",
             "entities": {
                 "PERSON": [
-                    "John McEnroe",
-                    "McENROE</em"
+                    "John McEnroe"
                 ],
                 "CARDINAL": [
                     "155"
                 ],
                 "ORG": [
-                    "Showtime"
+                    "Showtime",
+                    "McENROE"
                 ]
             }
         },
@@ -8133,17 +8518,18 @@
                     "Terry Gross",
                     "Terry",
                     "Ellie Greenwich",
+                    "\"And",
                     "Justin Chang",
                     "George Miller",
                     "Idris Elba",
                     "Tilda Swinton"
                 ],
-                "CARDINAL": [
-                    "2005.<br><br"
-                ],
                 "DATE": [
                     "1986",
                     "Three Thousand Years"
+                ],
+                "PRODUCT": [
+                    "the Mad Max"
                 ]
             }
         },
@@ -8172,7 +8558,9 @@
                 "ORG": [
                     "Smokey Robinson",
                     "Motown Records",
-                    "Stax"
+                    "Shaft",
+                    "Stax",
+                    "Rings"
                 ],
                 "PERSON": [
                     "Terry Gross",
@@ -8188,9 +8576,6 @@
                 ],
                 "LOC": [
                     "Memphis"
-                ],
-                "CARDINAL": [
-                    "1994.<br><br"
                 ]
             }
         },
@@ -8304,10 +8689,8 @@
                     "the Ornette Coleman Quartet"
                 ],
                 "ORG": [
-                    "HBO"
-                ],
-                "NORP": [
-                    "Patient</em"
+                    "HBO",
+                    "The Patient"
                 ]
             }
         },
@@ -8396,12 +8779,14 @@
                     "English"
                 ],
                 "ORG": [
-                    "Netflix"
+                    "Netflix",
+                    "Mo.Also",
+                    "Lengthening"
                 ],
                 "FAC": [
                     "the Golden State Killer"
                 ],
-                "TIME": [
+                "WORK_OF_ART": [
                     "Three Minutes"
                 ],
                 "EVENT": [
@@ -8448,6 +8833,9 @@
                     "George Miller",
                     "Idris Elba",
                     "Tilda Swinton"
+                ],
+                "PRODUCT": [
+                    "the Mad Max"
                 ]
             }
         },
@@ -8479,14 +8867,17 @@
                 ],
                 "ORG": [
                     "IRS",
-                    "ProPublica"
+                    "ProPublica",
+                    "Killing Eve"
                 ],
                 "GPE": [
-                    "America",
-                    "Netflix"
+                    "America"
                 ],
                 "NORP": [
                     "German"
+                ],
+                "WORK_OF_ART": [
+                    "Kleo on Netflix"
                 ]
             }
         },
@@ -8518,6 +8909,7 @@
                 ],
                 "PERSON": [
                     "Michael Beckley",
+                    "Danger Zone",
                     "Ken Tucker",
                     "Roger Miller"
                 ],
@@ -8559,7 +8951,7 @@
                     "Netflix"
                 ],
                 "GPE": [
-                    "Mo</em",
+                    "Mo.",
                     "Houston",
                     "Texas"
                 ],
@@ -8586,6 +8978,9 @@
                 "CARDINAL": [
                     "one",
                     "two"
+                ],
+                "LOC": [
+                    "the Hulu series Ramy"
                 ]
             }
         },
@@ -8655,17 +9050,21 @@
                     "Washington Post",
                     "GOP",
                     "Trump",
+                    "Criminal",
                     "HBO"
                 ],
                 "PERSON": [
                     "Dana Milbank",
                     "Justin Chang",
-                    "Aubrey",
+                    "Aubrey Plaza",
                     "Robin Thede's",
                     "Tonya Mosley"
                 ],
                 "DATE": [
                     "today"
+                ],
+                "WORK_OF_ART": [
+                    "The Destructionists."
                 ],
                 "ORDINAL": [
                     "first"
@@ -8696,7 +9095,7 @@
             "entities": {
                 "PERSON": [
                     "Anne Heche",
-                    "Donnie Brasco</em",
+                    "Donnie Brasco",
                     "Ellen Degeneres",
                     "Terry Gross",
                     "Jonathan Banks",
@@ -8713,8 +9112,9 @@
                     "2000",
                     "2015"
                 ],
-                "GPE": [
-                    "Talking.</em"
+                "ORG": [
+                    "Walking and Talking",
+                    "Better Call Saul"
                 ],
                 "TIME": [
                     "Three Minutes"
@@ -8751,7 +9151,7 @@
                 ],
                 "ORG": [
                     "GOP",
-                    "New York Times Magazine</em"
+                    "New York Times Magazine"
                 ],
                 "PERSON": [
                     "Robert Draper"
@@ -8782,7 +9182,9 @@
             "entities": {
                 "ORG": [
                     "CDC",
-                    "Macy"
+                    "Dopesick",
+                    "Macy",
+                    "Better Call Saul"
                 ],
                 "CARDINAL": [
                     "1 million"
@@ -8799,6 +9201,7 @@
                 "PERSON": [
                     "Beth Macy",
                     "Michelle Mathis",
+                    "Raising Lazarus",
                     "David Bianculli"
                 ]
             }
@@ -8843,10 +9246,8 @@
                 "ORDINAL": [
                     "first"
                 ],
-                "TIME": [
-                    "Midnight"
-                ],
                 "GPE": [
+                    "Midnight",
                     "Washington"
                 ]
             }
@@ -8886,6 +9287,9 @@
                     "Justin Chang",
                     "Aubrey Plaza",
                     "Judy Garland"
+                ],
+                "WORK_OF_ART": [
+                    "Emily the Criminal"
                 ]
             }
         },
@@ -8918,7 +9322,8 @@
                     "Taliban",
                     "Taliban",
                     "Taliban",
-                    "PBS"
+                    "PBS",
+                    "Ali & Ava"
                 ],
                 "NORP": [
                     "British",
@@ -8926,16 +9331,14 @@
                 ],
                 "PERSON": [
                     "Ramita Navai",
-                    "Undercover</em",
                     "Will Bunch",
-                    "Justin Chang",
-                    "Ali & Ava</em>"
+                    "Justin Chang"
                 ],
                 "GPE": [
                     "Afghanistan"
                 ],
                 "FAC": [
-                    "the Ivory Tower Falls</em>"
+                    "the Ivory Tower Falls"
                 ]
             }
         },
@@ -8970,13 +9373,12 @@
                     "Vandellas",
                     "Marvin Gaye",
                     "Terry Gross",
-                    "Justin Chang",
+                    "Chang",
                     "Ali & Ava"
                 ],
                 "CARDINAL": [
                     "one third",
-                    "10",
-                    "2003.<br><br"
+                    "10"
                 ],
                 "GPE": [
                     "Holland",
@@ -9022,7 +9424,6 @@
             "title": "The Secret History Of Family Separation At The Border",
             "entities": {
                 "PERSON": [
-                    "Atlantic</em",
                     "Caitlin Dickerson",
                     "Trump"
                 ],
@@ -9063,6 +9464,9 @@
                 ],
                 "DATE": [
                     "2018"
+                ],
+                "GPE": [
+                    "Unmasked"
                 ]
             }
         },
@@ -9126,6 +9530,7 @@
                 "PERSON": [
                     "Melanie Lynskey",
                     "Ann Marie Baldonado",
+                    "Yellowjackets",
                     "John Powers"
                 ],
                 "DATE": [
@@ -9133,7 +9538,8 @@
                     "the second season"
                 ],
                 "ORG": [
-                    "Showtime"
+                    "Showtime",
+                    "Reservation Dogs"
                 ]
             }
         },
@@ -9216,7 +9622,9 @@
                 "ORG": [
                     "the Boston Celtics",
                     "NBA",
-                    "NBA"
+                    "NBA",
+                    "Beyonc\u00e9",
+                    "RENAISSANCE"
                 ],
                 "CARDINAL": [
                     "11"
@@ -9296,16 +9704,16 @@
                 "PERSON": [
                     "Will Bunch",
                     "Nick Quah",
-                    "Larry Josephson.<em><br><br></em"
+                    "Larry Josephson"
                 ],
                 "FAC": [
-                    "the Ivory Tower Falls.<br><br></em"
+                    "the Ivory Tower Falls"
                 ],
                 "CARDINAL": [
                     "two"
                 ],
                 "ORG": [
-                    "counterculture,<em> Mother Country Radicals</em"
+                    "Mother Country Radicals"
                 ]
             }
         },
@@ -9336,21 +9744,21 @@
                     "737"
                 ],
                 "GPE": [
-                    "the United States",
-                    "Washington"
+                    "the United States"
                 ],
                 "DATE": [
                     "2021",
                     "every single day"
+                ],
+                "ORG": [
+                    "Washington Post",
+                    "Boeing"
                 ],
                 "PERSON": [
                     "Scott Higham",
                     "American Cartel",
                     "Higham",
                     "Sari Horwitz"
-                ],
-                "ORG": [
-                    "Boeing"
                 ]
             }
         },
@@ -9409,6 +9817,11 @@
             "pubDate": "Sat, 30 Jul 2022 04:10:40 +0000",
             "title": "Best Of: Farewell 'Better Call Saul' / Rethinking The Sex Talk",
             "entities": {
+                "ORG": [
+                    "Better Call Saul",
+                    "Better Call Saul",
+                    "Odenkirk"
+                ],
                 "PERSON": [
                     "Bob Odenkirk",
                     "Peter Gould",
@@ -9416,9 +9829,6 @@
                 ],
                 "CARDINAL": [
                     "one"
-                ],
-                "ORG": [
-                    "Odenkirk"
                 ]
             }
         },
@@ -9449,6 +9859,9 @@
                     "John Powers",
                     "Darren Star's",
                     "Neil Patrick Harris"
+                ],
+                "PRODUCT": [
+                    "Scenes"
                 ],
                 "NORP": [
                     "Christian"
@@ -9484,7 +9897,6 @@
                     "Charles Homans",
                     "Kevin Whitehead",
                     "Tyshawn Sorey's",
-                    "Mesmerism</em",
                     "Maureen Corrigan",
                     "Gabrielle Zevin"
                 ],
@@ -9519,6 +9931,9 @@
             "entities": {
                 "ORG": [
                     "Olympic"
+                ],
+                "PRODUCT": [
+                    "My Greatest Save"
                 ]
             }
         },
@@ -9575,6 +9990,12 @@
             "pubDate": "Mon, 25 Jul 2022 20:53:18 +0000",
             "title": "Bob Odenkirk & Peter Gould On The End Of 'Better Call Saul'",
             "entities": {
+                "ORG": [
+                    "Better Call Saul",
+                    "Better Call Saul",
+                    "Better Call Saul",
+                    "Odenkirk"
+                ],
                 "CARDINAL": [
                     "only 4",
                     "one"
@@ -9583,11 +10004,7 @@
                     "Bob Odenkirk",
                     "Saul Goodman",
                     "Saul",
-                    "Peter Gould",
-                    "Saul"
-                ],
-                "ORG": [
-                    "Odenkirk"
+                    "Peter Gould"
                 ]
             }
         },
@@ -9621,17 +10038,20 @@
                     "Bisha K. Ali"
                 ],
                 "WORK_OF_ART": [
-                    "Pulitzer Prize"
+                    "Pulitzer Prize",
+                    "A Strange Loop"
                 ],
                 "FAC": [
                     "Broadway",
+                    "The Lion King",
                     "Broadway"
+                ],
+                "ORG": [
+                    "House",
+                    "Marvel"
                 ],
                 "ORDINAL": [
                     "first"
-                ],
-                "ORG": [
-                    "Marvel"
                 ],
                 "NORP": [
                     "Muslim",
@@ -9668,12 +10088,11 @@
                     "HBO"
                 ],
                 "PERSON": [
-                    "Barry</em",
+                    "Barry",
                     "Bill Hader",
                     "Henry Winkler",
                     "Barry",
                     "Justin Chang",
-                    "Nope</em",
                     "Jordan Peele"
                 ],
                 "NORP": [
@@ -9714,7 +10133,8 @@
                     "Joanne Woodward"
                 ],
                 "ORG": [
-                    "the Conservative Partnership Institute"
+                    "the Conservative Partnership Institute",
+                    "The Last Movie Stars"
                 ],
                 "NORP": [
                     "Republican"
@@ -9757,8 +10177,11 @@
                     "Harold Gillies",
                     "John Powers"
                 ],
+                "WORK_OF_ART": [
+                    "The Facemaker"
+                ],
                 "ORG": [
-                    "FX/Hulu"
+                    "The Bear on FX/Hulu"
                 ]
             }
         },
@@ -9843,6 +10266,7 @@
                 ],
                 "FAC": [
                     "Broadway",
+                    "The Lion King",
                     "Broadway"
                 ]
             }
@@ -9873,6 +10297,7 @@
                     "Chrysta Bilton's",
                     "Bilton",
                     "Bilton",
+                    "Normal Family",
                     "Ken Tucker",
                     "Rafael Agustin's"
                 ],
@@ -9883,11 +10308,15 @@
                     "Bartees Strange's",
                     "Kmart",
                     "Agustin",
+                    "Illegally Yours",
                     "the Latino Film Institute"
                 ],
                 "GPE": [
                     "Ecuador",
                     "U.S."
+                ],
+                "WORK_OF_ART": [
+                    "Jane the Virgin"
                 ]
             }
         },
@@ -9925,7 +10354,7 @@
                 "PERSON": [
                     "Paul Butterfield's",
                     "Maria Muldaur",
-                    "Letter</em",
+                    "Last Letter",
                     "Terry Gross",
                     "Justin Chang",
                     "Ryan Gosling"
@@ -9935,6 +10364,9 @@
                 ],
                 "NORP": [
                     "Dutch"
+                ],
+                "WORK_OF_ART": [
+                    "The Gray Man"
                 ]
             }
         },
@@ -9964,7 +10396,7 @@
                     "Chrysta Bilton's",
                     "Bilton",
                     "Bilton",
-                    "Normal Family</em",
+                    "Normal Family",
                     "David Bianculli"
                 ],
                 "CARDINAL": [
@@ -9972,6 +10404,9 @@
                 ],
                 "ORG": [
                     "HBO"
+                ],
+                "WORK_OF_ART": [
+                    "The Rehearsal"
                 ]
             }
         },
@@ -9997,6 +10432,9 @@
             "pubDate": "Wed, 13 Jul 2022 19:41:35 +0000",
             "title": "Hungarian Autocracy & The American Right",
             "entities": {
+                "ORG": [
+                    "New Yorker"
+                ],
                 "PERSON": [
                     "Andrew Marantz",
                     "Viktor Orb\u00e1n's"
@@ -10040,7 +10478,12 @@
                 "ORG": [
                     "Kmart",
                     "Agustin",
-                    "the Latino Film Institute"
+                    "Illegally Yours",
+                    "the Latino Film Institute",
+                    "Beatopia"
+                ],
+                "WORK_OF_ART": [
+                    "Jane the Virgin"
                 ],
                 "DATE": [
                     "July 15"
@@ -10083,13 +10526,17 @@
                     "1920"
                 ],
                 "ORG": [
-                    "Harvard"
+                    "Harvard",
+                    "Better Call Saul"
                 ],
                 "PERSON": [
                     "Caroline Elkins",
                     "David Bianculli",
                     "Kevin Whitehead",
                     "Jacob Garchik's"
+                ],
+                "WORK_OF_ART": [
+                    "Legacy of Violence"
                 ],
                 "TIME": [
                     "tonight"
@@ -10120,11 +10567,16 @@
             "entities": {
                 "PERSON": [
                     "Jay Wellons",
-                    "Roe",
                     "Justin Chang",
                     "Chris Blackwell",
                     "Bob Marley",
                     "Jimmy Cliff"
+                ],
+                "LAW": [
+                    "Roe v. Wade"
+                ],
+                "PRODUCT": [
+                    "Apples"
                 ],
                 "ORG": [
                     "Island Records"
@@ -10180,6 +10632,9 @@
                 ],
                 "NORP": [
                     "French"
+                ],
+                "WORK_OF_ART": [
+                    "Both Sides of the Blade"
                 ]
             }
         },
@@ -10208,8 +10663,8 @@
                 "LAW": [
                     "the 2nd Amendment"
                 ],
-                "GPE": [
-                    "New York Times</em"
+                "ORG": [
+                    "New York Times"
                 ],
                 "PERSON": [
                     "Adam Liptak"
@@ -10240,11 +10695,13 @@
             "entities": {
                 "PERSON": [
                     "Jay Wellons",
-                    "Roe",
                     "Ken Tucker"
                 ],
                 "LOC": [
                     "spina bifida"
+                ],
+                "LAW": [
+                    "Roe v. Wade"
                 ],
                 "ORG": [
                     "Bartees Strange"
@@ -10291,14 +10748,18 @@
                 "PERSON": [
                     "Porfirio D\u00edaz",
                     "Tonya Mosley",
-                    "Bad Mexicans</em",
                     "Juan Crow",
                     "Jim Crow",
+                    "Hern\u00e1ndez",
                     "Maureen Corrigan",
                     "Joseph Szigeti"
                 ],
                 "NORP": [
+                    "Bad Mexicans",
                     "Mexicans"
+                ],
+                "WORK_OF_ART": [
+                    "The Poet's House"
                 ]
             }
         },
@@ -10341,11 +10802,9 @@
                     "Terry Gross",
                     "Justin Chang"
                 ],
-                "CARDINAL": [
-                    "2000.<br><br"
-                ],
                 "NORP": [
-                    "Greek"
+                    "Greek",
+                    "Apples"
                 ]
             }
         },
@@ -10378,13 +10837,14 @@
                     "Sam Sanders"
                 ],
                 "ORG": [
-                    "Things,</em"
+                    "Invisible Things"
                 ],
                 "TIME": [
                     "a moon of Jupiter"
                 ],
                 "LOC": [
-                    "Earth"
+                    "Earth",
+                    "Fire Island"
                 ],
                 "GPE": [
                     "America"
@@ -10415,15 +10875,15 @@
             "entities": {
                 "PERSON": [
                     "Eddie Muller",
-                    "Noir Alley</em",
                     "Kevin Whitehead",
                     "David Virelles"
                 ],
                 "ORG": [
-                    "TCM"
+                    "TCM",
+                    "Noir Alley"
                 ],
                 "GPE": [
-                    "City</em"
+                    "Dark City"
                 ],
                 "DATE": [
                     "the '40s and '50s"
@@ -10455,14 +10915,12 @@
             "pubDate": "Thu, 30 Jun 2022 19:33:32 +0000",
             "title": "Investigating The Far-Right Militia Groups Of Jan. 6",
             "entities": {
-                "GPE": [
-                    "New York Times</em"
+                "ORG": [
+                    "New York Times",
+                    "Trump"
                 ],
                 "PERSON": [
                     "Alan Feuer"
-                ],
-                "ORG": [
-                    "Trump"
                 ]
             }
         },
@@ -10492,7 +10950,7 @@
                     "Johnson"
                 ],
                 "ORG": [
-                    "Things,</em"
+                    "Invisible Things"
                 ],
                 "TIME": [
                     "a moon of Jupiter"
@@ -10562,6 +11020,9 @@
                     "Maureen Corrigan",
                     "Ottessa Moshfegh"
                 ],
+                "LOC": [
+                    "Fire Island"
+                ],
                 "ORG": [
                     "Netflix"
                 ],
@@ -10599,17 +11060,20 @@
                 "PERSON": [
                     "Ed Yong",
                     "Justin Chang",
-                    "Leo",
                     "Angela Garbes"
                 ],
-                "ORG": [
-                    "Immense"
+                "WORK_OF_ART": [
+                    "An Immense World",
+                    "Essential Labor"
                 ],
                 "CARDINAL": [
                     "two"
                 ],
                 "LAW": [
                     "the Sundance Film"
+                ],
+                "ORG": [
+                    "Leo Grande"
                 ]
             }
         },
@@ -10637,8 +11101,10 @@
             "entities": {
                 "PERSON": [
                     "T.J. Newman's",
+                    "Falling",
                     "Newman",
-                    "Justin Chang"
+                    "Justin Chang",
+                    "Elvis"
                 ],
                 "DATE": [
                     "about her 10 years"
@@ -10679,8 +11145,8 @@
                 "PERSON": [
                     "Mary Ziegler"
                 ],
-                "GPE": [
-                    "Life</em"
+                "WORK_OF_ART": [
+                    "Dollars for Life"
                 ],
                 "ORG": [
                     "GOP"
@@ -10710,7 +11176,8 @@
             "title": "The Sensory World Of Animals",
             "entities": {
                 "WORK_OF_ART": [
-                    "Pulitzer Prize"
+                    "Pulitzer Prize",
+                    "An Immense World"
                 ],
                 "PERSON": [
                     "Ed Yong"
@@ -10775,8 +11242,8 @@
             "entities": {
                 "PERSON": [
                     "Giddens",
-                    "Freedom Highway</em",
-                    "Ken Tucker"
+                    "Freedom Highway",
+                    "Tucker"
                 ],
                 "NORP": [
                     "African American"
@@ -10784,10 +11251,8 @@
                 "DATE": [
                     "May 11"
                 ],
-                "GPE": [
-                    "2017.<br><br></em"
-                ],
                 "CARDINAL": [
+                    "2017.Ken",
                     "three"
                 ]
             }
@@ -10828,7 +11293,11 @@
                 ],
                 "ORG": [
                     "MSNBC",
-                    "NBC News"
+                    "NBC News",
+                    "Rough Draft.1619 Project"
+                ],
+                "WORK_OF_ART": [
+                    "Under the Skin"
                 ]
             }
         },
@@ -10858,6 +11327,7 @@
                     "Juneteenth",
                     "the day",
                     "June 19, 1865",
+                    "Juneteenth",
                     "June 12",
                     "2006"
                 ],
@@ -10869,12 +11339,14 @@
                     "Annette Gordon-Reed",
                     "Philip Baker Hall",
                     "Paul Thomas Anderson",
-                    "Boogie Nights</em",
+                    "Seinfeld",
                     "Terry Gross",
-                    "Justin Chang"
+                    "Justin Chang",
+                    "Good Luck"
                 ],
                 "GPE": [
-                    "Texas"
+                    "Texas",
+                    "Magnolia"
                 ],
                 "WORK_OF_ART": [
                     "Pulitzer Prize"
@@ -10883,7 +11355,9 @@
                     "American"
                 ],
                 "ORG": [
-                    "Gordon-Reed"
+                    "Gordon-Reed",
+                    "Boogie Nights",
+                    "Leo Grande"
                 ],
                 "CARDINAL": [
                     "two"
@@ -10912,8 +11386,8 @@
             "pubDate": "Thu, 16 Jun 2022 18:59:31 +0000",
             "title": "How Phones Are Mining Data On Kids (And All Of Us)",
             "entities": {
-                "GPE": [
-                    "Washington"
+                "ORG": [
+                    "Washington Post"
                 ],
                 "PERSON": [
                     "Geoffrey Fowler",
@@ -10962,6 +11436,12 @@
                 "NORP": [
                     "African"
                 ],
+                "WORK_OF_ART": [
+                    "River of the Gods: Genius,"
+                ],
+                "LOC": [
+                    "Nile"
+                ],
                 "ORG": [
                     "FX"
                 ]
@@ -10989,13 +11469,23 @@
             "pubDate": "Tue, 14 Jun 2022 17:57:31 +0000",
             "title": "The Hidden Toll Of Racism On Health",
             "entities": {
+                "DATE": [
+                    "1619"
+                ],
+                "ORG": [
+                    "Project"
+                ],
                 "PERSON": [
                     "Linda Villarosa",
                     "Maureen Corrigan",
                     "David Santos Donaldson"
                 ],
                 "GPE": [
-                    "America"
+                    "America",
+                    "Greenland"
+                ],
+                "WORK_OF_ART": [
+                    "Under the Skin"
                 ]
             }
         },
@@ -11030,6 +11520,9 @@
                 ],
                 "DATE": [
                     "the '80s and '90s"
+                ],
+                "ORG": [
+                    "Rough Draft"
                 ]
             }
         },
@@ -11057,10 +11550,12 @@
             "entities": {
                 "ORG": [
                     "HBO",
+                    "SNL",
+                    "Crimes of the Future",
                     "NCAA"
                 ],
                 "PERSON": [
-                    "Sam Jay</em>",
+                    "Sam Jay",
                     "Sam Jay",
                     "Justin Chang",
                     "David Cronenberg",
@@ -11102,22 +11597,23 @@
             "entities": {
                 "PERSON": [
                     "Julie Andrews",
-                    "Mary Poppins</em>",
+                    "Mary Poppins",
                     "David Bianculli",
-                    "The Good Wif</em>"
+                    "Evil"
                 ],
                 "DATE": [
                     "year"
                 ],
                 "ORG": [
                     "the American Film Institute's Life Achievement Award",
+                    "The Sound of Music",
                     "Paramount"
                 ],
                 "EVENT": [
                     "WWII"
                 ],
                 "WORK_OF_ART": [
-                    "The Good Fight <"
+                    "The Good Wife and The Good Fight"
                 ]
             }
         },
@@ -11143,19 +11639,17 @@
             "pubDate": "Thu, 09 Jun 2022 19:00:33 +0000",
             "title": "The Jan. 6 Insurrection: Understanding The Big Picture",
             "entities": {
-                "GPE": [
-                    "New York Times</em"
+                "ORG": [
+                    "New York Times Congressional",
+                    "White House",
+                    "the House Select Committee",
+                    "the Justice Department"
                 ],
                 "PERSON": [
                     "Luke Broadwater"
                 ],
                 "DATE": [
                     "2020"
-                ],
-                "ORG": [
-                    "White House",
-                    "the House Select Committee",
-                    "the Justice Department"
                 ]
             }
         },
@@ -11197,6 +11691,9 @@
                 ],
                 "CARDINAL": [
                     "U2"
+                ],
+                "WORK_OF_ART": [
+                    "The Islander"
                 ]
             }
         },
@@ -11224,10 +11721,11 @@
             "entities": {
                 "ORG": [
                     "HBO",
+                    "SNL",
                     "SNL"
                 ],
                 "PERSON": [
-                    "Sam Jay</em>",
+                    "Sam Jay",
                     "Sam Jay",
                     "John Powers",
                     "Maxine Hong Kingston"
@@ -11266,7 +11764,7 @@
                     "Dawn Staley",
                     "Neda Toloui-Samnani",
                     "David Bianculli",
-                    "Irma Vep</em>"
+                    "Irma Vep"
                 ],
                 "GPE": [
                     "the South Carolina Gamecocks"
@@ -11281,8 +11779,8 @@
                     "NCAA",
                     "HBO"
                 ],
-                "NORP": [
-                    "North"
+                "LOC": [
+                    "North Philly"
                 ]
             }
         },
@@ -11316,6 +11814,9 @@
                     "Morale",
                     "Ruth Graham",
                     "Graham"
+                ],
+                "WORK_OF_ART": [
+                    "Happy-Go-Lucky"
                 ],
                 "DATE": [
                     "a year ago",
@@ -11364,6 +11865,12 @@
                 "CARDINAL": [
                     "67"
                 ],
+                "LOC": [
+                    "Something Wild"
+                ],
+                "GPE": [
+                    "Goodfellas"
+                ],
                 "ORG": [
                     "Shoeless Joe Jackson"
                 ]
@@ -11395,18 +11902,20 @@
                     "the Southern Baptist Convention",
                     "SBC",
                     "SBC",
-                    "the Southern Baptist Church"
+                    "the Southern Baptist Church",
+                    "the Houston Chronicle",
+                    "the San Antonio Express-News",
+                    "Going to Hurt"
                 ],
                 "DATE": [
                     "2019"
                 ],
-                "PERSON": [
-                    "Houston Chronicle</em",
-                    "Robert",
-                    "John Powers"
-                ],
                 "CARDINAL": [
                     "one"
+                ],
+                "PERSON": [
+                    "Robert Downen",
+                    "John Powers"
                 ],
                 "NORP": [
                     "British"
@@ -11437,10 +11946,8 @@
             "entities": {
                 "ORG": [
                     "GE",
+                    "New York Times",
                     "Netflix"
-                ],
-                "GPE": [
-                    "New York"
                 ],
                 "PERSON": [
                     "David Gelles",
@@ -11452,7 +11959,7 @@
                     "American"
                 ],
                 "WORK_OF_ART": [
-                    "The Man Who Broke Capitalism</em>"
+                    "The Man Who Broke Capitalism"
                 ]
             }
         },
@@ -11520,6 +12027,9 @@
                     "Texas",
                     "Oregon"
                 ],
+                "DATE": [
+                    "1883"
+                ],
                 "NORP": [
                     "Eastern European"
                 ],
@@ -11562,11 +12072,11 @@
                     "2010",
                     "early summer"
                 ],
+                "GPE": [
+                    "America"
+                ],
                 "CARDINAL": [
                     "four"
-                ],
-                "GPE": [
-                    "Wore.</em"
                 ]
             }
         },
@@ -11598,20 +12108,16 @@
                 "ORG": [
                     "Lansbury",
                     "the Tony Award",
-                    "Tonys",
-                    "PBS"
-                ],
-                "PERSON": [
-                    "Gypsy</em",
-                    "Sweeney Todd</em",
-                    "Terry Gross",
-                    "David Bianculli"
-                ],
-                "CARDINAL": [
-                    "2000.<br><br"
+                    "Tonys"
                 ],
                 "GPE": [
-                    "Stephen"
+                    "Gypsy"
+                ],
+                "PERSON": [
+                    "Sweeney Todd",
+                    "Terry Gross",
+                    "David Bianculli",
+                    "Stephen Sondheim's"
                 ]
             }
         },
@@ -11700,12 +12206,14 @@
             "entities": {
                 "PERSON": [
                     "Silverman",
-                    "Terry Gross",
-                    "America</em"
+                    "Terry Gross"
                 ],
                 "DATE": [
                     "Decades later",
                     "2010"
+                ],
+                "GPE": [
+                    "America"
                 ]
             }
         },
@@ -11735,12 +12243,8 @@
                     "Straub",
                     "Straub"
                 ],
-                "PERSON": [
-                    "This Time Tomorrow</em",
-                    "Tonya Mosley",
-                    "Justin Chang"
-                ],
                 "DATE": [
+                    "Tomorrow",
                     "40-year-old",
                     "16-year-old"
                 ],
@@ -11749,6 +12253,10 @@
                 ],
                 "GPE": [
                     "Brooklyn"
+                ],
+                "PERSON": [
+                    "Tonya Mosley",
+                    "Justin Chang"
                 ]
             }
         },
@@ -11778,7 +12286,7 @@
                     "George Floyd",
                     "Robert Samuels",
                     "George Floyd's",
-                    "George",
+                    "George Floyd",
                     "Angela Davis",
                     "Afeni Shakur",
                     "Tupac",
@@ -11791,16 +12299,14 @@
                 ],
                 "ORG": [
                     "Washington Post",
-                    "HBO"
+                    "HBO",
+                    "American Dream"
                 ],
                 "GPE": [
                     "Greenwich Village"
                 ],
                 "DATE": [
                     "'60s"
-                ],
-                "NORP": [
-                    "American"
                 ]
             }
         },
@@ -11879,27 +12385,26 @@
             "pubDate": "Thu, 19 May 2022 19:39:48 +0000",
             "title": "Political Discord In The White Evangelical Church",
             "entities": {
-                "GPE": [
-                    "New York Times</em"
+                "ORG": [
+                    "New York Times",
+                    "Trump"
                 ],
                 "PERSON": [
                     "Ruth Graham",
                     "Maureen Corrigan",
-                    "This Time Tomorrow</em",
                     "Emma Straub",
+                    "Search",
                     "Michelle Huneven",
                     "Gary Phillips",
                     "Richard Stevenson"
-                ],
-                "ORG": [
-                    "Trump"
                 ],
                 "CARDINAL": [
                     "four",
                     "One"
                 ],
                 "DATE": [
-                    "early summer"
+                    "early summer",
+                    "Tomorrow"
                 ]
             }
         },
@@ -11940,8 +12445,8 @@
                     "hundreds",
                     "One"
                 ],
-                "GPE": [
-                    "Washington"
+                "ORG": [
+                    "Washington Post"
                 ]
             }
         },
@@ -11967,12 +12472,15 @@
             "pubDate": "Tue, 17 May 2022 19:10:43 +0000",
             "title": "Frank Bruni On Vision Lost & Found",
             "entities": {
+                "ORG": [
+                    "NYT"
+                ],
                 "PERSON": [
                     "Frank Bruni",
                     "Bruni"
                 ],
                 "WORK_OF_ART": [
-                    "The Beauty of Dusk</em"
+                    "The Beauty of Dusk"
                 ]
             }
         },
@@ -12020,8 +12528,10 @@
                 "TIME": [
                     "night"
                 ],
+                "WORK_OF_ART": [
+                    "The Women's House of Detention,"
+                ],
                 "ORG": [
-                    "House",
                     "the Stonewall Uprising"
                 ]
             }
@@ -12050,7 +12560,6 @@
             "entities": {
                 "PERSON": [
                     "Rosie Perez",
-                    "Soul Train,</em",
                     "Living Color",
                     "Spike Lee's",
                     "Maureen Corrigan",
@@ -12059,14 +12568,15 @@
                     "Ricky Gervais"
                 ],
                 "WORK_OF_ART": [
-                    "the Fly Girls"
+                    "Soul Train",
+                    "the Fly Girls",
+                    "The Flight Attendant",
+                    "The Outlaws"
                 ],
                 "ORG": [
                     "HBO",
-                    "Catholic Home for Children"
-                ],
-                "PRODUCT": [
-                    "The Flight Attendant</em"
+                    "Catholic Home for Children",
+                    "The Office"
                 ],
                 "GPE": [
                     "St. Joseph's",
@@ -12128,9 +12638,6 @@
         ],
         "PERSON": [
             "Terry Gross"
-        ],
-        "GPE": [
-            "plus.npr.org/freshair</em"
         ]
     }
 }

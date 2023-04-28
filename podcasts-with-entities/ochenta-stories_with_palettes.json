@@ -30,21 +30,18 @@
             "pubDate": "Sat, 15 Apr 2023 11:00:25 GMT",
             "title": "We are nominated for a Webby! ",
             "entities": {
-                "PERSON": [
-                    "La Cabina Telef\u00f3nica",
-                    "Webby Award",
-                    "La Cabina Telef\u00f3nica"
+                "LOC": [
+                    "Cabina Telef\u00f3nica"
                 ],
                 "CARDINAL": [
                     "2023"
                 ],
-                "DATE": [
-                    "April 20th!</p><br><p"
+                "PERSON": [
+                    "Webby Award",
+                    "La Cabina Telef\u00f3nica"
                 ],
-                "ORG": [
-                    "grey",
-                    "grey",
-                    "href='https://acast.com/privacy'>acast.com"
+                "DATE": [
+                    "April 20th!Thank"
                 ]
             }
         },
@@ -86,9 +83,10 @@
                     "AI",
                     "Apple Podcasts",
                     "Apple",
-                    "grey",
-                    "grey",
-                    "href='https://acast.com/privacy'>acast.com"
+                    "Hosted on Acast"
+                ],
+                "CARDINAL": [
+                    "one\u2019"
                 ],
                 "DATE": [
                     "daily"
@@ -103,8 +101,8 @@
                 "LOC": [
                     "TikTok @studioochenta"
                 ],
-                "MONEY": [
-                    "LoveItems!</p><br"
+                "PRODUCT": [
+                    "LoveItems"
                 ]
             }
         },
@@ -131,35 +129,34 @@
             "entities": {
                 "ORG": [
                     "La Casa",
-                    "Cabina Telef\u00f3nica&nbsp;is",
                     "Matty Cardona",
                     "Servicios",
                     "Queens",
-                    "Matty's",
-                    "grey",
-                    "grey",
-                    "href='https://acast.com/privacy'>acast.com"
+                    "Matty's"
                 ],
                 "TIME": [
                     "some minutes"
                 ],
-                "CARDINAL": [
-                    "1995,&nbsp;La",
-                    "82&nbsp;to"
+                "DATE": [
+                    "1995"
+                ],
+                "PERSON": [
+                    "La Cabina Telef\u00f3nica",
+                    "Matty",
+                    "Llamadas",
+                    "Rossy"
                 ],
                 "NORP": [
                     "Colombian"
                 ],
-                "PERSON": [
-                    "Llamadas",
-                    "Rossy"
+                "CARDINAL": [
+                    "82"
                 ],
                 "GPE": [
-                    "that.&nbsp;She",
                     "Jackson Heights"
                 ],
-                "PRODUCT": [
-                    "Learn"
+                "FAC": [
+                    "Spotify"
                 ]
             }
         },
@@ -187,31 +184,28 @@
                 "ORG": [
                     "Ochenta Stories",
                     "M\u00e9xico",
-                    "grey",
-                    "grey",
-                    "href='https://acast.com/privacy'>acast.com"
+                    "Catalina HoyosArt"
                 ],
                 "PERSON": [
                     "Mija Podcast",
                     "Mija M\u00fasica",
                     "Episode",
                     "Mija Podcast",
-                    "Follow Studio",
-                    "Lory Mart\u00ednez.&nbsp;</p><br><p",
-                    "Luis L\u00f3pez</p><br><p",
+                    "Lory Mart\u00ednez",
+                    "Luis L\u00f3pezEditorial",
                     "Lory Mart\u00ednez",
                     "Maru Lombardo",
-                    "Jerem\u00edas Ju\u00e1rez</p><br><p",
-                    "Catalina Hoyos</p><br><p",
-                    "William"
+                    "Jerem\u00edas Ju\u00e1rezOur",
+                    "William Guevara Hosted"
                 ],
                 "GPE": [
                     "Monterrey",
-                    "Ochenta",
+                    "El Vallenato",
                     "Studio Ochenta"
                 ],
                 "NORP": [
-                    "Colombian"
+                    "Colombian",
+                    "@ochentapodcastsTikTok"
                 ]
             }
         },
@@ -237,25 +231,22 @@
             "pubDate": "Mon, 09 May 2022 09:55:22 GMT",
             "title": "Studio Ochenta Presents: Adventure in Atacama",
             "entities": {
-                "ORG": [
-                    "Hey Ochenta Stories",
-                    "Ochenta Stories",
-                    "ADVENTURE",
-                    "ADVENTURE",
-                    "grey",
-                    "grey",
-                    "href='https://acast.com/privacy'>acast.com"
-                ],
                 "GPE": [
-                    "Ochenta",
-                    "Atacama"
+                    "Studio Ochenta",
+                    "Atacama",
+                    "ochentastudio.com/adventure-in-atacama"
                 ],
                 "CARDINAL": [
                     "80",
                     "one",
                     "12",
-                    "1!<br",
+                    "1!If",
                     "less than half"
+                ],
+                "ORG": [
+                    "Ochenta Stories",
+                    "ADVENTURE",
+                    "ADVENTURE"
                 ],
                 "ORDINAL": [
                     "first",
@@ -299,15 +290,13 @@
             "entities": {
                 "ORG": [
                     "Ochenta Stories",
-                    "grey",
-                    "grey",
-                    "href='https://acast.com/privacy'>acast.com"
+                    "Hosted on Acast"
                 ],
                 "GPE": [
                     "Ochenta",
                     "Ochenta",
                     "Ochenta",
-                    "@studioochenta"
+                    "Studio Ochenta"
                 ],
                 "LOC": [
                     "Latin America"
@@ -315,6 +304,9 @@
                 "DATE": [
                     "new season",
                     "March 10th"
+                ],
+                "NORP": [
+                    "@ochentapodcastsTikTok"
                 ]
             }
         },
@@ -342,15 +334,13 @@
             "entities": {
                 "ORG": [
                     "Ochenta Stories",
-                    "Caper",
-                    "El",
-                    "grey",
-                    "grey",
-                    "href='https://acast.com/privacy'>acast.com"
+                    "Introducing Caper",
+                    "El"
                 ],
                 "GPE": [
                     "Studio Ochenta",
-                    "Belgium"
+                    "Belgium",
+                    "Caper"
                 ],
                 "DATE": [
                     "this winter"
@@ -368,12 +358,14 @@
                 "NORP": [
                     "German",
                     "Italian",
-                    "German"
+                    "German",
+                    "Spanish"
                 ],
                 "PERSON": [
                     "L'arte del",
                     "Die Kunst",
-                    "Diebe"
+                    "Diebe",
+                    "del Robo"
                 ]
             }
         },
@@ -422,7 +414,8 @@
                 ],
                 "DATE": [
                     "April 2020 to November 2021",
-                    "weekly"
+                    "weekly",
+                    "Tuesdays"
                 ],
                 "ORG": [
                     "Ochenta Stories",
@@ -430,9 +423,7 @@
                     "journalist &",
                     "Immigrantly",
                     "Immigrants",
-                    "grey",
-                    "grey",
-                    "href='https://acast.com/privacy'>acast.com"
+                    "Hosted on Acast"
                 ],
                 "WORK_OF_ART": [
                     "Grammy",
@@ -471,7 +462,7 @@
                     "Clark Marchese",
                     "Luis L\u00f3pez",
                     "Lory Mart\u00ednez",
-                    "Luis L\u00f3pez.<br",
+                    "Luis L\u00f3pez",
                     "Saadia Khan",
                     "Arooj Aftab",
                     "Khaled Hosseini",
@@ -505,9 +496,7 @@
                     "journalist &",
                     "Immigrantly",
                     "Immigrants",
-                    "grey",
-                    "grey",
-                    "href='https://acast.com/privacy'>acast.com"
+                    "Hosted on Acast"
                 ],
                 "CARDINAL": [
                     "24"
@@ -519,7 +508,8 @@
                     "English"
                 ],
                 "DATE": [
-                    "weekly"
+                    "weekly",
+                    "Tuesdays"
                 ],
                 "WORK_OF_ART": [
                     "Grammy",
@@ -550,34 +540,28 @@
             "title": "A Single Luppo",
             "entities": {
                 "GPE": [
-                    "Istanbul",
-                    "Turkey",
                     "Istanbul"
                 ],
                 "LANGUAGE": [
                     "English",
                     "English"
                 ],
-                "NORP": [
-                    "Turkish",
-                    "Greek",
-                    "Turkish"
-                ],
                 "ORG": [
+                    "TurkishCredits",
                     "Ochenta Stories",
+                    "Tekin",
+                    "Istanbul University",
                     "Tekin",
                     "Ochenta Stories",
                     "social entrepreneur &",
                     "journalist &",
                     "Immigrantly",
                     "Immigrants",
-                    "grey",
-                    "grey",
-                    "href='https://acast.com/privacy'>acast.com"
+                    "Hosted on Acast"
                 ],
                 "PERSON": [
                     "Tekin Tekin",
-                    "Luis L\u00f3pez.<br",
+                    "Luis L\u00f3pez",
                     "Saadia Khan",
                     "Arooj Aftab",
                     "Khaled Hosseini",
@@ -588,7 +572,12 @@
                 ],
                 "DATE": [
                     "18 years old",
-                    "weekly"
+                    "weekly",
+                    "Tuesdays"
+                ],
+                "NORP": [
+                    "Greek",
+                    "Turkish"
                 ],
                 "WORK_OF_ART": [
                     "Grammy",
@@ -621,19 +610,10 @@
                 "DATE": [
                     "the virus day",
                     "80s",
-                    "weekly"
-                ],
-                "GPE": [
-                    "Argentina"
+                    "weekly",
+                    "Tuesdays"
                 ],
                 "LANGUAGE": [
-                    "English"
-                ],
-                "NORP": [
-                    "Spanish",
-                    "Argentinian",
-                    "Argentinian",
-                    "Spanish",
                     "English"
                 ],
                 "ORG": [
@@ -650,12 +630,16 @@
                     "journalist &",
                     "Immigrantly",
                     "Immigrants",
-                    "grey",
-                    "grey",
-                    "href='https://acast.com/privacy'>acast.com"
+                    "Hosted on Acast"
                 ],
                 "ORDINAL": [
                     "77th"
+                ],
+                "NORP": [
+                    "Argentinian",
+                    "Argentinian",
+                    "Spanish",
+                    "English"
                 ],
                 "WORK_OF_ART": [
                     "Cuentos de la T\u00eda Ro",
@@ -671,7 +655,7 @@
                     "Lea Zipstein",
                     "Maru Lombardo",
                     "Luis L\u00f3pez",
-                    "Luis L\u00f3pez.<br",
+                    "Luis L\u00f3pez",
                     "Saadia Khan",
                     "Arooj Aftab",
                     "Khaled Hosseini",
@@ -705,23 +689,13 @@
             "title": "Shapes of Clay",
             "entities": {
                 "LANGUAGE": [
-                    "English",
                     "English"
                 ],
-                "ORG": [
-                    "Korean.<br",
-                    "Instagram",
-                    "Phoebe McIndoe",
-                    "Soobin Cho",
-                    "Ochenta Stories",
-                    "Book Club for Kids",
-                    "the California Library Association Technology Award",
-                    "Award for Excellence",
-                    "TIMES",
-                    "London.<br",
-                    "grey",
-                    "grey",
-                    "href='https://acast.com/privacy'>acast.com"
+                "NORP": [
+                    "Korean",
+                    "Canadian",
+                    "English",
+                    "Korean"
                 ],
                 "PERSON": [
                     "Choi",
@@ -733,17 +707,24 @@
                     "Miae Choi",
                     "Hailey Choi",
                     "Natasha Martin",
-                    "Luis L\u00f3pez.<br",
+                    "Luis L\u00f3pez",
                     "Kitty Felde"
-                ],
-                "NORP": [
-                    "Canadian",
-                    "Korean"
                 ],
                 "GPE": [
                     "Seoul",
                     "San Francisco",
-                    "Toronto"
+                    "Toronto",
+                    "London"
+                ],
+                "ORG": [
+                    "Instagram",
+                    "Phoebe McIndoe",
+                    "Soobin Cho",
+                    "Ochenta Stories",
+                    "Book Club for Kids",
+                    "the California Library Association Technology Award",
+                    "Award for Excellence",
+                    "TIMES"
                 ],
                 "LOC": [
                     "Humanitites"
@@ -779,7 +760,8 @@
                 "GPE": [
                     "Philadelphia",
                     "Nepali",
-                    "Philadelphia"
+                    "Philadelphia",
+                    "London"
                 ],
                 "LOC": [
                     "South",
@@ -788,10 +770,10 @@
                 "NORP": [
                     "Southeast Asian",
                     "Southeast",
-                    "English",
                     "Nepali"
                 ],
                 "LANGUAGE": [
+                    "English",
                     "English"
                 ],
                 "ORG": [
@@ -801,11 +783,7 @@
                     "Book Club for Kids",
                     "the California Library Association Technology Award",
                     "Award for Excellence",
-                    "TIMES",
-                    "London.<br",
-                    "grey",
-                    "grey",
-                    "href='https://acast.com/privacy'>acast.com"
+                    "TIMES"
                 ],
                 "ORDINAL": [
                     "75th"
@@ -820,7 +798,7 @@
                     "Shira",
                     "Shira Walinsky",
                     "Ujjwala Maharjan",
-                    "Luis L\u00f3pez.<br",
+                    "Luis L\u00f3pez",
                     "Kitty Felde"
                 ],
                 "DATE": [
@@ -857,11 +835,7 @@
                     "Book Club for Kids",
                     "the California Library Association Technology Award",
                     "Award for Excellence",
-                    "TIMES",
-                    "London.<br",
-                    "grey",
-                    "grey",
-                    "href='https://acast.com/privacy'>acast.com"
+                    "TIMES"
                 ],
                 "LOC": [
                     "Milagros Rodr\u00edguez Caro",
@@ -871,7 +845,8 @@
                 "GPE": [
                     "Milagros",
                     "Buenos Aires",
-                    "Argentina"
+                    "Argentina",
+                    "London"
                 ],
                 "LANGUAGE": [
                     "English"
@@ -891,7 +866,7 @@
                     "Hailey Choi",
                     "Maru Lombardo",
                     "Lory Mart\u00ednez",
-                    "Luis L\u00f3pez.<br",
+                    "Luis L\u00f3pez",
                     "Kitty Felde"
                 ],
                 "PRODUCT": [
@@ -927,7 +902,8 @@
             "entities": {
                 "GPE": [
                     "Argentina",
-                    "Buenos Aires"
+                    "Buenos Aires",
+                    "London"
                 ],
                 "LANGUAGE": [
                     "Spanish",
@@ -937,16 +913,11 @@
                     "Ochenta Stories",
                     "Apple Podcasts",
                     "@Ochentapodcasts",
-                    "Instagram",
                     "Ochenta Stories",
                     "Book Club for Kids",
                     "the California Library Association Technology Award",
                     "Award for Excellence",
-                    "TIMES",
-                    "London.<br",
-                    "grey",
-                    "grey",
-                    "href='https://acast.com/privacy'>acast.com"
+                    "TIMES"
                 ],
                 "PERSON": [
                     "Bel\u00e9n Saitua",
@@ -991,37 +962,30 @@
                     "Paris",
                     "Ukraine",
                     "Paris",
-                    "France",
                     "Studio Ochenta",
                     "Ukraine",
                     "Russia",
                     "Montenegro",
-                    "France"
+                    "France",
+                    "London"
                 ],
                 "LANGUAGE": [
                     "English"
                 ],
-                "NORP": [
-                    "Russian"
-                ],
                 "PERSON": [
                     "Stefan Levchenko",
                     "Stefan",
+                    "Hailey Choi",
                     "Kitty Felde"
                 ],
                 "ORG": [
                     "the American University of Paris",
                     "Peacock Magazine",
-                    "Hailey Choi.<br",
                     "Ochenta Stories",
                     "Book Club for Kids",
                     "the California Library Association Technology Award",
                     "Award for Excellence",
-                    "TIMES",
-                    "London.<br",
-                    "grey",
-                    "grey",
-                    "href='https://acast.com/privacy'>acast.com"
+                    "TIMES"
                 ],
                 "LOC": [
                     "Humanitites"
@@ -1057,19 +1021,21 @@
                 "GPE": [
                     "London",
                     "UK",
+                    "EnglishCREDITS",
                     "Studio Ochenta",
                     "Colombia",
                     "Spain",
                     "London",
-                    "Spain"
+                    "Spain",
+                    "London"
                 ],
-                "LANGUAGE": [
-                    "Spanish",
-                    "English"
+                "NORP": [
+                    "Spanish"
                 ],
                 "PERSON": [
                     "Maria Clara Montoya",
                     "Mar\u00eda Clara",
+                    "Hailey Choi",
                     "Kitty Felde"
                 ],
                 "DATE": [
@@ -1077,16 +1043,11 @@
                 ],
                 "ORG": [
                     "Confinados",
-                    "Hailey Choi.<br",
                     "Ochenta Stories",
                     "Book Club for Kids",
                     "the California Library Association Technology Award",
                     "Award for Excellence",
-                    "TIMES",
-                    "London.<br",
-                    "grey",
-                    "grey",
-                    "href='https://acast.com/privacy'>acast.com"
+                    "TIMES"
                 ],
                 "LOC": [
                     "Humanitites"
@@ -1128,24 +1089,16 @@
                     "Maru Lombardo",
                     "Jeremias Juarez"
                 ],
+                "NORP": [
+                    "Spanish",
+                    "English"
+                ],
                 "GPE": [
-                    "Argentina",
+                    "EnglishCREDITS",
                     "Ochenta",
                     "Ochenta",
                     "Ochenta",
                     "Ochenta"
-                ],
-                "LANGUAGE": [
-                    "Spanish",
-                    "English"
-                ],
-                "NORP": [
-                    "English"
-                ],
-                "ORG": [
-                    "grey",
-                    "grey",
-                    "href='https://acast.com/privacy'>acast.com"
                 ]
             }
         },
@@ -1184,7 +1137,7 @@
                 ],
                 "PERSON": [
                     "Danielle Olavario",
-                    "Chiara Santella.<br"
+                    "Chiara Santella"
                 ],
                 "NORP": [
                     "Tagalog"
@@ -1195,10 +1148,7 @@
                 ],
                 "ORG": [
                     "The Sound Design",
-                    "Apple Podcasts",
-                    "grey",
-                    "grey",
-                    "href='https://acast.com/privacy'>acast.com"
+                    "Apple Podcasts"
                 ],
                 "PRODUCT": [
                     "Twitter"
@@ -1229,7 +1179,6 @@
             "entities": {
                 "GPE": [
                     "Paris",
-                    "France",
                     "Studio Ochenta",
                     "Sonoran",
                     "Tucson",
@@ -1242,30 +1191,23 @@
                 "LANGUAGE": [
                     "English"
                 ],
-                "NORP": [
-                    "Spanish",
-                    "Spanish"
-                ],
                 "PERSON": [
                     "Nicole DiSante",
                     "Nicole",
                     "Lory Martinez",
-                    "Mamak Khadem",
-                    "br />Suleyman Aga",
-                    "Serge Quadrado"
+                    "Hailey Choi",
+                    "Mamak KhademSuleyman Aga",
+                    "MWEDarbuka Groove",
+                    "Serge Quadrado Yesilim",
+                    "RoadGushe Cheman"
                 ],
                 "ORG": [
                     "Global Communications",
                     "the American University of Paris",
-                    "Hailey Choi.<br",
-                    "the Silk Road<br />Gushe Cheman",
-                    "the Silk Road<br />The",
-                    "grey",
-                    "grey",
-                    "href='https://acast.com/privacy'>acast.com"
+                    "Blue Dot SessionsDelamine"
                 ],
-                "WORK_OF_ART": [
-                    "Poplar Grove"
+                "NORP": [
+                    "Spanish"
                 ]
             }
         },
@@ -1292,10 +1234,10 @@
             "title": "The Orchard",
             "entities": {
                 "LANGUAGE": [
-                    "French"
+                    "French",
+                    "English"
                 ],
                 "GPE": [
-                    "English.<br",
                     "Studio Ochenta",
                     "UK",
                     "Canada"
@@ -1303,14 +1245,11 @@
                 "PERSON": [
                     "Leonie Thomas",
                     "Leonie",
-                    "Hailey Choi.<br"
+                    "Hailey Choi"
                 ],
                 "ORG": [
                     "BBC Radio 4",
-                    "the BBC World Service",
-                    "grey",
-                    "grey",
-                    "href='https://acast.com/privacy'>acast.com"
+                    "the BBC World Service"
                 ],
                 "WORK_OF_ART": [
                     "PhD"
@@ -1350,17 +1289,14 @@
                 "ORG": [
                     "Ochenta Stories",
                     "Naboth Rimayi",
-                    "Naboth",
-                    "grey",
-                    "grey",
-                    "href='https://acast.com/privacy'>acast.com"
+                    "Naboth"
                 ],
                 "NORP": [
                     "African"
                 ],
                 "PERSON": [
                     "Grapevine Clothing",
-                    "Hailey Choi.<br"
+                    "Hailey Choi"
                 ]
             }
         },
@@ -1390,12 +1326,8 @@
                     "English"
                 ],
                 "ORG": [
-                    "Khmer.<br",
                     "Khmer",
-                    "Hailey Choi.<br",
-                    "grey",
-                    "grey",
-                    "href='https://acast.com/privacy'>acast.com"
+                    "Khmer"
                 ],
                 "GPE": [
                     "Studio Ochenta"
@@ -1405,7 +1337,8 @@
                     "Alyssa",
                     "avid traveler",
                     "Alyssa",
-                    "Socheata"
+                    "Socheata",
+                    "Hailey Choi"
                 ]
             }
         },
@@ -1438,6 +1371,10 @@
                     "English",
                     "English"
                 ],
+                "NORP": [
+                    "Italian",
+                    "Italian"
+                ],
                 "GPE": [
                     "Studio Ochenta",
                     "Saint Paul",
@@ -1445,23 +1382,17 @@
                 ],
                 "ORG": [
                     "Paris France",
-                    "Hailey Choi.<br",
-                    "Ochenta Stories",
-                    "grey",
-                    "grey",
-                    "href='https://acast.com/privacy'>acast.com"
+                    "Ochenta Stories"
                 ],
                 "PERSON": [
                     "Margaret LaFleur",
                     "Margaret",
-                    "Chiara Santella"
+                    "Chiara Santella",
+                    "Hailey Choi"
                 ],
                 "CARDINAL": [
                     "two",
                     "15"
-                ],
-                "NORP": [
-                    "Italian"
                 ]
             }
         },
@@ -1508,10 +1439,7 @@
                     "Niki",
                     "Infinite Variety Productions",
                     "Blue Dot Sessions",
-                    "Apple Podcasts",
-                    "grey",
-                    "grey",
-                    "href='https://acast.com/privacy'>acast.com"
+                    "Apple Podcasts"
                 ],
                 "WORK_OF_ART": [
                     "Dog Show Comedy"
@@ -1551,18 +1479,16 @@
                     "Anand Tumurtogoo",
                     "ProPublica",
                     "The Sound Design",
-                    "Apple Podcasts",
-                    "grey",
-                    "grey",
-                    "href='https://acast.com/privacy'>acast.com"
+                    "Apple Podcasts"
                 ],
                 "NORP": [
+                    "Mongolian",
                     "Mongolian"
                 ],
                 "PERSON": [
                     "Covid",
                     "Yalguun Batbayar",
-                    "Chiara Santella.<br"
+                    "Chiara Santella"
                 ],
                 "LANGUAGE": [
                     "English"
@@ -1624,10 +1550,7 @@
                     "the Sound Design"
                 ],
                 "ORG": [
-                    "Apple Podcasts",
-                    "grey",
-                    "grey",
-                    "href='https://acast.com/privacy'>acast.com"
+                    "Apple Podcasts"
                 ],
                 "PRODUCT": [
                     "Twitter"
@@ -1660,10 +1583,7 @@
                     "Ochenta Stories",
                     "Cultureverse",
                     "Yara Shahidi",
-                    "Ochenta Stories",
-                    "grey",
-                    "grey",
-                    "href='https://acast.com/privacy'>acast.com"
+                    "Ochenta Stories"
                 ],
                 "GPE": [
                     "Studio Ochenta",
@@ -1675,7 +1595,9 @@
                     "Mexico"
                 ],
                 "PERSON": [
+                    "Cultureverse",
                     "Kelly Marie Tran",
+                    "\ufeffIf",
                     "Cultureverse Studio"
                 ],
                 "CARDINAL": [
@@ -1729,10 +1651,7 @@
                     "Pod Bible",
                     "Francesca",
                     "Kingston University London",
-                    "The Sound Design",
-                    "grey",
-                    "grey",
-                    "href='https://acast.com/privacy'>acast.com"
+                    "The Sound Design"
                 ],
                 "WORK_OF_ART": [
                     "Seize Your Adventure"
@@ -1740,7 +1659,7 @@
                 "PERSON": [
                     "Sandra Vorreiter",
                     "Sandra",
-                    "Chiara Santella.<br"
+                    "Chiara Santella"
                 ],
                 "LOC": [
                     "Drama"
@@ -1777,35 +1696,33 @@
                     "Lisha Lopez",
                     "Junkanoo",
                     "Junkanoo Medley",
-                    "Ted Sweeting",
                     "Junkanoo Music",
                     "Junkanoo Summer"
                 ],
                 "GPE": [
                     "Bahamas",
-                    "Bahamas",
-                    "Nassau Bahamas"
+                    "Bahamas"
                 ],
                 "LANGUAGE": [
-                    "English",
-                    "Spanish"
+                    "English"
+                ],
+                "NORP": [
+                    "Spanish",
+                    "Spanish",
+                    "Nassau"
                 ],
                 "ORG": [
                     "Ochenta Stories",
-                    "The Sound Design",
-                    "grey",
-                    "grey",
-                    "href='https://acast.com/privacy'>acast.com"
-                ],
-                "NORP": [
-                    "Spanish"
-                ],
-                "DATE": [
-                    "2019",
-                    "2016 - One"
+                    "The Sound Design"
                 ],
                 "LOC": [
                     "Valley"
+                ],
+                "WORK_OF_ART": [
+                    "Ted Sweeting-"
+                ],
+                "DATE": [
+                    "2016 - One"
                 ]
             }
         },
@@ -1839,29 +1756,29 @@
                     "Sweden",
                     "Karin",
                     "Gothenburg",
+                    "Sweden",
                     "Karin"
                 ],
                 "PERSON": [
                     "Midsummer",
+                    "Karin Heimdahl",
+                    "Karin",
                     "Vast Horizon",
-                    "Manifestations",
                     "Linn",
                     "Chiara Santella"
                 ],
                 "LANGUAGE": [
                     "English"
                 ],
+                "NORP": [
+                    "Swedish"
+                ],
                 "ORG": [
-                    "Swedish.<br",
                     "Ochenta Stories",
-                    "Karin Heimdahl.<br",
                     "Mirrors, The White Vault",
                     "Copperheart",
                     "The Sound Design",
-                    "Apple Podcasts",
-                    "grey",
-                    "grey",
-                    "href='https://acast.com/privacy'>acast.com"
+                    "Apple Podcasts"
                 ],
                 "PRODUCT": [
                     "Y2K",
@@ -1899,13 +1816,14 @@
                     "Ray Mwareya",
                     "Ray Mwareya",
                     "Ray",
-                    "Chiara Santella.<br"
+                    "Chiara Santella"
                 ],
                 "LANGUAGE": [
                     "English"
                 ],
                 "GPE": [
                     "Shona",
+                    "Zambia",
                     "Studio Ochenta",
                     "Ottawa",
                     "Canada",
@@ -1915,13 +1833,9 @@
                     "Bantu"
                 ],
                 "ORG": [
-                    "Zambia.<br",
                     "Newsweek",
                     "Guardian",
-                    "The Sound Design",
-                    "grey",
-                    "grey",
-                    "href='https://acast.com/privacy'>acast.com"
+                    "The Sound Design"
                 ]
             }
         },
@@ -1950,6 +1864,10 @@
                 "DATE": [
                     "week"
                 ],
+                "PRODUCT": [
+                    "Carol",
+                    "Twitter"
+                ],
                 "LANGUAGE": [
                     "English",
                     "Spanish"
@@ -1961,24 +1879,18 @@
                     "the Jerusalem Post",
                     "ZOOM",
                     "the Sound Design",
-                    "Apple Podcasts",
-                    "grey",
-                    "grey",
-                    "href='https://acast.com/privacy'>acast.com"
+                    "Apple Podcasts"
                 ],
                 "PERSON": [
                     "Carol Ungar",
                     "Maru Lombardo",
-                    "Chiara Santella.<br"
+                    "Chiara Santella"
                 ],
                 "GPE": [
                     "Tablet"
                 ],
                 "NORP": [
                     "Spanish"
-                ],
-                "PRODUCT": [
-                    "Twitter"
                 ]
             }
         },
@@ -2006,8 +1918,14 @@
             "entities": {
                 "LANGUAGE": [
                     "English",
-                    "French",
                     "English"
+                ],
+                "NORP": [
+                    "French",
+                    "French",
+                    "franco",
+                    "Vietnamese-Chinese",
+                    "Mija"
                 ],
                 "GPE": [
                     "Studio Ochenta",
@@ -2023,26 +1941,17 @@
                     "Mija Podcast",
                     "Melanie",
                     "Mija",
-                    "la Parisienne",
-                    "Mija"
+                    "la Parisienne"
                 ],
                 "ORG": [
                     "Barnard College",
                     "The Columbia Daily Spectator",
                     "Untapped New York",
                     "Instagram at @bella.druckman",
-                    "The Sound Design",
-                    "grey",
-                    "grey",
-                    "href='https://acast.com/privacy'>acast.com"
+                    "The Sound Design"
                 ],
                 "PRODUCT": [
                     "Twitter"
-                ],
-                "NORP": [
-                    "French",
-                    "franco",
-                    "Vietnamese-Chinese"
                 ],
                 "DATE": [
                     "the second season",
@@ -2074,6 +1983,7 @@
             "entities": {
                 "GPE": [
                     "Cairo",
+                    "Egypt",
                     "Colombo",
                     "Sri Lanka",
                     "UK"
@@ -2083,14 +1993,12 @@
                     "the Wasafiri New Writing Prize",
                     "the Nazim Hikmet Prizerr",
                     "Apple Podcasts",
-                    "grey",
-                    "grey",
-                    "href='https://acast.com/privacy'>acast.com"
+                    "Hosted on Acast"
                 ],
                 "PERSON": [
                     "Rushda Rafeek",
                     "Zeina Abouelmakarem",
-                    "Chiara Santella.<br"
+                    "Chiara Santella"
                 ],
                 "DATE": [
                     "2017",
@@ -2139,7 +2047,7 @@
                     "Clare Wiley",
                     "Sophia Moore",
                     "Lisha Lopez",
-                    "Chiara Santella.<br",
+                    "Chiara Santella",
                     "Twitter"
                 ],
                 "ORG": [
@@ -2147,14 +2055,10 @@
                     "Al Jazeera",
                     "Lithium Magazine and Affinity Magazine",
                     "Apple Podcasts",
-                    "Instagram",
                     "Mam\u00ed & Pap\u00ed",
                     "Mam\u00ed & Pap\u00ed",
                     "Apple Podcasts",
-                    "TalkToMamiPapi.com",
-                    "grey",
-                    "grey",
-                    "href='https://acast.com/privacy'>acast.com"
+                    "TalkToMamiPapi.com"
                 ],
                 "DATE": [
                     "18-year-old",
@@ -2198,9 +2102,7 @@
                     "Ochenta Stories",
                     "Ochenta Stories",
                     "Apple Podcasts",
-                    "grey",
-                    "grey",
-                    "href='https://acast.com/privacy'>acast.com"
+                    "Hosted on Acast"
                 ],
                 "LANGUAGE": [
                     "English",
@@ -2218,7 +2120,8 @@
                     "the pandemic year"
                 ],
                 "PERSON": [
-                    "Laura Wheatman Hill.<br"
+                    "Laura Wheatman Hill",
+                    "Laura"
                 ],
                 "CARDINAL": [
                     "two"
@@ -2270,6 +2173,7 @@
                 ],
                 "DATE": [
                     "the pandemic year",
+                    "this Wednesday",
                     "April 14th,2021"
                 ],
                 "LANGUAGE": [
@@ -2290,10 +2194,7 @@
                     "Issra",
                     "Issra",
                     "International Development Studies",
-                    "Apple Podcasts",
-                    "grey",
-                    "grey",
-                    "href='https://acast.com/privacy'>acast.com"
+                    "Apple Podcasts"
                 ],
                 "PERSON": [
                     "Marie Mart\u00edn",
@@ -2340,16 +2241,13 @@
                     "the Sydney Latin American Film Festival",
                     "Carriageworks",
                     "the Time Traveller",
-                    "Apple Podcasts",
-                    "grey",
-                    "grey",
-                    "href='https://acast.com/privacy'>acast.com"
+                    "Apple Podcasts"
                 ],
                 "PERSON": [
                     "Zacha Rosen",
                     "Concrete Playground",
                     "Luis Salvador",
-                    "Chiara Santella.<br"
+                    "Chiara Santella"
                 ],
                 "PRODUCT": [
                     "Twitter"
@@ -2389,7 +2287,7 @@
                     "Spotify"
                 ],
                 "PERSON": [
-                    "Francesco Carrubba.<br",
+                    "Francesco Carrubba",
                     "Twitter",
                     "Sarah Golding",
                     "Chiara Santella",
@@ -2402,10 +2300,7 @@
                     "Mam\u00ed & Pap\u00ed",
                     "Mam\u00ed & Pap\u00ed",
                     "Apple Podcasts",
-                    "TalkToMamiPapi.com",
-                    "grey",
-                    "grey",
-                    "href='https://acast.com/privacy'>acast.com"
+                    "TalkToMamiPapi.com"
                 ],
                 "PRODUCT": [
                     "Twitter"
@@ -2446,7 +2341,7 @@
                     "Judlyne Gibson",
                     "Gibson",
                     "Tillotson Concert Choir",
-                    "Chiara Santella.<br",
+                    "Chiara Santella",
                     "Twitter"
                 ],
                 "EVENT": [
@@ -2470,10 +2365,7 @@
                     "Mam\u00ed & Pap\u00ed",
                     "Mam\u00ed & Pap\u00ed",
                     "Apple Podcasts",
-                    "TalkToMamiPapi.com",
-                    "grey",
-                    "grey",
-                    "href='https://acast.com/privacy'>acast.com"
+                    "TalkToMamiPapi.com"
                 ],
                 "GPE": [
                     "Studio Ochenta",
@@ -2531,10 +2423,7 @@
                     "Mam\u00ed & Pap\u00ed",
                     "Mam\u00ed & Pap\u00ed",
                     "Apple Podcasts",
-                    "TalkToMamiPapi.com",
-                    "grey",
-                    "grey",
-                    "href='https://acast.com/privacy'>acast.com"
+                    "TalkToMamiPapi.com"
                 ],
                 "PERSON": [
                     "Ali",
@@ -2596,10 +2485,7 @@
                     "The International New York Times",
                     "Times",
                     "Please Say Hello",
-                    "Apple Podcasts",
-                    "grey",
-                    "grey",
-                    "href='https://acast.com/privacy'>acast.com"
+                    "Apple Podcasts"
                 ],
                 "NORP": [
                     "American",
@@ -2670,10 +2556,7 @@
                     "Far Far"
                 ],
                 "ORG": [
-                    "Apple Podcasts",
-                    "grey",
-                    "grey",
-                    "href='https://acast.com/privacy'>acast.com"
+                    "Apple Podcasts"
                 ],
                 "PRODUCT": [
                     "Twitter"
@@ -2727,10 +2610,7 @@
                     "The English Goat",
                     "The English Cat",
                     "Sophie McMillan",
-                    "Apple Podcasts",
-                    "grey",
-                    "grey",
-                    "href='https://acast.com/privacy'>acast.com"
+                    "Apple Podcasts"
                 ],
                 "NORP": [
                     "Ig",
@@ -2782,7 +2662,7 @@
                     "Seungwoo Baek",
                     "Yu Stone",
                     "Yu",
-                    "Chiara Santella.<br"
+                    "Chiara Santella"
                 ],
                 "LANGUAGE": [
                     "English"
@@ -2793,10 +2673,7 @@
                     "English"
                 ],
                 "ORG": [
-                    "Seungwoo Baek",
-                    "grey",
-                    "grey",
-                    "href='https://acast.com/privacy'>acast.com"
+                    "Seungwoo Baek"
                 ],
                 "GPE": [
                     "Toronto",
@@ -2844,10 +2721,7 @@
                 ],
                 "ORG": [
                     "UnionDues",
-                    "Apple Podcasts",
-                    "grey",
-                    "grey",
-                    "href='https://acast.com/privacy'>acast.com"
+                    "Apple Podcasts"
                 ],
                 "PRODUCT": [
                     "Twitter"
@@ -2881,7 +2755,8 @@
                 ],
                 "PERSON": [
                     "Jennifer",
-                    "Jennifer Billock"
+                    "Jennifer Billock",
+                    "Beth Buehlman"
                 ],
                 "CARDINAL": [
                     "Three"
@@ -2893,12 +2768,8 @@
                     "Ochenta Stories",
                     "the Macabre Traveler Podcast",
                     "the Kitchen Witch Newsletter",
-                    "Instagram",
                     "Ochenta Stories",
-                    "Apple Podcasts",
-                    "grey",
-                    "grey",
-                    "href='https://acast.com/privacy'>acast.com"
+                    "Apple Podcasts"
                 ],
                 "NORP": [
                     "Twitter",
@@ -2968,12 +2839,9 @@
                     "Freelance Producer",
                     "Host of Investigative Podcast",
                     "the Co Creator and Production Editor",
-                    "The Scrutiny Hour Podcast.<br",
+                    "The Scrutiny Hour Podcast",
                     "Ochenta Stories",
-                    "Apple Podcasts",
-                    "grey",
-                    "grey",
-                    "href='https://acast.com/privacy'>acast.com"
+                    "Apple Podcasts"
                 ],
                 "PRODUCT": [
                     "Twitter"
@@ -3029,10 +2897,7 @@
                 "ORG": [
                     "Alexander",
                     "BBC",
-                    "Apple Podcasts",
-                    "grey",
-                    "grey",
-                    "href='https://acast.com/privacy'>acast.com"
+                    "Apple Podcasts"
                 ],
                 "LANGUAGE": [
                     "French",
@@ -3091,10 +2956,7 @@
                 ],
                 "ORG": [
                     "Ochenta Stories",
-                    "Apple Podcasts",
-                    "grey",
-                    "grey",
-                    "href='https://acast.com/privacy'>acast.com"
+                    "Apple Podcasts"
                 ],
                 "PRODUCT": [
                     "Twitter"
@@ -3131,7 +2993,7 @@
                     "Studio Ochenta",
                     "Puerto Rico",
                     "the Continental United States",
-                    "Puerto Rico.<br"
+                    "Puerto Rico"
                 ],
                 "PERSON": [
                     "Maria Elisa Terron",
@@ -3140,10 +3002,7 @@
                 ],
                 "ORG": [
                     "Ochenta Stories",
-                    "Apple Podcasts",
-                    "grey",
-                    "grey",
-                    "href='https://acast.com/privacy'>acast.com"
+                    "Apple Podcasts"
                 ],
                 "PRODUCT": [
                     "Twitter"
@@ -3180,27 +3039,23 @@
                 ],
                 "GPE": [
                     "Tegucigalpa",
-                    "Ecuador",
                     "Studio Ochenta",
                     "New York"
+                ],
+                "ORG": [
+                    "EcuadorLanguages",
+                    "NYU Abu Dhabi",
+                    "NYU Steinhardt",
+                    "Applied Psychology"
                 ],
                 "LANGUAGE": [
                     "English"
                 ],
-                "NORP": [
-                    "Spanish",
-                    "Honduran"
-                ],
                 "PERSON": [
                     "Viviana Kawas"
                 ],
-                "ORG": [
-                    "NYU Abu Dhabi",
-                    "NYU Steinhardt",
-                    "Applied Psychology.<br",
-                    "grey",
-                    "grey",
-                    "href='https://acast.com/privacy'>acast.com"
+                "NORP": [
+                    "Honduran"
                 ]
             }
         },
@@ -3231,19 +3086,20 @@
                     "This Christmas",
                     "this crazy year",
                     "next week",
-                    "2021"
+                    "2021",
+                    "holiday season"
                 ],
                 "PERSON": [
                     "Kate",
                     "Kate",
-                    "Oczypok",
+                    "Kate Oczypok",
                     "Georgetowner",
                     "Jingle Bells",
                     "Rockin",
                     "Kate",
                     "Sara",
                     "Matty",
-                    "Chiara Santella.<br"
+                    "Chiara Santella"
                 ],
                 "GPE": [
                     "Washington",
@@ -3254,9 +3110,7 @@
                     "Brides.com",
                     "Pittsburgh Beautiful",
                     "Ochenta Stories",
-                    "grey",
-                    "grey",
-                    "href='https://acast.com/privacy'>acast.com"
+                    "Hosted on Acast"
                 ],
                 "CARDINAL": [
                     "two"
@@ -3320,9 +3174,7 @@
                     "Ochenta Stories",
                     "Apple Podcasts",
                     "DEC",
-                    "grey",
-                    "grey",
-                    "href='https://acast.com/privacy'>acast.com"
+                    "Hosted on Acast"
                 ],
                 "CARDINAL": [
                     "20"
@@ -3364,10 +3216,7 @@
                 "ORG": [
                     "Mt. Evans Pictures",
                     "Ochenta Stories",
-                    "Apple Podcasts",
-                    "grey",
-                    "grey",
-                    "href='https://acast.com/privacy'>acast.com"
+                    "Apple Podcasts"
                 ],
                 "DATE": [
                     "this crazy year",
@@ -3444,10 +3293,7 @@
                     "EFE",
                     "El Mundo",
                     "Ochenta Stories",
-                    "Apple Podcasts",
-                    "grey",
-                    "grey",
-                    "href='https://acast.com/privacy'>acast.com"
+                    "Apple Podcasts"
                 ],
                 "CARDINAL": [
                     "ten"
@@ -3490,18 +3336,17 @@
                 "LANGUAGE": [
                     "English"
                 ],
-                "ORG": [
-                    "French.<br",
-                    "CBC Radio Canada",
-                    "Ochenta Stories",
-                    "Apple Podcasts",
-                    "grey",
-                    "grey",
-                    "href='https://acast.com/privacy'>acast.com"
+                "NORP": [
+                    "French"
                 ],
                 "PERSON": [
                     "Anne-Marie",
                     "Anne-Marie"
+                ],
+                "ORG": [
+                    "CBC Radio Canada",
+                    "Ochenta Stories",
+                    "Apple Podcasts"
                 ],
                 "PRODUCT": [
                     "Twitter"
@@ -3533,22 +3378,20 @@
                 "GPE": [
                     "Barcelona",
                     "Catalan",
-                    "English.<br",
                     "Studio Ochenta"
                 ],
                 "WORK_OF_ART": [
                     "Radio Insomnio"
+                ],
+                "LANGUAGE": [
+                    "English"
                 ],
                 "PERSON": [
                     "Gemma Josep Arnau",
                     "Gemma"
                 ],
                 "ORG": [
-                    "@Gemma_Josep",
-                    "Instagram",
-                    "grey",
-                    "grey",
-                    "href='https://acast.com/privacy'>acast.com"
+                    "@Gemma_Josep"
                 ]
             }
         },
@@ -3597,10 +3440,7 @@
                 "ORG": [
                     "Juleyka-Lantigua Williams",
                     "Lantigua-Williams & Co",
-                    "Renata Sago",
-                    "grey",
-                    "grey",
-                    "href='https://acast.com/privacy'>acast.com"
+                    "Renata Sago"
                 ],
                 "PERSON": [
                     "Lisandra Maria Ramos",
@@ -3660,11 +3500,9 @@
                 ],
                 "ORG": [
                     "Hist\u00f3rias Vizinhas",
+                    "ochentastudio.comThank",
                     "Ochenta Stories",
-                    "Apple Podcasts",
-                    "grey",
-                    "grey",
-                    "href='https://acast.com/privacy'>acast.com"
+                    "Apple Podcasts"
                 ],
                 "DATE": [
                     "Today"
@@ -3718,10 +3556,7 @@
                     "Siena",
                     "BBC",
                     "Ochenta Stories",
-                    "Apple Podcasts",
-                    "grey",
-                    "grey",
-                    "href='https://acast.com/privacy'>acast.com"
+                    "Apple Podcasts"
                 ],
                 "FAC": [
                     "Instagram"
@@ -3780,10 +3615,7 @@
                 "ORG": [
                     "Clizia Sala",
                     "Ana Cristina Bossa",
-                    "Nikki Hudgins",
-                    "grey",
-                    "grey",
-                    "href='https://acast.com/privacy'>acast.com"
+                    "Nikki Hudgins"
                 ],
                 "NORP": [
                     "Spanish",
@@ -3831,14 +3663,11 @@
                 "PERSON": [
                     "Nbee",
                     "Elk",
-                    "Martin Duchesneau.<br"
+                    "Martin Duchesneau"
                 ],
                 "ORG": [
                     "NBee",
-                    "Danielle Grace",
-                    "grey",
-                    "grey",
-                    "href='https://acast.com/privacy'>acast.com"
+                    "Danielle Grace"
                 ],
                 "LOC": [
                     "Raven"
@@ -3870,7 +3699,8 @@
                 "GPE": [
                     "Ukraine",
                     "Tarilka",
-                    "Ukraine"
+                    "Ukraine",
+                    "Ukrainian"
                 ],
                 "PERSON": [
                     "Anna Romandash",
@@ -3882,14 +3712,6 @@
                 ],
                 "LANGUAGE": [
                     "English"
-                ],
-                "WORK_OF_ART": [
-                    "rel=\"noopener\">https://tarilka.org/en/welcome/</a"
-                ],
-                "ORG": [
-                    "grey",
-                    "grey",
-                    "href='https://acast.com/privacy'>acast.com"
                 ]
             }
         },
@@ -3954,10 +3776,7 @@
                     "Heritage Radio Network",
                     "Buenlimon Radio",
                     "Ochenta Stories",
-                    "Como no Viajar",
-                    "grey",
-                    "grey",
-                    "href='https://acast.com/privacy'>acast.com"
+                    "Como no Viajar"
                 ]
             }
         },
@@ -3995,10 +3814,7 @@
                 ],
                 "ORG": [
                     "Apple",
-                    "@Ochenta",
-                    "grey",
-                    "grey",
-                    "href='https://acast.com/privacy'>acast.com"
+                    "@Ochenta"
                 ],
                 "PRODUCT": [
                     "Twitter"
@@ -4031,7 +3847,8 @@
                     "New York City",
                     "Studio Ochenta",
                     "U.S.",
-                    "U.K.women"
+                    "U.K.women",
+                    "Ochenta"
                 ],
                 "PERSON": [
                     "Jordan Gass",
@@ -4055,16 +3872,10 @@
                 ],
                 "ORG": [
                     "Ochenta Stories",
-                    "Apple Podcasts",
-                    "grey",
-                    "grey",
-                    "href='https://acast.com/privacy'>acast.com"
+                    "Apple Podcasts"
                 ],
                 "PRODUCT": [
                     "Twitter"
-                ],
-                "FAC": [
-                    "Ochenta Studio.com/ochentastories.<br"
                 ]
             }
         },
@@ -4118,10 +3929,7 @@
                     "English"
                 ],
                 "ORG": [
-                    "Tropicana de Cuba",
-                    "grey",
-                    "grey",
-                    "href='https://acast.com/privacy'>acast.com"
+                    "Tropicana de Cuba"
                 ],
                 "CARDINAL": [
                     "50",
@@ -4177,10 +3985,7 @@
                     "Sound Design",
                     "Instagram",
                     "Ochenta Stories",
-                    "Apple Podcasts",
-                    "grey",
-                    "grey",
-                    "href='https://acast.com/privacy'>acast.com"
+                    "Apple Podcasts"
                 ],
                 "NORP": [
                     "Chinese",
@@ -4230,10 +4035,7 @@
                 "ORG": [
                     "Storyhangar.com",
                     "Ochenta Stories",
-                    "Apple Podcasts",
-                    "grey",
-                    "grey",
-                    "href='https://acast.com/privacy'>acast.com"
+                    "Apple Podcasts"
                 ],
                 "NORP": [
                     "Spanish"
@@ -4267,16 +4069,15 @@
                     "Volare",
                     "Clizia Sala",
                     "Clizia Sala",
-                    "City University of London",
-                    "grey",
-                    "grey",
-                    "href='https://acast.com/privacy'>acast.com"
+                    "City University of London"
                 ],
                 "NORP": [
                     "Italian"
                 ],
+                "LANGUAGE": [
+                    "English"
+                ],
                 "GPE": [
-                    "English.<br",
                     "Studio Ochenta",
                     "London",
                     "UK",
@@ -4338,10 +4139,7 @@
                 "ORG": [
                     "Quirky Voices",
                     "Ochenta Stories",
-                    "Apple Podcasts",
-                    "grey",
-                    "grey",
-                    "href='https://acast.com/privacy'>acast.com"
+                    "Apple Podcasts"
                 ]
             }
         },
@@ -4392,10 +4190,7 @@
                 "ORG": [
                     "Mercedes Steppacher",
                     "Ochenta Stories",
-                    "Apple Podcasts",
-                    "grey",
-                    "grey",
-                    "href='https://acast.com/privacy'>acast.com"
+                    "Apple Podcasts"
                 ]
             }
         },
@@ -4437,12 +4232,8 @@
                     "Maru Lombardo",
                     "Chris Haugen",
                     "Futuremono",
-                    "Hanu Dixit"
-                ],
-                "ORG": [
-                    "grey",
-                    "grey",
-                    "href='https://acast.com/privacy'>acast.com"
+                    "Hanu Dixit",
+                    "Trevor Garrod"
                 ]
             }
         },
@@ -4487,10 +4278,7 @@
                 "ORG": [
                     "Sutanya Dacres",
                     "DinnerforOne",
-                    "Ochenta Stories",
-                    "grey",
-                    "grey",
-                    "href='https://acast.com/privacy'>acast.com"
+                    "Ochenta Stories"
                 ]
             }
         },
@@ -4530,10 +4318,7 @@
                     "English"
                 ],
                 "ORG": [
-                    "Ochenta Stories",
-                    "grey",
-                    "grey",
-                    "href='https://acast.com/privacy'>acast.com"
+                    "Ochenta Stories"
                 ]
             }
         },
@@ -4568,21 +4353,16 @@
                     "English",
                     "English"
                 ],
-                "PERSON": [
-                    "Susanna",
-                    "Susanna YeaJin Park"
-                ],
                 "GPE": [
+                    "Susanna Park",
                     "Studio Ochenta",
                     "Susanna Park"
                 ],
+                "PERSON": [
+                    "Susanna YeaJin Park"
+                ],
                 "WORK_OF_ART": [
                     "PhD"
-                ],
-                "ORG": [
-                    "grey",
-                    "grey",
-                    "href='https://acast.com/privacy'>acast.com"
                 ]
             }
         },
@@ -4625,10 +4405,7 @@
                 ],
                 "ORG": [
                     "Journalism and Radio Art",
-                    "Ochenta Stories",
-                    "grey",
-                    "grey",
-                    "href='https://acast.com/privacy'>acast.com"
+                    "Ochenta Stories"
                 ]
             }
         },
@@ -4678,10 +4455,7 @@
                     "the Associated Press",
                     "Podmeet",
                     "Felipe Useche",
-                    "Studio Ochenta Audio Design Fellow.<br",
-                    "grey",
-                    "grey",
-                    "href='https://acast.com/privacy'>acast.com"
+                    "Studio Ochenta Audio Design Fellow"
                 ],
                 "DATE": [
                     "2020"
@@ -4734,9 +4508,7 @@
                     "Twitter"
                 ],
                 "ORG": [
-                    "grey",
-                    "grey",
-                    "href='https://acast.com/privacy'>acast.com"
+                    "Instagram"
                 ]
             }
         },
@@ -4765,7 +4537,7 @@
                 "PERSON": [
                     "Abi McNeil",
                     "L\u00e9a Minod",
-                    "Mo\u00efse Courilleau.<br",
+                    "Mo\u00efse Courilleau",
                     "Abi McNeil",
                     "L\u00e9a Minod",
                     "Mo\u00efse Courilleau"
@@ -4788,9 +4560,7 @@
                     "Radio France",
                     "Art\u00e9 Radio",
                     "COMMUN(E",
-                    "grey",
-                    "grey",
-                    "href='https://acast.com/privacy'>acast.com"
+                    "Hosted on Acast"
                 ],
                 "DATE": [
                     "weekly"
@@ -4842,10 +4612,7 @@
                     "Tanisha Townsend",
                     "Vlan Podcast",
                     "CO",
-                    "Digitial Content Creator",
-                    "grey",
-                    "grey",
-                    "href='https://acast.com/privacy'>acast.com"
+                    "Digitial Content Creator"
                 ]
             }
         },
@@ -4900,9 +4667,7 @@
                 ],
                 "ORG": [
                     "Tiffanie Delune",
-                    "grey",
-                    "grey",
-                    "href='https://acast.com/privacy'>acast.com"
+                    "Instagram"
                 ],
                 "PRODUCT": [
                     "Twitter"
@@ -4971,10 +4736,7 @@
                 ],
                 "ORG": [
                     "un",
-                    "un",
-                    "grey",
-                    "grey",
-                    "href='https://acast.com/privacy'>acast.com"
+                    "un"
                 ],
                 "FAC": [
                     "para ver"
@@ -5012,7 +4774,8 @@
                     "Studio Ochenta's",
                     "Ochenta",
                     "Studio Ochenta",
-                    "Sevilla"
+                    "Sevilla",
+                    "Spain"
                 ],
                 "LANGUAGE": [
                     "Spanish",
@@ -5031,10 +4794,7 @@
                 ],
                 "ORG": [
                     "un",
-                    "pasa la cuarentena",
-                    "grey",
-                    "grey",
-                    "href='https://acast.com/privacy'>acast.com"
+                    "pasa la cuarentena"
                 ],
                 "FAC": [
                     "para ver"
@@ -5081,7 +4841,8 @@
                     "Canada",
                     "Italy",
                     "Ireland",
-                    "Portugal"
+                    "Portugal",
+                    "Croatia"
                 ],
                 "LANGUAGE": [
                     "French",
@@ -5098,10 +4859,7 @@
                     "The Bells"
                 ],
                 "ORG": [
-                    "CBC Radio",
-                    "grey",
-                    "grey",
-                    "href='https://acast.com/privacy'>acast.com"
+                    "CBC Radio"
                 ]
             }
         },
@@ -5155,9 +4913,7 @@
                 ],
                 "ORG": [
                     "Tiffanie Delune",
-                    "grey",
-                    "grey",
-                    "href='https://acast.com/privacy'>acast.com"
+                    "Instagram"
                 ],
                 "PRODUCT": [
                     "Twitter"
@@ -5218,9 +4974,7 @@
                 "ORG": [
                     "Maddy Searle",
                     "Tiffanie Delune",
-                    "grey",
-                    "grey",
-                    "href='https://acast.com/privacy'>acast.com"
+                    "Instagram"
                 ],
                 "PRODUCT": [
                     "Twitter"
@@ -5249,9 +5003,7 @@
             "title": "Introducing Ochenta Stories",
             "entities": {
                 "ORG": [
-                    "grey",
-                    "grey",
-                    "href='https://acast.com/privacy'>acast.com"
+                    "Hosted on Acast"
                 ]
             }
         }
@@ -5327,10 +5079,7 @@
             "two"
         ],
         "ORG": [
-            "Studio Ochenta - Raising Voices Across Cultures",
-            "grey",
-            "grey",
-            "href='https://acast.com/privacy'>acast.com"
+            "Studio Ochenta - Raising Voices Across Cultures Hosted on Acast"
         ]
     }
 }

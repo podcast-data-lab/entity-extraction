@@ -62,7 +62,7 @@
                 "GPE": [
                     "Black"
                 ],
-                "WORK_OF_ART": [
+                "LOC": [
                     "Black Being"
                 ]
             }
@@ -109,25 +109,23 @@
                 ],
                 "NORP": [
                     "American",
-                    "Black Americans",
-                    "href=\"https://as.vanderbilt.edu",
-                    "english"
+                    "Black Americans"
                 ],
                 "PERSON": [
                     "Arthur Jafa",
                     "Jafa",
-                    "Charlie Parker</strong></a></p",
-                    "John Coltrane</strong></a></p",
-                    "Ornette Coleman</strong></a></p",
-                    "Laura Raicovich</strong></a></p",
-                    "Christina Sharpe</strong></a></p",
-                    "John Henrik Clark</strong></a></p",
-                    "Jean-Michel Basquiat</strong></a></p",
-                    "Jimi Hendrix</strong></a></p",
-                    "Butch Morris</strong></a></p",
-                    "Muddy Waters</strong></a></p",
-                    "Carl Hancock",
-                    "Virgil Abloh</strong></a></p"
+                    "Charlie Parker",
+                    "John Coltrane",
+                    "Ornette Coleman",
+                    "Laura Raicovich",
+                    "Christina Sharpe",
+                    "John Henrik Clark",
+                    "Jean-Michel Basquiat",
+                    "Jimi Hendrix",
+                    "Cecil Taylor",
+                    "Muddy Waters",
+                    "Carl Hancock Rux",
+                    "Virgil Abloh"
                 ],
                 "GPE": [
                     "Black"
@@ -139,11 +137,9 @@
                     "two"
                 ],
                 "ORG": [
-                    "Black Being.</span></p>\n<p>",
-                    "The Message is Death - Arthur Jafa</strong></a></p",
-                    "wiki/Jimi_Hendrix\"><strong",
-                    "wiki/Burnt_Sugar_(band)\"><strong",
-                    "wiki/Off-White_(company)\"><strong"
+                    "Black Being",
+                    "The Message is Death - Arthur Jafa",
+                    "Butch Morris"
                 ],
                 "WORK_OF_ART": [
                     "Love"
@@ -189,15 +185,22 @@
             "entities": {
                 "PERSON": [
                     "Macarena Gom\u00e9z-Barris",
-                    "Petrou Cavafy</a></p>",
-                    "E. Butler</a></p",
-                    "Talents</a></p"
+                    "Petrou Cavafy\nWaiting",
+                    "Audre Lorde",
+                    "Saidiya Hartman",
+                    "Octavia E. Butler"
                 ],
                 "ORG": [
                     "Brown University",
                     "the Global South Center",
                     "Pratt Institute",
                     "Gom\u00e9z-Barris"
+                ],
+                "NORP": [
+                    "Barbarians"
+                ],
+                "WORK_OF_ART": [
+                    "Parable of the Talents"
                 ]
             }
         },
@@ -244,7 +247,10 @@
                 ],
                 "PERSON": [
                     "Kara Walker",
-                    "Robert_Wilson_(director)\">Robert Wilson</a></p"
+                    "Buster Browns",
+                    "Robert Wilson\nEinstein",
+                    "Glen Ligon",
+                    "Kehinde Wiley"
                 ],
                 "DATE": [
                     "the age of 28"
@@ -252,10 +258,16 @@
                 "ORG": [
                     "MacArthur Genius",
                     "Walker\u2019s",
-                    "wiki/Einstein_on_the_Beach\">Einstein"
+                    "RISD - Rhode Island School of Design\nMy Complement"
                 ],
                 "CARDINAL": [
                     "one"
+                ],
+                "LOC": [
+                    "Pacific"
+                ],
+                "FAC": [
+                    "the Beach\nStanley Whitney"
                 ]
             }
         },
@@ -299,35 +311,35 @@
                 "PERSON": [
                     "Kevin Young",
                     "Young",
-                    "Willie_Nelson\">Willie Nelson</a></span></p",
-                    "Want You - Marvin Gay</a></span></p",
-                    "Lou Williams</a></span></p",
-                    "Kevin Young</a></span></p",
-                    "Kevin Young</a></span></p"
+                    "Chuck D\n",
+                    "Sonya Sanchez",
+                    "Langston Hughes\n",
+                    "Gwendolyn Brooks\n",
+                    "Harriet Tubman's",
+                    "David Hammonds\u2019",
+                    "Willie Nelson",
+                    "John Coltrane's",
+                    "Mary Lou Williams",
+                    "Jean-Michel Basquiat",
+                    "Ida B. Wells\nBook of Hours - Kevin Young"
                 ],
                 "ORG": [
                     "Smithsonian\u2019s National Museum of African American History and Culture",
                     "The New Yorker",
-                    "National Museum of African American History",
-                    "wiki/Parliament-Funkadelic\">Parliament",
-                    "collection/works/222169\">David Hammonds\u2019",
-                    "wiki",
-                    "href=\"https://kevinyoungpoetry.com",
-                    "href=\"https://kevinyoungpoetry.com"
-                ],
-                "GPE": [
-                    "Enemy</a></span></p",
-                    "Sonya",
-                    "href=\"https://nmaahc.si.edu",
-                    "href=\"https://nmaahc.si.edu"
+                    "Smithsonian's National Museum of African American History and Culture\nPublic Enemy"
                 ],
                 "NORP": [
-                    "african-american-english\">African",
-                    "American",
+                    "African American",
                     "African American"
                 ],
-                "WORK_OF_ART": [
-                    "Love"
+                "LANGUAGE": [
+                    "English"
+                ],
+                "LOC": [
+                    "Earth"
+                ],
+                "FAC": [
+                    "Wind and Fire"
                 ]
             }
         },
@@ -371,12 +383,13 @@
                 "PERSON": [
                     "Tricia Rose",
                     "Rose",
-                    "Lou Hamer</a></span></p"
+                    "Lou Hamer",
+                    "Clarence Thomas\nTightrope"
                 ],
                 "ORG": [
                     "Brown University",
                     "the Center for the Study of Race and Ethnicity in America",
-                    "Cornell"
+                    "Cornell West"
                 ],
                 "WORK_OF_ART": [
                     "The Tight Rope"
@@ -427,9 +440,7 @@
                     "Carrie Mae Weems",
                     "MacArthur",
                     "Ebony",
-                    "href=\"https://www.moma.org",
-                    "wiki/Anthony_Barboza\">Anthony Barboza</a></span></p>\n<p class=\"p1\"><span><a href=\"https://mingsmithstudio.com/about\">Ming",
-                    "wiki/Black_Nativity\">Langston Hughes's \u2018Black Nativity\u2019</a></span></p>\n<p class=\"p1\"><span><a href=\"https://en.wikipedia.org/wiki/Cassandra_(metaphor)\">Cassandra Myth</a></span></p"
+                    "Langston Hughes's \u2018Black Nativity"
                 ],
                 "CARDINAL": [
                     "one",
@@ -447,8 +458,15 @@
                 "LOC": [
                     "the Rome Prize"
                 ],
+                "PERSON": [
+                    "Dawoud Bey",
+                    "Roy DeCarava",
+                    "Anthony Barboza",
+                    "Ming Smith",
+                    "Cassandra Myth"
+                ],
                 "WORK_OF_ART": [
-                    "bpa/\">The Black Photographers Annual</a></span></p>\n<p class=\"p1\"><span><a href=\"https://aalbc.com/authors/author.php?author_name="
+                    "The Black Photographers Annual\nJoe Crawford"
                 ]
             }
         },
@@ -490,13 +508,28 @@
             "title": "Choreographer Bill T. Jones on the violence within seduction\n",
             "entities": {
                 "PERSON": [
+                    "Legendary",
                     "Bill T. Jones",
                     "Jones",
-                    "Davis Jr.</a></span></p",
-                    "max-roach\">Max"
+                    "Alvin Ailey",
+                    "Borde",
+                    "Sammy Davis Jr.",
+                    "Shirley Temple",
+                    "Sydney Poitier\n",
+                    "Charles Weideman",
+                    "Doris Humphrey\n",
+                    "Arnie Zane",
+                    "Louise Roberts",
+                    "Arthur Aviles",
+                    "George Balanchine",
+                    "Hannah Arendt",
+                    "Max Roach",
+                    "Freda Rosen"
                 ],
                 "WORK_OF_ART": [
-                    "Black Yankee"
+                    "Black Yankee",
+                    "Lois Welk\nRod Rogers",
+                    "Marcel Proust\nMerce Cunningham"
                 ],
                 "DATE": [
                     "the 1950s and 1960s",
@@ -506,9 +539,11 @@
                     "one",
                     "12"
                 ],
-                "ORG": [
-                    "wiki/Bill_Robinson\">Bojangles</a></span></p",
-                    "href=\"https://newyorklivearts.org/btj-az-company"
+                "FAC": [
+                    "Pearl Primus"
+                ],
+                "GPE": [
+                    "Bojangles"
                 ]
             }
         },
@@ -557,12 +592,14 @@
                 ],
                 "PERSON": [
                     "Somi",
-                    "Ban Ki-Moon.</span></p",
-                    "Ban Ki-Moon</a></span></p",
-                    "Miriam-Makeba\">Miriam",
-                    "Bunyoro\">The Babiito",
+                    "Ban Ki-Moon",
+                    "Somi",
+                    "Ban Ki-Moon",
+                    "Miriam Makeba",
+                    "Babiito",
                     "Somi Kakoma",
-                    "Miriam"
+                    "Miriam Makeba",
+                    "Zap Mama\n"
                 ],
                 "ORDINAL": [
                     "first"
@@ -576,7 +613,8 @@
                 "ORG": [
                     "the United Nations\u2019 General Assembly",
                     "UN",
-                    "href=\"https://www.pbs.org/articles"
+                    "UN",
+                    "Curtis Institute of Music\n\u2018Dreaming Zenzile:\u2019"
                 ],
                 "GPE": [
                     "Bunyoro"
@@ -622,34 +660,41 @@
             "entities": {
                 "ORG": [
                     "Bartees Strange",
-                    "wiki/Backstreet_Boys\">Backstreet Boys</a></p",
-                    "Spirit",
-                    "wiki",
-                    "class=\"p1\"><a",
-                    "daniel-kleederman-i-wont-be-first-listen/\">Dan Kleederman</a></p"
+                    "Tunde Adebimpe\nParliament",
+                    "Sun Ra\nBrothers",
+                    "Beach House",
+                    "Phoebe Bridgers",
+                    "The National\nMahershala Ali\nFugazi\nBeauty Pill\n"
                 ],
                 "GPE": [
                     "England",
-                    "D.C."
-                ],
-                "WORK_OF_ART": [
-                    "Late Show"
+                    "D.C.",
+                    "Linkin Park",
+                    "Gorgon City",
+                    "Tasha"
                 ],
                 "PERSON": [
-                    "David Letterman</em",
-                    "Comin",
-                    "Park</a></p",
-                    "Johnson</a></p",
-                    "href=\"http://www.beachhousebaltimore.com/\">Beach",
+                    "David Letterman",
+                    "Johnson",
                     "Junie Morrison",
-                    "George Clinton</a></p",
-                    "class=\"p1\"><a href=\"https://courtneybarnett.com.au/\">Courtney Barnett</a></p",
-                    "Feet</a></p",
-                    "Johnson</a></p",
-                    "jdotdaze/?hl"
+                    "George Clinton",
+                    "Courtney Barnett",
+                    "Lucy Dacus",
+                    "Chuck Brown",
+                    "Moses Sumney\nSerpent",
+                    "Feet\n",
+                    "Dan Kleederman",
+                    "Johnson",
+                    "John Daise"
                 ],
-                "CARDINAL": [
-                    "en\">TK"
+                "MONEY": [
+                    "50 Cent"
+                ],
+                "LOC": [
+                    "Burial"
+                ],
+                "PRODUCT": [
+                    "Car Seat Headrest"
                 ]
             }
         },
@@ -691,30 +736,40 @@
             "title": "Painter Glenn Ligon on the value of difference\n",
             "entities": {
                 "NORP": [
-                    "American",
-                    "Beardon</a></p"
+                    "American"
                 ],
                 "PERSON": [
                     "Glenn Ligon",
-                    "bio\">Courtney Bryan</a></p",
-                    "href=\"http://www.pamelaz.com/\">Pamela Z</a><span",
-                    "curator\">Thelma Golden</a></p",
-                    "robert-omeally\">Robert O\u2019Meally</a></p",
-                    "Walden School</a></p"
+                    "Courtney Bryan",
+                    "Samiya Bashir\nThelma Golden",
+                    "Robert",
+                    "Romare Beardon",
+                    "Toni Morrison",
+                    "Lorna Simpson",
+                    "Margaret Naumberg",
+                    "Mike D - Beastie",
+                    "Schwerner",
+                    "Dav\u00f3ne Tines",
+                    "Chris Ofili",
+                    "Henry Threadgill",
+                    "Bruly Bouabr\u00e9",
+                    "Saidiya Hartman\nFred Moten",
+                    "Jason Moran"
                 ],
                 "DATE": [
                     "20th-century"
                 ],
                 "ORG": [
                     "Ligon",
-                    "href=\"https://studiomuseum.org",
-                    "wiki/Mike_D\">Mike D - Beastie Boys</a></p",
+                    "The Walden School",
                     "Goodman",
-                    "wiki/Chris_Ofili\">Chris Ofili</a><span",
-                    "wiki/Fr%C3%A9d%C3%A9ric_Bruly_Bouabr%C3%A9\">Fr\u00e9d\u00e9ric Bruly"
+                    "Fr\u00e9d\u00e9ric"
                 ],
                 "TIME": [
                     "afternoon"
+                ],
+                "WORK_OF_ART": [
+                    "Pamela Z"
                 ],
                 "LOC": [
                     "Chaney"
@@ -760,9 +815,10 @@
             "entities": {
                 "PERSON": [
                     "Claudia Rankine",
-                    "References</span></h4",
-                    "j2tivsN0v88\"></a><a",
-                    "Wilson",
+                    "Jennifer Lewis",
+                    "Alex Poots",
+                    "Shed",
+                    "Robert Wilson",
                     "Bernice Johnson Reagon"
                 ],
                 "ORG": [
@@ -771,16 +827,18 @@
                     "MacArthur",
                     "Guggenheim",
                     "National Endowment of the Arts",
-                    "wiki/The_Shed_(arts_center)\">The Shed</a></span></p"
+                    "Nuar"
                 ],
                 "GPE": [
                     "Rankine"
                 ],
-                "NORP": [
-                    "href=\"https://www.graywolfpress.org"
+                "DATE": [
+                    "August"
                 ],
                 "WORK_OF_ART": [
-                    "The Temptation of St. Anthony\u201d</a></span></p>\n<p"
+                    "Ain't Nobody Got Time For That",
+                    "Animal Joy",
+                    "The Temptation of St. Anthony"
                 ]
             }
         },
@@ -825,32 +883,29 @@
                     "Michael R. Jackson",
                     "a Tony Award",
                     "Jackson",
-                    "Gestalt Therapy</strong></a></p",
-                    "Peabo Bryson</strong></a></span></p",
-                    "Jeffrey Osborne</strong></a></span></p",
-                    "Luther Vandross</strong></a></p"
+                    "Gestalt Therapy",
+                    "Peabo Bryson",
+                    "Jeffrey Osborne",
+                    "Luther Vandross"
                 ],
                 "WORK_OF_ART": [
-                    "the Pulitzer Prize"
+                    "the Pulitzer Prize",
+                    "A Strange Loop",
+                    "A Strange Loop",
+                    "When We All Get to Heaven"
                 ],
                 "DATE": [
-                    "almost 20 years"
+                    "almost 20 years",
+                    "2022"
                 ],
                 "CARDINAL": [
                     "one",
                     "100",
-                    "100",
-                    "2022\"</strong></a></p"
+                    "100"
                 ],
                 "ORG": [
                     "Time Magazine\u2019s",
-                    "href=\"https://time.com",
                     "Time Magazine's"
-                ],
-                "GPE": [
-                    "collection/100",
-                    "href=\"https://www.peabobryson2.com/\"><strong",
-                    "href=\"https://luthervandross.com/\"><strong"
                 ]
             }
         },
@@ -891,6 +946,7 @@
             "entities": {
                 "PERSON": [
                     "Helga Davis",
+                    "Helga",
                     "Brown"
                 ],
                 "GPE": [
@@ -902,9 +958,8 @@
                     "the Brown Arts Institute",
                     "WNYC Studios",
                     "Radiolab",
-                    "Death, Sex &",
-                    "The Brown Arts Institute",
-                    "community.</span></p"
+                    "Death, Sex & Money",
+                    "The Brown Arts Institute"
                 ],
                 "NORP": [
                     "Media"
@@ -1005,40 +1060,42 @@
                 "PERSON": [
                     "K. Anthony Jones",
                     "K. Anthony Jones",
+                    "Jones",
                     "Toni Morrison",
                     "Angela Y. Davis",
                     "Cornel West",
-                    "Wahneema Lubiano</p",
-                    "Home</em",
-                    "Toni Morrison</p>\n",
-                    "Tom Feelings</p",
+                    "Wahneema Lubiano",
+                    "Toni Morrison",
+                    "Tom Feelings",
                     "Taryn Simon",
                     "Taryn Simon",
                     "Joshua Chuang",
                     "Tim Griffin",
                     "Virginia Hamilton",
-                    "Leo Dillon",
-                    "Diane"
+                    "Leo Dillon"
                 ],
                 "CARDINAL": [
                     "one",
+                    "5",
+                    "1",
+                    "2",
+                    "3",
+                    "4",
                     "5"
                 ],
                 "EVENT": [
                     "the Cold War"
                 ],
-                "WORK_OF_ART": [
-                    "a Master in Design Studies"
-                ],
                 "ORG": [
                     "Harvard University Graduate School of Design",
                     "Morehouse College in Sociology",
                     "House",
-                    "White Ships / Black Cargo</em",
+                    "White Ships / Black Cargo",
                     "Flea\u2019s Eye"
                 ],
                 "DATE": [
                     "2020",
+                    "2010",
                     "Today"
                 ]
             }
@@ -1078,11 +1135,11 @@
             "entities": {
                 "PRODUCT": [
                     "Antwaun Sargent",
+                    "Antwaun Sargent",
                     "Antwaun Sargent"
                 ],
                 "PERSON": [
-                    "Helga",
-                    "Gagosian Gallery.</p"
+                    "Helga"
                 ],
                 "GPE": [
                     "New York City"
@@ -1093,6 +1150,7 @@
                     "Notes On Social Works"
                 ],
                 "ORG": [
+                    "Gagosian Gallery",
                     "Coda"
                 ]
             }
@@ -1152,6 +1210,7 @@
                     "National Public Radio",
                     "CBS",
                     "Monocle",
+                    "The New York Times",
                     "ACLU",
                     "the NAACP Legal Defense and Educational Fund, Inc.",
                     "the American Association of Law School's Section on Civil Rights and the Section on Minority Groups",
@@ -1161,7 +1220,6 @@
                     "Atlantic"
                 ],
                 "GPE": [
-                    "The New York",
                     "New York City"
                 ]
             }
@@ -1200,22 +1258,24 @@
             "title": "Liliana Maria Percy Ru\u00edz\n",
             "entities": {
                 "PERSON": [
-                    "Maria Percy Ru\u00edz",
-                    "Krista Tippett",
+                    "Liliana Maria Percy Ru\u00edz",
                     "Liliana Maria Percy Ru\u00edz",
                     "Liliana Maria",
                     "Liliana Maria",
                     "Krista Tippett",
                     "Liliana Maria",
-                    "Centro",
                     "Latino"
+                ],
+                "WORK_OF_ART": [
+                    "On Being with Krista Tippett",
+                    "All Things Considered",
+                    "Movies I\u2019ve Seen A Million Times"
                 ],
                 "GPE": [
                     "Cali",
                     "Colombia",
                     "Miami",
-                    "Times</span></a><span",
-                    "Guzman</span></a><span"
+                    "Minneapolis"
                 ],
                 "CARDINAL": [
                     "four",
@@ -1225,8 +1285,7 @@
                 ],
                 "NORP": [
                     "English",
-                    "Roman Catholic",
-                    "Minneapolis.</span></p"
+                    "Roman Catholic Womenpriests"
                 ],
                 "ORG": [
                     "Florida International University",
@@ -1236,10 +1295,10 @@
                     "the Religion Newswriters Association Radio/Podcast Religion Report",
                     "the On Being Project",
                     "OBP",
-                    "Being Studios"
-                ],
-                "WORK_OF_ART": [
-                    "All Things Considered"
+                    "Being Studios",
+                    "Poetry Unbound",
+                    "This Movie Changed Me",
+                    "Centro Tyrone Guzman"
                 ],
                 "DATE": [
                     "the weekends",
@@ -1294,7 +1353,7 @@
                     "Robert Krulwich",
                     "Abumrad",
                     "Abumrad",
-                    "Perfect</em",
+                    "Radiolab",
                     "Abumrad",
                     "Abumrad",
                     "Abumrad"
@@ -1302,6 +1361,7 @@
                 "ORG": [
                     "Radiolab",
                     "Oberlin College",
+                    "Kurt Andersen",
                     "the Edge of Ground Zero",
                     "WNYC",
                     "George Foster Peabody Award",
@@ -1309,17 +1369,23 @@
                     "MacArthur Fellow",
                     "the Genius Grant",
                     "The MacArthur Foundation",
+                    "The Ring & I",
                     "Wagner"
                 ],
                 "GPE": [
                     "Tennessee",
-                    "Ohio"
+                    "Ohio",
+                    "Radio"
                 ],
                 "CARDINAL": [
                     "360",
                     "over 10 million",
                     "more than 500",
                     "ten"
+                ],
+                "WORK_OF_ART": [
+                    "Morning Edition",
+                    "All Things Considered"
                 ],
                 "TIME": [
                     "24 Hours"
@@ -1379,6 +1445,7 @@
                 ],
                 "PERSON": [
                     "Dav\u00f3ne Tines",
+                    "Dav\u00f3ne Tines",
                     "Tines"
                 ],
                 "DATE": [
@@ -1425,18 +1492,18 @@
                     "Karen Finley",
                     "Helga Davis",
                     "Karen Finley",
+                    "Finley",
                     "Finley v.\u00a0NEA",
                     "Finley",
-                    "Reality Shows</em> Feminist",
+                    "Grabbing Pussy",
                     "Karen Finley",
-                    "Karen Finley.</span></p"
+                    "Karen Finley"
                 ],
                 "GPE": [
                     "Chicago",
                     "London",
                     "New York City",
-                    "Paris",
-                    "New York"
+                    "Paris"
                 ],
                 "ORG": [
                     "MFA",
@@ -1444,7 +1511,9 @@
                     "the Supreme Court",
                     "the National Endowment for the Arts",
                     "Lincoln Center",
+                    "Shock Treatment",
                     "Art and Public Policy",
+                    "New York University",
                     "Coda"
                 ],
                 "NORP": [
@@ -1458,7 +1527,7 @@
                     "Books 2018",
                     "anniversary",
                     "2010",
-                    "one-y4299"
+                    "100 Years"
                 ],
                 "ORDINAL": [
                     "25th"
@@ -1503,8 +1572,15 @@
             "entities": {
                 "DATE": [
                     "16 year-olds",
-                    "next generation</strong><span>.</span><span",
                     "2020-2021"
+                ],
+                "ORG": [
+                    "Youth",
+                    "Patina, Sunny",
+                    "Young People\u2019s Literature",
+                    "CBS",
+                    "Lesley University",
+                    "JasonWritesBooks.com"
                 ],
                 "PERSON": [
                     "Jason Reynolds",
@@ -1520,12 +1596,6 @@
                 ],
                 "MONEY": [
                     "#1 New York Times"
-                ],
-                "ORG": [
-                    "Patina, Sunny",
-                    "Young People\u2019s Literature",
-                    "CBS",
-                    "Lesley University"
                 ],
                 "WORK_OF_ART": [
                     "The Daily Show with Trevor Noah",
@@ -1572,16 +1642,9 @@
                 "PERSON": [
                     "Helga Davis",
                     "Tina Campt",
-                    "Tina L. Campt</strong",
+                    "Tina L. Campt",
                     "Owen F. Walker",
-                    "Tina Campt",
-                    "/span><a",
-                    "Tina Campt.</span></p"
-                ],
-                "GPE": [
-                    "Author</strong><span",
-                    "the African Diaspora",
-                    "Santa Cruz"
+                    "Tina Campt"
                 ],
                 "NORP": [
                     "Humanities",
@@ -1603,10 +1666,14 @@
                     "Barnard College",
                     "the Visual Identities",
                     "Art and Design Research Centre",
-                    "the University of Johannesburg.</em></p"
+                    "the University of Johannesburg",
+                    "Theaster Gates\u2019s",
+                    "Black Artist Retreat",
+                    "Coda"
                 ],
                 "CARDINAL": [
-                    "three"
+                    "three",
+                    "100"
                 ],
                 "ORDINAL": [
                     "Third"
@@ -1617,14 +1684,20 @@
                     "2017",
                     "2021",
                     "the past six years",
-                    "Years"
+                    "100 Years"
+                ],
+                "GPE": [
+                    "the African Diaspora",
+                    "Santa Cruz",
+                    "Women"
                 ],
                 "LOC": [
                     "Europe"
                 ],
                 "WORK_OF_ART": [
                     "Listening to Images",
-                    "A Black Gaze (MIT Press"
+                    "A Black Gaze (MIT Press",
+                    "A Black Gaze by Tina Campt"
                 ],
                 "FAC": [
                     "Park Avenue Armory Public Programs"
@@ -1665,8 +1738,7 @@
             "title": "Marilee Talkington \n",
             "entities": {
                 "ORG": [
-                    "Actress &",
-                    "Disability Advocate",
+                    "Actress & Disability",
                     "the Disability Justice",
                     "Access Acting Academy",
                     "American Conservatory Theater",
@@ -1690,7 +1762,7 @@
                     "Jacob Bolotin Award",
                     "Marilee Talkington",
                     "Marilee Talkington",
-                    "Helga Davis.</p"
+                    "Helga Davis"
                 ],
                 "ORDINAL": [
                     "1st",
@@ -1700,12 +1772,10 @@
                     "one",
                     "over 80",
                     "one",
-                    "100",
-                    "one"
+                    "100"
                 ],
                 "GPE": [
-                    "the United States",
-                    "imdb.me\">imdb.me"
+                    "the United States"
                 ],
                 "FAC": [
                     "Broadway",
@@ -1715,7 +1785,8 @@
                 ],
                 "DATE": [
                     "2020",
-                    "100 years"
+                    "100 years",
+                    "100 Years"
                 ],
                 "WORK_OF_ART": [
                     "\"The Experiment"
@@ -1758,27 +1829,29 @@
                 "DATE": [
                     "Today",
                     "1959",
+                    "1991",
                     "June 2018"
                 ],
                 "PERSON": [
-                    "Visual Artist</span></strong><span",
                     "Nick Cave",
                     "Helga Davis",
                     "Nick Cave",
                     "Rodney King"
                 ],
+                "ORG": [
+                    "Black",
+                    "IL"
+                ],
                 "GPE": [
-                    "collaborations,</span></strong",
                     "Fulton",
                     "MO",
                     "Chicago"
                 ],
-                "ORG": [
-                    "IL",
-                    "Cave\u2019s Park Avenue Armory Commission"
-                ],
                 "ORDINAL": [
                     "second"
+                ],
+                "WORK_OF_ART": [
+                    "The Let Go"
                 ]
             }
         },
@@ -1816,16 +1889,16 @@
             "title": "Helga: The Armory Conversations Season 4 Trailer\n",
             "entities": {
                 "PERSON": [
-                    "Helga"
+                    "Helga Davis"
                 ],
-                "ORG": [
-                    "The Armory Conversations"
+                "WORK_OF_ART": [
+                    "Helga: The Armory Conversations"
                 ],
                 "DATE": [
                     "This season"
                 ],
                 "FAC": [
-                    "Park Avenue"
+                    "Park Avenue Armory"
                 ]
             }
         },
@@ -1865,12 +1938,14 @@
             "pubDate": "Fri, 08 May 2020 12:00:00 -0400",
             "title": "Esperanza Spalding \n",
             "entities": {
+                "NORP": [
+                    "Musician"
+                ],
                 "PERSON": [
                     "Esperanza Spalding",
                     "Helga",
                     "Grammy",
-                    "Esperanza Spalding",
-                    "href=\"http://www.esperanzaspalding.com/#new"
+                    "Esperanza Spalding"
                 ],
                 "DATE": [
                     "weeks",
@@ -1879,6 +1954,9 @@
                 "WORK_OF_ART": [
                     "Grammy Award Winner",
                     "Best Jazz Vocal"
+                ],
+                "MONEY": [
+                    "12 Little Spells"
                 ]
             }
         },
@@ -1923,8 +2001,11 @@
                     "Elizabeth Alexander",
                     "Helga",
                     "Elizabeth Alexander",
-                    "The Andrew W. Mellon",
                     "Barack Obama"
+                ],
+                "ORG": [
+                    "The Andrew W. Mellon Foundation",
+                    "American Sublime"
                 ],
                 "WORK_OF_ART": [
                     "Praise Song for the Day",
@@ -1935,9 +2016,6 @@
                 ],
                 "CARDINAL": [
                     "fourteen"
-                ],
-                "ORG": [
-                    "American Sublime"
                 ]
             }
         },
@@ -1978,14 +2056,14 @@
             "title": "Ranky Tanky\n",
             "entities": {
                 "PERSON": [
-                    "Clay Ross",
+                    "Guitarist Clay Ross",
                     "Charlton Singleton",
                     "Gullah",
                     "Ranky Tanky",
                     "Grammy",
                     "Gullah",
                     "Ranky Tanky",
-                    "Good Time - <"
+                    "Good Time"
                 ],
                 "CARDINAL": [
                     "2/5th"
@@ -2040,12 +2118,15 @@
                     "New York"
                 ],
                 "ORG": [
-                    "City Bakeries"
+                    "City Bakeries",
+                    "Pastry Chef",
+                    "Wonderbon Chocolate Co."
                 ],
                 "PERSON": [
                     "Maury Rubin",
                     "City Bakery",
-                    "Maury Rubin"
+                    "Maury Rubin",
+                    "City Bakery"
                 ],
                 "DATE": [
                     "just a few months",
@@ -2090,6 +2171,9 @@
             "pubDate": "Fri, 24 Apr 2020 12:00:00 -0400",
             "title": "Judy Collins\n",
             "entities": {
+                "NORP": [
+                    "Musician"
+                ],
                 "PERSON": [
                     "Judy Collins",
                     "Judy Collins"
@@ -2136,8 +2220,7 @@
             "title": "Bethann Hardison \n",
             "entities": {
                 "NORP": [
-                    "Activist",
-                    "diversity.</span></em></p"
+                    "Activist"
                 ],
                 "PERSON": [
                     "Bethann Hardison",
@@ -2188,22 +2271,22 @@
             "pubDate": "Fri, 17 Apr 2020 12:00:00 -0400",
             "title": "Stanley Whitney\n",
             "entities": {
+                "ORG": [
+                    "Visual",
+                    "the Metropolitan Museum of Art",
+                    "National Gallery of Canada",
+                    "the Guggenheim Museum"
+                ],
                 "PERSON": [
                     "Stanley Whitney",
                     "Stanley Whitney",
                     "Stanley Whitney's"
                 ],
                 "GPE": [
-                    "United States.</span></p",
+                    "the United States",
                     "New York City",
                     "Parma",
                     "Italy"
-                ],
-                "ORG": [
-                    "the Metropolitan Museum of Art",
-                    "National Gallery of Canada",
-                    "the Guggenheim Museum",
-                    "href=\"https://www.lissongallery.com"
                 ]
             }
         },
@@ -2250,8 +2333,7 @@
                     "Mimi",
                     "Peter E. Haas",
                     "Obama",
-                    "Krista",
-                    "P\u00e1draig \u00f3 Tauma.</p"
+                    "Krista"
                 ],
                 "ORG": [
                     "New York Times",
@@ -2259,7 +2341,8 @@
                     "Brown University",
                     "Stanford University",
                     "the National Humanities Medal",
-                    "Being Studios"
+                    "Being Studios",
+                    "P\u00e1draig \u00f3 Tauma"
                 ],
                 "GPE": [
                     "Oklahoma"
@@ -2314,10 +2397,8 @@
             "entities": {
                 "PERSON": [
                     "Helga Davis",
-                    "Krista Tippett.</span></p"
-                ],
-                "GPE": [
-                    "Helga.<span"
+                    "Helga",
+                    "Krista Tippett"
                 ],
                 "DATE": [
                     "Season 3",
@@ -2367,18 +2448,29 @@
             "entities": {
                 "PERSON": [
                     "Kimberly Drew",
-                    "Glamour</em",
-                    "W</em",
-                    "Teen Vogue</em>",
+                    "Teen Vogue",
                     "Helga Davis",
                     "Helga",
                     "Helga Davis"
                 ],
+                "GPE": [
+                    "Glamour"
+                ],
                 "ORG": [
+                    "W",
                     "the Metropolitan Museum of Art"
                 ],
                 "WORK_OF_ART": [
-                    "target=\"_blank\">Black Contemporary"
+                    "The Fader"
+                ],
+                "EVENT": [
+                    "Black Contemporary Art"
+                ],
+                "PRODUCT": [
+                    "Subscribe"
+                ],
+                "NORP": [
+                    "iTunes"
                 ]
             }
         },
@@ -2423,16 +2515,20 @@
                     "David",
                     "David",
                     "Helga Davis",
-                    "-David Kyuman Kim</em></p>",
+                    "-David Kyuman Kim\nSubscribe",
                     "Helga",
                     "Helga Davis"
+                ],
+                "ORG": [
+                    "Love-Driven Politics",
+                    "Connecticut College",
+                    "American Studies"
                 ],
                 "DATE": [
                     "2015"
                 ],
-                "ORG": [
-                    "Connecticut College",
-                    "American Studies"
+                "NORP": [
+                    "iTunes"
                 ]
             }
         },
@@ -2479,7 +2575,7 @@
                 "PERSON": [
                     "Jacqueline Woodson",
                     "Helga Davis",
-                    "Jacqueline",
+                    "Jacqueline Woodson\nSubscribe",
                     "Helga",
                     "Helga Davis"
                 ],
@@ -2490,19 +2586,23 @@
                     "a very early age"
                 ],
                 "EVENT": [
-                    "National Book Award"
+                    "National Book Award for Brown Girl Dreaming"
                 ],
                 "ORG": [
                     "Young People's Literature",
+                    "New York Times",
                     "Woodson"
                 ],
-                "GPE": [
-                    "New York Times</em"
+                "WORK_OF_ART": [
+                    "Another Brooklyn"
                 ],
                 "CARDINAL": [
                     "two",
                     "two",
                     "two"
+                ],
+                "NORP": [
+                    "iTunes"
                 ]
             }
         },
@@ -2548,23 +2648,29 @@
                     "Kenneth Lonergan",
                     "Oscar",
                     "Manchester",
-                    "Martin",
+                    "Martin Scorsese's",
                     "Helga Davis",
                     "Lonergan",
-                    "-Kenneth Lonergan<br></em></p",
+                    "-Kenneth Lonergan\nSubscribe",
                     "Helga",
                     "Helga Davis"
                 ],
                 "ORG": [
                     "the 89th Academy Awards",
-                    "the</em",
                     "the\u00a0Walden School"
                 ],
+                "LOC": [
+                    "the\u00a0Sea"
+                ],
                 "GPE": [
+                    "New York",
                     "New York"
                 ],
                 "DATE": [
                     "daily"
+                ],
+                "NORP": [
+                    "iTunes"
                 ]
             }
         },
@@ -2628,6 +2734,12 @@
                 ],
                 "GPE": [
                     "Helga"
+                ],
+                "DATE": [
+                    "the day"
+                ],
+                "NORP": [
+                    "iTunes"
                 ]
             }
         },
@@ -2669,22 +2781,23 @@
                     "this weekend",
                     "the first season"
                 ],
-                "ORG": [
-                    "href=\"https://www.newsounds.org",
-                    "The Studio Museum",
-                    "href=\"https://www.newsounds.org",
-                    "href=\"https://www.newsounds.org",
-                    "href=\"https://www.newsounds.org",
-                    "href=\"https://www.newsounds.org",
-                    "My Brightest"
-                ],
                 "PERSON": [
+                    "Helga",
                     "Helga Davis",
                     "Thelma Golden",
-                    "hilton-als\">Hilton",
-                    "sarah-jones\">Sarah Jones</a",
+                    "Henry Threadgill",
+                    "Peter Sellars",
+                    "Hilton Als",
+                    "Sarah Jones",
+                    "Shara Nova",
+                    "Brightest Diamond",
                     "Helga",
                     "Helga Davis"
+                ],
+                "ORG": [
+                    "The Studio Museum",
+                    "Solange",
+                    "New Yorker"
                 ],
                 "LOC": [
                     "Harlem"
@@ -2692,8 +2805,15 @@
                 "CARDINAL": [
                     "ten"
                 ],
+                "PRODUCT": [
+                    "Learn",
+                    "Subscribe"
+                ],
                 "EVENT": [
                     "Season One"
+                ],
+                "NORP": [
+                    "iTunes"
                 ]
             }
         },
@@ -2747,16 +2867,19 @@
                     "Davis",
                     "Kim Gordon",
                     "Thurston Moore",
+                    "-Hilton Als\nSubscribe",
                     "Helga",
                     "Helga Davis"
                 ],
                 "ORG": [
+                    "New Yorker",
                     "Als",
                     "Sonic Youth's"
                 ],
                 "NORP": [
                     "American",
-                    "African-American"
+                    "African-American",
+                    "iTunes"
                 ],
                 "DATE": [
                     "this tenth",
@@ -2813,10 +2936,10 @@
             "title": "Sarah Jones\n",
             "entities": {
                 "PERSON": [
-                    "target=\"_blank\">Sarah Jones</a",
+                    "Sarah Jones",
                     "Davis",
                     "Mandela",
-                    "-Sarah Jones</span></p>",
+                    "-Sarah Jones\nSubscribe",
                     "Helga",
                     "Helga Davis"
                 ],
@@ -2826,6 +2949,9 @@
                 ],
                 "GPE": [
                     "America"
+                ],
+                "NORP": [
+                    "iTunes"
                 ]
             }
         },
@@ -2874,21 +3000,23 @@
             "pubDate": "Mon, 02 Jan 2017 12:00:00 -0500",
             "title": "Julia Bullock\n",
             "entities": {
-                "ORG": [
-                    "Julia Bullock <",
-                    "Juilliard",
-                    "Bullock",
-                    "Juilliard",
-                    "Bard"
-                ],
                 "PERSON": [
+                    "Julia Bullock",
                     "Josephine Baker",
                     "Davis",
                     "Helga",
                     "Helga Davis"
                 ],
                 "NORP": [
-                    "African-American"
+                    "African-American",
+                    "iTunes"
+                ],
+                "ORG": [
+                    "Juilliard",
+                    "Bullock",
+                    "Juilliard",
+                    "Bard",
+                    "-Julia Bullock\nSubscribe"
                 ],
                 "CARDINAL": [
                     "One",
@@ -2946,24 +3074,26 @@
             "pubDate": "Mon, 19 Dec 2016 12:00:00 -0500",
             "title": "Alejandro Hernandez-Valdez\n",
             "entities": {
-                "CARDINAL": [
-                    "target=\"_blank\">Musica"
+                "PERSON": [
+                    "Alejandro Hernandez-Valdez",
+                    "Davis",
+                    "-Alejandro Hernandez-Valdez\nSubscribe",
+                    "Helga",
+                    "Helga Davis"
                 ],
                 "ORG": [
+                    "Musica Viva",
                     "All Souls Church",
                     "Hernandez-Valdez"
                 ],
                 "LOC": [
                     "the Upper East Side"
                 ],
-                "PERSON": [
-                    "Davis",
-                    "-Alejandro Hernandez-Valdez</span></p",
-                    "Helga",
-                    "Helga Davis"
-                ],
                 "DATE": [
                     "daily"
+                ],
+                "NORP": [
+                    "iTunes"
                 ]
             }
         },
@@ -3016,7 +3146,6 @@
                     "Alan Gilbert",
                     "Gilbert",
                     "Davis",
-                    "\u201d</em",
                     "Alan Gilbert",
                     "Helga",
                     "Helga Davis"
@@ -3025,7 +3154,11 @@
                     "eight seasons"
                 ],
                 "ORG": [
-                    "the New York Philharmonic"
+                    "the New York Philharmonic",
+                    "iTunes"
+                ],
+                "PRODUCT": [
+                    "Subscribe"
                 ]
             }
         },
@@ -3076,7 +3209,9 @@
                     "fourth"
                 ],
                 "ORG": [
-                    "Solange"
+                    "Helga, Solange",
+                    "Table",
+                    "iTunes"
                 ],
                 "PERSON": [
                     "Helga Davis",
@@ -3085,7 +3220,7 @@
                 ],
                 "GPE": [
                     "Idaho",
-                    "Facebook</a></strong"
+                    "America"
                 ],
                 "CARDINAL": [
                     "two"
@@ -3142,12 +3277,22 @@
             "title": "Jennifer Koh\n",
             "entities": {
                 "PERSON": [
+                    "Jennifer Koh",
                     "Davis",
                     "Philip Glass",
                     "Robert Wilson's",
-                    "-Jennifer Koh",
+                    "Einstein",
                     "Helga",
                     "Helga Davis"
+                ],
+                "LOC": [
+                    "Beach"
+                ],
+                "PRODUCT": [
+                    "Subscribe"
+                ],
+                "NORP": [
+                    "iTunes"
                 ]
             }
         },
@@ -3199,8 +3344,9 @@
             "entities": {
                 "PERSON": [
                     "Henry Threadgill",
-                    "Moby Dick</em",
+                    "Moby Dick",
                     "Helga",
+                    "Henry Threadgill",
                     "Helga",
                     "Helga Davis"
                 ],
@@ -3212,7 +3358,11 @@
                     "the Pulitzer Prize"
                 ],
                 "ORG": [
-                    "Threadgill"
+                    "Threadgill",
+                    "iTunes"
+                ],
+                "PRODUCT": [
+                    "Subscribe"
                 ]
             }
         },
@@ -3264,28 +3414,32 @@
             "entities": {
                 "GPE": [
                     "Detroit",
-                    "New York",
-                    "Watch</strong"
+                    "New York"
                 ],
                 "PERSON": [
-                    "Brightest Diamond</a>",
+                    "Brightest Diamond's",
                     "Helga Davis",
+                    "Shara Nova",
                     "Helga",
                     "Helga Davis",
-                    "Shara Worden's"
+                    "Shara Nova's"
                 ],
                 "FAC": [
                     "Shara Worden"
                 ],
                 "ORG": [
                     "Nova",
-                    "Shara",
-                    "Inside Shara Nova's",
-                    "Mystical Detroit Home",
+                    "iTunes",
                     "Mystical Detroit Home"
                 ],
                 "NORP": [
                     "Southern"
+                ],
+                "PRODUCT": [
+                    "Subscribe"
+                ],
+                "WORK_OF_ART": [
+                    "Q2 Spaces"
                 ]
             }
         },
@@ -3334,6 +3488,11 @@
             "pubDate": "Mon, 14 Nov 2016 12:00:00 -0500",
             "title": "Peter Sellars\n",
             "entities": {
+                "ORG": [
+                    "Meet the Composer",
+                    "Sellars",
+                    "iTunes"
+                ],
                 "CARDINAL": [
                     "Q2",
                     "10",
@@ -3346,22 +3505,23 @@
                 ],
                 "PERSON": [
                     "Helga",
+                    "Helga Davis",
                     "Helga",
                     "Peter Sellars",
                     "Davis",
+                    "Flexn",
                     "Bach",
-                    "Matthew Passion</a",
+                    "Peter Sellars",
                     "Helga",
                     "Helga Davis",
                     "Helga Davis",
                     "Peter Sellars"
                 ],
-                "ORG": [
-                    "Sellars"
-                ],
                 "GPE": [
-                    "Las Vegas",
-                    "Watch</strong"
+                    "Las Vegas"
+                ],
+                "PRODUCT": [
+                    "Subscribe"
                 ]
             }
         },
@@ -3416,21 +3576,27 @@
                     "10",
                     "40"
                 ],
+                "ORG": [
+                    "Helga"
+                ],
                 "DATE": [
                     "next week",
                     "Monday, Nov. 14",
                     "Tuesday, Nov. 15",
                     "first season",
                     "Mondays",
+                    "Jan. 9",
                     "2012",
                     "that year"
                 ],
                 "PERSON": [
-                    "Peter Sellars</strong",
+                    "Peter Sellars",
                     "Brightest Diamond",
+                    "Shara Nova",
                     "Helga",
                     "Helga",
-                    "Helga Davis</p>\n",
+                    "Helga Davis",
+                    "Helga",
                     "Helga Davis",
                     "Lawrence \u201cButch\u201d Morris",
                     "Bernice Johnson Reagon",
@@ -3439,13 +3605,18 @@
                     "Shara Nova",
                     "Paola Prestini",
                     "Robert Wilson\u2019s",
-                    "Philip Glass"
+                    "Philip Glass",
+                    "Einstein"
                 ],
                 "ORDINAL": [
                     "first"
                 ],
-                "ORG": [
-                    "Helga on iTunes</a>.</p"
+                "NORP": [
+                    "iTunes",
+                    "iTunes"
+                ],
+                "PRODUCT": [
+                    "Subscribe"
                 ],
                 "GPE": [
                     "Nona Hendryx"

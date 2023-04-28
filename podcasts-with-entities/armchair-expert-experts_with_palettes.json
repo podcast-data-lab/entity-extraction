@@ -34,10 +34,11 @@
             "title": "Ep. 65/Ep. 294 - Salma Hayek",
             "entities": {
                 "ORG": [
-                    "Salma Hayek",
-                    "DING"
+                    "Salma Hayek"
                 ],
                 "PERSON": [
+                    "Monica",
+                    "DING",
                     "DING"
                 ]
             }
@@ -67,6 +68,7 @@
             "title": "Ep. 64/Ep. 289 & Ep. 291 - Carey Mulligan & Jason Segel",
             "entities": {
                 "PERSON": [
+                    "Monica",
                     "Carey Mulligan",
                     "Jason Segel"
                 ]
@@ -127,10 +129,8 @@
             "title": "Ep. 62/Ep. 281 & Ep. 284 - Randy Jackson & Common",
             "entities": {
                 "PERSON": [
-                    "Randy Jackson&apos;s"
-                ],
-                "PRODUCT": [
-                    "Common&apos;s"
+                    "Randy Jackson's",
+                    "Common"
                 ]
             }
         },
@@ -159,10 +159,14 @@
             "pubDate": "Mon, 11 Jan 2021 18:00:00 -0500",
             "title": "Ep. 61/Ep. 279 - Jackie Tohn",
             "entities": {
+                "ORG": [
+                    "The Queen Armcherries"
+                ],
                 "DATE": [
                     "2021"
                 ],
                 "PERSON": [
+                    "Monica",
                     "Fran Drescher",
                     "Jackie Tohn"
                 ]
@@ -225,16 +229,14 @@
             "pubDate": "Fri, 04 Dec 2020 17:00:00 -0500",
             "title": "Ep. 59/Ep. 260 & Ep. 262 - Adam Brody & Kaley Cuoco",
             "entities": {
-                "NORP": [
-                    "Monica&apos;s"
+                "PERSON": [
+                    "Monica",
+                    "Adam Brody",
+                    "Kaley Cuoco"
                 ],
                 "DATE": [
                     "2000s",
                     "2010s"
-                ],
-                "PERSON": [
-                    "Adam Brody",
-                    "Kaley Cuoco"
                 ]
             }
         },
@@ -263,11 +265,13 @@
             "pubDate": "Mon, 30 Nov 2020 15:00:00 -0500",
             "title": "Ep. 58/Ep. 258 - Matthew McConaughey",
             "entities": {
-                "PERSON": [
-                    "Matthew McConaughey"
-                ],
                 "ORG": [
+                    "The Queen Armcherries",
                     "Google"
+                ],
+                "PERSON": [
+                    "Dax",
+                    "Matthew McConaughey"
                 ],
                 "CARDINAL": [
                     "six"
@@ -329,8 +333,11 @@
             "pubDate": "Tue, 24 Nov 2020 12:00:00 -0500",
             "title": "Ep. 56/Ep. 253 - Sara Gilbert",
             "entities": {
+                "ORG": [
+                    "Queen Armcherries"
+                ],
                 "PERSON": [
-                    "Sara Gilbert&apos;s"
+                    "Sara Gilbert's"
                 ]
             }
         },
@@ -359,8 +366,8 @@
             "pubDate": "Mon, 09 Nov 2020 15:00:00 -0500",
             "title": "Ep. 55/Ep. 251 - Jon Bon Jovi",
             "entities": {
-                "ORG": [
-                    "The Queen Armcherries discuss!</p"
+                "PERSON": [
+                    "JBJ"
                 ]
             }
         },
@@ -389,6 +396,9 @@
             "pubDate": "Fri, 30 Oct 2020 12:00:00 -0400",
             "title": "Ep. 54/Ep. 249 - Sofia Coppola",
             "entities": {
+                "PERSON": [
+                    "Monica"
+                ],
                 "ORG": [
                     "Sofia Coppola"
                 ]
@@ -485,7 +495,7 @@
             "title": "Ep. 51/Ep. 240 - Jason Bateman Returns!",
             "entities": {
                 "ORG": [
-                    "Jason &quot;Ego"
+                    "Jason \"Ego Goals"
                 ],
                 "PERSON": [
                     "Bateman"
@@ -521,6 +531,7 @@
                     "Two"
                 ],
                 "PERSON": [
+                    "Monica",
                     "Ellen Pompeo"
                 ]
             }
@@ -648,7 +659,7 @@
             "entities": {
                 "PERSON": [
                     "Rob Corddry",
-                    "Dave Franco!</p"
+                    "Dave Franco"
                 ]
             }
         },
@@ -676,9 +687,6 @@
             "pubDate": "Mon, 03 Aug 2020 12:00:00 -0400",
             "title": "Ep. 45/Ep. 222 & 224 - Emily Mortimer & John Legend",
             "entities": {
-                "ORG": [
-                    "Emily Mortimer &"
-                ],
                 "PERSON": [
                     "Johnny L -",
                     "Chrissy Tiegen"
@@ -746,8 +754,11 @@
             "pubDate": "Tue, 30 Jun 2020 13:00:00 -0400",
             "title": "Ep. 43/Ep. 218 - Blake Griffin",
             "entities": {
-                "PERSON": [
-                    "Monica 4ever"
+                "ORG": [
+                    "STAN Blake &"
+                ],
+                "CARDINAL": [
+                    "4ever"
                 ]
             }
         },
@@ -815,8 +826,8 @@
                 "ORG": [
                     "the Bradley Whitford"
                 ],
-                "PRODUCT": [
-                    "Monica&apos;s"
+                "PERSON": [
+                    "Monica"
                 ]
             }
         },
@@ -930,11 +941,11 @@
             "title": "Ep. 37/Ep. 202 - Rob Lowe",
             "entities": {
                 "PERSON": [
-                    "Rob Lowe&apos;s",
+                    "Rob Lowe's",
                     "Patrick Swayze",
                     "Adderall"
                 ],
-                "LOC": [
+                "FAC": [
                     "The West Wing"
                 ]
             }
@@ -998,7 +1009,8 @@
             "title": "Ep. 35/Ep. 198 - Ed Helms",
             "entities": {
                 "PERSON": [
-                    "Ed Helms.</p"
+                    "Monica",
+                    "Ed Helms"
                 ]
             }
         },
@@ -1061,14 +1073,15 @@
             "title": "Ep. 34/Ep. 194 - Joy Bryant Returns!",
             "entities": {
                 "PERSON": [
-                    "Joy Bryant"
+                    "Joy Bryant",
+                    "Dax"
                 ],
                 "CARDINAL": [
                     "one",
                     "one"
                 ],
-                "GPE": [
-                    "Quarantined"
+                "ORG": [
+                    "Quarantined Queen's"
                 ]
             }
         },
@@ -1153,15 +1166,12 @@
             "pubDate": "Tue, 17 Mar 2020 16:00:00 -0400",
             "title": "Ep. 30/Ep. 188 - Men's Bodies",
             "entities": {
-                "ORG": [
-                    "mens&apos"
-                ],
                 "GPE": [
-                    "Dax, Monica",
-                    "Kumail"
+                    "Dax, Monica"
                 ],
                 "PERSON": [
-                    "Rob McElhenney"
+                    "Rob McElhenney",
+                    "Kumail Nanjiani"
                 ]
             }
         },
@@ -1189,6 +1199,9 @@
             "pubDate": "Mon, 09 Mar 2020 12:00:00 -0400",
             "title": "Ep. 29/ Ep. 184 & 186 - Ashton Kutcher Returns & Whitney Cummings",
             "entities": {
+                "ORG": [
+                    "Ashton"
+                ],
                 "LAW": [
                     "Whitney Cummings"
                 ]
@@ -1220,9 +1233,6 @@
             "entities": {
                 "CARDINAL": [
                     "two"
-                ],
-                "GPE": [
-                    "we&apos;d"
                 ]
             }
         },
@@ -1251,7 +1261,8 @@
             "title": "Ep. 27/Ep. 176 & 178 - Claire Danes & Will Arnett",
             "entities": {
                 "PERSON": [
-                    "Claire"
+                    "Claire",
+                    "Barney"
                 ]
             }
         },
@@ -1308,6 +1319,9 @@
             "pubDate": "Mon, 20 Jan 2020 00:00:00 -0500",
             "title": "Ep. 25/Ep. 172 - January Jones",
             "entities": {
+                "ORG": [
+                    "The Queen Armcherries"
+                ],
                 "DATE": [
                     "2020",
                     "January"
@@ -1406,10 +1420,10 @@
             "title": "Ep. 22/Ep. 156 - Judd Apatow",
             "entities": {
                 "PRODUCT": [
-                    "the Armchair Expert&apos;s"
+                    "the Armchair Expert's"
                 ],
                 "PERSON": [
-                    "Judd Apatow.</p"
+                    "Judd Apatow"
                 ]
             }
         },
@@ -1437,7 +1451,11 @@
             },
             "pubDate": "Wed, 13 Nov 2019 18:00:00 -0500",
             "title": "Ep. 21/Ep. 154 - Kate & Oliver Hudson",
-            "entities": {}
+            "entities": {
+                "ORG": [
+                    "Queen Armcherries"
+                ]
+            }
         },
         {
             "content": "<p>The Queen Armcherries discuss the Edward &quot;Ed&quot; Norton interview.</p>",
@@ -1464,8 +1482,10 @@
             "pubDate": "Fri, 01 Nov 2019 12:00:00 -0400",
             "title": "Ep. 20/Ep. 152 - Edward Norton",
             "entities": {
+                "PERSON": [
+                    "Ed"
+                ],
                 "ORG": [
-                    "Edward &quot;Ed&quot",
                     "Norton"
                 ]
             }
@@ -1559,6 +1579,7 @@
             "title": "Ep. 17/Ep. 146 - Adam DeVine",
             "entities": {
                 "PERSON": [
+                    "Monica",
                     "Adam DeVine"
                 ]
             }
@@ -1649,7 +1670,7 @@
             "title": "Ep. 14/Ep. 140 - Charlie Day",
             "entities": {
                 "PERSON": [
-                    "Charlie Day&apos;s Armchair Expert"
+                    "Charlie Day's"
                 ]
             }
         },
@@ -1679,11 +1700,10 @@
             "title": "Ep. 13/Ep. 138 - Joseph Gordon-Levitt",
             "entities": {
                 "ORG": [
-                    "Queens",
-                    "Sun"
+                    "Queens"
                 ],
                 "LOC": [
-                    "3rd Rock From The"
+                    "3rd Rock From The Sun"
                 ]
             }
         },
@@ -1711,7 +1731,11 @@
             },
             "pubDate": "Wed, 04 Sep 2019 13:00:00 -0400",
             "title": "Ep. 12/Ep. 136 - Kal Penn",
-            "entities": {}
+            "entities": {
+                "PERSON": [
+                    "Kal Penn's"
+                ]
+            }
         },
         {
             "content": "<p>The Queen Armcherries dive into the precious gemstone that is Beanie Feldstein and consider us FANS.\u00a0</p>",
@@ -1738,6 +1762,9 @@
             "pubDate": "Wed, 28 Aug 2019 15:00:00 -0400",
             "title": "Ep. 11/Ep. 134 - Beanie Feldstein",
             "entities": {
+                "ORG": [
+                    "The Queen Armcherries"
+                ],
                 "PERSON": [
                     "Beanie Feldstein"
                 ]
@@ -1765,6 +1792,9 @@
             "pubDate": "Mon, 26 Aug 2019 15:00:00 -0400",
             "title": "BONUS EP: Busy Philipps + Danny McBride",
             "entities": {
+                "ORG": [
+                    "The Queen Armcherries"
+                ],
                 "PERSON": [
                     "Danny McBride"
                 ]
@@ -1945,9 +1975,6 @@
             "entities": {
                 "FAC": [
                     "the Bill Hader"
-                ],
-                "PERSON": [
-                    "Armchair"
                 ]
             }
         },
@@ -2022,7 +2049,8 @@
                     "JLD"
                 ],
                 "PERSON": [
-                    "Monica"
+                    "Monica",
+                    "ENJOY"
                 ]
             }
         },
@@ -2050,8 +2078,10 @@
             "title": "Ep. 1/Ep.112 - Jeff Garlin",
             "entities": {
                 "PERSON": [
-                    "Kenny G",
-                    "TM.</p"
+                    "Kenny G"
+                ],
+                "ORG": [
+                    "TM"
                 ]
             }
         }

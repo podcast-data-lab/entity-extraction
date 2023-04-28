@@ -50,6 +50,9 @@
                 "CARDINAL": [
                     "one",
                     "one"
+                ],
+                "GPE": [
+                    "US"
                 ]
             }
         },
@@ -85,8 +88,7 @@
                 ],
                 "ORG": [
                     "Ponzi",
-                    "the Harvard Business School",
-                    "https://www.pushkin.fm"
+                    "the Harvard Business School"
                 ]
             }
         },
@@ -115,7 +117,6 @@
             "title": "On Background: Bad Actors on the Blockchain",
             "entities": {
                 "PERSON": [
-                    "p dir=\"ltr\">For",
                     "Michael Lewis",
                     "Michael",
                     "Andy Greenberg",
@@ -169,6 +170,9 @@
                 ],
                 "ORG": [
                     "Rules"
+                ],
+                "CARDINAL": [
+                    "2023.See"
                 ]
             }
         },
@@ -205,10 +209,8 @@
                     "Pushkin"
                 ],
                 "ORG": [
-                    "The Premonition"
-                ],
-                "DATE": [
-                    "you&rsquo;d"
+                    "The Premonition",
+                    "Pushkin.fm"
                 ]
             }
         },
@@ -237,16 +239,14 @@
             "title": "Episode 6: The Overconfidence Game",
             "entities": {
                 "ORG": [
-                    "Rebecca Solnit"
+                    "Rebecca Solnit",
+                    "Pushkin.fm"
                 ],
                 "PERSON": [
                     "Katty Kay",
                     "Maria Konnikova",
                     "Michael",
                     "Pushkin"
-                ],
-                "DATE": [
-                    "you&rsquo;d"
                 ]
             }
         },
@@ -277,15 +277,12 @@
                 "CARDINAL": [
                     "one"
                 ],
-                "ORG": [
-                    "who&rsquo;s"
-                ],
                 "PERSON": [
                     "Michael",
                     "Pushkin"
                 ],
-                "DATE": [
-                    "you&rsquo;d"
+                "ORG": [
+                    "Pushkin.fm"
                 ]
             }
         },
@@ -318,6 +315,12 @@
                 ],
                 "PERSON": [
                     "Pushkin"
+                ],
+                "ORG": [
+                    "Pushkin.fm"
+                ],
+                "PRODUCT": [
+                    "Learn"
                 ]
             }
         },
@@ -352,6 +355,12 @@
                     "Bill James",
                     "James",
                     "Pushkin"
+                ],
+                "ORG": [
+                    "Pushkin.fm"
+                ],
+                "PRODUCT": [
+                    "Learn"
                 ]
             }
         },
@@ -384,6 +393,12 @@
                 ],
                 "PERSON": [
                     "Pushkin"
+                ],
+                "ORG": [
+                    "Pushkin.fm"
+                ],
+                "PRODUCT": [
+                    "Learn"
                 ]
             }
         },
@@ -413,6 +428,12 @@
             "entities": {
                 "PERSON": [
                     "Pushkin"
+                ],
+                "ORG": [
+                    "Pushkin.fm"
+                ],
+                "PRODUCT": [
+                    "Learn"
                 ]
             }
         },
@@ -449,6 +470,12 @@
                 ],
                 "GPE": [
                     "America"
+                ],
+                "ORG": [
+                    "Pushkin.fm"
+                ],
+                "PRODUCT": [
+                    "Learn"
                 ]
             }
         },
@@ -490,6 +517,9 @@
                 ],
                 "ORDINAL": [
                     "first"
+                ],
+                "PRODUCT": [
+                    "Learn"
                 ]
             }
         },
@@ -525,7 +555,8 @@
                     "Liar"
                 ],
                 "PRODUCT": [
-                    "Liar\u2019s Poker"
+                    "Liar\u2019s Poker",
+                    "Learn"
                 ],
                 "DATE": [
                     "the 1990s"
@@ -563,6 +594,11 @@
             "pubDate": "Tue, 22 Feb 2022 10:00:00 +0000",
             "title": "Other People\u2019s Money: Anne Clarke Wolff on the Wages of Sexism",
             "entities": {
+                "PERSON": [
+                    "Liar",
+                    "Michael",
+                    "Liar"
+                ],
                 "ORDINAL": [
                     "first"
                 ],
@@ -570,14 +606,13 @@
                     "today",
                     "a few years"
                 ],
-                "PERSON": [
-                    "Michael",
-                    "Liar"
-                ],
                 "ORG": [
                     "Anne Clarke Wolff",
                     "Salomon Brothers",
                     "Salomon Sisters"
+                ],
+                "PRODUCT": [
+                    "Learn"
                 ]
             }
         },
@@ -607,6 +642,7 @@
             "title": "Other People\u2019s Money: Dash Riprock and the Human Piranha Revealed",
             "entities": {
                 "PERSON": [
+                    "Liar",
                     "Michael Lewis",
                     "Liar"
                 ],
@@ -615,6 +651,9 @@
                 ],
                 "ORDINAL": [
                     "first"
+                ],
+                "PRODUCT": [
+                    "Learn"
                 ]
             }
         },
@@ -657,12 +696,16 @@
                     "Pushkin",
                     "Liar",
                     "Jacob Goldstein\u2019s",
-                    "Liar"
+                    "Liar",
+                    "https://www.pushkin.fm/audiobook/liars-poker"
                 ],
                 "WORK_OF_ART": [
                     "Liar\u2019s Poker",
                     "What\u2019s Your Problem",
                     "What\u2019s Your Problem"
+                ],
+                "PRODUCT": [
+                    "Learn"
                 ]
             }
         },
@@ -701,10 +744,14 @@
                 ],
                 "DATE": [
                     "1989",
-                    "five weeks"
+                    "five weeks",
+                    "today"
                 ],
                 "ORG": [
                     "Pushkin Industries"
+                ],
+                "PRODUCT": [
+                    "Learn"
                 ]
             }
         },
@@ -749,10 +796,10 @@
                     "the Live Talks"
                 ],
                 "DATE": [
-                    "May 19"
+                    "May 19, 2021"
                 ],
-                "CARDINAL": [
-                    "2021.</p><p"
+                "PRODUCT": [
+                    "Learn"
                 ]
             }
         },
@@ -786,11 +833,14 @@
                     "Charity Dean"
                 ],
                 "ORG": [
-                    "href=\"https://wwnorton.com",
+                    "The Premonition",
                     "the California Department of Public Health"
                 ],
                 "CARDINAL": [
                     "one"
+                ],
+                "PRODUCT": [
+                    "Learn"
                 ]
             }
         },
@@ -819,11 +869,11 @@
             "pubDate": "Tue, 16 Jun 2020 09:00:00 +0000",
             "title": "Aim Higher",
             "entities": {
-                "ORG": [
-                    "help?</p><ul><li"
-                ],
                 "PERSON": [
                     "Michael"
+                ],
+                "PRODUCT": [
+                    "Learn"
                 ]
             }
         },
@@ -854,6 +904,9 @@
             "entities": {
                 "GPE": [
                     "America"
+                ],
+                "PRODUCT": [
+                    "Learn"
                 ]
             }
         },
@@ -884,6 +937,9 @@
             "entities": {
                 "ORG": [
                     "Major League"
+                ],
+                "PRODUCT": [
+                    "Learn"
                 ]
             }
         },
@@ -920,11 +976,11 @@
                     "first"
                 ],
                 "ORG": [
-                    "uncoached.</li",
                     "ScholarMatch"
                 ],
                 "PERSON": [
-                    "David Eggers"
+                    "David Eggers",
+                    "Learn"
                 ]
             }
         },
@@ -959,10 +1015,11 @@
                 ],
                 "PERSON": [
                     "Michael",
-                    "Timothy Gallwey"
+                    "Timothy Gallwey",
+                    "Learn"
                 ],
-                "NORP": [
-                    "href=\"https://theinnergame.com"
+                "WORK_OF_ART": [
+                    "The Inner Game of Tennis"
                 ],
                 "CARDINAL": [
                     "one"
@@ -1003,6 +1060,12 @@
                 ],
                 "GPE": [
                     "New Orleans"
+                ],
+                "DATE": [
+                    "these days"
+                ],
+                "PRODUCT": [
+                    "Learn"
                 ]
             }
         },
@@ -1040,6 +1103,9 @@
                     "Pushkin Industries",
                     "COVID-19",
                     "the Small Business Podference"
+                ],
+                "PRODUCT": [
+                    "Learn"
                 ]
             }
         },
@@ -1070,6 +1136,9 @@
             "entities": {
                 "MONEY": [
                     "billions of dollars"
+                ],
+                "PRODUCT": [
+                    "Learn"
                 ]
             }
         },
@@ -1099,14 +1168,18 @@
                 "PERSON": [
                     "Michael Lewis",
                     "Liar",
-                    "Moneyball</em",
+                    "Moneyball",
                     "Lewis"
                 ],
                 "DATE": [
-                    "the second season"
+                    "the second season",
+                    "today"
                 ],
                 "NORP": [
                     "American"
+                ],
+                "PRODUCT": [
+                    "Learn"
                 ]
             }
         },
@@ -1149,6 +1222,9 @@
                 ],
                 "GPE": [
                     "New York State"
+                ],
+                "PRODUCT": [
+                    "Learn"
                 ]
             }
         },
@@ -1186,13 +1262,16 @@
                     "Alan Cumming",
                     "Toby Stephens",
                     "Russell Tovey",
-                    "Malcolm Gladwell.</p><p"
+                    "Malcolm Gladwell"
                 ],
                 "WORK_OF_ART": [
                     "The Undercover Economist"
                 ],
                 "GPE": [
                     "Quantico"
+                ],
+                "PRODUCT": [
+                    "Learn"
                 ]
             }
         },
@@ -1230,6 +1309,9 @@
                 ],
                 "GPE": [
                     "New York"
+                ],
+                "PRODUCT": [
+                    "Learn"
                 ]
             }
         },
@@ -1263,6 +1345,9 @@
                 ],
                 "ORG": [
                     "The New York Stock Exchange"
+                ],
+                "PRODUCT": [
+                    "Learn"
                 ]
             }
         },
@@ -1290,7 +1375,11 @@
             "link": "https://omny.fm/shows/against-the-rules-with-michael-lewis/baby-judge-school",
             "pubDate": "Tue, 07 May 2019 08:00:00 +0000",
             "title": "Baby Judge School",
-            "entities": {}
+            "entities": {
+                "PRODUCT": [
+                    "Learn"
+                ]
+            }
         },
         {
             "content": "<p>What kind of person makes a neutral referee? It\u2019s not the kind of person you think.</p><p> </p> Learn more about your ad-choices at <a href=\"https://www.iheartpodcastnetwork.com\">https://www.iheartpodcastnetwork.com</a><p>See <a href=\"https://omnystudio.com/listener\">omnystudio.com/listener</a> for privacy information.</p>",
@@ -1315,7 +1404,11 @@
             "link": "https://omny.fm/shows/against-the-rules-with-michael-lewis/the-neutral",
             "pubDate": "Tue, 30 Apr 2019 08:00:00 +0000",
             "title": "The Neutral",
-            "entities": {}
+            "entities": {
+                "PRODUCT": [
+                    "Learn"
+                ]
+            }
         },
         {
             "content": "<p>The authenticator ref absolves everyone of blame. And sometimes generates money out of thin air.</p><p> </p> Learn more about your ad-choices at <a href=\"https://www.iheartpodcastnetwork.com\">https://www.iheartpodcastnetwork.com</a><p>See <a href=\"https://omnystudio.com/listener\">omnystudio.com/listener</a> for privacy information.</p>",
@@ -1340,7 +1433,11 @@
             "link": "https://omny.fm/shows/against-the-rules-with-michael-lewis/the-hand-of-leonardo",
             "pubDate": "Tue, 23 Apr 2019 08:00:00 +0000",
             "title": "The Hand of Leonardo",
-            "entities": {}
+            "entities": {
+                "PRODUCT": [
+                    "Learn"
+                ]
+            }
         },
         {
             "content": "<p>Everyone hates grammar and ethics cops. Until they need one.</p><p> </p> Learn more about your ad-choices at <a href=\"https://www.iheartpodcastnetwork.com\">https://www.iheartpodcastnetwork.com</a><p>See <a href=\"https://omnystudio.com/listener\">omnystudio.com/listener</a> for privacy information.</p>",
@@ -1366,7 +1463,11 @@
             "link": "https://omny.fm/shows/against-the-rules-with-michael-lewis/the-alex-kogan-experience",
             "pubDate": "Tue, 16 Apr 2019 08:00:00 +0000",
             "title": "The Alex Kogan Experience",
-            "entities": {}
+            "entities": {
+                "PRODUCT": [
+                    "Learn"
+                ]
+            }
         },
         {
             "content": "<p>The government protects us from some dangerous products, but not from others that, over time, ruin countless lives.</p><p>Michael has started a Go Fund Me campaign to help Katie finally be free of her student loan burden. If you would like to contribute, visit <a href=\"https://www.gofundme.com/against-the-rules-fundraiser-for-katie-hyland\">Katie's Go Fund Me</a>.</p><p> </p> Learn more about your ad-choices at <a href=\"https://www.iheartpodcastnetwork.com\">https://www.iheartpodcastnetwork.com</a><p>See <a href=\"https://omnystudio.com/listener\">omnystudio.com/listener</a> for privacy information.</p>",
@@ -1396,6 +1497,12 @@
                 "PERSON": [
                     "Michael",
                     "Katie"
+                ],
+                "ORG": [
+                    "Katie's Go Fund Me"
+                ],
+                "PRODUCT": [
+                    "Learn"
                 ]
             }
         },
@@ -1426,6 +1533,9 @@
             "entities": {
                 "PERSON": [
                     "Michael Lewis"
+                ],
+                "PRODUCT": [
+                    "Learn"
                 ]
             }
         },
@@ -1461,6 +1571,9 @@
                 "GPE": [
                     "Uzbekistan",
                     "New Jersey"
+                ],
+                "PRODUCT": [
+                    "Learn"
                 ]
             }
         }
@@ -1514,7 +1627,7 @@
     "entities": {
         "PERSON": [
             "Michael Lewis",
-            "Pushkin"
+            "iHeartMedia"
         ],
         "NORP": [
             "American"
@@ -1524,8 +1637,7 @@
             "this season"
         ],
         "ORG": [
-            "we&rsquo;ve",
-            "gang members &mdash"
+            "Pushkin Industries"
         ]
     }
 }

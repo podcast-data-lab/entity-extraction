@@ -84,7 +84,7 @@
                     "Last year",
                     "this year",
                     "week",
-                    "This week"
+                    "club).\"This week"
                 ],
                 "PRODUCT": [
                     "Roman Mars"
@@ -93,26 +93,28 @@
                     "Hank Green",
                     "Hank",
                     "John Green",
+                    "Anthropocene",
                     "John",
                     "Hank Green"
                 ],
-                "WORK_OF_ART": [
-                    "Dear Hank & John"
+                "ORG": [
+                    "Dear Hank & John",
+                    "Dear Hank & John",
+                    "YouTubers",
+                    "AFC Wimbledon"
                 ],
                 "NORP": [
                     "Greens",
-                    "English",
                     "Roman Mars"
-                ],
-                "ORG": [
-                    "YouTubers",
-                    "AFC Wimbledon"
                 ],
                 "LOC": [
                     "Mars"
                 ],
                 "ORDINAL": [
                     "third"
+                ],
+                "LANGUAGE": [
+                    "English"
                 ]
             }
         },
@@ -147,14 +149,19 @@
                     "the United States"
                 ],
                 "PERSON": [
-                    "Jonathan D. Cohen",
-                    "delusion.</p><p><a href=\"https://99percentinvisible.org/?p=40231&post_type"
+                    "Jonathan D. Cohen"
                 ],
-                "MONEY": [
-                    "Dollar"
+                "WORK_OF_ART": [
+                    "For a Dollar"
                 ],
                 "ORG": [
                     "State Lotteries"
+                ],
+                "LOC": [
+                    "Modern America"
+                ],
+                "MONEY": [
+                    "Dollar"
                 ]
             }
         },
@@ -204,6 +211,9 @@
                 ],
                 "QUANTITY": [
                     "more than 20,000 miles"
+                ],
+                "ORG": [
+                    "De Fiets"
                 ]
             }
         },
@@ -282,9 +292,6 @@
                 ],
                 "GPE": [
                     "America"
-                ],
-                "PERSON": [
-                    "episode\">The Wilderness"
                 ]
             }
         },
@@ -316,10 +323,13 @@
             "title": "Twenty Thousand Hertz- Golden",
             "entities": {
                 "CARDINAL": [
-                    "Twenty Thousand",
-                    "Twenty Thousand",
+                    "Twenty Thousand Hertz",
+                    "Twenty Thousand Hertz",
                     "Twenty Thousand",
                     "two"
+                ],
+                "PERCENT": [
+                    "99%"
                 ],
                 "DATE": [
                     "today",
@@ -327,18 +337,23 @@
                 ],
                 "PERSON": [
                     "Leigh Marz",
-                    "Leigh"
+                    "Leigh",
+                    "Habib",
+                    "Jarvis Masters",
+                    "Leigh Marz",
+                    "Justin Zorn"
                 ],
-                "ORG": [
-                    "The Power of Silence"
+                "WORK_OF_ART": [
+                    "Golden: The Power of Silence"
+                ],
+                "GPE": [
+                    "Golden",
+                    "Washington State",
+                    "San Quentin"
                 ],
                 "ORDINAL": [
                     "first",
                     "second"
-                ],
-                "GPE": [
-                    "Washington State",
-                    "San Quentin"
                 ],
                 "NORP": [
                     "Jesuit",
@@ -410,7 +425,8 @@
             "entities": {
                 "ORG": [
                     "Yahoo",
-                    "MySpace"
+                    "MySpace",
+                    "The Lost Cities of"
                 ],
                 "PRODUCT": [
                     "Twitter"
@@ -422,7 +438,7 @@
                     "two"
                 ],
                 "PERSON": [
-                    "Geo Redux</a></p"
+                    "Geo Redux"
                 ]
             }
         },
@@ -470,6 +486,9 @@
                 "PERCENT": [
                     "about 97%",
                     "up to 100%"
+                ],
+                "PERSON": [
+                    "RoboUmp\n"
                 ]
             }
         },
@@ -508,7 +527,8 @@
                     "Polish"
                 ],
                 "ORG": [
-                    "the Orange Alternative"
+                    "the Orange Alternative",
+                    "Orange Alternative"
                 ],
                 "GPE": [
                     "the Soviet Union",
@@ -555,12 +575,11 @@
                     "Chinese"
                 ],
                 "PERSON": [
-                    "Esther Wong",
-                    "Godmother"
+                    "Esther Wong"
                 ],
                 "ORG": [
                     "Madame Wong",
-                    "Punk.</p><p><a href=\"https://99percentinvisible.org/?p=39764&post_type="
+                    "The Godmother of Punk"
                 ]
             }
         },
@@ -593,21 +612,18 @@
             "entities": {
                 "DATE": [
                     "Aug. 1, 1942",
-                    "one-year",
+                    "One Year's",
                     "the 20th century",
-                    "one-year/id1462685560\">One Year"
-                ],
-                "ORG": [
-                    "href=\"https://slate.com"
+                    "One Year:",
+                    "1942"
                 ],
                 "PERSON": [
                     "Evan Chung",
                     "Charlie Parker",
-                    "Dizzy"
+                    "Dizzy Gillespie"
                 ],
                 "CARDINAL": [
-                    "one",
-                    "1942</a></p><p"
+                    "one"
                 ]
             }
         },
@@ -640,7 +656,8 @@
             "entities": {
                 "DATE": [
                     "the 20th century",
-                    "today"
+                    "today",
+                    "Six-on-Six"
                 ],
                 "GPE": [
                     "Iowa"
@@ -699,9 +716,6 @@
                 ],
                 "CARDINAL": [
                     "one"
-                ],
-                "PERSON": [
-                    "episode\">The Comrades</a></p"
                 ]
             }
         },
@@ -747,6 +761,9 @@
                 ],
                 "PERSON": [
                     "Emmett Fitzgerald"
+                ],
+                "LOC": [
+                    "A Sea of Yellow"
                 ]
             }
         },
@@ -785,7 +802,7 @@
                 ],
                 "GPE": [
                     "Beijing",
-                    "China.</p><p><a"
+                    "China"
                 ]
             }
         },
@@ -817,7 +834,6 @@
             "title": "519- Balikbayan Boxes",
             "entities": {
                 "DATE": [
-                    "This time of year",
                     "the middle of the holiday season"
                 ],
                 "LANGUAGE": [
@@ -826,7 +842,7 @@
                 "PERSON": [
                     "Gabrielle Berbey",
                     "Balikbayan",
-                    "episode\">Balikbayan Boxes</a></p>"
+                    "Balikbayan Boxes\n"
                 ],
                 "NORP": [
                     "Balikbayan",
@@ -837,7 +853,7 @@
                 ],
                 "GPE": [
                     "Philippines",
-                    "Tagalog.</p><p><a"
+                    "Tagalog"
                 ]
             }
         },
@@ -874,13 +890,16 @@
                 "PRODUCT": [
                     "Roman Mars"
                 ],
+                "GPE": [
+                    "You\u2019ll"
+                ],
                 "PERSON": [
                     "Janet",
                     "Miss Jackson"
                 ],
                 "CARDINAL": [
                     "15",
-                    "15</a></p"
+                    "15"
                 ]
             }
         },
@@ -912,11 +931,14 @@
             "title": "517- The Divided Dial",
             "entities": {
                 "PERSON": [
-                    "Katie Thornton",
-                    "Divided"
+                    "Katie Thornton"
                 ],
                 "DATE": [
-                    "the past century"
+                    "the past century",
+                    "today"
+                ],
+                "GPE": [
+                    "Media"
                 ]
             }
         },
@@ -949,6 +971,9 @@
             "entities": {
                 "PRODUCT": [
                     "P-22"
+                ],
+                "PERSON": [
+                    "Cougar Town\n"
                 ]
             }
         },
@@ -984,10 +1009,11 @@
                 ],
                 "PERSON": [
                     "El Peatonito",
+                    "Super CitizensCheck",
                     "David Weinberg's"
                 ],
-                "ORG": [
-                    "Superhero"
+                "PRODUCT": [
+                    "The Superhero Complex"
                 ]
             }
         },
@@ -1024,6 +1050,8 @@
                 "ORG": [
                     "the Freedom House Ambulance Service",
                     "COVID",
+                    "the Freedom House Ambulance Service",
+                    "First Paramedics",
                     "the Freedom House Ambulance Service"
                 ],
                 "DATE": [
@@ -1033,6 +1061,9 @@
                 "PERSON": [
                     "George Floyd",
                     "Kevin Hazzard"
+                ],
+                "NORP": [
+                    "American"
                 ]
             }
         },
@@ -1073,7 +1104,8 @@
                 ],
                 "CARDINAL": [
                     "one",
-                    "hundreds"
+                    "hundreds",
+                    "Two"
                 ]
             }
         },
@@ -1105,8 +1137,9 @@
             "title": "Articles of Interest: American Ivy",
             "entities": {
                 "ORG": [
-                    "Trufelman</a",
-                    "Radiotopia"
+                    "Avery Trufelman",
+                    "Radiotopia",
+                    "PRX"
                 ],
                 "GPE": [
                     "Washington"
@@ -1148,9 +1181,6 @@
             "entities": {
                 "PERSON": [
                     "Jody Rosen's"
-                ],
-                "FAC": [
-                    "book:<a href=\"https://amzn.to/3F8Jn0n\"><i"
                 ],
                 "CARDINAL": [
                     "Two"
@@ -1203,9 +1233,6 @@
                 ],
                 "PERSON": [
                     "Gillian Jacobs"
-                ],
-                "WORK_OF_ART": [
-                    "href=\"https://99percentinvisible.org/?p=39590&post_type=episode\">Walk of Fame</a></p"
                 ]
             }
         },
@@ -1236,6 +1263,13 @@
             "pubDate": "Tue, 11 Oct 2022 21:35:23 +0000",
             "title": "511- Vuvuzela",
             "entities": {
+                "GPE": [
+                    "vuvuzela",
+                    "vuvuzela",
+                    "vuvuzela",
+                    "South Africa's",
+                    "Vuvuzela"
+                ],
                 "QUANTITY": [
                     "two foot"
                 ],
@@ -1253,11 +1287,6 @@
                 ],
                 "ORDINAL": [
                     "first"
-                ],
-                "GPE": [
-                    "vuvuzela",
-                    "vuvuzela",
-                    "South Africa's"
                 ]
             }
         },
@@ -1328,6 +1357,9 @@
             "entities": {
                 "NORP": [
                     "American"
+                ],
+                "GPE": [
+                    "the Jackalope\n"
                 ]
             }
         },
@@ -1360,21 +1392,24 @@
             "entities": {
                 "PERSON": [
                     "Bill Clinton",
-                    "Roman",
-                    "Roman Mars",
-                    "Kurt Kohlstedt"
+                    "Kurt Kohlstedt",
+                    "Bill Clinton"
                 ],
                 "PERCENT": [
                     "99%",
+                    "the 99%",
                     "99%"
                 ],
-                "ORG": [
-                    "the <i>99%",
-                    "the Hidden World of Everyday"
+                "PRODUCT": [
+                    "Roman Mars",
+                    "Roman Mars"
                 ],
                 "GPE": [
-                    "Invisible City",
-                    "Design,</i"
+                    "Invisible City"
+                ],
+                "ORG": [
+                    "the Hidden World of Everyday Design",
+                    "Apple Podcasts"
                 ]
             }
         },
@@ -1406,7 +1441,8 @@
             "title": "507- Search and Ye Might Find",
             "entities": {
                 "PERSON": [
-                    "Adam Rogers"
+                    "Adam Rogers",
+                    "Ye Might Find"
                 ],
                 "DATE": [
                     "the last decade"
@@ -1457,7 +1493,7 @@
                 ],
                 "DATE": [
                     "1990",
-                    "the 1970s.</p><p><a"
+                    "the 1970s"
                 ],
                 "CARDINAL": [
                     "one",
@@ -1506,7 +1542,11 @@
                     "weekday"
                 ],
                 "ORG": [
-                    "Netflix"
+                    "Netflix",
+                    "Old Enough",
+                    "My First Errand",
+                    "My First Errand",
+                    "First Errand"
                 ],
                 "NORP": [
                     "Japanese",
@@ -1515,9 +1555,7 @@
                     "Japanese"
                 ],
                 "ORDINAL": [
-                    "First",
                     "first",
-                    "First",
                     "fifth"
                 ],
                 "CARDINAL": [
@@ -1560,9 +1598,6 @@
             "entities": {
                 "CARDINAL": [
                     "one"
-                ],
-                "NORP": [
-                    "episode\">Bleep!</a></p"
                 ]
             }
         },
@@ -1599,13 +1634,14 @@
                     "over 100 years"
                 ],
                 "ORG": [
-                    "the Supreme Court"
+                    "the Supreme Court",
+                    "Apple"
                 ],
                 "CARDINAL": [
                     "one"
                 ],
-                "LOC": [
-                    "Roman Mars Can Learn"
+                "FAC": [
+                    "Spotify"
                 ]
             }
         },
@@ -1652,7 +1688,7 @@
                     "the Congo Basin"
                 ],
                 "WORK_OF_ART": [
-                    "the Love of Peat</a></p"
+                    "the Love of Peat"
                 ]
             }
         },
@@ -1688,6 +1724,9 @@
                 ],
                 "ORG": [
                     "Queen Anne Cottages"
+                ],
+                "CARDINAL": [
+                    "3"
                 ]
             }
         },
@@ -1729,7 +1768,7 @@
                     "99%"
                 ],
                 "CARDINAL": [
-                    "2</a></p"
+                    "2"
                 ]
             }
         },
@@ -1768,7 +1807,7 @@
                     "99%"
                 ],
                 "CARDINAL": [
-                    "1</a></p"
+                    "1"
                 ]
             }
         },
@@ -1822,10 +1861,7 @@
                 ],
                 "PERSON": [
                     "Anne Helen",
-                    "=episode\">Say Aloe"
-                ],
-                "PRODUCT": [
-                    "Substack"
+                    "Say Aloe"
                 ]
             }
         },
@@ -1856,8 +1892,13 @@
             "pubDate": "Tue, 5 Jul 2022 23:16:55 +0000",
             "title": "498- The Octagon House",
             "entities": {
+                "PERCENT": [
+                    "99%"
+                ],
                 "ORG": [
-                    "Avery Trufelman"
+                    "Avery Trufelman",
+                    "Octagon House",
+                    "Octagon House"
                 ],
                 "GPE": [
                     "New York",
@@ -1873,9 +1914,7 @@
                     "the mid 1800s"
                 ],
                 "PERSON": [
-                    "Orson Fowler",
-                    "Octagon House",
-                    "episode\">The Octagon House</a></p"
+                    "Orson Fowler"
                 ],
                 "CARDINAL": [
                     "hundreds"
@@ -1919,7 +1958,8 @@
                 "GPE": [
                     "Russia",
                     "Russia",
-                    "Japan"
+                    "Japan",
+                    "Hometown Village"
                 ],
                 "NORP": [
                     "Koreans"
@@ -1962,30 +2002,33 @@
                 "ORG": [
                     "Ojibwe",
                     "the Minnesota Department of Natural Resources",
-                    "Minnesota Department of Natural Resources</i",
+                    "Manoomin v Minnesota Department of Natural Resources",
                     "DNR",
+                    "the\u00a0Robert Wood Johnson Foundation",
                     "RWJF",
                     "Foundation",
                     "RWJF"
                 ],
                 "PERSON": [
                     "Manoomin",
-                    "Manoomin",
-                    "Manoomin",
-                    "Robert Wood Johnson Foundation</strong></i></a><i"
-                ],
-                "LOC": [
-                    "North America"
+                    "Manoomin"
                 ],
                 "GPE": [
+                    "Zizania",
                     "Ojibwe",
                     "Minnesota",
                     "the United States"
+                ],
+                "LOC": [
+                    "North America"
                 ],
                 "DATE": [
                     "last year",
                     "Last August",
                     "today"
+                ],
+                "WORK_OF_ART": [
+                    "The Rights of Rice and Future of NatureSupport"
                 ]
             }
         },
@@ -2018,13 +2061,19 @@
             "entities": {
                 "GPE": [
                     "America",
-                    "Us"
+                    "Fountain",
+                    "Us",
+                    "Fountain"
                 ],
                 "DATE": [
                     "the 1980s"
                 ],
                 "PERSON": [
+                    "Alexandra Lange",
                     "Lange"
+                ],
+                "ORG": [
+                    "Meet Me"
                 ],
                 "NORP": [
                     "American",
@@ -2069,11 +2118,11 @@
                 "NORP": [
                     "American"
                 ],
-                "WORK_OF_ART": [
-                    "The Star Spangled Banner.</p><p><a href=\"https://99percentinvisible.org/?p=39249&post_type"
+                "GPE": [
+                    "Sidedoor"
                 ],
-                "DATE": [
-                    "episode\">Flag Days"
+                "WORK_OF_ART": [
+                    "The Star Spangled Banner"
                 ]
             }
         },
@@ -2126,6 +2175,9 @@
                 ],
                 "GPE": [
                     "North Africa"
+                ],
+                "PRODUCT": [
+                    "Real Good\n"
                 ]
             }
         },
@@ -2157,17 +2209,17 @@
             "title": "492- Inheriting Froebel's Gifts",
             "entities": {
                 "DATE": [
-                    "the late 1700s"
+                    "the late 1700s",
+                    "over 100 years"
                 ],
                 "PERSON": [
                     "Friedrich Froebel",
                     "Froebel",
                     "Friedrich Froebel",
                     "Frank Lloyd Wright\u2019s",
-                    "John"
-                ],
-                "CARDINAL": [
-                    "100"
+                    "John",
+                    "Froebel",
+                    "Gifts\n"
                 ]
             }
         },
@@ -2209,9 +2261,6 @@
                 ],
                 "NORP": [
                     "North American"
-                ],
-                "PERSON": [
-                    "episode\">The Missing Middle</a></p"
                 ]
             }
         },
@@ -2271,24 +2320,30 @@
             "title": "Roman Mars on Blank Check with Griffin and David",
             "entities": {
                 "PRODUCT": [
-                    "Roman Mars"
+                    "Roman Mars",
+                    "Spotify"
                 ],
                 "GPE": [
                     "Griffin",
-                    "Hollywood"
+                    "Hollywood",
+                    "Stitcher"
                 ],
                 "PERSON": [
+                    "David",
                     "Sam Raimi",
                     "Griffin Newman",
                     "David Sims"
+                ],
+                "CARDINAL": [
+                    "1995)Roman"
                 ],
                 "ORDINAL": [
                     "99pi"
                 ],
                 "ORG": [
                     "Blank Check",
-                    "Griffin & David</strong",
-                    "Stitcher</a"
+                    "Griffin & David",
+                    "Apple"
                 ]
             }
         },
@@ -2321,6 +2376,7 @@
             "entities": {
                 "ORG": [
                     "COVID",
+                    "the\u00a0Robert Wood Johnson Foundation",
                     "RWJF",
                     "Foundation",
                     "RWJF"
@@ -2334,9 +2390,6 @@
                     "the 1600s",
                     "today",
                     "today"
-                ],
-                "PERSON": [
-                    "Robert Wood Johnson Foundation</strong></i></a><i"
                 ]
             }
         },
@@ -2421,7 +2474,10 @@
                 ],
                 "ORG": [
                     "the Northwest Passage",
-                    "the Northwest Passage"
+                    "the Northwest Passage",
+                    "the Atlas Obscura Podcast",
+                    "the Unclaimed Baggage Center",
+                    "Atlas Obscure on Apple Podcasts"
                 ],
                 "DATE": [
                     "1845",
@@ -2429,8 +2485,7 @@
                     "Today"
                 ],
                 "PERSON": [
-                    "John Franklin",
-                    "Obscura Podcast</a>"
+                    "John Franklin"
                 ],
                 "ORDINAL": [
                     "99pi",
@@ -2438,10 +2493,9 @@
                 ],
                 "GPE": [
                     "Scottsboro",
-                    "Alabama"
-                ],
-                "WORK_OF_ART": [
-                    "Atlas Obscure on <"
+                    "Alabama",
+                    "Stitcher",
+                    "Spotify"
                 ]
             }
         },
@@ -2487,6 +2541,9 @@
                 ],
                 "PERSON": [
                     "Erica Heilman"
+                ],
+                "ORG": [
+                    "Rumble Strip"
                 ]
             }
         },
@@ -2525,12 +2582,6 @@
                 ],
                 "QUANTITY": [
                     "100 feet"
-                ],
-                "EVENT": [
-                    "href=\"https://99percentinvisible.org/?post_type"
-                ],
-                "PERSON": [
-                    "Most Fowl</a></p"
                 ]
             }
         },
@@ -2577,7 +2628,11 @@
                 "PRODUCT": [
                     "Roman Mars"
                 ],
+                "GPE": [
+                    "answers!In"
+                ],
                 "ORG": [
+                    "Dear Hank & John",
                     "YouTubers",
                     "AFC Wimbledon"
                 ],
@@ -2589,6 +2644,9 @@
                 ],
                 "LANGUAGE": [
                     "English"
+                ],
+                "NORP": [
+                    "Roman"
                 ]
             }
         },
@@ -2723,16 +2781,16 @@
                 "QUANTITY": [
                     "3 megabit"
                 ],
-                "PERSON": [
-                    "Robert Wood Johnson",
-                    "episode\">The Future"
+                "ORG": [
+                    "the Robert Wood Johnson Foundation",
+                    "RWJF",
+                    "a Culture of Health"
                 ],
                 "GPE": [
                     "the United States"
                 ],
-                "ORG": [
-                    "RWJF",
-                    "a Culture of Health"
+                "LAW": [
+                    "the Final Mile"
                 ]
             }
         },
@@ -2769,7 +2827,8 @@
                 ],
                 "PERSON": [
                     "Dave Davis",
-                    "Coeur"
+                    "Coeur",
+                    "Broken Heart Park"
                 ],
                 "GPE": [
                     "St. Louis"
@@ -2808,6 +2867,7 @@
             "entities": {
                 "ORG": [
                     "The Columbia Journalism School",
+                    "Need",
                     "Need"
                 ],
                 "CARDINAL": [
@@ -2817,11 +2877,9 @@
                     "2022"
                 ],
                 "PERSON": [
-                    "Alfred I. duPont-Columbia University Awards"
-                ],
-                "GPE": [
-                    "Need</i></a",
-                    "Katie"
+                    "Alfred I. duPont-Columbia University Awards",
+                    "Katie Mingle",
+                    "Katie Mingle"
                 ],
                 "PERCENT": [
                     "99%"
@@ -2861,6 +2919,9 @@
                     "Dafen",
                     "Marriott",
                     "Orlando"
+                ],
+                "ORG": [
+                    "Call of Duty"
                 ]
             }
         },
@@ -2891,6 +2952,9 @@
             "pubDate": "Wed, 16 Feb 2022 01:14:47 +0000",
             "title": "477- Call of Duty: Free",
             "entities": {
+                "LOC": [
+                    "the west coast"
+                ],
                 "GPE": [
                     "Ireland"
                 ],
@@ -2900,7 +2964,8 @@
                 "FAC": [
                     "Shannon",
                     "Shannon",
-                    "Shannon Airport"
+                    "Shannon Airport",
+                    "Shannon"
                 ],
                 "CARDINAL": [
                     "1.7 million",
@@ -2954,15 +3019,14 @@
                 "WORK_OF_ART": [
                     "\"The Future Of"
                 ],
-                "PERSON": [
-                    "Robert Wood Johnson"
+                "ORG": [
+                    "the Robert Wood Johnson Foundation",
+                    "RWJF",
+                    "a Culture of Health",
+                    "the Future of Work\n"
                 ],
                 "GPE": [
                     "the United States"
-                ],
-                "ORG": [
-                    "RWJF",
-                    "a Culture of Health"
                 ]
             }
         },
@@ -2999,7 +3063,7 @@
                 "ORG": [
                     "Christie\u2019s",
                     "Sotheby\u2019s",
-                    "href=\"https://twitter.com/that_mc/"
+                    "Rock Paper Scissors BusSubscribe"
                 ],
                 "MONEY": [
                     "$20 million"
@@ -3009,6 +3073,10 @@
                 ],
                 "GPE": [
                     "San Francisco"
+                ],
+                "PERSON": [
+                    "Mc Allen",
+                    "Snap Judgment"
                 ]
             }
         },
@@ -3044,6 +3112,9 @@
                 ],
                 "EVENT": [
                     "the Vietnam War"
+                ],
+                "PERSON": [
+                    "Endless Thread"
                 ],
                 "DATE": [
                     "today"
@@ -3095,7 +3166,7 @@
                     "Daylight Saving Time"
                 ],
                 "CARDINAL": [
-                    "14</a></p"
+                    "14"
                 ]
             }
         },
@@ -3126,9 +3197,6 @@
             "pubDate": "Wed, 12 Jan 2022 00:42:23 +0000",
             "title": "472- Mini-Stories : Volume 13",
             "entities": {
-                "PERSON": [
-                    "We're"
-                ],
                 "DATE": [
                     "the new year",
                     "the 1980s",
@@ -3136,6 +3204,9 @@
                 ],
                 "ORDINAL": [
                     "99pi"
+                ],
+                "WORK_OF_ART": [
+                    "Beauty Pill's Instant NightGet New Order's Blue Monday\n"
                 ]
             }
         },
@@ -3168,7 +3239,7 @@
             "entities": {
                 "CARDINAL": [
                     "99pi",
-                    "12</a></p"
+                    "12"
                 ],
                 "ORDINAL": [
                     "first",
@@ -3231,7 +3302,8 @@
                     "three"
                 ],
                 "ORG": [
-                    "Santa"
+                    "Santa",
+                    "The Three Santas of Slovenia\n"
                 ],
                 "NORP": [
                     "Slovenians"
@@ -3269,6 +3341,7 @@
                     "Black Americans"
                 ],
                 "GPE": [
+                    "Collier Heights",
                     "Collier Heights"
                 ],
                 "LOC": [
@@ -3323,7 +3396,8 @@
                     "Rome"
                 ],
                 "PERSON": [
-                    "Judith Flanders"
+                    "Judith Flanders",
+                    "Alphabetical Order"
                 ],
                 "WORK_OF_ART": [
                     "A Place For Everything"
@@ -3374,7 +3448,7 @@
                     "Tove K. Danovich"
                 ],
                 "ORG": [
-                    "href=\"https://99percentinvisible.org/?post_type=episode&p=38283\">Cute Little Monstrosities of Nature</a></p"
+                    "Cute Little Monstrosities of Nature"
                 ]
             }
         },
@@ -3408,8 +3482,14 @@
                 "DATE": [
                     "season 2"
                 ],
+                "FAC": [
+                    "the Nice Try"
+                ],
                 "ORDINAL": [
                     "99pi"
+                ],
+                "ORG": [
+                    "Avery Trufelman"
                 ],
                 "NORP": [
                     "American"
@@ -3452,7 +3532,7 @@
                 ],
                 "PERSON": [
                     "Shirley Card",
-                    "episode\">Shirley Cards</a></p"
+                    "Shirley Cards"
                 ],
                 "DATE": [
                     "decades"
@@ -3507,6 +3587,7 @@
                 ],
                 "GPE": [
                     "San Simeon",
+                    "California",
                     "Paris",
                     "California"
                 ],
@@ -3551,7 +3632,8 @@
                     "Canada"
                 ],
                 "CARDINAL": [
-                    "two"
+                    "two",
+                    "Fifty-Four"
                 ],
                 "QUANTITY": [
                     "5500 miles"
@@ -3587,6 +3669,9 @@
             "entities": {
                 "DATE": [
                     "150-year"
+                ],
+                "PERSON": [
+                    "Pink Margarine"
                 ]
             }
         },
@@ -3622,7 +3707,8 @@
                 ],
                 "GPE": [
                     "the United States",
-                    "Vietnam"
+                    "Vietnam",
+                    "the Republic of Vietnam"
                 ],
                 "ORG": [
                     "Capitol",
@@ -3638,7 +3724,7 @@
                     "three"
                 ],
                 "LOC": [
-                    "South"
+                    "South Vietnam"
                 ],
                 "FAC": [
                     "Capitol"
@@ -3680,7 +3766,7 @@
             "title": "323- The House that Came in the Mail Again",
             "entities": {
                 "ORG": [
-                    "Sears & Roebuck Mail",
+                    "The Sears & Roebuck Mail Order Catalog",
                     "Sears",
                     "Sears"
                 ],
@@ -3707,7 +3793,8 @@
                 ],
                 "GPE": [
                     "china",
-                    "America"
+                    "America",
+                    "Invisible City"
                 ],
                 "PERCENT": [
                     "99%"
@@ -3746,16 +3833,20 @@
                     "English"
                 ],
                 "NORP": [
-                    "European",
-                    "English"
+                    "European"
                 ],
                 "ORG": [
-                    "Arika Okrent",
-                    "Corps"
+                    "Arika Okrent"
+                ],
+                "WORK_OF_ART": [
+                    "Highly Irregular: Why Tough, Through"
                 ],
                 "PERSON": [
                     "Dough",
                     "Rhyme"
+                ],
+                "LOC": [
+                    "the English Language"
                 ],
                 "GPE": [
                     "Arika"
@@ -3794,11 +3885,13 @@
                     "Us"
                 ],
                 "ORG": [
+                    "Yankee PyramidsThe",
                     "Trump",
                     "Trump"
                 ],
                 "PERSON": [
                     "Roman",
+                    "Con Law",
                     "Elizabeth Joh"
                 ],
                 "PRODUCT": [
@@ -3892,7 +3985,10 @@
                     "one"
                 ],
                 "GPE": [
-                    "Mexico"
+                    "Mexico City"
+                ],
+                "PERSON": [
+                    "Model Organism"
                 ]
             }
         },
@@ -3937,11 +4033,12 @@
                     "Bleasdale",
                     "Adam Rogers"
                 ],
+                "WORK_OF_ART": [
+                    "Full Spectrum: How the Science of Color Made Us Modern",
+                    "World"
+                ],
                 "NORP": [
                     "Roman Mars"
-                ],
-                "ORG": [
-                    "World"
                 ]
             }
         },
@@ -3978,11 +4075,9 @@
                     "Erika Bergman",
                     "Elladj Bald\u00e9",
                     "Barbara Eison-White",
-                    "Roman Mars On",
-                    "Pedro",
+                    "Pedro Pascal",
                     "Gillian Jacobs",
-                    "Diona Reasonover",
-                    "NCIS)</p><p><a"
+                    "Diona Reasonover"
                 ],
                 "DATE": [
                     "85-year-old"
@@ -3993,8 +4088,13 @@
                     "Netflix"
                 ],
                 "ORG": [
+                    "Pop-Up Magazine",
                     "Field Guide",
-                    "LOVE"
+                    "LOVE",
+                    "NCIS)A Field Guide"
+                ],
+                "LOC": [
+                    "Roman Mars On The Anatomy Of A Good Story"
                 ],
                 "PRODUCT": [
                     "Roman Mars"
@@ -4033,7 +4133,10 @@
                     "Kurt Kohlstedt"
                 ],
                 "PERCENT": [
-                    "99%"
+                    "The 99%"
+                ],
+                "GPE": [
+                    "Invisible City"
                 ],
                 "DATE": [
                     "late 2020"
@@ -4042,8 +4145,10 @@
                     "one"
                 ],
                 "ORG": [
-                    "COVID",
-                    "href=\"https://99percentinvisible.org/?p=37836&post_type=episode\">War"
+                    "COVID"
+                ],
+                "PRODUCT": [
+                    "Design"
                 ]
             }
         },
@@ -4074,10 +4179,11 @@
             "title": "453- The Book of Tasty and Healthy Food",
             "entities": {
                 "WORK_OF_ART": [
-                    "The Book of Tasty and Healthy Food</i>"
+                    "The Book of Tasty and Healthy Food"
                 ],
                 "ORG": [
-                    "Kniga"
+                    "Kniga",
+                    "The Book of Tasty and Healthy Food"
                 ],
                 "GPE": [
                     "the Soviet Union",
@@ -4090,10 +4196,6 @@
                     "Stalinist",
                     "Soviet",
                     "Russian"
-                ],
-                "PERSON": [
-                    "episode\">The Book of Tasty",
-                    "Healthy Food</a></p"
                 ]
             }
         },
@@ -4126,8 +4228,7 @@
             "entities": {
                 "PERSON": [
                     "Britt Young",
-                    "Britt",
-                    "episode\">The Lows"
+                    "Britt"
                 ],
                 "LOC": [
                     "the Bay Area"
@@ -4137,6 +4238,9 @@
                 ],
                 "ORG": [
                     "Hulk"
+                ],
+                "WORK_OF_ART": [
+                    "Lows of High Tech"
                 ]
             }
         },
@@ -4212,13 +4316,7 @@
                     "Today"
                 ],
                 "ORG": [
-                    "ABC",
-                    "href=\"https://www.abc.net.au"
-                ],
-                "NORP": [
-                    "British",
-                    "Roman",
-                    "British"
+                    "ABC"
                 ],
                 "CARDINAL": [
                     "six"
@@ -4226,9 +4324,14 @@
                 "ORDINAL": [
                     "first"
                 ],
+                "NORP": [
+                    "Roman"
+                ],
                 "PERSON": [
-                    "Marc Fennell",
-                    "=episode\">Stuff"
+                    "Marc Fennell"
+                ],
+                "LOC": [
+                    "British Stole"
                 ]
             }
         },
@@ -4269,7 +4372,7 @@
                     "Heller"
                 ],
                 "ORG": [
-                    "the Hidden Rules of Ownership Control Our Lives</i></a"
+                    "the Hidden Rules of Ownership Control Our Lives"
                 ]
             }
         },
@@ -4303,12 +4406,12 @@
                 "PERSON": [
                     "Katie Mingle's",
                     "Roam",
-                    "England.</p><p><a",
-                    "Roam</a></p"
+                    "Roam\n"
                 ],
                 "GPE": [
                     "the United Kingdom",
-                    "Manchester"
+                    "Manchester",
+                    "England"
                 ],
                 "DATE": [
                     "the 1930s",
@@ -4404,8 +4507,7 @@
                 ],
                 "DATE": [
                     "This year",
-                    "two whole weeks",
-                    "episode\">Flag Days"
+                    "two whole weeks"
                 ],
                 "EVENT": [
                     "WWII"
@@ -4454,6 +4556,9 @@
                 "PERSON": [
                     "Katie Mingle",
                     "Katie"
+                ],
+                "PRODUCT": [
+                    "Clinch"
                 ]
             }
         },
@@ -4496,6 +4601,9 @@
                 ],
                 "QUANTITY": [
                     "about 100 trillion gallons"
+                ],
+                "PERSON": [
+                    "Pipe Dreams"
                 ]
             }
         },
@@ -4525,11 +4633,7 @@
             "link": "https://99percentinvisible.org",
             "pubDate": "Wed, 19 May 2021 00:10:56 +0000",
             "title": "443- Matters of Time",
-            "entities": {
-                "WORK_OF_ART": [
-                    "href=\"https://99percentinvisible.org/?p=37295&post_type=episode\">Matters of Time</a></p"
-                ]
-            }
+            "entities": {}
         },
         {
             "author": "roman@99pi.org (Kevin Caners)",
@@ -4576,7 +4680,7 @@
                     "all night"
                 ],
                 "ORG": [
-                    "episode\">Tanz Tanz Revolution</a></p><h2"
+                    "Tanz Tanz Revolution"
                 ]
             }
         },
@@ -4611,7 +4715,11 @@
                     "about 90%"
                 ],
                 "DATE": [
-                    "months"
+                    "months",
+                    "years"
+                ],
+                "PERSON": [
+                    "Kerning Cultures"
                 ],
                 "CARDINAL": [
                     "one"
@@ -4619,8 +4727,8 @@
                 "LOC": [
                     "the Middle East"
                 ],
-                "PERSON": [
-                    "North Africa.</p"
+                "GPE": [
+                    "North Africa"
                 ]
             }
         },
@@ -4659,13 +4767,14 @@
                     "fifty years ago"
                 ],
                 "PERSON": [
-                    "Ed Roberts"
+                    "Ed Roberts",
+                    "Curb Cuts"
                 ],
                 "LOC": [
                     "Roman Mars"
                 ],
-                "CARDINAL": [
-                    "99pi.</p"
+                "ORDINAL": [
+                    "99pi"
                 ]
             }
         },
@@ -4701,12 +4810,14 @@
                 "PERSON": [
                     "La Brega",
                     "Casanova-Burgess",
-                    "Brega"
+                    "La Brega",
+                    "La Brega"
                 ],
                 "ORG": [
                     "Alana Casanova-Burgess",
                     "Casanova-Burgess",
-                    "the American Dream"
+                    "the American Dream",
+                    "Apple Podcasts"
                 ],
                 "GPE": [
                     "Levittown",
@@ -4714,10 +4825,13 @@
                     "Levittown",
                     "Levittown",
                     "Puerto Rico",
-                    "Puerto Rico.</p"
+                    "Puerto Rico",
+                    "Levittown",
+                    "Spotify"
                 ],
                 "NORP": [
-                    "American"
+                    "American",
+                    "Sitcher"
                 ]
             }
         },
@@ -4756,7 +4870,10 @@
                 ],
                 "PERSON": [
                     "Emmett FitzGerald",
-                    "Art Redux</a></p"
+                    "Art Redux"
+                ],
+                "GPE": [
+                    "Jurassic"
                 ]
             }
         },
@@ -4800,7 +4917,8 @@
                 ],
                 "LAW": [
                     "the Real Book",
-                    "the Real Book"
+                    "the Real Book",
+                    "The Real Book\n"
                 ],
                 "NORP": [
                     "Jazz"
@@ -4837,15 +4955,14 @@
                 "CARDINAL": [
                     "More than 100,000",
                     "up to 200",
-                    "two",
-                    "more than 100"
+                    "two"
                 ],
                 "DATE": [
-                    "every year"
+                    "every year",
+                    "more than 100 years"
                 ],
-                "ORG": [
-                    "href=\"https://gimletmedia.com",
-                    "Gimlet</p"
+                "WORK_OF_ART": [
+                    "Science Vs from Gimlet\nScience Vs Snakes\n"
                 ]
             }
         },
@@ -4880,7 +4997,6 @@
                     "the 20th century"
                 ],
                 "PERSON": [
-                    "control</em",
                     "Elizabeth Kolbert"
                 ],
                 "GPE": [
@@ -4927,7 +5043,8 @@
                 "GPE": [
                     "Dallas",
                     "the United States",
-                    "Dallas"
+                    "Dallas",
+                    "Megaplex"
                 ],
                 "ORDINAL": [
                     "first",
@@ -4964,7 +5081,8 @@
             "entities": {
                 "GPE": [
                     "Idaho",
-                    "Idaho"
+                    "Idaho",
+                    "Invisible City"
                 ],
                 "ORDINAL": [
                     "first",
@@ -5008,7 +5126,8 @@
                 "PERSON": [
                     "Florence Nightingale",
                     "Helena Bonham Carter",
-                    "Pushkin Industries.</em></p",
+                    "Cautionary Tales",
+                    "Tim Harford",
                     "Tim Harford's"
                 ],
                 "GPE": [
@@ -5019,10 +5138,9 @@
                     "UK"
                 ],
                 "ORG": [
-                    "Florence Nightingale"
-                ],
-                "WORK_OF_ART": [
-                    "To Make The World Add Up</a"
+                    "Pushkin Industries",
+                    "Florence Nightingale",
+                    "The Data Detective"
                 ]
             }
         },
@@ -5058,7 +5176,6 @@
                     "Lady Bird Lake",
                     "Bloschock",
                     "Simon Doble",
-                    "target=\"_blank\">Autodesk Foundation</a",
                     "Autodesk"
                 ],
                 "GPE": [
@@ -5072,14 +5189,13 @@
                 ],
                 "ORG": [
                     "the Texas Department of Transportation",
-                    "Invisible\u2019s Impact Design"
+                    "Invisible\u2019s Impact Design",
+                    "The\u00a0Autodesk Foundation",
+                    "Autodesk\u2019s\u00a0Redshift"
                 ],
                 "FAC": [
-                    "Congress Avenue Bridge"
-                ],
-                "CARDINAL": [
-                    "one",
-                    "six million"
+                    "Congress Avenue Bridge",
+                    "the Bridge Builder\nPlus"
                 ],
                 "WORK_OF_ART": [
                     "Batman"
@@ -5090,8 +5206,14 @@
                 "NORP": [
                     "Australian"
                 ],
+                "CARDINAL": [
+                    "six million"
+                ],
                 "TIME": [
                     "dusk"
+                ],
+                "PERCENT": [
+                    "99%"
                 ]
             }
         },
@@ -5123,7 +5245,8 @@
             "title": "431- 12 Heads from the Garden of Perfect Brightness",
             "entities": {
                 "CARDINAL": [
-                    "twelve"
+                    "twelve",
+                    "12"
                 ],
                 "NORP": [
                     "Chinese"
@@ -5131,11 +5254,8 @@
                 "GPE": [
                     "China"
                 ],
-                "ORG": [
-                    "Heads"
-                ],
                 "FAC": [
-                    "the Garden of Perfect"
+                    "the Garden of Perfect Brightness"
                 ]
             }
         },
@@ -5173,10 +5293,12 @@
                     "Warner Bros.",
                     "the Black Messiah Podcast",
                     "Radiotopia",
+                    "PRX",
                     "the Black Messiah Podcast",
                     "KCRW",
                     "the Black Panther Party Cubs",
-                    "the Black Panther Party"
+                    "the Black Panther Party",
+                    "Apple Podcasts"
                 ],
                 "PERSON": [
                     "Judas",
@@ -5186,10 +5308,6 @@
                     "Fred Hampton",
                     "Fred Hampton",
                     "Fred Hampton"
-                ],
-                "WORK_OF_ART": [
-                    "id1549883019",
-                    "id1549883019"
                 ],
                 "CARDINAL": [
                     "1"
@@ -5226,11 +5344,12 @@
                 "PERSON": [
                     "Bradley Garrett"
                 ],
+                "ORG": [
+                    "Bunker:",
+                    "Times"
+                ],
                 "DATE": [
                     "today"
-                ],
-                "WORK_OF_ART": [
-                    "target=\"_blank\">The Doom Boom</a></p"
                 ]
             }
         },
@@ -5268,10 +5387,12 @@
                     "Warner Bros.",
                     "the Black Messiah Podcast",
                     "Radiotopia",
+                    "PRX",
                     "the Black Messiah Podcast",
                     "KCRW",
                     "the Black Panther Party Cubs",
-                    "the Black Panther Party"
+                    "the Black Panther Party",
+                    "Apple Podcasts"
                 ],
                 "PERSON": [
                     "Judas",
@@ -5281,15 +5402,11 @@
                     "Fred Hampton",
                     "Fred Hampton"
                 ],
-                "WORK_OF_ART": [
-                    "id1549883019",
-                    "id1549883019"
-                ],
-                "CARDINAL": [
-                    "1"
+                "PRODUCT": [
+                    "Subscribe"
                 ],
                 "DATE": [
-                    "February 12</p"
+                    "February 12"
                 ]
             }
         },
@@ -5323,7 +5440,8 @@
                 "ORG": [
                     "Santa Fe",
                     "Pueblo Revival",
-                    "Santa Fe"
+                    "Santa Fe",
+                    "Stuccoed"
                 ],
                 "GPE": [
                     "New Mexico's"
@@ -5332,8 +5450,7 @@
                     "Spanish"
                 ],
                 "WORK_OF_ART": [
-                    "Americanize",
-                    "target=\"_blank\">Stuccoed in Time</a></p"
+                    "Americanize"
                 ],
                 "DATE": [
                     "a century ago"
@@ -5376,8 +5493,8 @@
                 "ORG": [
                     "the Twin Cities"
                 ],
-                "PERSON": [
-                    "skyways</em"
+                "FAC": [
+                    "Skyway"
                 ]
             }
         },
@@ -5424,7 +5541,7 @@
                     "Antarctica"
                 ],
                 "CARDINAL": [
-                    "11</a></p"
+                    "11"
                 ]
             }
         },
@@ -5456,16 +5573,21 @@
             "title": "426- Mini-Stories: Volume 10",
             "entities": {
                 "PERCENT": [
+                    "99%",
                     "99%"
                 ],
                 "PRODUCT": [
                     "Roman Mars"
                 ],
+                "CARDINAL": [
+                    "10"
+                ],
                 "ORG": [
                     "Invisible\u2019s Impact Design"
                 ],
                 "PERSON": [
-                    "Autodesk"
+                    "Autodesk",
+                    "Autodesk Redshift"
                 ]
             }
         },
@@ -5504,6 +5626,9 @@
                 ],
                 "ORDINAL": [
                     "99pi"
+                ],
+                "CARDINAL": [
+                    "9"
                 ]
             }
         },
@@ -5542,10 +5667,15 @@
                     "Roman",
                     "Jesse"
                 ],
+                "GPE": [
+                    "Bullseye",
+                    "Invisible City"
+                ],
                 "DATE": [
                     "this week",
                     "decades",
-                    "decades"
+                    "decades",
+                    "today"
                 ],
                 "WORK_OF_ART": [
                     "PhD"
@@ -5592,8 +5722,14 @@
                 "DATE": [
                     "the last decade"
                 ],
+                "ORG": [
+                    "Need"
+                ],
                 "CARDINAL": [
                     "5"
+                ],
+                "PERCENT": [
+                    "99%"
                 ],
                 "LOC": [
                     "Bay Area"
@@ -5640,10 +5776,16 @@
                     "5"
                 ],
                 "WORK_OF_ART": [
-                    "target=\"_blank\">The List <"
+                    "The List \nThe way homelessness"
                 ],
                 "DATE": [
                     "the last decade"
+                ],
+                "ORG": [
+                    "Need"
+                ],
+                "PERCENT": [
+                    "99%"
                 ]
             }
         },
@@ -5689,9 +5831,20 @@
                     "New York",
                     "California"
                 ],
+                "LAW": [
+                    "Chapter 3:"
+                ],
+                "ORDINAL": [
+                    "First"
+                ],
+                "ORG": [
+                    "Need"
+                ],
                 "CARDINAL": [
-                    "3",
                     "5"
+                ],
+                "PERCENT": [
+                    "99%"
                 ]
             }
         },
@@ -5738,6 +5891,9 @@
                 ],
                 "DATE": [
                     "the beginning of March"
+                ],
+                "ORG": [
+                    "Hotline"
                 ]
             }
         },
@@ -5769,10 +5925,14 @@
             "title": "Chapter 1: Tulicia",
             "entities": {
                 "PERSON": [
-                    "Tulicia"
+                    "Tulicia",
+                    "Tulicia\n"
                 ],
                 "DATE": [
                     "years"
+                ],
+                "LAW": [
+                    "Chapter 1"
                 ]
             }
         },
@@ -5809,11 +5969,14 @@
                 "DATE": [
                     "the last decade"
                 ],
+                "ORG": [
+                    "Need"
+                ],
                 "CARDINAL": [
                     "5"
                 ],
-                "ORG": [
-                    "Need</a></p"
+                "PERCENT": [
+                    "99%"
                 ]
             }
         },
@@ -5844,17 +6007,20 @@
             "pubDate": "Sun, 29 Nov 2020 22:34:20 +0000",
             "title": "According to Need coming December 1",
             "entities": {
+                "ORG": [
+                    "Need"
+                ],
                 "CARDINAL": [
                     "5"
                 ],
-                "GPE": [
-                    "Invisible\u2019s</em"
+                "PERCENT": [
+                    "99%"
                 ],
                 "PERSON": [
                     "Katie Mingle"
                 ],
                 "DATE": [
-                    "Coming December"
+                    "Coming December 1"
                 ]
             }
         },
@@ -5889,10 +6055,13 @@
                     "Emily Anthes"
                 ],
                 "WORK_OF_ART": [
-                    "target=\"_blank\">The Great Indoors: The Surprising Science of How Buildings Shape Our Behaviour, Health and Happiness</a></em"
+                    "The Great Indoors: The Surprising Science of How Buildings Shape Our Behaviour, Health and Happiness",
+                    "The Great Indoors\nShop",
+                    "Invisible Store\n"
                 ],
                 "PERCENT": [
-                    "about 90 percent"
+                    "about 90 percent",
+                    "99%"
                 ]
             }
         },
@@ -5931,9 +6100,9 @@
                 "PERSON": [
                     "Sean Real",
                     "Song Exploder",
-                    "Sean Real.</p",
-                    "Need",
-                    "Buy Sean\u2019s"
+                    "Sean Real",
+                    "Sean Exploder\nPlus",
+                    "Need"
                 ],
                 "GPE": [
                     "Oakland"
@@ -5946,10 +6115,17 @@
                 "DATE": [
                     "99pi to date",
                     "this week",
-                    "December"
+                    "December 1"
                 ],
                 "ORG": [
-                    "Katie Mingle\u2019s"
+                    "Katie Mingle\u2019s",
+                    "Buy Sean\u2019s"
+                ],
+                "PERCENT": [
+                    "the 99%"
+                ],
+                "WORK_OF_ART": [
+                    "Invisible Store\n"
                 ]
             }
         },
@@ -5986,11 +6162,14 @@
                 "DATE": [
                     "almost ten years"
                 ],
-                "ORG": [
-                    "The Unlikely Event</a></p"
+                "WORK_OF_ART": [
+                    "The Unlikely Event\nBuy The"
                 ],
                 "PERCENT": [
                     "99%"
+                ],
+                "GPE": [
+                    "Invisible City"
                 ]
             }
         },
@@ -6031,8 +6210,8 @@
                 "CARDINAL": [
                     "150"
                 ],
-                "WORK_OF_ART": [
-                    "target=\"_blank\">You\u2019ve Got Enron"
+                "PRODUCT": [
+                    "Learn"
                 ]
             }
         },
@@ -6068,10 +6247,16 @@
                     "third"
                 ],
                 "WORK_OF_ART": [
-                    "target=\"_blank\">The Lost Cities of Geo</a></p"
+                    "The Lost Cities of Geo\nBuy"
                 ],
                 "PERCENT": [
-                    "99%"
+                    "The 99%"
+                ],
+                "GPE": [
+                    "Invisible City"
+                ],
+                "DATE": [
+                    "today"
                 ]
             }
         },
@@ -6103,17 +6288,24 @@
             "title": "419- Take a Walk",
             "entities": {
                 "PERCENT": [
-                    "99%",
-                    "The 99%"
+                    "The 99%",
+                    "99%"
+                ],
+                "GPE": [
+                    "Invisible City",
+                    "Invisible City"
                 ],
                 "DATE": [
                     "December",
                     "weeks",
                     "Saturday"
                 ],
+                "ORG": [
+                    "Pop Up Magazine",
+                    "NASA"
+                ],
                 "CARDINAL": [
-                    "dozens",
-                    "target=\"_blank\">Buy"
+                    "dozens"
                 ],
                 "PERSON": [
                     "Jenny Slate",
@@ -6124,11 +6316,8 @@
                     "Sam Jay",
                     "Drew Feustel"
                 ],
-                "ORG": [
-                    "NASA"
-                ],
-                "GPE": [
-                    "Invisible City"
+                "WORK_OF_ART": [
+                    "Take a Walk\nBuy The"
                 ]
             }
         },
@@ -6160,7 +6349,7 @@
             "title": "99pi Presents The Next Billion Users",
             "entities": {
                 "ORG": [
-                    "Google\u2019s Next Billion",
+                    "Google\u2019s Next Billion User Initiative",
                     "Google's",
                     "Next Billion Users"
                 ],
@@ -6169,9 +6358,6 @@
                 ],
                 "ORDINAL": [
                     "first"
-                ],
-                "PERSON": [
-                    "everywhere.</p"
                 ]
             }
         },
@@ -6208,7 +6394,7 @@
                 "ORG": [
                     "the Houston Astros",
                     "The New York Times Bestseller",
-                    "href=\"https://www.radio.com"
+                    "Edge"
                 ],
                 "PERCENT": [
                     "99%"
@@ -6220,7 +6406,7 @@
                     "six"
                 ],
                 "PERSON": [
-                    "Ben Reiter.</em></p"
+                    "Ben Reiter"
                 ]
             }
         },
@@ -6261,10 +6447,13 @@
                     "80s"
                 ],
                 "WORK_OF_ART": [
-                    "the Love of Peat <"
+                    "the Love of Peat \nBuy The"
                 ],
                 "PERCENT": [
                     "99%"
+                ],
+                "GPE": [
+                    "Invisible City"
                 ]
             }
         },
@@ -6295,17 +6484,19 @@
             "pubDate": "Tue, 6 Oct 2020 17:09:37 +0000",
             "title": "416- Exploring The 99% Invisible City",
             "entities": {
-                "PERSON": [
-                    "We're",
-                    "Roman Mars",
-                    "Kurt Kohlstedt"
-                ],
                 "PERCENT": [
                     "99%",
-                    "The 99%"
+                    "99%"
                 ],
                 "GPE": [
-                    "Oakland"
+                    "Invisible City",
+                    "Oakland",
+                    "California",
+                    "Invisible City"
+                ],
+                "PERSON": [
+                    "Roman Mars",
+                    "Kurt Kohlstedt"
                 ]
             }
         },
@@ -6340,10 +6531,14 @@
                     "the New York Public Library"
                 ],
                 "PERSON": [
-                    "Goodnight Moon"
+                    "Goodnight Moon",
+                    "Goodnight Nobody"
                 ],
                 "PERCENT": [
                     "99%"
+                ],
+                "GPE": [
+                    "Invisible City"
                 ]
             }
         },
@@ -6382,10 +6577,16 @@
                     "Mask"
                 ],
                 "WORK_OF_ART": [
-                    "target=\"_blank\">The Address Book: What Street Addresses Reveal About Identity, Race, Wealth"
+                    "The Address Book: What Street Addresses Reveal About Identity, Race, Wealth"
+                ],
+                "ORG": [
+                    "Power"
                 ],
                 "PERCENT": [
                     "99%"
+                ],
+                "GPE": [
+                    "Invisible City"
                 ]
             }
         },
@@ -6419,12 +6620,14 @@
                 "ORG": [
                     "Roman and Kurt"
                 ],
-                "CARDINAL": [
-                    "101.</p",
-                    "101</a></p"
+                "LOC": [
+                    "Highways 101"
                 ],
                 "PERCENT": [
                     "99%"
+                ],
+                "GPE": [
+                    "Invisible City"
                 ]
             }
         },
@@ -6461,7 +6664,8 @@
                 "GPE": [
                     "Charlotte",
                     "North Carolina",
-                    "Houston"
+                    "Houston",
+                    "Invisible City"
                 ],
                 "ORG": [
                     "TX"
@@ -6517,7 +6721,8 @@
                     "One"
                 ],
                 "GPE": [
-                    "France"
+                    "France",
+                    "Invisible City"
                 ]
             }
         },
@@ -6552,13 +6757,15 @@
                     "Winifred Gallagher"
                 ],
                 "ORG": [
-                    "the Post Office"
+                    "How the Post Office Created America",
+                    "The Revolutionary Post"
                 ],
                 "GPE": [
-                    "the United States of America.</p"
+                    "the United States of America",
+                    "Invisible City"
                 ],
                 "DATE": [
-                    "October 2017</p"
+                    "October 2017"
                 ],
                 "PERCENT": [
                     "99%"
@@ -6606,6 +6813,9 @@
                 ],
                 "PERSON": [
                     "Sarah Seo's"
+                ],
+                "WORK_OF_ART": [
+                    "Policing the Open Road"
                 ]
             }
         },
@@ -6642,17 +6852,21 @@
                     "Walter"
                 ],
                 "DATE": [
-                    "eleven years old"
+                    "eleven years old",
+                    "these years"
                 ],
                 "GPE": [
-                    "L.A.",
-                    "california"
+                    "L.A."
                 ],
                 "WORK_OF_ART": [
                     "Scared Straight program for graffiti related crimes"
                 ],
                 "ORG": [
-                    "California Love"
+                    "California Love",
+                    "iTunes"
+                ],
+                "PRODUCT": [
+                    "Subscribe"
                 ]
             }
         },
@@ -6689,7 +6903,8 @@
                 "GPE": [
                     "Madrid",
                     "Spain",
-                    "Spain"
+                    "Spain",
+                    "Invisible City"
                 ],
                 "QUANTITY": [
                     "500 feet"
@@ -6702,6 +6917,7 @@
                     "Franco"
                 ],
                 "LOC": [
+                    "Valley",
                     "Valley",
                     "Valley",
                     "Valley"
@@ -6762,7 +6978,7 @@
                     "one"
                 ],
                 "WORK_OF_ART": [
-                    "target=\"_blank\">The Dolphin that Roared</a></p"
+                    "The Dolphin that Roared\nPlus"
                 ],
                 "ORDINAL": [
                     "first",
@@ -6772,7 +6988,7 @@
                     "99%"
                 ],
                 "ORG": [
-                    "the Hidden World of Everyday"
+                    "the Hidden World of Everyday Design"
                 ],
                 "PRODUCT": [
                     "Roman Mars"
@@ -6815,8 +7031,11 @@
                 "PERSON": [
                     "Marcia Chatelain"
                 ],
+                "LOC": [
+                    "Black America"
+                ],
                 "WORK_OF_ART": [
-                    "target=\"_blank\">Franchise: The Golden Arches"
+                    "Race Traitor"
                 ]
             }
         },
@@ -6869,6 +7088,7 @@
                     "first"
                 ],
                 "ORG": [
+                    "Freedom House Ambulance Service",
                     "Freedom House Ambulance Service"
                 ]
             }
@@ -6902,21 +7122,20 @@
             "entities": {
                 "PERSON": [
                     "George Floyd",
-                    "Juan de O\u00f1ate",
-                    "Foot</a></p"
+                    "Juan de O\u00f1ate"
                 ],
                 "GPE": [
                     "Minneapolis",
                     "New Mexico"
                 ],
                 "DATE": [
-                    "2018"
+                    "2018",
+                    "June"
                 ],
                 "NORP": [
                     "Spanish"
                 ],
                 "ORG": [
-                    "O\u00f1ate",
                     "O\u00f1ate"
                 ]
             }
@@ -6954,7 +7173,9 @@
                     "Japan"
                 ],
                 "PERSON": [
-                    "Chuck E. Cheese"
+                    "Chuck E. Cheese",
+                    "Yokai",
+                    "Yokai"
                 ]
             }
         },
@@ -6997,8 +7218,8 @@
                 "LOC": [
                     "Instagram"
                 ],
-                "WORK_OF_ART": [
-                    "target=\"_blank\">Instant Grammification</a></p>\n"
+                "ORG": [
+                    "Instant Grammification"
                 ]
             }
         },
@@ -7033,11 +7254,12 @@
                     "this day",
                     "2018"
                 ],
-                "WORK_OF_ART": [
-                    "target=\"_blank\">Articles of Interest</a></em>"
-                ],
                 "ORG": [
+                    "Articles of Interest",
                     "Avery Trufelman"
+                ],
+                "PERCENT": [
+                    "99%"
                 ]
             }
         },
@@ -7071,14 +7293,15 @@
                 "PERSON": [
                     "DeBeers"
                 ],
-                "WORK_OF_ART": [
-                    "target=\"_blank\">Articles of Interest</a></em>"
+                "ORG": [
+                    "Articles of Interest",
+                    "Avery Trufelman"
+                ],
+                "PERCENT": [
+                    "99%"
                 ],
                 "DATE": [
                     "2018"
-                ],
-                "ORG": [
-                    "Avery Trufelman"
                 ]
             }
         },
@@ -7118,14 +7341,16 @@
                 "GPE": [
                     "London"
                 ],
-                "WORK_OF_ART": [
-                    "target=\"_blank\">Articles of Interest</a></em>"
-                ],
                 "DATE": [
+                    "the 1770s",
                     "2018"
                 ],
                 "ORG": [
+                    "Articles of Interest",
                     "Avery Trufelman"
+                ],
+                "PERCENT": [
+                    "99%"
                 ]
             }
         },
@@ -7156,14 +7381,15 @@
             "pubDate": "Tue, 19 May 2020 22:20:10 +0000",
             "title": "Perfume: Articles of Interest #9",
             "entities": {
-                "WORK_OF_ART": [
-                    "target=\"_blank\">Articles of Interest</a></em>"
+                "ORG": [
+                    "Articles of Interest",
+                    "Avery Trufelman"
+                ],
+                "PERCENT": [
+                    "99%"
                 ],
                 "DATE": [
                     "2018"
-                ],
-                "ORG": [
-                    "Avery Trufelman"
                 ]
             }
         },
@@ -7201,14 +7427,15 @@
                 "PERSON": [
                     "Dapper Dan"
                 ],
-                "WORK_OF_ART": [
-                    "target=\"_blank\">Articles of Interest</a></em>"
+                "ORG": [
+                    "Articles of Interest",
+                    "Avery Trufelman"
+                ],
+                "PERCENT": [
+                    "99%"
                 ],
                 "DATE": [
                     "2018"
-                ],
-                "ORG": [
-                    "Avery Trufelman"
                 ]
             }
         },
@@ -7251,11 +7478,12 @@
                     "almost 40 years later",
                     "2018"
                 ],
-                "WORK_OF_ART": [
-                    "target=\"_blank\">Articles of Interest</a></em>"
-                ],
                 "ORG": [
+                    "Articles of Interest",
                     "Avery Trufelman"
+                ],
+                "PERCENT": [
+                    "99%"
                 ]
             }
         },
@@ -7327,8 +7555,8 @@
                     "COVID",
                     "McKinnell",
                     "Boston City Hall",
-                    "Boston City Hall.</p",
-                    "the Village Voice"
+                    "the Village Voice",
+                    "The Smell of Concrete After Rain\n"
                 ],
                 "DATE": [
                     "today",
@@ -7350,6 +7578,7 @@
                     "Sorkin"
                 ],
                 "FAC": [
+                    "Boston City Hall",
                     "Boston City Hall"
                 ],
                 "GPE": [
@@ -7357,9 +7586,6 @@
                 ],
                 "PRODUCT": [
                     "Roman Mars"
-                ],
-                "WORK_OF_ART": [
-                    "target=\"_blank\">The Smell of Concrete After Rain</a></p>\n"
                 ]
             }
         },
@@ -7408,11 +7634,11 @@
                 "DATE": [
                     "the past 17 years"
                 ],
-                "WORK_OF_ART": [
-                    "target=\"_blank\">Masking for a Friend</a></p>\n<p"
+                "ORG": [
+                    "Friend"
                 ],
                 "PERCENT": [
-                    "99%"
+                    "The 99%"
                 ]
             }
         },
@@ -7443,6 +7669,9 @@
             "pubDate": "Tue, 14 Apr 2020 23:37:37 +0000",
             "title": "398- Unsheltered in Place",
             "entities": {
+                "PERCENT": [
+                    "99%"
+                ],
                 "PERSON": [
                     "Katie Mingle"
                 ],
@@ -7490,6 +7719,9 @@
             "entities": {
                 "DATE": [
                     "the last few weeks"
+                ],
+                "WORK_OF_ART": [
+                    "Wipe Out \n"
                 ]
             }
         },
@@ -7521,7 +7753,8 @@
             "title": "396- This Day in Esoteric Political History",
             "entities": {
                 "ORG": [
-                    "Radiotopia"
+                    "Radiotopia",
+                    "Apple Podcasts"
                 ],
                 "PERSON": [
                     "Jody Avirgan",
@@ -7530,6 +7763,11 @@
                 ],
                 "GPE": [
                     "U.S."
+                ],
+                "DATE": [
+                    "a tumultuous year",
+                    "This Day",
+                    "This Day"
                 ],
                 "PERCENT": [
                     "99%"
@@ -7540,10 +7778,8 @@
                 "CARDINAL": [
                     "two"
                 ],
-                "DATE": [
-                    "This Day",
-                    "target=\"_blank\">This Day",
-                    "this-day-in-esoteric"
+                "PRODUCT": [
+                    "Subscribe"
                 ]
             }
         },
@@ -7589,8 +7825,7 @@
                     "Alaska"
                 ],
                 "CARDINAL": [
-                    "one",
-                    "target=\"_blank\">Buy"
+                    "one"
                 ]
             }
         },
@@ -7627,11 +7862,15 @@
                 "NORP": [
                     "Roman"
                 ],
-                "WORK_OF_ART": [
-                    "target=\"_blank\">Beauty Pill Describes Things As They Are</a>"
+                "PERSON": [
+                    "Buy Beauty Pill Describes Things As They Are"
                 ],
-                "GPE": [
-                    "Bandcamp</a"
+                "PRODUCT": [
+                    "Beauty Pill",
+                    "Roman Mars Describes Things As They Are\n"
+                ],
+                "ORG": [
+                    "Bandcamp"
                 ]
             }
         },
@@ -7661,7 +7900,11 @@
             "link": "https://99percentinvisible.org",
             "pubDate": "Wed, 11 Mar 2020 00:14:57 +0000",
             "title": "393- Map Quests: Political, Physical and Digital",
-            "entities": {}
+            "entities": {
+                "PERSON": [
+                    "Map Quests"
+                ]
+            }
         },
         {
             "author": "roman@99pi.org (Roman Mars)",
@@ -7690,12 +7933,14 @@
             "pubDate": "Tue, 3 Mar 2020 22:27:59 +0000",
             "title": "392- The Weather Machine",
             "entities": {
+                "WORK_OF_ART": [
+                    "The Weather Machine"
+                ],
                 "PERSON": [
-                    "The Weather Machine</em>",
                     "Andrew Blum"
                 ],
-                "WORK_OF_ART": [
-                    "target=\"_blank\">The Weather Machine</a></p>\n"
+                "ORG": [
+                    "The Weather Machine"
                 ]
             }
         },
@@ -7744,7 +7989,8 @@
                     "eight"
                 ],
                 "ORG": [
-                    "ELD"
+                    "ELD",
+                    "OvertheRoad.fm"
                 ],
                 "PERSON": [
                     "Marhoefer"
@@ -7785,13 +8031,15 @@
                     "Nazi",
                     "Nazi",
                     "Nazi",
-                    "Germans"
+                    "Germans",
+                    "Nazis"
                 ],
                 "DATE": [
                     "Today"
                 ],
                 "GPE": [
-                    "Germany"
+                    "Germany",
+                    "Fraktur"
                 ],
                 "ORG": [
                     "Neo-Nazi"
@@ -7832,22 +8080,20 @@
                     "decades",
                     "About ten years ago"
                 ],
+                "CARDINAL": [
+                    "one"
+                ],
                 "PERSON": [
-                    "really</em",
                     "Ben Sisto",
                     "Keith",
                     "Ben"
-                ],
-                "CARDINAL": [
-                    "one"
                 ],
                 "GPE": [
                     "Wikipedia",
                     "England"
                 ],
                 "WORK_OF_ART": [
-                    "Keith",
-                    "target=\"_blank\">Whomst Among Us Has Let The Dogs Out</a></p"
+                    "Keith"
                 ],
                 "ORG": [
                     "the Baha Men"
@@ -7888,7 +8134,7 @@
                     "Steve Higashide"
                 ],
                 "ORG": [
-                    "Better Busses Better Cities</em"
+                    "Better Busses Better Cities"
                 ]
             }
         },
@@ -7922,16 +8168,22 @@
                 "ORG": [
                     "the National Museum of American History\u2019s",
                     "E.T. the Extra-Terrestrial",
-                    "Worst Video Game"
+                    "Apple Podcasts",
+                    "RadioPublic",
+                    "The Worst Video Game Ever"
                 ],
                 "PRODUCT": [
-                    "Atari"
+                    "Atari",
+                    "Subscribe"
                 ],
                 "PERSON": [
                     "Steven Spielberg"
                 ],
                 "NORP": [
                     "American"
+                ],
+                "DATE": [
+                    "the early 1980s"
                 ]
             }
         },
@@ -7962,6 +8214,7 @@
             "title": "386- Their Dark Materials",
             "entities": {
                 "ORG": [
+                    "Vantablack",
                     "Vantablack"
                 ],
                 "GPE": [
@@ -8037,11 +8290,10 @@
             "entities": {
                 "CARDINAL": [
                     "2",
-                    "8</a></p"
+                    "8"
                 ],
                 "DATE": [
-                    "2019- 2020",
-                    "centuries"
+                    "2019- 2020"
                 ],
                 "ORDINAL": [
                     "99pi"
@@ -8079,10 +8331,12 @@
                     "the end of the year",
                     "annual",
                     "two months",
-                    "This week"
+                    "This week",
+                    "today"
                 ],
                 "CARDINAL": [
-                    "99pi"
+                    "99pi",
+                    "7"
                 ]
             }
         },
@@ -8115,13 +8369,18 @@
             "entities": {
                 "PERSON": [
                     "Smart Stuff",
-                    "Justin McElroy",
-                    "Roman Mars.</p"
+                    "Justin McElroy"
                 ],
                 "ORG": [
                     "Justin",
                     "Roman",
                     "the Max Fun Network"
+                ],
+                "PRODUCT": [
+                    "Roman Mars"
+                ],
+                "DATE": [
+                    "today"
                 ]
             }
         },
@@ -8157,14 +8416,14 @@
                     "Weizenbaum"
                 ],
                 "DATE": [
-                    "the 1960s"
+                    "the 1960s",
+                    "today"
                 ],
                 "ORG": [
                     "MIT",
                     "ELIZA",
                     "ELIZA",
-                    "Weizenbaum",
-                    "ELIZA"
+                    "Weizenbaum"
                 ],
                 "CARDINAL": [
                     "one"
@@ -8202,13 +8461,18 @@
             "title": "381- The Infantorium",
             "entities": {
                 "DATE": [
-                    "the turn of the 20th century"
+                    "the turn of the 20th century",
+                    "forty years",
+                    "today"
                 ],
                 "PERSON": [
                     "Lauren Rabinowitz"
                 ],
                 "GPE": [
                     "America"
+                ],
+                "ORG": [
+                    "The Infantorium\nMake"
                 ]
             }
         },
@@ -8240,7 +8504,8 @@
             "title": "380- Mannequin Pixie Dream Girl",
             "entities": {
                 "DATE": [
-                    "the 1930s"
+                    "the 1930s",
+                    "today"
                 ],
                 "PERSON": [
                     "Lester Gaba",
@@ -8254,7 +8519,8 @@
                 ],
                 "ORG": [
                     "Life Magazine",
-                    "Gaba Girls"
+                    "Gaba Girls",
+                    "Mannequin Pixie Dream Girl"
                 ]
             }
         },
@@ -8298,6 +8564,12 @@
                 "FAC": [
                     "Faye Dunaway",
                     "La La Land/Moonlight"
+                ],
+                "GPE": [
+                    "Cautionary Tales"
+                ],
+                "ORG": [
+                    "Apple Podcasts"
                 ]
             }
         },
@@ -8327,7 +8599,11 @@
             "link": "https://99percentinvisible.org",
             "pubDate": "Wed, 13 Nov 2019 00:26:10 +0000",
             "title": "378- Ubiquitous Icons: Peace, Power, and Happiness",
-            "entities": {}
+            "entities": {
+                "ORG": [
+                    "Happiness"
+                ]
+            }
         },
         {
             "author": "roman@99pi.org (Roman Mars)",
@@ -8359,11 +8635,12 @@
                 "GPE": [
                     "New Mexico"
                 ],
-                "PERSON": [
-                    "Rose Eveleth\u2019s"
+                "PRODUCT": [
+                    "Flash Forward"
                 ],
                 "ORG": [
-                    "Forward</a"
+                    "Apple Podcasts or",
+                    "RadioPublic"
                 ]
             }
         },
@@ -8399,12 +8676,6 @@
                 ],
                 "FAC": [
                     "the Suez Canal"
-                ],
-                "PERSON": [
-                    "war.</p"
-                ],
-                "WORK_OF_ART": [
-                    "target=\"_blank\">Great Bitter Lake Association</a></p"
                 ]
             }
         },
@@ -8441,7 +8712,8 @@
                 "ORG": [
                     "the Guggenheim Museum",
                     "the Guggenheim Museum",
-                    "the Imperfections of a Perfect Masterpiece</a></p"
+                    "Audio Guide",
+                    "the Imperfections of a Perfect Masterpiece"
                 ],
                 "PERCENT": [
                     "99%"
@@ -8451,6 +8723,9 @@
                 ],
                 "PERSON": [
                     "Frank Lloyd Wright"
+                ],
+                "DATE": [
+                    "the decades"
                 ]
             }
         },
@@ -8533,6 +8808,9 @@
                 "PERSON": [
                     "Thomas Story Kirkbride",
                     "Kirkbride"
+                ],
+                "LAW": [
+                    "The Kirkbride Plan\n"
                 ]
             }
         },
@@ -8568,12 +8846,11 @@
                     "DIY"
                 ],
                 "PERSON": [
-                    "Gordon Douglas",
-                    "incredibly</em"
+                    "Gordon Douglas"
                 ],
                 "WORK_OF_ART": [
                     "The Help Yourself City",
-                    "target=\"_blank\">The Help-Yourself City</a></p>\n"
+                    "The Help-Yourself City\n"
                 ]
             }
         },
@@ -8609,14 +8886,14 @@
                     "Elizabeth Joh",
                     "Davis",
                     "Con Law",
-                    "Con Law</em>",
-                    "Con Law</em",
+                    "Con Law",
                     "Con Law"
                 ],
                 "DATE": [
                     "977 days ago",
                     "June of 2017",
-                    "monthly"
+                    "monthly",
+                    "the day"
                 ],
                 "GPE": [
                     "Washington DC",
@@ -8629,13 +8906,18 @@
                 ],
                 "ORG": [
                     "Trump",
-                    "Trump"
+                    "Trump",
+                    "Apple Podcasts",
+                    "RadioPublic"
                 ],
                 "LAW": [
                     "the US Constitution"
                 ],
                 "ORDINAL": [
                     "99pi"
+                ],
+                "PRODUCT": [
+                    "Subscribe"
                 ]
             }
         },
@@ -8671,8 +8953,7 @@
                     "Alaska"
                 ],
                 "PERSON": [
-                    "Diane McEachern",
-                    "Cars</a></p"
+                    "Diane McEachern"
                 ],
                 "ORG": [
                     "Bethel",
@@ -8680,6 +8961,9 @@
                 ],
                 "DATE": [
                     "about 20 years"
+                ],
+                "WORK_OF_ART": [
+                    "Passenger List"
                 ]
             }
         },
@@ -8717,6 +9001,9 @@
                 ],
                 "CARDINAL": [
                     "three"
+                ],
+                "GPE": [
+                    "the Stream Redux"
                 ]
             }
         },
@@ -8747,14 +9034,8 @@
             "pubDate": "Wed, 4 Sep 2019 00:23:15 +0000",
             "title": "369- Wait Wait...Tell Me!",
             "entities": {
-                "PERSON": [
-                    "design</em"
-                ],
                 "TIME": [
                     "five minute"
-                ],
-                "WORK_OF_ART": [
-                    "target=\"_blank\">Wait Wait..."
                 ]
             }
         },
@@ -8835,8 +9116,8 @@
                     "\u201880s",
                     "Decades later"
                 ],
-                "PERSON": [
-                    "target=\"_blank\">Peace Lines</a></p"
+                "ORG": [
+                    "Peace Lines"
                 ]
             }
         },
@@ -8873,29 +9154,27 @@
                 ],
                 "DATE": [
                     "the late 1930s",
-                    "two years"
+                    "two years",
+                    "almost 80 years"
                 ],
                 "CARDINAL": [
                     "300",
-                    "6,000",
-                    "almost 80"
+                    "6,000"
                 ],
                 "GPE": [
-                    "the City of San Francisco"
+                    "the City of San Francisco",
+                    "Model City"
                 ],
                 "ORG": [
                     "This Works Progress Administration",
                     "WPA"
-                ],
-                "NORP": [
-                    "City</a></p"
                 ],
                 "PERSON": [
                     "Nikki Silva",
                     "Davia Nelson",
                     "Nathan Dalton",
                     "Brandi Howell",
-                    "Jim McKee</p"
+                    "Jim McKee"
                 ]
             }
         },
@@ -8971,12 +9250,14 @@
                     "Dan",
                     "Lu Stevenson",
                     "Buddha",
-                    "Dan",
-                    "Neutral</a></p"
+                    "Dan"
                 ],
                 "ORG": [
                     "Criminal",
-                    "target=\"_blank\">He"
+                    "RadioPublic"
+                ],
+                "WORK_OF_ART": [
+                    "He\u2019s Still Neutral\nSubscribe"
                 ]
             }
         },
@@ -9008,11 +9289,14 @@
             "title": "363- Invisible Women",
             "entities": {
                 "PERSON": [
-                    "Caroline Criado Perez",
-                    "Men</a></em"
+                    "Caroline Criado Perez"
+                ],
+                "ORG": [
+                    "Invisible Women: Data Bias",
+                    "Invisible Women"
                 ],
                 "WORK_OF_ART": [
-                    "target=\"_blank\">Invisible Women: Data Bias"
+                    "World Designed for Men"
                 ]
             }
         },
@@ -9048,6 +9332,9 @@
                 ],
                 "DATE": [
                     "decades"
+                ],
+                "ORG": [
+                    "Goodness Gracious Great Balls of Twine"
                 ]
             }
         },
@@ -9078,24 +9365,25 @@
             "pubDate": "Tue, 9 Jul 2019 21:25:15 +0000",
             "title": "361- Built on Sand",
             "entities": {
+                "ORG": [
+                    "Sand",
+                    "Sand",
+                    "the Carbon Leadership Forum",
+                    "the University of Washington",
+                    "Sand"
+                ],
                 "WORK_OF_ART": [
-                    "The World"
+                    "The World in a Grain"
                 ],
                 "PERSON": [
                     "Vince Beiser",
                     "Kate Simonen"
                 ],
-                "ORG": [
-                    "Sand",
-                    "the Carbon Leadership Forum",
-                    "the University of Washington"
-                ],
                 "LOC": [
                     "Earth"
                 ],
                 "NORP": [
-                    "Roman",
-                    "target=\"_blank\">Built"
+                    "Roman"
                 ]
             }
         },
@@ -9132,7 +9420,7 @@
                     "Andrew"
                 ],
                 "WORK_OF_ART": [
-                    "href=\"https://99percentinvisible.org/?post_type=episode&p=28974"
+                    "The Universal Page"
                 ]
             }
         },
@@ -9164,6 +9452,7 @@
             "entities": {
                 "GPE": [
                     "Singapore",
+                    "Singapore",
                     "Singapore"
                 ],
                 "DATE": [
@@ -9172,13 +9461,11 @@
                 ],
                 "ORG": [
                     "the Housing and Development Board",
-                    "HDB"
+                    "HDB",
+                    "Life and Death"
                 ],
                 "CARDINAL": [
                     "400,000"
-                ],
-                "WORK_OF_ART": [
-                    "target=\"_blank\">Life and Death in Singapore</a></p>\n"
                 ]
             }
         },
@@ -9209,10 +9496,18 @@
             "title": "358- The Anthropocene Reviewed",
             "entities": {
                 "PERSON": [
-                    "Anthropocene Reviewed</a>",
+                    "Anthropocene",
                     "John Green",
                     "John Green",
                     "John"
+                ],
+                "ORG": [
+                    "The Anthropocene Reviewed",
+                    "The Anthropocene Reviewed",
+                    "Piggly Wiggly",
+                    "Taco Bell",
+                    "The Anthropocene Reviewed",
+                    "RadioPublic"
                 ],
                 "CARDINAL": [
                     "five",
@@ -9225,14 +9520,11 @@
                 "PERCENT": [
                     "99%"
                 ],
-                "ORG": [
-                    "The Anthropocene Reviewed",
-                    "Piggly Wiggly",
-                    "Taco Bell",
-                    "The Anthropocene Reviewed"
-                ],
                 "NORP": [
                     "Roman"
+                ],
+                "WORK_OF_ART": [
+                    "The Anthropocene Reviewed\nSubscribe"
                 ]
             }
         },
@@ -9272,7 +9564,8 @@
                 ],
                 "ORG": [
                     "NBA",
-                    "the Toronto Raptors"
+                    "the Toronto Raptors",
+                    "The Barney Design Redux"
                 ],
                 "DATE": [
                     "last year",
@@ -9283,9 +9576,6 @@
                 ],
                 "NORP": [
                     "Torontonian"
-                ],
-                "WORK_OF_ART": [
-                    "target=\"_blank\">The Barney Design Redux</a></p"
                 ]
             }
         },
@@ -9316,7 +9606,11 @@
             "title": "356- The Automat",
             "entities": {
                 "ORG": [
-                    "Horn & Hardart Automat"
+                    "Horn & Hardart Automat",
+                    "The Automat\nPlus"
+                ],
+                "DATE": [
+                    "today"
                 ]
             }
         },
@@ -9348,6 +9642,9 @@
             "entities": {
                 "GPE": [
                     "Mexico City"
+                ],
+                "PRODUCT": [
+                    "Depave Paradise\n"
                 ]
             }
         },
@@ -9378,19 +9675,20 @@
             "title": "Sound and Health: Hospitals",
             "entities": {
                 "PERSON": [
-                    "Joel Beckerman",
-                    "terrible</em"
+                    "Joel Beckerman"
                 ],
                 "WORK_OF_ART": [
-                    "Man Made Music",
-                    "target=\"_blank\">Sound and Health: Hospitals</a></p>\n<p"
+                    "Man Made Music"
                 ],
                 "CARDINAL": [
                     "two",
                     "two"
                 ],
                 "ORG": [
-                    "Wood Johnson Foundation"
+                    "the Robert Wood Johnson Foundation"
+                ],
+                "PRODUCT": [
+                    "Learn"
                 ]
             }
         },
@@ -9423,20 +9721,20 @@
                 "ORG": [
                     "Gothic",
                     "Gothic",
-                    "Sagrada Familia"
+                    "La Sagrada Familia"
                 ],
                 "GPE": [
-                    "Spain"
+                    "Spain",
+                    "n\u2019t"
                 ],
                 "PERSON": [
                     "Gothic",
-                    "Gaud\u00ed",
-                    "Sagrada Familia</a></p"
+                    "Gaud\u00ed"
                 ],
                 "DATE": [
                     "1926",
                     "the last 40 years",
-                    "October 2017</p"
+                    "October 2017"
                 ],
                 "NORP": [
                     "Gaud\u00ed"
@@ -9476,10 +9774,10 @@
                     "two"
                 ],
                 "ORG": [
-                    "Wood Johnson Foundation"
+                    "the Robert Wood Johnson Foundation"
                 ],
-                "WORK_OF_ART": [
-                    "target=\"_blank\">Sound and Health: Cities</a></p>\n<p"
+                "PRODUCT": [
+                    "Learn"
                 ]
             }
         },
@@ -9514,7 +9812,9 @@
                     "1989"
                 ],
                 "ORG": [
-                    "the San Francisco Public Library"
+                    "the San Francisco Public Library",
+                    "Apple Podcasts",
+                    "RadioPublic"
                 ],
                 "WORK_OF_ART": [
                     "The Pack Horse Librarians Of Eastern Kentucky"
@@ -9560,14 +9860,13 @@
                     "Bombay"
                 ],
                 "NORP": [
-                    "Indian",
-                    "movies.</p"
+                    "Indian"
                 ],
                 "CARDINAL": [
                     "two"
                 ],
-                "ORG": [
-                    "Love</a></p"
+                "WORK_OF_ART": [
+                    "Love"
                 ]
             }
         },
@@ -9617,6 +9916,9 @@
                 ],
                 "LOC": [
                     "Central Park"
+                ],
+                "PERSON": [
+                    "Uptown Squirrel"
                 ]
             }
         },
@@ -9660,8 +9962,8 @@
                 "CARDINAL": [
                     "two"
                 ],
-                "WORK_OF_ART": [
-                    "target=\"_blank\">Play Mountain</a></p>\n"
+                "LOC": [
+                    "Play Mountain\n"
                 ]
             }
         },
@@ -9691,17 +9993,18 @@
             "pubDate": "Tue, 16 Apr 2019 22:50:46 +0000",
             "title": "350- The Roman Mars Mazda Virus",
             "entities": {
+                "ORG": [
+                    "Gimlet\u2019s Reply",
+                    "Mazda",
+                    "Reply",
+                    "Mazda",
+                    "The Roman Mars Mazda Virus"
+                ],
                 "DATE": [
                     "years"
                 ],
                 "PERCENT": [
                     "99%"
-                ],
-                "ORG": [
-                    "Mazda"
-                ],
-                "PRODUCT": [
-                    "Roman Mars Mazda"
                 ]
             }
         },
@@ -9738,7 +10041,8 @@
                     "Freidrich Froebel",
                     "Froebel",
                     "Friedrich Froebel",
-                    "Modernist"
+                    "Modernist",
+                    "Froebel"
                 ]
             }
         },
@@ -9777,8 +10081,14 @@
                 "CARDINAL": [
                     "three"
                 ],
-                "WORK_OF_ART": [
-                    "target=\"_blank\">50 Things That Made The Modern Economy</a"
+                "PRODUCT": [
+                    "Subscribe"
+                ],
+                "NORP": [
+                    "iTunes"
+                ],
+                "ORG": [
+                    "RadioPublic"
                 ]
             }
         },
@@ -9809,13 +10119,13 @@
             "title": "347- The Many Deaths of a Painting",
             "entities": {
                 "PERSON": [
-                    "Barnett Newman\u2019s"
+                    "Barnett Newman"
                 ],
                 "GPE": [
                     "Stedelijk"
                 ],
-                "WORK_OF_ART": [
-                    "target=\"_blank\">The Many Deaths of a Painting</a></p"
+                "PRODUCT": [
+                    "The Many Deaths"
                 ]
             }
         },
@@ -9849,7 +10159,8 @@
                     "Social Infrastructure",
                     "Avery Trufelman\u2019s",
                     "AOI",
-                    "Thanks!</p"
+                    "Apple Podcasts",
+                    "RadioPublic"
                 ],
                 "PERSON": [
                     "Eric Klinenberg"
@@ -9882,13 +10193,17 @@
             "pubDate": "Tue, 12 Mar 2019 19:46:05 +0000",
             "title": "345- Classic Cartoon Sound Effects!",
             "entities": {
+                "ORG": [
+                    "Cartoon",
+                    "Apple Podcasts",
+                    "RadioPublic"
+                ],
                 "DATE": [
                     "decades ago"
                 ],
                 "CARDINAL": [
-                    "target=\"_blank\">Twenty Thousand",
-                    "Twenty Thousand Hertz",
-                    "twenty-thousand-hertz"
+                    "Twenty Thousand",
+                    "Twenty Thousand Hertz"
                 ]
             }
         },
@@ -9920,7 +10235,8 @@
             "entities": {
                 "WORK_OF_ART": [
                     "the Tomb of the Unknowns",
-                    "the Tomb of the Unknowns"
+                    "the Tomb of the Unknowns",
+                    "The Known Unknown\n"
                 ],
                 "DATE": [
                     "only about a century",
@@ -9970,8 +10286,14 @@
                 "NORP": [
                     "Americans"
                 ],
-                "ORG": [
-                    "246 & 247</p"
+                "DATE": [
+                    "this day"
+                ],
+                "FAC": [
+                    "Usonia Redux"
+                ],
+                "CARDINAL": [
+                    "246"
                 ]
             }
         },
@@ -10002,20 +10324,21 @@
             "title": "342- Beneath the Ballpark",
             "entities": {
                 "DATE": [
-                    "the 1950s"
+                    "the 1950s",
+                    "decades"
                 ],
                 "GPE": [
                     "Los Angeles",
                     "Los Angeles's",
                     "L.A.",
-                    "LA"
+                    "LA",
+                    "Ballpark"
                 ],
                 "ORG": [
                     "Angelenos"
                 ],
                 "PERSON": [
-                    "Chavez Ravine",
-                    "decades.</p"
+                    "Chavez Ravine"
                 ],
                 "NORP": [
                     "Mexican",
@@ -10053,15 +10376,12 @@
                     "U.S.",
                     "U.S.",
                     "China",
+                    "China",
                     "China"
                 ],
                 "ORG": [
                     "a Materials Recovery Facility",
-                    "MRF",
-                    "Sword</a></p"
-                ],
-                "PERSON": [
-                    "many</em"
+                    "MRF"
                 ],
                 "DATE": [
                     "2001",
@@ -10102,8 +10422,8 @@
                     "99%"
                 ],
                 "WORK_OF_ART": [
-                    "The Secret Lives of Color</em",
-                    "target=\"_blank\">The Secret Lives of Color</a></p"
+                    "The Secret Lives of Color",
+                    "The Secret Lives of Color\n"
                 ],
                 "ORG": [
                     "Kassia St. Clair"
@@ -10141,11 +10461,12 @@
                 ],
                 "PERSON": [
                     "Douglas",
-                    "Douglas",
-                    "many</em"
+                    "Douglas"
                 ],
                 "ORG": [
-                    "AZ"
+                    "AZ",
+                    "the Sinaloa Cartel",
+                    "Tunnel"
                 ],
                 "GPE": [
                     "Mexico"
@@ -10185,13 +10506,17 @@
                     "Santa Barbara",
                     "California"
                 ],
-                "PERSON": [
-                    "target=\"_blank\">Crude Habitat</a></p",
-                    "target=\"_blank\">Autodesk Foundation</a",
-                    "Autodesk"
-                ],
                 "ORG": [
-                    "Invisible\u2019s Impact Design"
+                    "Crude Habitat",
+                    "Invisible\u2019s Impact Design",
+                    "The Autodesk Foundation",
+                    "Autodesk's RedShift"
+                ],
+                "PERCENT": [
+                    "99%"
+                ],
+                "PERSON": [
+                    "Autodesk"
                 ]
             }
         },
@@ -10234,7 +10559,8 @@
                     "Operation Tat-Type"
                 ],
                 "PERSON": [
-                    "Liza Yeager's"
+                    "Liza Yeager's",
+                    "Atomic Tattoos"
                 ]
             }
         },
@@ -10264,6 +10590,9 @@
             "pubDate": "Wed, 9 Jan 2019 00:29:48 +0000",
             "title": "336- Mini-Stories: Volume 6",
             "entities": {
+                "PERCENT": [
+                    "99%"
+                ],
                 "DATE": [
                     "year",
                     "2019"
@@ -10278,6 +10607,9 @@
                 ],
                 "QUANTITY": [
                     "50-foot"
+                ],
+                "CARDINAL": [
+                    "6"
                 ]
             }
         },
@@ -10312,10 +10644,18 @@
                 ],
                 "PERSON": [
                     "Eric Molinsky",
-                    "Imaginary Worlds"
+                    "Worlds",
+                    "Worlds"
                 ],
                 "LOC": [
                     "Coast"
+                ],
+                "PRODUCT": [
+                    "Subscribe"
+                ],
+                "ORG": [
+                    "Apple Podcasts",
+                    "RadioPublic"
                 ]
             }
         },
@@ -10353,10 +10693,17 @@
                 ],
                 "ORG": [
                     "Radiotopia",
-                    "The Allusionist on <"
+                    "The Allusionist on Apple Podcasts",
+                    "RadioPublic"
+                ],
+                "NORP": [
+                    "Allusionist"
                 ],
                 "PERSON": [
                     "Helen Zaltzman"
+                ],
+                "PRODUCT": [
+                    "Subscribe"
                 ]
             }
         },
@@ -10390,15 +10737,18 @@
                     "the end of 2018",
                     "the year",
                     "two months",
-                    "This week"
+                    "This week",
+                    "Christmas",
+                    "today"
                 ],
                 "PERSON": [
-                    "Mini"
+                    "Mini",
+                    "Radiotopia"
                 ],
                 "CARDINAL": [
                     "99pi",
                     "60s",
-                    "5</a></p"
+                    "5"
                 ]
             }
         },
@@ -10429,7 +10779,9 @@
             "title": "Bonus Episode- Avery talks Articles of Interest with Roman",
             "entities": {
                 "ORG": [
-                    "Avery"
+                    "Avery",
+                    "Articles of Interest",
+                    "Radiotopia"
                 ]
             }
         },
@@ -10466,10 +10818,13 @@
                     "first"
                 ],
                 "PERSON": [
-                    "Victor Gruen.</p"
+                    "Victor Gruen"
                 ],
                 "WORK_OF_ART": [
-                    "target=\"_blank\">The Accidental Room</a></p>\n<p>Subscribe to Vanessa Lowe\u2019s <a href=\"https://nocturnepodcast.org/"
+                    "The Accidental Room\nSubscribe"
+                ],
+                "ORG": [
+                    "Radiotopia"
                 ]
             }
         },
@@ -10512,7 +10867,11 @@
                     "O\u00f1ate",
                     "O\u00f1ate",
                     "O\u00f1ate",
-                    "the Center for Investigative Reporting"
+                    "O\u00f1ate\u2019s",
+                    "Reveal",
+                    "the Center for Investigative Reporting",
+                    "PRX",
+                    "Radiotopia"
                 ],
                 "QUANTITY": [
                     "one foot"
@@ -10521,9 +10880,6 @@
                     "1998",
                     "years",
                     "2018"
-                ],
-                "WORK_OF_ART": [
-                    "target=\"_blank\">O\u00f1ate\u2019s Foot</a></p"
                 ]
             }
         },
@@ -10563,11 +10919,8 @@
                     "bin",
                     "Amy Dempsey"
                 ],
-                "CARDINAL": [
-                    "target=\"_blank\">Raccoon"
-                ],
-                "ORG": [
-                    "RADIOTOPIA"
+                "EVENT": [
+                    "Raccoon Resistance"
                 ]
             }
         },
@@ -10603,7 +10956,9 @@
                 ],
                 "ORG": [
                     "the Green Book",
-                    "the Negro Motorists\u2019 Travel Guide"
+                    "the Negro Motorists\u2019 Travel Guide",
+                    "Apple Podcasts or",
+                    "Radio Public"
                 ],
                 "ORDINAL": [
                     "first"
@@ -10619,9 +10974,6 @@
                 ],
                 "PERSON": [
                     "Nate DiMeo"
-                ],
-                "PRODUCT": [
-                    "target=\"_blank\">The Green Book</a></p"
                 ]
             }
         },
@@ -10660,11 +11012,12 @@
                 "MONEY": [
                     "billions of dollars"
                 ],
-                "CARDINAL": [
-                    "em><a"
+                "WORK_OF_ART": [
+                    "An Arm and a Leg by"
                 ],
                 "PERSON": [
-                    "Dan Weissmann</p>"
+                    "Dan Weissmann",
+                    "Orphan Drugs"
                 ]
             }
         },
@@ -10712,7 +11065,8 @@
                     "one"
                 ],
                 "ORG": [
-                    "the Langley Schools Music Project LP"
+                    "the Langley Schools Music Project LP",
+                    "Devolutionary Design"
                 ]
             }
         },
@@ -10742,13 +11096,17 @@
             "pubDate": "Wed, 31 Oct 2018 02:43:49 +0000",
             "title": "327- A Year in the Dark",
             "entities": {
+                "TIME": [
+                    "the morning of"
+                ],
                 "DATE": [
                     "September 20th, 2017",
-                    "about the almost year-long"
+                    "1932",
+                    "about the almost year-long",
+                    "A Year"
                 ],
                 "CARDINAL": [
-                    "four",
-                    "1932.</p"
+                    "four"
                 ],
                 "PERSON": [
                     "Maria",
@@ -10760,9 +11118,6 @@
                 ],
                 "NORP": [
                     "Puerto Rican"
-                ],
-                "WORK_OF_ART": [
-                    "target=\"_blank\">A Year"
                 ]
             }
         },
@@ -10791,7 +11146,11 @@
             "link": "https://99percentinvisible.org",
             "pubDate": "Tue, 23 Oct 2018 23:56:10 +0000",
             "title": "326- Welcome to Jurassic Art",
-            "entities": {}
+            "entities": {
+                "GPE": [
+                    "Jurassic Art"
+                ]
+            }
         },
         {
             "author": "roman@99pi.org (Roman Mars)",
@@ -10832,6 +11191,7 @@
                     "the 1960s"
                 ],
                 "ORG": [
+                    "the Land Run",
                     "OKC"
                 ],
                 "FAC": [
@@ -10868,15 +11228,22 @@
                 "PERSON": [
                     "Groups"
                 ],
+                "ORG": [
+                    "Articles of Interest",
+                    "Avery Trufelman"
+                ],
                 "CARDINAL": [
                     "six"
                 ],
-                "ORG": [
-                    "Avery Trufelman"
+                "PERCENT": [
+                    "99%"
                 ],
                 "DATE": [
                     "Tuesdays and Fridays",
-                    "September 25th through October 12th.</p"
+                    "September 25th through October 12th"
+                ],
+                "MONEY": [
+                    "6"
                 ]
             }
         },
@@ -10909,21 +11276,24 @@
                 "PERSON": [
                     "denim"
                 ],
+                "ORG": [
+                    "blue jeans",
+                    "Articles of Interest",
+                    "Avery Trufelman",
+                    "Blue Jeans: Articles of Interest"
+                ],
                 "CARDINAL": [
                     "six"
                 ],
-                "ORG": [
-                    "Avery Trufelman"
+                "PERCENT": [
+                    "99%"
                 ],
                 "DATE": [
                     "Tuesdays and Fridays",
-                    "September 25th through October 12th.</p"
-                ],
-                "WORK_OF_ART": [
-                    "target=\"_blank\">Blue Jeans: Articles of Interest"
+                    "September 25th through October 12th"
                 ],
                 "MONEY": [
-                    "5</a></p"
+                    "5"
                 ]
             }
         },
@@ -10953,18 +11323,25 @@
             "pubDate": "Fri, 5 Oct 2018 18:13:53 +0000",
             "title": "Hawaiian Shirts: Articles of Interest #4",
             "entities": {
+                "ORG": [
+                    "Articles of Interest",
+                    "Avery Trufelman"
+                ],
                 "CARDINAL": [
                     "six"
                 ],
-                "ORG": [
-                    "Avery Trufelman"
+                "PERCENT": [
+                    "99%"
                 ],
                 "DATE": [
                     "Tuesdays and Fridays",
-                    "September 25th through October 12th.</p"
+                    "September 25th through October 12th"
                 ],
-                "WORK_OF_ART": [
-                    "target=\"_blank\">Hawaiian Shirts: Articles of Interest #4</a></p"
+                "NORP": [
+                    "Hawaiian"
+                ],
+                "MONEY": [
+                    "4"
                 ]
             }
         },
@@ -10994,18 +11371,20 @@
             "pubDate": "Tue, 2 Oct 2018 22:11:42 +0000",
             "title": "Pockets: Articles of Interest #3",
             "entities": {
-                "CARDINAL": [
-                    "six"
-                ],
                 "ORG": [
+                    "Articles of Interest",
                     "Avery Trufelman"
+                ],
+                "CARDINAL": [
+                    "six",
+                    "#3"
+                ],
+                "PERCENT": [
+                    "99%"
                 ],
                 "DATE": [
                     "Tuesdays and Fridays",
-                    "September 25th through October 12th.</p"
-                ],
-                "MONEY": [
-                    "3</a></p"
+                    "September 25th through October 12th"
                 ]
             }
         },
@@ -11041,13 +11420,23 @@
                 "DATE": [
                     "the 20th century",
                     "Tuesdays and Fridays",
-                    "September 25th through October 12th.</p"
+                    "September 25th through October 12th"
+                ],
+                "GPE": [
+                    "Scotland"
+                ],
+                "ORG": [
+                    "Articles of Interest",
+                    "Avery Trufelman"
                 ],
                 "CARDINAL": [
                     "six"
                 ],
-                "ORG": [
-                    "Avery Trufelman"
+                "PERCENT": [
+                    "99%"
+                ],
+                "MONEY": [
+                    "2"
                 ]
             }
         },
@@ -11077,22 +11466,21 @@
             "pubDate": "Tue, 25 Sep 2018 20:07:32 +0000",
             "title": "Kids' Clothes: Articles of Interest #1",
             "entities": {
+                "ORG": [
+                    "Articles of Interest",
+                    "AoI",
+                    "Avery Trufelman"
+                ],
                 "CARDINAL": [
-                    "six"
+                    "six",
+                    "#1"
                 ],
                 "PERCENT": [
                     "99%"
                 ],
-                "ORG": [
-                    "AoI",
-                    "Avery Trufelman"
-                ],
                 "DATE": [
                     "Tuesdays and Fridays",
-                    "September 25th through October 12th.</p"
-                ],
-                "MONEY": [
-                    "1</a></p"
+                    "September 25th through October 12th"
                 ]
             }
         },
@@ -11140,16 +11528,17 @@
                     "Lehigh Valley"
                 ],
                 "PERSON": [
-                    "Mack Trucks.</p>",
+                    "Mack Trucks",
                     "WSAN",
-                    "WSAN"
+                    "WSAN",
+                    "WSAN",
+                    "Billboard"
                 ],
                 "WORK_OF_ART": [
-                    "Love Homes",
-                    "target=\"_blank\">Billboard Boys: The Greatest Radio Contest of All Time</a></p"
+                    "Love Homes"
                 ],
                 "MONEY": [
-                    "18,000.</p"
+                    "18,000"
                 ]
             }
         },
@@ -11180,7 +11569,7 @@
             "title": "323- The House that Came in the Mail",
             "entities": {
                 "ORG": [
-                    "Sear & Roebuck Mail Order Catalog",
+                    "The Sear & Roebuck Mail Order Catalog",
                     "Sears",
                     "Sears",
                     "House"
@@ -11233,11 +11622,11 @@
             "pubDate": "Wed, 5 Sep 2018 00:06:44 +0000",
             "title": "322- The First Straw",
             "entities": {
+                "GPE": [
+                    "America"
+                ],
                 "NORP": [
                     "American"
-                ],
-                "ORDINAL": [
-                    "First"
                 ]
             }
         },
@@ -11283,6 +11672,9 @@
                 ],
                 "GPE": [
                     "U.S."
+                ],
+                "WORK_OF_ART": [
+                    "Double Standards"
                 ]
             }
         },
@@ -11320,8 +11712,7 @@
                     "the Federal Government",
                     "LOT",
                     "Oregon Public Broadcasting",
-                    "Leah Sottile-",
-                    "Bundyville"
+                    "Leah Sottile-"
                 ],
                 "PERCENT": [
                     "About 85 percent",
@@ -11347,6 +11738,9 @@
                 ],
                 "ORDINAL": [
                     "first"
+                ],
+                "FAC": [
+                    "Longreads\n"
                 ]
             }
         },
@@ -11385,7 +11779,8 @@
                     "Los Angeles",
                     "Las Vegas",
                     "China",
-                    "China"
+                    "China",
+                    "America"
                 ],
                 "CARDINAL": [
                     "Two"
@@ -11432,9 +11827,6 @@
                     "multi-year",
                     "decades",
                     "Last year"
-                ],
-                "NORP": [
-                    "Rain</a></p"
                 ]
             }
         },
@@ -11531,6 +11923,9 @@
                 "GPE": [
                     "North Utsire",
                     "UK"
+                ],
+                "WORK_OF_ART": [
+                    "The Shipping Forecast"
                 ]
             }
         },
@@ -11564,8 +11959,12 @@
                     "Louis",
                     "Ian Chillag"
                 ],
+                "PRODUCT": [
+                    "Subscribe"
+                ],
                 "ORG": [
-                    "target=\"_blank\">Everything"
+                    "Apple Podcasts",
+                    "RadioPublic"
                 ]
             }
         },
@@ -11614,6 +12013,10 @@
                 ],
                 "LANGUAGE": [
                     "English"
+                ],
+                "ORG": [
+                    "interrobang",
+                    "Interrobang"
                 ]
             }
         },
@@ -11648,13 +12051,15 @@
                 ],
                 "ORG": [
                     "Radiotopia",
+                    "Manoush",
                     "VC",
                     "Stable Genius Productions",
                     "Radiotopia",
-                    "Manoush"
+                    "Manoush",
+                    "Apple Podcasts\nSubscribe",
+                    "RadioPublic"
                 ],
                 "PERSON": [
-                    "Manoush",
                     "Jen",
                     "Jen"
                 ],
@@ -11674,6 +12079,9 @@
                 ],
                 "PERCENT": [
                     "99%"
+                ],
+                "PRODUCT": [
+                    "ZigZag\nSubscribe"
                 ]
             }
         },
@@ -11706,10 +12114,8 @@
                 "PERCENT": [
                     "99%"
                 ],
-                "PERSON": [
-                    "Danger Symbols Ca"
-                ],
                 "ORG": [
+                    "Vox",
                     "Vox"
                 ]
             }
@@ -11742,15 +12148,15 @@
             "entities": {
                 "GPE": [
                     "the United Kingdom",
-                    "Manchester"
+                    "Manchester",
+                    "England"
                 ],
                 "DATE": [
                     "the 1930s",
                     "their days"
                 ],
                 "PERSON": [
-                    "England.</p",
-                    "Roam</a></p"
+                    "Roam\n"
                 ]
             }
         },
@@ -11788,7 +12194,10 @@
                 ],
                 "ORG": [
                     "Pablo Escobar",
-                    "Radiotopia"
+                    "Post-Narco",
+                    "Latino USA",
+                    "Radiotopia",
+                    "Apple Podcasts"
                 ],
                 "NORP": [
                     "Colombian"
@@ -11802,10 +12211,8 @@
                 "GPE": [
                     "Medellin",
                     "Medellin",
+                    "Medellin",
                     "U.S"
-                ],
-                "WORK_OF_ART": [
-                    "target=\"_blank\">Post-Narco Urbanism</a></p>\n<p"
                 ]
             }
         },
@@ -11847,10 +12254,8 @@
                     "NBA"
                 ],
                 "WORK_OF_ART": [
-                    "Barney Uniform"
-                ],
-                "PERSON": [
-                    "Barney Design</a></p"
+                    "Barney Uniform",
+                    "The Barney Design"
                 ]
             }
         },
@@ -11896,17 +12301,22 @@
                     "Navy",
                     "the Electrical Machine and Equipment Company",
                     "Emeco Navy",
+                    "Benjamen Walker of Theory",
                     "Emeco"
                 ],
                 "PERSON": [
                     "Wilton C. Dinges",
-                    "Dinges"
+                    "Dinges",
+                    "Emeco"
                 ],
                 "ORDINAL": [
                     "eighth"
                 ],
                 "PERCENT": [
                     "99%"
+                ],
+                "CARDINAL": [
+                    "77"
                 ]
             }
         },
@@ -11936,6 +12346,10 @@
             "pubDate": "Wed, 30 May 2018 00:22:53 +0000",
             "title": "309- The Vault",
             "entities": {
+                "PERSON": [
+                    "Svalbard",
+                    "Emmett"
+                ],
                 "NORP": [
                     "Norwegian"
                 ],
@@ -11948,10 +12362,8 @@
                     "500"
                 ],
                 "ORG": [
-                    "Crop Trust"
-                ],
-                "PERSON": [
-                    "Emmett"
+                    "Crop Trust",
+                    "Vault"
                 ]
             }
         },
@@ -11990,6 +12402,9 @@
                 ],
                 "PERSON": [
                     "Ed Roberts"
+                ],
+                "ORG": [
+                    "Curb Cuts"
                 ]
             }
         },
@@ -12021,7 +12436,8 @@
             "entities": {
                 "PERSON": [
                     "Esther Sullivan",
-                    "Sullivan"
+                    "Sullivan",
+                    "Homes\n"
                 ],
                 "ORG": [
                     "the University of Colorado Denver"
@@ -12062,9 +12478,6 @@
                 ],
                 "ORDINAL": [
                     "first"
-                ],
-                "PERSON": [
-                    "Bad News</a></p"
                 ]
             }
         },
@@ -12101,8 +12514,7 @@
                 ],
                 "ORG": [
                     "the Beverly Hillbillies",
-                    "Slate",
-                    "Laff"
+                    "Slate"
                 ],
                 "TIME": [
                     "every 20 seconds"
@@ -12118,10 +12530,14 @@
                     "The West Wing Weekly"
                 ],
                 "PERSON": [
-                    "Joshua Malina"
+                    "Joshua Malina",
+                    "Decoder Ring\nSubscribe"
                 ],
                 "WORK_OF_ART": [
                     "Sports Night"
+                ],
+                "PRODUCT": [
+                    "Learn"
                 ]
             }
         },
@@ -12157,6 +12573,7 @@
                 ],
                 "GPE": [
                     "Newfoundland",
+                    "America",
                     "Gander",
                     "US"
                 ],
@@ -12177,6 +12594,9 @@
                 "CARDINAL": [
                     "9/11",
                     "7000"
+                ],
+                "FAC": [
+                    "Gander International Airport"
                 ]
             }
         },
@@ -12218,6 +12638,7 @@
                 ],
                 "ORG": [
                     "Walker",
+                    "Stoop",
                     "Leila Day"
                 ],
                 "NORP": [
@@ -12225,7 +12646,7 @@
                     "American"
                 ],
                 "WORK_OF_ART": [
-                    "target=\"_blank\">The Hair Chart</a></p>\n<p"
+                    "The Hair Chart"
                 ]
             }
         },
@@ -12262,7 +12683,7 @@
                 "GPE": [
                     "Las Vegas",
                     "Las Vegas",
-                    "Las Vegas</a></p"
+                    "Las Vegas"
                 ],
                 "PERSON": [
                     "Denise Scott Brown"
@@ -12297,9 +12718,6 @@
             "entities": {
                 "GPE": [
                     "U.S."
-                ],
-                "NORP": [
-                    "Rain</a></p"
                 ]
             }
         },
@@ -12337,11 +12755,15 @@
                 ],
                 "PERSON": [
                     "Art Deco",
-                    "Bill Hammack"
+                    "Bill Hammack",
+                    "Airships"
                 ],
                 "GPE": [
                     "Britain",
                     "Britain"
+                ],
+                "PRODUCT": [
+                    "Fatal Flight"
                 ]
             }
         },
@@ -12383,8 +12805,8 @@
                 "DATE": [
                     "this week"
                 ],
-                "TIME": [
-                    "Five Thirty Eight"
+                "WORK_OF_ART": [
+                    "The Gerrymandering Project\n"
                 ]
             }
         },
@@ -12416,12 +12838,15 @@
             "entities": {
                 "ORG": [
                     "Star Maiden to Priestess of Culture",
-                    "Life to Mourning Victory",
-                    "United"
+                    "Life to Mourning Victory"
                 ],
                 "PERSON": [
                     "Audrey Munson",
                     "Audrey"
+                ],
+                "GPE": [
+                    "the United States",
+                    "Manhattan"
                 ]
             }
         },
@@ -12457,6 +12882,7 @@
                 "ORG": [
                     "Ford Motor Company",
                     "Amazon",
+                    "Fordlandia",
                     "Roman"
                 ],
                 "QUANTITY": [
@@ -12470,7 +12896,8 @@
                     "one"
                 ],
                 "PERSON": [
-                    "Henry Ford"
+                    "Henry Ford",
+                    "Con Law"
                 ],
                 "WORK_OF_ART": [
                     "Fordl\u00e2ndia"
@@ -12527,13 +12954,10 @@
                     "1",
                     "2",
                     "tens of thousands",
-                    "2)</a></p"
+                    "2"
                 ],
                 "NORP": [
                     "Surinamese Dutch"
-                ],
-                "WORK_OF_ART": [
-                    "target=\"_blank\">Blood, Sweat and Tears (City of the Future"
                 ]
             }
         },
@@ -12568,7 +12992,8 @@
                 ],
                 "GPE": [
                     "Amsterdam",
-                    "Amsterdam"
+                    "Amsterdam",
+                    "Bijlmer"
                 ],
                 "WORK_OF_ART": [
                     "City of the Future"
@@ -12583,7 +13008,7 @@
                     "the International Congress of Modern Architecture"
                 ],
                 "CARDINAL": [
-                    "1)</a></p"
+                    "1"
                 ]
             }
         },
@@ -12629,7 +13054,7 @@
                 ],
                 "PERSON": [
                     "Tom Geismar",
-                    "Tom Geismar</a></p"
+                    "Tom Geismar"
                 ]
             }
         },
@@ -12667,7 +13092,8 @@
                 ],
                 "ORG": [
                     "Radio Diaries",
-                    "Avery Trufelman"
+                    "Avery Trufelman",
+                    "Radio Diaries"
                 ],
                 "CARDINAL": [
                     "two",
@@ -12675,7 +13101,10 @@
                     "eight"
                 ],
                 "GPE": [
-                    "California.</p"
+                    "California"
+                ],
+                "PRODUCT": [
+                    "Learn"
                 ]
             }
         },
@@ -12713,8 +13142,8 @@
                 "PERSON": [
                     "Cape Hatteras"
                 ],
-                "NORP": [
-                    "Retreat</a></p"
+                "ORG": [
+                    "Managed Retreat"
                 ]
             }
         },
@@ -12747,10 +13176,13 @@
                 "PERSON": [
                     "Scott McCloud",
                     "Scott McCloud",
-                    "Scott McCloud</a></p>"
+                    "Scott McCloud"
                 ],
                 "DATE": [
                     "decades"
+                ],
+                "ORG": [
+                    "Understanding Comics"
                 ]
             }
         },
@@ -12788,7 +13220,8 @@
                 ],
                 "PERSON": [
                     "Willis Carrier",
-                    "Carrier"
+                    "Carrier",
+                    "Thermal Delight\n"
                 ],
                 "GPE": [
                     "the United States"
@@ -12823,7 +13256,7 @@
             "entities": {
                 "CARDINAL": [
                     "two",
-                    "4</a></p"
+                    "4"
                 ],
                 "DATE": [
                     "2017/2018"
@@ -12868,7 +13301,7 @@
                 "PERSON": [
                     "Shinkansen",
                     "Eiji Nakatsu",
-                    "Janine Benyus.</p"
+                    "Janine Benyus"
                 ],
                 "QUANTITY": [
                     "up to 150\u2013200 miles"
@@ -12879,8 +13312,11 @@
                 "ORG": [
                     "Nakatsu",
                     "Vox",
-                    "YouTube",
-                    "http%3A%2F%2Fgoo.gl%2F0bsAjO&v="
+                    "Vox",
+                    "YouTube"
+                ],
+                "PRODUCT": [
+                    "Biomimicry\nSubscribe"
                 ]
             }
         },
@@ -12915,6 +13351,9 @@
                 ],
                 "PERSON": [
                     "Mini"
+                ],
+                "CARDINAL": [
+                    "3"
                 ]
             }
         },
@@ -12958,6 +13397,7 @@
                 ],
                 "FAC": [
                     "4th Street",
+                    "110",
                     "110"
                 ],
                 "GPE": [
@@ -12967,9 +13407,6 @@
                 "ORG": [
                     "I-5",
                     "the California Department of Transportation"
-                ],
-                "CARDINAL": [
-                    "110"
                 ]
             }
         },
@@ -13013,7 +13450,7 @@
                     "one"
                 ],
                 "WORK_OF_ART": [
-                    "target=\"_blank\">The Nut Behind the Wheel</a></p>\n"
+                    "The Nut Behind the Wheel"
                 ]
             }
         },
@@ -13051,11 +13488,16 @@
                     "Clive Desmond"
                 ],
                 "CARDINAL": [
-                    "one",
-                    "target=\"_blank\">A"
+                    "one"
+                ],
+                "NORP": [
+                    "Organist"
                 ],
                 "ORG": [
                     "McSweeney"
+                ],
+                "PRODUCT": [
+                    "KCRW"
                 ],
                 "QUANTITY": [
                     "700-Foot Mountain"
@@ -13121,6 +13563,9 @@
             "entities": {
                 "PERSON": [
                     "Annie Atkins\u2019s"
+                ],
+                "ORG": [
+                    "Hero Props"
                 ]
             }
         },
@@ -13155,6 +13600,7 @@
                     "today"
                 ],
                 "GPE": [
+                    "St. Louis",
                     "St. Louis"
                 ],
                 "PERSON": [
@@ -13206,6 +13652,9 @@
                 "CARDINAL": [
                     "one",
                     "trillions"
+                ],
+                "PRODUCT": [
+                    "Radiotopia"
                 ]
             }
         },
@@ -13238,15 +13687,15 @@
                 "ORG": [
                     "Gothic",
                     "Gothic",
-                    "Sagrada Familia"
+                    "La Sagrada Familia"
                 ],
                 "GPE": [
-                    "Spain"
+                    "Spain",
+                    "n\u2019t"
                 ],
                 "PERSON": [
                     "Gothic",
-                    "Gaud\u00ed",
-                    "Sagrada Familia</a></p"
+                    "Gaud\u00ed"
                 ],
                 "DATE": [
                     "1926",
@@ -13293,6 +13742,9 @@
                 ],
                 "PERSON": [
                     "gallons"
+                ],
+                "PRODUCT": [
+                    "Half Measures"
                 ]
             }
         },
@@ -13331,8 +13783,7 @@
                     "about a fifth"
                 ],
                 "PERSON": [
-                    "Skid Row",
-                    "for.</p"
+                    "Skid Row"
                 ],
                 "LOC": [
                     "Skid"
@@ -13366,7 +13817,8 @@
             "title": "278- The Athletic Brassiere",
             "entities": {
                 "WORK_OF_ART": [
-                    "Title IX"
+                    "Title IX",
+                    "The Athletic Brassiere\n"
                 ],
                 "DATE": [
                     "1972"
@@ -13378,11 +13830,15 @@
                     "Phoebe Flanigan",
                     "Robbie Carver",
                     "the Sports Bra Changed History",
-                    "Outside Magazine"
+                    "Outside Magazine",
+                    "PRX"
                 ],
                 "PERSON": [
                     "Peter Frick-Wright",
                     "Dennis Funk"
+                ],
+                "LOC": [
+                    "Outside"
                 ]
             }
         },
@@ -13421,6 +13877,9 @@
                 "DATE": [
                     "this day",
                     "decades"
+                ],
+                "FAC": [
+                    "Ponte City Tower"
                 ]
             }
         },
@@ -13458,7 +13917,6 @@
                     "early 2017"
                 ],
                 "NORP": [
-                    "Finnish",
                     "Finnish"
                 ]
             }
@@ -13489,11 +13947,14 @@
             "pubDate": "Tue, 12 Sep 2017 22:14:40 +0000",
             "title": "275- Coal Hogs Work Safe",
             "entities": {
+                "ORG": [
+                    "Coal"
+                ],
                 "DATE": [
                     "the late 1960s"
                 ],
                 "WORK_OF_ART": [
-                    "target=\"_blank\">Coal Hogs Work Safe</a></p"
+                    "Coal Hogs Work Safe\n"
                 ]
             }
         },
@@ -13529,6 +13990,9 @@
                 ],
                 "WORK_OF_ART": [
                     "Weapons of Math Destruction: How Big Data Increases Inequality"
+                ],
+                "FAC": [
+                    "the Algorithm"
                 ]
             }
         },
@@ -13560,7 +14024,7 @@
             "entities": {
                 "DATE": [
                     "1905",
-                    "1877.<br",
+                    "1877",
                     "This week"
                 ],
                 "CARDINAL": [
@@ -13572,7 +14036,7 @@
                 ],
                 "PERSON": [
                     "Nathan Bedford Forrest",
-                    "Nathan Bedford Forrest.<br",
+                    "Nathan Bedford Forrest",
                     "Nathan Bedford Forrest",
                     "Upon Hearing",
                     "Forrest",
@@ -13581,9 +14045,13 @@
                 "ORG": [
                     "Nate DiMeo",
                     "the Memphis City Council",
-                    "the Nearby Elmwood Cemetery.</p"
+                    "the Nearby Elmwood Cemetery"
+                ],
+                "WORK_OF_ART": [
+                    "The Memory Palace"
                 ],
                 "PRODUCT": [
+                    "Notes",
                     "Notes"
                 ],
                 "FAC": [
@@ -13592,9 +14060,6 @@
                 ],
                 "LOC": [
                     "a Park Downtown"
-                ],
-                "WORK_OF_ART": [
-                    "target=\"_blank\">Notes on an Imagined"
                 ]
             }
         },
@@ -13634,10 +14099,11 @@
                     "Japan"
                 ],
                 "PERSON": [
-                    "Mark Bramhill"
+                    "Mark Bramhill",
+                    "emoji"
                 ],
                 "ORG": [
-                    "Lotus"
+                    "Macintosh"
                 ]
             }
         },
@@ -13671,11 +14137,13 @@
                     "Virginia",
                     "North Carolina",
                     "Virginia",
+                    "North Carolina",
+                    "mosquitoes",
                     "Virginia"
                 ],
                 "WORK_OF_ART": [
                     "The Great Dismal Swamp",
-                    "target=\"_blank\">The Great Dismal Swamp</a></p>\n"
+                    "The Great Dismal Swamp\n"
                 ],
                 "NORP": [
                     "British",
@@ -13697,9 +14165,6 @@
                     "ten",
                     "thousands",
                     "one"
-                ],
-                "LOC": [
-                    "North Carolina.<br"
                 ],
                 "EVENT": [
                     "the Civil War"
@@ -13773,28 +14238,27 @@
                     "Digital",
                     "Ways of Hearing",
                     "Damon & Naomi",
-                    "Time, Space,"
+                    "Time, Space,",
+                    "Sound Opinions",
+                    "Ways of Hearing\n"
                 ],
                 "DATE": [
                     "the 1980s"
                 ],
-                "WORK_OF_ART": [
-                    "target=\"_blank\">Radiotopia Showcase</a>",
-                    "Love"
+                "PERSON": [
+                    "Radiotopia Showcase",
+                    "Damon Krukowski",
+                    "Noise"
                 ],
                 "CARDINAL": [
                     "six",
                     "500"
                 ],
-                "PERSON": [
-                    "Damon Krukowski",
-                    "Noise"
+                "WORK_OF_ART": [
+                    "Love"
                 ],
                 "ORDINAL": [
                     "99pi"
-                ],
-                "NORP": [
-                    "Opinions</a>.</p"
                 ]
             }
         },
@@ -14104,9 +14568,6 @@
                 ],
                 "ORG": [
                     "Trump"
-                ],
-                "GPE": [
-                    "href=\"http://99percentinvisible.prx.org/2017/06/08"
                 ]
             }
         },
@@ -14915,6 +15376,9 @@
             "pubDate": "Tue, 20 Dec 2016 17:47:37 +0000",
             "title": "241- Mini-Stories: Volume 1",
             "entities": {
+                "PRODUCT": [
+                    "Roman Mars"
+                ],
                 "ORDINAL": [
                     "99pi"
                 ],
@@ -15141,9 +15605,6 @@
             "entities": {
                 "ORG": [
                     "the White House"
-                ],
-                "CARDINAL": [
-                    "ten"
                 ]
             }
         },
@@ -15360,11 +15821,11 @@
             "title": "124- Longbox (Repeat)",
             "entities": {
                 "PERSON": [
-                    "Whitney Jones",
-                    "Longbox Please"
+                    "Whitney Jones"
                 ],
                 "ORG": [
-                    "R.E.M."
+                    "R.E.M.",
+                    "Longbox Please Vote"
                 ],
                 "GPE": [
                     "the United States"
@@ -15476,8 +15937,8 @@
                 "PERSON": [
                     "Henry Petroski"
                 ],
-                "WORK_OF_ART": [
-                    "The Road"
+                "FAC": [
+                    "The Road \u2026 Continue"
                 ]
             }
         },
@@ -15762,7 +16223,11 @@
             "link": "https://99percentinvisible.org",
             "pubDate": "Wed, 6 Jul 2016 02:00:10 +0000",
             "title": "219- Unpleasant Design",
-            "entities": {}
+            "entities": {
+                "PERSON": [
+                    "Benches"
+                ]
+            }
         },
         {
             "author": "roman@99pi.org (Roman Mars)",
@@ -16025,6 +16490,9 @@
             "pubDate": "Wed, 18 May 2016 01:42:44 +0000",
             "title": "213- Separation Anxiety",
             "entities": {
+                "WORK_OF_ART": [
+                    "F\u00fcr Elise"
+                ],
                 "PERSON": [
                     "Beethoven"
                 ],
@@ -16090,10 +16558,6 @@
             "pubDate": "Wed, 4 May 2016 04:32:18 +0000",
             "title": "211- The Grand Dame of Broad Street",
             "entities": {
-                "NORP": [
-                    "Bellevue",
-                    "French"
-                ],
                 "DATE": [
                     "1904"
                 ],
@@ -16107,6 +16571,9 @@
                 ],
                 "GPE": [
                     "New York"
+                ],
+                "NORP": [
+                    "French"
                 ]
             }
         },
@@ -16481,9 +16948,6 @@
                 ],
                 "PERCENT": [
                     "99%"
-                ],
-                "GPE": [
-                    "href=\"http://99percentinvisible.prx.org/2016/02/27"
                 ]
             }
         },
@@ -16513,9 +16977,6 @@
             "pubDate": "Wed, 24 Feb 2016 02:18:22 +0000",
             "title": "201- The Green Book",
             "entities": {
-                "DATE": [
-                    "The middle of the 20th Century"
-                ],
                 "GPE": [
                     "the United States"
                 ],
@@ -16909,7 +17370,11 @@
             "link": "https://99percentinvisible.org",
             "pubDate": "Tue, 24 Nov 2015 23:52:10 +0000",
             "title": "190- Fixing the Hobo Suit",
-            "entities": {}
+            "entities": {
+                "ORG": [
+                    "Superhero"
+                ]
+            }
         },
         {
             "author": "roman@99pi.org (Roman Mars)",
@@ -17035,6 +17500,9 @@
             "pubDate": "Wed, 28 Oct 2015 00:36:56 +0000",
             "title": "186- War and Pizza",
             "entities": {
+                "ORG": [
+                    "Households"
+                ],
                 "PERSON": [
                     "Tina Antolini"
                 ]
@@ -17097,6 +17565,9 @@
             "pubDate": "Wed, 14 Oct 2015 03:37:14 +0000",
             "title": "110- Structural Integrity (Rebroadcast)",
             "entities": {
+                "PERCENT": [
+                    "99%"
+                ],
                 "DATE": [
                     "2015",
                     "1977"
@@ -18842,7 +19313,6 @@
             "title": "139- Edge of Your Seat",
             "entities": {
                 "PERSON": [
-                    "p>\u201cA Chair",
                     "Mies van der Rohe"
                 ]
             }
@@ -19248,6 +19718,7 @@
             "entities": {
                 "ORG": [
                     "IKEA",
+                    "IKEA",
                     "IKEA"
                 ]
             }
@@ -19596,6 +20067,9 @@
             "pubDate": "Tue, 10 Jun 2014 15:33:13 +0000",
             "title": "118- Song Exploder",
             "entities": {
+                "PERCENT": [
+                    "99%"
+                ],
                 "PERSON": [
                     "Song Exploder"
                 ]
@@ -20553,12 +21027,14 @@
             "pubDate": "Wed, 23 Oct 2013 19:08:33 +0000",
             "title": "Kickstart Season 4 of 99% Invisible- Weekly Episodes",
             "entities": {
+                "PERCENT": [
+                    "99%"
+                ],
                 "TIME": [
                     "night"
                 ],
                 "DATE": [
-                    "two years",
-                    "weekly"
+                    "two years"
                 ],
                 "GPE": [
                     "Kickstarter"
@@ -21085,11 +21561,7 @@
             "link": "https://99percentinvisible.org",
             "pubDate": "Mon, 15 Apr 2013 23:53:01 +0000",
             "title": "77- Game Changer",
-            "entities": {
-                "CARDINAL": [
-                    "href=\"http://99percentinvisible.prx.org/2013/04/15/77"
-                ]
-            }
+            "entities": {}
         },
         {
             "author": "roman@99pi.org (Roman Mars)",
@@ -21261,9 +21733,6 @@
                 ],
                 "NORP": [
                     "European"
-                ],
-                "DATE": [
-                    "href=\"http://99percentinvisible.prx.org/2013/02/05/99-invisible-72"
                 ]
             }
         },
@@ -21468,7 +21937,8 @@
             "pubDate": "Mon, 19 Nov 2012 21:28:25 +0000",
             "title": "99% Invisible-66- Kowloon Walled City",
             "entities": {
-                "GPE": [
+                "PERSON": [
+                    "Kowloon Walled City",
                     "Kowloon Walled City"
                 ],
                 "DATE": [
@@ -21476,9 +21946,6 @@
                 ],
                 "QUANTITY": [
                     "6.5 acre"
-                ],
-                "PERSON": [
-                    "Kowloon Walled City"
                 ],
                 "CARDINAL": [
                     "at least 33,000",
@@ -21717,7 +22184,6 @@
                     "season 3"
                 ],
                 "CARDINAL": [
-                    "two",
                     "two",
                     "two"
                 ],
@@ -21986,9 +22452,6 @@
                 ],
                 "ORG": [
                     "Trappist"
-                ],
-                "PERSON": [
-                    "Cyrus"
                 ]
             }
         },
@@ -22059,9 +22522,6 @@
                 ],
                 "GPE": [
                     "Dallas"
-                ],
-                "DATE": [
-                    "href=\"http://99percentinvisible.prx.org/2012/05/01/99-invisible-53"
                 ]
             }
         },
@@ -22283,9 +22743,6 @@
                 ],
                 "ORG": [
                     "USPS Stamp Services"
-                ],
-                "DATE": [
-                    "href=\"http://99percentinvisible.prx.org/2012/02/10/99-invisible-47"
                 ]
             }
         },
@@ -22438,7 +22895,9 @@
                     "Washington"
                 ],
                 "FAC": [
-                    "Metro",
+                    "Metro"
+                ],
+                "ORG": [
                     "Metro"
                 ]
             }
@@ -22576,6 +23035,9 @@
             "pubDate": "Fri, 18 Nov 2011 07:43:05 +0000",
             "title": "99% Invisible-39X- The Biography of 100,000 Square Feet",
             "entities": {
+                "ORG": [
+                    "United Nations Plaza"
+                ],
                 "GPE": [
                     "San Francisco"
                 ],
@@ -22672,11 +23134,7 @@
             "link": "https://99percentinvisible.org",
             "pubDate": "Thu, 29 Sep 2011 04:06:56 +0000",
             "title": "99% Invisible-37- The Steering Wheel",
-            "entities": {
-                "DATE": [
-                    "href=\"http://99percentinvisible.prx.org/2011/09/29/99-invisible-37"
-                ]
-            }
+            "entities": {}
         },
         {
             "author": "roman@99pi.org (Roman Mars)",
@@ -22877,8 +23335,7 @@
                 ],
                 "DATE": [
                     "2005",
-                    "year",
-                    "annual"
+                    "year"
                 ],
                 "CARDINAL": [
                     "thousands upon thousands"
@@ -22988,9 +23445,6 @@
                 ],
                 "TIME": [
                     "2-3 minutes"
-                ],
-                "DATE": [
-                    "invisible-28"
                 ]
             }
         },
@@ -23056,8 +23510,7 @@
                     "MCC"
                 ],
                 "GPE": [
-                    "Chicago",
-                    "invisible-26"
+                    "Chicago"
                 ],
                 "CARDINAL": [
                     "27"
@@ -23561,6 +24014,9 @@
             "pubDate": "Fri, 7 Jan 2011 19:37:08 +0000",
             "title": "99% Invisible-13x-Game Over (Snap Judgment)",
             "entities": {
+                "PERCENT": [
+                    "99%"
+                ],
                 "PERSON": [
                     "Snap Judgment",
                     "Robert Ashley\u2019s"
@@ -23623,6 +24079,9 @@
             "pubDate": "Fri, 3 Dec 2010 08:17:18 +0000",
             "title": "99% Invisible-12- 99% Guilt Free",
             "entities": {
+                "WORK_OF_ART": [
+                    "Sustainable Design"
+                ],
                 "PERSON": [
                     "-Jason F. McLennan",
                     "McLennan"
@@ -23663,9 +24122,6 @@
                 ],
                 "ORG": [
                     "Oil on The Brain"
-                ],
-                "DATE": [
-                    "href=\"http://99percentinvisible.prx.org/2010/11/25/99-invisible-11-99"
                 ]
             }
         },
@@ -23728,6 +24184,9 @@
             "pubDate": "Sat, 13 Nov 2010 05:25:18 +0000",
             "title": "99% Invisible-09X-99% Doomed",
             "entities": {
+                "PERCENT": [
+                    "99%"
+                ],
                 "ORG": [
                     "NASA"
                 ],
@@ -23949,9 +24408,6 @@
             "entities": {
                 "ORG": [
                     "GPS"
-                ],
-                "CARDINAL": [
-                    "99"
                 ]
             }
         },
@@ -24025,7 +24481,7 @@
                     "Dennis Paoletti"
                 ],
                 "ORG": [
-                    "Shen Milsom & Wilke.</p"
+                    "Shen Milsom & Wilke"
                 ]
             }
         }

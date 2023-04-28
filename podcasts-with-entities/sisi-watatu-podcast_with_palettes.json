@@ -38,14 +38,12 @@
             "entities": {
                 "ORG": [
                     "Intro Music - Amani - Bad Boy",
-                    "Music - Witnesz &"
+                    "Outro Music - Witnesz & Wakilisha - Hoi"
                 ],
                 "PERSON": [
-                    "Wakilisha - Hoi</p",
-                    "Sisi Watatu",
                     "Richard",
                     "Lee",
-                    "Jesse.</p"
+                    "Jesse"
                 ]
             }
         },
@@ -75,18 +73,22 @@
             "title": "3.3 Bar Talk",
             "entities": {
                 "DATE": [
-                    "the past couple"
+                    "the past couple of months"
                 ],
                 "ORG": [
-                    "Intro Music - Juma Tutu - Nakupenda kama",
-                    "the University of Pretoria Youth"
+                    "Intro Music - Juma Tutu - Nakupenda",
+                    "Outro Music - Ayub Ogada",
+                    "the University of Pretoria Youth Choir"
+                ],
+                "NORP": [
+                    "Sukari"
                 ],
                 "PERSON": [
                     "Allison Girvan",
                     "Sisi Watatu",
                     "Richard",
                     "Lee",
-                    "Jesse.</p"
+                    "Jesse"
                 ]
             }
         },
@@ -117,16 +119,16 @@
             "entities": {
                 "ORG": [
                     "OG",
-                    "Intro Music - Sironga Girls' High School - Emily Chepchumba"
+                    "Staffroom",
+                    "Staffroom",
+                    "Intro Music - Sironga Girls' High School - Emily Chepchumba",
+                    "Outro Music - Swan Williams"
                 ],
                 "PERSON": [
-                    "Williams",
-                    "Martin Gallop - Swahili</p",
+                    "Martin Gallop - Swahili",
                     "Richard",
-                    "Lee"
-                ],
-                "GPE": [
-                    "Wata2"
+                    "Lee",
+                    "Jesse"
                 ]
             }
         },
@@ -155,25 +157,24 @@
             "pubDate": "Tue, 02 Feb 2021 14:17:05 GMT",
             "title": "3.1. O.G's Assemble",
             "entities": {
-                "NORP": [
-                    "Sisi"
+                "PERSON": [
+                    "Sisi Watatu",
+                    "Jane Murgor",
+                    "Sarah Mitaru",
+                    "Wambua Mitaru",
+                    "Lisa Oduor Noah",
+                    "Sisi Watatu",
+                    "Richard",
+                    "Lee",
+                    "Jesse"
                 ],
                 "PRODUCT": [
                     "K1"
                 ],
-                "PERSON": [
-                    "Jane Murgor",
-                    "Sarah Mitaru",
-                    "Wambua Mitaru",
-                    "Lisa Oduor",
-                    "Sisi Watatu",
-                    "Richard",
-                    "Lee",
-                    "Jesse.</p"
-                ],
                 "ORG": [
                     "Ugandan",
-                    "Intro Music - Blinky Bill - Mungu Halali"
+                    "Intro Music - Blinky Bill - Mungu Halali",
+                    "Outro Music - Nargy - Hold On ft"
                 ]
             }
         },
@@ -213,7 +214,7 @@
                     "Okayze"
                 ],
                 "DATE": [
-                    "barely 16 years",
+                    "barely 16 years old",
                     "daily",
                     "the week",
                     "the weekend",
@@ -225,7 +226,10 @@
                     "Metropol TV",
                     "Metropol Tv",
                     "KUTV",
-                    "Social Media:"
+                    "HOST",
+                    "Sisi Wata2",
+                    "TITLE",
+                    "All Sisi Watatu Listeners"
                 ],
                 "NORP": [
                     "Kenyan",
@@ -239,7 +243,6 @@
                     "Walter Mong\u2019are",
                     "Olive Gachara",
                     "Nyambane",
-                    "Younger?</p",
                     "Lee",
                     "Jesse",
                     "Brenda",
@@ -247,7 +250,7 @@
                     "Richard Okenye",
                     "Lee Mwangi",
                     "Evabrenda Wathoni",
-                    "Kelly Nyaboke",
+                    "Kelly Nyaboke\nVisuals",
                     "Lilian Mora",
                     "Richard Okenye",
                     "Jesse Kimotho",
@@ -264,8 +267,7 @@
                     "three"
                 ],
                 "WORK_OF_ART": [
-                    "In Your Shoes",
-                    "Theme Song"
+                    "In Your Shoes"
                 ]
             }
         },
@@ -302,11 +304,11 @@
                     "Adaup Matinya",
                     "Lee",
                     "Intro Song - Bobi Wine - Little Things You",
-                    "Outro Song - Cee-Roo - Feel The Sounds of Kenya</p",
-                    "@_adaup.</p",
+                    "Wahu",
+                    "Outro Song - Cee-Roo - Feel The Sounds of Kenya\n\nFollow",
                     "Sisi Watatu",
                     "Lee",
-                    "Jesse.</p"
+                    "Jesse"
                 ],
                 "ORG": [
                     "the Parley Kings Podcast"
@@ -342,12 +344,12 @@
             "title": "2.2: Nyawira of all Trades",
             "entities": {
                 "PERSON": [
-                    "ground'?</p",
                     "Nyawira Karaba",
                     "Richard",
                     "Kelly",
+                    "Sisi",
                     "Lee",
-                    "Jesse.</p"
+                    "Jesse"
                 ],
                 "ORG": [
                     "Nurture"
@@ -391,12 +393,15 @@
             "entities": {
                 "PERSON": [
                     "Lee",
-                    "Rwanda.</p",
                     "Lee",
-                    "Jesse.</p"
+                    "Jesse"
                 ],
                 "ORG": [
                     "Angelic"
+                ],
+                "GPE": [
+                    "Rwanda",
+                    "Sisi"
                 ],
                 "NORP": [
                     "Rwandan",
@@ -404,9 +409,6 @@
                 ],
                 "TIME": [
                     "20 minute"
-                ],
-                "GPE": [
-                    "Wata2"
                 ]
             }
         },
@@ -499,21 +501,22 @@
                     "Kanye",
                     "Lee",
                     "Jesse",
+                    "Escape",
+                    "Halftime",
                     "Sarabi Band - '",
-                    "Lee"
+                    "Sisi Wata2",
+                    "Lee",
+                    "Jesse"
                 ],
                 "NORP": [
                     "Kenyan"
                 ],
-                "PRODUCT": [
-                    "Outro Music"
-                ],
                 "ORG": [
+                    "Outro Music",
                     "Ambasa Mandela"
                 ],
                 "GPE": [
-                    "Mwangaza",
-                    "Sisi"
+                    "Mwangaza"
                 ]
             }
         },
@@ -686,10 +689,9 @@
                 "CARDINAL": [
                     "One",
                     "Two",
+                    "One",
+                    "Two",
                     "4"
-                ],
-                "TIME": [
-                    "a minute"
                 ],
                 "ORDINAL": [
                     "7th"
@@ -700,14 +702,21 @@
                 ],
                 "GPE": [
                     "Illuminati",
+                    "Spotify",
                     "Youtube"
                 ],
                 "PERSON": [
                     "Episode",
-                    "Lee"
+                    "Soundcloud",
+                    "Sisi Wata2",
+                    "Lee",
+                    "Jesse"
                 ],
                 "ORG": [
-                    "ProverbialKiki"
+                    "Apple Music"
+                ],
+                "PRODUCT": [
+                    "Twitter"
                 ]
             }
         },
@@ -787,8 +796,9 @@
                     "Nkatha Muthoni",
                     "Nkatha",
                     "Nadiv Gicheru - '",
+                    "Sisi",
                     "Lee",
-                    "Jesse.</p"
+                    "Jesse"
                 ],
                 "ORG": [
                     "the Daily Nation",
@@ -798,8 +808,7 @@
                     "411"
                 ],
                 "GPE": [
-                    "Mutura",
-                    "Wata2"
+                    "Mutura"
                 ]
             }
         },
@@ -836,6 +845,7 @@
                 ],
                 "PERSON": [
                     "Ngoiri Migwi",
+                    "Ngoiri",
                     "Manasseh Shalom - '",
                     "Lee",
                     "Jesse"
@@ -845,7 +855,7 @@
                 ],
                 "GPE": [
                     "Wata2",
-                    "Wata2",
+                    "Sisi",
                     "Okayze"
                 ]
             }
@@ -886,8 +896,9 @@
                 "PERSON": [
                     "Denis Mugambi",
                     "Denis",
+                    "Sisi",
                     "Lee",
-                    "subscribe</strong></em"
+                    "Jesse"
                 ],
                 "ORG": [
                     "Medbit",
@@ -919,21 +930,20 @@
             "pubDate": "Fri, 15 Feb 2019 07:48:56 GMT",
             "title": "00: Sisi Watatu Podcast Intro.",
             "entities": {
-                "PERSON": [
-                    "Sisi Watatu",
-                    "Sisi Watatu",
-                    "Jesse",
-                    "subscribe</strong></em"
+                "ORG": [
+                    "the Sisi Watatu Podcast",
+                    "WTF"
                 ],
                 "NORP": [
                     "Kenyan"
                 ],
-                "ORG": [
-                    "everything&nbsp",
-                    "WTF"
-                ],
                 "WORK_OF_ART": [
                     "The Sisi Watatu"
+                ],
+                "PERSON": [
+                    "Sisi Watatu",
+                    "Jesse",
+                    "Lee"
                 ],
                 "LOC": [
                     "Okayze"

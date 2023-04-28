@@ -112,7 +112,11 @@
             },
             "pubDate": "Mon, 21 Oct 2019 03:00:00 -0400",
             "title": "Chapter IV: The End Of The World",
-            "entities": {}
+            "entities": {
+                "PERSON": [
+                    "Sobib\u00f3r"
+                ]
+            }
         },
         {
             "content": "<p><b>\u201c</b>She\u2019s 16. She should be in school. She should be with her family.<b> </b>Her letters shouldn\u2019t be censored. Sentences shouldn\u2019t be blacked out. Envelopes shouldn\u2019t be stamped with a swastika. But I guess you can get used to anything.\u201d</p><a rel=\"payment\" href=\"http://sharethesamesky.com/contact-1\">Support the show</a>",
@@ -198,9 +202,6 @@
                 ],
                 "ORG": [
                     "Nazis"
-                ],
-                "PERSON": [
-                    "name.</p><a"
                 ]
             }
         }

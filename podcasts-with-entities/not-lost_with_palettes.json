@@ -77,6 +77,7 @@
             "title": "Not Lost Chat: Wild Sugar (Cheryl Strayed)",
             "entities": {
                 "PERSON": [
+                    "Brendan",
                     "Lost Chat",
                     "Cheryl Strayed",
                     "Strayed",
@@ -118,6 +119,9 @@
             "pubDate": "Wed, 01 Feb 2023 11:00:00 +0000",
             "title": "Not Lost Chat: Traveler Not Tourist (Geoff Dyer & Colman Domingo)",
             "entities": {
+                "ORG": [
+                    "Brendan"
+                ],
                 "GPE": [
                     "US",
                     "America",
@@ -194,14 +198,16 @@
             "pubDate": "Wed, 18 Jan 2023 11:00:00 +0000",
             "title": "Not Lost Chat: Further Than They Appear (Marius Kociejowski & Jessi Klein)",
             "entities": {
-                "GPE": [
-                    "Japan"
-                ],
                 "PERSON": [
+                    "Brendan",
                     "Marius Kociejowski",
                     "Jessi Klein"
                 ],
-                "WORK_OF_ART": [
+                "GPE": [
+                    "Japan",
+                    "Naples"
+                ],
+                "ORG": [
                     "The Serpent Coiled"
                 ],
                 "NORP": [
@@ -290,7 +296,6 @@
                 ],
                 "PERSON": [
                     "Andrew Sean Greer\u2019s",
-                    "Less</em",
                     "Brendan",
                     "Jay Pharoah"
                 ],
@@ -328,12 +333,11 @@
                     "Jessica Nabongo",
                     "Marius Kociejowski",
                     "Jay Pharoah",
-                    "Sara",
                     "Domingo",
                     "Lost Chat"
                 ],
                 "ORG": [
-                    "Tegan &"
+                    "Tegan & Sara"
                 ],
                 "DATE": [
                     "January 4th, 2023"
@@ -444,7 +448,8 @@
             "entities": {
                 "DATE": [
                     "Two years",
-                    "A couple days"
+                    "A couple days",
+                    "1885"
                 ],
                 "PERSON": [
                     "Covid",
@@ -453,8 +458,7 @@
                     "Brendan"
                 ],
                 "ORG": [
-                    "the Big Apple &mdash",
-                    "Big Sur",
+                    "the Big Apple",
                     "Pushkin Industries",
                     "Topic Studios"
                 ],
@@ -491,21 +495,25 @@
             "title": "Las Vegas: Mother Cabrini",
             "entities": {
                 "DATE": [
-                    "Valentine&rsquo;s Day weekend"
+                    "Valentine\u2019s Day weekend"
                 ],
                 "PERSON": [
                     "Brendan",
                     "Luke Burbank",
+                    "Brendan",
                     "Vegas Stays"
                 ],
                 "LOC": [
                     "the Hoover Dam"
                 ],
                 "GPE": [
-                    "Sin City"
+                    "Sin City",
+                    "Vegas"
+                ],
+                "WORK_OF_ART": [
+                    "What Happens"
                 ],
                 "ORG": [
-                    "the slogan &ldquo;What Happens",
                     "Pushkin Industries",
                     "Topic Studios"
                 ]
@@ -537,13 +545,13 @@
             "entities": {
                 "PERSON": [
                     "Brendan",
-                    "Danielle Henderson"
+                    "Danielle Henderson",
+                    "Montezuma"
                 ],
                 "ORG": [
                     "CDMX",
                     "casa",
                     "casa",
-                    "metropolis&hellip",
                     "Lucha Libre",
                     "Pushkin Industries",
                     "Topic Studios"
@@ -586,7 +594,6 @@
                     "the Big Easy"
                 ],
                 "ORG": [
-                    "it&rsquo;s",
                     "Kermit Ruffins",
                     "Pushkin Industries",
                     "Topic Studios"
@@ -672,8 +679,13 @@
                     "Brendan",
                     "Danielle Henderson"
                 ],
+                "WORK_OF_ART": [
+                    "Great Indoorsman"
+                ],
                 "GPE": [
-                    "Alaska"
+                    "Montana",
+                    "Alaska",
+                    "Los Angeles"
                 ],
                 "ORG": [
                     "Pushkin Industries",
@@ -707,20 +719,22 @@
             "entities": {
                 "PERSON": [
                     "Brendan",
-                    "sais quoi</em",
                     "Brendan",
-                    "Leonard Cohen&rsquo;s",
-                    "therapist</em"
+                    "Leonard Cohen\u2019s"
                 ],
                 "GPE": [
                     "Henderson",
-                    "Danielle"
+                    "Danielle",
+                    "Montreal"
                 ],
                 "EVENT": [
                     "the Quiet Revolution"
                 ],
                 "NORP": [
                     "French-Canadian"
+                ],
+                "CARDINAL": [
+                    "sub-zero"
                 ],
                 "LOC": [
                     "Nordic Spa"
@@ -762,6 +776,7 @@
                     "every week"
                 ],
                 "GPE": [
+                    "Montr\u00e9al",
                     "Mexico City",
                     "New Orleans",
                     "Bozeman"
@@ -814,16 +829,18 @@
     "title": "Not Lost",
     "entities": {
         "PERSON": [
-            "Brendan",
-            "Pushkin Industries.</em></p"
+            "Brendan"
         ],
         "GPE": [
             "Montr\u00e9al",
-            "Mexico City"
+            "Mexico City",
+            "iHeartMedia",
+            "iHeartMedia"
         ],
         "ORG": [
             "Pushkin Industries",
-            "Topic Studios"
+            "Topic Studios",
+            "Pushkin Industries"
         ]
     }
 }

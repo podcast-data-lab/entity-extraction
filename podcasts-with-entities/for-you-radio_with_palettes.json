@@ -125,7 +125,7 @@
                 "PERSON": [
                     "Adam Francisco",
                     "Craig",
-                    "Jesus Christ.</p"
+                    "Jesus Christ"
                 ],
                 "GPE": [
                     "Troy"
@@ -324,12 +324,6 @@
             "pubDate": "Fri, 03 Mar 2023 11:00:00 +0000",
             "title": "Of Caesar and Citizens",
             "entities": {
-                "GPE": [
-                    "family:'docs",
-                    "family:'docs",
-                    "family:'docs",
-                    "Troy"
-                ],
                 "DATE": [
                     "1517"
                 ],
@@ -343,6 +337,9 @@
                 ],
                 "PERSON": [
                     "Craig"
+                ],
+                "GPE": [
+                    "Troy"
                 ]
             }
         },
@@ -418,12 +415,8 @@
                 "GPE": [
                     "Troy"
                 ],
-                "NORP": [
-                    "Arial',sans"
-                ],
-                "MONEY": [
-                    "#4a6ee0;\">https://www.1517.org/donate</span>)</a></span></p",
-                    "#4a6ee0;\">https://www.1517.org/podcasts</span></a>)</span></p"
+                "ORG": [
+                    "the Table of Duties"
                 ],
                 "DATE": [
                     "1517"
@@ -683,22 +676,16 @@
             "pubDate": "Fri, 23 Dec 2022 15:40:00 +0000",
             "title": "The Great Christmas Trainwreck",
             "entities": {
-                "GPE": [
-                    "none;font",
-                    "Troy",
-                    "none;font",
-                    "none;font"
-                ],
                 "PERSON": [
                     "Craig McScrooge",
                     "Grinch"
                 ],
+                "GPE": [
+                    "Troy"
+                ],
                 "DATE": [
                     "Christmas",
                     "Christmas"
-                ],
-                "ORG": [
-                    "you</span><span"
                 ]
             }
         },
@@ -918,11 +905,6 @@
             "pubDate": "Fri, 04 Nov 2022 10:00:00 +0000",
             "title": "Here We Still Stand Conference 1",
             "entities": {
-                "GPE": [
-                    "none;font",
-                    "Troy",
-                    "none;font"
-                ],
                 "PERSON": [
                     "Craig",
                     "John Pless",
@@ -931,15 +913,14 @@
                     "Large Catechism",
                     "Kurt Winrich"
                 ],
-                "ORG": [
-                    "underline;font-family:''Arial'';font",
-                    "Catechetical"
-                ],
-                "CARDINAL": [
-                    "1517.org</a"
+                "GPE": [
+                    "Troy"
                 ],
                 "WORK_OF_ART": [
                     "Here We Still Stand Conferences"
+                ],
+                "ORG": [
+                    "Catechetical"
                 ]
             }
         },
@@ -1070,7 +1051,6 @@
             "title": "Pet rocks and rolling stones",
             "entities": {
                 "PERSON": [
-                    "Keith Richards",
                     "Craig"
                 ],
                 "GPE": [
@@ -1108,7 +1088,7 @@
                     "Craig",
                     "Craig Donofrio",
                     "Troy Neujahr",
-                    "Peter"
+                    "St. Peter's"
                 ],
                 "GPE": [
                     "Troy"
@@ -1116,7 +1096,7 @@
                 "ORG": [
                     "the Old Testament",
                     "iTunes",
-                    "James Lutheran Church",
+                    "St. James Lutheran Church",
                     "Lutheran Church"
                 ]
             }
@@ -1151,14 +1131,14 @@
                     "Peter",
                     "Craig Donofrio",
                     "Troy Neujahr",
-                    "Peter"
+                    "St. Peter's"
                 ],
                 "NORP": [
                     "Christians"
                 ],
                 "ORG": [
                     "iTunes",
-                    "James Lutheran Church",
+                    "St. James Lutheran Church",
                     "Lutheran Church"
                 ]
             }
@@ -1193,11 +1173,11 @@
                     "James",
                     "Craig Donofrio",
                     "Troy Neujahr",
-                    "Peter"
+                    "St. Peter's"
                 ],
                 "ORG": [
                     "iTunes",
-                    "James Lutheran Church",
+                    "St. James Lutheran Church",
                     "Lutheran Church"
                 ]
             }
@@ -1232,7 +1212,7 @@
                     "Craig",
                     "Craig Donofrio",
                     "Troy Neujahr",
-                    "Peter"
+                    "St. Peter's"
                 ],
                 "GPE": [
                     "Troy"
@@ -1242,7 +1222,7 @@
                 ],
                 "ORG": [
                     "iTunes",
-                    "James Lutheran Church",
+                    "St. James Lutheran Church",
                     "Lutheran Church"
                 ]
             }
@@ -1278,13 +1258,13 @@
                 ],
                 "ORG": [
                     "iTunes",
-                    "James Lutheran Church",
+                    "St. James Lutheran Church",
                     "Lutheran Church"
                 ],
                 "PERSON": [
                     "Craig Donofrio",
                     "Troy Neujahr",
-                    "Peter"
+                    "St. Peter's"
                 ]
             }
         },
@@ -1321,11 +1301,11 @@
                     "Adam",
                     "Craig Donofrio",
                     "Troy Neujahr",
-                    "Peter"
+                    "St. Peter's"
                 ],
                 "ORG": [
                     "iTunes",
-                    "James Lutheran Church",
+                    "St. James Lutheran Church",
                     "Lutheran Church"
                 ]
             }
@@ -1358,13 +1338,13 @@
             "entities": {
                 "ORG": [
                     "iTunes",
-                    "James Lutheran Church",
+                    "St. James Lutheran Church",
                     "Lutheran Church"
                 ],
                 "PERSON": [
                     "Craig Donofrio",
                     "Troy Neujahr",
-                    "Peter"
+                    "St. Peter's"
                 ]
             }
         },
@@ -1398,7 +1378,7 @@
                     "Craig",
                     "Craig Donofrio",
                     "Troy Neujahr",
-                    "Peter"
+                    "St. Peter's"
                 ],
                 "GPE": [
                     "Troy"
@@ -1406,7 +1386,7 @@
                 "ORG": [
                     "Scriptures",
                     "iTunes",
-                    "James Lutheran Church",
+                    "St. James Lutheran Church",
                     "Lutheran Church"
                 ]
             }
@@ -1442,14 +1422,15 @@
                     "Matthew",
                     "Craig Donofrio",
                     "Troy Neujahr",
-                    "Peter"
+                    "St. Peter's"
                 ],
                 "GPE": [
                     "Troy"
                 ],
                 "ORG": [
+                    "the Great Commission",
                     "iTunes",
-                    "James Lutheran Church",
+                    "St. James Lutheran Church",
                     "Lutheran Church"
                 ]
             }
@@ -1485,14 +1466,14 @@
                     "Craig",
                     "Craig Donofrio",
                     "Troy Neujahr",
-                    "Peter"
+                    "St. Peter's"
                 ],
                 "GPE": [
                     "Troy"
                 ],
                 "ORG": [
                     "iTunes",
-                    "James Lutheran Church",
+                    "St. James Lutheran Church",
                     "Lutheran Church"
                 ]
             }
@@ -1528,14 +1509,14 @@
                     "Craig",
                     "Craig Donofrio",
                     "Troy Neujahr",
-                    "Peter"
+                    "St. Peter's"
                 ],
                 "GPE": [
                     "Troy"
                 ],
                 "ORG": [
                     "iTunes",
-                    "James Lutheran Church",
+                    "St. James Lutheran Church",
                     "Lutheran Church"
                 ]
             }
@@ -1570,11 +1551,11 @@
                     "Jesus",
                     "Craig Donofrio",
                     "Troy Neujahr",
-                    "Peter"
+                    "St. Peter's"
                 ],
                 "ORG": [
                     "iTunes",
-                    "James Lutheran Church",
+                    "St. James Lutheran Church",
                     "Lutheran Church"
                 ]
             }
@@ -1638,11 +1619,11 @@
                     "Jesus",
                     "Craig Donofrio",
                     "Troy Neujahr",
-                    "Peter"
+                    "St. Peter's"
                 ],
                 "ORG": [
                     "iTunes",
-                    "James Lutheran Church",
+                    "St. James Lutheran Church",
                     "Lutheran Church"
                 ]
             }
@@ -1674,16 +1655,16 @@
             "title": "Who's the Judas?",
             "entities": {
                 "PERSON": [
-                    ">Judas",
+                    "Judas",
                     "Peter",
                     "Jesus",
                     "Craig Donofrio",
                     "Troy Neujahr",
-                    "Peter"
+                    "St. Peter's"
                 ],
                 "ORG": [
                     "iTunes",
-                    "James Lutheran Church",
+                    "St. James Lutheran Church",
                     "Lutheran Church"
                 ]
             }
@@ -1719,14 +1700,14 @@
                     "Jesus",
                     "Craig Donofrio",
                     "Troy Neujahr",
-                    "Peter"
+                    "St. Peter's"
                 ],
                 "GPE": [
                     "Padre"
                 ],
                 "ORG": [
                     "iTunes",
-                    "James Lutheran Church",
+                    "St. James Lutheran Church",
                     "Lutheran Church"
                 ]
             }
@@ -1761,14 +1742,14 @@
                     "Craig",
                     "Craig Donofrio",
                     "Troy Neujahr",
-                    "Peter"
+                    "St. Peter's"
                 ],
                 "GPE": [
                     "Troy"
                 ],
                 "ORG": [
                     "iTunes",
-                    "James Lutheran Church",
+                    "St. James Lutheran Church",
                     "Lutheran Church"
                 ]
             }
@@ -1803,11 +1784,11 @@
                     "Jesus",
                     "Craig Donofrio",
                     "Troy Neujahr",
-                    "Peter"
+                    "St. Peter's"
                 ],
                 "ORG": [
                     "iTunes",
-                    "James Lutheran Church",
+                    "St. James Lutheran Church",
                     "Lutheran Church"
                 ]
             }
@@ -1845,11 +1826,11 @@
                     "Jesus",
                     "Craig Donofrio",
                     "Troy Neujahr",
-                    "Peter"
+                    "St. Peter's"
                 ],
                 "ORG": [
                     "iTunes",
-                    "James Lutheran Church",
+                    "St. James Lutheran Church",
                     "Lutheran Church"
                 ]
             }
@@ -1884,14 +1865,14 @@
                     "Craig",
                     "Craig Donofrio",
                     "Troy Neujahr",
-                    "Peter"
+                    "St. Peter's"
                 ],
                 "GPE": [
                     "Troy"
                 ],
                 "ORG": [
                     "iTunes",
-                    "James Lutheran Church",
+                    "St. James Lutheran Church",
                     "Lutheran Church"
                 ]
             }
@@ -1924,13 +1905,13 @@
             "entities": {
                 "ORG": [
                     "iTunes",
-                    "James Lutheran Church",
+                    "St. James Lutheran Church",
                     "Lutheran Church"
                 ],
                 "PERSON": [
                     "Craig Donofrio",
                     "Troy Neujahr",
-                    "Peter"
+                    "St. Peter's"
                 ]
             }
         },
@@ -1962,13 +1943,13 @@
             "entities": {
                 "ORG": [
                     "iTunes",
-                    "James Lutheran Church",
+                    "St. James Lutheran Church",
                     "Lutheran Church"
                 ],
                 "PERSON": [
                     "Craig Donofrio",
                     "Troy Neujahr",
-                    "Peter"
+                    "St. Peter's"
                 ]
             }
         },
@@ -2000,16 +1981,17 @@
             "entities": {
                 "PERSON": [
                     "Craig",
+                    "Jesus",
                     "Craig Donofrio",
                     "Troy Neujahr",
-                    "Peter"
+                    "St. Peter's"
                 ],
                 "GPE": [
                     "Troy"
                 ],
                 "ORG": [
                     "iTunes",
-                    "James Lutheran Church",
+                    "St. James Lutheran Church",
                     "Lutheran Church"
                 ]
             }
@@ -2051,7 +2033,7 @@
                     "the End Times"
                 ],
                 "DATE": [
-                    "the last 2000"
+                    "the last 2000 years"
                 ]
             }
         },
@@ -2086,9 +2068,6 @@
                 ],
                 "ORG": [
                     "Christ"
-                ],
-                "PERSON": [
-                    "you.</p"
                 ]
             }
         },
@@ -2150,12 +2129,13 @@
             "title": "Woe, dude",
             "entities": {
                 "PERSON": [
+                    "Meek",
                     "Jesus",
                     "Craig",
                     "Jesus",
                     "Craig Donofrio",
                     "Troy Neujahr",
-                    "Peter"
+                    "St. Peter's"
                 ],
                 "GPE": [
                     "Troy"
@@ -2165,7 +2145,7 @@
                 ],
                 "ORG": [
                     "iTunes",
-                    "James Lutheran Church",
+                    "St. James Lutheran Church",
                     "Lutheran Church"
                 ]
             }
@@ -2201,14 +2181,17 @@
                     "Craig",
                     "Craig Donofrio",
                     "Troy Neujahr",
-                    "Peter"
+                    "St. Peter's"
                 ],
                 "GPE": [
                     "Troy"
                 ],
+                "DATE": [
+                    "our day"
+                ],
                 "ORG": [
                     "iTunes",
-                    "James Lutheran Church",
+                    "St. James Lutheran Church",
                     "Lutheran Church"
                 ]
             }
@@ -2243,14 +2226,14 @@
                     "Craig",
                     "Craig Donofrio",
                     "Troy Neujahr",
-                    "Peter"
+                    "St. Peter's"
                 ],
                 "GPE": [
                     "Troy"
                 ],
                 "ORG": [
                     "iTunes",
-                    "James Lutheran Church",
+                    "St. James Lutheran Church",
                     "Lutheran Church"
                 ]
             }
@@ -2286,11 +2269,11 @@
                     "Jesus",
                     "Craig Donofrio",
                     "Troy Neujahr",
-                    "Peter"
+                    "St. Peter's"
                 ],
                 "ORG": [
                     "iTunes",
-                    "James Lutheran Church",
+                    "St. James Lutheran Church",
                     "Lutheran Church"
                 ]
             }
@@ -2325,14 +2308,14 @@
                     "Jesus",
                     "Craig Donofrio",
                     "Troy Neujahr",
-                    "Peter"
+                    "St. Peter's"
                 ],
                 "ORDINAL": [
                     "third"
                 ],
                 "ORG": [
                     "iTunes",
-                    "James Lutheran Church",
+                    "St. James Lutheran Church",
                     "Lutheran Church"
                 ]
             }
@@ -2367,14 +2350,14 @@
                     "Jesus",
                     "Craig Donofrio",
                     "Troy Neujahr",
-                    "Peter"
+                    "St. Peter's"
                 ],
                 "LOC": [
                     "Pharisees"
                 ],
                 "ORG": [
                     "iTunes",
-                    "James Lutheran Church",
+                    "St. James Lutheran Church",
                     "Lutheran Church"
                 ]
             }
@@ -2409,7 +2392,7 @@
                     "Craig",
                     "Craig Donofrio",
                     "Troy Neujahr",
-                    "Peter"
+                    "St. Peter's"
                 ],
                 "GPE": [
                     "Troy"
@@ -2417,7 +2400,7 @@
                 "ORG": [
                     "fig",
                     "iTunes",
-                    "James Lutheran Church",
+                    "St. James Lutheran Church",
                     "Lutheran Church"
                 ]
             }
@@ -2449,14 +2432,15 @@
             "title": "Disney Dollars and the Son of David",
             "entities": {
                 "PERSON": [
+                    "Meek",
                     "Jesus",
                     "Craig Donofrio",
                     "Troy Neujahr",
-                    "Peter"
+                    "St. Peter's"
                 ],
                 "ORG": [
                     "iTunes",
-                    "James Lutheran Church",
+                    "St. James Lutheran Church",
                     "Lutheran Church"
                 ]
             }
@@ -2492,7 +2476,7 @@
                     "Jesus",
                     "Craig Donofrio",
                     "Troy Neujahr",
-                    "Peter"
+                    "St. Peter's"
                 ],
                 "GPE": [
                     "Troy",
@@ -2500,7 +2484,7 @@
                 ],
                 "ORG": [
                     "iTunes",
-                    "James Lutheran Church",
+                    "St. James Lutheran Church",
                     "Lutheran Church"
                 ]
             }
@@ -2531,15 +2515,18 @@
             "pubDate": "Fri, 28 Jan 2022 11:00:00 +0000",
             "title": "Stuck in the middle with you",
             "entities": {
+                "CARDINAL": [
+                    "One"
+                ],
                 "PERSON": [
                     "Jesus",
                     "Craig Donofrio",
                     "Troy Neujahr",
-                    "Peter"
+                    "St. Peter's"
                 ],
                 "ORG": [
                     "iTunes",
-                    "James Lutheran Church",
+                    "St. James Lutheran Church",
                     "Lutheran Church"
                 ]
             }
@@ -2572,13 +2559,13 @@
             "entities": {
                 "ORG": [
                     "iTunes",
-                    "James Lutheran Church",
+                    "St. James Lutheran Church",
                     "Lutheran Church"
                 ],
                 "PERSON": [
                     "Craig Donofrio",
                     "Troy Neujahr",
-                    "Peter"
+                    "St. Peter's"
                 ]
             }
         },
@@ -2613,11 +2600,11 @@
                     "Law",
                     "Craig Donofrio",
                     "Troy Neujahr",
-                    "Peter"
+                    "St. Peter's"
                 ],
                 "ORG": [
                     "iTunes",
-                    "James Lutheran Church",
+                    "St. James Lutheran Church",
                     "Lutheran Church"
                 ]
             }
@@ -2650,13 +2637,13 @@
             "entities": {
                 "ORG": [
                     "iTunes",
-                    "James Lutheran Church",
+                    "St. James Lutheran Church",
                     "Lutheran Church"
                 ],
                 "PERSON": [
                     "Craig Donofrio",
                     "Troy Neujahr",
-                    "Peter"
+                    "St. Peter's"
                 ]
             }
         },
@@ -2691,11 +2678,11 @@
                     "Mary",
                     "Craig Donofrio",
                     "Troy Neujahr",
-                    "Peter"
+                    "St. Peter's"
                 ],
                 "ORG": [
                     "iTunes",
-                    "James Lutheran Church",
+                    "St. James Lutheran Church",
                     "Lutheran Church"
                 ]
             }
@@ -2730,14 +2717,14 @@
                     "Christmas"
                 ],
                 "PERSON": [
-                    "Jesus.</p",
+                    "Jesus",
                     "Craig Donofrio",
                     "Troy Neujahr",
-                    "Peter"
+                    "St. Peter's"
                 ],
                 "ORG": [
                     "iTunes",
-                    "James Lutheran Church",
+                    "St. James Lutheran Church",
                     "Lutheran Church"
                 ]
             }
@@ -2774,13 +2761,13 @@
                 "ORG": [
                     "Christlike",
                     "iTunes",
-                    "James Lutheran Church",
+                    "St. James Lutheran Church",
                     "Lutheran Church"
                 ],
                 "PERSON": [
                     "Craig Donofrio",
                     "Troy Neujahr",
-                    "Peter"
+                    "St. Peter's"
                 ]
             }
         },
@@ -2815,11 +2802,11 @@
                     "Jesus",
                     "Craig Donofrio",
                     "Troy Neujahr",
-                    "Peter"
+                    "St. Peter's"
                 ],
                 "ORG": [
                     "iTunes",
-                    "James Lutheran Church",
+                    "St. James Lutheran Church",
                     "Lutheran Church"
                 ]
             }
@@ -2853,13 +2840,14 @@
                 "PERSON": [
                     "Peter",
                     "Jesus",
+                    "Producer Lou",
                     "Craig Donofrio",
                     "Troy Neujahr",
-                    "Peter"
+                    "St. Peter's"
                 ],
                 "ORG": [
                     "iTunes",
-                    "James Lutheran Church",
+                    "St. James Lutheran Church",
                     "Lutheran Church"
                 ]
             }
@@ -2928,13 +2916,13 @@
             "entities": {
                 "ORG": [
                     "iTunes",
-                    "James Lutheran Church",
+                    "St. James Lutheran Church",
                     "Lutheran Church"
                 ],
                 "PERSON": [
                     "Craig Donofrio",
                     "Troy Neujahr",
-                    "Peter"
+                    "St. Peter's"
                 ]
             }
         },
@@ -2969,12 +2957,12 @@
                     "Peter",
                     "Craig Donofrio",
                     "Troy Neujahr",
-                    "Peter"
+                    "St. Peter's"
                 ],
                 "ORG": [
                     "Church",
                     "iTunes",
-                    "James Lutheran Church",
+                    "St. James Lutheran Church",
                     "Lutheran Church"
                 ]
             }
@@ -3007,13 +2995,13 @@
             "entities": {
                 "ORG": [
                     "iTunes",
-                    "James Lutheran Church",
+                    "St. James Lutheran Church",
                     "Lutheran Church"
                 ],
                 "PERSON": [
                     "Craig Donofrio",
                     "Troy Neujahr",
-                    "Peter"
+                    "St. Peter's"
                 ]
             }
         },
@@ -3047,7 +3035,7 @@
                     "Craig",
                     "Craig Donofrio",
                     "Troy Neujahr",
-                    "Peter"
+                    "St. Peter's"
                 ],
                 "GPE": [
                     "Troy"
@@ -3057,7 +3045,7 @@
                 ],
                 "ORG": [
                     "iTunes",
-                    "James Lutheran Church",
+                    "St. James Lutheran Church",
                     "Lutheran Church"
                 ]
             }
@@ -3095,14 +3083,17 @@
                     "Craig",
                     "Craig Donofrio",
                     "Troy Neujahr",
-                    "Peter"
+                    "St. Peter's"
                 ],
                 "GPE": [
                     "Troy"
                 ],
+                "LOC": [
+                    "the Lutheran Reformation"
+                ],
                 "ORG": [
                     "iTunes",
-                    "James Lutheran Church",
+                    "St. James Lutheran Church",
                     "Lutheran Church"
                 ]
             }
@@ -3137,11 +3128,11 @@
                     "Jesus",
                     "Craig Donofrio",
                     "Troy Neujahr",
-                    "Peter"
+                    "St. Peter's"
                 ],
                 "ORG": [
                     "iTunes",
-                    "James Lutheran Church",
+                    "St. James Lutheran Church",
                     "Lutheran Church"
                 ]
             }
@@ -3174,13 +3165,13 @@
             "entities": {
                 "ORG": [
                     "iTunes",
-                    "James Lutheran Church",
+                    "St. James Lutheran Church",
                     "Lutheran Church"
                 ],
                 "PERSON": [
                     "Craig Donofrio",
                     "Troy Neujahr",
-                    "Peter"
+                    "St. Peter's"
                 ]
             }
         },
@@ -3216,11 +3207,11 @@
                     "Jesus",
                     "Craig Donofrio",
                     "Troy Neujahr",
-                    "Peter"
+                    "St. Peter's"
                 ],
                 "ORG": [
                     "iTunes",
-                    "James Lutheran Church",
+                    "St. James Lutheran Church",
                     "Lutheran Church"
                 ]
             }
@@ -3260,11 +3251,11 @@
                     "Jesus",
                     "Craig Donofrio",
                     "Troy Neujahr",
-                    "Peter"
+                    "St. Peter's"
                 ],
                 "ORG": [
                     "iTunes",
-                    "James Lutheran Church",
+                    "St. James Lutheran Church",
                     "Lutheran Church"
                 ]
             }
@@ -3299,14 +3290,14 @@
                     "Herod",
                     "Jesus",
                     "John",
-                    "Jesus increases.</p",
+                    "Jesus",
                     "Craig Donofrio",
                     "Troy Neujahr",
-                    "Peter"
+                    "St. Peter's"
                 ],
                 "ORG": [
                     "iTunes",
-                    "James Lutheran Church",
+                    "St. James Lutheran Church",
                     "Lutheran Church"
                 ]
             }
@@ -3342,7 +3333,7 @@
                     "Jesus",
                     "Craig Donofrio",
                     "Troy Neujahr",
-                    "Peter"
+                    "St. Peter's"
                 ],
                 "GPE": [
                     "Troy",
@@ -3350,7 +3341,7 @@
                 ],
                 "ORG": [
                     "iTunes",
-                    "James Lutheran Church",
+                    "St. James Lutheran Church",
                     "Lutheran Church"
                 ]
             }
@@ -3387,7 +3378,7 @@
                     "Craig",
                     "Craig Donofrio",
                     "Troy Neujahr",
-                    "Peter"
+                    "St. Peter's"
                 ],
                 "GPE": [
                     "His Kingdom",
@@ -3395,7 +3386,7 @@
                 ],
                 "ORG": [
                     "iTunes",
-                    "James Lutheran Church",
+                    "St. James Lutheran Church",
                     "Lutheran Church"
                 ]
             }
@@ -3430,11 +3421,11 @@
                     "Jesus",
                     "Craig Donofrio",
                     "Troy Neujahr",
-                    "Peter"
+                    "St. Peter's"
                 ],
                 "ORG": [
                     "iTunes",
-                    "James Lutheran Church",
+                    "St. James Lutheran Church",
                     "Lutheran Church"
                 ]
             }
@@ -3465,18 +3456,16 @@
             "pubDate": "Fri, 27 Aug 2021 10:00:00 +0000",
             "title": "We are family",
             "entities": {
-                "PRODUCT": [
-                    "Word"
+                "PERSON": [
+                    "Word",
+                    "Craig Donofrio",
+                    "Troy Neujahr",
+                    "St. Peter's"
                 ],
                 "ORG": [
                     "iTunes",
-                    "James Lutheran Church",
+                    "St. James Lutheran Church",
                     "Lutheran Church"
-                ],
-                "PERSON": [
-                    "Craig Donofrio",
-                    "Troy Neujahr",
-                    "Peter"
                 ]
             }
         },
@@ -3512,14 +3501,14 @@
                     "Jesus",
                     "Craig Donofrio",
                     "Troy Neujahr",
-                    "Peter"
+                    "St. Peter's"
                 ],
                 "DATE": [
                     "Satan"
                 ],
                 "ORG": [
                     "iTunes",
-                    "James Lutheran Church",
+                    "St. James Lutheran Church",
                     "Lutheran Church"
                 ]
             }
@@ -3555,11 +3544,11 @@
                     "Law",
                     "Craig Donofrio",
                     "Troy Neujahr",
-                    "Peter"
+                    "St. Peter's"
                 ],
                 "ORG": [
                     "iTunes",
-                    "James Lutheran Church",
+                    "St. James Lutheran Church",
                     "Lutheran Church"
                 ]
             }
@@ -3596,15 +3585,16 @@
                 "NORP": [
                     "Christian"
                 ],
-                "ORG": [
-                    "iTunes",
-                    "James Lutheran Church",
-                    "Lutheran Church"
-                ],
                 "PERSON": [
+                    "Son",
                     "Craig Donofrio",
                     "Troy Neujahr",
-                    "Peter"
+                    "St. Peter's"
+                ],
+                "ORG": [
+                    "iTunes",
+                    "St. James Lutheran Church",
+                    "Lutheran Church"
                 ]
             }
         },
@@ -3639,11 +3629,11 @@
                     "Jesus",
                     "Craig Donofrio",
                     "Troy Neujahr",
-                    "Peter"
+                    "St. Peter's"
                 ],
                 "ORG": [
                     "iTunes",
-                    "James Lutheran Church",
+                    "St. James Lutheran Church",
                     "Lutheran Church"
                 ]
             }
@@ -3681,11 +3671,11 @@
                     "Jesus",
                     "Craig Donofrio",
                     "Troy Neujahr",
-                    "Peter"
+                    "St. Peter's"
                 ],
                 "ORG": [
                     "iTunes",
-                    "James Lutheran Church",
+                    "St. James Lutheran Church",
                     "Lutheran Church"
                 ]
             }
@@ -3720,11 +3710,11 @@
                     "Jesus",
                     "Craig Donofrio",
                     "Troy Neujahr",
-                    "Peter"
+                    "St. Peter's"
                 ],
                 "ORG": [
                     "iTunes",
-                    "James Lutheran Church",
+                    "St. James Lutheran Church",
                     "Lutheran Church"
                 ]
             }
@@ -3757,7 +3747,7 @@
             "entities": {
                 "PERSON": [
                     "Jesus",
-                    "Peter"
+                    "St. Peter's"
                 ],
                 "CARDINAL": [
                     "Twelve"
@@ -3767,7 +3757,7 @@
                 ],
                 "ORG": [
                     "iTunes",
-                    "James Lutheran Church",
+                    "St. James Lutheran Church",
                     "Lutheran Church"
                 ]
             }
@@ -3805,11 +3795,11 @@
                     "Jesus",
                     "Jesus",
                     "Jesus",
-                    "Peter"
+                    "St. Peter's"
                 ],
                 "ORG": [
                     "iTunes",
-                    "James Lutheran Church",
+                    "St. James Lutheran Church",
                     "Lutheran Church"
                 ]
             }
@@ -3840,13 +3830,14 @@
             "pubDate": "Fri, 25 Jun 2021 10:00:00 +0000",
             "title": "Replace your faith with Jesus",
             "entities": {
+                "PERSON": [
+                    "Jesus",
+                    "St. Peter's"
+                ],
                 "ORG": [
                     "iTunes",
-                    "James Lutheran Church",
+                    "St. James Lutheran Church",
                     "Lutheran Church"
-                ],
-                "PERSON": [
-                    "Peter"
                 ]
             }
         },
@@ -3879,11 +3870,11 @@
                 "PERSON": [
                     "Jesus",
                     "Jesus",
-                    "Peter"
+                    "St. Peter's"
                 ],
                 "ORG": [
                     "iTunes",
-                    "James Lutheran Church",
+                    "St. James Lutheran Church",
                     "Lutheran Church"
                 ]
             }
@@ -3916,14 +3907,14 @@
             "entities": {
                 "PERSON": [
                     "Jesus",
-                    "Peter"
+                    "St. Peter's"
                 ],
                 "EVENT": [
                     "the Great Physician"
                 ],
                 "ORG": [
                     "iTunes",
-                    "James Lutheran Church",
+                    "St. James Lutheran Church",
                     "Lutheran Church"
                 ]
             }
@@ -3956,11 +3947,11 @@
             "entities": {
                 "PERSON": [
                     "Jesus",
-                    "Peter"
+                    "St. Peter's"
                 ],
                 "ORG": [
                     "iTunes",
-                    "James Lutheran Church",
+                    "St. James Lutheran Church",
                     "Lutheran Church"
                 ]
             }
@@ -3995,7 +3986,7 @@
                     "Jesus",
                     "Jesus",
                     "Jesus",
-                    "Peter"
+                    "St. Peter's"
                 ],
                 "NORP": [
                     "Christian",
@@ -4003,7 +3994,7 @@
                 ],
                 "ORG": [
                     "iTunes",
-                    "James Lutheran Church",
+                    "St. James Lutheran Church",
                     "Lutheran Church"
                 ]
             }
@@ -4037,7 +4028,7 @@
                 "PERSON": [
                     "Matthew",
                     "Craig",
-                    "Peter"
+                    "St. Peter's"
                 ],
                 "GPE": [
                     "Troy",
@@ -4049,7 +4040,7 @@
                 ],
                 "ORG": [
                     "iTunes",
-                    "James Lutheran Church",
+                    "St. James Lutheran Church",
                     "Lutheran Church"
                 ]
             }
@@ -4083,14 +4074,14 @@
                 "PERSON": [
                     "Craig",
                     "Jesus",
-                    "Peter"
+                    "St. Peter's"
                 ],
                 "GPE": [
                     "Troy"
                 ],
                 "ORG": [
                     "iTunes",
-                    "James Lutheran Church",
+                    "St. James Lutheran Church",
                     "Lutheran Church"
                 ]
             }
@@ -4123,14 +4114,14 @@
             "entities": {
                 "PERSON": [
                     "Craig",
-                    "Peter"
+                    "St. Peter's"
                 ],
                 "GPE": [
                     "Troy"
                 ],
                 "ORG": [
                     "iTunes",
-                    "James Lutheran Church",
+                    "St. James Lutheran Church",
                     "Lutheran Church"
                 ]
             }
@@ -4166,7 +4157,7 @@
                 ],
                 "PERSON": [
                     "Craig",
-                    "Peter"
+                    "St. Peter's"
                 ],
                 "GPE": [
                     "Troy"
@@ -4176,7 +4167,7 @@
                 ],
                 "ORG": [
                     "iTunes",
-                    "James Lutheran Church",
+                    "St. James Lutheran Church",
                     "Lutheran Church"
                 ]
             }
@@ -4209,7 +4200,7 @@
             "entities": {
                 "PERSON": [
                     "Craig",
-                    "Peter"
+                    "St. Peter's"
                 ],
                 "GPE": [
                     "Troy"
@@ -4219,7 +4210,7 @@
                 ],
                 "ORG": [
                     "iTunes",
-                    "James Lutheran Church",
+                    "St. James Lutheran Church",
                     "Lutheran Church"
                 ]
             }
@@ -4252,14 +4243,14 @@
             "entities": {
                 "PERSON": [
                     "Craig",
-                    "Peter"
+                    "St. Peter's"
                 ],
                 "GPE": [
                     "Troy"
                 ],
                 "ORG": [
                     "iTunes",
-                    "James Lutheran Church",
+                    "St. James Lutheran Church",
                     "Lutheran Church"
                 ]
             }
@@ -4292,17 +4283,17 @@
             "entities": {
                 "PERSON": [
                     "Craig",
-                    "Peter"
+                    "St. Peter's"
                 ],
                 "GPE": [
                     "Troy"
                 ],
                 "LAW": [
-                    "the Fifth Petition of the Lord's Prayer.</p"
+                    "the Fifth Petition of the Lord's Prayer"
                 ],
                 "ORG": [
                     "iTunes",
-                    "James Lutheran Church",
+                    "St. James Lutheran Church",
                     "Lutheran Church"
                 ]
             }
@@ -4335,14 +4326,14 @@
             "entities": {
                 "PERSON": [
                     "Craig",
-                    "Peter"
+                    "St. Peter's"
                 ],
                 "GPE": [
                     "Troy"
                 ],
                 "ORG": [
                     "iTunes",
-                    "James Lutheran Church",
+                    "St. James Lutheran Church",
                     "Lutheran Church"
                 ]
             }
@@ -4376,14 +4367,14 @@
                 "PERSON": [
                     "Craig",
                     "Jesus Himself",
-                    "Peter"
+                    "St. Peter's"
                 ],
                 "GPE": [
                     "Troy"
                 ],
                 "ORG": [
                     "iTunes",
-                    "James Lutheran Church",
+                    "St. James Lutheran Church",
                     "Lutheran Church"
                 ]
             }
@@ -4416,11 +4407,11 @@
             "entities": {
                 "ORG": [
                     "iTunes",
-                    "James Lutheran Church",
+                    "St. James Lutheran Church",
                     "Lutheran Church"
                 ],
                 "PERSON": [
-                    "Peter"
+                    "St. Peter's"
                 ]
             }
         },
@@ -4453,14 +4444,14 @@
                 "PERSON": [
                     "Craig",
                     "Jesus",
-                    "Peter"
+                    "St. Peter's"
                 ],
                 "GPE": [
                     "Troy"
                 ],
                 "ORG": [
                     "iTunes",
-                    "James Lutheran Church",
+                    "St. James Lutheran Church",
                     "Lutheran Church"
                 ]
             }
@@ -4496,7 +4487,7 @@
                 ],
                 "PERSON": [
                     "Craig",
-                    "Peter"
+                    "St. Peter's"
                 ],
                 "GPE": [
                     "Troy"
@@ -4505,8 +4496,9 @@
                     "Bible"
                 ],
                 "ORG": [
+                    "the King James Version",
                     "iTunes",
-                    "James Lutheran Church",
+                    "St. James Lutheran Church",
                     "Lutheran Church"
                 ]
             }
@@ -4539,14 +4531,14 @@
             "entities": {
                 "PERSON": [
                     "Jesus",
-                    "Peter"
+                    "St. Peter's"
                 ],
                 "GPE": [
                     "Gospel"
                 ],
                 "ORG": [
                     "iTunes",
-                    "James Lutheran Church",
+                    "St. James Lutheran Church",
                     "Lutheran Church"
                 ]
             }
@@ -4583,11 +4575,11 @@
                 ],
                 "PERSON": [
                     "Craig",
-                    "Peter"
+                    "St. Peter's"
                 ],
                 "ORG": [
                     "iTunes",
-                    "James Lutheran Church",
+                    "St. James Lutheran Church",
                     "Lutheran Church"
                 ]
             }
@@ -4623,11 +4615,11 @@
                 ],
                 "ORG": [
                     "iTunes",
-                    "James Lutheran Church",
+                    "St. James Lutheran Church",
                     "Lutheran Church"
                 ],
                 "PERSON": [
-                    "Peter"
+                    "St. Peter's"
                 ]
             }
         },
@@ -4660,13 +4652,13 @@
                 "ORG": [
                     "Beatitudes",
                     "iTunes",
-                    "James Lutheran Church",
+                    "St. James Lutheran Church",
                     "Lutheran Church"
                 ],
                 "PERSON": [
                     "Law",
                     "Jesus",
-                    "Peter"
+                    "St. Peter's"
                 ]
             }
         },
@@ -4698,11 +4690,11 @@
             "entities": {
                 "PERSON": [
                     "Jesus",
-                    "Peter"
+                    "St. Peter's"
                 ],
                 "ORG": [
                     "iTunes",
-                    "James Lutheran Church",
+                    "St. James Lutheran Church",
                     "Lutheran Church"
                 ]
             }
@@ -4781,12 +4773,12 @@
                 "PERSON": [
                     "Adam",
                     "Jesus",
-                    "Peter"
+                    "St. Peter's"
                 ],
                 "ORG": [
                     "the Second Adam",
                     "iTunes",
-                    "James Lutheran Church",
+                    "St. James Lutheran Church",
                     "Lutheran Church"
                 ],
                 "DATE": [
@@ -4826,14 +4818,14 @@
                 "PERSON": [
                     "Craig",
                     "Jesus",
-                    "Peter"
+                    "St. Peter's"
                 ],
                 "GPE": [
                     "Troy"
                 ],
                 "ORG": [
                     "iTunes",
-                    "James Lutheran Church",
+                    "St. James Lutheran Church",
                     "Lutheran Church"
                 ]
             }
@@ -4866,11 +4858,11 @@
             "entities": {
                 "ORG": [
                     "iTunes",
-                    "James Lutheran Church",
+                    "St. James Lutheran Church",
                     "Lutheran Church"
                 ],
                 "PERSON": [
-                    "Peter"
+                    "St. Peter's"
                 ]
             }
         },
@@ -4906,14 +4898,15 @@
                     "Mary",
                     "Jesus",
                     "Matthew 2",
-                    "Peter"
+                    "St. Peter's"
                 ],
                 "GPE": [
                     "Egypt"
                 ],
                 "ORG": [
+                    "the Old Testament",
                     "iTunes",
-                    "James Lutheran Church",
+                    "St. James Lutheran Church",
                     "Lutheran Church"
                 ]
             }
@@ -4946,7 +4939,7 @@
             "entities": {
                 "PERSON": [
                     "Herod",
-                    "Peter"
+                    "St. Peter's"
                 ],
                 "NORP": [
                     "Magi",
@@ -4954,7 +4947,7 @@
                 ],
                 "ORG": [
                     "iTunes",
-                    "James Lutheran Church",
+                    "St. James Lutheran Church",
                     "Lutheran Church"
                 ]
             }
@@ -4986,12 +4979,13 @@
             "title": "Daydream believer",
             "entities": {
                 "PERSON": [
+                    "Joseph",
                     "Mary",
-                    "Peter"
+                    "St. Peter's"
                 ],
                 "ORG": [
                     "iTunes",
-                    "James Lutheran Church",
+                    "St. James Lutheran Church",
                     "Lutheran Church"
                 ]
             }
@@ -5026,11 +5020,11 @@
                     "Matthew",
                     "Jesus",
                     "Jesus",
-                    "Peter"
+                    "St. Peter's"
                 ],
                 "ORG": [
                     "iTunes",
-                    "James Lutheran Church",
+                    "St. James Lutheran Church",
                     "Lutheran Church"
                 ]
             }
@@ -5061,14 +5055,15 @@
             "entities": {
                 "PERSON": [
                     "Craig",
-                    "Peter"
+                    "Ruth",
+                    "St. Peter's"
                 ],
                 "GPE": [
                     "Troy"
                 ],
                 "ORG": [
                     "iTunes",
-                    "James Lutheran Church",
+                    "St. James Lutheran Church",
                     "Lutheran Church"
                 ]
             }
@@ -5116,11 +5111,8 @@
                 "MONEY": [
                     "125,000"
                 ],
-                "TIME": [
-                    "midnight"
-                ],
-                "GPE": [
-                    "Giving"
+                "ORG": [
+                    "PST"
                 ]
             }
         },
@@ -5151,14 +5143,14 @@
                 "PERSON": [
                     "Ruth",
                     "Boaz",
-                    "Peter"
+                    "St. Peter's"
                 ],
                 "CARDINAL": [
                     "six"
                 ],
                 "ORG": [
                     "iTunes",
-                    "James Lutheran Church",
+                    "St. James Lutheran Church",
                     "Lutheran Church"
                 ]
             }
@@ -5187,17 +5179,18 @@
             "pubDate": "Fri, 20 Nov 2020 11:00:00 +0000",
             "title": "Ruth: Solo-no more",
             "entities": {
+                "PERSON": [
+                    "Ruth",
+                    "St. Peter's"
+                ],
                 "LAW": [
                     "chapter three"
                 ],
                 "ORG": [
                     "Redeemer",
                     "iTunes",
-                    "James Lutheran Church",
+                    "St. James Lutheran Church",
                     "Lutheran Church"
-                ],
-                "PERSON": [
-                    "Peter"
                 ]
             }
         },
@@ -5227,11 +5220,11 @@
             "entities": {
                 "PERSON": [
                     "Ruth",
-                    "Peter"
+                    "St. Peter's"
                 ],
                 "ORG": [
                     "iTunes",
-                    "James Lutheran Church",
+                    "St. James Lutheran Church",
                     "Lutheran Church"
                 ]
             }
@@ -5264,12 +5257,12 @@
                     "Ruth",
                     "Ruth",
                     "Naomi",
-                    "Peter"
+                    "St. Peter's"
                 ],
                 "ORG": [
                     "Naomi",
                     "iTunes",
-                    "James Lutheran Church",
+                    "St. James Lutheran Church",
                     "Lutheran Church"
                 ]
             }
@@ -5304,11 +5297,11 @@
                 ],
                 "PERSON": [
                     "Luther",
-                    "Peter"
+                    "St. Peter's"
                 ],
                 "ORG": [
                     "iTunes",
-                    "James Lutheran Church",
+                    "St. James Lutheran Church",
                     "Lutheran Church"
                 ]
             }
@@ -5342,11 +5335,11 @@
                 ],
                 "ORG": [
                     "iTunes",
-                    "James Lutheran Church",
+                    "St. James Lutheran Church",
                     "Lutheran Church"
                 ],
                 "PERSON": [
-                    "Peter"
+                    "St. Peter's"
                 ]
             }
         },
@@ -5381,7 +5374,7 @@
                     "Ruth",
                     "Craig",
                     "Ruth",
-                    "Peter"
+                    "St. Peter's"
                 ],
                 "DATE": [
                     "the year"
@@ -5391,7 +5384,7 @@
                 ],
                 "ORG": [
                     "iTunes",
-                    "James Lutheran Church",
+                    "St. James Lutheran Church",
                     "Lutheran Church"
                 ]
             }
@@ -5423,12 +5416,12 @@
                 "ORG": [
                     "the Kool-Aid",
                     "iTunes",
-                    "James Lutheran Church",
+                    "St. James Lutheran Church",
                     "Lutheran Church"
                 ],
                 "PERSON": [
                     "Craig",
-                    "Peter"
+                    "St. Peter's"
                 ],
                 "GPE": [
                     "Troy"
@@ -5463,13 +5456,13 @@
                     "the Created Son",
                     "Christoogical",
                     "iTunes",
-                    "James Lutheran Church",
+                    "St. James Lutheran Church",
                     "Lutheran Church"
                 ],
                 "PERSON": [
                     "Craig",
                     "Jesus",
-                    "Peter"
+                    "St. Peter's"
                 ],
                 "GPE": [
                     "Troy"
@@ -5504,14 +5497,14 @@
                     "Jesus",
                     "Jesus",
                     "Jesus",
-                    "Peter"
+                    "St. Peter's"
                 ],
                 "GPE": [
                     "heresy"
                 ],
                 "ORG": [
                     "iTunes",
-                    "James Lutheran Church",
+                    "St. James Lutheran Church",
                     "Lutheran Church"
                 ]
             }
@@ -5546,7 +5539,7 @@
                 ],
                 "PERSON": [
                     "Craig",
-                    "Peter"
+                    "St. Peter's"
                 ],
                 "GPE": [
                     "Troy"
@@ -5556,7 +5549,7 @@
                 ],
                 "ORG": [
                     "iTunes",
-                    "James Lutheran Church",
+                    "St. James Lutheran Church",
                     "Lutheran Church"
                 ]
             }
@@ -5587,7 +5580,7 @@
             "entities": {
                 "PERSON": [
                     "Craig",
-                    "Peter"
+                    "St. Peter's"
                 ],
                 "GPE": [
                     "Troy",
@@ -5595,7 +5588,7 @@
                 ],
                 "ORG": [
                     "iTunes",
-                    "James Lutheran Church",
+                    "St. James Lutheran Church",
                     "Lutheran Church"
                 ]
             }
@@ -5627,14 +5620,14 @@
                 "PERSON": [
                     "Craig",
                     "Jesus",
-                    "Peter"
+                    "St. Peter's"
                 ],
                 "GPE": [
                     "Troy"
                 ],
                 "ORG": [
                     "iTunes",
-                    "James Lutheran Church",
+                    "St. James Lutheran Church",
                     "Lutheran Church"
                 ]
             }
@@ -5665,7 +5658,7 @@
             "entities": {
                 "PERSON": [
                     "Craig",
-                    "Peter"
+                    "St. Peter's"
                 ],
                 "GPE": [
                     "Troy"
@@ -5675,7 +5668,7 @@
                 ],
                 "ORG": [
                     "iTunes",
-                    "James Lutheran Church",
+                    "St. James Lutheran Church",
                     "Lutheran Church"
                 ]
             }
@@ -5706,14 +5699,14 @@
             "entities": {
                 "PERSON": [
                     "Craig",
-                    "Peter"
+                    "St. Peter's"
                 ],
                 "GPE": [
                     "Troy"
                 ],
                 "ORG": [
                     "iTunes",
-                    "James Lutheran Church",
+                    "St. James Lutheran Church",
                     "Lutheran Church"
                 ]
             }
@@ -5746,8 +5739,8 @@
                     "John Pless",
                     "Craig",
                     "John",
-                    "Jesus Christ.</p",
-                    "Peter"
+                    "Jesus Christ",
+                    "St. Peter's"
                 ],
                 "GPE": [
                     "Troy",
@@ -5755,7 +5748,7 @@
                 ],
                 "ORG": [
                     "iTunes",
-                    "James Lutheran Church",
+                    "St. James Lutheran Church",
                     "Lutheran Church"
                 ]
             }
@@ -5788,14 +5781,14 @@
                     "John Pless",
                     "Craig",
                     "John",
-                    "Peter"
+                    "St. Peter's"
                 ],
                 "GPE": [
                     "Troy"
                 ],
                 "ORG": [
                     "iTunes",
-                    "James Lutheran Church",
+                    "St. James Lutheran Church",
                     "Lutheran Church"
                 ]
             }
@@ -5827,7 +5820,7 @@
                 "PERSON": [
                     "Rich Rudowske",
                     "Craig",
-                    "Peter"
+                    "St. Peter's"
                 ],
                 "WORK_OF_ART": [
                     "Lutheran Bible Translators"
@@ -5837,7 +5830,7 @@
                 ],
                 "ORG": [
                     "iTunes",
-                    "James Lutheran Church",
+                    "St. James Lutheran Church",
                     "Lutheran Church"
                 ]
             }
@@ -5869,7 +5862,7 @@
                 "PERSON": [
                     "Craig",
                     "Paul",
-                    "Peter"
+                    "St. Peter's"
                 ],
                 "GPE": [
                     "Troy"
@@ -5879,7 +5872,7 @@
                 ],
                 "ORG": [
                     "iTunes",
-                    "James Lutheran Church",
+                    "St. James Lutheran Church",
                     "Lutheran Church"
                 ]
             }
@@ -5912,11 +5905,11 @@
                     "Spirit",
                     "Spirit",
                     "iTunes",
-                    "James Lutheran Church",
+                    "St. James Lutheran Church",
                     "Lutheran Church"
                 ],
                 "PERSON": [
-                    "Peter"
+                    "St. Peter's"
                 ]
             }
         },
@@ -5950,11 +5943,11 @@
                 "PERSON": [
                     "Jesus",
                     "Jesus",
-                    "Peter"
+                    "St. Peter's"
                 ],
                 "ORG": [
                     "iTunes",
-                    "James Lutheran Church",
+                    "St. James Lutheran Church",
                     "Lutheran Church"
                 ]
             }
@@ -5985,11 +5978,11 @@
             "entities": {
                 "PERSON": [
                     "Paul",
-                    "Peter"
+                    "St. Peter's"
                 ],
                 "ORG": [
                     "iTunes",
-                    "James Lutheran Church",
+                    "St. James Lutheran Church",
                     "Lutheran Church"
                 ]
             }
@@ -6020,11 +6013,11 @@
             "entities": {
                 "PERSON": [
                     "Paul",
-                    "Peter"
+                    "St. Peter's"
                 ],
                 "ORG": [
                     "iTunes",
-                    "James Lutheran Church",
+                    "St. James Lutheran Church",
                     "Lutheran Church"
                 ]
             }
@@ -6056,11 +6049,11 @@
                 "PERSON": [
                     "Law",
                     "Law",
-                    "Peter"
+                    "St. Peter's"
                 ],
                 "ORG": [
                     "iTunes",
-                    "James Lutheran Church",
+                    "St. James Lutheran Church",
                     "Lutheran Church"
                 ]
             }
@@ -6093,11 +6086,11 @@
                     "Paul",
                     "Law",
                     "Law",
-                    "Peter"
+                    "St. Peter's"
                 ],
                 "ORG": [
                     "iTunes",
-                    "James Lutheran Church",
+                    "St. James Lutheran Church",
                     "Lutheran Church"
                 ]
             }
@@ -6129,12 +6122,12 @@
                 "PERSON": [
                     "Paul",
                     "Abraham",
-                    "Peter"
+                    "St. Peter's"
                 ],
                 "ORG": [
                     "Spirit",
                     "iTunes",
-                    "James Lutheran Church",
+                    "St. James Lutheran Church",
                     "Lutheran Church"
                 ]
             }
@@ -6167,11 +6160,11 @@
                     "Apostle",
                     "Paul",
                     "Peter",
-                    "Peter"
+                    "St. Peter's"
                 ],
                 "ORG": [
                     "iTunes",
-                    "James Lutheran Church",
+                    "St. James Lutheran Church",
                     "Lutheran Church"
                 ]
             }
@@ -6203,13 +6196,13 @@
                 "PERSON": [
                     "Paul",
                     "Paul",
-                    "Jesus Christ.</p",
-                    "Peter"
+                    "Jesus Christ",
+                    "St. Peter's"
                 ],
                 "ORG": [
                     "Christ",
                     "iTunes",
-                    "James Lutheran Church",
+                    "St. James Lutheran Church",
                     "Lutheran Church"
                 ]
             }
@@ -6242,7 +6235,7 @@
                     "Craig",
                     "Troy",
                     "Paul",
-                    "Peter"
+                    "St. Peter's"
                 ],
                 "NORP": [
                     "Galatians",
@@ -6253,7 +6246,7 @@
                 ],
                 "ORG": [
                     "iTunes",
-                    "James Lutheran Church",
+                    "St. James Lutheran Church",
                     "Lutheran Church"
                 ]
             }
@@ -6285,14 +6278,14 @@
                 "PERSON": [
                     "Craig",
                     "Word",
-                    "Peter"
+                    "St. Peter's"
                 ],
                 "GPE": [
                     "Troy"
                 ],
                 "ORG": [
                     "iTunes",
-                    "James Lutheran Church",
+                    "St. James Lutheran Church",
                     "Lutheran Church"
                 ]
             }
@@ -6324,8 +6317,7 @@
                 "PERSON": [
                     "Craig",
                     "Word",
-                    "mix.</p",
-                    "Peter"
+                    "St. Peter's"
                 ],
                 "GPE": [
                     "Troy",
@@ -6336,7 +6328,7 @@
                 ],
                 "ORG": [
                     "iTunes",
-                    "James Lutheran Church",
+                    "St. James Lutheran Church",
                     "Lutheran Church"
                 ]
             }
@@ -6369,12 +6361,12 @@
                     "Scott Keith",
                     "Caleb Keith",
                     "Craig",
-                    "Peter"
+                    "St. Peter's"
                 ],
                 "ORG": [
                     "The Thinking Fellows",
                     "iTunes",
-                    "James Lutheran Church",
+                    "St. James Lutheran Church",
                     "Lutheran Church"
                 ],
                 "GPE": [
@@ -6406,21 +6398,20 @@
             "pubDate": "Fri, 17 Apr 2020 10:00:00 +0000",
             "title": "Studying the Word",
             "entities": {
-                "PERSON": [
-                    "you</em",
-                    "Craig",
-                    "Peter"
-                ],
                 "WORK_OF_ART": [
                     "Bible",
                     "Bible"
+                ],
+                "PERSON": [
+                    "Craig",
+                    "St. Peter's"
                 ],
                 "GPE": [
                     "Troy"
                 ],
                 "ORG": [
                     "iTunes",
-                    "James Lutheran Church",
+                    "St. James Lutheran Church",
                     "Lutheran Church"
                 ]
             }
@@ -6449,19 +6440,16 @@
             "pubDate": "Fri, 10 Apr 2020 12:56:14 +0000",
             "title": "The one that's about Holy Week",
             "entities": {
-                "DATE": [
-                    "Week"
-                ],
                 "CARDINAL": [
                     "one"
                 ],
                 "PERSON": [
                     "Jesus Christ",
-                    "Peter"
+                    "St. Peter's"
                 ],
                 "ORG": [
                     "iTunes",
-                    "James Lutheran Church",
+                    "St. James Lutheran Church",
                     "Lutheran Church"
                 ]
             }
@@ -6492,14 +6480,14 @@
             "entities": {
                 "PERSON": [
                     "Craig",
-                    "Peter"
+                    "St. Peter's"
                 ],
                 "GPE": [
                     "Troy"
                 ],
                 "ORG": [
                     "iTunes",
-                    "James Lutheran Church",
+                    "St. James Lutheran Church",
                     "Lutheran Church"
                 ]
             }
@@ -6530,14 +6518,14 @@
             "entities": {
                 "PERSON": [
                     "Craig",
-                    "Peter"
+                    "St. Peter's"
                 ],
                 "GPE": [
                     "Troy"
                 ],
                 "ORG": [
                     "iTunes",
-                    "James Lutheran Church",
+                    "St. James Lutheran Church",
                     "Lutheran Church"
                 ]
             }
@@ -6568,15 +6556,15 @@
             "entities": {
                 "PERSON": [
                     "Craig",
-                    "Jesus Christ.</p",
-                    "Peter"
+                    "Jesus Christ",
+                    "St. Peter's"
                 ],
                 "GPE": [
                     "Troy"
                 ],
                 "ORG": [
                     "iTunes",
-                    "James Lutheran Church",
+                    "St. James Lutheran Church",
                     "Lutheran Church"
                 ]
             }
@@ -6609,7 +6597,7 @@
             "entities": {
                 "PERSON": [
                     "Craig",
-                    "Peter"
+                    "St. Peter's"
                 ],
                 "GPE": [
                     "Troy"
@@ -6618,8 +6606,9 @@
                     "zero"
                 ],
                 "ORG": [
+                    "OFTEN",
                     "iTunes",
-                    "James Lutheran Church",
+                    "St. James Lutheran Church",
                     "Lutheran Church"
                 ]
             }
@@ -6653,8 +6642,8 @@
                     "Craig",
                     "James",
                     "Jesus Christ",
-                    "Robert M. Hiller</span></p",
-                    "Peter"
+                    "Robert M. Hiller",
+                    "St. Peter's"
                 ],
                 "GPE": [
                     "Troy"
@@ -6664,7 +6653,7 @@
                 ],
                 "ORG": [
                     "iTunes",
-                    "James Lutheran Church",
+                    "St. James Lutheran Church",
                     "Lutheran Church"
                 ]
             }
@@ -6693,19 +6682,16 @@
             "pubDate": "Fri, 06 Mar 2020 12:00:00 +0000",
             "title": "The hiddenness of God in our suffering",
             "entities": {
-                "CARDINAL": [
-                    "400;\">Why"
-                ],
                 "PERSON": [
                     "Craig",
-                    "Peter"
+                    "St. Peter's"
                 ],
                 "GPE": [
                     "Troy"
                 ],
                 "ORG": [
                     "iTunes",
-                    "James Lutheran Church",
+                    "St. James Lutheran Church",
                     "Lutheran Church"
                 ]
             }
@@ -6734,22 +6720,15 @@
             "pubDate": "Fri, 28 Feb 2020 12:00:00 +0000",
             "title": "Deaths of Despair",
             "entities": {
-                "DATE": [
-                    "400;\">Every year"
-                ],
                 "PERSON": [
                     "Kevin",
                     "Kevin McClain",
-                    "Peter"
-                ],
-                "CARDINAL": [
-                    "400;\"><br",
-                    "400;\"><br"
+                    "St. Peter's"
                 ],
                 "ORG": [
                     "Trinity Lutheran Church",
                     "iTunes",
-                    "James Lutheran Church",
+                    "St. James Lutheran Church",
                     "Lutheran Church"
                 ],
                 "GPE": [
@@ -6785,14 +6764,14 @@
             "entities": {
                 "PERSON": [
                     "Craig",
-                    "Peter"
+                    "St. Peter's"
                 ],
                 "GPE": [
                     "Troy"
                 ],
                 "ORG": [
                     "iTunes",
-                    "James Lutheran Church",
+                    "St. James Lutheran Church",
                     "Lutheran Church"
                 ]
             }
@@ -6825,25 +6804,24 @@
             "title": "Suffering with Jesus",
             "entities": {
                 "CARDINAL": [
-                    "400;\">In 2nd",
-                    "400;\">Scriptures",
+                    "2nd",
                     "2",
                     "2",
-                    "12</span></p"
+                    "12"
                 ],
-                "NORP": [
+                "GPE": [
                     "Corinthians"
                 ],
                 "PERSON": [
                     "Paul",
                     "Paul",
                     "Jesus",
-                    "Peter"
+                    "St. Peter's"
                 ],
                 "ORG": [
                     "Louie the Unofficial Comfort Dog/Program",
                     "iTunes",
-                    "James Lutheran Church",
+                    "St. James Lutheran Church",
                     "Lutheran Church"
                 ]
             }
@@ -6872,12 +6850,9 @@
             "pubDate": "Fri, 07 Feb 2020 15:11:50 +0000",
             "title": "Suffering, part 1",
             "entities": {
-                "CARDINAL": [
-                    "400;\">Suffering"
-                ],
                 "PERSON": [
                     "Craig",
-                    "Peter"
+                    "St. Peter's"
                 ],
                 "GPE": [
                     "Troy"
@@ -6885,7 +6860,7 @@
                 "ORG": [
                     "Biblical",
                     "iTunes",
-                    "James Lutheran Church",
+                    "St. James Lutheran Church",
                     "Lutheran Church"
                 ]
             }
@@ -6914,16 +6889,13 @@
             "pubDate": "Fri, 31 Jan 2020 12:00:00 +0000",
             "title": "Gimme justice!",
             "entities": {
-                "CARDINAL": [
-                    "400;\">Get"
-                ],
                 "ORG": [
                     "iTunes",
-                    "James Lutheran Church",
+                    "St. James Lutheran Church",
                     "Lutheran Church"
                 ],
                 "PERSON": [
-                    "Peter"
+                    "St. Peter's"
                 ]
             }
         },
@@ -6955,8 +6927,8 @@
             "title": "That darned darnel!",
             "entities": {
                 "PERSON": [
-                    "400;\">Craig",
-                    "Peter"
+                    "Craig",
+                    "St. Peter's"
                 ],
                 "GPE": [
                     "Troy"
@@ -6964,7 +6936,7 @@
                 "ORG": [
                     "Christ",
                     "iTunes",
-                    "James Lutheran Church",
+                    "St. James Lutheran Church",
                     "Lutheran Church"
                 ]
             }
@@ -6996,10 +6968,11 @@
             "pubDate": "Fri, 17 Jan 2020 11:30:00 +0000",
             "title": "How much forgiveness do you have?",
             "entities": {
+                "PERSON": [
+                    "Matthew 18:21-35",
+                    "St. Peter's"
+                ],
                 "CARDINAL": [
-                    "400;\">How",
-                    "400;\">Matthew",
-                    "400;\">Forgiveness",
                     "two",
                     "one"
                 ],
@@ -7007,14 +6980,11 @@
                     "Monacos",
                     "Toyota",
                     "iTunes",
-                    "James Lutheran Church",
+                    "St. James Lutheran Church",
                     "Lutheran Church"
                 ],
                 "PRODUCT": [
                     "Corolla"
-                ],
-                "PERSON": [
-                    "Peter"
                 ]
             }
         },
@@ -7046,20 +7016,18 @@
             "title": "Give me oil for my lamp, keep it burning",
             "entities": {
                 "CARDINAL": [
-                    "400;\">The",
-                    "ten",
-                    "400;\">#iwishwe\u2019dallbeenready</span></p"
+                    "ten"
                 ],
                 "GPE": [
                     "Christ"
                 ],
                 "ORG": [
                     "iTunes",
-                    "James Lutheran Church",
+                    "St. James Lutheran Church",
                     "Lutheran Church"
                 ],
                 "PERSON": [
-                    "Peter"
+                    "St. Peter's"
                 ]
             }
         },
@@ -7091,19 +7059,19 @@
             "title": "If One should return from the dead . . .\u00a0",
             "entities": {
                 "CARDINAL": [
-                    "400;\">Luke 16",
-                    "400;\">Moses"
+                    "16"
                 ],
                 "WORK_OF_ART": [
                     "Parable"
                 ],
+                "PERSON": [
+                    "Lazarus Moses",
+                    "St. Peter's"
+                ],
                 "ORG": [
                     "iTunes",
-                    "James Lutheran Church",
+                    "St. James Lutheran Church",
                     "Lutheran Church"
-                ],
-                "PERSON": [
-                    "Peter"
                 ]
             }
         },
@@ -7133,25 +7101,18 @@
             "pubDate": "Fri, 27 Dec 2019 11:30:00 +0000",
             "title": "The Parable Of the Laborers in The Vineyard",
             "entities": {
-                "MONEY": [
-                    "400;\">Matthew 20-"
+                "PERSON": [
+                    "Matthew 20-",
+                    "St. Peter's"
                 ],
-                "WORK_OF_ART": [
-                    "The Parable Of the Laborers"
-                ],
-                "GPE": [
-                    "Nunya"
-                ],
-                "CARDINAL": [
-                    "400;\">\u201cNunya"
+                "FAC": [
+                    "The Vineyard Title"
                 ],
                 "ORG": [
+                    "the Nunya Corporation",
                     "iTunes",
-                    "James Lutheran Church",
+                    "St. James Lutheran Church",
                     "Lutheran Church"
-                ],
-                "PERSON": [
-                    "Peter"
                 ]
             }
         },
@@ -7190,7 +7151,7 @@
                     "Luke",
                     "John",
                     "Mary",
-                    "Peter"
+                    "St. Peter's"
                 ],
                 "DATE": [
                     "Merry Christmas"
@@ -7200,7 +7161,7 @@
                 ],
                 "ORG": [
                     "iTunes",
-                    "James Lutheran Church",
+                    "St. James Lutheran Church",
                     "Lutheran Church"
                 ]
             }
@@ -7232,16 +7193,13 @@
             "pubDate": "Fri, 13 Dec 2019 12:00:00 +0000",
             "title": "Prodigal Son, Cranky Brother or Crazy Old Man? ",
             "entities": {
-                "WORK_OF_ART": [
-                    "400;\">The Crazy Old"
-                ],
                 "ORG": [
                     "iTunes",
-                    "James Lutheran Church",
+                    "St. James Lutheran Church",
                     "Lutheran Church"
                 ],
                 "PERSON": [
-                    "Peter"
+                    "St. Peter's"
                 ]
             }
         },
@@ -7273,11 +7231,11 @@
                 "PERSON": [
                     "Jesus",
                     "Jesus",
-                    "Peter"
+                    "St. Peter's"
                 ],
                 "ORG": [
                     "iTunes",
-                    "James Lutheran Church",
+                    "St. James Lutheran Church",
                     "Lutheran Church"
                 ]
             }
@@ -7308,22 +7266,20 @@
             "pubDate": "Fri, 29 Nov 2019 12:00:00 +0000",
             "title": "Introduction to the Parables of Christ ",
             "entities": {
-                "CARDINAL": [
-                    "13"
-                ],
-                "WORK_OF_ART": [
-                    "Parable"
-                ],
                 "PERSON": [
+                    "Matthew 13\u00a0 ",
                     "Jesus",
                     "Troy Neujahr",
                     "Craig Donofrio",
                     "Jesus",
-                    "Peter"
+                    "St. Peter's"
+                ],
+                "WORK_OF_ART": [
+                    "Parable"
                 ],
                 "ORG": [
                     "iTunes",
-                    "James Lutheran Church",
+                    "St. James Lutheran Church",
                     "Lutheran Church"
                 ]
             }
@@ -7352,19 +7308,20 @@
             "pubDate": "Fri, 29 Nov 2019 02:13:41 +0000",
             "title": "Thanksgiving Bonusode Extravaganza! ",
             "entities": {
+                "GPE": [
+                    "Troy",
+                    "Troy"
+                ],
                 "PERSON": [
                     "Craig",
                     "Craig",
                     "Luke 18:9-14",
-                    "Peter"
-                ],
-                "GPE": [
-                    "Troy"
+                    "St. Peter's"
                 ],
                 "ORG": [
                     "Pharisee",
                     "iTunes",
-                    "James Lutheran Church",
+                    "St. James Lutheran Church",
                     "Lutheran Church"
                 ],
                 "DATE": [
@@ -7398,19 +7355,22 @@
             "pubDate": "Fri, 22 Nov 2019 12:00:00 +0000",
             "title": "Arrivederci Roma!  Farewell to Rome ",
             "entities": {
+                "NORP": [
+                    "Romans"
+                ],
                 "CARDINAL": [
                     "15:22"
                 ],
                 "PERSON": [
                     "Paul",
-                    "Peter"
+                    "St. Peter's"
                 ],
                 "GPE": [
                     "don\u2019t"
                 ],
                 "ORG": [
                     "iTunes",
-                    "James Lutheran Church",
+                    "St. James Lutheran Church",
                     "Lutheran Church"
                 ]
             }
@@ -7441,17 +7401,19 @@
             "pubDate": "Mon, 18 Nov 2019 17:18:51 +0000",
             "title": "Winding Down and Wrapping up Romans ",
             "entities": {
+                "NORP": [
+                    "Romans"
+                ],
                 "CARDINAL": [
-                    "15:1",
-                    "400;\">It"
+                    "15:1"
                 ],
                 "PERSON": [
                     "Gospel",
-                    "Peter"
+                    "St. Peter's"
                 ],
                 "ORG": [
                     "iTunes",
-                    "James Lutheran Church",
+                    "St. James Lutheran Church",
                     "Lutheran Church"
                 ]
             }
@@ -7487,14 +7449,14 @@
                 "PERSON": [
                     "Son",
                     "Caleb Keith",
-                    "Peter"
+                    "St. Peter's"
                 ],
                 "ORG": [
                     "Co-Host",
                     "the Thinking Fellows Podcast",
                     "the Book, Credo",
                     "iTunes",
-                    "James Lutheran Church",
+                    "St. James Lutheran Church",
                     "Lutheran Church"
                 ]
             }
@@ -7534,15 +7496,17 @@
                 "PERSON": [
                     "Steve Hein",
                     "Hein",
-                    "Peter"
+                    "St. Peter's"
                 ],
                 "GPE": [
                     "San Diego"
                 ],
+                "WORK_OF_ART": [
+                    "CA"
+                ],
                 "ORG": [
-                    "CA",
                     "iTunes",
-                    "James Lutheran Church",
+                    "St. James Lutheran Church",
                     "Lutheran Church"
                 ]
             }
@@ -7572,16 +7536,13 @@
             "pubDate": "Fri, 25 Oct 2019 12:00:00 +0000",
             "title": "#24 \u201cWeaker Brother or Self-Righteous Bully\"",
             "entities": {
-                "CARDINAL": [
-                    "400;\">If"
-                ],
                 "ORG": [
                     "iTunes",
-                    "James Lutheran Church",
+                    "St. James Lutheran Church",
                     "Lutheran Church"
                 ],
                 "PERSON": [
-                    "Peter"
+                    "St. Peter's"
                 ]
             }
         },
@@ -7616,14 +7577,14 @@
                 "PERSON": [
                     "Paul",
                     "Craig",
-                    "Peter"
+                    "St. Peter's"
                 ],
                 "GPE": [
                     "Troy"
                 ],
                 "ORG": [
                     "iTunes",
-                    "James Lutheran Church",
+                    "St. James Lutheran Church",
                     "Lutheran Church"
                 ]
             }
@@ -7653,19 +7614,20 @@
             "pubDate": "Fri, 11 Oct 2019 12:00:00 +0000",
             "title": "#22 \u201cVengeance is mine!\u201d ",
             "entities": {
+                "GPE": [
+                    "Vengeance",
+                    "Troy"
+                ],
                 "NORP": [
                     "Christians"
                 ],
                 "PERSON": [
                     "Craig",
-                    "Peter"
-                ],
-                "GPE": [
-                    "Troy"
+                    "St. Peter's"
                 ],
                 "ORG": [
                     "iTunes",
-                    "James Lutheran Church",
+                    "St. James Lutheran Church",
                     "Lutheran Church"
                 ]
             }
@@ -7697,11 +7659,11 @@
             "entities": {
                 "PERSON": [
                     "Apostle Paul",
-                    "Peter"
+                    "St. Peter's"
                 ],
                 "ORG": [
                     "iTunes",
-                    "James Lutheran Church",
+                    "St. James Lutheran Church",
                     "Lutheran Church"
                 ]
             }
@@ -7733,11 +7695,11 @@
             "entities": {
                 "ORG": [
                     "iTunes",
-                    "James Lutheran Church",
+                    "St. James Lutheran Church",
                     "Lutheran Church"
                 ],
                 "PERSON": [
-                    "Peter"
+                    "St. Peter's"
                 ]
             }
         },
@@ -7769,6 +7731,9 @@
                 "NORP": [
                     "Romans"
                 ],
+                "CARDINAL": [
+                    "11:25\u201412:2"
+                ],
                 "PERSON": [
                     "Jesus",
                     "Jesus",
@@ -7776,11 +7741,11 @@
                     "Jesus",
                     "Jesus",
                     "His Messiah",
-                    "Peter"
+                    "St. Peter's"
                 ],
                 "ORG": [
                     "iTunes",
-                    "James Lutheran Church",
+                    "St. James Lutheran Church",
                     "Lutheran Church"
                 ]
             }
@@ -7818,8 +7783,8 @@
                     "Craig",
                     "Paul",
                     "Gentile",
-                    "Jesus Christ.</p",
-                    "Peter"
+                    "Jesus Christ",
+                    "St. Peter's"
                 ],
                 "GPE": [
                     "Troy"
@@ -7829,7 +7794,7 @@
                 ],
                 "ORG": [
                     "iTunes",
-                    "James Lutheran Church",
+                    "St. James Lutheran Church",
                     "Lutheran Church"
                 ]
             }
@@ -7859,12 +7824,15 @@
             "pubDate": "Fri, 06 Sep 2019 10:00:00 +0000",
             "title": "Episode 17 For You Radio ",
             "entities": {
-                "CARDINAL": [
+                "NORP": [
+                    "Romans"
+                ],
+                "DATE": [
                     "11:1-17"
                 ],
                 "PERSON": [
                     "Craig",
-                    "Peter"
+                    "St. Peter's"
                 ],
                 "GPE": [
                     "Troy"
@@ -7872,7 +7840,7 @@
                 "ORG": [
                     "grace",
                     "iTunes",
-                    "James Lutheran Church",
+                    "St. James Lutheran Church",
                     "Lutheran Church"
                 ]
             }
@@ -7905,10 +7873,13 @@
                 "NORP": [
                     "Romans"
                 ],
+                "CARDINAL": [
+                    "10"
+                ],
                 "ORG": [
                     "Christ",
                     "iTunes",
-                    "James Lutheran Church",
+                    "St. James Lutheran Church",
                     "Lutheran Church"
                 ],
                 "GPE": [
@@ -7920,7 +7891,7 @@
                 ],
                 "PERSON": [
                     "Craig",
-                    "Peter"
+                    "St. Peter's"
                 ],
                 "WORK_OF_ART": [
                     "For You Radio"
@@ -7963,11 +7934,11 @@
                 ],
                 "PERSON": [
                     "Gentile",
-                    "Peter"
+                    "St. Peter's"
                 ],
                 "ORG": [
                     "iTunes",
-                    "James Lutheran Church",
+                    "St. James Lutheran Church",
                     "Lutheran Church"
                 ]
             }
@@ -7997,16 +7968,15 @@
             "pubDate": "Fri, 16 Aug 2019 10:00:00 +0000",
             "title": "Episode 14 For You Radio ",
             "entities": {
-                "NORP": [
-                    "Romans",
-                    "Romans"
-                ],
                 "CARDINAL": [
                     "8"
                 ],
+                "NORP": [
+                    "Romans"
+                ],
                 "PERSON": [
                     "Craig",
-                    "Peter"
+                    "St. Peter's"
                 ],
                 "GPE": [
                     "Troy",
@@ -8014,7 +7984,7 @@
                 ],
                 "ORG": [
                     "iTunes",
-                    "James Lutheran Church",
+                    "St. James Lutheran Church",
                     "Lutheran Church"
                 ]
             }
@@ -8047,7 +8017,7 @@
                 "PERSON": [
                     "Craig",
                     "Jonah",
-                    "Peter"
+                    "St. Peter's"
                 ],
                 "GPE": [
                     "Troy",
@@ -8062,7 +8032,7 @@
                 "ORG": [
                     "Ninevah",
                     "iTunes",
-                    "James Lutheran Church",
+                    "St. James Lutheran Church",
                     "Lutheran Church"
                 ]
             }
@@ -8094,8 +8064,8 @@
             "entities": {
                 "PERSON": [
                     "Jesus",
-                    "Craig",
-                    "Peter"
+                    "Join Craig",
+                    "St. Peter's"
                 ],
                 "GPE": [
                     "Troy"
@@ -8105,7 +8075,7 @@
                 ],
                 "ORG": [
                     "iTunes",
-                    "James Lutheran Church",
+                    "St. James Lutheran Church",
                     "Lutheran Church"
                 ]
             }
@@ -8137,8 +8107,8 @@
             "entities": {
                 "PERSON": [
                     "Jesus",
-                    "Craig",
-                    "Peter"
+                    "Join Craig",
+                    "St. Peter's"
                 ],
                 "WORK_OF_ART": [
                     "Have Church"
@@ -8151,7 +8121,7 @@
                 ],
                 "ORG": [
                     "iTunes",
-                    "James Lutheran Church",
+                    "St. James Lutheran Church",
                     "Lutheran Church"
                 ]
             }
@@ -8183,13 +8153,13 @@
             "entities": {
                 "PERSON": [
                     "Jesus",
-                    "Craig",
-                    "Peter"
+                    "Join Craig",
+                    "St. Peter's"
                 ],
                 "ORG": [
                     "Christ",
                     "iTunes",
-                    "James Lutheran Church",
+                    "St. James Lutheran Church",
                     "Lutheran Church"
                 ],
                 "GPE": [
@@ -8231,13 +8201,13 @@
                 "ORG": [
                     "the New Testament",
                     "iTunes",
-                    "James Lutheran Church",
+                    "St. James Lutheran Church",
                     "Lutheran Church"
                 ],
                 "PERSON": [
-                    "Paul",
-                    "Craig",
-                    "Peter"
+                    "Apostle Paul",
+                    "Join Craig",
+                    "St. Peter's"
                 ],
                 "GPE": [
                     "Troy"
@@ -8283,12 +8253,12 @@
                     "Troy"
                 ],
                 "PERSON": [
-                    "Craig",
-                    "Peter"
+                    "Join Craig",
+                    "St. Peter's"
                 ],
                 "ORG": [
                     "iTunes",
-                    "James Lutheran Church",
+                    "St. James Lutheran Church",
                     "Lutheran Church"
                 ]
             }
@@ -8318,20 +8288,24 @@
             "pubDate": "Fri, 05 Jul 2019 10:00:00 +0000",
             "title": "Episode 8 For You Radio ",
             "entities": {
+                "NORP": [
+                    "Romans",
+                    "Christian"
+                ],
+                "CARDINAL": [
+                    "6"
+                ],
                 "GPE": [
                     "Christ",
                     "Troy"
                 ],
-                "NORP": [
-                    "Christian"
-                ],
                 "PERSON": [
                     "Join Craig",
-                    "Peter"
+                    "St. Peter's"
                 ],
                 "ORG": [
                     "iTunes",
-                    "James Lutheran Church",
+                    "St. James Lutheran Church",
                     "Lutheran Church"
                 ]
             }
@@ -8362,15 +8336,15 @@
             "title": "Minisode 4 For You Radio",
             "entities": {
                 "PERSON": [
-                    "Craig",
-                    "Peter"
+                    "Join Craig",
+                    "St. Peter's"
                 ],
                 "GPE": [
                     "Troy"
                 ],
                 "ORG": [
                     "iTunes",
-                    "James Lutheran Church",
+                    "St. James Lutheran Church",
                     "Lutheran Church"
                 ]
             }
@@ -8400,23 +8374,23 @@
             "pubDate": "Fri, 28 Jun 2019 10:00:00 +0000",
             "title": "Episode 7 For You Radio ",
             "entities": {
+                "NORP": [
+                    "Romans"
+                ],
                 "PRODUCT": [
                     "Sanctification"
                 ],
                 "PERSON": [
                     "Join Craig",
-                    "James Lutheran",
-                    "Peter"
+                    "St. Peter's"
                 ],
                 "GPE": [
                     "Troy"
                 ],
                 "ORG": [
-                    "iTunes"
-                ],
-                "MONEY": [
-                    "000000;\">St",
-                    "000000;\">St"
+                    "iTunes",
+                    "St. James Lutheran Church",
+                    "Lutheran Church"
                 ]
             }
         },
@@ -8446,7 +8420,7 @@
             "title": "Episode 6 For You Radio",
             "entities": {
                 "PERSON": [
-                    "Craig"
+                    "Join Craig"
                 ],
                 "GPE": [
                     "Troy"
@@ -8488,8 +8462,9 @@
                 "DATE": [
                     "Romans 5:3"
                 ],
-                "PRODUCT": [
-                    "id=\"en-ESV-28036"
+                "CARDINAL": [
+                    "4",
+                    "5"
                 ],
                 "GPE": [
                     "Troy"
@@ -8576,8 +8551,7 @@
             "entities": {
                 "GPE": [
                     "Minisode",
-                    "Troy",
-                    "StJamesLCMS.Church,\">www"
+                    "Troy"
                 ],
                 "PERSON": [
                     "Craig"
@@ -8613,6 +8587,9 @@
                 "PERSON": [
                     "Gospel",
                     "Craig"
+                ],
+                "GPE": [
+                    "Troy"
                 ],
                 "NORP": [
                     "Christian"
@@ -8731,6 +8708,9 @@
             "pubDate": "Mon, 20 May 2019 05:07:04 +0000",
             "title": "Minisode 1 - The Law of God For you Radio ",
             "entities": {
+                "GPE": [
+                    "Troy"
+                ],
                 "PERSON": [
                     "Craig"
                 ],

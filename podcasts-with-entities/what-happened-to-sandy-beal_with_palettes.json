@@ -33,6 +33,7 @@
             "title": "Good Grief",
             "entities": {
                 "ORG": [
+                    "Sandy",
                     "the National Suicide Prevention Lifeline"
                 ],
                 "CARDINAL": [
@@ -65,11 +66,12 @@
             "pubDate": "Fri, 22 Apr 2022 08:00:00 +0000",
             "title": "The Unraveling",
             "entities": {
+                "ORG": [
+                    "Sandy",
+                    "the National Suicide Prevention Lifeline"
+                ],
                 "PERSON": [
                     "Kim"
-                ],
-                "ORG": [
-                    "the National Suicide Prevention Lifeline"
                 ],
                 "CARDINAL": [
                     "1-800-273-8255",
@@ -130,6 +132,9 @@
             "pubDate": "Wed, 06 Apr 2022 08:00:00 +0000",
             "title": "Update: Sandy's Police File",
             "entities": {
+                "ORG": [
+                    "Sandy"
+                ],
                 "DATE": [
                     "months"
                 ]
@@ -189,6 +194,7 @@
             "title": "My Life As A Cop Freak",
             "entities": {
                 "ORG": [
+                    "Sandy",
                     "the National Suicide Prevention Lifeline"
                 ],
                 "CARDINAL": [
@@ -265,10 +271,12 @@
                     "Kim Parmer",
                     "Sandy Beal",
                     "Melissa Jeltsen",
-                    "Kim"
+                    "Kim",
+                    "Melissa"
                 ],
                 "GPE": [
-                    "Prince George's County"
+                    "Prince George's County",
+                    "Maryland"
                 ],
                 "ORG": [
                     "the National Suicide Prevention Lifeline"

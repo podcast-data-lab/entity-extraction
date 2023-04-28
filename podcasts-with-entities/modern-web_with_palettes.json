@@ -42,11 +42,11 @@
                     "Rob Ocel",
                     "Jenny Truong",
                     "Jenny",
-                    "jen_ayy_'>Jenny Truong</a>- Head"
+                    "Jenny",
+                    "Rob Ocel - Architect"
                 ],
                 "ORG": [
-                    "XState",
-                    "Operations and Developer Relations"
+                    "XState"
                 ]
             }
         },
@@ -79,9 +79,8 @@
             "entities": {
                 "PERSON": [
                     "Rob Ocel",
-                    "TkDodo'>Dominik Dorfmeister</a",
-                    "Dot",
-                    "Dot Labs</a></p"
+                    "Guest",
+                    "Rob Ocel"
                 ],
                 "ORG": [
                     "Dominik Dorfmeister (Frontend Tech Lead at",
@@ -91,8 +90,7 @@
                     "TanStack",
                     "TanStack",
                     "Maintainer",
-                    "TanStack",
-                    "Software Architect"
+                    "TanStack Query"
                 ],
                 "ORDINAL": [
                     "first"
@@ -128,8 +126,7 @@
             "entities": {
                 "PERSON": [
                     "Jesse Tomchak",
-                    "jtomchak'>Jesse Tomchack</a",
-                    "Dot"
+                    "Jesse Tomchack"
                 ],
                 "ORG": [
                     "TanStack Table",
@@ -138,7 +135,8 @@
                     "Tanner",
                     "TanStack",
                     "TanStack",
-                    "Co-Founder"
+                    "Co-Founder",
+                    "TanStack"
                 ]
             }
         },
@@ -170,19 +168,16 @@
             "title": "S10E09 Modern Web Podcast- Being Yourself, For Fun And Profit ft. Trecia Kat",
             "entities": {
                 "PERSON": [
-                    "TreciaKS'>Trecia Kat</a>",
-                    "TreciaKS'>Trecia Kat</a>",
-                    "DevRel Engineer</p",
-                    "Dot"
+                    "Rob Ocel",
+                    "Trecia Kat",
+                    "Trecia Kat",
+                    "Rob Ocel"
                 ],
                 "GPE": [
                     "DevRel"
                 ],
                 "ORG": [
-                    "CSS",
-                    "Marvel Cinematic",
-                    "Self-Taught Developer",
-                    "Engineering Lead & Software Architect"
+                    "CSS"
                 ]
             }
         },
@@ -216,14 +211,17 @@
                 "WORK_OF_ART": [
                     "The Modern Web"
                 ],
+                "PERSON": [
+                    "Scott Spence",
+                    "Svelte",
+                    "Guest",
+                    "Scott Spence"
+                ],
                 "ORG": [
                     "Developer Relations Engineer",
                     "SvelteSociety London",
-                    "Developer Relations Engineer"
-                ],
-                "PERSON": [
-                    "Svelte",
-                    "Dot"
+                    "Developer Relations Engineer",
+                    "Jesse Tomchak"
                 ],
                 "GPE": [
                     "React"
@@ -264,14 +262,15 @@
                     "This week"
                 ],
                 "ORG": [
-                    "Progress",
-                    "Sr."
+                    "Modern Web Alyssa Nicoll",
+                    "Progress\n\u00a0\nHost",
+                    "Jesse Tomchak"
                 ],
                 "PRODUCT": [
                     "JavaScript"
                 ],
                 "PERSON": [
-                    "Dot"
+                    "Alyssa Nicoll"
                 ]
             }
         },
@@ -302,26 +301,30 @@
             "pubDate": "Wed, 08 Feb 2023 07:00:00 -0500",
             "title": "S10E06 Modern Web Podcast- Deep Learning about React Native and AI with Gant Laborde",
             "entities": {
-                "WORK_OF_ART": [
-                    "Learning TensorFlow.js: Powerful",
-                    "Learning TensorFlow.js: Powerful"
-                ],
                 "PERSON": [
+                    "Rob Ocel",
                     "Machine Learning",
-                    "AI.</p",
-                    "Machine Learning"
+                    "Machine Learning",
+                    "Rob Ocel - Architect"
                 ],
                 "ORG": [
+                    "Gant Laborde",
                     "JavaScript",
                     "Chain React",
                     "AI",
                     "React Native",
                     "AI",
+                    "AI",
+                    "Gant Laborde - CIO",
                     "Infinite Red",
                     "JavaScript",
                     "Chain React",
                     "Google GDE",
-                    "Microsoft"
+                    "Microsoft MVP"
+                ],
+                "WORK_OF_ART": [
+                    "Learning TensorFlow.js: Powerful",
+                    "Learning TensorFlow.js: Powerful"
                 ]
             }
         },
@@ -353,17 +356,22 @@
             "title": "S10E05 Modern Web Podcast- Making Your Websites \u201dQwik\u201d with Shai Reznik",
             "entities": {
                 "PERSON": [
+                    "Rob Ocel",
+                    "Shai Reznik",
                     "Founder",
                     "Qwik",
                     "Qwik",
-                    "shai_reznik'>Shai Reznik</a>- Founder",
-                    "Dot"
+                    "Guest"
                 ],
                 "ORG": [
                     "Qwik",
                     "Qwik",
                     "Qwik",
-                    "Ocel</a>- Software Architect"
+                    "Qwik\n\u00a0\nHost",
+                    "Rob Ocel- Software Architect"
+                ],
+                "WORK_OF_ART": [
+                    "Shai Reznik- Founder"
                 ]
             }
         },
@@ -394,18 +402,19 @@
             "pubDate": "Wed, 25 Jan 2023 08:01:00 -0500",
             "title": "S10E04 Modern Web Podcast- Component Testing with Cypress ft. Jordan Powell",
             "entities": {
+                "PERSON": [
+                    "Rob Ocel",
+                    "Jordan Powell"
+                ],
                 "ORG": [
-                    "Developer Experience Engineer",
-                    "Ocel</a>- Software Architect"
+                    "Developer Experience Engineer Cypress",
+                    "Jordan Powell- Developer Experience Engineer",
+                    "Rob Ocel- Software Architect"
                 ],
                 "FAC": [
                     "Cypress",
                     "Cypress",
                     "Cypress"
-                ],
-                "PERSON": [
-                    "Dot",
-                    "Dot Labs</a></p"
                 ]
             }
         },
@@ -437,10 +446,11 @@
             "title": "S10E03 Modern Web Podcast- Building a Design System with Paige Kelley",
             "entities": {
                 "PERSON": [
-                    "Paige Kelley",
-                    "Paige Kelley- Senior",
-                    "Dot",
-                    "Dot Labs</a></p"
+                    "Jesse Tomchak",
+                    "Paige Kelley"
+                ],
+                "ORG": [
+                    "Pax8\n\u00a0\nHost"
                 ]
             }
         },
@@ -472,10 +482,12 @@
             "title": "S10E02- Authorization on the Web with Cerbos ft. Alex Olivier",
             "entities": {
                 "PERSON": [
-                    "adamlbarrett'>Adam L. Barrett</a",
-                    "alexolivier'>Alex Olivier</a>",
-                    "adamlbarrett'>Adam L. Barrett</a> - Senior Developer",
-                    "alexolivier'>Alex Olivier</a> - Product Lead"
+                    "Rob Ocel",
+                    "Adam L. Barrett",
+                    "Alex Olivier",
+                    "Adam L. Barrett - Senior Developer",
+                    "Rob Ocel - Architect",
+                    "Alex Olivier - Product Lead"
                 ],
                 "ORG": [
                     "Cerbos",
@@ -511,19 +523,20 @@
             "pubDate": "Wed, 04 Jan 2023 08:00:00 -0500",
             "title": "S10E01- Developing an API is Like Building Legos with Ray Gesualdo",
             "entities": {
+                "PERSON": [
+                    "Rob Ocel",
+                    "Ray Gesualdo"
+                ],
                 "ORG": [
                     "Connect Tech 2022",
                     "API",
                     "Lego",
-                    "Ocel</a>- Software Architect"
+                    "Rob Ocel- Software Architect",
+                    "SalesLoft"
                 ],
                 "GPE": [
                     "Legos",
                     "Legos"
-                ],
-                "PERSON": [
-                    "Dot",
-                    "Software Architect"
                 ]
             }
         },
@@ -555,19 +568,18 @@
             "title": "S09E24- React: Past, Present, & Future with Cory House",
             "entities": {
                 "PERSON": [
-                    "housecor'>Cory House</a",
-                    "Dot",
-                    "Dot"
-                ],
-                "ORG": [
-                    "Connect Tech 2022",
-                    "Ocel</a>- Software Architect and Team Lead"
+                    "Rob Ocel",
+                    "Jesse Tomchak",
+                    "Cory House"
                 ],
                 "DATE": [
                     "7 years"
                 ],
                 "GPE": [
                     "React"
+                ],
+                "ORG": [
+                    "Rob Ocel- Software Architect and Team Lead"
                 ]
             }
         },
@@ -598,13 +610,15 @@
             "pubDate": "Wed, 21 Dec 2022 06:50:00 -0500",
             "title": "S09E23-Talking Vue Composition Functions with Jess Sachs",
             "entities": {
+                "PERSON": [
+                    "Tracy Lee",
+                    "Jesse Tomchak",
+                    "Jessica Sachs",
+                    "Tracy Lee -Co-Founder"
+                ],
                 "ORG": [
                     "Vue Components",
                     "VueUse"
-                ],
-                "PERSON": [
-                    "Dot",
-                    "Dot"
                 ]
             }
         },
@@ -635,16 +649,18 @@
             "pubDate": "Wed, 14 Dec 2022 08:05:00 -0500",
             "title": "S09E22- When the World Ends, We Need Documentation with Jeremy Meiss",
             "entities": {
+                "PERSON": [
+                    "Rob Ocel",
+                    "Jesse Tomchak",
+                    "Jeremy Meiss",
+                    "Jeremy",
+                    "Meiss-"
+                ],
                 "ORG": [
                     "Connect Tech 2022",
                     "CI",
                     "DevOps",
-                    "Ocel</a>- Software Architect"
-                ],
-                "PERSON": [
-                    "Dot",
-                    "Dot",
-                    "Meiss</a>-"
+                    "Rob Ocel- Software Architect"
                 ],
                 "GPE": [
                     "DevRel"
@@ -679,9 +695,14 @@
             "title": "S09E21- GraphQL, Microservices, Bridging the Programming Language Gap, and Client App Consumption with Roy Derks",
             "entities": {
                 "PERSON": [
-                    "dustinsgoodman'>Dustin Goodman</a",
+                    "Tracy Lee",
+                    "Dustin Goodman",
+                    "Roy",
                     "Advocate-",
-                    "dustinsgoodman'>Dustin Goodman</a></p>"
+                    "Guest",
+                    "Roy Derks",
+                    "Tracy Lee",
+                    "Dustin Goodman"
                 ],
                 "GPE": [
                     "StepZen"
@@ -720,21 +741,19 @@
             "pubDate": "Tue, 22 Nov 2022 21:01:57 -0500",
             "title": "S09E20- Building Functional Web Apps with Enhance ft. Simon MacDonald",
             "entities": {
-                "WORK_OF_ART": [
-                    "MacDonald</a>- Head of Developer Experience",
-                    "MacDonald</a>- Head of Developer Experience"
+                "PERSON": [
+                    "Rob Ocel",
+                    "Simon",
+                    "Simon",
+                    "Simon"
                 ],
                 "ORG": [
                     "Enhance",
                     "Remix",
                     "Next",
                     "Enhance",
-                    "Ocel</a>- Software Architect"
-                ],
-                "PERSON": [
-                    "Simon",
-                    "Simon",
-                    "Dot"
+                    "Rob Ocel- Software Architect",
+                    "Begin\n\u00a0\nSponsored"
                 ]
             }
         },
@@ -769,20 +788,23 @@
                     "Rob Ocel",
                     "Tejas Kumar - international",
                     "Angel Investor",
-                    "SQL",
-                    "Dot"
+                    "SQL"
                 ],
                 "ORG": [
                     "Advisor",
                     "Developer Relations",
                     "CMS",
-                    "Ocel</a>- Software Architect"
+                    "Rob Ocel- Software Architect",
+                    "Developer Relations\n\u00a0\nSponsored"
                 ],
                 "GPE": [
                     "DevRel"
                 ],
                 "DATE": [
                     "the last few years"
+                ],
+                "WORK_OF_ART": [
+                    "Tejas"
                 ]
             }
         },
@@ -814,21 +836,20 @@
             "title": "S09E18 Modern Web Podcast- Career Transitioners, Learning Git, and Representation in Tech with Jessie Auguste",
             "entities": {
                 "PERSON": [
-                    "Rob",
-                    "Jessie Auguste</a>-",
-                    "Git",
-                    "Dot",
-                    "Auguste</a>-"
+                    "Rob Ocel",
+                    "Git"
                 ],
                 "ORG": [
+                    "Jessie Auguste- Backend Software Engineer",
                     "CybSafe",
-                    "Ocel</a>- Software Architect",
-                    "CybSafe, Co-host",
-                    "Coding Black Females.</p"
+                    "Rob Ocel- Software Architect",
+                    "Jessie Auguste- Backend Software Engineer",
+                    "CybSafe, Co-host"
                 ],
                 "WORK_OF_ART": [
                     "the Glowing In Tech",
-                    "the Glowing in Tech Podcast"
+                    "the Glowing in Tech Podcast",
+                    "Coding Black Females"
                 ],
                 "ORDINAL": [
                     "3rd",
@@ -872,8 +893,8 @@
                     "Qwik",
                     "Marko",
                     "Co-Founder",
-                    "dustinsgoodman'>Dustin Goodman</a>- Engineering",
-                    "Co-Host"
+                    "Chris Burns- Co-Host",
+                    "the FSJam Podcast\n\u00a0\nSponsored"
                 ],
                 "PERSON": [
                     "Tracy Lee",
@@ -881,9 +902,13 @@
                     "Anthony Campolo",
                     "Christopher Burns",
                     "Svelte",
-                    "Dot"
+                    "Tracy",
+                    "Dot Labs",
+                    "Anthony Campolo- Co-Host"
                 ],
                 "LOC": [
+                    "the FSJam Podcast",
+                    "Dustin Goodman- Engineering",
                     "the FSJam Podcast"
                 ],
                 "GPE": [
@@ -918,18 +943,21 @@
             "pubDate": "Wed, 24 Aug 2022 10:00:00 -0400",
             "title": "S09E16 Modern Web Podcast- Thinking About TypeScript for New Users with Josh Goldberg",
             "entities": {
+                "PERSON": [
+                    "Josh Goldberg",
+                    "Learning TypeScript",
+                    "Rob Ocel",
+                    "Josh",
+                    "Josh Goldberg- Author",
+                    "Learning TypeScript"
+                ],
                 "ORG": [
                     "O'Reilly",
                     "TypeScript",
                     "TypeScript",
                     "TypeScript",
                     "JavaScript",
-                    "Ocel</a>- Software Architect"
-                ],
-                "PERSON": [
-                    "Josh",
-                    "Dot",
-                    "Learning TypeScript</p"
+                    "Rob Ocel- Software Architect"
                 ],
                 "DATE": [
                     "30-day"
@@ -968,13 +996,12 @@
             "entities": {
                 "ORG": [
                     "the Modern Web Podcast",
-                    "Ocel</a>- Software Architect"
+                    "Rob Ocel- Software Architect",
+                    "Github\n\u00a0\nSponsored"
                 ],
                 "PERSON": [
                     "Adri\u00e1n Bolonio",
-                    "Rob Ocel",
-                    "Dot",
-                    "Bolonio</a>-"
+                    "Rob Ocel"
                 ],
                 "GPE": [
                     "Github"
@@ -1011,7 +1038,8 @@
                 "ORG": [
                     "the Modern Web Podcast",
                     "Co-Founder",
-                    "This Dot Labs"
+                    "This Dot Labs",
+                    "Netflix"
                 ],
                 "PERSON": [
                     "Jay Phelps",
@@ -1022,7 +1050,6 @@
                     "Software Engineer"
                 ],
                 "GPE": [
-                    "Netflix",
                     "Netflix"
                 ],
                 "FAC": [
@@ -1065,9 +1092,11 @@
                     "Remix",
                     "Co-Founder",
                     "Remix",
+                    "Cloudways-\u00a0PHP Cloud Hosting - Developer Friendly Managed PHP Hosting Platform\nGet",
                     "MODERNWEB",
                     "DigitalOcean",
-                    "Linode"
+                    "Linode",
+                    "Vultr"
                 ],
                 "PERSON": [
                     "Kent C. Dodds",
@@ -1075,7 +1104,6 @@
                     "Kent",
                     "Rob Ocel",
                     "Kent C. Dodds",
-                    "Cloud Hosting - Developer Friendly",
                     "Cloudways",
                     "Git",
                     "Composer",
@@ -1086,9 +1114,6 @@
                 ],
                 "FAC": [
                     "This Dot Labs"
-                ],
-                "DATE": [
-                    "up to 1 Month"
                 ],
                 "MONEY": [
                     "15"
@@ -1131,8 +1156,9 @@
                     "Ryan Carniato",
                     "Svelte",
                     "Ryan",
+                    "Rob",
                     "Software Engineer",
-                    "Cloud Hosting - Developer Friendly",
+                    "PHP Cloud",
                     "Cloudways",
                     "Git",
                     "Composer",
@@ -1146,16 +1172,14 @@
                     "JavaScript",
                     "React",
                     "JSX",
-                    "@RyanCarniato)</p",
+                    "This Dot Labs",
                     "MODERNWEB",
                     "DigitalOcean",
-                    "Linode"
+                    "Linode",
+                    "Vultr"
                 ],
                 "PRODUCT": [
                     "JavaScript"
-                ],
-                "DATE": [
-                    "up to 1 Month"
                 ],
                 "MONEY": [
                     "15"
@@ -1195,9 +1219,7 @@
             "entities": {
                 "PERSON": [
                     "Tracy Lee",
-                    "Tracy Lee",
-                    "Dot",
-                    "Dot"
+                    "Tracy Lee"
                 ],
                 "ORG": [
                     "Alaina Percival",
@@ -1206,6 +1228,9 @@
                 ],
                 "WORK_OF_ART": [
                     "Women Who Code"
+                ],
+                "GPE": [
+                    "Alaina"
                 ]
             }
         },
@@ -1242,16 +1267,14 @@
                     "JavaScript",
                     "Node.js",
                     "Node.js v18",
-                    "Node.js Technical Steering Committee",
-                    "Dot"
+                    "Node.js Technical Steering Committee"
                 ],
                 "PERSON": [
                     "Rob Ocel",
                     "James Snell",
                     "James",
                     "James Snell",
-                    "Rob Ocel",
-                    "Dot"
+                    "Rob Ocel"
                 ]
             }
         },
@@ -1291,8 +1314,7 @@
                     "Alex Booker",
                     "Rob Ocel",
                     "Alex Booker",
-                    "Rob Ocel",
-                    "Dot"
+                    "Rob Ocel"
                 ],
                 "ORDINAL": [
                     "first",
@@ -1339,8 +1361,9 @@
                 ],
                 "PERSON": [
                     "Swizec Teller",
-                    "Rob Ocel",
-                    "Dot"
+                    "Engineer Mindset",
+                    "Serverless Handbook",
+                    "Rob Ocel"
                 ],
                 "FAC": [
                     "This Dot Labs"
@@ -1383,8 +1406,7 @@
                     "Evan You",
                     "Vue",
                     "Evan You",
-                    "Simone Cuomo",
-                    "Dot"
+                    "Simone Cuomo"
                 ],
                 "DATE": [
                     "2021",
@@ -1392,7 +1414,8 @@
                     "September of 2020"
                 ],
                 "LOC": [
-                    "Vue3"
+                    "Vue3",
+                    "Vue3.3"
                 ],
                 "PRODUCT": [
                     "Vue2"
@@ -1437,13 +1460,12 @@
                     "Jem Young",
                     "Jem",
                     "Jem Young",
-                    "Jesse Tomchak",
-                    "Dot",
-                    "Dot"
+                    "Jesse Tomchak"
                 ],
                 "GPE": [
                     "Netflix",
-                    "@jemyoung"
+                    "@jemyoung",
+                    "Netflix"
                 ]
             }
         },
@@ -1481,16 +1503,14 @@
                     "Rob",
                     "Mark",
                     "Mark Thompson",
-                    "Rob Ocel",
-                    "Dot"
+                    "Rob Ocel"
                 ],
                 "ORG": [
                     "Developer Relations Engineer",
                     "Google",
                     "Angular Core Team",
                     "Angular",
-                    "Google",
-                    "Dot"
+                    "Google\u00a0\n\u00a0\nHost"
                 ],
                 "ORDINAL": [
                     "third"
@@ -1527,16 +1547,14 @@
                 "PERSON": [
                     "Rob",
                     "Naoki Ogishi",
-                    "Naoki Ogishi",
-                    "Rob Ocel",
-                    "Dot"
+                    "Naoki Ogishi - Director",
+                    "Rob Ocel"
                 ],
                 "ORG": [
                     "Product Management at HARMAN International",
                     "Automotive App Development",
                     "Android Automotive OS",
-                    "Product Management",
-                    "Dot"
+                    "Product Management"
                 ]
             }
         },
@@ -1572,13 +1590,12 @@
                     "Mike Nikles",
                     "Geoffrey Huntley",
                     "Mike Nikles",
-                    "Geoffrey Huntley",
-                    "Rob Ocel",
-                    "Dot"
+                    "Gitpod\nGeoffrey Huntley",
+                    "Rob Ocel"
                 ],
                 "ORG": [
                     "Gitpod",
-                    "Dot"
+                    "Gitpod\n\u00a0\nHost"
                 ]
             }
         },
@@ -1616,7 +1633,7 @@
                     "Podcast",
                     "the \"Modernizing React Apps\" Course",
                     "Redux & Blogger",
-                    "Dot"
+                    "HARMAN & This Dot Labs"
                 ],
                 "PERSON": [
                     "Dustin Goodman",
@@ -1629,9 +1646,8 @@
                     "Software Engineer",
                     "Mark Erikson",
                     "Dustin Goodman",
-                    "Dot",
-                    "Jae Anne Bach Hardie",
-                    "Dot"
+                    "Dot Labs",
+                    "Jae Anne Bach Hardie"
                 ],
                 "NORP": [
                     "@pniedri)-"
@@ -1670,9 +1686,7 @@
                     "Adam Bradley",
                     "Adam",
                     "Adam Bradley",
-                    "Rob Ocel",
-                    "Dot",
-                    "Dot"
+                    "Rob Ocel"
                 ],
                 "ORG": [
                     "Ionic",
@@ -1718,9 +1732,7 @@
                     "Fig",
                     "Brendan Falk",
                     "Fig",
-                    "Rob Ocel",
-                    "Dot",
-                    "Dot"
+                    "Rob Ocel"
                 ],
                 "ORG": [
                     "Fig",
@@ -1764,19 +1776,18 @@
                     "Node",
                     "Nader Dabit",
                     "Node",
-                    "Tracy Lee",
-                    "Dot"
+                    "Tracy Lee"
                 ],
                 "GPE": [
                     "Nacho Vazquez",
-                    "Nacho Vazquez"
+                    "Node"
                 ],
                 "ORG": [
                     "Edge",
                     "Solana",
-                    "Gitpod",
                     "Edge",
-                    "Edge"
+                    "Edge",
+                    "This Dot Labs"
                 ],
                 "DATE": [
                     "the next few years"
@@ -1784,6 +1795,9 @@
                 "CARDINAL": [
                     "2",
                     "2"
+                ],
+                "FAC": [
+                    "Nacho Vazquez"
                 ]
             }
         },
@@ -1822,14 +1836,13 @@
                     "Lindsay",
                     "Michael",
                     "Michael Chan",
-                    "Lindsay Wardell",
-                    "Dot"
+                    "Lindsay Wardell"
                 ],
                 "ORG": [
                     "React Podcast",
-                    "Chromatic, Creator of lunch.dev",
+                    "Chromatic, Creator",
                     "@lindsaykwardell",
-                    "Views"
+                    "Views on Vue\u00a0\r\n\n\u00a0\nThis"
                 ]
             }
         },
@@ -1866,8 +1879,8 @@
                     "Chainlink",
                     "Stephen",
                     "Tracy Lee",
-                    "Stephen Fluin",
-                    "Dot"
+                    "This Dot Labs",
+                    "Stephen Fluin"
                 ],
                 "PRODUCT": [
                     "JavaScript"
@@ -1884,7 +1897,8 @@
                     "JS"
                 ],
                 "ORG": [
-                    "IDE"
+                    "IDE",
+                    "Chainlink Labs"
                 ]
             }
         },
@@ -1921,8 +1935,7 @@
                     "Luke",
                     "Quasar",
                     "Luke Diebold",
-                    "Lindsay Wardell",
-                    "Dot"
+                    "Lindsay Wardell"
                 ],
                 "GPE": [
                     "Quasar",
@@ -1975,25 +1988,21 @@
                     "Tracy Lee",
                     "Ben Lesh",
                     "Tracy Lee",
-                    "Ben Lesh",
-                    "Dot"
+                    "Ben Lesh"
                 ],
                 "ORG": [
                     "RxJS",
                     "RxJS",
+                    "RxJS 8",
                     "RxJS",
                     "RxJS 7 to 8",
                     "RxJS 7.0",
-                    "Citadel & Author"
+                    "https://docs.google.com/presentation/d/1-LU7YE3NWw8jHeAgdmLu4CBfG7osCx6MsSIeFs16k60/edit#slide=id.g389cbad6b8_0_36\nFor",
+                    "Citadel & Author",
+                    "RxJS"
                 ],
                 "DATE": [
                     "7.0 ++"
-                ],
-                "NORP": [
-                    "community!</p"
-                ],
-                "PRODUCT": [
-                    "RxJS 8.</p"
                 ],
                 "LOC": [
                     "RxJS Asia"
@@ -2032,18 +2041,17 @@
                     "Richard Feldman",
                     "Richard",
                     "Richard Feldman",
-                    "Lindsay Wardell",
-                    "href='https://prgress.co",
-                    "Dot"
+                    "Lindsay Wardell"
                 ],
                 "ORG": [
                     "Elm",
                     "Elm",
                     "Elm",
                     "Elm",
+                    "Elm",
                     "@rtfeldman",
                     "NoRedInk",
-                    "Elm In Action",
+                    "Elm In Action\u00a0\n\u00a0\nHost",
                     "@lindsaykwardell",
                     "Views"
                 ],
@@ -2083,14 +2091,14 @@
                     "Misko Hevery",
                     "Tracy Lee",
                     "Tracy Lee",
-                    "Misko Hevery",
-                    "Dot"
+                    "This Dot Labs",
+                    "Misko Hevery"
                 ],
                 "PRODUCT": [
                     "Angular"
                 ],
                 "ORG": [
-                    "Builder.io & Creator"
+                    "Builder.io & Creator of Angular"
                 ]
             }
         },
@@ -2125,8 +2133,7 @@
                     "Lindsay Wardell",
                     "Stephanie Eckles",
                     "Lindsay Wardell",
-                    "Stephanie Eckles",
-                    "Dot"
+                    "Stephanie Eckles"
                 ],
                 "ORG": [
                     "Modern CSS",
@@ -2137,8 +2144,7 @@
                     "CSS",
                     "Stephanie",
                     "@lindsaykwardell",
-                    "Views",
-                    "href='https://dexecure.com"
+                    "Views"
                 ],
                 "DATE": [
                     "11ty"
@@ -2176,10 +2182,7 @@
                     "Rob Ocel",
                     "Gleb Bhamutov",
                     "Gleb",
-                    "Rob Ocel",
-                    "Dot",
-                    "href='https://prgress.co",
-                    "Dot"
+                    "Rob Ocel"
                 ],
                 "ORG": [
                     "a Distinguished Engineer",
@@ -2238,16 +2241,14 @@
                     "Software Engineer",
                     "Rob Ocel",
                     "Luis Aviles",
-                    "Matthew Pagan",
-                    "Dot"
+                    "Matthew Pagan"
                 ],
                 "ORG": [
                     "Google",
                     "TypeScript",
                     "LitElement",
                     "@justinfagnani",
-                    "Google & Lit",
-                    "href='https://dexecure.com"
+                    "Google & Lit"
                 ],
                 "CARDINAL": [
                     "2.0"
@@ -2295,12 +2296,11 @@
                     "Shawn Wang",
                     "Hunter Miller",
                     "Software Engineer",
-                    "Lindsay Wardell",
-                    "Dot"
+                    "Lindsay Wardell"
                 ],
                 "WORK_OF_ART": [
                     "The Coding Career Handbook",
-                    "The Coding Career"
+                    "The Coding Career Handbook"
                 ],
                 "ORG": [
                     "@lindsaykwardell",
@@ -2341,13 +2341,12 @@
                     "Ionic",
                     "the Ionic Framework",
                     "Ionic",
-                    "@LiamDeBeasi"
+                    "@LiamDeBeasi",
+                    "Ionic\n\u00a0\nHost"
                 ],
                 "DATE": [
-                    "the past year"
-                ],
-                "CARDINAL": [
-                    "12"
+                    "the past year",
+                    "the past 12 months"
                 ],
                 "PERSON": [
                     "Tracy Lee",
@@ -2358,8 +2357,7 @@
                     "Adam Bradley",
                     "Liam DeBeasi",
                     "Tracy Lee",
-                    "href='https://prgress.co",
-                    "Dot"
+                    "This Dot Labs"
                 ],
                 "EVENT": [
                     "Ionic"
@@ -2407,10 +2405,7 @@
                     "Debbie O'Brien",
                     "Debbie O'Brien",
                     "Tracy Lee",
-                    "Dot"
-                ],
-                "ORG": [
-                    "href='https://dexecure.com"
+                    "This Dot Labs"
                 ]
             }
         },
@@ -2450,8 +2445,7 @@
                     "Rob Ocel",
                     "Hunter Miller",
                     "Software Engineer",
-                    "Lindsay Wardell",
-                    "Dot"
+                    "Lindsay Wardell"
                 ],
                 "ORG": [
                     "JIT",
@@ -2460,7 +2454,8 @@
                     "Windi CSS",
                     "CSS",
                     "@lindsaykwardell",
-                    "Views"
+                    "Views on Vue\u00a0\n\u00a0\nLinks",
+                    "Media Developers community &"
                 ]
             }
         },
@@ -2497,14 +2492,14 @@
                     "Chrome",
                     "Chrome",
                     "Simeon Vincent",
-                    "Rob Ocel",
-                    "href='https://prgress.co",
-                    "Dot"
+                    "Rob Ocel"
                 ],
                 "ORG": [
                     "Developer Advocate",
                     "the Chrome Extensions Team",
-                    "Simeon"
+                    "Simeon",
+                    "Chrome Extensions Team",
+                    "KendoReact\u00a0&\u00a0This Dot Labs"
                 ],
                 "LOC": [
                     "Manifest V3"
@@ -2545,15 +2540,11 @@
                     "Guillermo Rauch",
                     "Tracy Lee",
                     "Jesse Tomchak",
-                    "Software Engineer",
-                    "Dot",
-                    "Dot"
+                    "Software Engineer"
                 ],
                 "ORG": [
-                    "JamStack"
-                ],
-                "NORP": [
-                    "Vercel</p"
+                    "JamStack",
+                    "Vercel\n\u00a0\nHost"
                 ]
             }
         },
@@ -2589,24 +2580,21 @@
                 ],
                 "ORG": [
                     "Morgan Worrell",
-                    "Nigeria.</p",
                     "Morgan Worrell"
                 ],
                 "PERSON": [
                     "Adesoji David",
                     "Darron Smith",
                     "Software Engineer",
-                    "Dot",
-                    "Dot",
+                    "Dot Labs",
                     "Adesoji David",
                     "@temitopedavid",
-                    "Dot",
-                    "Darron Smith",
-                    "Dot",
-                    "Dot"
+                    "Dot Labs",
+                    "Darron Smith"
                 ],
                 "GPE": [
-                    "US"
+                    "US",
+                    "Nigeria"
                 ]
             }
         },
@@ -2641,11 +2629,12 @@
                     "John Allsopp",
                     "John Allsopp",
                     "Tracy Lee",
-                    "Dot"
+                    "This Dot Labs"
                 ],
                 "ORG": [
                     "Developer, & Co-founder",
-                    "href='https://dexecure.com"
+                    "Web Directions Conferences",
+                    "Dexecure &\u00a0This Dot Labs"
                 ]
             }
         },
@@ -2684,10 +2673,10 @@
                     "David Price",
                     "Tracy Lee",
                     "Jesse Tomchak",
-                    "Software Engineer",
-                    "Dot",
-                    "href='https://prgress.co",
-                    "Dot"
+                    "Software Engineer"
+                ],
+                "ORG": [
+                    "KendoReact\u00a0&\u00a0This Dot Labs"
                 ]
             }
         },
@@ -2722,21 +2711,17 @@
                     "Rob Ocel",
                     "David Khourshid",
                     "David Khourshid",
-                    "Rob Ocel",
-                    "Dot",
-                    "Dot"
+                    "Rob Ocel"
                 ],
                 "ORG": [
                     "Microsoft",
-                    "class=\"p-rich_text_list p-rich_text_list__bullet\"><li",
-                    "Microsoft & Creator of XState</p>\n<p>",
-                    "href='http://www.syncfusion.com"
+                    "XState",
+                    "XState",
+                    "XState",
+                    "Microsoft & Creator of XState\n\u00a0\nHosts:\n"
                 ],
                 "LOC": [
                     "Redux"
-                ],
-                "PRODUCT": [
-                    "XState</li"
                 ]
             }
         },
@@ -2772,13 +2757,11 @@
                     "Alex Russell",
                     "Alex Russell",
                     "Software Engineer",
-                    "Tracy Lee",
-                    "Dot"
+                    "Tracy Lee"
                 ],
                 "ORG": [
                     "Google",
-                    "Google</p",
-                    "Dot"
+                    "Google\n\u00a0\nHosts"
                 ]
             }
         },
@@ -2811,8 +2794,7 @@
             "entities": {
                 "ORG": [
                     "Blitz",
-                    "Blitz",
-                    "Dot"
+                    "Blitz"
                 ],
                 "CARDINAL": [
                     "6000",
@@ -2838,10 +2820,9 @@
                     "Blitz.js",
                     "Brandon Bayer",
                     "Tracy Lee",
-                    "Dot",
+                    "Dot Labs",
                     "Wes Copeland",
-                    "Software Engineer",
-                    "Dot"
+                    "Software Engineer"
                 ]
             }
         },
@@ -2877,14 +2858,13 @@
                     "Polymer",
                     "Tachometer",
                     "Justin Fagnani",
-                    "Tracy Lee",
-                    "Dot"
+                    "Tracy Lee"
                 ],
                 "ORG": [
                     "SSR",
                     "@justinfagnani",
-                    "Google</p",
-                    "Dot"
+                    "Google\n\u00a0\nHosts",
+                    "Pluralsight & This Dot Labs"
                 ],
                 "DATE": [
                     "2021"
@@ -2925,16 +2905,16 @@
                     "Maximiliano Firtman",
                     "& Trainer",
                     "Tracy Lee",
-                    "Dot",
-                    "Ben Lesh",
-                    "Dot"
+                    "Dot Labs",
+                    "Ben Lesh"
                 ],
                 "ORG": [
                     "Lighthouse",
                     "Microsoft",
                     "Google",
                     "Speaker",
-                    "Citadel & Author"
+                    "Citadel & Author",
+                    "RxJS"
                 ],
                 "DATE": [
                     "these days"
@@ -2974,17 +2954,19 @@
                 "PERSON": [
                     "Tracy Lee",
                     "Rob Ocel",
+                    "Henri Helvetica",
                     "Tracy Lee",
-                    "Rob Ocel",
-                    "Dot",
-                    "href='https://prgress.co",
-                    "Dot"
+                    "Rob Ocel"
                 ],
                 "ORG": [
-                    "Henri Helvetica"
+                    "Henri Helvetica",
+                    "KendoReact\u00a0&\u00a0This Dot Labs"
                 ],
                 "NORP": [
                     "Canadian"
+                ],
+                "DATE": [
+                    "the coming years"
                 ]
             }
         },
@@ -3019,12 +3001,15 @@
                     "Tracy Lee",
                     "Principal Engineer",
                     "Stacy Devino",
-                    "Stacy Devino",
                     "Tracy Lee",
-                    "Dot"
+                    "This Dot Labs"
                 ],
                 "GPE": [
                     "Stitchfix"
+                ],
+                "ORG": [
+                    "Stacy Devino",
+                    "Stitchfix\n\u00a0\nHost"
                 ]
             }
         },
@@ -3063,18 +3048,17 @@
                     "Jason",
                     "Jason Miller",
                     "Tracy Lee",
-                    "Dot",
+                    "Dot Labs",
                     "Ben Lesh",
-                    "Hunter Miller",
-                    "Dot",
-                    "Dot"
+                    "Hunter Miller"
                 ],
                 "ORG": [
                     "@hmillerdev",
                     "Google Chrome",
                     "Google",
-                    "Google",
-                    "Citadel & Author"
+                    "Google\u00a0\n\u00a0\nHosts",
+                    "Citadel & Author",
+                    "RxJS"
                 ],
                 "DATE": [
                     "today"
@@ -3117,14 +3101,14 @@
                     "Sam Saccone",
                     "Sam Saccone",
                     "Tracy Lee",
-                    "Dot",
-                    "Ben Lesh",
-                    "Dot"
+                    "Dot Labs",
+                    "Ben Lesh"
                 ],
                 "ORG": [
                     "Google",
-                    "Google</p",
-                    "Citadel & Author"
+                    "Google\n\u00a0\nHosts",
+                    "Citadel & Author",
+                    "RxJS"
                 ]
             }
         },
@@ -3162,22 +3146,22 @@
                     "Stephanie Stimac",
                     "Craig Dunn",
                     "Zouhir Chahoud - Program",
-                    "Stephanie Stimac - Program",
                     "Craig Dunn - Principle Software Engineer",
                     "Tracy Lee",
-                    "Dot",
-                    "Ben Lesh",
-                    "href='https://prgress.co",
-                    "Dot"
+                    "Dot Labs",
+                    "Ben Lesh"
                 ],
                 "ORG": [
                     "Microsoft",
                     "CSS &",
-                    "class=\"p-rich_text_list p-rich_text_list__bullet\"><li",
                     "CSS & JS",
-                    "designers?</li",
+                    "Edge",
+                    "Stephanie Stimac - Program",
+                    "Edge",
                     "Microsoft",
-                    "Citadel & Author"
+                    "Citadel & Author",
+                    "RxJS",
+                    "KendoReact\u00a0&\u00a0This Dot Labs"
                 ]
             }
         },
@@ -3213,11 +3197,9 @@
                     "Tracy Lee",
                     "Ben Lesh",
                     "Luis Aviles",
-                    "Dot",
+                    "Dot Labs",
                     "Tracy Lee",
-                    "Dot",
-                    "Ben Lesh",
-                    "Dot"
+                    "Ben Lesh"
                 ],
                 "ORG": [
                     "RxJS",
@@ -3225,7 +3207,8 @@
                     "RxJS 7",
                     "RxJS 8",
                     "TypeScript",
-                    "Citadel & Author"
+                    "Citadel & Author",
+                    "RxJS"
                 ]
             }
         },
@@ -3262,17 +3245,16 @@
                     "Code Sandbox",
                     "Sara",
                     "Rob Ocel - @robocell - Architect",
-                    "Dot",
+                    "Dot Labs",
                     "Jake Dohm - @JakeDohm - Developer",
                     "Sara Vieira - @NikkitaFTW - Author",
-                    "Code Sandbox",
-                    "href='https://prgress.co",
-                    "Dot"
+                    "Code Sandbox"
                 ],
                 "ORG": [
                     "Opinionated React",
                     "the Women of React Conference",
-                    "the Women of React Conference</p"
+                    "the Women of React Conference",
+                    "KendoReact\u00a0&\u00a0This Dot Labs"
                 ],
                 "WORK_OF_ART": [
                     "Opinionated React",
@@ -3314,9 +3296,10 @@
                     "Tracy Lee",
                     "Rob Ocel",
                     "Christina Yu",
-                    "Christina Yu",
-                    "href='https://prgress.co",
-                    "Dot"
+                    "Christina Yu"
+                ],
+                "ORG": [
+                    "KendoReact\u00a0&\u00a0This Dot Labs"
                 ]
             }
         },
@@ -3356,17 +3339,17 @@
                     "Modulz",
                     "Tracy Lee",
                     "Hunter Miller",
-                    "Christian Alfoni",
-                    "Pedro Duarte",
-                    "Dot"
+                    "Pedro Duarte"
                 ],
                 "ORG": [
                     "CodeSandbox",
                     "CSS",
                     "@hmillerdev",
-                    "href='http://www.syncfusion.com"
+                    "CodeSandbox",
+                    "Syncfusion\u00a0& This Dot Labs"
                 ],
                 "NORP": [
+                    "Christian",
                     "Christian"
                 ]
             }
@@ -3402,13 +3385,15 @@
                     "Tracy Lee",
                     "Ben Lesh",
                     "Aaron Frost",
-                    "Scully.io!</p",
-                    "Aaron Frost",
-                    "href='https://prgress.co",
-                    "Dot"
+                    "Scully.io",
+                    "Guest",
+                    "Aaron Frost"
                 ],
                 "PRODUCT": [
                     "HeroDevs"
+                ],
+                "ORG": [
+                    "KendoReact\u00a0&\u00a0This Dot Labs"
                 ]
             }
         },
@@ -3443,12 +3428,12 @@
                     "Tracy Lee",
                     "Ben Lesh",
                     "Tessa Mero",
-                    "Tessa Mero - Developer Advocate",
-                    "href='https://prgress.co",
-                    "Dot"
+                    "Tessa Mero - Developer Advocate"
                 ],
                 "ORG": [
-                    "Developer Advocate"
+                    "Developer Advocate",
+                    "@TessaMero",
+                    "KendoReact"
                 ],
                 "GPE": [
                     "Cloudinary",
@@ -3492,16 +3477,15 @@
                     "Christina Gorton",
                     "Rob Ocel - Architect",
                     "Jake Dohm - Developer - Good",
+                    "Guest",
                     "Christina Gorton - Creative Developer",
-                    "Educator",
-                    "href='https://prgress.co",
-                    "Dot"
+                    "Educator"
                 ],
                 "WORK_OF_ART": [
                     "\"Learning in Public, Code Education"
                 ],
                 "ORG": [
-                    "href='http://www.syncfusion.com"
+                    "KendoReact"
                 ]
             }
         },
@@ -3535,12 +3519,13 @@
                 "PERSON": [
                     "Tracy Lee",
                     "Ben Lesh",
-                    "Mark Erikson",
-                    "href='https://prgress.co",
-                    "Dot"
+                    "Mark Erikson"
                 ],
                 "LOC": [
                     "Redux"
+                ],
+                "ORG": [
+                    "KendoReact\u00a0& This Dot Labs"
                 ]
             }
         },
@@ -3580,7 +3565,7 @@
                 "ORG": [
                     "Microsoft",
                     "Google",
-                    "Dot"
+                    "KendoReact &\u00a0This Dot Labs"
                 ]
             }
         },
@@ -3627,8 +3612,8 @@
                     "creator & project",
                     "Ember",
                     "React Hooks",
-                    "Snowpack 2 and Vite.</p",
-                    "Dot"
+                    "React Hooks",
+                    "Snowpack 2 and Vite"
                 ],
                 "EVENT": [
                     "the Vue Composition API"
@@ -3667,13 +3652,16 @@
                     "Ben Lesh",
                     "Peter Piekarczyk",
                     "Peter",
-                    "Peter Piekarczyk",
-                    "Dot"
+                    "Peter Piekarczyk"
                 ],
                 "ORG": [
                     "Reason",
                     "TypeScript",
-                    "href='http://www.syncfusion.com"
+                    "Draftbit",
+                    "Syncfusion & This Dot Labs"
+                ],
+                "GPE": [
+                    "React"
                 ]
             }
         },
@@ -3709,8 +3697,8 @@
                     "Rob Ocel",
                     "Rob Ocel"
                 ],
-                "ORG": [
-                    "Dot"
+                "LOC": [
+                    "PAMStack"
                 ]
             }
         },
@@ -3745,8 +3733,7 @@
                     "Rob Ocel",
                     "Jake Dohm",
                     "Dave Geddes",
-                    "Dave Geddes",
-                    "Dot"
+                    "Dave Geddes"
                 ]
             }
         },
@@ -3781,7 +3768,7 @@
                     "Tracy Lee",
                     "Eric Simons",
                     "Eric Simons",
-                    "Dot"
+                    "Stackblitz"
                 ]
             }
         },
@@ -3816,9 +3803,10 @@
                     "Tracy Lee",
                     "Ben Lesh",
                     "Eve Porcello",
-                    "Eve Porcello",
-                    "Moon Highway</p",
-                    "Dot"
+                    "Eve Porcello"
+                ],
+                "FAC": [
+                    "Moon Highway"
                 ]
             }
         },
@@ -3856,14 +3844,13 @@
                     "Aisha Blake",
                     "Laurie Barth",
                     "Marcy Sutton",
+                    "GatsbyJS\nAisha Blake",
                     "Software Engineer",
-                    "Laurie Barth"
+                    "GatsbyJS\nLaurie Barth",
+                    "GatsbyJS\n\u00a0\n"
                 ],
                 "ORG": [
                     "@marcysutton"
-                ],
-                "CARDINAL": [
-                    "href='https://www.thisdot.co"
                 ]
             }
         },
@@ -3898,12 +3885,6 @@
                     "Rob Ocel",
                     "Douglass Sillars",
                     "Douglass Sillars"
-                ],
-                "ORG": [
-                    "href='http://www.syncfusion.com"
-                ],
-                "CARDINAL": [
-                    "href='https://www.thisdot.co"
                 ]
             }
         },
@@ -3940,6 +3921,7 @@
                     "Eva Howe",
                     "Chris Whited",
                     "Moshe Milman",
+                    "Dot",
                     "Chris Whited"
                 ],
                 "NORP": [
@@ -3948,10 +3930,7 @@
                 ],
                 "ORG": [
                     "COO",
-                    "href='http://www.syncfusion.com"
-                ],
-                "CARDINAL": [
-                    "href='https://www.thisdot.co"
+                    "Syncfusion &\u00a0This Dot Labs"
                 ]
             }
         },
@@ -3989,8 +3968,8 @@
                     "Adam Jahr",
                     "Gregg Pollack"
                 ],
-                "CARDINAL": [
-                    "href='https://www.thisdot.co"
+                "ORG": [
+                    "Vue Mastery"
                 ]
             }
         },
@@ -4027,6 +4006,10 @@
                     "Ray Gesualdo",
                     "UI Engineer",
                     "Radical Candor"
+                ],
+                "ORG": [
+                    "SalesLoft",
+                    "NativeScript & This Dot Labs"
                 ]
             }
         },
@@ -4072,9 +4055,6 @@
                     "Neurosity",
                     "Neurosity",
                     "SDK"
-                ],
-                "CARDINAL": [
-                    "href='https://www.thisdot.co"
                 ]
             }
         },
@@ -4109,12 +4089,13 @@
                     "Tracy Lee",
                     "Amal Hussein",
                     "Jory Burson",
-                    "Amal Hussein",
-                    "Jory Burson"
+                    "Amal Hussein"
                 ],
                 "ORG": [
-                    "Bocoup</p",
-                    "Source & Standards Liaison"
+                    "Bocoup\nJory Burson",
+                    "Source & Standards Liaison",
+                    "Bocoup Education",
+                    "NativeScript & This Dot Labs"
                 ]
             }
         },
@@ -4153,10 +4134,7 @@
                     "Sarah Dayan",
                     "Adam Wathan",
                     "Sarah Dayan",
-                    "Software Engineer"
-                ],
-                "CARDINAL": [
-                    "href='https://www.thisdot.co"
+                    "Software Engineer @ Algolia\n\u00a0\u00a0\n"
                 ]
             }
         },
@@ -4191,19 +4169,18 @@
                     "Rob Ocel & Jake Dohm",
                     "Lisi Linhart",
                     "the University of Applied Sciences Salzburg",
-                    "Multimedia Technology"
+                    "Multimedia Technology",
+                    "Micro",
+                    "NativeScript & This Dot Labs"
                 ],
                 "PERSON": [
                     "Matias Niemel\u00e4",
                     "Lisi Linhart",
                     "Matias Niemel\u00e4",
-                    "li style=\"font-weight:400",
-                    "li style=\"font-weight:400;\">Houdini",
-                    "li style=\"font-weight:400;\">Framework",
-                    "li style=\"font-weight:400;\">Tools",
-                    "li style=\"font-weight:400;\">Animation",
-                    "li style=\"font-weight:400;\">Micro",
-                    "li style=\"font-weight:400;\">Favorite"
+                    "Tools"
+                ],
+                "WORK_OF_ART": [
+                    "Types of Animations"
                 ]
             }
         },
@@ -4239,9 +4216,11 @@
                     "Node",
                     "Software Engineer at Elastic",
                     "Developer Programs Engineer Google",
+                    "Node Collaborator",
                     "SSR",
-                    "Stanley Black & Decker</p",
-                    "@princi_ya"
+                    "Stanley Black & Decker",
+                    "@princi_ya",
+                    "NativeScript & This Dot Labs"
                 ],
                 "GPE": [
                     "Node"
@@ -4250,7 +4229,6 @@
                     "Ahmad Bamieh",
                     "@ahmadbamieh",
                     "Benjamin Coe",
-                    "Node Collaborator</p",
                     "Jennifer Bland",
                     "Princiya Sequeira"
                 ]
@@ -4289,12 +4267,11 @@
                 ],
                 "ORG": [
                     "Nate Hunzaker",
-                    "the React DOM",
+                    "COMMUNITY Rachel Nabors",
                     "react.suspense REACT FIRE"
                 ],
                 "CARDINAL": [
-                    "two",
-                    "href='https://www.thisdot.co"
+                    "two"
                 ],
                 "ORDINAL": [
                     "first"
@@ -4345,8 +4322,7 @@
                 "CARDINAL": [
                     "3.0",
                     "2.x",
-                    "half",
-                    "href='https://www.thisdot.co"
+                    "half"
                 ],
                 "DATE": [
                     "Vue\r\n- Vue 3.0"
@@ -4390,10 +4366,8 @@
                 "ORG": [
                     "Software",
                     "Google",
-                    "TypeScript"
-                ],
-                "CARDINAL": [
-                    "href='https://www.thisdot.co"
+                    "TypeScript",
+                    "Google"
                 ]
             }
         },
@@ -4432,17 +4406,18 @@
                     "Uri Goldshtein - Founder",
                     "Tanmai Gopal - Founder",
                     "Tracy Lee - @ladyleet",
-                    "Rob Ocel - @robocell</p",
+                    "Rob Ocel - @robocell",
                     "Lee Byron"
                 ],
                 "GPE": [
+                    "GraphQL",
                     "GraphQL"
+                ],
+                "FAC": [
+                    "the GraphQL community\nShow"
                 ],
                 "DATE": [
                     "2016"
-                ],
-                "CARDINAL": [
-                    "href='https://www.thisdot.co"
                 ]
             }
         },
@@ -4488,8 +4463,8 @@
                     "AMP",
                     "AMP"
                 ],
-                "CARDINAL": [
-                    "href='https://www.thisdot.co"
+                "PRODUCT": [
+                    "Notes"
                 ]
             }
         },
@@ -4575,8 +4550,12 @@
                 ],
                 "ORG": [
                     "CLI",
+                    "RxJS",
                     "CLI",
                     "CLI"
+                ],
+                "PRODUCT": [
+                    "Notes"
                 ]
             }
         },
@@ -4611,14 +4590,13 @@
                     "Stephanie Drescher",
                     "Anton Molleda Quintana",
                     "Tracy Lee",
-                    "Rob Ocel.</p",
+                    "Rob Ocel",
                     "Nellie",
                     "This Dot Labs"
                 ],
                 "ORG": [
                     "JS Foundation",
                     "Modern",
-                    "https://www.thisdot.co/modern-web</p",
                     "JavaScript"
                 ],
                 "DATE": [
@@ -4658,16 +4636,16 @@
             "entities": {
                 "ORG": [
                     "Modern",
+                    "Houdini",
                     "API",
                     "CSS Paint API",
                     "API",
-                    "https://vitaliy-bobrov.github.io/css-... & https://github.com/vitaliy-bobrov/pos...</p"
+                    "https://vitaliy-bobrov.github.io/css-... & https://github.com/vitaliy-bobrov/pos"
                 ],
                 "CARDINAL": [
                     "one"
                 ],
                 "PERSON": [
-                    "Houdini.</p",
                     "Surma",
                     "Aimee Knight",
                     "Tracy Lee @ladyleet",
@@ -4675,6 +4653,7 @@
                 ],
                 "DATE": [
                     "a few years",
+                    "this year",
                     "today"
                 ],
                 "PRODUCT": [

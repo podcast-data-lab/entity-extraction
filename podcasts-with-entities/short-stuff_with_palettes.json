@@ -33,6 +33,9 @@
             "entities": {
                 "CARDINAL": [
                     "Two"
+                ],
+                "PRODUCT": [
+                    "Learn"
                 ]
             }
         },
@@ -85,6 +88,9 @@
                 "PERSON": [
                     "Join Josh",
                     "Chuck"
+                ],
+                "PRODUCT": [
+                    "Learn"
                 ]
             }
         },
@@ -148,6 +154,12 @@
                 ],
                 "NORP": [
                     "American"
+                ],
+                "PERSON": [
+                    "Short Stuff"
+                ],
+                "PRODUCT": [
+                    "Learn"
                 ]
             }
         },
@@ -177,6 +189,9 @@
                 "QUANTITY": [
                     "100-pound",
                     "50 feet"
+                ],
+                "PRODUCT": [
+                    "Learn"
                 ]
             }
         },
@@ -208,6 +223,9 @@
                 ],
                 "NORP": [
                     "Korean"
+                ],
+                "PRODUCT": [
+                    "Learn"
                 ]
             }
         },
@@ -275,6 +293,9 @@
                     "Stuff",
                     "Josh",
                     "Chuck"
+                ],
+                "PRODUCT": [
+                    "Learn"
                 ]
             }
         }

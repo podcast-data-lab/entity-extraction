@@ -228,7 +228,7 @@
                     "Goldie",
                     "Goldie",
                     "Kate Hudson",
-                    "Kurt Russell.</p"
+                    "Kurt Russell"
                 ],
                 "DATE": [
                     "the age of 11",
@@ -323,6 +323,9 @@
             "pubDate": "Thu, 18 Apr 2019 05:00:00 +0000",
             "title": "Robin Roberts",
             "entities": {
+                "WORK_OF_ART": [
+                    "Good Morning America"
+                ],
                 "PERSON": [
                     "Robin Roberts",
                     "Robin"
@@ -471,7 +474,7 @@
                     "Lorne Michaels",
                     "Lorne",
                     "John Belushi",
-                    "Chris Farley.</p"
+                    "Chris Farley"
                 ],
                 "DATE": [
                     "more than 25 years"
@@ -1171,6 +1174,9 @@
             "pubDate": "Thu, 20 Dec 2018 06:00:00 +0000",
             "title": "Cicely Tyson",
             "entities": {
+                "ORG": [
+                    "Oscar-"
+                ],
                 "PERSON": [
                     "Tony-Award",
                     "Tyson",
@@ -1511,7 +1517,7 @@
                     "Cindy",
                     "Richard Gere",
                     "Cindy",
-                    "Rande Gerber.</p"
+                    "Rande Gerber"
                 ],
                 "GPE": [
                     "DeKalb",
@@ -1558,6 +1564,11 @@
             "pubDate": "Thu, 1 Nov 2018 05:00:00 +0000",
             "title": "Lionel Richie",
             "entities": {
+                "GPE": [
+                    "Grammy-",
+                    "Tuskegee",
+                    "Alabama"
+                ],
                 "PERSON": [
                     "Academy Award",
                     "Quincy Jones",
@@ -1568,10 +1579,6 @@
                     "Lionel",
                     "Lionel Richie",
                     "Lionel"
-                ],
-                "GPE": [
-                    "Tuskegee",
-                    "Alabama"
                 ],
                 "PRODUCT": [
                     "Commodores"
@@ -1623,7 +1630,7 @@
                 "PERSON": [
                     "Simon Cowell",
                     "Simon",
-                    "Susan Boyle.</p"
+                    "Susan Boyle"
                 ],
                 "WORK_OF_ART": [
                     "American Idol"
@@ -1815,7 +1822,7 @@
                     "Kevin",
                     "Kevin",
                     "Kevin",
-                    "Eniko Parrish.</p"
+                    "Eniko Parrish"
                 ],
                 "GPE": [
                     "Philadelphia"
@@ -2302,6 +2309,9 @@
             "pubDate": "Thu, 2 Aug 2018 05:00:00 +0000",
             "title": "Justin Timberlake",
             "entities": {
+                "NORP": [
+                    "Musician"
+                ],
                 "PERSON": [
                     "Justin Timberlake"
                 ],
@@ -2430,7 +2440,7 @@
                     "Cardiff",
                     "U.K.",
                     "U.K.",
-                    "Cleveland.</p"
+                    "Cleveland"
                 ],
                 "DATE": [
                     "1996",
@@ -2499,18 +2509,17 @@
                     "Dwayne",
                     "Skyscraper"
                 ],
-                "ORG": [
-                    "Podcast",
-                    "the University of Miami,",
-                    "NFL",
-                    "the Canadian Football League",
-                    "the Calgary Stampeders"
-                ],
                 "DATE": [
                     "years",
                     "the '80s",
                     "16 years old",
                     "four years"
+                ],
+                "ORG": [
+                    "the University of Miami,",
+                    "NFL",
+                    "the Canadian Football League",
+                    "the Calgary Stampeders"
                 ],
                 "CARDINAL": [
                     "23"

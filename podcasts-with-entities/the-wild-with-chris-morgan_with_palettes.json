@@ -84,6 +84,7 @@
                 "GPE": [
                     "Ireland",
                     "the British Isles",
+                    "Ireland",
                     "Ireland"
                 ],
                 "NORP": [
@@ -92,6 +93,9 @@
                 ],
                 "LOC": [
                     "the Pacific Northwest"
+                ],
+                "DATE": [
+                    "the 90s"
                 ],
                 "CARDINAL": [
                     "one"
@@ -130,16 +134,17 @@
                 ],
                 "ORG": [
                     "Earth Species Project",
-                    "Digital",
+                    "Digital Dr. Dolittle",
                     "Earth Species Project",
-                    "the Center for Humane Technology.</p><p",
+                    "the Center for Humane Technology",
                     "the University of British Columbia",
-                    "the Smart Earth Project.</p><p"
+                    "the Smart Earth Project"
                 ],
                 "CARDINAL": [
                     "two"
                 ],
                 "PERSON": [
+                    "Aza Raskin",
                     "Karen Bakker"
                 ],
                 "FAC": [
@@ -178,14 +183,15 @@
                     "Alaska"
                 ],
                 "LOC": [
-                    "the Kenai Peninsula"
+                    "the Kenai Peninsula",
+                    "the Pacific Northwest"
                 ],
                 "PERSON": [
                     "Dan Olsen",
-                    "Olsen",
-                    "Jay Julius"
+                    "Olsen"
                 ],
                 "ORG": [
+                    "Julius",
                     "the Lummi Nation"
                 ],
                 "FAC": [
@@ -218,16 +224,8 @@
             "title": "Season 5 Trailer ",
             "entities": {
                 "DATE": [
-                    "0",
-                    "0",
-                    "March 14!</span></p><p",
+                    "March",
                     "Season 5"
-                ],
-                "CARDINAL": [
-                    "0.6);\">New",
-                    "one",
-                    "two",
-                    "one"
                 ],
                 "PERSON": [
                     "Chris Morgan"
@@ -237,10 +235,15 @@
                 ],
                 "LOC": [
                     "the Pacific Northwest",
-                    "North America.</p"
+                    "North America"
                 ],
                 "NORP": [
                     "Irish"
+                ],
+                "CARDINAL": [
+                    "one",
+                    "two",
+                    "one"
                 ],
                 "GPE": [
                     "Orcas",
@@ -284,7 +287,9 @@
                 ],
                 "ORG": [
                     "PNW",
-                    "the UN Biodiversity Conference"
+                    "the UN Biodiversity Conference",
+                    "Guardian",
+                    "the Sound Tracker"
                 ],
                 "GPE": [
                     "Ireland",
@@ -320,31 +325,11 @@
             "pubDate": "Fri, 1 Jul 2022 12:51:40 -0700",
             "title": "The fiery spell of Desolation",
             "entities": {
-                "DATE": [
-                    "0",
-                    "recent September",
-                    "50s",
-                    "that day",
-                    "0",
-                    "1983",
-                    "every year",
-                    "the wildfire season",
-                    "0",
-                    "0",
-                    "0",
-                    "0",
-                    "monthly",
-                    "85",
-                    "204);\"><em><a href=\"https://www.patreon.com/ChrisMorganWildlife",
-                    "0",
-                    "0"
-                ],
                 "CARDINAL": [
-                    "0);\">One",
+                    "One",
                     "20",
                     "70,000",
-                    "One",
-                    "target=\"_blank\">Patreon</a></em></a><em"
+                    "One"
                 ],
                 "GPE": [
                     "Washington",
@@ -356,21 +341,29 @@
                 "PERSON": [
                     "Desolation Peak",
                     "Jack Kerouac",
-                    "decades?</span></p><p><span",
                     "Jim Henterly",
                     "Desolation Peak",
                     "Chris Morgan"
                 ],
+                "DATE": [
+                    "50s",
+                    "that day",
+                    "1983",
+                    "every year",
+                    "the wildfire season",
+                    "monthly"
+                ],
                 "ORG": [
                     "imagination\u2026.the",
                     "Desolation Peak",
-                    "KUOW Public Radio"
+                    "KUOW Public Radio",
+                    "Instagram"
                 ],
                 "NORP": [
                     "American"
                 ],
                 "FAC": [
-                    "Instagram @thewildpod"
+                    "Patreon"
                 ]
             }
         },
@@ -398,49 +391,36 @@
             "pubDate": "Tue, 21 Jun 2022 00:01:57 -0700",
             "title": "Make it like it was: Clean, cold and flowing Gold Creek of Snoqualmie Pass",
             "entities": {
-                "DATE": [
-                    "0",
-                    "0",
-                    "0",
-                    "0",
-                    "0",
-                    "tribal council years ago",
-                    "0",
-                    "0",
-                    "monthly",
-                    "85",
-                    "204);\"><em><a href=\"https://www.patreon.com/ChrisMorganWildlife",
-                    "0",
-                    "0"
-                ],
-                "CARDINAL": [
-                    "0);\">Join",
-                    "One",
-                    "target=\"_blank\">Patreon</a></em></a><em"
-                ],
                 "ORG": [
                     "CWU",
-                    "KUOW Public Radio"
+                    "the Yakama Nation",
+                    "the Yakama Nation",
+                    "KUOW Public Radio",
+                    "Instagram"
                 ],
                 "PERSON": [
                     "Paul James",
                     "James",
-                    "Blodgett",
+                    "Joe Blodgett",
                     "Joe",
-                    "\u2019</span></p><p><em",
                     "Chris Morgan"
                 ],
                 "GPE": [
-                    "Gold Creek",
-                    "Yakama",
-                    "Yakama"
+                    "Gold Creek"
                 ],
                 "LOC": [
                     "the Yakima River",
                     "the Yakima River"
                 ],
+                "DATE": [
+                    "tribal council years ago",
+                    "monthly"
+                ],
+                "CARDINAL": [
+                    "One"
+                ],
                 "FAC": [
-                    "Instagram @thewildpod"
+                    "Patreon"
                 ]
             }
         },
@@ -468,30 +448,23 @@
             "pubDate": "Tue, 7 Jun 2022 00:05:13 -0700",
             "title": "Etuaptmumk: Two Eyed Seeing",
             "entities": {
-                "DATE": [
-                    "0",
-                    "0",
-                    "0",
-                    "0",
-                    "monthly",
-                    "85",
-                    "0",
-                    "0"
-                ],
                 "CARDINAL": [
-                    "0);\">I",
                     "two",
-                    "One",
-                    "204);\"><a"
+                    "One"
                 ],
                 "ORG": [
-                    "KUOW Public Radio"
+                    "WILD",
+                    "KUOW Public Radio",
+                    "Instagram"
+                ],
+                "DATE": [
+                    "monthly"
                 ],
                 "PERSON": [
                     "Chris Morgan"
                 ],
                 "FAC": [
-                    "Instagram @thewildpod"
+                    "Patreon"
                 ]
             }
         },
@@ -519,10 +492,6 @@
             "pubDate": "Mon, 23 May 2022 14:37:32 -0700",
             "title": "Coral reefs: a biological symphony being silenced",
             "entities": {
-                "ORG": [
-                    "famous</em",
-                    "KUOW Public Radio"
-                ],
                 "PERCENT": [
                     "about 25%"
                 ],
@@ -534,10 +503,6 @@
                     "2050",
                     "monthly"
                 ],
-                "GPE": [
-                    "places</em",
-                    "reefs?</p><p><span"
-                ],
                 "PERSON": [
                     "Tim",
                     "Tim",
@@ -547,6 +512,10 @@
                     "speaker\u2026.can",
                     "Indian Oceans"
                 ],
+                "FAC": [
+                    "Small Island Big Song",
+                    "Patreon"
+                ],
                 "CARDINAL": [
                     "16",
                     "One"
@@ -554,8 +523,10 @@
                 "LOC": [
                     "Pacific"
                 ],
-                "FAC": [
-                    "Instagram @thewildpod"
+                "ORG": [
+                    "WILD",
+                    "KUOW Public Radio",
+                    "Instagram"
                 ]
             }
         },
@@ -583,24 +554,23 @@
             "pubDate": "Tue, 10 May 2022 00:04:59 -0700",
             "title": "Hard Knocks: Lessons from the woodpecker",
             "entities": {
-                "DATE": [
-                    "0",
-                    "0",
-                    "monthly"
-                ],
                 "CARDINAL": [
                     "up to 12,000",
                     "about 15",
                     "One"
                 ],
                 "ORG": [
-                    "KUOW Public Radio"
+                    "KUOW Public Radio",
+                    "Instagram"
+                ],
+                "DATE": [
+                    "monthly"
                 ],
                 "PERSON": [
                     "Chris Morgan"
                 ],
                 "FAC": [
-                    "Instagram @thewildpod"
+                    "Patreon"
                 ]
             }
         },
@@ -634,9 +604,10 @@
                     "the north pacific coast"
                 ],
                 "GPE": [
-                    "Washington",
+                    "Washington State",
                     "Alaska",
-                    "Washington State"
+                    "Washington State",
+                    "Oregon"
                 ],
                 "DATE": [
                     "the late 60s",
@@ -659,14 +630,15 @@
                     "second"
                 ],
                 "ORG": [
-                    "Kelp",
-                    "KUOW Public Radio"
+                    "The Kelp HighwayThe Blue ForestThe WILD",
+                    "KUOW Public Radio",
+                    "Instagram"
                 ],
                 "PERSON": [
                     "Chris Morgan"
                 ],
                 "FAC": [
-                    "Instagram @thewildpod"
+                    "Patreon"
                 ]
             }
         },
@@ -694,6 +666,11 @@
             "pubDate": "Fri, 22 Apr 2022 00:04:59 -0700",
             "title": "Happy 46th Birthday! An Earth Day message from Chris",
             "entities": {
+                "DATE": [
+                    "Earth Day",
+                    "the year 2030",
+                    "those years ago"
+                ],
                 "LOC": [
                     "Earth Day"
                 ],
@@ -702,9 +679,6 @@
                 ],
                 "PERCENT": [
                     "30%"
-                ],
-                "DATE": [
-                    "the year 2030"
                 ],
                 "PERSON": [
                     "Tatiana Latreille",
@@ -744,31 +718,28 @@
             "entities": {
                 "CARDINAL": [
                     "One",
-                    "one",
-                    "89);\"><a",
-                    "89);\"><a"
+                    "one"
                 ],
                 "DATE": [
                     "today",
-                    "season 2",
-                    "76",
-                    "76"
+                    "season 2"
                 ],
                 "PERSON": [
                     "Mark Elbroch",
                     "Mark",
-                    "Mark",
-                    "Cougar Conundrum"
+                    "Mark"
+                ],
+                "ORG": [
+                    "Panthera"
                 ],
                 "FAC": [
                     "Town Hall"
                 ],
                 "GPE": [
-                    "Seattle",
-                    "href=\"https://islandpress.org"
+                    "Seattle"
                 ],
-                "ORG": [
-                    "Successful Predator</a></em"
+                "WORK_OF_ART": [
+                    "The Cougar Conundrum: Sharing the World"
                 ]
             }
         },
@@ -798,14 +769,13 @@
             "entities": {
                 "DATE": [
                     "the summer of 2020",
+                    "over a century",
                     "years",
                     "15 years",
                     "monthly",
-                    "76",
                     "3/31/2022"
                 ],
                 "LOC": [
-                    "the pacific northwest.&nbsp;In",
                     "Mount Rainier National Park"
                 ],
                 "CARDINAL": [
@@ -819,18 +789,19 @@
                     "Chris Morgan",
                     "Jocelyn Akins"
                 ],
+                "ORG": [
+                    "the Cascade Carnivore Project",
+                    "KUOW Public Radio",
+                    "Instagram"
+                ],
                 "ORDINAL": [
                     "first"
                 ],
-                "ORG": [
-                    "WILD",
-                    "KUOW Public Radio"
-                ],
                 "FAC": [
-                    "Instagram @thewildpod"
+                    "Patreon"
                 ],
                 "TIME": [
-                    "89);\">Correction, 9:36 a.m."
+                    "9:36 a.m."
                 ]
             }
         },
@@ -875,8 +846,9 @@
                     "1000%"
                 ],
                 "ORG": [
-                    "the Iberian Lynx",
-                    "KUOW Public Radio"
+                    "CBD Habitat",
+                    "KUOW Public Radio",
+                    "Instagram"
                 ],
                 "DATE": [
                     "monthly"
@@ -885,7 +857,7 @@
                     "Chris Morgan"
                 ],
                 "FAC": [
-                    "Instagram @thewildpod"
+                    "Patreon"
                 ]
             }
         },
@@ -920,7 +892,7 @@
                     "Chris Morgan"
                 ],
                 "DATE": [
-                    "nearly 50 years",
+                    "nearly 50 years ago",
                     "nearly half a century",
                     "monthly"
                 ],
@@ -932,12 +904,16 @@
                     "one",
                     "One"
                 ],
+                "ORG": [
+                    "MarAlliance",
+                    "KUOW Public Radio",
+                    "Instagram"
+                ],
                 "GPE": [
                     "America"
                 ],
-                "ORG": [
-                    "KUOW Public Radio",
-                    "Instagram"
+                "FAC": [
+                    "Patreon"
                 ]
             }
         },
@@ -965,32 +941,18 @@
             "pubDate": "Tue, 15 Feb 2022 00:04:59 -0800",
             "title": "The secret lives of giraffes and the woman who studied them",
             "entities": {
+                "ORG": [
+                    "Anne Innis Dagg",
+                    "Anne Innis",
+                    "KUOW Public Radio",
+                    "Instagram"
+                ],
                 "DATE": [
-                    "0",
                     "1956",
-                    "0",
-                    "0",
-                    "0",
-                    "85",
-                    "0",
-                    "monthly",
-                    "85",
-                    "0",
-                    "0"
-                ],
-                "CARDINAL": [
-                    "0);\">Anne",
-                    "204);\"><a",
-                    "film.</a></span></p><p><span",
-                    "One",
-                    "204);\"><a"
-                ],
-                "PRODUCT": [
-                    "Innis Dagg"
+                    "monthly"
                 ],
                 "GPE": [
-                    "South Africa",
-                    "you!</span></p><p><span"
+                    "South Africa"
                 ],
                 "LOC": [
                     "Africa",
@@ -1000,12 +962,11 @@
                     "Jane Goodall",
                     "Chris Morgan"
                 ],
-                "ORG": [
-                    "Anne Innis Dagg?</span></p><p><span",
-                    "KUOW Public Radio"
+                "CARDINAL": [
+                    "One"
                 ],
                 "FAC": [
-                    "Instagram @thewildpod"
+                    "Patreon"
                 ]
             }
         },
@@ -1034,31 +995,21 @@
             "title": "Goodbye chemical weapons, hello burrowing owls",
             "entities": {
                 "DATE": [
-                    "0",
-                    "0);\">\u201cSo",
                     "two important days",
                     "the day",
                     "the day",
-                    "0",
                     "these past 12 years",
-                    "0",
-                    "0",
-                    "0",
-                    "0",
-                    "monthly",
-                    "0",
-                    "0",
-                    "0",
-                    "0"
+                    "monthly"
                 ],
                 "PERSON": [
-                    "0);\">David",
+                    "David JohnsonDavid",
                     "David",
                     "David",
                     "Chris Morgan"
                 ],
                 "ORG": [
                     "the Global Owl Project",
+                    "WILD",
                     "KUOW Public Radio",
                     "Instagram"
                 ],
@@ -1066,11 +1017,13 @@
                     "one",
                     "less than half",
                     "about one",
-                    "One",
-                    "0);\"><em"
+                    "One"
                 ],
                 "QUANTITY": [
                     "only six inches"
+                ],
+                "FAC": [
+                    "Patreon"
                 ]
             }
         },
@@ -1098,55 +1051,29 @@
             "pubDate": "Tue, 18 Jan 2022 00:04:59 -0800",
             "title": "Portugal\u2019s ecological utopia",
             "entities": {
-                "DATE": [
-                    "0",
-                    "0",
-                    "0",
-                    "0",
-                    "0",
-                    "0",
-                    "0",
-                    "0",
-                    "0",
-                    "0",
-                    "0",
-                    "0",
-                    "0",
-                    "monthly",
-                    "0",
-                    "85",
-                    "0",
-                    "0",
-                    "0"
-                ],
-                "CARDINAL": [
-                    "0);\">I",
-                    "0);\">were</em><span",
-                    "0);\">now</em><span",
-                    "0);\">Join",
-                    "0);\">utopia</em><span",
-                    "One",
-                    "204);\"><a"
-                ],
                 "LOC": [
                     "Northeast Portugal",
                     "the Coa River Valley",
                     "the Coa Valley"
                 ],
                 "GPE": [
-                    "0);\">The",
-                    "0);\">and</em><span",
-                    "you!</span></p><p><span"
+                    "Portugal"
                 ],
                 "ORG": [
-                    "KUOW Public Radio"
+                    "KUOW Public Radio",
+                    "Instagram"
+                ],
+                "CARDINAL": [
+                    "One"
+                ],
+                "DATE": [
+                    "monthly"
                 ],
                 "PERSON": [
-                    "Chris Morgan",
-                    "at</span><a href=\"https://www.patreon.com/ChrisMorganWildlife"
+                    "Chris Morgan"
                 ],
                 "FAC": [
-                    "Instagram @thewildpod"
+                    "Patreon"
                 ]
             }
         },
@@ -1175,16 +1102,18 @@
             "title": "THE WILD: Season 4 Trailer",
             "entities": {
                 "DATE": [
-                    "Tuesday, January 18th.</p><p",
+                    "Tuesday, January 18th",
                     "this season",
                     "monthly"
                 ],
                 "GPE": [
                     "Spain",
-                    "Alaska"
+                    "Alaska",
+                    "America"
                 ],
                 "LOC": [
-                    "Caribbean"
+                    "Caribbean",
+                    "the west coast"
                 ],
                 "ORG": [
                     "KUOW Public Radio"
@@ -1194,6 +1123,9 @@
                 ],
                 "PERSON": [
                     "Chris Morgan"
+                ],
+                "FAC": [
+                    "Patreon"
                 ]
             }
         },
@@ -1224,11 +1156,7 @@
                 "DATE": [
                     "a lovely summer",
                     "winter",
-                    "the next season",
-                    "0",
-                    "0",
-                    "0",
-                    "0"
+                    "the next season"
                 ],
                 "WORK_OF_ART": [
                     "Living Planet from Deutsche Welle"
@@ -1249,6 +1177,9 @@
                 "PERSON": [
                     "Chris Morgan",
                     "Chris Morgan"
+                ],
+                "FAC": [
+                    "Patreon"
                 ]
             }
         },
@@ -1277,26 +1208,14 @@
             "title": "Message from Chris: Season 4",
             "entities": {
                 "DATE": [
-                    "0",
                     "our third season",
-                    "0",
                     "season 4",
-                    "0",
-                    "0",
-                    "0",
-                    "0",
-                    "0",
                     "the fall",
-                    "summer",
-                    "0"
+                    "summer"
                 ],
                 "CARDINAL": [
                     "3",
-                    "4.&nbsp;</span></p><p><span",
-                    "0);\">here</a><span"
-                ],
-                "GPE": [
-                    "you.&nbsp;</span></p><p><span"
+                    "4"
                 ],
                 "LOC": [
                     "the pacific NW"
@@ -1332,12 +1251,14 @@
                     "One"
                 ],
                 "ORG": [
+                    "WILD",
                     "KUOW Public Radio"
                 ],
                 "PERSON": [
                     "Chris Morgan"
                 ],
                 "FAC": [
+                    "Patreon",
                     "Instagram @thewildpod"
                 ]
             }
@@ -1372,20 +1293,17 @@
                     "Santa Cruz"
                 ],
                 "DATE": [
-                    "about 20 years ago",
-                    "0",
-                    "0",
-                    "0"
+                    "about 20 years ago"
                 ],
                 "CARDINAL": [
                     "around one hundred",
-                    "0);\">here</a><span",
                     "One"
                 ],
                 "NORP": [
                     "New Zealanders"
                 ],
                 "ORG": [
+                    "WILD",
                     "KUOW Public Radio"
                 ],
                 "PERSON": [
@@ -1420,30 +1338,22 @@
             "pubDate": "Tue, 29 Jun 2021 00:04:59 -0700",
             "title": "California\u2019s condor: the dinosaur bird",
             "entities": {
-                "DATE": [
-                    "0",
-                    "0",
-                    "1967",
-                    "54 years",
-                    "0",
-                    "0",
-                    "today",
-                    "0",
-                    "85",
-                    "0",
-                    "0"
-                ],
                 "CARDINAL": [
+                    "Hundreds",
                     "thousands",
-                    "0);\">California",
                     "one",
                     "one",
                     "78",
-                    "One",
-                    "204);\"><a"
+                    "One"
                 ],
                 "GPE": [
+                    "California",
                     "California"
+                ],
+                "DATE": [
+                    "1967",
+                    "54 years",
+                    "today"
                 ],
                 "QUANTITY": [
                     "9 foot"
@@ -1452,11 +1362,15 @@
                     "North America's"
                 ],
                 "ORG": [
+                    "WILD",
                     "KUOW Public Radio",
                     "Instagram"
                 ],
                 "PERSON": [
                     "Chris Morgan"
+                ],
+                "FAC": [
+                    "Patreon"
                 ]
             }
         },
@@ -1485,18 +1399,8 @@
             "title": "Bears and diversity: a conversation with Dr. Rae Wynn-Grant",
             "entities": {
                 "DATE": [
-                    "0, 0);\">Today",
-                    "33",
-                    "33",
-                    "34",
-                    "33",
-                    "34",
-                    "15 years",
-                    "33",
-                    "33",
-                    "33",
-                    "34",
-                    "33"
+                    "Today",
+                    "15 years"
                 ],
                 "PERSON": [
                     "Rae Wynn",
@@ -1504,13 +1408,8 @@
                     "Emory",
                     "Chris Morgan"
                 ],
-                "CARDINAL": [
-                    "34);\">is",
-                    "34);\">THE",
-                    "One",
-                    "34);\">Patreon</a><span"
-                ],
                 "ORG": [
+                    "the National Geographic Society",
                     "Research Faculty",
                     "the Bren School of Environmental Science and Management",
                     "the University of California",
@@ -1524,6 +1423,12 @@
                 ],
                 "NORP": [
                     "african"
+                ],
+                "CARDINAL": [
+                    "One"
+                ],
+                "FAC": [
+                    "Patreon"
                 ]
             }
         },
@@ -1551,26 +1456,20 @@
             "pubDate": "Tue, 15 Jun 2021 00:04:59 -0700",
             "title": "Orangutans: people of the forest",
             "entities": {
-                "DATE": [
-                    "76",
-                    "0",
-                    "0",
-                    "0",
-                    "0"
+                "NORP": [
+                    "Northern Sumatra"
                 ],
                 "ORG": [
-                    "Sumatra",
-                    "KUOW Public Radio",
-                    "@chrismorganwildlife</span></p><p><br></p><p><br></p"
+                    "KUOW Public Radio"
                 ],
                 "CARDINAL": [
-                    "One",
-                    "0);\">.</span></p><p><span"
+                    "One"
                 ],
                 "PERSON": [
                     "Chris Morgan"
                 ],
                 "FAC": [
+                    "Patreon",
                     "Instagram @thewildpod"
                 ]
             }
@@ -1599,24 +1498,23 @@
             "pubDate": "Tue, 1 Jun 2021 00:04:59 -0700",
             "title": "Billions of bugs: life of a cicada underground",
             "entities": {
-                "DATE": [
-                    "76",
-                    "this spring",
-                    "the 17 years",
-                    "0",
-                    "0",
-                    "0"
-                ],
                 "CARDINAL": [
-                    "89);\">The",
                     "billions",
                     "One"
                 ],
+                "DATE": [
+                    "this spring",
+                    "the 17 years"
+                ],
                 "ORG": [
+                    "WILD",
                     "KUOW Public Radio"
                 ],
                 "PERSON": [
                     "Chris Morgan"
+                ],
+                "GPE": [
+                    "PatreonFollow"
                 ],
                 "FAC": [
                     "Instagram @thewildpod"
@@ -1727,11 +1625,7 @@
             "link": "https://www.kuow.org/stories/inside-the-mind-of-a-raven",
             "pubDate": "Tue, 4 May 2021 00:04:59 -0700",
             "title": "The brain of the raven",
-            "entities": {
-                "DATE": [
-                    "76"
-                ]
-            }
+            "entities": {}
         },
         {
             "author": "Chris Morgan",
@@ -1917,28 +1811,28 @@
             "pubDate": "Tue, 9 Mar 2021 06:37:42 -0800",
             "title": "Leave it to beavers, seriously ",
             "entities": {
+                "WORK_OF_ART": [
+                    "The Wild"
+                ],
                 "DATE": [
-                    "0",
                     "our third season",
                     "April 6th",
-                    "0",
                     "Spring",
                     "only a few weeks",
                     "March 20",
                     "the long winter",
                     "Spring",
                     "only a few weeks",
-                    "a summer ahead",
-                    "0"
-                ],
-                "WORK_OF_ART": [
-                    "The Wild"
+                    "a summer ahead"
                 ],
                 "LOC": [
                     "Central America"
                 ],
                 "GPE": [
                     "Belize"
+                ],
+                "PERSON": [
+                    "Jaguars"
                 ],
                 "CARDINAL": [
                     "one"
@@ -1995,8 +1889,7 @@
             "title": "Escape to the sounds of nature ",
             "entities": {
                 "NORP": [
-                    "Americans",
-                    "International</a>.</p"
+                    "Americans"
                 ],
                 "LOC": [
                     "Eastern Washington"
@@ -2008,7 +1901,8 @@
                     "Gordon Hempton"
                 ],
                 "ORG": [
-                    "the Sound Tracker"
+                    "the Sound Tracker",
+                    "Quiet Parks International"
                 ]
             }
         },
@@ -2061,15 +1955,16 @@
             "pubDate": "Tue, 6 Oct 2020 00:04:59 -0700",
             "title": "The Great British Birding Show",
             "entities": {
-                "NORP": [
-                    "British",
-                    "English"
-                ],
                 "PERSON": [
+                    "Kick",
                     "Lee Evans",
                     "Lee",
                     "Lee",
-                    "Chris"
+                    "Chris Morgan"
+                ],
+                "NORP": [
+                    "British",
+                    "English"
                 ],
                 "QUANTITY": [
                     "2.2 million miles"
@@ -2079,26 +1974,13 @@
                     "Ireland"
                 ],
                 "CARDINAL": [
-                    "594",
-                    "89);\"><a"
+                    "594"
                 ],
                 "DATE": [
-                    "a day",
-                    "76",
-                    "89);\"><a href=\"https://thebirdingdiariesofleeevans.blogspot.com/",
-                    "76",
-                    "76",
-                    "76"
+                    "a day"
                 ],
                 "WORK_OF_ART": [
-                    "target=\"_blank\">The Diary of an Obsessive Twitcher</a></span></p><p><span",
-                    "target=\"_blank\">The Great Backyard Bird Count</a></span></p><p><span"
-                ],
-                "PERCENT": [
-                    "89);\"><a href=\"https://www.rspb.org.uk/"
-                ],
-                "ORG": [
-                    "target=\"_blank\">The Royal Society for the Protection of Birds</a></span></p><p><span"
+                    "The Diary of an Obsessive TwitcherThe Royal Society for the Protection of BirdsThe Great Backyard Bird CountBird"
                 ]
             }
         },

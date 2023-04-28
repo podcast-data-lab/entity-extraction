@@ -34,8 +34,11 @@
             "pubDate": "Mon, 04 Apr 2022 18:23:21 GMT",
             "title": "Rachel Nabors on Planning and Preparing for Your Next Role",
             "entities": {
-                "ORG": [
-                    "href=\"https://twitter.com"
+                "PERSON": [
+                    "Rachel Nabors"
+                ],
+                "TIME": [
+                    "https://podcasters.spotify.com/pod/show/single-threaded/support"
                 ]
             }
         },
@@ -65,11 +68,10 @@
             "title": "Kyle Shevlin on Healthy Boundaries at Work",
             "entities": {
                 "PERSON": [
-                    "Kyle Shevlin",
-                    "href=\"https://dev.to"
+                    "Kyle Shevlin"
                 ],
-                "ORG": [
-                    "href=\"https://twitter.com"
+                "TIME": [
+                    "https://podcasters.spotify.com/pod/show/single-threaded/support"
                 ]
             }
         },
@@ -98,10 +100,14 @@
             "entities": {
                 "PERSON": [
                     "Dana Jones",
-                    "href=\"https://dev.to"
+                    "Transcript\nShow"
                 ],
                 "ORG": [
-                    "Netflix Studio"
+                    "Netflix Studio",
+                    "Path\nResilient Management"
+                ],
+                "TIME": [
+                    "https://podcasters.spotify.com/pod/show/single-threaded/support"
                 ]
             }
         },
@@ -131,8 +137,10 @@
             "title": "Helen Hou-Sandi on the Real Value of Contributing to Open Source",
             "entities": {
                 "PERSON": [
-                    "Helen Hou-Sandi",
-                    "href=\"https://dev.to"
+                    "Helen Hou-Sandi"
+                ],
+                "TIME": [
+                    "https://podcasters.spotify.com/pod/show/single-threaded/support"
                 ]
             }
         },
@@ -162,15 +170,13 @@
             "title": "Rebecca Murphey on Developer Productivity",
             "entities": {
                 "PERSON": [
-                    "Rebecca Murphey",
-                    "Hate It</a></p"
+                    "Rebecca Murphey"
                 ],
                 "ORG": [
-                    "href=\"https://twitter.com",
                     "Stripe"
                 ],
-                "NORP": [
-                    "href=\"https://queue.acm.org"
+                "TIME": [
+                    "https://podcasters.spotify.com/pod/show/single-threaded/support"
                 ]
             }
         },
@@ -199,18 +205,16 @@
             "pubDate": "Mon, 14 Feb 2022 15:00:00 GMT",
             "title": "Prince Wilson on Learning through Live-Coding",
             "entities": {
-                "ORG": [
-                    "href=\"https://twitter.com"
-                ],
                 "PERSON": [
-                    "Twitch",
-                    "href=\"https://dev.to"
+                    "Prince Wilson",
+                    "Twitch"
                 ],
                 "DATE": [
                     "Tuesdays"
                 ],
                 "TIME": [
-                    "6:30pm EST"
+                    "6:30pm EST",
+                    "https://podcasters.spotify.com/pod/show/single-threaded/support"
                 ]
             }
         },
@@ -246,10 +250,13 @@
                     "Laurie Barth"
                 ],
                 "ORG": [
-                    "href=\"https://twitter.com"
+                    "@laurieontech"
                 ],
                 "GPE": [
                     "Netflix"
+                ],
+                "TIME": [
+                    "https://podcasters.spotify.com/pod/show/single-threaded/support"
                 ]
             }
         },
@@ -278,8 +285,15 @@
             "pubDate": "Wed, 21 Apr 2021 15:15:51 GMT",
             "title": "Duretti Hirpa on Making Good Trouble",
             "entities": {
+                "ORG": [
+                    "Principal",
+                    "Duretti"
+                ],
                 "PERSON": [
                     "Duretti Hirpa"
+                ],
+                "TIME": [
+                    "https://podcasters.spotify.com/pod/show/single-threaded/support"
                 ]
             }
         },
@@ -307,7 +321,14 @@
             "link": "https://podcasters.spotify.com/pod/show/single-threaded/episodes/Jeff-Lembeck-on-Hero-Culture-eurv53",
             "pubDate": "Wed, 14 Apr 2021 07:00:00 GMT",
             "title": "Jeff Lembeck on Hero Culture",
-            "entities": {}
+            "entities": {
+                "PERSON": [
+                    "Jeff Lembeck"
+                ],
+                "TIME": [
+                    "https://podcasters.spotify.com/pod/show/single-threaded/support"
+                ]
+            }
         },
         {
             "content": "<p>Carolyn Stransky (<a href=\"https://twitter.com/carolstran\">@carolstran</a>), software engineer and self-described \"eternal crybaby\", joins the podcast to talk about crying at work.&nbsp;</p>\n\n--- \n\nSupport this podcast: <a href=\"https://podcasters.spotify.com/pod/show/single-threaded/support\" rel=\"payment\">https://podcasters.spotify.com/pod/show/single-threaded/support</a>",
@@ -336,6 +357,9 @@
             "entities": {
                 "PERSON": [
                     "Carolyn Stransky"
+                ],
+                "TIME": [
+                    "https://podcasters.spotify.com/pod/show/single-threaded/support"
                 ]
             }
         },
@@ -367,8 +391,8 @@
                 "PERSON": [
                     "Lauren Tan"
                 ],
-                "ORG": [
-                    "href=\"https://twitter.com"
+                "TIME": [
+                    "https://podcasters.spotify.com/pod/show/single-threaded/support"
                 ]
             }
         },
@@ -399,19 +423,25 @@
             "entities": {
                 "PERSON": [
                     "Sara Vieira",
-                    "everywhere.</em",
-                    "Linkin Park.</p",
                     "Mike North's"
+                ],
+                "NORP": [
+                    "@NikkitaFTW"
                 ],
                 "ORG": [
                     "TypeScript",
                     "The WordPress Problem",
                     "TypeScript",
-                    "href=\"https://frontendmasters.com",
-                    "TypeScript"
+                    "Frontend Masters:"
                 ],
                 "PRODUCT": [
                     "Angular 1"
+                ],
+                "GPE": [
+                    "Linkin Park"
+                ],
+                "TIME": [
+                    "https://podcasters.spotify.com/pod/show/single-threaded/support"
                 ]
             }
         },
@@ -443,6 +473,12 @@
                 "PERSON": [
                     "Faduma Mohammed",
                     "Github"
+                ],
+                "GPE": [
+                    "https://dev.to/gurlcode/single-threaded-podcast-faduma-mohammed-on-code-reviews-compliments-562f"
+                ],
+                "TIME": [
+                    "https://podcasters.spotify.com/pod/show/single-threaded/support"
                 ]
             }
         },
@@ -473,8 +509,10 @@
             "entities": {
                 "PERSON": [
                     "Crystal Martin",
-                    "Jenn",
-                    "Twitter"
+                    "Jenn"
+                ],
+                "PRODUCT": [
+                    "Follow Crystal"
                 ],
                 "LOC": [
                     "Crystal"
@@ -485,6 +523,9 @@
                 ],
                 "DATE": [
                     "Hawaii 2019"
+                ],
+                "TIME": [
+                    "https://podcasters.spotify.com/pod/show/single-threaded/support"
                 ]
             }
         },
@@ -515,14 +556,19 @@
             "entities": {
                 "PERSON": [
                     "Erin Fox",
-                    "Jenn",
+                    "Jenn (@gurlcode",
+                    "Follow Erin",
                     "Questions Erin",
-                    "href=\"https://medium.com/@erinfoox",
                     "Erin"
                 ],
                 "CARDINAL": [
-                    "about one",
-                    "one"
+                    "about one"
+                ],
+                "PRODUCT": [
+                    "Twitter"
+                ],
+                "TIME": [
+                    "https://podcasters.spotify.com/pod/show/single-threaded/support"
                 ]
             }
         },
@@ -553,7 +599,10 @@
                 "DATE": [
                     "This first season",
                     "this season",
-                    "February 2021.</p"
+                    "February 2021"
+                ],
+                "TIME": [
+                    "https://podcasters.spotify.com/pod/show/single-threaded/support"
                 ]
             }
         }
@@ -596,6 +645,9 @@
         "DATE": [
             "This first season",
             "this season"
+        ],
+        "TIME": [
+            "https://podcasters.spotify.com/pod/show/single-threaded/support"
         ]
     }
 }

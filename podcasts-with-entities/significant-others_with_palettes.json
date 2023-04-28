@@ -37,19 +37,20 @@
             "title": "Bonus Episode: Elizabeth Winkler on if Shakespeare was a Woman",
             "entities": {
                 "DATE": [
-                    "month"
+                    "this month"
                 ],
                 "PERSON": [
                     "Liza",
                     "Elizabeth Winkler",
-                    "Shakespeare",
-                    "Shakespeare",
                     "Shakespeare",
                     "Elizabeth",
                     "Liza",
                     "Shakespeare",
                     "Elizabeth",
                     "Significant Others"
+                ],
+                "WORK_OF_ART": [
+                    "Shakespeare Was a Woman and Other Heresies"
                 ],
                 "LOC": [
                     "Atlantic"
@@ -94,6 +95,9 @@
                 "GPE": [
                     "Mo Rocca"
                 ],
+                "ORG": [
+                    "Mobituaries"
+                ],
                 "EVENT": [
                     "Season 2!"
                 ]
@@ -136,7 +140,8 @@
                     "one"
                 ],
                 "NORP": [
-                    "Substacks"
+                    "Substacks",
+                    "American"
                 ],
                 "ORDINAL": [
                     "first"
@@ -229,8 +234,8 @@
                     "Anne Boleyn",
                     "Significant Others"
                 ],
-                "ORG": [
-                    "Blood</a"
+                "FAC": [
+                    "Noble Blood"
                 ],
                 "DATE": [
                     "Today"
@@ -272,14 +277,15 @@
                 "PERSON": [
                     "Significant Others",
                     "Stacy Schiff",
-                    "Samuel Adams</i",
+                    "Samuel Adams",
                     "Samuel Adams",
                     "Liza",
                     "Samuel Adams",
                     "Significant Others"
                 ],
                 "WORK_OF_ART": [
-                    "Pulitzer Prize"
+                    "Pulitzer Prize",
+                    "The Revolutionary:"
                 ],
                 "EVENT": [
                     "the Revolutionary War",
@@ -322,7 +328,7 @@
                     "Malcolm Gladwell",
                     "Liza",
                     "Spock",
-                    "Jane.</p"
+                    "Jane"
                 ]
             }
         },
@@ -353,39 +359,39 @@
             "pubDate": "Wed, 7 Sep 2022 04:00:00 +0000",
             "title": "Jane Cheney Spock",
             "entities": {
-                "WORK_OF_ART": [
-                    "The Common Sense Book of Baby and Child"
+                "ORG": [
+                    "The Common Sense Book of Baby and Child Care",
+                    "American Archive of Public Broadcasting\u201cThe Man Who Raised America",
+                    "Recognition",
+                    "The New York TimesChristian Nurture"
                 ],
                 "PERSON": [
                     "Benjamin Spock",
                     "Jane",
                     "Spock",
-                    "Lynn Z. Bloom</p><p><a",
+                    "Thomas",
+                    "Lynn Z. Bloom\u201cPublic",
                     "Spock",
-                    "Hyde,\u201d</a",
-                    "Mary Jo Kochakian</p><p><a",
-                    "Susan",
+                    "Hyde",
+                    "Mary Jo Kochakian\u201cParents",
+                    "Susan Bolotin\u201cThe Spocks: Bittersweet",
                     "Judy",
+                    "Horace BushnellHorace Bushnell",
                     "Recalls His Childhood",
-                    "Elizabeth"
+                    "Elizabeth Mehren"
                 ],
-                "NORP": [
-                    "American",
-                    "Christian"
-                ],
-                "ORG": [
-                    "Thomas Maier</p><p><i>\u200b\u200bDoctor Spock",
-                    "href=\"https://americanarchive.org",
-                    "American Archive of Public",
-                    "Horace"
+                "PRODUCT": [
+                    "Classic",
+                    "Baby Book"
                 ],
                 "DATE": [
-                    "spock-82",
                     "82"
                 ],
                 "GPE": [
-                    "New York",
                     "Britannica"
+                ],
+                "WORK_OF_ART": [
+                    "The Personal Spock: The Controversial"
                 ]
             }
         },
@@ -450,39 +456,34 @@
             "title": "Sir Leslie Stephen",
             "entities": {
                 "PERSON": [
+                    "Virginia Woolf",
                     "Leslie Stephen",
                     "Jameela Jamil",
                     "Virginia Woolf",
                     "Luke Millington-Drake",
-                    "Leslie Stephen.</p><p",
+                    "Leslie Stephen",
+                    "List:\u201cVirginia Woolf",
                     "Leslie Stephen:",
-                    "Katherine C. Hill</p><p><i",
-                    "Hermione Lee</p><p><i",
-                    "Quentin",
+                    "Katherine C. HillTo",
+                    "Virginia WoolfA Room",
+                    "Virginia WoolfVirginia Woolf",
+                    "Virginia WoolfVirginia Woolf",
+                    "Quentin Bell\u201cA House",
                     "Janet",
                     "Beautiful Mind - Laura Makepeace Stephen",
-                    "Madeleine",
+                    "Madeleine OakleyBloomsbury",
                     "Woolf",
                     "Leslie Stephen",
-                    "Louise A. DeSalvo</p><p><i",
-                    "Rob",
-                    "Walter Scott</p"
-                ],
-                "CARDINAL": [
-                    "one"
-                ],
-                "GPE": [
-                    "Woolf",
-                    "Virginia",
-                    "Virginia",
-                    "Virginia",
-                    "Virginia",
-                    "Virginia",
-                    "Virginia"
+                    "Louise A. DeSalvoRob Roy",
+                    "Walter Scott"
                 ],
                 "ORG": [
-                    "the Earlswood Asylum Medical Archives",
-                    "wiki/Bloomsbury_Group\">Bloomsbury"
+                    "Virginia WoolfA Writer\u2019s",
+                    "Hermione LeeThe Common Reader",
+                    "the Earlswood Asylum Medical Archives"
+                ],
+                "GPE": [
+                    "Diary"
                 ]
             }
         },
@@ -517,6 +518,9 @@
                     "Mark Harris",
                     "Liza",
                     "Elia Kazan"
+                ],
+                "GPE": [
+                    "Hollywood"
                 ]
             }
         },
@@ -556,26 +560,15 @@
                     "Jack McBrayer",
                     "Jim Rash",
                     "Adam O\u2019Byrne",
-                    "Larry",
-                    "Richard",
-                    "Brenda",
-                    "Tennessee Williams",
-                    "John Lahr</p><p><a"
-                ],
-                "GPE": [
-                    "Waterfront",
-                    "Kazan"
-                ],
-                "WORK_OF_ART": [
-                    "Streetcar Named"
-                ],
-                "NORP": [
-                    "Elia"
+                    "Larry Powell",
+                    "Richard SchickelTennessee Williams & Elia Kazan",
+                    "Brenda MurphyTennessee Williams",
+                    "John Lahr\u201cA Statement\u201d"
                 ],
                 "ORG": [
-                    "Elia Kazan</i",
-                    "Tennessee Williams & Elia Kazan",
-                    "Flesh</i",
+                    "Elia KazanElia Kazan",
+                    "Theatre",
+                    "Flesh",
                     "Elia"
                 ]
             }
@@ -645,9 +638,7 @@
             "title": "James Baldwin and Maya Angelou",
             "entities": {
                 "CARDINAL": [
-                    "two",
-                    "Three",
-                    "2008</p><p><i"
+                    "two"
                 ],
                 "PERSON": [
                     "Christina Elmore",
@@ -655,95 +646,74 @@
                     "Larry Powell",
                     "James Baldwin",
                     "Angelica Ch\u00e9ri",
-                    "Lorraine Hansberry.</p><p",
+                    "Lorraine Hansberry",
                     "James Baldwin",
-                    "David Adams Leeming</p><p><i",
-                    "Anna Malaika Tubbs</p><p><i",
-                    "James Baldwin</p><p><a href=\"https://www.npr.org/2008/04/06/89355359/at-80-maya",
+                    "David Adams LeemingThe",
+                    "Anna Malaika TubbsNotes",
+                    "James BaldwinAt",
                     "Maya Angelou Reflects",
-                    "james-baldwin-biographical-timeline/2667/\"><i",
-                    "James Baldwin Biographical",
-                    "Maya",
-                    "james-baldwin-s-sexuality",
-                    "James Baldwin\u2019s",
+                    "Maya Angelou",
                     "Baldwin",
                     "James Baldwin",
                     "Clayton Riley",
-                    "Maya",
                     "Hilton Als",
                     "Hilton Als",
-                    "Maya",
-                    "james-baldwin",
-                    "Baldwin",
+                    "Maya Angelou\u201cJames Baldwin Denounced",
                     "Richard Wright",
                     "Ayana Mathis",
                     "Pankaj Mishra",
                     "Brigit Katz",
-                    "james-baldwin",
-                    "row/\">\u201cOn",
-                    "James Baldwin\u201d</a>",
+                    "Veronica Chambers",
+                    "James Baldwin\u201cJames Baldwin",
+                    "James Baldwin",
                     "Robert Simonson",
-                    "Brian",
-                    "james-baldwin-price",
+                    "Playbill",
+                    "Brian Logan\u201cJames Baldwin",
                     "Baldwin",
-                    "James Baldwin</p><p><a",
-                    "james-baldwin-wanted-america",
+                    "Jordan Elgrably\u201cThe American Dream",
+                    "James Baldwin\u201cThe History",
                     "James Baldwin Wanted America",
                     "Eddie S. Glaude",
                     "James Baldwin\u2019s",
                     "Spike Lee\u2019s",
-                    "Malcolm X.\u2019\u201d</a",
+                    "Malcolm X.",
                     "D. Quentin Miller"
                 ],
-                "NORP": [
-                    "Native",
-                    "Native",
-                    "American",
-                    "African American"
-                ],
-                "DATE": [
-                    "80",
-                    "2004",
-                    "after-30-year",
-                    "published-50-years-ago-i-know",
-                    "More Than 50 Years Ago"
+                "WORK_OF_ART": [
+                    "a \u2018Glorious\u2019 Life",
+                    "Talking Back to Maya Angelou",
+                    "Love",
+                    "An Introduction",
+                    "Do the White Thing",
+                    "The Art of Fiction"
                 ],
                 "ORG": [
                     "NPR",
-                    "The Collected Autobiographies of Maya Angelou</i",
+                    "2008The Collected Autobiographies",
                     "Random House",
-                    "href=\"https://www.pbs.org",
-                    "American Masters",
-                    "World History",
-                    "NBC News</p><p><a",
-                    "The Langston Hughes Review</i>",
+                    "Angelou, World History ProjectJames Baldwin\u2019s Sexuality",
+                    "Influential",
+                    "NBC",
+                    "Langston Hughes",
+                    "The Langston Hughes Review",
                     "a \u2018Protest Novel",
-                    "smart-news",
+                    "The New York",
                     "the Controversial \u2018Porgy and Bess\u2019",
+                    "the Met Opera",
                     "Smithsonian",
-                    "Veronica Chambers",
                     "Smithsonian",
-                    "Horizon",
-                    "James Baldwin</p><p><a href=\"https://www.youtube.com",
-                    "National Museum of African American History & Culture</p><p><a",
+                    "National Museum of African American History & Culture\u201c\u2018The Blacks",
                     "Landmark Off-Broadway Show",
-                    "href=\"https://www.pbs.org",
-                    "American Masters"
+                    "American Masters",
+                    "the American Negro",
+                    "African American Review"
                 ],
-                "GPE": [
-                    "Langston",
-                    "New York",
-                    "href=\"https://nmaahc.si.edu",
-                    "Jordan"
-                ],
-                "ORDINAL": [
-                    "20th"
-                ],
-                "FAC": [
-                    "Ticket\u201d</a"
-                ],
-                "WORK_OF_ART": [
-                    "The Art of Fiction\u201d</a>"
+                "DATE": [
+                    "2004",
+                    "30 Year",
+                    "More Than 50 Years Ago",
+                    "the 20th Century",
+                    "Jan 31"
                 ]
             }
         },
@@ -774,8 +744,9 @@
             "title": "Stacy Schiff on the Nabokovs",
             "entities": {
                 "PERSON": [
+                    "Biographer Stacy Schiff",
                     "Liza",
-                    "here:</p><p><a"
+                    "V\u00e9ra"
                 ],
                 "WORK_OF_ART": [
                     "Pulitzer Prize"
@@ -814,27 +785,27 @@
             "entities": {
                 "PERSON": [
                     "Vladimir Nabokov",
+                    "Lolita",
                     "Nabokov",
                     "Vladimir",
+                    "V\u00e9ra",
                     "D\u2019Arcy Carden",
                     "V\u00e9ra Nabokov",
                     "Dan Bucatinsky",
-                    "Vladimir",
+                    "Vladimir Nabokov",
                     "Vladimir Nabokov",
                     "Ed",
                     "Olga Voronina",
-                    "Brian Boyd</p><p><i",
-                    "Vladimir Nabokov",
-                    "Brian Boyd</p><p><i",
-                    "Vladimir Nabokov",
-                    "Brian Boyd</p><p><i",
-                    "Vladimir Nabokov</p><p><i",
+                    "Brian BoydVladimir Nabokov",
+                    "Brian BoydVladimir Nabokov",
+                    "Brian BoydLolita",
+                    "Vladimir NabokovLectures",
                     "Vladimir Nabokov",
                     "Ed"
                 ],
-                "NORP": [
-                    "Russian",
-                    "American"
+                "EVENT": [
+                    "The Russian Years",
+                    "The American Years"
                 ]
             }
         },
@@ -911,13 +882,11 @@
                     "Timothy Olyphant",
                     "Abraham Lincoln",
                     "Matt Gourley",
-                    "Mike Sweeney.<br",
+                    "Mike Sweeney",
                     "Abraham Lincoln",
-                    "Doris Kearns",
-                    "Miller Center",
                     "Daniel Mark",
-                    "Mary Todd Lincoln",
-                    "Jean H. Baker</p><p>\u201cLincoln\u2019s",
+                    "Todd Lincoln",
+                    "Jean H. Baker\u201cLincoln\u2019s",
                     "Susan Bell",
                     "Todd Lincoln",
                     "Batavia",
@@ -938,11 +907,13 @@
                     "today"
                 ],
                 "ORG": [
-                    "Team of Rivals",
+                    "Doris Kearns GoodwinMiller Center",
                     "The University of Virginia",
                     "USC",
                     "Bellevue Place",
-                    "the Illinois State Historical"
+                    "Journal of the Illinois State Historical",
+                    "Journal of the Abraham Lincoln",
+                    "Journal of the Illinois State Historical Society"
                 ]
             }
         },
@@ -1011,37 +982,36 @@
                 "PERSON": [
                     "Mohandas Gandhi",
                     "Kasturba",
+                    "Dipika Guha",
                     "Kasturba Gandhi",
                     "Samrat Chakrabarti",
-                    "Mohandas",
-                    "Sita Kapadia</p><p><i",
-                    "Gandhi",
-                    "Madhu Kishwar",
+                    "Mohandas Gandhi",
+                    "Mahatma",
+                    "Sita KapadiaGandhi",
                     "Mahatma Gandhi",
+                    "About Gandhi",
                     "Gandhi",
                     "Sarladevi",
                     "Esther Faerling",
                     "B.M. Bhalla",
-                    "Mohandas Karamchad",
+                    "Mohandas Karamchad GandhiMAHATMA",
                     "Eight Volumes",
-                    "B.M.",
-                    "Gandhi",
-                    "Kasturba Gandhi",
+                    "ViceKasturba Gandhi",
                     "Simrin Sirur"
                 ],
                 "GPE": [
                     "India",
                     "Britain",
-                    "New Delhi",
-                    "D.G."
+                    "New Delhi"
                 ],
-                "LAW": [
-                    "The Woman Beside Gandhi"
+                "ORG": [
+                    "Madhu Kishwar, Economic and Political Weekly",
+                    "D.G. TendulkarKasturba: A Biography",
+                    "Mayukh Sen",
+                    "The Feisty Woman Whose Patience Inspired Gandhi's"
                 ],
                 "CARDINAL": [
-                    "20",
-                    "2018</p><p><i",
-                    "2020</p><p><i"
+                    "20"
                 ],
                 "DATE": [
                     "October 2",
@@ -1049,14 +1019,8 @@
                     "December 3, 2015",
                     "April 11, 2019"
                 ],
-                "ORG": [
-                    "Harvard",
-                    "Mayukh Sen",
-                    "The Feisty Woman Whose Patience Inspired Gandhi's"
-                ],
                 "WORK_OF_ART": [
-                    "Bad-Tempered Kasturba -",
-                    "The Story of My Experiments With Truth</i>"
+                    "2020The Story of My Experiments With Truth"
                 ],
                 "FAC": [
                     "Call For Satyagraha"
@@ -1134,28 +1098,31 @@
                 "PERSON": [
                     "Leo Tolstoy",
                     "Sophia Tolstoy",
-                    "Anna Karenina</i",
+                    "Anna Karenina",
                     "Starring Megan Mullally",
                     "Sophia Tolstoy",
                     "Nick Offerman",
                     "Leo Tolstoy",
-                    "Faber",
-                    "Ed",
-                    "R.F. Christian",
-                    "David Holbrook",
-                    "Cathy Porter"
-                ],
-                "ORG": [
-                    "Leo Tolstoy.<br",
                     "A.N. Wilson",
-                    "WW Norton & Co<br /><i",
-                    "The Photographs & Diaries of",
-                    "Leah Bendavid-Val",
-                    "National Geographic Society<br /><i",
-                    "Farleigh Dickinson University"
+                    "R.F. ChristianTolstoy",
+                    "David Holbrook",
+                    "Sophia Tolstoy",
+                    "Cathy Porter",
+                    "Harper Collins"
+                ],
+                "WORK_OF_ART": [
+                    "War and Peace"
                 ],
                 "DATE": [
                     "1988"
+                ],
+                "ORG": [
+                    "WW Norton & CoSong Without Words",
+                    "The Photographs & Diaries of",
+                    "Leah Bendavid-Val",
+                    "National Geographic SocietyLeo Tolstoy, Diaries, Faber, Ed",
+                    "Woman and Death",
+                    "Farleigh Dickinson University PressThe Diaries"
                 ]
             }
         },

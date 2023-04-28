@@ -38,7 +38,16 @@
             "title": "Episode 93: How We Find Our Towels, Nested Folders Finale",
             "entities": {
                 "ORG": [
-                    "Rose and Scotty"
+                    "Rose and Scotty",
+                    "Hitchhiker's"
+                ],
+                "PERSON": [
+                    "Scotty",
+                    "Nested Folders",
+                    "Hemispheric Views"
+                ],
+                "GPE": [
+                    "Wikipedia"
                 ]
             }
         },
@@ -72,14 +81,19 @@
             "entities": {
                 "PERSON": [
                     "Scotty",
-                    "Marie Kondo</a></li",
-                    "Dana K. White</a></li",
+                    "Marie Kondo",
+                    "Dana K. White",
                     "Nested Folders"
                 ],
+                "GPE": [
+                    "Wikipedia",
+                    "Wikipedia"
+                ],
                 "ORG": [
-                    "href=\"http://psychologytoday.com",
-                    "href=\"https://konmari.com",
-                    "KonMari Method"
+                    "Hitchhiker's",
+                    "KonMari Method",
+                    "Unnested Folders",
+                    "Unnested Folders"
                 ],
                 "FAC": [
                     "the Speed of Life"
@@ -122,11 +136,19 @@
             "entities": {
                 "PERSON": [
                     "Scotty",
+                    "Finding Nemo",
                     "Nested Folders"
+                ],
+                "FAC": [
+                    "the Holy Grail"
                 ],
                 "CARDINAL": [
                     "five",
                     "one"
+                ],
+                "ORG": [
+                    "Unnested Folders",
+                    "Unnested Folders"
                 ],
                 "DATE": [
                     "monthly"
@@ -165,15 +187,24 @@
                     "Scotty",
                     "Carpenters",
                     "Blondie",
+                    "Lose Yourself",
+                    "Mark Twain",
                     "Jack",
                     "Nested Folders"
                 ],
-                "ORG": [
-                    "Imagine Dragons x J.I.D</li",
-                    "MONOWHALES</li"
+                "WORK_OF_ART": [
+                    "Rainy Days",
+                    "Monty Python's Crunchy Frog\r\n \tThe Shining"
                 ],
                 "DATE": [
+                    "Mondays",
                     "monthly"
+                ],
+                "ORG": [
+                    "Eminem",
+                    "Imagine Dragons",
+                    "Unnested Folders",
+                    "Unnested Folders"
                 ],
                 "CARDINAL": [
                     "one"
@@ -210,7 +241,12 @@
             "entities": {
                 "PERSON": [
                     "Scotty",
+                    "Cal Newport's",
                     "Nested Folders"
+                ],
+                "ORG": [
+                    "Unnested Folders",
+                    "Unnested Folders"
                 ],
                 "DATE": [
                     "monthly"
@@ -253,10 +289,9 @@
                     "Nested Folders"
                 ],
                 "ORG": [
-                    "href=\"http://psychologytoday.com",
-                    "href=\"https://gettingthingsdone.com",
-                    "href=\"https://gettingthingsdone.com",
-                    "Scotty's"
+                    "Scotty's",
+                    "Unnested Folders",
+                    "Unnested Folders"
                 ],
                 "ORDINAL": [
                     "first",
@@ -302,6 +337,10 @@
                     "Scotty",
                     "Nested Folders"
                 ],
+                "ORG": [
+                    "Unnested Folders",
+                    "Unnested Folders"
+                ],
                 "DATE": [
                     "monthly"
                 ],
@@ -340,18 +379,22 @@
             "entities": {
                 "PERSON": [
                     "Scotty",
-                    "Year</a></li",
+                    "Nested Folders",
+                    "Mike Schmitz\u2019s",
                     "Nested Folders"
+                ],
+                "DATE": [
+                    "12 Week Year",
+                    "monthly"
                 ],
                 "CARDINAL": [
                     "3",
                     "one"
                 ],
                 "ORG": [
-                    "Schmitz"
-                ],
-                "DATE": [
-                    "monthly"
+                    "Personal Retreat",
+                    "Unnested Folders",
+                    "Unnested Folders"
                 ]
             }
         },
@@ -385,19 +428,22 @@
             "entities": {
                 "PERSON": [
                     "Scotty",
+                    "Nested Folders Episode",
+                    "Nested Folders Episode",
                     "Nested Folders"
                 ],
                 "CARDINAL": [
                     "2",
-                    "Zero",
                     "one"
                 ],
-                "PRODUCT": [
-                    "Day</a></li"
-                ],
                 "DATE": [
-                    "episode-66",
+                    "Zero Day",
                     "monthly"
+                ],
+                "ORG": [
+                    "Background Thinking",
+                    "Unnested Folders",
+                    "Unnested Folders"
                 ]
             }
         },
@@ -433,11 +479,12 @@
                     "Scotty",
                     "Nested Folders"
                 ],
-                "ORG": [
-                    "wiki/Rubber_duck_debugging\">Rubber"
-                ],
                 "WORK_OF_ART": [
                     "Soul"
+                ],
+                "ORG": [
+                    "Unnested Folders",
+                    "Unnested Folders"
                 ],
                 "DATE": [
                     "monthly"
@@ -480,11 +527,17 @@
                     "Scotty Principle",
                     "Nested Folders"
                 ],
+                "CARDINAL": [
+                    "1",
+                    "2",
+                    "one"
+                ],
+                "ORG": [
+                    "Unnested Folders",
+                    "Unnested Folders"
+                ],
                 "DATE": [
                     "monthly"
-                ],
-                "CARDINAL": [
-                    "one"
                 ]
             }
         },
@@ -518,12 +571,12 @@
             "entities": {
                 "PERSON": [
                     "Scotty",
-                    "Getting Things Done</a></li",
+                    "Bob\r\n \tHitchhiker's",
                     "Nested Folders"
                 ],
                 "ORG": [
-                    "href=\"https://gettingthingsdone.com",
-                    "href=\"https://media.giphy.com/media/6BHo4gLh9rqtW/giphy.gif\">Mad Men: Not great"
+                    "Unnested Folders",
+                    "Unnested Folders"
                 ],
                 "DATE": [
                     "monthly"
@@ -565,11 +618,9 @@
                     "Scotty",
                     "Nested Folders"
                 ],
-                "GPE": [
-                    "href=\"https://agenda.com/\">Agenda</a></li"
-                ],
-                "FAC": [
-                    "the Holy Grail:"
+                "ORG": [
+                    "Unnested Folders",
+                    "Unnested Folders"
                 ],
                 "DATE": [
                     "monthly"
@@ -611,6 +662,10 @@
                     "Scotty",
                     "Nested Folders"
                 ],
+                "ORG": [
+                    "Unnested Folders",
+                    "Unnested Folders"
+                ],
                 "DATE": [
                     "monthly"
                 ],
@@ -649,11 +704,15 @@
             "entities": {
                 "PERSON": [
                     "Scotty",
-                    "Getting Things Done</a></li",
+                    "Getting Things Done",
                     "Nested Folders"
                 ],
+                "GPE": [
+                    "Wikipedia"
+                ],
                 "ORG": [
-                    "href=\"https://gettingthingsdone.com"
+                    "Unnested Folders",
+                    "Unnested Folders"
                 ],
                 "DATE": [
                     "monthly"
@@ -696,6 +755,10 @@
                     "Scotty",
                     "Nested Folders"
                 ],
+                "ORG": [
+                    "Unnested Folders",
+                    "Unnested Folders"
+                ],
                 "DATE": [
                     "monthly"
                 ],
@@ -734,13 +797,16 @@
             "entities": {
                 "PERSON": [
                     "Scotty",
-                    "Davis",
-                    "Struggle care</a></li",
-                    "href=\"https://getdrafts.com/\">Drafts",
+                    "KC Davis",
+                    "DEVONthink\r\n \tBaskets",
                     "Nested Folders"
                 ],
+                "ORG": [
+                    "Struggle",
+                    "Unnested Folders",
+                    "Unnested Folders"
+                ],
                 "DATE": [
-                    "href=\"https://heyscottyj.com/2022/04/26/day-automation-agenda-daily-log/\">Scotty\u2019s Agenda Daily Log</a></li",
                     "monthly"
                 ],
                 "CARDINAL": [
@@ -780,6 +846,10 @@
                     "Scotty",
                     "Nested Folders"
                 ],
+                "ORG": [
+                    "Unnested Folders",
+                    "Unnested Folders"
+                ],
                 "DATE": [
                     "monthly"
                 ],
@@ -818,12 +888,13 @@
             "entities": {
                 "PERSON": [
                     "Scotty",
-                    "secret-281626\">Jerry Seinfeld\u2019s",
-                    "David Allen</a>",
+                    "Jerry Seinfeld\u2019s",
+                    "David Allen",
                     "Nested Folders"
                 ],
                 "ORG": [
-                    "href=\"https://lifehacker.com"
+                    "Unnested Folders",
+                    "Unnested Folders"
                 ],
                 "DATE": [
                     "monthly"
@@ -866,7 +937,9 @@
                     "Nested Folders"
                 ],
                 "ORG": [
-                    "XY"
+                    "XY",
+                    "Unnested Folders",
+                    "Unnested Folders"
                 ],
                 "DATE": [
                     "monthly"
@@ -908,6 +981,13 @@
                     "Scotty",
                     "Nested Folders"
                 ],
+                "PRODUCT": [
+                    "OmniFocus"
+                ],
+                "ORG": [
+                    "Unnested Folders",
+                    "Unnested Folders"
+                ],
                 "DATE": [
                     "monthly"
                 ],
@@ -946,14 +1026,16 @@
             "entities": {
                 "PERSON": [
                     "Scotty",
+                    "Nested Folders Episode",
                     "Nested Folders"
-                ],
-                "GPE": [
-                    "episode-32"
                 ],
                 "CARDINAL": [
                     "32",
                     "one"
+                ],
+                "ORG": [
+                    "Unnested Folders",
+                    "Unnested Folders"
                 ],
                 "DATE": [
                     "monthly"
@@ -990,11 +1072,13 @@
             "entities": {
                 "PERSON": [
                     "Scotty",
+                    "Rubin",
+                    "Nested Folders Episode",
                     "Nested Folders"
                 ],
                 "ORG": [
-                    "wiki/Rubber_duck_debugging\">Rubber",
-                    "wiki/Rubin_vase\">Rubin\u2019s"
+                    "Unnested Folders",
+                    "Unnested Folders"
                 ],
                 "DATE": [
                     "monthly"
@@ -1036,6 +1120,17 @@
                     "Scotty",
                     "Nested Folders"
                 ],
+                "NORP": [
+                    "Obsidian",
+                    "Trello"
+                ],
+                "PRODUCT": [
+                    "OmniFocus"
+                ],
+                "ORG": [
+                    "Unnested Folders",
+                    "Unnested Folders"
+                ],
                 "DATE": [
                     "monthly"
                 ],
@@ -1074,10 +1169,14 @@
             "entities": {
                 "PERSON": [
                     "Scotty",
+                    "Nested Folders Episode",
                     "Nested Folders"
                 ],
+                "ORG": [
+                    "Unnested Folders",
+                    "Unnested Folders"
+                ],
                 "DATE": [
-                    "episode-55",
                     "monthly"
                 ],
                 "CARDINAL": [
@@ -1123,6 +1222,10 @@
                 "PERSON": [
                     "Nested Folders"
                 ],
+                "ORG": [
+                    "Unnested Folders",
+                    "Unnested Folders"
+                ],
                 "CARDINAL": [
                     "one"
                 ]
@@ -1159,6 +1262,12 @@
                 "PERSON": [
                     "Scotty",
                     "Nested Folders"
+                ],
+                "ORG": [
+                    "WidgetPack",
+                    "Task Management",
+                    "Unnested Folders",
+                    "Unnested Folders"
                 ],
                 "DATE": [
                     "monthly"
@@ -1198,10 +1307,16 @@
             "entities": {
                 "PERSON": [
                     "Scotty",
+                    "Nested Folders Episode",
+                    "Nested Folders Episode",
                     "Nested Folders"
                 ],
+                "ORG": [
+                    "Background Thinking",
+                    "Unnested Folders",
+                    "Unnested Folders"
+                ],
                 "DATE": [
-                    "episode-66",
                     "monthly"
                 ],
                 "CARDINAL": [
@@ -1241,9 +1356,12 @@
                     "Scotty",
                     "Nested Folders"
                 ],
+                "TIME": [
+                    "Three minute"
+                ],
                 "ORG": [
-                    "yoga-desk/\">Desk yoga</a></li",
-                    "migration\">Bullet Journal"
+                    "Unnested Folders",
+                    "Unnested Folders"
                 ],
                 "DATE": [
                     "monthly"
@@ -1283,13 +1401,17 @@
             "entities": {
                 "PERSON": [
                     "Scotty",
+                    "Nested Folders Episode",
                     "Nested Folders"
                 ],
                 "QUANTITY": [
                     "the last mile"
                 ],
+                "ORG": [
+                    "Unnested Folders",
+                    "Unnested Folders"
+                ],
                 "DATE": [
-                    "episode-55",
                     "monthly"
                 ],
                 "CARDINAL": [
@@ -1327,14 +1449,17 @@
             "entities": {
                 "PERSON": [
                     "Scotty",
-                    "Bonsai Tree</a></li",
+                    "LEGO Bonsai Tree\r\n \tGetting Things Done Weekly",
                     "Nested Folders"
                 ],
-                "GPE": [
-                    "Paradise</a"
-                ],
                 "ORG": [
-                    "migration\">Bullet Journal"
+                    "OmniFocus",
+                    "LEGO Birds",
+                    "Unnested Folders",
+                    "Unnested Folders"
+                ],
+                "LOC": [
+                    "Paradise"
                 ],
                 "DATE": [
                     "monthly"
@@ -1374,13 +1499,19 @@
             "entities": {
                 "PERSON": [
                     "Scotty",
-                    "href=\"https://gettingthingsdone.com/\">David Allen",
-                    "Audra Edmonson",
-                    "Barbara Shur</a></li",
+                    "David Allen",
+                    "The Clutterbug Survey\r\n \tThe Audra Edmonson",
+                    "Barbara Shur",
+                    "Nested Folders Episode",
                     "Nested Folders"
                 ],
+                "NORP": [
+                    "Reddit"
+                ],
                 "ORG": [
-                    "the Getting Things Done"
+                    "the Getting Things Done",
+                    "Unnested Folders",
+                    "Unnested Folders"
                 ],
                 "CARDINAL": [
                     "35",
@@ -1423,6 +1554,13 @@
                     "Scotty",
                     "Nested Folders"
                 ],
+                "PRODUCT": [
+                    "OmniFocus"
+                ],
+                "ORG": [
+                    "Unnested Folders",
+                    "Unnested Folders"
+                ],
                 "DATE": [
                     "monthly"
                 ],
@@ -1461,13 +1599,19 @@
             "entities": {
                 "PERSON": [
                     "Scotty",
+                    "Scotty",
+                    "Nested Folders Episode",
                     "Nested Folders"
                 ],
                 "WORK_OF_ART": [
-                    "Best Before"
+                    "Best Before\u201d Dates\r\n \tNested Folders Episode 58: Defining Failure"
+                ],
+                "ORG": [
+                    "Airport Express",
+                    "Unnested Folders",
+                    "Unnested Folders"
                 ],
                 "DATE": [
-                    "episode-58",
                     "monthly"
                 ],
                 "CARDINAL": [
@@ -1505,18 +1649,20 @@
             "entities": {
                 "PERSON": [
                     "Scotty",
+                    "Nested Folders",
                     "Nested Folders"
-                ],
-                "DATE": [
-                    "episode-58",
-                    "monthly"
                 ],
                 "CARDINAL": [
                     "58",
                     "one"
                 ],
                 "ORG": [
-                    "OmniFocus"
+                    "OmniFocus",
+                    "Unnested Folders",
+                    "Unnested Folders"
+                ],
+                "DATE": [
+                    "monthly"
                 ]
             }
         },
@@ -1553,9 +1699,15 @@
                     "emoji",
                     "Nested Folders"
                 ],
+                "WORK_OF_ART": [
+                    "The Getting Things Done"
+                ],
+                "PRODUCT": [
+                    "OmniFocus"
+                ],
                 "ORG": [
-                    "href=\"https://gettingthingsdone.com",
-                    "href=\"https://omnigroup.com"
+                    "Unnested Folders",
+                    "Unnested Folders"
                 ],
                 "DATE": [
                     "monthly"
@@ -1598,6 +1750,10 @@
                     "Scotty",
                     "Nested Folders"
                 ],
+                "ORG": [
+                    "Unnested Folders",
+                    "Unnested Folders"
+                ],
                 "DATE": [
                     "monthly"
                 ],
@@ -1636,20 +1792,30 @@
             "entities": {
                 "PERSON": [
                     "Scotty",
-                    "Barbara Sher</a></li",
-                    "James",
-                    "Douglas",
+                    "Elgato Streamdeck",
+                    "Keyboard Maestro",
+                    "Barbara Sher\r\n \tAtomic Habits",
+                    "James Clear",
+                    "Atul Gawande",
+                    "Douglas Adams",
+                    "Nested Folders"
+                ],
+                "PRODUCT": [
                     "Nested Folders"
                 ],
                 "CARDINAL": [
                     "41",
                     "one"
                 ],
+                "WORK_OF_ART": [
+                    "List of Lists"
+                ],
                 "ORG": [
-                    "href=\"https://culturedcode.com",
-                    "href=\"https://jamesclear.com",
-                    "Hitchhiker\u2019s Guide",
-                    "Galaxy"
+                    "The Checklist Manifesto",
+                    "The Hitchhiker\u2019s Guide",
+                    "Galaxy",
+                    "Unnested Folders",
+                    "Unnested Folders"
                 ],
                 "DATE": [
                     "monthly"
@@ -1684,14 +1850,23 @@
             "pubDate": "Tue, 29 Jun 2021 16:00:56 +0000",
             "title": "Episode 56: Streamlining, Managing, and Automating Inboxes",
             "entities": {
+                "PERSON": [
+                    "Nested Folders Episode",
+                    "Airmail",
+                    "Atul Gawande",
+                    "Nested Folders"
+                ],
                 "CARDINAL": [
-                    "one",
                     "28",
                     "1",
+                    "1Password",
                     "15"
                 ],
-                "PERSON": [
-                    "Nested Folders"
+                "PRODUCT": [
+                    "OmniFocus"
+                ],
+                "ORG": [
+                    "Unnested Folders"
                 ],
                 "DATE": [
                     "monthly"
@@ -1728,7 +1903,11 @@
             "entities": {
                 "PERSON": [
                     "Scotty",
+                    "Episode",
                     "Nested Folders"
+                ],
+                "ORG": [
+                    "Unnested Folders"
                 ],
                 "DATE": [
                     "monthly"
@@ -1765,15 +1944,16 @@
             "entities": {
                 "PERSON": [
                     "Scotty",
+                    "Episode",
                     "Nested Folders"
                 ],
-                "DATE": [
-                    "episode-53",
-                    "monthly"
+                "ORG": [
+                    "Crisis Management",
+                    "Building Bookends",
+                    "Unnested Folders"
                 ],
-                "CARDINAL": [
-                    "53",
-                    "3"
+                "DATE": [
+                    "monthly"
                 ]
             }
         },
@@ -1807,7 +1987,11 @@
             "entities": {
                 "PERSON": [
                     "Scotty",
+                    "Episode",
                     "Nested Folders"
+                ],
+                "ORG": [
+                    "Unnested Folders"
                 ],
                 "DATE": [
                     "monthly"
@@ -1844,7 +2028,13 @@
             "entities": {
                 "PERSON": [
                     "Scotty",
+                    "David Sparks'",
+                    "Kanban",
                     "Nested Folders"
+                ],
+                "ORG": [
+                    "OmniFocus",
+                    "Unnested Folders"
                 ],
                 "DATE": [
                     "monthly"
@@ -1881,19 +2071,24 @@
             "entities": {
                 "PERSON": [
                     "Scotty",
-                    "episode-39",
-                    "Safari",
+                    "Nested Folders Episode",
+                    "Contexts",
                     "Nested Folders"
                 ],
                 "CARDINAL": [
                     "39"
                 ],
                 "ORG": [
-                    "Tags"
+                    "Tags",
+                    "OmniFocus",
+                    "Unnested Folders"
                 ],
                 "DATE": [
-                    "A Year of Pandemic Folder Nesting</a></li",
+                    "A Year of Pandemic Folder Nesting\r\n \t",
                     "monthly"
+                ],
+                "NORP": [
+                    "Obsidian"
                 ]
             }
         },
@@ -1933,12 +2128,14 @@
                     "a year",
                     "monthly"
                 ],
-                "CARDINAL": [
-                    "19",
-                    "one"
+                "PRODUCT": [
+                    "Nested Folders"
                 ],
-                "GPE": [
-                    "episode-32"
+                "CARDINAL": [
+                    "19"
+                ],
+                "ORG": [
+                    "Unnested Folders"
                 ]
             }
         },
@@ -1974,12 +2171,16 @@
                     "Scotty",
                     "Nested Folders"
                 ],
-                "DATE": [
-                    "episode-47",
-                    "monthly"
+                "ORG": [
+                    "Nested Folders",
+                    "Hacking Pitfalls",
+                    "Unnested Folders"
                 ],
                 "CARDINAL": [
                     "47"
+                ],
+                "DATE": [
+                    "monthly"
                 ]
             }
         },
@@ -2014,6 +2215,9 @@
                 "PERSON": [
                     "Scotty",
                     "Nested Folders"
+                ],
+                "ORG": [
+                    "Unnested Folders"
                 ],
                 "DATE": [
                     "monthly"
@@ -2050,16 +2254,22 @@
             "entities": {
                 "PERSON": [
                     "Scotty",
-                    "Down",
-                    "Weekly",
+                    "Nested Folders",
+                    "Apps Unnested",
+                    "Nested Folders Episode",
                     "Nested Folders"
                 ],
-                "DATE": [
-                    "Year",
-                    "monthly"
+                "EVENT": [
+                    "The Year End Review"
                 ],
                 "NORP": [
                     "Maker"
+                ],
+                "ORG": [
+                    "Unnested Folders"
+                ],
+                "DATE": [
+                    "monthly"
                 ]
             }
         },
@@ -2093,24 +2303,29 @@
             "entities": {
                 "PERSON": [
                     "Scotty",
+                    "Nested Folders",
+                    "Nested Folders",
+                    "Nested Folders",
                     "Nested Folders"
                 ],
                 "DATE": [
                     "weekly",
                     "weekly",
-                    "Year",
                     "monthly"
                 ],
                 "PRODUCT": [
-                    "Nested Folders"
-                ],
-                "GPE": [
-                    "episode-32"
+                    "Nested Folders:"
                 ],
                 "CARDINAL": [
                     "32",
                     "5",
                     "13"
+                ],
+                "EVENT": [
+                    "The Year End Review"
+                ],
+                "ORG": [
+                    "Unnested Folders"
                 ]
             }
         },
@@ -2144,18 +2359,23 @@
             "entities": {
                 "PERSON": [
                     "Scotty",
+                    "Pomodoro",
+                    "Nested Folders",
+                    "Nested Folders",
                     "Nested Folders"
                 ],
-                "DATE": [
-                    "episode-42",
-                    "monthly"
+                "GPE": [
+                    "Pomolego"
                 ],
                 "CARDINAL": [
                     "42",
                     "8"
                 ],
                 "ORG": [
-                    "wiki/Rubber_duck_debugging\">Rubber"
+                    "Unnested Folders"
+                ],
+                "DATE": [
+                    "monthly"
                 ]
             }
         },
@@ -2189,16 +2409,15 @@
             "entities": {
                 "PERSON": [
                     "Scotty",
+                    "Nested Folders Episode",
                     "Nested Folders"
-                ],
-                "GPE": [
-                    "episode-27"
                 ],
                 "CARDINAL": [
                     "27"
                 ],
                 "ORG": [
-                    "The Sweet Setup"
+                    "The Sweet Setup",
+                    "Unnested Folders"
                 ],
                 "DATE": [
                     "monthly"
@@ -2235,21 +2454,17 @@
             "entities": {
                 "PERSON": [
                     "Scotty",
-                    "episode-15",
                     "Nested Folders"
                 ],
                 "ORG": [
-                    "Nested Folders"
-                ],
-                "GPE": [
-                    "episode-32"
+                    "Nested Folders",
+                    "Unnested Folders"
                 ],
                 "CARDINAL": [
                     "32",
                     "15"
                 ],
                 "DATE": [
-                    "II/IV",
                     "monthly"
                 ]
             }
@@ -2284,17 +2499,15 @@
             "entities": {
                 "PERSON": [
                     "Scotty",
-                    "Marie Kondo</a></li",
+                    "Marie Kondo\r\n \tBluelounge",
                     "Nested Folders"
                 ],
                 "WORK_OF_ART": [
+                    "The Life-Changing Magic of Tidying Up",
                     "Joy at Work"
                 ],
-                "ORG": [
-                    "href=\"https://bluelounge.com"
-                ],
                 "CARDINAL": [
-                    "42</a"
+                    "42"
                 ],
                 "DATE": [
                     "forty",
@@ -2305,6 +2518,9 @@
                 ],
                 "PRODUCT": [
                     "Nested Folders"
+                ],
+                "ORG": [
+                    "Unnested Folders"
                 ]
             }
         },
@@ -2338,10 +2554,11 @@
             "entities": {
                 "PERSON": [
                     "Scotty",
+                    "Gifts",
                     "Nested Folders"
                 ],
                 "ORG": [
-                    "href=\"https://www.omnigroup.com/slack/\">OmniGroup"
+                    "Unnested Folders"
                 ],
                 "DATE": [
                     "monthly"
@@ -2378,7 +2595,11 @@
             "entities": {
                 "PERSON": [
                     "Scotty",
+                    "Crouton",
                     "Nested Folders"
+                ],
+                "ORG": [
+                    "Unnested Folders"
                 ],
                 "DATE": [
                     "monthly"
@@ -2415,8 +2636,14 @@
             "entities": {
                 "PERSON": [
                     "Scotty",
-                    "david-allen",
+                    "Getting Things Done",
                     "Nested Folders"
+                ],
+                "PRODUCT": [
+                    "OmniFocus"
+                ],
+                "ORG": [
+                    "Unnested Folders"
                 ],
                 "DATE": [
                     "monthly"
@@ -2453,21 +2680,23 @@
             "entities": {
                 "PERSON": [
                     "Scotty",
-                    "href=\"http://www.43folders.com/2006/11/28",
-                    "David",
+                    "Cal Newport",
+                    "Merlin Mann Productive",
+                    "David Allen",
                     "Nested Folders"
-                ],
-                "ORG": [
-                    "href=\"https://twitter.com"
-                ],
-                "GPE": [
-                    "episode-32"
                 ],
                 "DATE": [
                     "32",
                     "daily",
                     "daily",
                     "monthly"
+                ],
+                "ORG": [
+                    "Rose's",
+                    "Unnested Folders"
+                ],
+                "MONEY": [
+                    "47"
                 ]
             }
         },
@@ -2501,20 +2730,18 @@
             "entities": {
                 "PERSON": [
                     "Scotty",
+                    "Nested Folders Episode",
+                    "Bob\r\n \tCognitive",
                     "Nested Folders"
                 ],
-                "DATE": [
-                    "episode-10",
-                    "monthly"
-                ],
                 "CARDINAL": [
-                    "one",
                     "28"
                 ],
                 "ORG": [
-                    "href=\"https://knowyourmeme.com",
-                    "wiki/Acceptance_and_commitment_therapy\">Cognitive",
-                    "Acceptance and Commitment"
+                    "Unnested Folders"
+                ],
+                "DATE": [
+                    "monthly"
                 ]
             }
         },
@@ -2548,29 +2775,36 @@
             "entities": {
                 "PERSON": [
                     "Scotty",
-                    "href=\"https://www.agenda.com\">Agenda</a></li",
+                    "Getting Things Done",
+                    "Nested Folders Episode",
+                    "Mike Schmitz's",
+                    "Episode",
                     "Nested Folders"
                 ],
                 "ORG": [
-                    "href=\"https://gettingthingsdone.com",
+                    "GTD",
+                    "GTD",
                     "Personal Retreat Handbook",
-                    "Clarify/Process"
+                    "Clarify/Process",
+                    "Unnested Folders"
+                ],
+                "EVENT": [
+                    "The Year End Review"
                 ],
                 "DATE": [
-                    "Year",
-                    "12 Week",
+                    "12 Week Year",
                     "monthly"
                 ],
+                "PRODUCT": [
+                    "OmniFocus"
+                ],
                 "CARDINAL": [
-                    "one",
                     "28",
                     "29",
                     "II",
                     "32",
-                    "33"
-                ],
-                "GPE": [
-                    "episode-32"
+                    "33",
+                    "35"
                 ]
             }
         },
@@ -2604,25 +2838,20 @@
             "entities": {
                 "PERSON": [
                     "Scotty",
+                    "Nested Folders Episode",
                     "Nested Folders"
                 ],
-                "ORG": [
-                    "href=\"https://gettingthingsdone.com",
-                    "Clarify/Process",
-                    "href=\"https://culturedcode.com",
-                    "Fire Inspection"
-                ],
                 "CARDINAL": [
-                    "one",
                     "28",
                     "29",
                     "II",
                     "32",
-                    "33"
+                    "33",
+                    "34"
                 ],
-                "GPE": [
-                    "episode-32",
-                    "episode-34"
+                "ORG": [
+                    "Clarify/Process",
+                    "Unnested Folders"
                 ],
                 "DATE": [
                     "May",
@@ -2665,10 +2894,14 @@
                     "first"
                 ],
                 "ORG": [
-                    "Unnested Folders"
+                    "Unnested Folders",
+                    "Sharpie"
                 ],
-                "DATE": [
-                    "folders</a></li"
+                "PERSON": [
+                    "Hazel"
+                ],
+                "CARDINAL": [
+                    "Four"
                 ]
             }
         },
@@ -2701,25 +2934,23 @@
             "title": "Episode 33: GTD Workflow Part IV/V: Do/Engage",
             "entities": {
                 "ORG": [
-                    "href=\"https://gettingthingsdone.com",
+                    "the Getting Things Done",
                     "Clarify/Process",
                     "Hitchhiker's Guide",
-                    "GTD-Weekly-Review-p/20302.htm\">GTD Weekly Review"
+                    "GTD Weekly Review",
+                    "Unnested Folders"
                 ],
                 "PERSON": [
                     "Engage",
+                    "Nested Folders Episode",
                     "Nested Folders"
                 ],
                 "CARDINAL": [
-                    "one",
                     "28",
                     "1",
                     "29",
                     "II",
                     "32"
-                ],
-                "GPE": [
-                    "episode-32"
                 ],
                 "DATE": [
                     "monthly"
@@ -2767,20 +2998,30 @@
                     "GTD",
                     "GTD",
                     "the Getting Things Done",
-                    "href=\"https://gettingthingsdone.com",
-                    "Weekly Review",
-                    "Someday/Maybe/",
-                    "Nested"
+                    "GTD Weekly Review",
+                    "Someday/Maybe/Never",
+                    "Scotty's Daily Journal",
+                    "OmniFocus",
+                    "Unnested Folders"
                 ],
                 "DATE": [
                     "weekly",
-                    "Year",
-                    "episode-31-one-year-of-nested",
                     "One Year",
                     "monthly"
                 ],
                 "PERSON": [
+                    "Nested Folder",
+                    "Nested Folders",
+                    "Nested Folders",
+                    "Nested Folders",
+                    "Agenda",
                     "Nested Folders"
+                ],
+                "EVENT": [
+                    "The Year End Review"
+                ],
+                "NORP": [
+                    "Checklist"
                 ]
             }
         },
@@ -2818,19 +3059,19 @@
                 ],
                 "PERSON": [
                     "Nested Folders",
-                    "Lee",
-                    "href=\"https://josh",
-                    "jfbrsstt\">J.F. Brissette",
+                    "Matthew Lee's",
+                    "Aran Rees'",
+                    "Josh Hughes",
+                    "J.F. Brissette",
+                    "Relay.fm",
                     "Nested Folders"
                 ],
-                "ORG": [
-                    "href=\"https://twitter.com/Foxhoyle",
-                    "href=\"https://www.omnigroup.com/slack/\">OmniGroup",
-                    "href=\"https://twitter.com",
-                    "JFB"
-                ],
                 "PRODUCT": [
-                    "OmniFocus"
+                    "OmniGroup Slack\r\n \tRyan Dotson"
+                ],
+                "ORG": [
+                    "JFB",
+                    "Unnested Folders"
                 ]
             }
         },
@@ -2865,7 +3106,10 @@
                 "PERSON": [
                     "Agenda",
                     "Agenda",
-                    "li class=\"li1\"><a",
+                    "Agenda",
+                    "Nested Folders",
+                    "Agenda Setup",
+                    "Email",
                     "Nested Folders"
                 ],
                 "ORDINAL": [
@@ -2876,9 +3120,9 @@
                     "26"
                 ],
                 "ORG": [
-                    "Journal",
-                    "OmniFocus Project Maker",
-                    "Make Rich Text"
+                    "OmniFocus Project Maker Shortcut",
+                    "Make Rich Text",
+                    "Unnested Folders"
                 ],
                 "GPE": [
                     "Markdown"
@@ -2918,26 +3162,24 @@
             "entities": {
                 "PERSON": [
                     "Scotty",
+                    "Nested Folders Episode",
+                    "GTD Workflow Flow Chart",
+                    "Merlin Mann",
                     "Nested Folders"
                 ],
                 "ORG": [
                     "GTD",
                     "the Clarify/Process and Organize",
-                    "href=\"https://gettingthingsdone.com",
-                    "href=\"https://gettingthingsdone.com",
-                    "Workflow Processing",
-                    "href=\"http://diyplanner.com"
+                    "GTD Workflow Processing",
+                    "OmniFocus",
+                    "Unnested Folders"
                 ],
                 "CARDINAL": [
-                    "one",
                     "28",
                     "27"
                 ],
-                "GPE": [
-                    "episode-27"
-                ],
                 "WORK_OF_ART": [
-                    "Getting Things"
+                    "\"Getting Things Done"
                 ],
                 "DATE": [
                     "monthly"
@@ -2974,6 +3216,8 @@
             "entities": {
                 "PERSON": [
                     "Scotty",
+                    "Nested Folders",
+                    "Agenda\r\n \tDrafts\r\n \tShortcuts",
                     "Nested Folders"
                 ],
                 "ORDINAL": [
@@ -2985,10 +3229,10 @@
                 ],
                 "ORG": [
                     "the Getting Things Done",
-                    "href=\"https://gettingthingsdone.com"
+                    "Unnested Folders"
                 ],
-                "GPE": [
-                    "episode-27"
+                "PRODUCT": [
+                    "OmniFocus"
                 ],
                 "DATE": [
                     "monthly"
@@ -3033,7 +3277,14 @@
                 ],
                 "ORG": [
                     "GTD",
-                    "href=\"https://gettingthingsdone.com"
+                    "OmniFocus Automation",
+                    "Unnested Folders"
+                ],
+                "TIME": [
+                    "Two Minute Rule\r\n \tGTD Live Seminar"
+                ],
+                "PRODUCT": [
+                    "OmniFocus"
                 ],
                 "DATE": [
                     "monthly"
@@ -3070,7 +3321,9 @@
             "entities": {
                 "PERSON": [
                     "Agenda",
+                    "Agenda",
                     "Mac",
+                    "Agenda",
                     "Apps Rose",
                     "Agenda",
                     "Nested Folders"
@@ -3084,8 +3337,9 @@
                 "NORP": [
                     "Scotty"
                 ],
-                "PRODUCT": [
-                    "Jar</a></li"
+                "ORG": [
+                    "Support/Reference\r\n\r\nRose's Shortcut",
+                    "Unnested Folders"
                 ],
                 "DATE": [
                     "monthly"
@@ -3122,7 +3376,7 @@
             "entities": {
                 "PERSON": [
                     "Scotty",
-                    "li><a href=\"https://www.david-smith.org/blog/2019/04/17",
+                    "Nested Folders",
                     "Nested Folders"
                 ],
                 "CARDINAL": [
@@ -3131,8 +3385,13 @@
                 "NORP": [
                     "Maker"
                 ],
+                "ORG": [
+                    "CalZones",
+                    "Unnested Folders"
+                ],
                 "PRODUCT": [
-                    "OmniFocus"
+                    "WhenWorks\r\n \t",
+                    "OmniFocus Workflow"
                 ],
                 "DATE": [
                     "monthly"
@@ -3170,11 +3429,12 @@
                 "PERSON": [
                     "Scotty",
                     "Jenga",
-                    "Malcolm Gladwell</a></li",
+                    "Malcolm Gladwell",
+                    "Jenga\r\n \tOmniFocus\r\n \tAirTable",
                     "Nested Folders"
                 ],
                 "ORG": [
-                    "Strangers"
+                    "Unnested Folders"
                 ],
                 "DATE": [
                     "monthly"
@@ -3209,31 +3469,36 @@
             "pubDate": "Tue, 28 Apr 2020 16:00:17 +0000",
             "title": "Episode 23: Rose\u2019s DEVONthink Setup",
             "entities": {
+                "NORP": [
+                    "DEVONtechnologies",
+                    "DEVONthink",
+                    "DEVONthink",
+                    "DEVONthink",
+                    "DEVONthink",
+                    "DEVONthink"
+                ],
                 "PRODUCT": [
+                    "Nested Folders",
                     "Nested Folders"
                 ],
                 "PERSON": [
                     "Scotty interviews Rose",
                     "Rose",
-                    "href=\"https://ifttt.com\">IFTTT</a></li",
-                    "Scotty",
+                    "Zapier\r\n \tIFTTT",
+                    "Hazel\r\n \tShortcuts\r\n\r\nScotty's",
                     "Nested Folders"
                 ],
-                "NORP": [
+                "ORG": [
                     "DEVONtechnologies",
-                    "DEVONthink"
+                    "Nested Folders",
+                    "Drafts",
+                    "Unnested Folders"
                 ],
                 "PERCENT": [
                     "10%"
                 ],
-                "ORG": [
-                    "Nested Folders",
-                    "href=\"https://pilotmoon.com",
-                    "href=\"https://zapier.com",
-                    "href=\"https://www.noodlesoft.com\">Hazel</a></li"
-                ],
                 "CARDINAL": [
-                    "20</a"
+                    "20"
                 ],
                 "DATE": [
                     "monthly"
@@ -3270,7 +3535,20 @@
             "entities": {
                 "PERSON": [
                     "Scotty",
+                    "Learn Klingon\r\n \tAirTable",
+                    "Nested Folders",
+                    "Nested Folders",
                     "Nested Folders"
+                ],
+                "DATE": [
+                    "Donut\r\n \tDay One",
+                    "monthly"
+                ],
+                "PRODUCT": [
+                    "OmniFocus"
+                ],
+                "MONEY": [
+                    "47"
                 ],
                 "CARDINAL": [
                     "21",
@@ -3280,13 +3558,7 @@
                     "Maker"
                 ],
                 "ORG": [
-                    "href=\"https://gettingthingsdone.com"
-                ],
-                "WORK_OF_ART": [
-                    "Mind_Sweep_Trigger_List.pdf\">Getting Things Done"
-                ],
-                "DATE": [
-                    "monthly"
+                    "Unnested Folders"
                 ]
             }
         },
@@ -3320,10 +3592,11 @@
             "entities": {
                 "PERSON": [
                     "Scotty",
+                    "Jonathan Lacour's",
                     "Nested Folders"
                 ],
-                "NORP": [
-                    "Hue</a></li"
+                "ORG": [
+                    "Unnested Folders"
                 ],
                 "DATE": [
                     "monthly"
@@ -3358,19 +3631,27 @@
             "pubDate": "Tue, 31 Mar 2020 16:00:51 +0000",
             "title": "Episode 20: Scotty\u2019s DEVONthink Setup",
             "entities": {
+                "NORP": [
+                    "DEVONtechnologies",
+                    "DEVONthink",
+                    "DEVONthink"
+                ],
                 "PRODUCT": [
                     "Nested Folders"
                 ],
                 "PERSON": [
                     "Rose interviews Scotty",
+                    "Nested Folders Episode",
                     "Nested Folders"
+                ],
+                "ORG": [
+                    "DEVONtechnologies",
+                    "Nested Folders",
+                    "OmniFocus",
+                    "Unnested Folders"
                 ],
                 "PERCENT": [
                     "10%"
-                ],
-                "ORG": [
-                    "Nested Folders",
-                    "href=\"https://omnigroup.com"
                 ],
                 "DATE": [
                     "monthly"
@@ -3407,10 +3688,17 @@
             "entities": {
                 "PERSON": [
                     "Scotty",
+                    "Agenda",
                     "Nested Folders"
                 ],
+                "PRODUCT": [
+                    "OmniFocus"
+                ],
+                "CARDINAL": [
+                    "2x2"
+                ],
                 "ORG": [
-                    "href=\"https://culturedcode.com"
+                    "Unnested Folders"
                 ],
                 "DATE": [
                     "monthly"
@@ -3448,28 +3736,30 @@
                 "PERSON": [
                     "Rosemary",
                     "Scotty",
-                    "Cal",
+                    "Nested Folders",
+                    "Nested Folders",
+                    "Cal Newport",
                     "Nested Folders"
                 ],
                 "CARDINAL": [
                     "16",
                     "2",
-                    "Zero"
+                    "Three"
                 ],
                 "NORP": [
                     "Maker"
                 ],
-                "PRODUCT": [
-                    "Day</a></li"
+                "DATE": [
+                    "Zero Day",
+                    "monthly"
                 ],
                 "ORG": [
+                    "OmniFocus",
+                    "The Importance of Planning Every Minute of Your Work Day",
+                    "Unnested Folders"
+                ],
+                "PRODUCT": [
                     "OmniFocus"
-                ],
-                "GPE": [
-                    "ios\">iOS"
-                ],
-                "DATE": [
-                    "monthly"
                 ]
             }
         },
@@ -3503,19 +3793,24 @@
             "entities": {
                 "PERSON": [
                     "Scotty",
-                    "episode-15",
+                    "Nested Folders Episode",
                     "Nested Folders"
                 ],
                 "CARDINAL": [
                     "15"
                 ],
-                "DATE": [
-                    "Year",
-                    "daily",
-                    "monthly"
+                "EVENT": [
+                    "The Year End Review"
                 ],
                 "NORP": [
                     "Moleskine"
+                ],
+                "ORG": [
+                    "OmniFocus",
+                    "Unnested Folders"
+                ],
+                "DATE": [
+                    "monthly"
                 ]
             }
         },
@@ -3551,14 +3846,11 @@
                     "Scotty",
                     "Stuff",
                     "Schedule",
-                    "Paul Graham</li",
-                    "li><a href=\"https://blog.trello.com",
+                    "Schedule",
+                    "Paul Graham",
                     "Stella Garber",
                     "Jory MacKay",
                     "Nested Folders"
-                ],
-                "ORG": [
-                    "href=\"http://www.paulgraham.com"
                 ],
                 "NORP": [
                     "Trello"
@@ -3566,8 +3858,8 @@
                 "CARDINAL": [
                     "2"
                 ],
-                "PRODUCT": [
-                    "Day</a></li"
+                "ORG": [
+                    "Unnested Folders"
                 ],
                 "DATE": [
                     "monthly"
@@ -3604,22 +3896,33 @@
             "entities": {
                 "DATE": [
                     "year",
-                    "Year",
-                    "daily",
                     "daily",
                     "monthly"
                 ],
                 "ORG": [
                     "Rose and Scotty discuss mechanisms",
                     "Drafts",
-                    "Schmitz",
-                    "href=\"https://screencastsonline.com"
+                    "Scotty's",
+                    "Unnested Folders"
+                ],
+                "PERSON": [
+                    "Nested Folders",
+                    "Episode 519",
+                    "Mike Schmitz's",
+                    "Nested Folders"
+                ],
+                "EVENT": [
+                    "The Year End Review"
+                ],
+                "GPE": [
+                    "Unibox"
+                ],
+                "PRODUCT": [
+                    "OmniFocus",
+                    "WhenWorks"
                 ],
                 "NORP": [
                     "Moleskine"
-                ],
-                "PERSON": [
-                    "Nested Folders"
                 ]
             }
         },
@@ -3653,25 +3956,25 @@
             "entities": {
                 "PERSON": [
                     "Scotty",
-                    "Rubber_duck_debugging\">Rubber Duck",
-                    "href=\"https://www.omnigroup.com",
-                    "href=\"https://www.omnigroup.com",
-                    "href=\"https://gettingthingsdone.com/2019/11",
+                    "Reference\r\n \tGTD Podcast",
                     "David Allen",
                     "Nested Folders"
                 ],
                 "PRODUCT": [
-                    "Rose"
+                    "Rose",
+                    "GitHub\r\n \tNotion",
+                    "OmniFocus",
+                    "OmniPlan"
                 ],
                 "NORP": [
                     "Scotty"
                 ],
-                "ORG": [
-                    "wiki/"
-                ],
                 "CARDINAL": [
                     "12",
                     "55"
+                ],
+                "ORG": [
+                    "Unnested Folders"
                 ],
                 "DATE": [
                     "monthly"
@@ -3708,27 +4011,27 @@
             "entities": {
                 "PERSON": [
                     "Scotty",
-                    "Mike",
+                    "Nested Folders",
+                    "Mike Schmitz",
                     "Nested Folders"
                 ],
                 "DATE": [
                     "year",
                     "this year",
+                    "next year",
                     "this year",
+                    "this year",
+                    "next year",
                     "the early day",
                     "monthly"
-                ],
-                "NORP": [
-                    "well?</li"
                 ],
                 "CARDINAL": [
                     "2"
                 ],
                 "ORG": [
-                    "Non-Zero"
-                ],
-                "WORK_OF_ART": [
-                    "handbook\">The Personal Retreat Handbook"
+                    "Non-Zero Day",
+                    "The Personal Retreat Handbook",
+                    "Unnested Folders"
                 ]
             }
         },
@@ -3762,7 +4065,11 @@
             "entities": {
                 "PERSON": [
                     "Scotty",
+                    "Rose",
                     "Agenda",
+                    "Nested Folders",
+                    "Nested Folders",
+                    "J.F. Brissette",
                     "Nested Folders"
                 ],
                 "NORP": [
@@ -3770,20 +4077,20 @@
                 ],
                 "ORG": [
                     "OmniFocus",
+                    "Shortcuts\r\n \tScotty's",
                     "OmniFocus",
-                    "Someday/Maybe/",
-                    "href=\"https://twitter.com",
-                    "JFB",
-                    "Rose and Scotty"
-                ],
-                "DATE": [
-                    "episode-10",
-                    "monthly"
+                    "Someday/Maybe/Never",
+                    "JFB Media Solutions",
+                    "Rose and Scotty",
+                    "Unnested Folders"
                 ],
                 "CARDINAL": [
                     "10",
                     "5",
                     "11"
+                ],
+                "DATE": [
+                    "monthly"
                 ]
             }
         },
@@ -3818,15 +4125,24 @@
                 "PERSON": [
                     "Rosemary",
                     "Scotty",
-                    "class=\"p1\"><a",
-                    "class=\"p1\"><a href=\"https://www.barebones.com",
-                    "Tree</a></li",
-                    "Journal</a></li",
+                    "Rose",
+                    "Eisenhower",
+                    "DevonThink",
+                    "Drafts\r\n \tTaskpaper",
                     "Nested Folders"
                 ],
+                "PRODUCT": [
+                    "OmniFocus"
+                ],
+                "NORP": [
+                    "Productive"
+                ],
+                "GPE": [
+                    "Trakt"
+                ],
                 "ORG": [
-                    "class=\"p1\"><a",
-                    "class=\"p1\"><a"
+                    "Bullet Journal",
+                    "Unnested Folders"
                 ],
                 "DATE": [
                     "monthly"
@@ -3864,15 +4180,17 @@
                 "PERSON": [
                     "Scotty",
                     "Apps",
-                    "href=\"https://www.omnigroup.com",
+                    "Scapple\r\n \tMindNode\r\n \tOmniOutliner\r\n \tNotability",
+                    "J.F. Brissette",
                     "Nested Folders"
                 ],
                 "ORG": [
                     "OmniFocus",
-                    "Trigger List",
-                    "href=\"https://twitter.com",
-                    "JFB",
-                    "Rose and Scotty"
+                    "Rose's",
+                    "Trigger List Shortcut",
+                    "JFB Media Solutions",
+                    "Rose and Scotty",
+                    "Unnested Folders"
                 ],
                 "DATE": [
                     "monthly"
@@ -3909,12 +4227,17 @@
             "entities": {
                 "PERSON": [
                     "Stuff",
+                    "Agenda\r\n \tUlysses",
+                    "J.F. Brissette",
                     "Nested Folders"
                 ],
+                "PRODUCT": [
+                    "OmniFocus"
+                ],
                 "ORG": [
-                    "href=\"https://twitter.com",
-                    "JFB",
-                    "Rose and Scotty"
+                    "JFB Media Solutions",
+                    "Rose and Scotty",
+                    "Unnested Folders"
                 ],
                 "DATE": [
                     "monthly"
@@ -3951,13 +4274,20 @@
             "entities": {
                 "PERSON": [
                     "Scotty",
+                    "Roost Stand",
+                    "biro",
                     "Nested Folders"
                 ],
-                "CARDINAL": [
-                    "20000</a></li"
-                ],
                 "ORG": [
-                    "Backup Battery &"
+                    "Amazon",
+                    "Backup Battery & Hub",
+                    "Unnested Folders"
+                ],
+                "CARDINAL": [
+                    "20000"
+                ],
+                "GPE": [
+                    "ZMI"
                 ],
                 "DATE": [
                     "monthly"
@@ -3994,14 +4324,14 @@
             "entities": {
                 "PERSON": [
                     "Scotty",
-                    "David Allen</a></li>",
-                    "ios\">Shortcuts",
+                    "Getting Things Done",
+                    "David Allen",
+                    "Slack\r\n \tFilofax",
                     "Nested Folders"
                 ],
                 "ORG": [
-                    "href=\"https://gettingthingsdone.com",
-                    "href=\"https://blogs.agu.org",
-                    "GeoEd Trek"
+                    "GeoEd Trek",
+                    "Unnested Folders"
                 ],
                 "DATE": [
                     "monthly"
@@ -4038,11 +4368,17 @@
             "entities": {
                 "PERSON": [
                     "Scotty",
+                    "David Sparks",
                     "Nested Folders"
+                ],
+                "NORP": [
+                    "Automators"
                 ],
                 "ORG": [
                     "Rose co-hosts",
-                    "href=\"https://www.integromat.com\">Integromat</a></li"
+                    "the Brydge Keyboard",
+                    "Rose",
+                    "Unnested Folders"
                 ],
                 "DATE": [
                     "monthly"
@@ -4079,15 +4415,15 @@
             "entities": {
                 "PERSON": [
                     "Scotty",
-                    "David Kadavy</a>",
+                    "David Kadavy",
                     "James Dempsey",
-                    "Jean MacDonald</a",
+                    "Jean MacDonald",
                     "Nested Folders"
                 ],
                 "ORG": [
-                    "href=\"https://gettingthingsdone.com",
-                    "GTD Weekly Review",
-                    "GTD-Weekly-Review-p/20302.htm\">GTD:"
+                    "Weekly Review",
+                    "The Weekly Review",
+                    "Unnested Folders"
                 ],
                 "NORP": [
                     "Scotty"
@@ -4130,16 +4466,14 @@
                 "ORG": [
                     "Rose and Scotty",
                     "Crafted World",
-                    "Nintendo",
-                    "Power Napping can Increase"
+                    "Why Power Napping can Increase your Productivity\r\n \tAirtable\r\n \tIntegromat",
+                    "Unnested Folders"
                 ],
                 "PERSON": [
                     "Merlin Mann\u2019s",
-                    "David",
+                    "David Allen",
+                    "Yoshi",
                     "Nested Folders"
-                ],
-                "NORP": [
-                    "Cinematic"
                 ],
                 "DATE": [
                     "monthly"
@@ -4179,11 +4513,18 @@
                 ],
                 "PERSON": [
                     "Rose",
-                    "Year</a></li",
                     "Nested Folders"
                 ],
                 "DATE": [
+                    "12 Week Year\r\n \t",
                     "monthly"
+                ],
+                "CARDINAL": [
+                    "https://courses.faithbasedproductivity.com/p/personal-retreat-handbook?affcode=289620_cb9jt9df",
+                    "two"
+                ],
+                "ORG": [
+                    "Unnested Folders"
                 ]
             }
         },
@@ -4224,9 +4565,11 @@
                     "Reddit"
                 ],
                 "ORG": [
+                    "SubReddit",
                     "Start Off by Making Your Bed - William McRaven",
                     "US Navy",
-                    "Scotty"
+                    "Scotty",
+                    "Unnested Folders"
                 ],
                 "DATE": [
                     "monthly"
@@ -4266,6 +4609,9 @@
                 ],
                 "PERSON": [
                     "Nested Folders"
+                ],
+                "ORG": [
+                    "Unnested Folders"
                 ],
                 "DATE": [
                     "monthly"

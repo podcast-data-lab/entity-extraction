@@ -44,10 +44,8 @@
                     "Dave"
                 ],
                 "DATE": [
-                    "2 years"
-                ],
-                "PRODUCT": [
-                    "Learn"
+                    "2 years",
+                    "0850-OAS-3/24/2023"
                 ]
             }
         },
@@ -81,12 +79,21 @@
             "entities": {
                 "PERSON": [
                     "Mac Gardner",
+                    "children?-",
+                    "Mac",
+                    "globe?-",
                     "Mac",
                     "Mac",
-                    "Mac"
+                    "literacy?-"
                 ],
                 "WORK_OF_ART": [
                     "The Four Money Bears"
+                ],
+                "ORG": [
+                    "education?- Financial"
+                ],
+                "DATE": [
+                    "0915"
                 ]
             }
         },
@@ -125,11 +132,10 @@
                     "Manish"
                 ],
                 "LOC": [
-                    "Potomac",
                     "Potomac"
                 ],
-                "CARDINAL": [
-                    "0824"
+                "DATE": [
+                    "0824-OAS-3/20/2023"
                 ]
             }
         },
@@ -167,11 +173,20 @@
                     "Daniel",
                     "Daniel"
                 ],
+                "GPE": [
+                    "missteps?-"
+                ],
                 "ORDINAL": [
                     "first"
                 ],
+                "ORG": [
+                    "portfolios?-"
+                ],
                 "CARDINAL": [
                     "one"
+                ],
+                "DATE": [
+                    "0737-OAS-3/13/2023"
                 ]
             }
         },
@@ -206,7 +221,7 @@
                 "PERSON": [
                     "Ben",
                     "Ben",
-                    "Ben",
+                    "mission?- Ben\u2019s",
                     "Ben",
                     "Ben"
                 ],
@@ -223,9 +238,6 @@
                 "CARDINAL": [
                     "100",
                     "0710"
-                ],
-                "GPE": [
-                    "it?</p><p"
                 ]
             }
         },
@@ -264,12 +276,14 @@
                     "Brian McLaughlin",
                     "Brian",
                     "Brian",
+                    "nonsense?-",
                     "Redtail",
                     "Brian",
                     "Brian"
                 ],
                 "ORG": [
-                    "Campbell\u2019s Hero\u2019s"
+                    "Campbell\u2019s Hero\u2019s Journey?-",
+                    "love?-"
                 ]
             }
         },
@@ -306,12 +320,13 @@
                 ],
                 "CARDINAL": [
                     "three",
-                    "0409"
+                    "0409",
+                    "0356"
                 ],
                 "GPE": [
-                    "BeFi"
-                ],
-                "ORG": [
+                    "conversations?-",
+                    "BeFi",
+                    "things?-",
                     "BeFi"
                 ]
             }
@@ -347,7 +362,7 @@
                 "ORG": [
                     "Eben",
                     "Toews",
-                    "\u201c National Investment Risk Management",
+                    "\u201c National Investment Risk Management Day?\u201d- What",
                     "Eben",
                     "Toews"
                 ],
@@ -355,6 +370,9 @@
                     "the holiday",
                     "last year",
                     "yearly"
+                ],
+                "PERSON": [
+                    "fool?-"
                 ]
             }
         },
@@ -390,14 +408,18 @@
                     "Sivarajan",
                     "Ferrari",
                     "Sivarajan",
+                    "competition?-",
                     "Sivarajan"
+                ],
+                "ORG": [
+                    "truths?-",
+                    "wrong?-"
                 ],
                 "DATE": [
                     "a particularly bad year"
                 ],
                 "CARDINAL": [
-                    "0355",
-                    "0356"
+                    "0355"
                 ]
             }
         },
@@ -432,10 +454,17 @@
                 "PERSON": [
                     "Rachel",
                     "Rachel",
+                    "issues?-",
                     "Rachel",
                     "Rachel",
                     "Rachel",
-                    "Rachel"
+                    "ploy?-"
+                ],
+                "NORP": [
+                    "finance?-"
+                ],
+                "GPE": [
+                    "means?-"
                 ],
                 "DATE": [
                     "recent years"
@@ -480,14 +509,17 @@
                     "Adam",
                     "Adam"
                 ],
+                "WORK_OF_ART": [
+                    "filled?-"
+                ],
+                "GPE": [
+                    "holdings?-"
+                ],
+                "ORG": [
+                    "FinTech CEO?- Financial"
+                ],
                 "PERCENT": [
                     "roughly 40%"
-                ],
-                "DATE": [
-                    "0115"
-                ],
-                "CARDINAL": [
-                    "0356"
                 ]
             }
         },
@@ -522,8 +554,8 @@
                 "PERSON": [
                     "Tom"
                 ],
-                "CARDINAL": [
-                    "0126"
+                "GPE": [
+                    "OAS-1/17/2023"
                 ]
             }
         },
@@ -558,8 +590,16 @@
                 "PERSON": [
                     "Jeff",
                     "Jeff",
-                    "Jeff",
-                    "0108-OAS-1/17/2023</p"
+                    "Jeff"
+                ],
+                "GPE": [
+                    "this?-"
+                ],
+                "NORP": [
+                    "them?-"
+                ],
+                "ORG": [
+                    "retired?-"
                 ]
             }
         },
@@ -593,9 +633,15 @@
             "entities": {
                 "PERSON": [
                     "Jamie",
+                    "story?-",
                     "Jamie",
                     "Jamie",
-                    "Jamie"
+                    "Jamie",
+                    "Code"
+                ],
+                "GPE": [
+                    "career?-",
+                    "styles?-"
                 ]
             }
         },
@@ -635,8 +681,14 @@
                 "ORG": [
                     "Derek"
                 ],
+                "NORP": [
+                    "happiness?-"
+                ],
+                "PERSON": [
+                    "Code"
+                ],
                 "DATE": [
-                    "2255-OAS-11/21/2022</p"
+                    "2255-OAS-11/21/2022"
                 ]
             }
         },
@@ -669,6 +721,7 @@
             "title": "Laura Larios - Your Nervous System and Your Money",
             "entities": {
                 "PERSON": [
+                    "communicators?-",
                     "Laura",
                     "Laura",
                     "Laura",
@@ -680,7 +733,7 @@
                 "ORDINAL": [
                     "first"
                 ],
-                "CARDINAL": [
+                "DATE": [
                     "2346"
                 ]
             }
@@ -713,8 +766,14 @@
             "pubDate": "Thu, 15 Dec 2022 05:00:00 +0000",
             "title": "Dr. Sonya Lutter - Love and Money",
             "entities": {
+                "PERSON": [
+                    "trouble?-"
+                ],
+                "WORK_OF_ART": [
+                    "Love-Money"
+                ],
                 "CARDINAL": [
-                    "one"
+                    "2109"
                 ]
             }
         },
@@ -747,17 +806,17 @@
             "title": "Alex Murguia and Wade Pfau - The Four Retirement Income Styles",
             "entities": {
                 "PERSON": [
+                    "next?-",
                     "Wade",
+                    "income?-",
                     "Wade",
                     "Wade",
                     "Alex",
-                    "Alex"
+                    "Learn"
                 ],
                 "ORG": [
-                    "RISA"
-                ],
-                "FAC": [
-                    "Learn"
+                    "RISA",
+                    "Alex and Wade"
                 ],
                 "CARDINAL": [
                     "four",
@@ -798,6 +857,9 @@
                     "Carl",
                     "Carl",
                     "Carl"
+                ],
+                "GPE": [
+                    "clients?-"
                 ]
             }
         },
@@ -829,6 +891,13 @@
             "pubDate": "Thu, 24 Nov 2022 05:00:00 +0000",
             "title": "Tina Powell (Live from Fuse in Park City)",
             "entities": {
+                "PERSON": [
+                    "media?- Are",
+                    "necessarily?-"
+                ],
+                "GPE": [
+                    "ways?-"
+                ],
                 "CARDINAL": [
                     "2229"
                 ]
@@ -865,6 +934,13 @@
                 "ORG": [
                     "Anika",
                     "ABA"
+                ],
+                "NORP": [
+                    "important?-"
+                ],
+                "PERSON": [
+                    "clients?-",
+                    "informed?-"
                 ],
                 "CARDINAL": [
                     "2072"
@@ -908,7 +984,8 @@
                 "ORG": [
                     "DIY",
                     "RFG",
-                    "RFG"
+                    "RFG",
+                    "future?\u201d-"
                 ],
                 "GPE": [
                     "Alabama"
@@ -954,7 +1031,8 @@
                     "TownSquare"
                 ],
                 "DATE": [
-                    "about 5 years"
+                    "about 5 years",
+                    "2049"
                 ]
             }
         },
@@ -990,10 +1068,18 @@
                     "Tim",
                     "Victor Frankl",
                     "Logo Therapy",
-                    "Tim Maurer"
+                    "distress?-",
+                    "Tim Maurer",
+                    "Code"
+                ],
+                "GPE": [
+                    "resources?-"
                 ],
                 "NORP": [
                     "Socratic"
+                ],
+                "DATE": [
+                    "1896"
                 ]
             }
         },
@@ -1024,7 +1110,17 @@
             "link": "https://www.standarddeviationspod.com/",
             "pubDate": "Thu, 20 Oct 2022 04:00:00 +0000",
             "title": "Ashley Quamme - Bridging the Gap Between Money and Mental Health",
-            "entities": {}
+            "entities": {
+                "NORP": [
+                    "advisor?-"
+                ],
+                "GPE": [
+                    "this?-"
+                ],
+                "DATE": [
+                    "1871-OAS-10/10/2022"
+                ]
+            }
         },
         {
             "author": "danielcrosby@gmail.com (Paul Craven, Dr. Daniel Crosby)",
@@ -1059,6 +1155,15 @@
                 ],
                 "CARDINAL": [
                     "two"
+                ],
+                "NORP": [
+                    "them?-"
+                ],
+                "ORG": [
+                    "sell?-"
+                ],
+                "DATE": [
+                    "1862"
                 ]
             }
         },
@@ -1128,9 +1233,19 @@
             "pubDate": "Thu, 29 Sep 2022 04:00:00 +0000",
             "title": "Ann Garcia - How to Pay for College",
             "entities": {
+                "PRODUCT": [
+                    "paths?-"
+                ],
+                "ORG": [
+                    "health)?-"
+                ],
                 "PERSON": [
+                    "college?-",
                     "Ann",
                     "Biden"
+                ],
+                "DATE": [
+                    "1713"
                 ]
             }
         },
@@ -1162,17 +1277,17 @@
             "pubDate": "Thu, 22 Sep 2022 04:00:00 +0000",
             "title": "Tom Morgan - Personal Myth Making",
             "entities": {
-                "GPE": [
-                    "Thinking"
-                ],
                 "ORDINAL": [
                     "1st"
                 ],
                 "PERSON": [
                     "Joseph Campbell\u2019s"
                 ],
-                "CARDINAL": [
-                    "1648"
+                "ORG": [
+                    "growth?https://twitter.com/tom_morganKCPhttps://thekcpgroup.com/insightsCompliance Code"
+                ],
+                "DATE": [
+                    "1648-OAS-9/12/2022"
                 ]
             }
         },
@@ -1212,7 +1327,9 @@
                     "Morgan",
                     "Morgan",
                     "Morgan",
-                    "Morgan"
+                    "money?-",
+                    "Morgan",
+                    "Code"
                 ],
                 "DATE": [
                     "today",
@@ -1220,7 +1337,11 @@
                 ],
                 "ORG": [
                     "Morgan",
+                    "whom?- How does",
                     "Morgan"
+                ],
+                "GPE": [
+                    "readers?-"
                 ]
             }
         },
@@ -1256,6 +1377,14 @@
                     "Taylor",
                     "Taylor"
                 ],
+                "GPE": [
+                    "this?-",
+                    "means?-",
+                    "business?-"
+                ],
+                "NORP": [
+                    "them?-"
+                ],
                 "DATE": [
                     "1367"
                 ]
@@ -1289,11 +1418,15 @@
             "pubDate": "Thu, 1 Sep 2022 04:00:00 +0000",
             "title": "Cullen Roche - Debunking Common Investment Myths (Live from San Diego)",
             "entities": {
+                "PERSON": [
+                    "horizons?-"
+                ],
                 "DATE": [
                     "today",
                     "today"
                 ],
                 "GPE": [
+                    "this?-",
                     "China",
                     "USA"
                 ],
@@ -1334,6 +1467,9 @@
             "pubDate": "Thu, 25 Aug 2022 04:00:00 +0000",
             "title": "Shabana Siyed - Creating Authentic Content (Live from LA)",
             "entities": {
+                "ORG": [
+                    "on?- Once"
+                ],
                 "DATE": [
                     "the past few years"
                 ]
@@ -1381,6 +1517,9 @@
                     "two decades",
                     "25 years"
                 ],
+                "NORP": [
+                    "advisor?-"
+                ],
                 "CARDINAL": [
                     "300,000",
                     "1358"
@@ -1416,8 +1555,19 @@
             "title": "Melina Palmer - Harnessing Surprise and Delight",
             "entities": {
                 "GPE": [
-                    "Melina",
-                    "UI"
+                    "Melina"
+                ],
+                "PERSON": [
+                    "UI design?-"
+                ],
+                "ORG": [
+                    "groove?-"
+                ],
+                "LAW": [
+                    "the surface?https://thebrainybusiness.comCompliance Code"
+                ],
+                "CARDINAL": [
+                    "1274"
                 ]
             }
         },
@@ -1451,14 +1601,22 @@
             "entities": {
                 "PERSON": [
                     "Ashvin",
+                    "returns?-",
                     "Ashvin",
-                    "Ashvin"
+                    "Ashvin",
+                    "Code"
                 ],
                 "CARDINAL": [
                     "two",
                     "at least one",
                     "two",
                     "three"
+                ],
+                "ORG": [
+                    "case?-"
+                ],
+                "GPE": [
+                    "markets?-"
                 ],
                 "DATE": [
                     "today",
@@ -1494,6 +1652,9 @@
             "pubDate": "Thu, 28 Jul 2022 04:00:00 +0000",
             "title": "Samantha Lamas - The Complicated Art of Making Things Simple",
             "entities": {
+                "ORG": [
+                    "advice?-"
+                ],
                 "PERSON": [
                     "Samantha"
                 ],
@@ -1533,9 +1694,18 @@
             "pubDate": "Thu, 21 Jul 2022 04:00:00 +0000",
             "title": "Dr. Sarah Asebedo - Resolving Financial Conflict",
             "entities": {
+                "GPE": [
+                    "bias?-",
+                    "control?-",
+                    "help?-"
+                ],
                 "CARDINAL": [
                     "three",
                     "1117"
+                ],
+                "PERSON": [
+                    "well?-",
+                    "resolution?-"
                 ],
                 "ORG": [
                     "the \u201cBig 5"
@@ -1610,8 +1780,11 @@
                 ],
                 "ORG": [
                     "Nick\u2019s",
-                    "Nick\u2019s",
+                    "advice?-",
                     "Nick\u2019s"
+                ],
+                "DATE": [
+                    "1022-OAS-6/13/2022"
                 ]
             }
         },
@@ -1655,7 +1828,7 @@
                     "three"
                 ],
                 "DATE": [
-                    "1019"
+                    "1019-OAS-6/13/2022"
                 ]
             }
         },
@@ -1692,6 +1865,9 @@
                     "Steve",
                     "Steve",
                     "Steve"
+                ],
+                "NORP": [
+                    "advisor?-"
                 ],
                 "CARDINAL": [
                     "one",
@@ -1742,8 +1918,15 @@
                 "ORDINAL": [
                     "first"
                 ],
+                "ORG": [
+                    "place?-"
+                ],
                 "GPE": [
+                    "this?-",
                     "US"
+                ],
+                "DATE": [
+                    "1020-OAS-6/13/2022"
                 ]
             }
         },
@@ -1779,10 +1962,13 @@
                     "Drew",
                     "Richard Thaler",
                     "Thaler",
-                    "Hank Aaron"
+                    "Hank Aaron",
+                    "Drew"
+                ],
+                "NORP": [
+                    "stocks?-"
                 ],
                 "GPE": [
-                    "Drew",
                     "Drew"
                 ]
             }
@@ -1816,11 +2002,14 @@
             "title": "Jez Groom - Behavioral Nudging for Positive Influence",
             "entities": {
                 "PERSON": [
-                    "Jez",
-                    "0934-OAS-5/26/2022</p"
+                    "Jez"
                 ],
                 "GPE": [
-                    "Mexico"
+                    "Mexico",
+                    "example?https://www.goodreads.com"
+                ],
+                "CARDINAL": [
+                    "0934"
                 ]
             }
         },
@@ -1852,19 +2041,24 @@
             "pubDate": "Thu, 26 May 2022 10:59:41 +0000",
             "title": "Herman Brodie - The Power of Trust",
             "entities": {
+                "PERSON": [
+                    "revelation?-",
+                    "base?-",
+                    "profession?-"
+                ],
                 "CARDINAL": [
                     "three",
-                    "one",
-                    "0919"
+                    "one"
                 ],
                 "NORP": [
                     "Herman"
                 ],
+                "ORG": [
+                    "book?- Interpersonal",
+                    "the Edelman Trust Barometer"
+                ],
                 "GPE": [
                     "US"
-                ],
-                "ORG": [
-                    "the Edelman Trust Barometer"
                 ]
             }
         },
@@ -1896,13 +2090,14 @@
             "pubDate": "Thu, 19 May 2022 04:00:00 +0000",
             "title": "Dr. Kurt Nelson - Finding Your Behavioral Groove",
             "entities": {
+                "PERSON": [
+                    "behavioral?-",
+                    "Kurt"
+                ],
                 "CARDINAL": [
                     "one",
                     "one",
                     "two"
-                ],
-                "PERSON": [
-                    "Kurt"
                 ],
                 "ORG": [
                     "Behavioral Grooves"
@@ -1943,6 +2138,9 @@
                     "Peter",
                     "Peter"
                 ],
+                "GPE": [
+                    "downturns?-"
+                ],
                 "CARDINAL": [
                     "one",
                     "0783"
@@ -1977,10 +2175,21 @@
             "pubDate": "Thu, 5 May 2022 21:11:46 +0000",
             "title": "Natalie Taylor - The Client-Centric Future of Financial Advice",
             "entities": {
-                "PERSON": [
-                    "connection)?</p><p>-",
-                    "Natalie",
+                "ORG": [
+                    "connection)?-",
                     "Natalie"
+                ],
+                "GPE": [
+                    "clients?-"
+                ],
+                "PERSON": [
+                    "Natalie"
+                ],
+                "PRODUCT": [
+                    "success?-"
+                ],
+                "DATE": [
+                    "0729"
                 ]
             }
         },
@@ -2014,16 +2223,19 @@
             "entities": {
                 "GPE": [
                     "Meb",
-                    "Meb",
-                    "Meb",
                     "Meb"
                 ],
                 "PERSON": [
-                    "Meb"
+                    "Meb",
+                    "Meb",
+                    "allocation?- Meb"
                 ],
                 "CARDINAL": [
                     "one",
                     "0671"
+                ],
+                "EVENT": [
+                    "investor?https://www.cambriafunds.com/https://mebfaber.com/Compliance Code"
                 ]
             }
         },
@@ -2055,12 +2267,20 @@
             "pubDate": "Thu, 14 Apr 2022 04:00:00 +0000",
             "title": "Seth Streeter - Money with a Mission",
             "entities": {
+                "GPE": [
+                    "greatness?-",
+                    "crisis?-"
+                ],
                 "CARDINAL": [
                     "one",
                     "11"
                 ],
                 "PERSON": [
-                    "Seth"
+                    "Seth",
+                    "position?-"
+                ],
+                "ORG": [
+                    "these?-"
                 ]
             }
         },
@@ -2095,6 +2315,9 @@
                 "PERSON": [
                     "Bookstaber",
                     "Bookstaber"
+                ],
+                "ORG": [
+                    "possible?-"
                 ]
             }
         },
@@ -2126,12 +2349,18 @@
             "pubDate": "Thu, 31 Mar 2022 04:00:00 +0000",
             "title": "Dr. Brian Portnoy - Behavioral Finance 2.0",
             "entities": {
+                "PERSON": [
+                    "Portnoy",
+                    "relationship?www.shapingwealth.comTwitter"
+                ],
                 "ORG": [
-                    "Dr. Portnoy",
                     "Behavioral Finance"
                 ],
-                "PERSON": [
-                    "0534-OAS-3/29/2022</p"
+                "GPE": [
+                    "actions?-"
+                ],
+                "CARDINAL": [
+                    "0534"
                 ]
             }
         },
@@ -2164,14 +2393,26 @@
             "title": "Dr. Sonya Lutter - Money and Happiness",
             "entities": {
                 "PERSON": [
+                    "approach?-",
                     "Lutter",
                     "Lutter",
                     "Lutter",
                     "Lutter"
                 ],
+                "GPE": [
+                    "differences?-"
+                ],
+                "NORP": [
+                    "happiness?-"
+                ],
                 "CARDINAL": [
-                    "four",
-                    "0482"
+                    "four"
+                ],
+                "ORG": [
+                    "case?- High"
+                ],
+                "DATE": [
+                    "0482-OAS-3/21/2022"
                 ]
             }
         },
@@ -2204,10 +2445,7 @@
             "title": "Dr. Moira Somers - Giving Financial Advice That Sticks",
             "entities": {
                 "PERSON": [
-                    "jargon?</p><p>-"
-                ],
-                "CARDINAL": [
-                    "0430"
+                    "jargon?-"
                 ]
             }
         },
@@ -2244,6 +2482,9 @@
                 ],
                 "CARDINAL": [
                     "22"
+                ],
+                "GPE": [
+                    "this?-"
                 ],
                 "ORG": [
                     "First Trust"
@@ -2284,6 +2525,9 @@
                 ],
                 "PERSON": [
                     "Lurtz zeros"
+                ],
+                "GPE": [
+                    "clients?-"
                 ]
             }
         },
@@ -2316,8 +2560,7 @@
             "title": "Lauren Hunter - The Financial Realities of Death and Aging",
             "entities": {
                 "CARDINAL": [
-                    "one",
-                    "65?</p><p>-"
+                    "one"
                 ],
                 "DATE": [
                     "12-15 years"
@@ -2402,11 +2645,17 @@
             "pubDate": "Thu, 10 Feb 2022 05:00:00 +0000",
             "title": "Michelle Arpin Begina - Writing a New Money Story",
             "entities": {
-                "PERSON": [
-                    "Michelle"
+                "ORG": [
+                    "consumption?-"
                 ],
-                "CARDINAL": [
-                    "0203"
+                "PERSON": [
+                    "ourselves?-",
+                    "Michelle",
+                    "Code"
+                ],
+                "GPE": [
+                    "others?-",
+                    "behaviors?-"
                 ]
             }
         },
@@ -2439,22 +2688,28 @@
             "title": "Spencer Jakab - The Psychology of Meme Stocks",
             "entities": {
                 "GPE": [
-                    "meme"
+                    "meme",
+                    "this?-"
+                ],
+                "ORG": [
+                    "Gamestop?- Risk",
+                    "Wall Street Bets",
+                    "the Wall Street Bets"
                 ],
                 "PERSON": [
+                    "phenomenon?-",
                     "Keith Gill",
                     "Spencer",
                     "Trojan Horse"
-                ],
-                "ORG": [
-                    "Wall Street Bets",
-                    "the Wall Street Bets"
                 ],
                 "DATE": [
                     "2-3 years ago"
                 ],
                 "WORK_OF_ART": [
                     "Finfluencers"
+                ],
+                "NORP": [
+                    "0158-OAS-1/25/2022"
                 ]
             }
         },
@@ -2487,14 +2742,19 @@
             "title": "Emily Guy Birken - Your Super Serious Guide to Modern Money Management",
             "entities": {
                 "WORK_OF_ART": [
-                    "\u2018Stacked: Your Super Serious Guide to Modern Money"
+                    "\u2018Stacked: Your Super Serious Guide to Modern Money Management?\u2019- What"
                 ],
                 "CARDINAL": [
                     "one"
                 ],
                 "PERSON": [
                     "Emily",
-                    "Joe"
+                    "Joe",
+                    "Code"
+                ],
+                "GPE": [
+                    "thriftiness?-",
+                    "unconscious?-"
                 ]
             }
         },
@@ -2528,6 +2788,7 @@
             "entities": {
                 "PERSON": [
                     "James",
+                    "competitors?-",
                     "James",
                     "James",
                     "James",
@@ -2541,7 +2802,8 @@
                     "ESG"
                 ],
                 "DATE": [
-                    "many years"
+                    "many years",
+                    "3115"
                 ],
                 "GPE": [
                     "US"
@@ -2576,11 +2838,9 @@
             "pubDate": "Thu, 30 Dec 2021 05:00:00 +0000",
             "title": "Brendan Frazier - The Fuel and Friction Model of Behavioral Finance",
             "entities": {
-                "ORG": [
-                    "Behavioral Coaching"
-                ],
                 "PERSON": [
-                    "Brendan"
+                    "here?- Brendan",
+                    "Code"
                 ],
                 "ORDINAL": [
                     "first"
@@ -2625,9 +2885,15 @@
                 ],
                 "PERSON": [
                     "Phil",
+                    "motives?-",
                     "Phil",
                     "Phil",
-                    "Phil"
+                    "Phil",
+                    "@bipsandpiecesWeb",
+                    "Code"
+                ],
+                "GPE": [
+                    "vehicles?-"
                 ]
             }
         },
@@ -2668,7 +2934,13 @@
                     "3110"
                 ],
                 "PERSON": [
-                    "Kristin"
+                    "Kristin",
+                    "people?-",
+                    "Code"
+                ],
+                "GPE": [
+                    "services?-",
+                    "this?-"
                 ]
             }
         },
@@ -2700,6 +2972,13 @@
             "pubDate": "Thu, 9 Dec 2021 05:00:00 +0000",
             "title": "Dr. Mary Bell Carlson - The Lessons of Financial Therapy",
             "entities": {
+                "ORG": [
+                    "espionage?- Financial",
+                    "wrong?-"
+                ],
+                "GPE": [
+                    "values?-"
+                ],
                 "CARDINAL": [
                     "3025"
                 ]
@@ -2741,8 +3020,11 @@
                     "five",
                     "one"
                 ],
+                "GPE": [
+                    "n\u2019t refuse?-"
+                ],
                 "ORG": [
-                    "Signaling"
+                    "on?- Signaling"
                 ]
             }
         },
@@ -2775,16 +3057,18 @@
             "title": "Brad Johnson - Investing in Trading Cards",
             "entities": {
                 "PERSON": [
-                    "Brad"
+                    "Brad",
+                    "technologies?-"
+                ],
+                "GPE": [
+                    "cards?-",
+                    "Topps"
                 ],
                 "ORG": [
                     "Baseball Cards",
                     "MLB",
                     "Magic",
                     "Pokemon"
-                ],
-                "GPE": [
-                    "Topps"
                 ],
                 "CARDINAL": [
                     "2959"
@@ -2820,11 +3104,15 @@
             "title": "Emilie Hill - \u201cThe Market is Uncertainty Distilled\u201d",
             "entities": {
                 "GPE": [
-                    "population?</p><p>-"
+                    "markets?-",
+                    "this?-"
                 ],
                 "PERSON": [
                     "Emilie",
                     "Emilie"
+                ],
+                "ORG": [
+                    "destruction?- Financial"
                 ],
                 "CARDINAL": [
                     "2928"
@@ -2859,12 +3147,16 @@
             "pubDate": "Thu, 11 Nov 2021 05:00:00 +0000",
             "title": "Dr. Julie Ragatz - Empathy and the History of Behavioral Economics",
             "entities": {
-                "CARDINAL": [
-                    "one"
+                "GPE": [
+                    "origins?-"
                 ],
                 "PERSON": [
+                    "economics?-",
                     "Ragatz",
                     "Carson"
+                ],
+                "CARDINAL": [
+                    "one"
                 ],
                 "DATE": [
                     "2830"
@@ -2903,12 +3195,22 @@
                     "American"
                 ],
                 "CARDINAL": [
-                    "three",
-                    "2778"
+                    "three"
+                ],
+                "GPE": [
+                    "this?-",
+                    "markets?-"
                 ],
                 "ORDINAL": [
                     "third",
                     "first"
+                ],
+                "PERSON": [
+                    "earned?-",
+                    "so?-"
+                ],
+                "QUANTITY": [
+                    "2778-OAS-11/1/2021"
                 ]
             }
         },
@@ -2940,19 +3242,24 @@
             "pubDate": "Thu, 14 Oct 2021 05:00:00 +0000",
             "title": "Penny Phillips - The Power of Practice Management for Financial Advisors",
             "entities": {
-                "PERSON": [
+                "ORG": [
+                    "Penny",
                     "Penny"
                 ],
                 "CARDINAL": [
                     "25",
-                    "300,000",
-                    "2643"
+                    "300,000"
                 ],
                 "DATE": [
-                    "the past 18 months"
+                    "the past 18 months",
+                    "2643-OAS-10/13/2021"
                 ],
-                "ORG": [
-                    "Penny"
+                "PERSON": [
+                    "so?-",
+                    "years?-"
+                ],
+                "NORP": [
+                    "succession?https://www.youtube.com"
                 ]
             }
         },
@@ -2984,16 +3291,25 @@
             "pubDate": "Thu, 7 Oct 2021 04:00:00 +0000",
             "title": "Dr. Steve Wendel - Designing for Behavior Change",
             "entities": {
-                "ORG": [
-                    "Morningstar"
+                "PERSON": [
+                    "Morningstar",
+                    "Steve",
+                    "Steve",
+                    "people?Web",
+                    "Code"
+                ],
+                "GPE": [
+                    "biases?-"
                 ],
                 "PERCENT": [
                     "2%"
                 ],
-                "PERSON": [
-                    "Morningstar",
-                    "Steve",
-                    "Steve"
+                "ORG": [
+                    "case?-",
+                    "possibilities?- How"
+                ],
+                "LOC": [
+                    "the Morningstar research?-"
                 ],
                 "CARDINAL": [
                     "6"
@@ -3030,7 +3346,8 @@
             "entities": {
                 "PERSON": [
                     "Ric Edelman",
-                    "Blockchain"
+                    "Blockchain",
+                    "Code"
                 ],
                 "CARDINAL": [
                     "two",
@@ -3040,6 +3357,9 @@
                 ],
                 "NORP": [
                     "American"
+                ],
+                "ORG": [
+                    "commerce?-"
                 ],
                 "GPE": [
                     "Blockchain"
@@ -3078,6 +3398,7 @@
                     "Toews"
                 ],
                 "PERSON": [
+                    "crisis?-",
                     "Phillip"
                 ],
                 "CARDINAL": [
@@ -3115,6 +3436,8 @@
             "entities": {
                 "PERSON": [
                     "Howard",
+                    "value?-",
+                    "returns?-",
                     "Howard",
                     "Howard",
                     "Howard"
@@ -3154,10 +3477,16 @@
             "entities": {
                 "PERSON": [
                     "Biyani",
-                    "Udemy",
                     "Biyani",
                     "Udemy",
-                    "Biyani"
+                    "Biyani",
+                    "entrepreneurs?-"
+                ],
+                "GPE": [
+                    "Udemy"
+                ],
+                "ORG": [
+                    "education?-"
                 ],
                 "CARDINAL": [
                     "1,000",
@@ -3194,17 +3523,21 @@
             "title": "Drs. Chase and Pogge (Live From Ascent)",
             "entities": {
                 "PERSON": [
-                    "Chase"
+                    "Chase",
+                    "hires?-"
                 ],
                 "ORG": [
-                    "Chase"
+                    "Chase",
+                    "flag?-"
                 ],
                 "GPE": [
                     "Pogge",
-                    "Rorschachs"
+                    "Rorschachs",
+                    "styles?-",
+                    "parts?-"
                 ],
-                "CARDINAL": [
-                    "2404"
+                "DATE": [
+                    "2404-OAS-8/31/2021"
                 ]
             }
         },
@@ -3236,6 +3569,9 @@
             "pubDate": "Tue, 31 Aug 2021 21:37:43 +0000",
             "title": "Dr. Sarah Newcomb - Rewriting Your Money Story",
             "entities": {
+                "GPE": [
+                    "tenor?-"
+                ],
                 "NORP": [
                     "American"
                 ],
@@ -3243,8 +3579,8 @@
                     "one",
                     "2380"
                 ],
-                "PERSON": [
-                    "Sarah"
+                "ORG": [
+                    "control?- Sarah"
                 ]
             }
         },
@@ -3285,7 +3621,11 @@
                     "2276"
                 ],
                 "PERSON": [
-                    "Eben"
+                    "Eben",
+                    "returns?-"
+                ],
+                "GPE": [
+                    "clients?-"
                 ]
             }
         },
@@ -3318,10 +3658,15 @@
             "title": "Jordan Hutchison - Flow States in Finance",
             "entities": {
                 "PERSON": [
+                    "down?-",
                     "Jordan"
                 ],
-                "CARDINAL": [
-                    "2239"
+                "ORG": [
+                    "possible?-",
+                    "motivation?linkedin.com"
+                ],
+                "DATE": [
+                    "2239-OAS-8/9/2021"
                 ]
             }
         },
@@ -3355,16 +3700,17 @@
             "entities": {
                 "GPE": [
                     "Charlotte",
+                    "3rd",
                     "Charlotte"
                 ],
                 "EVENT": [
                     "The Great Depression"
                 ],
-                "ORDINAL": [
-                    "3rd"
+                "PRODUCT": [
+                    "company?-"
                 ],
-                "CARDINAL": [
-                    "2237"
+                "DATE": [
+                    "2237-OAS-8/9/2021"
                 ]
             }
         },
@@ -3403,7 +3749,7 @@
                 ],
                 "ORG": [
                     "Dentist Advisors",
-                    "Dentists and Financial Advisors"
+                    "Financial Advisors"
                 ],
                 "ORDINAL": [
                     "first"
@@ -3414,6 +3760,12 @@
                 "CARDINAL": [
                     "4x",
                     "2055"
+                ],
+                "GPE": [
+                    "clients?-"
+                ],
+                "PERSON": [
+                    "Code"
                 ]
             }
         },
@@ -3447,14 +3799,25 @@
             "entities": {
                 "PERSON": [
                     "Cherry",
-                    "Cherry"
+                    "story?-",
+                    "Cherry",
+                    "theory?-",
+                    "Code"
                 ],
                 "WORK_OF_ART": [
                     "The Big 5"
                 ],
                 "CARDINAL": [
-                    "one",
+                    "one"
+                ],
+                "ORG": [
+                    "that?https://www.concurrentfp.com"
+                ],
+                "DATE": [
                     "1938"
+                ],
+                "GPE": [
+                    "OAS-6/30/2021"
                 ]
             }
         },
@@ -3489,15 +3852,18 @@
                 "PERSON": [
                     "Jeff",
                     "Jeff",
+                    "here?- Jeff",
                     "Jeff"
+                ],
+                "ORG": [
+                    "comedy?-",
+                    "Ulysses",
+                    "Ulysses",
+                    "JP Morgan?www.jeffkreisler.comCompliance Code"
                 ],
                 "CARDINAL": [
                     "two",
                     "one"
-                ],
-                "ORG": [
-                    "Ulysses",
-                    "Ulysses"
                 ],
                 "DATE": [
                     "1929"
@@ -3533,7 +3899,9 @@
             "title": "Richard Nisbett - Does Introspection Actually Matter?",
             "entities": {
                 "PERSON": [
-                    "Richard Nisbett"
+                    "Richard Nisbett",
+                    "meaningful?-",
+                    "decisions?Web"
                 ]
             }
         },
@@ -3572,8 +3940,7 @@
                     "Anthony"
                 ],
                 "CARDINAL": [
-                    "four",
-                    "1836"
+                    "four"
                 ]
             }
         },
@@ -3606,13 +3973,21 @@
             "title": "Joe Saul-Sehy - Three Steps to Mastering Personal Finance",
             "entities": {
                 "CARDINAL": [
-                    "Three",
-                    "1823"
+                    "Three"
                 ],
                 "PERSON": [
                     "Joe Saul-Sehy",
+                    "plan?-",
                     "Joe",
-                    "John Saul"
+                    "John Saul",
+                    "professional?-",
+                    "Code"
+                ],
+                "WORK_OF_ART": [
+                    "\u2018Stacked\u2019 fills?-"
+                ],
+                "DATE": [
+                    "1823"
                 ]
             }
         },
@@ -3655,17 +4030,20 @@
                     "2020",
                     "1795"
                 ],
-                "PRODUCT": [
-                    "Learn"
-                ],
                 "ORG": [
+                    "year?-",
+                    "Fed",
                     "Success, Excess and Crisis Through the Eyes of a Hedge Fund Macro",
                     "Central Banks",
+                    "failing?-",
                     "fed",
                     "fed"
                 ],
                 "WORK_OF_ART": [
                     "Quantitative Easing"
+                ],
+                "GPE": [
+                    "policies?-"
                 ]
             }
         },
@@ -3705,11 +4083,16 @@
                 "PERSON": [
                     "Michael",
                     "Michael",
-                    "Michael"
+                    "Michael",
+                    "Writing"
+                ],
+                "GPE": [
+                    "ugliness?-",
+                    "conversations?-"
                 ],
                 "ORG": [
-                    "ALS",
-                    "ALS Charities"
+                    "these?-",
+                    "ALS"
                 ]
             }
         },
@@ -3742,7 +4125,10 @@
             "title": "Carl Richards - How to Make and Keep Financial Goals",
             "entities": {
                 "PERSON": [
-                    "Carl Richards"
+                    "Carl Richards",
+                    "precision?-",
+                    "advisors?-",
+                    "Code"
                 ]
             }
         },
@@ -3775,11 +4161,13 @@
             "title": "Jamie Hopkins - How to Think About Retiring",
             "entities": {
                 "DATE": [
-                    "65"
+                    "65",
+                    "1589"
                 ],
                 "ORG": [
                     "FIRE",
-                    "Financial Independence"
+                    "Financial Independence",
+                    "Retire Early)?- Social"
                 ],
                 "GPE": [
                     "n\u2019t"
@@ -3818,11 +4206,11 @@
             "title": "Q & A with Michael Batnick of Animal Spirits",
             "entities": {
                 "CARDINAL": [
-                    "50/50",
-                    "one"
+                    "50/50"
                 ],
                 "PERSON": [
-                    "Michael"
+                    "Michael",
+                    "Code"
                 ],
                 "PRODUCT": [
                     "Robinhood"
@@ -3862,11 +4250,15 @@
             "entities": {
                 "PERSON": [
                     "Adam Smith",
-                    "economist?</p><p>- Mike",
+                    "Mike",
+                    "value?-",
                     "Mike"
                 ],
                 "ORG": [
                     "ESG"
+                ],
+                "DATE": [
+                    "1447"
                 ]
             }
         },
@@ -3897,7 +4289,11 @@
             "link": "https://www.standarddeviationspod.com/",
             "pubDate": "Thu, 22 Apr 2021 00:00:00 +0000",
             "title": "Cady North - The Resiliency Effect",
-            "entities": {}
+            "entities": {
+                "PERSON": [
+                    "privileged?-"
+                ]
+            }
         },
         {
             "author": "danielcrosby@gmail.com (Dr. Richard Smith, Dr. Daniel Crosby)",
@@ -3931,7 +4327,8 @@
                     "Richard Smith",
                     "Smith",
                     "Smith",
-                    "Smith"
+                    "Smith",
+                    "Code"
                 ],
                 "DATE": [
                     "today",
@@ -3945,11 +4342,15 @@
                     "CNN",
                     "BBC News",
                     "MarketWatch",
-                    "Forbes"
+                    "Forbes",
+                    "years?- Productivity"
                 ],
                 "WORK_OF_ART": [
                     "PhD",
                     "\u2018The Risk Manifesto"
+                ],
+                "NORP": [
+                    "spectrum?-"
                 ],
                 "CARDINAL": [
                     "1237"
@@ -3985,7 +4386,13 @@
             "title": "Tra Williams - Boss Brain: The Future of Entrepreneurship",
             "entities": {
                 "PERSON": [
-                    "Boss Brain"
+                    "Boss Brain",
+                    "science?-",
+                    "funding?-",
+                    "Code"
+                ],
+                "ORG": [
+                    "control?-"
                 ],
                 "PERCENT": [
                     "93%",
@@ -3993,6 +4400,10 @@
                     "7%",
                     "99%",
                     "1%"
+                ],
+                "GPE": [
+                    "this?-",
+                    "ever?-"
                 ]
             }
         },
@@ -4034,16 +4445,18 @@
                     "Neil",
                     "Neil",
                     "Crosby",
-                    "@NeilBage</p"
+                    "Twitter"
                 ],
                 "WORK_OF_ART": [
-                    "'The Laws of Wealth"
+                    "'The Laws of Wealth",
+                    "Compliance Code"
                 ],
                 "CARDINAL": [
                     "one"
                 ],
                 "GPE": [
-                    "US"
+                    "US",
+                    "OAS-03/24/2021"
                 ]
             }
         },
@@ -4077,7 +4490,8 @@
             "entities": {
                 "PERSON": [
                     "JC Parets",
-                    "JC"
+                    "JC",
+                    "Twitter"
                 ],
                 "ORG": [
                     "the All Star Charts Research Platform",
@@ -4086,7 +4500,8 @@
                 ],
                 "DATE": [
                     "September of 2014",
-                    "daily"
+                    "daily",
+                    "0989"
                 ],
                 "GPE": [
                     "Miami"
@@ -4094,8 +4509,8 @@
                 "ORDINAL": [
                     "first"
                 ],
-                "CARDINAL": [
-                    "0989"
+                "WORK_OF_ART": [
+                    "Compliance Code"
                 ]
             }
         },
@@ -4130,7 +4545,7 @@
                 "PERSON": [
                     "Johnny Sandquist",
                     "Johnny",
-                    "0988-OAS-03/24/2021</p"
+                    "Twitter"
                 ],
                 "ORG": [
                     "the Founder &",
@@ -4140,11 +4555,15 @@
                     "over a decade"
                 ],
                 "CARDINAL": [
-                    "three"
+                    "three",
+                    "0988"
                 ],
                 "GPE": [
                     "Coronavirus",
                     "Oatly Superbowl"
+                ],
+                "WORK_OF_ART": [
+                    "Compliance Code"
                 ]
             }
         },
@@ -4183,6 +4602,8 @@
                     "Lindsey",
                     "JPMorgan",
                     "Deutsche Bank",
+                    "CFRA Research",
+                    "Lindsey",
                     "CNBC",
                     "the Wall Street Journal",
                     "Barron\u2019s",
@@ -4195,24 +4616,35 @@
                     "Yahoo Finance",
                     "Barron\u2019s",
                     "Wallstreet Bets",
-                    "@justLBell &amp"
+                    "Wallstreet Bets",
+                    "@justLBell & @callieabost"
                 ],
                 "GPE": [
                     "Jefferies",
-                    "Bloomberg"
+                    "Bloomberg",
+                    "Coronavirus",
+                    "OAS-03/19/2021"
                 ],
                 "PERSON": [
                     "Callie Cox",
                     "Ally Invest",
                     "Bloomberg",
-                    "Twitter",
-                    "Wallstreet Bets?</p"
+                    "Twitter"
+                ],
+                "PRODUCT": [
+                    "Twitter"
                 ],
                 "ORDINAL": [
                     "second"
                 ],
                 "PERCENT": [
                     "70-75%"
+                ],
+                "DATE": [
+                    "the next decade"
+                ],
+                "WORK_OF_ART": [
+                    "Compliance Code"
                 ],
                 "CARDINAL": [
                     "0943"
@@ -4257,7 +4689,8 @@
                     "63",
                     "66",
                     "1998",
-                    "the Year"
+                    "the Year",
+                    "1998"
                 ],
                 "PERSON": [
                     "Stacy Havener",
@@ -4270,14 +4703,15 @@
                     "Stacy",
                     "Candlewood Advisory Partners",
                     "Arrow Partners",
-                    "Sincere &amp; Co.",
+                    "Sincere & Co.",
                     "LLC",
                     "Sincere",
                     "CT",
                     "Stacy",
                     "Stacy",
                     "the Third Party Marketers Association",
-                    "the Financial Planning Association\u2019s Corporate Resource",
+                    "the Financial Planning Association\u2019s Corporate Resource Counsel",
+                    "Stacy",
                     "Compass Securities Corporation",
                     "Bachelor of Arts",
                     "Western Connecticut State University",
@@ -4299,16 +4733,16 @@
                     "Grand Prix Funds"
                 ],
                 "MONEY": [
-                    "over $5 billion"
+                    "over $5 billion dollars"
                 ],
                 "CARDINAL": [
-                    "79",
-                    "1998.</p"
+                    "79"
                 ],
                 "LANGUAGE": [
                     "English"
                 ],
                 "GPE": [
+                    "Based",
                     "Newport"
                 ]
             }
@@ -4409,13 +4843,15 @@
                     "Bloomberg Radio",
                     "The Wall Street Journal",
                     "Investor\u2019s Business Daily",
+                    "Financial Times",
                     "Fed",
                     "The Federal Government\u2019s"
                 ],
                 "DATE": [
                     "20 years",
                     "2020",
-                    "year"
+                    "year",
+                    "2021"
                 ],
                 "CARDINAL": [
                     "two"
@@ -4472,8 +4908,7 @@
                     "Orion Portfolio Solutions",
                     "Orion Advisor Technology",
                     "RIA",
-                    "E</em",
-                    "TRADE Capital",
+                    "ETRADE Financial",
                     "Fidelity Management and Research",
                     "Bachelor of Science in Management",
                     "Babson College",
@@ -4504,9 +4939,11 @@
                     "11-year",
                     "five-year",
                     "2017",
+                    "2017",
                     "three-year",
                     "March 27, 2017",
-                    "1962"
+                    "1962",
+                    "2020"
                 ],
                 "MONEY": [
                     "multi-billion"
@@ -4523,10 +4960,8 @@
                 "CARDINAL": [
                     "one",
                     "10",
-                    "2017.*</p",
                     "one",
-                    "60/40",
-                    "2020?</p"
+                    "60/40"
                 ],
                 "ORDINAL": [
                     "third"
@@ -4567,9 +5002,9 @@
                     "Phil",
                     "Phil",
                     "Phil",
-                    "Phil Bak",
                     "Phil",
-                    "Twitter"
+                    "Twitter",
+                    "@philbak1\nCompliance"
                 ],
                 "ORG": [
                     "Founder &",
@@ -4581,6 +5016,7 @@
                     "Reuters",
                     "the Chartered Alternative Investment Analyst",
                     "CAIA",
+                    "the Phil Bak Podcast",
                     "ETF"
                 ],
                 "MONEY": [
@@ -4638,14 +5074,12 @@
                     "Sony",
                     "Hoda",
                     "Hoda",
+                    "Fintech",
                     "Hoda",
                     "Fintech",
                     "DIY",
                     "DIY",
                     "Hoda"
-                ],
-                "PRODUCT": [
-                    "Fintech"
                 ]
             }
         },
@@ -4688,16 +5122,19 @@
                     "Bitcoin",
                     "Bitcoin",
                     "Bitcoin",
+                    "Bitcoin",
                     "Bitcoin"
                 ],
                 "GPE": [
                     "Ledger",
+                    "France",
                     "US"
                 ],
                 "DATE": [
                     "early 2017",
                     "15+ years",
-                    "10 years from now"
+                    "5 to 10 years from now",
+                    "a decade"
                 ],
                 "CARDINAL": [
                     "20",
@@ -4760,7 +5197,7 @@
                     "COO",
                     "InvestmentsNews",
                     "The Journal of Financial Planning",
-                    "InvestmentNews\u2019 Icon &",
+                    "InvestmentNews\u2019 Icon & Innovators Award",
                     "Bachelor of Science in Accounting",
                     "Brigham Young University",
                     "the University of Utah",
@@ -4772,10 +5209,8 @@
                 "DATE": [
                     "2012",
                     "2019",
+                    "2019",
                     "the coming years"
-                ],
-                "CARDINAL": [
-                    "2019.</p"
                 ],
                 "LOC": [
                     "middle America"
@@ -4783,6 +5218,9 @@
                 "GPE": [
                     "Fintech",
                     "UI"
+                ],
+                "CARDINAL": [
+                    "0613"
                 ]
             }
         },
@@ -4843,8 +5281,8 @@
             "pubDate": "Thu, 28 Jan 2021 06:00:17 +0000",
             "title": "Chau Lai - Becoming More Human",
             "entities": {
-                "ORG": [
-                    "AI<br /><a"
+                "PRODUCT": [
+                    "AIwww.chaulai.com\n"
                 ]
             }
         },
@@ -4880,12 +5318,10 @@
                     "Samantha Russell",
                     "Sam",
                     "Samantha",
-                    "Sam",
-                    "Radiolab"
+                    "Sam"
                 ],
                 "ORG": [
-                    "the Chief Marketing &",
-                    "Business Development Officer",
+                    "the Chief Marketing & Business Development Officer",
                     "Public Relations",
                     "Wealth Management\u2019s",
                     "This American Life"
@@ -4928,12 +5364,12 @@
             "pubDate": "Thu, 19 Nov 2020 06:00:01 +0000",
             "title": "Nick Saleem - Immigrants + Finance (Pt. Three)",
             "entities": {
-                "ORG": [
-                    "Nick\u2019s"
-                ],
                 "NORP": [
                     "American",
                     "American"
+                ],
+                "ORG": [
+                    "USAre"
                 ],
                 "PERSON": [
                     "Nick"
@@ -4971,7 +5407,8 @@
                 "PERSON": [
                     "Maddie",
                     "Maddie",
-                    "@maddiequinlan"
+                    "Maddie Quinlan",
+                    "@maddiequinlan\nWeb"
                 ],
                 "FAC": [
                     "Behavioral Science"
@@ -4982,10 +5419,7 @@
                     "Global Association of Applied Behavioral Scientists",
                     "Eastern",
                     "#Logical Fallacies",
-                    "The Self #Cognitive Biases</p"
-                ],
-                "NORP": [
-                    "can.</p"
+                    "The Self #Cognitive Biases"
                 ],
                 "CARDINAL": [
                     "one"
@@ -5023,10 +5457,8 @@
             "pubDate": "Thu, 15 Oct 2020 05:00:04 +0000",
             "title": "Maxine Gray - Investing Sustainably",
             "entities": {
-                "PERSON": [
-                    "Maxine Gray"
-                ],
                 "ORG": [
+                    "Maxine Gray",
                     "the Business Strategy Development and Implementation",
                     "the United Nations Global Compact",
                     "NPO",
@@ -5038,11 +5470,13 @@
                 ],
                 "GPE": [
                     "South Africa",
-                    "Winter Warmer"
+                    "Winter Warmer",
+                    "LinkedIn"
                 ],
                 "DATE": [
                     "2015",
-                    "2010-2020"
+                    "2010-2020",
+                    "winter"
                 ],
                 "CARDINAL": [
                     "over 20,000"
@@ -5084,7 +5518,8 @@
                 ],
                 "ORG": [
                     "Leapgen",
-                    "MN"
+                    "MN",
+                    "@jessvonbank"
                 ],
                 "GPE": [
                     "Minneapolis"
@@ -5128,7 +5563,8 @@
                     "Roger"
                 ],
                 "CARDINAL": [
-                    "hundreds"
+                    "hundreds",
+                    "One"
                 ],
                 "ORG": [
                     "CFP",
@@ -5175,9 +5611,6 @@
                 "DATE": [
                     "today",
                     "day 1"
-                ],
-                "CARDINAL": [
-                    "one"
                 ]
             }
         },
@@ -5228,7 +5661,8 @@
                 ],
                 "DATE": [
                     "2012",
-                    "more than 15 years"
+                    "more than 15 years",
+                    "the coming years"
                 ],
                 "CARDINAL": [
                     "one",
@@ -5274,11 +5708,11 @@
                 "ORG": [
                     "George Washington University",
                     "Children's National Medical Center",
-                    "the Department of Defense.</p",
-                    "Coronavirus"
+                    "the Department of Defense"
                 ],
                 "GPE": [
-                    "LinkedIn"
+                    "LinkedIn",
+                    "Coronavirus"
                 ]
             }
         },
@@ -5330,7 +5764,7 @@
                 ],
                 "GPE": [
                     "Montebello",
-                    "New York.</p"
+                    "New York"
                 ]
             }
         },
@@ -5362,6 +5796,11 @@
             "pubDate": "Thu, 25 Jun 2020 05:00:02 +0000",
             "title": "Larry Swedroe - The Four Horsemen of the Retirement Apocalypse",
             "entities": {
+                "PERSON": [
+                    "Larry Swedroe",
+                    "Larry",
+                    "Advisor Perspectives"
+                ],
                 "FAC": [
                     "Buckingham Strategic Wealth"
                 ],
@@ -5375,15 +5814,11 @@
                     "CNBC",
                     "CNN",
                     "Bloomberg Personal Finance",
+                    "NYU",
                     "Social Security"
                 ],
                 "GPE": [
-                    "Buckingham",
-                    "NYU.</p"
-                ],
-                "PERSON": [
-                    "Larry",
-                    "Advisor Perspectives"
+                    "Buckingham"
                 ],
                 "WORK_OF_ART": [
                     "MBA"
@@ -5420,6 +5855,7 @@
             "entities": {
                 "ORG": [
                     "Coronavirus",
+                    "the Bitesize Behaviour Podcast",
                     "The Geometry of Wealth",
                     "Virtus Investment Partners",
                     "the University of Chicago"
@@ -5429,6 +5865,9 @@
                     "Neil Bage",
                     "Neil",
                     "Brian Portnoy"
+                ],
+                "WORK_OF_ART": [
+                    "Brian Portnoy:"
                 ],
                 "CARDINAL": [
                     "two",
@@ -5478,6 +5917,9 @@
                 ],
                 "NORP": [
                     "American"
+                ],
+                "GPE": [
+                    "pc.comLinkedIn"
                 ]
             }
         },
@@ -5626,12 +6068,10 @@
             "entities": {
                 "PERSON": [
                     "Kyle",
-                    "Kyle",
-                    "KyleVanPelt</p"
+                    "Kyle"
                 ],
                 "ORG": [
-                    "SS &",
-                    "C Advent",
+                    "SS & C Advent",
                     "ATL",
                     "Amazon",
                     "Uber"
@@ -5739,10 +6179,8 @@
                     "Economics"
                 ],
                 "DATE": [
-                    "five years"
-                ],
-                "CARDINAL": [
-                    "2004.</p"
+                    "five years",
+                    "2004"
                 ]
             }
         },
@@ -5776,16 +6214,17 @@
             "entities": {
                 "PERSON": [
                     "Paul Hebert",
-                    "Goodyear"
+                    "Goodyear",
+                    "Twitter"
                 ],
                 "ORG": [
                     "Michelin",
                     "Chrysler Service",
                     "Parts",
                     "Toyota Financial Services",
-                    "AT &"
+                    "AT & T"
                 ],
-                "LAW": [
+                "PRODUCT": [
                     "Fortune 1000"
                 ]
             }
@@ -5868,14 +6307,14 @@
             "title": "Emily Binder - The Future of Voice",
             "entities": {
                 "PERSON": [
-                    "Emily Binder"
+                    "Binder"
                 ],
                 "WORK_OF_ART": [
                     "Beetle Moment Marketing"
                 ],
                 "ORG": [
                     "AI",
-                    "https://beetlemoment.com/ &amp"
+                    "https://beetlemoment.com/ & www.emilybinder.com"
                 ]
             }
         },
@@ -5926,11 +6365,13 @@
                     "10%"
                 ],
                 "CARDINAL": [
-                    "three",
-                    "3"
+                    "three"
                 ],
-                "ORDINAL": [
-                    "first"
+                "DATE": [
+                    "their first 3 years"
+                ],
+                "PERSON": [
+                    "Twitter"
                 ]
             }
         },
@@ -5971,7 +6412,9 @@
                     "Greg",
                     "Greg",
                     "Magna Cum Laude",
-                    "Jeremy Lin"
+                    "Jeremy Lin",
+                    "Jim Simons",
+                    "Twitter"
                 ],
                 "ORG": [
                     "The Wall Street Journal",
@@ -5980,19 +6423,18 @@
                     "Random House",
                     "Journal",
                     "the New York Post",
-                    "Mergers &",
-                    "Acquisitions Report",
+                    "Mergers & Acquisitions Report",
                     "Investment Dealers' Digest",
                     "Brandeis University",
                     "Yankees",
                     "Giants",
-                    "Jim Simons",
                     "Renaissance Technologies"
                 ],
-                "GPE": [
-                    "New Billionaire",
-                    "West Orange",
-                    "N.J."
+                "WORK_OF_ART": [
+                    "Heard on the Street",
+                    "The Frackers: The Outrageous Inside Story of the New Billionaire Wildcatters",
+                    "The Greatest Trade Ever: The Behind-the-Scenes Story of How",
+                    "Rising Above: How 11 Athletes Overcame Challenges in their Youth to Become Stars"
                 ],
                 "DATE": [
                     "November 2013",
@@ -6002,13 +6444,16 @@
                     "the summer",
                     "the fall"
                 ],
-                "WORK_OF_ART": [
-                    "The Greatest Trade Ever: The Behind-the-Scenes Story of How",
-                    "Rising Above: How 11 Athletes Overcame Challenges in their Youth to Become Stars"
-                ],
                 "CARDINAL": [
                     "two",
                     "two"
+                ],
+                "GPE": [
+                    "West Orange",
+                    "N.J."
+                ],
+                "NORP": [
+                    "Rentec"
                 ]
             }
         },
@@ -6042,14 +6487,11 @@
             "entities": {
                 "ORG": [
                     "Coach",
-                    "Strength &"
+                    "Strength & Conditioning and Performance for",
+                    "the New York Yankees"
                 ],
                 "PERSON": [
-                    "Dana Cavalea",
-                    "\u2019</p"
-                ],
-                "WORK_OF_ART": [
-                    "Conditioning and Performance for the New York Yankees"
+                    "Dana Cavalea"
                 ],
                 "DATE": [
                     "2009"
@@ -6087,8 +6529,11 @@
             "pubDate": "Mon, 25 Nov 2019 18:02:42 +0000",
             "title": "The Psychology Of Commitment Vs. Context",
             "entities": {
+                "ORG": [
+                    "The Psychology Of Commitment Vs"
+                ],
                 "PERSON": [
-                    "Daniel Crosby</p"
+                    "Daniel Crosby"
                 ]
             }
         },
@@ -6211,7 +6656,7 @@
                     "The Four Pillars of Investor Psychology"
                 ],
                 "PERSON": [
-                    "Daniel Crosby</p"
+                    "Daniel Crosby"
                 ]
             }
         },
@@ -6257,10 +6702,8 @@
                 ],
                 "DATE": [
                     "this week",
-                    "today"
-                ],
-                "ORDINAL": [
-                    "21st"
+                    "today",
+                    "the 21st century"
                 ]
             }
         },
@@ -6294,7 +6737,6 @@
             "entities": {
                 "GPE": [
                     "Nichole",
-                    "quot;debt&quot",
                     "Nichole"
                 ],
                 "ORG": [
@@ -6346,12 +6788,18 @@
                 "ORG": [
                     "O'Shaughnessy Asset Management"
                 ],
+                "WORK_OF_ART": [
+                    "What Works on Wall Street"
+                ],
                 "CARDINAL": [
                     "one",
                     "one"
                 ],
                 "DATE": [
                     "this week"
+                ],
+                "PRODUCT": [
+                    "Twitter"
                 ]
             }
         },
@@ -6389,6 +6837,9 @@
                 "DATE": [
                     "seven years",
                     "today"
+                ],
+                "TIME": [
+                    "the off hours"
                 ]
             }
         },
@@ -6421,13 +6872,17 @@
             "title": "Laurie Ruettimann - Should I Write a Book?",
             "entities": {
                 "PERSON": [
-                    "Laurie Ruettimann"
+                    "Laurie Ruettimann",
+                    "Laurie"
                 ],
                 "PERCENT": [
                     "80%"
                 ],
                 "NORP": [
                     "Americans"
+                ],
+                "ORG": [
+                    "-First"
                 ]
             }
         },
@@ -6497,7 +6952,6 @@
             "entities": {
                 "PERSON": [
                     "Marty Nachemson",
-                    "quotient&quot",
                     "AQ"
                 ],
                 "ORG": [
@@ -6506,6 +6960,9 @@
                 ],
                 "DATE": [
                     "Today"
+                ],
+                "GPE": [
+                    "EQ"
                 ],
                 "CARDINAL": [
                     "three"
@@ -6542,8 +6999,7 @@
             "entities": {
                 "PERSON": [
                     "Doug Shaw",
-                    "Daniel",
-                    "rut.</p"
+                    "Daniel"
                 ],
                 "DATE": [
                     "this week"
@@ -6666,8 +7122,7 @@
                     "Andrea Schaffer"
                 ],
                 "ORG": [
-                    "Pacific Advisors",
-                    "including:</p"
+                    "Pacific Advisors"
                 ],
                 "GPE": [
                     "Claremont",
@@ -6791,7 +7246,7 @@
             "title": "Change Your Environment, Change Your Life",
             "entities": {
                 "PERSON": [
-                    "Daniel Crosby</p"
+                    "Daniel Crosby"
                 ]
             }
         },
@@ -6903,14 +7358,16 @@
             "entities": {
                 "PERSON": [
                     "Jason",
-                    "Jason",
-                    "li>&quot;Alpha wounds&quot"
+                    "Jason"
                 ],
                 "ORG": [
                     "Active Investment Management Consulting"
                 ],
                 "WORK_OF_ART": [
                     "The Intuitive Investor"
+                ],
+                "PRODUCT": [
+                    "Alpha"
                 ]
             }
         },
@@ -6943,7 +7400,8 @@
             "title": "Clare Flynn Levy - Improving Decisions with Behavioral Science",
             "entities": {
                 "PERSON": [
-                    "Flynn Levy"
+                    "Flynn Levy",
+                    "Clare"
                 ],
                 "ORG": [
                     "Essentia Analytics"
@@ -6981,9 +7439,14 @@
                 "PERSON": [
                     "Jamie",
                     "Jamie",
-                    "Medieval Europe</p",
                     "Jamie",
                     "FinTwit Rookie"
+                ],
+                "LOC": [
+                    "Medieval Europe"
+                ],
+                "DATE": [
+                    "Year"
                 ]
             }
         },
@@ -7026,9 +7489,6 @@
                 ],
                 "PRODUCT": [
                     "Twitter"
-                ],
-                "NORP": [
-                    "moves?<br"
                 ]
             }
         },
@@ -7099,7 +7559,7 @@
             "title": "Mindful Minute - The Formula For Happiness",
             "entities": {
                 "PERSON": [
-                    "Daniel Crosby</p"
+                    "Daniel Crosby"
                 ]
             }
         },
@@ -7132,7 +7592,9 @@
             "title": "Christine Benz - Goals Based Approaches to Retirement",
             "entities": {
                 "DATE": [
-                    "This week"
+                    "This week",
+                    "today",
+                    "tomorrow"
                 ],
                 "ORG": [
                     "Standard Deviations",
@@ -7142,6 +7604,9 @@
                     "Crosby",
                     "Christine Benz",
                     "Christine"
+                ],
+                "CARDINAL": [
+                    "30"
                 ]
             }
         },
@@ -7258,7 +7723,7 @@
             "title": "Money Minute: The Big List Of Financial  Truths",
             "entities": {
                 "PERSON": [
-                    "Daniel Crosby</p"
+                    "Daniel Crosby"
                 ]
             }
         },
@@ -7333,8 +7798,7 @@
             "title": "Joseph Fitzgerald - The Retirement Savings Crisis and You",
             "entities": {
                 "PERSON": [
-                    "Joe Fitzgerald",
-                    "quot;lifestyle creep&quot"
+                    "Joe Fitzgerald"
                 ],
                 "GPE": [
                     "America"
@@ -7485,6 +7949,9 @@
                 ],
                 "ORDINAL": [
                     "first"
+                ],
+                "PRODUCT": [
+                    "\u2022"
                 ]
             }
         },
@@ -7561,13 +8028,8 @@
                 "PERSON": [
                     "Noreen Beaman"
                 ],
-                "NORP": [
-                    "American",
-                    "Noreen"
-                ],
                 "ORG": [
                     "Brinker Capital",
-                    "including:</p",
                     "Brinker"
                 ],
                 "DATE": [
@@ -7575,6 +8037,9 @@
                 ],
                 "MONEY": [
                     "multi-billion dollar"
+                ],
+                "NORP": [
+                    "Noreen"
                 ]
             }
         },
@@ -7611,7 +8076,7 @@
                 ],
                 "PERSON": [
                     "Daniel Crosby",
-                    "Daniel Crosby</p"
+                    "Daniel Crosby"
                 ]
             }
         },
@@ -7652,7 +8117,7 @@
                     "Michele Fine"
                 ],
                 "GPE": [
-                    "New York.</p"
+                    "New York"
                 ]
             }
         },
@@ -7688,7 +8153,7 @@
                     "4"
                 ],
                 "WORK_OF_ART": [
-                    "The Laws of Wealth: Psychology and the Secret to Investing Success.</p>\n"
+                    "The Laws of Wealth: Psychology and the Secret to Investing Success"
                 ]
             }
         },
@@ -7729,9 +8194,6 @@
                 ],
                 "ORG": [
                     "The Millennial Money"
-                ],
-                "GPE": [
-                    "life&quot"
                 ]
             }
         },
@@ -7805,7 +8267,7 @@
             "title": "Life Lessons: A Letter To My Daughter",
             "entities": {
                 "PERSON": [
-                    "Daniel Crosby</p"
+                    "Daniel Crosby"
                 ]
             }
         },
@@ -7842,7 +8304,7 @@
                 ],
                 "PERSON": [
                     "Daniel Crosby",
-                    "Daniel Crosby</p"
+                    "Daniel Crosby"
                 ]
             }
         },
@@ -7911,7 +8373,7 @@
             "title": "Can Being Weird Make You Rich and Happy?",
             "entities": {
                 "PERSON": [
-                    "Daniel Crosby</p"
+                    "Daniel Crosby"
                 ]
             }
         },
@@ -7952,6 +8414,9 @@
                     "James",
                     "Daniel"
                 ],
+                "ORG": [
+                    "Couples"
+                ],
                 "CARDINAL": [
                     "five"
                 ]
@@ -7989,7 +8454,8 @@
                     "second"
                 ],
                 "GPE": [
-                    "Huntsville"
+                    "Huntsville",
+                    "Alabama"
                 ]
             }
         },
@@ -8028,7 +8494,8 @@
                 "PERSON": [
                     "Crosby",
                     "John Nolan",
-                    "Nolan"
+                    "Nolan",
+                    "John"
                 ],
                 "GPE": [
                     "Vietnam"
@@ -8036,8 +8503,8 @@
                 "ORG": [
                     "CIA"
                 ],
-                "CARDINAL": [
-                    "one"
+                "PRODUCT": [
+                    "Learn"
                 ]
             }
         },
@@ -8073,7 +8540,8 @@
                     "first"
                 ],
                 "GPE": [
-                    "Huntsville"
+                    "Huntsville",
+                    "Alabama"
                 ]
             }
         },
@@ -8106,8 +8574,7 @@
             "title": "Daniel Crosby - The Behavioral Investor",
             "entities": {
                 "DATE": [
-                    "This week",
-                    "books&amp;ie"
+                    "This week"
                 ],
                 "ORG": [
                     "Standard Deviations",
@@ -8119,14 +8586,14 @@
                     "Brian",
                     "Daniel",
                     "Crosby",
+                    "Daniel",
                     "Read Brian's"
                 ],
                 "WORK_OF_ART": [
                     "The Behavioral Investor"
                 ],
                 "CARDINAL": [
-                    "four",
-                    "950f-485c"
+                    "four"
                 ]
             }
         },
@@ -8162,7 +8629,11 @@
                     "This week"
                 ],
                 "PERSON": [
-                    "Jennifer McClure"
+                    "Jennifer McClure",
+                    "Jennifer"
+                ],
+                "PRODUCT": [
+                    "Learn"
                 ]
             }
         },
@@ -8198,8 +8669,7 @@
                     "the last holiday season"
                 ],
                 "PERSON": [
-                    "Tra Williams",
-                    "quot;balanced&quot"
+                    "Tra Williams"
                 ]
             }
         },
@@ -8232,7 +8702,7 @@
             "title": "Randy Norton - Value Investing and Real Estate",
             "entities": {
                 "PERSON": [
-                    "Randy Norton - Applying Value Investing",
+                    "Randy Norton - Applying Value Investing to Real Estate",
                     "Randy Norton",
                     "Randy"
                 ],
@@ -8241,7 +8711,11 @@
                 ],
                 "ORG": [
                     "the Standard Deviations",
-                    "REIT"
+                    "Green Mesa Capital",
+                    "Randy"
+                ],
+                "PRODUCT": [
+                    "Learn"
                 ]
             }
         },
@@ -8277,16 +8751,23 @@
                     "Joey Fishman - A",
                     "Crosby",
                     "Joey Fishman",
-                    "joel-joey-fishman/</p"
-                ],
-                "DATE": [
-                    "This week"
+                    "Joey"
                 ],
                 "ORG": [
+                    "ESG",
                     "Standard Deviations",
                     "Ritholtz Wealth Management",
                     "ESG",
                     "ESG"
+                ],
+                "DATE": [
+                    "This week"
+                ],
+                "WORK_OF_ART": [
+                    "Portland Portfolio"
+                ],
+                "PRODUCT": [
+                    "Learn"
                 ]
             }
         },
@@ -8319,20 +8800,26 @@
             "title": "Tyrone Ross Jr. - The Lessons of Failure",
             "entities": {
                 "PERSON": [
-                    "Ross"
+                    "Tyrone Ross",
+                    "Bitcoin"
                 ],
                 "ORG": [
                     "Olympic Trials",
+                    "Tyrone",
                     "Tyrone"
                 ],
                 "QUANTITY": [
                     "400 meters"
                 ],
                 "DATE": [
-                    "week"
+                    "week",
+                    "today"
                 ],
                 "TIME": [
                     "all 1.5 hours"
+                ],
+                "PRODUCT": [
+                    "Learn"
                 ]
             }
         },
@@ -8370,13 +8857,17 @@
                 "PERSON": [
                     "Dan Egan",
                     "Dan",
-                    "Dan recommends:</p"
+                    "Dan",
+                    "Dan"
                 ],
                 "ORG": [
                     "Investing and Personal Finance"
                 ],
                 "GPE": [
                     "Betterment"
+                ],
+                "PRODUCT": [
+                    "Learn"
                 ]
             }
         },
@@ -8414,7 +8905,7 @@
                     "Fallaw",
                     "Thomas Stanley",
                     "Fallaw",
-                    "Sarah:</p",
+                    "Sarah",
                     "Sarah"
                 ],
                 "ORG": [
@@ -8423,6 +8914,9 @@
                 ],
                 "WORK_OF_ART": [
                     "Ph.D."
+                ],
+                "PRODUCT": [
+                    "Learn"
                 ]
             }
         },
@@ -8458,10 +8952,10 @@
                     "Chris Turchansky",
                     "Chris Turchansky",
                     "Chris",
+                    "Chris",
                     "Chris"
                 ],
                 "ORG": [
-                    "Future</p",
                     "Standard Deviations",
                     "ATB Investor Services"
                 ],
@@ -8471,7 +8965,11 @@
                     "today"
                 ],
                 "GPE": [
-                    "Alberta"
+                    "Alberta",
+                    "Canada"
+                ],
+                "PRODUCT": [
+                    "Learn"
                 ]
             }
         },
@@ -8505,7 +9003,7 @@
             "entities": {
                 "PERSON": [
                     "Annette Hammortree",
-                    "Josh Wilson - &"
+                    "Josh Wilson - \""
                 ],
                 "ORG": [
                     "Hammortree Financial Services"
@@ -8516,9 +9014,6 @@
                 ],
                 "CARDINAL": [
                     "three"
-                ],
-                "NORP": [
-                    "http://www.hammortreefinancial.com/</p"
                 ]
             }
         },
@@ -8554,13 +9049,19 @@
                     "Neil Bage - Behavioral Finance",
                     "Crosby",
                     "Neil Bage",
-                    "Neil"
+                    "Neil",
+                    "Neil",
+                    "https://www.beiq.co.uk/"
+                ],
+                "ORG": [
+                    "FinTech",
+                    "the Journal of Consumer Psychology"
                 ],
                 "DATE": [
                     "This week"
                 ],
-                "ORG": [
-                    "the Journal of Consumer Psychology"
+                "PRODUCT": [
+                    "Learn"
                 ]
             }
         },
@@ -8595,10 +9096,10 @@
                 "PERSON": [
                     "Kristin Scroggin - Millennials",
                     "Kristin Scroggin",
-                    "Truths"
+                    "Truths",
+                    "Kristin"
                 ],
                 "ORG": [
-                    "The world &quot;millennial&quot",
                     "the New York Times"
                 ],
                 "DATE": [
@@ -8638,7 +9139,8 @@
                     "Brian Ford - The",
                     "Crosby",
                     "Brian Ford",
-                    "Brian"
+                    "Brian",
+                    "https://www.momentumonup.com/\nBrian's"
                 ],
                 "CARDINAL": [
                     "Eight",
@@ -8649,8 +9151,10 @@
                     "This week"
                 ],
                 "ORG": [
-                    "Standard Deviations",
-                    "Pillars-Financial-Greatness/dp/1432737481/ref"
+                    "Standard Deviations"
+                ],
+                "PRODUCT": [
+                    "Learn"
                 ]
             }
         },
@@ -8687,10 +9191,8 @@
                 ],
                 "PERSON": [
                     "Travis Scribner",
-                    "Vegas Money Resource.&quot"
-                ],
-                "NORP": [
-                    "investors.</p"
+                    "Travis",
+                    "Travis"
                 ],
                 "CARDINAL": [
                     "more than 25"
@@ -8733,31 +9235,31 @@
                     "Elizabeth Walden Award",
                     "Jeff",
                     "Jeff",
-                    "Jeff"
+                    "Jeff",
+                    "Jeff",
+                    "https://www.amazon.com/Serpent-King-Jeff-Zentner/dp/0553524054/ref=pd_sbs_14_3?_encoding=UTF8&pd_rd_i=0553524054&pd_rd_r=04d60b3e-c572-11e8-a709-598374602c47&pd_rd_w=l9hTy&pd_rd_wg=IWLVX&pf_rd_i=desktop-dp-sims&pf_rd_m=ATVPDKIKX0DER&pf_rd_p=0bb14103-7f67-4c21-9b0b-31f42dc047e7&pf_rd_r=EM73JT2DW7TAP9DH5XZ8&pf_rd_s=desktop-dp-sims&pf_rd_t=40701&psc=1&refRID=EM73JT2DW7TAP9DH5XZ8\n"
                 ],
                 "DATE": [
                     "this week",
-                    "February 2019.</p",
-                    "EM73JT2DW7TAP9DH5XZ8&amp;pf_rd_s"
+                    "February 2019"
                 ],
                 "ORG": [
                     "New York Times Notable Book The Serpent King",
-                    "Rayne &",
-                    "Delilah",
+                    "Rayne & Delilah\u2019s",
                     "the William C. Morris Award",
                     "the International Literacy Association Award",
                     "the Westchester Fiction Award",
                     "the Carnegie Medal",
                     "the Indies Choice Award",
-                    "Publishers Weekly",
-                    "UTF8&amp;qid=1538395403&amp;sr=8-3&amp;keywords"
+                    "Publishers Weekly"
                 ],
                 "ORDINAL": [
                     "third",
                     "first"
                 ],
                 "PRODUCT": [
-                    "the Southern Book Prize"
+                    "the Southern Book Prize",
+                    "Learn"
                 ],
                 "PERCENT": [
                     "80%"
@@ -8798,17 +9300,18 @@
             "pubDate": "Thu, 4 Oct 2018 07:00:09 +0000",
             "title": "Meredith Jones - Women and Wall Street",
             "entities": {
-                "PERSON": [
-                    "Standard Deviations",
-                    "Meredith Jones",
-                    "Meredith"
-                ],
                 "ORG": [
+                    "Standard Deviations",
                     "Women of the Street",
                     "the Securities and Exchange Commission",
                     "Institutional Investor",
-                    "Market Watch",
-                    "Meredith"
+                    "Market Watch"
+                ],
+                "PERSON": [
+                    "Meredith Jones",
+                    "Meredith",
+                    "Meredith",
+                    "https://www.youtube.com/watch?v=-UR6WvCoNGQ\nMeredith's"
                 ],
                 "WORK_OF_ART": [
                     "17 Inspiring Women To Watch"
@@ -8816,6 +9319,9 @@
                 "DATE": [
                     "2017",
                     "2018"
+                ],
+                "PRODUCT": [
+                    "Learn"
                 ]
             }
         },
@@ -8855,10 +9361,13 @@
                 "PERSON": [
                     "Eric McDermott",
                     "Eric",
-                    "Eric"
+                    "Eric: http://www.pacificadvisors.com/team/eric-mcdermott\n"
                 ],
                 "ORDINAL": [
                     "first"
+                ],
+                "PRODUCT": [
+                    "Learn"
                 ]
             }
         },
@@ -9418,11 +9927,13 @@
                 ],
                 "CARDINAL": [
                     "150 billion",
-                    "20",
-                    "12"
+                    "20"
                 ],
                 "LOC": [
                     "Earth"
+                ],
+                "TIME": [
+                    "every 12 hours"
                 ]
             }
         },
@@ -9477,7 +9988,7 @@
                 "MONEY": [
                     "less than $1,000",
                     "more than $3,000/month",
-                    "75,000.</p",
+                    "75,000",
                     "more than $75,000",
                     "75,000",
                     "75,000",
@@ -9534,7 +10045,11 @@
                     "anomaly"
                 ],
                 "PERSON": [
-                    "James"
+                    "James",
+                    "Paradigm"
+                ],
+                "ORG": [
+                    "Value"
                 ],
                 "CARDINAL": [
                     "two",
@@ -9671,6 +10186,7 @@
                     "two months"
                 ],
                 "CARDINAL": [
+                    "three",
                     "One",
                     "one",
                     "fifty-eight"
@@ -9719,6 +10235,7 @@
             "entities": {
                 "DATE": [
                     "a given day",
+                    "each day",
                     "each year"
                 ],
                 "ORDINAL": [
@@ -9726,6 +10243,7 @@
                 ],
                 "CARDINAL": [
                     "around 100",
+                    "35,000",
                     "35,000",
                     "two",
                     "12,775,000"
@@ -9831,7 +10349,7 @@
                     "Switzerland"
                 ],
                 "PERSON": [
-                    "p>\u201cDaniel Kahneman"
+                    "Daniel Kahneman"
                 ],
                 "PERCENT": [
                     "51%",
@@ -9840,7 +10358,7 @@
                 "MONEY": [
                     "less than $1,000",
                     "more than $3,000/month",
-                    "75,000.</p",
+                    "75,000",
                     "more than $75,000",
                     "75,000",
                     "75,000",
@@ -9881,14 +10399,19 @@
             "title": "How To Avoid Financial Scams",
             "entities": {
                 "ORG": [
-                    "Avoid Financial Scams</p",
-                    "the Annals of Gullibility"
+                    "Avoid Financial Scams",
+                    "the Annals of Gullibility",
+                    "\u2022\tSocial",
+                    "\u2022\tCognition",
+                    "\u2022\tPersonality",
+                    "\u2022\tEmotion",
+                    "the Wall Street Journal"
                 ],
                 "PERSON": [
                     "Stephen Greenspan",
                     "Greenspan",
                     "Stephen Greenspan",
-                    "Bernie Madoff.</p",
+                    "Bernie Madoff",
                     "Greenspan",
                     "Madoff",
                     "Greenspan",
@@ -9896,8 +10419,7 @@
                     "Irvin Yalom"
                 ],
                 "FAC": [
-                    "the Trojan Horse",
-                    "the Wall Street Journal:</p>\n<p>\u201cIn"
+                    "the Trojan Horse"
                 ],
                 "GPE": [
                     "Iraq"
@@ -10024,9 +10546,6 @@
             "pubDate": "Mon, 28 Aug 2017 12:33:40 +0000",
             "title": "The Three Tests Of An Investable Idea",
             "entities": {
-                "PERSON": [
-                    "different&quot"
-                ],
                 "CARDINAL": [
                     "three"
                 ]

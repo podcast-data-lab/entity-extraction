@@ -37,14 +37,16 @@
                 "PERSON": [
                     "Miriam",
                     "Peter",
-                    "Miriam Tolan.</p",
                     "Radiotopia"
                 ],
                 "ORG": [
-                    "Peter Grosz &"
+                    "Peter Grosz & Miriam Tolan"
                 ],
                 "DATE": [
                     "annual"
+                ],
+                "CARDINAL": [
+                    "https://on.prx.org/3NMhYnj"
                 ]
             }
         },
@@ -83,6 +85,9 @@
                 ],
                 "DATE": [
                     "annual"
+                ],
+                "CARDINAL": [
+                    "https://on.prx.org/3NMhYnj"
                 ]
             }
         },
@@ -117,14 +122,19 @@
             "entities": {
                 "PERSON": [
                     "Charles",
-                    "Vinny Thomas"
+                    "Vinny Thomas",
+                    "Instagram @vinn_ayy"
+                ],
+                "PRODUCT": [
+                    "Twitter"
+                ],
+                "ORG": [
+                    "On Air Fest",
+                    "Zach Brown"
                 ],
                 "GPE": [
                     "Brooklyn",
                     "New York"
-                ],
-                "ORG": [
-                    "Zach Brown"
                 ]
             }
         },
@@ -158,11 +168,12 @@
             "title": "Jes, Baguette",
             "entities": {
                 "PERSON": [
-                    "Jes Tom",
+                    "Jes Tom"
+                ],
+                "NORP": [
                     "Twitter"
                 ],
                 "ORG": [
-                    "href=\"https://twitter.com",
                     "the New York Comedy Festival",
                     "the Bell House"
                 ],
@@ -206,9 +217,6 @@
                 "PERSON": [
                     "Ginny Hogan",
                     "Twitter"
-                ],
-                "ORG": [
-                    "href=\"https://twitter.com"
                 ]
             }
         },
@@ -351,7 +359,7 @@
             "title": "Sal, Sock",
             "entities": {
                 "PERSON": [
-                    "Sebastian Conelli"
+                    "Featuring Sebastian Conelli"
                 ]
             }
         },
@@ -397,7 +405,7 @@
                     "San Francisco"
                 ],
                 "PERSON": [
-                    "Larry"
+                    "Larry Owens"
                 ]
             }
         },
@@ -432,7 +440,7 @@
             "entities": {
                 "PERSON": [
                     "Michael",
-                    "Michael Kostroff.</p"
+                    "Michael Kostroff"
                 ]
             }
         },
@@ -464,7 +472,11 @@
             "link": "https://www.everythingisalive.com/episodes/anonymous-mousetrap",
             "pubDate": "Wed, 03 Nov 2021 16:18:23 -0000",
             "title": "Anonymous, Mousetrap",
-            "entities": {}
+            "entities": {
+                "PERSON": [
+                    "Mel Shimkovitz"
+                ]
+            }
         },
         {
             "author": "eiapodcast@gmail.com (Radiotopia)",
@@ -613,7 +625,8 @@
             "title": "Vinny, Vending Machine",
             "entities": {
                 "PERSON": [
-                    "Vinny Thomas"
+                    "Vinny Thomas",
+                    "Twitter"
                 ],
                 "WORK_OF_ART": [
                     "Vinny on Instagram"
@@ -688,10 +701,10 @@
                 "PERSON": [
                     "Adam",
                     "Adam",
-                    "Adam Burke.</p"
+                    "Adam Burke",
+                    "Radiotopia"
                 ],
                 "ORG": [
-                    "Radiotopia",
                     "Radiotopia"
                 ],
                 "EVENT": [
@@ -727,10 +740,8 @@
             "pubDate": "Wed, 19 Aug 2020 21:05:20 -0000",
             "title": "Martin, Paper Towel Dispenser",
             "entities": {
-                "ORG": [
-                    "Martin"
-                ],
                 "PERSON": [
+                    "Martin",
                     "Martin Morrow",
                     "Martin"
                 ],
@@ -810,7 +821,7 @@
             "entities": {
                 "PERSON": [
                     "Ian",
-                    "Lillian King.</p"
+                    "Lillian King"
                 ]
             }
         },
@@ -920,7 +931,7 @@
             "entities": {
                 "PERSON": [
                     "Eugene",
-                    "Eugene Cordero.</p"
+                    "Featuring Eugene Cordero"
                 ]
             }
         },
@@ -953,7 +964,7 @@
             "title": "Mirror, Mirror",
             "entities": {
                 "PERSON": [
-                    "Alex Song-Xia.</p"
+                    "Alex Song-Xia"
                 ]
             }
         },
@@ -987,7 +998,8 @@
             "entities": {
                 "PERSON": [
                     "William",
-                    "Alexandra Dickson"
+                    "Alexandra Dickson",
+                    "Connor Ratliff"
                 ]
             }
         },
@@ -1059,7 +1071,7 @@
                     "Tami",
                     "Ed",
                     "Tami Sagher",
-                    "Ed Herbstman.</p"
+                    "Ed Herbstman"
                 ]
             }
         },
@@ -1133,7 +1145,8 @@
                     "Radiotopia"
                 ],
                 "DATE": [
-                    "2019"
+                    "2019",
+                    "today"
                 ]
             }
         },
@@ -1228,7 +1241,7 @@
             "title": "Jennifer, Newspaper",
             "entities": {
                 "PERSON": [
-                    ">Jennifer"
+                    "Jennifer"
                 ],
                 "ORG": [
                     "The Canberra Times"
@@ -1268,6 +1281,9 @@
             "entities": {
                 "WORK_OF_ART": [
                     "Chioke, Grain of Sand"
+                ],
+                "PERSON": [
+                    "Chioke"
                 ]
             }
         },
@@ -1595,11 +1611,7 @@
             "link": "https://www.everythingisalive.com/",
             "pubDate": "Tue, 30 Oct 2018 05:00:37 -0000",
             "title": "Annie, Jack o' Lantern",
-            "entities": {
-                "PERSON": [
-                    "Annie"
-                ]
-            }
+            "entities": {}
         },
         {
             "author": "eiapodcast@gmail.com (Radiotopia)",

@@ -44,8 +44,10 @@
                     "Maitreyi Sistla",
                     "InfoSec"
                 ],
+                "GPE": [
+                    "Wietse Venema"
+                ],
                 "PERSON": [
-                    "Venema",
                     "Mary Chaney"
                 ]
             }
@@ -126,10 +128,10 @@
             "title": "Ruthless Ransomers",
             "entities": {
                 "ORG": [
-                    "Ransomware"
+                    "Ransomware",
+                    "Eddy Willems"
                 ],
                 "PERSON": [
-                    "Eddy Willems",
                     "Moti Yung",
                     "Sheila Warren"
                 ],
@@ -169,7 +171,7 @@
             "title": "Menace in the Middle",
             "entities": {
                 "PERSON": [
-                    "Bhatt",
+                    "Smriti Bhatt",
                     "Taher Elgamal"
                 ],
                 "ORG": [
@@ -295,7 +297,7 @@
                     "every day"
                 ],
                 "PERSON": [
-                    "Weisman",
+                    "Steve Weisman",
                     "Josephine Wolff",
                     "Yanick Franantonio",
                     "trojan"
@@ -374,13 +376,14 @@
             "pubDate": "Tue, 8 Feb 2022 08:05:00 +0000",
             "title": "Command Line Heroes Season 9: The Horrors of Malware",
             "entities": {
+                "ORG": [
+                    "Malware"
+                ],
                 "PERSON": [
                     "trojan"
                 ],
-                "CARDINAL": [
-                    "9"
-                ],
                 "DATE": [
+                    "Season 9",
                     "every day",
                     "February 22, 2022",
                     "today"
@@ -559,10 +562,8 @@
                 "DATE": [
                     "years"
                 ],
-                "PRODUCT": [
-                    "Lockey"
-                ],
                 "PERSON": [
+                    "Tilly Lockey",
                     "Brian Schulz",
                     "Tyler Hayes",
                     "Charlie Kemp",
@@ -603,6 +604,7 @@
             "title": "From Compiler: Do We Want A World Without Technical Debt?",
             "entities": {
                 "ORG": [
+                    "Compiler",
                     "Compiler"
                 ]
             }
@@ -638,7 +640,7 @@
             "title": "Robot as Humanoid",
             "entities": {
                 "PERSON": [
-                    "Sugano",
+                    "Shigeki Sugano",
                     "Evan Ackerman",
                     "Deanna Dezern"
                 ]
@@ -693,7 +695,7 @@
                     "Paul Shoup"
                 ],
                 "PERSON": [
-                    "Spicer",
+                    "Dag Spicer",
                     "Joe Campbell"
                 ],
                 "NORP": [
@@ -734,13 +736,14 @@
             "pubDate": "Tue, 21 Sep 2021 07:05:00 +0000",
             "title": "Robot as Software",
             "entities": {
-                "ORG": [
-                    "DARPA"
-                ],
                 "PERSON": [
+                    "Kevin Knoedler",
                     "Evan Ackerman",
                     "Louise Poubel",
                     "Timothy Chung"
+                ],
+                "ORG": [
+                    "DARPA"
                 ]
             }
         },
@@ -779,6 +782,7 @@
                     "40 years later"
                 ],
                 "PERSON": [
+                    "Richard Rowland",
                     "Androbot",
                     "Monroe Kennedy III",
                     "Keenan Wyrobek",
@@ -823,16 +827,15 @@
             "pubDate": "Tue, 24 Aug 2021 07:05:00 +0000",
             "title": "Command Line Heroes Season 8: Broadcasting the Robot Revolution",
             "entities": {
-                "CARDINAL": [
-                    "8"
+                "DATE": [
+                    "Season 8",
+                    "Season 8",
+                    "September 7, 2021",
+                    "today"
                 ],
                 "ORDINAL": [
                     "first",
                     "first"
-                ],
-                "DATE": [
-                    "Season 8",
-                    "September 7, 2021"
                 ]
             }
         },
@@ -921,13 +924,22 @@
             "pubDate": "Tue, 15 Jun 2021 07:05:00 +0000",
             "title": "The World of the World Wide Web",
             "entities": {
-                "EVENT": [
-                    "World Wide Web"
-                ],
                 "DATE": [
+                    "1995",
                     "those early years",
                     "years",
                     "1995"
+                ],
+                "EVENT": [
+                    "World Wide Web"
+                ],
+                "PERSON": [
+                    "Julien Mailland",
+                    "Steve Goldstein",
+                    "Gianluigi Negro",
+                    "Christian O'Flaherty",
+                    "Hu",
+                    "Richard Seltzer"
                 ],
                 "GPE": [
                     "France",
@@ -938,16 +950,13 @@
                 ],
                 "ORG": [
                     "Minitel",
-                    "NSFNET",
-                    "Clip"
+                    "NSFNET"
                 ],
-                "PERSON": [
-                    "Steve Goldstein",
-                    "Gianluigi Negro",
-                    "Christian O'Flaherty",
-                    "Hu",
-                    "target=\"_blank\">A Glimpse",
-                    "Richard Seltzer"
+                "LOC": [
+                    "Asia"
+                ],
+                "WORK_OF_ART": [
+                    "'A Glimpse of the Future"
                 ]
             }
         },
@@ -994,6 +1003,7 @@
                     "the World Wide Web"
                 ],
                 "PERSON": [
+                    "Elizabeth Van Couvering",
                     "Louis Monier",
                     "Paul Cormier",
                     "Richard Seltzer"
@@ -1040,7 +1050,7 @@
                     "first"
                 ],
                 "PERSON": [
-                    "Spector",
+                    "Robert Spector",
                     "Angela Robinson",
                     "Kartik Shastri",
                     "Katie Wilson"
@@ -1130,7 +1140,6 @@
             "entities": {
                 "ORG": [
                     "The Hypertext Markup Language",
-                    "web.<br",
                     "HTML"
                 ],
                 "WORK_OF_ART": [
@@ -1185,26 +1194,28 @@
             "title": "From NSF to ISP",
             "entities": {
                 "DATE": [
+                    "1995",
                     "the year"
                 ],
                 "ORG": [
                     "ARPANET",
-                    "the University of Michigan.<br",
+                    "the University of Michigan",
                     "the University of Michigan",
                     "MERIT",
                     "T3"
                 ],
-                "PRODUCT": [
-                    "ARPANET"
-                ],
                 "PERSON": [
+                    "Marc Weber",
                     "Douglas Van Houweling",
                     "Elise Gerich",
                     "Janet Abbate"
                 ],
+                "PRODUCT": [
+                    "ARPANET"
+                ],
                 "CARDINAL": [
                     "T1",
-                    "1995.</p><p"
+                    "1995.If"
                 ]
             }
         },
@@ -1332,11 +1343,13 @@
             "title": "Arlan Hamilton: The Investor Who's Opening Doors",
             "entities": {
                 "PERSON": [
+                    "Arlan Hamilton",
                     "Arlan Hamilton\u2019s",
-                    "Omadeke</a",
+                    "Janice Omadeke",
                     "VC",
+                    "Ortega",
                     "VC",
-                    "target=\"_blank\">Scott Myers-Lipton</a",
+                    "Scott Myers-Lipton",
                     "Arlan Hamilton"
                 ],
                 "DATE": [
@@ -1348,8 +1361,8 @@
                 "GPE": [
                     "Arlan"
                 ],
-                "ORDINAL": [
-                    "First"
+                "ORG": [
+                    "Backstage Capital"
                 ]
             }
         },
@@ -1383,6 +1396,17 @@
             "pubDate": "Tue, 5 Jan 2021 05:30:00 +0000",
             "title": "Gladys Perkins: The Pioneer Who Took Us To New Heights",
             "entities": {
+                "PERSON": [
+                    "Gladys Perkins",
+                    "Andrew Chaikin",
+                    "Ranger",
+                    "Erik Conway",
+                    "Gladys Perkins",
+                    "Kim Huang",
+                    "Vahe Peroomian",
+                    "Gladys Perkins",
+                    "Gladys Perkins"
+                ],
                 "GPE": [
                     "the United States"
                 ],
@@ -1396,13 +1420,6 @@
                     "NASA",
                     "NASA",
                     "Hughes Aircraft"
-                ],
-                "PERSON": [
-                    "Ranger",
-                    "Gladys Perkins",
-                    "Kim Huang",
-                    "Gladys Perkins",
-                    "Gladys Perkins"
                 ]
             }
         },
@@ -1436,27 +1453,23 @@
             "pubDate": "Tue, 22 Dec 2020 05:30:00 +0000",
             "title": "Roy Clay: The Entrepreneur Who Transformed an Industry",
             "entities": {
-                "CARDINAL": [
-                    "target=\"_blank\">Roy",
-                    "16"
-                ],
                 "PERSON": [
                     "Roy Clay",
                     "Roy Clay",
-                    "target=\"_blank\">Chuck House</a",
+                    "Kathy Cotton",
+                    "Roy Clay",
+                    "Chuck House",
+                    "Bill Davidow",
                     "Clay",
+                    "Ken Coleman",
                     "Chuck House",
                     "Roy Clay",
                     "Kathy Cotton",
                     "Roy Clay",
-                    "Roy",
+                    "Roy Clay",
                     "Barbara Canon",
-                    "McKnight.</p><p",
+                    "McKnight",
                     "Roy Clay"
-                ],
-                "FAC": [
-                    "the process.</p><p><a href=\"https://www.kathycottondigitalstoryteller.com/",
-                    "Table"
                 ],
                 "PRODUCT": [
                     "Clay",
@@ -1464,8 +1477,13 @@
                     "Clay"
                 ],
                 "ORG": [
-                    "Hewlett and Packard",
-                    "href=\"https://vimeo.com"
+                    "Hewlett and Packard"
+                ],
+                "CARDINAL": [
+                    "16"
+                ],
+                "WORK_OF_ART": [
+                    "A Place at the Table"
                 ]
             }
         },
@@ -1499,26 +1517,30 @@
             "pubDate": "Tue, 8 Dec 2020 05:30:00 +0000",
             "title": "Dr. Clarence Ellis: The Developer Who Helped Us Collaborate",
             "entities": {
-                "DATE": [
-                    "ellis-1943-2014",
-                    "every day"
-                ],
-                "PRODUCT": [
-                    "target=\"_blank\">Dr"
-                ],
                 "PERSON": [
-                    "Demos",
                     "Clarence Ellis",
+                    "Demos",
+                    "Gary Nutt",
+                    "Clarence Ellis",
+                    "Chengzheng Sun",
+                    "Paul Curzon",
                     "Ellis",
                     "Chengzheng Sun",
                     "Clarence Ellis"
+                ],
+                "CARDINAL": [
+                    "Martez"
                 ],
                 "ORG": [
                     "Xerox",
                     "Operational Transformation",
                     "Delilah DeMers",
                     "SRI International",
-                    "Operational Transformation"
+                    "Operational Transformation",
+                    "FAQ"
+                ],
+                "DATE": [
+                    "every day"
                 ]
             }
         },
@@ -1552,18 +1574,16 @@
             "pubDate": "Tue, 24 Nov 2020 05:30:00 +0000",
             "title": "Dr. Marc Hannah: The Computer Scientist Who Brought Worlds to Life",
             "entities": {
-                "GPE": [
-                    "href=\"https://id.iit.edu",
-                    "Jurassic Park",
-                    "Jurassic Park"
-                ],
                 "PERSON": [
-                    "Marc Hannah</a",
+                    "Marc Hannah",
+                    "Raqi Syed",
                     "Mark Grossman",
                     "Tom Davis",
+                    "Steve",
                     "Williams",
                     "Camille Cellucci",
                     "Mark Grossman",
+                    "Steve",
                     "Williams",
                     "Marc Hannah"
                 ],
@@ -1576,6 +1596,10 @@
                 ],
                 "WORK_OF_ART": [
                     "Spaz"
+                ],
+                "GPE": [
+                    "Jurassic Park",
+                    "Jurassic Park"
                 ]
             }
         },
@@ -1610,12 +1634,13 @@
             "title": "Mark Dean: The Inventor Who Made the Computer Personal",
             "entities": {
                 "PERSON": [
-                    "Mark Dean</a",
-                    "Bradley",
+                    "Mark Dean",
+                    "David Bradley",
+                    "Tony",
                     "Pete Martinez",
                     "Dennis Moeller",
                     "Mark",
-                    "Dean",
+                    "Mark Dean",
                     "Mwamba Bowa",
                     "Mark Dean",
                     "Susan",
@@ -1627,7 +1652,7 @@
                     "their days",
                     "under a year",
                     "November 2009",
-                    "August 2019.<br"
+                    "August 2019.If"
                 ],
                 "ORG": [
                     "IBM",
@@ -1638,7 +1663,9 @@
                     "IBM",
                     "ISA",
                     "the University of Tennessee",
-                    "Comcast Cable"
+                    "Principal of Sage Leadership Strategies",
+                    "Comcast Cable",
+                    "the American Museum of Science & Energy"
                 ],
                 "CARDINAL": [
                     "3",
@@ -1682,13 +1709,16 @@
             "entities": {
                 "PERSON": [
                     "Aristotle",
+                    "Gladys West",
                     "Marvin Jackson",
+                    "Gavin Schrock",
                     "West",
+                    "Paul Ceruzzi",
                     "Dahlgren",
                     "West",
+                    "Todd Humphreys",
                     "Gwen James",
                     "West",
-                    "Kappa Alpha",
                     "Gladys West"
                 ],
                 "PRODUCT": [
@@ -1699,7 +1729,8 @@
                 ],
                 "ORG": [
                     "GPS",
-                    "GPS"
+                    "GPS",
+                    "Alpha Kappa Alpha Sorority"
                 ]
             }
         },
@@ -1735,26 +1766,28 @@
             "entities": {
                 "PERSON": [
                     "Jerry Lawson",
+                    "Jenny List",
                     "Jerry Lawson",
+                    "Benj Edwards",
+                    "Lawson",
+                    "Pong creator Al Alcorn",
+                    "Lawson",
+                    "Jeremy Saucier",
                     "Lawson",
                     "Lawson",
-                    "Lawson",
-                    "Lawson",
+                    "Joseph Saulter",
                     "John William Templeton",
+                    "Anderson",
                     "Karen Lawson",
                     "Jerry",
-                    "Jerry Lawson",
-                    "jerry-lawson\">redhat.com"
+                    "Jerry Lawson"
                 ],
                 "CARDINAL": [
                     "one"
                 ],
                 "ORG": [
-                    "href=\"https://twitter.com",
-                    "Edwards</a",
                     "FCC",
                     "Lawson\u2019s Fairchild Channel F",
-                    "href=\"https://twitter.com",
                     "the Games Developer\u2019s Conference"
                 ]
             }
@@ -1828,6 +1861,9 @@
             "pubDate": "Tue, 11 Aug 2020 04:30:19 +0000",
             "title": "What Kind Of Coder Will You Become?",
             "entities": {
+                "CARDINAL": [
+                    "10x"
+                ],
                 "PERSON": [
                     "Coder",
                     "Saron",
@@ -1885,7 +1921,9 @@
                 "PERSON": [
                     "Saron Yitbarek",
                     "Clive Thompson",
-                    "Allen Wilkes</a",
+                    "Mary Allen Wilkes",
+                    "David Heinemeier Hansson",
+                    "Dave West",
                     "Maude Mensah Simpson"
                 ],
                 "ORDINAL": [
@@ -1923,8 +1961,12 @@
             "pubDate": "Tue, 14 Jul 2020 04:59:26 +0000",
             "title": "Becoming a Coder",
             "entities": {
+                "ORG": [
+                    "Command"
+                ],
                 "PERSON": [
-                    "Saron Yitbarek</a"
+                    "Saron Yitbarek",
+                    "Clive Thompson"
                 ],
                 "DATE": [
                     "the season"
@@ -1965,7 +2007,10 @@
                     "Season 5",
                     "July 14, 2020",
                     "today",
-                    "seasons 1-4.</p"
+                    "seasons 1-4"
+                ],
+                "PERSON": [
+                    "Clive Thompson"
                 ],
                 "CARDINAL": [
                     "3",
@@ -2060,26 +2105,28 @@
             "entities": {
                 "PERSON": [
                     "Dreamcast",
+                    "Dreamcast",
                     "Sega",
                     "Sega",
-                    "andrew-borman\">Andrew Borman</a",
+                    "Andrew Borman",
+                    "Jeremy Parish",
                     "Sega",
                     "Mineko Okamura",
+                    "Dreamcast",
+                    "Brian Bacino",
                     "Sega",
+                    "Luke Benstead",
                     "Slight",
                     "Dreamcast"
-                ],
-                "ORG": [
-                    "Dreamcast",
-                    "Dreamcast",
-                    "href=\"https://bakerstreetsf.com",
-                    "Bacino</a"
                 ],
                 "PRODUCT": [
                     "Saturn"
                 ],
                 "CARDINAL": [
                     "two"
+                ],
+                "ORG": [
+                    "Dreamcast"
                 ],
                 "GPE": [
                     "U.S.",
@@ -2116,7 +2163,15 @@
             "link": "https://www.redhat.com/en/command-line-heroes?sc_id=7013a000002DL6EAAW",
             "pubDate": "Tue, 7 Apr 2020 05:15:03 +0000",
             "title": "Open Source Hardware: Makers Unite",
-            "entities": {}
+            "entities": {
+                "PRODUCT": [
+                    "Hardware"
+                ],
+                "PERSON": [
+                    "Alicia Gibb",
+                    "Limor Fried"
+                ]
+            }
         },
         {
             "author": "info@pacific-content.com (Red Hat)",
@@ -2153,9 +2208,6 @@
                 ],
                 "ORG": [
                     "Palm"
-                ],
-                "GPE": [
-                    "You\u2019ll"
                 ]
             }
         },
@@ -2245,12 +2297,15 @@
             "entities": {
                 "PERSON": [
                     "Altair",
+                    "Forrest Mims",
                     "Ed Roberts",
                     "Bill Gates",
                     "Paul Allen",
                     "Dan Sokol",
+                    "Lee Felsenstein",
                     "Steve Wozniak\u2019s",
-                    "john-markoff\">John Markoff</a"
+                    "John Markoff",
+                    "Limor Fried"
                 ],
                 "DATE": [
                     "today",
@@ -2299,9 +2354,7 @@
                     "General Electric\u2019s",
                     "GE",
                     "GE",
-                    "href=\"https://merage.uci.edu",
                     "GE",
-                    "href=\"https://twitter.com",
                     "GE",
                     "Dartmouth College",
                     "GE"
@@ -2316,9 +2369,10 @@
                     "today"
                 ],
                 "PERSON": [
-                    "ocasio_william.aspx\">William Ocasio</a",
-                    "John-Joseph.html\">John Joseph</a",
-                    "Kellner</a"
+                    "William Ocasio",
+                    "John Joseph",
+                    "Tomas Kellner",
+                    "Joy Lisi Rankin"
                 ]
             }
         },
@@ -2356,23 +2410,23 @@
                     "their day",
                     "the 1970s"
                 ],
-                "CARDINAL": [
-                    "32",
-                    "One",
-                    "three"
+                "QUANTITY": [
+                    "32-bit",
+                    "32-bit"
                 ],
                 "PERSON": [
                     "Carl Alsing",
                     "Jim Guyer",
                     "Neal Firth",
-                    "Tracy Kidder.</p><p"
+                    "Tracy Kidder"
                 ],
                 "ORG": [
                     "Data General",
                     "Eagle"
                 ],
-                "QUANTITY": [
-                    "32-bit"
+                "CARDINAL": [
+                    "One",
+                    "three"
                 ],
                 "WORK_OF_ART": [
                     "The Soul of a New Machine"
@@ -2459,8 +2513,6 @@
                     "UNIX",
                     "Bell Labs",
                     "Bell Labs",
-                    "href=\"https://twitter.com",
-                    "href=\"https://twitter.com",
                     "Bell Labs",
                     "UNIX",
                     "UNIX"
@@ -2474,10 +2526,9 @@
                     "Season 3"
                 ],
                 "PERSON": [
-                    "Gertner",
-                    "Joy Lisi",
-                    "Andrew Tanenbaum",
-                    "Season 4.</p"
+                    "Jon Gertner",
+                    "Joy Lisi Rankin",
+                    "Andrew Tanenbaum"
                 ],
                 "CARDINAL": [
                     "One"
@@ -2486,11 +2537,11 @@
                     "Multics",
                     "Multics"
                 ],
-                "GPE": [
-                    "You\u2019ll"
-                ],
                 "ORDINAL": [
                     "first"
+                ],
+                "EVENT": [
+                    "Season 4"
                 ]
             }
         },
@@ -2531,9 +2582,11 @@
                 ],
                 "PERSON": [
                     "John McCarthy",
+                    "Colin Garvey",
                     "McCarthy",
                     "Sam Williams",
-                    "Thomas</a"
+                    "Chris Nicholson",
+                    "Rachel Thomas"
                 ],
                 "ORDINAL": [
                     "first"
@@ -2542,11 +2595,8 @@
                     "AI",
                     "Ulrich Drepper",
                     "AI",
-                    "href=\"https://twitter.com/chrisvnicholson?lang",
-                    "Nicholson</a",
                     "AI",
                     "AI",
-                    "href=\"https://twitter.com",
                     "AI",
                     "AI"
                 ]
@@ -2582,13 +2632,19 @@
             "pubDate": "Tue, 3 Sep 2019 07:05:02 +0000",
             "title": "Heroes in a Bash Shell",
             "entities": {
-                "NORP": [
-                    "Software"
+                "ORG": [
+                    "the Free Software Foundation",
+                    "Bell Labs",
+                    "Bell",
+                    "UNIX",
+                    "UNIX",
+                    "the Free Software Foundation"
                 ],
                 "PERSON": [
                     "Brian Fox",
-                    "Ramey</a",
-                    "Brian J. Fox"
+                    "Chet Ramey",
+                    "Brian J. Fox",
+                    "Taz Brown"
                 ],
                 "GPE": [
                     "Bash",
@@ -2601,13 +2657,6 @@
                 "DATE": [
                     "the \u201870s",
                     "this season"
-                ],
-                "ORG": [
-                    "Bell Labs",
-                    "Bell",
-                    "UNIX",
-                    "UNIX",
-                    "the Free Software Foundation"
                 ],
                 "CARDINAL": [
                     "only one"
@@ -2655,18 +2704,19 @@
                     "billions",
                     "one"
                 ],
-                "ORG": [
-                    "href=\"https://twitter.com",
-                    "href=\"https://twitter.com/RitikaTrikha?ref_src",
-                    "href=\"https://twitter.com",
-                    "Carmen Hern\u00e1ndez Andoh",
-                    "ASCII"
-                ],
                 "PERSON": [
-                    "en\">Chris",
+                    "Chris Short",
+                    "Carmen Hern\u00e1ndez Andoh",
                     "Twitter",
                     "Rob",
-                    "Bob_Bemer\">Bob Bremer</a"
+                    "Bob Bremer"
+                ],
+                "ORG": [
+                    "Ritika Trikha",
+                    "Kelsey Hightower",
+                    "Carmen Hern\u00e1ndez Andoh",
+                    "ASCII",
+                    "ASCII"
                 ]
             }
         },
@@ -2705,11 +2755,16 @@
                     "Perl",
                     "Perl",
                     "Perl",
-                    "Perl"
+                    "Perl",
+                    "Accidental Tech Podcast, Reconcilable Differences"
                 ],
                 "PERSON": [
-                    "Bursell</a",
-                    "Myhrvold</a"
+                    "Michael Stevenson",
+                    "Mike Bursell",
+                    "Myhrvold",
+                    "Elizabeth Mattijsen",
+                    "John Siracusa",
+                    "Guest John Siracusa"
                 ],
                 "CARDINAL": [
                     "more than one",
@@ -2753,32 +2808,27 @@
                 "DATE": [
                     "its early days",
                     "10 days",
-                    "2 of Season",
-                    "those 10 days"
+                    "about those 10 days"
                 ],
                 "PRODUCT": [
                     "JavaScript",
                     "JavaScript"
                 ],
+                "PERSON": [
+                    "Charles Severance",
+                    "Michael Clayton",
+                    "Klint Finley",
+                    "Brendan"
+                ],
                 "ORG": [
-                    "href=\"https://twitter.com",
-                    "href=\"https://twitter.com",
                     "JavaScript",
-                    "href=\"https://twitter.com",
                     "JavaScript",
-                    "JavaScript"
+                    "JavaScript",
+                    "Episode 2 of Season 2",
+                    "DevChat"
                 ],
                 "TIME": [
                     "last-minute"
-                ],
-                "PERSON": [
-                    "mwcz\">Michael Clayton</a"
-                ],
-                "ORDINAL": [
-                    "first"
-                ],
-                "GPE": [
-                    "more</em"
                 ]
             }
         },
@@ -2818,12 +2868,25 @@
                 "DATE": [
                     "1965"
                 ],
+                "GPE": [
+                    "Beginner",
+                    "Beginner"
+                ],
+                "PERSON": [
+                    "Tom Cormen",
+                    "Denise Dumas",
+                    "Avi Flombaum"
+                ],
                 "ORG": [
-                    "Saron"
+                    "Saron",
+                    "Opensource.com"
                 ],
                 "ORDINAL": [
                     "first",
                     "first"
+                ],
+                "FAC": [
+                    "Femi Owolade-Coombes and Robyn Bergeron"
                 ]
             }
         },
@@ -2859,8 +2922,9 @@
             "entities": {
                 "PERSON": [
                     "Guido van Rossum",
-                    "en\">Michael Kennedy</a",
-                    "Mueller</a",
+                    "Emily Morehouse",
+                    "Michael Kennedy",
+                    "Diane Mueller",
                     "Michael Kennedy",
                     "Guido van Rossum"
                 ],
@@ -2868,14 +2932,15 @@
                     "Transfer of Power"
                 ],
                 "ORG": [
-                    "href=\"https://twitter.com",
-                    "href=\"https://twitter.com",
                     "YouTube",
-                    "href=\"https://twitter.com",
-                    "History Museum"
+                    "Python Bytes",
+                    "a Computer History Museum"
                 ],
                 "GPE": [
                     "Instagram"
+                ],
+                "PRODUCT": [
+                    "Learn"
                 ]
             }
         },
@@ -2908,7 +2973,11 @@
             "pubDate": "Tue, 11 Jun 2019 07:05:03 +0000",
             "title": "Introducing Season 3 of Command Line Heroes",
             "entities": {
+                "PERSON": [
+                    "Command Line"
+                ],
                 "DATE": [
+                    "Season 3",
                     "Season 3",
                     "June 25",
                     "today",
@@ -2919,9 +2988,6 @@
                 ],
                 "WORK_OF_ART": [
                     "Hello, World"
-                ],
-                "PERSON": [
-                    "Season 3.</p"
                 ],
                 "ORDINAL": [
                     "first"
@@ -2958,26 +3024,27 @@
             "pubDate": "Tue, 18 Dec 2018 08:01:00 +0000",
             "title": "Open Curiosity: NASA, Mars, and Beyond",
             "entities": {
+                "LOC": [
+                    "Mars",
+                    "Mars"
+                ],
+                "DATE": [
+                    "Season 2",
+                    "the end of Season 2",
+                    "this season"
+                ],
                 "ORG": [
-                    "Mars.</p",
                     "NASA",
                     "Jet Propulsion Laboratory",
                     "JPL",
                     "NASA",
                     "NASA"
                 ],
-                "DATE": [
-                    "Season 2",
-                    "the end of Season 2"
-                ],
                 "PERSON": [
                     "Tom Soderstrom",
                     "JPL",
                     "Hila Lifshitz-Assaf",
                     "Dan Wachspress"
-                ],
-                "LOC": [
-                    "Mars"
                 ]
             }
         },
@@ -3019,17 +3086,17 @@
                     "Robyn Bergeron",
                     "Season 3"
                 ],
+                "DATE": [
+                    "2019",
+                    "this spring",
+                    "Season 1 and 2"
+                ],
                 "CARDINAL": [
-                    "2019.</p",
                     "one",
                     "one"
                 ],
                 "ORDINAL": [
                     "first"
-                ],
-                "DATE": [
-                    "this spring",
-                    "Season 1 and 2"
                 ],
                 "PERCENT": [
                     "100%"
@@ -3066,14 +3133,16 @@
             "pubDate": "Tue, 4 Dec 2018 08:05:00 +0000",
             "title": "At Your Serverless: Development Empowerment with Control",
             "entities": {
+                "PRODUCT": [
+                    "Serverless",
+                    "Apache OpenWhisk",
+                    "Serverless"
+                ],
                 "PERSON": [
                     "Andrea Passwater",
                     "Rodric Rabbah",
                     "Himanshu Pant",
                     "Command Line"
-                ],
-                "PRODUCT": [
-                    "Apache OpenWhisk"
                 ],
                 "DATE": [
                     "this season"
@@ -3203,16 +3272,13 @@
             "pubDate": "Tue, 23 Oct 2018 07:01:00 +0000",
             "title": "Fail Better: Embracing Failure",
             "entities": {
-                "ORG": [
-                    "href=\"https://twitter.com",
-                    "Google",
-                    "href=\"https://twitter.com"
-                ],
                 "PERSON": [
-                    "twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor\">Jennifer Petoff</a"
+                    "Jennifer Petoff",
+                    "Jessica"
                 ],
-                "GPE": [
-                    "twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor\">Jessica Rudder</a"
+                "ORG": [
+                    "Google",
+                    "Jen Krieger"
                 ]
             }
         },
@@ -3300,11 +3366,12 @@
                     "Rear Admiral Grace Hopper",
                     "the Python Software Foundation",
                     "The New York Times Magazine and Wired",
-                    "href=\"https://github.com",
                     "GitHub"
                 ],
                 "PERSON": [
                     "Carol Willing",
+                    "Project Jupyter",
+                    "Clive Thompson",
                     "Command Line"
                 ]
             }
@@ -3343,11 +3410,11 @@
                     "ARPANET"
                 ],
                 "PERSON": [
-                    "Command Line",
-                    "Easter egg.</p>"
+                    "Command Line"
                 ],
                 "ORG": [
-                    "href=\"https://github.com"
+                    "GitHub",
+                    "Apple Podcasts"
                 ]
             }
         },
@@ -3384,8 +3451,11 @@
                 "DATE": [
                     "Season 2"
                 ],
-                "PERSON": [
-                    "Podcasts</a"
+                "ORG": [
+                    "Episode 1",
+                    "Apple Podcasts",
+                    "Google Podcasts",
+                    "Drop"
                 ]
             }
         },
@@ -3420,12 +3490,16 @@
             "title": "Days of Future_Open",
             "entities": {
                 "DATE": [
+                    "today",
                     "Season 1",
                     "Next season",
                     "today"
                 ],
                 "CARDINAL": [
                     "almost 30,000"
+                ],
+                "ORG": [
+                    "Apple Podcasts"
                 ]
             }
         },
@@ -3460,10 +3534,12 @@
             "title": "Crack the Cloud_Open",
             "entities": {
                 "PERSON": [
-                    "Hayden</a"
+                    "Hayden",
+                    "Bridget Kromhout"
                 ],
                 "ORG": [
-                    "Microsoft"
+                    "Microsoft",
+                    "Apple Podcasts"
                 ]
             }
         },
@@ -3499,13 +3575,16 @@
             "entities": {
                 "ORG": [
                     "Container",
-                    "href=\"https://twitter.com",
-                    "Google"
+                    "Kelsey Hightower",
+                    "Google",
+                    "Apple Podcasts",
+                    "Drop"
                 ],
                 "CARDINAL": [
                     "one"
                 ],
                 "PERSON": [
+                    "Laura Frank",
                     "Docker Captain"
                 ]
             }
@@ -3546,11 +3625,16 @@
                     "DevOps",
                     "DevOps",
                     "DevOps",
-                    "href=\"https://enterprisersproject.com"
+                    "DevOps"
                 ],
                 "PERSON": [
+                    "Scott Hanselman",
+                    "Cindy Sridharan",
                     "Cindy Sridharan",
                     "Gordon Haff's"
+                ],
+                "DATE": [
+                    "tomorrow"
                 ]
             }
         },
@@ -3590,14 +3674,22 @@
                 "GPE": [
                     "Utah"
                 ],
+                "PERSON": [
+                    "Dave Thomas"
+                ],
                 "CARDINAL": [
                     "one"
                 ],
                 "ORG": [
-                    "the Manifesto for Agile Software Development"
+                    "the Manifesto for Agile Software Development",
+                    "Apple Podcasts",
+                    "Drop"
                 ],
                 "ORDINAL": [
                     "first"
+                ],
+                "WORK_OF_ART": [
+                    "Read Ruha Devanesan's"
                 ]
             }
         },
@@ -3634,19 +3726,25 @@
                 "DATE": [
                     "the 1990s"
                 ],
+                "ORG": [
+                    "Microsoft",
+                    "Microsoft",
+                    "Apple Podcasts",
+                    "Drop"
+                ],
                 "PERCENT": [
                     "90%"
                 ],
-                "ORG": [
-                    "href=\"https://twitter.com",
-                    "Microsoft",
-                    "href=\"https://twitter.com"
-                ],
-                "GPE": [
-                    "O.S."
-                ],
                 "PERSON": [
+                    "Linus Torvalds",
+                    "Steven Vaughan-Nichols",
                     "Jon"
+                ],
+                "FAC": [
+                    "Linux O.S."
+                ],
+                "LOC": [
+                    "Acclaimed"
                 ]
             }
         },
@@ -3684,22 +3782,26 @@
                     "The 1980s",
                     "decades"
                 ],
-                "ORG": [
-                    "href=\"https://twitter.com",
-                    "Gates",
-                    "Emperors",
-                    "href=\"https://twitter.com",
-                    "Macintosh",
-                    "href=\"https://twitter.com/StevenLevy?ref_src"
-                ],
                 "PERSON": [
-                    "billgates\">Bill Gates</a",
+                    "Bill Gates",
                     "Steve Jobs",
-                    "en\">Andy Hertzfeld</a"
+                    "Andy Hertzfeld",
+                    "Steven Levy"
                 ],
                 "CARDINAL": [
                     "one",
                     "millions"
+                ],
+                "ORG": [
+                    "Gates",
+                    "IBM",
+                    "Emperors",
+                    "Macintosh",
+                    "Apple Podcasts",
+                    "Drop"
+                ],
+                "PRODUCT": [
+                    "Veterans"
                 ]
             }
         },

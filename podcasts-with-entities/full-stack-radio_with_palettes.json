@@ -38,23 +38,29 @@
             "pubDate": "Thu, 28 Jan 2021 15:12:13 +0000",
             "title": "152: Ben Orenstein - How to Stand Out When Applying for a Job at a Small Company",
             "entities": {
-                "NORP": [
-                    "application</li"
+                "GPE": [
+                    "Showcasing"
                 ],
                 "PERSON": [
-                    "you</li",
+                    "Sharing",
+                    "Ben",
+                    "Tailwind Labs",
+                    "Tailwind UI",
                     "Steve Schoger",
                     "Vue"
                 ],
-                "ORG": [
-                    "href=\"https://twitter.com",
-                    "TDD"
+                "PRODUCT": [
+                    "Twitter"
                 ],
                 "CARDINAL": [
                     "one"
                 ],
-                "GPE": [
-                    "Tailwind CSS.</li"
+                "ORG": [
+                    "Tailwind CSS",
+                    "Refactoring UI",
+                    "Advanced Vue Component Design",
+                    "Test-Driven Laravel",
+                    "TDD"
                 ]
             }
         },
@@ -90,14 +96,16 @@
                 "CARDINAL": [
                     "one"
                 ],
-                "GPE": [
-                    "Tailwind CSS.</li"
-                ],
                 "PERSON": [
+                    "Tailwind UI",
                     "Steve Schoger",
                     "Vue"
                 ],
                 "ORG": [
+                    "Tailwind CSS",
+                    "Refactoring UI",
+                    "Advanced Vue Component Design",
+                    "Test-Driven Laravel",
                     "TDD"
                 ]
             }
@@ -131,20 +139,22 @@
             "pubDate": "Wed, 21 Oct 2020 17:32:03 +0000",
             "title": "150: Secret Screencasting Tips & Behind the Scenes of Tailwind CSS 2.0",
             "entities": {
-                "GPE": [
-                    "Tailwind CSS.</li"
-                ],
-                "CARDINAL": [
-                    "3</a"
-                ],
                 "PERSON": [
+                    "Tailwind UI",
                     "Jack",
                     "Steve Schoger",
                     "Vue"
                 ],
                 "ORG": [
+                    "Tailwind CSS",
                     "CMS",
+                    "Refactoring UI",
+                    "Advanced Vue Component Design",
+                    "Test-Driven Laravel",
                     "TDD"
+                ],
+                "CARDINAL": [
+                    "3"
                 ]
             }
         },
@@ -177,23 +187,24 @@
             "pubDate": "Wed, 07 Oct 2020 15:42:41 +0000",
             "title": "149: Choosing a Payment Processor, Radical Icons & W3C Hype",
             "entities": {
-                "ORG": [
-                    "href=\"https://gumroad.com",
-                    "CMS Selection",
-                    "CMS",
-                    "TDD"
-                ],
                 "PERSON": [
-                    "avatars\">Jack",
+                    "Jack",
+                    "Tailwind UI",
                     "Jack",
                     "Steve Schoger",
                     "Vue"
                 ],
-                "GPE": [
-                    "Tailwind CSS.</li"
+                "ORG": [
+                    "CMS Selection Report",
+                    "Tailwind CSS",
+                    "CMS",
+                    "Refactoring UI",
+                    "Advanced Vue Component Design",
+                    "Test-Driven Laravel",
+                    "TDD"
                 ],
                 "CARDINAL": [
-                    "3</a"
+                    "3"
                 ]
             }
         },
@@ -226,20 +237,22 @@
             "pubDate": "Tue, 29 Sep 2020 20:17:24 +0000",
             "title": "148: Accessible Focus Styles, Tailwind Labs on YouTube, and Secret Projects",
             "entities": {
-                "GPE": [
-                    "Tailwind CSS.</li"
-                ],
-                "CARDINAL": [
-                    "3</a"
-                ],
                 "PERSON": [
+                    "Tailwind UI",
                     "Jack",
                     "Steve Schoger",
                     "Vue"
                 ],
                 "ORG": [
+                    "Tailwind CSS",
                     "CMS",
+                    "Refactoring UI",
+                    "Advanced Vue Component Design",
+                    "Test-Driven Laravel",
                     "TDD"
+                ],
+                "CARDINAL": [
+                    "3"
                 ]
             }
         },
@@ -272,20 +285,22 @@
             "pubDate": "Wed, 23 Sep 2020 12:16:31 +0000",
             "title": "147: Surviving GitHub Issues, the Statamic 3 Launch Aftermath, Tailwind 1.8, and Headless UI",
             "entities": {
-                "GPE": [
-                    "Tailwind CSS.</li"
-                ],
-                "CARDINAL": [
-                    "3</a"
-                ],
                 "PERSON": [
+                    "Tailwind UI",
                     "Jack",
                     "Steve Schoger",
                     "Vue"
                 ],
                 "ORG": [
+                    "Tailwind CSS",
                     "CMS",
+                    "Refactoring UI",
+                    "Advanced Vue Component Design",
+                    "Test-Driven Laravel",
                     "TDD"
+                ],
+                "CARDINAL": [
+                    "3"
                 ]
             }
         },
@@ -365,11 +380,14 @@
             "pubDate": "Thu, 20 Aug 2020 17:09:36 +0000",
             "title": "145: Statamic 3.0 and Tailwind CSS 2.0",
             "entities": {
-                "TIME": [
-                    "li><a href=\"https://github.com"
+                "CARDINAL": [
+                    "3.0"
+                ],
+                "ORG": [
+                    "Tailwind CSS"
                 ],
                 "PERSON": [
-                    "href=\"https://twitter.com/90swwe"
+                    "Twitter"
                 ]
             }
         },
@@ -404,14 +422,26 @@
             "entities": {
                 "PERSON": [
                     "Gary",
+                    "Gary",
+                    "Tailwind UI",
                     "Steve Schoger",
                     "Vue"
                 ],
                 "ORG": [
                     "Execute Program",
                     "TypeScript",
+                    "Structural",
                     "TypeScript",
-                    "href=\"https://twitter.com",
+                    "TypeScript",
+                    "Execute Program",
+                    "TypeScript",
+                    "TypeScript",
+                    "TypeScript",
+                    "Execute Program",
+                    "Tailwind CSS",
+                    "Refactoring UI",
+                    "Advanced Vue Component Design",
+                    "Test-Driven Laravel",
                     "TDD"
                 ],
                 "WORK_OF_ART": [
@@ -419,9 +449,6 @@
                 ],
                 "CARDINAL": [
                     "one"
-                ],
-                "GPE": [
-                    "Tailwind CSS.</li"
                 ]
             }
         },
@@ -459,20 +486,32 @@
                     "Svelte",
                     "Svelte",
                     "Svelte",
+                    "Sapper",
+                    "Svelte\nSapper",
+                    "Tailwind UI",
                     "Steve Schoger",
                     "Vue"
                 ],
                 "ORG": [
                     "JS",
                     "JS",
-                    "JavaScript?</li",
+                    "JS",
+                    "SSR",
                     "JavaScript",
-                    "network?</li",
+                    "Tailwind CSS",
+                    "Refactoring UI",
+                    "Advanced Vue Component Design",
+                    "Test-Driven Laravel",
                     "TDD"
                 ],
+                "PRODUCT": [
+                    "JavaScript"
+                ],
                 "GPE": [
-                    "JS?</li",
-                    "Tailwind CSS.</li"
+                    "JS"
+                ],
+                "ORDINAL": [
+                    "Second"
                 ],
                 "CARDINAL": [
                     "one"
@@ -511,21 +550,26 @@
                 "ORDINAL": [
                     "first"
                 ],
+                "PERSON": [
+                    "Jason",
+                    "Tailwind UI",
+                    "Steve Schoger",
+                    "Vue"
+                ],
+                "WORK_OF_ART": [
+                    "Designing the Ideal Bootstrapped Business"
+                ],
                 "CARDINAL": [
-                    "one",
                     "one",
                     "one"
                 ],
                 "ORG": [
                     "Jason's MicroConf",
+                    "Tailwind CSS",
+                    "Refactoring UI",
+                    "Advanced Vue Component Design",
+                    "Test-Driven Laravel",
                     "TDD"
-                ],
-                "GPE": [
-                    "Tailwind CSS.</li"
-                ],
-                "PERSON": [
-                    "Steve Schoger",
-                    "Vue"
                 ]
             }
         },
@@ -560,11 +604,7 @@
             "entities": {
                 "GPE": [
                     "Basecamp",
-                    "Basecamp",
                     "Basecamp"
-                ],
-                "NORP": [
-                    "different?</li"
                 ],
                 "DATE": [
                     "day one"
@@ -574,23 +614,28 @@
                     "one"
                 ],
                 "WORK_OF_ART": [
-                    "HEY File Attachments\"?</li",
-                    "What Works"
+                    "HEY File Attachments",
+                    "What Works",
+                    "Going Remote: Basecamp Walkthrough"
                 ],
                 "ORDINAL": [
                     "first"
                 ],
-                "PERSON": [
-                    "Jason",
-                    "Tailwind CSS</li",
-                    "Steve Schoger",
-                    "Vue"
+                "ORG": [
+                    "Screenshots",
+                    "Tailwind CSS\n\nRefactoring UI",
+                    "Advanced Vue Component Design",
+                    "Test-Driven Laravel",
+                    "TDD"
                 ],
-                "PRODUCT": [
+                "LOC": [
                     "Basecamp"
                 ],
-                "ORG": [
-                    "TDD"
+                "PERSON": [
+                    "Jason",
+                    "Tailwind UI",
+                    "Steve Schoger",
+                    "Vue"
                 ]
             }
         },
@@ -623,36 +668,34 @@
             "pubDate": "Thu, 28 May 2020 13:01:44 +0000",
             "title": "140: Evan You - Reimagining the Modern Dev Server with Vite",
             "entities": {
+                "PERSON": [
+                    "Webpack",
+                    "Tailwind UI",
+                    "Steve Schoger",
+                    "Vue"
+                ],
                 "ORG": [
                     "ES Modules",
-                    "ES Modules",
+                    "CSS",
+                    "VuePress",
+                    "Tailwind CSS\n\nRefactoring UI",
+                    "Advanced Vue Component Design",
+                    "Test-Driven Laravel",
                     "TDD"
                 ],
                 "NORP": [
                     "non-JS"
                 ],
-                "FAC": [
-                    "CSS files?</li"
+                "LOC": [
+                    "Vite\nOptimizing"
                 ],
                 "PRODUCT": [
-                    "VitePress"
-                ],
-                "GPE": [
-                    "VuePress?</li"
-                ],
-                "DATE": [
-                    "1.0?</li"
-                ],
-                "TIME": [
-                    "li><a href=\"https://github.com"
+                    "VitePress",
+                    "VitePress\nRollup\nSupporting"
                 ],
                 "CARDINAL": [
+                    "1.0",
                     "one"
-                ],
-                "PERSON": [
-                    "Tailwind CSS</li",
-                    "Steve Schoger",
-                    "Vue"
                 ]
             }
         },
@@ -685,11 +728,12 @@
             "pubDate": "Fri, 08 May 2020 12:04:00 +0000",
             "title": "139: Alex DeBrie - DynamoDB for Relational Database Diehards",
             "entities": {
+                "PRODUCT": [
+                    "Book"
+                ],
                 "PERSON": [
-                    "them</li",
                     "Alex",
-                    "book</li",
-                    "Tailwind CSS</li",
+                    "Tailwind UI",
                     "Steve Schoger",
                     "Vue"
                 ],
@@ -697,6 +741,9 @@
                     "one"
                 ],
                 "ORG": [
+                    "Tailwind CSS\n\nRefactoring UI",
+                    "Advanced Vue Component Design",
+                    "Test-Driven Laravel",
                     "TDD"
                 ]
             }
@@ -732,16 +779,17 @@
             "entities": {
                 "PERSON": [
                     "Redwood",
-                    "JAMStack framework?</li",
-                    "Redwood",
-                    "fetching</li",
                     "Redwood",
                     "Redwood",
-                    "redwoodjs",
-                    "li><a href=\"https://www.prisma.io/\">Prisma</a></li",
-                    "Tailwind CSS</li",
+                    "Redwood",
+                    "Redwood",
+                    "Redwood\nPrisma\nSupporting",
+                    "Tailwind UI",
                     "Steve Schoger",
                     "Vue"
+                ],
+                "PRODUCT": [
+                    "JAMStack"
                 ],
                 "CARDINAL": [
                     "2",
@@ -751,8 +799,9 @@
                     "today"
                 ],
                 "ORG": [
-                    "environment?</li",
-                    "href=\"https://github.com",
+                    "Tailwind CSS\n\nRefactoring UI",
+                    "Advanced Vue Component Design",
+                    "Test-Driven Laravel",
                     "TDD"
                 ]
             }
@@ -789,30 +838,26 @@
                 "CARDINAL": [
                     "getStaticPaths",
                     "getStaticPaths",
-                    "getStaticPaths",
-                    "3\">Next.js 9.3",
                     "one"
                 ],
                 "ORG": [
                     "CDN",
                     "Next",
-                    "zeit/next.js/discussions/11552\">Incremental Static Generation",
-                    "href=\"https://github.com",
                     "ZEIT",
+                    "Tailwind CSS\n\nRefactoring UI",
+                    "Advanced Vue Component Design",
+                    "Test-Driven Laravel",
                     "TDD"
                 ],
+                "LOC": [
+                    "Next.js\nDeploying Next.js",
+                    "Next.js"
+                ],
                 "GPE": [
-                    "Next.js</li",
                     "Zeit"
                 ],
-                "NORP": [
-                    "API</li"
-                ],
-                "TIME": [
-                    "li><a href=\"https://github.com"
-                ],
                 "PERSON": [
-                    "Tailwind CSS</li",
+                    "Tailwind UI",
                     "Steve Schoger",
                     "Vue"
                 ]
@@ -847,9 +892,6 @@
             "pubDate": "Wed, 25 Mar 2020 15:42:00 +0000",
             "title": "136: Michael Chan - React Is Not a Rails Competitor",
             "entities": {
-                "NORP": [
-                    "application</li"
-                ],
                 "ORDINAL": [
                     "third",
                     "third"
@@ -859,13 +901,24 @@
                 ],
                 "ORG": [
                     "Rails and Laravel",
+                    "Documentary",
+                    "OneGraph",
+                    "Tailwind CSS\n\nRefactoring UI",
+                    "Advanced Vue Component Design",
+                    "Test-Driven Laravel",
                     "TDD"
+                ],
+                "WORK_OF_ART": [
+                    "Ruby on Rails\nReact\nAWS Amplify\nFirebase"
+                ],
+                "GPE": [
+                    "Hasura"
                 ],
                 "CARDINAL": [
                     "one"
                 ],
                 "PERSON": [
-                    "Tailwind CSS</li",
+                    "Tailwind UI",
                     "Steve Schoger",
                     "Vue"
                 ]
@@ -902,15 +955,20 @@
             "entities": {
                 "PERSON": [
                     "Tailwind UI",
-                    "control</li",
-                    "Links:</p><ul><li><a",
-                    "Tailwind CSS</li",
+                    "Tailwind UI",
                     "Steve Schoger",
                     "Vue"
                 ],
                 "ORG": [
-                    "CSS",
+                    "Unexpected",
+                    "CSS Grid",
+                    "Tailwind CSS\n\nRefactoring UI",
+                    "Advanced Vue Component Design",
+                    "Test-Driven Laravel",
                     "TDD"
+                ],
+                "GPE": [
+                    "Flexbox"
                 ],
                 "CARDINAL": [
                     "one"
@@ -946,9 +1004,13 @@
             "pubDate": "Wed, 12 Feb 2020 14:20:00 +0000",
             "title": "134: Mark Dalgleish - You Should Be Using Layout Components",
             "entities": {
+                "WORK_OF_ART": [
+                    "Layout",
+                    "Rethinking Design Best Practices",
+                    "Playroom\nSupporting"
+                ],
                 "PERSON": [
                     "Mark",
-                    "you</li",
                     "Mark",
                     "Mark",
                     "Steve Schoger",
@@ -956,11 +1018,21 @@
                 ],
                 "ORG": [
                     "CSS",
-                    "ReactiveConf",
+                    "Advanced Vue Component Design",
+                    "Test-Driven Laravel",
                     "TDD"
+                ],
+                "PRODUCT": [
+                    "Tricks"
                 ],
                 "ORDINAL": [
                     "1px"
+                ],
+                "LAW": [
+                    "ReactiveConf 2019"
+                ],
+                "GPE": [
+                    "Braid"
                 ],
                 "CARDINAL": [
                     "one"
@@ -1005,13 +1077,11 @@
                     "Mirage",
                     "API",
                     "Mirage",
+                    "Mirage\nLinks\nMirage.js\nMirage.js",
+                    "GitHub\nSupporting",
+                    "Advanced Vue Component Design",
+                    "Test-Driven Laravel",
                     "TDD"
-                ],
-                "TIME": [
-                    "li><a href=\"https://github.com"
-                ],
-                "NORP": [
-                    "GitHub</a></li"
                 ],
                 "CARDINAL": [
                     "one"
@@ -1052,24 +1122,19 @@
             "title": "132: Caleb Porzio - Just Enough JavaScript with Alpine.js",
             "entities": {
                 "PERSON": [
-                    "Alpine"
+                    "Alpine",
+                    "Vue",
+                    "Alpine\nThe Alpine",
+                    "Alpine.js"
                 ],
                 "PRODUCT": [
                     "JavaScript"
-                ],
-                "NORP": [
-                    "Alpine</li"
                 ],
                 "CARDINAL": [
                     "two"
                 ],
                 "ORG": [
-                    "href=\"https://github.com"
-                ],
-                "GPE": [
-                    "US",
-                    "US",
-                    "US"
+                    "GitHub"
                 ]
             }
         },
@@ -1105,10 +1170,14 @@
                 "ORDINAL": [
                     "first"
                 ],
+                "DATE": [
+                    "an extra week"
+                ],
                 "GPE": [
                     "Basecamp",
                     "UI",
-                    "Circles"
+                    "Circles",
+                    "Basecamp"
                 ],
                 "WORK_OF_ART": [
                     "Times New Roman"
@@ -1116,14 +1185,14 @@
                 "ORG": [
                     "HTML",
                     "CSS",
-                    "Basecamp</li></ul"
+                    "Ship Work that Matters",
+                    "Ryan"
                 ],
                 "CARDINAL": [
                     "two"
                 ],
                 "PERSON": [
-                    "Stop Running",
-                    "Ryan"
+                    "Stop Running"
                 ]
             }
         },
@@ -1163,14 +1232,20 @@
                 "ORG": [
                     "XState"
                 ],
-                "CARDINAL": [
-                    "two"
+                "PRODUCT": [
+                    "JavaScript\nSponsors:\n\nTuple"
+                ],
+                "DATE": [
+                    "two weeks"
                 ],
                 "MONEY": [
                     "50"
                 ],
                 "PERSON": [
                     "David"
+                ],
+                "LOC": [
+                    "XState Docs"
                 ]
             }
         },
@@ -1207,41 +1282,36 @@
                     "first"
                 ],
                 "DATE": [
-                    "Vue 3</li",
                     "Vue 3",
-                    "Vue 3</li",
-                    "fullstackradio&amp;utm_medium",
-                    "monthly"
-                ],
-                "PERSON": [
-                    "Vue"
+                    "Vue 3",
+                    "Vue 3",
+                    "monthly",
+                    "Vue 3"
                 ],
                 "ORG": [
                     "VNode",
                     "API",
                     "API",
-                    "API",
-                    "href=\"https://github.com"
+                    "API"
                 ],
-                "NORP": [
-                    "API</li",
-                    "href=\"https://vue"
+                "PERSON": [
+                    "API\nHow"
+                ],
+                "GPE": [
+                    "Cloudinary",
+                    "GB",
+                    "GB"
                 ],
                 "CARDINAL": [
                     "300,000",
                     "10",
-                    "20",
-                    "3"
-                ],
-                "GPE": [
-                    "GB",
-                    "GB"
+                    "20"
                 ],
                 "MONEY": [
                     "50"
                 ],
-                "TIME": [
-                    "li><a href=\"https://github.com"
+                "PRODUCT": [
+                    "GitHub\nVue"
                 ]
             }
         },
@@ -1274,17 +1344,6 @@
             "pubDate": "Wed, 20 Nov 2019 15:57:00 +0000",
             "title": "128: Alasdair Monk - Scaling CSS at Heroku with Utility Classes",
             "entities": {
-                "GPE": [
-                    "Heroku",
-                    "UI",
-                    "Heroku",
-                    "Heroku",
-                    "Heroku",
-                    "GB",
-                    "GB",
-                    "Heroku",
-                    "Heroku"
-                ],
                 "ORG": [
                     "BEM",
                     "CSS",
@@ -1294,15 +1353,25 @@
                     "CSS",
                     "CSS",
                     "CSS",
+                    "UI\nPylon",
                     "CSS",
                     "CSS",
                     "CSS",
-                    "Alasdair",
                     "CSS"
+                ],
+                "GPE": [
+                    "UI",
+                    "Heroku",
+                    "Heroku",
+                    "Heroku",
+                    "Cloudinary",
+                    "GB",
+                    "GB",
+                    "Heroku",
+                    "Heroku"
                 ],
                 "DATE": [
                     "3.5 years",
-                    "fullstackradio&amp;utm_medium",
                     "monthly"
                 ],
                 "MONEY": [
@@ -1312,6 +1381,9 @@
                     "300,000",
                     "10",
                     "20"
+                ],
+                "WORK_OF_ART": [
+                    "Pylon, Alasdair's"
                 ]
             }
         },
@@ -1344,34 +1416,35 @@
             "pubDate": "Wed, 06 Nov 2019 18:21:00 +0000",
             "title": "127: Jonathan Reinink - Building Modern Monoliths with Inertia.js",
             "entities": {
+                "PERSON": [
+                    "Inertia.js",
+                    "Jonathan"
+                ],
+                "GPE": [
+                    "Inertia",
+                    "Inertia",
+                    "Cloudinary",
+                    "GB",
+                    "GB",
+                    "Inertia"
+                ],
                 "ORG": [
                     "Inertia",
-                    "href=\"https://github.com",
-                    "href=\"https://twitter.com"
-                ],
-                "DATE": [
-                    "fullstackradio&amp;utm_medium",
-                    "monthly"
+                    "GitHub"
                 ],
                 "CARDINAL": [
                     "300,000",
                     "10",
                     "20"
                 ],
-                "GPE": [
-                    "GB",
-                    "GB",
-                    "Inertia"
+                "DATE": [
+                    "monthly"
                 ],
                 "MONEY": [
                     "50"
                 ],
-                "NORP": [
-                    "GitHub</a></li",
-                    "application</li"
-                ],
-                "PERSON": [
-                    "Jonathan"
+                "PRODUCT": [
+                    "CRM"
                 ]
             }
         },
@@ -1411,22 +1484,24 @@
                     "10",
                     "20"
                 ],
-                "ORG": [
-                    "cloud?</li"
-                ],
                 "PERSON": [
+                    "Merkle",
                     "Merkle"
+                ],
+                "ORG": [
+                    "Considerations",
+                    "CRDT"
                 ],
                 "MONEY": [
                     "50"
                 ],
-                "DATE": [
-                    "fullstackradio&amp;utm_medium",
-                    "monthly"
-                ],
                 "GPE": [
+                    "Cloudinary",
                     "GB",
                     "GB"
+                ],
+                "DATE": [
+                    "monthly"
                 ]
             }
         },
@@ -1463,34 +1538,44 @@
                     "a million dollars",
                     "50"
                 ],
+                "ORG": [
+                    "Strategies",
+                    "MicroConf"
+                ],
                 "CARDINAL": [
                     "1,000",
                     "300,000",
                     "10",
                     "20"
                 ],
-                "DATE": [
-                    "fullstackradio&amp;utm_medium",
-                    "monthly"
-                ],
                 "GPE": [
+                    "Cloudinary",
                     "GB",
                     "GB"
                 ],
+                "DATE": [
+                    "monthly"
+                ],
                 "PERSON": [
                     "Rob",
-                    "Rob built</li",
                     "Rob",
                     "Rob",
-                    "Gabriel",
-                    "Ryan Battles</li",
+                    "Rob",
+                    "Rob",
+                    "Gabriel Weinberg",
+                    "Ryan Battles",
                     "Rob"
                 ],
-                "ORG": [
-                    "href=\"https://ryanbattles.com"
-                ],
                 "WORK_OF_ART": [
-                    "essentials\">\"SaaS Marketing"
+                    "Startups for the Rest",
+                    "The Stairstep Approach to Bootstrapping",
+                    "Why You Should Start Marketing the Day",
+                    "Traction",
+                    "SaaS Marketing Essentials",
+                    "Start Small, Stay Small"
+                ],
+                "PRODUCT": [
+                    "TinySeed"
                 ]
             }
         },
@@ -1525,38 +1610,31 @@
             "entities": {
                 "ORG": [
                     "JS",
-                    "UI",
                     "CSS",
                     "CSS"
                 ],
                 "GPE": [
                     "Netlify",
+                    "UI",
+                    "Cloudinary",
                     "GB",
                     "GB"
                 ],
                 "WORK_OF_ART": [
                     "Netlify",
-                    "Netlify"
+                    "Netlify",
+                    "Netlify Analytics\nHighcharts\nAbstract\nSketch"
                 ],
                 "MONEY": [
                     "50"
-                ],
-                "DATE": [
-                    "fullstackradio&amp;utm_medium",
-                    "monthly"
                 ],
                 "CARDINAL": [
                     "300,000",
                     "10",
                     "20"
                 ],
-                "NORP": [
-                    "href=\"https://www.abstract.com\">Abstract</a></li"
-                ],
-                "TIME": [
-                    "li><a href=\"https://github.com",
-                    "li><a href=\"https://github.com",
-                    "li><a href=\"https://github.com"
+                "DATE": [
+                    "monthly"
                 ]
             }
         },
@@ -1589,33 +1667,39 @@
             "pubDate": "Wed, 11 Sep 2019 18:16:00 +0000",
             "title": "123: Ian Landsman - Marketing and Positioning a New Tailwind CSS Product",
             "entities": {
+                "GPE": [
+                    "UI",
+                    "Cloudinary",
+                    "GB",
+                    "GB"
+                ],
                 "ORG": [
                     "UI",
+                    "MegaMaker Club\n\n",
                     "NPS"
                 ],
                 "CARDINAL": [
                     "One",
+                    "two",
                     "300,000",
                     "10",
                     "20"
                 ],
                 "DATE": [
-                    "fullstackradio&amp;utm_medium",
                     "monthly"
-                ],
-                "GPE": [
-                    "GB",
-                    "GB"
                 ],
                 "MONEY": [
                     "50"
+                ],
+                "WORK_OF_ART": [
+                    "Tailwind CSS\nTweet"
                 ],
                 "PERSON": [
                     "Tailwind",
                     "Ian"
                 ],
-                "NORP": [
-                    "Sketch"
+                "LAW": [
+                    "Article on Sketch"
                 ]
             }
         },
@@ -1654,32 +1738,33 @@
                 "ORG": [
                     "API",
                     "REST",
-                    "href=\"https://medium.com/@dan_abramov",
-                    "immerjs/immer\">Immer</a></li",
-                    "mheiber/redux-funk\">redux-funk</a></li>"
+                    "Presentational and Container Components",
+                    "JAMstack Conf"
+                ],
+                "GPE": [
+                    "Graphql",
+                    "Cloudinary",
+                    "GB",
+                    "GB",
+                    "Netlify"
                 ],
                 "MONEY": [
                     "50"
-                ],
-                "DATE": [
-                    "fullstackradio&amp;utm_medium",
-                    "monthly"
                 ],
                 "CARDINAL": [
                     "300,000",
                     "10",
                     "20"
                 ],
-                "GPE": [
-                    "GB",
-                    "GB"
+                "DATE": [
+                    "monthly"
+                ],
+                "WORK_OF_ART": [
+                    "Netlify\nReact\nReact Router",
+                    "Netlify Analytics"
                 ],
                 "PERSON": [
-                    "Container",
-                    "Dan"
-                ],
-                "TIME": [
-                    "li><a href=\"https://github.com"
+                    "Dan Abramov"
                 ]
             }
         },
@@ -1717,29 +1802,33 @@
                     "Building Userlist",
                     "Ember",
                     "Ember",
+                    "the Rails API\nStrategies",
                     "Userlist",
-                    "Userlist"
+                    "Userlist",
+                    "SQL"
                 ],
                 "PERSON": [
                     "Benedikt",
-                    "Benedikt",
-                    "href=\"https://prosemirror.net/\">Prosemirror</a></li"
+                    "Benedikt"
                 ],
-                "DATE": [
-                    "fullstackradio&amp;utm_medium",
-                    "monthly"
+                "GPE": [
+                    "Cloudinary",
+                    "GB",
+                    "GB"
                 ],
                 "CARDINAL": [
                     "300,000",
                     "10",
                     "20"
                 ],
-                "GPE": [
-                    "GB",
-                    "GB"
+                "DATE": [
+                    "monthly"
                 ],
                 "MONEY": [
                     "50"
+                ],
+                "WORK_OF_ART": [
+                    "Ruby on Rails\nSidekiq\nSparkpost"
                 ]
             }
         },
@@ -1775,30 +1864,35 @@
                 "ORG": [
                     "AWS",
                     "Vapor",
-                    "RDS"
+                    "RDS",
+                    "Vapor",
+                    "Strategies",
+                    "Vapor",
+                    "Vapor\nLimitations",
+                    "Intro"
                 ],
                 "NORP": [
                     "Lambda",
-                    "Vapor</li",
-                    "Vapor</li",
-                    "Vapor</li",
                     "Lambda"
+                ],
+                "WORK_OF_ART": [
+                    "Performance on Vapor\n"
                 ],
                 "MONEY": [
                     "50"
                 ],
-                "DATE": [
-                    "fullstackradio&amp;utm_medium",
-                    "monthly"
+                "GPE": [
+                    "Cloudinary",
+                    "GB",
+                    "GB"
                 ],
                 "CARDINAL": [
                     "300,000",
                     "10",
                     "20"
                 ],
-                "GPE": [
-                    "GB",
-                    "GB"
+                "DATE": [
+                    "monthly"
                 ],
                 "PERSON": [
                     "Taylor"
@@ -1840,28 +1934,32 @@
                 "PERSON": [
                     "Ryan",
                     "Ryan",
-                    "Engine</a",
-                    "Michelle Bu"
+                    "Engine",
+                    "Michelle Bu of Stripe"
                 ],
                 "ORG": [
                     "UI",
-                    "href=\"https://twitter.com",
-                    "href=\"https://github.com",
+                    "EmberMap",
+                    "SQL",
                     "API",
-                    "href=\"https://twitter.com"
+                    "API"
                 ],
-                "DATE": [
-                    "fullstackradio&amp;utm_medium",
-                    "monthly"
+                "GPE": [
+                    "UI",
+                    "Cloudinary",
+                    "GB",
+                    "GB",
+                    "Mirage.js",
+                    "Client",
+                    "Hasura"
                 ],
                 "CARDINAL": [
                     "300,000",
                     "10",
                     "20"
                 ],
-                "GPE": [
-                    "GB",
-                    "GB"
+                "DATE": [
+                    "monthly"
                 ],
                 "MONEY": [
                     "50"
@@ -1905,21 +2003,19 @@
                     "20"
                 ],
                 "PERSON": [
+                    "Aaron",
                     "Aaron"
                 ],
                 "MONEY": [
                     "50"
                 ],
-                "DATE": [
-                    "fullstackradio&amp;utm_medium",
-                    "monthly"
-                ],
                 "GPE": [
+                    "Cloudinary",
                     "GB",
                     "GB"
                 ],
-                "ORG": [
-                    "html5"
+                "DATE": [
+                    "monthly"
                 ]
             }
         },
@@ -1954,29 +2050,33 @@
             "entities": {
                 "ORG": [
                     "CSS",
+                    "JSX",
+                    "Emotion\nUsing Emotion",
                     "JSX"
                 ],
-                "DATE": [
-                    "fullstackradio&amp;utm_medium",
-                    "monthly"
+                "WORK_OF_ART": [
+                    "Performance\nAdding global styles"
+                ],
+                "PERSON": [
+                    "Style"
+                ],
+                "GPE": [
+                    "Cloudinary",
+                    "GB",
+                    "GB",
+                    "Emotion",
+                    "Emotion"
                 ],
                 "CARDINAL": [
                     "300,000",
                     "10",
                     "20"
                 ],
-                "GPE": [
-                    "GB",
-                    "GB",
-                    "US"
+                "DATE": [
+                    "monthly"
                 ],
                 "MONEY": [
                     "50"
-                ],
-                "TIME": [
-                    "li><a href=\"https://github.com",
-                    "li><a href=\"https://github.com",
-                    "li><a href=\"https://github.com"
                 ]
             }
         },
@@ -2015,24 +2115,22 @@
                     "Elixir",
                     "Elixir",
                     "Adam",
-                    "book</li",
-                    "href=\"https://elixirforum.com\">Elixir"
+                    "Chris McCord"
                 ],
                 "ORG": [
                     "OO",
                     "GenServers",
-                    "href=\"https://changelog.com/jsparty/65\">Building rapid UI",
-                    "href=\"https://changelog.com",
-                    "Ruby</a></li",
-                    "href=\"https://changelog.com",
-                    "href=\"https://pragprog.com",
-                    "href=\"https://changelog.com/community\">Our"
+                    "PHP",
+                    "CSS",
+                    "JS Party"
                 ],
                 "GPE": [
                     "Phoenix",
                     "Changelog",
+                    "Cloudinary",
                     "GB",
-                    "GB"
+                    "GB",
+                    "Phoenix"
                 ],
                 "CARDINAL": [
                     "n+1",
@@ -2044,17 +2142,17 @@
                     "50"
                 ],
                 "DATE": [
-                    "fullstackradio&amp;utm_medium",
                     "monthly"
                 ],
-                "NORP": [
-                    "JS"
-                ],
-                "TIME": [
-                    "li><a href=\"https://github.com"
+                "FAC": [
+                    "The Changelog\nThe Changelog"
                 ],
                 "WORK_OF_ART": [
-                    "changelog.com\">The Changelog source code</a></li"
+                    "Confident Ruby",
+                    "Programming Phoenix"
+                ],
+                "PRODUCT": [
+                    "Elixir Forum"
                 ]
             }
         },
@@ -2090,24 +2188,27 @@
                 "PERSON": [
                     "Gatsby",
                     "Gatsby",
+                    "Gatsby\n",
+                    "Gatsby",
+                    "Gatsby",
                     "Gatsby"
                 ],
                 "ORG": [
                     "CMS",
-                    "href=\"https://www.twitch.tv/jlengstorf\">Jason"
+                    "Reach Router"
                 ],
-                "DATE": [
-                    "fullstackradio&amp;utm_medium",
-                    "monthly"
+                "GPE": [
+                    "Cloudinary",
+                    "GB",
+                    "GB"
                 ],
                 "CARDINAL": [
                     "300,000",
                     "10",
                     "20"
                 ],
-                "GPE": [
-                    "GB",
-                    "GB"
+                "DATE": [
+                    "monthly"
                 ],
                 "MONEY": [
                     "50"
@@ -2146,7 +2247,8 @@
                 "ORG": [
                     "API",
                     "useEffect",
-                    "JSX"
+                    "JSX",
+                    "Introducing Hooks at React Conf\nHooks"
                 ],
                 "PERSON": [
                     "Vue",
@@ -2159,20 +2261,24 @@
                 ],
                 "GPE": [
                     "React",
+                    "Cloudinary",
                     "GB",
-                    "GB"
+                    "GB",
+                    "React"
+                ],
+                "PRODUCT": [
+                    "Pose\nSponsors"
                 ],
                 "MONEY": [
                     "100"
-                ],
-                "DATE": [
-                    "fullstackradio&amp;utm_medium",
-                    "monthly"
                 ],
                 "CARDINAL": [
                     "300,000",
                     "10",
                     "20"
+                ],
+                "DATE": [
+                    "monthly"
                 ]
             }
         },
@@ -2208,22 +2314,18 @@
                 "ORG": [
                     "Justin",
                     "Justin",
+                    "Profit First\nSponsors:\n\nCloudinary",
                     "Justin",
                     "Justin",
                     "Justin"
                 ],
+                "PERSON": [
+                    "Jon\nHow",
+                    "Justin",
+                    "Jon"
+                ],
                 "ORDINAL": [
                     "first"
-                ],
-                "PERSON": [
-                    "Justin",
-                    "Jon",
-                    "Transistor",
-                    "Cards Against Humanity's"
-                ],
-                "DATE": [
-                    "fullstackradio&amp;utm_medium",
-                    "monthly"
                 ],
                 "CARDINAL": [
                     "300,000",
@@ -2232,10 +2334,21 @@
                 ],
                 "GPE": [
                     "GB",
-                    "GB"
+                    "GB",
+                    "Build"
+                ],
+                "DATE": [
+                    "monthly"
                 ],
                 "MONEY": [
                     "50"
+                ],
+                "WORK_OF_ART": [
+                    "Transistor with Jon\n\nThe Good News Podcast",
+                    "Transistor\nThe Transistor"
+                ],
+                "PRODUCT": [
+                    "Profit First\n\n      "
                 ]
             }
         },
@@ -2270,11 +2383,9 @@
             "entities": {
                 "ORG": [
                     "CDN",
-                    "href=\"https://github.com",
-                    "now</li"
-                ],
-                "PERSON": [
-                    "store</li"
+                    "ZEIT",
+                    "ScaleGrid",
+                    "Firebase"
                 ],
                 "ORDINAL": [
                     "third",
@@ -2283,18 +2394,26 @@
                 "MONEY": [
                     "50"
                 ],
-                "DATE": [
-                    "fullstackradio&amp;utm_medium",
-                    "monthly"
+                "GPE": [
+                    "Cloudinary",
+                    "GB",
+                    "GB"
                 ],
                 "CARDINAL": [
                     "300,000",
                     "10",
                     "20"
                 ],
-                "GPE": [
-                    "GB",
-                    "GB"
+                "DATE": [
+                    "monthly"
+                ],
+                "PRODUCT": [
+                    "GitHub\n"
+                ],
+                "PERSON": [
+                    "Monorepo",
+                    "Cosmos DB",
+                    "Amazon Aurora\nAuth0"
                 ]
             }
         },
@@ -2331,29 +2450,36 @@
                     "Jeffrey",
                     "Tailwind",
                     "Tailwind",
-                    "Rollbar"
+                    "Rollbar",
+                    "Rollbar",
+                    "Mobile Twitter",
+                    "Vue"
                 ],
                 "ORG": [
                     "CSS",
                     "CSS",
                     "CSS",
-                    "href=\"https://rollbar.com",
-                    "href=\"https://github.com",
-                    "href=\"https://laracasts.com",
-                    "href=\"https://laracasts.com"
+                    "CSS",
+                    "Tailwind CSS\n\nGroup Hover",
+                    "GitHub\n\nEasy Tailwind Themes Using CSS Variables"
+                ],
+                "ORDINAL": [
+                    "first"
                 ],
                 "GPE": [
                     "Bulma",
-                    "Cloudinary"
+                    "ImageCon",
+                    "Cloudinary",
+                    "Tailwind"
                 ],
                 "MONEY": [
                     "100"
                 ],
-                "DATE": [
-                    "fullstackradio&amp;utm_medium"
-                ],
                 "PERCENT": [
                     "15%"
+                ],
+                "WORK_OF_ART": [
+                    "Theming Tailwind"
                 ],
                 "NORP": [
                     "Laracasts"
@@ -2396,27 +2522,24 @@
                     "UI",
                     "Livewire",
                     "Cloudinary",
+                    "Merge",
                     "Livewire"
                 ],
                 "PERSON": [
                     "Livewire",
+                    "Livewire",
                     "Rollbar",
-                    "patrick-steele-idem"
+                    "Rollbar"
                 ],
                 "ORG": [
                     "PHP",
                     "AJAX",
-                    "href=\"https://rollbar.com",
-                    "href=\"https://gumroad.com",
-                    "l/bvkx\">Full Stack Radio T-Shirt",
+                    "ImageCon",
                     "Caleb",
-                    "href=\"https://zaengle.com",
+                    "Laravel/Vue Application",
                     "Caleb",
-                    "ElixirConf",
-                    "href=\"https://github.com"
-                ],
-                "DATE": [
-                    "fullstackradio&amp;utm_medium"
+                    "Phoenix LiveView",
+                    "ElixirConf"
                 ],
                 "PERCENT": [
                     "15%"
@@ -2424,11 +2547,19 @@
                 "MONEY": [
                     "100"
                 ],
-                "CARDINAL": [
-                    "2018</li"
+                "WORK_OF_ART": [
+                    "Open Collective\n\nLinks:\nFull Stack Radio T-Shirt + Sticker Pack Pre-orders",
+                    "Sharing Data"
                 ],
-                "PRODUCT": [
-                    "2018</li"
+                "LOC": [
+                    "Caleb",
+                    "Zaengle"
+                ],
+                "EVENT": [
+                    "Laracon 2018"
+                ],
+                "DATE": [
+                    "2018"
                 ]
             }
         },
@@ -2461,32 +2592,36 @@
             "pubDate": "Wed, 27 Feb 2019 15:16:00 +0000",
             "title": "109: The Road to Tailwind CSS v1.0",
             "entities": {
-                "ORG": [
-                    "href=\"https://gumroad.com",
-                    "href=\"https://rollbar.com",
-                    "href=\"https://gumroad.com",
-                    "l/bvkx\">Full Stack Radio T-Shirt"
-                ],
                 "PERSON": [
-                    "already</li",
-                    "Tailwind CSS",
+                    "Learn",
+                    "Rollbar",
                     "Rollbar"
                 ],
-                "DATE": [
-                    "fullstackradio&amp;utm_medium",
-                    "monthly"
+                "NORP": [
+                    "Semantic"
+                ],
+                "ORG": [
+                    "Tailwind CSS",
+                    "Tailwind CSS"
+                ],
+                "GPE": [
+                    "Cloudinary",
+                    "GB",
+                    "GB"
                 ],
                 "CARDINAL": [
                     "300,000",
                     "10",
                     "20"
                 ],
-                "GPE": [
-                    "GB",
-                    "GB"
+                "DATE": [
+                    "monthly"
                 ],
                 "MONEY": [
                     "100"
+                ],
+                "WORK_OF_ART": [
+                    "Open Collective\n\nLinks:\nFull Stack Radio T-Shirt + Sticker Pack Pre-orders"
                 ]
             }
         },
@@ -2521,39 +2656,35 @@
             "entities": {
                 "GPE": [
                     "UI",
+                    "Cloudinary",
                     "GB",
                     "GB"
                 ],
                 "ORG": [
                     "SPA",
-                    "href=\"https://rollbar.com",
-                    "href=\"https://github.com"
+                    "API\nStrategies"
                 ],
                 "PERSON": [
                     "Vue",
+                    "Blade",
                     "Rollbar",
-                    "Jonathan"
-                ],
-                "NORP": [
-                    "API</li"
-                ],
-                "PRODUCT": [
-                    "Blade"
+                    "Rollbar",
+                    "Jonathan",
+                    "Ziggy"
                 ],
                 "MONEY": [
                     "100"
-                ],
-                "DATE": [
-                    "fullstackradio&amp;utm_medium",
-                    "monthly"
                 ],
                 "CARDINAL": [
                     "300,000",
                     "10",
                     "20"
                 ],
-                "TIME": [
-                    "li><a href=\"https://github.com"
+                "DATE": [
+                    "monthly"
+                ],
+                "NORP": [
+                    "Server"
                 ]
             }
         },
@@ -2589,37 +2720,41 @@
                 "ORG": [
                     "API",
                     "Firebase",
-                    "API",
-                    "href=\"https://rollbar.com",
+                    "EmberMap",
                     "Ember.js",
                     "API",
+                    "API",
                     "SPA",
-                    "API"
+                    "API",
+                    "API\nFirebase",
+                    "Apollo"
                 ],
-                "CARDINAL": [
-                    "S3",
-                    "300,000",
-                    "10",
-                    "20",
-                    "href=\"https://jsonapi.org/\">JSON"
+                "GPE": [
+                    "Modeling",
+                    "Cloudinary",
+                    "GB",
+                    "GB"
+                ],
+                "PRODUCT": [
+                    "S3"
                 ],
                 "PERSON": [
                     "Rollbar",
+                    "Rollbar",
                     "Sam",
                     "Sam",
-                    "href=\"https://vuex.vuejs.org/\">Vuex</a></li",
-                    "GraphQL</a></li"
+                    "Vuex\n"
                 ],
                 "MONEY": [
                     "100"
                 ],
-                "DATE": [
-                    "fullstackradio&amp;utm_medium",
-                    "monthly"
+                "CARDINAL": [
+                    "300,000",
+                    "10",
+                    "20"
                 ],
-                "GPE": [
-                    "GB",
-                    "GB"
+                "DATE": [
+                    "monthly"
                 ]
             }
         },
@@ -2652,36 +2787,38 @@
             "pubDate": "Wed, 16 Jan 2019 05:30:00 +0000",
             "title": "106: Sam Selikoff - Single Page Application Architecture",
             "entities": {
+                "ORG": [
+                    "Strategies",
+                    "Ember.js",
+                    "Progressive Enhacement",
+                    "Ember Data",
+                    "Ember-Orbit"
+                ],
                 "GPE": [
-                    "UIs</li",
+                    "Cloudinary",
                     "GB",
                     "GB"
-                ],
-                "DATE": [
-                    "fullstackradio&amp;utm_medium",
-                    "monthly"
                 ],
                 "CARDINAL": [
                     "300,000",
                     "10",
                     "20"
                 ],
-                "ORG": [
-                    "href=\"https://rollbar.com",
-                    "Ember.js"
+                "DATE": [
+                    "monthly"
                 ],
                 "PERSON": [
                     "Rollbar",
+                    "Rollbar",
                     "Sam",
                     "Adam",
-                    "Tom Dale",
-                    "Data</a></li"
+                    "Tom Dale"
                 ],
                 "MONEY": [
                     "100"
                 ],
-                "TIME": [
-                    "li><a href=\"https://github.com"
+                "WORK_OF_ART": [
+                    "Open Collective\n\nLinks:\n\nEmberMap"
                 ]
             }
         },
@@ -2714,39 +2851,45 @@
             "pubDate": "Thu, 03 Jan 2019 16:18:00 +0000",
             "title": "105: Strength Training for Nerds",
             "entities": {
-                "PERSON": [
-                    "age</li",
-                    "Rollbar",
-                    "Mark",
-                    "Jim Wendler</li",
-                    "Kelly",
-                    "James Clear</li>",
-                    "Mark",
-                    "Ben"
+                "DATE": [
+                    "each day",
+                    "monthly"
                 ],
-                "ORG": [
-                    "href=\"https://rollbar.com",
-                    "href=\"https://startingstrength.com",
-                    "Hackers</a"
+                "PERSON": [
+                    "Rollbar",
+                    "Rollbar",
+                    "Mark Rippetoe",
+                    "Jim Wendler",
+                    "Kelly Starrett",
+                    "James Clear\n\nStrong",
+                    "Mark Rippetoe",
+                    "Adam",
+                    "Ben"
                 ],
                 "MONEY": [
                     "100"
                 ],
-                "DATE": [
-                    "fullstackradio&amp;utm_medium",
-                    "monthly",
-                    "books&amp;ie"
+                "GPE": [
+                    "Cloudinary",
+                    "GB",
+                    "GB"
                 ],
                 "CARDINAL": [
                     "300,000",
                     "10",
                     "20",
-                    "UTF8&amp;qid=1546532108&amp;sr=8-1&amp;keywords"
+                    "5/3/1"
                 ],
-                "GPE": [
-                    "GB",
-                    "GB",
-                    "wendler\">5/3/1</a"
+                "ORG": [
+                    "Deskbound",
+                    "Rogue Fitness",
+                    "Hackers"
+                ],
+                "WORK_OF_ART": [
+                    "Why You Should Not Be Running"
+                ],
+                "NORP": [
+                    "YouTube"
                 ]
             }
         },
@@ -2789,23 +2932,28 @@
                 "PERCENT": [
                     "50%"
                 ],
-                "ORDINAL": [
-                    "first"
-                ],
-                "ORG": [
-                    "href=\"https://rollbar.com",
-                    "href=\"https://github.com",
-                    "Jonathan's Laracon Online",
-                    "href=\"https://stackoverflow.com",
-                    "href=\"https://github.com",
-                    "Jonathan's"
+                "DATE": [
+                    "first month"
                 ],
                 "PERSON": [
                     "Rollbar",
+                    "Rollbar",
+                    "Jonathan",
+                    "Jonathan",
                     "Jonathan"
                 ],
                 "MONEY": [
                     "100"
+                ],
+                "WORK_OF_ART": [
+                    "Open Collective\n\nLinks:\nRefactoring UI"
+                ],
+                "LOC": [
+                    "Laracon Online"
+                ],
+                "ORG": [
+                    "StackOverflow",
+                    "Advanced Eloquent"
                 ]
             }
         },
@@ -2838,34 +2986,34 @@
             "pubDate": "Wed, 05 Dec 2018 14:38:00 +0000",
             "title": "103: Steve Schoger - Design Q&A + Refactoring UI Details",
             "entities": {
-                "PERSON": [
-                    "design?</li",
-                    "Rollbar",
-                    "Design Tips</a></li",
-                    "Basecamp</a"
-                ],
                 "ORG": [
-                    "project?</li",
-                    "href=\"https://rollbar.com",
-                    "href=\"https://twitter.com",
-                    "href=\"https://twitter.com",
                     "Refactoring UI",
-                    "href=\"https://twitter.com",
                     "Refactoring UI",
-                    "href=\"https://twitter.com",
+                    "Refactoring UI",
+                    "Refactoring UI",
                     "Refactoring UI"
                 ],
-                "GPE": [
-                    "page?</li"
+                "PERSON": [
+                    "Rollbar",
+                    "Rollbar",
+                    "Design Tips\nFonts"
                 ],
                 "MONEY": [
                     "100"
                 ],
+                "WORK_OF_ART": [
+                    "Open Collective\n\n\n",
+                    "Refactoring UI"
+                ],
                 "PERCENT": [
                     "50%"
                 ],
-                "ORDINAL": [
-                    "first"
+                "DATE": [
+                    "first month"
+                ],
+                "GPE": [
+                    "Basecamp",
+                    "YouTube"
                 ]
             }
         },
@@ -2898,32 +3046,32 @@
             "pubDate": "Wed, 21 Nov 2018 19:47:00 +0000",
             "title": "102: Paul Jarvis - Staying Small",
             "entities": {
-                "PERSON": [
-                    "you</li",
-                    "Rollbar",
-                    "Paul",
-                    "book</li",
-                    "Paul",
-                    "Kevin Kelly</li>",
-                    "Paul",
-                    "D'Souza"
+                "DATE": [
+                    "last year",
+                    "first month"
                 ],
                 "PERCENT": [
                     "50%"
                 ],
-                "ORDINAL": [
-                    "first"
-                ],
-                "ORG": [
-                    "href=\"https://rollbar.com",
-                    "href=\"https://pjrvs.com",
-                    "href=\"https://pjrvs.com"
+                "PERSON": [
+                    "Rollbar",
+                    "Rollbar",
+                    "Paul",
+                    "Paul",
+                    "Paul",
+                    "Kevin Kelly",
+                    "Paul",
+                    "Sean D'Souza"
                 ],
                 "MONEY": [
                     "100"
                 ],
-                "NORP": [
-                    "sean"
+                "WORK_OF_ART": [
+                    "Open Collective\n\nLinks:\n"
+                ],
+                "CARDINAL": [
+                    "One",
+                    "1,000"
                 ]
             }
         },
@@ -2962,32 +3110,39 @@
                     "Ben",
                     "Ben",
                     "Ben",
+                    "Briefs.fm",
                     "Ben",
-                    "Levels</a",
-                    "Henrik Kniberg</li>"
+                    "Henrik Kniberg"
                 ],
                 "ORG": [
-                    "href=\"https://rollbar.com",
-                    "href=\"https://twitter.com"
+                    "Tuple\nSponsors:\n\nRollbar",
+                    "Tuple",
+                    "Pieter Levels"
                 ],
                 "MONEY": [
                     "100"
                 ],
-                "DATE": [
-                    "fullstackradio&amp;utm_medium",
-                    "monthly",
-                    "6 week",
-                    "six-weeks",
-                    "six weeks"
+                "GPE": [
+                    "Cloudinary",
+                    "GB",
+                    "GB",
+                    "Basecamp",
+                    "Basecamp"
                 ],
                 "CARDINAL": [
                     "300,000",
                     "10",
                     "20"
                 ],
-                "GPE": [
-                    "GB",
-                    "GB"
+                "DATE": [
+                    "monthly",
+                    "6 week",
+                    "six weeks"
+                ],
+                "WORK_OF_ART": [
+                    "The Art of Product",
+                    "You Should Take a Codecation",
+                    "Making Sense of MVP"
                 ],
                 "ORDINAL": [
                     "first",
@@ -3024,33 +3179,29 @@
             "pubDate": "Wed, 24 Oct 2018 04:30:00 +0000",
             "title": "100: S\u00e9bastien Chopin - Building Universal Vue.js Apps with Nuxt.js",
             "entities": {
-                "NORP": [
-                    "Nuxt.js</li"
-                ],
-                "PERSON": [
+                "GPE": [
                     "Vuex",
-                    "Rollbar"
-                ],
-                "DATE": [
-                    "fullstackradio&amp;utm_medium",
-                    "monthly"
+                    "Cloudinary",
+                    "GB",
+                    "GB"
                 ],
                 "CARDINAL": [
                     "300,000",
                     "10",
                     "20"
                 ],
-                "GPE": [
-                    "GB",
-                    "GB"
+                "DATE": [
+                    "monthly"
                 ],
-                "ORG": [
-                    "href=\"https://rollbar.com",
-                    "ADVANCEDVUE\">VueConf",
-                    "CLI"
+                "PERSON": [
+                    "Rollbar",
+                    "Rollbar"
                 ],
                 "MONEY": [
                     "100"
+                ],
+                "WORK_OF_ART": [
+                    "Open Collective\n\nLinks:\nVueConf TO Discount\nNuxt.js Documentation\nVuepress\nVue CLI 3"
                 ]
             }
         },
@@ -3086,36 +3237,36 @@
                 "LOC": [
                     "Next.js",
                     "Next.js",
-                    "Next.js"
+                    "Next.js",
+                    "Next.js Blog\n\nNext.js Examples"
                 ],
                 "CARDINAL": [
-                    "7.0</li",
+                    "7.0",
                     "300,000",
                     "10",
-                    "20",
-                    "blog\">Next.js"
-                ],
-                "ORG": [
-                    "href=\"https://rollbar.com",
-                    "ADVANCEDVUE\">VueConf",
-                    "href=\"https://github.com"
+                    "20"
                 ],
                 "PERSON": [
                     "Rollbar",
-                    "Next.js</a",
-                    "guide</li",
-                    "Examples</a"
+                    "Rollbar"
                 ],
                 "MONEY": [
                     "100"
                 ],
-                "DATE": [
-                    "fullstackradio&amp;utm_medium",
-                    "monthly"
-                ],
                 "GPE": [
+                    "Cloudinary",
                     "GB",
                     "GB"
+                ],
+                "DATE": [
+                    "monthly"
+                ],
+                "ORG": [
+                    "Next.js Documentation",
+                    "GitHub"
+                ],
+                "WORK_OF_ART": [
+                    "Learn Next.js"
                 ]
             }
         },
@@ -3149,31 +3300,29 @@
             "title": "98: Ryan Chenkie - Securing Single Page Applications",
             "entities": {
                 "ORG": [
+                    "Strategies",
                     "API",
-                    "href=\"https://rollbar.com",
-                    "Bootstrap Plan",
-                    "href=\"https://ryanchenkie.com"
+                    "Bootstrap Plan"
+                ],
+                "PERSON": [
+                    "API tokens",
+                    "Rollbar",
+                    "Ryan"
                 ],
                 "GPE": [
                     "XSS",
+                    "Cloudinary",
                     "GB",
-                    "GB",
-                    "performance\"</a"
-                ],
-                "DATE": [
-                    "fullstackradio&amp;utm_medium",
-                    "monthly"
+                    "GB"
                 ],
                 "CARDINAL": [
                     "300,000",
                     "10",
-                    "20",
-                    "90"
+                    "20"
                 ],
-                "PERSON": [
-                    "Angular Applications</a>",
-                    "Ryan",
-                    "Headers"
+                "DATE": [
+                    "monthly",
+                    "90 days"
                 ]
             }
         },
@@ -3208,32 +3357,32 @@
             "entities": {
                 "PERSON": [
                     "Reach UI",
-                    "wai-aria-practices-1.1/\">WAI-ARIA",
-                    "workshops\">Ryan"
+                    "Rollbar"
                 ],
                 "ORG": [
                     "UI",
-                    "href=\"https://rollbar.com",
                     "Bootstrap Plan",
-                    "href=\"https://www.nvaccess.org/download/\">NVDA</a></li",
-                    "h5bp/html5-boilerplate"
+                    "Reach UI",
+                    "NVDA",
+                    "Ryan",
+                    "Ryan's Online React Courses"
+                ],
+                "DATE": [
+                    "90 days",
+                    "monthly"
+                ],
+                "GPE": [
+                    "Cloudinary",
+                    "GB",
+                    "GB"
                 ],
                 "CARDINAL": [
-                    "90",
                     "300,000",
                     "10",
                     "20"
                 ],
-                "DATE": [
-                    "fullstackradio&amp;utm_medium",
-                    "monthly"
-                ],
-                "GPE": [
-                    "GB",
-                    "GB"
-                ],
-                "TIME": [
-                    "li><a href=\"https://github.com"
+                "PRODUCT": [
+                    "VoiceOver"
                 ]
             }
         },
@@ -3272,21 +3421,22 @@
                     "10",
                     "20"
                 ],
+                "GPE": [
+                    "Cloudinary",
+                    "GB",
+                    "GB",
+                    "Netlify"
+                ],
                 "DATE": [
-                    "fullstackradio&amp;utm_medium",
                     "monthly"
                 ],
-                "GPE": [
-                    "GB",
-                    "GB"
-                ],
                 "PERSON": [
-                    "Atomic Habits</a",
-                    "James",
-                    "book</li"
+                    "JamesClear.com",
+                    "Atomic Habits",
+                    "James"
                 ],
                 "ORG": [
-                    "href=\"https://jamesclear.com/newsletter\">James'"
+                    "James' Newsletter"
                 ]
             }
         },
@@ -3319,21 +3469,22 @@
             "pubDate": "Wed, 15 Aug 2018 15:09:00 +0000",
             "title": "95: Frank de Jonge - Implementing Event Sourcing",
             "entities": {
-                "DATE": [
-                    "fullstackradio&amp;utm_medium",
-                    "monthly"
+                "GPE": [
+                    "Netlify",
+                    "Cloudinary",
+                    "GB",
+                    "GB"
                 ],
                 "CARDINAL": [
                     "300,000",
                     "10",
                     "20"
                 ],
-                "GPE": [
-                    "GB",
-                    "GB"
+                "DATE": [
+                    "monthly"
                 ],
                 "ORG": [
-                    "Stack Radio"
+                    "EventSauce"
                 ],
                 "PERSON": [
                     "Frank"
@@ -3369,33 +3520,40 @@
             "pubDate": "Wed, 01 Aug 2018 15:03:00 +0000",
             "title": "94: Ben Orenstein - The Art of Pairing",
             "entities": {
-                "PERSON": [
-                    "you</li",
-                    "you</li",
-                    "Ben",
-                    "Art",
-                    "Ben",
-                    "Derrick",
-                    "li><a href=\"http://www.benorenstein.com/\">Ben's",
-                    "Kent Beck</li>",
-                    "Pomodoro"
-                ],
-                "DATE": [
-                    "fullstackradio&amp;utm_medium",
-                    "monthly"
+                "GPE": [
+                    "Cloudinary",
+                    "GB",
+                    "GB",
+                    "Netlify",
+                    "Wikipedia"
                 ],
                 "CARDINAL": [
                     "300,000",
                     "10",
-                    "20",
-                    "UTF8&amp;qid=1533135342&amp;sr=8-1&amp;keywords"
+                    "20"
                 ],
-                "GPE": [
-                    "GB",
-                    "GB"
+                "DATE": [
+                    "monthly"
+                ],
+                "PERSON": [
+                    "Ben",
+                    "Ben",
+                    "Derrick Reimer",
+                    "Ben",
+                    "Kent Beck",
+                    "Llewellyn"
                 ],
                 "ORG": [
-                    "Improve"
+                    "Tuple's Pair Programming Guide\n\nThe Art of Product",
+                    "Improve",
+                    "Programmer",
+                    "The Pomodoro Technique"
+                ],
+                "WORK_OF_ART": [
+                    "Extreme Programming Explained"
+                ],
+                "NORP": [
+                    "Vehikl"
                 ]
             }
         },
@@ -3431,27 +3589,41 @@
                 "ORG": [
                     "CSS",
                     "TDD",
-                    "MicroConf 2018</a></li",
+                    "Justin",
+                    "Justin",
+                    "Justin",
                     "Justin"
                 ],
-                "DATE": [
-                    "fullstackradio&amp;utm_medium",
-                    "monthly"
+                "GPE": [
+                    "Netlify",
+                    "Cloudinary",
+                    "GB",
+                    "GB"
                 ],
                 "CARDINAL": [
                     "300,000",
                     "10",
                     "20"
                 ],
-                "GPE": [
-                    "GB",
-                    "GB"
-                ],
-                "PERSON": [
-                    "Derek Sivers</li>"
+                "DATE": [
+                    "monthly"
                 ],
                 "WORK_OF_ART": [
-                    "Anything You Want\"</li>\n<li><a href=\"https://www.youtube.com/watch?v=F-q3PLqMOoc\">Justin's"
+                    "Anything You Want",
+                    "Anything You Want"
+                ],
+                "NORP": [
+                    "Derek Sivers"
+                ],
+                "PERSON": [
+                    "Adam",
+                    "Build"
+                ],
+                "LAW": [
+                    "MicroConf 2018"
+                ],
+                "LOC": [
+                    "Transistor.fm"
                 ]
             }
         },
@@ -3486,35 +3658,47 @@
             "entities": {
                 "PERSON": [
                     "Level",
+                    "Rollbar",
                     "Derrick",
                     "Derrick",
-                    "Elixir"
+                    "Elixir",
+                    "Contexts"
                 ],
                 "ORG": [
-                    "Elm",
-                    "GraphQL",
-                    "href=\"https://rollbar.com",
+                    "SPA",
+                    "REST",
                     "Bootstrap Plan",
-                    "channel/UC_S4Y8fdGKdsEWn4GcosEKw\">Level",
-                    "href=\"https://github.com"
+                    "Elm"
+                ],
+                "WORK_OF_ART": [
+                    "Choosing Elm",
+                    "The Elm Architecture\n\nElixir"
                 ],
                 "GPE": [
                     "Phoenix",
-                    "Rails</li",
                     "Phoenix",
+                    "Cloudinary",
                     "GB",
-                    "GB"
+                    "GB",
+                    "Phoenix",
+                    "Phoenix",
+                    "Absinthe"
+                ],
+                "FAC": [
+                    "GraphQL"
                 ],
                 "CARDINAL": [
                     "n+1",
-                    "90",
                     "300,000",
                     "10",
                     "20"
                 ],
                 "DATE": [
-                    "fullstackradio&amp;utm_medium",
+                    "90 days",
                     "monthly"
+                ],
+                "NORP": [
+                    "YouTube"
                 ]
             }
         },
@@ -3547,29 +3731,35 @@
             "pubDate": "Wed, 20 Jun 2018 04:30:00 +0000",
             "title": "91: Derrick Reimer - Designing a Calmer Team Communication Platform",
             "entities": {
-                "DATE": [
-                    "fullstackradio&amp;utm_medium",
-                    "monthly",
-                    "5 years"
+                "GPE": [
+                    "Cloudinary",
+                    "GB",
+                    "GB"
                 ],
                 "CARDINAL": [
                     "300,000",
                     "10",
-                    "20",
-                    "90"
+                    "20"
                 ],
-                "GPE": [
-                    "GB",
-                    "GB",
-                    "Ghost\"</a>,</li"
-                ],
-                "ORG": [
-                    "href=\"https://rollbar.com",
-                    "Bootstrap Plan",
-                    "channel/UC_S4Y8fdGKdsEWn4GcosEKw\">Level"
+                "DATE": [
+                    "monthly",
+                    "90 days",
+                    "5 years"
                 ],
                 "PERSON": [
-                    "Level"
+                    "Rollbar",
+                    "Level",
+                    "Discourse",
+                    "Ghost"
+                ],
+                "ORG": [
+                    "Bootstrap Plan"
+                ],
+                "EVENT": [
+                    "The War on Developer Productivity"
+                ],
+                "NORP": [
+                    "YouTube"
                 ],
                 "MONEY": [
                     "$3M"
@@ -3607,38 +3797,39 @@
             "entities": {
                 "ORG": [
                     "JSX",
-                    "href=\"https://rollbar.com",
+                    "Advantages of JSX",
+                    "JSX",
+                    "JSX",
                     "Bootstrap Plan",
-                    "href=\"https://reactjs.org",
-                    "Functions &",
-                    "href=\"https://github.com"
+                    "Render Functions & JSX",
+                    "Template Explorer",
+                    "JSX",
+                    "JSX",
+                    "Alligator.io"
                 ],
                 "PERSON": [
                     "JSX",
-                    "JSX</li",
-                    "JSX</li",
-                    "jsx.html\">Introducing JSX</a",
-                    "Vue"
+                    "JSX",
+                    "Rollbar",
+                    "Vue",
+                    "Sebastian De Deyne"
                 ],
-                "DATE": [
-                    "fullstackradio&amp;utm_medium",
-                    "monthly"
+                "GPE": [
+                    "Cloudinary",
+                    "GB",
+                    "GB"
                 ],
                 "CARDINAL": [
                     "300,000",
                     "10",
-                    "20",
-                    "90"
+                    "20"
                 ],
-                "GPE": [
-                    "GB",
-                    "GB"
+                "DATE": [
+                    "monthly",
+                    "90 days"
                 ],
-                "NORP": [
-                    "ReactJs"
-                ],
-                "LAW": [
-                    "Render Functions"
+                "WORK_OF_ART": [
+                    "Hyperscript\nWhy React"
                 ]
             }
         },
@@ -3675,26 +3866,31 @@
                     "Ember",
                     "Ember",
                     "Ember",
-                    "React/Vue?</li",
+                    "React/Vue",
                     "Ember",
                     "Ember",
-                    "href=\"https://rollbar.com",
                     "Bootstrap Plan",
+                    "EmberMap",
                     "Ember.js",
-                    "Tailwind CSS",
                     "Ember",
+                    "Ember Data",
                     "Ember",
-                    "v3.1.0/models/\">Ember Data</a></li",
-                    "href=\"https://emberjs.com/builds/\">Ember's",
                     "Ember.js"
                 ],
-                "PERSON": [
-                    "Ember",
-                    "Sam",
-                    "cycle</a></li"
+                "GPE": [
+                    "React",
+                    "Forrester"
                 ],
-                "CARDINAL": [
-                    "90"
+                "PERSON": [
+                    "Rollbar",
+                    "Sam",
+                    "Tailwind CSS"
+                ],
+                "DATE": [
+                    "90 days"
+                ],
+                "WORK_OF_ART": [
+                    "Handlebars, Ember's"
                 ]
             }
         },
@@ -3729,25 +3925,33 @@
             "entities": {
                 "PERSON": [
                     "Vuex",
+                    "Vuex\nDealing",
+                    "Vuex\nSponsors:\n\nRollbar",
                     "Adam",
-                    "Sarah Drasner</li"
+                    "Sarah Drasner"
+                ],
+                "CARDINAL": [
+                    "one"
                 ],
                 "GPE": [
+                    "Vuex",
+                    "Forrester",
                     "Vuex"
                 ],
                 "NORP": [
-                    "Vuex",
-                    "Vuex",
-                    "Vuex</li",
-                    "Vuex</li"
+                    "Vuex"
                 ],
                 "ORG": [
-                    "href=\"https://rollbar.com",
+                    "Vuex",
+                    "Strategies",
                     "Bootstrap Plan",
+                    "Vuex Documentation",
+                    "The Elm Architecture",
+                    "Intro",
                     "CSS Tricks"
                 ],
-                "CARDINAL": [
-                    "90"
+                "DATE": [
+                    "90 days"
                 ]
             }
         },
@@ -3781,33 +3985,27 @@
             "title": "87: Chris Fritz - Vue.js Anti-Patterns (and How to Avoid Them)",
             "entities": {
                 "PERSON": [
-                    "bus</li",
+                    "Inline",
+                    "Rollbar",
                     "Adam",
-                    "chrisvfritz\">Chris",
-                    "Secret Patterns",
                     "Chris",
-                    "Computed",
-                    "sarah_edo\">Sarah Drasner</a>",
-                    "chrisvfritz"
+                    "Chris",
+                    "Sarah Drasner"
                 ],
                 "ORG": [
-                    "href=\"https://rollbar.com",
                     "Bootstrap Plan",
-                    "href=\"https://twitter.com",
-                    "href=\"https://github.com",
-                    "LinusBorg"
-                ],
-                "CARDINAL": [
-                    "90"
-                ],
-                "TIME": [
-                    "li><a href=\"https://github.com"
-                ],
-                "NORP": [
-                    "GitHub</a></li"
+                    "GitHub\nChris on Patreon",
+                    "PortalVue"
                 ],
                 "DATE": [
-                    "li><a href=\"https://www.patreon.com/chrisvuefritz\">Chris"
+                    "90 days"
+                ],
+                "GPE": [
+                    "Forrester"
+                ],
+                "WORK_OF_ART": [
+                    "7 Secret Patterns Vue Consultants Don't Want You To Know",
+                    "\"Methods, Computed, and Watchers"
                 ]
             }
         },
@@ -3840,10 +4038,6 @@
             "pubDate": "Wed, 11 Apr 2018 14:07:00 +0000",
             "title": "86: Jonathan Reinink - Rebuilding a SaaS with Vue.js and Tailwind CSS",
             "entities": {
-                "NORP": [
-                    "non-Vue",
-                    "application</li"
-                ],
                 "PERSON": [
                     "Vue",
                     "Jonathan",
@@ -3851,29 +4045,31 @@
                     "Tailwind",
                     "Tailwind",
                     "Jonathan",
+                    "Rollbar",
                     "Adam",
-                    "Adam",
-                    "library</li"
+                    "Adam"
                 ],
                 "ORG": [
-                    "CSS",
                     "Purgecss",
                     "CSS",
-                    "href=\"https://rollbar.com",
                     "Bootstrap Plan",
-                    "href=\"https://github.com",
-                    "LinusBorg",
-                    "FullHuman/purgecss\">Purgecss</a></li"
+                    "PortalVue"
                 ],
                 "CARDINAL": [
                     "110,000",
                     "1.7",
-                    "8.8",
-                    "90"
+                    "8.8"
                 ],
-                "TIME": [
-                    "li><a href=\"https://github.com",
-                    "li><a href=\"https://github.com"
+                "GPE": [
+                    "Forrester"
+                ],
+                "DATE": [
+                    "90 days",
+                    "Pikaday"
+                ],
+                "WORK_OF_ART": [
+                    "Building a Sortable Component",
+                    "Tailwind CSS\nTurbolinks"
                 ]
             }
         },
@@ -3906,20 +4102,27 @@
             "pubDate": "Fri, 30 Mar 2018 13:18:00 +0000",
             "title": "85: Frank de Jonge - Event Sourcing for Beginners",
             "entities": {
+                "PERSON": [
+                    "Rollbar",
+                    "Adam",
+                    "Frank",
+                    "Frank",
+                    "Martin Fowler",
+                    "Greg Young"
+                ],
                 "ORG": [
-                    "href=\"https://rollbar.com",
                     "Bootstrap Plan",
                     "PHP"
                 ],
-                "CARDINAL": [
-                    "90",
-                    "2014</li"
+                "DATE": [
+                    "90 days"
                 ],
-                "PERSON": [
-                    "Adam",
-                    "Frank",
-                    "Martin Fowler</li>",
-                    "Greg Young"
+                "GPE": [
+                    "Forrester"
+                ],
+                "WORK_OF_ART": [
+                    "Event Store event sourcing database\n\n\"Event Sourcing",
+                    "Event Sourcing"
                 ]
             }
         },
@@ -3954,26 +4157,26 @@
             "entities": {
                 "PERSON": [
                     "Vue",
+                    "Rollbar",
                     "Edd",
                     "Edd",
-                    "zinserjan"
+                    "Snapshot"
+                ],
+                "GPE": [
+                    "Forrester",
+                    "Jest"
                 ],
                 "ORG": [
-                    "href=\"https://rollbar.com",
                     "Bootstrap Plan",
-                    "href=\"https://github.com",
-                    "href=\"https://github.com",
-                    "href=\"https://github.com",
-                    "jsdom/jsdom\">jsdom</a></li"
+                    "GitHub",
+                    "Enzyme",
+                    "Async Vue"
                 ],
-                "CARDINAL": [
-                    "90"
+                "DATE": [
+                    "90 days"
                 ],
-                "NORP": [
-                    "href=\"https://vue"
-                ],
-                "TIME": [
-                    "li><a href=\"https://github.com"
+                "WORK_OF_ART": [
+                    "Testing Vue.js Applications"
                 ]
             }
         },
@@ -4009,35 +4212,35 @@
                 "PERSON": [
                     "JavaScript",
                     "David",
-                    "David"
+                    "Rollbar",
+                    "David",
+                    "Basecamp"
                 ],
                 "GPE": [
                     "Basecamp",
-                    "SJR)\"</a",
-                    "M3JPTOTqsnE&amp;list"
+                    "Forrester"
                 ],
                 "WORK_OF_ART": [
-                    "Writing Software"
+                    "On Writing Software",
+                    "On Writing Software"
                 ],
                 "ORG": [
-                    "href=\"https://rollbar.com",
                     "Bootstrap Plan",
-                    "href=\"https://m.signalvnoise.com",
-                    "YouTube"
+                    "GitHub",
+                    "SJR"
                 ],
-                "CARDINAL": [
-                    "90",
-                    "2013)</li"
-                ],
-                "NORP": [
-                    "GitHub</a></li"
-                ],
-                "TIME": [
-                    "li><a href=\"https://github.com",
-                    "li><a href=\"https://github.com"
+                "DATE": [
+                    "90 days",
+                    "2013"
                 ],
                 "PRODUCT": [
                     "JavaScript Responses"
+                ],
+                "CARDINAL": [
+                    "2",
+                    "3",
+                    "4",
+                    "5"
                 ]
             }
         },
@@ -4072,32 +4275,43 @@
             "entities": {
                 "ORG": [
                     "CSS",
-                    "JavaScript",
                     "CSS",
                     "FLIP",
-                    "href=\"https://rollbar.com",
+                    "Strategies",
                     "Bootstrap Plan",
-                    "href=\"https://aerotwist.com",
+                    "CodePen",
+                    "Animation in Design Systems",
                     "FLIP",
-                    "Sarahs",
-                    "VueConf"
+                    "Transitions",
+                    "Sarahs"
                 ],
-                "CARDINAL": [
-                    "90"
-                ],
-                "PERSON": [
-                    "sdras/\">Sarah",
-                    "Sarah",
-                    "Sarah",
-                    "Sarah",
-                    "Sarah",
-                    "Val"
-                ],
-                "NORP": [
-                    "href=\"https://24ways.org/2016"
+                "PRODUCT": [
+                    "JavaScript"
                 ],
                 "GPE": [
-                    "Design"
+                    "Forrester"
+                ],
+                "PERSON": [
+                    "Rollbar",
+                    "Sarah",
+                    "Sarah",
+                    "Sarah",
+                    "Sarah",
+                    "Sarah",
+                    "Sarah",
+                    "Val Head"
+                ],
+                "DATE": [
+                    "90 days",
+                    "2017"
+                ],
+                "WORK_OF_ART": [
+                    "Functional Animation",
+                    "FLIP Your Animations",
+                    "Animating Vue"
+                ],
+                "CARDINAL": [
+                    "24"
                 ]
             }
         },
@@ -4131,27 +4345,30 @@
             "title": "81: Evan You - Advanced Vue Component Design",
             "entities": {
                 "ORG": [
-                    "component\"?</li",
-                    "href=\"https://rollbar.com",
+                    "React with Vue",
+                    "JSX",
                     "Bootstrap Plan",
-                    "href=\"https://reactjs.org",
-                    "Functions</a"
-                ],
-                "GPE": [
-                    "React",
-                    "Slots</a"
+                    "Higher-Order Components",
+                    "Scoped Slots",
+                    "Render Functions",
+                    "Vue\n\nFetch Component Demo"
                 ],
                 "PERSON": [
-                    "JSX</li",
                     "Vue",
+                    "Rollbar",
                     "Michael Jackson",
                     "Evan"
                 ],
-                "CARDINAL": [
-                    "90"
+                "GPE": [
+                    "Forrester",
+                    "React"
                 ],
-                "NORP": [
-                    "podcast</li"
+                "DATE": [
+                    "90 days"
+                ],
+                "WORK_OF_ART": [
+                    "Use a Render Prop",
+                    "Writing Abstract Components"
                 ]
             }
         },
@@ -4184,25 +4401,32 @@
             "pubDate": "Wed, 17 Jan 2018 14:37:00 +0000",
             "title": "80: Tom Schlick - Building Multitenant Applications",
             "entities": {
-                "ORG": [
-                    "href=\"https://rollbar.com",
-                    "Bootstrap Plan",
-                    "Laracon US 2017</li",
-                    "href=\"https://stripe.com",
-                    "Stripe",
-                    "href=\"https://githubengineering.com",
-                    "GitHub"
-                ],
-                "CARDINAL": [
-                    "90"
-                ],
                 "PERSON": [
-                    "day-1-tom-schlick\">\"Building Multitenant Applications\"</a>",
+                    "Approaches",
+                    "Rollbar",
                     "Tom",
                     "Tom"
                 ],
                 "GPE": [
-                    "scale\"</a"
+                    "Forrester"
+                ],
+                "ORG": [
+                    "Bootstrap Plan",
+                    "Slides",
+                    "GitHub"
+                ],
+                "DATE": [
+                    "90 days",
+                    "2017"
+                ],
+                "WORK_OF_ART": [
+                    "Building Multitenant Applications"
+                ],
+                "LOC": [
+                    "Laracon US"
+                ],
+                "PRODUCT": [
+                    "Stripe"
                 ]
             }
         },
@@ -4235,30 +4459,31 @@
             "pubDate": "Thu, 21 Dec 2017 20:50:00 +0000",
             "title": "79: Kent C. Dodds - Building Reusable React Components with Render Props",
             "entities": {
-                "ORG": [
-                    "href=\"https://rollbar.com",
-                    "Bootstrap Plan",
-                    "href=\"https://github.com",
-                    "Kent",
-                    "href=\"https://github.com",
-                    "href=\"https://github.com",
-                    "Kent's"
-                ],
-                "CARDINAL": [
-                    "90"
-                ],
                 "PERSON": [
-                    "Michael Jackson</li>",
-                    "Ryan",
+                    "Rollbar",
                     "Kent",
-                    "kentcdodds",
+                    "Michael Jackson",
+                    "Ryan Florence",
+                    "Kent",
                     "Kent"
                 ],
-                "TIME": [
-                    "li><a href=\"https://github.com"
+                "ORG": [
+                    "Bootstrap Plan",
+                    "GitHub",
+                    "Awesome React Render Props",
+                    "Kent",
+                    "Kent's"
                 ],
-                "EVENT": [
-                    "React Fundamentals"
+                "DATE": [
+                    "90 days"
+                ],
+                "GPE": [
+                    "Forrester"
+                ],
+                "WORK_OF_ART": [
+                    "Use a Render Prop",
+                    "Compound Components",
+                    "Learn React Fundamentals and Advanced Patterns"
                 ]
             }
         },
@@ -4291,15 +4516,8 @@
             "pubDate": "Wed, 06 Dec 2017 05:30:00 +0000",
             "title": "78: Ben Orenstein - Our All-Time Favorite Refactorings",
             "entities": {
-                "ORG": [
-                    "href=\"https://rollbar.com",
-                    "Bootstrap Plan",
-                    "OO"
-                ],
-                "CARDINAL": [
-                    "90"
-                ],
                 "PERSON": [
+                    "Rollbar",
                     "Ben",
                     "Ben",
                     "Ben",
@@ -4309,11 +4527,22 @@
                     "Adam",
                     "Gary Bernhardt's"
                 ],
-                "DATE": [
-                    "30-day"
+                "ORG": [
+                    "Bootstrap Plan",
+                    "Decompose Conditional",
+                    "OO"
                 ],
-                "NORP": [
-                    "Method"
+                "DATE": [
+                    "90 days",
+                    "30-day",
+                    "Boundaries"
+                ],
+                "GPE": [
+                    "Forrester"
+                ],
+                "WORK_OF_ART": [
+                    "Introduce Parameter Object\nReplace Conditional with Polymorphism\n\nChasing Perfect",
+                    "Curing the Common Loop"
                 ]
             }
         },
@@ -4346,32 +4575,40 @@
             "pubDate": "Tue, 21 Nov 2017 14:52:00 +0000",
             "title": "77: Tailwind CSS Q&A and the Road to 1.0",
             "entities": {
+                "WORK_OF_ART": [
+                    "Using Tailwind",
+                    "Optimizing Tailwind's",
+                    "Tailwind CSS Homepage\nTailwind CSS GitHub"
+                ],
                 "ORG": [
                     "CSS",
-                    "href=\"https://rollbar.com",
                     "Bootstrap Plan",
-                    "CSS",
-                    "CSS",
-                    "CSS",
-                    "href=\"https://twitter.com",
-                    "href=\"https://github.com",
-                    "CSS",
                     "Tailwind CSS",
-                    "href=\"https://twitter.com"
+                    "CSS",
+                    "PurgeCSS",
+                    "Tailwind CSS",
+                    "PurgeCSS\n\nBuilding a Login Page",
+                    "Tailwind CSS"
                 ],
                 "PERSON": [
-                    "Optimizing Tailwind's",
                     "Tailwind",
-                    "simonswiss\">Simon Vrachliotis</a",
-                    "AndrewDelPrete\">Andrew Del",
+                    "Rollbar",
                     "Tailwind",
-                    "Tailwind CSS</a"
+                    "Tailwind Expo",
+                    "Simon Vrachliotis",
+                    "Andrew Del Prete",
+                    "Jason Beggs'",
+                    "Tailwind",
+                    "Mustafa Ehsan"
                 ],
-                "CARDINAL": [
-                    "90"
+                "DATE": [
+                    "90 days"
                 ],
-                "TIME": [
-                    "li><a href=\"https://github.com"
+                "GPE": [
+                    "Forrester"
+                ],
+                "LOC": [
+                    "Egghead.io"
                 ]
             }
         },
@@ -4404,18 +4641,29 @@
             "pubDate": "Wed, 08 Nov 2017 20:30:00 +0000",
             "title": "76: Tailwind CSS vs. the World",
             "entities": {
-                "ORG": [
-                    "href=\"https://rollbar.com",
-                    "Bootstrap Plan",
-                    "CSS",
-                    "CSS"
-                ],
-                "CARDINAL": [
-                    "90"
-                ],
                 "PERSON": [
+                    "Rollbar",
                     "Adam",
-                    "Tailwind CSS\"</a"
+                    "Tailwind"
+                ],
+                "ORG": [
+                    "Bootstrap Plan",
+                    "Tailwind CSS",
+                    "Tailwind CSS"
+                ],
+                "DATE": [
+                    "90 days"
+                ],
+                "GPE": [
+                    "Forrester"
+                ],
+                "WORK_OF_ART": [
+                    "Tailwind CSS Homepage\nTailwind CSS GitHub",
+                    "CSS Utility Classes and Separation of Concerns",
+                    "Rebuilding Laravel.io"
+                ],
+                "ORDINAL": [
+                    "first"
                 ]
             }
         },
@@ -4448,19 +4696,33 @@
             "pubDate": "Wed, 25 Oct 2017 14:49:00 +0000",
             "title": "75: Diana Mounter - Design Systems and Utility Classes at GitHub",
             "entities": {
+                "PERSON": [
+                    "Rollbar",
+                    "Diana",
+                    "Diana"
+                ],
                 "ORG": [
-                    "href=\"https://rollbar.com",
                     "Bootstrap Plan",
+                    "Primer",
                     "GitHub",
-                    "href=\"https://github.com",
-                    "href=\"https://twitter.com",
-                    "href=\"https://twitter.com"
+                    "Primer",
+                    "GitHub",
+                    "GitHub\n\nPercy",
+                    "Primer CSS",
+                    "GitHub Design"
                 ],
                 "CARDINAL": [
                     "90"
                 ],
-                "PERSON": [
-                    "Diana"
+                "WORK_OF_ART": [
+                    "Introducing Design Systems"
+                ],
+                "GPE": [
+                    "Chaos"
+                ],
+                "PRODUCT": [
+                    "Twitter",
+                    "Twitter"
                 ]
             }
         },
@@ -4493,39 +4755,46 @@
             "pubDate": "Thu, 12 Oct 2017 20:21:00 +0000",
             "title": "74: Steve Schoger - Tactical Design Advice for Developers",
             "entities": {
-                "GPE": [
-                    "greyscale</li",
-                    "UI",
-                    "C++"
-                ],
                 "ORDINAL": [
                     "first"
                 ],
                 "ORG": [
-                    "href=\"https://rollbar.com",
+                    "Strategies",
                     "Bootstrap Plan",
-                    "href=\"https://twitter.com",
-                    "CSS-Tricks</li",
-                    "href=\"https://github.com",
-                    "whatfont/jabopobgcpjmedljpbcaablpmlmfcogm?hl",
-                    "href=\"https://dribbble.com",
+                    "Google Fonts",
+                    "CSS-Tricks",
+                    "Inter UI",
+                    "Figma",
                     "Figma",
                     "SVG",
                     "SVG",
                     "Hero Patterns"
                 ],
-                "CARDINAL": [
-                    "90"
-                ],
                 "PERSON": [
+                    "Rollbar",
                     "Steve",
-                    "inter\">Inter UI</a",
-                    "Chrome",
+                    "Steve",
+                    "Steve",
                     "Erik Kennedy",
+                    "Sketch",
+                    "Zondicons",
                     "Steve",
+                    "Hero Patterns",
                     "Steve",
-                    "Steve",
-                    "kit</li"
+                    "Steve"
+                ],
+                "CARDINAL": [
+                    "90",
+                    "12"
+                ],
+                "WORK_OF_ART": [
+                    "WhatFont Chrome Extension\nFonts In Use\nDribbble color picker\n\n",
+                    "Color in UI Design",
+                    "Epicenter Design"
+                ],
+                "GPE": [
+                    "C++",
+                    "Shippo"
                 ]
             }
         },
@@ -4562,26 +4831,31 @@
                     "first",
                     "first"
                 ],
-                "ORG": [
-                    "href=\"https://rollbar.com",
-                    "Bootstrap Plan",
-                    "href=\"https://www.softwarebyrob.com/2015/03/26",
-                    "Justin",
-                    "justin-jackson\">Justin's Laracon 2017 Talk</a></li"
-                ],
-                "CARDINAL": [
-                    "90"
-                ],
                 "PERSON": [
-                    "Tyler Tringas for",
-                    "li><a href=\"https://pippinsplugins.com/\">Pippin's",
-                    "Rob Walling</li>",
-                    "Justin Jackson</li>\n",
-                    "Adam",
-                    "independent</li"
+                    "Rollbar",
+                    "Tyler Tringas for IndieHackers\nPippin's",
+                    "Rob Walling",
+                    "Justin Jackson",
+                    "Adam"
+                ],
+                "ORG": [
+                    "Bootstrap Plan",
+                    "Storemapper",
+                    "Justin",
+                    "Refactoring UI",
+                    "Justin"
+                ],
+                "DATE": [
+                    "90 days"
+                ],
+                "GPE": [
+                    "Basecamp"
                 ],
                 "MONEY": [
                     "61,392"
+                ],
+                "WORK_OF_ART": [
+                    "Marketing for Developers"
                 ]
             }
         },
@@ -4614,26 +4888,28 @@
             "pubDate": "Wed, 13 Sep 2017 04:30:00 +0000",
             "title": "72: Taylor Otwell - Testing Laravel Applications",
             "entities": {
-                "NORP": [
-                    "HTML</li"
-                ],
                 "ORG": [
-                    "href=\"https://rollbar.com",
+                    "Feature",
                     "Bootstrap Plan",
-                    "href=\"https://course.testdrivenlaravel.com"
-                ],
-                "CARDINAL": [
-                    "90"
+                    "Laravel Horizon"
                 ],
                 "PERSON": [
+                    "Rollbar",
                     "Adam",
-                    "Fakes</a",
                     "Adam",
                     "Adam",
                     "Adam"
                 ],
-                "TIME": [
-                    "li><a href=\"https://github.com"
+                "DATE": [
+                    "90 days"
+                ],
+                "PRODUCT": [
+                    "Laravel Fakes"
+                ],
+                "WORK_OF_ART": [
+                    "Don't Mock What You Don't Own",
+                    "Writing Your Own Test",
+                    "Preventing API Drift"
                 ]
             }
         },
@@ -4666,22 +4942,24 @@
             "pubDate": "Wed, 30 Aug 2017 04:30:00 +0000",
             "title": "71: Building a CSS Framework with PostCSS",
             "entities": {
-                "PERSON": [
-                    "is</em",
-                    "Adam",
-                    "API documentation</a></li"
-                ],
                 "ORG": [
                     "CSS",
-                    "href=\"https://rollbar.com",
+                    "CSS",
                     "Bootstrap Plan",
-                    "CSS"
+                    "CSS",
+                    "API"
                 ],
-                "CARDINAL": [
-                    "90"
+                "PERSON": [
+                    "Rollbar",
+                    "Adam",
+                    "Tailwind"
+                ],
+                "DATE": [
+                    "90 days"
                 ],
                 "WORK_OF_ART": [
-                    "Utility Classes"
+                    "Separation of Concerts",
+                    "Create Your Own Plugin"
                 ]
             }
         },
@@ -4714,30 +4992,31 @@
             "pubDate": "Wed, 16 Aug 2017 04:30:00 +0000",
             "title": "70: Jeffrey Way - Vue.js Tactics for Server-Side Web Apps",
             "entities": {
+                "PERSON": [
+                    "Sharing",
+                    "Rollbar",
+                    "Ziggy",
+                    "Adam"
+                ],
+                "ORG": [
+                    "Comparing",
+                    "Bootstrap Plan",
+                    "AJAX",
+                    "Vue\nTurbolinks",
+                    "Simple State Management"
+                ],
                 "ORDINAL": [
                     "third"
                 ],
-                "ORG": [
-                    "href=\"https://rollbar.com",
-                    "Bootstrap Plan",
-                    "href=\"https://laracasts.com",
-                    "href=\"https://github.com",
-                    "Laravel",
-                    "AJAX",
-                    "Events</a",
-                    "State"
+                "DATE": [
+                    "90 days"
                 ],
-                "CARDINAL": [
-                    "90"
-                ],
-                "PERSON": [
-                    "Adam"
+                "NORP": [
+                    "Laracasts"
                 ],
                 "GPE": [
-                    "href=\"https://vuex.vuejs.org"
-                ],
-                "TIME": [
-                    "li><a href=\"https://github.com"
+                    "Laravel",
+                    "Vuex"
                 ]
             }
         },
@@ -4770,26 +5049,20 @@
             "pubDate": "Wed, 02 Aug 2017 04:00:00 +0000",
             "title": "69: Hybrid Mobile Apps with Turbolinks and Laravel",
             "entities": {
-                "ORG": [
-                    "href=\"https://rollbar.com",
-                    "Bootstrap Plan",
-                    "href=\"https://laracasts.com"
-                ],
-                "CARDINAL": [
-                    "90",
-                    "5"
-                ],
-                "TIME": [
-                    "li><a href=\"https://github.com",
-                    "li><a href=\"https://github.com",
-                    "li><a href=\"https://github.com"
+                "EVENT": [
+                    "Ionic"
                 ],
                 "PERSON": [
-                    "Android",
-                    "sstephenson\">Sam Stephenson</a"
+                    "Rollbar",
+                    "Turbolinks Android",
+                    "Sam Stephenson"
                 ],
-                "WORK_OF_ART": [
-                    "Sweet Spot"
+                "ORG": [
+                    "Bootstrap Plan",
+                    "DHH\n\n\nIonic"
+                ],
+                "DATE": [
+                    "90 days"
                 ],
                 "FAC": [
                     "Basecamp"
@@ -4825,24 +5098,23 @@
             "pubDate": "Wed, 19 Jul 2017 05:00:00 +0000",
             "title": "68: Building Interfaces with Utility-First CSS",
             "entities": {
-                "ORG": [
-                    "href=\"https://rollbar.com",
-                    "Bootstrap Plan",
-                    "the Block Element Modifier CSS methodology</li",
-                    "href=\"http://nicolasgallagher.com",
-                    "CSS"
-                ],
-                "CARDINAL": [
-                    "90"
-                ],
                 "PERSON": [
+                    "Rollbar",
                     "Nicolas Gallagher",
                     "Adam",
                     "Adam",
+                    "Beard",
                     "David Hemphill's"
                 ],
-                "NORP": [
-                    "Designs"
+                "ORG": [
+                    "Bootstrap Plan",
+                    "BEM",
+                    "the Block Element Modifier CSS",
+                    "CSS",
+                    "CSS"
+                ],
+                "DATE": [
+                    "90 days"
                 ]
             }
         },
@@ -4878,9 +5150,11 @@
                 "PERSON": [
                     "Adam",
                     "Steve",
+                    "Rollbar",
                     "David",
-                    "vb.504000177/10154480805835178/?type=2&amp;theater\">David",
-                    "Laura Roeder</a",
+                    "David",
+                    "Interviews",
+                    "Laura Roeder",
                     "Adam"
                 ],
                 "GPE": [
@@ -4888,15 +5162,21 @@
                     "UI"
                 ],
                 "MONEY": [
-                    "2000"
+                    "2000",
+                    "6"
                 ],
                 "ORG": [
-                    "href=\"https://rollbar.com",
                     "Bootstrap Plan",
-                    "laura-roeder\">Interviews"
+                    "MeetEdgar",
+                    "KiteTail",
+                    "BidSketch"
                 ],
-                "CARDINAL": [
-                    "90"
+                "DATE": [
+                    "90 days"
+                ],
+                "PRODUCT": [
+                    "PushSilver",
+                    "PushSilver"
                 ]
             }
         },
@@ -4933,6 +5213,7 @@
                     "Adam",
                     "Zttp",
                     "Lumen",
+                    "Rollbar",
                     "Rob Walling's",
                     "Zttp",
                     "Adam",
@@ -4942,26 +5223,26 @@
                 ],
                 "ORG": [
                     "KiteTail",
-                    "href=\"https://rollbar.com",
                     "Bootstrap Plan",
-                    "href=\"https://github.com",
-                    "href=\"https://github.com",
-                    "kitetail/zttp",
+                    "Hired\nLinks:\n\nPushSilver Infinite",
+                    "GitHub\n\nLumen",
+                    "Laravel",
+                    "Lumen",
                     "HTTP",
+                    "Craft and Commerce",
                     "ConvertKit"
                 ],
-                "CARDINAL": [
-                    "90",
-                    "2016</li"
+                "DATE": [
+                    "90 days",
+                    "2016",
+                    "this month"
                 ],
                 "MONEY": [
                     "2000"
                 ],
                 "WORK_OF_ART": [
-                    "Double Your Trial-to-Paid Conversion Rate"
-                ],
-                "GPE": [
-                    "KiteTail\"</a></li"
+                    "Test-Driving Webhook Failures",
+                    "Building KiteTail"
                 ]
             }
         },
@@ -4997,23 +5278,25 @@
                 "PERSON": [
                     "Adam",
                     "KiteTail",
+                    "Rollbar",
                     "David",
                     "Adam",
-                    "Jason",
+                    "Jason Cohen\nSketch",
+                    "Steve Schoger",
                     "Adam",
+                    "Steve\n\n",
+                    "Zondicons Blade",
+                    "Hero Patterns",
+                    "Steve",
+                    "Steve",
                     "Adam"
                 ],
                 "ORG": [
                     "KiteTail",
                     "the Test-Driven Laravel",
-                    "href=\"https://rollbar.com",
                     "Bootstrap Plan",
                     "HTTP",
-                    "href=\"https://twitter.com",
-                    "KiteTail co-founder</li",
-                    "SVG icon",
-                    "href=\"https://github.com",
-                    "SVG",
+                    "Zondicons SVG icon",
                     "SVG",
                     "SVG",
                     "YouTube"
@@ -5021,18 +5304,21 @@
                 "MONEY": [
                     "2000"
                 ],
-                "CARDINAL": [
-                    "90"
-                ],
                 "DATE": [
+                    "90 days",
                     "annual"
+                ],
+                "PRODUCT": [
+                    "PushSilver",
+                    "KiteTail",
+                    "KiteTail",
+                    "KiteTail"
+                ],
+                "WORK_OF_ART": [
+                    "Designing the Ideal Bootstrapped Business"
                 ],
                 "GPE": [
                     "Laravel"
-                ],
-                "PRODUCT": [
-                    "KiteTail",
-                    "KiteTail"
                 ]
             }
         },
@@ -5069,27 +5355,32 @@
                     "Thermostat.io",
                     "NPS",
                     "PushSilver",
-                    "href=\"https://rollbar.com",
                     "Bootstrap Plan",
+                    "Hired\nLinks:\n\n",
+                    "Thermostat.io",
                     "NPS",
-                    "href=\"https://founderchats.com",
-                    "jesse-mecham-youneedabudget-e27f3884ccff\">Jesse"
+                    "Net Promoter Score\n\n      "
                 ],
                 "CARDINAL": [
-                    "One",
-                    "90"
+                    "One"
+                ],
+                "PERSON": [
+                    "Rollbar",
+                    "Ian",
+                    "David",
+                    "Adam",
+                    "Jesse Mecham",
+                    "Chats"
+                ],
+                "DATE": [
+                    "90 days"
                 ],
                 "MONEY": [
                     "2000"
                 ],
-                "PERSON": [
-                    "Ian",
-                    "David",
-                    "Adam",
-                    "Mecham"
-                ],
-                "NORP": [
-                    "Promoter"
+                "PRODUCT": [
+                    "PushSilver",
+                    "KiteTail"
                 ]
             }
         },
@@ -5122,16 +5413,19 @@
             "pubDate": "Thu, 27 Apr 2017 13:21:00 +0000",
             "title": "63: MicroConf, Dog Food, and Image Previews",
             "entities": {
-                "LOC": [
-                    "KiteTail</li",
-                    "KiteTail</li"
+                "WORK_OF_ART": [
+                    "Dogfooding Cron Dog",
+                    "Building a Cron Dog SDK\nSponsors:\n\nRollbar"
                 ],
                 "ORG": [
-                    "href=\"https://rollbar.com",
-                    "Bootstrap Plan"
+                    "Validation",
+                    "KiteTail\nDifferent",
+                    "Bootstrap Plan",
+                    "Hired\nLinks",
+                    "ConvertKit"
                 ],
-                "CARDINAL": [
-                    "90"
+                "DATE": [
+                    "90 days"
                 ],
                 "MONEY": [
                     "2000",
@@ -5142,7 +5436,12 @@
                     "David",
                     "Adam",
                     "Adam",
+                    "KiteTail",
                     "Adam"
+                ],
+                "PRODUCT": [
+                    "PushSilver",
+                    "KiteTail"
                 ],
                 "ORDINAL": [
                     "first"
@@ -5179,19 +5478,33 @@
             "title": "62: Timezones, Webhook Security, and UI Decisions",
             "entities": {
                 "ORG": [
-                    "href=\"https://rollbar.com",
-                    "Bootstrap Plan"
+                    "MicroConf",
+                    "Bootstrap Plan",
+                    "Hired\nLinks:\n\nCrondog",
+                    "GitHub",
+                    "HMAC"
                 ],
-                "CARDINAL": [
-                    "90"
+                "PERSON": [
+                    "Rollbar",
+                    "David",
+                    "Adam",
+                    "Laravel Spark",
+                    "David"
+                ],
+                "DATE": [
+                    "90 days"
                 ],
                 "MONEY": [
                     "2000"
                 ],
-                "PERSON": [
-                    "David",
-                    "Adam",
-                    "David"
+                "PRODUCT": [
+                    "KiteTail"
+                ],
+                "GPE": [
+                    "Wikipedia"
+                ],
+                "WORK_OF_ART": [
+                    "MicroConf Start Edition\n\n      "
                 ]
             }
         },
@@ -5225,31 +5538,36 @@
             "title": "61: We're Building Products!",
             "entities": {
                 "PERSON": [
+                    "Crondog",
+                    "Adam",
+                    "KiteTail",
+                    "David",
+                    "Adam",
+                    "Rollbar",
                     "David",
                     "Adam",
                     "David",
-                    "Adam",
+                    "David",
+                    "Laravel Spark",
                     "David",
                     "Adam",
-                    "David",
-                    "David",
-                    "David",
                     "Adam",
-                    "Adam"
+                    "KiteTail\nMicroConf"
                 ],
                 "ORG": [
-                    "href=\"https://rollbar.com",
                     "Bootstrap Plan",
-                    "href=\"https://course.testdrivenlaravel.com"
+                    "Hired\nLinks:\n\nCrondog",
+                    "CronDog"
                 ],
-                "CARDINAL": [
-                    "90"
+                "DATE": [
+                    "90 days"
                 ],
                 "MONEY": [
                     "2000"
                 ],
-                "LOC": [
-                    "KiteTail</li"
+                "PRODUCT": [
+                    "KiteTail",
+                    "PushSilver"
                 ]
             }
         },
@@ -5282,23 +5600,28 @@
             "pubDate": "Wed, 15 Mar 2017 17:06:00 +0000",
             "title": "60: Michelle Bu - Engineering Payments at Stripe",
             "entities": {
-                "ORG": [
-                    "href=\"https://rollbar.com",
-                    "Bootstrap Plan",
-                    "href=\"https://stripe.com/checkout\">Stripe",
-                    "href=\"https://twitter.com",
-                    "href=\"http://amberonrails.com",
-                    "href=\"https://twitter.com"
+                "PERSON": [
+                    "Rollbar",
+                    "Michelle",
+                    "Amber Feng",
+                    "Move Fast"
                 ],
-                "CARDINAL": [
-                    "90"
+                "ORG": [
+                    "Bootstrap Plan",
+                    "Hired\nLinks",
+                    "Amber Feng"
+                ],
+                "DATE": [
+                    "90 days"
                 ],
                 "MONEY": [
                     "2000"
                 ],
+                "PRODUCT": [
+                    "Twitter"
+                ],
                 "WORK_OF_ART": [
-                    "engineering\">Stripe's Engineering Blog</a></li",
-                    "Break Your API</a>"
+                    "Break Your API"
                 ]
             }
         },
@@ -5331,22 +5654,20 @@
             "pubDate": "Fri, 24 Feb 2017 13:39:00 +0000",
             "title": "59: Jonathan Reinink - Form Hell Part 2: Complex Validation",
             "entities": {
-                "ORG": [
-                    "href=\"https://rollbar.com",
-                    "Bootstrap Plan",
-                    "href=\"https://laracasts.com"
+                "PERSON": [
+                    "Rollbar",
+                    "Adam"
                 ],
-                "CARDINAL": [
-                    "90"
+                "ORG": [
+                    "Bootstrap Plan",
+                    "Hired\nLinks:\n\nForm Requests in Laravel\n\nAfter Validation",
+                    "HTML5 Form Validation"
+                ],
+                "DATE": [
+                    "90 days"
                 ],
                 "MONEY": [
                     "2000"
-                ],
-                "PERSON": [
-                    "Adam"
-                ],
-                "GPE": [
-                    "US"
                 ]
             }
         },
@@ -5379,31 +5700,33 @@
             "pubDate": "Wed, 08 Feb 2017 09:04:00 +0000",
             "title": "58: Noel Rappin - Fixing Common Payment Handling Mistakes",
             "entities": {
-                "DATE": [
-                    "the next few"
-                ],
                 "ORG": [
-                    "href=\"https://course.testdrivenlaravel.com",
                     "Test-Driven Laravel",
-                    "href=\"https://rollbar.com",
+                    "Test-Driven Laravel Early AccessSponsors",
                     "Bootstrap Plan",
-                    "TDD",
-                    "href=\"https://pragprog.com",
-                    "href=\"https://pragprog.com",
-                    "href=\"https://github.com/RubyMoney",
-                    "href=\"https://github.com"
+                    "Hired\nLinks:\n\nTest-Driven Laravel",
+                    "TDD"
                 ],
-                "CARDINAL": [
-                    "90",
-                    "4"
+                "DATE": [
+                    "the next few weeks",
+                    "90 days"
+                ],
+                "PERSON": [
+                    "Rollbar",
+                    "Adam",
+                    "Noel",
+                    "Noel",
+                    "Noel",
+                    "Noel"
                 ],
                 "MONEY": [
                     "2000"
                 ],
-                "PERSON": [
-                    "Adam",
-                    "Noel",
-                    "Noel"
+                "WORK_OF_ART": [
+                    "Take My Money,"
+                ],
+                "PRODUCT": [
+                    "RubyMoney"
                 ]
             }
         },
@@ -5436,18 +5759,25 @@
             "pubDate": "Wed, 25 Jan 2017 08:00:00 +0000",
             "title": "57: Derrick Reimer - Building and Scaling Drip",
             "entities": {
-                "ORG": [
-                    "href=\"https://rollbar.com",
-                    "Bootstrap Plan"
+                "PERSON": [
+                    "Rollbar",
+                    "Derrick"
                 ],
-                "CARDINAL": [
-                    "90"
+                "ORG": [
+                    "Bootstrap Plan",
+                    "Hired\nLinks:\nDrip\n\nScaling SaaS"
+                ],
+                "DATE": [
+                    "90 days"
                 ],
                 "MONEY": [
                     "2000"
                 ],
-                "PERSON": [
-                    "Derrick"
+                "WORK_OF_ART": [
+                    "Ruby on Rails\nAWS\nPostgreSQL"
+                ],
+                "NORP": [
+                    "Sidekiq"
                 ]
             }
         },
@@ -5480,27 +5810,35 @@
             "pubDate": "Thu, 05 Jan 2017 10:00:00 +0000",
             "title": "56: Wes Bos - Getting Things Done and Building Your Own Tools",
             "entities": {
-                "ORG": [
-                    "href=\"https://rollbar.com",
-                    "Bootstrap Plan",
-                    "href=\"https://course.testdrivenlaravel.com",
-                    "TDD",
-                    "href=\"https://culturedcode.com",
-                    "Scenes</a"
-                ],
-                "CARDINAL": [
-                    "90",
-                    "30</a"
-                ],
-                "MONEY": [
-                    "2000"
-                ],
                 "PERSON": [
+                    "Rollbar",
                     "Adam",
                     "Wes",
                     "Wes",
                     "Wes",
                     "Wes Bos"
+                ],
+                "ORG": [
+                    "Bootstrap Plan",
+                    "Hired\nLinks:\n\nTest-Driven Laravel Early Access",
+                    "TDD",
+                    "Alfred\nTextExpander\n\nSend and",
+                    "YouTube"
+                ],
+                "DATE": [
+                    "90 days"
+                ],
+                "MONEY": [
+                    "2000"
+                ],
+                "PRODUCT": [
+                    "JavaScript"
+                ],
+                "WORK_OF_ART": [
+                    "The Getting Things Done"
+                ],
+                "GPE": [
+                    "Archive"
                 ]
             }
         },
@@ -5533,31 +5871,39 @@
             "pubDate": "Wed, 07 Dec 2016 16:48:00 +0000",
             "title": "55: Ian Landsman - Shady Marketing Tactics That Will Hurt Your Business",
             "entities": {
+                "PERSON": [
+                    "Rollbar",
+                    "Adam",
+                    "Ian",
+                    "Shady Tactics",
+                    "Ian",
+                    "Ian"
+                ],
                 "ORG": [
-                    "href=\"https://rollbar.com",
                     "Bootstrap Plan",
-                    "href=\"https://course.testdrivenlaravel.com",
+                    "Hired\nLinks:\n\nTest-Driven Laravel Early Access",
                     "TDD",
                     "UserScape",
-                    "href=\"https://ianlandsman.com"
+                    "Shady Tactics"
                 ],
-                "CARDINAL": [
-                    "90",
-                    "five",
-                    "Five",
-                    "1&amp;keywords"
+                "DATE": [
+                    "90 days"
                 ],
                 "MONEY": [
                     "2000"
                 ],
-                "PERSON": [
-                    "Adam",
-                    "Ian",
-                    "Ian",
-                    "Ian"
-                ],
                 "PRODUCT": [
+                    "UserScape",
                     "eBook"
+                ],
+                "GPE": [
+                    "Midst"
+                ],
+                "CARDINAL": [
+                    "Five"
+                ],
+                "WORK_OF_ART": [
+                    "The Lean Startup\n\nEdgar"
                 ]
             }
         },
@@ -5590,19 +5936,20 @@
             "pubDate": "Fri, 18 Nov 2016 15:05:00 +0000",
             "title": "54: Jonathan Reinink - Forms: The Worst Part of Web Dev",
             "entities": {
-                "ORG": [
-                    "href=\"https://rollbar.com",
-                    "Bootstrap Plan",
-                    "JS"
+                "PERSON": [
+                    "Rollbar",
+                    "Adam"
                 ],
-                "CARDINAL": [
-                    "90"
+                "ORG": [
+                    "Bootstrap Plan",
+                    "Hired\nLinks:\n\nPutting Your Laravel Controllers",
+                    "Diet"
+                ],
+                "DATE": [
+                    "90 days"
                 ],
                 "MONEY": [
                     "2000"
-                ],
-                "PERSON": [
-                    "Adam"
                 ],
                 "NORP": [
                     "JS"
@@ -5638,23 +5985,28 @@
             "pubDate": "Wed, 02 Nov 2016 13:00:00 +0000",
             "title": "53: Kyle Fiedler - Design Tips and Tricks for Developers",
             "entities": {
-                "ORG": [
-                    "href=\"https://rollbar.com",
-                    "Bootstrap Plan",
-                    "href=\"https://ianstormtaylor.com"
+                "PERSON": [
+                    "Rollbar",
+                    "Kyle",
+                    "Marcin Wichary\n\n",
+                    "Ian Storm Taylor",
+                    "Erik D. Kennedy"
                 ],
-                "CARDINAL": [
-                    "90"
+                "ORG": [
+                    "Bootstrap Plan",
+                    "Hired\nLinks",
+                    "Dribbble\n\nDesign for Developers on Upcase\n\nUsing System UI Fonts",
+                    "the UX Stack Exchange",
+                    "Panda Chrome Extension"
+                ],
+                "DATE": [
+                    "90 days"
                 ],
                 "MONEY": [
                     "2000"
                 ],
-                "PERSON": [
-                    "href=\"https://www.smashingmagazine.com/2015/11",
-                    "Marcin Wichary</li",
-                    "Ian Storm",
-                    "Erik D.",
-                    "jhiocdmmaannaccoofjfmjpbfkogmnap\">Panda Chrome"
+                "CARDINAL": [
+                    "7"
                 ]
             }
         },
@@ -5687,30 +6039,30 @@
             "pubDate": "Tue, 18 Oct 2016 08:00:00 +0000",
             "title": "52: Taylor Otwell - Patterns for Simplifying Laravel Applications",
             "entities": {
-                "ORG": [
-                    "href=\"https://rollbar.com",
-                    "Bootstrap Plan",
-                    "href=\"https://laravel.com/docs/5.3/valet\">Laravel",
-                    "href=\"https://twitter.com",
-                    "GFhoSMD6idk\">DHH Resources on Rails",
-                    "href=\"http://martinfowler.com"
+                "PERSON": [
+                    "Rollbar",
+                    "Adam",
+                    "Nitpick CI",
+                    "Marco Cecconi",
+                    "Martin Fowler",
+                    "Adam",
+                    "Adam",
+                    "Blade"
                 ],
-                "CARDINAL": [
-                    "90",
-                    "2015</li"
+                "ORG": [
+                    "Bootstrap Plan",
+                    "Hired\nLinks:\n\nTest Driven Laravel",
+                    "DHH Resources on Rails"
+                ],
+                "DATE": [
+                    "90 days",
+                    "Laracon 2015"
                 ],
                 "MONEY": [
                     "2000"
                 ],
-                "PERSON": [
-                    "Adam",
-                    "href=\"https://nitpick-ci.com/\">Nitpick",
-                    "Marco",
-                    "Martin Fowler",
-                    "Adam"
-                ],
-                "TIME": [
-                    "li><a href=\"https://github.com"
+                "LOC": [
+                    "Basecamp Rake Stats"
                 ]
             }
         },
@@ -5745,35 +6097,37 @@
             "entities": {
                 "ORG": [
                     "BDD",
-                    "href=\"https://rollbar.com",
+                    "BDD",
+                    "BDD",
                     "Bootstrap Plan",
-                    "href=\"https://pragprog.com"
+                    "Hired\nLinks:\n\nTest Driven Laravel",
+                    "Cucumber School\nUser Story Mapping\nImpact Mapping\nIntroducing Example Mapping\nThe Rails Testing Pyramid",
+                    "GitHub"
                 ],
                 "EVENT": [
                     "Cucumber"
                 ],
-                "CARDINAL": [
-                    "90"
+                "PERSON": [
+                    "Rollbar",
+                    "Adam",
+                    "Matt",
+                    "Blog\nMatt's",
+                    "Dan North's",
+                    "Michael Feathers",
+                    "Aslak Helles\u00f8y"
+                ],
+                "DATE": [
+                    "90 days",
+                    "Cucumber"
                 ],
                 "MONEY": [
                     "2000"
                 ],
-                "PERSON": [
-                    "Adam",
-                    "Dan North's",
-                    "product/0636920033851.do\">User Story Mapping</a></li>\n",
-                    "=",
-                    "Michael",
-                    "Aslak Helles\u00f8y"
-                ],
-                "DATE": [
-                    "Cucumber"
-                ],
-                "TIME": [
-                    "li><a href=\"https://github.com"
-                ],
                 "WORK_OF_ART": [
-                    "book\">The Cucumber Book</a></li"
+                    "The Testing Iceberg\n\nThe Deep Synergy",
+                    "The Training Wheels Came Off",
+                    "Cucumber Blog\nCucumber",
+                    "The Cucumber Book\n\n      "
                 ]
             }
         },
@@ -5808,38 +6162,41 @@
             "entities": {
                 "ORG": [
                     "DOM",
-                    "href=\"https://rollbar.com",
                     "Bootstrap Plan",
-                    "href=\"https://github.com",
+                    "Hired\nLinks:\n\nTest Driven Laravel",
+                    "JS Framework Performance Benchmarks",
                     "DOM",
-                    "Custom",
-                    "href=\"https://twitter.com",
-                    "href=\"https://twitter.com/VueNewsletter\">Vue.js"
+                    "JSX",
+                    "Newsletter"
                 ],
                 "CARDINAL": [
                     "2.0",
                     "two",
                     "1.0",
                     "2.0",
-                    "90",
-                    "2.0</a></li",
-                    "2.0"
+                    "2.0",
+                    "2.0 Documentation"
+                ],
+                "PERSON": [
+                    "Weex",
+                    "Rollbar",
+                    "Adam",
+                    "Weex"
+                ],
+                "DATE": [
+                    "90 days"
                 ],
                 "MONEY": [
                     "2000"
                 ],
-                "PERSON": [
-                    "Adam",
-                    "li><a href=\"http://vuejs.org/2016/04/27"
-                ],
                 "PERCENT": [
                     "25%"
                 ],
-                "TIME": [
-                    "li><a href=\"https://github.com"
-                ],
                 "WORK_OF_ART": [
-                    "Migration Helper"
+                    "Using v-on with Custom Events\nVue Migration Helper"
+                ],
+                "PRODUCT": [
+                    "Twitter"
                 ]
             }
         },
@@ -5872,24 +6229,28 @@
             "pubDate": "Wed, 07 Sep 2016 07:32:00 +0000",
             "title": "49: Toran Billups - Test Driving the Front-end",
             "entities": {
-                "ORG": [
-                    "href=\"https://rollbar.com",
-                    "Bootstrap Plan",
-                    "v2.7.0",
-                    "TDD",
-                    "EmberConf",
-                    "TDD",
-                    "TDD"
-                ],
-                "CARDINAL": [
-                    "90",
-                    "one"
-                ],
                 "PERSON": [
+                    "Rollbar",
                     "Adam"
                 ],
+                "ORG": [
+                    "Bootstrap Plan",
+                    "Ember.js",
+                    "QUnit",
+                    "TDD",
+                    "EmberConf",
+                    "TDD"
+                ],
+                "DATE": [
+                    "90 days",
+                    "2015"
+                ],
+                "WORK_OF_ART": [
+                    "Ember Testing Documentation"
+                ],
                 "GPE": [
-                    "watch?v=2b1vcg_XSR8\">Toran",
+                    "Toran",
+                    "Toran",
                     "Toran"
                 ]
             }
@@ -5923,28 +6284,32 @@
             "pubDate": "Tue, 23 Aug 2016 08:08:00 +0000",
             "title": "48: Jessica Lord - Building Desktop Apps with Electron",
             "entities": {
+                "PERSON": [
+                    "Rollbar",
+                    "emoji",
+                    "Nylas N1",
+                    "Spectron"
+                ],
                 "ORG": [
-                    "href=\"https://rollbar.com",
                     "Bootstrap Plan",
                     "Electron",
                     "Electron",
-                    "href=\"https://github.com",
+                    "Electron",
+                    "Electron",
                     "JS/HTML/CSS",
-                    "href=\"https://nylas.com",
-                    "href=\"https://github.com",
+                    "Visual Studio Code",
+                    "Awesome Electron",
+                    "Electron",
                     "Electron DevTools",
                     "Electron",
-                    "href=\"https://github.com",
                     "Electron"
                 ],
-                "CARDINAL": [
-                    "90"
+                "DATE": [
+                    "90 days"
                 ],
-                "PERSON": [
-                    "blog/\">Electron Blog</a></li",
-                    "emoji",
-                    "product/\">Nylas N1</a",
-                    "Studio"
+                "GPE": [
+                    "Mojibar",
+                    "WebTorrent"
                 ]
             }
         },
@@ -5980,27 +6345,24 @@
                 "PERCENT": [
                     "50%"
                 ],
-                "ORDINAL": [
-                    "first"
+                "DATE": [
+                    "first month",
+                    "90 days"
+                ],
+                "PERSON": [
+                    "Rollbar"
                 ],
                 "ORG": [
-                    "href=\"https://rollbar.com",
                     "Bootstrap Plan",
-                    "Designer's Guide",
-                    "href=\"https://sarasoueidan.com",
-                    "the Switch Away",
+                    "Grumpicon\nMaking the Switch Away",
                     "Icont Fonts",
-                    "href=\"https://sarasoueidan.com",
-                    "tags/svg/index.html\">All",
-                    "Sara's blog</a></li>",
-                    "svg/svgo\">svgo</a></li"
+                    "SVG",
+                    "SVG",
+                    "Overview of SVG Sprite Creation Techniques",
+                    "Sara"
                 ],
-                "CARDINAL": [
-                    "90"
-                ],
-                "TIME": [
-                    "li><a href=\"https://github.com",
-                    "li><a href=\"https://github.com"
+                "WORK_OF_ART": [
+                    "The Smashing Book 5\nPractical SVG"
                 ]
             }
         },
@@ -6036,24 +6398,25 @@
                 "PERCENT": [
                     "50%"
                 ],
-                "ORDINAL": [
-                    "first"
-                ],
-                "ORG": [
-                    "href=\"https://rollbar.com",
-                    "Bootstrap Plan",
-                    "thoughtbot/factory_girl\">factory_girl</a></li"
-                ],
-                "CARDINAL": [
-                    "90"
+                "DATE": [
+                    "first month",
+                    "90 days"
                 ],
                 "PERSON": [
-                    "Driven Laravel</a",
-                    "Adam"
+                    "Rollbar",
+                    "Adam",
+                    "Giant Robots",
+                    "Capybara WebKit"
                 ],
-                "TIME": [
-                    "li><a href=\"https://github.com",
-                    "li><a href=\"https://github.com"
+                "ORG": [
+                    "Bootstrap Plan",
+                    "RSpec"
+                ],
+                "GPE": [
+                    "Capybara"
+                ],
+                "WORK_OF_ART": [
+                    "The Rails Testing Pyramid on the Code Climate"
                 ]
             }
         },
@@ -6089,32 +6452,37 @@
                 "PERCENT": [
                     "50%"
                 ],
-                "ORDINAL": [
-                    "first"
-                ],
-                "ORG": [
-                    "href=\"https://rollbar.com",
-                    "Bootstrap Plan",
-                    "href=\"https://pragprog.com",
-                    "href=\"https://pragprog.com",
-                    "href=\"https://github.com"
-                ],
-                "CARDINAL": [
-                    "90"
+                "DATE": [
+                    "first month",
+                    "90 days"
                 ],
                 "PERSON": [
+                    "Rollbar",
                     "Elixir",
-                    "Elixir</a",
-                    "Dave Thomas</li",
+                    "Elixir",
+                    "Dave Thomas",
                     "Chris McCord",
                     "Bruce Tate",
-                    "Jos\u00e9 Valim</li",
-                    "Chris",
+                    "Jos\u00e9 Valim",
+                    "Chris McCord",
+                    "The Bikeshed Episode 54",
                     "Derek",
-                    "Elixir"
+                    "Elixir",
+                    "Blake Williams"
+                ],
+                "ORG": [
+                    "Bootstrap Plan"
                 ],
                 "GPE": [
+                    "Phoenix",
+                    "Phoenix",
+                    "Phoenix",
+                    "Phoenix",
                     "Phoenix"
+                ],
+                "WORK_OF_ART": [
+                    "The Bikeshed Podcast\nExercism.io",
+                    "Programming Elixir"
                 ]
             }
         },
@@ -6150,26 +6518,29 @@
                 "PERCENT": [
                     "50%"
                 ],
-                "ORDINAL": [
-                    "first",
-                    "first"
-                ],
-                "ORG": [
-                    "href=\"https://rollbar.com",
-                    "Bootstrap Plan",
-                    "Elm",
-                    "href=\"https://twitter.com"
-                ],
-                "CARDINAL": [
-                    "90"
+                "DATE": [
+                    "first month",
+                    "90 days"
                 ],
                 "PERSON": [
-                    "href=\"http://elixir",
-                    "Kris Jenkins</li",
-                    "book</li"
+                    "Rollbar",
+                    "Richard Feldman",
+                    "Kris Jenkins"
+                ],
+                "ORG": [
+                    "Bootstrap Plan",
+                    "ML",
+                    "Exercism.io",
+                    "Haskell Programming"
+                ],
+                "PRODUCT": [
+                    "The Elixir language"
                 ],
                 "WORK_OF_ART": [
                     "Elm in Action"
+                ],
+                "ORDINAL": [
+                    "first"
                 ]
             }
         },
@@ -6205,19 +6576,24 @@
                 "PERCENT": [
                     "50%"
                 ],
-                "ORDINAL": [
-                    "first"
-                ],
-                "ORG": [
-                    "href=\"https://rollbar.com",
-                    "Bootstrap Plan",
-                    "href=\"https://github.com"
-                ],
-                "CARDINAL": [
-                    "90"
+                "DATE": [
+                    "first month",
+                    "90 days"
                 ],
                 "PERSON": [
-                    "Jonathan"
+                    "Rollbar",
+                    "Jonathan",
+                    "Scott Jehl"
+                ],
+                "ORG": [
+                    "Bootstrap Plan",
+                    "Breach"
+                ],
+                "WORK_OF_ART": [
+                    "Snook's Blog\n\nSMACSS",
+                    "Atomic CSS",
+                    "\"Staffing a Design Systems Team",
+                    "Container Queries: Once More Unto the"
                 ]
             }
         },
@@ -6253,23 +6629,29 @@
                 "PERCENT": [
                     "50%"
                 ],
-                "ORDINAL": [
-                    "first"
-                ],
-                "ORG": [
-                    "href=\"https://rollbar.com",
-                    "Bootstrap Plan",
-                    "Justin"
-                ],
-                "CARDINAL": [
-                    "90"
+                "DATE": [
+                    "first month",
+                    "90 days"
                 ],
                 "PERSON": [
+                    "Rollbar",
                     "Adam",
-                    "Kontny"
+                    "Launch Podcast"
                 ],
-                "NORP": [
-                    "Launch"
+                "ORG": [
+                    "Bootstrap Plan",
+                    "Justin",
+                    "Justin",
+                    "Remote Workers Club"
+                ],
+                "PRODUCT": [
+                    "MegaMaker Podcast"
+                ],
+                "GPE": [
+                    "Build"
+                ],
+                "FAC": [
+                    "Nate Kontny's"
                 ]
             }
         },
@@ -6305,28 +6687,32 @@
                 "PERCENT": [
                     "50%"
                 ],
-                "ORDINAL": [
-                    "first"
-                ],
-                "ORG": [
-                    "href=\"https://rollbar.com",
-                    "Bootstrap Plan",
-                    "EU",
-                    "href=\"http://nvie.com",
-                    "CLI",
-                    "git/git/tree"
-                ],
-                "CARDINAL": [
-                    "90"
+                "DATE": [
+                    "first month",
+                    "90 days",
+                    "2016"
                 ],
                 "PERSON": [
+                    "Rollbar",
                     "Adam",
+                    "Pro Git",
                     "Git",
-                    "Chris",
-                    "Git"
+                    "Chris Beams",
+                    "Git Flow",
+                    "Jason"
                 ],
-                "TIME": [
-                    "li><a href=\"https://github.com"
+                "ORG": [
+                    "Bootstrap Plan",
+                    "GitHub Flow",
+                    "GitHub CLI",
+                    "GitHub for Desktop\n\nDestroy All Software",
+                    "Jason's Git"
+                ],
+                "FAC": [
+                    "Laracon EU"
+                ],
+                "GPE": [
+                    "Git"
                 ]
             }
         },
@@ -6362,26 +6748,28 @@
                 "PERCENT": [
                     "50%"
                 ],
-                "ORDINAL": [
-                    "first"
-                ],
-                "ORG": [
-                    "href=\"https://rollbar.com",
-                    "Bootstrap Plan",
-                    "Postgres Query",
-                    "Internals Through"
-                ],
-                "CARDINAL": [
-                    "90"
+                "DATE": [
+                    "first month",
+                    "90 days"
                 ],
                 "PERSON": [
-                    "Adam"
+                    "Rollbar",
+                    "Adam",
+                    "Edd",
+                    "Bruce Momjian's",
+                    "Edd\nExplaining"
+                ],
+                "ORG": [
+                    "Bootstrap Plan",
+                    "ACID",
+                    "Postgres.app"
                 ],
                 "PRODUCT": [
                     "JavaScript"
                 ],
-                "NORP": [
-                    "Momjian"
+                "GPE": [
+                    "Postgres",
+                    "Postgres"
                 ]
             }
         },
@@ -6417,27 +6805,27 @@
                 "PERCENT": [
                     "50%"
                 ],
-                "ORDINAL": [
-                    "first"
-                ],
-                "ORG": [
-                    "href=\"https://rollbar.com",
-                    "Bootstrap Plan",
-                    "wiki/Haskell/Understanding_monads/Maybe\">The Haskell Maybe"
-                ],
-                "CARDINAL": [
-                    "90"
+                "DATE": [
+                    "first month",
+                    "90 days"
                 ],
                 "PERSON": [
+                    "Rollbar",
                     "Adam",
-                    "href=\"https://michaelfeathers.silvrback.com/\">Michael's Blog</a></li",
                     "Michael",
-                    "Code</a></li",
-                    "Robots",
-                    "li><a href=\"https://twitter.com"
+                    "Michael",
+                    "Monad",
+                    "Giant Robots",
+                    "SRP\n"
+                ],
+                "ORG": [
+                    "Bootstrap Plan",
+                    "Working"
                 ],
                 "WORK_OF_ART": [
-                    "li><a href=\"http://tryapl.org/\">APL Programming"
+                    "Learn You a Haskell",
+                    "APL Programming Language\nMichael's Arrays on Steroids presentation\nBuilding guitar tab",
+                    "The Spaceship Operator Tweet\nThe Agile Alliance Technical Conference\n\n      "
                 ]
             }
         },
@@ -6470,14 +6858,13 @@
             "pubDate": "Wed, 23 Mar 2016 09:28:00 +0000",
             "title": "38: J.B. Rainsberger - Unit Testability and the Universal Architecture",
             "entities": {
-                "PERSON": [
-                    "li><a href=\"http://blog.jbrains.ca/\">J.B.'s",
-                    "Roles",
-                    "J.B."
-                ],
                 "ORG": [
-                    "Intro",
-                    "TDD"
+                    "J.B.",
+                    "J.B.",
+                    "Intro"
+                ],
+                "WORK_OF_ART": [
+                    "The Four Elements of Simple Design\nAsk J.B."
                 ]
             }
         },
@@ -6510,21 +6897,17 @@
             "pubDate": "Wed, 09 Mar 2016 10:00:00 +0000",
             "title": "37: Chris Hartjes - Getting Started with Testing",
             "entities": {
-                "ORG": [
-                    "href=\"https://leanpub.com",
-                    "href=\"https://github.com",
-                    "href=\"https://github.com",
-                    "href=\"https://github.com"
-                ],
                 "PERSON": [
+                    "phpspec",
+                    "Mockery",
                     "Chris",
-                    "book</li",
+                    "Grumpy Learning",
                     "Chris",
                     "Chris",
                     "Ed Finkler's"
                 ],
-                "NORP": [
-                    "podcast</li"
+                "PRODUCT": [
+                    "Sponsored"
                 ]
             }
         },
@@ -6556,7 +6939,11 @@
             "link": "https://share.transistor.fm/s/2c3c0897",
             "pubDate": "Thu, 25 Feb 2016 14:41:00 +0000",
             "title": "36: Jason McCreary - Building Laravel Shift",
-            "entities": {}
+            "entities": {
+                "ORG": [
+                    "Redis\nSponsored"
+                ]
+            }
         },
         {
             "author": "Adam Wathan",
@@ -6588,11 +6975,18 @@
             "title": "35: Jonathan Reinink - Fixing Common API Design Mistakes",
             "entities": {
                 "ORG": [
-                    "API",
-                    "Jamis"
+                    "Strategies",
+                    "API"
+                ],
+                "PRODUCT": [
+                    "REST\nBreaking"
                 ],
                 "PERSON": [
-                    "Phil Sturgeon</li"
+                    "Jonathan",
+                    "Glide",
+                    "Jamis Buck",
+                    "Hate",
+                    "Phil Sturgeon"
                 ]
             }
         },
@@ -6626,13 +7020,21 @@
             "title": "34: Matt Machuga - Dealing with Dependencies in Active Record Models",
             "entities": {
                 "LAW": [
-                    "NounVerber"
+                    "NounVerber",
+                    "Option 3: Composing",
+                    "Option 4a"
                 ],
-                "CARDINAL": [
-                    "3"
+                "ORG": [
+                    "Facades/Service Location/Global Access\n\nOption 2:"
+                ],
+                "PRODUCT": [
+                    "Option 4b",
+                    "Sponsored"
                 ],
                 "PERSON": [
-                    "Peter Gillard",
+                    "Matt",
+                    "Peter Gillard-Moss",
+                    "Nitpick CI",
                     "Adam",
                     "Matt"
                 ]
@@ -6669,19 +7071,20 @@
             "entities": {
                 "PERSON": [
                     "Javascript",
-                    "itcss\">Harry Roberts"
+                    "apps\nVue.js",
+                    "David",
+                    "Peepcode Play",
+                    "Ryan Singer",
+                    "Harry Roberts"
                 ],
                 "PRODUCT": [
-                    "Angular and Ember</li"
+                    "Angular and Ember"
                 ],
                 "ORG": [
                     "CSS",
-                    "PHP Framework</a></li",
-                    "CSS",
-                    "href=\"https://speakerdeck.com"
-                ],
-                "NORP": [
-                    "Ryan"
+                    "PushSilver\nLaravel PHP Framework",
+                    "Beard CSS Framework",
+                    "ITCSS"
                 ]
             }
         },
@@ -6716,28 +7119,27 @@
             "entities": {
                 "ORG": [
                     "ActionCable",
-                    "KJVTM7mE1Cc\">RailsConf",
+                    "Strategies",
+                    "RailsConf",
                     "ActionCable",
-                    "WYSIWYG",
-                    "href=\"https://twitter.com"
+                    "WYSIWYG"
                 ],
                 "CARDINAL": [
                     "3",
                     "3",
-                    "5</li",
+                    "5",
                     "3",
                     "179",
-                    "3</a></li",
+                    "3",
+                    "3",
                     "5.0.0.beta1"
                 ],
-                "NORP": [
-                    "expect</li"
+                "WORK_OF_ART": [
+                    "Rewriting Basecamp",
+                    "Rake Stats for Basecamp"
                 ],
                 "PERSON": [
                     "Basecamp"
-                ],
-                "FAC": [
-                    "Basecamp 3</li"
                 ]
             }
         },
@@ -6772,8 +7174,19 @@
             "entities": {
                 "PERSON": [
                     "NoEstimates",
-                    "Neil Killick</li>",
-                    "Jack Reeves</li>"
+                    "NoEstimates",
+                    "Neil Killick",
+                    "Jack Reeves"
+                ],
+                "ORG": [
+                    "Woody's"
+                ],
+                "WORK_OF_ART": [
+                    "The Mob Programming Conference\n"
+                ],
+                "PRODUCT": [
+                    "MobProgramming.org",
+                    "Sponsored"
                 ]
             }
         },
@@ -6811,11 +7224,13 @@
                     "Vue",
                     "Evan",
                     "Vue",
-                    "href=\"http://nightwatchjs.org/\">Nightwatch.js</a></li",
-                    "li><a href=\"http://karma-runner.github.io/0.13"
+                    "Vue"
                 ],
-                "TIME": [
-                    "li><a href=\"https://github.com"
+                "WORK_OF_ART": [
+                    "Google Creative Lab\nParsons Design and Technology Program"
+                ],
+                "ORG": [
+                    "Nightwatch.js"
                 ]
             }
         },
@@ -6851,27 +7266,28 @@
                 "ORG": [
                     "Bootstrap 4",
                     "CSS",
-                    "href=\"https://github.com",
+                    "Bootstrap 4",
+                    "CSS Stats",
+                    "Parker",
                     "CSS",
                     "CSS",
-                    "href=\"http://nicolasgallagher.com",
+                    "WTF",
+                    "CSS",
                     "HTML Semantics",
-                    "Front-End Architecture</a",
-                    "href=\"https://twitter.com",
-                    "CSS"
-                ],
-                "CARDINAL": [
-                    "4</a></li"
-                ],
-                "TIME": [
-                    "li><a href=\"https://github.com"
+                    "Front-End Architecture"
                 ],
                 "PERSON": [
-                    "katiefenn",
+                    "Mark",
+                    "Code Guide",
                     "Mark",
                     "Mark",
-                    "necolas\">Nicholas Gallagher</a",
-                    "href=\"https://medium.com/@fat"
+                    "Nicholas Gallagher"
+                ],
+                "WORK_OF_ART": [
+                    "Medium's CSS"
+                ],
+                "PRODUCT": [
+                    "GitHub Primer\nSponsored"
                 ]
             }
         },
@@ -6904,17 +7320,18 @@
             "pubDate": "Tue, 27 Oct 2015 02:41:00 +0000",
             "title": "28: Jeffrey Way and Dave Marshall - \"Don't mock what you don't own\"",
             "entities": {
-                "ORG": [
-                    "J.B.",
-                    "href=\"https://laracasts.com"
+                "NORP": [
+                    "Integrated",
+                    "Stripe"
                 ],
                 "PERSON": [
+                    "J.B. Rainsberger",
                     "Eric Evans'",
-                    "href=\"http://davedevelopment.co.uk/2015/10/26",
-                    "Dave"
+                    "Dave",
+                    "Laracasts\nSponsored"
                 ],
-                "NORP": [
-                    "Stripe"
+                "WORK_OF_ART": [
+                    "Domain Language"
                 ]
             }
         },
@@ -6948,15 +7365,12 @@
             "title": "27: Ben Orenstein - Outside-in TDD and Dependency Injection in Rails",
             "entities": {
                 "PERSON": [
-                    "blog/\">Ben",
-                    "Martin Fowler</li>",
-                    "Corey"
+                    "Ben",
+                    "Martin Fowler",
+                    "Corey Haines"
                 ],
                 "ORG": [
-                    "href=\"https://upcase.com",
-                    "DHH",
-                    "href=\"https://upcase.com",
-                    "href=\"https://upcase.com"
+                    "DHH"
                 ],
                 "CARDINAL": [
                     "4"
@@ -6999,7 +7413,11 @@
             "title": "26: Josh Pigford - What do you need when you launch?",
             "entities": {
                 "WORK_OF_ART": [
-                    "The Secret to Making Money"
+                    "Open Startups",
+                    "The Secret to Making Money Online"
+                ],
+                "PRODUCT": [
+                    "Sponsored"
                 ]
             }
         },
@@ -7035,20 +7453,19 @@
                 "ORG": [
                     "OO",
                     "MVC",
-                    "href=\"https://pragprog.com"
-                ],
-                "NORP": [
-                    "href=\"http://laracasts.com\">Laracasts</a>.</p><ul",
-                    "Pragmatic"
+                    "Elm\nElixir\n\nProgramming Elixir",
+                    "The Pragmatic Bookshelf",
+                    "The Visitor Pattern",
+                    "Refactoring Loops",
+                    "Pragmatic Studios Elm Course"
                 ],
                 "PERSON": [
-                    "href=\"http://elixir",
-                    "Elixir</a",
                     "Adam",
-                    "Conditionals</a",
-                    "Studios Elm"
+                    "Michael Feathers'",
+                    "Radius CoWork"
                 ],
                 "GPE": [
+                    "Conditionals",
                     "Erie"
                 ]
             }
@@ -7082,23 +7499,17 @@
             "pubDate": "Tue, 01 Sep 2015 20:20:00 +0000",
             "title": "24: Wes Bos - What the Flexbox?!",
             "entities": {
-                "NORP": [
-                    "href=\"http://laracasts.com\">Laracasts</a>.</p><ul"
-                ],
-                "ORG": [
-                    "href=\"http://wesbos.com",
-                    "href=\"https://github.com",
-                    "href=\"http://wesbos.com"
-                ],
                 "PERSON": [
-                    "Flexbox?!\"</a",
+                    "Wes",
                     "Wes"
                 ],
-                "PRODUCT": [
-                    "Flexbox"
+                "ORG": [
+                    "Flexbox",
+                    "Bootstrap 4",
+                    "Alfred"
                 ],
                 "GPE": [
-                    "US"
+                    "Flexbox"
                 ]
             }
         },
@@ -7132,17 +7543,20 @@
             "title": "23: Chris Hunt - How GitHub does remote work",
             "entities": {
                 "PERSON": [
+                    "Healthy Hacker",
                     "Chris",
                     "Chris",
-                    "Pull Requests"
+                    "Ben Orenstein's",
+                    "Trailmix",
+                    "Chris",
+                    "Motorcycle Adventures"
+                ],
+                "WORK_OF_ART": [
+                    "Solving the Rubik's Cube"
                 ],
                 "ORG": [
-                    "Rubik",
-                    "href=\"https://twitter.com",
-                    "href=\"https://instagram.com/huntca/\">Chris' Motorcycle Adventures</a>"
-                ],
-                "TIME": [
-                    "li><a href=\"https://github.com"
+                    "GitHub",
+                    "Instagram\nSponsored"
                 ]
             }
         },
@@ -7175,18 +7589,20 @@
             "pubDate": "Tue, 21 Jul 2015 11:08:00 +0000",
             "title": "22: Corey Haines - The 4 Rules of Simple Design",
             "entities": {
+                "GPE": [
+                    "Hearken"
+                ],
                 "CARDINAL": [
                     "4"
                 ],
                 "PERSON": [
-                    "href=\"http://articles.coreyhaines.com/\">Corey",
-                    "Corey",
-                    "Josh",
-                    "David Chelimsky</li>",
+                    "Blog\nCorey's",
+                    "Josh Kerievsky",
+                    "David Chelimsky",
                     "J.B. Rainsberger"
                 ],
-                "TIME": [
-                    "four-second"
+                "ORG": [
+                    "The Four Elements of Simple Design\n\nSponsored by Hired"
                 ]
             }
         },
@@ -7219,12 +7635,12 @@
             "pubDate": "Tue, 07 Jul 2015 00:17:00 +0000",
             "title": "21: Chad Pytel - Sticking to your guns",
             "entities": {
-                "PERSON": [
-                    "thoughtbot"
-                ],
                 "ORG": [
+                    "Playbook\n\n\nThe Product Design Sprint",
                     "Giant Robots",
                     "Giant Robots",
+                    "thoughtbot",
+                    "Tropos",
                     "thoughtbot"
                 ]
             }
@@ -7261,11 +7677,8 @@
                 "PERSON": [
                     "Ian"
                 ],
-                "ORG": [
-                    "href=\"http://ianlandsman.com"
-                ],
-                "ORDINAL": [
-                    "transactions\"</a"
+                "CARDINAL": [
+                    "10"
                 ]
             }
         },
@@ -7298,13 +7711,13 @@
             "pubDate": "Tue, 09 Jun 2015 11:40:00 +0000",
             "title": "19: Dave Marshall - Designing Effective Tests",
             "entities": {
-                "ORG": [
-                    "href=\"https://github.com",
-                    "href=\"https://blog.8thlight.com",
-                    "href=\"https://github.com"
-                ],
                 "PERSON": [
+                    "Dave",
                     "Bob"
+                ],
+                "ORG": [
+                    "GitHub",
+                    "Humbug"
                 ]
             }
         },
@@ -7338,13 +7751,21 @@
             "title": "18: Katie Cerar - Designing and Prototyping for Clients",
             "entities": {
                 "PERSON": [
-                    "James Green</li",
-                    "Jeff",
-                    "Abby"
+                    "James Green\n\n",
+                    "Jeff Patton",
+                    "Abby Covert"
+                ],
+                "PERCENT": [
+                    "5 Why's"
                 ],
                 "ORG": [
-                    "The Google Ventures",
-                    "Leah"
+                    "The Google Ventures Design Sprint"
+                ],
+                "CARDINAL": [
+                    "One"
+                ],
+                "FAC": [
+                    "Leah Buley"
                 ]
             }
         },
@@ -7378,18 +7799,20 @@
             "title": "17: Adam Culp - Maximizing Your Conference Experience",
             "entities": {
                 "PERSON": [
-                    "Geek",
-                    "li><a href=\"http://2015.sunshinephp.com/\">Sunshine",
-                    "Ben"
+                    "Adam",
+                    "Kayla Daniels",
+                    "Ben Orenstein"
                 ],
                 "ORG": [
-                    "PHP</a></li"
+                    "ZendCon\n",
+                    "ZendCon 2015 Call For Papers\nSponsored"
                 ],
                 "GPE": [
-                    "DC"
+                    "Sunshine PHP",
+                    "SoFloPHP"
                 ],
-                "DATE": [
-                    "2015"
+                "WORK_OF_ART": [
+                    "Help Me Abstract"
                 ]
             }
         },
@@ -7423,14 +7846,16 @@
             "title": "16: Kent Beck - Tiny Decisions and Emergent Design",
             "entities": {
                 "PERSON": [
-                    "blog/2014/03/04",
-                    "Dave Thomas</li",
-                    "Jez",
+                    "Kent",
+                    "Dave Thomas\n",
+                    "Jez Humble",
                     "Kent"
                 ],
-                "ORG": [
-                    "href=\"http://www.amazon.com/Structured-Design-Fundamentals-Discipline-Computer",
-                    "href=\"https://pragprog.com"
+                "WORK_OF_ART": [
+                    "Facebook Blog\nSmalltalk Best Practice Patterns",
+                    "Agile is Dead (Long Live Agility",
+                    "Continuous Delivery",
+                    "\"Structured Design"
                 ]
             }
         },
@@ -7463,20 +7888,25 @@
             "pubDate": "Mon, 20 Apr 2015 22:56:00 +0000",
             "title": "15: Everzet - Classicist and Mockist TDD",
             "entities": {
+                "PRODUCT": [
+                    "Twitter"
+                ],
+                "WORK_OF_ART": [
+                    "Design How Your Objects Talk Through Mocking",
+                    "Test Driven Development: By Example",
+                    "Growing Object Oriented Software Guided By",
+                    "Magic Tricks of Testing"
+                ],
                 "PERSON": [
-                    "href=\"http://twitter.com",
-                    "Kent Beck</li>",
+                    "Kent Beck",
                     "Steve Freeman",
-                    "Nat",
-                    "Sandi Metz",
-                    "Ian Cooper's"
+                    "Nat Pryce",
+                    "Sandi Metz's",
+                    "Ian Cooper's",
+                    "London Meetup"
                 ],
                 "ORG": [
-                    "Object Oriented Software Guided",
-                    "href=\"https://pragprog.com"
-                ],
-                "GPE": [
-                    "London"
+                    "Conway"
                 ]
             }
         },
@@ -7509,8 +7939,12 @@
             "pubDate": "Tue, 07 Apr 2015 11:00:00 +0000",
             "title": "14: Taylor Otwell - Building Envoyer, Laravel 5.1 and Learning to Program",
             "entities": {
+                "NORP": [
+                    "Envoyer"
+                ],
                 "PERSON": [
-                    "Taylor"
+                    "Taylor",
+                    "Authy\nLaracasts\nLarachat\nSponsored"
                 ]
             }
         },
@@ -7545,10 +7979,14 @@
             "entities": {
                 "PERSON": [
                     "Phil",
-                    "Kent Beck</li>"
+                    "JSON API\nTroy Hunt",
+                    "Phil",
+                    "Kent Beck\nSponsored"
                 ],
-                "CARDINAL": [
-                    "UTF8&amp;qid=1426906747&amp;sr=8-2&amp;keywords"
+                "WORK_OF_ART": [
+                    "Build APIs You Won't Hate",
+                    "Dredd: Do Your HTTP API Justice",
+                    "Smalltalk Best Practice Patterns"
                 ]
             }
         },
@@ -7581,14 +8019,20 @@
             "pubDate": "Mon, 23 Mar 2015 02:00:00 +0000",
             "title": "12: Jack McDade - Building Photoshoot.io and Getting Stuff Done",
             "entities": {
-                "CARDINAL": [
-                    "5"
+                "PRODUCT": [
+                    "Photoshoot.io"
                 ],
-                "PERSON": [
-                    "Jack"
+                "NORP": [
+                    "Envoyer"
                 ],
                 "ORG": [
-                    "Ways We Work</a></li"
+                    "Jack\n\nLaravel 5 Homepage",
+                    "Ways We Work\nSponsored"
+                ],
+                "PERSON": [
+                    "Jack\n\n",
+                    "Jack",
+                    "Jack"
                 ]
             }
         },
@@ -7621,20 +8065,11 @@
             "pubDate": "Mon, 09 Mar 2015 03:25:00 +0000",
             "title": "11: Jeffrey Way - \"But how does it feel?\"",
             "entities": {
-                "ORG": [
-                    "Object-Thinking-Developer-Reference-David",
-                    "href=\"http://martinfowler.com"
-                ],
                 "PERSON": [
+                    "Laracasts\nTemporal",
                     "Martin Fowler",
                     "Kent Beck",
-                    "David Heinemeier"
-                ],
-                "ORDINAL": [
-                    "first"
-                ],
-                "GPE": [
-                    "classes\")</em"
+                    "David Heinemeier Hannson"
                 ]
             }
         },
@@ -7669,14 +8104,20 @@
             "entities": {
                 "ORG": [
                     "PHP",
-                    "PHP</a></li"
+                    "RubyConf X\nDesign",
+                    "Scalar Type Hints"
                 ],
                 "WORK_OF_ART": [
-                    "Why Ruby",
-                    "language.oop5.typehinting.php\">Type Hinting"
+                    "Why Ruby"
                 ],
-                "PRODUCT": [
-                    "RubyConf X</a></li"
+                "LOC": [
+                    "Eiffel\nType Hinting"
+                ],
+                "GPE": [
+                    "PHP"
+                ],
+                "PERSON": [
+                    "Sum Types\nErie Day"
                 ]
             }
         },
@@ -7712,10 +8153,18 @@
                 "ORG": [
                     "Domain Driven Design",
                     "ActiveRecord",
-                    "DataMapper"
+                    "DataMapper",
+                    "DHH",
+                    "DHH"
+                ],
+                "WORK_OF_ART": [
+                    "Writing Software"
                 ],
                 "CARDINAL": [
                     "5"
+                ],
+                "FAC": [
+                    "Etsy\nJason Fried on Rebuilding Basecamp"
                 ]
             }
         },
@@ -7758,13 +8207,14 @@
                     "Ember",
                     "Ember",
                     "API",
-                    "emberjs/data\">Ember Data</a></li"
+                    "Ember"
                 ],
                 "WORK_OF_ART": [
-                    "pull/15\">The Road to Ember 2.0</a></li"
+                    "The Road to Ember 2.0\n",
+                    "Ruby on Rails"
                 ],
-                "TIME": [
-                    "li><a href=\"https://github.com"
+                "PRODUCT": [
+                    "Ember Data"
                 ]
             }
         },
@@ -7797,17 +8247,22 @@
             "pubDate": "Mon, 19 Jan 2015 17:34:00 +0000",
             "title": "7: Shawn McCool - BDD and DDD",
             "entities": {
-                "ORG": [
-                    "href=\"https://pragprog.com",
-                    "Vaughn"
-                ],
                 "PERSON": [
-                    "Book</a></li",
-                    "Eric",
-                    "Tuck"
+                    "Shawn",
+                    "Eric Evans",
+                    "Vaughn Vernon",
+                    "Ross Tuck's"
+                ],
+                "ORG": [
+                    "RSpec",
+                    "BDD"
                 ],
                 "GPE": [
                     "Modelling"
+                ],
+                "WORK_OF_ART": [
+                    "Domain Driven Design",
+                    "Implementing Domain Driven Design"
                 ]
             }
         },
@@ -7843,12 +8298,16 @@
                 "PERSON": [
                     "Ansible",
                     "Docker",
-                    "Steve"
+                    "Chris",
+                    "Steve Corona",
+                    "James Turnbull's"
                 ],
-                "ORG": [
-                    "Hackers",
-                    "Hackers Book</a></li",
-                    "Turnbull"
+                "PRODUCT": [
+                    "Ansible"
+                ],
+                "WORK_OF_ART": [
+                    "Docker",
+                    "Scaling PHP Applications"
                 ]
             }
         },
@@ -7882,9 +8341,15 @@
             "title": "5: Ryan Singer - Jobs-to-be-Done and Product Design",
             "entities": {
                 "PERSON": [
-                    "Peepcode Play-by-Play</a></li",
-                    "Christopher",
-                    "Eric"
+                    "Ryan",
+                    "Peepcode Play-by-Play\nRyan's",
+                    "Christopher Alexander",
+                    "Eric Evans"
+                ],
+                "WORK_OF_ART": [
+                    "Medium\nThe Milkshake Video\nRyan's",
+                    "Notes on the Synthesis of Form",
+                    "Domain Driven Design"
                 ]
             }
         },
@@ -7919,21 +8384,21 @@
             "entities": {
                 "ORG": [
                     "API",
-                    "thephpleague/oauth2-server\">Alex's",
-                    "PHP OAuth2",
-                    "href=\"http://alexbilbie.com/2014/11",
-                    "href=\"https://leanpub.com"
+                    "Alex's",
+                    "PHP OAuth2 Server",
+                    "OAuth"
                 ],
                 "CARDINAL": [
                     "one"
                 ],
                 "PERSON": [
                     "Adam",
-                    "JavaScript Web-Apps\"</a></li",
-                    "OAuth book</a></li"
+                    "Alex",
+                    "JavaScript Web-Apps",
+                    "Alex"
                 ],
-                "TIME": [
-                    "li><a href=\"https://github.com"
+                "WORK_OF_ART": [
+                    "OAuth"
                 ]
             }
         },
@@ -7966,20 +8431,21 @@
             "pubDate": "Mon, 17 Nov 2014 02:30:00 +0000",
             "title": "3: Matt Machuga - Ruby, PHP, object oriented design, testing and other crap",
             "entities": {
-                "ORG": [
-                    "href=\"http://tutsplus.com"
-                ],
                 "PERSON": [
-                    "matthew-machuga\">Matt's",
-                    "Robots",
-                    "Shawn McCool</a></li"
+                    "Matt",
+                    "Matt",
+                    "Giant Robots Podcast",
+                    "Shawn McCool"
+                ],
+                "PRODUCT": [
+                    "TutsPlus"
+                ],
+                "ORG": [
+                    "DHH"
                 ],
                 "WORK_OF_ART": [
                     "Why Ruby",
-                    "Far Is Just Enough"
-                ],
-                "TIME": [
-                    "li><a href=\"https://github.com"
+                    "Too Far Is Just Enough"
                 ]
             }
         },
@@ -8012,15 +8478,20 @@
             "pubDate": "Mon, 03 Nov 2014 09:00:00 +0000",
             "title": "2: Eric Barnes - Wardrobe, Javascript and Writing",
             "entities": {
-                "GPE": [
-                    "News</a></li"
+                "PERSON": [
+                    "Eric"
                 ],
                 "ORG": [
-                    "href=\"http://ericlbarnes.com"
+                    "Laravel News"
                 ],
-                "CARDINAL": [
-                    "0-112094.html\">Sneak",
-                    "2.0</a></li"
+                "WORK_OF_ART": [
+                    "Rebuilding Wardrobe\nSnappy\nLaravel Forge\nSneak"
+                ],
+                "PRODUCT": [
+                    "Angular 2.0\nRemoving Batman.js"
+                ],
+                "GPE": [
+                    "Shopify"
                 ]
             }
         },
@@ -8053,21 +8524,18 @@
             "pubDate": "Sat, 18 Oct 2014 16:27:00 +0000",
             "title": "1: Matt Stauffer - CSS Semantics",
             "entities": {
-                "ORG": [
-                    "CSS",
-                    "SMACSS",
-                    "href=\"https://coderwall.com/p/wixovg\">\"Bootstrap",
-                    "CSS",
-                    "href=\"http://nicolasgallagher.com"
+                "WORK_OF_ART": [
+                    "Organizing CSS",
+                    "\"Medium's CSS"
                 ],
-                "GPE": [
-                    "BEM\"</a",
-                    "Media"
+                "ORG": [
+                    "SMACSS",
+                    "BEM",
+                    "Media Objects\nSMACSS"
                 ],
                 "PERSON": [
-                    "Matt Stauffer</li",
-                    "Sullivan",
-                    "href=\"https://medium.com/@fat"
+                    "Matt Stauffer",
+                    "Nicole Sullivan"
                 ]
             }
         }

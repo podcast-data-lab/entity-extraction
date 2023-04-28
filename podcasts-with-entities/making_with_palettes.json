@@ -631,8 +631,10 @@
             "title": "Beyonc\u00e9 BONUS: Fearlessly Herself",
             "entities": {
                 "ORG": [
-                    "Beyonc\u00e9",
-                    "wbez-making/~4/OJ32QaofFis"
+                    "Beyonc\u00e9"
+                ],
+                "WORK_OF_ART": [
+                    "Love"
                 ]
             }
         },
@@ -661,9 +663,7 @@
             "entities": {
                 "ORG": [
                     "Beyonc\u00e9",
-                    "Destiny\u2019s Child",
-                    "src=\"http://feeds.feedburner.com/~r",
-                    "wbez-making/~4/_lEouA_75No"
+                    "Destiny\u2019s Child"
                 ]
             }
         },
@@ -692,9 +692,7 @@
             "entities": {
                 "ORG": [
                     "Beyonc\u00e9",
-                    "Girls Tyme",
-                    "src=\"http://feeds.feedburner.com/~r",
-                    "wbez-making/~4/Lo-nzCZCXJA"
+                    "Girls Tyme"
                 ]
             }
         },
@@ -726,8 +724,7 @@
                 ],
                 "ORG": [
                     "Destiny\u2019s Child",
-                    "Girls Tyme",
-                    "src=\"http://feeds.feedburner.com/~r"
+                    "Girls Tyme"
                 ],
                 "GPE": [
                     "Houston"
@@ -760,9 +757,7 @@
             "title": "Trailer: Making Beyonc\u00e9",
             "entities": {
                 "ORG": [
-                    "WBEZ Chicago",
-                    "src=\"http://feeds.feedburner.com/~r",
-                    "wbez-making/~4"
+                    "WBEZ Chicago"
                 ],
                 "CARDINAL": [
                     "three"
@@ -808,9 +803,6 @@
                 ],
                 "PERSON": [
                     "Barack Obama"
-                ],
-                "ORG": [
-                    "wbez-making/~4"
                 ]
             }
         },
@@ -841,9 +833,7 @@
                     "Barack Obama"
                 ],
                 "ORG": [
-                    "U.S. Senate",
-                    "href=\"http://wbez.org/making\">wbez.org/making</a><br></p><img",
-                    "wbez-making/~4/MU_ZRMADvG4"
+                    "U.S. Senate"
                 ],
                 "GPE": [
                     "Washington"
@@ -874,7 +864,8 @@
             "title": "Obama 5: Up Or Out",
             "entities": {
                 "PERSON": [
-                    "Barack Obama"
+                    "Barack Obama",
+                    "Obama"
                 ],
                 "CARDINAL": [
                     "one"
@@ -884,8 +875,7 @@
                 ],
                 "ORG": [
                     "U.S. Senate",
-                    "WBEZ",
-                    "wbez-making/~4"
+                    "WBEZ"
                 ],
                 "GPE": [
                     "Chicago"
@@ -922,9 +912,7 @@
                     "Barack Obama"
                 ],
                 "ORG": [
-                    "Congress",
-                    "identity.</p><img",
-                    "wbez-making/~4/s5P76IcR8wk"
+                    "Congress"
                 ],
                 "GPE": [
                     "Chicago"
@@ -962,9 +950,6 @@
                 ],
                 "DATE": [
                     "1996"
-                ],
-                "ORG": [
-                    "wbez-making/~4/jWQj3dPJS94"
                 ]
             }
         },
@@ -999,9 +984,6 @@
                 ],
                 "GPE": [
                     "Chicago"
-                ],
-                "ORG": [
-                    "wbez-making/~4"
                 ]
             }
         },
@@ -1039,9 +1021,6 @@
                 ],
                 "GPE": [
                     "Chicago"
-                ],
-                "ORG": [
-                    "wbez-making/~4/tf1eXqNiLN0"
                 ]
             }
         },
@@ -1077,10 +1056,7 @@
                     "first"
                 ],
                 "DATE": [
-                    "February 8.<br></p><img"
-                ],
-                "ORG": [
-                    "wbez-making/~4"
+                    "February 8"
                 ]
             }
         },
@@ -1106,20 +1082,21 @@
             "pubDate": "Fri, 30 Dec 2016 11:39:24 -0600",
             "title": "Oprah BONUS: Making Donahue",
             "entities": {
-                "ORG": [
-                    "Oprah</i",
-                    "wbez-making/~4/kfndPZRWdYE"
-                ],
-                "TIME": [
-                    "daytime"
-                ],
                 "PERSON": [
+                    "Oprah",
                     "Phil Donahue",
                     "Oprah",
                     "Donahue",
                     "Jenn White",
                     "Colin McNulty",
-                    "Joel Meyer"
+                    "Joel Meyer",
+                    "Oprah"
+                ],
+                "TIME": [
+                    "daytime"
+                ],
+                "PRODUCT": [
+                    "Donahue"
                 ],
                 "DATE": [
                     "1967 to 1996"
@@ -1168,9 +1145,6 @@
                     "Jenn White",
                     "Oprah",
                     "Oprah Winfrey"
-                ],
-                "ORG": [
-                    "wbez-making/~4"
                 ]
             }
         },
@@ -1196,15 +1170,16 @@
             "pubDate": "Thu, 15 Dec 2016 22:44:00 -0600",
             "title": "Oprah BONUS: Let's Talk About Oprah's Hair",
             "entities": {
+                "FAC": [
+                    "the Oprah Winfrey Show"
+                ],
+                "ORG": [
+                    "Oprah"
+                ],
                 "PERSON": [
-                    "Oprah Winfrey",
                     "Jenn White",
                     "Oprah",
                     "Andre Walker"
-                ],
-                "ORG": [
-                    "Oprah",
-                    "wbez-making/~4"
                 ]
             }
         },
@@ -1238,18 +1213,17 @@
                     "Oprah"
                 ],
                 "CARDINAL": [
-                    "21,000",
-                    "25"
+                    "21,000"
                 ],
                 "GPE": [
-                    "Chicago.&nbsp;</p><p><span>\u201cIt"
+                    "Chicago"
                 ],
                 "DATE": [
-                    "the year before"
+                    "the year before",
+                    "25 years"
                 ],
                 "ORG": [
-                    "WBEZ",
-                    "wbez-making/~4"
+                    "WBEZ"
                 ]
             }
         },
@@ -1279,16 +1253,12 @@
                 "ORDINAL": [
                     "second"
                 ],
-                "ORG": [
-                    "Oprah</i",
-                    "WBEZ"
-                ],
                 "PERSON": [
-                    "Oprah Winfrey",
+                    "Oprah",
+                    "The Oprah Winfrey Show",
                     "Oprah",
                     "Oprah",
-                    "Jenn White",
-                    "Oprah Winfrey"
+                    "Jenn White"
                 ],
                 "DATE": [
                     "The early years"
@@ -1296,8 +1266,8 @@
                 "WORK_OF_ART": [
                     "the \u2018Live Your Best Life\u2019 Oprah"
                 ],
-                "PRODUCT": [
-                    "saying?\u201d&nbsp;</p><p>&nbsp;As"
+                "ORG": [
+                    "WBEZ"
                 ]
             }
         },
@@ -1338,6 +1308,7 @@
                     "Oprah",
                     "Oprah",
                     "Jenn White",
+                    "Phil Donahue",
                     "Oprah"
                 ],
                 "ORG": [
@@ -1352,18 +1323,16 @@
                     "145",
                     "more than 40 million",
                     "only about a tenth",
+                    "millions",
                     "billions",
                     "three"
                 ],
                 "GPE": [
                     "U.S.",
-                    "America.</p"
+                    "America"
                 ],
                 "ORDINAL": [
                     "first"
-                ],
-                "PRODUCT": [
-                    "Donahue"
                 ],
                 "TIME": [
                     "daytime"
@@ -1394,19 +1363,18 @@
             "entities": {
                 "PERSON": [
                     "Oprah",
-                    "Oprah Winfrey Show</a></i",
                     "Winfrey",
                     "Phil Donahue"
                 ],
                 "DATE": [
                     "30 years"
                 ],
+                "ORG": [
+                    "The Oprah Winfrey Show",
+                    "WBEZ"
+                ],
                 "ORDINAL": [
                     "first"
-                ],
-                "ORG": [
-                    "WBEZ",
-                    "wbez-making/~4/xwnZk-GVhX0"
                 ],
                 "CARDINAL": [
                     "three"

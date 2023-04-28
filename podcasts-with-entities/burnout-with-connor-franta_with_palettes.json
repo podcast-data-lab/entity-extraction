@@ -39,13 +39,15 @@
                     "Harvard T.H. Chan School of Public Health",
                     "Creative Artists Agency Foundation",
                     "the Physician Support Line",
-                    "COVID-19",
-                    "United"
+                    "COVID-19"
                 ],
                 "PERSON": [
                     "Lorna Breen",
                     "Mona Masood",
                     "Nancy Burkey"
+                ],
+                "GPE": [
+                    "the United States"
                 ]
             }
         },
@@ -78,19 +80,22 @@
                     "This week",
                     "today"
                 ],
+                "PERSON": [
+                    "Burnout",
+                    "Lemonada"
+                ],
                 "ORG": [
                     "Mindful.org",
-                    "href=\"http://mindful.org",
-                    "href=\"http://lemonadamedia.com"
+                    "Instagram"
                 ],
                 "PRODUCT": [
                     "Twitter"
                 ],
+                "GPE": [
+                    "@LemonadaMedia"
+                ],
                 "FAC": [
                     "Lemonada Premium"
-                ],
-                "PERSON": [
-                    "Lemonada"
                 ]
             }
         },
@@ -125,17 +130,16 @@
                 ],
                 "ORG": [
                     "Mindful.org",
-                    "href=\"http://mindful.org",
-                    "href=\"http://lemonadamedia.com"
+                    "Instagram"
                 ],
                 "PRODUCT": [
                     "Twitter"
                 ],
+                "GPE": [
+                    "@LemonadaMedia"
+                ],
                 "DATE": [
                     "today"
-                ],
-                "GPE": [
-                    "bit.ly/lemonadapremium.&nbsp;Click"
                 ],
                 "PERSON": [
                     "Lemonada"
@@ -174,6 +178,7 @@
                 ],
                 "PERSON": [
                     "Chris Smalls",
+                    "Burnout",
                     "Lemonada"
                 ],
                 "TIME": [
@@ -184,18 +189,16 @@
                 ],
                 "ORG": [
                     "the Amazon Labor Union",
-                    "href=\"https://www.mindful.org",
-                    "href=\"http://lemonadamedia.com"
+                    "Amazon",
+                    "Mindful.org",
+                    "Instagram"
                 ],
                 "GPE": [
-                    "America"
+                    "America",
+                    "@LemonadaMedia"
                 ],
                 "PRODUCT": [
-                    "Amazon&rsquo;s",
                     "Twitter"
-                ],
-                "WORK_OF_ART": [
-                    "Mindful"
                 ],
                 "FAC": [
                     "Lemonada Premium"
@@ -228,15 +231,14 @@
             "title": "We Can\u2019t Live Like This Anymore",
             "entities": {
                 "ORG": [
-                    "it&rsquo;s",
-                    "href=\"https://www.mindful.org",
-                    "href=\"http://lemonadamedia.com"
-                ],
-                "WORK_OF_ART": [
-                    "Mindful"
+                    "Mindful.org",
+                    "Instagram"
                 ],
                 "PRODUCT": [
                     "Twitter"
+                ],
+                "GPE": [
+                    "@LemonadaMedia"
                 ],
                 "FAC": [
                     "Lemonada Premium"
@@ -274,10 +276,8 @@
             "entities": {
                 "GPE": [
                     "Connor Franta",
-                    "Lemonada"
-                ],
-                "ORG": [
-                    "working &ndash"
+                    "Lemonada",
+                    "Mindful"
                 ],
                 "DATE": [
                     "May 10"
@@ -329,13 +329,9 @@
             "every single day"
         ],
         "GPE": [
-            "Connor Franta"
-        ],
-        "ORG": [
-            "Lemonada"
-        ],
-        "PERSON": [
-            "Mindful.</p"
+            "Connor Franta",
+            "Lemonada",
+            "Mindful"
         ]
     }
 }

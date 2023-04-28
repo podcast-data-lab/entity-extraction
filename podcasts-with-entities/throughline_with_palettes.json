@@ -242,9 +242,6 @@
                     "year",
                     "the last century"
                 ],
-                "WORK_OF_ART": [
-                    "Everything Everywhere All At Once"
-                ],
                 "NORP": [
                     "Asian",
                     "Asian American",
@@ -320,7 +317,7 @@
                 "ORG": [
                     "AI",
                     "AI",
-                    "AI <",
+                    "AI",
                     "AI"
                 ],
                 "DATE": [
@@ -332,9 +329,6 @@
                     "Taoist",
                     "Buddhist",
                     "European"
-                ],
-                "PERSON": [
-                    "is</em"
                 ]
             }
         },
@@ -699,7 +693,8 @@
                     "the Great American Dream"
                 ],
                 "ORG": [
-                    "Favorite Board Game</em"
+                    "The Monopolists: Obsession, Fury",
+                    "Favorite Board Game"
                 ]
             }
         },
@@ -772,6 +767,7 @@
                     "Donald Trump",
                     "Alan Greenspan",
                     "Brad Pitt",
+                    "Atlas Shrugged",
                     "Ayn Rand",
                     "Jennifer Burns",
                     "Burns"
@@ -1208,7 +1204,8 @@
                 "DATE": [
                     "the early 1800s",
                     "Next week",
-                    "this week"
+                    "this week",
+                    "2020"
                 ],
                 "PERSON": [
                     "Frederick Douglass",
@@ -1394,6 +1391,7 @@
                 "CARDINAL": [
                     "one",
                     "one",
+                    "billions",
                     "one",
                     "dozens",
                     "one"
@@ -2002,7 +2000,8 @@
                     "the Great American Dream"
                 ],
                 "ORG": [
-                    "Favorite Board Game</em"
+                    "The Monopolists: Obsession, Fury",
+                    "Favorite Board Game"
                 ],
                 "DATE": [
                     "This week"
@@ -2036,8 +2035,7 @@
                     "Supreme Court"
                 ],
                 "PERSON": [
-                    "Ruth Bader Ginsburg",
-                    "Roe"
+                    "Ruth Bader Ginsburg"
                 ],
                 "CARDINAL": [
                     "one",
@@ -2051,6 +2049,9 @@
                     "Christians",
                     "Christians",
                     "Irish"
+                ],
+                "LAW": [
+                    "Roe v. Wade"
                 ],
                 "DATE": [
                     "decades",
@@ -2084,9 +2085,10 @@
                 "ORG": [
                     "The Supreme Court's"
                 ],
-                "PERSON": [
+                "LAW": [
+                    "Roe v. Wade",
                     "Roe",
-                    "Roe.</em"
+                    "Roe"
                 ],
                 "DATE": [
                     "the past century"
@@ -2135,7 +2137,7 @@
                     "Wong Kim Ark",
                     "Wong Kim Ark",
                     "Wong",
-                    "Wong Kim Ark</em>"
+                    "Wong Kim Ark"
                 ],
                 "ORG": [
                     "the Chinese Exclusion Act",
@@ -3181,14 +3183,16 @@
             "title": "Bonus: On Our Watch",
             "entities": {
                 "GPE": [
-                    "California",
-                    "Watch,</em"
+                    "California"
                 ],
                 "CARDINAL": [
                     "thousands"
                 ],
                 "ORDINAL": [
                     "first"
+                ],
+                "WORK_OF_ART": [
+                    "Our Watch"
                 ],
                 "ORG": [
                     "NPR",
@@ -3232,7 +3236,7 @@
                     "one"
                 ],
                 "PERSON": [
-                    "Eugene V. Debs.<br><br"
+                    "Eugene V. Debs"
                 ],
                 "ORDINAL": [
                     "first"
@@ -3267,7 +3271,7 @@
                     "Donald Trump",
                     "Alan Greenspan",
                     "Brad Pitt",
-                    "Atlas Shrugged,</em",
+                    "Atlas Shrugged",
                     "Ayn Rand",
                     "Jennifer Burns",
                     "Burns"
@@ -3328,11 +3332,16 @@
                 "NORP": [
                     "British"
                 ],
+                "ORG": [
+                    "OK Computer",
+                    "Kid A",
+                    "Amnesiac",
+                    "Thom Yorke",
+                    "Kid A",
+                    "Amnesiac"
+                ],
                 "CARDINAL": [
                     "two"
-                ],
-                "ORG": [
-                    "Thom Yorke"
                 ],
                 "PERSON": [
                     "Stanley Donwood"
@@ -3784,7 +3793,7 @@
             "title": "Bonus: Soul Train",
             "entities": {
                 "WORK_OF_ART": [
-                    "Soul Train </em",
+                    "Soul Train",
                     "Soul Train"
                 ],
                 "ORDINAL": [
@@ -3795,7 +3804,7 @@
                     "every weekend"
                 ],
                 "PERSON": [
-                    "Sam Sanders</em"
+                    "Sam Sanders"
                 ]
             }
         },
@@ -4289,7 +4298,8 @@
                     "Marla Ruzicka"
                 ],
                 "ORG": [
-                    "Rough Translation's"
+                    "Rough Translation's",
+                    "Home/Front"
                 ]
             }
         },
@@ -4459,11 +4469,14 @@
                 "ORG": [
                     "Radiolab"
                 ],
+                "WORK_OF_ART": [
+                    "The Vanishing"
+                ],
                 "PERSON": [
-                    "Harry Pace</em",
                     "Harry Pace",
                     "Harry Pace",
-                    "Harry Pace</em"
+                    "Harry Pace",
+                    "Harry Pace"
                 ],
                 "ORDINAL": [
                     "first"
@@ -4786,6 +4799,7 @@
                     "the Middle East"
                 ],
                 "PERSON": [
+                    "Kerning Cultures",
                     "Kerning Cultures"
                 ],
                 "GPE": [
@@ -5281,21 +5295,20 @@
             "pubDate": "Sun, 07 Feb 2021 05:01:01 +0000",
             "title": "The Lasting Power Of Whitney Houston's National Anthem",
             "entities": {
-                "GPE": [
-                    "houston"
+                "PERSON": [
+                    "Whitney Houston's",
+                    "Sam Sanders",
+                    "Danyel Smith"
                 ],
                 "DATE": [
                     "1991",
                     "30 years later"
                 ],
-                "WORK_OF_ART": [
-                    "Been A Minute"
+                "EVENT": [
+                    "Super Bowl"
                 ],
-                "PERSON": [
-                    "Sam Sanders <"
-                ],
-                "CARDINAL": [
-                    "JM0PpOHuQgi4tOJFGplhHg\"><em"
+                "ORG": [
+                    "Black Girl Songbook"
                 ]
             }
         },
@@ -5744,6 +5757,9 @@
                 ],
                 "ORG": [
                     "NPR Music"
+                ],
+                "PERSON": [
+                    "Louder Than A Riot"
                 ]
             }
         },
@@ -5816,11 +5832,8 @@
                 "TIME": [
                     "one night"
                 ],
-                "WORK_OF_ART": [
-                    "Been A Minute"
-                ],
                 "PERSON": [
-                    "Sam Sanders</a"
+                    "Sam Sanders"
                 ],
                 "GPE": [
                     "U.S."
@@ -6569,12 +6582,11 @@
                     "between 2020 and 1968",
                     "a century earlier \u2013 1868",
                     "This week",
-                    "why-2020",
                     "years"
                 ],
                 "PERSON": [
                     "Adam Serwer",
-                    "Sam Sanders</a"
+                    "Sam Sanders"
                 ],
                 "LOC": [
                     "Atlantic"
@@ -6927,6 +6939,9 @@
                 "DATE": [
                     "This week"
                 ],
+                "PERSON": [
+                    "Code Switch"
+                ],
                 "PRODUCT": [
                     "Cherokee"
                 ]
@@ -7160,16 +7175,14 @@
                     "Today",
                     "decades",
                     "This week",
-                    "today-explained\">Today"
+                    "Today"
                 ],
                 "GPE": [
                     "Northern Ireland",
                     "the Republic of Ireland"
                 ],
-                "ORG": [
-                    "Explained</a"
-                ],
                 "PERSON": [
+                    "Explained",
                     "Brexit"
                 ]
             }
@@ -8177,8 +8190,7 @@
                     "Billie Holiday"
                 ],
                 "NORP": [
-                    "American",
-                    "american"
+                    "American"
                 ],
                 "CARDINAL": [
                     "one",
@@ -8338,7 +8350,7 @@
             "entities": {
                 "ORG": [
                     "Brown v. Board of Education",
-                    "Supreme",
+                    "the Supreme Court",
                     "Supreme Court"
                 ],
                 "DATE": [
@@ -8551,6 +8563,9 @@
                 "GPE": [
                     "Marion",
                     "Ala."
+                ],
+                "ORG": [
+                    "White Lies"
                 ],
                 "CARDINAL": [
                     "more than half"
@@ -8766,7 +8781,7 @@
                 "PERSON": [
                     "Madison Grant",
                     "Trump",
-                    "Sam Sanders</a"
+                    "Sam Sanders"
                 ],
                 "ORG": [
                     "Congress"
@@ -8778,9 +8793,6 @@
                 ],
                 "GPE": [
                     "Nazi Germany"
-                ],
-                "WORK_OF_ART": [
-                    "Been A Minute"
                 ],
                 "NORP": [
                     "American"

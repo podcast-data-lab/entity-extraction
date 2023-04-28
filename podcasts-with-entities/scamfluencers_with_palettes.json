@@ -37,7 +37,8 @@
                 ],
                 "PERSON": [
                     "Lou Pearlman",
-                    "Lou"
+                    "Lou",
+                    "Privacy Policy"
                 ],
                 "MONEY": [
                     "millions of dollars"
@@ -86,6 +87,9 @@
                 "NORP": [
                     "Flordelis"
                 ],
+                "PERSON": [
+                    "Privacy Policy"
+                ],
                 "GPE": [
                     "California"
                 ]
@@ -121,19 +125,18 @@
                     "Kara Klenk",
                     "Kelli Giddish",
                     "Meghann Fahy",
-                    "Lou Diamond",
+                    "Lou Diamond Phillips",
                     "Melissa Brannen"
                 ],
                 "ORG": [
-                    "Law &",
-                    "Order",
+                    "Law & Order",
                     "SVU",
                     "SVU",
                     "SVU",
                     "BD Wong",
                     "Goldman",
                     "SVU",
-                    "the Amazon Music or Wondery"
+                    "the Amazon Music or Wondery app"
                 ],
                 "CARDINAL": [
                     "more than 100",
@@ -171,9 +174,8 @@
             "pubDate": "Mon, 10 Apr 2023 07:01:00 -0000",
             "title": "ENCORE: Brazil's Supermom | Part I",
             "entities": {
-                "PERSON": [
-                    "Scamfluencers\u2019</em",
-                    "Santos de Souza"
+                "PRODUCT": [
+                    "Scamfluencers"
                 ],
                 "DATE": [
                     "one-year",
@@ -190,6 +192,10 @@
                 ],
                 "NORP": [
                     "Flordelis"
+                ],
+                "PERSON": [
+                    "Santos de Souza",
+                    "Privacy Policy"
                 ],
                 "GPE": [
                     "Brazil",
@@ -223,9 +229,10 @@
             "entities": {
                 "PERSON": [
                     "Sarah",
-                    "Scamfluencers</em",
                     "Malachi Love Robinson",
-                    "Jen Shah"
+                    "Jen Shah",
+                    "Todd Chrisley",
+                    "Privacy Policy"
                 ],
                 "GPE": [
                     "Scaachi",
@@ -233,6 +240,9 @@
                 ],
                 "DATE": [
                     "one-year"
+                ],
+                "PRODUCT": [
+                    "Scamfluencers"
                 ],
                 "ORG": [
                     "Hushpuppi"
@@ -265,7 +275,8 @@
             "entities": {
                 "PERSON": [
                     "Jason Kurland",
-                    "Jason"
+                    "Jason",
+                    "Privacy Policy"
                 ],
                 "LOC": [
                     "Long Island"
@@ -317,7 +328,8 @@
                     "Italian"
                 ],
                 "PERSON": [
-                    "Anne Hathaway"
+                    "Anne Hathaway",
+                    "Privacy Policy"
                 ],
                 "MONEY": [
                     "multi-million-dollar"
@@ -352,7 +364,8 @@
             "entities": {
                 "PERSON": [
                     "Rudy Kurniawan",
-                    "Rudy"
+                    "Rudy",
+                    "Privacy Policy"
                 ],
                 "CARDINAL": [
                     "one"
@@ -401,7 +414,10 @@
                     "California"
                 ],
                 "DATE": [
-                    "1-800-656-4673.&nbsp;</p><p"
+                    "1-800-656-4673"
+                ],
+                "PERSON": [
+                    "Privacy Policy"
                 ]
             }
         },
@@ -430,7 +446,8 @@
             "title": "The Memory Maker | Part I",
             "entities": {
                 "PERSON": [
-                    "Teal Swan"
+                    "Teal Swan",
+                    "Privacy Policy"
                 ],
                 "ORG": [
                     "the U.S. National Suicide Prevention Lifeline",
@@ -447,7 +464,7 @@
                     "California"
                 ],
                 "DATE": [
-                    "1-800-656-4673.</p><p"
+                    "1-800-656-4673.Support"
                 ]
             }
         },
@@ -477,7 +494,8 @@
                 "PERSON": [
                     "Carlos Ghosn",
                     "Michelin",
-                    "Carlos"
+                    "Carlos",
+                    "Privacy Policy"
                 ],
                 "ORG": [
                     "Renault",
@@ -522,7 +540,8 @@
                 ],
                 "PERSON": [
                     "Karl Gerhartsreiter",
-                    "Christopher Crowe"
+                    "Christopher Crowe",
+                    "Privacy Policy"
                 ],
                 "GPE": [
                     "New York City",
@@ -563,7 +582,8 @@
                     "Dean",
                     "Sgt",
                     "Jill",
-                    "Kerry Godliman.</p><p"
+                    "Kerry Godliman",
+                    "Follow Stolen Hearts"
                 ],
                 "GPE": [
                     "Wales",
@@ -582,8 +602,8 @@
                     "Amazon Music",
                     "Apple Podcasts"
                 ],
-                "NORP": [
-                    "target=\"_blank\">Wondery.fm/SH_Scam</a></p><p"
+                "LOC": [
+                    "the Wondery App"
                 ]
             }
         },
@@ -621,7 +641,8 @@
                     "American"
                 ],
                 "PERSON": [
-                    "Karl Gerhartsreiter"
+                    "Karl Gerhartsreiter",
+                    "Privacy Policy"
                 ],
                 "GPE": [
                     "Connecticut",
@@ -659,6 +680,9 @@
                 ],
                 "CARDINAL": [
                     "one"
+                ],
+                "PERSON": [
+                    "Privacy Policy"
                 ]
             }
         },
@@ -686,10 +710,11 @@
             "entities": {
                 "PERSON": [
                     "Ash Kelley",
+                    "Morbid",
                     "Laurence Pilgeram",
                     "Pilgeram",
                     "Follow Frozen Head",
-                    "Frozen Head:&nbsp;<a"
+                    "Frozen Head"
                 ],
                 "PRODUCT": [
                     "Alaina Urquhart"
@@ -702,8 +727,8 @@
                     "Amazon Music",
                     "Apple Podcasts"
                 ],
-                "CARDINAL": [
-                    "target=\"_blank\">Wondery.fm"
+                "LOC": [
+                    "the Wondery App"
                 ],
                 "GPE": [
                     "California"
@@ -737,7 +762,8 @@
                 "PERSON": [
                     "Zach Horwitz",
                     "Zach Avery",
-                    "Zach"
+                    "Zach",
+                    "Privacy Policy"
                 ],
                 "ORG": [
                     "Ponzi"
@@ -779,7 +805,8 @@
                     "three"
                 ],
                 "PERSON": [
-                    "Zach Horwitz"
+                    "Zach Horwitz",
+                    "Privacy Policy"
                 ],
                 "GPE": [
                     "Hollywood",
@@ -831,6 +858,9 @@
                     "two",
                     "two"
                 ],
+                "PERSON": [
+                    "Privacy Policy"
+                ],
                 "GPE": [
                     "California"
                 ]
@@ -860,7 +890,8 @@
             "title": "Fine Art Fugitive",
             "entities": {
                 "PERSON": [
-                    "Inigo Philbrick"
+                    "Inigo Philbrick",
+                    "Privacy Policy"
                 ],
                 "GPE": [
                     "London",
@@ -892,7 +923,8 @@
             "title": "The Shady Bunch | Part II",
             "entities": {
                 "PERSON": [
-                    "Chrisleys"
+                    "Chrisleys",
+                    "Privacy Policy"
                 ],
                 "NORP": [
                     "American"
@@ -928,8 +960,9 @@
             "entities": {
                 "PERSON": [
                     "Julie Chrisley",
-                    "Chrisley Knows Best</em",
-                    "Todd"
+                    "Chrisley Knows Best",
+                    "Todd",
+                    "Privacy Policy"
                 ],
                 "NORP": [
                     "Southern"
@@ -967,7 +1000,8 @@
                 "PERSON": [
                     "Martin Shkreli",
                     "Christie Smith",
-                    "Martin"
+                    "Martin",
+                    "Privacy Policy"
                 ],
                 "ORG": [
                     "Bloomberg",
@@ -1046,8 +1080,7 @@
                 ],
                 "PERSON": [
                     "Brittany Dawn",
-                    "Brittany",
-                    "Anorexia Nervosa"
+                    "Brittany"
                 ],
                 "CARDINAL": [
                     "1-800-931",
@@ -1100,6 +1133,9 @@
                     "Miami",
                     "America",
                     "California"
+                ],
+                "PERSON": [
+                    "Privacy Policy"
                 ]
             }
         },
@@ -1134,13 +1170,15 @@
                     "U.K.",
                     "Scaachi",
                     "Columbus",
+                    "Ohio",
                     "California"
                 ],
                 "MONEY": [
                     "100,000"
                 ],
                 "PERSON": [
-                    "Sarah"
+                    "Sarah",
+                    "Privacy Policy"
                 ],
                 "ORG": [
                     "Obsessed Fest"
@@ -1179,7 +1217,8 @@
                     "California"
                 ],
                 "PERSON": [
-                    "Danielle Miller"
+                    "Danielle Miller",
+                    "Privacy Policy"
                 ],
                 "ORG": [
                     "P.R."
@@ -1211,7 +1250,8 @@
             "entities": {
                 "PERSON": [
                     "Alex Guerrero",
-                    "Tom Brady"
+                    "Tom Brady",
+                    "Privacy Policy"
                 ],
                 "ORG": [
                     "FTC"
@@ -1249,7 +1289,8 @@
                 ],
                 "PERSON": [
                     "Tom Brady",
-                    "Alex Guerrero"
+                    "Alex Guerrero",
+                    "Privacy Policy"
                 ],
                 "GPE": [
                     "California"
@@ -1284,7 +1325,8 @@
                 ],
                 "PERSON": [
                     "St\u00e9phane Bourgoin",
-                    "St\u00e9phane"
+                    "St\u00e9phane",
+                    "Privacy Policy"
                 ],
                 "GPE": [
                     "California"
@@ -1321,7 +1363,8 @@
                     "French"
                 ],
                 "PERSON": [
-                    "St\u00e9phane Bourgoin"
+                    "St\u00e9phane Bourgoin",
+                    "Privacy Policy"
                 ],
                 "GPE": [
                     "California"
@@ -1352,7 +1395,8 @@
             "title": "Gossip Girls | Part II",
             "entities": {
                 "PERSON": [
-                    "Matharoo"
+                    "Matharoo",
+                    "Privacy Policy"
                 ],
                 "GPE": [
                     "California"
@@ -1395,7 +1439,8 @@
                     "California"
                 ],
                 "PERSON": [
-                    "Jyoti Matharoo"
+                    "Jyoti Matharoo",
+                    "Privacy Policy"
                 ]
             }
         },
@@ -1422,6 +1467,9 @@
             "pubDate": "Mon, 05 Sep 2022 07:01:00 -0000",
             "title": "The Book Bandit",
             "entities": {
+                "PERSON": [
+                    "Privacy Policy"
+                ],
                 "GPE": [
                     "California"
                 ]
@@ -1450,18 +1498,19 @@
             "pubDate": "Mon, 15 Aug 2022 07:01:00 -0000",
             "title": "Golden Age of Scammers: An Interview with Evan Ratliff",
             "entities": {
+                "PRODUCT": [
+                    "Scamfluencers"
+                ],
                 "PERSON": [
-                    "Scamfluencers</em",
                     "Scaachi Koul",
                     "Sarah Hagi",
                     "Evan Ratliff",
                     "Persona",
-                    "Gilbert Chikli"
-                ],
-                "NORP": [
-                    "French"
+                    "Gilbert Chikli",
+                    "Privacy Policy"
                 ],
                 "ORG": [
+                    "The French Deception",
                     "Ratliff"
                 ],
                 "MONEY": [
@@ -1495,16 +1544,16 @@
             "pubDate": "Mon, 08 Aug 2022 07:01:00 -0000",
             "title": "Desperate Housewife",
             "entities": {
-                "ORG": [
-                    "The Real Housewives",
-                    "Porsche"
-                ],
                 "GPE": [
-                    "Salt Lake City</em",
+                    "Salt Lake City",
                     "California"
                 ],
                 "PERSON": [
-                    "Jen Shah"
+                    "Jen Shah",
+                    "Privacy Policy"
+                ],
+                "ORG": [
+                    "Porsche"
                 ],
                 "MONEY": [
                     "50,000"
@@ -1544,6 +1593,9 @@
                 "MONEY": [
                     "multi-million dollar"
                 ],
+                "PERSON": [
+                    "Privacy Policy"
+                ],
                 "GPE": [
                     "California"
                 ]
@@ -1572,10 +1624,6 @@
             "pubDate": "Mon, 25 Jul 2022 07:01:00 -0000",
             "title": "The Billionaire Gucci Master | Part One",
             "entities": {
-                "GPE": [
-                    "Instagram",
-                    "California"
-                ],
                 "ORG": [
                     "Hushpuppi",
                     "Yahoo",
@@ -1583,13 +1631,17 @@
                 ],
                 "PERSON": [
                     "Fendi",
-                    "Bentleys"
+                    "Bentleys",
+                    "Privacy Policy"
                 ],
                 "CARDINAL": [
                     "millions"
                 ],
                 "NORP": [
                     "Nigerian"
+                ],
+                "GPE": [
+                    "California"
                 ]
             }
         },
@@ -1618,7 +1670,8 @@
             "entities": {
                 "PERSON": [
                     "Guru Jagat",
-                    "Guru Jagat"
+                    "Guru Jagat",
+                    "Privacy Policy"
                 ],
                 "GPE": [
                     "California"
@@ -1650,7 +1703,8 @@
             "entities": {
                 "PERSON": [
                     "Katie Griggs",
-                    "Guru Jagat"
+                    "Guru Jagat",
+                    "Privacy Policy"
                 ],
                 "GPE": [
                     "Los Angeles",
@@ -1690,7 +1744,8 @@
                     "Chinese"
                 ],
                 "PERSON": [
-                    "Serena Shi"
+                    "Serena Shi",
+                    "Privacy Policy"
                 ],
                 "GPE": [
                     "California",
@@ -1731,7 +1786,8 @@
             "title": "Fake Saudi Prince | We\u2019ll Never Be Royals | Part Two",
             "entities": {
                 "PERSON": [
-                    "Anthony Gignac"
+                    "Anthony Gignac",
+                    "Privacy Policy"
                 ],
                 "NORP": [
                     "Saudi"
@@ -1769,8 +1825,9 @@
             "title": "Fake Saudi Prince | Catch Me If You Scam | Part One",
             "entities": {
                 "PERSON": [
-                    "Prince Khalid bin al-Saud",
-                    "Tony Gignac"
+                    "Khalid bin al-Saud",
+                    "Tony Gignac",
+                    "Privacy Policy"
                 ],
                 "NORP": [
                     "Saudi"
@@ -1786,6 +1843,7 @@
                     "Detroit",
                     "Michigan",
                     "Dubai",
+                    "Miami",
                     "California"
                 ]
             }
@@ -1818,6 +1876,9 @@
                 ],
                 "NORP": [
                     "Flordelis"
+                ],
+                "PERSON": [
+                    "Privacy Policy"
                 ],
                 "GPE": [
                     "California"
@@ -1852,7 +1913,8 @@
                     "Floredlis"
                 ],
                 "PERSON": [
-                    "Santos de Souza"
+                    "Santos de Souza",
+                    "Privacy Policy"
                 ],
                 "GPE": [
                     "Brazil",
@@ -1889,12 +1951,12 @@
             "pubDate": "Mon, 09 May 2022 07:01:00 -0000",
             "title": "Dr. Teen Love, MD | Master of Deception",
             "entities": {
-                "PERSON": [
-                    "Malachi Love-Robinson",
-                    "Malachi"
-                ],
                 "LOC": [
                     "South Florida"
+                ],
+                "PERSON": [
+                    "Malachi",
+                    "Privacy Policy"
                 ],
                 "WORK_OF_ART": [
                     "Doctor Love"
@@ -1937,6 +1999,9 @@
                 ],
                 "CARDINAL": [
                     "one"
+                ],
+                "PERSON": [
+                    "Privacy Policy"
                 ]
             }
         },

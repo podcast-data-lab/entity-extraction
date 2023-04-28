@@ -32,17 +32,19 @@
             "pubDate": "Mon, 24 Apr 2023 04:01:00 +0000",
             "title": "Smell, Taste and Touch: How to Joyfully Awaken Your Senses",
             "entities": {
+                "ORG": [
+                    "Happiness"
+                ],
                 "PERSON": [
                     "Gretchen Rubin",
                     "Laurie Santos",
                     "Gretchen"
                 ],
                 "CARDINAL": [
-                    "five",
-                    "Five"
+                    "five"
                 ],
                 "WORK_OF_ART": [
-                    "Life <em"
+                    "Life in Five Senses: How Exploring the Senses Got Me Out of My Head and Into the World"
                 ]
             }
         },
@@ -70,6 +72,9 @@
             "pubDate": "Mon, 17 Apr 2023 04:01:00 +0000",
             "title": "Sight and Sound: How to Joyfully Awaken Your Senses",
             "entities": {
+                "ORG": [
+                    "Happiness"
+                ],
                 "PERSON": [
                     "Gretchen Rubin",
                     "Gretchen",
@@ -79,8 +84,7 @@
                     "first"
                 ],
                 "CARDINAL": [
-                    "two",
-                    "Five"
+                    "two"
                 ]
             }
         },
@@ -110,7 +114,12 @@
             "entities": {
                 "PERSON": [
                     "Katie Couric",
-                    "Laurie"
+                    "Katie Couric",
+                    "Laurie",
+                    "Katie Couric"
+                ],
+                "ORG": [
+                    "Next Question"
                 ]
             }
         },
@@ -141,13 +150,14 @@
                 "PERSON": [
                     "Jeet Singh's",
                     "Sikh",
+                    "Simran",
                     "Simran"
                 ],
                 "GPE": [
                     "Texas"
                 ],
                 "WORK_OF_ART": [
-                    "The Light We Give: How Sikh Wisdom Can Transform Your Life -\u00a0</em"
+                    "The Light We Give: How Sikh Wisdom Can Transform Your Life -\u00a0explains how"
                 ]
             }
         },
@@ -196,7 +206,7 @@
                     "first"
                 ],
                 "WORK_OF_ART": [
-                    "The Light We Give: How Sikh Wisdom Can Transform Your Life -\u00a0<"
+                    "The Light We Give: How Sikh Wisdom Can Transform Your Life -\u00a0"
                 ],
                 "DATE": [
                     "centuries"
@@ -239,7 +249,7 @@
                     "The Yoga Sutras"
                 ],
                 "PERSON": [
-                    "Jessamyn Stanley",
+                    "Yoke",
                     "Laurie Santos"
                 ]
             }
@@ -268,9 +278,12 @@
             "pubDate": "Mon, 13 Mar 2023 05:01:00 +0000",
             "title": "Happiness Lessons of The Ancients: The Trauma of Troy",
             "entities": {
-                "ORG": [
+                "PERSON": [
                     "Virgil",
-                    "MIT"
+                    "Aeneas",
+                    "Aeneas",
+                    "Stephanie Frampton",
+                    "Laurie Santos"
                 ],
                 "GPE": [
                     "Aeneid",
@@ -281,11 +294,8 @@
                     "Greek",
                     "Trojans"
                 ],
-                "PERSON": [
-                    "Aeneas",
-                    "Aeneas",
-                    "Stephanie Frampton",
-                    "Laurie Santos"
+                "ORG": [
+                    "MIT"
                 ]
             }
         },
@@ -313,6 +323,11 @@
             "pubDate": "Mon, 06 Mar 2023 05:01:00 +0000",
             "title": "Happiness Lessons of The Ancients: The Anger of Achilles",
             "entities": {
+                "ORG": [
+                    "Achilles",
+                    "Iliad",
+                    "Harvard"
+                ],
                 "NORP": [
                     "Greek"
                 ],
@@ -323,10 +338,6 @@
                     "Homer",
                     "Greg Nagy",
                     "Dr Faith Harper"
-                ],
-                "ORG": [
-                    "Iliad",
-                    "Harvard"
                 ]
             }
         },
@@ -430,13 +441,12 @@
             "title": "The Happiness of Silence",
             "entities": {
                 "PERSON": [
-                    "We're",
                     "Leigh Marz",
                     "Justin Zorn",
                     "Laurie Santos"
                 ],
-                "ORG": [
-                    "The Power of Silence"
+                "FAC": [
+                    "Golden:"
                 ]
             }
         },
@@ -467,8 +477,8 @@
                 "PERSON": [
                     "Simone Stolzoff"
                 ],
-                "WORK_OF_ART": [
-                    "The Good Enough Job"
+                "ORG": [
+                    "The Good Enough Job: Reclaiming Life from Work"
                 ]
             }
         },
@@ -500,14 +510,12 @@
                     "January"
                 ],
                 "ORG": [
-                    "Seattle University"
+                    "Seattle University",
+                    "The Self Talk Workout"
                 ],
                 "PERSON": [
                     "Rachel Turow",
                     "Rachel Turow"
-                ],
-                "WORK_OF_ART": [
-                    "The Self Talk"
                 ]
             }
         },
@@ -539,9 +547,8 @@
                     "one"
                 ],
                 "PERSON": [
-                    "Andrea Wachter",
-                    "Laurie Santos",
-                    "intuitive</em"
+                    "Psychotherapist Andrea Wachter",
+                    "Laurie Santos"
                 ],
                 "DATE": [
                     "years"
@@ -571,6 +578,9 @@
             "pubDate": "Sat, 07 Jan 2023 05:01:00 +0000",
             "title": "From Ten Percent Happier: The Dalai Lama\u2019s Guide to Happiness | Part 1",
             "entities": {
+                "PERCENT": [
+                    "Ten Percent"
+                ],
                 "PERSON": [
                     "Dan Harris",
                     "Dan",
@@ -620,14 +630,13 @@
             "pubDate": "Mon, 02 Jan 2023 05:01:00 +0000",
             "title": "Stop Endlessly Chasing the \"Next Big Thing\"",
             "entities": {
-                "ORG": [
-                    "now</em",
-                    "The Mysterious Benedict Society"
-                ],
                 "PERSON": [
                     "Tony Hale",
-                    "Laurie Santos",
-                    "Archibald"
+                    "Laurie Santos"
+                ],
+                "ORG": [
+                    "Arrested Development",
+                    "Archibald's Next Big Thing"
                 ],
                 "CARDINAL": [
                     "one"
@@ -700,11 +709,15 @@
                     "Josh Greene"
                 ],
                 "ORG": [
-                    "Harvard"
+                    "Harvard",
+                    "Giving Multiplier"
                 ],
                 "DATE": [
                     "last year",
                     "January 2023"
+                ],
+                "WORK_OF_ART": [
+                    "The Happiness Lab"
                 ]
             }
         },
@@ -739,17 +752,16 @@
                 "PERSON": [
                     "Julie Lythcott-Haims",
                     "Julia Leonard",
-                    "Hunt",
-                    "Julie Lythcott-Haims",
-                    "Raise an Adult: Break Free",
-                    "Marty Seligman"
+                    "Michaeleen Doucleff - Hunt",
+                    "Julie Lythcott-Haims - How",
+                    "Marty Seligman - Authentic"
                 ],
                 "GPE": [
                     "Gather"
                 ],
                 "FAC": [
-                    "the Lost Art of Raising Happy Helpful",
-                    "the Overparenting Trap and Prepare Your Kid"
+                    "the Lost Art of Raising Happy Helpful Humans",
+                    "the Overparenting Trap and Prepare Your Kid for Success"
                 ]
             }
         },
@@ -781,30 +793,29 @@
                     "only three"
                 ],
                 "PERSON": [
-                    "Michaeleen",
+                    "Michaeleen Doucleff",
                     "Michaeleen",
                     "Laurie Santos",
                     "Julie Lythcott-Haims",
-                    "Hunt",
-                    "Malcolm Harris - <",
-                    "Julie Lythcott-Haims",
-                    "Raise an Adult: Break Free"
+                    "Michaeleen Doucleff - Hunt",
+                    "Malcolm Harris - Kids",
+                    "Julie Lythcott-Haims - How"
                 ],
                 "ORDINAL": [
                     "second"
                 ],
                 "ORG": [
-                    "Stanford"
+                    "Stanford",
+                    "the Making of Millennials"
                 ],
                 "DATE": [
-                    "recent decades",
-                    "These Days:"
+                    "recent decades"
                 ],
                 "GPE": [
                     "Gather"
                 ],
                 "FAC": [
-                    "the Lost Art of Raising Happy Helpful",
+                    "the Lost Art of Raising Happy Helpful Humans",
                     "the Overparenting Trap and Prepare Your Kid for Success"
                 ]
             }
@@ -867,12 +878,15 @@
             "title": "You Only Live Once... So Commit",
             "entities": {
                 "ORG": [
-                    "YOLO - the Grateful Dead"
+                    "YOLO",
+                    "YOLO - the Grateful Dead",
+                    "Infinite Browsing",
+                    "Try Mickey Hart's"
                 ],
                 "PERSON": [
                     "Mickey Hart",
                     "Laurie Santos",
-                    "Pete Davis",
+                    "Pete Davis - Dedicated",
                     "Dan Gilbert - \u00a0",
                     "Barry Schwartz"
                 ]
@@ -905,7 +919,8 @@
                 "ORG": [
                     "Puckerbutt Farm\u2019s Carolina Reaper Hot Sauce",
                     "FUN",
-                    "Yale"
+                    "Yale",
+                    "The Pleasures of Suffering"
                 ],
                 "PERSON": [
                     "Leigh Cowart",
@@ -913,11 +928,8 @@
                     "Paul Bloom",
                     "Tamar Gendler",
                     "Laurie Santos",
-                    "Leigh Cowart - <",
-                    "Paul Bloom - <"
-                ],
-                "WORK_OF_ART": [
-                    "The Sweet Spot: The Pleasures of Suffering"
+                    "Leigh Cowart - Hurts",
+                    "Paul Bloom - The Sweet Spot"
                 ]
             }
         },
@@ -956,7 +968,7 @@
                 ],
                 "DATE": [
                     "This season",
-                    "75 years"
+                    "75 years later"
                 ],
                 "CARDINAL": [
                     "18"
@@ -996,17 +1008,10 @@
             "pubDate": "Mon, 03 Oct 2022 04:01:00 +0000",
             "title": "Why Living Without Regret is a Bad Idea",
             "entities": {
-                "CARDINAL": [
-                    "#"
-                ],
                 "PERSON": [
-                    "isn't</em",
                     "Liz Fosslien",
                     "Daniel Pink",
-                    "Daniel Pink"
-                ],
-                "PRODUCT": [
-                    "The Power of Regret"
+                    "Daniel Pink - The Power of Regret"
                 ]
             }
         },
@@ -1044,7 +1049,7 @@
                     "Giulia Poerio",
                     "Ali Mattu",
                     "Mac Hagood",
-                    "acoustician Trevor Cox.</p><p"
+                    "acoustician Trevor Cox"
                 ],
                 "ORG": [
                     "Handbook for Sonic Happiness"
@@ -1079,8 +1084,8 @@
                     "Dan Buettner",
                     "Helen Russell",
                     "Jason Roberts",
-                    "Helen Russell",
-                    "Dan Buettner"
+                    "Helen Russell -",
+                    "Dan Buettner -\u00a0"
                 ],
                 "CARDINAL": [
                     "one"
@@ -1090,9 +1095,6 @@
                 ],
                 "GPE": [
                     "Dallas"
-                ],
-                "EVENT": [
-                    "The Year of Living Danishly: Uncovering the Secrets of the World's Happiest"
                 ]
             }
         },
@@ -1124,15 +1126,15 @@
                     "sci",
                     "Benedict Cumberbatch",
                     "YA",
-                    "Star Trek"
+                    "Star Trek",
+                    "GeekSee"
                 ],
                 "PERSON": [
                     "Laurie Santos",
                     "Tabitha Carvan",
                     "Jennifer Lynn Barnes",
                     "Wil Wheaton",
-                    "Tabitha Carvan - <",
-                    "Wil Wheaton"
+                    "Tabitha Carvan - This Is Not A Book"
                 ]
             }
         },
@@ -1175,12 +1177,15 @@
                     "Vivek Murthy",
                     "Marisa Franco",
                     "Laurie Santos",
-                    "Vivek Murthy",
-                    "Marisa Franco",
+                    "Vivek Murthy - Together:",
+                    "Marisa Franco - Platonic",
                     "Keep"
                 ],
                 "GPE": [
                     "Casper"
+                ],
+                "WORK_OF_ART": [
+                    "Sometimes Lonely World"
                 ]
             }
         },
@@ -1250,6 +1255,7 @@
             "title": "Q: \"What Did the Pandemic Teach Us About Happiness?\"",
             "entities": {
                 "PERSON": [
+                    "Covid",
                     "Listener",
                     "Amy Comander",
                     "Amy",
@@ -1298,7 +1304,7 @@
                     "Ethan"
                 ],
                 "ORG": [
-                    "the University of Michigan).</p"
+                    "the University of Michigan"
                 ],
                 "WORK_OF_ART": [
                     "'Chatter: The Voice"
@@ -1452,7 +1458,7 @@
                     "Covid"
                 ],
                 "DATE": [
-                    "July 11"
+                    "Begins July 11"
                 ]
             }
         },
@@ -1486,6 +1492,12 @@
                 "PERSON": [
                     "Jonathan Malesic",
                     "Jonathan"
+                ],
+                "WORK_OF_ART": [
+                    "bookThe End Of Burnout: Why Work Drains Us"
+                ],
+                "PRODUCT": [
+                    "Learn"
                 ]
             }
         },
@@ -1516,18 +1528,20 @@
                 "PERSON": [
                     "Adam Grant",
                     "Adam",
-                    "TED",
-                    "Mario Kart.</p><p"
+                    "Mario Kart"
                 ],
                 "ORG": [
                     "Netflix",
-                    "The Power of Knowing What You Don't"
+                    "TED's Work Life"
                 ],
                 "MONEY": [
                     "1"
                 ],
-                "GPE": [
-                    "Life</em"
+                "WORK_OF_ART": [
+                    "Think Again: The Power of Knowing What You Don't Know"
+                ],
+                "PRODUCT": [
+                    "Learn"
                 ]
             }
         },
@@ -1556,10 +1570,11 @@
             "title": "When Guilt is Good... and When it's Not",
             "entities": {
                 "PERSON": [
-                    "Valorie Burton"
+                    "Valorie Burton",
+                    "Laurie Santos"
                 ],
-                "ORG": [
-                    "Dr Laurie Santos.</p><p"
+                "PRODUCT": [
+                    "Learn"
                 ]
             }
         },
@@ -1590,6 +1605,9 @@
                 "PERSON": [
                     "Helen Russell",
                     "Laurie Santos"
+                ],
+                "PRODUCT": [
+                    "Learn"
                 ]
             }
         },
@@ -1620,6 +1638,12 @@
                 "ORG": [
                     "Anger",
                     "Faith"
+                ],
+                "PERSON": [
+                    "Unfuck"
+                ],
+                "PRODUCT": [
+                    "Learn"
                 ]
             }
         },
@@ -1651,10 +1675,14 @@
                     "one"
                 ],
                 "PERSON": [
-                    "Andrea Wachter"
+                    "Andrea Wachter",
+                    "Laurie Santos"
                 ],
                 "GPE": [
                     "Dr"
+                ],
+                "PRODUCT": [
+                    "Learn"
                 ]
             }
         },
@@ -1685,7 +1713,8 @@
                 "PERSON": [
                     "Julia Samuel",
                     "Julia",
-                    "Grief Works</em"
+                    "Grief Works",
+                    "Princess Diana"
                 ],
                 "CARDINAL": [
                     "two"
@@ -1695,6 +1724,9 @@
                 ],
                 "DATE": [
                     "more than 30 years"
+                ],
+                "PRODUCT": [
+                    "Learn"
                 ]
             }
         },
@@ -1729,6 +1761,9 @@
                 ],
                 "ORDINAL": [
                     "second"
+                ],
+                "PRODUCT": [
+                    "Learn"
                 ]
             }
         },
@@ -1763,6 +1798,12 @@
                     "Bren\u00e9 Brown",
                     "Laurie Santos",
                     "Bren\u00e9 Brown's"
+                ],
+                "WORK_OF_ART": [
+                    "Atlas of the Heart: Mapping Meaningful Connection"
+                ],
+                "PRODUCT": [
+                    "Learn"
                 ]
             }
         },
@@ -1796,6 +1837,9 @@
                 "PERSON": [
                     "Susan David",
                     "Laurie Santos"
+                ],
+                "PRODUCT": [
+                    "Learn"
                 ]
             }
         },
@@ -1831,6 +1875,9 @@
                     "Laurie Santos",
                     "Brene Brown",
                     "Adam Grant"
+                ],
+                "PRODUCT": [
+                    "Learn"
                 ]
             }
         },
@@ -1862,11 +1909,13 @@
                     "GiveTuesday"
                 ],
                 "ORG": [
-                    "Harvard",
-                    "href=\"https://givingmultiplier.org/HAPPINESSLAB\">https://givingmultiplier.org"
+                    "Harvard"
                 ],
                 "PERSON": [
                     "Joshua Green"
+                ],
+                "PRODUCT": [
+                    "Learn"
                 ]
             }
         },
@@ -1899,6 +1948,9 @@
                 ],
                 "ORG": [
                     "UT-Austin"
+                ],
+                "PRODUCT": [
+                    "Learn"
                 ]
             }
         },
@@ -1936,6 +1988,9 @@
                 ],
                 "DATE": [
                     "today"
+                ],
+                "PRODUCT": [
+                    "Learn"
                 ]
             }
         },
@@ -1976,6 +2031,12 @@
                 ],
                 "ORG": [
                     "ABC News"
+                ],
+                "CARDINAL": [
+                    "Ten"
+                ],
+                "PRODUCT": [
+                    "Learn"
                 ]
             }
         },
@@ -2007,14 +2068,19 @@
                     "Laurie Santos",
                     "Hallie Rubenhold",
                     "Jack the Ripper",
-                    "Hallie",
-                    "The Ripper Retold</a"
+                    "Hallie"
                 ],
                 "GPE": [
                     "London"
                 ],
                 "DATE": [
                     "today"
+                ],
+                "WORK_OF_ART": [
+                    "Bad Women: The Ripper Retold"
+                ],
+                "PRODUCT": [
+                    "Learn"
                 ]
             }
         },
@@ -2049,7 +2115,8 @@
                 ],
                 "PERSON": [
                     "Rob Lowe",
-                    "Rob",
+                    "Literally",
+                    "Rob Lowe",
                     "Rob",
                     "Molly Ringwald"
                 ],
@@ -2057,6 +2124,9 @@
                     "supreme (Bop!",
                     "Time",
                     "The Breakfast Club"
+                ],
+                "PRODUCT": [
+                    "Learn"
                 ]
             }
         },
@@ -2091,6 +2161,9 @@
                 ],
                 "ORG": [
                     "The Power of Fun: How to"
+                ],
+                "PRODUCT": [
+                    "Learn"
                 ]
             }
         },
@@ -2132,6 +2205,9 @@
                 ],
                 "ORG": [
                     "The Power of Fun: How to"
+                ],
+                "PRODUCT": [
+                    "Learn"
                 ]
             }
         },
@@ -2163,6 +2239,12 @@
                     "Maya Shankar",
                     "Laurie",
                     "Maya"
+                ],
+                "WORK_OF_ART": [
+                    "A Slight Change of Plans"
+                ],
+                "PRODUCT": [
+                    "Learn"
                 ]
             }
         },
@@ -2195,6 +2277,9 @@
                     "Laurie Santos",
                     "Kitty",
                     "Lady Gaga's"
+                ],
+                "PRODUCT": [
+                    "Learn"
                 ]
             }
         },
@@ -2224,6 +2309,9 @@
             "entities": {
                 "PERSON": [
                     "Laurie Santos"
+                ],
+                "PRODUCT": [
+                    "Learn"
                 ]
             }
         },
@@ -2253,8 +2341,8 @@
             "entities": {
                 "PERSON": [
                     "Laurie Santos",
-                    "She'll",
-                    "Laurette Nicholl"
+                    "Laurette Nicholl",
+                    "Learn"
                 ],
                 "GPE": [
                     "Georgia"
@@ -2287,6 +2375,9 @@
             "entities": {
                 "PERSON": [
                     "Laurie Santos"
+                ],
+                "PRODUCT": [
+                    "Learn"
                 ]
             }
         },
@@ -2323,6 +2414,9 @@
                 ],
                 "CARDINAL": [
                     "about one"
+                ],
+                "PRODUCT": [
+                    "Learn"
                 ]
             }
         },
@@ -2356,6 +2450,9 @@
                 ],
                 "DATE": [
                     "the 1980s"
+                ],
+                "PRODUCT": [
+                    "Learn"
                 ]
             }
         },
@@ -2386,7 +2483,7 @@
                 "PERSON": [
                     "Laurie Santos",
                     "Angela Duckworth",
-                    "Stupid Questions</a"
+                    "Learn"
                 ],
                 "ORG": [
                     "Freakonomics Radio"
@@ -2421,12 +2518,17 @@
                     "Maya",
                     "Hillary Clinton",
                     "Tiffany Haddish",
-                    "Kacey",
-                    "Darryl Davis"
+                    "Kacey Musgraves",
+                    "Darryl Davis",
+                    "Klan"
                 ],
                 "CARDINAL": [
                     "15",
                     "hundreds"
+                ],
+                "PRODUCT": [
+                    "A Slight Change of Plans",
+                    "Learn"
                 ],
                 "ORG": [
                     "KKK"
@@ -2507,6 +2609,9 @@
                 ],
                 "GPE": [
                     "Solala"
+                ],
+                "PRODUCT": [
+                    "Learn"
                 ]
             }
         },
@@ -2545,6 +2650,9 @@
                 ],
                 "ORG": [
                     "Harvard"
+                ],
+                "PRODUCT": [
+                    "Learn"
                 ]
             }
         },
@@ -2574,15 +2682,18 @@
             "entities": {
                 "PERSON": [
                     "Miroslav Volf",
-                    "Miroslav",
                     "Volf",
                     "Laurie Santos"
                 ],
                 "ORG": [
-                    "Yale Divinity School - and"
+                    "Yale Divinity School - and",
+                    "Miroslav"
                 ],
                 "NORP": [
                     "Christian"
+                ],
+                "PRODUCT": [
+                    "Learn"
                 ]
             }
         },
@@ -2631,7 +2742,8 @@
                     "a day"
                 ],
                 "PRODUCT": [
-                    "a Deeper Connection to Life in Judaism (After Finally Choosing to Look"
+                    "a Deeper Connection to Life in Judaism (After Finally Choosing to Look",
+                    "Learn"
                 ]
             }
         },
@@ -2671,7 +2783,8 @@
                     "Hebrew"
                 ],
                 "PRODUCT": [
-                    "a Deeper Connection to Life in Judaism (After Finally Choosing to Look"
+                    "a Deeper Connection to Life in Judaism (After Finally Choosing to Look",
+                    "Learn"
                 ]
             }
         },
@@ -2702,6 +2815,9 @@
                 "PERSON": [
                     "Jessamyn Stanley",
                     "Laurie Santos"
+                ],
+                "PRODUCT": [
+                    "Learn"
                 ]
             }
         },
@@ -2737,6 +2853,9 @@
                     "Andrea",
                     "calmer",
                     "Laurie Santos"
+                ],
+                "PRODUCT": [
+                    "Learn"
                 ]
             }
         },
@@ -2766,7 +2885,7 @@
             "entities": {
                 "PERSON": [
                     "Tara Brach",
-                    "Tara",
+                    "mom?Tara",
                     "Laurie Santos",
                     "Investigate",
                     "Tara"
@@ -2777,6 +2896,9 @@
                 "GPE": [
                     "Recognise",
                     "Allow"
+                ],
+                "PRODUCT": [
+                    "Learn"
                 ]
             }
         },
@@ -2811,6 +2933,9 @@
                 "PERSON": [
                     "Laurie Santos",
                     "Kristin Neff"
+                ],
+                "PRODUCT": [
+                    "Learn"
                 ]
             }
         },
@@ -2854,7 +2979,10 @@
                 "ORG": [
                     "Stanford University",
                     "the University of British Columbia",
-                    "the University of Chicago Booth School of Business.</p><p"
+                    "the University of Chicago Booth School of Business"
+                ],
+                "PRODUCT": [
+                    "Learn"
                 ]
             }
         },
@@ -2884,7 +3012,6 @@
             "entities": {
                 "PERSON": [
                     "Laurie Santos",
-                    "Joining Laurie",
                     "Zoom",
                     "Jamil Zaki",
                     "Liz Dunn",
@@ -2893,7 +3020,10 @@
                 "ORG": [
                     "Stanford University",
                     "the University of British Columbia",
-                    "the University of Chicago Booth School of Business.</p><p"
+                    "the University of Chicago Booth School of Business"
+                ],
+                "PRODUCT": [
+                    "Learn"
                 ]
             }
         },
@@ -2930,6 +3060,9 @@
                 ],
                 "FAC": [
                     "bay forever"
+                ],
+                "PRODUCT": [
+                    "Learn"
                 ]
             }
         },
@@ -2957,15 +3090,19 @@
             "pubDate": "Mon, 28 Sep 2020 04:05:00 +0000",
             "title": "Happiness Lessons of The Ancients: Epictetus",
             "entities": {
+                "ORG": [
+                    "Epictetus",
+                    "Ancient Rome's"
+                ],
                 "CARDINAL": [
                     "one"
-                ],
-                "ORG": [
-                    "Ancient Rome's"
                 ],
                 "PERSON": [
                     "Bill Irvine",
                     "Laurie Santos"
+                ],
+                "PRODUCT": [
+                    "Learn"
                 ]
             }
         },
@@ -2993,19 +3130,22 @@
             "pubDate": "Mon, 21 Sep 2020 04:05:00 +0000",
             "title": "Happiness Lessons of The Ancients: Plato",
             "entities": {
-                "PERSON": [
+                "ORG": [
                     "Plato",
-                    "Tamar Gendler",
-                    "Laurie Santos"
+                    "Yale"
                 ],
                 "CARDINAL": [
                     "two"
                 ],
-                "ORG": [
-                    "Yale"
+                "PERSON": [
+                    "Tamar Gendler",
+                    "Laurie Santos"
                 ],
                 "NORP": [
                     "Greek"
+                ],
+                "PRODUCT": [
+                    "Learn"
                 ]
             }
         },
@@ -3044,6 +3184,9 @@
                 ],
                 "ORG": [
                     "Yale"
+                ],
+                "PRODUCT": [
+                    "Learn"
                 ]
             }
         },
@@ -3077,6 +3220,9 @@
                 ],
                 "WORK_OF_ART": [
                     "A Gay"
+                ],
+                "PRODUCT": [
+                    "Learn"
                 ]
             }
         },
@@ -3110,10 +3256,11 @@
                     "Jamil Zaki"
                 ],
                 "ORG": [
-                    "The Leadership Lab"
+                    "The Leadership Lab",
+                    "the Los Angeles LGBT"
                 ],
-                "GPE": [
-                    "Los Angeles"
+                "PRODUCT": [
+                    "Learn"
                 ]
             }
         },
@@ -3142,7 +3289,11 @@
             "title": "Demonic Possessions",
             "entities": {
                 "PERSON": [
+                    "Cait Flanders",
                     "Laurie Santos"
+                ],
+                "PRODUCT": [
+                    "Learn"
                 ]
             }
         },
@@ -3175,6 +3326,9 @@
                 ],
                 "GPE": [
                     "Vietnam"
+                ],
+                "PRODUCT": [
+                    "Learn"
                 ]
             }
         },
@@ -3205,10 +3359,16 @@
                 "PERSON": [
                     "Laurie Santos",
                     "Catherine Price",
-                    "Catherine"
+                    "Catherine Price"
+                ],
+                "ORG": [
+                    "ScreenLifeBalance.com"
                 ],
                 "WORK_OF_ART": [
                     "Break Up With Your Phone"
+                ],
+                "PRODUCT": [
+                    "Learn"
                 ]
             }
         },
@@ -3238,8 +3398,14 @@
             "entities": {
                 "PERSON": [
                     "Laurie Santos",
-                    "Tom Hodgkinson.</p><p",
+                    "Tom Hodgkinson",
                     "Tom"
+                ],
+                "ORG": [
+                    "Idler"
+                ],
+                "PRODUCT": [
+                    "Learn"
                 ]
             }
         },
@@ -3274,6 +3440,9 @@
                     "Laurie Santos",
                     "Amy Wrzesniewski",
                     "Marty"
+                ],
+                "PRODUCT": [
+                    "Learn"
                 ]
             }
         },
@@ -3311,6 +3480,9 @@
                 ],
                 "CARDINAL": [
                     "two"
+                ],
+                "PRODUCT": [
+                    "Learn"
                 ]
             }
         },
@@ -3339,9 +3511,12 @@
             "title": "PJ and Alex Love to Gripe",
             "entities": {
                 "PERSON": [
-                    "love</em",
+                    "Alex",
                     "Laurie Santos",
                     "Alex"
+                ],
+                "PRODUCT": [
+                    "Learn"
                 ]
             }
         },
@@ -3371,6 +3546,9 @@
             "entities": {
                 "PERSON": [
                     "Abigail Marsh"
+                ],
+                "PRODUCT": [
+                    "Learn"
                 ]
             }
         },
@@ -3396,19 +3574,21 @@
             "pubDate": "Thu, 23 Apr 2020 04:05:00 +0000",
             "title": "New Season: The Happiness Lab Returns April 27",
             "entities": {
-                "ORG": [
-                    "Yale",
-                    "Pushkin Industries"
+                "GPE": [
+                    "you?Yale"
                 ],
                 "PERSON": [
                     "Laurie Santos",
                     "Laurie"
                 ],
-                "WORK_OF_ART": [
-                    "The Happiness Lab from"
+                "ORG": [
+                    "Pushkin Industries"
                 ],
                 "DATE": [
-                    "April 27.</p><p"
+                    "April 27"
+                ],
+                "PRODUCT": [
+                    "Learn"
                 ]
             }
         },
@@ -3439,8 +3619,11 @@
                 "PERSON": [
                     "Catherine Price"
                 ],
+                "ORG": [
+                    "Screen/Life Balance"
+                ],
                 "PRODUCT": [
-                    "To Break Up With Your Phone</a"
+                    "Learn"
                 ]
             }
         },
@@ -3482,6 +3665,9 @@
                 ],
                 "NORP": [
                     "Covid"
+                ],
+                "PRODUCT": [
+                    "Learn"
                 ]
             }
         },
@@ -3521,6 +3707,9 @@
                 ],
                 "ORG": [
                     "The Charles Schwab Corporation"
+                ],
+                "PRODUCT": [
+                    "Learn"
                 ]
             }
         },
@@ -3553,6 +3742,9 @@
                 ],
                 "WORK_OF_ART": [
                     "The All-or-Nothing Marriage"
+                ],
+                "PRODUCT": [
+                    "Learn"
                 ]
             }
         },
@@ -3591,6 +3783,9 @@
                 ],
                 "ORG": [
                     "Invisible Hands"
+                ],
+                "PRODUCT": [
+                    "Learn"
                 ]
             }
         },
@@ -3620,14 +3815,17 @@
             "entities": {
                 "PERSON": [
                     "Dan Harris",
-                    "Laurie Santos"
+                    "Laurie Santos",
+                    "Dr Santos"
                 ],
                 "CARDINAL": [
                     "Ten"
                 ],
                 "ORG": [
-                    "ABC",
-                    "Dr Santos.</p><p"
+                    "ABC"
+                ],
+                "PRODUCT": [
+                    "Learn"
                 ]
             }
         },
@@ -3668,6 +3866,9 @@
                 ],
                 "ORG": [
                     "The Stoic Challenge"
+                ],
+                "PRODUCT": [
+                    "Learn"
                 ]
             }
         },
@@ -3696,7 +3897,8 @@
             "title": "Coach Yourself Through a Crisis",
             "entities": {
                 "PERSON": [
-                    "Ethan Kross"
+                    "Ethan Kross",
+                    "happinesslabpod"
                 ],
                 "ORG": [
                     "the University of Michigan Emotion",
@@ -3704,6 +3906,9 @@
                 ],
                 "CARDINAL": [
                     "#"
+                ],
+                "PRODUCT": [
+                    "Learn"
                 ]
             }
         },
@@ -3733,13 +3938,17 @@
             "entities": {
                 "PERSON": [
                     "Laurie Santos",
-                    "Jamil Zaki"
+                    "Jamil Zaki",
+                    "happinesslabpod"
                 ],
                 "ORG": [
                     "Stanford"
                 ],
                 "CARDINAL": [
                     "#"
+                ],
+                "PRODUCT": [
+                    "Learn"
                 ]
             }
         },
@@ -3776,6 +3985,12 @@
                 ],
                 "GPE": [
                     "New York's"
+                ],
+                "LOC": [
+                    "SoHo"
+                ],
+                "PRODUCT": [
+                    "Learn"
                 ]
             }
         },
@@ -3807,6 +4022,9 @@
                     "Join Yale",
                     "Hedy Kober",
                     "Laurie Santos"
+                ],
+                "PRODUCT": [
+                    "Learn"
                 ]
             }
         },
@@ -3845,7 +4063,10 @@
                     "Northeastern University's"
                 ],
                 "WORK_OF_ART": [
-                    "Emotional Success: The Power of Gratitude, Compassion"
+                    "Emotional Success: The Power of Gratitude, Compassion and Pride"
+                ],
+                "PRODUCT": [
+                    "Learn"
                 ]
             }
         },
@@ -3874,12 +4095,16 @@
             "title": "A New Hope",
             "entities": {
                 "DATE": [
-                    "2020"
+                    "2020",
+                    "January"
                 ],
                 "PERSON": [
                     "Laurie Santos",
                     "Wharton",
                     "Katy Milkman"
+                ],
+                "PRODUCT": [
+                    "Learn"
                 ]
             }
         },
@@ -3908,17 +4133,24 @@
             "entities": {
                 "DATE": [
                     "this holiday season",
-                    "2020"
+                    "Christmas",
+                    "2020",
+                    "6 Jan."
                 ],
                 "PERSON": [
                     "Laurie Santos"
                 ],
                 "CARDINAL": [
-                    "four",
-                    "6"
+                    "four"
                 ],
                 "EVENT": [
                     "New Year"
+                ],
+                "ORG": [
+                    "happinesslab.fm"
+                ],
+                "PRODUCT": [
+                    "Learn"
                 ]
             }
         },
@@ -3948,6 +4180,9 @@
             "entities": {
                 "DATE": [
                     "daily"
+                ],
+                "PRODUCT": [
+                    "Learn"
                 ]
             }
         },
@@ -3977,6 +4212,9 @@
             "entities": {
                 "PERSON": [
                     "Laurie Santos"
+                ],
+                "PRODUCT": [
+                    "Learn"
                 ]
             }
         },
@@ -4009,6 +4247,9 @@
                 ],
                 "PERSON": [
                     "Laurie Santos"
+                ],
+                "PRODUCT": [
+                    "Learn"
                 ]
             }
         },
@@ -4042,6 +4283,9 @@
                 ],
                 "EVENT": [
                     "Olympic"
+                ],
+                "PRODUCT": [
+                    "Learn"
                 ]
             }
         },
@@ -4071,6 +4315,9 @@
             "entities": {
                 "PERSON": [
                     "Laurie Santos"
+                ],
+                "PRODUCT": [
+                    "Learn"
                 ]
             }
         },
@@ -4100,6 +4347,9 @@
             "entities": {
                 "PERSON": [
                     "Laurie Santos"
+                ],
+                "PRODUCT": [
+                    "Learn"
                 ]
             }
         },
@@ -4161,6 +4411,9 @@
             "pubDate": "Tue, 01 Oct 2019 04:05:00 +0000",
             "title": "A Silver Lining",
             "entities": {
+                "NORP": [
+                    "Ice"
+                ],
                 "PERSON": [
                     "Michelle Kwan",
                     "Laurie Santos",
@@ -4171,6 +4424,9 @@
                 ],
                 "ORDINAL": [
                     "second"
+                ],
+                "PRODUCT": [
+                    "Learn"
                 ]
             }
         },
@@ -4233,6 +4489,9 @@
                 ],
                 "PERSON": [
                     "Laurie Santos"
+                ],
+                "PRODUCT": [
+                    "Learn"
                 ]
             }
         },
@@ -4260,15 +4519,18 @@
             "title": "Coming Soon: The Happiness Lab Season One",
             "entities": {
                 "ORG": [
-                    "Yale"
+                    "Yale",
+                    "Pushkin Industries"
                 ],
                 "PERSON": [
                     "Laurie Santos",
-                    "Laurie",
-                    "Pushkin"
+                    "Laurie"
                 ],
                 "DATE": [
                     "September 17"
+                ],
+                "PRODUCT": [
+                    "Learn"
                 ]
             }
         },
@@ -4296,10 +4558,13 @@
             "title": "Introducing: The Happiness Lab with Dr. Laurie Santos",
             "entities": {
                 "DATE": [
-                    "September 17"
+                    "Coming September 17"
                 ],
-                "PERSON": [
-                    "Pushkin"
+                "ORG": [
+                    "Pushkin Industries"
+                ],
+                "PRODUCT": [
+                    "Learn"
                 ]
             }
         }

@@ -120,7 +120,11 @@
                 "PERSON": [
                     "Brian",
                     "Anthony Campolo",
+                    "Anthony",
                     "Jamstack"
+                ],
+                "GPE": [
+                    "DevRel"
                 ]
             }
         },
@@ -545,13 +549,11 @@
                 "PERSON": [
                     "Brian Douglas",
                     "Josh Goldberg",
-                    "Josh"
+                    "Josh",
+                    "Learning TypeScript"
                 ],
                 "PRODUCT": [
                     "JavaScript"
-                ],
-                "WORK_OF_ART": [
-                    "Learning TypeScript.</p"
                 ]
             }
         },
@@ -683,7 +685,8 @@
                     "107"
                 ],
                 "ORG": [
-                    "JAMstack Radio"
+                    "JAMstack Radio",
+                    "SDK"
                 ],
                 "PERSON": [
                     "Brian",
@@ -802,14 +805,16 @@
                 ],
                 "ORG": [
                     "JAMstack Radio",
-                    "Founder &",
-                    "CPO",
+                    "Founder & CPO",
                     "Appsmith",
                     "OSS"
                 ],
                 "PERSON": [
                     "Brian",
                     "Nikhil Nandagopal"
+                ],
+                "DATE": [
+                    "today"
                 ]
             }
         },
@@ -838,8 +843,7 @@
             "title": "Ep. #103, Visualizing Codebases with Nahrin Jalal of CodeSee",
             "entities": {
                 "CARDINAL": [
-                    "103",
-                    "today&#x27;s"
+                    "103"
                 ],
                 "ORG": [
                     "JAMstack Radio",
@@ -848,6 +852,9 @@
                 "PERSON": [
                     "Brian Douglas",
                     "Nahrin Jalal"
+                ],
+                "DATE": [
+                    "today"
                 ]
             }
         },
@@ -1140,8 +1147,7 @@
                     "95"
                 ],
                 "ORG": [
-                    "JAMstack Radio",
-                    "the &#x27;islands architecture&#x27"
+                    "JAMstack Radio"
                 ],
                 "PERSON": [
                     "Brian Douglas",
@@ -1222,7 +1228,8 @@
                     "Facundo"
                 ],
                 "GPE": [
-                    "DevRel"
+                    "DevRel",
+                    "Argentina"
                 ]
             }
         },
@@ -1255,7 +1262,8 @@
                 ],
                 "ORG": [
                     "JAMstack Radio",
-                    "Nick\u2019s"
+                    "Nick\u2019s",
+                    "Find Energy"
                 ],
                 "PERSON": [
                     "Brian",
@@ -1292,7 +1300,8 @@
                 ],
                 "ORG": [
                     "JAMstack Radio",
-                    "Blockchain Ladies Club"
+                    "Blockchain Ladies Club",
+                    "Magic"
                 ],
                 "PERSON": [
                     "Brian"
@@ -1339,7 +1348,8 @@
                 ],
                 "PERSON": [
                     "Brian Douglas",
-                    "Ishan Anand"
+                    "Ishan Anand",
+                    "Ishan"
                 ],
                 "ORDINAL": [
                     "first"
@@ -1506,7 +1516,7 @@
                     "James Q Quick"
                 ],
                 "GPE": [
-                    "DevRel.</p"
+                    "DevRel"
                 ]
             }
         },
@@ -1658,7 +1668,8 @@
                 "PERSON": [
                     "Brian",
                     "Max Andaker",
-                    "Jason Thomas"
+                    "Jason Thomas",
+                    "CoScreen"
                 ]
             }
         },
@@ -1773,6 +1784,9 @@
                     "Mike Cavaliere of Echobind",
                     "Jamstack",
                     "Mike"
+                ],
+                "WORK_OF_ART": [
+                    "Cut Into The Jamstack"
                 ]
             }
         },
@@ -2039,6 +2053,9 @@
                     "Brian",
                     "Megan Sullivan of Gatsby",
                     "Megan"
+                ],
+                "GPE": [
+                    "Gatsby"
                 ]
             }
         },
@@ -2115,6 +2132,9 @@
                     "Brian",
                     "N\u00faria Soriano",
                     "Josep Jaume"
+                ],
+                "GPE": [
+                    "Gridsome"
                 ]
             }
         },
@@ -2191,6 +2211,7 @@
                     "Matt Biilmann"
                 ],
                 "GPE": [
+                    "Netlify",
                     "Netlify"
                 ]
             }
@@ -2373,12 +2394,12 @@
                 ],
                 "ORG": [
                     "JAMstack Radio",
-                    "Jerome Hardaway of Vets Who Code"
+                    "Jerome Hardaway of Vets Who Code",
+                    "GitHub Sponsors"
                 ],
                 "PERSON": [
                     "Brian",
-                    "Jerome",
-                    "GitHub Sponsors.</p"
+                    "Jerome"
                 ]
             }
         },
@@ -2599,7 +2620,8 @@
                     "57"
                 ],
                 "ORG": [
-                    "JAMstack Radio"
+                    "JAMstack Radio",
+                    "JAMstack"
                 ],
                 "PERSON": [
                     "Brian",
@@ -2682,6 +2704,9 @@
                 ],
                 "GPE": [
                     "Javascript"
+                ],
+                "DATE": [
+                    "the years"
                 ]
             }
         },
@@ -2950,8 +2975,7 @@
                 ],
                 "ORG": [
                     "JAMstack Radio",
-                    "CEO &amp",
-                    "Co-Founder of Digital Optimization Group"
+                    "Digital Optimization Group"
                 ],
                 "PERSON": [
                     "Brian",
@@ -3105,7 +3129,8 @@
                 ],
                 "ORG": [
                     "JAMstack Radio",
-                    "Netlify"
+                    "Netlify",
+                    "React to Vue"
                 ],
                 "PERSON": [
                     "Brian",
@@ -3297,7 +3322,8 @@
                 ],
                 "ORG": [
                     "JAMstack Radio",
-                    "OneGraph"
+                    "OneGraph",
+                    "GraphQL"
                 ],
                 "PERSON": [
                     "Brian"
@@ -3459,6 +3485,9 @@
                 "PERSON": [
                     "Brian",
                     "Tanmai Gopal"
+                ],
+                "GPE": [
+                    "Hasura"
                 ]
             }
         },
@@ -3533,12 +3562,14 @@
                     "IBM Fellow",
                     "VP",
                     "CTO",
-                    "href=\"https://github.com"
+                    "IBM"
                 ],
                 "PERSON": [
                     "Brian",
-                    "Cloud Platform</a",
-                    "knative/\">Knative</a"
+                    "Jason McGee"
+                ],
+                "GPE": [
+                    "Knative"
                 ]
             }
         },
@@ -3576,7 +3607,8 @@
                 ],
                 "PERSON": [
                     "Brian",
-                    "Nader Dabit"
+                    "Nader Dabit",
+                    "Appsync"
                 ],
                 "PRODUCT": [
                     "Amplify"
@@ -4071,6 +4103,9 @@
                     "Jeff",
                     "Spike",
                     "Jeff"
+                ],
+                "PRODUCT": [
+                    "JavaScript"
                 ]
             }
         },
@@ -4100,6 +4135,7 @@
             "entities": {
                 "ORG": [
                     "JAMstack Radio",
+                    "NoRedInk",
                     "Elm",
                     "TypeScript",
                     "Elm",
@@ -4111,9 +4147,6 @@
                     "Brooke Angel",
                     "Richard",
                     "Babble"
-                ],
-                "FAC": [
-                    "NoRedInk.</p><p"
                 ],
                 "PRODUCT": [
                     "JavaScript",
@@ -4147,13 +4180,12 @@
             "entities": {
                 "ORG": [
                     "JAMstack Radio",
+                    "Zack Argyle & Eli Williamson",
                     "JavaScript",
                     "Pinterest"
                 ],
                 "PERSON": [
-                    "Brian",
-                    "Zack Argyle &",
-                    "Eli Williamson"
+                    "Brian"
                 ]
             }
         },
@@ -4187,8 +4219,7 @@
                 "PERSON": [
                     "Brian",
                     "Rafael Conde",
-                    "Kaelig Deloumeau-Prigent &",
-                    "Craig Wattrus"
+                    "Kaelig Deloumeau-Prigent & Craig Wattrus"
                 ]
             }
         },
@@ -4291,7 +4322,7 @@
             "entities": {
                 "ORG": [
                     "JAMstack Radio",
-                    "HTML &",
+                    "HTML & Javascript",
                     "Snipcart"
                 ],
                 "PERSON": [
@@ -4300,8 +4331,6 @@
                     "Georges Saad",
                     "Charles Ouellet",
                     "Snipcart",
-                    "Javascript",
-                    "Georges",
                     "Charles",
                     "Snipcart",
                     "Snipcart",
@@ -4336,8 +4365,8 @@
                 "ORG": [
                     "JAMstack Radio",
                     "Johannes Schickling",
-                    "GraphQL &amp",
-                    "AWS",
+                    "Graphcool",
+                    "GraphQL & AWS Lambda",
                     "Graphcool",
                     "Parse",
                     "Firebase",
@@ -4422,7 +4451,10 @@
             "entities": {
                 "ORG": [
                     "JAMstack Radio",
-                    "GraphQL"
+                    "Meteor",
+                    "Apollo",
+                    "GraphQL",
+                    "Optics"
                 ],
                 "PERSON": [
                     "Brian",
@@ -4458,7 +4490,7 @@
                 "ORG": [
                     "JAMstack Radio",
                     "Quincy Larson",
-                    "CTO of Free Code Camp.</p><p",
+                    "CTO of Free Code Camp",
                     "JavaScript"
                 ],
                 "PERSON": [
@@ -4500,7 +4532,7 @@
                 "ORG": [
                     "JAMstack Radio",
                     "WordPress",
-                    "WordPress.org\u2019s Theme Review",
+                    "WordPress.org\u2019s Theme Review Team",
                     "WordPress",
                     "WordPress",
                     "HTML",
@@ -4511,6 +4543,7 @@
                     "Brian",
                     "Daniel Olson",
                     "Shinichi Nishikawa",
+                    "Shifter",
                     "Shifter",
                     "Shifter"
                 ],
@@ -4552,6 +4585,9 @@
                     "Phil Hawksworth",
                     "Eli Williamson",
                     "Phil"
+                ],
+                "GPE": [
+                    "Netlify"
                 ]
             }
         },
@@ -4706,17 +4742,21 @@
                 ],
                 "ORG": [
                     "JAMstack Radio",
-                    "href=\"https://twitter.com",
+                    "the Serverless\u00a0Framework",
                     "Amazon",
                     "Alexa"
                 ],
                 "PERSON": [
                     "Brian",
                     "Ryan",
+                    "David Wells",
                     "Kanye"
                 ],
                 "NORP": [
                     "Lambda"
+                ],
+                "LOC": [
+                    "JAMPicks"
                 ]
             }
         },
@@ -4789,7 +4829,11 @@
                     "JAMstack"
                 ],
                 "PERSON": [
-                    "Brian"
+                    "Brian",
+                    "Matt\u00a0Biilmann"
+                ],
+                "GPE": [
+                    "Netlify"
                 ],
                 "DATE": [
                     "the past decade"
@@ -4824,18 +4868,20 @@
                     "JAMstack Radio",
                     "JAMstack",
                     "JAMstack Radio",
-                    "href=\"https://twitter.com",
-                    "Developer &",
-                    "Advocate",
-                    "href=\"https://twitter.com",
+                    "Developer & Advocate",
                     "JAMstack"
+                ],
+                "PERSON": [
+                    "Brian Douglas",
+                    "Brian",
+                    "Aaron Autrand",
+                    "Christian Schlensker"
+                ],
+                "GPE": [
+                    "Netlify"
                 ],
                 "ORDINAL": [
                     "first"
-                ],
-                "PERSON": [
-                    "Brian",
-                    "Autrand</a"
                 ]
             }
         }

@@ -42,20 +42,29 @@
                 "DATE": [
                     "Today"
                 ],
-                "NORP": [
-                    "European",
-                    "Sean"
+                "ORG": [
+                    "European M&A Conference",
+                    "Goldman Sachs"
                 ],
                 "GPE": [
                     "London",
                     "Brussels",
-                    "Chicago"
+                    "Chicago",
+                    "LinkedIn"
                 ],
-                "ORG": [
-                    "Goldman Sachs"
+                "NORP": [
+                    "Sean"
+                ],
+                "PERSON": [
+                    "Mieke Van Oostende",
+                    "Jake Henry",
+                    "Join"
                 ],
                 "CARDINAL": [
                     "more than 89,000"
+                ],
+                "WORK_OF_ART": [
+                    "Inside the Strategy Room"
                 ]
             }
         },
@@ -99,8 +108,9 @@
                     "2023"
                 ],
                 "PERSON": [
-                    "michael-birshan\">Michael Birshan</a",
-                    "greenberg\">Ezra Greenberg</a"
+                    "Michael Birshan",
+                    "Ezra Greenberg",
+                    "Ida Kristensen"
                 ],
                 "ORG": [
                     "McKinsey\u2019s Strategy and Corporate Finance Practice",
@@ -109,6 +119,12 @@
                 ],
                 "LOC": [
                     "North America"
+                ],
+                "GPE": [
+                    "LinkedIn"
+                ],
+                "WORK_OF_ART": [
+                    "Inside the Strategy Room"
                 ]
             }
         },
@@ -146,7 +162,15 @@
                 "GPE": [
                     "Israel",
                     "Israel",
-                    "Israel"
+                    "Israel",
+                    "LinkedIn"
+                ],
+                "ORG": [
+                    "Committed Innovator",
+                    "Intel Capital",
+                    "Strauss Group",
+                    "PepsiCo Labs",
+                    "McKinsey"
                 ],
                 "CARDINAL": [
                     "three",
@@ -157,16 +181,14 @@
                     "Roi Bar-Kat",
                     "Neta-Li Meiri",
                     "David Schwartz",
-                    "Erik Roth"
-                ],
-                "ORG": [
-                    "Intel Capital",
-                    "Strauss Group",
-                    "PepsiCo Labs",
-                    "McKinsey"
+                    "Erik Roth",
+                    "Join"
                 ],
                 "NORP": [
                     "Israeli"
+                ],
+                "WORK_OF_ART": [
+                    "Inside the Strategy Room"
                 ]
             }
         },
@@ -204,22 +226,29 @@
             "title": "154. Strategies to win in the new ecosystem economy",
             "entities": {
                 "WORK_OF_ART": [
-                    "Inside the Strategy Room"
+                    "Inside the Strategy Room",
+                    "The Ecosystem Economy: How to Lead in the New Age of Sectors Without Borders"
+                ],
+                "PERSON": [
+                    "Mikl\u00f3s Dietz",
+                    "McKinsey",
+                    "Venkat Atluri",
+                    "Join"
                 ],
                 "ORG": [
-                    "McKinsey",
                     "Financial Services",
-                    "Media &"
+                    "Media & Telecommunications",
+                    "Digital"
                 ],
                 "GPE": [
-                    "Atluri",
-                    "Technology"
+                    "Technology",
+                    "LinkedIn"
                 ],
                 "CARDINAL": [
                     "133",
                     "more than 87,000"
                 ],
-                "PERSON": [
+                "PRODUCT": [
                     "Twitter"
                 ]
             }
@@ -257,14 +286,18 @@
             "entities": {
                 "PERSON": [
                     "Sean Brown",
+                    "Carolyn Dewar",
+                    "Excellence",
                     "Joining Carolyn",
+                    "Kurt Strovink",
                     "Carolyn",
                     "Mckinsey.com",
-                    "Twitter"
+                    "Join"
                 ],
                 "GPE": [
                     "San Francisco",
-                    "New York"
+                    "New York",
+                    "LinkedIn"
                 ],
                 "ORG": [
                     "Excellence Practice",
@@ -282,6 +315,9 @@
                 ],
                 "CARDINAL": [
                     "more than 87,000"
+                ],
+                "PRODUCT": [
+                    "Twitter"
                 ]
             }
         },
@@ -315,6 +351,13 @@
             "pubDate": "Thu, 02 Mar 2023 05:59:52 +0000",
             "title": "152. Voices of CEO excellence: Blackstone\u2019s Stephen Schwarzman",
             "entities": {
+                "PERSON": [
+                    "Stephen Schwarzman",
+                    "Schwarzman",
+                    "Vik Malhotra",
+                    "David Schoeman",
+                    "James Gorman"
+                ],
                 "ORG": [
                     "The Blackstone Group",
                     "Morgan Stanley's"
@@ -325,19 +368,18 @@
                 "MONEY": [
                     "nearly $1 trillion"
                 ],
-                "PERSON": [
-                    "Schwarzman",
-                    "James Gorman",
-                    "Twitter"
-                ],
                 "GPE": [
-                    "McKinsey"
+                    "McKinsey",
+                    "LinkedIn"
                 ],
                 "LOC": [
                     "Americas"
                 ],
                 "CARDINAL": [
                     "more than 87,000"
+                ],
+                "PRODUCT": [
+                    "Twitter"
                 ]
             }
         },
@@ -379,21 +421,25 @@
                     "today"
                 ],
                 "PRODUCT": [
-                    "Web3"
+                    "Web3",
+                    "Twitter"
+                ],
+                "PERSON": [
+                    "Ian De Bode",
+                    "Matt Higginson",
+                    "Ian",
+                    "Matt",
+                    "Mckinsey.com",
+                    "Julian Sevillano",
+                    "Join"
                 ],
                 "LOC": [
                     "North America"
                 ],
-                "PERSON": [
-                    "higginson\">Matt Higginson</a",
-                    "Ian",
-                    "Matt",
-                    "Mckinsey.com",
-                    "Twitter"
-                ],
                 "GPE": [
                     "Boston",
-                    "San Francisco"
+                    "San Francisco",
+                    "LinkedIn"
                 ],
                 "ORG": [
                     "Financial Services"
@@ -435,15 +481,15 @@
             "entities": {
                 "DATE": [
                     "today",
-                    "2022"
+                    "2022",
+                    "today"
                 ],
                 "PERSON": [
                     "Rodney Zemmel",
                     "Kate Smaje",
                     "Laura LaBerge",
                     "Laura",
-                    "Mckinsey.com",
-                    "Twitter"
+                    "Mckinsey.com"
                 ],
                 "ORG": [
                     "McKinsey Digital",
@@ -451,12 +497,16 @@
                     "Rodney, Kate"
                 ],
                 "GPE": [
-                    "Stamford"
+                    "Stamford",
+                    "LinkedIn"
                 ],
                 "CARDINAL": [
                     "less than one-third",
-                    "three",
+                    "Three",
                     "more than 87,000"
+                ],
+                "PRODUCT": [
+                    "Twitter"
                 ]
             }
         },
@@ -493,13 +543,14 @@
             "title": "149. Driving growth while decarbonizing: A conversation with E.ON\u2019s Patrick Lammers",
             "entities": {
                 "PERSON": [
-                    "We're",
                     "Patrick Lammers",
                     "Patrick",
                     "McKinsey",
-                    "Talks</a",
+                    "Sascha Lehmann",
+                    "Episode",
                     "Mckinsey.com",
-                    "Twitter"
+                    "Join",
+                    "McKinsey.com"
                 ],
                 "CARDINAL": [
                     "one",
@@ -523,10 +574,18 @@
                     "first"
                 ],
                 "ORG": [
-                    "Practice"
+                    "Practice",
+                    "C-Suite Growth Talks",
+                    "C-Suite Growth Talks"
+                ],
+                "GPE": [
+                    "LinkedIn"
+                ],
+                "PRODUCT": [
+                    "Twitter"
                 ],
                 "WORK_OF_ART": [
-                    "Inside the Strategy Room <"
+                    "Inside the Strategy Room"
                 ]
             }
         },
@@ -564,14 +623,15 @@
             "title": "148. The CFO\u2019s role in talent development",
             "entities": {
                 "PERSON": [
+                    "Ankur Agrawal",
                     "Sean Brown",
                     "Ankur",
-                    "Ankur",
-                    "Sloan",
-                    "Twitter"
+                    "Ankur"
                 ],
                 "GPE": [
-                    "New York"
+                    "New York",
+                    "LinkedIn",
+                    "LinkedIn"
                 ],
                 "CARDINAL": [
                     "one",
@@ -579,7 +639,8 @@
                 ],
                 "ORG": [
                     "Healthcare Practice",
-                    "href=\"https://mitcfo.com"
+                    "MIT",
+                    "Sloan CFO Summit"
                 ],
                 "NORP": [
                     "Sean",
@@ -587,6 +648,9 @@
                 ],
                 "DATE": [
                     "2023"
+                ],
+                "PRODUCT": [
+                    "Twitter"
                 ]
             }
         },
@@ -622,12 +686,15 @@
             "title": "147. Leading with authenticity: A conversation with Bill George",
             "entities": {
                 "PERSON": [
-                    "href=\"https://billgeorge.org/\">Bill George</a",
+                    "Bill George",
                     "Bill",
                     "Bill",
                     "Bill",
-                    "North</em",
-                    "Twitter"
+                    "Carolyn Dewar",
+                    "Excellence"
+                ],
+                "WORK_OF_ART": [
+                    "True North: Emerging Leader Edition"
                 ],
                 "ORG": [
                     "Medtronic",
@@ -645,7 +712,11 @@
                     "2004"
                 ],
                 "GPE": [
-                    "San Francisco"
+                    "San Francisco",
+                    "LinkedIn"
+                ],
+                "PRODUCT": [
+                    "Twitter"
                 ]
             }
         },
@@ -685,7 +756,7 @@
                     "Thomas Kurian",
                     "Thomas",
                     "Thomas",
-                    "Twitter"
+                    "Adrian Booth"
                 ],
                 "ORG": [
                     "Inside the Strategy Room",
@@ -694,8 +765,14 @@
                 "LOC": [
                     "Silicon Valley"
                 ],
+                "GPE": [
+                    "LinkedIn"
+                ],
                 "CARDINAL": [
                     "more than 87,000"
+                ],
+                "PRODUCT": [
+                    "Twitter"
                 ]
             }
         },
@@ -735,25 +812,36 @@
                 "GPE": [
                     "Israel",
                     "Israel",
+                    "McKinsey",
                     "Israel",
-                    "Chemi"
+                    "Pitango",
+                    "Chemi",
+                    "Israel",
+                    "LinkedIn"
                 ],
                 "ORDINAL": [
                     "second"
                 ],
                 "PERSON": [
+                    "Erik Roth",
                     "Avi Hasson",
                     "Chemi Peres",
-                    "Hasson",
                     "Peres",
-                    "Shimon Peres",
-                    "Twitter"
+                    "Shimon Peres"
+                ],
+                "ORG": [
+                    "Hasson",
+                    "Startup Nation Central",
+                    "The Peres Center for Peace and Innovation"
                 ],
                 "DATE": [
                     "today"
                 ],
                 "CARDINAL": [
                     "more than 86,000"
+                ],
+                "PRODUCT": [
+                    "Twitter"
                 ]
             }
         },
@@ -795,7 +883,10 @@
                     "Israel",
                     "Israel",
                     "Israel",
-                    "Chemi"
+                    "Pitango",
+                    "Chemi",
+                    "Israel",
+                    "LinkedIn"
                 ],
                 "CARDINAL": [
                     "two",
@@ -805,16 +896,23 @@
                     "Avi Hasson",
                     "Chemi Peres",
                     "McKinsey",
+                    "Erik Roth",
                     "Hasson",
                     "Peres",
-                    "Shimon Peres",
-                    "Twitter"
+                    "Shimon Peres"
                 ],
                 "ORDINAL": [
                     "first"
                 ],
+                "ORG": [
+                    "Startup Nation Central",
+                    "The Peres Center for Peace and Innovation"
+                ],
                 "DATE": [
                     "today"
+                ],
+                "PRODUCT": [
+                    "Twitter"
                 ]
             }
         },
@@ -849,15 +947,19 @@
             "pubDate": "Fri, 16 Dec 2022 05:16:18 +0000",
             "title": "143. Taking fear out of innovation",
             "entities": {
-                "PERSON": [
-                    "top.</p"
-                ],
                 "CARDINAL": [
                     "three",
                     "more than 86,000"
                 ],
+                "PERSON": [
+                    "Laura Furstenthal",
+                    "Alex Morris",
+                    "Erik Roth",
+                    "Join"
+                ],
                 "GPE": [
-                    "McKinsey"
+                    "McKinsey",
+                    "LinkedIn"
                 ]
             }
         },
@@ -894,10 +996,21 @@
             "title": "142. Artificial intelligence in strategy",
             "entities": {
                 "ORG": [
+                    "AI",
                     "AI"
+                ],
+                "PERSON": [
+                    "Yuval Atsmon"
                 ],
                 "FAC": [
                     "McKinsey Center for Strategy Innovation"
+                ],
+                "WORK_OF_ART": [
+                    "Read Yuval's",
+                    "Connect with Yuval on LinkedIn"
+                ],
+                "GPE": [
+                    "LinkedIn"
                 ],
                 "CARDINAL": [
                     "more than 86,000"
@@ -936,27 +1049,32 @@
             "pubDate": "Mon, 28 Nov 2022 05:20:36 +0000",
             "title": "141. The ten rules of growth",
             "entities": {
-                "DATE": [
-                    "the past 15 years",
-                    "the past 15 years"
-                ],
                 "CARDINAL": [
+                    "One",
                     "5,000",
                     "ten",
                     "more than 86,000"
                 ],
+                "DATE": [
+                    "the past 15 years",
+                    "the past 15 years",
+                    "McKinsey.com\r\nJoin"
+                ],
                 "PERSON": [
+                    "Chris Bradley",
                     "Chris",
                     "Rebecca",
                     "Sean Brown",
                     "Chris",
                     "Rebecca"
                 ],
-                "GPE": [
-                    "Sydney"
-                ],
                 "ORG": [
+                    "Rebecca Doherty",
                     "the McKinsey Global Institute"
+                ],
+                "GPE": [
+                    "Sydney",
+                    "LinkedIn"
                 ],
                 "LOC": [
                     "the Bay Area"
@@ -1000,11 +1118,13 @@
                 ],
                 "PERSON": [
                     "Sean Brown",
-                    "michael-birshan\">Michael Birshan</a",
+                    "Michael Birshan",
+                    "Ishaan Seth",
                     "Michael",
-                    "bob-sternfels\">Bob Sternfels</a",
+                    "Bob Sternfels",
                     "Michael",
-                    "Michael"
+                    "Michael",
+                    "Strategy Beyond"
                 ],
                 "GPE": [
                     "Ishaan",
@@ -1020,7 +1140,8 @@
                     "Inside the Strategy Room"
                 ],
                 "ORG": [
-                    "the McKinsey Global Institute Council"
+                    "the McKinsey Global Institute Council",
+                    "the Hockey Stick"
                 ],
                 "DATE": [
                     "the years"
@@ -1067,6 +1188,11 @@
                     "three",
                     "more than 86,000"
                 ],
+                "PERSON": [
+                    "Asutosh Padhi",
+                    "Celia Huber",
+                    "Ida Kristensen"
+                ],
                 "GPE": [
                     "Chicago",
                     "New York",
@@ -1084,7 +1210,7 @@
                     "COVID-19"
                 ],
                 "DATE": [
-                    "April 2021.</p"
+                    "April 2021"
                 ],
                 "WORK_OF_ART": [
                     "Inside the Strategy Room"
@@ -1120,13 +1246,15 @@
                     "CFO",
                     "healthcare",
                     "Industries",
+                    "McKinsey",
+                    "O&G",
                     "OFSE"
                 ],
                 "PERSON": [
                     "Christian Grube",
                     "Roel Hoyer",
-                    "McKinsey",
-                    "Rohan Jain"
+                    "Rohan Jain",
+                    "Join"
                 ],
                 "GPE": [
                     "Germany",
@@ -1168,6 +1296,7 @@
                     "Brad Jacobs",
                     "Brad",
                     "Brad",
+                    "Andy West",
                     "Andy West"
                 ],
                 "DATE": [
@@ -1193,9 +1322,6 @@
                     "United Rentals",
                     "Boston",
                     "LinkedIn"
-                ],
-                "WORK_OF_ART": [
-                    "Inside the Strategy Room"
                 ]
             }
         },
@@ -1231,9 +1357,9 @@
                     "Erik",
                     "Jill",
                     "Mckinsey.com",
-                    "Biljana",
                     "Erik Roth",
-                    "Jill Zucker"
+                    "Jill Zucker",
+                    "Join"
                 ],
                 "GPE": [
                     "Biljana",
@@ -1246,8 +1372,8 @@
                     "New York",
                     "LinkedIn"
                 ],
-                "WORK_OF_ART": [
-                    "Inside the Strategy Room"
+                "ORG": [
+                    "Biljana"
                 ]
             }
         },
@@ -1283,19 +1409,22 @@
                     "Richard",
                     "Sean Brown",
                     "Yuval Atsmon",
-                    "Richard"
+                    "Richard",
+                    "Join"
                 ],
                 "ORG": [
                     "the UCLA Anderson School of Management",
                     "the Strategic Management Society"
                 ],
                 "WORK_OF_ART": [
-                    "The Crux: How Leaders Become Strategists",
-                    "Inside the Strategy Room"
+                    "The Crux: How Leaders Become Strategists"
                 ],
                 "GPE": [
                     "London",
                     "LinkedIn"
+                ],
+                "PRODUCT": [
+                    "Learn"
                 ]
             }
         },
@@ -1379,7 +1508,8 @@
                 "PERSON": [
                     "Mikl\u00f3s Dietz",
                     "Venkat Atluri",
-                    "McKinsey"
+                    "McKinsey",
+                    "Dietz"
                 ],
                 "WORK_OF_ART": [
                     "\u2018The Ecosystem Economy: How to Lead in the New Age of Sectors Without Borders",
@@ -1429,7 +1559,9 @@
                     "David Schwartz",
                     "David",
                     "Tim",
-                    "tim-koller"
+                    "Tim Koller",
+                    "tim-koller",
+                    "Join"
                 ],
                 "ORDINAL": [
                     "second",
@@ -1438,7 +1570,6 @@
                 "CARDINAL": [
                     "two",
                     "80",
-                    "three",
                     "three"
                 ],
                 "DATE": [
@@ -1458,6 +1589,7 @@
                     "LinkedIn"
                 ],
                 "WORK_OF_ART": [
+                    "Read \u2018Valuation: Measuring and Managing the Value of Companies",
                     "Inside the Strategy Room"
                 ]
             }
@@ -1503,7 +1635,7 @@
                     "Tim Koller",
                     "McKinsey",
                     "Tim",
-                    "Tim",
+                    "Joining Tim",
                     "Werner Rehm",
                     "Tim",
                     "Tim Koller",
@@ -1518,7 +1650,6 @@
                     "three",
                     "nearly a million",
                     "three",
-                    "three",
                     "111"
                 ],
                 "GPE": [
@@ -1531,6 +1662,7 @@
                     "\u2018Valuation\u2019",
                     "Strategy Analytics Center",
                     "The Six Mindsets",
+                    "Read \u2018Valuation: Measuring and Managing the Value of Companies",
                     "Inside the Strategy Room"
                 ],
                 "NORP": [
@@ -1574,6 +1706,7 @@
                     "Asutosh Padhi",
                     "Asutosh",
                     "Ezra Greenberg",
+                    "https://www.mckinsey.com/business-functions/strategy-and-corporate-finance/our-insights/navigating-inflation-a-new-playbook-for-ceos",
                     "Asutosh"
                 ],
                 "GPE": [
@@ -1588,7 +1721,7 @@
                 ],
                 "ORG": [
                     "McKinsey",
-                    "https://www.mckinsey.com/our-people/ezra-greenberg \r\n\r\n<p"
+                    "https://www.mckinsey.com/our-people/ezra-greenberg \r\n\r\nJoin"
                 ]
             }
         },
@@ -1705,18 +1838,13 @@
             "pubDate": "Wed, 27 Jul 2022 14:00:00 +0000",
             "title": "127. Juergen Esser on creating value while advancing sustainability at Danone",
             "entities": {
+                "CARDINAL": [
+                    "36:58"
+                ],
                 "PERSON": [
-                    "br><a href=\"https://podcasts.mckinsey.com:443",
                     "Juergen Esser",
                     "Danone Yogurt",
                     "Juergen"
-                ],
-                "CARDINAL": [
-                    "36:58",
-                    "13px;\">In"
-                ],
-                "MONEY": [
-                    "62"
                 ],
                 "ORG": [
                     "Evian",
@@ -1766,7 +1894,8 @@
                 ],
                 "PERSON": [
                     "Charles Lowrey",
-                    "Dame Vivian Hunt"
+                    "Dame Vivian Hunt",
+                    "Follow McKinsey's"
                 ],
                 "ORG": [
                     "Prudential Financial",
@@ -1775,9 +1904,6 @@
                 "GPE": [
                     "London",
                     "LinkedIn"
-                ],
-                "WORK_OF_ART": [
-                    "Inside the Strategy Room"
                 ]
             }
         },
@@ -1807,8 +1933,7 @@
             "entities": {
                 "ORG": [
                     "the Future of America",
-                    "IBM",
-                    "the Future of America"
+                    "IBM"
                 ],
                 "PERSON": [
                     "Jim Kavanaugh",
@@ -1856,11 +1981,11 @@
                     "Anna Karenina",
                     "Yuval Atsmon",
                     "John explores",
-                    "John"
+                    "John",
+                    "Follow McKinsey's"
                 ],
                 "WORK_OF_ART": [
-                    ", \u2018The Voltage Effect: How to",
-                    "Inside the Strategy Room"
+                    ", \u2018The Voltage Effect: How to"
                 ],
                 "ORG": [
                     "the Kenneth C. Griffin Distinguished Service Professor of Economics",
@@ -1903,8 +2028,7 @@
             "title": "123. How companies can turn the \u2018Great Resignation\u2019 into the \u2018Great Attraction\u2019",
             "entities": {
                 "WORK_OF_ART": [
-                    "The Great Resignation",
-                    "Inside the Strategy Room"
+                    "The Great Resignation"
                 ],
                 "PERSON": [
                     "Bonnie Dowling",
@@ -1948,13 +2072,13 @@
             "title": "122. MassMutual\u2019s Roger Crandall on disrupting your own industry",
             "entities": {
                 "WORK_OF_ART": [
-                    "Inside the Strategy Room",
                     "Inside the Strategy Room"
                 ],
                 "PERSON": [
                     "Roger Crandall",
                     "Patiath",
-                    "Roger"
+                    "Roger",
+                    "Follow McKinsey's"
                 ],
                 "ORG": [
                     "MassMutual"
@@ -1995,17 +2119,26 @@
                 "PERSON": [
                     "James Gorman",
                     "Vik Malhotra",
-                    "James"
+                    "James",
+                    "Excellence",
+                    "Carolyn Dewar",
+                    "Scott Keller",
+                    "Vikram Malhotra",
+                    "Follow McKinsey's"
                 ],
                 "ORG": [
-                    "Morgan",
+                    "Morgan Stanley\u2019s",
                     "McKinsey"
                 ],
                 "CARDINAL": [
+                    "two",
                     "six"
                 ],
-                "WORK_OF_ART": [
-                    "Inside the Strategy Room"
+                "GPE": [
+                    "LinkedIn"
+                ],
+                "PRODUCT": [
+                    "Twitter"
                 ]
             }
         },
@@ -2038,16 +2171,25 @@
                     "Asheet Mehta",
                     "McKinsey",
                     "James Gorman",
-                    "James"
+                    "James",
+                    "Excellence",
+                    "Carolyn Dewar",
+                    "Scott Keller",
+                    "Vikram Malhotra",
+                    "Follow McKinsey's"
                 ],
                 "ORG": [
-                    "Morgan Stanley"
+                    "Morgan Stanley",
+                    "McKinsey.com/itsr\u00a0\r\n\u00a0See www.mckinsey.com/privacy-policy"
                 ],
                 "CARDINAL": [
                     "six"
                 ],
-                "WORK_OF_ART": [
-                    "Inside the Strategy Room"
+                "GPE": [
+                    "LinkedIn"
+                ],
+                "PRODUCT": [
+                    "Twitter"
                 ]
             }
         },
@@ -2075,16 +2217,19 @@
             "pubDate": "Tue, 31 May 2022 13:40:00 +0000",
             "title": "119. The Committed Innovator: Temasek\u2019s Pradyumna Agrawal",
             "entities": {
-                "PRODUCT": [
-                    "Agrawal",
-                    "Roth</span></a><span"
-                ],
                 "PERSON": [
-                    "/span><a",
-                    "</span><a"
+                    "Pradyumna Agrawal",
+                    "McKinsey",
+                    "Erik Roth"
+                ],
+                "GPE": [
+                    "Temasek"
                 ],
                 "ORG": [
                     "The Committed Innovator"
+                ],
+                "DATE": [
+                    "today"
                 ]
             }
         },
@@ -2112,6 +2257,19 @@
             "pubDate": "Thu, 19 May 2022 12:00:00 +0000",
             "title": "118. The four fundamental factors of win-win spin offs",
             "entities": {
+                "CARDINAL": [
+                    "Four"
+                ],
+                "PERSON": [
+                    "Sean Brown",
+                    "Andy West",
+                    "Jan Krause",
+                    "Anthony Luu",
+                    "Anna Mattsson",
+                    "Andy",
+                    "Jan",
+                    "Anthony"
+                ],
                 "GPE": [
                     "Boston",
                     "Cologne",
@@ -2122,11 +2280,6 @@
                     "Europe",
                     "the Middle East",
                     "Africa"
-                ],
-                "PERSON": [
-                    "Andy",
-                    "Jan",
-                    "Anthony"
                 ]
             }
         },
@@ -2154,16 +2307,12 @@
             "pubDate": "Tue, 03 May 2022 12:00:00 +0000",
             "title": "117. New Zealand Rugby President Bill Osborne on strategy and leadership",
             "entities": {
-                "PERSON": [
-                    "br><a href=\"https://podcasts.mckinsey.com:443",
-                    "Osborne",
-                    "Guy Mullarkey"
-                ],
                 "CARDINAL": [
                     "32:40"
                 ],
-                "MONEY": [
-                    "62"
+                "PERSON": [
+                    "Bill Osborne",
+                    "Guy Mullarkey"
                 ],
                 "ORG": [
                     "New Zealand Rugby",
@@ -2205,29 +2354,24 @@
             "pubDate": "Fri, 29 Apr 2022 12:00:00 +0000",
             "title": "116. Understanding the SEC\u2019s proposed climate risk disclosure rule",
             "entities": {
+                "CARDINAL": [
+                    "42:53",
+                    "four"
+                ],
+                "ORG": [
+                    "The U.S. Securities and Exchange Commission",
+                    "SEC",
+                    "the Inside the Strategy Room",
+                    "the Sustainability Practice",
+                    "Shally Venugopal"
+                ],
                 "PERSON": [
-                    "br><a href=\"https://podcasts.mckinsey.com:443",
                     "McKinsey",
                     "Laura Corb",
                     "Kimberly Henderson",
                     "Tim Koller",
                     "McKinsey",
-                    "Vivid Economics.</span><p"
-                ],
-                "CARDINAL": [
-                    "42:53",
-                    "13px;\">The",
-                    "four"
-                ],
-                "MONEY": [
-                    "62"
-                ],
-                "ORG": [
-                    "U.S. Securities and Exchange Commission",
-                    "SEC",
-                    "the Inside the Strategy Room",
-                    "the Sustainability Practice",
-                    "Shally Venugopal"
+                    "Vivid Economics"
                 ],
                 "LOC": [
                     "North America"
@@ -2267,7 +2411,9 @@
                 "PERSON": [
                     "Sean Brown",
                     "Tracy Francis",
-                    "Anu Madgavkar"
+                    "McKinsey",
+                    "Anu Madgavkar",
+                    "Strategy Beyond"
                 ],
                 "CARDINAL": [
                     "three"
@@ -2279,7 +2425,8 @@
                     "the McKinsey Global Institute",
                     "MGI",
                     "Sven Smit",
-                    "MGI"
+                    "MGI",
+                    "the Hockey Stick"
                 ]
             }
         },
@@ -2307,12 +2454,13 @@
             "pubDate": "Thu, 03 Mar 2022 13:00:00 +0000",
             "title": "114. The Committed Innovator: A conversation with Keho founder Tekla Back",
             "entities": {
-                "CARDINAL": [
-                    "one"
-                ],
                 "PERSON": [
+                    "Keho",
                     "McKinsey",
                     "Tekla Back"
+                ],
+                "CARDINAL": [
+                    "one"
                 ],
                 "ORG": [
                     "PepsiCo",
@@ -2351,10 +2499,13 @@
                     "Ophelia Usher"
                 ],
                 "ORG": [
-                    "McKinsey&rsquo;s board services"
+                    "McKinsey"
                 ],
                 "LOC": [
                     "North America"
+                ],
+                "GPE": [
+                    "McKinsey"
                 ]
             }
         },
@@ -2401,7 +2552,11 @@
                 "PERSON": [
                     "Carolyn Dewar",
                     "Scott Keller",
+                    "McKinsey",
                     "Vik Malhotra"
+                ],
+                "LOC": [
+                    "Americas"
                 ]
             }
         },
@@ -2449,7 +2604,11 @@
                 "PERSON": [
                     "Carolyn Dewar",
                     "Scott Keller",
+                    "McKinsey",
                     "Vik Malhotra"
+                ],
+                "LOC": [
+                    "Americas"
                 ]
             }
         },
@@ -2477,20 +2636,13 @@
             "pubDate": "Tue, 01 Feb 2022 13:00:00 +0000",
             "title": "110. Brendan Whitworth on Anheuser-Busch's next phase of growth",
             "entities": {
-                "PERSON": [
-                    "br><a href=\"https://podcasts.mckinsey.com:443",
-                    "Brendan Whitworth",
-                    "Brendan",
-                    "Ed Little"
-                ],
                 "TIME": [
                     "28:15"
                 ],
-                "MONEY": [
-                    "62"
-                ],
-                "CARDINAL": [
-                    "13px;\">We"
+                "PERSON": [
+                    "Brendan Whitworth",
+                    "Brendan",
+                    "Ed Little"
                 ],
                 "ORG": [
                     "Anheuser-Busch",
@@ -2533,23 +2685,19 @@
             "pubDate": "Thu, 13 Jan 2022 13:00:00 +0000",
             "title": "109. Programmatic M&A: Winning in the new normal",
             "entities": {
-                "PERSON": [
-                    "br><a href=\"https://podcasts.mckinsey.com:443",
-                    "Robert Uhlaner",
-                    "Liz Wol"
-                ],
                 "TIME": [
                     "25:01"
                 ],
-                "MONEY": [
-                    "62"
-                ],
                 "CARDINAL": [
-                    "13px;\">Two"
+                    "Two"
                 ],
                 "DATE": [
                     "many years",
                     "this summer"
+                ],
+                "PERSON": [
+                    "Robert Uhlaner",
+                    "Liz Wol"
                 ],
                 "ORG": [
                     "McKinsey"
@@ -2580,21 +2728,11 @@
             "pubDate": "Thu, 16 Dec 2021 13:00:00 +0000",
             "title": "108. Emphasizing the \u2018S\u2019 in ESG",
             "entities": {
-                "PERSON": [
-                    "br><a href=\"https://podcasts.mckinsey.com:443",
-                    "Vivian Hunt",
-                    "Bruce Simpson",
-                    "McKinsey"
-                ],
                 "CARDINAL": [
                     "31:31",
-                    "13px;\">While",
                     "three",
                     "one",
                     "three"
-                ],
-                "MONEY": [
-                    "62"
                 ],
                 "ORG": [
                     "the Inside the Strategy Room",
@@ -2602,6 +2740,11 @@
                     "E.S.G",
                     "Franz Paasche",
                     "PayPal"
+                ],
+                "PERSON": [
+                    "Vivian Hunt",
+                    "Bruce Simpson",
+                    "McKinsey"
                 ]
             }
         },
@@ -2629,12 +2772,16 @@
             "pubDate": "Thu, 09 Dec 2021 13:00:00 +0000",
             "title": "107. Putting stakeholder capitalism into practice",
             "entities": {
+                "ORG": [
+                    "the Inside the Strategy Room",
+                    "the Stephen A. Schwarzman Foundation",
+                    "Purpose"
+                ],
                 "ORDINAL": [
                     "second"
                 ],
-                "ORG": [
-                    "ESG",
-                    "the Stephen A. Schwarzman Foundation"
+                "CARDINAL": [
+                    "two"
                 ],
                 "PERSON": [
                     "Vivian Hunt",
@@ -2670,22 +2817,8 @@
             "pubDate": "Thu, 02 Dec 2021 13:00:00 +0000",
             "title": "106. The role of ESG and purpose",
             "entities": {
-                "PERSON": [
-                    "br><a href=\"https://podcasts.mckinsey.com:443",
-                    "Rupert Younger",
-                    "Robin Nuttall"
-                ],
                 "TIME": [
                     "33:46"
-                ],
-                "MONEY": [
-                    "62"
-                ],
-                "CARDINAL": [
-                    "13px;\">Purpose",
-                    "one",
-                    "three",
-                    "two"
                 ],
                 "ORG": [
                     "ESG",
@@ -2695,6 +2828,15 @@
                     "Oxford University",
                     "the Enacting Purpose Initiative",
                     "ESG"
+                ],
+                "CARDINAL": [
+                    "one",
+                    "three",
+                    "two"
+                ],
+                "PERSON": [
+                    "Rupert Younger",
+                    "Robin Nuttall"
                 ],
                 "GPE": [
                     "McKinsey"
@@ -2725,17 +2867,12 @@
             "pubDate": "Wed, 01 Dec 2021 13:00:00 +0000",
             "title": "105. The race to create a vaccine: A conversation with Pfizer\u2019s Frank D\u2019Amelio",
             "entities": {
+                "TIME": [
+                    "24:41"
+                ],
                 "PERSON": [
-                    "br><a href=\"https://podcasts.mckinsey.com:443",
-                    "D\u2019Amelio",
+                    "Frank D\u2019Amelio",
                     "Rodney Zemmel"
-                ],
-                "MONEY": [
-                    "24:41) &",
-                    "62"
-                ],
-                "CARDINAL": [
-                    "13px;\">Frank"
                 ],
                 "ORG": [
                     "CFO",
@@ -2775,25 +2912,16 @@
             "title": "104. Kevin Hostetler of Rotork on accelerating growth",
             "entities": {
                 "PERSON": [
-                    "br><a href=\"https://podcasts.mckinsey.com:443",
                     "Kevin Hostetler",
                     "Anna Koivuniemi"
-                ],
-                "GPE": [
-                    "unknown&s=_unknown&i=6c633a31303030303163353466396262733366397273&he=253246253246706f6463617374732e6d636b696e7365792e636f6d253246706f64636173742533467063253344696e736964657468657374726174656779726f6f6d5f727373253236707525334468747470732532353341253235324625323532467777772e6d636b696e7365792e636f6d25323532466173736574732532353246646f74636f6d25323532467468652d73747261746567792d726f6f6d2d706f64636173742532353246696e736964652d7468652d73747261746567792d726f6f6d2d3130342d6b6576696e2d686f737465746c65722d6f662d726f746f726b2d6f6e2d616363656c65726174696e672d67726f7774682e6d7033253236706e2533443130342e2532424b6576696e253242486f737465746c65722532426f66253242526f746f726b2532426f6e253242616363656c65726174696e6725324267726f777468",
-                    "unknown&s=_unknown&i=6c633a31303030303163353466396262733366397273&he=253246253246706f6463617374732e6d636b696e7365792e636f6d253246706f64636173742533467063253344696e736964657468657374726174656779726f6f6d5f727373253236707525334468747470732532353341253235324625323532467777772e6d636b696e7365792e636f6d25323532466173736574732532353246646f74636f6d25323532467468652d73747261746567792d726f6f6d2d706f64636173742532353246696e736964652d7468652d73747261746567792d726f6f6d2d3130342d6b6576696e2d686f737465746c65722d6f662d726f746f726b2d6f6e2d616363656c65726174696e672d67726f7774682e6d7033253236706e2533443130342e2532424b6576696e253242486f737465746c65722532426f66253242526f746f726b2532426f6e253242616363656c65726174696e6725324267726f777468",
-                    "UK"
-                ],
-                "CARDINAL": [
-                    "32:41"
-                ],
-                "MONEY": [
-                    "62"
                 ],
                 "ORG": [
                     "Rotork",
                     "McKinsey",
                     "Rotork"
+                ],
+                "GPE": [
+                    "UK"
                 ],
                 "DATE": [
                     "multi-year"
@@ -2824,19 +2952,19 @@
             "pubDate": "Thu, 28 Oct 2021 12:00:00 +0000",
             "title": "103. Boards and the cloud",
             "entities": {
+                "ORG": [
+                    "the Inside the Strategy Room",
+                    "McKinsey Technology",
+                    "General Mills",
+                    "Great-West Lifeco"
+                ],
                 "PERSON": [
                     "Steve Van Kuiken",
                     "David Court",
                     "PSP Investments",
                     "Liz Lempres"
                 ],
-                "ORG": [
-                    "McKinsey Technology",
-                    "General Mills",
-                    "Great-West Lifeco"
-                ],
                 "CARDINAL": [
-                    "four",
                     "two"
                 ],
                 "NORP": [
@@ -2878,9 +3006,10 @@
                     "years"
                 ],
                 "ORG": [
+                    "McKinsey",
                     "SparkBeyond",
                     "McKinsey",
-                    "McKinsey&rsquo;s"
+                    "McKinsey"
                 ]
             }
         },
@@ -2908,17 +3037,8 @@
             "pubDate": "Thu, 14 Oct 2021 12:00:00 +0000",
             "title": "101. The Committed Innovator: A conversation with Loonshots author Safi Bahcall",
             "entities": {
-                "PERSON": [
-                    "br><a href=\"https://podcasts.mckinsey.com:443",
-                    "Safi Bahcall",
-                    "Erik Roth"
-                ],
-                "MONEY": [
-                    "50:13) &",
-                    "62"
-                ],
-                "CARDINAL": [
-                    "13px;\">Companies"
+                "TIME": [
+                    "50:13"
                 ],
                 "WORK_OF_ART": [
                     "Loonshots: How to Nurture the Crazy Ideas That Win Wars, Cure Diseases"
@@ -2929,6 +3049,10 @@
                 ],
                 "DATE": [
                     "March 2019"
+                ],
+                "PERSON": [
+                    "Safi Bahcall",
+                    "Erik Roth"
                 ]
             }
         },
@@ -2956,21 +3080,24 @@
             "pubDate": "Thu, 07 Oct 2021 12:00:00 +0000",
             "title": "The corporation in the 21st century",
             "entities": {
-                "CARDINAL": [
-                    "two",
-                    "21<sup"
-                ],
                 "ORG": [
+                    "the Inside the Strategy Room",
+                    "McKinsey Global Institute",
                     "MGI",
                     "the Consumer Packaged Goods and Retail",
                     "MGI"
                 ],
+                "CARDINAL": [
+                    "two"
+                ],
                 "DATE": [
-                    "the past quarter century"
+                    "the past quarter century",
+                    "the 21st century"
                 ],
                 "PERSON": [
                     "Michael Birshan",
-                    "Clarisse Magnin-Mallez"
+                    "Clarisse Magnin-Mallez",
+                    "McKinsey"
                 ],
                 "LOC": [
                     "Africa",
@@ -3017,8 +3144,7 @@
                     "Andy West"
                 ],
                 "ORG": [
-                    "Agility</a>.&rdquo",
-                    "McKinsey&rsquo;s"
+                    "McKinsey"
                 ]
             }
         },
@@ -3048,7 +3174,8 @@
             "entities": {
                 "PERSON": [
                     "Laura Furstenthal",
-                    "Erik Roth"
+                    "Erik Roth",
+                    "McKinsey"
                 ]
             }
         },
@@ -3076,21 +3203,12 @@
             "pubDate": "Fri, 20 Aug 2021 12:00:00 +0000",
             "title": "The making of a megadeal: Howard Ungerleider on the merger of Dow and DuPont",
             "entities": {
-                "PERSON": [
-                    "br><a href=\"https://podcasts.mckinsey.com:443",
-                    "Howard Ungerleider",
-                    "John Warner"
-                ],
                 "ORG": [
-                    "30:14) &",
                     "Dow Chemical",
                     "DuPont",
                     "CFO",
                     "Dow",
                     "McKinsey\u2019s Global Energy and Materials"
-                ],
-                "MONEY": [
-                    "62"
                 ],
                 "DATE": [
                     "2017"
@@ -3099,6 +3217,10 @@
                     "three",
                     "two",
                     "three"
+                ],
+                "PERSON": [
+                    "Howard Ungerleider",
+                    "John Warner"
                 ]
             }
         },
@@ -3126,20 +3248,15 @@
             "pubDate": "Thu, 29 Jul 2021 12:00:00 +0000",
             "title": "Boards, Talent, and Culture",
             "entities": {
+                "CARDINAL": [
+                    "36:36",
+                    "two"
+                ],
                 "PERSON": [
-                    "br><a href=\"https://podcasts.mckinsey.com:443",
                     "Frithjof Lund",
                     "Hugo Bague",
                     "Mary Meaney",
                     "McKinsey"
-                ],
-                "CARDINAL": [
-                    "36:36",
-                    "13px;\">Board",
-                    "two"
-                ],
-                "MONEY": [
-                    "62"
                 ],
                 "ORG": [
                     "McKinsey",
@@ -3175,20 +3292,10 @@
             "pubDate": "Mon, 19 Jul 2021 12:00:00 +0000",
             "title": "The Committed Innovator: A conversation with Amy Brooks of the NBA",
             "entities": {
-                "PERSON": [
-                    "br><a href=\"https://podcasts.mckinsey.com:443",
-                    "Amy Brooks",
-                    "McKinsey",
-                    "Erik Roth"
-                ],
                 "CARDINAL": [
                     "32:01",
-                    "13px;\">The",
                     "four",
                     "2"
-                ],
-                "MONEY": [
-                    "62"
                 ],
                 "ORG": [
                     "COVID-19",
@@ -3200,6 +3307,11 @@
                     "the NBA G League",
                     "NBA",
                     "Committed Innovator"
+                ],
+                "PERSON": [
+                    "Amy Brooks",
+                    "McKinsey",
+                    "Erik Roth"
                 ],
                 "ORDINAL": [
                     "first"
@@ -3233,19 +3345,8 @@
             "pubDate": "Thu, 24 Jun 2021 12:00:00 +0000",
             "title": "Ron O\u2019Hanley of State Street on corporate resilience and ESG",
             "entities": {
-                "PERSON": [
-                    "br><a href=\"https://podcasts.mckinsey.com:443",
-                    "Ron O\u2019Hanley",
-                    "Celia Huber"
-                ],
-                "MONEY": [
-                    "29:48) &",
-                    "62",
-                    "$38 trillion",
-                    "$3.5 trillion"
-                ],
                 "CARDINAL": [
-                    "13px;\">As",
+                    "29:48",
                     "one"
                 ],
                 "ORG": [
@@ -3254,8 +3355,16 @@
                     "State",
                     "ESG"
                 ],
+                "PERSON": [
+                    "Ron O\u2019Hanley",
+                    "Celia Huber"
+                ],
                 "NORP": [
                     "American"
+                ],
+                "MONEY": [
+                    "$38 trillion",
+                    "$3.5 trillion"
                 ],
                 "LOC": [
                     "North America",
@@ -3287,19 +3396,15 @@
             "pubDate": "Mon, 21 Jun 2021 12:00:00 +0000",
             "title": "Michelle Gass of Kohl\u2019s on shifting from survival to growth",
             "entities": {
+                "TIME": [
+                    "33:26"
+                ],
                 "PERSON": [
-                    "br><a href=\"https://podcasts.mckinsey.com:443",
                     "Michelle Gass",
                     "Kohl",
                     "Sephora",
                     "Sajal Kohli",
                     "McKinsey"
-                ],
-                "TIME": [
-                    "33:26"
-                ],
-                "MONEY": [
-                    "62"
                 ],
                 "GPE": [
                     "US"
@@ -3330,25 +3435,20 @@
             "pubDate": "Tue, 15 Jun 2021 12:00:00 +0000",
             "title": "The Committed Innovator: A conversation with Tanya Baker of Goldman Sachs Accelerate",
             "entities": {
-                "PERSON": [
-                    "br><a href=\"https://podcasts.mckinsey.com:443",
-                    "Tanya Baker",
-                    "Baker",
-                    "Erik Roth",
-                    "McKinsey"
-                ],
-                "CARDINAL": [
-                    "34:47",
-                    "13px;\">As"
-                ],
-                "MONEY": [
-                    "62"
+                "TIME": [
+                    "34:47"
                 ],
                 "ORG": [
                     "GS Accelerate",
                     "Goldman Sachs",
                     "Committed Innovator",
                     "Tanya"
+                ],
+                "PERSON": [
+                    "Tanya Baker",
+                    "Baker",
+                    "Erik Roth",
+                    "McKinsey"
                 ]
             }
         },
@@ -3423,17 +3523,6 @@
             "pubDate": "Thu, 03 Jun 2021 12:00:00 +0000",
             "title": "Untangling the often mysterious process of joining a corporate board",
             "entities": {
-                "PERSON": [
-                    "br><a href=\"https://podcasts.mckinsey.com:443",
-                    "Celia Huber",
-                    "Spencer Stuart",
-                    "Julie Daum",
-                    "Sarah Beshar"
-                ],
-                "MONEY": [
-                    "28:59) &",
-                    "62"
-                ],
                 "ORDINAL": [
                     "first"
                 ],
@@ -3443,6 +3532,12 @@
                     "Invesco",
                     "Spencer Stuart\u2019s",
                     "Invesco"
+                ],
+                "PERSON": [
+                    "Celia Huber",
+                    "Spencer Stuart",
+                    "Julie Daum",
+                    "Sarah Beshar"
                 ],
                 "LOC": [
                     "North America",
@@ -3479,8 +3574,7 @@
             "title": "Kevin Sneader on the eight trends that will define 2021\u2013and beyond",
             "entities": {
                 "DATE": [
-                    "Today",
-                    "define-2021"
+                    "Today"
                 ],
                 "PERSON": [
                     "McKinsey",
@@ -3488,10 +3582,8 @@
                     "Celia Huber"
                 ],
                 "CARDINAL": [
-                    "eight"
-                ],
-                "ORG": [
-                    "beyond&rsquo;</a"
+                    "eight",
+                    "2021"
                 ]
             }
         },
@@ -3519,16 +3611,8 @@
             "pubDate": "Mon, 17 May 2021 12:00:00 +0000",
             "title": "Preparing for future growth: A conversation with Simon Pryce of Ultra Electronics",
             "entities": {
-                "PERSON": [
-                    "br><a href=\"https://podcasts.mckinsey.com:443",
-                    "Simon Pryce"
-                ],
                 "CARDINAL": [
-                    "32:40",
-                    "13px;\">As"
-                ],
-                "MONEY": [
-                    "62"
+                    "32:40"
                 ],
                 "ORG": [
                     "BBA Aviation",
@@ -3540,6 +3624,9 @@
                     "McKinsey\u2019s",
                     "Transformation Practice",
                     "Ultra"
+                ],
+                "PERSON": [
+                    "Simon Pryce"
                 ],
                 "NORP": [
                     "British"
@@ -3572,16 +3659,17 @@
             "entities": {
                 "DATE": [
                     "last year",
-                    "one-year",
                     "one year"
                 ],
                 "ORG": [
                     "COVID-19",
+                    "the Inside the Strategy Room",
                     "McKinsey & Company\u2019s",
                     "COVID-19"
                 ],
                 "PERSON": [
                     "Tim Koller",
+                    "Valuation",
                     "Peter Stumpner"
                 ]
             }
@@ -3615,8 +3703,12 @@
                     "Erik Roth"
                 ],
                 "ORG": [
+                    "Committed Innovator",
                     "McKinsey & Company\u2019s",
                     "Dometic Group"
+                ],
+                "WORK_OF_ART": [
+                    "Inside the Strategy Room"
                 ],
                 "NORP": [
                     "Swedish"
@@ -3690,8 +3782,13 @@
             "pubDate": "Thu, 22 Apr 2021 12:00:00 +0000",
             "title": "The role of boards in fostering resilience",
             "entities": {
+                "CARDINAL": [
+                    "36:43"
+                ],
+                "ORDINAL": [
+                    "fourth"
+                ],
                 "PERSON": [
-                    "br><a href=\"https://podcasts.mckinsey.com:443",
                     "Frithjof Lund",
                     "Gordon Orr",
                     "McKinsey",
@@ -3699,19 +3796,9 @@
                     "McKinsey",
                     "Martin Hirt"
                 ],
-                "CARDINAL": [
-                    "36:43",
-                    "13px;\">Boards"
-                ],
-                "MONEY": [
-                    "62"
-                ],
-                "ORDINAL": [
-                    "fourth"
-                ],
                 "ORG": [
                     "McKinsey\u2019s Strategy and Corporate Finance Practice",
-                    "McKinsey\u2019s Strategy and Corporate Finance Practice.</span><p"
+                    "McKinsey\u2019s Strategy and Corporate Finance Practice"
                 ]
             }
         },
@@ -3739,19 +3826,8 @@
             "pubDate": "Thu, 15 Apr 2021 12:00:00 +0000",
             "title": "The workforce of the future",
             "entities": {
-                "PERSON": [
-                    "br><a href=\"https://podcasts.mckinsey.com:443",
-                    "Susan Lund",
-                    "Sven Smit"
-                ],
                 "TIME": [
                     "40:13"
-                ],
-                "MONEY": [
-                    "62"
-                ],
-                "CARDINAL": [
-                    "13px;\">A"
                 ],
                 "ORG": [
                     "the McKinsey Global Institute",
@@ -3762,6 +3838,10 @@
                 ],
                 "PERCENT": [
                     "up to 25 percent"
+                ],
+                "PERSON": [
+                    "Susan Lund",
+                    "Sven Smit"
                 ]
             }
         },
@@ -3789,12 +3869,16 @@
             "pubDate": "Tue, 06 Apr 2021 12:00:00 +0000",
             "title": "Collaborations between corporates and start-ups",
             "entities": {
+                "ORG": [
+                    "the Inside the Strategy Room",
+                    "Tawanda Sibanda"
+                ],
                 "PERSON": [
                     "Miao Wang",
                     "Tobias Henz"
                 ],
-                "ORG": [
-                    "Tawanda Sibanda"
+                "GPE": [
+                    "McKinsey"
                 ],
                 "WORK_OF_ART": [
                     "Leap by McKinsey"
@@ -3825,17 +3909,19 @@
             "pubDate": "Tue, 30 Mar 2021 12:00:00 +0000",
             "title": "The CEO\u2019s new technology agenda",
             "entities": {
+                "ORG": [
+                    "the Inside the Strategy Room"
+                ],
                 "CARDINAL": [
                     "two"
                 ],
                 "PERSON": [
-                    "McKinsey"
+                    "McKinsey",
+                    "Krish Krishnakanthan",
+                    "Gayatri Shenai"
                 ],
                 "GPE": [
-                    "Krishnakanthan</a"
-                ],
-                "ORG": [
-                    "McKinsey&rsquo;s"
+                    "McKinsey"
                 ],
                 "LOC": [
                     "North America"
@@ -3871,19 +3957,24 @@
                     "Kevin Sneader",
                     "Carolyn Dewar",
                     "McKinsey.com",
-                    "Twitter"
+                    "McKinsey.com"
                 ],
                 "ORG": [
-                    "Goldman Sachs"
+                    "Goldman Sachs",
+                    "the Inside the Strategy Room"
                 ],
                 "PRODUCT": [
-                    "McKinsey Global Managing Partner"
+                    "McKinsey Global Managing Partner",
+                    "Twitter"
                 ],
                 "CARDINAL": [
                     "nearly 50"
                 ],
                 "GPE": [
                     "LinkedIn"
+                ],
+                "WORK_OF_ART": [
+                    "McKinsey Strategy and Corporate Finance"
                 ]
             }
         },
@@ -3930,7 +4021,8 @@
                 ],
                 "GPE": [
                     "Germany",
-                    "London"
+                    "London",
+                    "McKinsey"
                 ],
                 "LOC": [
                     "Europe"
@@ -4017,22 +4109,18 @@
             "pubDate": "Thu, 04 Mar 2021 13:00:00 +0000",
             "title": "The committed innovator: A conversation with board director Ireena Vittal. Part 2",
             "entities": {
-                "PERSON": [
-                    "br><a href=\"https://podcasts.mckinsey.com:443",
-                    "Erik Roth\u2019s",
-                    "Erik",
-                    "Ireena"
-                ],
                 "CARDINAL": [
                     "30:49"
-                ],
-                "MONEY": [
-                    "62"
                 ],
                 "ORDINAL": [
                     "second",
                     "first",
                     "second"
+                ],
+                "PERSON": [
+                    "Erik Roth\u2019s",
+                    "Erik",
+                    "Ireena"
                 ],
                 "ORG": [
                     "Ireena Vittal"
@@ -4063,31 +4151,26 @@
             "pubDate": "Fri, 26 Feb 2021 13:00:00 +0000",
             "title": "The committed innovator: A conversation with board director Ireena Vittal",
             "entities": {
-                "PERSON": [
-                    "br><a href=\"https://podcasts.mckinsey.com:443",
-                    "Erik Roth",
-                    "Ireena"
-                ],
                 "TIME": [
                     "18:13"
-                ],
-                "MONEY": [
-                    "62"
-                ],
-                "CARDINAL": [
-                    "13px;\">In",
-                    "two"
                 ],
                 "DATE": [
                     "today",
                     "30 years",
                     "Today"
                 ],
+                "PERSON": [
+                    "Erik Roth",
+                    "Ireena"
+                ],
                 "ORG": [
                     "Ireena Vittal"
                 ],
                 "GPE": [
                     "India"
+                ],
+                "CARDINAL": [
+                    "two"
                 ],
                 "ORDINAL": [
                     "first"
@@ -4118,19 +4201,15 @@
             "pubDate": "Thu, 11 Feb 2021 14:00:30 +0000",
             "title": "The COVID-Exit",
             "entities": {
-                "PERSON": [
-                    "br><a href=\"https://podcasts.mckinsey.com:443",
-                    "Martin Hirt",
-                    "Anna Koivuniemi"
-                ],
                 "TIME": [
                     "24:57"
                 ],
-                "MONEY": [
-                    "62"
-                ],
                 "CARDINAL": [
                     "two"
+                ],
+                "PERSON": [
+                    "Martin Hirt",
+                    "Anna Koivuniemi"
                 ],
                 "ORG": [
                     "COVID-19"
@@ -4164,18 +4243,14 @@
             "pubDate": "Tue, 02 Feb 2021 14:00:19 +0000",
             "title": "The committed innovator: A conversation with Neal Gutterson of Corteva",
             "entities": {
+                "CARDINAL": [
+                    "34:42"
+                ],
                 "PERSON": [
-                    "br><a href=\"https://podcasts.mckinsey.com:443",
                     "Erik Roth",
                     "Neal Gutterson",
                     "Corteva",
                     "Gutterson"
-                ],
-                "CARDINAL": [
-                    "34:42"
-                ],
-                "MONEY": [
-                    "62"
                 ],
                 "ORG": [
                     "McKinsey",
@@ -4211,19 +4286,14 @@
             "pubDate": "Tue, 26 Jan 2021 13:00:00 +0000",
             "title": "The great acceleration",
             "entities": {
+                "CARDINAL": [
+                    "29:18",
+                    "two"
+                ],
                 "PERSON": [
-                    "br><a href=\"https://podcasts.mckinsey.com:443",
                     "Rebecca Doherty",
                     "Nicholas Northcote",
                     "Strategy Beyond"
-                ],
-                "CARDINAL": [
-                    "29:18",
-                    "13px;\">In",
-                    "two"
-                ],
-                "MONEY": [
-                    "62"
                 ]
             }
         },
@@ -4251,19 +4321,8 @@
             "pubDate": "Wed, 20 Jan 2021 14:00:41 +0000",
             "title": "Boards and cybersecurity",
             "entities": {
-                "PERSON": [
-                    "br><a href=\"https://podcasts.mckinsey.com:443",
-                    "Frithjof Lund",
-                    "John Noble",
-                    "Wolf Richter"
-                ],
-                "CARDINAL": [
-                    "34:27",
-                    "13px;\">The",
-                    "two"
-                ],
-                "MONEY": [
-                    "62"
+                "TIME": [
+                    "34:27"
                 ],
                 "ORG": [
                     "the Inside the Strategy Room",
@@ -4271,6 +4330,14 @@
                     "Digital",
                     "National Health Service",
                     "McKinsey"
+                ],
+                "PERSON": [
+                    "Frithjof Lund",
+                    "John Noble",
+                    "Wolf Richter"
+                ],
+                "CARDINAL": [
+                    "two"
                 ],
                 "GPE": [
                     "the United Kingdom\u2019s"
@@ -4301,17 +4368,15 @@
             "pubDate": "Tue, 29 Dec 2020 13:00:00 +0000",
             "title": "Boards and sustainability",
             "entities": {
-                "PERSON": [
-                    "br><a href=\"https://podcasts.mckinsey.com:443",
-                    "Frithjof Lund",
-                    "Tomas Naucl\u00e9r"
-                ],
-                "MONEY": [
-                    "21:18) &",
-                    "62"
+                "CARDINAL": [
+                    "21:18"
                 ],
                 "ORDINAL": [
                     "first"
+                ],
+                "PERSON": [
+                    "Frithjof Lund",
+                    "Tomas Naucl\u00e9r"
                 ],
                 "GPE": [
                     "Oslo",
@@ -4346,17 +4411,11 @@
             "pubDate": "Tue, 22 Dec 2020 13:00:00 +0000",
             "title": "Boards, strategy and the new risk environment",
             "entities": {
-                "PERSON": [
-                    "br><a href=\"https://podcasts.mckinsey.com:443"
-                ],
                 "TIME": [
                     "27:49"
                 ],
-                "MONEY": [
-                    "62"
-                ],
                 "DATE": [
-                    "13px;\">This year",
+                    "This year",
                     "Today"
                 ],
                 "ORG": [
@@ -4397,17 +4456,12 @@
             "pubDate": "Tue, 15 Dec 2020 12:00:00 +0000",
             "title": "The committed innovator: An interview with Anjali Sud, CEO of Vimeo",
             "entities": {
+                "CARDINAL": [
+                    "33:48"
+                ],
                 "PERSON": [
-                    "br><a href=\"https://podcasts.mckinsey.com:443",
                     "Erik Roth",
                     "McKinsey"
-                ],
-                "MONEY": [
-                    "33:48) &",
-                    "62"
-                ],
-                "CARDINAL": [
-                    "13px;\">In"
                 ],
                 "ORG": [
                     "Anjali Sud",
@@ -4442,23 +4496,15 @@
             "pubDate": "Fri, 04 Dec 2020 13:00:40 +0000",
             "title": "Ensuring the health of your business partnerships",
             "entities": {
-                "PERSON": [
-                    "br><a href=\"https://podcasts.mckinsey.com:443",
-                    "Ankur Agrawal",
-                    "Eileen Kelly Rinaudo"
-                ],
-                "MONEY": [
-                    "42:15) &",
-                    "62"
-                ],
-                "CARDINAL": [
-                    "13px;\">In"
-                ],
                 "DATE": [
                     "the past few months"
                 ],
                 "ORG": [
                     "COVID-19"
+                ],
+                "PERSON": [
+                    "Ankur Agrawal",
+                    "Eileen Kelly Rinaudo"
                 ],
                 "LOC": [
                     "Americas"
@@ -4489,24 +4535,21 @@
             "pubDate": "Tue, 24 Nov 2020 15:00:40 +0000",
             "title": "The board\u2019s role during crisis and beyond",
             "entities": {
+                "TIME": [
+                    "40:30"
+                ],
                 "PERSON": [
-                    "br><a href=\"https://podcasts.mckinsey.com:443",
                     "Celia Huber",
                     "Nora Aufreiter",
                     "Kroger",
                     "Peter Bisson",
                     "Margaret"
                 ],
-                "CARDINAL": [
-                    "40:30",
-                    "13px;\">McKinsey",
-                    "three"
-                ],
-                "MONEY": [
-                    "62"
-                ],
                 "LOC": [
                     "North America"
+                ],
+                "CARDINAL": [
+                    "three"
                 ],
                 "ORG": [
                     "COVID-19",
@@ -4516,7 +4559,7 @@
                     "Gartner",
                     "Canadian Western Bank",
                     "New Gold",
-                    "Institute of Corporate Directors.</span><p>See <"
+                    "Institute of Corporate Directors"
                 ],
                 "GPE": [
                     "Toronto",
@@ -4548,8 +4591,10 @@
             "pubDate": "Fri, 13 Nov 2020 13:00:18 +0000",
             "title": "Budget planning for 2021",
             "entities": {
+                "DATE": [
+                    "the coming calendar year"
+                ],
                 "PERSON": [
-                    "br><a href=\"https://podcasts.mckinsey.com:443",
                     "Ankur Agrawal",
                     "Christian Grube",
                     "Matthew Maloney",
@@ -4558,25 +4603,21 @@
                     "now,\u201ddiscuss",
                     "Steven M. Sterin"
                 ],
-                "MONEY": [
-                    "62"
-                ],
-                "CARDINAL": [
-                    "13px;\">Budgeting",
-                    "2021",
-                    "two"
-                ],
-                "DATE": [
-                    "the coming calendar year"
-                ],
                 "ORG": [
                     "CFO",
                     "DuPont",
                     "Kosmos Energy",
                     "CFO"
                 ],
+                "CARDINAL": [
+                    "2021",
+                    "two"
+                ],
                 "PRODUCT": [
                     "Fortune 500"
+                ],
+                "NORP": [
+                    "Celanese"
                 ]
             }
         },
@@ -4604,17 +4645,11 @@
             "pubDate": "Tue, 03 Nov 2020 13:00:00 +0000",
             "title": "Building a great digital business",
             "entities": {
-                "PERSON": [
-                    "br><a href=\"https://podcasts.mckinsey.com:443"
-                ],
                 "CARDINAL": [
                     "32:43"
                 ],
-                "MONEY": [
-                    "62"
-                ],
                 "DATE": [
-                    "13px;\">In recent months"
+                    "recent months"
                 ],
                 "ORG": [
                     "digital"
@@ -4646,17 +4681,9 @@
             "title": "Laxman Narasimhan, CEO of Reckitt Benckiser, on corporate purpose during a crisis",
             "entities": {
                 "PERSON": [
-                    "br><a href=\"https://podcasts.mckinsey.com:443",
                     "Celia Huber",
                     "Laxman Narasimhan",
                     "Reckitt Benckiser"
-                ],
-                "MONEY": [
-                    "28:18) &",
-                    "62"
-                ],
-                "CARDINAL": [
-                    "13px;\">Senior"
                 ],
                 "GPE": [
                     "UK",
@@ -4696,16 +4723,11 @@
             "pubDate": "Tue, 13 Oct 2020 12:00:09 +0000",
             "title": "The committed innovator: An interview with Salesforce\u2019s Simon Mulcahy",
             "entities": {
-                "PERSON": [
-                    "br><a href=\"https://podcasts.mckinsey.com:443",
-                    "Simon Mulcahy"
-                ],
                 "CARDINAL": [
-                    "25:54",
-                    "13px;\">In"
+                    "25:54"
                 ],
-                "MONEY": [
-                    "62"
+                "PERSON": [
+                    "Simon Mulcahy"
                 ],
                 "ORG": [
                     "COVID-19"
@@ -4736,22 +4758,17 @@
             "pubDate": "Tue, 29 Sep 2020 13:00:03 +0000",
             "title": "Purpose and the future for capitalism",
             "entities": {
-                "PERSON": [
-                    "br><a href=\"https://podcasts.mckinsey.com:443",
-                    "Yuval Atsmon",
-                    "Anne Case",
-                    "Angus Deaton"
-                ],
                 "CARDINAL": [
                     "30:24",
-                    "13px;\">We",
                     "two"
-                ],
-                "MONEY": [
-                    "62"
                 ],
                 "NORP": [
                     "American"
+                ],
+                "PERSON": [
+                    "Yuval Atsmon",
+                    "Anne Case",
+                    "Angus Deaton"
                 ],
                 "GPE": [
                     "London"
@@ -4790,20 +4807,15 @@
             "pubDate": "Wed, 23 Sep 2020 14:00:00 +0000",
             "title": "The committed innovator: An interview with Kellogg\u2019s Nigel Hughes",
             "entities": {
+                "CARDINAL": [
+                    "30:15"
+                ],
                 "PERSON": [
-                    "br><a href=\"https://podcasts.mckinsey.com:443",
+                    "Nigel Hughes",
                     "Erik Roth",
                     "McKinsey"
                 ],
-                "CARDINAL": [
-                    "30:15",
-                    "13px;\">Nigel"
-                ],
-                "MONEY": [
-                    "62"
-                ],
                 "ORG": [
-                    "Hughes",
                     "Kellogg Company",
                     "Stacey Haas",
                     "McKinsey\u2019s",
@@ -4836,8 +4848,15 @@
             "pubDate": "Wed, 23 Sep 2020 13:00:00 +0000",
             "title": "In conversation: The CEO moment. Episode 2",
             "entities": {
+                "CARDINAL": [
+                    "13:52",
+                    "two"
+                ],
+                "DATE": [
+                    "Today",
+                    "today"
+                ],
                 "PERSON": [
-                    "br><a href=\"https://podcasts.mckinsey.com:443",
                     "Carolyn Dewar",
                     "Excellence",
                     "Monica Murarka",
@@ -4845,17 +4864,6 @@
                     "Kurt Strovink",
                     "McKinsey",
                     "Kurt"
-                ],
-                "CARDINAL": [
-                    "13:52",
-                    "13px;\">Today",
-                    "two"
-                ],
-                "MONEY": [
-                    "62"
-                ],
-                "DATE": [
-                    "today"
                 ],
                 "PRODUCT": [
                     "McKinsey"
@@ -4886,26 +4894,21 @@
             "pubDate": "Mon, 21 Sep 2020 13:00:13 +0000",
             "title": "In conversation: The CEO moment. Episode 1",
             "entities": {
+                "TIME": [
+                    "22:19"
+                ],
+                "ORG": [
+                    "COVID-19"
+                ],
+                "DATE": [
+                    "Quarterly"
+                ],
                 "PERSON": [
-                    "br><a href=\"https://podcasts.mckinsey.com:443",
-                    "COVID-19",
                     "Carolyn Dewar",
                     "Excellence",
                     "Monica Murarka",
                     "Kurt Strovink",
                     "McKinsey"
-                ],
-                "TIME": [
-                    "22:19"
-                ],
-                "MONEY": [
-                    "62"
-                ],
-                "CARDINAL": [
-                    "13px;\">The"
-                ],
-                "DATE": [
-                    "Quarterly"
                 ]
             }
         },
@@ -4933,19 +4936,10 @@
             "pubDate": "Thu, 17 Sep 2020 14:00:39 +0000",
             "title": "Why you need to keep changing your company\u2019s business mix",
             "entities": {
-                "PERSON": [
-                    "br><a href=\"https://podcasts.mckinsey.com:443",
-                    "Andy West",
-                    "Sandra Andersen"
-                ],
                 "CARDINAL": [
-                    "24:15",
-                    "13px;\">One",
+                    "One",
                     "two",
                     "more than 1,000"
-                ],
-                "MONEY": [
-                    "62"
                 ],
                 "NORP": [
                     "European"
@@ -4955,6 +4949,10 @@
                 ],
                 "DATE": [
                     "earlier this year"
+                ],
+                "PERSON": [
+                    "Andy West",
+                    "Sandra Andersen"
                 ]
             }
         }

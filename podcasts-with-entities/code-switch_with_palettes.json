@@ -117,9 +117,6 @@
                 "ORG": [
                     "IRS",
                     "IRS"
-                ],
-                "PERSON": [
-                    "audited</em"
                 ]
             }
         },
@@ -609,11 +606,10 @@
             "title": "Revisiting 'How The Other Half Eats'",
             "entities": {
                 "PERSON": [
-                    "really</em",
                     "Priya Fielding-Singh"
                 ],
-                "PRODUCT": [
-                    "the Other Half Eats.</em"
+                "WORK_OF_ART": [
+                    ", How the Other Half Eats"
                 ]
             }
         },
@@ -645,7 +641,7 @@
                     "East Los Angeles"
                 ],
                 "ORG": [
-                    "NPR"
+                    "NPR's Alt"
                 ],
                 "PERSON": [
                     "Jasmine Garsd",
@@ -688,6 +684,9 @@
                 ],
                 "CARDINAL": [
                     "5"
+                ],
+                "PRODUCT": [
+                    "Before Me"
                 ],
                 "DATE": [
                     "years ago"
@@ -849,20 +848,21 @@
             "pubDate": "Wed, 16 Nov 2022 05:10:16 +0000",
             "title": "Live from Chicago: What makes a city home?",
             "entities": {
-                "PERSON": [
-                    "Code Switch",
-                    "Jos\u00e9 Olivarez",
-                    "Sultan Salahuddin",
-                    "Adriana Cardona-Maguidad"
-                ],
-                "ORG": [
-                    "the Studebaker Theater",
-                    "KAINA"
+                "FAC": [
+                    "the Studebaker Theater"
                 ],
                 "GPE": [
                     "Chicago",
                     "Diallo Riddle",
                     "Chicago"
+                ],
+                "PERSON": [
+                    "Jos\u00e9 Olivarez",
+                    "Sultan Salahuddin",
+                    "Adriana Cardona-Maguidad"
+                ],
+                "ORG": [
+                    "KAINA"
                 ]
             }
         },
@@ -928,9 +928,11 @@
             "title": "Code Switch fam! Say hello to It's Been a Minute's new host, Brittany Luse!",
             "entities": {
                 "PERSON": [
+                    "Code Switch's",
                     "B.A. Parker",
+                    "Brittany Luse",
                     "Brittany",
-                    "Brittany Luse"
+                    "Instagram @NPRCodeSwitch"
                 ],
                 "ORDINAL": [
                     "first"
@@ -1258,9 +1260,6 @@
                 "FAC": [
                     "Baynard Woods'"
                 ],
-                "ORG": [
-                    "Woods"
-                ],
                 "GPE": [
                     "South Carolina",
                     "U.S."
@@ -1294,6 +1293,7 @@
                     "two"
                 ],
                 "PERSON": [
+                    "Code Switch",
                     "Aparna Nancherla",
                     "Brian Bahe",
                     "Maz Jobrani"
@@ -1330,7 +1330,7 @@
                     "two"
                 ],
                 "PERSON": [
-                    "Code Switch</em",
+                    "Code Switch",
                     "Ziwe",
                     "Anjelah Johnson-Reyes",
                     "Joel Kim Booster"
@@ -1661,7 +1661,7 @@
                     "a year earlier"
                 ],
                 "ORG": [
-                    "Specialized High School Admissions"
+                    "Specialized High School Admissions Test"
                 ]
             }
         },
@@ -3082,8 +3082,8 @@
                 "PERSON": [
                     "Priya Fielding-Singh"
                 ],
-                "PRODUCT": [
-                    "the Other Half Eats.</em"
+                "WORK_OF_ART": [
+                    ", How the Other Half Eats"
                 ]
             }
         },
@@ -3756,6 +3756,7 @@
                     "Ashley Ford's"
                 ],
                 "ORG": [
+                    "Somebody's Daughter",
                     "Ford"
                 ]
             }
@@ -3858,6 +3859,9 @@
                 ],
                 "ORDINAL": [
                     "First"
+                ],
+                "ORG": [
+                    "Libertie"
                 ]
             }
         },
@@ -4232,6 +4236,7 @@
             "title": "Live From Philly*: A Code Switch Jawn",
             "entities": {
                 "GPE": [
+                    "Philly",
                     "Philadelphia"
                 ],
                 "PERSON": [
@@ -4371,9 +4376,10 @@
                 "ORG": [
                     "COVID-19"
                 ],
+                "LOC": [
+                    "Atlantic"
+                ],
                 "PERSON": [
-                    "Atlantic</em",
-                    "WNYC",
                     "Rosary Castro-Olega"
                 ]
             }
@@ -4436,11 +4442,8 @@
             "title": "Lonnie Bunch And The 'Museum Of No'",
             "entities": {
                 "ORG": [
-                    "National Museum of African American History",
+                    "the National Museum of African American History and Culture",
                     "Smithsonian Institution"
-                ],
-                "PERSON": [
-                    "Culture</em"
                 ],
                 "DATE": [
                     "years",
@@ -5110,12 +5113,11 @@
                     "2016",
                     "week"
                 ],
-                "PERSON": [
-                    "race</em",
-                    "Donald Trump"
-                ],
                 "PRODUCT": [
                     "Latinx"
+                ],
+                "PERSON": [
+                    "Donald Trump"
                 ]
             }
         },
@@ -5356,7 +5358,7 @@
                 "PERSON": [
                     "Sidney Madden",
                     "Rodney Carmichael",
-                    "Louder Than a Riot.</em></a"
+                    "Louder Than a Riot"
                 ]
             }
         },
@@ -5628,8 +5630,10 @@
             "title": "The United States' Pre-Existing Conditions",
             "entities": {
                 "PERSON": [
-                    "Ed Yong",
-                    "Atlantic</em"
+                    "Ed Yong"
+                ],
+                "LOC": [
+                    "Atlantic"
                 ]
             }
         },
@@ -5716,8 +5720,10 @@
                     "this week",
                     "the days"
                 ],
+                "LOC": [
+                    "Atlantic"
+                ],
                 "PERSON": [
-                    "Atlantic</em",
                     "Vann R. Newkirk II"
                 ],
                 "GPE": [
@@ -5907,11 +5913,7 @@
             "link": "https://www.npr.org/2020/06/12/876212065/an-immune-system",
             "pubDate": "Wed, 08 Jul 2020 04:06:00 +0000",
             "title": "An Immune System",
-            "entities": {
-                "PERSON": [
-                    "technically</em"
-                ]
-            }
+            "entities": {}
         },
         {
             "content": "Every family has a myth about who they are and where they came from. And there are a lot of reasons people tell these stories. Sometimes it's to make your family seem like they were part of an important historical event. Other times, it's to hide something that is too painful to talk about. That last point can be especially true for African American families.",
@@ -5995,6 +5997,9 @@
             "pubDate": "Wed, 24 Jun 2020 04:08:11 +0000",
             "title": "Author Karla Cornejo Villavicencio Talks 'The Undocumented Americans'",
             "entities": {
+                "WORK_OF_ART": [
+                    "The Undocumented Americans"
+                ],
                 "PERSON": [
                     "Karla Cornejo Villavicencio"
                 ]
@@ -6575,9 +6580,6 @@
                 ],
                 "ORG": [
                     "McMillan"
-                ],
-                "GPE": [
-                    "Here</em"
                 ]
             }
         },
@@ -6606,6 +6608,9 @@
                 "DATE": [
                     "this week"
                 ],
+                "ORG": [
+                    "Latino USA"
+                ],
                 "PERSON": [
                     "Flor de Toloache"
                 ]
@@ -6633,9 +6638,6 @@
             "pubDate": "Wed, 11 Mar 2020 04:18:19 +0000",
             "title": "The Limits Of Empathy",
             "entities": {
-                "GPE": [
-                    "after</em"
-                ],
                 "ORG": [
                     "Radio Diaries"
                 ]
@@ -7507,9 +7509,6 @@
                 ],
                 "ORG": [
                     "GOP"
-                ],
-                "PERSON": [
-                    "all</em"
                 ]
             }
         },
@@ -8027,10 +8026,10 @@
             "title": "Salt Fat Acid Race",
             "entities": {
                 "GPE": [
-                    "Samin Nosrat"
+                    "Samin Nosrat",
+                    "Netflix"
                 ],
                 "ORG": [
-                    "Netflix",
                     "Acid, Heat"
                 ],
                 "NORP": [
@@ -9093,10 +9092,6 @@
                 ],
                 "CARDINAL": [
                     "two"
-                ],
-                "PERSON": [
-                    "other</em",
-                    "ideals</em"
                 ],
                 "NORP": [
                     "American"
@@ -10746,6 +10741,7 @@
                     "Natalie Y. Moore",
                     "Code Switch's",
                     "Hari Kondabolu",
+                    "Electric Arches",
                     "Moore"
                 ],
                 "GPE": [
@@ -11586,17 +11582,19 @@
                     "56 years",
                     "the last 12 years"
                 ],
+                "LOC": [
+                    "Atlantic"
+                ],
+                "WORK_OF_ART": [
+                    "My Family's Slave"
+                ],
                 "PERSON": [
-                    "Atlantic</em",
                     "Alex Tizon",
                     "Eudocia Tomas Pulido",
                     "Eudocia",
                     "Vicente Rafael",
                     "Melissa Tizon",
                     "Eudocia Tomas Pulido"
-                ],
-                "WORK_OF_ART": [
-                    "My Family's Slave"
                 ],
                 "GPE": [
                     "U.S.",
@@ -11845,7 +11843,6 @@
                     "Audie Cornish",
                     "John Leguizamo",
                     "Audie",
-                    "Latin History",
                     "Latino"
                 ],
                 "ORG": [
@@ -11860,6 +11857,9 @@
                 ],
                 "CARDINAL": [
                     "one"
+                ],
+                "NORP": [
+                    "Latin"
                 ]
             }
         },
@@ -12047,8 +12047,7 @@
                     "Jeanette Vizguerra",
                     "Jeanette Vizguerra",
                     "Adri\u00e1n Florido",
-                    "su experiencia viviendo",
-                    "de deportaci\u00f3n.</em"
+                    "su experiencia viviendo"
                 ],
                 "NORP": [
                     "Adrian"
@@ -12203,8 +12202,7 @@
             "entities": {
                 "PERSON": [
                     "Shereen",
-                    "Code Switch",
-                    "sound</em"
+                    "Code Switch"
                 ],
                 "CARDINAL": [
                     "two"
@@ -13979,8 +13977,7 @@
     "entities": {
         "PERSON": [
             "Code Switch",
-            "Code Switch",
-            "codeswitch</em"
+            "Code Switch"
         ],
         "ORG": [
             "Apple Podcasts'"
@@ -13990,9 +13987,6 @@
         ],
         "WORK_OF_ART": [
             "Show of the Year"
-        ],
-        "CARDINAL": [
-            "2020.<br><br><em"
         ]
     }
 }

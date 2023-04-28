@@ -75,16 +75,18 @@
             "pubDate": "Thu, 24 Mar 2022 18:22:44 +0000",
             "title": "Introducing: Hell and Gone Season 4",
             "entities": {
+                "NORP": [
+                    "Missionary"
+                ],
                 "PERSON": [
                     "Catherine Townsend",
                     "Ebby Steppach",
-                    "Gone:</em></strong",
                     "Ebby Steppach",
                     "Ebby",
                     "Ebby",
                     "Ebby",
-                    "Ebby Steppach?</p><p><strong><em",
-                    "Gone</em></strong><a href=\"https://www.iheart.com"
+                    "Ebby Steppach",
+                    "Learn"
                 ],
                 "CARDINAL": [
                     "4"
@@ -133,6 +135,9 @@
             "entities": {
                 "PERSON": [
                     "Renee"
+                ],
+                "PRODUCT": [
+                    "Learn"
                 ]
             }
         },
@@ -165,6 +170,9 @@
                 ],
                 "LOC": [
                     "Jinja"
+                ],
+                "PRODUCT": [
+                    "Learn"
                 ]
             }
         },
@@ -197,6 +205,9 @@
                 ],
                 "ORG": [
                     "Ugandan"
+                ],
+                "PRODUCT": [
+                    "Learn"
                 ]
             }
         },
@@ -233,6 +244,9 @@
                 "PERSON": [
                     "Barbie Savior",
                     "Renee Bach"
+                ],
+                "PRODUCT": [
+                    "Learn"
                 ]
             }
         },
@@ -265,6 +279,9 @@
                 ],
                 "PERSON": [
                     "Patricia"
+                ],
+                "PRODUCT": [
+                    "Learn"
                 ]
             }
         },
@@ -339,6 +356,9 @@
                 ],
                 "DATE": [
                     "27-year-old"
+                ],
+                "PRODUCT": [
+                    "Learn"
                 ]
             }
         },
@@ -379,6 +399,9 @@
                 ],
                 "CARDINAL": [
                     "more than 100"
+                ],
+                "PRODUCT": [
+                    "Learn"
                 ]
             }
         },
@@ -422,6 +445,9 @@
                 ],
                 "CARDINAL": [
                     "hundreds"
+                ],
+                "PRODUCT": [
+                    "Learn"
                 ]
             }
         }

@@ -31,18 +31,6 @@
             "pubDate": "Thu, 27 Apr 2023 07:10:00 -0000",
             "title": "HIBT Lab! Hevesh5: Lily Hevesh",
             "entities": {
-                "PERSON": [
-                    "Lily Hevesh",
-                    "Hevesh5",
-                    "Lily",
-                    "Lily",
-                    "Sam Paulson",
-                    "John Isabella",
-                    "Sam Paulson",
-                    "Ramtin Arablouei",
-                    "Neal Rauch.</p><p><br></p><p",
-                    "HIBT"
-                ],
                 "DATE": [
                     "10 years old",
                     "today",
@@ -50,7 +38,19 @@
                 ],
                 "ORG": [
                     "Lily\u2019s YouTube",
-                    "Lily"
+                    "Lily",
+                    "Twitter & Instagram"
+                ],
+                "PERSON": [
+                    "Hevesh5",
+                    "Lily",
+                    "Lily",
+                    "Sam Paulson",
+                    "John Isabella",
+                    "Sam Paulson",
+                    "Ramtin Arablouei",
+                    "Neal Rauch",
+                    "HIBT"
                 ],
                 "CARDINAL": [
                     "almost 4 million"
@@ -86,14 +86,9 @@
             "pubDate": "Mon, 24 Apr 2023 07:10:00 -0000",
             "title": "Manduka: Peter Sterios",
             "entities": {
-                "PERSON": [
+                "ORG": [
                     "Peter Sterios",
-                    "Peter",
-                    "Peter",
-                    "Manduka",
-                    "Alex Cheng",
-                    "Ramtin",
-                    "Neva Grant"
+                    "IRL"
                 ],
                 "MONEY": [
                     "multimillion-dollar",
@@ -107,12 +102,15 @@
                     "the late 1990",
                     "the years"
                 ],
-                "ORG": [
-                    "IRL",
-                    "mat.&nbsp;Despite",
-                    "Katherine",
-                    "HIBT",
-                    "href=\"https://twitter.com"
+                "PERSON": [
+                    "Peter",
+                    "Peter",
+                    "Manduka",
+                    "Alex Cheng",
+                    "Ramtin ArabloueiEdited",
+                    "Neva Grant",
+                    "Katherine Sypher",
+                    "HIBT"
                 ]
             }
         },
@@ -148,7 +146,7 @@
                     "Chris Maccini",
                     "John Isabella",
                     "Ramtin Arablouei",
-                    "Maggie",
+                    "Maggie Luthar",
                     "HIBT"
                 ],
                 "ORG": [
@@ -156,7 +154,8 @@
                     "Blue Origin",
                     "Ursa Major",
                     "Ursa Major",
-                    "Ursa Major\u2019s"
+                    "Ursa Major\u2019s",
+                    "Twitter & Instagram"
                 ],
                 "DATE": [
                     "2015",
@@ -214,12 +213,13 @@
                 "PERSON": [
                     "Halo Top",
                     "Justin Woolverton",
-                    "Jerry",
+                    "H\u00e4agen-Dazs",
                     "Halo Top\u2019s",
                     "Kerry Thompson",
-                    "Ramtin",
+                    "Ramtin ArabloueiEdited",
                     "Neva Grant",
-                    "Alex Cheng.</p><p><br></p><p"
+                    "Alex Cheng",
+                    "HIBT"
                 ],
                 "GPE": [
                     "America",
@@ -236,14 +236,11 @@
                 "ORG": [
                     "Stevia",
                     "Justin",
-                    "H\u00e4agen-Dazs",
-                    "Ben &",
-                    "Justin",
-                    "HIBT",
-                    "href=\"https://twitter.com"
+                    "Ben & Jerry\u2019s",
+                    "Justin"
                 ],
                 "QUANTITY": [
-                    "300-calorie pints.&nbsp;After"
+                    "300-calorie"
                 ]
             }
         },
@@ -279,7 +276,7 @@
                     "Carla Esteves",
                     "John Isabella",
                     "Ramtin Arablouei",
-                    "Neal",
+                    "Neal Rauch",
                     "HIBT"
                 ],
                 "EVENT": [
@@ -295,6 +292,9 @@
                 "GPE": [
                     "LinkedIn",
                     "California"
+                ],
+                "ORG": [
+                    "Twitter & Instagram"
                 ]
             }
         },
@@ -325,9 +325,10 @@
                     "Ellen Latham",
                     "Ellen",
                     "Alex Cheng",
-                    "Ramtin",
+                    "Ramtin ArabloueiEdited",
                     "Neva Grant",
-                    "Sam Paulson.</p><p><br></p><p"
+                    "Sam Paulson",
+                    "HIBT"
                 ],
                 "GPE": [
                     "Florida",
@@ -344,9 +345,7 @@
                     "two"
                 ],
                 "ORG": [
-                    "Orangetheory Fitness",
-                    "HIBT",
-                    "href=\"https://twitter.com"
+                    "Orangetheory Fitness"
                 ]
             }
         },
@@ -383,7 +382,8 @@
                 ],
                 "ORG": [
                     "Nas Daily",
-                    "Nas Company"
+                    "Nas Company",
+                    "Twitter & Instagram"
                 ],
                 "MONEY": [
                     "$23 million"
@@ -396,7 +396,7 @@
                     "John Isabella",
                     "Sam Paulson",
                     "Ramtin Arablouei",
-                    "Neal",
+                    "Neal Rauch",
                     "HIBT"
                 ],
                 "GPE": [
@@ -432,9 +432,10 @@
                     "Lawson",
                     "Uber",
                     "Kira Wakeam",
-                    "Ramtin",
+                    "Ramtin ArabloueiEdited",
                     "Neva Grant",
-                    "Sam Paulson.</p><p><br></p><p"
+                    "Sam Paulson",
+                    "HIBT"
                 ],
                 "ORG": [
                     "Twilio",
@@ -442,8 +443,7 @@
                     "Twilio",
                     "Nike",
                     "Toyota",
-                    "HIBT",
-                    "href=\"https://twitter.com"
+                    "Airbnb"
                 ],
                 "DATE": [
                     "2008"
@@ -486,10 +486,12 @@
             "entities": {
                 "DATE": [
                     "2022",
+                    "2050",
                     "This week"
                 ],
                 "ORG": [
-                    "the Intergovernmental Panel on Climate Change (IPCC"
+                    "the Intergovernmental Panel on Climate Change (IPCC",
+                    "Twitter & Instagram"
                 ],
                 "QUANTITY": [
                     "6 to 10 billion tons"
@@ -500,9 +502,9 @@
                     "Jan",
                     "Jan",
                     "Chris Maccini",
-                    "Ramtin",
-                    "John Isabella.</p><p>",
-                    "Maggie",
+                    "Ramtin Arablouei",
+                    "John Isabella",
+                    "Maggie Luthar",
                     "HIBT"
                 ],
                 "GPE": [
@@ -540,9 +542,11 @@
                     "Tom",
                     "Tom",
                     "Casey Herman",
-                    "Ramtin",
+                    "Ramtin ArabloueiEdited",
                     "Neva Grant",
-                    "Katherine Sypher"
+                    "Katherine Sypher",
+                    "Susannah Broun",
+                    "HIBT"
                 ],
                 "DATE": [
                     "2009",
@@ -564,9 +568,7 @@
                     "Yo",
                     "Taco Bell",
                     "Taco Bell",
-                    "Target",
-                    "HIBT",
-                    "href=\"https://twitter.com"
+                    "Target"
                 ],
                 "MONEY": [
                     "$400 million"
@@ -575,7 +577,6 @@
                     "1,800"
                 ],
                 "GPE": [
-                    "Susannah",
                     "California"
                 ]
             }
@@ -617,7 +618,7 @@
                     "Carla Esteves",
                     "John Isabella",
                     "Ramtin Arablouei",
-                    "Neal",
+                    "Neal Rauch",
                     "HIBT"
                 ],
                 "DATE": [
@@ -629,6 +630,9 @@
                 ],
                 "MONEY": [
                     "$100 million"
+                ],
+                "ORG": [
+                    "Twitter & Instagram"
                 ],
                 "GPE": [
                     "California"
@@ -667,8 +671,9 @@
                     "Amanda Hesser's",
                     "Food52",
                     "Rachel Faulkner",
-                    "Ramtin",
-                    "Neva Grant"
+                    "Ramtin ArabloueiEdited",
+                    "Neva Grant",
+                    "HIBT"
                 ],
                 "ORDINAL": [
                     "first",
@@ -686,12 +691,10 @@
                 ],
                 "ORG": [
                     "the New York Times",
-                    "HIBT",
-                    "href=\"https://twitter.com"
+                    "Daryth Gayles"
                 ],
                 "GPE": [
                     "Amanda",
-                    "Daryth",
                     "California"
                 ],
                 "MONEY": [
@@ -722,23 +725,6 @@
             "pubDate": "Thu, 16 Mar 2023 07:10:00 -0000",
             "title": "HIBT Lab! Saysh: Wes and Allyson Felix",
             "entities": {
-                "PERSON": [
-                    "Allyson Felix",
-                    "Allyson",
-                    "Allyson",
-                    "Wes",
-                    "Allyson",
-                    "Wes",
-                    "Guy",
-                    "Allyson",
-                    "Saysh",
-                    "Chris Maccini",
-                    "Ramtin",
-                    "John Isabella",
-                    "Lauren Landau",
-                    "Alex Drewenskus.</p><p><br></p><p",
-                    "HIBT"
-                ],
                 "NORP": [
                     "American"
                 ],
@@ -751,14 +737,33 @@
                 ],
                 "ORG": [
                     "Nike",
-                    "Nike"
+                    "Nike",
+                    "Nike",
+                    "Twitter & Instagram"
+                ],
+                "PERSON": [
+                    "Allyson",
+                    "Allyson",
+                    "Wes",
+                    "Allyson",
+                    "Wes",
+                    "Guy",
+                    "Allyson",
+                    "Saysh",
+                    "Chris Maccini",
+                    "Ramtin Arablouei",
+                    "John Isabella",
+                    "Lauren Landau Einhorn",
+                    "Alex Drewenskus",
+                    "HIBT"
+                ],
+                "GPE": [
+                    "Saysh",
+                    "Tokyo",
+                    "California"
                 ],
                 "EVENT": [
                     "the 2020 Olympics"
-                ],
-                "GPE": [
-                    "Tokyo",
-                    "California"
                 ]
             }
         },
@@ -794,15 +799,13 @@
                     "Christopher McDougall",
                     "Steven",
                     "Lena",
+                    "Steven",
                     "Lena",
                     "Xero"
                 ],
                 "CARDINAL": [
                     "5",
                     "one"
-                ],
-                "PRODUCT": [
-                    "world.&nbsp;After"
                 ],
                 "GPE": [
                     "China",
@@ -849,20 +852,19 @@
                     "Guy",
                     "Sam Paulson",
                     "Sam Paulson",
-                    "Ramtin",
+                    "Ramtin Arablouei",
                     "John Isabella",
-                    "Lauren Landau",
-                    "Neal Rauch.</p><p><br></p><p"
+                    "Lauren Landau Einhorn",
+                    "Neal Rauch",
+                    "HIBT"
                 ],
                 "ORG": [
                     "Lucie",
-                    "Lucie",
-                    "HIBT",
-                    "href=\"https://twitter.com"
+                    "Lucie"
                 ],
                 "DATE": [
                     "2016",
-                    "This week"
+                    "the U.S.This week"
                 ],
                 "MONEY": [
                     "over $30 million dollars"
@@ -918,15 +920,15 @@
                 "CARDINAL": [
                     "22"
                 ],
-                "GPE": [
-                    "New York Magazine</em",
-                    "California"
+                "ORG": [
+                    "New York Magazine",
+                    "MK"
                 ],
                 "MONEY": [
                     "thousand-dollar"
                 ],
-                "ORG": [
-                    "MK"
+                "GPE": [
+                    "California"
                 ]
             }
         },
@@ -976,9 +978,6 @@
                     "Lorenzo",
                     "Guy"
                 ],
-                "WORK_OF_ART": [
-                    "Black men.</p><p"
-                ],
                 "DATE": [
                     "This week"
                 ],
@@ -1012,15 +1011,15 @@
             "entities": {
                 "PERSON": [
                     "Jim VandeHei",
-                    "Oshkosh",
                     "Jim",
-                    "n\u2019t own.&nbsp;So",
                     "Axel Springer"
                 ],
                 "ORG": [
+                    "Politico",
                     "Little Caesar\u2019s",
                     "Roll Call",
                     "The Wall Street Journal",
+                    "The Washington Post",
                     "Post",
                     "Politico",
                     "Axios",
@@ -1028,9 +1027,10 @@
                     "Politico"
                 ],
                 "GPE": [
+                    "Oshkosh",
+                    "Wisconsin",
                     "Washington",
                     "D.C.",
-                    "Washington",
                     "Washington",
                     "California"
                 ],
@@ -1042,7 +1042,7 @@
                 ],
                 "MONEY": [
                     "over $500 million",
-                    "1"
+                    "$1 billion"
                 ]
             }
         },
@@ -1124,6 +1124,7 @@
                 "PERSON": [
                     "Mike Pfotenhauer",
                     "Mike",
+                    "Mike",
                     "Navajo",
                     "Mike",
                     "Osprey"
@@ -1145,8 +1146,8 @@
                 "LOC": [
                     "South East Asia"
                 ],
-                "CARDINAL": [
-                    "over 400 million"
+                "MONEY": [
+                    "over 400 million dollars"
                 ]
             }
         },
@@ -1224,28 +1225,31 @@
             "entities": {
                 "PERSON": [
                     "Bill Simmons",
-                    "em>30",
-                    "Grantland</em",
                     "Bill"
                 ],
                 "DATE": [
                     "14 tumultuous years",
+                    "30",
                     "Today"
                 ],
                 "ORG": [
                     "ESPN"
                 ],
                 "CARDINAL": [
-                    "30</em",
+                    "30",
                     "50",
                     "one"
                 ],
-                "PRODUCT": [
-                    "Ringer"
+                "FAC": [
+                    "The B.S. Report"
                 ],
                 "GPE": [
+                    "Grantland",
                     "America",
                     "California"
+                ],
+                "PRODUCT": [
+                    "Ringer"
                 ]
             }
         },
@@ -1273,7 +1277,6 @@
             "title": "HIBT Lab! Biobot Analytics: Mariana Matus and Newsha Ghaeli",
             "entities": {
                 "PERSON": [
-                    "Biobot Analytics",
                     "Mariana Matus",
                     "Newsha Ghaeli",
                     "Mariana",
@@ -1332,6 +1335,7 @@
                     "Tom Campion",
                     "Tom",
                     "Gary Haakenson",
+                    "Tom",
                     "Zumiez"
                 ],
                 "ORDINAL": [
@@ -1398,7 +1402,8 @@
                 "ORG": [
                     "Sioux Chef",
                     "Owamni",
-                    "the James Beard Award"
+                    "the James Beard Award",
+                    "Best New Restaurant"
                 ]
             }
         },
@@ -1440,7 +1445,7 @@
                 ],
                 "CARDINAL": [
                     "one",
-                    "a million"
+                    "million"
                 ],
                 "ORDINAL": [
                     "first"
@@ -1448,7 +1453,7 @@
                 "DATE": [
                     "several years",
                     "2016",
-                    "sticks.&nbsp;Today"
+                    "Today"
                 ],
                 "MONEY": [
                     "more than $100 million"
@@ -1490,6 +1495,7 @@
                 ],
                 "DATE": [
                     "Each week",
+                    "later this year",
                     "This week"
                 ],
                 "QUANTITY": [
@@ -1501,6 +1507,9 @@
                     "Nick\u2019s",
                     "DTC",
                     "Harvard Business School"
+                ],
+                "PRODUCT": [
+                    "Knife Drop"
                 ],
                 "GPE": [
                     "California"
@@ -1626,7 +1635,8 @@
                 "PERSON": [
                     "Hank",
                     "John Green",
-                    "John"
+                    "John",
+                    "Hank"
                 ],
                 "QUANTITY": [
                     "thousands of miles"
@@ -1637,6 +1647,9 @@
                 ],
                 "NORP": [
                     "Vlogbrothers"
+                ],
+                "WORK_OF_ART": [
+                    "The Fault in Our Stars"
                 ],
                 "GPE": [
                     "California"
@@ -1782,7 +1795,7 @@
                 ],
                 "DATE": [
                     "2014",
-                    "This week",
+                    "\u201dThis week",
                     "today"
                 ],
                 "ORG": [
@@ -1840,6 +1853,7 @@
                     "one"
                 ],
                 "GPE": [
+                    "America",
                     "California"
                 ]
             }
@@ -1920,7 +1934,7 @@
                     "I.R.S. Records",
                     "R.E.M.",
                     "The Go-Go's",
-                    "A&amp;M Records",
+                    "convincing A&M Records",
                     "I.R.S."
                 ],
                 "PERSON": [
@@ -1930,12 +1944,14 @@
                     "Stewart Copeland",
                     "Miles",
                     "Miles",
-                    "Sting"
+                    "Sting",
+                    "Privacy Policy"
                 ],
                 "DATE": [
                     "1980",
                     "early 1970's",
-                    "the mid 1990's"
+                    "the mid 1990's",
+                    "2001"
                 ],
                 "NORP": [
                     "British"
@@ -1977,8 +1993,7 @@
                 ],
                 "CARDINAL": [
                     "6",
-                    "10",
-                    "over 10"
+                    "10"
                 ],
                 "GPE": [
                     "U.S.",
@@ -1990,14 +2005,15 @@
                 "MONEY": [
                     "$1 billion"
                 ],
+                "DATE": [
+                    "over 10 years",
+                    "This week"
+                ],
                 "PERSON": [
                     "Noam Solomon",
                     "Guy",
                     "Noam",
                     "Noam"
-                ],
-                "DATE": [
-                    "This week"
                 ]
             }
         },
@@ -2031,11 +2047,13 @@
                 ],
                 "DATE": [
                     "the early 2000s",
-                    "Sephora.&nbsp;Today"
+                    "Today"
                 ],
                 "PERSON": [
                     "Rea Ann Silva",
-                    "Rea Ann"
+                    "Rea Ann",
+                    "Sephora",
+                    "Privacy Policy"
                 ],
                 "NORP": [
                     "Rea Ann"
@@ -2047,7 +2065,7 @@
                     "multi-million-dollar"
                 ],
                 "CARDINAL": [
-                    "over 50"
+                    "50"
                 ]
             }
         },
@@ -2076,12 +2094,11 @@
             "entities": {
                 "PERSON": [
                     "Ricky Martin",
-                    "Beatriz Acevedo",
+                    "Acevedo",
                     "Ricky",
                     "Latino",
                     "mit\u00fa",
                     "Guy",
-                    "Latino",
                     "Latino"
                 ],
                 "ORG": [
@@ -2180,13 +2197,11 @@
                 "DATE": [
                     "the 1980s",
                     "\u201890s",
+                    "2014",
                     "This week"
                 ],
                 "PERSON": [
                     "Sara Menker"
-                ],
-                "CARDINAL": [
-                    "2014.&nbsp;</p><p"
                 ]
             }
         },
@@ -2222,6 +2237,7 @@
                 "GPE": [
                     "Chicago",
                     "Hayward",
+                    "Wisconsin",
                     "U.S.",
                     "California"
                 ],
@@ -2433,8 +2449,12 @@
                 "PERSON": [
                     "Anthony Wood",
                     "Anthony",
+                    "TiVo",
                     "Anthony",
                     "Anthony"
+                ],
+                "ORDINAL": [
+                    "First"
                 ],
                 "DATE": [
                     "the early 2000\u2019s",
@@ -2543,16 +2563,18 @@
                 "GPE": [
                     "Turkey",
                     "New York",
+                    "Turkey",
                     "Chobani",
                     "U.S",
                     "California"
                 ],
                 "PERSON": [
-                    "Hamdi Ulukaya"
+                    "Hamdi Ulukaya",
+                    "Privacy Policy"
                 ],
                 "DATE": [
-                    "up.&nbsp;In 2005",
-                    "up.&nbsp;A few years later",
+                    "2005",
+                    "A few years later",
                     "today"
                 ],
                 "ORG": [
@@ -2593,11 +2615,11 @@
             "entities": {
                 "ORG": [
                     "Israeli Air Force",
+                    "Shimon",
                     "Shimon"
                 ],
                 "PERSON": [
                     "Shimon Elkabetz",
-                    "Shimon",
                     "Guy"
                 ],
                 "DATE": [
@@ -2700,7 +2722,8 @@
                 "PERSON": [
                     "Marques Brownlee",
                     "Kobe Bryant",
-                    "Bill Gates"
+                    "Bill Gates",
+                    "Elon Musk"
                 ],
                 "ORDINAL": [
                     "100th",
@@ -2718,9 +2741,6 @@
                 "CARDINAL": [
                     "more than 16 million",
                     "3 billion"
-                ],
-                "PRODUCT": [
-                    "Elon Musk.&nbsp;</p><p"
                 ],
                 "GPE": [
                     "California"
@@ -2810,11 +2830,11 @@
                 "DATE": [
                     "one day",
                     "2013",
-                    "just three years",
-                    "This week"
+                    "just three years later",
+                    "This week",
+                    "every year"
                 ],
                 "PERSON": [
-                    "Kyle Vogt",
                     "Twitch",
                     "Kyle",
                     "Kyle",
@@ -2917,7 +2937,7 @@
                 ],
                 "DATE": [
                     "annually",
-                    "This week"
+                    "hydrogen!This week"
                 ],
                 "PERSON": [
                     "Paul Eremenko",
@@ -3060,14 +3080,14 @@
                 "PERSON": [
                     "Brian Lam",
                     "Brian",
-                    "king.&nbsp;Eventually",
                     "Brian"
                 ],
                 "ORG": [
                     "Gizmodo",
                     "The Wirecutter",
                     "Wirecutter",
-                    "the New York Times"
+                    "the New York Times",
+                    "Wirecutter"
                 ],
                 "TIME": [
                     "a few minutes"
@@ -3166,9 +3186,9 @@
                 "PERSON": [
                     "Mike Salguero",
                     "Mike",
-                    "way.&nbsp;At",
                     "Mike",
-                    "Kickstarter"
+                    "Kickstarter",
+                    "Privacy Policy"
                 ],
                 "ORDINAL": [
                     "first"
@@ -3261,25 +3281,26 @@
                     "Issa Rae",
                     "Awkward Black Girl",
                     "Issa",
-                    "Insecure</em",
                     "Issa",
                     "Rap Sh!t"
                 ],
-                "CARDINAL": [
-                    "20"
-                ],
                 "ORG": [
+                    "CBS",
                     "YouTube",
                     "HBO",
                     "HBO"
                 ],
+                "CARDINAL": [
+                    "20"
+                ],
                 "WORK_OF_ART": [
                     "Mis-Adventures of",
-                    "target=\"_blank\">The Great Creators</a>&nbsp;launching"
+                    "The Great Creators"
                 ],
                 "DATE": [
                     "five-season",
-                    "Today"
+                    "Today",
+                    "September 20thSee"
                 ],
                 "ORDINAL": [
                     "first"
@@ -3315,7 +3336,8 @@
             "entities": {
                 "DATE": [
                     "a long day",
-                    "This week"
+                    "This week",
+                    "last year"
                 ],
                 "TIME": [
                     "About an hour later"
@@ -3362,21 +3384,23 @@
                 "PERSON": [
                     "David Heath",
                     "Randy Goldberg",
-                    "together.&nbsp;Randy",
+                    "Randy",
                     "David",
                     "David"
+                ],
+                "DATE": [
+                    "their\u00a020s",
+                    "2011",
+                    "about ten years",
+                    "September"
                 ],
                 "GPE": [
                     "n\u2019t",
                     "California"
                 ],
-                "DATE": [
-                    "2011",
-                    "about ten years",
-                    "September 20th</p><p"
-                ],
                 "ORG": [
-                    "Bombas"
+                    "Bombas",
+                    "The Great Creators"
                 ],
                 "CARDINAL": [
                     "one",
@@ -3384,9 +3408,6 @@
                 ],
                 "QUANTITY": [
                     "a quarter of a billion dollar"
-                ],
-                "WORK_OF_ART": [
-                    "target=\"_blank\">The Great"
                 ]
             }
         },
@@ -3416,7 +3437,6 @@
                 "PERSON": [
                     "Cody Friesen",
                     "Cody",
-                    "target=\"_blank\">SOURCE</a",
                     "Cody",
                     "Guy"
                 ],
@@ -3933,8 +3953,7 @@
             "title": "HIBT Lab! Universal Standard: Polina Veksler",
             "entities": {
                 "DATE": [
-                    "2014",
-                    "This week"
+                    "2014"
                 ],
                 "ORG": [
                     "Polina Veksler",
@@ -4002,11 +4021,11 @@
                 ],
                 "MONEY": [
                     "only $5,000",
-                    "as high as $10"
+                    "as high as $10 billion"
                 ],
                 "DATE": [
                     "Today",
-                    "2007.&nbsp;Several&nbsp;pivots later",
+                    "2007",
                     "this year"
                 ],
                 "ORG": [
@@ -4130,6 +4149,9 @@
                 ],
                 "ORDINAL": [
                     "first"
+                ],
+                "WORK_OF_ART": [
+                    "up).See Privacy Policy"
                 ]
             }
         },
@@ -4173,6 +4195,7 @@
                 ],
                 "DATE": [
                     "the years",
+                    "1980",
                     "This week"
                 ],
                 "ORDINAL": [
@@ -4210,7 +4233,7 @@
                     "nearly 50 years",
                     "1982",
                     "1990",
-                    "Japan.&nbsp;Today",
+                    "Today",
                     "the years"
                 ],
                 "PERSON": [
@@ -4218,7 +4241,8 @@
                     "Covid",
                     "Charlie",
                     "Tumi",
-                    "Charlie"
+                    "Charlie",
+                    "Roam"
                 ],
                 "CARDINAL": [
                     "two",
@@ -4233,6 +4257,7 @@
                 ],
                 "GPE": [
                     "Peru",
+                    "Japan",
                     "California"
                 ],
                 "LOC": [
@@ -4322,7 +4347,7 @@
                     "Twitch",
                     "Emmett",
                     "Justin Kan",
-                    "kids.&nbsp;Emmett",
+                    "Emmett",
                     "Twitch",
                     "Twitch",
                     "Emmett",
@@ -4338,7 +4363,7 @@
                     "31 million"
                 ],
                 "ORG": [
-                    "emoji.&nbsp;As",
+                    "emoji",
                     "Amazon"
                 ],
                 "MONEY": [
@@ -4384,7 +4409,7 @@
                 ],
                 "DATE": [
                     "2014",
-                    "This week",
+                    "\u201dThis week",
                     "today"
                 ],
                 "ORG": [
@@ -4450,6 +4475,9 @@
                 ],
                 "PERSON": [
                     "Tim Ferriss"
+                ],
+                "DATE": [
+                    "2017"
                 ]
             }
         },
@@ -4572,6 +4600,7 @@
             "entities": {
                 "DATE": [
                     "2022",
+                    "2050",
                     "This week"
                 ],
                 "ORG": [
@@ -4619,18 +4648,18 @@
                     "Jimmy Fallon",
                     "Jimmy",
                     "Richard Pryor",
-                    "Steve Martin,&nbsp;with",
+                    "Steve Martin",
                     "Elvis"
                 ],
-                "TIME": [
-                    "Tonight"
+                "WORK_OF_ART": [
+                    "The Tonight Show",
+                    "Saturday Night Live"
                 ],
                 "DATE": [
                     "all-day",
                     "one day",
-                    "Saturday",
                     "6-year",
-                    "television.&nbsp;Today",
+                    "Today",
                     "Christmas"
                 ],
                 "GPE": [
@@ -4666,7 +4695,7 @@
                     "DIY",
                     "YouTube",
                     "YouTube",
-                    "DIY"
+                    "DIY: https://www.youtube.com/c/TheSorryGirls/featured\u00a0See Privacy Policy"
                 ],
                 "PERSON": [
                     "Becky Wright",
@@ -4715,6 +4744,7 @@
                 "ORG": [
                     "PayPal",
                     "eBay",
+                    "PayPal",
                     "PayPal"
                 ],
                 "DATE": [
@@ -4734,7 +4764,7 @@
                 ],
                 "CARDINAL": [
                     "two",
-                    "1!&nbsp;&nbsp;</p><p"
+                    "1"
                 ],
                 "GPE": [
                     "California"
@@ -4783,8 +4813,7 @@
                     "This week"
                 ],
                 "ORG": [
-                    "the Mark Cuban Cost Plus Drug Company",
-                    "href=\"https://wondery.com"
+                    "the Mark Cuban Cost Plus Drug Company"
                 ],
                 "GPE": [
                     "California"
@@ -4815,6 +4844,7 @@
             "title": "PayPal: Max Levchin (Part 1 of 2) ",
             "entities": {
                 "DATE": [
+                    "its formative years",
                     "the late 1990's",
                     "2002",
                     "next week"
@@ -4827,17 +4857,14 @@
                     "Elon Musk",
                     "Reid Hoffman",
                     "Elon Musk",
-                    "PayPal",
                     "Max",
                     "Max"
                 ],
                 "ORG": [
                     "The PayPal Mafia",
                     "PayPal",
+                    "PayPal",
                     "eBay"
-                ],
-                "PRODUCT": [
-                    "leaders.&nbsp;A"
                 ],
                 "GPE": [
                     "Soviet Ukraine",
@@ -4927,7 +4954,7 @@
                     "age 20",
                     "one day",
                     "2000",
-                    "careers.&nbsp;In 2015"
+                    "2015"
                 ],
                 "PERSON": [
                     "Ryan Schreiber",
@@ -5068,7 +5095,8 @@
                     "Guy",
                     "Andy",
                     "Andy",
-                    "Andy\u2019s"
+                    "Andy\u2019s",
+                    "https://www.npr.org/2019/01/18/686640146/bonobos-andy-dunn"
                 ],
                 "ORG": [
                     "Walmart"
@@ -5121,13 +5149,12 @@
                     "Ratana Stephens",
                     "Arran",
                     "Manna",
-                    "distribution.&nbsp;From",
                     "Ratana"
                 ],
                 "DATE": [
                     "nearly 40 years",
                     "1985",
-                    "cornflake.&nbsp;Today"
+                    "Today"
                 ],
                 "ORDINAL": [
                     "first"
@@ -5219,6 +5246,7 @@
                 ],
                 "DATE": [
                     "26 years",
+                    "2024",
                     "This week"
                 ],
                 "ORG": [
@@ -5230,9 +5258,6 @@
                 "PERCENT": [
                     "only 100%",
                     "100%"
-                ],
-                "CARDINAL": [
-                    "2024.&nbsp;</p><p><br></p><p"
                 ],
                 "GPE": [
                     "California"
@@ -5265,7 +5290,8 @@
                 "PERSON": [
                     "Payal Kadakia",
                     "Payal",
-                    "Guy"
+                    "Guy",
+                    "Privacy Policy"
                 ],
                 "ORDINAL": [
                     "first"
@@ -5314,6 +5340,7 @@
             "entities": {
                 "PERSON": [
                     "Pete Warhurst",
+                    "Pete",
                     "Pete"
                 ],
                 "CARDINAL": [
@@ -5331,7 +5358,7 @@
                     "California"
                 ],
                 "MONEY": [
-                    "about $450"
+                    "about $450 million"
                 ]
             }
         },
@@ -5412,7 +5439,7 @@
                     "Michael",
                     "Mark",
                     "Mark",
-                    "and&nbsp;Strava"
+                    "Strava"
                 ],
                 "CARDINAL": [
                     "two",
@@ -5422,7 +5449,7 @@
                 ],
                 "DATE": [
                     "1995",
-                    "a few years later.&nbsp;Still",
+                    "a few years later",
                     "2008",
                     "Today"
                 ],
@@ -5472,6 +5499,7 @@
                     "Americans"
                 ],
                 "GPE": [
+                    "the United States",
                     "California"
                 ]
             }
@@ -5502,7 +5530,8 @@
                 "DATE": [
                     "early 20s",
                     "1996",
-                    "the years"
+                    "the years",
+                    "this year"
                 ],
                 "PERSON": [
                     "Todd Graves",
@@ -5572,6 +5601,7 @@
                 "DATE": [
                     "2017",
                     "2019",
+                    "this year",
                     "This week"
                 ],
                 "MONEY": [
@@ -5582,9 +5612,7 @@
                     "IPO",
                     "WeWork",
                     "Apple TV",
-                    "WeWork",
-                    "href=\"https://wondery.com",
-                    "href=\"https://wondery.com"
+                    "WeWork"
                 ],
                 "NORP": [
                     "WeCrashed"
@@ -5639,6 +5667,9 @@
                 ],
                 "MONEY": [
                     "$600 million"
+                ],
+                "CARDINAL": [
+                    "2018.See"
                 ],
                 "GPE": [
                     "California"
@@ -5721,7 +5752,7 @@
                     "John Ford",
                     "Ken",
                     "Florentine Films",
-                    "Benjamin Franklin.</p><p"
+                    "Benjamin Franklin"
                 ],
                 "NORP": [
                     "American"
@@ -5784,7 +5815,7 @@
                     "Walmart"
                 ],
                 "MONEY": [
-                    "310"
+                    "$310 million"
                 ],
                 "GPE": [
                     "California"
@@ -5864,19 +5895,24 @@
             "entities": {
                 "PERSON": [
                     "Matt Mullenweg",
-                    "college,&nbsp;Matt"
+                    "Matt"
                 ],
                 "DATE": [
-                    "Around 2005"
+                    "Around 2005",
+                    "Today"
                 ],
                 "ORG": [
-                    "CNET"
+                    "CNET",
+                    "WordPress"
+                ],
+                "NORP": [
+                    "Automattic"
                 ],
                 "CARDINAL": [
                     "nearly 2000"
                 ],
-                "PRODUCT": [
-                    "WordPress"
+                "MONEY": [
+                    "$7 billion"
                 ],
                 "PERCENT": [
                     "more than 40%"
@@ -5929,7 +5965,6 @@
                 ],
                 "CARDINAL": [
                     "three",
-                    "markets.&nbsp;But",
                     "over fifty",
                     "around 7,000"
                 ],
@@ -5966,27 +6001,26 @@
             "entities": {
                 "PERSON": [
                     "Jason Citron",
-                    "Jason",
-                    "that</em"
+                    "Jason"
                 ],
                 "CARDINAL": [
                     "two",
                     "150 million"
                 ],
-                "NORP": [
-                    "successful.&nbsp;The second"
+                "ORDINAL": [
+                    "second",
+                    "first"
                 ],
                 "DATE": [
                     "age 13",
                     "2015",
-                    "born.&nbsp;Today",
+                    "Today",
                     "monthly"
                 ],
-                "ORDINAL": [
-                    "first"
+                "ORG": [
+                    "Discord"
                 ],
                 "GPE": [
-                    "Discord",
                     "California"
                 ]
             }
@@ -6021,13 +6055,12 @@
                 ],
                 "PERSON": [
                     "Tristan Walker",
-                    "is</em",
                     "Tristan"
                 ],
                 "DATE": [
                     "Fifteen years",
                     "2018",
-                    "September"
+                    "September 2019"
                 ],
                 "GPE": [
                     "Bevel",
@@ -6037,10 +6070,10 @@
                     "California"
                 ],
                 "ORG": [
-                    "Walker &",
-                    "Walker &",
-                    "Company",
-                    "Proctor &",
+                    "Walker & Company",
+                    "Walker & Company",
+                    "Proctor & Gamble",
+                    "P&G",
                     "the Lincoln Theatre"
                 ],
                 "CARDINAL": [
@@ -6083,7 +6116,7 @@
                 "DATE": [
                     "2001",
                     "2017",
-                    "July"
+                    "July 2019.See"
                 ],
                 "MONEY": [
                     "10,000",
@@ -7283,10 +7316,15 @@
             "pubDate": "Mon, 20 Sep 2021 04:15:07 -0000",
             "title": "Dude Perfect: Cory Cotton and Tyler Toney",
             "entities": {
-                "GPE": [
-                    "Texas",
-                    "Texas",
-                    "California"
+                "ORG": [
+                    "Texas A&M",
+                    "Dude Perfect",
+                    "YouTube",
+                    "Dude Perfect",
+                    "YouTube",
+                    "NBA",
+                    "NFL",
+                    "NHL"
                 ],
                 "DATE": [
                     "the mid 2000's",
@@ -7303,15 +7341,6 @@
                 "TIME": [
                     "hours"
                 ],
-                "ORG": [
-                    "Dude Perfect",
-                    "YouTube",
-                    "Dude Perfect",
-                    "YouTube",
-                    "NBA",
-                    "NFL",
-                    "NHL"
-                ],
                 "ORDINAL": [
                     "first",
                     "third"
@@ -7324,6 +7353,10 @@
                 ],
                 "NORP": [
                     "Dudes"
+                ],
+                "GPE": [
+                    "Texas",
+                    "California"
                 ]
             }
         },
@@ -7597,9 +7630,14 @@
                 "PERSON": [
                     "Guy",
                     "Adam Grant",
-                    "Originals</em",
                     "Adam",
                     "Adam"
+                ],
+                "WORK_OF_ART": [
+                    "Think Again, Give and Take and Originals"
+                ],
+                "PRODUCT": [
+                    "WorkLife"
                 ],
                 "ORG": [
                     "Summit"
@@ -7696,12 +7734,13 @@
                     "Guy",
                     "Bren\u00e9 Brown"
                 ],
+                "GPE": [
+                    "Us",
+                    "California"
+                ],
                 "ORG": [
                     "Bren\u00e9",
                     "Summit"
-                ],
-                "GPE": [
-                    "California"
                 ]
             }
         },
@@ -8011,7 +8050,10 @@
                 ],
                 "CARDINAL": [
                     "two",
-                    "2020.<p"
+                    "2020.See"
+                ],
+                "ORG": [
+                    "Serial"
                 ],
                 "MONEY": [
                     "$800 million"
@@ -8171,7 +8213,6 @@
                     "2021"
                 ],
                 "PERSON": [
-                    "Virtual Summit",
                     "Cynt Marshall",
                     "Chieh Huang",
                     "Sadie Lincoln",
@@ -8223,6 +8264,8 @@
                 "GPE": [
                     "Los Angeles",
                     "L.A.",
+                    "Selma",
+                    "Us",
                     "California"
                 ],
                 "ORDINAL": [
@@ -8495,8 +8538,8 @@
                 "MONEY": [
                     "over $100 million"
                 ],
-                "QUANTITY": [
-                    "more than 30 million users.<br/><br/><em"
+                "CARDINAL": [
+                    "more than 30 million"
                 ],
                 "GPE": [
                     "California"
@@ -8631,7 +8674,7 @@
                 ],
                 "MONEY": [
                     "over $500 million",
-                    "3.3"
+                    "$3.3 billion"
                 ],
                 "GPE": [
                     "California"
@@ -8678,7 +8721,8 @@
                     "Good Books",
                     "Celena Gill",
                     "Ryan",
-                    "Austin"
+                    "Austin",
+                    "Fr\u00e8res Branchiaux"
                 ],
                 "GPE": [
                     "Atlanta",
@@ -8768,7 +8812,8 @@
                     "Len Bosack"
                 ],
                 "ORG": [
-                    "Cisco Systems"
+                    "Cisco Systems",
+                    "Urban Decay"
                 ],
                 "GPE": [
                     "California"
@@ -8802,7 +8847,7 @@
                     "day",
                     "March 2020",
                     "Today",
-                    "April 2021.<br/><br/><em"
+                    "April 2021.How"
                 ],
                 "PERSON": [
                     "Paul Davison",
@@ -8905,10 +8950,13 @@
                 "DATE": [
                     "three years",
                     "Today",
-                    "March 2021.<br/><br/><em"
+                    "March 2021.How"
                 ],
                 "ORG": [
                     "YouTube"
+                ],
+                "WORK_OF_ART": [
+                    "Think Like a Monk"
                 ],
                 "CARDINAL": [
                     "millions"
@@ -9045,6 +9093,7 @@
                     "New York City",
                     "Manhattan",
                     "the United States",
+                    "Canada",
                     "California"
                 ],
                 "DATE": [
@@ -9085,13 +9134,15 @@
             "entities": {
                 "PERSON": [
                     "Lindsay Peoples Wagner",
-                    "Teen Vouge</em>",
-                    "Teen Vouge</em",
                     "Lindsay",
                     "Guy"
                 ],
                 "ORDINAL": [
                     "first"
+                ],
+                "FAC": [
+                    "Teen Vouge",
+                    "Teen Vouge"
                 ],
                 "DATE": [
                     "season",
@@ -9101,6 +9152,7 @@
                     "two"
                 ],
                 "ORG": [
+                    "The Cut",
                     "the Black in Fashion Council",
                     "the Black in Fashion Council"
                 ],
@@ -9620,7 +9672,8 @@
             "title": "Rick Steves' Europe: Rick Steves",
             "entities": {
                 "PERSON": [
-                    "Rick Steves"
+                    "Rick Steves",
+                    "Privacy Policy"
                 ],
                 "DATE": [
                     "the summer",
@@ -9728,7 +9781,7 @@
                     "Adobe",
                     "Melanie",
                     "Canva",
-                    "br/><a"
+                    "Privacy Policy"
                 ],
                 "ORDINAL": [
                     "first"
@@ -9831,8 +9884,7 @@
                     "California"
                 ],
                 "MONEY": [
-                    "tens of millions",
-                    "over $600M."
+                    "tens of millions"
                 ]
             }
         },
@@ -9918,7 +9970,8 @@
                 ],
                 "ORG": [
                     "Whole Foods",
-                    "Simple Mills"
+                    "Simple Mills",
+                    "HIBT Virtual Event"
                 ],
                 "CARDINAL": [
                     "twelve",
@@ -9926,9 +9979,6 @@
                 ],
                 "MONEY": [
                     "roughly $100M"
-                ],
-                "EVENT": [
-                    "Virtual Event"
                 ]
             }
         },
@@ -10037,7 +10087,8 @@
                     "first"
                 ],
                 "ORG": [
-                    "IPO"
+                    "IPO",
+                    "HIBT Virtual Event"
                 ]
             }
         },
@@ -10066,7 +10117,9 @@
             "entities": {
                 "PERSON": [
                     "Guy",
+                    "Split",
                     "Guy",
+                    "Servant",
                     "Guy"
                 ],
                 "ORG": [
@@ -10077,13 +10130,14 @@
                     "Storytelling Lounge"
                 ],
                 "DATE": [
-                    "year"
+                    "year",
+                    "the new season"
                 ],
                 "EVENT": [
                     "Sundance Film Festival"
                 ],
-                "ORDINAL": [
-                    "Sixth"
+                "LAW": [
+                    "The Sixth Sense, Unbreakable"
                 ],
                 "GPE": [
                     "California"
@@ -10118,7 +10172,8 @@
                     "Cher",
                     "Bette Midler",
                     "Norma Kamali",
-                    "Farah Fawcett"
+                    "Farah Fawcett",
+                    "Privacy Policy"
                 ],
                 "DATE": [
                     "the 1960s",
@@ -10215,7 +10270,8 @@
                 "PERSON": [
                     "Alan Newman",
                     "Jeffrey Hollender",
-                    "Guy"
+                    "Guy",
+                    "Privacy Policy"
                 ],
                 "GPE": [
                     "California"
@@ -10293,7 +10349,8 @@
                     "Sheppard Missett",
                     "Judi",
                     "Jazzercise",
-                    "Jazzercise"
+                    "Jazzercise",
+                    "Privacy Policy"
                 ],
                 "ORDINAL": [
                     "first",
@@ -10352,7 +10409,8 @@
                     "Sam Yam",
                     "Sam",
                     "Jack",
-                    "Covid"
+                    "Covid",
+                    "Privacy Policy"
                 ],
                 "DATE": [
                     "the late 2000s"
@@ -10404,7 +10462,8 @@
                 ],
                 "PERSON": [
                     "Steve Ells",
-                    "Steve Ells"
+                    "Steve Ells",
+                    "Privacy Policy"
                 ],
                 "GPE": [
                     "San Francisco",
@@ -10444,7 +10503,8 @@
                     "Today"
                 ],
                 "PERSON": [
-                    "Janice Bryant Howroyd"
+                    "Janice Bryant Howroyd",
+                    "Privacy Policy"
                 ],
                 "GPE": [
                     "Los Angeles",
@@ -10498,8 +10558,7 @@
                 ],
                 "PERSON": [
                     "Morra",
-                    "Guy",
-                    "at:<br/><a"
+                    "Guy"
                 ],
                 "PERCENT": [
                     "30%"
@@ -10536,7 +10595,8 @@
                     "30"
                 ],
                 "PERSON": [
-                    "Tim Ferriss"
+                    "Tim Ferriss",
+                    "Privacy Policy"
                 ],
                 "CARDINAL": [
                     "five"
@@ -10571,8 +10631,7 @@
             "entities": {
                 "PERSON": [
                     "Daniela Corrente",
-                    "Guy",
-                    "at:<br/><a"
+                    "Guy"
                 ],
                 "GPE": [
                     "California"
@@ -10644,7 +10703,8 @@
             "title": "Riot Games: Brandon Beck and Marc Merrill",
             "entities": {
                 "ORG": [
-                    "USC"
+                    "USC",
+                    "League of Legends"
                 ],
                 "DATE": [
                     "the late 1990s",
@@ -10656,19 +10716,19 @@
                 "PERSON": [
                     "Marc Merrill",
                     "Brandon Beck",
-                    "Warcraft III</em",
                     "Marc",
                     "Brandon",
-                    "Riot Games"
+                    "Riot Games",
+                    "Privacy Policy"
+                ],
+                "LOC": [
+                    "Warcraft III"
                 ],
                 "CARDINAL": [
                     "two"
                 ],
                 "MONEY": [
                     "$1.5 billion"
-                ],
-                "WORK_OF_ART": [
-                    "the How I Built This"
                 ],
                 "GPE": [
                     "California"
@@ -10702,8 +10762,7 @@
                     "Emily Powell",
                     "Powell",
                     "Powell",
-                    "Guy",
-                    "at:<br/><a"
+                    "Guy"
                 ],
                 "ORDINAL": [
                     "third"
@@ -10754,7 +10813,8 @@
                     "Joel Clark",
                     "Kodiak Cakes",
                     "Joel",
-                    "Kodiak Cakes"
+                    "Kodiak Cakes",
+                    "Privacy Policy"
                 ],
                 "ORG": [
                     "Mazda",
@@ -10766,10 +10826,8 @@
                 "CARDINAL": [
                     "one"
                 ],
-                "WORK_OF_ART": [
-                    "the How I Built This"
-                ],
                 "GPE": [
+                    "America",
                     "California"
                 ]
             }
@@ -10852,8 +10910,7 @@
             "entities": {
                 "PERSON": [
                     "Iman Abuzeid",
-                    "Guy",
-                    "at:<br/><a"
+                    "Guy"
                 ],
                 "ORG": [
                     "Incredible Health"
@@ -10896,9 +10953,9 @@
                 ],
                 "PERSON": [
                     "Melissa Butler",
-                    "Shark Tank</em",
                     "Rosco Spears",
-                    "Melissa"
+                    "Melissa",
+                    "Privacy Policy"
                 ],
                 "MONEY": [
                     "thousands of dollars"
@@ -10913,6 +10970,7 @@
                     "Cosmo"
                 ],
                 "ORG": [
+                    "Shark Tank",
                     "Target",
                     "Target",
                     "The Lip Bar",
@@ -10952,8 +11010,7 @@
                 "PERSON": [
                     "Gregory Boyle",
                     "Guy",
-                    "Guy",
-                    "at:<br/><a"
+                    "Guy"
                 ],
                 "ORG": [
                     "Homeboy Industries"
@@ -10992,7 +11049,8 @@
             "entities": {
                 "PERSON": [
                     "Kenneth Cole",
-                    "Kenneth"
+                    "Kenneth",
+                    "Privacy Policy"
                 ],
                 "QUANTITY": [
                     "forty-foot"
@@ -11046,7 +11104,8 @@
                     "Dropbox",
                     "Drew",
                     "Arash Ferdowsi",
-                    "Dropbox"
+                    "Dropbox",
+                    "Privacy Policy"
                 ],
                 "GPE": [
                     "Boston",
@@ -11086,8 +11145,7 @@
             "entities": {
                 "PERSON": [
                     "Varshini Prakash",
-                    "Guy",
-                    "at:<br/><a"
+                    "Guy"
                 ],
                 "ORG": [
                     "Sunrise Movement"
@@ -11141,7 +11199,8 @@
                     "Dave Anderson",
                     "Dave",
                     "Dave",
-                    "Famous Dave's"
+                    "Famous Dave's",
+                    "Privacy Policy"
                 ],
                 "NORP": [
                     "Native American"
@@ -11179,8 +11238,7 @@
             "entities": {
                 "PERSON": [
                     "Justin Gold",
-                    "Guy",
-                    "at:<br/><a"
+                    "Guy"
                 ],
                 "ORG": [
                     "Justin"
@@ -11222,8 +11280,7 @@
                 ],
                 "PERSON": [
                     "Cheryl Contee",
-                    "Guy",
-                    "at:<br/><a"
+                    "Guy"
                 ],
                 "GPE": [
                     "California"
@@ -11255,7 +11312,8 @@
             "entities": {
                 "PERSON": [
                     "Robin McBride",
-                    "Andr\u00e9a McBride"
+                    "Andr\u00e9a McBride",
+                    "Privacy Policy"
                 ],
                 "CARDINAL": [
                     "half"
@@ -11305,8 +11363,7 @@
                 ],
                 "PERSON": [
                     "Sonia Gil",
-                    "Guy",
-                    "at:<br/><a"
+                    "Guy"
                 ],
                 "GPE": [
                     "California"
@@ -11344,8 +11401,7 @@
                     "Robin McBride",
                     "Andr\u00e9a McBride John",
                     "Robin",
-                    "Robin",
-                    "at:<br/><a"
+                    "Robin"
                 ],
                 "CARDINAL": [
                     "two",
@@ -11397,14 +11453,11 @@
                     "Adam",
                     "Eric",
                     "Adam",
-                    "Eric",
-                    "at:<br/><a"
+                    "Eric"
                 ],
                 "ORG": [
-                    "Method"
-                ],
-                "WORK_OF_ART": [
-                    "the How I Built"
+                    "Method",
+                    "Target"
                 ],
                 "GPE": [
                     "California"
@@ -11442,8 +11495,7 @@
                     "Mark Cuban",
                     "Cynt Marshall",
                     "Guy",
-                    "Guy",
-                    "at:<br/><a"
+                    "Guy"
                 ],
                 "GPE": [
                     "California"
@@ -11480,8 +11532,7 @@
                     "the past six months"
                 ],
                 "PERSON": [
-                    "Guy",
-                    "at:<br/><a"
+                    "Guy"
                 ],
                 "GPE": [
                     "California"
@@ -11525,17 +11576,13 @@
                     "Mark",
                     "Mark",
                     "Lush",
-                    "Lush",
-                    "at:<br/><a"
+                    "Lush"
                 ],
                 "ORG": [
                     "The Body Shop"
                 ],
                 "CARDINAL": [
                     "one"
-                ],
-                "WORK_OF_ART": [
-                    "the How I Built This"
                 ]
             }
         },
@@ -11568,8 +11615,7 @@
                 ],
                 "PERSON": [
                     "Jennifer Neundorfer",
-                    "Guy",
-                    "at:<br/><a"
+                    "Guy"
                 ],
                 "GPE": [
                     "California"
@@ -11602,8 +11648,7 @@
                 "PERSON": [
                     "Jeremy Stoppelman",
                     "Covid",
-                    "Guy",
-                    "at:<br/><a"
+                    "Guy"
                 ],
                 "ORG": [
                     "Yelp"
@@ -11644,7 +11689,8 @@
                 ],
                 "PERSON": [
                     "Daina Trout",
-                    "Vanessa Dew"
+                    "Vanessa Dew",
+                    "Privacy Policy"
                 ],
                 "ORG": [
                     "Justin",
@@ -11697,8 +11743,7 @@
                 "PERSON": [
                     "John Zimmer",
                     "John",
-                    "Guy",
-                    "at:<br/><a"
+                    "Guy"
                 ],
                 "GPE": [
                     "California"
@@ -11735,7 +11780,8 @@
                     "a month"
                 ],
                 "PERSON": [
-                    "Sal Khan"
+                    "Sal Khan",
+                    "Privacy Policy"
                 ],
                 "GPE": [
                     "Youtube",
@@ -11785,8 +11831,7 @@
                 ],
                 "PERSON": [
                     "Whitney Wolfe Herd",
-                    "Guy",
-                    "at:<br/><a"
+                    "Guy"
                 ]
             }
         },
@@ -11816,8 +11861,7 @@
                 "PERSON": [
                     "Bert",
                     "John Jacobs",
-                    "Guy",
-                    "at:<br/><a"
+                    "Guy"
                 ],
                 "MONEY": [
                     "$100 million"
@@ -11864,7 +11908,8 @@
                     "California"
                 ],
                 "DATE": [
-                    "2013"
+                    "2013",
+                    "this year"
                 ],
                 "PRODUCT": [
                     "401k"
@@ -11874,6 +11919,9 @@
                 ],
                 "MONEY": [
                     "about $60 million"
+                ],
+                "WORK_OF_ART": [
+                    "the How I Built This"
                 ]
             }
         },
@@ -11904,11 +11952,12 @@
                     "Stacey Vanek Smith",
                     "Guy",
                     "Stacey",
-                    "Guy"
+                    "Guy",
+                    "Privacy Policy"
                 ],
-                "ORG": [
-                    "The Unexpected Paths to",
-                    "Success"
+                "WORK_OF_ART": [
+                    ", How I Built This: The Unexpected Paths to Success",
+                    "the How I Built This"
                 ],
                 "GPE": [
                     "California"
@@ -11942,10 +11991,14 @@
                     "Pokimane",
                     "Twitch",
                     "Guy",
-                    "Guy"
+                    "Guy",
+                    "Privacy Policy"
                 ],
                 "QUANTITY": [
                     "more than 20 million"
+                ],
+                "WORK_OF_ART": [
+                    "the How I Built This"
                 ],
                 "GPE": [
                     "California"
@@ -11993,6 +12046,9 @@
                 "GPE": [
                     "U.S.",
                     "California"
+                ],
+                "WORK_OF_ART": [
+                    "the How I Built This"
                 ]
             }
         },
@@ -12338,6 +12394,9 @@
                     "Samantha Bee",
                     "Guy"
                 ],
+                "ORG": [
+                    "Full Frontal"
+                ],
                 "GPE": [
                     "New York",
                     "Samantha",
@@ -12598,6 +12657,12 @@
                 "NORP": [
                     "Reese"
                 ],
+                "ORG": [
+                    "Little Fires Everywhere",
+                    "Big Little Lies",
+                    "Television & Film Lauren Neustadter",
+                    "COVID-19"
+                ],
                 "WORK_OF_ART": [
                     "The Morning Show"
                 ],
@@ -12607,12 +12672,7 @@
                 "PERSON": [
                     "Sunshine",
                     "Sarah Harden",
-                    "Film Lauren Neustadter",
                     "Guy"
-                ],
-                "ORG": [
-                    "Television &",
-                    "COVID-19"
                 ],
                 "GPE": [
                     "Hollywood",
@@ -13558,7 +13618,6 @@
             "entities": {
                 "PERSON": [
                     "Carter",
-                    "Q&amp;A",
                     "Guy",
                     "Guy"
                 ],
@@ -13680,6 +13739,9 @@
                     "Andy Puddicombe",
                     "Rich Pierson",
                     "Guy"
+                ],
+                "NORP": [
+                    "Drybar"
                 ],
                 "ORG": [
                     "Headspace"
@@ -13993,6 +14055,7 @@
                     "California"
                 ],
                 "ORG": [
+                    "Salt, Fat",
                     "Acid, Heat",
                     "Chez Panisse"
                 ],
@@ -14398,17 +14461,18 @@
                     "David",
                     "Tristan"
                 ],
+                "ORG": [
+                    "the How I Built This",
+                    "JetBlue Airways",
+                    "Walker & Company",
+                    "Azul Airlines",
+                    "COVID-19"
+                ],
                 "DATE": [
                     "This past week"
                 ],
                 "CARDINAL": [
                     "two"
-                ],
-                "ORG": [
-                    "JetBlue Airways",
-                    "Walker &",
-                    "Azul Airlines",
-                    "COVID-19"
                 ],
                 "GPE": [
                     "Brazil",
@@ -14499,11 +14563,12 @@
                     "Susan",
                     "Guy"
                 ],
+                "ORG": [
+                    "the How I Built This",
+                    "EO Products"
+                ],
                 "DATE": [
                     "This past Friday"
-                ],
-                "ORG": [
-                    "EO Products"
                 ],
                 "GPE": [
                     "San Rafael",
@@ -14582,14 +14647,15 @@
                     "Jeni Britton Bauer",
                     "Listeria"
                 ],
-                "DATE": [
-                    "This past Friday",
-                    "2015"
-                ],
                 "ORG": [
+                    "the How I Built This",
                     "Jeni's",
                     "Splendid Ice Creams",
                     "Jeni"
+                ],
+                "DATE": [
+                    "This past Friday",
+                    "2015"
                 ],
                 "GPE": [
                     "California"
@@ -16474,7 +16540,6 @@
                 ],
                 "PERSON": [
                     "Tristan Walker",
-                    "is</em",
                     "Tristan"
                 ],
                 "DATE": [
@@ -16489,10 +16554,10 @@
                     "California"
                 ],
                 "ORG": [
-                    "Walker &",
-                    "Walker &",
-                    "Company",
-                    "Proctor &"
+                    "Walker & Company",
+                    "Walker & Company",
+                    "Proctor & Gamble",
+                    "P&G"
                 ],
                 "CARDINAL": [
                     "36",
@@ -18774,6 +18839,9 @@
                     "October",
                     "next Thursday"
                 ],
+                "WORK_OF_ART": [
+                    "the How I Built This Summit"
+                ],
                 "FAC": [
                     "Katrina Lake of Stitch Fix"
                 ],
@@ -18871,6 +18939,9 @@
             "pubDate": "Thu, 06 Dec 2018 05:01:31 -0000",
             "title": "Airbnb's Joe Gebbia At The HIBT Summit",
             "entities": {
+                "WORK_OF_ART": [
+                    "the How I Built This Summit"
+                ],
                 "PERSON": [
                     "Joe Gebbia",
                     "Joe"
@@ -18885,6 +18956,9 @@
                 ],
                 "CARDINAL": [
                     "two"
+                ],
+                "DATE": [
+                    "Thursday"
                 ]
             }
         },
@@ -18971,6 +19045,9 @@
             "pubDate": "Thu, 29 Nov 2018 05:01:23 -0000",
             "title": "Lyft's John Zimmer At The HIBT Summit",
             "entities": {
+                "WORK_OF_ART": [
+                    "the How I Built This Summit"
+                ],
                 "PERSON": [
                     "John Zimmer",
                     "John",
@@ -18988,7 +19065,8 @@
                 ],
                 "DATE": [
                     "last month",
-                    "next month"
+                    "next month",
+                    "Thursday"
                 ],
                 "CARDINAL": [
                     "three"
@@ -19025,7 +19103,9 @@
                     "just four years"
                 ],
                 "ORG": [
-                    "Emily Weiss"
+                    "Vogue",
+                    "Weiss",
+                    "Into The Gloss"
                 ],
                 "PERSON": [
                     "Glossier",
@@ -19035,7 +19115,7 @@
                     "an estimated $400 million"
                 ],
                 "GPE": [
-                    "New York",
+                    "New York City",
                     "California"
                 ]
             }
@@ -19063,6 +19143,9 @@
             "pubDate": "Thu, 22 Nov 2018 05:01:23 -0000",
             "title": "Method's Adam Lowry And Eric Ryan At The HIBT Summit",
             "entities": {
+                "WORK_OF_ART": [
+                    "the How I Built This Summit"
+                ],
                 "PERSON": [
                     "Adam Lowry",
                     "Eric Ryan",
@@ -19161,6 +19244,9 @@
             "entities": {
                 "ORDINAL": [
                     "first"
+                ],
+                "WORK_OF_ART": [
+                    "the How I Built This Summit"
                 ],
                 "PERSON": [
                     "Jenn Hyman",
@@ -20539,7 +20625,6 @@
             "entities": {
                 "PERSON": [
                     "Barbara Corcoran",
-                    "Shark Tank</em",
                     "Aryel Rivero",
                     "Vanessa Clavijo",
                     "Gift Wrap My Face"
@@ -20553,10 +20638,12 @@
                     "California"
                 ],
                 "CARDINAL": [
-                    "nine"
+                    "nine",
+                    "2017)See"
                 ],
                 "ORG": [
-                    "The Corcoran Group"
+                    "The Corcoran Group",
+                    "Shark Tank"
                 ],
                 "WORK_OF_ART": [
                     "\"How You Built That"
@@ -21714,7 +21801,7 @@
                     "2015"
                 ],
                 "MONEY": [
-                    "250"
+                    "$250 million"
                 ],
                 "WORK_OF_ART": [
                     "\"How You Built That"
@@ -22878,15 +22965,17 @@
                 ],
                 "ORG": [
                     "Jonah Peretti",
-                    "Huffington",
-                    "BuzzFeed</em"
+                    "The Huffington Post"
                 ],
                 "CARDINAL": [
                     "millions",
                     "two"
                 ],
+                "PRODUCT": [
+                    "BuzzFeed"
+                ],
                 "GPE": [
-                    "New York",
+                    "New York City",
                     "California"
                 ]
             }
@@ -23541,7 +23630,8 @@
                     "nine"
                 ],
                 "ORG": [
-                    "The Corcoran Group"
+                    "The Corcoran Group",
+                    "Shark Tank"
                 ]
             }
         },
@@ -24882,13 +24972,14 @@
     ],
     "title": "How I Built This with Guy Raz",
     "entities": {
+        "ORG": [
+            "Guy Raz",
+            "Amazon Music",
+            "Amazon Music Unlimited"
+        ],
         "DATE": [
             "Mondays",
             "1-week"
-        ],
-        "ORG": [
-            "Amazon Music",
-            "Amazon Music Unlimited"
         ]
     }
 }

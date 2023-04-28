@@ -49,13 +49,14 @@
                     "Shakespeare",
                     "John Le Carr\u00e9",
                     "Loki",
-                    "Harold Pinter\u2019s"
+                    "Harold Pinter\u2019s Betrayal"
                 ],
                 "CARDINAL": [
                     "about one"
                 ],
                 "PRODUCT": [
-                    "Nutcracker"
+                    "Nutcracker",
+                    "Subscribe"
                 ],
                 "GPE": [
                     "Tchaikovsky"
@@ -64,12 +65,16 @@
                     "Russian",
                     "British"
                 ],
+                "DATE": [
+                    "his day",
+                    "2020",
+                    "season two"
+                ],
                 "FAC": [
                     "Broadway"
                 ],
-                "DATE": [
-                    "2020",
-                    "season two"
+                "ORG": [
+                    "The Open Ears Project"
                 ]
             }
         },
@@ -121,21 +126,27 @@
                 ],
                 "ORG": [
                     "The Open Ears Project",
+                    "Esther Perel",
+                    "Faur\u00e9\u2019s Requiem",
+                    "Esther Perel",
                     "Spotify",
-                    "Gabriel Faur<"
+                    "Paradisum"
                 ],
                 "ORDINAL": [
                     "first"
                 ],
-                "PERSON": [
-                    "Faur\u00e9",
-                    "Esther"
-                ],
                 "EVENT": [
                     "Holocaust"
                 ],
+                "WORK_OF_ART": [
+                    "Where Should We Begin"
+                ],
                 "GPE": [
                     "Spotify"
+                ],
+                "PERSON": [
+                    "Esther",
+                    "Gabriel Faur\u00e9"
                 ]
             }
         },
@@ -183,14 +194,15 @@
                 ],
                 "ORG": [
                     "Krystal Hawes",
-                    "Maurice Ravel\u2019s",
+                    "Maurice Ravel\u2019s Pavane",
                     "Krystal Hawes"
                 ],
-                "PERSON": [
-                    "helped</span"
+                "PRODUCT": [
+                    "Subscribe"
                 ],
-                "GPE": [
-                    "Maurice"
+                "PERSON": [
+                    "Pavane",
+                    "Maurice Ravel"
                 ]
             }
         },
@@ -236,21 +248,26 @@
                 "GPE": [
                     "Dessa",
                     "J.S.",
+                    "Dessa",
                     "Minneapolis",
+                    "Minnesota",
                     "New York",
                     "Dessa",
-                    "Violin",
-                    "J.S."
+                    "J.S. Bach"
+                ],
+                "PRODUCT": [
+                    "Chaconne"
                 ],
                 "WORK_OF_ART": [
-                    "Partita for Violin"
+                    "Partita for Violin",
+                    "The Greene Space",
+                    "Chaconne for Violin"
+                ],
+                "PERSON": [
+                    "Doomtree"
                 ],
                 "CARDINAL": [
                     "two"
-                ],
-                "PERSON": [
-                    "Sawdust</a",
-                    "Chaconne"
                 ]
             }
         },
@@ -292,25 +309,29 @@
                     "Jesse Eisenberg",
                     "Jesse",
                     "Jesse Eisenberg",
-                    "Jesse"
+                    "Jesse",
+                    "Frederic Chopin"
                 ],
                 "GPE": [
                     "Poland"
                 ],
                 "EVENT": [
+                    "Holocaust",
                     "Holocaust"
                 ],
                 "NORP": [
-                    "Polish",
-                    "full:<br></span></em></p"
+                    "Revisionist",
+                    "Polish"
                 ],
                 "ORG": [
-                    "Fr\u00e9d\u00e9ric Chopin\u2019s",
-                    "Frederic"
+                    "Fr\u00e9d\u00e9ric Chopin\u2019s"
                 ],
                 "CARDINAL": [
                     "1",
                     "1"
+                ],
+                "PRODUCT": [
+                    "Subscribe"
                 ]
             }
         },
@@ -354,12 +375,12 @@
                 "PERSON": [
                     "Christopher Wheeldon",
                     "Sergei Prokofiev",
-                    "Romeo",
-                    "Juliet</em>",
                     "Wheeldon",
                     "Christopher Wheeldon",
                     "Tony",
-                    "Christopher"
+                    "Megan Reid",
+                    "Christopher",
+                    "Sergei Prokofiev"
                 ],
                 "NORP": [
                     "Russian",
@@ -369,21 +390,25 @@
                     "first",
                     "second"
                 ],
-                "ORG": [
-                    "the Royal Opera House",
-                    "Megan",
-                    "Sergei Prokofiev</h5"
-                ],
                 "GPE": [
+                    "Romeo",
+                    "Juliet",
                     "Prokofiev",
                     "Paris"
+                ],
+                "ORG": [
+                    "the Royal Opera House"
                 ],
                 "DATE": [
                     "years",
                     "2012"
                 ],
                 "EVENT": [
-                    "London Olympic Games"
+                    "London Olympic Games",
+                    "the Open Ears"
+                ],
+                "WORK_OF_ART": [
+                    "Violin Concerto No."
                 ],
                 "CARDINAL": [
                     "2"
@@ -430,31 +455,24 @@
             "entities": {
                 "PERSON": [
                     "Megan Reid",
-                    "Christopher Wheeldon",
-                    "Arvo P\u00e4rt",
+                    "Christopher Wheeldon\u2019s",
+                    "Arvo P\u00e4rt\u2019s",
                     "Spiegel",
                     "Reid",
                     "Megan Reid",
                     "Megan",
                     "Spiegel",
-                    "Arvo P\u00e4rt",
-                    "Simon Mulligan",
-                    "Piano",
-                    "Daniel Hope",
                     "Spiegel",
-                    "Spiegel</em"
+                    "Arvo P\u00e4rt"
                 ],
                 "DATE": [
                     "second half"
                 ],
                 "NORP": [
-                    "Estonian",
-                    "forever.<br><br></span><span"
+                    "Estonian"
                 ],
                 "ORG": [
-                    "FX Networks</span></em><span>.</span></p",
-                    "width=\"80%\"></iframe><br><span",
-                    "Naxos of America, inc."
+                    "FX Networks"
                 ]
             }
         },
@@ -499,16 +517,20 @@
             "title": "24. Terrance McKnight on Overcoming Adversity\n",
             "entities": {
                 "PERSON": [
+                    "Beethoven",
                     "Terrance McKnight",
                     "Beethoven",
                     "Terrance McKnight",
                     "Terrance",
-                    "full:</em",
-                    "Ludwig van Beethoven"
+                    "Bagatelles",
+                    "Ludwig van Beethoven",
+                    "Terrance McKnight"
                 ],
                 "ORG": [
-                    "the Langston Hughes",
-                    "Terrance McKnight</h5>\n"
+                    "the Langston Hughes"
+                ],
+                "WORK_OF_ART": [
+                    "\u201cLife is Fine"
                 ],
                 "TIME": [
                     "evening"
@@ -567,7 +589,8 @@
                 ],
                 "PERSON": [
                     "Justin Jackson",
-                    "Justin Jackson"
+                    "Justin Jackson",
+                    "Edvard Grieg"
                 ],
                 "ORG": [
                     "Edvard Grieg\u2019s",
@@ -575,7 +598,10 @@
                 ],
                 "FAC": [
                     "the Hall of the Mountain King",
-                    "the Hall of the Mountain King </em"
+                    "the Hall of the Mountain King"
+                ],
+                "PRODUCT": [
+                    "Subscribe"
                 ]
             }
         },
@@ -620,17 +646,21 @@
             "entities": {
                 "PERSON": [
                     "Alison",
+                    "Alison Stewart",
+                    "WNYC",
                     "Alison",
-                    "Alison",
-                    "Erik"
+                    "Erik Satie"
                 ],
                 "ORG": [
                     "Satie\u2019s",
-                    "WNYC",
                     "Gymnop\u00e9die"
                 ],
                 "CARDINAL": [
+                    "1",
                     "1"
+                ],
+                "PRODUCT": [
+                    "Subscribe"
                 ]
             }
         },
@@ -675,18 +705,23 @@
                 "PERSON": [
                     "Daniel Libeskind",
                     "J. S. Bach",
-                    "Museum Berlin</a",
-                    "Leopold"
+                    "Daniel Libeskind",
+                    "J.S. Bach",
+                    "Leopold Stokowski"
                 ],
                 "NORP": [
-                    "Polish-American"
+                    "Polish-American",
+                    "Jewish"
+                ],
+                "GPE": [
+                    "Museum Berlin",
+                    "Toccata"
                 ],
                 "ORG": [
-                    "the World Trade Center",
-                    "J.S. Bach"
+                    "the World Trade Center"
                 ],
                 "LOC": [
-                    "Lower Manhattan.</em></p"
+                    "Lower Manhattan"
                 ]
             }
         },
@@ -745,18 +780,23 @@
                 "GPE": [
                     "J.S.",
                     "Bach",
-                    "J.S."
+                    "J.S. Bach"
                 ],
                 "WORK_OF_ART": [
-                    "Violin Sonata"
+                    "Violin Sonata",
+                    "Violin Sonata No.1"
+                ],
+                "CARDINAL": [
+                    "1",
+                    "2600",
+                    "8"
                 ],
                 "ORG": [
                     "Atari",
                     "WQXR"
                 ],
-                "CARDINAL": [
-                    "2600",
-                    "8"
+                "PRODUCT": [
+                    "Subscribe"
                 ]
             }
         },
@@ -801,19 +841,23 @@
                     "16"
                 ],
                 "PERSON": [
+                    "Trumpeter",
                     "Wynton Marsalis",
                     "Beethoven",
                     "String Quartet",
                     "Marsalis",
+                    "Trumpeter",
                     "Wynton Marsalis",
+                    "Wynton",
                     "String Quartet"
                 ],
                 "ORG": [
                     "Beethoven",
-                    "href=\"https://wyntonmarsalis.org",
-                    "href=\"https://wyntonmarsalis.org",
-                    "Lincoln",
-                    "L.V."
+                    "Lincoln Center",
+                    "L.V. Beethoven"
+                ],
+                "PRODUCT": [
+                    "Subscribe"
                 ],
                 "ORDINAL": [
                     "second"
@@ -867,28 +911,29 @@
                     "Eva Chen",
                     "Juno Valentine",
                     "Eva",
-                    "Piano Concert"
+                    "Piano Concert",
+                    "W.A. Mozart"
                 ],
                 "TIME": [
                     "each evening"
                 ],
                 "CARDINAL": [
                     "two",
-                    "17.</p",
+                    "17",
                     "17"
                 ],
                 "ORDINAL": [
                     "first",
                     "first"
                 ],
+                "PRODUCT": [
+                    "Subscribe"
+                ],
                 "GPE": [
                     "Instagram"
                 ],
                 "DATE": [
-                    "October"
-                ],
-                "ORG": [
-                    "W.A. Mozart</h5"
+                    "October 29th"
                 ]
             }
         },
@@ -932,19 +977,20 @@
             "pubDate": "Thu, 26 Sep 2019 12:00:00 -0400",
             "title": "17. Eddie Izzard on Elevation\n",
             "entities": {
-                "NORP": [
-                    "Comedian"
-                ],
                 "PERSON": [
+                    "Comedian",
                     "Eddie Izzard",
-                    "Claude Debussy",
-                    "Clair de Lune</em",
-                    "Eddie Izzard",
-                    "Eddie"
+                    "Claude Debussy\u2019s",
+                    "Eddie",
+                    "Claude Debussy"
                 ],
                 "ORG": [
                     "Clair de Lune",
-                    "Claude"
+                    "Eddie Izzard",
+                    "Clair de Lune"
+                ],
+                "PRODUCT": [
+                    "Subscribe"
                 ]
             }
         },
@@ -988,20 +1034,25 @@
             "pubDate": "Wed, 25 Sep 2019 12:00:00 -0400",
             "title": "16. J'nai Bridges on Forgiveness\n",
             "entities": {
+                "WORK_OF_ART": [
+                    "Dido\u2019s Lament"
+                ],
                 "PERSON": [
                     "Henry Purcell\u2019s",
-                    "Aeneas</em",
+                    "Dido",
                     "Trojan",
                     "Aeneas",
                     "Bridges",
                     "J'Nai Bridges",
                     "Philip Glass",
-                    "full:</span></p",
-                    "Henry Purcell</h5"
+                    "Henry Purcell"
                 ],
                 "ORG": [
                     "Dido",
                     "the Metropolitan Opera"
+                ],
+                "PRODUCT": [
+                    "Subscribe"
                 ],
                 "DATE": [
                     "this season"
@@ -1055,15 +1106,15 @@
             "entities": {
                 "PERSON": [
                     "Joe Young",
-                    "Steve Reich\u2019s",
-                    "Joe Young</span></em></a><em><span",
+                    "Steve Reich\u2019s Music",
+                    "Joe Young",
                     "Joe",
-                    "Steve Reich</h5"
+                    "Steve Reich"
                 ],
                 "ORG": [
                     "New York Public Radio",
                     "New York Public Radio\u2019s",
-                    "the United States Army"
+                    "the United States Army Band"
                 ],
                 "GPE": [
                     "Texas"
@@ -1072,8 +1123,11 @@
                     "18",
                     "18"
                 ],
-                "NORP": [
-                    "full:<br></span></em></p"
+                "PRODUCT": [
+                    "Subscribe"
+                ],
+                "WORK_OF_ART": [
+                    "Music For"
                 ]
             }
         },
@@ -1122,28 +1176,31 @@
             "entities": {
                 "PERSON": [
                     "Robert Macfarlane",
-                    "Chopin",
-                    "Berceuse</em",
                     "Welsh",
                     "Edward Thomas",
                     "Thomas",
                     "Robert Macfarlane",
                     "Robert",
-                    "Berceuse</em"
+                    "Fr\u00e9d\u00e9ric Chopin"
                 ],
                 "ORDINAL": [
                     "first"
                 ],
+                "ORG": [
+                    "Chopin\u2019s Berceuse",
+                    "the Western Front",
+                    "Emmanuel College",
+                    "Cambridge University"
+                ],
                 "GPE": [
                     "Macfarlane",
-                    "Cambridge"
+                    "Underland"
                 ],
                 "DATE": [
                     "1917"
                 ],
-                "ORG": [
-                    "the Western Front",
-                    "Emmanuel College"
+                "PRODUCT": [
+                    "Subscribe"
                 ]
             }
         },
@@ -1184,9 +1241,12 @@
             "pubDate": "Sun, 22 Sep 2019 12:00:00 -0400",
             "title": "13. Nicola Benedetti on Empathy\n",
             "entities": {
+                "LOC": [
+                    "Nicola Benedetti"
+                ],
                 "DATE": [
                     "10-year-old",
-                    "20 years later"
+                    "Over 20 years later"
                 ],
                 "ORDINAL": [
                     "first",
@@ -1195,12 +1255,15 @@
                 ],
                 "PERSON": [
                     "Beethoven",
-                    "Wynton Marsalis'",
-                    "Violin",
-                    "Violin Concerto"
+                    "Wynton Marsalis'"
                 ],
                 "WORK_OF_ART": [
+                    "Violin Concerto",
+                    "Violin Concerto",
                     "Violin Concerto"
+                ],
+                "FAC": [
+                    "Nicola Benedetti"
                 ],
                 "ORG": [
                     "the BBC Proms",
@@ -1254,17 +1317,21 @@
                 "PERSON": [
                     "Lee Hill",
                     "Nicholas Britell\u2019s",
-                    "Moonlight</span></em><span",
+                    "Hill",
                     "Lee Hill",
                     "Lee",
-                    "Nicholas Britell</h5"
+                    "Nicholas Britell"
                 ],
                 "ORG": [
-                    "New York Public Radio",
-                    "listeners.</span></p"
+                    "New York Public Radio"
                 ],
                 "WORK_OF_ART": [
+                    "Little's Theme",
+                    "Moonlight",
                     "Little's Theme"
+                ],
+                "PRODUCT": [
+                    "Subscribe"
                 ]
             }
         },
@@ -1311,13 +1378,15 @@
             "pubDate": "Fri, 20 Sep 2019 12:00:00 -0400",
             "title": "11. Sam Mendes on American Beauty\n",
             "entities": {
+                "WORK_OF_ART": [
+                    "Music defies language in so many ways"
+                ],
                 "CARDINAL": [
                     "One"
                 ],
                 "PERSON": [
                     "Sam Mendes",
-                    "Carl Orff\u2019s",
-                    "Gassenhauer",
+                    "Carl Orff\u2019s Gassenhauer",
                     "Thomas Newman",
                     "Oscar",
                     "Sam",
@@ -1325,10 +1394,12 @@
                     "Oscar",
                     "Tony",
                     "Sam",
-                    "Carl Orff</h5"
+                    "Gassenhauer",
+                    "Carl Orff"
                 ],
                 "ORG": [
-                    "American Beauty"
+                    "American Beauty",
+                    "American Beauty, Road to Perdition"
                 ],
                 "DATE": [
                     "Today",
@@ -1337,6 +1408,12 @@
                 "NORP": [
                     "American",
                     "European"
+                ],
+                "PRODUCT": [
+                    "Subscribe"
+                ],
+                "GPE": [
+                    "Skyfall"
                 ]
             }
         },
@@ -1382,18 +1459,16 @@
             "pubDate": "Thu, 19 Sep 2019 12:00:00 -0400",
             "title": "10. Rachel Strauss-Mu\u00f1iz on Happiness\n",
             "entities": {
-                "ORG": [
-                    "href=\"https://twitter.com/rachellaloca\"><span>",
-                    "W.A. Mozart</h5"
-                ],
                 "PERSON": [
-                    "Rachel \u201cLa Loca\u201d Strauss-Mu\u00f1iz</span></a><span",
+                    "Rachel \u201cLa Loca\u201d Strauss-Mu\u00f1iz",
                     "Mozart",
                     "Mozart",
                     "Rachel Strauss-Mu\u00f1iz",
-                    "Rachel"
+                    "Rachel",
+                    "W.A. Mozart"
                 ],
                 "PRODUCT": [
+                    "Subscribe",
                     "Sonata"
                 ]
             }
@@ -1439,28 +1514,32 @@
             "title": "9. Jon Batiste on Challenging Expectations\n",
             "entities": {
                 "PERSON": [
-                    "Jon Batiste</span></a><span",
+                    "Jon Batiste",
                     "Igor Stravinsky\u2019s",
-                    "Jon Batiste</span></em></a><em><span",
-                    "Stephen Colbert</span></em></a><em><span>",
+                    "Fantasia",
+                    "Jon Batiste",
+                    "Stephen Colbert",
                     "Jon",
-                    "full:</span></p"
+                    "Igor Stravinsky"
+                ],
+                "WORK_OF_ART": [
+                    "The Rite of Spring",
+                    "The Late Show",
+                    "The Rite of Spring"
                 ],
                 "ORDINAL": [
                     "first"
                 ],
                 "ORG": [
                     "Disney",
-                    "href=\"https://www.cbs.com",
-                    "href=\"http://jazzmuseuminharlem.org",
+                    "The Atlantic",
                     "the National Jazz Museum"
                 ],
-                "GPE": [
-                    "G3VqcTDf6l4\"><em><span",
-                    "Atlantic</span><em><span"
+                "PRODUCT": [
+                    "Subscribe"
                 ],
-                "WORK_OF_ART": [
-                    "The Rite of Spring"
+                "LOC": [
+                    "Harlem"
                 ]
             }
         },
@@ -1511,21 +1590,20 @@
                 "ORG": [
                     "Opera",
                     "Chopin's Nocturne No",
+                    "Champagne",
                     "Orfeo",
                     "the Metropolitan Opera\u2019s",
-                    "Orfeo &"
+                    "Orfeo & Euridice"
                 ],
                 "PERSON": [
                     "Jamie Barton",
                     "Chopin",
-                    "Champagne</span></em><span",
-                    "Jamie Barton</span></em></a><em><span",
-                    "Jamie"
+                    "Jamie Barton",
+                    "Jamie",
+                    "Fr\u00e9d\u00e9ric Chopin"
                 ],
                 "GPE": [
-                    "Georgia",
-                    "playlist\"><span",
-                    "jbartonmezzo\"><em><span"
+                    "Georgia"
                 ],
                 "ORDINAL": [
                     "first"
@@ -1533,6 +1611,9 @@
                 "CARDINAL": [
                     "21",
                     "21"
+                ],
+                "PRODUCT": [
+                    "Subscribe"
                 ]
             }
         },
@@ -1580,10 +1661,11 @@
             "title": "7. Eric Jacobsen on Vulnerability\n",
             "entities": {
                 "PERSON": [
-                    "Eric Jacobsen</span><span",
+                    "Eric Jacobsen",
                     "Franz Schubert\u2019s",
-                    "Eric Jacobsen</span></em></a><em><span",
-                    "Eric"
+                    "Eric Jacobsen",
+                    "Eric",
+                    "Franz Schubert"
                 ],
                 "CARDINAL": [
                     "1",
@@ -1592,10 +1674,14 @@
                 "DATE": [
                     "25 years"
                 ],
+                "PRODUCT": [
+                    "Subscribe"
+                ],
                 "GPE": [
                     "New York\u2019s"
                 ],
                 "ORG": [
+                    "Knights",
                     "Second Movement"
                 ]
             }
@@ -1646,24 +1732,29 @@
                 "PERSON": [
                     "Ian McEwan",
                     "Ian McEwan",
-                    "Ian"
+                    "Ian",
+                    "J.S. Bach"
                 ],
                 "ORDINAL": [
                     "second"
                 ],
                 "GPE": [
                     "J.S.",
-                    "J.S."
+                    "Amsterdam"
                 ],
                 "CARDINAL": [
                     "Two",
                     "Two"
                 ],
+                "PRODUCT": [
+                    "Subscribe",
+                    "the Booker Prize"
+                ],
                 "NORP": [
                     "British"
                 ],
-                "PRODUCT": [
-                    "the Booker Prize-winning"
+                "ORG": [
+                    "Atonement"
                 ]
             }
         },
@@ -1711,13 +1802,13 @@
             "title": "5. Aminatou Sow on Finding Joy\n",
             "entities": {
                 "PERSON": [
-                    "/span><a",
                     "Aminatou Sow",
                     "the Juba Dance",
-                    "Aminatou Sow"
+                    "Ann Friedman"
                 ],
                 "ORG": [
-                    "Florence Price\u2019s"
+                    "Florence Price\u2019s",
+                    "Call Your Girlfriend"
                 ],
                 "ORDINAL": [
                     "first"
@@ -1725,11 +1816,12 @@
                 "DATE": [
                     "the day"
                 ],
-                "GPE": [
-                    "Aminatou"
-                ],
                 "PRODUCT": [
-                    "No.1"
+                    "Subscribe"
+                ],
+                "GPE": [
+                    "Aminatou Sow",
+                    "Aminatou"
                 ]
             }
         },
@@ -1780,20 +1872,25 @@
             "pubDate": "Fri, 13 Sep 2019 12:00:00 -0400",
             "title": "4. Milo\u0161 Karadagli\u0107 on Being Home\n",
             "entities": {
+                "PERSON": [
+                    "Milo\u0161 Karadagli\u0107",
+                    "Francisco T\u00e1rrega",
+                    "Milo\u0161",
+                    "Milo\u0161 Karadagli\u0107",
+                    "Milo\u0161",
+                    "Francisco T\u00e1rrega"
+                ],
                 "GPE": [
-                    "Karadagli\u0107</span></a><span",
                     "L\u00e1grima",
                     "London",
-                    "England"
+                    "England",
+                    "L\u00e1grima"
                 ],
                 "NORP": [
                     "Spanish"
                 ],
-                "PERSON": [
-                    "Francisco T\u00e1rrega",
-                    "Milo\u0161",
-                    "href=\"https://decca.lnk.to",
-                    "Milo\u0161"
+                "PRODUCT": [
+                    "Subscribe"
                 ]
             }
         },
@@ -1841,16 +1938,21 @@
             "pubDate": "Thu, 12 Sep 2019 12:00:00 -0400",
             "title": "3. Connie Viglietti on Making Grandma Proud\n",
             "entities": {
+                "WORK_OF_ART": [
+                    "Music is always there for us, we just"
+                ],
                 "PERSON": [
                     "Connie Viglietti",
                     "Grandma Ginger",
                     "Schubert",
                     "Ave Maria\u201d",
                     "Connie Viglietti",
-                    "width=\"80%\"></iframe><br>\u201cAve Maria"
+                    "Emaya",
+                    "Ave Maria\u201d",
+                    "Franz Schubert"
                 ],
-                "GPE": [
-                    "us.</span></p"
+                "PRODUCT": [
+                    "Subscribe"
                 ],
                 "FAC": [
                     "Yoga Vida"
@@ -1906,18 +2008,17 @@
             "entities": {
                 "GPE": [
                     "New York City",
-                    "New York City",
-                    "Valkyries"
+                    "New York City"
                 ],
                 "PERSON": [
                     "Rob Vogt",
                     "Richard Wagner",
+                    "Die Walk\u00fcre",
                     "Rob Vogt",
-                    "Foundation</a",
                     "Rob",
-                    "Stephen Siller.</span></em></p>\n<",
+                    "Stephen Siller",
                     "Rob",
-                    "Richard Wagner</h5"
+                    "Richard Wagner"
                 ],
                 "DATE": [
                     "the months"
@@ -1929,7 +2030,12 @@
                     "Francis Ford Coppola\u2019s"
                 ],
                 "WORK_OF_ART": [
+                    "Apocalypse Now",
+                    "Ride of the Valkyries",
                     "Ride of the Valkyries"
+                ],
+                "PRODUCT": [
+                    "Subscribe"
                 ]
             }
         },
@@ -1980,28 +2086,31 @@
                     "Alec Baldwin",
                     "Alec",
                     "Adagio",
-                    "Aram Khachaturian</span></h5"
+                    "Spartacus Suite",
+                    "Aram Khachaturian"
                 ],
                 "NORP": [
-                    "Adagio"
+                    "Adagio",
+                    "Khachaturian"
                 ],
                 "ORG": [
                     "Spartacus",
                     "Phrygia",
+                    "Spartacus",
                     "WNYC",
                     "WQXR",
+                    "the New York Philharmonic",
                     "Spartacus",
                     "Phrygia"
                 ],
-                "GPE": [
-                    "Khachaturian",
-                    "New York"
+                "PRODUCT": [
+                    "Subscribe"
                 ],
                 "WORK_OF_ART": [
-                    "heresthething\">Here\u2019s The Thing With Alec Baldwin</a>"
+                    "Here\u2019s The Thing With Alec Baldwin"
                 ],
                 "CARDINAL": [
-                    "2</em"
+                    "2"
                 ]
             }
         },
@@ -2042,18 +2151,20 @@
             "pubDate": "Wed, 21 Aug 2019 12:00:00 -0400",
             "title": "Introducing: The Open Ears Project\n",
             "entities": {
-                "EVENT": [
-                    "The Open Ears Project</strong> introduces"
+                "ORG": [
+                    "The Open Ears Project",
+                    "The Open Ears Project",
+                    "WNYC Studios"
                 ],
                 "DATE": [
-                    "September 10th</strong",
+                    "Tuesday\u00a0September 10th",
                     "day 1"
                 ],
-                "ORG": [
-                    "The Open Ears Project"
+                "LOC": [
+                    "Instagram"
                 ],
                 "PERSON": [
-                    "Studios</a>.</em></p"
+                    "Twitter"
                 ]
             }
         }

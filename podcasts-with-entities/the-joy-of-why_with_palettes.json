@@ -37,20 +37,18 @@
             "pubDate": "Wed, 19 Apr 2023 14:09:00 -0400",
             "title": "How Can Some Infinities Be Bigger Than Others?",
             "entities": {
-                "CARDINAL": [
-                    "400;\">The",
-                    "one"
-                ],
                 "ORDINAL": [
                     "first"
                 ],
                 "PERSON": [
                     "Steven Strogatz",
-                    "href=\"https://math.cornell.edu",
-                    "justin-moore\">Justin"
+                    "Justin Moore"
                 ],
                 "ORG": [
                     "Cornell University"
+                ],
+                "CARDINAL": [
+                    "one"
                 ]
             }
         },
@@ -156,7 +154,7 @@
                 ],
                 "ORG": [
                     "the California Institute of Technology",
-                    "Howard Hughes Medical Institute Investigator.</p"
+                    "Howard Hughes Medical Institute Investigator"
                 ]
             }
         },
@@ -188,6 +186,9 @@
             "pubDate": "Wed, 22 Feb 2023 14:32:00 -0500",
             "title": "How Will the Universe End?",
             "entities": {
+                "WORK_OF_ART": [
+                    "The Joy of Why"
+                ],
                 "ORG": [
                     "Quanta Magazine"
                 ],
@@ -264,11 +265,6 @@
             "pubDate": "Wed, 24 Aug 2022 14:00:00 -0400",
             "title": "Why and How Do We Dream?",
             "entities": {
-                "CARDINAL": [
-                    "400;\">Dreams",
-                    "400;\">Quanta",
-                    "400"
-                ],
                 "DATE": [
                     "recent decades",
                     "nightly"
@@ -286,15 +282,18 @@
                     "Samuel Velasco",
                     "Steven Strogatz"
                 ],
+                "WORK_OF_ART": [
+                    "The Joy of Why",
+                    "The Joy of Why"
+                ],
                 "ORG": [
+                    "Quanta Magazine",
                     "the Simons Foundation",
                     "the Simons Foundation",
                     "Quanta Magazine",
                     "Annie Melchor",
-                    "Leila Sloman"
-                ],
-                "WORK_OF_ART": [
-                    "The Joy of Why"
+                    "Leila Sloman",
+                    "quanta@simonsfoundation.org.\n"
                 ]
             }
         },
@@ -326,10 +325,16 @@
             "pubDate": "Wed, 10 Aug 2022 00:00:00 -0400",
             "title": "What Is Quantum Field Theory and Why Is It Incomplete?",
             "entities": {
-                "CARDINAL": [
-                    "400;\">Quantum",
-                    "400;\">Quanta",
-                    "400"
+                "ORG": [
+                    "Quantum",
+                    "the University of Cambridge",
+                    "Quanta Magazine",
+                    "the Simons Foundation",
+                    "the Simons Foundation",
+                    "Quanta Magazine",
+                    "Annie Melchor",
+                    "Leila Sloman",
+                    "quanta@simonsfoundation.org. \n"
                 ],
                 "PERSON": [
                     "Steven Strogatz",
@@ -344,15 +349,8 @@
                     "Samuel Velasco",
                     "Steven Strogatz"
                 ],
-                "ORG": [
-                    "the University of Cambridge",
-                    "the Simons Foundation",
-                    "the Simons Foundation",
-                    "Quanta Magazine",
-                    "Annie Melchor",
-                    "Leila Sloman"
-                ],
                 "WORK_OF_ART": [
+                    "The Joy of Why",
                     "The Joy of Why"
                 ]
             }
@@ -385,12 +383,6 @@
             "pubDate": "Wed, 27 Jul 2022 16:46:00 -0400",
             "title": "Why Do We Get Old, and Can Aging Be Reversed?",
             "entities": {
-                "CARDINAL": [
-                    "400;\">Everybody",
-                    "two",
-                    "400;\">Quanta",
-                    "400"
-                ],
                 "PERSON": [
                     "Steven Strogatz",
                     "Judith Campisi",
@@ -407,15 +399,20 @@
                 "PRODUCT": [
                     "Dena Dubal"
                 ],
+                "CARDINAL": [
+                    "two"
+                ],
+                "WORK_OF_ART": [
+                    "The Joy of Why",
+                    "The Joy of Why"
+                ],
                 "ORG": [
+                    "Quanta Magazine",
                     "the Simons Foundation",
                     "the Simons Foundation",
                     "Quanta Magazine",
                     "Annie Melchor",
                     "Leila Sloman"
-                ],
-                "WORK_OF_ART": [
-                    "The Joy of Why"
                 ]
             }
         },
@@ -458,17 +455,16 @@
                     "Jackie King",
                     "Michael Driver",
                     "Samuel Velasco",
-                    "Steven Strogatz",
-                    "aria-expanded=\"false\">quanta@simonsfoundation.org</a>.</p"
+                    "Steven Strogatz"
                 ],
                 "ORG": [
                     "Harvard University",
+                    "Quanta Magazine",
                     "the Simons Foundation",
                     "the Simons Foundation",
                     "Quanta Magazine",
                     "Annie Melchor",
-                    "Leila Sloman",
-                    "target=\"_blank"
+                    "Leila Sloman"
                 ],
                 "WORK_OF_ART": [
                     "Joy of Why",
@@ -496,26 +492,23 @@
             "pubDate": "Wed, 29 Jun 2022 00:00:00 -0400",
             "title": "Can Computers Be Mathematicians?",
             "entities": {
-                "CARDINAL": [
-                    "400;\">How",
-                    "400;\">Quanta",
-                    "400"
-                ],
                 "ORG": [
                     "AI",
                     "Imperial College London",
-                    "math.</span></p",
+                    "Quanta Magazine",
                     "the Simons Foundation",
                     "the Simons Foundation",
                     "Quanta Magazine",
                     "Annie Melchor",
-                    "Leila Sloman"
+                    "Leila Sloman",
+                    "quanta@simonsfoundation.org. \n"
                 ],
                 "DATE": [
                     "the last few years"
                 ],
                 "WORK_OF_ART": [
                     "Lean.",
+                    "The Joy of Why",
                     "The Joy of Why"
                 ],
                 "PERSON": [
@@ -570,17 +563,15 @@
                 "ORG": [
                     "the Carnegie Institution\u2019s Earth and Planets Laboratory",
                     "the University of Alberta",
+                    "Quanta Magazine",
                     "the Simons Foundation",
                     "the Simons Foundation",
                     "Quanta Magazine",
                     "Annie Melchor",
                     "Leila Sloman"
                 ],
-                "CARDINAL": [
-                    "400;\">Quanta",
-                    "400"
-                ],
                 "WORK_OF_ART": [
+                    "The Joy of Why",
                     "The Joy of Why"
                 ]
             }
@@ -605,12 +596,6 @@
             "pubDate": "Wed, 01 Jun 2022 13:00:00 -0400",
             "title": "How Could Life Evolve From Cyanide?",
             "entities": {
-                "CARDINAL": [
-                    "400;\">How",
-                    "two",
-                    "400;\">Quanta",
-                    "400"
-                ],
                 "LOC": [
                     "Earth"
                 ],
@@ -627,16 +612,21 @@
                     "Samuel Velasco",
                     "Steven Strogatz"
                 ],
+                "CARDINAL": [
+                    "two"
+                ],
                 "ORDINAL": [
                     "First"
                 ],
                 "WORK_OF_ART": [
                     "the Nobel Prize",
+                    "The Joy of Why",
                     "The Joy of Why"
                 ],
                 "ORG": [
                     "RNA",
                     "Bet\u00fcl Ka\u00e7ar",
+                    "Quanta Magazine",
                     "the Simons Foundation",
                     "the Simons Foundation",
                     "Quanta Magazine",
@@ -668,14 +658,18 @@
                 "PERSON": [
                     "Marcia Rieke",
                     "Nikole Lewis",
-                    "Steven Strogatz"
+                    "Steven Strogatz",
+                    "James Webb Space"
                 ],
                 "CARDINAL": [
                     "two"
                 ],
                 "ORG": [
                     "JWST",
-                    "the James Webb Space Telescope Reveal Another"
+                    "Quanta Magazine"
+                ],
+                "LOC": [
+                    "Earth"
                 ],
                 "ORDINAL": [
                     "first"
@@ -706,11 +700,9 @@
                     "Sean Carroll",
                     "Steven Strogatz"
                 ],
-                "WORK_OF_ART": [
-                    "target=\"_blank\">Where Do Space"
-                ],
                 "ORG": [
-                    "Time"
+                    "Time",
+                    "Quanta Magazine"
                 ],
                 "ORDINAL": [
                     "first"
@@ -738,10 +730,8 @@
             "title": "Why Is Inflammation a Dangerous Necessity?",
             "entities": {
                 "ORG": [
-                    "Shruti Naik"
-                ],
-                "WORK_OF_ART": [
-                    "target=\"_blank\">Why Is Inflammation a Dangerous Necessity?</a"
+                    "Shruti Naik",
+                    "Quanta Magazine"
                 ],
                 "ORDINAL": [
                     "first"
@@ -773,11 +763,11 @@
                     "Colin Adams",
                     "Lisa Piccirillo"
                 ],
-                "WORK_OF_ART": [
-                    "target=\"_blank\">Untangling Why Knots Are Important</a"
-                ],
                 "ORDINAL": [
                     "first"
+                ],
+                "ORG": [
+                    "Quanta Magazine"
                 ]
             }
         },
@@ -808,6 +798,9 @@
                 ],
                 "ORDINAL": [
                     "first"
+                ],
+                "ORG": [
+                    "Quanta Magazine"
                 ]
             }
         },
@@ -832,9 +825,12 @@
             "title": "Trailer: The Joy of Why",
             "entities": {
                 "PERSON": [
-                    "Steven Strogatz",
-                    "Quanta Magazine</em",
-                    "Curiosity Inspires"
+                    "Steven Strogatz"
+                ],
+                "ORG": [
+                    "Quanta Magazine",
+                    "Deep Curiosity Inspires",
+                    "Quanta Magazine"
                 ],
                 "ORDINAL": [
                     "first"
