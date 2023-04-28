@@ -31,11 +31,14 @@
             "pubDate": "Thu, 14 Oct 2021 08:00:00 -0000",
             "title": "An Avocado Revolution | Introducing 544 Days",
             "entities": {
-                "ORG": [
+                "PERSON": [
                     "Jason Rezaian",
+                    "Jason",
+                    "Evin prison",
+                    "Gimlet"
+                ],
+                "ORG": [
                     "The Washington Post\u2019s",
-                    "Gimlet",
-                    "Crooked Media",
                     "A24"
                 ],
                 "GPE": [
@@ -46,11 +49,11 @@
                     "July of 2014",
                     "544 Days"
                 ],
-                "PERSON": [
-                    "Jason"
-                ],
                 "ORDINAL": [
                     "first"
+                ],
+                "PRODUCT": [
+                    "Learn"
                 ]
             }
         },
@@ -75,26 +78,25 @@
             "pubDate": "Mon, 06 Jul 2020 10:00:00 -0000",
             "title": "Out Now: Bonus Episodes ",
             "entities": {
-                "ORG": [
+                "WORK_OF_ART": [
                     "Wind of Change",
-                    "Spotify"
+                    "The Love Song of Joanna Stingray",
+                    "Rocking Venezuela"
                 ],
                 "CARDINAL": [
                     "two"
                 ],
+                "GPE": [
+                    "Spotify"
+                ],
                 "ORDINAL": [
                     "first"
                 ],
-                "WORK_OF_ART": [
-                    "The Love Song of",
-                    "Rocking Venezuela"
-                ],
-                "PERSON": [
-                    "Joanna Stingray",
-                    "Learn"
-                ],
                 "DATE": [
                     "next Monday, July 13"
+                ],
+                "PERSON": [
+                    "Learn"
                 ]
             }
         },
@@ -123,8 +125,7 @@
             "title": "8. Hello, Klaus",
             "entities": {
                 "ORG": [
-                    "HANOVER",
-                    "Klaus Meine"
+                    "HANOVER"
                 ],
                 "GPE": [
                     "GERMANY",
@@ -138,10 +139,14 @@
                     "one"
                 ],
                 "PERSON": [
-                    "Patrick"
+                    "Patrick",
+                    "Klaus Meine"
                 ],
                 "WORK_OF_ART": [
                     "Wind of Change"
+                ],
+                "PRODUCT": [
+                    "Learn"
                 ]
             }
         },
@@ -189,6 +194,9 @@
                 ],
                 "NORP": [
                     "Russian"
+                ],
+                "PRODUCT": [
+                    "Learn"
                 ]
             }
         },
@@ -216,19 +224,15 @@
             "pubDate": "Mon, 15 Jun 2020 10:00:00 -0000",
             "title": "6. The Doctor Is In",
             "entities": {
-                "PERSON": [
-                    "CAYMAN ISLANDS",
-                    "Doc McGhee",
-                    "Manuel Noriega",
-                    "Patrick",
-                    "Doc"
-                ],
                 "DATE": [
                     "1982"
                 ],
-                "ORG": [
-                    "Scorpions",
-                    "CIA"
+                "PERSON": [
+                    "Doc McGhee",
+                    "Manuel Noriega",
+                    "Doc",
+                    "Patrick",
+                    "Doc"
                 ],
                 "CARDINAL": [
                     "one"
@@ -239,8 +243,14 @@
                     "Florida",
                     "Moscow"
                 ],
+                "ORG": [
+                    "CIA"
+                ],
                 "NORP": [
                     "Panamanian"
+                ],
+                "PRODUCT": [
+                    "Learn"
                 ]
             }
         },
@@ -270,7 +280,8 @@
             "entities": {
                 "GPE": [
                     "MOSCOW",
-                    "USSR"
+                    "USSR",
+                    "n\u2019t"
                 ],
                 "DATE": [
                     "1989",
@@ -279,12 +290,12 @@
                 ],
                 "PERSON": [
                     "Klaus Meine",
+                    "Scorpions",
                     "Bon Jovi",
                     "Ozzy Osbourne",
                     "Patrick"
                 ],
                 "ORG": [
-                    "Scorpions",
                     "the Moscow Music Peace Festival",
                     "KGB"
                 ],
@@ -293,6 +304,9 @@
                 ],
                 "NORP": [
                     "Russian"
+                ],
+                "PRODUCT": [
+                    "Learn"
                 ]
             }
         },
@@ -330,13 +344,14 @@
                 ],
                 "PERSON": [
                     "Patrick",
-                    "Scorpions",
                     "Patrick"
                 ],
                 "ORG": [
                     "CIA",
-                    "GI",
                     "CIA"
+                ],
+                "PRODUCT": [
+                    "Learn"
                 ]
             }
         },
@@ -365,7 +380,6 @@
             "title": "3. America\u2019s Secret Weapon",
             "entities": {
                 "GPE": [
-                    "LAGOS",
                     "NIGERIA",
                     "America"
                 ],
@@ -384,6 +398,9 @@
                     "CIA",
                     "the Nitty Gritty Dirt Band",
                     "CIA"
+                ],
+                "PRODUCT": [
+                    "Learn"
                 ]
             }
         },
@@ -413,7 +430,8 @@
             "entities": {
                 "GPE": [
                     "UKRAINE",
-                    "Ukraine"
+                    "Ukraine",
+                    "Kyiv"
                 ],
                 "DATE": [
                     "2019"
@@ -426,6 +444,9 @@
                 ],
                 "ORG": [
                     "CIA"
+                ],
+                "PRODUCT": [
+                    "Learn"
                 ]
             }
         },
@@ -453,12 +474,6 @@
             "pubDate": "Mon, 11 May 2020 09:45:00 -0000",
             "title": "1. My Friend Michael",
             "entities": {
-                "ORG": [
-                    "VIRGINIA",
-                    "Scorpions",
-                    "New Yorker",
-                    "CIA"
-                ],
                 "DATE": [
                     "2011",
                     "decades later"
@@ -469,11 +484,16 @@
                 "EVENT": [
                     "the Cold War"
                 ],
-                "PERSON": [
-                    "Patrick Radden Keefe"
+                "ORG": [
+                    "New Yorker",
+                    "CIA"
                 ],
-                "NORP": [
+                "PERSON": [
+                    "Patrick Radden Keefe",
                     "Scorpions"
+                ],
+                "PRODUCT": [
+                    "Learn"
                 ]
             }
         },
@@ -513,8 +533,10 @@
                     "Patrick Radden Keefe"
                 ],
                 "EVENT": [
-                    "Cold War",
-                    "an Original Series"
+                    "Cold War"
+                ],
+                "PRODUCT": [
+                    "Learn"
                 ]
             }
         }
@@ -564,7 +586,11 @@
     "title": "Wind of Change",
     "entities": {
         "DATE": [
-            "1990"
+            "1990",
+            "Decades later"
+        ],
+        "FAC": [
+            "The Berlin Wall"
         ],
         "GPE": [
             "The Soviet Union",
@@ -574,17 +600,12 @@
             "Wind of Change"
         ],
         "PERSON": [
-            "Scorpions",
-            "Patrick Radden Keefe",
-            "Scorpions"
+            "Patrick Radden Keefe"
         ],
         "ORG": [
             "CIA",
             "Pineapple Street Studios",
             "Crooked Media"
-        ],
-        "EVENT": [
-            "an Original Series"
         ]
     }
 }

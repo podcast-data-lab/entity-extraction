@@ -36,11 +36,10 @@
             "pubDate": "Thu, 18 Jun 2020 20:50:36 +0000",
             "title": "Juneteenth: Freedom for All",
             "entities": {
-                "EVENT": [
-                    "the Fourth of July"
-                ],
                 "DATE": [
+                    "Fourth of July",
                     "June 19th",
+                    "the true day",
                     "Juneteenth"
                 ],
                 "PERSON": [
@@ -124,7 +123,7 @@
                     "four"
                 ],
                 "ORG": [
-                    "a Chicago Public School"
+                    "Chicago Public School"
                 ]
             }
         },
@@ -159,6 +158,9 @@
                     "This week"
                 ],
                 "ORG": [
+                    "a Together Apart Digital Speed Dating Experiment"
+                ],
+                "GPE": [
                     "IRL"
                 ]
             }
@@ -330,14 +332,20 @@
             "pubDate": "Wed, 8 Apr 2020 09:30:00 +0000",
             "title": "How is This Night Different Than All Other Nights?",
             "entities": {
+                "WORK_OF_ART": [
+                    "Passover Seder"
+                ],
                 "CARDINAL": [
-                    "40"
+                    "over 40"
                 ],
                 "DATE": [
                     "40 years"
                 ],
                 "PERSON": [
                     "Priya Parker"
+                ],
+                "ORG": [
+                    "Passover"
                 ],
                 "TIME": [
                     "this night"
@@ -371,9 +379,11 @@
             "title": "Introducing 'Together Apart'",
             "entities": {
                 "PERSON": [
-                    "Priya Parker"
+                    "still</em",
+                    "Priya Parker",
+                    "Times.</p"
                 ],
-                "ORG": [
+                "FAC": [
                     "Magnificent Noise"
                 ],
                 "GPE": [
@@ -419,10 +429,14 @@
     "title": "Together Apart",
     "entities": {
         "PERSON": [
-            "Priya Parker"
+            "Together Apart",
+            "Priya Parker",
+            "Together Apart"
+        ],
+        "FAC": [
+            "Magnificent Noise"
         ],
         "ORG": [
-            "Magnificent Noise",
             "The New York Times"
         ]
     }

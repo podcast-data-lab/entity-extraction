@@ -33,9 +33,6 @@
             "pubDate": "Tue, 21 Sep 2021 07:58:00 GMT",
             "title": "La Poudre passe chez Spotify",
             "entities": {
-                "DATE": [
-                    "qu'\u00e0"
-                ],
                 "CARDINAL": [
                     "20",
                     "6",
@@ -43,22 +40,23 @@
                 ],
                 "PERSON": [
                     "La Poudre s\u2019\u00e9coutera",
-                    "miette de la",
-                    "de La Poudre",
-                    "Bien s\u00fbr",
-                    "La Poudre",
-                    "de se cr\u00e9er un compte",
-                    "rien ne",
-                    "La Poudre",
-                    "explosifs",
-                    "jamais"
+                    "miette de la saison",
+                    "Bien s\u00fbr"
                 ],
-                "NORP": [
-                    "dans"
+                "GPE": [
+                    "Si",
+                    "Spotify"
+                ],
+                "PRODUCT": [
+                    "Spotify"
                 ],
                 "ORG": [
-                    "Spotify",
-                    "cette saison va receler d\u2019\u00e9pisodes"
+                    "dans la rubrique",
+                    "La Poudre",
+                    "cr\u00e9er un compte"
+                ],
+                "FAC": [
+                    "La Poudre"
                 ]
             }
         },
@@ -84,35 +82,9 @@
             "pubDate": "Thu, 15 Jul 2021 04:00:00 GMT",
             "title": "\u00c9pisode 100 - Penser les futurs f\u00e9ministes",
             "entities": {
-                "PERSON": [
-                    "La Poudre",
-                    "Si cet",
-                    "Les",
-                    "Manon Garcia",
-                    "Sandra Laugier",
-                    "de La Poudre",
-                    "de notre",
-                    "L\u2019\u00e9dito de Lauren",
-                    "juste apr\u00e8s",
-                    "\u00e7a vous regarde",
-                    "j\u2019appelle cet",
-                    "\u00e7a raconte aussi",
-                    "\u00e7a raconte le fait que",
-                    "ben si",
-                    "Je m\u2019envole",
-                    "J\u2019arr\u00eate pas de m\u2019envoler",
-                    "aussi",
-                    "Charlotte Casiraghi",
-                    "de La Poudre",
-                    "La Poudre",
-                    "Lauren Bastide",
-                    "Manon Garcia",
-                    "Sandra Laugier",
-                    "\u00c9l\u00e9onore L\u00e9pinard",
-                    "aussi"
-                ],
                 "CARDINAL": [
                     "6",
+                    "100e",
                     "18",
                     "100",
                     "100",
@@ -120,45 +92,71 @@
                     "100",
                     "100"
                 ],
-                "ORG": [
-                    "nombreux",
+                "PERSON": [
+                    "Si cet \u00e9pisode",
+                    "Manon Garcia",
+                    "Sandra Laugier",
                     "Avec Lauren Bastide",
-                    "bref",
-                    "ont beaucoup parl\u00e9 des hommes",
-                    "notre cuisine",
-                    "chaque d\u00e9compte",
-                    "Chaque",
-                    "fabuleux",
-                    "la philosophie",
-                    "une",
-                    "une",
-                    "Une",
-                    "du fond du c\u0153ur",
+                    "L\u2019\u00e9dito de Lauren",
+                    "juste apr\u00e8s",
+                    "Mais",
+                    "chaque chiffre",
+                    "imbib\u00e9e de l\u2019identit\u00e9 de celle",
+                    "ben si",
+                    "Je m\u2019envole un peu l\u00e0",
+                    "J\u2019arr\u00eate pas de m\u2019envoler",
+                    "aussi chouette",
+                    "Charlotte Casiraghi",
+                    "autour de la",
+                    "fond du c\u0153ur d\u2019avoir suivi",
+                    "de La Poudre",
+                    "r\u00e9seaux sociaux",
                     "Instagram",
                     "courant de la",
-                    "une"
+                    "R\u00e9sum\u00e9 de l\u2019\u00e9pisode :",
+                    "Lauren Bastide",
+                    "Sandra Laugier",
+                    "\u00c9l\u00e9onore L\u00e9pinard",
+                    "mais aussi",
+                    "menac\u00e9e",
+                    "mais constatent"
                 ],
-                "GPE": [
+                "FAC": [
                     "Spotify",
-                    "allait",
-                    "qui",
-                    "\u00eatre",
-                    "menac\u00e9e"
+                    "La Poudre",
+                    "Manon Garcia"
                 ],
-                "PRODUCT": [
-                    "100e",
-                    "139e"
-                ],
-                "WORK_OF_ART": [
+                "ORG": [
                     "Rencontres Philosophiques de Monaco",
-                    "Rencontres Philosophiques de Monaco"
+                    "qu\u2019il",
+                    "un",
+                    "Chaque",
+                    "l\u2019auteur",
+                    "un",
+                    "Rencontres Philosophiques de Monaco",
+                    "j\u2019ai saut\u00e9 de joie",
+                    "qu\u2019il"
                 ],
                 "DATE": [
                     "2021"
                 ],
+                "GPE": [
+                    "bref",
+                    "la rentr\u00e9e",
+                    "la pens\u00e9e"
+                ],
+                "PRODUCT": [
+                    "139e",
+                    "peu ce",
+                    "qu\u2019on allait"
+                ],
                 "NORP": [
+                    "fabuleux",
                     "dans",
                     "dans"
+                ],
+                "TIME": [
+                    "09:25"
                 ]
             }
         },
@@ -186,57 +184,59 @@
             "entities": {
                 "CARDINAL": [
                     "6",
-                    "16",
-                    "05.36",
                     "33:36).&nbsp"
                 ],
                 "PERSON": [
-                    "Si cet",
-                    "de La Poudre",
+                    "Si cet \u00e9pisode",
                     "Rebecca Zlotowski",
-                    "R\u00e9compens\u00e9e du",
+                    "Prix Louis-Delluc",
                     "L\u00e9a Seydoux",
-                    "Zlotowski",
+                    "d'affiche,&nbsp;Rebecca Zlotowski",
+                    "consid\u00e9r\u00e9e comme",
+                    "nouveau",
                     "Natalie Portman",
                     "Rebecca Zlotowski",
                     "Lauren Bastide&nbsp;les",
-                    "mort de sa",
+                    "qui ont fa\u00e7onn\u00e9 sa",
+                    "la mort de sa",
                     "L\u00e9a Seydoux",
-                    "Nouvelles \u00c9coutes R\u00e9alisation",
+                    "Aurore Meyer-Mahieu",
                     "Zaki Allal"
                 ],
-                "ORG": [
-                    "nombreux",
-                    "d\u2019h\u00f4tel",
-                    "Prix Louis-Delluc",
-                    "Prix Fran\u00e7ois Chalais",
-                    "La Poudre&nbsp;est",
-                    "Aurore Meyer-Mahieu",
-                    "enregistr\u00e9 \u00e0 l\u2019H\u00f4tel Providence",
-                    "Blue Microphones",
-                    "California Privacy Notice",
-                    "https://art19.com/privacy#do-not-sell-my-info.</p>\n"
+                "FAC": [
+                    "Spotify"
                 ],
-                "GPE": [
-                    "pour&nbsp;\"Belle"
+                "NORP": [
+                    "Dans",
+                    "dans",
+                    "dans"
+                ],
+                "ORG": [
+                    "d\u2019h\u00f4tel",
+                    "de sa",
+                    "de sa",
+                    "La Poudre&nbsp;est",
+                    "Zisla",
+                    "enregistr\u00e9 \u00e0 l\u2019H\u00f4tel Providence",
+                    "gr\u00e2ce",
+                    "soutien des micros Blue Microphones"
                 ],
                 "DATE": [
                     "2011",
-                    "2013",
-                    "2016"
-                ],
-                "NORP": [
-                    "dans"
+                    "2013"
                 ],
                 "WORK_OF_ART": [
-                    "Un Certain Regard au&nbsp;Festival de Cannes",
+                    "Un Certain Regard",
                     "Grand Central",
-                    "Planetarium"
+                    "Nouvelles \u00c9coutes R\u00e9alisation et g\u00e9n\u00e9rique :"
                 ],
                 "TIME": [
+                    "16 novembre 2016",
                     "19:03",
-                    "24:30",
-                    "29:22"
+                    "24:30"
+                ],
+                "GPE": [
+                    "California"
                 ]
             }
         },
@@ -262,20 +262,17 @@
             "pubDate": "Thu, 03 Nov 2016 17:42:11 GMT",
             "title": "Bande-annonce",
             "entities": {
+                "ORDINAL": [
+                    "1er"
+                ],
                 "PERSON": [
-                    "de La Poudre",
-                    "Lauren Bastide reviendra",
-                    "La Poudre",
+                    "Lauren Bastide",
                     "go\u00fbt de ce qui"
                 ],
                 "ORG": [
-                    "\u00e7a",
-                    "un jeudi sur deux",
+                    "un",
                     "un",
                     "un"
-                ],
-                "GPE": [
-                    "qui"
                 ],
                 "CARDINAL": [
                     "21\u00e8me"
@@ -306,7 +303,7 @@
         "summary": "<p>Deux fois par mois, au micro de Lauren Bastide, \u00e9crivaines, artistes, chercheuses et militantes se racontent et prennent le pouls des luttes f\u00e9ministes et antiracistes contemporaines.\u00a0</p><p>Depuis 2016, la journaliste re\u00e7oit dans La Poudre des femmes artistes, militantes ou politiques pour des conversations intimes et profondes qui ont passionn\u00e9 de millions d\u2019auditeurices. Ces r\u00e9cits, enrichis de documentaires \u00e9v\u00e9nementiels, de tables rondes, et d\u2019analyses par les plus grandes expertes des luttes pour les droits des femmes, en France et dans le monde, forment un tableau captivant de la soci\u00e9t\u00e9 \u00e0 l\u2019heure de la r\u00e9volution #MeToo.\u00a0</p><p>La Poudre was created by journalist and feminist activist Lauren Bastide, co-founder of Nouvelles Ecoutes studio, to offer women a safe space to express themselves. In a one-hour long, in-depth conversation, inspirational women artists, activists, scientists and politics talk about themselves, their path and struggles, but also about the incredible times we are living for women\u2019s rights. Many episodes of La Poudre have been recorded or dubbed into English. Search for the \ud83c\uddec\ud83c\udde7 !</p>"
     },
     "language": "fr-fr",
-    "lastBuildDate": "Tue, 19 Apr 2022 09:58:06 GMT",
+    "lastBuildDate": "Wed, 25 May 2022 07:22:36 GMT",
     "link": "https://anchor.fm/lauren-bastide",
     "paginationLinks": {
         "self": "https://anchor.fm/s/6a2cdc64/podcast/rss"
@@ -322,24 +319,25 @@
     "title": "La Poudre",
     "entities": {
         "PERSON": [
-            "par mois",
+            "Depuis 2016",
+            "dans La Poudre",
+            "qui ont passionn\u00e9",
+            "MeToo",
             "La Poudre",
-            "un tableau",
-            "Lauren Bastide",
-            "Nouvelles Ecoutes"
-        ],
-        "DATE": [
-            "2016"
-        ],
-        "ORG": [
-            "la journaliste re\u00e7oit",
-            "La Poudre"
+            "Lauren Bastide"
         ],
         "GPE": [
+            "la",
             "France"
         ],
         "NORP": [
             "dans"
+        ],
+        "ORG": [
+            "un",
+            "de la",
+            "Nouvelles Ecoutes",
+            "La Poudre"
         ],
         "TIME": [
             "one-hour"

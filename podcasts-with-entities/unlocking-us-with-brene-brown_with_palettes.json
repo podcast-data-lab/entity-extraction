@@ -34,6 +34,9 @@
                     "2",
                     "two",
                     "four"
+                ],
+                "PRODUCT": [
+                    "Learn"
                 ]
             }
         },
@@ -61,6 +64,9 @@
             "entities": {
                 "CARDINAL": [
                     "two"
+                ],
+                "PRODUCT": [
+                    "Learn"
                 ]
             }
         },
@@ -93,6 +99,9 @@
                 ],
                 "CARDINAL": [
                     "three"
+                ],
+                "PRODUCT": [
+                    "Learn"
                 ]
             }
         },
@@ -125,10 +134,13 @@
                     "America"
                 ],
                 "WORK_OF_ART": [
-                    "I\u2019m Still Here: Black Dignity"
+                    "I\u2019m Still Here: Black Dignity in a World Made for Whiteness"
                 ],
                 "ORG": [
-                    "Next"
+                    "The Next Question"
+                ],
+                "PRODUCT": [
+                    "Learn"
                 ]
             }
         },
@@ -167,12 +179,19 @@
                     "two",
                     "three"
                 ],
+                "MONEY": [
+                    "#1",
+                    "over $25 Million"
+                ],
                 "GPE": [
                     "New York",
                     "Florida"
                 ],
-                "MONEY": [
-                    "$25 Million"
+                "WORK_OF_ART": [
+                    "Love Warrior"
+                ],
+                "PRODUCT": [
+                    "Learn"
                 ]
             }
         },
@@ -199,12 +218,15 @@
             "pubDate": "Thu, 09 Jan 2020 17:26:00 -0000",
             "title": "Introducing: Unlocking Us",
             "entities": {
-                "ORG": [
-                    "New York Times",
-                    "Subscribe"
+                "MONEY": [
+                    "#1 New York Times"
                 ],
                 "PERSON": [
                     "Bren\u00e9 Brown"
+                ],
+                "PRODUCT": [
+                    "Subscribe",
+                    "Learn"
                 ]
             }
         }
@@ -264,7 +286,7 @@
             "Us"
         ],
         "ORG": [
-            "Spotify Original"
+            "a Spotify Original"
         ]
     }
 }

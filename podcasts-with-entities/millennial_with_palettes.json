@@ -12,6 +12,35 @@
     },
     "items": [
         {
+            "content": "\r\n        <p>Megan is back behind the mic with a brand new podcast Snooze by LAist Studios. She\u2019s still tackling life and dreaming big. So big, that she\u2019s made a podcast dedicated to helping others achieve their goals and dreams. How millennial.</p>\r\n      ",
+            "content:encoded": "\r\n        <p>Megan is back behind the mic with a brand new podcast Snooze by LAist Studios. She\u2019s still tackling life and dreaming big. So big, that she\u2019s made a podcast dedicated to helping others achieve their goals and dreams. How millennial.</p>\r\n      ",
+            "content:encodedSnippet": "Megan is back behind the mic with a brand new podcast Snooze by LAist Studios. She\u2019s still tackling life and dreaming big. So big, that she\u2019s made a podcast dedicated to helping others achieve their goals and dreams. How millennial.",
+            "contentSnippet": "Megan is back behind the mic with a brand new podcast Snooze by LAist Studios. She\u2019s still tackling life and dreaming big. So big, that she\u2019s made a podcast dedicated to helping others achieve their goals and dreams. How millennial.",
+            "enclosure": {
+                "length": "91666592",
+                "type": "audio/mpeg",
+                "url": "https://dts.podtrac.com/redirect.mp3/media.blubrry.com/millennial/dovetail.prxu.org/26/2fa806dc-8e08-4a63-8804-7d0a72e15772/Snooze_S1E1_Pilot_PRX_FINAL.mp3"
+            },
+            "guid": "prx_26_2fa806dc-8e08-4a63-8804-7d0a72e15772",
+            "isoDate": "2022-05-02T04:00:00.000Z",
+            "itunes": {
+                "author": "Megan Tan & LAist",
+                "duration": "40:41",
+                "image": "https://f.prxu.org/millennial/images/aa63cbdd-3603-481a-b726-4c209a23875c/millennial-1400.png",
+                "subtitle": "Megan is back behind the mic with a brand new podcast Snooze by LAist Studios.",
+                "summary": "\r\n        Megan is back behind the mic with a brand new podcast Snooze by LAist Studios. She\u2019s still tackling life and dreaming big. So big, that she\u2019s made a podcast dedicated to helping others achieve their goals and dreams. How millennial.\r\n      "
+            },
+            "link": "https://beta.prx.org/stories/415275",
+            "pubDate": "Mon, 02 May 2022 04:00:00 -0000",
+            "title": "#Bonus Welcome Back",
+            "entities": {
+                "ORG": [
+                    "Snooze",
+                    "LAist Studios"
+                ]
+            }
+        },
+        {
             "categories": [
                 "\r\n        Uncategorized\r\n      "
             ],
@@ -201,6 +230,9 @@
                 "ORG": [
                     "Radiotopia"
                 ],
+                "WORK_OF_ART": [
+                    "Doing Time"
+                ],
                 "PERSON": [
                     "Ear Hustle",
                     "Ear Hustle"
@@ -383,6 +415,9 @@
             "entities": {
                 "ORG": [
                     "IRS"
+                ],
+                "NORP": [
+                    "yourself?</strong></p"
                 ]
             }
         },
@@ -440,7 +475,11 @@
             "title": "#35 Alas Para Volar",
             "entities": {
                 "GPE": [
-                    "Cuba"
+                    "Cuba",
+                    "n\u2019t easy.</p"
+                ],
+                "ORG": [
+                    "machismo"
                 ]
             }
         },
@@ -470,11 +509,11 @@
             "pubDate": "Wed, 25 Jan 2017 02:31:21 -0000",
             "title": "#34 Pies Secos, Pies Mojados",
             "entities": {
-                "WORK_OF_ART": [
-                    "Wet Foot"
+                "PERSON": [
+                    "Pies Mojados"
                 ],
-                "FAC": [
-                    "Dry Foot"
+                "WORK_OF_ART": [
+                    "Wet Foot, Dry Foot"
                 ],
                 "GPE": [
                     "U.S.",
@@ -482,9 +521,6 @@
                 ],
                 "NORP": [
                     "Cubans"
-                ],
-                "DATE": [
-                    "reality?</strong></p>\r\n      "
                 ]
             }
         },
@@ -553,6 +589,7 @@
             "entities": {
                 "DATE": [
                     "a year",
+                    "Millennial",
                     "next year"
                 ],
                 "PERSON": [
@@ -613,12 +650,14 @@
             "pubDate": "Thu, 17 Nov 2016 03:51:53 -0000",
             "title": "#30 Thirty-Year Plan",
             "entities": {
-                "DATE": [
-                    "year-to-year",
-                    "30-year-plan.</strong></p>\r\n      "
+                "GPE": [
+                    "n\u2019t"
                 ],
                 "ORDINAL": [
                     "first"
+                ],
+                "DATE": [
+                    "30-year"
                 ]
             }
         },
@@ -701,11 +740,7 @@
             "link": "https://beta.prx.org/stories/255760",
             "pubDate": "Wed, 05 Oct 2016 06:14:59 -0000",
             "title": "#27 Work in Progress",
-            "entities": {
-                "LANGUAGE": [
-                    "real?</p"
-                ]
-            }
+            "entities": {}
         },
         {
             "categories": [
@@ -760,8 +795,8 @@
             "pubDate": "Thu, 08 Sep 2016 12:58:34 -0000",
             "title": "#25 Must Love Podcasts",
             "entities": {
-                "PRODUCT": [
-                    "Millennial\u2019s"
+                "ORG": [
+                    "Millennial"
                 ],
                 "ORDINAL": [
                     "first"
@@ -855,7 +890,11 @@
             "link": "https://beta.prx.org/stories/255765",
             "pubDate": "Wed, 20 Jul 2016 10:27:19 -0000",
             "title": "#22 Screw It, I\u2019m Going Outside",
-            "entities": {}
+            "entities": {
+                "DATE": [
+                    "summer"
+                ]
+            }
         },
         {
             "categories": [
@@ -882,11 +921,7 @@
             "link": "https://beta.prx.org/stories/255766",
             "pubDate": "Wed, 06 Jul 2016 13:37:28 -0000",
             "title": "#21 Moving Out",
-            "entities": {
-                "CARDINAL": [
-                    "20s?</p"
-                ]
-            }
+            "entities": {}
         },
         {
             "categories": [
@@ -1064,6 +1099,9 @@
             "entities": {
                 "PERSON": [
                     "Chuck"
+                ],
+                "NORP": [
+                    "dud.</p"
                 ]
             }
         },
@@ -1379,6 +1417,9 @@
                 ],
                 "GPE": [
                     "New York City"
+                ],
+                "PERSON": [
+                    "job.</p"
                 ]
             }
         },
@@ -1437,6 +1478,9 @@
             "pubDate": "Fri, 24 Apr 2015 22:02:09 -0000",
             "title": "#4 Nothing To Lose",
             "entities": {
+                "DATE": [
+                    "Millennial"
+                ],
                 "ORDINAL": [
                     "first"
                 ]
@@ -1556,7 +1600,7 @@
         "summary": "\r\n      A podcast series about maneuvering your 20s, captured in real time.<p/><a href=\"http://www.millennialpodcast.org\">Millennial</a>  is a proud member of Radiotopia, from PRX. Learn more at <a href=\"http://radiotopia.fm/\">radiotopia.fm</a>.\r\n    "
     },
     "language": "en",
-    "lastBuildDate": "Wed, 13 Apr 2022 20:05:30 -0000",
+    "lastBuildDate": "Mon, 02 May 2022 04:00:14 -0000",
     "link": "http://millennialpodcast.org/",
     "managingEditor": "megan@millennialpodcast.org (Megan Tan & Radiotopia)",
     "palette": [
@@ -1567,7 +1611,7 @@
         "F48019",
         "C081CB"
     ],
-    "pubDate": "Wed, 16 Aug 2017 13:02:57 -0000",
+    "pubDate": "Mon, 02 May 2022 04:00:00 -0000",
     "title": "Millennial",
     "ttl": "60",
     "webMaster": "help@prx.org (PRX)",
@@ -1576,10 +1620,11 @@
             "20s"
         ],
         "ORG": [
-            "Radiotopia"
-        ],
-        "PRODUCT": [
+            "Radiotopia",
             "PRX"
+        ],
+        "PERSON": [
+            "Learn"
         ]
     }
 }

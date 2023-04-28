@@ -23,17 +23,15 @@
             "itunes": {
                 "author": "Bloomberg",
                 "duration": "2117",
+                "episode": "7",
                 "image": "https://www.omnycontent.com/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/eb445b2f-243f-4db6-9062-ae2b0012ff27/d9d37fbb-de0c-4925-a2a7-ae77004ac112/image.jpg?t=1649910735&size=Large",
+                "season": "3",
                 "summary": "The Amazon Story"
             },
             "link": "https://omny.fm/shows/foundering/amazon-part-7-the-final-frontier",
             "pubDate": "Thu, 14 Apr 2022 04:00:00 +0000",
             "title": "Amazon Part 7: The Final Frontier",
             "entities": {
-                "DATE": [
-                    "the end of an era",
-                    "30 years"
-                ],
                 "PERSON": [
                     "Jeff Bezos",
                     "Andy Jassy",
@@ -52,8 +50,13 @@
                     "one",
                     "One"
                 ],
+                "LOC": [
+                    "Staten Island"
+                ],
+                "DATE": [
+                    "30 years"
+                ],
                 "GPE": [
-                    "Staten Island",
                     "Seattle"
                 ]
             }
@@ -85,12 +88,14 @@
             "entities": {
                 "PERSON": [
                     "Jeff Bezos",
+                    "MacKenzie Scott",
                     "Bezos",
                     "Brad Stone",
                     "Bezos"
                 ],
                 "DATE": [
                     "early 2019",
+                    "A day",
                     "25-year"
                 ],
                 "ORG": [
@@ -124,7 +129,8 @@
             "title": "Amazon Part 5: The Price of Speedy Delivery",
             "entities": {
                 "DATE": [
-                    "its first 20 years"
+                    "its first 20 years",
+                    "one\u00a0Christmas"
                 ],
                 "ORG": [
                     "Amazon",
@@ -132,6 +138,7 @@
                     "Amazon"
                 ],
                 "PERSON": [
+                    "Jeff Bezos",
                     "Brad Stone"
                 ]
             }
@@ -170,7 +177,8 @@
                 ],
                 "ORG": [
                     "Amazon",
-                    "the Amazon Marketplace"
+                    "Amazon.com",
+                    "Amazon"
                 ],
                 "GPE": [
                     "Seattle"
@@ -294,14 +302,13 @@
             "pubDate": "Thu, 10 Mar 2022 05:01:00 +0000",
             "title": "Amazon Part 1: The Inventor vs. The Monopolist",
             "entities": {
-                "DATE": [
-                    "Today",
-                    "1994",
-                    "years"
-                ],
                 "ORG": [
                     "Amazon",
                     "Amazon"
+                ],
+                "DATE": [
+                    "1994",
+                    "years"
                 ],
                 "PERSON": [
                     "Jeff Bezos",
@@ -310,9 +317,6 @@
                 ],
                 "CARDINAL": [
                     "two"
-                ],
-                "GPE": [
-                    "Kindle"
                 ]
             }
         },
@@ -347,15 +351,13 @@
                     "Amazon",
                     "Amazon",
                     "Amazon",
+                    "Amazon Unbound",
                     "Amazon"
                 ],
                 "PERSON": [
                     "Jeff Bezos",
                     "Bezos",
                     "Brad Stone"
-                ],
-                "WORK_OF_ART": [
-                    "Amazon Unbound"
                 ]
             }
         },
@@ -390,14 +392,16 @@
                     "RNA",
                     "Apple Podcasts"
                 ],
+                "PERSON": [
+                    "Covid",
+                    "Covid",
+                    "Breakthrough"
+                ],
                 "DATE": [
                     "months",
                     "2020",
                     "Oct. 19",
                     "today"
-                ],
-                "PERSON": [
-                    "Covid"
                 ],
                 "ORDINAL": [
                     "first"
@@ -488,7 +492,6 @@
                     "Chinese"
                 ],
                 "ORG": [
-                    "Facebook",
                     "TikTok",
                     "TikTok"
                 ]
@@ -681,9 +684,12 @@
             "entities": {
                 "ORG": [
                     "TikTok",
-                    "Bloomberg Technology"
+                    "TikTok",
+                    "Bloomberg Technology",
+                    "TikTok"
                 ],
                 "CARDINAL": [
+                    "2 billion",
                     "two"
                 ],
                 "DATE": [
@@ -739,8 +745,9 @@
                     "Donald Trump"
                 ],
                 "ORG": [
-                    "Bloomberg",
-                    "Prognosis",
+                    "Doubt",
+                    "Bloomberg\u2019s Prognosis",
+                    "Doubt",
                     "Prognosis",
                     "Apple Podcasts"
                 ],
@@ -776,16 +783,19 @@
             "title": "WeWork Part 7: In the End, There Was Adam",
             "entities": {
                 "ORG": [
-                    "WeWork's",
                     "WeWork",
-                    "WeWork's"
+                    "IPO",
+                    "WeWork",
+                    "WeWork"
                 ],
                 "CARDINAL": [
                     "thousands"
                 ],
                 "PERSON": [
                     "Adam Neumann",
-                    "Ellen Huet"
+                    "Ellen Huet",
+                    "Adam",
+                    "Adam"
                 ],
                 "GPE": [
                     "Israel"
@@ -817,6 +827,8 @@
             "title": "WeWork Part 6: IPO -- Just Kidding",
             "entities": {
                 "ORG": [
+                    "WeWork",
+                    "IPO",
                     "WeWork"
                 ],
                 "DATE": [
@@ -829,7 +841,6 @@
                 ],
                 "PERSON": [
                     "Adam Neumann",
-                    "WeWork",
                     "Ellen Huet"
                 ]
             }
@@ -858,7 +869,7 @@
             "entities": {
                 "ORG": [
                     "Berta Caceres",
-                    "Bloomberg\u2019s"
+                    "Bloomberg\u2019s Blood River"
                 ],
                 "CARDINAL": [
                     "More than 100"
@@ -872,7 +883,6 @@
                     "July 27"
                 ],
                 "LOC": [
-                    "Blood River",
                     "Blood River"
                 ]
             }
@@ -903,16 +913,22 @@
             "entities": {
                 "PERSON": [
                     "Adam Neumann",
-                    "Masayoshi Son",
-                    "Ellen Huet"
+                    "Adam",
+                    "Ellen Huet",
+                    "Adam"
                 ],
                 "DATE": [
-                    "2017"
+                    "2017",
+                    "2016"
                 ],
                 "ORG": [
                     "SoftBank",
+                    "Masayoshi Son",
                     "SoftBank",
                     "WeWork"
+                ],
+                "CARDINAL": [
+                    "billions"
                 ]
             }
         },
@@ -942,6 +958,8 @@
             "title": "WeWork Part 4: WeWork Sued Her the Same Day",
             "entities": {
                 "ORG": [
+                    "WeWork",
+                    "WeWork",
                     "WeWork"
                 ],
                 "PERSON": [
@@ -985,10 +1003,12 @@
                 "ORG": [
                     "WeWork",
                     "Bloomberg",
-                    "WeWork\u2019s"
+                    "WeWork",
+                    "WeWork"
                 ],
                 "PERSON": [
-                    "Adam Neumann"
+                    "Adam Neumann",
+                    "Adam"
                 ],
                 "TIME": [
                     "late night"
@@ -1019,12 +1039,12 @@
             "pubDate": "Thu, 25 Jun 2020 10:01:00 +0000",
             "title": "WeWork Part 2: The Bar Is Now at Your Desk",
             "entities": {
-                "PERSON": [
-                    "Beer",
-                    "Ellen Huet"
-                ],
                 "ORG": [
+                    "WeWork",
                     "WeWork\u2019s"
+                ],
+                "PERSON": [
+                    "Ellen Huet"
                 ],
                 "DATE": [
                     "early days"
@@ -1057,23 +1077,26 @@
             "title": "WeWork Part 1: Capitalist Kibbutz",
             "entities": {
                 "CARDINAL": [
-                    "1",
-                    "2.0"
+                    "1"
                 ],
                 "PERSON": [
                     "Adam Neumann",
                     "WeWork",
-                    "Ellen Huet"
+                    "Ellen Huet",
+                    "Adam"
                 ],
                 "ORG": [
                     "WeWork",
                     "WeWork"
                 ],
                 "DATE": [
-                    "his years"
+                    "years"
                 ],
                 "GPE": [
                     "Israel"
+                ],
+                "PRODUCT": [
+                    "WeWork"
                 ]
             }
         },
@@ -1101,7 +1124,8 @@
             "title": "Introducing Foundering",
             "entities": {
                 "PERSON": [
-                    "Adam Neumann"
+                    "Adam Neumann",
+                    "WeWork"
                 ],
                 "CARDINAL": [
                     "thousands"
@@ -1109,8 +1133,7 @@
                 "DATE": [
                     "just a few months",
                     "This season",
-                    "2010s",
-                    "the end of an era",
+                    "the 2010s",
                     "June 25, 2020"
                 ],
                 "ORG": [
@@ -1149,8 +1172,8 @@
                 "PERSON": [
                     "Ellen Huet"
                 ],
-                "DATE": [
-                    "our entire first season"
+                "ORDINAL": [
+                    "first"
                 ]
             }
         },
@@ -1181,25 +1204,26 @@
                     "today",
                     "next spring"
                 ],
-                "ORG": [
-                    "Decrypted",
-                    "Decrypted",
-                    "the Pursuit of Eternal Youth",
-                    "Hacker's Redemption"
-                ],
                 "PERSON": [
+                    "Aki",
                     "Brad",
+                    "Aki",
                     "Brad",
-                    "Young Blood",
-                    "Human"
+                    "Young Blood"
                 ],
                 "CARDINAL": [
                     "one",
                     "1",
                     "2"
                 ],
-                "LOC": [
-                    "Silicon Valley"
+                "GPE": [
+                    "Decrypted"
+                ],
+                "ORG": [
+                    "the Pursuit of Eternal Youth\r\n"
+                ],
+                "WORK_OF_ART": [
+                    "Facebook Broke His Business\r\nA Hacker's Redemption"
                 ]
             }
         },
@@ -1227,18 +1251,22 @@
             "entities": {
                 "ORG": [
                     "AI",
-                    "Decrypted",
-                    "Bloomberg Technology's",
-                    "Aki Ito"
+                    "Bloomberg Technology's"
                 ],
                 "DATE": [
                     "This week"
                 ],
-                "PERSON": [
+                "GPE": [
+                    "Decrypted"
+                ],
+                "FAC": [
                     "Natalia Drozdiak"
                 ],
                 "CARDINAL": [
                     "three"
+                ],
+                "PERSON": [
+                    "Aki Ito"
                 ]
             }
         },
@@ -1266,15 +1294,18 @@
             "entities": {
                 "ORG": [
                     "YouTube",
-                    "Decrypted",
+                    "Bloomberg Technology's",
+                    "YouTube",
                     "YouTube"
                 ],
                 "DATE": [
                     "the last three years",
                     "This week"
                 ],
+                "GPE": [
+                    "Decrypted"
+                ],
                 "PERSON": [
-                    "Bloomberg Technology's",
                     "Mark Bergen",
                     "Tim Schmoyer"
                 ]
@@ -1302,9 +1333,9 @@
             "pubDate": "Tue, 12 Nov 2019 18:05:00 +0000",
             "title": "The Amazon Seller Caught in the Middle of a Trade War",
             "entities": {
-                "GPE": [
+                "NORP": [
                     "U.S.-China",
-                    "China"
+                    "American"
                 ],
                 "DATE": [
                     "more than a year",
@@ -1316,17 +1347,17 @@
                     "one",
                     "two"
                 ],
+                "GPE": [
+                    "Decrypted",
+                    "China"
+                ],
                 "ORG": [
-                    "Decrypted"
+                    "Bloomberg Technology's"
                 ],
                 "PERSON": [
-                    "Bloomberg Technology's",
                     "Shelly Banjo",
                     "Michael Michelini",
                     "Michelini"
-                ],
-                "NORP": [
-                    "American"
                 ]
             }
         },
@@ -1355,8 +1386,10 @@
                 "DATE": [
                     "This week"
                 ],
+                "GPE": [
+                    "Decrypted"
+                ],
                 "ORG": [
-                    "Decrypted",
                     "Bloomberg Technology\u2019s"
                 ],
                 "PERSON": [
@@ -1395,9 +1428,10 @@
                     "Neuralink",
                     "Sarah McBride"
                 ],
+                "GPE": [
+                    "Decrypted"
+                ],
                 "ORG": [
-                    "Neuralink",
-                    "Decrypted",
                     "Bloomberg Technology\u2019s",
                     "Neuralink"
                 ]
@@ -1425,18 +1459,18 @@
             "pubDate": "Fri, 25 Oct 2019 08:00:00 +0000",
             "title": "Coming Soon: Travel Genius Season 2",
             "entities": {
-                "GPE": [
-                    "Bloomberg"
-                ],
                 "ORG": [
+                    "Bloomberg's",
                     "Travel Genius",
                     "Disney"
                 ],
-                "QUANTITY": [
+                "CARDINAL": [
                     "another hundred-thousand miles"
                 ],
+                "FAC": [
+                    "Nikki Ekstein"
+                ],
                 "PERSON": [
-                    "Nikki Ekstein",
                     "Mark Ellwood"
                 ],
                 "DATE": [
@@ -1470,6 +1504,7 @@
                     "Hong Kong's",
                     "U.S.",
                     "China",
+                    "Decrypted",
                     "Hong Kong"
                 ],
                 "CARDINAL": [
@@ -1477,7 +1512,6 @@
                 ],
                 "ORG": [
                     "Apple Inc.",
-                    "Decrypted",
                     "Bloomberg Technology's",
                     "iPhone",
                     "Apple"
@@ -1539,11 +1573,11 @@
                     "Congress",
                     "the Federal Trade Commission",
                     "the Department of Justice",
-                    "Decrypted",
                     "Bloomberg Technology\u2019s"
                 ],
                 "GPE": [
-                    "U.S."
+                    "U.S.",
+                    "Decrypted"
                 ],
                 "DATE": [
                     "This week",
@@ -1582,11 +1616,9 @@
                 "DATE": [
                     "This week"
                 ],
-                "ORG": [
-                    "Decrypted",
-                    "Aki Ito"
-                ],
                 "PERSON": [
+                    "CeCe Moore",
+                    "Aki Ito",
                     "Kristen V. Brown"
                 ]
             }
@@ -1620,7 +1652,7 @@
                 ],
                 "ORG": [
                     "WeWork",
-                    "Decrypted",
+                    "IPO",
                     "Bloomberg Technology's"
                 ],
                 "CARDINAL": [
@@ -1629,6 +1661,9 @@
                 "PERSON": [
                     "Adam Neumann",
                     "Ellen Huet"
+                ],
+                "GPE": [
+                    "Decrypted"
                 ],
                 "MONEY": [
                     "$47 billion"
@@ -1665,14 +1700,14 @@
                 "GPE": [
                     "Illinois",
                     "Russia",
+                    "Decrypted",
                     "Illinois"
                 ],
                 "ORG": [
-                    "Decrypted",
-                    "Kartikay Mehrotra"
+                    "Bloomberg Technology's"
                 ],
                 "PERSON": [
-                    "Bloomberg Technology's"
+                    "Kartikay Mehrotra"
                 ]
             }
         },
@@ -1705,8 +1740,12 @@
                 "ORG": [
                     "Amazon.com",
                     "Amazon",
-                    "Decrypted",
-                    "Bloomberg Technology's",
+                    "Bloomberg Technology's"
+                ],
+                "GPE": [
+                    "Decrypted"
+                ],
+                "PERSON": [
                     "Spencer Soper"
                 ]
             }
@@ -1775,7 +1814,8 @@
             "title": "Introducing Prognosis Season 3: Superbugs",
             "entities": {
                 "DATE": [
-                    "this new season"
+                    "this new season",
+                    "Sept. 5"
                 ],
                 "ORG": [
                     "Prognosis"
@@ -1863,14 +1903,14 @@
                 "ORG": [
                     "Apple",
                     "Google",
-                    "Intel",
-                    "Decrypted"
+                    "Intel"
+                ],
+                "GPE": [
+                    "Decrypted",
+                    "avian"
                 ],
                 "LOC": [
                     "Silicon Valley"
-                ],
-                "NORP": [
-                    "avian"
                 ]
             }
         },
@@ -1896,13 +1936,16 @@
             "pubDate": "Tue, 11 Jun 2019 09:00:00 +0000",
             "title": "Google Workers Rise Up: Inside the Protests",
             "entities": {
+                "ORG": [
+                    "Google",
+                    "Google"
+                ],
                 "DATE": [
                     "the last two decades",
                     "the last two years",
                     "This week"
                 ],
-                "ORG": [
-                    "Google",
+                "GPE": [
                     "Decrypted"
                 ],
                 "PERSON": [
@@ -1939,9 +1982,6 @@
                 "DATE": [
                     "This week"
                 ],
-                "ORG": [
-                    "Decrypted"
-                ],
                 "PERSON": [
                     "Kristen V. Brown"
                 ],
@@ -1973,7 +2013,7 @@
             "title": "WWDC Preview: A Conversation With Apple\u2019s Former App Approval Chief",
             "entities": {
                 "ORG": [
-                    "Apple's Worldwide Developers Conference",
+                    "Apple",
                     "Bloomberg Technology's",
                     "Apple",
                     "Apple"
@@ -1983,13 +2023,15 @@
                     "This week",
                     "the early days"
                 ],
-                "FAC": [
-                    "the App Store",
+                "LOC": [
                     "the App Store"
                 ],
                 "PERSON": [
                     "Mark Gurman",
                     "Phillip Shoemaker"
+                ],
+                "FAC": [
+                    "the App Store"
                 ],
                 "MONEY": [
                     "nearly $50 billion"
@@ -2053,8 +2095,7 @@
                     "California"
                 ],
                 "ORG": [
-                    "Google",
-                    "Decrypted"
+                    "Google"
                 ],
                 "LOC": [
                     "Silicon Valley's"
@@ -2097,9 +2138,6 @@
                 "DATE": [
                     "This week",
                     "a month"
-                ],
-                "ORG": [
-                    "Decrypted"
                 ]
             }
         },
@@ -2131,16 +2169,16 @@
                 ],
                 "PERSON": [
                     "Uber",
-                    "Bloomberg Technology's",
                     "Eric Newcomer",
-                    "Brad Stone"
+                    "Brad Stone",
+                    "Uber"
                 ],
                 "GPE": [
-                    "San Francisco"
+                    "San Francisco",
+                    "Decrypted"
                 ],
                 "ORG": [
-                    "Decrypted",
-                    "Uber"
+                    "Bloomberg Technology's"
                 ],
                 "LOC": [
                     "Silicon Valley"
@@ -2172,6 +2210,9 @@
                 "DATE": [
                     "This week"
                 ],
+                "ORG": [
+                    "Decrypted"
+                ],
                 "CARDINAL": [
                     "two"
                 ]
@@ -2199,18 +2240,17 @@
             "pubDate": "Tue, 23 Apr 2019 09:00:00 +0000",
             "title": "As Amazon Gets Bigger, Sellers Feel the Squeeze",
             "entities": {
-                "ORG": [
+                "PERSON": [
                     "Jason Boyce",
+                    "Jason"
+                ],
+                "ORG": [
                     "Amazon",
                     "Amazon",
-                    "Decrypted",
                     "Amazon"
                 ],
                 "DATE": [
                     "This week"
-                ],
-                "PERSON": [
-                    "Jason"
                 ]
             }
         },
@@ -2273,9 +2313,8 @@
                 "CARDINAL": [
                     "40 million"
                 ],
-                "ORG": [
-                    "Blued",
-                    "Decrypted"
+                "PERSON": [
+                    "Blued"
                 ],
                 "GPE": [
                     "China",
@@ -2308,18 +2347,18 @@
             "pubDate": "Tue, 09 Apr 2019 09:00:00 +0000",
             "title": "Young Blood and the Pursuit of Eternal Youth",
             "entities": {
-                "FAC": [
-                    "Ambrosia Health"
+                "ORG": [
+                    "Ambrosia Health",
+                    "FDA"
                 ],
                 "CARDINAL": [
                     "about 150"
                 ],
-                "ORG": [
-                    "FDA",
-                    "Decrypted"
-                ],
                 "DATE": [
                     "This week"
+                ],
+                "GPE": [
+                    "Decrypted"
                 ]
             }
         },
@@ -2353,6 +2392,9 @@
                 "CARDINAL": [
                     "one"
                 ],
+                "PERSON": [
+                    "Motherhood"
+                ],
                 "ORDINAL": [
                     "first"
                 ]
@@ -2384,13 +2426,12 @@
                     "This week",
                     "years"
                 ],
-                "ORG": [
-                    "Decrypted",
-                    "Instagram",
-                    "Instagram"
-                ],
                 "PERSON": [
                     "Eileen Carey"
+                ],
+                "ORG": [
+                    "Instagram",
+                    "Instagram"
                 ]
             }
         },
@@ -2444,11 +2485,9 @@
             "pubDate": "Tue, 12 Feb 2019 11:00:00 +0000",
             "title": "A Message from The Pay Check",
             "entities": {
-                "DATE": [
-                    "our upcoming season"
-                ],
                 "CARDINAL": [
-                    "212"
+                    "212",
+                    "617-0166"
                 ]
             }
         },
@@ -2474,7 +2513,7 @@
             "pubDate": "Tue, 08 Jan 2019 20:28:00 +0000",
             "title": "Introducing \"Works For Me,\" A New Podcast From Bloomberg",
             "entities": {
-                "GPE": [
+                "ORG": [
                     "Bloomberg"
                 ],
                 "PERSON": [
@@ -2511,20 +2550,23 @@
             "entities": {
                 "PERSON": [
                     "Jody Pagliocco",
-                    "Bloomberg Technology's",
                     "Selina Wang",
                     "Brad Stone",
                     "Brad"
                 ],
+                "LAW": [
+                    "Uber and Lyft"
+                ],
                 "GPE": [
                     "Maine",
+                    "Decrypted",
                     "Selina"
                 ],
                 "DATE": [
                     "This week"
                 ],
                 "ORG": [
-                    "Decrypted"
+                    "Bloomberg Technology's"
                 ],
                 "CARDINAL": [
                     "one"
@@ -2589,19 +2631,23 @@
             "entities": {
                 "PERSON": [
                     "Theo Patt",
+                    "Theo",
+                    "Alistair Barr",
                     "Pia Gadkari"
                 ],
-                "CARDINAL": [
-                    "15",
-                    "hundreds of thousands"
-                ],
                 "DATE": [
+                    "15",
                     "This week"
                 ],
                 "ORG": [
-                    "Decrypted",
-                    "Bloomberg Technology's",
-                    "Alistair Barr and"
+                    "Google",
+                    "Bloomberg Technology's"
+                ],
+                "CARDINAL": [
+                    "hundreds of thousands"
+                ],
+                "GPE": [
+                    "Decrypted"
                 ]
             }
         },
@@ -2636,13 +2682,16 @@
                     "Apple",
                     "Apple",
                     "Amazon",
-                    "Decrypted"
+                    "Google",
+                    "Bloomberg Technology's"
                 ],
                 "MONEY": [
                     "a trillion dollars"
                 ],
+                "GPE": [
+                    "Decrypted"
+                ],
                 "PERSON": [
-                    "Bloomberg Technology's",
                     "Joshua Brustein",
                     "Brad Stone"
                 ]
@@ -2673,13 +2722,11 @@
                 "DATE": [
                     "This week"
                 ],
-                "ORG": [
-                    "Decrypted",
-                    "Prognosis"
-                ],
                 "PERSON": [
                     "Bloomberg",
-                    "Bloomberg",
+                    "Bloomberg"
+                ],
+                "ORG": [
                     "Kristen V Brown"
                 ]
             }
@@ -2709,13 +2756,15 @@
                 "DATE": [
                     "This week"
                 ],
+                "GPE": [
+                    "Decrypted"
+                ],
                 "ORG": [
-                    "Decrypted",
                     "Bloomberg Technology\u2019s"
                 ],
                 "PERSON": [
                     "Sarah Frier",
-                    "Brad Stone\u00a0 "
+                    "Brad Stone"
                 ]
             }
         },
@@ -2744,15 +2793,14 @@
                 "CARDINAL": [
                     "one"
                 ],
-                "ORDINAL": [
-                    "first"
-                ],
                 "ORG": [
                     "Bloomberg",
                     "Travel Genius"
                 ],
+                "FAC": [
+                    "Nikki Ekstein"
+                ],
                 "PERSON": [
-                    "Nikki Ekstein",
                     "Mark Ellwood"
                 ],
                 "DATE": [
@@ -2782,21 +2830,17 @@
             "pubDate": "Tue, 06 Nov 2018 10:00:00 +0000",
             "title": "The Cancer-Linked Chemical In America's Tap Water",
             "entities": {
-                "PERSON": [
-                    "Cottage Grove",
-                    "Scotch Tape",
-                    "Pia Gadkari"
-                ],
                 "GPE": [
+                    "Cottage Grove",
                     "Minnesota",
                     "U.S.",
                     "Decrypted",
-                    "Bloomberg",
                     "Minnesota"
                 ],
                 "CARDINAL": [
                     "3",
                     "dozens",
+                    "3",
                     "3"
                 ],
                 "DATE": [
@@ -2805,12 +2849,18 @@
                     "This week",
                     "decades"
                 ],
+                "PRODUCT": [
+                    "Notes"
+                ],
                 "ORG": [
                     "PFAS",
-                    "Tiffany Kary"
+                    "PFAS",
+                    "Tiffany Kary",
+                    "PFAS"
                 ],
-                "ORDINAL": [
-                    "first"
+                "PERSON": [
+                    "Bloomberg",
+                    "Pia Gadkari"
                 ]
             }
         },
@@ -2866,12 +2916,12 @@
             "pubDate": "Tue, 30 Oct 2018 09:00:00 +0000",
             "title": "The Bloody Consequences of the Scooter Revolution",
             "entities": {
-                "PRODUCT": [
+                "LOC": [
                     "Bird"
                 ],
                 "ORG": [
                     "Lime",
-                    "Decrypted",
+                    "Bloomberg Technology's",
                     "Olivia Carville"
                 ],
                 "CARDINAL": [
@@ -2880,8 +2930,10 @@
                 "DATE": [
                     "This week"
                 ],
+                "GPE": [
+                    "Decrypted"
+                ],
                 "PERSON": [
-                    "Bloomberg Technology's",
                     "Joshua Brustein"
                 ]
             }
@@ -2946,6 +2998,12 @@
             "pubDate": "Tue, 16 Oct 2018 09:00:00 +0000",
             "title": "Inside the Backlash Against Juul",
             "entities": {
+                "PERSON": [
+                    "Juul",
+                    "Olivia Zaleski",
+                    "Pia Gadkari",
+                    "Juul"
+                ],
                 "DATE": [
                     "early 2017",
                     "This week"
@@ -2955,11 +3013,6 @@
                 ],
                 "GPE": [
                     "Decrypted"
-                ],
-                "PERSON": [
-                    "Olivia Zaleski",
-                    "Pia Gadkari",
-                    "Juul"
                 ]
             }
         },
@@ -2985,20 +3038,23 @@
             "pubDate": "Tue, 02 Oct 2018 09:00:00 +0000",
             "title": "Click Like for Propaganda",
             "entities": {
+                "CARDINAL": [
+                    "one"
+                ],
                 "DATE": [
                     "This week"
                 ],
-                "ORG": [
+                "GPE": [
                     "Decrypted",
+                    "Sri Lanka"
+                ],
+                "ORG": [
+                    "Bloomberg Technology's",
                     "Facebook"
                 ],
                 "PERSON": [
-                    "Bloomberg Technology's",
                     "Sarah Frier",
                     "Pia Gadkari"
-                ],
-                "GPE": [
-                    "Sri Lanka"
                 ]
             }
         },
@@ -3031,13 +3087,15 @@
                 ],
                 "PERSON": [
                     "Elon Musk",
-                    "Bloomberg Technology's",
                     "Brad Stone",
                     "Dana Hull",
                     "Musk"
                 ],
+                "GPE": [
+                    "Decrypted"
+                ],
                 "ORG": [
-                    "Decrypted",
+                    "Bloomberg Technology's",
                     "Tesla",
                     "Tesla"
                 ],
@@ -3075,16 +3133,16 @@
                 "DATE": [
                     "This week"
                 ],
-                "ORG": [
+                "GPE": [
+                    "Decrypted",
                     "Decrypted"
+                ],
+                "ORG": [
+                    "Bloomberg Technology's"
                 ],
                 "PERSON": [
-                    "Bloomberg Technology's",
                     "Austin Weinstein",
                     "Pia Gadkari"
-                ],
-                "GPE": [
-                    "Decrypted"
                 ]
             }
         },
@@ -3113,6 +3171,7 @@
                 "PERSON": [
                     "Andrew Friedman",
                     "Flip Video",
+                    "Andrew",
                     "Brad Stone",
                     "Brad",
                     "Kristy Westgard"
@@ -3122,7 +3181,9 @@
                     "This week"
                 ],
                 "ORG": [
-                    "Bloomberg Technology's",
+                    "Bloomberg Technology's"
+                ],
+                "GPE": [
                     "Decrypted"
                 ]
             }
@@ -3155,14 +3216,14 @@
                     "Ocean Falls"
                 ],
                 "GPE": [
-                    "Canada"
+                    "Canada",
+                    "Decrypted"
                 ],
                 "DATE": [
                     "the last 40 years",
                     "This season"
                 ],
                 "ORG": [
-                    "Decrypted",
                     "Bloomberg Technology's"
                 ],
                 "NORP": [
@@ -3196,9 +3257,9 @@
                     "The third season",
                     "Sept. 4",
                     "the entire season",
-                    "Tuesday"
+                    "every Tuesday"
                 ],
-                "ORG": [
+                "GPE": [
                     "Decrypted"
                 ]
             }
@@ -3225,9 +3286,14 @@
             "pubDate": "Tue, 28 Aug 2018 12:50:00 +0000",
             "title": "An Announcement From Decrypted",
             "entities": {
+                "GPE": [
+                    "Decrypted"
+                ],
                 "PERSON": [
+                    "Aki",
                     "Brad",
-                    "Pia Gadkari"
+                    "Pia Gadkari",
+                    "Aki"
                 ]
             }
         },
@@ -3260,12 +3326,11 @@
                 "LOC": [
                     "Europe"
                 ],
-                "ORG": [
+                "GPE": [
                     "Decrypted"
                 ],
-                "PERSON": [
-                    "Bloomberg Technology's",
-                    "Nate Lanxon"
+                "ORG": [
+                    "Bloomberg Technology's"
                 ]
             }
         },
@@ -3291,22 +3356,21 @@
             "pubDate": "Tue, 19 Jun 2018 09:00:00 +0000",
             "title": "How Tech is Harming its Most Vulnerable Users",
             "entities": {
-                "PERSON": [
+                "ORG": [
                     "Jared",
                     "Bloomberg Technology's",
-                    "Pia Gadkari",
-                    "Jared",
-                    "Michael Rich"
+                    "Jared"
                 ],
                 "DATE": [
                     "Years later",
                     "This week"
                 ],
-                "ORG": [
-                    "Decrypted"
-                ],
                 "GPE": [
+                    "Decrypted",
                     "Boston"
+                ],
+                "PERSON": [
+                    "Michael Rich"
                 ],
                 "TIME": [
                     "hours"
@@ -3339,6 +3403,10 @@
                     "Mitchell Lee",
                     "Ellen Huet"
                 ],
+                "WORK_OF_ART": [
+                    "Penny",
+                    "Penny"
+                ],
                 "LOC": [
                     "Silicon Valley"
                 ],
@@ -3346,13 +3414,11 @@
                     "This week",
                     "January 2017"
                 ],
-                "ORG": [
-                    "Decrypted",
-                    "Bloomberg Technology's",
-                    "Penny"
-                ],
                 "ORDINAL": [
                     "first"
+                ],
+                "ORG": [
+                    "Bloomberg Technology's"
                 ]
             }
         },
@@ -3383,17 +3449,17 @@
                     "Austin",
                     "Houston",
                     "San Antonio",
-                    "Dallas"
+                    "Dallas",
+                    "Decrypted"
                 ],
                 "PERSON": [
                     "Burpy",
-                    "Bloomberg Technology's",
                     "Olivia Zaleski",
                     "Austin"
                 ],
                 "ORG": [
                     "Amazon",
-                    "Decrypted"
+                    "Bloomberg Technology's"
                 ],
                 "DATE": [
                     "This week"
@@ -3427,17 +3493,18 @@
             "entities": {
                 "PERSON": [
                     "Satoshi Nakamoto",
-                    "Bloomberg Technology's",
                     "Brad Stone",
-                    "Julie Verhage",
-                    "Satoshi",
-                    "Satoshi"
+                    "Julie Verhage"
                 ],
                 "DATE": [
                     "This week"
                 ],
-                "ORG": [
+                "GPE": [
                     "Decrypted"
+                ],
+                "ORG": [
+                    "Bloomberg Technology's",
+                    "Satoshi"
                 ]
             }
         },
@@ -3473,12 +3540,6 @@
                 "PERSON": [
                     "Bloomberg",
                     "Brad Stone"
-                ],
-                "FAC": [
-                    "Camila Russo"
-                ],
-                "CARDINAL": [
-                    "one"
                 ]
             }
         },
@@ -3506,20 +3567,19 @@
             "entities": {
                 "GPE": [
                     "Seattle",
-                    "Seattle"
+                    "Seattle",
+                    "Decrypted"
                 ],
                 "DATE": [
                     "years",
                     "This week"
                 ],
                 "ORG": [
-                    "the city council",
                     "Amazon",
-                    "Decrypted",
+                    "Bloomberg Technology's",
                     "Amazon"
                 ],
                 "PERSON": [
-                    "Bloomberg Technology's",
                     "Karen Weise",
                     "Brad Stone"
                 ]
@@ -3587,11 +3647,13 @@
                 "DATE": [
                     "This week"
                 ],
-                "ORG": [
+                "GPE": [
                     "Decrypted"
                 ],
+                "ORG": [
+                    "Bloomberg Technology's"
+                ],
                 "PERSON": [
-                    "Bloomberg Technology's",
                     "Joshua Brustein"
                 ]
             }
@@ -3624,11 +3686,13 @@
                 "DATE": [
                     "This week"
                 ],
-                "ORG": [
+                "GPE": [
                     "Decrypted"
                 ],
+                "ORG": [
+                    "Bloomberg Technology's"
+                ],
                 "PERSON": [
-                    "Bloomberg Technology's",
                     "Tom Giles",
                     "Selina Wang"
                 ]
@@ -3659,28 +3723,31 @@
                 "PERSON": [
                     "Kelly Ellis",
                     "Ellen Huet",
+                    "Aki Ito",
                     "Kelly",
-                    "Kelly",
-                    "Reveal"
+                    "Kelly"
+                ],
+                "ORG": [
+                    "Google",
+                    "Bloomberg Technology's",
+                    "Google",
+                    "Reveal",
+                    "The Center for Investigative Reporting",
+                    "PRX"
                 ],
                 "DATE": [
                     "2010",
                     "This week",
                     "many years"
                 ],
-                "ORG": [
-                    "Decrypted",
-                    "Bloomberg Technology's",
-                    "The Center for Investigative Reporting"
+                "GPE": [
+                    "Decrypted"
                 ],
                 "CARDINAL": [
                     "three"
                 ],
                 "LOC": [
                     "Silicon Valley"
-                ],
-                "PRODUCT": [
-                    "PRX"
                 ]
             }
         },
@@ -3715,16 +3782,18 @@
                 ],
                 "GPE": [
                     "Japan",
+                    "Decrypted",
                     "Tokyo",
                     "Japan"
                 ],
                 "ORG": [
-                    "Decrypted",
-                    "Yuji Nakamura"
+                    "Bloomberg Technology's"
                 ],
                 "PERSON": [
-                    "Bloomberg Technology's",
-                    "Roger Ver"
+                    "Yuji Nakamura",
+                    "Aki Ito",
+                    "Roger Ver",
+                    "Bitcoin Jesus"
                 ]
             }
         },
@@ -3759,8 +3828,10 @@
                     "Melinda",
                     "Emily Chang"
                 ],
+                "GPE": [
+                    "Decrypted"
+                ],
                 "ORG": [
-                    "Decrypted",
                     "Bloomberg Technology's"
                 ],
                 "CARDINAL": [
@@ -3798,7 +3869,8 @@
                     "Bloomberg Technology's"
                 ],
                 "PERSON": [
-                    "Sarah Frier"
+                    "Sarah Frier",
+                    "Aki Ito"
                 ]
             }
         },
@@ -3896,6 +3968,7 @@
                 "PERSON": [
                     "Abigail Stone",
                     "Red Antler",
+                    "Jing Cao",
                     "Brad Stone",
                     "Abigail",
                     "Red Antler"
@@ -3939,17 +4012,22 @@
                     "This week"
                 ],
                 "PERSON": [
+                    "Monsegur",
                     "Anonymous",
                     "Brad Stone"
                 ],
                 "ORG": [
                     "LulzSec",
-                    "Decrypted",
-                    "Bloomberg Technology's",
-                    "Aki Ito"
+                    "Bloomberg Technology's"
                 ],
                 "MONEY": [
                     "multibillion-dollar"
+                ],
+                "GPE": [
+                    "Decrypted"
+                ],
+                "FAC": [
+                    "Aki Ito"
                 ],
                 "CARDINAL": [
                     "two",
@@ -3985,17 +4063,22 @@
                     "This week"
                 ],
                 "PERSON": [
+                    "Monsegur",
                     "Anonymous",
                     "Brad Stone"
                 ],
                 "ORG": [
                     "LulzSec",
-                    "Decrypted",
-                    "Bloomberg Technology's",
-                    "Aki Ito"
+                    "Bloomberg Technology's"
                 ],
                 "MONEY": [
                     "multibillion-dollar"
+                ],
+                "GPE": [
+                    "Decrypted"
+                ],
+                "FAC": [
+                    "Aki Ito"
                 ],
                 "CARDINAL": [
                     "two",
@@ -4028,7 +4111,8 @@
             "entities": {
                 "DATE": [
                     "March 6",
-                    "Tuesday",
+                    "new season",
+                    "every Tuesday",
                     "next week"
                 ]
             }
@@ -4063,7 +4147,8 @@
                     "February"
                 ],
                 "PERSON": [
-                    "Brad"
+                    "Brad",
+                    "Aki"
                 ]
             }
         },
@@ -4095,8 +4180,7 @@
                 ],
                 "ORG": [
                     "Ethereum",
-                    "Bloomberg",
-                    "Casper"
+                    "Ethereum"
                 ],
                 "CARDINAL": [
                     "2",
@@ -4105,9 +4189,13 @@
                 "PERSON": [
                     "Bitcoin",
                     "Vlad Zamfir",
+                    "Bloomberg",
                     "Matthew Leising",
                     "Brad Stone",
                     "Zamfir"
+                ],
+                "GPE": [
+                    "Casper"
                 ]
             }
         },
@@ -4135,7 +4223,8 @@
             "entities": {
                 "PERSON": [
                     "Cyrus Massoumi",
-                    "Sarah Frier"
+                    "Sarah Frier",
+                    "Aki Ito"
                 ],
                 "DATE": [
                     "one day",
@@ -4144,8 +4233,7 @@
                     "one day"
                 ],
                 "ORG": [
-                    "Bloomberg Technology's",
-                    "MrConservative.com"
+                    "Bloomberg Technology's"
                 ]
             }
         },
@@ -4172,8 +4260,7 @@
             "title": "UPDATE: Life After Blowing the Whistle in Silicon Valley",
             "entities": {
                 "PERSON": [
-                    "Francisco Riordan",
-                    "Rothenberg Ventures"
+                    "Francisco Riordan"
                 ],
                 "DATE": [
                     "last year",
@@ -4181,9 +4268,10 @@
                     "May"
                 ],
                 "ORG": [
-                    "Francisco",
-                    "Francisco",
-                    "Decrypted's Aki Ito",
+                    "Rothenberg Ventures",
+                    "Decrypted"
+                ],
+                "GPE": [
                     "Francisco"
                 ],
                 "ORDINAL": [
@@ -4222,6 +4310,7 @@
                     "Ken Sena",
                     "Bryan Healey",
                     "Ken",
+                    "Alistair Barr",
                     "Julie Verhage",
                     "Ken",
                     "Bryan",
@@ -4231,12 +4320,13 @@
                     "AI",
                     "Alexa",
                     "Amazon",
-                    "Decrypted",
-                    "Bloomberg Technology's",
-                    "Alistair Barr"
+                    "Bloomberg Technology's"
                 ],
                 "CARDINAL": [
                     "two"
+                ],
+                "GPE": [
+                    "Decrypted"
                 ]
             }
         },
@@ -4268,11 +4358,14 @@
                 ],
                 "ORG": [
                     "Bloomberg Technology's",
-                    "Instagram",
+                    "SubwayCreatures",
                     "Instagram"
                 ],
                 "PERSON": [
                     "Adam Satariano",
+                    "Adam",
+                    "Adam",
+                    "Adam",
                     "Aki Ito"
                 ]
             }
@@ -4302,7 +4395,8 @@
                 "GPE": [
                     "Russia",
                     "U.S.",
-                    "Russia"
+                    "Russia",
+                    "Decrypted"
                 ],
                 "DATE": [
                     "the last year",
@@ -4311,20 +4405,18 @@
                 ],
                 "ORG": [
                     "Congress",
-                    "Facebook, Google",
-                    "Decrypted"
-                ],
-                "PRODUCT": [
-                    "Twitter"
-                ],
-                "NORP": [
-                    "American"
+                    "Facebook",
+                    "Google",
+                    "Bloomberg Technology's"
                 ],
                 "PERSON": [
-                    "Bloomberg Technology's",
+                    "Twitter",
                     "Sarah Frier",
                     "Gerrit De Vynck",
                     "Joshua Brustein"
+                ],
+                "NORP": [
+                    "American"
                 ]
             }
         },
@@ -4359,21 +4451,22 @@
                 ],
                 "ORG": [
                     "WeWork",
-                    "WeLive",
-                    "WeLive",
-                    "Decrypted",
                     "Bloomberg Technology's",
+                    "WeLive"
+                ],
+                "PRODUCT": [
                     "WeLive"
                 ],
                 "CARDINAL": [
                     "34",
                     "two"
                 ],
+                "GPE": [
+                    "Decrypted",
+                    "New York"
+                ],
                 "PERSON": [
                     "Ellen Huet"
-                ],
-                "GPE": [
-                    "New York"
                 ],
                 "MONEY": [
                     "$20 billion"
@@ -4407,17 +4500,23 @@
                     "This week"
                 ],
                 "NORP": [
-                    "Japanese",
-                    "Bloomberg"
+                    "Japanese"
                 ],
-                "PERSON": [
+                "GPE": [
                     "Masayoshi Son"
                 ],
                 "MONEY": [
                     "$93 billion",
                     "$45 billion"
                 ],
-                "WORK_OF_ART": [
+                "PERSON": [
+                    "Son",
+                    "Son"
+                ],
+                "ORG": [
+                    "Bloomberg TV"
+                ],
+                "FAC": [
                     "The David Rubenstein Show"
                 ],
                 "TIME": [
@@ -4450,10 +4549,10 @@
             "pubDate": "Tue, 17 Oct 2017 10:00:00 +0000",
             "title": "How Extreme Risk-Taking Pushed Uber to the Brink",
             "entities": {
-                "ORG": [
+                "PERSON": [
                     "Uber",
-                    "the U.S. Justice Department",
-                    "Bloomberg Technology's"
+                    "Eric Newcomer",
+                    "Brad Stone"
                 ],
                 "DATE": [
                     "today",
@@ -4463,9 +4562,9 @@
                     "at least five",
                     "dozens"
                 ],
-                "PERSON": [
-                    "Eric Newcomer",
-                    "Brad Stone"
+                "ORG": [
+                    "the U.S. Justice Department",
+                    "Bloomberg Technology's"
                 ]
             }
         },
@@ -4503,7 +4602,8 @@
                 ],
                 "PERSON": [
                     "Donald Trump",
-                    "Bloomberg"
+                    "Bloomberg",
+                    "Ladane Nasseri"
                 ],
                 "PRODUCT": [
                     "Koodakoo"
@@ -4544,7 +4644,8 @@
                 ],
                 "ORG": [
                     "Stance",
-                    "Bloomberg Technology's"
+                    "Bloomberg Technology's",
+                    "Stance"
                 ],
                 "PERSON": [
                     "Sarah McBride"
@@ -4578,13 +4679,16 @@
             "entities": {
                 "ORG": [
                     "Equifax",
-                    "Decrypted"
+                    "Bloomberg Technology's",
+                    "Lizette Chapman",
+                    "Lizette"
                 ],
                 "CARDINAL": [
                     "143 million"
                 ],
                 "GPE": [
-                    "U.S."
+                    "U.S.",
+                    "Decrypted"
                 ],
                 "DATE": [
                     "years",
@@ -4593,9 +4697,6 @@
                     "today"
                 ],
                 "PERSON": [
-                    "Bloomberg Technology's",
-                    "Lizette Chapman",
-                    "Lizette",
                     "Lizette",
                     "Brad"
                 ]
@@ -4670,22 +4771,20 @@
                     "the last decade",
                     "This week"
                 ],
-                "LAW": [
+                "ORG": [
+                    "Tesla",
+                    "Bloomberg Technology's",
+                    "Tesla"
+                ],
+                "PRODUCT": [
                     "Model 3"
                 ],
                 "CARDINAL": [
                     "one"
                 ],
                 "GPE": [
-                    "America"
-                ],
-                "ORG": [
-                    "Decrypted",
-                    "Tesla"
-                ],
-                "PERSON": [
-                    "Bloomberg Technology's",
-                    "Pia Gadkari"
+                    "America",
+                    "Decrypted"
                 ],
                 "MONEY": [
                     "millions of dollars"
@@ -4756,8 +4855,7 @@
             "title": "How a Crisis Almost Derailed the Original iPhone",
             "entities": {
                 "DATE": [
-                    "The year",
-                    "2005",
+                    "The year is 2005",
                     "A decade",
                     "next month"
                 ],
@@ -4805,6 +4903,9 @@
                 ],
                 "ORG": [
                     "Bloomberg Technology's"
+                ],
+                "PERSON": [
+                    "Jing Cao"
                 ]
             }
         },
@@ -4841,8 +4942,11 @@
                     "last week's"
                 ],
                 "ORG": [
-                    "Bloomberg Technology's",
-                    "Marie Mawad"
+                    "Bloomberg Technology's"
+                ],
+                "PERSON": [
+                    "Marie Mawad",
+                    "Aki Ito"
                 ],
                 "GPE": [
                     "France"
@@ -4881,11 +4985,18 @@
                     "This week"
                 ],
                 "ORG": [
-                    "Bloomberg Technology's",
-                    "Alistair Barr and Aki Ito"
+                    "Bloomberg Technology's"
                 ],
                 "PERSON": [
+                    "Alistair Barr",
+                    "Aki Ito",
                     "Paul Moller"
+                ],
+                "GPE": [
+                    "Jetson"
+                ],
+                "MONEY": [
+                    "more than $100 million"
                 ]
             }
         },
@@ -4916,7 +5027,9 @@
                     "This week"
                 ],
                 "ORG": [
-                    "Bloomberg Technology's",
+                    "Bloomberg Technology's"
+                ],
+                "FAC": [
                     "Aki Ito"
                 ],
                 "PERSON": [
@@ -4955,6 +5068,9 @@
                 "PERSON": [
                     "Donald Trump",
                     "Alex Webb"
+                ],
+                "DATE": [
+                    "This week"
                 ],
                 "ORG": [
                     "Bloomberg Technology's"
@@ -5034,13 +5150,14 @@
                 "NORP": [
                     "Russian"
                 ],
-                "DATE": [
-                    "This week"
-                ],
                 "PERSON": [
+                    "Kaspersky Lab",
                     "Jordan Robertson",
                     "Jordan",
                     "Eugene Kaspersky"
+                ],
+                "DATE": [
+                    "This week"
                 ]
             }
         },
@@ -5082,11 +5199,15 @@
                 "MONEY": [
                     "about a million dollars"
                 ],
+                "CARDINAL": [
+                    "one"
+                ],
                 "ORG": [
                     "Bloomberg Technology's"
                 ],
                 "PERSON": [
-                    "Jordan Robertson"
+                    "Jordan Robertson",
+                    "Aki Ito"
                 ],
                 "WORK_OF_ART": [
                     "Inside A Multinational Cyber Weapons Deal That Went Bust"
@@ -5119,7 +5240,9 @@
                     "This week"
                 ],
                 "ORG": [
-                    "Bloomberg Technology's",
+                    "Bloomberg Technology's"
+                ],
+                "FAC": [
                     "Aki Ito"
                 ],
                 "CARDINAL": [
@@ -5201,15 +5324,14 @@
                     "This week"
                 ],
                 "PERSON": [
-                    "Victor Collins"
+                    "Victor Collins",
+                    "Nico Grant",
+                    "Nico",
+                    "Aki"
                 ],
                 "ORG": [
                     "Amazon Echo",
                     "Bloomberg Technology's"
-                ],
-                "NORP": [
-                    "Nico",
-                    "Nico"
                 ]
             }
         },
@@ -5241,11 +5363,8 @@
                     "David Ramli",
                     "Chao"
                 ],
-                "ORG": [
-                    "Weibo",
-                    "Bloomberg Technology's"
-                ],
                 "GPE": [
+                    "Weibo",
                     "China",
                     "China"
                 ],
@@ -5253,8 +5372,11 @@
                     "This week",
                     "today"
                 ],
-                "CARDINAL": [
-                    "a quarter"
+                "ORG": [
+                    "Bloomberg Technology's"
+                ],
+                "QUANTITY": [
+                    "a quarter of a billion dollars"
                 ]
             }
         },
@@ -5280,12 +5402,10 @@
             "pubDate": "Tue, 30 May 2017 21:15:00 +0000",
             "title": "Masayoshi Son's $100 Billion Bet to Conquer the Future",
             "entities": {
-                "PERSON": [
+                "ORG": [
                     "Masayoshi Son",
-                    "Peter Elstrom",
-                    "Brad Stone",
-                    "Peter",
-                    "Brad"
+                    "Bloomberg Technology's",
+                    "SoftBank"
                 ],
                 "CARDINAL": [
                     "one"
@@ -5300,9 +5420,13 @@
                     "This week",
                     "30 years ago"
                 ],
-                "ORG": [
-                    "Bloomberg Technology's",
-                    "SoftBank"
+                "PERSON": [
+                    "Peter Elstrom",
+                    "Brad Stone",
+                    "Son",
+                    "Peter",
+                    "Brad",
+                    "Son"
                 ],
                 "LOC": [
                     "Southern Japan"
@@ -5340,7 +5464,8 @@
                 ],
                 "ORG": [
                     "YouTube",
-                    "Bloomberg Technology's"
+                    "Bloomberg Technology's",
+                    "De Dao"
                 ],
                 "PRODUCT": [
                     "Twitter"
@@ -5350,8 +5475,7 @@
                     "weekly"
                 ],
                 "PERSON": [
-                    "Selina Wang",
-                    "De Dao"
+                    "Selina Wang"
                 ],
                 "MONEY": [
                     "millions of dollars"
@@ -5386,6 +5510,8 @@
                 "PERSON": [
                     "Talking Tom",
                     "Adam Satariano",
+                    "Aki Ito",
+                    "Adam",
                     "Lisa Pan"
                 ],
                 "DATE": [
@@ -5400,14 +5526,15 @@
                 "MONEY": [
                     "$1 billion"
                 ],
+                "CARDINAL": [
+                    "one",
+                    "millions"
+                ],
                 "ORG": [
                     "Bloomberg Technology's"
                 ],
                 "GPE": [
                     "Beijing"
-                ],
-                "CARDINAL": [
-                    "millions"
                 ]
             }
         },
@@ -5435,9 +5562,9 @@
             "entities": {
                 "PERSON": [
                     "Francisco Riordan",
-                    "Rothenberg Ventures",
                     "Riordan",
                     "Adam Satariano",
+                    "Aki Ito",
                     "Riordan",
                     "Riordan"
                 ],
@@ -5446,6 +5573,7 @@
                     "This week"
                 ],
                 "ORG": [
+                    "Rothenberg Ventures",
                     "Bloomberg Technology's"
                 ],
                 "ORDINAL": [
@@ -5489,14 +5617,11 @@
                 ],
                 "ORG": [
                     "Bloomberg Technology's",
-                    "Facebook",
-                    "Google"
+                    "Facebook's",
+                    "Google's"
                 ],
                 "PERSON": [
-                    "Pia Gadkari",
-                    "Brad Stone"
-                ],
-                "PRODUCT": [
+                    "Brad Stone",
                     "Twitter"
                 ]
             }
@@ -5585,8 +5710,7 @@
             "entities": {
                 "ORG": [
                     "Remember Pinterest",
-                    "Bloomberg Technology's",
-                    "Pinterest"
+                    "Bloomberg Technology's"
                 ],
                 "DATE": [
                     "Only a few years ago",
@@ -5628,16 +5752,17 @@
             "pubDate": "Mon, 10 Apr 2017 22:28:00 +0000",
             "title": "Here's the Incredible Promise of Medicine That Targets Our DNA",
             "entities": {
+                "GPE": [
+                    "hemophilia"
+                ],
                 "CARDINAL": [
                     "one"
                 ],
                 "DATE": [
                     "This week"
                 ],
-                "ORG": [
-                    "Bloomberg"
-                ],
                 "PERSON": [
+                    "Bloomberg",
                     "Doni Bloomfield"
                 ]
             }
@@ -5669,10 +5794,11 @@
                 ],
                 "ORG": [
                     "Bloomberg Technology's",
+                    "Lizette Chapman",
                     "Stanford"
                 ],
-                "PERSON": [
-                    "Lizette Chapman"
+                "TIME": [
+                    "the night"
                 ]
             }
         },
@@ -5702,14 +5828,14 @@
                     "YouTube",
                     "AT&T",
                     "Wal-Mart",
-                    "Bloomberg Technology's",
-                    "Aki Ito"
+                    "Bloomberg Technology's"
                 ],
                 "DATE": [
                     "This week"
                 ],
                 "PERSON": [
-                    "Mark Bergen"
+                    "Mark Bergen",
+                    "Aki Ito"
                 ]
             }
         },
@@ -5736,29 +5862,27 @@
             "title": "The 13 Million Nerds That Apple's Counting On",
             "entities": {
                 "ORG": [
-                    "iPhone",
                     "Apple",
                     "iPhones",
                     "Apple",
+                    "apps--",
                     "iPhone",
                     "Apple",
                     "Bloomberg Technology's"
                 ],
+                "PERSON": [
+                    "App Store",
+                    "Alex Webb",
+                    "Brad Stone"
+                ],
                 "DATE": [
                     "years"
-                ],
-                "PRODUCT": [
-                    "apps--"
                 ],
                 "CARDINAL": [
                     "13 million"
                 ],
-                "FAC": [
+                "LOC": [
                     "the App Store"
-                ],
-                "PERSON": [
-                    "Alex Webb",
-                    "Brad Stone"
                 ]
             }
         },
@@ -5786,24 +5910,29 @@
             "entities": {
                 "ORG": [
                     "Amazon",
-                    "Shakopee",
                     "Amazon",
-                    "Spencer Soper",
-                    "Shakopee",
                     "Amazon"
                 ],
                 "GPE": [
-                    "Minneapolis"
+                    "Minneapolis",
+                    "Shakopee"
                 ],
                 "DATE": [
                     "last year",
                     "This week"
                 ],
                 "CARDINAL": [
-                    "a thousand"
+                    "thousand"
                 ],
                 "MONEY": [
                     "millions of dollars"
+                ],
+                "PERSON": [
+                    "Spencer Soper",
+                    "Shakopee",
+                    "Shakopee",
+                    "Spencer",
+                    "Aki"
                 ],
                 "NORP": [
                     "American"
@@ -5837,13 +5966,13 @@
                 ],
                 "ORG": [
                     "Bloomberg Technology's",
-                    "NBA",
-                    "a League of Legends"
+                    "NBA"
                 ],
                 "PERSON": [
                     "Joshua Brustein",
                     "Rick Fox",
-                    "Josh"
+                    "Josh",
+                    "Aki"
                 ]
             }
         },
@@ -5912,9 +6041,11 @@
             "pubDate": "Wed, 22 Feb 2017 22:24:00 +0000",
             "title": "Snapchat's High-Stakes Clash With Its Neighbors on Venice Beach",
             "entities": {
-                "ORG": [
+                "PERSON": [
                     "Snap",
-                    "Bloomberg Technology's"
+                    "Sarah Frier",
+                    "Aki Ito",
+                    "Snap"
                 ],
                 "GPE": [
                     "Los Angeles",
@@ -5928,8 +6059,9 @@
                     "This week",
                     "March"
                 ],
-                "PERSON": [
-                    "Sarah Frier"
+                "ORG": [
+                    "Bloomberg Technology's",
+                    "IPO"
                 ]
             }
         },
@@ -5966,9 +6098,10 @@
                 ],
                 "PERSON": [
                     "Wifi",
-                    "Pia Gadkari"
+                    "Aki"
                 ],
                 "ORG": [
+                    "hotspots--",
                     "Bloomberg Technology's"
                 ]
             }
@@ -5996,15 +6129,17 @@
             "title": "Silicon Valley's Revolt Against Trump's Travel Ban",
             "entities": {
                 "DATE": [
-                    "his eighth day",
+                    "eighth day",
                     "This week"
                 ],
                 "PERSON": [
                     "Trump",
+                    "Aki Ito",
                     "Olivia Zaleski"
                 ],
                 "GPE": [
                     "U.S.",
+                    "Aki",
                     "Olivia"
                 ],
                 "CARDINAL": [
@@ -6014,8 +6149,7 @@
                     "Muslim"
                 ],
                 "ORG": [
-                    "Bloomberg Technology\u2019s",
-                    "Aki Ito"
+                    "Bloomberg Technology\u2019s"
                 ]
             }
         },
@@ -6050,15 +6184,15 @@
                 ],
                 "PERSON": [
                     "Brad",
+                    "Uber",
                     "Brad",
                     "Eric Newcomer"
                 ],
-                "ORG": [
-                    "Uber",
-                    "Bloomberg Technology's"
-                ],
                 "ORDINAL": [
                     "first"
+                ],
+                "ORG": [
+                    "Bloomberg Technology's"
                 ]
             }
         },
@@ -6093,7 +6227,6 @@
                     "two"
                 ],
                 "PRODUCT": [
-                    "Twitter",
                     "Twitter"
                 ],
                 "DATE": [
@@ -6101,7 +6234,8 @@
                 ],
                 "PERSON": [
                     "Brad Stone",
-                    "Josh Brustein"
+                    "Josh Brustein",
+                    "Twitter"
                 ]
             }
         },
@@ -6134,7 +6268,8 @@
                     "Bloomberg Technology's"
                 ],
                 "PERSON": [
-                    "Jordan Robertson"
+                    "Jordan Robertson",
+                    "Aki Ito"
                 ],
                 "MONEY": [
                     "multimillion-dollar"
@@ -6169,9 +6304,12 @@
                 "NORP": [
                     "Asian"
                 ],
+                "ORG": [
+                    "Bloomberg Technology's"
+                ],
                 "PERSON": [
-                    "Bloomberg Technology's",
                     "Ellen Huet",
+                    "Aki Ito",
                     "Mitchell Lee"
                 ],
                 "WORK_OF_ART": [
@@ -6204,13 +6342,14 @@
             "pubDate": "Fri, 23 Dec 2016 20:52:00 +0000",
             "title": "These Are the Worst Things That Could Happen in 2017",
             "entities": {
+                "DATE": [
+                    "a year",
+                    "This week",
+                    "2017"
+                ],
                 "PERSON": [
                     "Brexit",
                     "Donald Trump"
-                ],
-                "DATE": [
-                    "This week",
-                    "2017"
                 ]
             }
         },
@@ -6247,6 +6386,9 @@
                 ],
                 "GPE": [
                     "Russia"
+                ],
+                "CARDINAL": [
+                    "one"
                 ]
             }
         },
@@ -6273,7 +6415,6 @@
             "title": "Inside Pixar's Make-or-Break Gamble to Make Toy Story a Hit",
             "entities": {
                 "DATE": [
-                    "these days",
                     "1995",
                     "years",
                     "This week",
@@ -6284,6 +6425,7 @@
                     "Toy Story",
                     "Toy Story",
                     "Pixar",
+                    "Brad Stone",
                     "Pia Gadkari",
                     "Steve Jobs",
                     "Lawrence Levy",
@@ -6291,7 +6433,7 @@
                 ],
                 "ORG": [
                     "Bloomberg Technology's",
-                    "Brad Stone"
+                    "IPO"
                 ],
                 "ORDINAL": [
                     "first"
@@ -6320,13 +6462,13 @@
             "pubDate": "Mon, 05 Dec 2016 21:27:00 +0000",
             "title": "When a French Billionaire Built a Free Tech School in the U.S.",
             "entities": {
-                "DATE": [
-                    "these days",
-                    "just a few months",
-                    "three-year"
-                ],
                 "MONEY": [
                     "thousands of dollars"
+                ],
+                "DATE": [
+                    "just a few months",
+                    "three-year",
+                    "This week"
                 ],
                 "CARDINAL": [
                     "one"
@@ -6346,7 +6488,7 @@
                 "ORG": [
                     "Bloomberg Technology's"
                 ],
-                "PRODUCT": [
+                "LAW": [
                     "Ecole 42's"
                 ],
                 "LOC": [
@@ -6377,13 +6519,13 @@
             "title": "The Fake Reviews and Counterfeits That Amazon's Trying to Quash",
             "entities": {
                 "PERSON": [
-                    "Bloomberg"
+                    "Bloomberg",
+                    "Brad Stone",
+                    "Spencer Soper"
                 ],
                 "ORG": [
                     "Amazon.com",
                     "Bloomberg Technology's",
-                    "Brad Stone",
-                    "Spencer Soper",
                     "Amazon"
                 ],
                 "ORDINAL": [
@@ -6426,24 +6568,24 @@
                     "U.S.",
                     "America"
                 ],
-                "CARDINAL": [
-                    "one",
-                    "two"
-                ],
                 "ORG": [
-                    "Facebook",
-                    "Facebook",
+                    "Facebook\u2019s",
+                    "Facebook\u2019s",
                     "Bloomberg Technology\u2019s",
-                    "Aki Ito",
                     "Snopes.com"
                 ],
                 "PERSON": [
                     "Donald Trump\u2019s",
-                    "Sarah Frier"
+                    "Aki Ito",
+                    "Sarah Frier",
+                    "Facebook"
                 ],
                 "DATE": [
                     "Two weeks later",
                     "This week"
+                ],
+                "CARDINAL": [
+                    "two"
                 ],
                 "LOC": [
                     "Silicon Valley"
@@ -6472,15 +6614,6 @@
             "pubDate": "Mon, 14 Nov 2016 21:32:00 +0000",
             "title": "Will Siri Ever Outsmart Us?",
             "entities": {
-                "ORG": [
-                    "iPhone",
-                    "Bloomberg Technology's",
-                    "Aki Ito",
-                    "Apple",
-                    "Google",
-                    "Microsoft",
-                    "Amazon"
-                ],
                 "PERSON": [
                     "Siri",
                     "Terry Winograd",
@@ -6489,6 +6622,14 @@
                 "DATE": [
                     "This week",
                     "half a century ago"
+                ],
+                "ORG": [
+                    "Bloomberg Technology's",
+                    "Aki Ito",
+                    "Apple",
+                    "Google",
+                    "Microsoft",
+                    "Amazon"
                 ]
             }
         },
@@ -6522,14 +6663,14 @@
                     "the last few years",
                     "This week"
                 ],
-                "PRODUCT": [
-                    "Facebook"
-                ],
                 "ORG": [
                     "Bloomberg Technology's"
                 ],
                 "PERSON": [
                     "Adam Satariano"
+                ],
+                "CARDINAL": [
+                    "one"
                 ]
             }
         },
@@ -6567,9 +6708,6 @@
                 "ORG": [
                     "Bloomberg Technology's"
                 ],
-                "CARDINAL": [
-                    "one"
-                ],
                 "LOC": [
                     "Silicon Valley's"
                 ]
@@ -6599,12 +6737,12 @@
             "entities": {
                 "PERSON": [
                     "Donald Trump",
-                    "Bloomberg Technology's",
                     "Jordan Robertson",
                     "Mike Buratowski"
                 ],
                 "ORG": [
                     "the Democratic National Committee",
+                    "Bloomberg Technology's",
                     "DNC"
                 ],
                 "GPE": [
@@ -6638,16 +6776,13 @@
             "pubDate": "Mon, 17 Oct 2016 23:35:00 +0000",
             "title": "What It Takes to Vanquish Uber",
             "entities": {
-                "ORG": [
-                    "Uber",
-                    "Uber"
-                ],
                 "PERSON": [
                     "Didi",
                     "Lulu Chen",
                     "Brad Stone",
+                    "Didi",
                     "Cheng Wei",
-                    "Uber"
+                    "Didi"
                 ],
                 "NORP": [
                     "Chinese",
@@ -6656,6 +6791,9 @@
                 "DATE": [
                     "August",
                     "This week"
+                ],
+                "ORG": [
+                    "Uber"
                 ],
                 "GPE": [
                     "China"
@@ -6694,7 +6832,6 @@
                 ],
                 "ORG": [
                     "Fab.com",
-                    "Bloomberg",
                     "Fab"
                 ],
                 "MONEY": [
@@ -6704,8 +6841,10 @@
                     "U.S."
                 ],
                 "PERSON": [
+                    "Bloomberg",
                     "Sarah Frier",
-                    "Jason Goldberg"
+                    "Jason Goldberg",
+                    "Jason"
                 ],
                 "ORDINAL": [
                     "first"
@@ -6799,9 +6938,6 @@
     "entities": {
         "ORG": [
             "Bloomberg Technology"
-        ],
-        "DATE": [
-            "Each season"
         ]
     }
 }

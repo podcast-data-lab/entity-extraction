@@ -42,15 +42,16 @@
                     "Ryan",
                     "Mark",
                     "Catherine Winder",
-                    "Jem Gerrard"
-                ],
-                "ORG": [
-                    "This Sounds Serious",
-                    "Maddy"
+                    "Jem Gerrard",
+                    "Podcasts</a"
                 ],
                 "CARDINAL": [
                     "eight",
                     "three"
+                ],
+                "ORG": [
+                    "sci-fi",
+                    "Maddy"
                 ],
                 "GPE": [
                     "Hollywood"
@@ -89,12 +90,11 @@
                 "PERSON": [
                     "Kirk Todd"
                 ],
-                "ORG": [
-                    "This Sounds Serious",
-                    "href=\"https://vote.webbyawards.com"
-                ],
                 "DATE": [
                     "2021"
+                ],
+                "ORG": [
+                    "Podcast"
                 ]
             }
         },
@@ -126,7 +126,7 @@
             "pubDate": "Tue, 20 Oct 2020 07:00:00 +0000",
             "title": "8: The Premiere",
             "entities": {
-                "ORG": [
+                "PERSON": [
                     "Kirk"
                 ]
             }
@@ -164,7 +164,11 @@
                 ],
                 "PERSON": [
                     "Frank Reeves",
-                    "Kirk"
+                    "Kirk",
+                    "href=\"https://tss.supercast.tech/\">Click here</a"
+                ],
+                "DATE": [
+                    "the entire season"
                 ]
             }
         },
@@ -196,13 +200,18 @@
             "pubDate": "Tue, 6 Oct 2020 07:00:00 +0000",
             "title": "6: Rotten Popcorn",
             "entities": {
-                "ORG": [
-                    "Grand Casino",
-                    "the \u201cRotten Popcorn"
+                "GPE": [
+                    "Grand Casino"
                 ],
                 "PERSON": [
                     "Gwen",
                     "Kirk"
+                ],
+                "WORK_OF_ART": [
+                    "Rotten Popcorn"
+                ],
+                "DATE": [
+                    "the entire season"
                 ]
             }
         },
@@ -236,13 +245,13 @@
             "entities": {
                 "PERSON": [
                     "Kirk",
-                    "Gwen"
-                ],
-                "ORG": [
-                    "Grand Casino"
+                    "it.</p><p><a href=\"https://tss.supercast.tech/\">Click here</a"
                 ],
                 "WORK_OF_ART": [
                     "Con Man\u2019s Handbook"
+                ],
+                "DATE": [
+                    "the entire season"
                 ]
             }
         },
@@ -279,7 +288,11 @@
                 ],
                 "PERSON": [
                     "Kirk Todd",
-                    "Helen Chatham"
+                    "Helen Chatham",
+                    "href=\"https://tss.supercast.tech/\">Click here</a"
+                ],
+                "DATE": [
+                    "the entire season"
                 ]
             }
         },
@@ -311,9 +324,14 @@
             "pubDate": "Tue, 15 Sep 2020 07:00:02 +0000",
             "title": "3: How to Make a Fake Movie",
             "entities": {
-                "ORG": [
-                    "Grand Casino",
+                "GPE": [
+                    "Grand Casino"
+                ],
+                "PERSON": [
                     "Kirk"
+                ],
+                "DATE": [
+                    "the entire season"
                 ]
             }
         },
@@ -345,11 +363,13 @@
             "pubDate": "Tue, 8 Sep 2020 07:00:25 +0000",
             "title": "2: We Were Filming a Crime Scene",
             "entities": {
-                "PERSON": [
-                    "Kirk Todd",
-                    "Gwen"
+                "DATE": [
+                    "the entire season"
                 ],
-                "ORG": [
+                "PERSON": [
+                    "Kirk Todd"
+                ],
+                "GPE": [
                     "Grand Casino"
                 ]
             }
@@ -383,17 +403,17 @@
             "pubDate": "Tue, 1 Sep 2020 07:00:15 +0000",
             "title": "1: Jeremy, Kenny, Karl, Klaus, and Kirk",
             "entities": {
-                "CARDINAL": [
-                    "9"
-                ],
                 "DATE": [
-                    "1991"
+                    "9-1-1",
+                    "1991",
+                    "the entire season"
                 ],
                 "PERSON": [
                     "Gwen Radford",
-                    "Kirk Todd"
+                    "Kirk Todd",
+                    "href=\"https://tss.supercast.tech/\">Click here</a"
                 ],
-                "ORG": [
+                "GPE": [
                     "Grand Casino"
                 ]
             }
@@ -426,6 +446,7 @@
             "title": "This Sounds Serious: Grand Casino",
             "entities": {
                 "DATE": [
+                    "the entire season",
                     "1991",
                     "three decades later"
                 ],
@@ -438,7 +459,7 @@
                 "ORDINAL": [
                     "first"
                 ],
-                "ORG": [
+                "GPE": [
                     "Grand Casino"
                 ]
             }
@@ -472,9 +493,6 @@
             "entities": {
                 "PERSON": [
                     "Louise Burns"
-                ],
-                "ORG": [
-                    "href=\"https://record-club.simplecast.com/\">Record Club"
                 ]
             }
         },
@@ -573,6 +591,9 @@
             "entities": {
                 "PERSON": [
                     "Melissa Turner"
+                ],
+                "CARDINAL": [
+                    "one"
                 ]
             }
         },
@@ -604,8 +625,12 @@
             "pubDate": "Tue, 25 Jun 2019 05:01:00 +0000",
             "title": "5: The Mayor",
             "entities": {
-                "EVENT": [
+                "ORG": [
                     "Rhoda Day"
+                ],
+                "PERSON": [
+                    "Jimmy",
+                    "Tom Day"
                 ],
                 "LAW": [
                     "Rhoda Day"
@@ -641,7 +666,7 @@
             "title": "4: Subcultures",
             "entities": {
                 "GPE": [
-                    "Manhattan"
+                    "Manhattan Media"
                 ],
                 "WORK_OF_ART": [
                     "Here\u2019s Some Information"
@@ -727,12 +752,10 @@
                 ],
                 "PERSON": [
                     "Jimmy Kline",
-                    "Melissa"
-                ],
-                "DATE": [
-                    "Tom Day"
+                    "Melissa Turner.</p"
                 ],
                 "GPE": [
+                    "Tom Day",
                     "Oregon"
                 ]
             }
@@ -765,10 +788,8 @@
             "pubDate": "Tue, 4 Jun 2019 07:01:00 +0000",
             "title": "1: Missing Melissa",
             "entities": {
-                "CARDINAL": [
-                    "9"
-                ],
                 "DATE": [
+                    "9-1-1",
                     "2017"
                 ],
                 "PERSON": [
@@ -806,18 +827,14 @@
             "pubDate": "Tue, 28 May 2019 07:01:00 +0000",
             "title": "This Sounds Serious: Missing Melissa",
             "entities": {
-                "CARDINAL": [
-                    "9"
+                "DATE": [
+                    "9-1-1",
+                    "Season 2",
+                    "June 2019"
                 ],
                 "GPE": [
                     "Oregon",
                     "America"
-                ],
-                "PERSON": [
-                    "Gwen"
-                ],
-                "DATE": [
-                    "June 2019"
                 ]
             }
         },
@@ -849,9 +866,6 @@
             "pubDate": "Sat, 16 Jun 2018 17:00:00 +0000",
             "title": "8: The Finale",
             "entities": {
-                "PERSON": [
-                    "Gwen"
-                ],
                 "CARDINAL": [
                     "911"
                 ]
@@ -920,7 +934,6 @@
             "entities": {
                 "PERSON": [
                     "Chuck Bronstadt\u2019s",
-                    "Gwen",
                     "Last Known Whereabouts",
                     "Lauren Ash"
                 ],
@@ -994,6 +1007,7 @@
             "title": "4: All About Chuck",
             "entities": {
                 "PERSON": [
+                    "Daniel",
                     "Chuck",
                     "Daniel",
                     "Paul F. Tompkins"
@@ -1031,12 +1045,11 @@
                 "DATE": [
                     "the 1990s"
                 ],
-                "PERSON": [
-                    "Mandala",
-                    "Daniel Bronstadt"
-                ],
                 "PRODUCT": [
                     "Atlantis"
+                ],
+                "PERSON": [
+                    "Daniel Bronstadt"
                 ]
             }
         },
@@ -1148,8 +1161,11 @@
             "pubDate": "Sun, 1 Apr 2018 06:50:00 +0000",
             "title": "This Sounds Serious: The Case of Daniel Bronstadt",
             "entities": {
-                "WORK_OF_ART": [
-                    "The Case of Daniel Bronstadt"
+                "PERSON": [
+                    "Daniel Bronstadt"
+                ],
+                "ORG": [
+                    "This Castbox Original"
                 ],
                 "DATE": [
                     "April, 2018"
@@ -1226,7 +1242,7 @@
         "ORDINAL": [
             "first"
         ],
-        "ORG": [
+        "GPE": [
             "Grand Casino"
         ]
     }

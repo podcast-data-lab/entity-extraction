@@ -35,24 +35,25 @@
             "entities": {
                 "PERSON": [
                     "Alfonso Cuaron",
-                    "Alfonso Cuaron",
-                    "Roma"
+                    "Alfonso Cuaron"
                 ],
                 "ORG": [
                     "Participant",
-                    "href=\"https://www.moma.org",
+                    "Participant",
                     "NDWA",
-                    "href=\"https://www.moma.org",
                     "the National Domestic Workers",
                     "the National Domestic Workers Alliance",
                     "NDWA",
-                    "California Privacy Notice"
-                ],
-                "GPE": [
-                    "Mexico"
+                    "Sunstorm"
                 ],
                 "WORK_OF_ART": [
-                    "target=\"_blank\">https://art19.com/privacy</a>"
+                    "target=\"_blank\">Museum of Modern Art",
+                    "target=\"_blank\">Participant at MoMA"
+                ],
+                "GPE": [
+                    "Roma",
+                    "Mexico",
+                    "California"
                 ]
             }
         },
@@ -81,21 +82,22 @@
             "title": "Reprise: Making Empathy Go Viral with Heather McGhee",
             "entities": {
                 "PERSON": [
-                    "Heather McGhee",
                     "Alicia",
-                    "Gary"
+                    "Gary",
+                    "Participant"
                 ],
                 "DATE": [
                     "2008",
                     "January 2020"
                 ],
-                "ORG": [
-                    "NDWA",
-                    "Participant",
-                    "California Privacy Notice"
+                "LOC": [
+                    "North Carolina.</p><p"
                 ],
-                "WORK_OF_ART": [
-                    "target=\"_blank\">https://art19.com/privacy</a>"
+                "ORG": [
+                    "NDWA"
+                ],
+                "GPE": [
+                    "California"
                 ]
             }
         },
@@ -123,24 +125,20 @@
             "pubDate": "Tue, 06 Jul 2021 07:00:00 -0000",
             "title": "What We\u2019ll Carry Forward with Ai-jen and Alicia",
             "entities": {
-                "ORG": [
-                    "Ai-jen",
-                    "the National Domestic Workers",
-                    "the National Domestic Workers Alliance",
-                    "NDWA",
-                    "California Privacy Notice"
-                ],
                 "PERSON": [
                     "Alicia"
                 ],
                 "DATE": [
                     "this season"
                 ],
-                "TIME": [
-                    "post-vax moment"
+                "ORG": [
+                    "the National Domestic Workers",
+                    "the National Domestic Workers Alliance",
+                    "NDWA",
+                    "Sunstorm"
                 ],
-                "WORK_OF_ART": [
-                    "target=\"_blank\">https://art19.com/privacy</a>"
+                "GPE": [
+                    "California"
                 ]
             }
         },
@@ -170,22 +168,21 @@
             "entities": {
                 "ORG": [
                     "The Disability Visibility Project",
-                    "Alice",
                     "href=\"https://twitter.com",
-                    "href=\"https://www.instagram.com",
                     "the National Domestic Workers",
                     "the National Domestic Workers Alliance",
                     "NDWA",
-                    "California Privacy Notice"
+                    "Sunstorm"
                 ],
                 "PERSON": [
                     "Alice Wong\u2019s",
                     "Alicia",
                     "Covid",
+                    "Alice",
                     "Alice"
                 ],
-                "WORK_OF_ART": [
-                    "target=\"_blank\">https://art19.com/privacy</a>"
+                "GPE": [
+                    "California"
                 ]
             }
         },
@@ -213,20 +210,22 @@
             "pubDate": "Tue, 22 Jun 2021 07:00:00 -0000",
             "title": "Tired and Excited with Baratunde Thurston",
             "entities": {
+                "PERSON": [
+                    "Baratunde Thurston",
+                    "America Outdoors</em"
+                ],
                 "ORG": [
-                    "Citizen",
                     "PBS",
                     "the National Domestic Workers",
                     "the National Domestic Workers Alliance",
                     "NDWA",
-                    "California Privacy Notice"
+                    "Sunstorm"
                 ],
-                "PERSON": [
-                    "Baratunde Thurston",
-                    "Baratunde"
+                "MONEY": [
+                    "1"
                 ],
-                "WORK_OF_ART": [
-                    "target=\"_blank\">https://art19.com/privacy</a>"
+                "GPE": [
+                    "California"
                 ]
             }
         },
@@ -254,33 +253,31 @@
             "pubDate": "Tue, 15 Jun 2021 07:00:00 -0000",
             "title": "Laughing Means We\u2019re Alive with Margaret Cho",
             "entities": {
+                "NORP": [
+                    "Comedian",
+                    "American",
+                    "anti-Asian",
+                    "Republicans"
+                ],
                 "PERSON": [
                     "Margaret Cho",
                     "Covid",
                     "Joan Rivers"
                 ],
-                "NORP": [
-                    "American",
-                    "anti-Asian",
-                    "Republicans"
-                ],
                 "DATE": [
                     "season two",
+                    "the \u201880s",
                     "2020"
                 ],
                 "WORK_OF_ART": [
-                    "The Margaret Cho",
-                    "target=\"_blank\">https://art19.com/privacy</a>"
+                    "The Margaret Cho"
                 ],
                 "PRODUCT": [
                     "Pride"
                 ],
-                "ORG": [
-                    "LGBTQ+",
-                    "California Privacy Notice"
-                ],
-                "EVENT": [
-                    "the \u201880s"
+                "GPE": [
+                    "AAPI",
+                    "California"
                 ]
             }
         },
@@ -312,23 +309,18 @@
                     "Giniw Collective",
                     "Tara Houska"
                 ],
-                "GPE": [
-                    "Standing Rock"
+                "LOC": [
+                    "Standing Rock",
+                    "Northern Minnesota"
                 ],
                 "DATE": [
                     "the past three years"
                 ],
-                "LOC": [
-                    "Northern Minnesota"
+                "FAC": [
+                    "Line 3"
                 ],
-                "CARDINAL": [
-                    "3"
-                ],
-                "WORK_OF_ART": [
-                    "target=\"_blank\">https://art19.com/privacy</a>"
-                ],
-                "ORG": [
-                    "California Privacy Notice"
+                "GPE": [
+                    "California"
                 ]
             }
         },
@@ -356,23 +348,22 @@
             "pubDate": "Tue, 01 Jun 2021 07:00:00 -0000",
             "title": "Manifesting Shine with Tunde Oyeneyin",
             "entities": {
-                "ORG": [
+                "PERSON": [
                     "Tunde Oyeneyin",
-                    "Peloton",
-                    "Instagram",
-                    "the National Domestic Workers",
-                    "the National Domestic Workers Alliance",
-                    "NDWA",
-                    "California Privacy Notice"
+                    "Veronica"
                 ],
                 "CARDINAL": [
                     "thousands"
                 ],
-                "PERSON": [
-                    "Veronica"
+                "ORG": [
+                    "Peloton",
+                    "the National Domestic Workers",
+                    "the National Domestic Workers Alliance",
+                    "NDWA",
+                    "Sunstorm"
                 ],
-                "WORK_OF_ART": [
-                    "target=\"_blank\">https://art19.com/privacy</a>"
+                "GPE": [
+                    "California"
                 ]
             }
         },
@@ -402,27 +393,24 @@
             "entities": {
                 "PERSON": [
                     "Errin Haines",
-                    "Breonna Taylor",
+                    "Breonna Taylor\u2019s",
                     "Kamala Harris",
-                    "Errin",
-                    "Martin Luther King"
+                    "Martin Luther King",
+                    "Peppa Pig"
                 ],
                 "ORDINAL": [
                     "19th"
                 ],
                 "ORG": [
-                    "MSNBC",
-                    "California Privacy Notice"
+                    "MSNBC"
                 ],
                 "DATE": [
                     "2020"
                 ],
                 "GPE": [
                     "Atlanta",
-                    "Jr."
-                ],
-                "WORK_OF_ART": [
-                    "target=\"_blank\">https://art19.com/privacy</a>"
+                    "Jr.",
+                    "California"
                 ]
             }
         },
@@ -457,17 +445,15 @@
                     "Alicia"
                 ],
                 "GPE": [
-                    "America"
+                    "America",
+                    "California"
                 ],
                 "ORG": [
                     "the White House",
                     "the National Domestic Workers",
                     "the National Domestic Workers Alliance",
                     "NDWA",
-                    "California Privacy Notice"
-                ],
-                "WORK_OF_ART": [
-                    "target=\"_blank\">https://art19.com/privacy</a>"
+                    "Sunstorm"
                 ]
             }
         },
@@ -499,17 +485,18 @@
                     "May 18!</p><p><a"
                 ],
                 "PERSON": [
+                    "Ai-jen Poo",
                     "Alicia Garza",
                     "Alice Wong",
                     "Errin Haines",
-                    "Baratunde Thurston"
+                    "Thurston"
                 ],
-                "ORG": [
+                "GPE": [
                     "Tunde Oyeneyin",
-                    "California Privacy Notice"
+                    "California"
                 ],
                 "WORK_OF_ART": [
-                    "target=\"_blank\">https://art19.com/privacy</a>"
+                    "target=\"_blank\">sunstormpod.com</a></p><p>See Privacy Policy"
                 ]
             }
         },
@@ -539,30 +526,30 @@
             "entities": {
                 "GPE": [
                     "Georgia",
-                    "Georgia"
+                    "Georgia",
+                    "California"
                 ],
                 "PERSON": [
-                    "Atlantan Ns\u00e9 Ufot"
+                    "really</em",
+                    "Atlantan Ns\u00e9 Ufot",
+                    "Nse"
                 ],
                 "ORG": [
-                    "target=\"_blank",
+                    "href=\"https://newgeorgiaproject.org/",
                     "Senate",
                     "href=\"https://twitter.com",
                     "the New Georgia Project",
-                    "target=\"_blank",
+                    "href=\"https://newgeorgiaproject.org/",
                     "the National Domestic Workers Alliance",
                     "the National Domestic Workers Alliance",
                     "NDWA",
-                    "California Privacy Notice"
+                    "Sunstorm"
                 ],
                 "DATE": [
                     "today"
                 ],
                 "CARDINAL": [
                     "97779"
-                ],
-                "WORK_OF_ART": [
-                    "target=\"_blank\">https://art19.com/privacy</a>"
                 ]
             }
         },
@@ -594,7 +581,8 @@
                     "U.S.",
                     "Georgia",
                     "Alabama",
-                    "Washington DC"
+                    "Washington DC",
+                    "California"
                 ],
                 "ORDINAL": [
                     "5th",
@@ -602,24 +590,24 @@
                 ],
                 "PERSON": [
                     "Nikema Williams",
-                    "John Lewis\u2019s",
+                    "John Lewis",
                     "Nikema"
+                ],
+                "ORG": [
+                    "Covid-19",
+                    "the National Domestic Workers Alliance",
+                    "the National Domestic Workers Alliance",
+                    "NDWA",
+                    "Sunstorm"
                 ],
                 "DATE": [
                     "the early days"
                 ],
+                "PRODUCT": [
+                    "Zoom kindergarten.</p><p><br></p><p><br></p><p"
+                ],
                 "CARDINAL": [
                     "97779"
-                ],
-                "ORG": [
-                    "target=\"_blank",
-                    "the National Domestic Workers Alliance",
-                    "the National Domestic Workers Alliance",
-                    "NDWA",
-                    "California Privacy Notice"
-                ],
-                "WORK_OF_ART": [
-                    "target=\"_blank\">https://art19.com/privacy</a>"
                 ]
             }
         },
@@ -647,29 +635,30 @@
             "pubDate": "Tue, 27 Oct 2020 07:00:00 -0000",
             "title": "Where We Go from Here with Ai-jen and Alicia",
             "entities": {
-                "DATE": [
-                    "our season",
-                    "one week",
-                    "November 3rd"
-                ],
                 "PERSON": [
                     "Alicia",
+                    "Alicia",
+                    "Ai-jen",
                     "Martin Luther King",
                     "Alicia"
                 ],
-                "ORG": [
-                    "Ai-jen",
-                    "target=\"_blank",
-                    "the National Domestic Workers Alliance",
-                    "the National Domestic Workers Alliance",
-                    "NDWA",
-                    "California Privacy Notice"
+                "DATE": [
+                    "one week",
+                    "Dorothy Day",
+                    "November 3rd"
+                ],
+                "GPE": [
+                    "n\u2019t",
+                    "California"
                 ],
                 "CARDINAL": [
                     "97779"
                 ],
-                "WORK_OF_ART": [
-                    "target=\"_blank\">https://art19.com/privacy</a>"
+                "ORG": [
+                    "the National Domestic Workers Alliance",
+                    "the National Domestic Workers Alliance",
+                    "NDWA",
+                    "Sunstorm"
                 ]
             }
         },
@@ -697,19 +686,16 @@
             "pubDate": "Tue, 20 Oct 2020 07:00:00 -0000",
             "title": "It's a Very Auspicious Time with Cecile Richards",
             "entities": {
-                "PERSON": [
-                    "Cecile Richards",
-                    "Alicia"
-                ],
                 "ORG": [
+                    "Cecile Richards",
                     "Congress",
-                    "California Privacy Notice"
-                ],
-                "GPE": [
                     "Supermajority"
                 ],
-                "WORK_OF_ART": [
-                    "target=\"_blank\">https://art19.com/privacy</a>"
+                "PERSON": [
+                    "Alicia"
+                ],
+                "GPE": [
+                    "California"
                 ]
             }
         },
@@ -739,33 +725,28 @@
             "entities": {
                 "PERSON": [
                     "Marisa Franco",
-                    "Marisa"
+                    "Marisa",
+                    "Twitter"
                 ],
-                "ORG": [
-                    "Latinx",
-                    "\u2019ve",
-                    "href=\"https://twitter.com",
-                    "target=\"_blank",
-                    "the National Domestic Workers Alliance",
-                    "the National Domestic Workers Alliance",
-                    "NDWA",
-                    "California Privacy Notice"
+                "PRODUCT": [
+                    "Latinx"
                 ],
                 "DATE": [
                     "2015"
                 ],
                 "GPE": [
                     "Arizona",
-                    "href=\"http://mijente.net"
+                    "California"
                 ],
-                "PRODUCT": [
-                    "Twitter"
+                "ORG": [
+                    "href=\"https://twitter.com",
+                    "the National Domestic Workers Alliance",
+                    "the National Domestic Workers Alliance",
+                    "NDWA",
+                    "Sunstorm"
                 ],
                 "CARDINAL": [
                     "97779"
-                ],
-                "WORK_OF_ART": [
-                    "target=\"_blank\">https://art19.com/privacy</a>"
                 ]
             }
         },
@@ -794,29 +775,26 @@
             "title": "Fighting for Justice with Bryan Stevenson",
             "entities": {
                 "ORG": [
-                    "Equal Justice Initiative",
+                    "Equal Justice",
                     "The Legacy Museum and National Memorial",
-                    "target=\"_blank",
                     "the National Domestic Workers Alliance",
                     "the National Domestic Workers Alliance",
                     "NDWA",
-                    "California Privacy Notice"
+                    "Sunstorm"
                 ],
                 "PERSON": [
                     "Bryan Stevenson",
                     "Bryan"
                 ],
                 "GPE": [
-                    "America"
+                    "America",
+                    "California"
                 ],
                 "DATE": [
                     "November"
                 ],
                 "CARDINAL": [
                     "97779"
-                ],
-                "WORK_OF_ART": [
-                    "target=\"_blank\">https://art19.com/privacy</a>"
                 ]
             }
         },
@@ -846,34 +824,31 @@
             "entities": {
                 "PERSON": [
                     "Raquel Willis",
+                    "Raquel",
+                    "Raquel",
                     "Raquel"
                 ],
-                "ORG": [
-                    "the White House",
-                    "href=\"https://twitter.com",
-                    "href=\"https://www.instagram.com",
-                    "target=\"_blank",
-                    "the National Domestic Workers Alliance",
-                    "the National Domestic Workers Alliance",
-                    "NDWA",
-                    "California Privacy Notice"
+                "FAC": [
+                    "the White House"
                 ],
                 "LOC": [
                     "South"
                 ],
+                "CARDINAL": [
+                    "one",
+                    "97779"
+                ],
                 "GPE": [
                     "Georgia",
                     "New York",
-                    "Insta"
+                    "California"
                 ],
-                "PRODUCT": [
-                    "Twitter"
-                ],
-                "CARDINAL": [
-                    "97779"
-                ],
-                "WORK_OF_ART": [
-                    "target=\"_blank\">https://art19.com/privacy</a>"
+                "ORG": [
+                    "Insta",
+                    "the National Domestic Workers Alliance",
+                    "the National Domestic Workers Alliance",
+                    "NDWA",
+                    "Sunstorm"
                 ]
             }
         },
@@ -910,11 +885,8 @@
                 "DATE": [
                     "over decades"
                 ],
-                "WORK_OF_ART": [
-                    "target=\"_blank\">https://art19.com/privacy</a>"
-                ],
-                "ORG": [
-                    "California Privacy Notice"
+                "GPE": [
+                    "California"
                 ]
             }
         },
@@ -947,22 +919,22 @@
                     "Jenny",
                     "Alicia",
                     "Jenny",
-                    "Gen Z",
                     "Jenny Yang"
                 ],
-                "ORG": [
-                    "href=\"https://www.instagram.com",
-                    "target=\"_blank",
-                    "the National Domestic Workers Alliance",
-                    "the National Domestic Workers Alliance",
-                    "NDWA",
-                    "California Privacy Notice"
+                "WORK_OF_ART": [
+                    "Gen Z"
                 ],
                 "CARDINAL": [
                     "97779"
                 ],
-                "WORK_OF_ART": [
-                    "target=\"_blank\">https://art19.com/privacy</a>"
+                "ORG": [
+                    "the National Domestic Workers Alliance",
+                    "the National Domestic Workers Alliance",
+                    "NDWA",
+                    "Sunstorm"
+                ],
+                "GPE": [
+                    "California"
                 ]
             }
         },
@@ -991,30 +963,24 @@
             "title": "Leaving It All On The Field with Megan Rapinoe",
             "entities": {
                 "PERSON": [
-                    "Rapinoe",
+                    "Megan Rapinoe",
                     "Colin Kaepernick",
                     "Ferguson",
-                    "involved!</p><p>&nbsp;&nbsp;</p><p><br></p><p><br></p><p>Sunstorm"
-                ],
-                "GPE": [
-                    "anyone!\u2014can"
-                ],
-                "PRODUCT": [
+                    "Megan",
                     "Twitter"
                 ],
                 "ORG": [
-                    "href=\"https://twitter.com",
-                    "target=\"_blank",
+                    "Megan",
                     "the National Domestic Workers Alliance",
                     "the National Domestic Workers Alliance",
                     "NDWA",
-                    "California Privacy Notice"
+                    "Sunstorm"
                 ],
                 "CARDINAL": [
                     "97779"
                 ],
-                "WORK_OF_ART": [
-                    "target=\"_blank\">https://art19.com/privacy</a>"
+                "GPE": [
+                    "California"
                 ]
             }
         },
@@ -1052,17 +1018,14 @@
                     "This season",
                     "September 8"
                 ],
-                "CARDINAL": [
-                    "2020.</p><p><br></p><p"
-                ],
                 "ORG": [
                     "the National Domestic Workers Alliance",
                     "the National Domestic Workers Alliance",
                     "NDWA",
-                    "California Privacy Notice"
+                    "Sunstorm"
                 ],
-                "WORK_OF_ART": [
-                    "target=\"_blank\">https://art19.com/privacy</a>"
+                "GPE": [
+                    "California"
                 ]
             }
         },
@@ -1090,16 +1053,13 @@
             "pubDate": "Tue, 07 Apr 2020 07:00:00 -0000",
             "title": "Bonus: How We Care About Care",
             "entities": {
-                "CARDINAL": [
-                    "100 million",
-                    "millions"
-                ],
                 "NORP": [
                     "Americans",
                     "Americans"
                 ],
                 "PERSON": [
-                    "Alicia",
+                    "Ai-jen",
+                    "Participant",
                     "Alicia Garza",
                     "Kristina Mevs-Apgar",
                     "Jess Morales Rocketto",
@@ -1110,26 +1070,28 @@
                     "Mary Phillips-Sandy",
                     "Mia Warren",
                     "Jen Kwok",
-                    "Jody Shelton.</strong></p><p>&nbsp;</p><p><strong>Sunstorm"
+                    "Jody"
+                ],
+                "CARDINAL": [
+                    "millions"
+                ],
+                "GPE": [
+                    "Coronavirus",
+                    "California"
                 ],
                 "ORG": [
-                    "Coronavirus",
                     "NDWA",
                     "Coronavirus Care Fund",
-                    "Coronavirus",
+                    "DomesticWorkers.org/carefund</strong></a><strong>",
                     "NDWA",
-                    "Participant Media.</strong></p><p>&nbsp;</p><p><strong>Sunstorm",
-                    "Ai-jen",
+                    "The Mash-Up",
                     "the National Domestic Workers Alliance",
                     "NDWA",
-                    "California Privacy Notice"
+                    "Sunstorm"
                 ],
                 "DATE": [
                     "today",
                     "today"
-                ],
-                "WORK_OF_ART": [
-                    "target=\"_blank\">https://art19.com/privacy</a>"
                 ]
             }
         },
@@ -1157,12 +1119,9 @@
             "pubDate": "Tue, 31 Mar 2020 07:00:00 -0000",
             "title": "Hope, Resilience and Tequila with Alicia and Ai-jen ",
             "entities": {
-                "DATE": [
-                    "our season",
-                    "their decades"
-                ],
                 "PERSON": [
                     "Alicia",
+                    "Participant",
                     "Alicia Garza",
                     "Kristina Mevs-Apgar",
                     "Jess Morales Rocketto",
@@ -1173,23 +1132,23 @@
                     "Mary Phillips-Sandy",
                     "Mia Warren",
                     "Jen Kwok",
-                    "Jody Shelton.</strong></p><p><strong>&nbsp;</strong></p><p><strong>Sunstorm"
+                    "Jody Shelton.</strong></p><p><strong>&nbsp;</strong></p><p><strong"
+                ],
+                "DATE": [
+                    "their decades"
                 ],
                 "ORG": [
                     "NDWA",
-                    "Ai-jen",
+                    "The Mash-Up",
                     "the National Domestic Workers Alliance",
                     "NDWA",
-                    "California Privacy Notice"
-                ],
-                "PRODUCT": [
-                    "Participant Media.</strong></p><p><strong>&nbsp;</strong></p><p><strong>Sunstorm"
+                    "Sunstorm"
                 ],
                 "NORP": [
                     "Americans"
                 ],
-                "WORK_OF_ART": [
-                    "target=\"_blank\">https://art19.com/privacy</a>"
+                "GPE": [
+                    "California"
                 ]
             }
         },
@@ -1221,6 +1180,7 @@
                     "this week"
                 ],
                 "PERSON": [
+                    "Ai-jen",
                     "Alicia",
                     "Ayanna Pressley",
                     "Pressley",
@@ -1228,15 +1188,14 @@
                 ],
                 "ORG": [
                     "the Congressional Squad",
-                    "Squad",
-                    "California Privacy Notice"
+                    "Squad"
                 ],
                 "CARDINAL": [
                     "four",
                     "five"
                 ],
-                "WORK_OF_ART": [
-                    "target=\"_blank\">https://art19.com/privacy</a>"
+                "GPE": [
+                    "California"
                 ]
             }
         },
@@ -1271,23 +1230,14 @@
                     "Sunstorm",
                     "W. Kamau Bell",
                     "NDWA",
-                    "Participant Media.</strong></p><p>&nbsp;</p><p><strong>Sunstorm",
-                    "Ai-jen",
+                    "The Mash-Up",
                     "the National Domestic Workers Alliance",
                     "NDWA",
-                    "California Privacy Notice"
-                ],
-                "NORP": [
-                    "Comedian",
-                    "Americans"
-                ],
-                "CARDINAL": [
-                    "two"
-                ],
-                "LOC": [
-                    "Americas"
+                    "Sunstorm"
                 ],
                 "PERSON": [
+                    "Comedian",
+                    "Participant",
                     "Alicia Garza",
                     "Kristina Mevs-Apgar",
                     "Jess Morales Rocketto",
@@ -1298,10 +1248,19 @@
                     "Mary Phillips-Sandy",
                     "Mia Warren",
                     "Jen Kwok",
-                    "Jody Shelton.</strong></p><p>&nbsp;</p><p><strong>Sunstorm"
+                    "Jody"
                 ],
-                "WORK_OF_ART": [
-                    "target=\"_blank\">https://art19.com/privacy</a>"
+                "CARDINAL": [
+                    "two"
+                ],
+                "LOC": [
+                    "Americas"
+                ],
+                "NORP": [
+                    "Americans"
+                ],
+                "GPE": [
+                    "California"
                 ]
             }
         },
@@ -1330,14 +1289,14 @@
             "title": "Being 100% Yourself with Dawn-Lyen Gardner",
             "entities": {
                 "WORK_OF_ART": [
-                    "Queen Sugar",
-                    "target=\"_blank\">https://art19.com/privacy</a>"
+                    "Queen Sugar"
                 ],
                 "PERSON": [
                     "Dawn-Lyen Gardner",
                     "Alicia",
-                    "Alicia",
+                    "Dawn",
                     "Charley West",
+                    "Participant",
                     "Alicia Garza",
                     "Kristina Mevs-Apgar",
                     "Jess Morales Rocketto",
@@ -1348,22 +1307,22 @@
                     "Mary Phillips-Sandy",
                     "Mia Warren",
                     "Jen Kwok",
-                    "Jody Shelton.</p><p>&nbsp;</p><p>Sunstorm"
+                    "Jody Shelton.</p><p>&nbsp;</p><p"
                 ],
                 "PERCENT": [
                     "100%"
                 ],
                 "GPE": [
-                    "Hollywood"
+                    "Hollywood",
+                    "California"
                 ],
                 "ORG": [
                     "the Hammer Museum",
                     "NDWA",
-                    "Participant",
-                    "Ai-jen",
+                    "The Mash-Up",
                     "the National Domestic Workers Alliance",
                     "NDWA",
-                    "California Privacy Notice"
+                    "Sunstorm"
                 ],
                 "NORP": [
                     "Americans"
@@ -1396,12 +1355,14 @@
             "entities": {
                 "GPE": [
                     "Aminatou",
-                    "Aminatou"
+                    "Aminatou",
+                    "California"
                 ],
                 "PERSON": [
                     "Alicia",
                     "Shine Theory",
                     "Ann Friedman",
+                    "Participant",
                     "Alicia Garza",
                     "Kristina Mevs-Apgar",
                     "Jess Morales Rocketto",
@@ -1412,20 +1373,18 @@
                     "Mary Phillips-Sandy",
                     "Mia Warren",
                     "Jen Kwok",
-                    "Jody Shelton.</p><p>&nbsp;</p><p>Sunstorm"
+                    "Jody Shelton.</p><p>&nbsp;</p><p"
                 ],
                 "ORG": [
                     "BFF",
                     "NDWA",
-                    "Participant",
-                    "Ai-jen",
+                    "The Mash-Up",
                     "the National Domestic Workers Alliance",
                     "NDWA",
-                    "California Privacy Notice"
+                    "Sunstorm"
                 ],
                 "WORK_OF_ART": [
-                    "Call Your Girlfriend",
-                    "target=\"_blank\">https://art19.com/privacy</a>"
+                    "Call Your Girlfriend"
                 ],
                 "NORP": [
                     "Americans"
@@ -1461,7 +1420,10 @@
                 ],
                 "PERSON": [
                     "Alicia",
+                    "Ai-jen",
                     "Jane Fonda\u2019s",
+                    "Fire Drill",
+                    "Participant",
                     "Alicia Garza",
                     "Kristina Mevs-Apgar",
                     "Jess Morales Rocketto",
@@ -1472,7 +1434,7 @@
                     "Mary Phillips-Sandy",
                     "Mia Warren",
                     "Jen Kwok",
-                    "Jody Shelton.</p><p>&nbsp;</p><p>Sunstorm"
+                    "Jody Shelton.</p><p>&nbsp;</p><p"
                 ],
                 "ORDINAL": [
                     "first"
@@ -1481,21 +1443,18 @@
                     "Friday"
                 ],
                 "GPE": [
-                    "Washington D.C."
+                    "Washington D.C.",
+                    "California"
                 ],
                 "ORG": [
                     "NDWA",
-                    "Participant",
-                    "Ai-jen",
+                    "The Mash-Up",
                     "the National Domestic Workers Alliance",
                     "NDWA",
-                    "California Privacy Notice"
+                    "Sunstorm"
                 ],
                 "NORP": [
                     "Americans"
-                ],
-                "WORK_OF_ART": [
-                    "target=\"_blank\">https://art19.com/privacy</a>"
                 ]
             }
         },
@@ -1527,6 +1486,7 @@
                     "Tony Award",
                     "Sarah Jones",
                     "Alicia",
+                    "Participant",
                     "Alicia Garza",
                     "Kristina Mevs-Apgar",
                     "Jess Morales Rocketto",
@@ -1537,24 +1497,23 @@
                     "Mary Phillips-Sandy",
                     "Mia Warren",
                     "Jen Kwok",
-                    "Jody Shelton.</p><p>&nbsp;</p><p>Sunstorm"
+                    "Jody Shelton.</p><p>&nbsp;</p><p"
                 ],
                 "FAC": [
                     "Broadway"
                 ],
                 "ORG": [
                     "NDWA",
-                    "Participant",
-                    "Ai-jen",
+                    "The Mash-Up",
                     "the National Domestic Workers Alliance",
                     "NDWA",
-                    "California Privacy Notice"
+                    "Sunstorm"
                 ],
                 "NORP": [
                     "Americans"
                 ],
-                "WORK_OF_ART": [
-                    "target=\"_blank\">https://art19.com/privacy</a>"
+                "GPE": [
+                    "California"
                 ]
             }
         },
@@ -1584,11 +1543,13 @@
             "entities": {
                 "PERSON": [
                     "Alicia",
+                    "Ai-jen",
                     "Tarana Burke",
                     "Fatima Goss Graves",
                     "M\u00f3nica Ram\u00edrez",
-                    "Teresa C. Younger",
+                    "C. Younger",
                     "Sarita Gupta",
+                    "Participant",
                     "Alicia Garza",
                     "Kristina Mevs-Apgar",
                     "Jess Morales Rocketto",
@@ -1599,30 +1560,29 @@
                     "Mary Phillips-Sandy",
                     "Mia Warren",
                     "Jen Kwok",
-                    "Jody Shelton.</p><p>&nbsp;</p><p>Sunstorm"
+                    "Jody Shelton.</p><p>&nbsp;</p><p"
                 ],
                 "CARDINAL": [
                     "five"
                 ],
                 "TIME": [
-                    "an evening"
+                    "evening"
                 ],
                 "DATE": [
                     "2020"
                 ],
                 "ORG": [
                     "NDWA",
-                    "Participant",
-                    "Ai-jen",
+                    "The Mash-Up",
                     "the National Domestic Workers Alliance",
                     "NDWA",
-                    "California Privacy Notice"
+                    "Sunstorm"
                 ],
                 "NORP": [
                     "Americans"
                 ],
-                "WORK_OF_ART": [
-                    "target=\"_blank\">https://art19.com/privacy</a>"
+                "GPE": [
+                    "California"
                 ]
             }
         },
@@ -1652,22 +1612,16 @@
             "entities": {
                 "GPE": [
                     "America",
-                    "Miami"
-                ],
-                "ORG": [
-                    "Ai-jen",
-                    "Ai-jen\u2019s",
-                    "NDWA",
-                    "Participant",
-                    "Ai-jen",
-                    "the National Domestic Workers Alliance",
-                    "NDWA",
-                    "California Privacy Notice"
+                    "Miami",
+                    "California"
                 ],
                 "PERSON": [
                     "Alicia",
                     "Alicia",
                     "Alicia",
+                    "Ai-jen\u2019s",
+                    "Shannen Doherty",
+                    "Participant",
                     "Alicia Garza",
                     "Kristina Mevs-Apgar",
                     "Jess Morales Rocketto",
@@ -1678,13 +1632,19 @@
                     "Mary Phillips-Sandy",
                     "Mia Warren",
                     "Jen Kwok",
-                    "Jody"
+                    "Jody Shelton.</p><p><br></p><p"
+                ],
+                "ORG": [
+                    "NDWA",
+                    "The Mash-Up",
+                    "the National Domestic Workers Alliance",
+                    "NDWA"
                 ],
                 "NORP": [
                     "Americans"
                 ],
                 "WORK_OF_ART": [
-                    "target=\"_blank\">https://art19.com/privacy</a>"
+                    "members.&nbsp;Guests on Sunstorm"
                 ]
             }
         },
@@ -1713,9 +1673,9 @@
             "title": "Making Empathy Go Viral with Heather McGhee",
             "entities": {
                 "PERSON": [
-                    "Heather McGhee",
                     "Alicia",
                     "Gary",
+                    "Participant",
                     "Alicia Garza",
                     "Kristina Mevs-Apgar",
                     "Jess Morales Rocketto",
@@ -1726,22 +1686,21 @@
                     "Mary Phillips-Sandy",
                     "Mia Warren",
                     "Jen Kwok",
-                    "Jody Shelton.</p><p>See Privacy Policy"
+                    "Jody Shelton.</p><p"
                 ],
                 "DATE": [
                     "2008"
                 ],
+                "GPE": [
+                    "North Carolina.</p><p><br></p><p",
+                    "California"
+                ],
                 "ORG": [
                     "NDWA",
-                    "Participant",
-                    "Ai-jen",
-                    "California Privacy Notice"
+                    "The Mash-Up"
                 ],
                 "NORP": [
                     "Americans"
-                ],
-                "WORK_OF_ART": [
-                    "target=\"_blank\">https://art19.com/privacy</a>"
                 ]
             }
         },
@@ -1770,8 +1729,8 @@
             "title": "We Were Born For This with Chani Nicholas ",
             "entities": {
                 "PERSON": [
-                    "Astrologer Chani Nicholas",
-                    "Alicia",
+                    "Alicia and Ai-jen",
+                    "Participant",
                     "Alicia Garza",
                     "Kristina Mevs-Apgar",
                     "Jess Morales Rocketto",
@@ -1782,27 +1741,28 @@
                     "Mary Phillips-Sandy",
                     "Mia Warren",
                     "Jen Kwok",
-                    "Jody"
+                    "Jody Shelton.</p><p><br></p><p"
                 ],
                 "ORG": [
                     "New York Times",
                     "Chani",
                     "NDWA",
-                    "Participant",
-                    "Ai-jen",
+                    "The Mash-Up",
                     "the National Domestic Workers Alliance",
-                    "NDWA",
-                    "California Privacy Notice"
+                    "NDWA"
                 ],
                 "WORK_OF_ART": [
                     "You Were Born For This",
-                    "target=\"_blank\">https://art19.com/privacy</a>"
+                    "members.&nbsp;Guests on Sunstorm"
                 ],
                 "DATE": [
                     "about this year"
                 ],
                 "NORP": [
                     "Americans"
+                ],
+                "GPE": [
+                    "California"
                 ]
             }
         },
@@ -1830,26 +1790,28 @@
             "title": "Welcome to Sunstorm",
             "entities": {
                 "WORK_OF_ART": [
-                    "Sunstorm",
-                    "target=\"_blank\">https://art19.com/privacy</a>"
+                    "Sunstorm"
                 ],
                 "PERSON": [
                     "Alicia Garza",
-                    "Alicia",
-                    "Sarah Jones"
+                    "Ai-jen Poo",
+                    "Ai-jen",
+                    "Chani Nicholas",
+                    "Sarah Jones",
+                    "Dolores Huerta",
+                    "we</em",
+                    "Participant"
                 ],
                 "CARDINAL": [
                     "two"
                 ],
                 "GPE": [
                     "America",
-                    "Chani Nicholas"
+                    "California"
                 ],
                 "ORG": [
                     "Dawn-Lyen Gardner",
-                    "NDWA",
-                    "Participant",
-                    "California Privacy Notice"
+                    "NDWA"
                 ]
             }
         }
@@ -1910,7 +1872,8 @@
             "America"
         ],
         "PERSON": [
-            "Alicia Garza"
+            "Alicia Garza",
+            "Ai-jen Poo"
         ]
     }
 }

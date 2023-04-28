@@ -34,9 +34,6 @@
                     "Clint Smith",
                     "Michael Martirone"
                 ],
-                "WORK_OF_ART": [
-                    "How the Word Is Passed"
-                ],
                 "ORG": [
                     "AP"
                 ]
@@ -67,7 +64,7 @@
             "entities": {
                 "DATE": [
                     "Four years later",
-                    "decades-long"
+                    "decades"
                 ],
                 "NORP": [
                     "American"
@@ -77,7 +74,8 @@
                     "Evan Osnos"
                 ],
                 "ORG": [
-                    "the White House"
+                    "the White House",
+                    "the New Yorker"
                 ]
             }
         },
@@ -113,6 +111,9 @@
                 "DATE": [
                     "today"
                 ],
+                "WORK_OF_ART": [
+                    "Presidential"
+                ],
                 "PERSON": [
                     "Carlos Lozada"
                 ],
@@ -144,10 +145,8 @@
             "pubDate": "Thu, 24 Sep 2020 10:00:00 +0000",
             "title": "BONUS | Pandemic, propaganda and the presidency",
             "entities": {
-                "DATE": [
-                    "1918"
-                ],
                 "CARDINAL": [
+                    "1918",
                     "more than 675,000"
                 ],
                 "NORP": [
@@ -186,6 +185,7 @@
                     "Mondale",
                     "Lillian Cunningham",
                     "Walter Mondale",
+                    "Mondale",
                     "Joel Goldstein.</div><div><br></div><div",
                     "George Washington"
                 ],
@@ -198,10 +198,12 @@
                 "DATE": [
                     "1984"
                 ],
+                "ORDINAL": [
+                    "first"
+                ],
                 "ORG": [
                     "the White House",
                     "Washington Post",
-                    "Mondale\u2019s",
                     "Maxine Isaacs"
                 ],
                 "CARDINAL": [
@@ -239,35 +241,36 @@
                     "Marian Anderson",
                     "Abraham Lincoln",
                     "Lillian Cunningham",
-                    "Molefi Kete",
+                    "Molefi Kete Asante",
                     "Doris Kearns Goodwin",
+                    "Abraham Lincoln",
                     "Philip Kennicott.</div><div><br></div><div",
+                    "Lillian Cunningham",
                     "George Washington"
                 ],
-                "ORG": [
+                "FAC": [
                     "the Lincoln Memorial",
-                    "Washington Post",
-                    "the African American Studies Department",
-                    "Temple University",
-                    "Lillian Cunningham"
+                    "Constitution Hall"
                 ],
                 "DATE": [
                     "1939"
-                ],
-                "FAC": [
-                    "Constitution Hall"
                 ],
                 "NORP": [
                     "Americans",
                     "American"
                 ],
-                "WORK_OF_ART": [
-                    "Team of Rivals: The Political Genius of Abraham Lincoln",
-                    "Pulitzer Prize",
-                    "Presidential\u201d series"
+                "ORG": [
+                    "Washington Post",
+                    "the African American Studies Department",
+                    "Temple University",
+                    "\u201cTeam of Rivals: The Political Genius",
+                    "Post"
                 ],
                 "CARDINAL": [
                     "44"
+                ],
+                "WORK_OF_ART": [
+                    "Pulitzer Prize"
                 ]
             }
         },
@@ -297,12 +300,14 @@
                 "DATE": [
                     "Four years"
                 ],
-                "LOC": [
-                    "Lillian Cunningham"
+                "ORG": [
+                    "Presidential"
                 ],
                 "PERSON": [
+                    "Lillian Cunningham",
                     "Donald Trump's",
                     "Alexis Coe",
+                    "Drew Gilpin Faust",
                     "Julian Zelizer"
                 ],
                 "GPE": [
@@ -333,8 +338,11 @@
             "pubDate": "Wed, 09 Nov 2016 09:58:00 +0000",
             "title": "Donald Trump: Division and union",
             "entities": {
+                "WORK_OF_ART": [
+                    "Library of"
+                ],
                 "ORG": [
-                    "Library of Congress",
+                    "Congress",
                     "Washington Post"
                 ],
                 "PERSON": [
@@ -480,6 +488,7 @@
             "title": "George H. W. Bush: Restraint",
             "entities": {
                 "PERSON": [
+                    "Jon Meacham",
                     "Jeffrey Engel",
                     "Bush"
                 ]
@@ -543,14 +552,16 @@
             "title": "Jimmy Carter: Keeping the faith",
             "entities": {
                 "PERSON": [
-                    "Longtime Carter",
+                    "Carter",
                     "Pat Caddell",
                     "Randall Balmer",
                     "Robert Costa",
                     "Jimmy Carter's"
                 ],
                 "ORG": [
-                    "Washington Post",
+                    "Washington Post"
+                ],
+                "FAC": [
                     "the White House"
                 ]
             }
@@ -616,18 +627,18 @@
             "entities": {
                 "PERSON": [
                     "Bob Woodward",
-                    "Richard Nixon",
+                    "Richard Nixon's",
                     "Marty Baron"
                 ],
                 "CARDINAL": [
                     "one"
                 ],
                 "ORG": [
-                    "Washington Post",
+                    "the Washington Post",
                     "The Washington Post's"
                 ],
                 "EVENT": [
-                    "Watergate"
+                    "the Watergate"
                 ]
             }
         },
@@ -766,8 +777,10 @@
                     "Truman",
                     "Scott Clement"
                 ],
+                "FAC": [
+                    "the White House"
+                ],
                 "ORG": [
-                    "the White House",
                     "Washington Post"
                 ]
             }
@@ -795,16 +808,16 @@
             "pubDate": "Sun, 07 Aug 2016 18:27:00 +0000",
             "title": "Franklin D. Roosevelt: Through Eleanor's eyes",
             "entities": {
-                "ORG": [
-                    "Allida Black",
-                    "White House"
-                ],
                 "PERSON": [
+                    "Allida Black",
                     "Eleanor Roosevelt",
-                    "FDR Library",
+                    "FDR",
                     "Paul Sparrow",
                     "Sarada Peri",
                     "Franklin Roosevelt's"
+                ],
+                "ORG": [
+                    "White House"
                 ],
                 "ORDINAL": [
                     "first"
@@ -871,13 +884,13 @@
             "entities": {
                 "PERSON": [
                     "Michael Dukakis",
-                    "Shlaes",
+                    "Amity Shlaes",
                     "Robert Gilbert",
-                    "Steven Pearlstein"
+                    "Steven Pearlstein",
+                    "Calvin Coolidge's"
                 ],
                 "ORG": [
-                    "Washington Post",
-                    "Calvin Coolidge's"
+                    "Washington Post"
                 ]
             }
         },
@@ -904,8 +917,11 @@
             "pubDate": "Mon, 18 Jul 2016 03:59:00 +0000",
             "title": "Warren G. Harding: Love and scandal",
             "entities": {
+                "ORG": [
+                    "Steamy"
+                ],
                 "PERSON": [
-                    "Nicole Hemmer",
+                    "Historian Nicole Hemmer",
                     "Warren G. Harding"
                 ]
             }
@@ -935,10 +951,10 @@
             "entities": {
                 "PERSON": [
                     "John Milton Cooper",
+                    "Woodrow Wilson House",
                     "Robert Enholm"
                 ],
                 "ORG": [
-                    "Woodrow Wilson House",
                     "Wilson"
                 ]
             }
@@ -1118,7 +1134,9 @@
                 ],
                 "PERSON": [
                     "Matthew Algeo",
-                    "Michelle Krowl",
+                    "Michelle Krowl"
+                ],
+                "LOC": [
                     "Roman Mars"
                 ]
             }
@@ -1146,12 +1164,13 @@
             "pubDate": "Sun, 29 May 2016 13:58:00 +0000",
             "title": "Chester A. Arthur: Redemption",
             "entities": {
+                "CARDINAL": [
+                    "one"
+                ],
                 "PERSON": [
                     "David Fahrenthold",
                     "Stateline",
-                    "Scott Greenberger"
-                ],
-                "GPE": [
+                    "Scott Greenberger",
                     "Arthur"
                 ]
             }
@@ -1186,9 +1205,6 @@
                     "Garfield",
                     "Candice Millard",
                     "Michelle Krowl"
-                ],
-                "WORK_OF_ART": [
-                    "Destiny of the Republic'"
                 ],
                 "ORG": [
                     "Congress"
@@ -1289,6 +1305,9 @@
                     "Michelle Krowl",
                     "Andrew Johnson's"
                 ],
+                "ORG": [
+                    "Congress"
+                ],
                 "EVENT": [
                     "the Civil War"
                 ]
@@ -1322,6 +1341,8 @@
                     "Michelle Krowl"
                 ],
                 "ORG": [
+                    "'Team of Rivals",
+                    "Congress",
                     "Lincoln"
                 ]
             }
@@ -1358,12 +1379,14 @@
                     "Jim Loewen",
                     "Jim Tankersley"
                 ],
-                "ORG": [
-                    "the White House",
-                    "The Washington Post's"
+                "FAC": [
+                    "the White House"
                 ],
                 "ORDINAL": [
                     "first"
+                ],
+                "ORG": [
+                    "The Washington Post's"
                 ]
             }
         },
@@ -1431,9 +1454,6 @@
                 ],
                 "ORG": [
                     "Washington Post"
-                ],
-                "DATE": [
-                    "our 13th"
                 ]
             }
         },
@@ -1461,14 +1481,16 @@
             "title": "Zachary Taylor: War heroes and conspiracy theory",
             "entities": {
                 "ORG": [
-                    "Washington Post",
-                    "the White House"
+                    "Washington Post"
                 ],
                 "PERSON": [
                     "Dana Milbank",
                     "Catherine Clinton",
                     "Joseph Uscinski",
                     "Zachary Taylor"
+                ],
+                "FAC": [
+                    "the White House"
                 ]
             }
         },
@@ -1495,6 +1517,9 @@
             "pubDate": "Sun, 20 Mar 2016 17:38:00 +0000",
             "title": "James K. Polk: Getting it done",
             "entities": {
+                "ORG": [
+                    "Giants"
+                ],
                 "PERSON": [
                     "John Linnell",
                     "Amy Greenberg"
@@ -1798,8 +1823,7 @@
                     "John Adams"
                 ],
                 "GPE": [
-                    "Washington",
-                    "DC"
+                    "Washington, DC"
                 ]
             }
         },
@@ -1861,7 +1885,9 @@
             "title": "Introduction: Welcome to Presidential",
             "entities": {
                 "ORG": [
-                    "Preview the Washington Post",
+                    "the Washington Post"
+                ],
+                "PERSON": [
                     "Lillian Cunningham"
                 ]
             }
@@ -1904,7 +1930,6 @@
     "entities": {
         "ORG": [
             "The Washington Post's",
-            "Lillian Cunningham",
             "Washington Post"
         ],
         "NORP": [
@@ -1912,11 +1937,13 @@
         ],
         "DATE": [
             "Election Day 2016",
-            "week one and ending on week 44",
+            "week one",
+            "week 44",
             "2020"
         ],
         "PERSON": [
             "George Washington",
+            "Lillian Cunningham",
             "David McCullough",
             "Bob Woodward"
         ],

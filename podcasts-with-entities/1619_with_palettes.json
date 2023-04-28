@@ -37,32 +37,33 @@
             "pubDate": "Sat, 12 Oct 2019 03:56:16 +0000",
             "title": "Episode 5: The Land of Our Fathers, Part 2",
             "entities": {
-                "NORP": [
+                "ORG": [
                     "Provosts",
-                    "American"
+                    "Adizah Eghan",
+                    "Harvard University",
+                    "New York Times"
                 ],
                 "GPE": [
-                    "Louisiana"
-                ],
-                "PERSON": [
-                    "Angie",
-                    "Angie",
-                    "Angie Provost",
-                    "Adizah Eghan",
-                    "Annie Brown",
-                    "Khalil Gibran Muhammad",
-                    "Nikole Hannah-Jones"
+                    "Louisiana",
+                    "Angie"
                 ],
                 "DATE": [
+                    "June",
                     "1619",
                     "June",
                     "today",
                     "June",
                     "1619"
                 ],
-                "ORG": [
-                    "Harvard University",
-                    "a New York Times"
+                "PERSON": [
+                    "Angie",
+                    "Angie",
+                    "Annie Brown",
+                    "Khalil Gibran Muhammad",
+                    "Nikole Hannah-Jones"
+                ],
+                "NORP": [
+                    "American"
                 ],
                 "WORK_OF_ART": [
                     "The Condemnation of Blackness"
@@ -106,24 +107,23 @@
                     "40 acres"
                 ],
                 "GPE": [
-                    "America"
+                    "America",
+                    "Louisiana"
                 ],
                 "CARDINAL": [
-                    "one",
-                    "1619.\u201d</p><p>\u201c1619"
+                    "one"
                 ],
                 "PERSON": [
-                    "Angie Provost",
-                    "Adizah Eghan",
+                    "Angie",
                     "Annie Brown",
                     "Nikole Hannah-Jones"
                 ],
-                "ORG": [
-                    "Louisiana\u2019s",
-                    "New York Times"
-                ],
                 "NORP": [
                     "Provosts"
+                ],
+                "ORG": [
+                    "Adizah Eghan",
+                    "New York Times"
                 ]
             }
         },
@@ -156,7 +156,7 @@
             "title": "Episode 4: How the Bad Blood Started",
             "entities": {
                 "NORP": [
-                    "Americans"
+                    "Black Americans"
                 ],
                 "DATE": [
                     "decades",
@@ -165,17 +165,15 @@
                 "ORDINAL": [
                     "first"
                 ],
-                "ORG": [
-                    "The New York Times\u2019s",
-                    "The Times Magazine",
-                    "a New York Times"
-                ],
                 "PERSON": [
+                    "Jeneen Interlandi",
                     "Yaa Gyasi",
                     "Nikole Hannah-Jones"
                 ],
-                "WORK_OF_ART": [
-                    "Homegoing"
+                "ORG": [
+                    "The New York Times\u2019s",
+                    "The Times Magazine",
+                    "New York Times"
                 ]
             }
         },
@@ -208,19 +206,18 @@
             "title": "Episode 3: The Birth of American Music",
             "entities": {
                 "GPE": [
-                    "America"
+                    "America",
+                    "New York"
                 ],
                 "DATE": [
-                    "today",
-                    "language.</em></p"
+                    "today"
                 ],
                 "PERSON": [
                     "Wesley Morris",
                     "Nikole Hannah-Jones"
                 ],
                 "ORG": [
-                    "The New York",
-                    "a New York Times"
+                    "New York Times"
                 ]
             }
         },
@@ -268,11 +265,10 @@
                 ],
                 "ORG": [
                     "The New York Times Magazine",
-                    "a New York Times"
+                    "New York Times"
                 ],
                 "WORK_OF_ART": [
-                    "Evicted",
-                    "Sing, Unburied, Sing."
+                    "Sing, Unburied, Sing"
                 ]
             }
         },
@@ -304,6 +300,9 @@
             "pubDate": "Fri, 23 Aug 2019 10:29:38 +0000",
             "title": "Episode 1: The Fight for a True Democracy",
             "entities": {
+                "GPE": [
+                    "America"
+                ],
                 "ORG": [
                     "New York Times"
                 ],

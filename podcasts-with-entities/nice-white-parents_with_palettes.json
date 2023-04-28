@@ -50,7 +50,7 @@
                     "The Trojan Horse Affair"
                 ],
                 "CARDINAL": [
-                    "All eight"
+                    "eight"
                 ]
             }
         },
@@ -82,6 +82,10 @@
             "pubDate": "Thu, 20 Aug 2020 09:00:00 +0000",
             "title": "5: \u2018We Know It When We See It\u2019",
             "entities": {
+                "ORG": [
+                    "Chana",
+                    "BHS"
+                ],
                 "CARDINAL": [
                     "One"
                 ],
@@ -89,12 +93,9 @@
                     "Last year",
                     "the late 1950s"
                 ],
-                "ORG": [
-                    "BHS",
+                "PERSON": [
+                    "Latino",
                     "Chana"
-                ],
-                "GPE": [
-                    "Latino"
                 ]
             }
         },
@@ -169,6 +170,9 @@
             "pubDate": "Thu, 6 Aug 2020 10:00:00 +0000",
             "title": "3: \u2018This Is Our School, How Dare You?\u2019",
             "entities": {
+                "PERSON": [
+                    "Chana Joffe-Walt"
+                ],
                 "FAC": [
                     "I.S. 293"
                 ],
@@ -180,9 +184,6 @@
                     "the 1980s",
                     "the 2000s",
                     "the years"
-                ],
-                "CARDINAL": [
-                    "293.</p"
                 ]
             }
         },
@@ -214,10 +215,12 @@
             "pubDate": "Thu, 30 Jul 2020 10:01:00 +0000",
             "title": "2: 'I Still Believe in It'",
             "entities": {
+                "PERSON": [
+                    "Chana Joffe-Walt"
+                ],
                 "ORG": [
                     "the New York City Board of Education",
                     "the School for International Studies",
-                    "Cobble Hill",
                     "Brown v. Board of Education",
                     "href=\"http://nytimes.com"
                 ],
@@ -229,6 +232,7 @@
                     "less than a decade"
                 ],
                 "GPE": [
+                    "Cobble Hill",
                     "Brooklyn"
                 ]
             }
@@ -273,11 +277,11 @@
                     "Brooklyn"
                 ],
                 "PERSON": [
-                    "Chana Joffe-Walt"
+                    "Chana Joffe-Walt",
+                    "Latino"
                 ],
                 "ORG": [
                     "the School of International Studies",
-                    "Latino, Black and",
                     "href=\"http://nytimes.com"
                 ],
                 "ORDINAL": [
@@ -374,7 +378,7 @@
             "five"
         ],
         "ORG": [
-            "The New York Times"
+            "Serial and The New York Times"
         ],
         "PERSON": [
             "Chana Joffe-Walt"

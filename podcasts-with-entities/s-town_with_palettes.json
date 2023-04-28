@@ -49,7 +49,7 @@
                     "The Trojan Horse Affair"
                 ],
                 "CARDINAL": [
-                    "All eight"
+                    "eight"
                 ]
             }
         },
@@ -276,14 +276,15 @@
     "pubDate": "Fri, 4 Feb 2022 11:00:00 +0000",
     "title": "S-Town",
     "entities": {
+        "ORG": [
+            "S-Town",
+            "Serial Productions",
+            "New York Times"
+        ],
         "PERSON": [
             "Brian Reed",
             "John",
             "Brian"
-        ],
-        "ORG": [
-            "Serial Productions",
-            "New York Times"
         ],
         "GPE": [
             "Alabama"

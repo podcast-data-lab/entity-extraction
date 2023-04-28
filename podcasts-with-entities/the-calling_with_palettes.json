@@ -35,6 +35,12 @@
                 "NORP": [
                     "Christian",
                     "Christians"
+                ],
+                "ORG": [
+                    "COVID-19"
+                ],
+                "PRODUCT": [
+                    "Learn"
                 ]
             }
         },
@@ -63,28 +69,32 @@
             "entities": {
                 "DATE": [
                     "these days",
-                    "the latest season",
-                    "Season 2"
+                    "the latest season"
                 ],
                 "ORG": [
                     "Living and Effective",
-                    "CT Creative Studio",
-                    "The Christian Standard Bible"
+                    "Living and Effective",
+                    "The Christian Standard Bible",
+                    "The Gray Havens"
                 ],
                 "PERSON": [
                     "Richard Clark",
                     "Joy Beth",
                     "Diane Langberg",
-                    "The Gray Havens"
+                    "Season 2"
                 ],
                 "CARDINAL": [
                     "six"
                 ],
                 "WORK_OF_ART": [
-                    "Bible"
+                    "Bible",
+                    "Living and Effective"
                 ],
                 "GPE": [
                     "Suffering"
+                ],
+                "PRODUCT": [
+                    "Learn"
                 ]
             }
         },
@@ -138,6 +148,9 @@
                 ],
                 "DATE": [
                     "Today"
+                ],
+                "PRODUCT": [
+                    "Learn"
                 ]
             }
         },
@@ -166,6 +179,9 @@
             "entities": {
                 "PERSON": [
                     "Richard Clark"
+                ],
+                "PRODUCT": [
+                    "Learn"
                 ]
             }
         },
@@ -194,26 +210,30 @@
             "entities": {
                 "PERSON": [
                     "John Perkins",
+                    "Vira Mae",
                     "Richard Clark"
                 ],
                 "WORK_OF_ART": [
                     "Bible"
                 ],
                 "DATE": [
-                    "later years",
+                    "his later years",
                     "1960",
                     "88 years old",
                     "the years"
-                ],
-                "ORG": [
-                    "Vira Mae",
-                    "Civil Rights",
-                    "CT\u2019s"
                 ],
                 "GPE": [
                     "California",
                     "Mendenhall",
                     "Mississippi"
+                ],
+                "PRODUCT": [
+                    "Perkins",
+                    "Learn"
+                ],
+                "ORG": [
+                    "Civil Rights",
+                    "CT\u2019s The Calling"
                 ]
             }
         },
@@ -249,19 +269,22 @@
                     "Justin Giboney",
                     "Richard Clark"
                 ],
+                "ORG": [
+                    "the mainstream democratic party",
+                    "the And Campaign",
+                    "CT"
+                ],
                 "ORDINAL": [
                     "5th"
                 ],
                 "GPE": [
                     "Georgia"
                 ],
-                "ORG": [
-                    "the democratic party",
-                    "Calling",
-                    "CT"
-                ],
                 "NORP": [
                     "Christians"
+                ],
+                "PRODUCT": [
+                    "Learn"
                 ]
             }
         },
@@ -551,7 +574,11 @@
             },
             "pubDate": "Wed, 20 Sep 2017 15:24:00 -0000",
             "title": "Jessica Leep Fick: Let\u2019s Rewrite the Rules for Women\u2019s Evangelism",
-            "entities": {}
+            "entities": {
+                "PRODUCT": [
+                    "Learn"
+                ]
+            }
         },
         {
             "content": "What\u2019s it like to make a decision knowing that countless children may live or die based on what you decide? The question may sound impossibly weighty\u2014but as president of the humanitarian relief organization World Vision, Richard Stearns faces it almost every day. That wasn\u2019t always the case. Before serving at World Vision, Stearns held a series of high-powered executive positions at such companies as toy and game manufacturer Parker Brothers and luxury dinnerware company Lenox. When the position at World Vision opened, he was sure it wasn\u2019t for him. But that\u2019s when he says God started to \u201clay down tracks\u201d that would lead him toward his calling. On today\u2019s episode of The Calling, Stearns took time to sit down with host Richard Clark and discuss making the leap from business to non-profit work, how he deals with the weight of his responsibilities, and what joining World Vision taught him about the relationship between vocation and obedience.\nLearn more about your ad choices. Visit podcastchoices.com/adchoices",
@@ -580,7 +607,6 @@
                     "World Vision",
                     "World Vision, Stearns",
                     "Parker Brothers",
-                    "Lenox",
                     "World Vision",
                     "The Calling, Stearns",
                     "World Vision"
@@ -590,7 +616,14 @@
                     "Richard Clark"
                 ],
                 "DATE": [
+                    "almost every day",
                     "today"
+                ],
+                "GPE": [
+                    "Lenox"
+                ],
+                "PRODUCT": [
+                    "Learn"
                 ]
             }
         },
@@ -624,18 +657,21 @@
                 "PERSON": [
                     "Latasha Morrison",
                     "Morrison",
-                    "Calling",
                     "Morrison",
                     "Richard Clark"
                 ],
                 "ORG": [
-                    "Church"
+                    "Church",
+                    "CT"
                 ],
                 "DATE": [
                     "week"
                 ],
                 "ORDINAL": [
                     "first"
+                ],
+                "PRODUCT": [
+                    "Learn"
                 ]
             }
         },
@@ -673,6 +709,9 @@
                 ],
                 "DATE": [
                     "Today"
+                ],
+                "PRODUCT": [
+                    "Learn"
                 ]
             }
         },
@@ -700,16 +739,19 @@
             "title": "David Fitch Turned His Daily McDonald's Run into His Ministry",
             "entities": {
                 "PERSON": [
-                    "David Fitch Turned"
+                    "David Fitch"
                 ],
                 "ORG": [
-                    "McDonald's Run"
+                    "His Ministry"
                 ],
                 "NORP": [
                     "Christianity"
                 ],
                 "DATE": [
                     "Today"
+                ],
+                "PRODUCT": [
+                    "Learn"
                 ]
             }
         },
@@ -736,11 +778,17 @@
             "pubDate": "Wed, 12 Jul 2017 14:46:00 -0000",
             "title": "Tessa Afshar Writes in Search of Sacred Romance",
             "entities": {
+                "PERSON": [
+                    "Tessa Afshar"
+                ],
                 "NORP": [
                     "Christianity"
                 ],
                 "DATE": [
                     "Today"
+                ],
+                "PRODUCT": [
+                    "Learn"
                 ]
             }
         },
@@ -767,14 +815,20 @@
             "pubDate": "Wed, 28 Jun 2017 15:11:00 -0000",
             "title": "How the Black Church Revamped Tyler Burns' Faith",
             "entities": {
+                "ORG": [
+                    "the Black Church"
+                ],
                 "PERSON": [
-                    "Revamped Tyler Burns'"
+                    "Tyler Burns'"
                 ],
                 "NORP": [
                     "Christianity"
                 ],
                 "DATE": [
                     "Today"
+                ],
+                "PRODUCT": [
+                    "Learn"
                 ]
             }
         },
@@ -801,7 +855,7 @@
             "pubDate": "Wed, 14 Jun 2017 15:50:00 -0000",
             "title": "Kristie Anyabwile: Pastors' Wives Are Disciple Makers, Too",
             "entities": {
-                "PERSON": [
+                "ORG": [
                     "Kristie Anyabwile: Pastors' Wives Are Disciple Makers"
                 ],
                 "NORP": [
@@ -809,6 +863,9 @@
                 ],
                 "DATE": [
                     "Today"
+                ],
+                "PRODUCT": [
+                    "Learn"
                 ]
             }
         },
@@ -835,14 +892,14 @@
             "pubDate": "Wed, 31 May 2017 15:45:00 -0000",
             "title": "Barnabas Piper Isn't Hiding from His Divorce",
             "entities": {
-                "ORG": [
-                    "Barnabas Piper"
-                ],
                 "NORP": [
                     "Christianity"
                 ],
                 "DATE": [
                     "Today"
+                ],
+                "PRODUCT": [
+                    "Learn"
                 ]
             }
         },
@@ -869,11 +926,14 @@
             "pubDate": "Wed, 17 May 2017 16:03:00 -0000",
             "title": "Why Tish Harrison Warren Gave Up on Being a \u2018Good Church Kid\u2019",
             "entities": {
+                "WORK_OF_ART": [
+                    "Being a \u2018Good Church Kid"
+                ],
                 "NORP": [
                     "Christianity"
                 ],
-                "DATE": [
-                    "Today"
+                "PRODUCT": [
+                    "Learn"
                 ]
             }
         },
@@ -904,11 +964,17 @@
                     "Carl",
                     "Karen Ellis"
                 ],
+                "WORK_OF_ART": [
+                    "Renewing Your Culture Starts with Knowing Your History"
+                ],
                 "NORP": [
                     "Christianity"
                 ],
                 "DATE": [
                     "Today"
+                ],
+                "PRODUCT": [
+                    "Learn"
                 ]
             }
         },
@@ -935,11 +1001,17 @@
             "pubDate": "Wed, 19 Apr 2017 16:37:00 -0000",
             "title": "Rebekah Lyons: \"Freedom from Mental Illness Means More than Being 'Cured'\"",
             "entities": {
+                "WORK_OF_ART": [
+                    "Freedom from Mental Illness Means More than Being 'Cured'"
+                ],
                 "NORP": [
                     "Christianity"
                 ],
                 "DATE": [
                     "Today"
+                ],
+                "PRODUCT": [
+                    "Learn"
                 ]
             }
         },
@@ -974,6 +1046,9 @@
                 ],
                 "DATE": [
                     "Today"
+                ],
+                "PRODUCT": [
+                    "Learn"
                 ]
             }
         },
@@ -1002,6 +1077,9 @@
             "entities": {
                 "ORG": [
                     "Lecrae"
+                ],
+                "PRODUCT": [
+                    "Learn"
                 ]
             }
         },
@@ -1029,16 +1107,16 @@
             "title": "Jen Wilkin: Let's Make This a Golden Age for Women's Ministry",
             "entities": {
                 "PERSON": [
-                    "Jen Wilkin: Let's"
-                ],
-                "ORG": [
-                    "Women's Ministry"
+                    "Jen Wilkin"
                 ],
                 "NORP": [
                     "Christianity"
                 ],
                 "DATE": [
                     "Today"
+                ],
+                "PRODUCT": [
+                    "Learn"
                 ]
             }
         },
@@ -1069,10 +1147,14 @@
                     "Gaye Clark"
                 ],
                 "NORP": [
+                    "Grief",
                     "Christianity"
                 ],
                 "DATE": [
                     "Today"
+                ],
+                "PRODUCT": [
+                    "Learn"
                 ]
             }
         },
@@ -1099,14 +1181,18 @@
             "pubDate": "Wed, 08 Feb 2017 22:54:00 -0000",
             "title": "Thabiti Anyabwile's Love-Hate Relationship with the Limelight",
             "entities": {
-                "PERSON": [
-                    "Thabiti Anyabwile's"
+                "ORG": [
+                    "Thabiti Anyabwile's",
+                    "Love-Hate Relationship"
                 ],
                 "NORP": [
                     "Christianity"
                 ],
                 "DATE": [
                     "Today"
+                ],
+                "PRODUCT": [
+                    "Learn"
                 ]
             }
         },
@@ -1141,6 +1227,9 @@
                 ],
                 "DATE": [
                     "Today"
+                ],
+                "PRODUCT": [
+                    "Learn"
                 ]
             }
         },
@@ -1168,13 +1257,16 @@
             "title": "Love of Literature Feeds Karen Swallow Prior's Faith",
             "entities": {
                 "PERSON": [
-                    "Feeds Karen Swallow Prior's"
+                    "Karen Swallow Prior's"
                 ],
                 "NORP": [
                     "Christianity"
                 ],
                 "DATE": [
                     "Today"
+                ],
+                "PRODUCT": [
+                    "Learn"
                 ]
             }
         },
@@ -1204,11 +1296,17 @@
                 "DATE": [
                     "This week",
                     "the new year",
-                    "week",
                     "January 11"
                 ],
                 "CARDINAL": [
                     "three"
+                ],
+                "ORG": [
+                    "CT Podcasts",
+                    "Calling"
+                ],
+                "PRODUCT": [
+                    "Learn"
                 ]
             }
         },
@@ -1238,14 +1336,14 @@
                 "PERSON": [
                     "L\u00e9once Crump Traded"
                 ],
-                "ORG": [
-                    "NFL Future"
-                ],
                 "NORP": [
                     "Christianity"
                 ],
                 "DATE": [
                     "Today"
+                ],
+                "PRODUCT": [
+                    "Learn"
                 ]
             }
         },
@@ -1272,11 +1370,14 @@
             "pubDate": "Wed, 14 Dec 2016 18:19:00 -0000",
             "title": "How Lee Kricher Made His Aging Church Young Again",
             "entities": {
+                "PERSON": [
+                    "Lee Kricher"
+                ],
                 "NORP": [
                     "Christianity"
                 ],
-                "DATE": [
-                    "Today"
+                "PRODUCT": [
+                    "Learn"
                 ]
             }
         },
@@ -1307,13 +1408,16 @@
                     "John Onwuchekwa's"
                 ],
                 "ORG": [
-                    "Atlanta Community Eclipses His Personal Vision"
+                    "Atlanta Community"
                 ],
                 "NORP": [
                     "Christianity"
                 ],
                 "DATE": [
                     "Today"
+                ],
+                "PRODUCT": [
+                    "Learn"
                 ]
             }
         },
@@ -1348,6 +1452,9 @@
                 ],
                 "DATE": [
                     "Today"
+                ],
+                "PRODUCT": [
+                    "Learn"
                 ]
             }
         },
@@ -1380,14 +1487,14 @@
                 "WORK_OF_ART": [
                     "I Am a Worshipper"
                 ],
-                "ORDINAL": [
-                    "First"
-                ],
                 "NORP": [
                     "Christianity"
                 ],
                 "DATE": [
                     "Today"
+                ],
+                "PRODUCT": [
+                    "Learn"
                 ]
             }
         },
@@ -1414,11 +1521,17 @@
             "pubDate": "Wed, 09 Nov 2016 19:54:00 -0000",
             "title": "The Ambassador's Long Road to Rebuilding",
             "entities": {
+                "FAC": [
+                    "Long Road"
+                ],
                 "NORP": [
                     "Christianity"
                 ],
                 "DATE": [
                     "Today"
+                ],
+                "PRODUCT": [
+                    "Learn"
                 ]
             }
         },
@@ -1445,11 +1558,18 @@
             "pubDate": "Wed, 02 Nov 2016 11:21:00 -0000",
             "title": "Why Wendy Alsup Wants Laywomen to Be Theologians",
             "entities": {
+                "PERSON": [
+                    "Wendy Alsup"
+                ],
                 "NORP": [
+                    "Theologians",
                     "Christianity"
                 ],
                 "DATE": [
                     "Today"
+                ],
+                "PRODUCT": [
+                    "Learn"
                 ]
             }
         },
@@ -1476,14 +1596,17 @@
             "pubDate": "Wed, 26 Oct 2016 17:03:00 -0000",
             "title": "The Christian Case for Talking Politics",
             "entities": {
-                "WORK_OF_ART": [
-                    "Talking Politics"
+                "ORG": [
+                    "The Christian Case for Talking Politics"
                 ],
                 "NORP": [
                     "Christianity"
                 ],
                 "DATE": [
                     "Today"
+                ],
+                "PRODUCT": [
+                    "Learn"
                 ]
             }
         },
@@ -1511,10 +1634,14 @@
             "title": "What Does the 'Enneagram' Have to Offer Christians?",
             "entities": {
                 "NORP": [
+                    "Christians",
                     "Christianity"
                 ],
                 "DATE": [
                     "Today"
+                ],
+                "PRODUCT": [
+                    "Learn"
                 ]
             }
         },
@@ -1549,6 +1676,9 @@
                 ],
                 "DATE": [
                     "Today"
+                ],
+                "PRODUCT": [
+                    "Learn"
                 ]
             }
         },
@@ -1580,6 +1710,9 @@
                 ],
                 "DATE": [
                     "Today"
+                ],
+                "PRODUCT": [
+                    "Learn"
                 ]
             }
         },
@@ -1606,14 +1739,17 @@
             "pubDate": "Wed, 28 Sep 2016 14:45:00 -0000",
             "title": "When Charles Stanley\u2019s Marriage Ended, Prayer Was His Lifeline",
             "entities": {
-                "PERSON": [
-                    "Charles Stanley\u2019s"
+                "ORG": [
+                    "Charles Stanley\u2019s Marriage Ended, Prayer Was His Lifeline"
                 ],
                 "NORP": [
                     "Christianity"
                 ],
                 "DATE": [
                     "Today"
+                ],
+                "PRODUCT": [
+                    "Learn"
                 ]
             }
         },
@@ -1640,11 +1776,17 @@
             "pubDate": "Wed, 21 Sep 2016 16:49:00 -0000",
             "title": "Sho Baraka: Black Communities' Problems Need Black Theology's Solutions",
             "entities": {
+                "ORG": [
+                    "Problems Need Black Theology's Solutions"
+                ],
                 "NORP": [
                     "Christianity"
                 ],
                 "DATE": [
                     "Today"
+                ],
+                "PRODUCT": [
+                    "Learn"
                 ]
             }
         },
@@ -1674,14 +1816,14 @@
                 "PERSON": [
                     "H.B. Charles"
                 ],
-                "GPE": [
-                    "Jr."
-                ],
                 "NORP": [
                     "Christianity"
                 ],
                 "DATE": [
                     "Today"
+                ],
+                "PRODUCT": [
+                    "Learn"
                 ]
             }
         },
@@ -1716,6 +1858,9 @@
                 ],
                 "DATE": [
                     "Today"
+                ],
+                "PRODUCT": [
+                    "Learn"
                 ]
             }
         },
@@ -1744,18 +1889,14 @@
             "entities": {
                 "PERSON": [
                     "Bryan Loritts",
-                    "Richard Clark"
-                ],
-                "ORG": [
-                    "Lead Pastor of Mountainview",
-                    "Abundant Life Christian Fellowship",
-                    "the Kainos Movement",
-                    "renaissance"
+                    "Loritts",
+                    "Richard Clark",
+                    "Loritts"
                 ],
                 "GPE": [
+                    "Mountainview",
                     "California",
                     "Memphis",
-                    "Loritts",
                     "America"
                 ],
                 "CARDINAL": [
@@ -1766,13 +1907,19 @@
                     "Christian",
                     "American"
                 ],
+                "ORG": [
+                    "the Kainos Movement",
+                    "CT"
+                ],
                 "LOC": [
                     "Silicon Valley",
-                    "Loritts",
                     "Silicon Valley"
                 ],
                 "DATE": [
                     "week"
+                ],
+                "PRODUCT": [
+                    "Learn"
                 ]
             }
         },
@@ -1802,17 +1949,18 @@
                 "ORG": [
                     "Slavery"
                 ],
-                "GPE": [
-                    "Bianca"
-                ],
                 "PERSON": [
-                    "Juarez Olthoff"
+                    "Bianca Juarez Olthoff",
+                    "n\u2019t Afraid"
                 ],
                 "NORP": [
                     "Christianity"
                 ],
                 "DATE": [
                     "Today"
+                ],
+                "PRODUCT": [
+                    "Learn"
                 ]
             }
         },
@@ -1839,14 +1987,14 @@
             "pubDate": "Wed, 17 Aug 2016 13:47:00 -0000",
             "title": "Shauna Niequist's Recipe for a Hospitable Church",
             "entities": {
-                "ORG": [
-                    "Hospitable Church"
-                ],
                 "NORP": [
                     "Christianity"
                 ],
                 "DATE": [
                     "Today"
+                ],
+                "PRODUCT": [
+                    "Learn"
                 ]
             }
         },
@@ -1875,6 +2023,7 @@
             "entities": {
                 "PERSON": [
                     "Brent Gudgel",
+                    "Knight Rider",
                     "Gudgel",
                     "Gudgel",
                     "Gudgel",
@@ -1882,22 +2031,18 @@
                     "Gudgel"
                 ],
                 "DATE": [
-                    "the \u201880s",
-                    "\u201890s",
+                    "the \u201880s and \u201890s",
                     "payday",
                     "week"
                 ],
                 "ORG": [
                     "The A-Team",
                     "MacGyver",
-                    "Knight Rider",
                     "VHS",
                     "Deidox, Brent",
                     "Chronicle Project",
-                    "Deidox\u2019s",
-                    "Ordinance",
                     "CT",
-                    "Ordinance"
+                    "CT"
                 ],
                 "NORP": [
                     "Columbian",
@@ -1909,6 +2054,13 @@
                 "CARDINAL": [
                     "more than 250",
                     "more than 20"
+                ],
+                "PRODUCT": [
+                    "Deidox",
+                    "Learn"
+                ],
+                "WORK_OF_ART": [
+                    "The Ordinance"
                 ],
                 "GPE": [
                     "Texas"
@@ -1939,23 +2091,23 @@
             "title": "Tommy \"Urban D\" Kyllonen: Why Our Hip-hop Loving Church Doesn't Worship to Kanye",
             "entities": {
                 "PERSON": [
-                    "Tommy",
+                    "Tommy \u201cUrban D.\u201d Kyllonen",
                     "ReBuild",
+                    "Kyllonen",
                     "Richard Clark"
                 ],
-                "WORK_OF_ART": [
-                    "Urban D.",
-                    "Bible"
-                ],
                 "GPE": [
-                    "Kyllonen",
                     "Tampa",
-                    "Kyllonen",
                     "Crossover",
                     "America"
                 ],
                 "ORG": [
-                    "Crossover Church"
+                    "Crossover Church",
+                    "CT"
+                ],
+                "PRODUCT": [
+                    "Un.orthodox",
+                    "Learn"
                 ],
                 "DATE": [
                     "the last 20 years",
@@ -1963,7 +2115,12 @@
                     "two decades"
                 ],
                 "NORP": [
-                    "Urban D."
+                    "D.",
+                    "D."
+                ],
+                "WORK_OF_ART": [
+                    "The Calling",
+                    "Bible"
                 ]
             }
         },
@@ -2005,7 +2162,8 @@
                     "Addison",
                     "MOVE",
                     "Addison",
-                    "Addison"
+                    "Addison",
+                    "CT"
                 ],
                 "ORDINAL": [
                     "first"
@@ -2013,6 +2171,9 @@
                 "GPE": [
                     "Melbourne",
                     "Australia"
+                ],
+                "PRODUCT": [
+                    "Learn"
                 ]
             }
         },
@@ -2039,10 +2200,6 @@
             "pubDate": "Wed, 20 Jul 2016 15:40:00 -0000",
             "title": "Katelyn Beaty: Despite the Cost, I'm Proud to Be an 'Intimidating' Woman",
             "entities": {
-                "NORP": [
-                    "evangelical",
-                    "evangelical"
-                ],
                 "DATE": [
                     "today",
                     "just yesterday",
@@ -2055,7 +2212,11 @@
                 "ORG": [
                     "Christianity Today\u2019s",
                     "CT",
+                    "CT",
                     "CT"
+                ],
+                "ORDINAL": [
+                    "first"
                 ],
                 "GPE": [
                     "Beaty",
@@ -2064,6 +2225,9 @@
                 ],
                 "WORK_OF_ART": [
                     "A Woman\u2019s Place"
+                ],
+                "PRODUCT": [
+                    "Learn"
                 ]
             }
         },
@@ -2099,29 +2263,25 @@
                 ],
                 "PERSON": [
                     "Jemar Tisby",
-                    "Tisby",
-                    "Jackson",
                     "Richard Clark"
                 ],
-                "PRODUCT": [
-                    "Facebook"
-                ],
                 "ORG": [
+                    "Tisby",
                     "the Reformed African American Network",
                     "RAAN",
-                    "RAAN\u2019s Co-founder",
-                    "the African American Leadership Initiative",
-                    "Reformed Theological Seminary\u2019s",
-                    "Tisby",
-                    "Tisby"
-                ],
-                "WORK_OF_ART": [
-                    "Enter"
+                    "RAAN",
+                    "Reformed Theological Seminary\u2019s Jackson",
+                    "CT",
+                    "Tisby about #BlackLivesMatter",
+                    "Dutch Reformed"
                 ],
                 "NORP": [
                     "Christian",
-                    "Christians",
-                    "Dutch"
+                    "African American Leadership",
+                    "Christians"
+                ],
+                "PRODUCT": [
+                    "Learn"
                 ]
             }
         },
@@ -2151,7 +2311,6 @@
                 "PERSON": [
                     "Dan Claire\u2019s",
                     "Claire",
-                    "Rez",
                     "Richard Clark",
                     "Dan Claire"
                 ],
@@ -2166,8 +2325,14 @@
                 ],
                 "ORG": [
                     "the Church of the Resurrection",
-                    "Capitol Hill",
-                    "the University of Florida"
+                    "the University of Florida",
+                    "CT"
+                ],
+                "WORK_OF_ART": [
+                    "Rez"
+                ],
+                "LOC": [
+                    "Capitol Hill"
                 ],
                 "GPE": [
                     "Washington",
@@ -2176,6 +2341,9 @@
                 "DATE": [
                     "17 years ago",
                     "week"
+                ],
+                "PRODUCT": [
+                    "Learn"
                 ]
             }
         },
@@ -2205,9 +2373,15 @@
                 "DATE": [
                     "This week"
                 ],
+                "ORG": [
+                    "CT"
+                ],
                 "PERSON": [
                     "Richard Clark",
                     "N\u00fa\u00f1ez"
+                ],
+                "PRODUCT": [
+                    "Learn"
                 ]
             }
         },
@@ -2236,16 +2410,18 @@
             "entities": {
                 "PERSON": [
                     "Joe Thorn",
+                    "Thorn",
+                    "Thorn",
                     "Richard Clark"
                 ],
                 "GPE": [
                     "St. Charles"
                 ],
                 "ORG": [
-                    "Trinity",
-                    "Thorn",
-                    "Thorn",
-                    "CT"
+                    "IL",
+                    "Note to Self and Experiencing the Trinity",
+                    "CT",
+                    "Satanism"
                 ],
                 "CARDINAL": [
                     "one"
@@ -2259,6 +2435,9 @@
                 ],
                 "NORP": [
                     "Christianity"
+                ],
+                "PRODUCT": [
+                    "Learn"
                 ]
             }
         },
@@ -2286,14 +2465,20 @@
             "title": "Why Leroy Barber Lets Ministries Go",
             "entities": {
                 "DATE": [
-                    "week"
+                    "this week"
                 ],
                 "PERSON": [
                     "Barber",
                     "Richard Clark"
                 ],
+                "ORG": [
+                    "CT"
+                ],
                 "GPE": [
                     "Portland"
+                ],
+                "PRODUCT": [
+                    "Learn"
                 ]
             }
         },
@@ -2323,10 +2508,12 @@
                 "ORG": [
                     "Boeing",
                     "The Summit Church of Raleigh-Durham",
+                    "CT",
                     "the Southern Baptist Convention"
                 ],
                 "PRODUCT": [
-                    "747"
+                    "747",
+                    "Learn"
                 ],
                 "QUANTITY": [
                     "35,000 feet"
@@ -2334,20 +2521,23 @@
                 "PERSON": [
                     "J. D. Greear",
                     "Greear",
-                    "Richard Clark"
+                    "Greear",
+                    "Greear",
+                    "Greear",
+                    "Richard Clark",
+                    "Jesus"
                 ],
                 "GPE": [
-                    "North Carolina",
-                    "Greear"
+                    "North Carolina"
+                ],
+                "CARDINAL": [
+                    "one"
                 ],
                 "ORDINAL": [
                     "first"
                 ],
                 "DATE": [
                     "week"
-                ],
-                "WORK_OF_ART": [
-                    "The Calling, Greear"
                 ]
             }
         },
@@ -2378,12 +2568,8 @@
                     "Trillia Newbell\u2019s",
                     "Newbell",
                     "Newbell",
+                    "Newbell",
                     "CT"
-                ],
-                "CARDINAL": [
-                    "one",
-                    "one",
-                    "one"
                 ],
                 "PERSON": [
                     "Richard Clark"
@@ -2392,7 +2578,8 @@
                     "week"
                 ],
                 "PRODUCT": [
-                    "Twitter"
+                    "Twitter",
+                    "Learn"
                 ]
             }
         },
@@ -2423,12 +2610,8 @@
                     "a thousand",
                     "One"
                 ],
-                "ORG": [
-                    "Mark Noll\u2019s The Scandal of the Evangelical Mind",
-                    "American Christianity",
-                    "Trump"
-                ],
                 "PERSON": [
+                    "Mark Noll\u2019s",
                     "Matthew Lee Anderson",
                     "Anderson",
                     "Mere Orthodoxy",
@@ -2436,14 +2619,25 @@
                     "Anderson"
                 ],
                 "WORK_OF_ART": [
-                    "The End of Our Exploring (Moody, 2013)"
+                    "The Scandal of the Evangelical Mind",
+                    "The End of Our Exploring"
                 ],
                 "NORP": [
+                    "American",
+                    "Christianity",
                     "Christian"
+                ],
+                "ORG": [
+                    "Trump",
+                    "Moody, 2013",
+                    "CT"
                 ],
                 "DATE": [
                     "week",
                     "Sunday"
+                ],
+                "PRODUCT": [
+                    "Learn"
                 ]
             }
         },
@@ -2472,6 +2666,7 @@
             "entities": {
                 "PERSON": [
                     "Todd Wilson",
+                    "Wilson",
                     "Richard Clark"
                 ],
                 "DATE": [
@@ -2481,9 +2676,12 @@
                 ],
                 "ORG": [
                     "Wilson",
-                    "Wilson",
                     "the Division of Naval Reactors",
+                    "CT",
                     "Wilson"
+                ],
+                "PRODUCT": [
+                    "Learn"
                 ]
             }
         },
@@ -2523,16 +2721,24 @@
                     "Sandra Maria Van Opstal",
                     "Richard Clark"
                 ],
+                "GPE": [
+                    "Chicago"
+                ],
                 "ORG": [
-                    "Chicago\u2019s Grace and Peace Community",
+                    "Grace and Peace Community",
                     "Van Opstal",
-                    "Willow Creek",
-                    "InterVarsity Christian Fellowship",
                     "Van Opstal",
+                    "CT",
                     "Van Opstal"
                 ],
                 "NORP": [
                     "Christians"
+                ],
+                "LOC": [
+                    "Willow Creek"
+                ],
+                "PRODUCT": [
+                    "Learn"
                 ]
             }
         },
@@ -2564,7 +2770,6 @@
                     "Renaissance",
                     "Leithart",
                     "Athanasius",
-                    "Leithart",
                     "Calling",
                     "Leithart",
                     "CT"
@@ -2572,11 +2777,15 @@
                 "PERSON": [
                     "Peter Leithart",
                     "Shakespeare",
-                    "Jane Austen\u2019s",
+                    "Jane Austen",
+                    "Leithart",
                     "Richard Clark"
                 ],
                 "DATE": [
                     "week"
+                ],
+                "PRODUCT": [
+                    "Learn"
                 ]
             }
         },
@@ -2608,9 +2817,8 @@
                     "Richard Clark"
                 ],
                 "ORG": [
-                    "the Senior Pastor at Canaan Community Church",
+                    "Canaan Community Church",
                     "Brooks",
-                    "Calling",
                     "CT",
                     "Brooks"
                 ],
@@ -2623,6 +2831,9 @@
                 ],
                 "DATE": [
                     "week"
+                ],
+                "PRODUCT": [
+                    "Learn"
                 ]
             }
         },
@@ -2651,29 +2862,28 @@
             "entities": {
                 "PERSON": [
                     "Russell Moore",
-                    "Richard Clark",
-                    "Moore"
+                    "Richard Clark"
                 ],
                 "ORG": [
                     "the Southern Baptist Convention",
                     "Trump",
                     "Moore",
                     "Moore",
-                    "Calling",
-                    "CT"
+                    "CT",
+                    "Moore"
                 ],
                 "DATE": [
                     "these days",
                     "today"
-                ],
-                "NORP": [
-                    "evangelical"
                 ],
                 "GPE": [
                     "the Kingdom of God"
                 ],
                 "ORDINAL": [
                     "first"
+                ],
+                "PRODUCT": [
+                    "Learn"
                 ]
             }
         },
@@ -2699,7 +2909,14 @@
             },
             "pubDate": "Wed, 16 Mar 2016 21:05:05 -0000",
             "title": "What is \"The Calling\"?",
-            "entities": {}
+            "entities": {
+                "ORG": [
+                    "Calling"
+                ],
+                "PRODUCT": [
+                    "Learn"
+                ]
+            }
         }
     ],
     "itunes": {

@@ -73,6 +73,9 @@
             "entities": {
                 "WORK_OF_ART": [
                     "Love"
+                ],
+                "DATE": [
+                    "every day"
                 ]
             }
         },
@@ -116,7 +119,11 @@
             },
             "pubDate": "Mon, 24 Sep 2018 11:55:00 EDT",
             "title": "Episode 5: An Argument That Should Be Simple.",
-            "entities": {}
+            "entities": {
+                "FAC": [
+                    "the Bramasole Diner"
+                ]
+            }
         },
         {
             "content": "\"With every commitment there is much that it rejects. Much that it excludes.\" - Adam Phillips, Unforbidden Pleasures",
@@ -175,7 +182,7 @@
             "Kaitlin Prest"
         ],
         "ORG": [
-            "Prix-Italia",
+            "the Prix-Italia",
             "CBC Podcasts"
         ],
         "ORDINAL": [

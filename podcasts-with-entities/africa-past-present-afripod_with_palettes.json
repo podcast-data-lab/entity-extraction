@@ -63,7 +63,7 @@
                 ],
                 "NORP": [
                     "Portuguese",
-                    "Afro-European"
+                    "Jewish"
                 ],
                 "GPE": [
                     "Senegal"
@@ -104,32 +104,29 @@
             "title": "Episode 132: ",
             "entities": {
                 "PERSON": [
-                    "Marissa Moorman"
+                    "Marissa Moorman",
+                    "Paulo Flores"
+                ],
+                "GPE": [
+                    "Wisconsin",
+                    "Angolan",
+                    "Portugal",
+                    "Angola"
                 ],
                 "ORG": [
-                    "Wisconsin-Madison",
-                    "African Cultural Studies",
-                    "Angolan",
-                    "State Power"
+                    "African Cultural Studies"
                 ],
                 "LOC": [
                     "Africa"
                 ],
-                "GPE": [
-                    "Portugal",
-                    "Angola"
-                ],
                 "WORK_OF_ART": [
-                    "Powerful Frequencies: Radio"
+                    "Powerful Frequencies: Radio, State Power"
                 ],
                 "EVENT": [
                     "the Cold War"
                 ],
                 "DATE": [
                     "1931\u20132002"
-                ],
-                "MONEY": [
-                    "8230"
                 ]
             }
         },
@@ -173,16 +170,18 @@
                     "Jessica Marie Johnson"
                 ],
                 "ORG": [
-                    "Johns Hopkins Univ",
-                    "Black Women"
+                    "Johns Hopkins Univ"
                 ],
-                "LOC": [
-                    "the Atlantic World",
-                    "Caribbean"
+                "WORK_OF_ART": [
+                    "Wicked Flesh: Black Women"
                 ],
                 "GPE": [
+                    "Intimacy",
                     "Senegambia",
                     "Louisiana"
+                ],
+                "LOC": [
+                    "Caribbean"
                 ]
             }
         },
@@ -226,12 +225,13 @@
                 "GPE": [
                     "West Africa",
                     "Sports Africa",
-                    "U.S."
+                    "U.S.",
+                    "Stud[&#8230"
                 ],
                 "LOC": [
                     "Europe"
                 ],
-                "ORG": [
+                "FAC": [
                     "Basketball Africa League"
                 ],
                 "NORP": [
@@ -275,11 +275,11 @@
             "title": "Episode 129: ",
             "entities": {
                 "PERSON": [
-                    "Chambi Chachage"
+                    "Chambi Chachage",
+                    "Princeton"
                 ],
                 "GPE": [
                     "Dar es Salaam",
-                    "Cape Town",
                     "Edinburgh",
                     "Cambridge",
                     "Mass.",
@@ -289,8 +289,7 @@
                     "African"
                 ],
                 "ORG": [
-                    "Chachage",
-                    "Tanzania.[&#8230"
+                    "Chachage"
                 ]
             }
         },
@@ -329,9 +328,10 @@
             "entities": {
                 "PERSON": [
                     "Cherif Keita",
+                    "Mali",
                     "John Langalibalele Dube",
                     "Nokutela Dube",
-                    "Salif Keita\u2019s"
+                    "Salif Keita"
                 ],
                 "NORP": [
                     "French"
@@ -339,11 +339,9 @@
                 "ORG": [
                     "Francophone Studies",
                     "Carleton College",
-                    "the African National Congress of South Africa",
-                    "[&#8230"
+                    "the African National Congress of South Africa"
                 ],
                 "GPE": [
-                    "Mali",
                     "Mande"
                 ]
             }
@@ -384,12 +382,13 @@
             "title": "Episode 127: ",
             "entities": {
                 "PERSON": [
-                    "Kim Yi Dionne"
+                    "Kim Yi Dionne",
+                    "Malawi",
+                    "Follow",
+                    "Twitter"
                 ],
-                "ORG": [
-                    "UC Riverside",
-                    "Doomed Interventions",
-                    "the Washington Post"
+                "WORK_OF_ART": [
+                    "Doomed Interventions: The Failure of Global Responses"
                 ],
                 "LOC": [
                     "Africa"
@@ -398,11 +397,11 @@
                     "May 2019"
                 ],
                 "GPE": [
-                    "Malawi",
                     "Ufahamu Africa"
                 ],
-                "PRODUCT": [
-                    "Twitter"
+                "ORG": [
+                    "Monkey Cage",
+                    "the Washington Post"
                 ]
             }
         },
@@ -446,16 +445,13 @@
                 ],
                 "GPE": [
                     "Loyola Maryland",
+                    "Shona",
                     "Zimbabwe",
                     "Guinea"
                 ],
                 "ORDINAL": [
                     "first",
                     "second"
-                ],
-                "ORG": [
-                    "Shona",
-                    "interest[&#8230"
                 ],
                 "LOC": [
                     "Africa"
@@ -502,21 +498,15 @@
             "title": "Episode 125: ",
             "entities": {
                 "PERSON": [
-                    "Gondola",
-                    "Africana Studies",
-                    "Jean Depara\u2019s"
-                ],
-                "PRODUCT": [
-                    "Tropical Cowboys"
-                ],
-                "GPE": [
-                    "Kinshasa"
-                ],
-                "ORG": [
+                    "History",
+                    "Africana",
                     "Hollywood Westerns"
                 ],
-                "MONEY": [
-                    "8230"
+                "WORK_OF_ART": [
+                    "Tropical Cowboys: Westerns, Violence, and Masculinity in Kinshasa"
+                ],
+                "ORG": [
+                    "Jean Depara\u2019s"
                 ]
             }
         },
@@ -550,17 +540,16 @@
             "title": "Episode 124: ",
             "entities": {
                 "PERSON": [
-                    "Cal Biruk"
+                    "Cal Biruk",
+                    "Malawi"
+                ],
+                "ORG": [
+                    "Oberlin",
+                    "African Research World",
+                    "a[&#8230"
                 ],
                 "NORP": [
                     "African"
-                ],
-                "ORG": [
-                    "Cooking Data: Culture and Politics",
-                    "African Research World"
-                ],
-                "GPE": [
-                    "Malawi"
                 ]
             }
         },
@@ -596,20 +585,22 @@
                 "PERSON": [
                     "Alex Thurston",
                     "Boko Haram",
-                    "Thurston",
                     "Boko Haram"
                 ],
-                "GPE": [
+                "ORG": [
                     "Miami University",
+                    "an African Jihadist Movement",
+                    "Cameroon"
+                ],
+                "GPE": [
+                    "Thurston",
                     "Nigeria",
                     "Niger",
                     "Chad",
                     "US"
                 ],
-                "ORG": [
-                    "African Jihadist Movement",
-                    "Cameroon",
-                    "inte[&#8230"
+                "NORP": [
+                    "Islamic"
                 ]
             }
         },
@@ -648,18 +639,18 @@
                     "Clark",
                     "Clark"
                 ],
-                "NORP": [
-                    "African",
-                    "African",
-                    "Pan-African",
-                    "African"
-                ],
                 "ORG": [
+                    "African Studies",
                     "Howard University",
                     "Dustyfoot Philosophers"
                 ],
                 "LOC": [
                     "Africa"
+                ],
+                "NORP": [
+                    "African",
+                    "Pan-African",
+                    "African"
                 ]
             }
         },
@@ -715,12 +706,12 @@
                     "the Biafran War"
                 ],
                 "GPE": [
+                    "Ivory Coast",
                     "Ibhawoh",
                     "Tanzania"
                 ],
                 "ORG": [
-                    "SWAPO",
-                    "victi[&#8230"
+                    "SWAPO"
                 ]
             }
         },
@@ -765,10 +756,13 @@
                 "PERSON": [
                     "David Coplan"
                 ],
+                "ORG": [
+                    "Emeritus",
+                    "Bassline"
+                ],
                 "GPE": [
                     "New York",
                     "Soweto",
-                    "Bassline",
                     "Johannesburg"
                 ],
                 "LOC": [
@@ -777,9 +771,6 @@
                 ],
                 "NORP": [
                     "African"
-                ],
-                "ORG": [
-                    "Border"
                 ]
             }
         },
@@ -819,20 +810,21 @@
             "title": "Episode 119: ",
             "entities": {
                 "PERSON": [
-                    "Jean Allman"
-                ],
-                "GPE": [
-                    "Washington U.",
-                    "Ghana"
+                    "Jean Allman",
+                    "Washington U."
                 ],
                 "NORP": [
+                    "African",
                     "African"
                 ],
+                "GPE": [
+                    "Ghana"
+                ],
                 "ORG": [
-                    "African Studies",
+                    "Allman",
+                    "ASA Presidential Lecture",
                     "MSU",
-                    "African Studies",
-                    "Unfinished[&#8230"
+                    "African Studies"
                 ]
             }
         },
@@ -867,24 +859,22 @@
             "entities": {
                 "PERSON": [
                     "Somadoda Fikeni",
-                    "Nomzamo Ntombela",
-                    "Fikeni"
+                    "Stellenbosch",
+                    "Click"
                 ],
                 "ORG": [
                     "UNISA",
-                    "Stellenbosch"
+                    "Ntombela"
+                ],
+                "FAC": [
+                    "Nomzamo Ntombela"
                 ],
                 "NORP": [
-                    "South African"
-                ],
-                "GPE": [
-                    "Ntombela"
+                    "South African",
+                    "Fikeni"
                 ],
                 "DATE": [
                     "1980s"
-                ],
-                "WORK_OF_ART": [
-                    "Campus Activis[&#8230"
                 ]
             }
         },
@@ -924,18 +914,15 @@
             "pubDate": "Thu, 17 May 2018 00:00:00 +0000",
             "title": "Episode 117: ",
             "entities": {
-                "PERSON": [
-                    "Albie Sachs"
+                "ORG": [
+                    "Albie Sachs",
+                    "Constitutional Court"
                 ],
                 "DATE": [
                     "15-year"
                 ],
                 "GPE": [
                     "South Africa's"
-                ],
-                "ORG": [
-                    "Constitutional Court",
-                    "Sachs"
                 ]
             }
         },
@@ -975,8 +962,7 @@
             "title": "Episode 116: ",
             "entities": {
                 "PERSON": [
-                    "Norman Etherington",
-                    "Imperium"
+                    "Norman Etherington"
                 ],
                 "LOC": [
                     "Africa"
@@ -984,19 +970,19 @@
                 "NORP": [
                     "Southern African"
                 ],
-                "FAC": [
-                    "The Great Treks"
-                ],
                 "ORG": [
+                    "The Great Treks",
                     "Indigenous Evangelists &",
-                    "Questions of Authority",
-                    "Soul.[&#8230"
+                    "Questions of Authority"
                 ],
                 "GPE": [
                     "the British Empire"
                 ],
                 "DATE": [
                     "1750-1940"
+                ],
+                "WORK_OF_ART": [
+                    "Imperium of the Soul.[&#8230"
                 ]
             }
         },
@@ -1047,14 +1033,13 @@
                 "GPE": [
                     "Mozambique",
                     "Senegal",
-                    "South Africa",
+                    "South Africa"
+                ],
+                "ORG": [
                     "Tunisia"
                 ],
                 "LOC": [
                     "Africa"
-                ],
-                "MONEY": [
-                    "8230"
                 ]
             }
         },
@@ -1097,19 +1082,18 @@
             "entities": {
                 "PERSON": [
                     "Youssouf Sakaly",
-                    "Malick Sitou"
-                ],
-                "ORG": [
-                    "the Archive of Malian Photography",
-                    "the National Endowment for the Humanities",
-                    "dissemina[&#8230"
+                    "Malick Sitou",
+                    "Mali"
                 ],
                 "NORP": [
-                    "Malian-US"
+                    "Malian"
                 ],
                 "GPE": [
-                    "the British Library",
-                    "Mali"
+                    "US"
+                ],
+                "ORG": [
+                    "the National Endowment for the Humanities",
+                    "the British Library"
                 ],
                 "CARDINAL": [
                     "five"
@@ -1152,14 +1136,14 @@
             "title": "Episode 113: ",
             "entities": {
                 "PERSON": [
-                    "Keren Weitzberg",
-                    "Greater Somalia"
+                    "Keren Weitzberg"
                 ],
                 "ORG": [
                     "Institute of Advanced Studies",
-                    "University College London",
-                    "the Predicaments of Belonging",
-                    "Somaliness"
+                    "University College London"
+                ],
+                "WORK_OF_ART": [
+                    "the Predicaments of Belonging"
                 ],
                 "GPE": [
                     "Kenya"
@@ -1167,6 +1151,9 @@
                 "NORP": [
                     "Somali",
                     "Somali"
+                ],
+                "PRODUCT": [
+                    "Somaliness"
                 ]
             }
         },
@@ -1256,11 +1243,11 @@
             "entities": {
                 "PERSON": [
                     "Jeremy Prestholdt",
+                    "Tupac",
                     "Bin Laden",
                     "Laura Fair.[&#8230"
                 ],
                 "GPE": [
-                    "California",
                     "San Diego"
                 ],
                 "NORP": [
@@ -1268,8 +1255,7 @@
                 ],
                 "ORG": [
                     "Icons of Dissent",
-                    "Che, Marley",
-                    "Tupac"
+                    "Che, Marley,"
                 ],
                 "LOC": [
                     "Indian Ocean Africa"
@@ -1320,16 +1306,16 @@
                 "WORK_OF_ART": [
                     "The Story of Swahili"
                 ],
+                "PRODUCT": [
+                    "Swahili",
+                    "Swahili",
+                    "Swahili"
+                ],
                 "NORP": [
-                    "Mugane",
                     "African"
                 ],
                 "GPE": [
-                    "Swahili",
                     "U.S."
-                ],
-                "MONEY": [
-                    "8230"
                 ]
             }
         },
@@ -1372,15 +1358,16 @@
             "entities": {
                 "PERSON": [
                     "Allen Isaacman",
+                    "Herskovits Award",
+                    "Dams",
                     "Cahora Bassa"
                 ],
                 "ORG": [
                     "University of Minnesota",
-                    "Dams",
                     "the Delusion of Development"
                 ],
-                "GPE": [
-                    "Mozambique"
+                "PRODUCT": [
+                    "Legacies in Mozambique"
                 ],
                 "DATE": [
                     "1965-2007"
@@ -1428,28 +1415,28 @@
             "pubDate": "Fri, 03 Mar 2017 00:00:00 +0000",
             "title": "Episode 108: ",
             "entities": {
+                "ORG": [
+                    "Fallou Ngom",
+                    "Ajami"
+                ],
                 "NORP": [
                     "African",
                     "African",
                     "Arabic",
                     "African"
                 ],
-                "GPE": [
-                    "Boston U.",
-                    "Ajami",
-                    "U.S."
-                ],
                 "PERSON": [
-                    "Muslims Beyond",
-                    "Senegambia",
+                    "Boston U.",
                     "Ahmadu Bamba",
                     "Ngom",
-                    "Ajami",
                     "Ajami"
                 ],
-                "ORG": [
-                    "Muridiyya",
-                    "c[&#8230"
+                "WORK_OF_ART": [
+                    "Muslims Beyond the Arab World: the Odyssey of Ajami"
+                ],
+                "GPE": [
+                    "Senegambia",
+                    "U.S."
                 ]
             }
         },
@@ -1493,20 +1480,19 @@
             "title": "Episode 107: ",
             "entities": {
                 "PERSON": [
-                    "Amidu O. Sanni",
-                    "Ajami"
+                    "Amidu O. Sanni"
                 ],
                 "ORG": [
                     "Lagos State University",
-                    "the Timbuktu Manuscripts Project"
+                    "the Timbuktu Manuscripts Project",
+                    "Ajami"
                 ],
                 "NORP": [
                     "West African",
-                    "African",
-                    "Arabic"
+                    "African"
                 ],
-                "MONEY": [
-                    "8230"
+                "LANGUAGE": [
+                    "Arabic"
                 ]
             }
         },
@@ -1544,25 +1530,22 @@
             "title": "Episode 106: ",
             "entities": {
                 "PERSON": [
-                    "Nicholas van de Walle (Cornell",
+                    "Nicholas van de Walle",
                     "Michael Wahman",
                     "Jessica Achberger"
                 ],
                 "GPE": [
+                    "Cornell",
                     "Missouri"
                 ],
                 "DATE": [
                     "2016"
                 ],
-                "NORP": [
-                    "Zambian"
-                ],
                 "CARDINAL": [
                     "two"
                 ],
                 "ORG": [
-                    "the Constitutional Court",
-                    "collaboration[&#8230"
+                    "the Constitutional Court"
                 ]
             }
         },
@@ -1605,16 +1588,12 @@
             "pubDate": "Thu, 22 Dec 2016 00:00:00 +0000",
             "title": "Episode 105: ",
             "entities": {
-                "ORG": [
-                    "Micere Githae Mugo",
-                    "Syracuse",
-                    "Emeritus"
-                ],
                 "PERSON": [
+                    "Githae Mugo",
                     "Simon Gikandi",
                     "Princeton"
                 ],
-                "WORK_OF_ART": [
+                "ORG": [
                     "The Trial of Dedan Kimathi"
                 ],
                 "ORDINAL": [
@@ -1665,17 +1644,19 @@
             "entities": {
                 "PERSON": [
                     "John Aerni-Flessner",
-                    "Basotho"
+                    "Lesotho"
                 ],
                 "ORG": [
                     "MSU",
                     "The Desire for Development: Foreign Assistance",
-                    "Independence, &amp",
-                    "Peace Corps"
+                    "Basotho",
+                    "U.S. Peace Corps"
+                ],
+                "WORK_OF_ART": [
+                    "Dreams for the Nation"
                 ],
                 "GPE": [
-                    "South Africa",
-                    "U.S."
+                    "South Africa"
                 ]
             }
         },
@@ -1712,16 +1693,20 @@
             "title": "Episode 103: ",
             "entities": {
                 "PERSON": [
-                    "Artist Sam Jury",
+                    "Sam Jury",
                     "Richard Knight"
                 ],
+                "ORG": [
+                    "Sahrawi"
+                ],
+                "GPE": [
+                    "Sahrawi"
+                ],
                 "NORP": [
-                    "Sahrawi",
-                    "Sahrawi",
                     "African"
                 ],
-                "DATE": [
-                    "daily"
+                "PRODUCT": [
+                    "Archive).[&#8230"
                 ]
             }
         },
@@ -1760,8 +1745,7 @@
             "title": "Episode 102: ",
             "entities": {
                 "WORK_OF_ART": [
-                    "Pulitzer Prize",
-                    ": Murder at Small Koppie: The Real Story of the Marikana Massacre"
+                    "Pulitzer Prize"
                 ],
                 "PERSON": [
                     "Greg Marinovich"
@@ -1811,13 +1795,16 @@
             "pubDate": "Mon, 23 May 2016 00:00:00 +0000",
             "title": "Episode 101: ",
             "entities": {
+                "PERSON": [
+                    "Wisconsin Madison"
+                ],
                 "NORP": [
                     "African",
                     "African",
                     "African"
                 ],
-                "LOC": [
-                    "Africa"
+                "GPE": [
+                    "Africa Cartoons.com.[&#8230"
                 ]
             }
         },
@@ -1881,9 +1868,6 @@
                 ],
                 "NORP": [
                     "African"
-                ],
-                "ORG": [
-                    "themes.[&#8230"
                 ]
             }
         },
@@ -1929,10 +1913,8 @@
                     "Rosemarie Mwaipopo"
                 ],
                 "GPE": [
+                    "Dar es Salaam",
                     "Tanzania"
-                ],
-                "ORG": [
-                    "Africa.[&#8230"
                 ]
             }
         },
@@ -1975,8 +1957,10 @@
                 "CARDINAL": [
                     "Nine"
                 ],
+                "FAC": [
+                    "the Worlds Largest Refugee Camp"
+                ],
                 "GPE": [
-                    "the Worlds Largest Refugee Camp",
                     "Dadaab",
                     "Kenya",
                     "Somalia"
@@ -2033,7 +2017,8 @@
             "entities": {
                 "PERSON": [
                     "Susanne Klausen",
-                    "Carleton U."
+                    "Carleton U.",
+                    "Apartheid"
                 ],
                 "GPE": [
                     "South Africa"
@@ -2043,9 +2028,6 @@
                 ],
                 "NORP": [
                     "African"
-                ],
-                "MONEY": [
-                    "8230"
                 ]
             }
         },
@@ -2093,8 +2075,7 @@
                     "Buhari"
                 ],
                 "ORG": [
-                    "African Studies Association",
-                    "election.[&#8230"
+                    "African Studies Association"
                 ],
                 "DATE": [
                     "2015"
@@ -2139,11 +2120,10 @@
             "title": "Episode 95: ",
             "entities": {
                 "PERSON": [
-                    "Ganiyu Akinloye",
+                    "Ganiyu Akinloye Jimoh",
                     "Jimga"
                 ],
                 "ORG": [
-                    "Creative Arts",
                     "University of Lagos",
                     "Nigeria.[&#8230"
                 ],
@@ -2249,19 +2229,20 @@
                 ],
                 "GPE": [
                     "North Carolina",
+                    "Vaughan",
                     "South Carolina",
                     "Liberia",
                     "Nigeria"
                 ],
                 "NORP": [
-                    "African",
-                    "Atlantic"
+                    "African"
                 ],
                 "DATE": [
-                    "19th-century"
+                    "the 19th-century"
                 ],
-                "ORG": [
-                    "re[&#8230"
+                "LOC": [
+                    "Atlantic",
+                    "the Yoruba Wars"
                 ]
             }
         },
@@ -2308,13 +2289,11 @@
             "title": "Episode 92: ",
             "entities": {
                 "ORG": [
-                    "Hikabwa Decius Chipande"
-                ],
-                "WORK_OF_ART": [
-                    "PhD 2015"
-                ],
-                "EVENT": [
+                    "Hikabwa Decius Chipande",
                     "Michigan State"
+                ],
+                "DATE": [
+                    "PhD 2015"
                 ],
                 "GPE": [
                     "Zambia"
@@ -2361,6 +2340,7 @@
                     "Western Illinois"
                 ],
                 "ORG": [
+                    "SWOP",
                     "Durban"
                 ],
                 "GPE": [
@@ -2412,16 +2392,18 @@
             "pubDate": "Tue, 31 Mar 2015 00:00:00 +0000",
             "title": "Episode 90: ",
             "entities": {
-                "ORG": [
-                    "Stellenbosch University",
-                    "Du Plessis"
+                "PERSON": [
+                    "Men\u00e1n Du Plessis"
                 ],
                 "GPE": [
                     "Kentucky"
                 ],
-                "PERSON": [
-                    "Kora",
-                    "Khoesan"
+                "LOC": [
+                    "Kora"
+                ],
+                "ORG": [
+                    "Khoesan",
+                    "Du Plessis"
                 ],
                 "NORP": [
                     "African",
@@ -2468,23 +2450,26 @@
             "entities": {
                 "PERSON": [
                     "Laura Seay",
-                    "Follow Laura"
+                    "Follow Laura",
+                    "Twitter"
                 ],
                 "ORG": [
-                    "Colby College",
-                    "State",
-                    "DR Congo"
+                    "Colby College"
                 ],
                 "GPE": [
                     "Congo",
-                    "Texas"
+                    "Texas",
+                    "DR",
+                    "Congo"
                 ],
                 "LOC": [
                     "Africa"
                 ],
                 "PRODUCT": [
-                    "Twitter",
                     "Twitter"
+                ],
+                "WORK_OF_ART": [
+                    "Substituting for the State"
                 ]
             }
         },
@@ -2528,25 +2513,25 @@
             "pubDate": "Tue, 13 Jan 2015 00:00:00 +0000",
             "title": "Episode 88: ",
             "entities": {
-                "PERSON": [
+                "ORG": [
                     "Keith Breckenridge"
                 ],
                 "NORP": [
-                    "Southern African",
+                    "Southern African Studies",
                     "African"
                 ],
-                "PRODUCT": [
-                    "Biometric State",
-                    "Twitter"
-                ],
-                "WORK_OF_ART": [
-                    "The Global Politics of Identification and Surveillance"
+                "LOC": [
+                    "Biometric State: The Global Politics of Identification and Surveillance"
                 ],
                 "GPE": [
                     "South Africa"
                 ],
                 "DATE": [
                     "1850"
+                ],
+                "PERSON": [
+                    "Follow Keith",
+                    "Twitter"
                 ]
             }
         },
@@ -2591,13 +2576,14 @@
             "title": "Episode 87: ",
             "entities": {
                 "PERSON": [
-                    "Chitja Twala (History"
+                    "Chitja Twala",
+                    "Univ"
                 ],
                 "ORG": [
-                    "the African National Congress"
+                    "the African National Congress",
+                    "the Marikana Massacre"
                 ],
                 "GPE": [
-                    "Free State",
                     "History",
                     "South Africa"
                 ],
@@ -2641,20 +2627,18 @@
             "title": "Episode 86: ",
             "entities": {
                 "PERSON": [
-                    "Tebogo Motswetla",
-                    "Mabijo"
+                    "Tebogo Motswetla"
                 ],
                 "NORP": [
-                    "African"
-                ],
-                "ORG": [
-                    "Botswana"
-                ],
-                "DATE": [
-                    "the 25th anniversary"
+                    "African",
+                    "Mabijo"
                 ],
                 "GPE": [
+                    "Botswana",
                     "seTswana"
+                ],
+                "ORDINAL": [
+                    "25th"
                 ]
             }
         },
@@ -2694,6 +2678,14 @@
             "pubDate": "Tue, 04 Nov 2014 00:00:00 +0000",
             "title": "Episode 85: ",
             "entities": {
+                "PERSON": [
+                    "Abdilatif Abdalla",
+                    "Abdalla",
+                    "Siwati"
+                ],
+                "PRODUCT": [
+                    "Swahili"
+                ],
                 "GPE": [
                     "Kenya"
                 ],
@@ -2746,23 +2738,22 @@
             "title": "Episode 84: ",
             "entities": {
                 "PERSON": [
-                    "Pius Adesanmi",
-                    "Sahara Reporters"
+                    "Pius Adesanmi"
                 ],
                 "ORG": [
-                    "Carleton University",
-                    "Anglophone",
-                    "me?[&#8230"
+                    "Carleton University"
                 ],
                 "NORP": [
                     "African",
                     "African"
                 ],
-                "GPE": [
-                    "Yoruba"
-                ],
                 "LOC": [
+                    "Sahara",
                     "Africa"
+                ],
+                "GPE": [
+                    "Yoruba",
+                    "Anglophone"
                 ]
             }
         },
@@ -2810,16 +2801,17 @@
                     "Brett O'Bannon"
                 ],
                 "ORG": [
-                    "Conflict Studies",
                     "De Pauw University",
                     "the Responsibility to Protect"
                 ],
-                "GPE": [
-                    "C\u00f4te d'Ivoire",
-                    "Senegal"
+                "FAC": [
+                    "C\u00f4te d'Ivoire"
                 ],
                 "LOC": [
                     "Africa"
+                ],
+                "GPE": [
+                    "Senegal"
                 ]
             }
         },
@@ -2867,22 +2859,19 @@
             "entities": {
                 "PERSON": [
                     "Denis Goldberg",
-                    "Mandela"
+                    "Rivonia",
+                    "Mandela",
+                    "Goldberg"
                 ],
                 "DATE": [
                     "1963",
                     "22 years"
                 ],
                 "GPE": [
-                    "South Africa's",
-                    "Rivonia",
-                    "South Africa.[&#8230"
-                ],
-                "ORG": [
-                    "Goldberg"
+                    "South Africa's"
                 ],
                 "WORK_OF_ART": [
-                    "The Mission: A Life for Freedom"
+                    "The Mission: A Life for Freedom in South Africa.[&#8230"
                 ]
             }
         },
@@ -2928,9 +2917,6 @@
                 ],
                 "GPE": [
                     "Igbo"
-                ],
-                "ORG": [
-                    "Nigeria.[&#8230"
                 ]
             }
         },
@@ -2974,9 +2960,8 @@
                     "Robert W. Woodruff"
                 ],
                 "ORG": [
-                    "History at Emory University",
-                    "the Transatlantic Slave Trade",
-                    "the Atlantic Slave Biographi[&#8230"
+                    "Emory University",
+                    "the Transatlantic Slave Trade"
                 ],
                 "DATE": [
                     "two decades"
@@ -2986,6 +2971,9 @@
                 ],
                 "CARDINAL": [
                     "two"
+                ],
+                "LOC": [
+                    "the Atlantic Slave"
                 ]
             }
         },
@@ -3027,8 +3015,7 @@
             "title": "Episode 79: ",
             "entities": {
                 "PERSON": [
-                    "Paul Lovejoy",
-                    "Diaspora History"
+                    "Paul Lovejoy"
                 ],
                 "ORG": [
                     "Canada Research Chair",
@@ -3043,6 +3030,9 @@
                 ],
                 "CARDINAL": [
                     "two"
+                ],
+                "LOC": [
+                    "the Atlantic Slave"
                 ]
             }
         },
@@ -3091,14 +3081,12 @@
                     "Gordon",
                     "Kaunda"
                 ],
-                "WORK_OF_ART": [
-                    "Invisible Agents: Spirits"
+                "ORG": [
+                    "Invisible Agents: Spirits",
+                    "Bemba"
                 ],
                 "NORP": [
-                    "Central African History"
-                ],
-                "ORG": [
-                    "Bemba"
+                    "Central African"
                 ],
                 "DATE": [
                     "1930s"
@@ -3149,22 +3137,20 @@
             "title": "Episode 77: ",
             "entities": {
                 "PERSON": [
-                    "Barry Gilder"
+                    "Barry Gilder",
+                    "Matola Song"
                 ],
                 "NORP": [
                     "South African"
                 ],
                 "ORG": [
-                    "ANC",
-                    "Liberation",
-                    "Mapungubwe"
+                    "ex-ANC",
+                    "Liberation"
                 ],
                 "GPE": [
                     "Songs",
-                    "South Africa"
-                ],
-                "FAC": [
-                    "Matola Song"
+                    "South Africa",
+                    "Mapungubwe"
                 ]
             }
         },
@@ -3262,13 +3248,10 @@
                     "Sekibakiba Peter Lekgoathi (U. Witwatersrand/Michigan",
                     "Bantu Radio",
                     "Radio Freedom",
-                    "Africa[&#8230"
+                    "Ndebele"
                 ],
                 "GPE": [
                     "South Africa"
-                ],
-                "PERSON": [
-                    "Ndebele"
                 ]
             }
         },
@@ -3321,7 +3304,7 @@
                 "ORDINAL": [
                     "First"
                 ],
-                "PRODUCT": [
+                "CARDINAL": [
                     "Somalia.[&#8230"
                 ]
             }
@@ -3365,7 +3348,6 @@
             "entities": {
                 "PERSON": [
                     "Dag Henrichsen",
-                    "Basler Afrika Bibliographien",
                     "Herero"
                 ],
                 "GPE": [
@@ -3374,14 +3356,16 @@
                 ],
                 "DATE": [
                     "1940s",
-                    "1904-"
+                    "1904-5"
                 ],
                 "NORP": [
                     "German",
-                    "Herero",
                     "Namibian",
                     "Namibians",
                     "South African"
+                ],
+                "ORG": [
+                    "Herero"
                 ]
             }
         },
@@ -3427,13 +3411,15 @@
                 "PERSON": [
                     "Vicki Huddleston",
                     "Mali",
-                    "Bruce Whitehouse"
+                    "Bruce Whitehouse",
+                    "Mali"
                 ],
                 "GPE": [
                     "U.S.",
-                    "Mali",
-                    "Tuareg",
                     "U.S."
+                ],
+                "PRODUCT": [
+                    "Tuareg"
                 ],
                 "NORP": [
                     "Islamist",
@@ -3482,13 +3468,15 @@
             "title": "Episode 71: ",
             "entities": {
                 "PERSON": [
-                    "Enocent Msindo",
-                    "Ndebele Societies"
+                    "Rhodes U."
                 ],
                 "GPE": [
                     "Zimbabwe",
                     "Kalanga",
                     "Zimbabwe"
+                ],
+                "ORG": [
+                    "Ndebele Societies"
                 ],
                 "DATE": [
                     "1860-1990"
@@ -3536,27 +3524,23 @@
             "pubDate": "Wed, 23 Jan 2013 00:00:00 +0000",
             "title": "Episode 70: ",
             "entities": {
-                "NORP": [
-                    "Historian",
-                    "African-American",
-                    "African",
-                    "African"
-                ],
                 "PERSON": [
-                    "Gerald Horne",
+                    "Historian Gerald Horne",
                     "Barack Obama",
-                    "W.E.B. DuBois"
+                    "W.E.B. DuBois",
+                    "Kiki Edozie"
                 ],
                 "GPE": [
                     "Houston",
                     "Hawaii",
                     "Kenya"
                 ],
-                "ORG": [
-                    "African-American Studies",
-                    "African Studies",
-                    "Kiki Edozie",
-                    "[&#8230"
+                "NORP": [
+                    "African-American",
+                    "African",
+                    "African-American",
+                    "African",
+                    "African"
                 ]
             }
         },
@@ -3601,24 +3585,22 @@
             "pubDate": "Wed, 12 Dec 2012 00:00:00 +0000",
             "title": "Episode 69: ",
             "entities": {
-                "PERSON": [
-                    "Toby Green"
-                ],
                 "ORG": [
                     "King's College London",
                     "r[&#8230"
                 ],
                 "WORK_OF_ART": [
-                    "The Rise of the Trans-Atlantic Slave Trade"
-                ],
-                "GPE": [
-                    "Western Africa",
-                    "Upper Guinea",
-                    "Upper Guinea",
-                    "West-Central Africa"
+                    "The Rise of the Trans-Atlantic Slave Trade in Western Africa"
                 ],
                 "DATE": [
                     "1300-1589"
+                ],
+                "GPE": [
+                    "Upper Guinea",
+                    "Upper Guinea"
+                ],
+                "LOC": [
+                    "West-Central Africa"
                 ]
             }
         },
@@ -3669,15 +3651,15 @@
             "title": "Episode 68: ",
             "entities": {
                 "PERSON": [
-                    "Adam Ashforth"
-                ],
-                "GPE": [
-                    "Michigan",
-                    "Southern Africa",
+                    "Adam Ashforth",
                     "Malawi"
                 ],
-                "ORG": [
-                    "Mofokeng.[&#8230"
+                "GPE": [
+                    "Michigan"
+                ],
+                "LOC": [
+                    "Central",
+                    "Southern Africa"
                 ]
             }
         },
@@ -3719,22 +3701,27 @@
             "pubDate": "Wed, 31 Oct 2012 00:00:00 +0000",
             "title": "Episode 67: ",
             "entities": {
-                "ORG": [
-                    "Sifiso Ndlovu",
-                    "South African Democracy Education Trust",
-                    "SADET"
+                "PERSON": [
+                    "Sifiso Ndlovu"
+                ],
+                "NORP": [
+                    "South African",
+                    "African",
+                    "African"
                 ],
                 "GPE": [
                     "Soweto",
-                    "South Africa",
+                    "Zulu",
                     "South Africa's"
                 ],
                 "DATE": [
                     "1976"
                 ],
-                "NORP": [
-                    "African",
-                    "African"
+                "ORG": [
+                    "SADET"
+                ],
+                "WORK_OF_ART": [
+                    "The Road to Democracy in South Africa"
                 ]
             }
         },
@@ -3779,18 +3766,20 @@
             "entities": {
                 "PERSON": [
                     "Alex Lichtenstein",
+                    "Indiana U.",
                     "Jim Crow",
                     "Margaret Bourke-White's"
                 ],
                 "GPE": [
-                    "History",
-                    "Indiana U.",
                     "South Africa",
                     "U.S.",
-                    "Marikana"
+                    "U.S."
                 ],
                 "DATE": [
                     "2012"
+                ],
+                "ORG": [
+                    "Marikana"
                 ],
                 "NORP": [
                     "South African"
@@ -3836,19 +3825,20 @@
             "entities": {
                 "PERSON": [
                     "Nwando Achebe",
-                    "MSU History",
                     "Ahebi Ugbabe",
-                    "Achebe",
-                    "Ahebi"
+                    "Eze) Ahebi's"
+                ],
+                "ORG": [
+                    "MSU History"
                 ],
                 "WORK_OF_ART": [
                     "The Female King of Colonial Nigeria"
                 ],
+                "GPE": [
+                    "Igbo"
+                ],
                 "NORP": [
                     "British"
-                ],
-                "ORG": [
-                    "[&#8230"
                 ]
             }
         },
@@ -3906,7 +3896,7 @@
                     "Johannesburg"
                 ],
                 "NORP": [
-                    "African women.[&#8230"
+                    "African"
                 ]
             }
         },
@@ -3948,19 +3938,19 @@
                 "PERSON": [
                     "Tom Turner"
                 ],
+                "ORG": [
+                    "DR Congo",
+                    "Amnesty International USA"
+                ],
                 "GPE": [
-                    "Congo",
                     "the Democratic Republic of the",
                     "Congo"
                 ],
-                "ORG": [
-                    "Amnesty International USA"
-                ],
-                "WORK_OF_ART": [
+                "LOC": [
                     "The Congo Wars"
                 ],
-                "LAW": [
-                    "the Kony 2012 campaign.[&#8230"
+                "DATE": [
+                    "2012"
                 ]
             }
         },
@@ -4005,8 +3995,7 @@
                     "Smith College",
                     "Alison Des Forges's",
                     "Identity &",
-                    "Authority",
-                    "Precolonial Congo &"
+                    "Authority in Precolonial Congo &"
                 ],
                 "LOC": [
                     "Central and East Africa"
@@ -4062,7 +4051,11 @@
             "title": "Episode 61: ",
             "entities": {
                 "PERSON": [
-                    "Richard Werbner"
+                    "Richard Werbner",
+                    "Holy Hustlers"
+                ],
+                "ORG": [
+                    "University of Manchester"
                 ],
                 "PRODUCT": [
                     "Freud"
@@ -4073,11 +4066,8 @@
                 "LOC": [
                     "Africa"
                 ],
-                "ORG": [
+                "GPE": [
                     "Botswana"
-                ],
-                "MONEY": [
-                    "8230"
                 ]
             }
         },
@@ -4119,12 +4109,13 @@
             "entities": {
                 "PERSON": [
                     "Gwendolyn Midlo Hall",
-                    "Walter Hawthorne"
+                    "Walter Hawthorne",
+                    "Matrix"
                 ],
                 "ORG": [
-                    "The Atlantic Database Network",
-                    "Matrix",
-                    "the National Endowment for the Humanities"
+                    "the MSU History Department",
+                    "the National Endowment for the Humanities",
+                    "ASDN"
                 ]
             }
         },
@@ -4168,14 +4159,11 @@
                 "NORP": [
                     "South African"
                 ],
-                "WORK_OF_ART": [
+                "ORG": [
                     "Native Nostalgia"
                 ],
                 "FAC": [
                     "Kruger National Park"
-                ],
-                "MONEY": [
-                    "8230"
                 ]
             }
         },
@@ -4220,8 +4208,14 @@
             "title": "Episode 58: ",
             "entities": {
                 "PERSON": [
-                    "Aili Mari",
+                    "Mari Tripp",
+                    "Madison",
                     "Kiki Edozie"
+                ],
+                "ORG": [
+                    "ASA",
+                    "the African Studies Association",
+                    "Michigan State).[&#8230"
                 ],
                 "NORP": [
                     "African"
@@ -4229,12 +4223,7 @@
                 "GPE": [
                     "Museveni",
                     "Uganda",
-                    "U.S.",
-                    "Michigan"
-                ],
-                "ORG": [
-                    "the African Studies Association",
-                    "International Relations"
+                    "U.S."
                 ]
             }
         },
@@ -4270,31 +4259,35 @@
             "pubDate": "Mon, 31 Oct 2011 00:00:00 +0000",
             "title": "Episode 57: ",
             "entities": {
-                "PERSON": [
+                "ORG": [
                     "Eddie Daniels",
+                    "the Washington Office",
+                    "The African Activist Archive"
+                ],
+                "PERSON": [
                     "Christine Root",
+                    "Daniels",
                     "Nelson Mandela"
                 ],
                 "NORP": [
                     "African",
                     "Americans"
                 ],
-                "ORG": [
-                    "Daniels",
-                    "Root",
-                    "the Washington Office",
-                    "The African Activist Archive"
-                ],
                 "GPE": [
                     "South Africa",
                     "U.S."
                 ],
-                "LOC": [
-                    "Robben Island",
-                    "Africa"
+                "FAC": [
+                    "Robben Island"
                 ],
                 "DATE": [
                     "1964-79"
+                ],
+                "LOC": [
+                    "Africa"
+                ],
+                "PRODUCT": [
+                    "for[&#8230"
                 ]
             }
         },
@@ -4334,24 +4327,26 @@
                 "PERSON": [
                     "Gary Morgan",
                     "Chewa",
-                    "Gule Wamkulu",
+                    "Malawi",
                     "Gule Wamkulu",
                     "Claude Boucher"
                 ],
                 "ORG": [
-                    "MSU Museum Director",
-                    "Malawi",
-                    "MSU",
-                    "KuNgoni Centre of Cul[&#8230"
+                    "MSU Museum",
+                    "Gule Wamkulu",
+                    "MSU"
                 ],
                 "NORP": [
                     "African"
                 ],
                 "EVENT": [
-                    "the Great Dance"
+                    "the Great Dance (Gule Wamkulu"
                 ],
                 "ORDINAL": [
                     "first"
+                ],
+                "FAC": [
+                    "KuNgoni Centre"
                 ]
             }
         },
@@ -4399,15 +4394,20 @@
                 "ORG": [
                     "University of Michigan",
                     "the Moon University",
-                    "Recasting the African Past",
                     "Pilgrims &",
-                    "Patriots: Conversion",
-                    "Dissen[&#8230"
+                    "Patriots"
                 ],
                 "GPE": [
                     "East Africa",
                     "Uganda",
                     "Kenya"
+                ],
+                "FAC": [
+                    "Mountains of"
+                ],
+                "NORP": [
+                    "Recasting",
+                    "African"
                 ]
             }
         },
@@ -4445,20 +4445,22 @@
             "pubDate": "Wed, 27 Jul 2011 00:00:00 +0000",
             "title": "Episode 54: ",
             "entities": {
+                "ORG": [
+                    "Hughes",
+                    "University of Lincoln",
+                    "the African National Congress of South Africa",
+                    "Hughes"
+                ],
                 "PERSON": [
                     "John Langalibalele Dube",
-                    "Nokutela Dube.[&#8230"
-                ],
-                "ORG": [
-                    "the African National Congress of South Africa",
-                    "Hughes",
                     "Dube"
                 ],
                 "DATE": [
                     "2012"
                 ],
                 "GPE": [
-                    "the United States"
+                    "the United States",
+                    "Nokutela"
                 ]
             }
         },
@@ -4501,10 +4503,11 @@
                     "Laura Mitchell",
                     "Joshua Grace"
                 ],
-                "ORG": [
-                    "Title VI",
-                    "Fulbright-Hays",
-                    "African Studies"
+                "WORK_OF_ART": [
+                    "Title VI"
+                ],
+                "NORP": [
+                    "African"
                 ]
             }
         },
@@ -4545,15 +4548,8 @@
             "entities": {
                 "PERSON": [
                     "Hlonipha Mokoena",
-                    "Abamnyama Lapa Bavela"
-                ],
-                "GPE": [
-                    "Columbia U.",
-                    "South Africa"
-                ],
-                "WORK_OF_ART": [
-                    "Magema Fuze:",
-                    "The Black People and Whence They Came.[&#8230"
+                    "Magema Fuze",
+                    "a Kholwa Intellectual"
                 ],
                 "DATE": [
                     "2011",
@@ -4561,6 +4557,9 @@
                 ],
                 "CARDINAL": [
                     "19th-"
+                ],
+                "GPE": [
+                    "South Africa"
                 ],
                 "ORG": [
                     "Fuze"
@@ -4616,8 +4615,8 @@
                 "NORP": [
                     "Christianity"
                 ],
-                "ORG": [
-                    "Being Maasai"
+                "WORK_OF_ART": [
+                    "Being Maasai, Becoming Indigenous"
                 ]
             }
         },
@@ -4666,11 +4665,12 @@
                     "Africa",
                     "Africa"
                 ],
+                "ORG": [
+                    "Focus",
+                    "Campbell"
+                ],
                 "GPE": [
                     "Libya"
-                ],
-                "ORG": [
-                    "Campbell"
                 ],
                 "DATE": [
                     "21st Century"
@@ -4777,18 +4777,21 @@
                     "Kuti",
                     "Byfield"
                 ],
-                "ORG": [
-                    "History, Cornell",
-                    "Michigan State University"
-                ],
                 "GPE": [
+                    "Cornell",
                     "Nigeria"
                 ],
                 "LOC": [
                     "Africa"
                 ],
+                "ORG": [
+                    "Michigan State University"
+                ],
                 "DATE": [
                     "2010"
+                ],
+                "LAW": [
+                    "ASA Presidential Lecture.[&#8230"
                 ]
             }
         },
@@ -4841,7 +4844,7 @@
                     "African",
                     "Rhodesian"
                 ],
-                "ORG": [
+                "PRODUCT": [
                     "Rho[&#8230"
                 ]
             }
@@ -4887,7 +4890,8 @@
                     "Landau"
                 ],
                 "ORG": [
-                    "University of Maryland"
+                    "University of Maryland",
+                    "i[&#8230"
                 ],
                 "LOC": [
                     "Southern Africa"
@@ -4944,20 +4948,27 @@
                 ],
                 "ORG": [
                     "University of Oxford",
-                    "African Studies",
-                    "African Studies",
-                    "University of Illinois at Urbana-Champaign October"
+                    "University of Illinois",
+                    "Urbana-Champaign"
                 ],
-                "ORDINAL": [
-                    "17th",
-                    "first"
+                "NORP": [
+                    "African",
+                    "African"
                 ],
                 "DATE": [
-                    "2010"
+                    "17th",
+                    "2010",
+                    "October"
+                ],
+                "ORDINAL": [
+                    "first"
                 ],
                 "CARDINAL": [
                     "three",
                     "2010.[&#8230"
+                ],
+                "FAC": [
+                    "the Making History:"
                 ]
             }
         },
@@ -4995,6 +5006,9 @@
             "pubDate": "Fri, 17 Sep 2010 00:00:00 +0000",
             "title": "Episode 44: ",
             "entities": {
+                "PERSON": [
+                    "Radikobo Ntsimane"
+                ],
                 "ORG": [
                     "UKZN School of Theology",
                     "the Sinomlando Center's",
@@ -5051,8 +5065,11 @@
                     "Disney",
                     "Pan-Africanism"
                 ],
+                "DATE": [
+                    "2010"
+                ],
                 "EVENT": [
-                    "2010 World Cup",
+                    "World Cup",
                     "World Cup"
                 ],
                 "GPE": [
@@ -5106,14 +5123,14 @@
                 "GPE": [
                     "Senegal",
                     "Muslim Africa",
-                    "Senegal"
+                    "Senegal",
+                    "Senegalese"
                 ],
                 "ORG": [
                     "Islam"
                 ],
                 "NORP": [
-                    "African",
-                    "Senegalese"
+                    "African"
                 ]
             }
         },
@@ -5153,25 +5170,25 @@
             "pubDate": "Wed, 26 May 2010 00:00:00 +0000",
             "title": "Episode 41: ",
             "entities": {
+                "ORG": [
+                    "Thabo Dladla"
+                ],
                 "PERSON": [
-                    "Thabo Dladla",
                     "Conti Khubeka",
                     "Zeph Mthembu"
                 ],
+                "DATE": [
+                    "2010",
+                    "2010"
+                ],
                 "EVENT": [
-                    "the 2010 World Cup"
+                    "World Cup"
                 ],
                 "GPE": [
                     "South Africa"
                 ],
                 "CARDINAL": [
                     "three"
-                ],
-                "DATE": [
-                    "2010"
-                ],
-                "ORG": [
-                    "Dladla"
                 ]
             }
         },
@@ -5221,6 +5238,7 @@
                     "Africa"
                 ],
                 "NORP": [
+                    "African",
                     "African"
                 ]
             }
@@ -5316,20 +5334,19 @@
                 "PERSON": [
                     "Jabulani Sithole"
                 ],
-                "GPE": [
-                    "South Africa",
-                    "South Africa"
-                ],
                 "ORG": [
+                    "UKZN",
+                    "Sithole",
                     "ANC",
                     "KwaZulu-Natal",
                     "SADET"
                 ],
-                "WORK_OF_ART": [
-                    "The Road to Democracy"
+                "GPE": [
+                    "South Africa",
+                    "Zulu"
                 ],
-                "PRODUCT": [
-                    "Pietermaritzburg.[&#8230"
+                "WORK_OF_ART": [
+                    "The Road to Democracy in South Africa"
                 ]
             }
         },
@@ -5375,11 +5392,11 @@
                     "Candace Keller",
                     "Art History",
                     "Keller",
-                    "Malick Sidibe",
                     "Seydou Keita"
                 ],
                 "ORG": [
-                    "MSU Art"
+                    "MSU Art",
+                    "Malick Sidibe"
                 ],
                 "NORP": [
                     "West African"
@@ -5429,13 +5446,12 @@
             "entities": {
                 "PERSON": [
                     "Mwalimu Deo Ngonyani",
-                    "MSU Linguistics",
                     "Lake Malawi"
                 ],
                 "ORG": [
+                    "MSU Linguistics",
                     "Kikisi a Bantu",
-                    "Ngonyani",
-                    "Swahili.[&#8230"
+                    "Ngonyani"
                 ],
                 "CARDINAL": [
                     "10,000"
@@ -5443,7 +5459,7 @@
                 "GPE": [
                     "Tanzania"
                 ],
-                "NORP": [
+                "LANGUAGE": [
                     "English"
                 ]
             }
@@ -5484,19 +5500,20 @@
             "entities": {
                 "PERSON": [
                     "Wendi Manuel-Scott",
-                    "Benedict Carton"
+                    "Benedict Carton",
+                    "Obama"
                 ],
                 "ORG": [
                     "the African Identities",
                     "George Mason University"
                 ],
                 "LOC": [
+                    "Obama",
                     "Africa",
                     "African America",
                     "Caribbean"
                 ],
                 "GPE": [
-                    "Obama",
                     "Obama"
                 ]
             }
@@ -5537,11 +5554,10 @@
             "title": "Episode 34: ",
             "entities": {
                 "PERSON": [
-                    "Chuck Ambler",
-                    "Laura"
+                    "Historian Chuck Ambler",
+                    "Laura Fair.[&#8230"
                 ],
                 "ORG": [
-                    "UTEP",
                     "African Studies Association",
                     "ASA"
                 ],
@@ -5593,13 +5609,14 @@
                 "ORG": [
                     "Marika Sherwood",
                     "Institute of Commonwealth Studies",
-                    "the Slave Trade Since",
+                    "the Slave Trade",
                     "Pan Africanist Congress"
                 ],
                 "GPE": [
                     "London",
                     "Britain",
                     "Britain",
+                    "Manchester",
                     "UK"
                 ],
                 "NORP": [
@@ -5608,9 +5625,10 @@
                 ],
                 "DATE": [
                     "2007",
-                    "1807",
-                    "1945",
-                    "Manchester"
+                    "1807"
+                ],
+                "PERSON": [
+                    "Sherwood"
                 ]
             }
         },
@@ -5651,7 +5669,7 @@
             "title": "Episode 32: ",
             "entities": {
                 "PERSON": [
-                    "Ned Alpers"
+                    "Historian Ned Alpers"
                 ],
                 "ORG": [
                     "UCLA"
@@ -5711,16 +5729,16 @@
                     "Robert Vinson",
                     "William",
                     "Mary",
-                    "Vinson"
+                    "Vinson",
+                    "Garveys",
+                    "pan-Africanism"
                 ],
                 "GPE": [
+                    "Garveyism",
                     "South Africa"
                 ],
                 "DATE": [
                     "the 1920s and 30s"
-                ],
-                "ORG": [
-                    "pan-Africanism"
                 ],
                 "LOC": [
                     "South Africas"
@@ -5763,15 +5781,14 @@
             "title": "Episode 30: ",
             "entities": {
                 "PERSON": [
-                    "Robert A. Hill"
+                    "Robert A. Hill",
+                    "Hill"
                 ],
                 "ORG": [
                     "UCLA",
                     "The Marcus Garvey",
                     "UNIA Papers",
-                    "the University of California Press",
-                    "Hill",
-                    "issues[&#8230"
+                    "the University of California Press"
                 ],
                 "DATE": [
                     "1983"
@@ -5838,8 +5855,11 @@
                     "Africa"
                 ],
                 "ORG": [
-                    "Focus",
                     "Hausa"
+                ],
+                "PRODUCT": [
+                    "Swahili",
+                    "Wolof.[&#8230"
                 ]
             }
         },
@@ -5885,11 +5905,14 @@
                     "Kean U."
                 ],
                 "GPE": [
-                    "Sudan",
-                    "East Lansing.[&#8230"
+                    "Sudan"
                 ],
                 "ORG": [
+                    "Focus",
                     "the Sudan Studies Association"
+                ],
+                "LOC": [
+                    "East Lansing.[&#8230"
                 ]
             }
         },
@@ -5936,19 +5959,17 @@
                 ],
                 "ORG": [
                     "MSU",
-                    "Focus"
+                    "Focus",
+                    "the Lesotho Highlands Water Project"
                 ],
                 "GPE": [
                     "San people's",
-                    "Kalahari",
-                    "San communities'",
-                    "San in"
+                    "Kalahari"
                 ],
                 "LOC": [
-                    "Africa"
-                ],
-                "EVENT": [
-                    "the Lesotho Highlands Water Project"
+                    "Africa",
+                    "San",
+                    "San"
                 ]
             }
         },
@@ -6050,6 +6071,9 @@
                 "PERSON": [
                     "Abebe Zegeye"
                 ],
+                "EVENT": [
+                    "Holocaust"
+                ],
                 "ORG": [
                     "UNISA"
                 ],
@@ -6060,8 +6084,7 @@
                     "Africa",
                     "Africa"
                 ],
-                "GPE": [
-                    "Holocaust",
+                "PRODUCT": [
                     "Johannesburg.[&#8230"
                 ]
             }
@@ -6104,7 +6127,8 @@
             "title": "Episode 24: ",
             "entities": {
                 "PERSON": [
-                    "Sheryl McCurdy"
+                    "Sheryl McCurdy",
+                    "McCurdy"
                 ],
                 "ORG": [
                     "University of Texas-Houston School of Public Health"
@@ -6156,13 +6180,14 @@
             "title": "Episode 23: ",
             "entities": {
                 "PERSON": [
-                    "Paul Darby"
+                    "Paul Darby",
+                    "Darby"
                 ],
                 "ORG": [
                     "University of Ulster",
                     "FIFA",
                     "CAF",
-                    "Liberty Professionals"
+                    "Liberty Professionals FC"
                 ],
                 "LOC": [
                     "Africa",
@@ -6214,18 +6239,12 @@
             "entities": {
                 "PERSON": [
                     "Wapu Mulwafu",
-                    "Univ",
-                    "Mulwafu"
-                ],
-                "ORG": [
                     "Malawi",
-                    "Malawi.[&#8230"
+                    "Mulwafu",
+                    "Malawi"
                 ],
                 "NORP": [
                     "African"
-                ],
-                "GPE": [
-                    "Malawi"
                 ]
             }
         },
@@ -6266,25 +6285,26 @@
             "entities": {
                 "PERSON": [
                     "Mara Leichtman",
-                    "Shia Islam",
-                    "Dakar"
+                    "Mamadou Diouf"
                 ],
                 "ORG": [
-                    "MSU",
+                    "MSU"
+                ],
+                "NORP": [
+                    "New Perspectives",
                     "Islam",
-                    "Mamadou Diouf",
-                    "the Al-Khoei Foundation"
+                    "Shia",
+                    "Islam",
+                    "Dakar",
+                    "Lebanese",
+                    "Senegalese"
                 ],
                 "GPE": [
                     "Senegal",
                     "London"
                 ],
-                "NORP": [
-                    "Lebanese",
-                    "Senegalese"
-                ],
-                "MONEY": [
-                    "8230"
+                "FAC": [
+                    "the Al-Khoei Foundation"
                 ]
             }
         },
@@ -6327,25 +6347,18 @@
                 "ORDINAL": [
                     "first"
                 ],
-                "NORP": [
-                    "Historian",
-                    "African",
-                    "African"
-                ],
                 "PERSON": [
-                    "Martin Klein"
-                ],
-                "ORG": [
-                    "Emeritus",
-                    "Africanists",
-                    "Guinea.[&#8230"
+                    "Historian Martin Klein",
+                    "Mali"
                 ],
                 "GPE": [
                     "Toronto",
                     "West Africa",
-                    "Klein",
-                    "Senegal",
-                    "Mali"
+                    "Senegal"
+                ],
+                "NORP": [
+                    "African",
+                    "African"
                 ]
             }
         },
@@ -6386,8 +6399,7 @@
             "title": "Episode 19: ",
             "entities": {
                 "PERSON": [
-                    "Narissa Ramdhani",
-                    "Lethu"
+                    "Narissa Ramdhani"
                 ],
                 "NORP": [
                     "South African"
@@ -6403,7 +6415,7 @@
                 "ORG": [
                     "African National Congress",
                     "the University of Fort Hare",
-                    "South[&#8230"
+                    "Ifa Lethus"
                 ]
             }
         },
@@ -6440,12 +6452,8 @@
             "pubDate": "Mon, 01 Dec 2008 00:00:00 +0000",
             "title": "Episode 18: ",
             "entities": {
-                "NORP": [
-                    "Historian",
-                    "African"
-                ],
                 "PERSON": [
-                    "Luise White"
+                    "Historian Luise White"
                 ],
                 "GPE": [
                     "Florida",
@@ -6453,8 +6461,11 @@
                     "Rhodesia",
                     "Zimbabwe"
                 ],
-                "ORG": [
-                    "Central and Southern Africa"
+                "LOC": [
+                    "Central"
+                ],
+                "NORP": [
+                    "African"
                 ]
             }
         },
@@ -6498,13 +6509,9 @@
             "pubDate": "Wed, 19 Nov 2008 00:00:00 +0000",
             "title": "Episode 17: ",
             "entities": {
-                "NORP": [
-                    "New Media"
-                ],
                 "ORG": [
                     "Southern African Studies",
                     "NEWSA",
-                    "Southwestern University",
                     "Download:[&#8230"
                 ],
                 "DATE": [
@@ -6622,11 +6629,11 @@
             "title": "Episode 15: ",
             "entities": {
                 "PERSON": [
+                    "Kiki Edozie",
                     "James Madison College"
                 ],
                 "ORG": [
-                    "MSU",
-                    "considered.[&#8230"
+                    "MSU"
                 ],
                 "GPE": [
                     "Nigeria",
@@ -6676,13 +6683,15 @@
             "pubDate": "Tue, 30 Sep 2008 00:00:00 +0000",
             "title": "Episode 14: ",
             "entities": {
-                "LOC": [
-                    "Africa Scholars"
-                ],
                 "PERSON": [
+                    "Africa Scholars",
                     "Sean Jacobs",
                     "Martha Saavedra",
                     "Anisa Adem"
+                ],
+                "ORG": [
+                    "ASA",
+                    "UC-Berkeley"
                 ],
                 "GPE": [
                     "Chicago"
@@ -6691,12 +6700,8 @@
                     "second"
                 ],
                 "NORP": [
+                    "African",
                     "African"
-                ],
-                "ORG": [
-                    "African Studies",
-                    "UC-Berkeley",
-                    "Founder, Future Generation African Girls Association).[&#8230"
                 ]
             }
         },
@@ -6746,7 +6751,7 @@
                 "ORG": [
                     "MSU"
                 ],
-                "WORK_OF_ART": [
+                "PRODUCT": [
                     "Conflicts Over Land and Water"
                 ],
                 "LOC": [
@@ -6801,13 +6806,7 @@
                 "PERSON": [
                     "Walter Hawthorne",
                     "Joseph Lauer",
-                    "Judith Carney's",
-                    "Black Rice"
-                ],
-                "GPE": [
-                    "History",
-                    "the Upper Guinea Coast",
-                    "the Upper Guinea Coast"
+                    "Judith Carney's"
                 ],
                 "ORG": [
                     "MSU"
@@ -6816,11 +6815,11 @@
                     "Africa",
                     "the Atlantic World"
                 ],
-                "DATE": [
-                    "the era"
+                "GPE": [
+                    "the Upper Guinea Coast"
                 ],
                 "WORK_OF_ART": [
-                    "Forging a Creole Atlantic: Africans"
+                    "Forging a Creole Atlantic: Africans on the Upper Guinea Coast"
                 ]
             }
         },
@@ -6864,11 +6863,11 @@
                 ],
                 "ORG": [
                     "Central Michigan University",
-                    "the Ethiopian Sports Federation",
-                    "ann[&#8230"
+                    "the Ethiopian Sports Federation"
                 ],
                 "NORP": [
                     "Ethiopian",
+                    "Ethiopians",
                     "Ethiopians"
                 ],
                 "GPE": [
@@ -6924,27 +6923,26 @@
             "entities": {
                 "PERSON": [
                     "Peter Alegi",
-                    "Peter Limb",
-                    "Alegi"
+                    "Solomon Getahun",
+                    "Peter Limb"
+                ],
+                "NORP": [
+                    "African",
+                    "Capitalism",
+                    "African"
                 ],
                 "ORG": [
-                    "African Soccerscapes: Sport",
                     "Ohio University Press"
                 ],
                 "DATE": [
                     "2009"
                 ],
-                "FAC": [
-                    "Getahun"
-                ],
                 "GPE": [
+                    "Alegi",
                     "Nigeria",
                     "Algeria",
                     "South Africa",
                     "South Africa's"
-                ],
-                "NORP": [
-                    "African"
                 ],
                 "LOC": [
                     "Europe"
@@ -7058,7 +7056,8 @@
             "entities": {
                 "PERSON": [
                     "Ibrahima Thioub",
-                    "Dakar"
+                    "Dakar",
+                    "Ibra Sene"
                 ],
                 "NORP": [
                     "French",
@@ -7068,8 +7067,7 @@
                     "UCAD"
                 ],
                 "ORG": [
-                    "Guest",
-                    "Ibra Sene",
+                    "Thioub",
                     "MSU",
                     "Crime, Punishment"
                 ]
@@ -7110,17 +7108,19 @@
             "pubDate": "Tue, 15 Apr 2008 00:00:00 +0000",
             "title": "Episode 7: ",
             "entities": {
-                "NORP": [
-                    "Historian",
-                    "African Americans"
-                ],
                 "PERSON": [
-                    "Robert Edgar",
-                    "Nonthetha Nkwenkwe"
+                    "Historian Robert Edgar",
+                    "Edgar",
+                    "Nonthetha Nkwenkwe",
+                    "Edwin Thabo"
                 ],
                 "ORG": [
-                    "Howard University",
-                    "the African Communist"
+                    "Howard University"
+                ],
+                "NORP": [
+                    "African Americans",
+                    "African",
+                    "Communist"
                 ],
                 "GPE": [
                     "South Africa",
@@ -7170,18 +7170,15 @@
                     "Graham Erion"
                 ],
                 "ORG": [
-                    "the Centre for Civil Society",
-                    "University of KwaZulu-Natal",
-                    "Rehana Dada"
+                    "the Centre for Civil Society, University of KwaZulu-Natal",
+                    "Rehana Dada",
+                    "the [&#8230"
                 ],
                 "WORK_OF_ART": [
                     "Climate Change, Carbon Trading and Civil Society: Negative Returns"
                 ],
                 "DATE": [
                     "2007"
-                ],
-                "MONEY": [
-                    "8230"
                 ]
             }
         },
@@ -7221,7 +7218,8 @@
             "entities": {
                 "PERSON": [
                     "Bush",
-                    "David Wiley"
+                    "David Wiley",
+                    "ACAS"
                 ],
                 "LOC": [
                     "Africa",
@@ -7239,9 +7237,6 @@
                 "NORP": [
                     "Africans",
                     "African"
-                ],
-                "MONEY": [
-                    "8230"
                 ]
             }
         },
@@ -7290,7 +7285,7 @@
                     "Folu Ogundimu",
                     "Peter Limb",
                     "Olabode Ibironke",
-                    "Alegi"
+                    "Simon"
                 ],
                 "ORG": [
                     "MSU",
@@ -7301,6 +7296,10 @@
                 "LOC": [
                     "Africa",
                     "Africa"
+                ],
+                "GPE": [
+                    "Alegi",
+                    "Sports"
                 ]
             }
         },
@@ -7353,8 +7352,10 @@
                 ],
                 "PERSON": [
                     "Peter Alegi",
-                    "Sean Jacobs",
-                    "Leo Africanus"
+                    "Sean Jacobs"
+                ],
+                "DATE": [
+                    "2008"
                 ],
                 "EVENT": [
                     "African Nations Cup"
@@ -7367,7 +7368,7 @@
                 ],
                 "ORG": [
                     "University of Michigan",
-                    "Africa.[&#8230"
+                    "Leo Africanus"
                 ]
             }
         },
@@ -7424,12 +7425,12 @@
                 ],
                 "ORG": [
                     "the African Nations Cup",
-                    "MSU Professors",
-                    "Harrow",
-                    "Postmodernism (Indiana Unive[&#8230"
+                    "MSU",
+                    "Harrow"
                 ],
                 "GPE": [
-                    "Ghana"
+                    "Ghana",
+                    "Indiana"
                 ],
                 "WORK_OF_ART": [
                     "Postcolonial African Cinema: From Political Engagement"
@@ -7478,14 +7479,13 @@
                 ],
                 "ORG": [
                     "University of Pennsylvania",
-                    "pol[&#8230"
-                ],
-                "PERSON": [
-                    "Cheikh Anta Babou",
-                    "Peter Alegi"
+                    "MSU"
                 ],
                 "DATE": [
                     "2002"
+                ],
+                "PERSON": [
+                    "Peter Alegi"
                 ],
                 "ORDINAL": [
                     "first"
@@ -7563,14 +7563,12 @@
     "ttl": "1440",
     "webMaster": "alegi@msu.edu (Africa Past and Present)",
     "entities": {
-        "LOC": [
-            "Podcast"
-        ],
-        "PERSON": [
-            "African History"
-        ],
         "ORG": [
-            "Culture"
+            "Podcast",
+            "Politics"
+        ],
+        "NORP": [
+            "African"
         ]
     }
 }

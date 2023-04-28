@@ -28,9 +28,10 @@
             "entities": {
                 "PERSON": [
                     "Barack Obama",
-                    "Aarti Shahani",
-                    "Donald Trump",
                     "Obama"
+                ],
+                "LOC": [
+                    "Aarti Shahani"
                 ],
                 "ORG": [
                     "WBEZ",
@@ -62,7 +63,7 @@
             "entities": {
                 "ORG": [
                     "Beyonc\u00e9",
-                    "alt=\"\"/"
+                    "wbez-making/~4/OJ32QaofFis"
                 ]
             }
         },
@@ -88,12 +89,11 @@
             "pubDate": "Wed, 27 Nov 2019 12:01:00 -0600",
             "title": "Beyonc\u00e9 3: Destiny Begins",
             "entities": {
-                "PERSON": [
-                    "Beyonc\u00e9"
-                ],
                 "ORG": [
+                    "Beyonc\u00e9",
                     "Destiny\u2019s Child",
-                    "alt=\"\"/"
+                    "src=\"http://feeds.feedburner.com/~r",
+                    "wbez-making/~4/_lEouA_75No"
                 ]
             }
         },
@@ -119,11 +119,11 @@
             "pubDate": "Fri, 22 Nov 2019 00:01:00 -0600",
             "title": "Beyonc\u00e9 2: Star Search",
             "entities": {
-                "PERSON": [
-                    "Beyonc\u00e9"
-                ],
                 "ORG": [
-                    "alt=\"\"/"
+                    "Beyonc\u00e9",
+                    "Girls Tyme",
+                    "src=\"http://feeds.feedburner.com/~r",
+                    "wbez-making/~4/Lo-nzCZCXJA"
                 ]
             }
         },
@@ -149,19 +149,19 @@
             "pubDate": "Fri, 15 Nov 2019 00:01:00 -0600",
             "title": "Beyonc\u00e9 1: Girls Tyme",
             "entities": {
+                "PRODUCT": [
+                    "Grammys"
+                ],
                 "ORG": [
-                    "Grammys",
                     "Destiny\u2019s Child",
-                    "alt=\"\"/"
+                    "Girls Tyme",
+                    "src=\"http://feeds.feedburner.com/~r"
                 ],
                 "GPE": [
                     "Houston"
                 ],
                 "PERSON": [
                     "Beyonc\u00e9 Knowles"
-                ],
-                "ORDINAL": [
-                    "first"
                 ]
             }
         },
@@ -188,7 +188,8 @@
             "entities": {
                 "ORG": [
                     "WBEZ Chicago",
-                    "alt=\"\"/"
+                    "src=\"http://feeds.feedburner.com/~r",
+                    "wbez-making/~4"
                 ],
                 "CARDINAL": [
                     "three"
@@ -222,15 +223,20 @@
             "pubDate": "Tue, 10 Apr 2018 00:01:00 -0500",
             "title": "Obama BONUS: The Decision",
             "entities": {
+                "CARDINAL": [
+                    "Just two and a half years"
+                ],
                 "DATE": [
                     "2004"
                 ],
-                "ORG": [
-                    "National Convention",
-                    "alt=\"\"/"
+                "EVENT": [
+                    "Democratic National Convention"
                 ],
                 "PERSON": [
                     "Barack Obama"
+                ],
+                "ORG": [
+                    "wbez-making/~4"
                 ]
             }
         },
@@ -256,10 +262,13 @@
             "pubDate": "Thu, 15 Mar 2018 00:01:00 -0500",
             "title": "Obama 6: Yes We Can!",
             "entities": {
+                "PERSON": [
+                    "Barack Obama"
+                ],
                 "ORG": [
                     "U.S. Senate",
                     "href=\"http://wbez.org/making\">wbez.org/making</a><br></p><img",
-                    "alt=\"\"/"
+                    "wbez-making/~4/MU_ZRMADvG4"
                 ],
                 "GPE": [
                     "Washington"
@@ -299,9 +308,11 @@
                 ],
                 "ORG": [
                     "U.S. Senate",
-                    "WBEZ Chicago",
-                    "href=\"https://wbez.org",
-                    "alt=\"\"/"
+                    "WBEZ",
+                    "wbez-making/~4"
+                ],
+                "GPE": [
+                    "Chicago"
                 ]
             }
         },
@@ -330,12 +341,13 @@
                 "DATE": [
                     "2000"
                 ],
-                "PERSON": [
+                "LOC": [
                     "Barack Obama"
                 ],
                 "ORG": [
                     "Congress",
-                    "alt=\"\"/"
+                    "identity.</p><img",
+                    "wbez-making/~4/s5P76IcR8wk"
                 ],
                 "GPE": [
                     "Chicago"
@@ -374,9 +386,7 @@
                     "1996"
                 ],
                 "ORG": [
-                    "href=\"http://wbez.org",
-                    "target=\"\">wbez.org",
-                    "alt=\"\"/"
+                    "wbez-making/~4/jWQj3dPJS94"
                 ]
             }
         },
@@ -412,7 +422,7 @@
                     "Chicago"
                 ],
                 "ORG": [
-                    "alt=\"\"/"
+                    "wbez-making/~4"
                 ]
             }
         },
@@ -444,11 +454,14 @@
                 "PERSON": [
                     "Barack Obama"
                 ],
+                "LOC": [
+                    "the South Side of"
+                ],
                 "GPE": [
                     "Chicago"
                 ],
                 "ORG": [
-                    "alt=\"\"/"
+                    "wbez-making/~4/tf1eXqNiLN0"
                 ]
             }
         },
@@ -479,16 +492,14 @@
                 "GPE": [
                     "Chicago"
                 ],
-                "ORG": [
-                    "href=\"https://itunes.apple.com",
-                    "src=\"http://feeds.feedburner.com/~r/wbez-making/~4/Jqatk17rkqw",
-                    "alt=\"\"/"
-                ],
                 "ORDINAL": [
                     "first"
                 ],
                 "DATE": [
                     "February 8.<br></p><img"
+                ],
+                "ORG": [
+                    "wbez-making/~4"
                 ]
             }
         },
@@ -513,11 +524,16 @@
             "pubDate": "Fri, 30 Dec 2016 11:39:24 -0600",
             "title": "Oprah BONUS: Making Donahue",
             "entities": {
+                "ORG": [
+                    "Oprah</i",
+                    "wbez-making/~4/kfndPZRWdYE"
+                ],
                 "TIME": [
                     "daytime"
                 ],
                 "PERSON": [
                     "Phil Donahue",
+                    "Oprah",
                     "Donahue",
                     "Jenn White",
                     "Colin McNulty",
@@ -526,14 +542,12 @@
                 "DATE": [
                     "1967 to 1996"
                 ],
-                "ORG": [
-                    "Oprah",
-                    "non-Oprah",
-                    "alt=\"\"/"
-                ],
                 "CARDINAL": [
                     "one",
                     "dozens"
+                ],
+                "NORP": [
+                    "non-Oprah"
                 ]
             }
         },
@@ -562,7 +576,7 @@
                     "more than 10 years",
                     "election seasons"
                 ],
-                "PRODUCT": [
+                "FAC": [
                     "the Oprah Winfrey Show"
                 ],
                 "PERSON": [
@@ -573,7 +587,7 @@
                     "Oprah Winfrey"
                 ],
                 "ORG": [
-                    "alt=\"\"/"
+                    "wbez-making/~4"
                 ]
             }
         },
@@ -601,12 +615,12 @@
                 "PERSON": [
                     "Oprah Winfrey",
                     "Jenn White",
+                    "Oprah",
                     "Andre Walker"
                 ],
                 "ORG": [
-                    "Oprah\u2019s",
                     "Oprah",
-                    "alt=\"\"/"
+                    "wbez-making/~4"
                 ]
             }
         },
@@ -642,13 +656,15 @@
                     "21,000",
                     "25"
                 ],
-                "ORG": [
-                    "Chicago.&nbsp;</p><p><span>\u201cIt",
-                    "WBEZ\u2019s",
-                    "alt=\"\"/"
+                "GPE": [
+                    "Chicago.&nbsp;</p><p><span>\u201cIt"
                 ],
                 "DATE": [
                     "the year before"
+                ],
+                "ORG": [
+                    "WBEZ",
+                    "wbez-making/~4"
                 ]
             }
         },
@@ -677,18 +693,25 @@
                 "ORDINAL": [
                     "second"
                 ],
+                "ORG": [
+                    "Oprah</i",
+                    "WBEZ"
+                ],
                 "PERSON": [
                     "Oprah Winfrey",
+                    "Oprah",
                     "Oprah",
                     "Jenn White",
                     "Oprah Winfrey"
                 ],
-                "ORG": [
-                    "Oprah",
-                    "alt=\"\"/"
+                "DATE": [
+                    "The early years"
                 ],
-                "LAW": [
+                "WORK_OF_ART": [
                     "the \u2018Live Your Best Life\u2019 Oprah"
+                ],
+                "PRODUCT": [
+                    "saying?\u201d&nbsp;</p><p>&nbsp;As"
                 ]
             }
         },
@@ -718,16 +741,25 @@
                     "30 years ago this fall",
                     "2011",
                     "Today",
+                    "the early, scrappy days",
                     "the 1980s"
                 ],
                 "PERSON": [
                     "Oprah Winfrey",
                     "Ellen",
-                    "Oz",
-                    "style=\"font-family"
+                    "Oprah",
+                    "Oprah",
+                    "Oprah",
+                    "Jenn White",
+                    "Oprah"
                 ],
-                "WORK_OF_ART": [
-                    "hellooooo"
+                "ORG": [
+                    "hellooooo",
+                    "CNN",
+                    "USA Today",
+                    "Forbes",
+                    "Time Magazine",
+                    "WBEZ"
                 ],
                 "CARDINAL": [
                     "145",
@@ -737,28 +769,17 @@
                     "three"
                 ],
                 "GPE": [
-                    "U.S."
-                ],
-                "TIME": [
-                    "daytime"
-                ],
-                "ORG": [
-                    "Oprah",
-                    "Oprah",
-                    "CNN",
-                    "USA Today",
-                    "Forbes",
-                    "Time Magazine",
-                    "Oprah",
-                    "WBEZ",
-                    "Oprah",
-                    "alt=\"\"/"
+                    "U.S.",
+                    "America.</p"
                 ],
                 "ORDINAL": [
                     "first"
                 ],
-                "NORP": [
+                "PRODUCT": [
                     "Donahue"
+                ],
+                "TIME": [
+                    "daytime"
                 ]
             }
         },
@@ -783,20 +804,21 @@
             "pubDate": "Thu, 03 Nov 2016 13:04:21 -0500",
             "title": "Oprah: Preview of Making Oprah",
             "entities": {
-                "DATE": [
-                    "30 years"
-                ],
                 "PERSON": [
+                    "Oprah",
                     "Oprah Winfrey Show</a></i",
                     "Winfrey",
                     "Phil Donahue"
+                ],
+                "DATE": [
+                    "30 years"
                 ],
                 "ORDINAL": [
                     "first"
                 ],
                 "ORG": [
                     "WBEZ",
-                    "alt=\"\"/"
+                    "wbez-making/~4/xwnZk-GVhX0"
                 ],
                 "CARDINAL": [
                     "three"

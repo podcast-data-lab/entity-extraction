@@ -9,6 +9,105 @@
     },
     "items": [
         {
+            "content": "The trio is back with a beer sponsorship. Mike likes a dice-based adventure game. Dan is excited for nut shots. Mary leaves the guys unsupervised.",
+            "contentSnippet": "The trio is back with a beer sponsorship. Mike likes a dice-based adventure game. Dan is excited for nut shots. Mary leaves the guys unsupervised.",
+            "enclosure": {
+                "length": "284419575",
+                "type": "audio/mpeg",
+                "url": "https://api.spreaker.com/download/episode/49905741/fe_ep29_audio.mp3"
+            },
+            "guid": "https://api.spreaker.com/episode/49905741",
+            "isoDate": "2022-05-23T13:16:54.000Z",
+            "itunes": {
+                "author": "Fire Escape Cast",
+                "duration": "11843",
+                "explicit": "yes",
+                "image": "https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/8ffaecd9208c087be4907353444aef1c.jpg",
+                "subtitle": "The trio is back with a beer sponsorship. Mike likes a dice-based adventure game. Dan is excited for nut shots. Mary leaves the guys unsupervised.",
+                "summary": "The trio is back with a beer sponsorship. Mike likes a dice-based adventure game. Dan is excited for nut shots. Mary leaves the guys unsupervised."
+            },
+            "link": "https://www.spreaker.com/user/14864828/fe-ep29-audio",
+            "pubDate": "Mon, 23 May 2022 13:16:54 +0000",
+            "title": "Fire Escape Cast #29",
+            "entities": {
+                "PERSON": [
+                    "Mike",
+                    "Dan",
+                    "Mary"
+                ]
+            }
+        },
+        {
+            "content": "The trio has more to say about Rogue Legacy 2 and Risk of Rain 2. Dan has finally been to the bone zone. Mary has to explain to Mike how simulators work.",
+            "contentSnippet": "The trio has more to say about Rogue Legacy 2 and Risk of Rain 2. Dan has finally been to the bone zone. Mary has to explain to Mike how simulators work.",
+            "enclosure": {
+                "length": "179994380",
+                "type": "audio/mpeg",
+                "url": "https://api.spreaker.com/download/episode/49716541/fe_episode28_audio.mp3"
+            },
+            "guid": "https://api.spreaker.com/episode/49716541",
+            "isoDate": "2022-05-09T07:00:03.000Z",
+            "itunes": {
+                "author": "Fire Escape Cast",
+                "duration": "11213",
+                "explicit": "yes",
+                "image": "https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/8ffaecd9208c087be4907353444aef1c.jpg",
+                "subtitle": "The trio has more to say about Rogue Legacy 2 and Risk of Rain 2. Dan has finally been to the bone zone. Mary has to explain to Mike how simulators work.",
+                "summary": "The trio has more to say about Rogue Legacy 2 and Risk of Rain 2. Dan has finally been to the bone zone. Mary has to explain to Mike how simulators work."
+            },
+            "link": "https://www.spreaker.com/user/14864828/fe-episode28-audio",
+            "pubDate": "Mon, 09 May 2022 07:00:03 +0000",
+            "title": "Fire Escape Cast #28",
+            "entities": {
+                "ORG": [
+                    "Rogue"
+                ],
+                "CARDINAL": [
+                    "2"
+                ],
+                "PERSON": [
+                    "Dan",
+                    "Mary",
+                    "Mike"
+                ]
+            }
+        },
+        {
+            "content": "Mary is back on the West Coast, and Dan is furious about the motion smoothing on Mike's living room TV. Also, the gang is just starting to dig into the roguelites that are leaving early access in 2022.",
+            "contentSnippet": "Mary is back on the West Coast, and Dan is furious about the motion smoothing on Mike's living room TV. Also, the gang is just starting to dig into the roguelites that are leaving early access in 2022.",
+            "enclosure": {
+                "length": "239247317",
+                "type": "audio/mpeg",
+                "url": "https://api.spreaker.com/download/episode/49528277/fe_episode27_audio.mp3"
+            },
+            "guid": "https://api.spreaker.com/episode/49528277",
+            "isoDate": "2022-04-25T07:00:02.000Z",
+            "itunes": {
+                "author": "Fire Escape Cast",
+                "duration": "9962",
+                "explicit": "yes",
+                "image": "https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/8ffaecd9208c087be4907353444aef1c.jpg",
+                "subtitle": "Mary is back on the West Coast, and Dan is furious about the motion smoothing on Mike's living room TV. Also, the gang is just starting to dig into the roguelites that are leaving early access in 2022.",
+                "summary": "Mary is back on the West Coast, and Dan is furious about the motion smoothing on Mike's living room TV. Also, the gang is just starting to dig into the roguelites that are leaving early access in 2022."
+            },
+            "link": "https://www.spreaker.com/user/14864828/fe-episode27-audio",
+            "pubDate": "Mon, 25 Apr 2022 07:00:02 +0000",
+            "title": "Fire Escape Cast #27",
+            "entities": {
+                "PERSON": [
+                    "Mary",
+                    "Dan",
+                    "Mike"
+                ],
+                "LOC": [
+                    "the West Coast"
+                ],
+                "DATE": [
+                    "2022"
+                ]
+            }
+        },
+        {
             "content": "Mary is on her way to the East Coast and Dan has finally played Vampire Survivors. Also, Mike is fairly certain he could take Abraham Lincoln in a fight.",
             "contentSnippet": "Mary is on her way to the East Coast and Dan has finally played Vampire Survivors. Also, Mike is fairly certain he could take Abraham Lincoln in a fight.",
             "enclosure": {
@@ -76,8 +175,8 @@
                 "ORG": [
                     "Borderlands"
                 ],
-                "DATE": [
-                    "35:40 - 1:08:00"
+                "TIME": [
+                    "between 35:40 - 1:08:00"
                 ]
             }
         },
@@ -132,8 +231,13 @@
             "entities": {
                 "PERSON": [
                     "Dan",
+                    "Elden Ring",
                     "Mike",
+                    "Pok\u00e9mon",
                     "Mary"
+                ],
+                "CARDINAL": [
+                    "one"
                 ]
             }
         },
@@ -161,18 +265,22 @@
             "entities": {
                 "PERSON": [
                     "Dan",
-                    "Kahlief Adams",
-                    "Horizon",
-                    "Vampire Survivors"
+                    "Kahlief Adams"
                 ],
                 "ORDINAL": [
                     "first"
                 ],
-                "EVENT": [
-                    "Total War"
+                "ORG": [
+                    "Horizon",
+                    "Forbidden West",
+                    "Sifu, Vampire Survivors",
+                    "Grapple Dog"
                 ],
                 "CARDINAL": [
                     "3"
+                ],
+                "PRODUCT": [
+                    "Light 2"
                 ]
             }
         },
@@ -202,7 +310,7 @@
                     "2016"
                 ],
                 "CARDINAL": [
-                    "4"
+                    "4."
                 ],
                 "PERSON": [
                     "Alex Boniello"
@@ -234,14 +342,11 @@
                 "PERSON": [
                     "Dan",
                     "Mary",
-                    "Mike",
-                    "Nobody Saves",
-                    "Sea Man",
-                    "Samba de Amigo"
+                    "Mike"
                 ],
                 "ORG": [
                     "Fireballs",
-                    "Wordle"
+                    "Nobody Saves the World"
                 ]
             }
         },
@@ -267,10 +372,12 @@
             "pubDate": "Mon, 03 Jan 2022 08:00:02 +0000",
             "title": "Fire Escape Cast #19",
             "entities": {
-                "PRODUCT": [
-                    "Loop Hero"
+                "DATE": [
+                    "a new year"
                 ],
                 "PERSON": [
+                    "Mary",
+                    "Loop Hero",
                     "Dan",
                     "Mike"
                 ],
@@ -306,8 +413,8 @@
                     "2021",
                     "2021"
                 ],
-                "WORK_OF_ART": [
-                    "Fire Escape"
+                "LOC": [
+                    "the Fire Escape"
                 ]
             }
         },
@@ -338,11 +445,11 @@
                     "Mike",
                     "Dan",
                     "Mary",
-                    "Solar Ash",
                     "Mary"
                 ],
                 "ORG": [
-                    "Halo Infinite's"
+                    "Halo Infinite's",
+                    "Solar Ash"
                 ]
             }
         },
@@ -414,7 +521,6 @@
                     "this week"
                 ],
                 "ORG": [
-                    "Inscryption",
                     "Rider's Republic"
                 ]
             }
@@ -442,19 +548,16 @@
             "pubDate": "Mon, 25 Oct 2021 07:00:13 +0000",
             "title": "Fire Escape Cast #14",
             "entities": {
-                "ORG": [
-                    "Metroid Dread"
+                "LOC": [
+                    "the Fire Escape"
                 ],
                 "PERSON": [
-                    "Outer Wilds",
-                    "Wilds"
+                    "Metroid Dread",
+                    "Outer Wilds"
                 ],
-                "PRODUCT": [
+                "ORG": [
                     "Eye",
                     "Eye"
-                ],
-                "TIME": [
-                    "00:53:16 - 1:36:30"
                 ],
                 "DATE": [
                     "1:58:32 - 2:16:28"
@@ -484,12 +587,8 @@
             "pubDate": "Mon, 11 Oct 2021 07:00:05 +0000",
             "title": "Fire Escape Cast #13",
             "entities": {
-                "WORK_OF_ART": [
-                    "Fire Escape"
-                ],
                 "DATE": [
-                    "season",
-                    "138857"
+                    "season"
                 ]
             }
         },
@@ -520,7 +619,6 @@
                     "Mike",
                     "Mary",
                     "Dan",
-                    "Blast",
                     "Norm Macdonald"
                 ],
                 "WORK_OF_ART": [
@@ -555,7 +653,11 @@
                     "second"
                 ],
                 "ORG": [
-                    "Deathloop"
+                    "Deathloop",
+                    "FEUS"
+                ],
+                "NORP": [
+                    "Zelda"
                 ]
             }
         },
@@ -585,14 +687,9 @@
                 "GPE": [
                     "The Forgotten City"
                 ],
-                "CARDINAL": [
-                    "12",
-                    "12"
-                ],
-                "ORG": [
-                    "ALERT"
-                ],
                 "TIME": [
+                    "12 Minutes",
+                    "12 Minutes",
                     "59:29-1:27:35"
                 ],
                 "DATE": [
@@ -627,12 +724,9 @@
                     "This week"
                 ],
                 "ORG": [
-                    "Ascent",
+                    "The Ascent",
                     "Simpsons",
                     "Wildermyth"
-                ],
-                "CARDINAL": [
-                    "2"
                 ],
                 "PERSON": [
                     "Dan",
@@ -664,14 +758,8 @@
             "pubDate": "Mon, 02 Aug 2021 07:00:06 +0000",
             "title": "Fire Escape Cast #8",
             "entities": {
-                "ORG": [
-                    "Death's Door",
-                    "Wildermyth",
-                    "Simpsons",
-                    "Time"
-                ],
-                "WORK_OF_ART": [
-                    "Fire Escape"
+                "LOC": [
+                    "the Fire Escape"
                 ],
                 "PERSON": [
                     "Mike",
@@ -679,6 +767,10 @@
                     "Mary",
                     "Mike",
                     "Mary"
+                ],
+                "ORG": [
+                    "Wildermyth",
+                    "Time"
                 ],
                 "CARDINAL": [
                     "30"
@@ -745,6 +837,9 @@
             "pubDate": "Mon, 19 Jul 2021 07:00:09 +0000",
             "title": "Fire Escape Cast #7",
             "entities": {
+                "DATE": [
+                    "days of summer"
+                ],
                 "PERSON": [
                     "Mary",
                     "Dan",
@@ -753,12 +848,14 @@
                     "Mary",
                     "Mike"
                 ],
+                "FAC": [
+                    "Patreon"
+                ],
                 "ORG": [
-                    "Patreon",
                     "Banjo-Tooie"
                 ],
-                "WORK_OF_ART": [
-                    "The Hero Slayer"
+                "LOC": [
+                    "Skul"
                 ]
             }
         },
@@ -790,10 +887,18 @@
                 "GPE": [
                     "U.S."
                 ],
+                "LOC": [
+                    "the Fire Escapees"
+                ],
                 "PERSON": [
                     "Dan",
-                    "Mike",
-                    "Guy"
+                    "Mary",
+                    "Mike"
+                ],
+                "ORG": [
+                    "Pacific Northwest",
+                    "Sea of Thieves",
+                    "TM"
                 ]
             }
         },
@@ -819,17 +924,19 @@
             "pubDate": "Mon, 21 Jun 2021 07:00:00 +0000",
             "title": "Fire Escape Cast #5",
             "entities": {
+                "DATE": [
+                    "a holiday weekend",
+                    "monthly"
+                ],
                 "GPE": [
                     "New York",
-                    "Portland",
-                    "Ratchet"
+                    "Portland"
                 ],
                 "PERSON": [
-                    "Paul Ryckert\u2019s",
+                    "Paul Ryckert",
+                    "Ratchet",
+                    "Rift Apart",
                     "Paul"
-                ],
-                "DATE": [
-                    "monthly"
                 ]
             }
         },
@@ -891,11 +998,8 @@
             "pubDate": "Mon, 24 May 2021 07:00:00 +0000",
             "title": "Fire Escape Cast #3",
             "entities": {
-                "ORG": [
-                    "Mass Effect Legendary Edition"
-                ],
-                "WORK_OF_ART": [
-                    "Fire Escape"
+                "PRODUCT": [
+                    "the Fire Escape"
                 ],
                 "PERSON": [
                     "Dan",
@@ -927,18 +1031,22 @@
             "title": "Fire Escape Cast #2",
             "entities": {
                 "DATE": [
-                    "a busy few weeks"
+                    "few weeks",
+                    "8"
                 ],
-                "WORK_OF_ART": [
-                    "Fire Escape"
+                "LOC": [
+                    "the Fire Escape"
                 ],
-                "FAC": [
-                    "Mass Effect"
+                "ORG": [
+                    "Returnal"
                 ],
                 "PERSON": [
                     "Dan",
                     "Mary",
                     "Mike"
+                ],
+                "FAC": [
+                    "Resident Evil"
                 ]
             }
         },
@@ -967,8 +1075,11 @@
                 "PERSON": [
                     "Dan",
                     "Mary",
-                    "Mike kick",
+                    "Mike",
                     "Mike"
+                ],
+                "LOC": [
+                    "the Fire Escape Cast"
                 ],
                 "DATE": [
                     "2021"
@@ -1002,9 +1113,6 @@
                     "Mary Kish",
                     "Mike Mahardy",
                     "Fire Escape"
-                ],
-                "TIME": [
-                    "nights"
                 ]
             }
         }
@@ -1039,7 +1147,7 @@
         "summary": "Dan Ryckert, Mary Kish, and Mike Mahardy can\u2019t shut down bars while talking about video games like they used to, so they created Fire Escape to keep those chats going from across the country. Support this podcast: <a href=\"https://anchor.fm/fireescape/support\" rel=\"noopener\">https://anchor.fm/fireescape/support</a>"
     },
     "language": "en",
-    "lastBuildDate": "Mon, 11 Apr 2022 13:27:39 +0000",
+    "lastBuildDate": "Mon, 23 May 2022 13:16:55 +0000",
     "link": "https://www.spreaker.com/show/fire-escape-cast",
     "paginationLinks": {
         "self": "https://www.spreaker.com/show/5008213/episodes/feed"

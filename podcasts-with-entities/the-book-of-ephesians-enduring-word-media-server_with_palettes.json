@@ -176,7 +176,7 @@
             "pubDate": "Fri, 25 Aug 2017 07:00:00 +0000",
             "title": "Ephesians 3 \u2013 The Fellowship of the Mystery",
             "entities": {
-                "CARDINAL": [
+                "ORG": [
                     "https://storage.googleapis.com/enduring-word-media/audio/Eph0300_00.mp3"
                 ]
             }
@@ -247,11 +247,7 @@
             "link": "https://media.enduringword.com/ephesians-1-the-work-of-the-father-son-and-holy-spirit-in-gods-eternal-plan/",
             "pubDate": "Wed, 23 Aug 2017 07:00:00 +0000",
             "title": "Ephesians 1 \u2013 The Work of the Father, Son, and Holy Spirit in God\u2019s Eternal Plan",
-            "entities": {
-                "GPE": [
-                    "https://storage.googleapis.com/enduring-word-media/audio/Eph0100_00.mp3"
-                ]
-            }
+            "entities": {}
         }
     ],
     "itunes": {
@@ -296,10 +292,5 @@
     "link": "https://media.enduringword.com",
     "palette": [],
     "title": "The Book of Ephesians \u2013 Enduring Word Media Server",
-    "entities": {
-        "PERSON": [
-            "Audio",
-            "Enduring Word"
-        ]
-    }
+    "entities": {}
 }

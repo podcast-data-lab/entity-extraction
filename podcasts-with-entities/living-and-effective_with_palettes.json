@@ -33,17 +33,20 @@
             "entities": {
                 "PERSON": [
                     "Diane Langberg",
-                    "The Gray Havens"
+                    "Season 2"
                 ],
                 "GPE": [
                     "Suffering"
                 ],
-                "ORG": [
-                    "CT Creative Studio",
-                    "The Christian Standard Bible"
+                "WORK_OF_ART": [
+                    "Living and Effective"
                 ],
-                "DATE": [
-                    "Season 2"
+                "ORG": [
+                    "The Christian Standard Bible",
+                    "The Gray Havens"
+                ],
+                "PRODUCT": [
+                    "Learn"
                 ]
             }
         },
@@ -72,15 +75,15 @@
             "entities": {
                 "ORG": [
                     "Hinn",
-                    "CT Creative Studio",
-                    "The Christian Standard Bible"
+                    "The Christian Standard Bible",
+                    "The Gray Havens"
                 ],
                 "PERSON": [
                     "Greed",
-                    "The Gray Havens"
-                ],
-                "DATE": [
                     "Season 2"
+                ],
+                "PRODUCT": [
+                    "Learn"
                 ]
             }
         },
@@ -109,14 +112,15 @@
             "entities": {
                 "ORG": [
                     "Incurable Cancer and Life",
-                    "CT Creative Studio",
-                    "The Christian Standard Bible"
-                ],
-                "PERSON": [
+                    "Living and Effective",
+                    "The Christian Standard Bible",
                     "The Gray Havens"
                 ],
-                "DATE": [
+                "PERSON": [
                     "Season 2"
+                ],
+                "PRODUCT": [
+                    "Learn"
                 ]
             }
         },
@@ -144,11 +148,15 @@
             "title": "Chapter 4: Bargaining",
             "entities": {
                 "PERSON": [
-                    "Peter Popoff\nLiving"
+                    "Peter Popoff"
                 ],
                 "ORG": [
-                    "CT Creative Studio",
-                    "The Christian Standard Bible"
+                    "Living and Effective",
+                    "The Christian Standard Bible",
+                    "The Gray Havens"
+                ],
+                "PRODUCT": [
+                    "Learn"
                 ]
             }
         },
@@ -181,9 +189,15 @@
                 "GPE": [
                     "Suffering"
                 ],
+                "WORK_OF_ART": [
+                    "Living and Effective"
+                ],
                 "ORG": [
-                    "CT Creative Studio",
-                    "The Christian Standard Bible"
+                    "The Christian Standard Bible",
+                    "The Gray Havens"
+                ],
+                "PRODUCT": [
+                    "Learn"
                 ]
             }
         },
@@ -211,21 +225,22 @@
             "title": "Chapter 6: Acceptance",
             "entities": {
                 "WORK_OF_ART": [
-                    "Bible"
+                    "Bible",
+                    "Living and Effective"
                 ],
                 "CARDINAL": [
                     "one"
                 ],
                 "PERSON": [
-                    "Travis West\n\nLiving and",
-                    "The Gray Havens"
+                    "Travis West",
+                    "Season 2"
                 ],
                 "ORG": [
-                    "CT Creative Studio",
-                    "The Christian Standard Bible"
+                    "The Christian Standard Bible",
+                    "The Gray Havens"
                 ],
-                "DATE": [
-                    "Season 2"
+                "PRODUCT": [
+                    "Learn"
                 ]
             }
         },
@@ -254,11 +269,15 @@
             "entities": {
                 "DATE": [
                     "season 2",
-                    "coming August 2019"
+                    "August 2019"
                 ],
                 "ORG": [
-                    "the Christian Standard Bible",
-                    "CT Creative Studio"
+                    "Living and Effective",
+                    "Living and Effective",
+                    "the Christian Standard Bible"
+                ],
+                "PRODUCT": [
+                    "Learn"
                 ]
             }
         },
@@ -284,7 +303,11 @@
             },
             "pubDate": "Mon, 20 May 2019 15:28:45 -0000",
             "title": "Season 2: Coming This Summer",
-            "entities": {}
+            "entities": {
+                "PRODUCT": [
+                    "Learn"
+                ]
+            }
         },
         {
             "content": "A new podcast from CT Creative Studio.\nLearn more about your ad choices. Visit podcastchoices.com/adchoices",
@@ -311,6 +334,9 @@
             "entities": {
                 "ORG": [
                     "CT Creative Studio"
+                ],
+                "PRODUCT": [
+                    "Learn"
                 ]
             }
         },
@@ -345,6 +371,9 @@
                 "PERSON": [
                     "Bonhoeffer",
                     "Bonhoeffer"
+                ],
+                "PRODUCT": [
+                    "Learn"
                 ]
             }
         },
@@ -374,11 +403,13 @@
             "title": "The Bible Goes Viral",
             "entities": {
                 "PERSON": [
-                    "Martin Luther's",
-                    "Luther"
+                    "Martin Luther's"
                 ],
                 "WORK_OF_ART": [
                     "Bible"
+                ],
+                "PRODUCT": [
+                    "Learn"
                 ]
             }
         },
@@ -409,6 +440,9 @@
             "entities": {
                 "DATE": [
                     "This week"
+                ],
+                "PRODUCT": [
+                    "Learn"
                 ]
             }
         },
@@ -439,7 +473,7 @@
             "entities": {
                 "PERSON": [
                     "Martin Luther King Jr.",
-                    "Jemar Tisby Mika"
+                    "Jemar Tisby Mika Edmonson Living and Effective"
                 ],
                 "NORP": [
                     "Christian",
@@ -456,6 +490,9 @@
                 ],
                 "ORG": [
                     "the Christian Standard Bible"
+                ],
+                "PRODUCT": [
+                    "Learn"
                 ]
             }
         },
@@ -485,8 +522,10 @@
             "title": "When the Bible Became Cool",
             "entities": {
                 "PERSON": [
-                    "Bob Dylan",
-                    "Larry",
+                    "Jesus People",
+                    "Jesus",
+                    "Bob Dylan's",
+                    "Larry Eskeridge",
                     "Greg Thornbury"
                 ],
                 "NORP": [
@@ -497,6 +536,9 @@
                 ],
                 "ORG": [
                     "the Christian Standard Bible"
+                ],
+                "PRODUCT": [
+                    "Learn"
                 ]
             }
         },
@@ -529,7 +571,8 @@
                     "Bible"
                 ],
                 "PERSON": [
-                    "Mark Noll"
+                    "Mark Noll",
+                    "Steve Patton"
                 ],
                 "NORP": [
                     "Christianity"
@@ -539,6 +582,9 @@
                 ],
                 "ORG": [
                     "the Christian Standard Bible"
+                ],
+                "PRODUCT": [
+                    "Learn"
                 ]
             }
         },
@@ -566,17 +612,15 @@
             "pubDate": "Wed, 17 Oct 2018 20:58:00 -0000",
             "title": "Introducing: Living and Effective",
             "entities": {
-                "NORP": [
-                    "Christianity"
-                ],
-                "DATE": [
-                    "Today"
-                ],
                 "ORG": [
+                    "Christianity Today",
                     "the Christian Standard Bible"
                 ],
                 "WORK_OF_ART": [
                     "Bible"
+                ],
+                "PRODUCT": [
+                    "Learn"
                 ]
             }
         }
@@ -631,9 +675,6 @@
         ],
         "NORP": [
             "Christianity"
-        ],
-        "DATE": [
-            "Today"
         ]
     }
 }

@@ -21,24 +21,21 @@
             "pubDate": "Wed, 19 Jan 2022 13:50:00 EST",
             "title": "Love Me Introduces: Sorry About The Kid",
             "entities": {
-                "CARDINAL": [
-                    "one",
-                    "four"
-                ],
                 "WORK_OF_ART": [
                     "Love Me"
                 ],
                 "PERSON": [
                     "Mira Burt-Wintonick",
-                    "Alex McKinnon"
+                    "Alex",
+                    "Alex",
+                    "Alex McKinnon",
+                    "Mira Burt-Wintonick"
                 ],
                 "DATE": [
-                    "the day",
                     "30 years later"
                 ],
-                "ORG": [
-                    "Alex",
-                    "Alex"
+                "CARDINAL": [
+                    "four"
                 ]
             }
         },
@@ -64,17 +61,17 @@
                 "ORG": [
                     "GPS",
                     "CBC",
-                    "Heavyweight",
                     "WireTap",
                     "WireTap",
                     "CBC Radio",
                     "WireTap"
                 ],
+                "WORK_OF_ART": [
+                    "Heavyweight",
+                    "Love Me"
+                ],
                 "PERSON": [
                     "Jonathan Goldstein"
-                ],
-                "WORK_OF_ART": [
-                    "Love Me"
                 ],
                 "DATE": [
                     "11 years"
@@ -103,17 +100,18 @@
             "pubDate": "Wed, 01 Apr 2020 00:10:00 EDT",
             "title": "Introducing Here Be Monsters",
             "entities": {
-                "ORG": [
+                "WORK_OF_ART": [
                     "Here Be Monsters"
+                ],
+                "ORG": [
+                    "KCRW",
+                    "Mormon"
                 ],
                 "LOC": [
                     "Earth"
                 ],
                 "PERSON": [
                     "Bethany Denton"
-                ],
-                "NORP": [
-                    "Mormon"
                 ]
             }
         },
@@ -139,14 +137,17 @@
                 "PERSON": [
                     "Lu",
                     "Lisa Grushcow",
-                    "Harry Potter +",
+                    "Harry Potter + jedis",
                     "Tranna",
                     "Rabbi Grushcow"
                 ],
                 "ORG": [
                     "Chosen Family",
-                    "Hosts Tranna & Thomas",
-                    "Judaism\u2019s"
+                    "Tranna & Thomas",
+                    "Judaism"
+                ],
+                "NORP": [
+                    "lesbian"
                 ],
                 "CARDINAL": [
                     "three"
@@ -179,7 +180,7 @@
                     "its second season"
                 ],
                 "WORK_OF_ART": [
-                    "Love"
+                    "Love Me"
                 ]
             }
         },
@@ -234,6 +235,9 @@
                 "CARDINAL": [
                     "one"
                 ],
+                "ORDINAL": [
+                    "first"
+                ],
                 "GPE": [
                     "Kiribati"
                 ]
@@ -262,7 +266,7 @@
                 "PERSON": [
                     "Lu"
                 ],
-                "LAW": [
+                "WORK_OF_ART": [
                     "Groundhog Day"
                 ]
             }
@@ -315,9 +319,6 @@
             "pubDate": "Tue, 11 Dec 2018 12:00:00 EST",
             "title": "The Detonator",
             "entities": {
-                "DATE": [
-                    "over a decade"
-                ],
                 "ORG": [
                     "U.S. Navy"
                 ]
@@ -395,7 +396,11 @@
             },
             "pubDate": "Tue, 20 Nov 2018 12:00:00 EST",
             "title": "What Can You Hear?",
-            "entities": {}
+            "entities": {
+                "ORG": [
+                    "Hotline"
+                ]
+            }
         },
         {
             "content": "Sara collects sounds of her son, her second child, during the first year of his life. Laughter, cries, shrieks of joy... Her first child never made much sound and died three days after she was born. The story explores Sara's connection to both children as she listens to the sounds of her family and grieves for the sounds that are missing.",
@@ -417,10 +422,6 @@
             "pubDate": "Tue, 13 Nov 2018 12:00:00 EST",
             "title": "In The Distance",
             "entities": {
-                "GPE": [
-                    "Sara",
-                    "Sara"
-                ],
                 "ORDINAL": [
                     "second",
                     "first"
@@ -428,6 +429,9 @@
                 "DATE": [
                     "the first year",
                     "three days"
+                ],
+                "PERSON": [
+                    "Sara"
                 ]
             }
         },
@@ -478,7 +482,7 @@
                 "PERSON": [
                     "Mansoor Adayfi"
                 ],
-                "FAC": [
+                "LOC": [
                     "Guantanamo Bay"
                 ]
             }
@@ -503,6 +507,9 @@
             "pubDate": "Tue, 07 Aug 2018 12:00:00 EDT",
             "title": "Remember Tracy? + Introducing Personal Best",
             "entities": {
+                "WORK_OF_ART": [
+                    "Love Me"
+                ],
                 "PERSON": [
                     "Tracy"
                 ]
@@ -556,6 +563,7 @@
             "title": "I'm On Your Scent",
             "entities": {
                 "PERSON": [
+                    "Tracy",
                     "Lu"
                 ]
             }
@@ -581,7 +589,7 @@
             "title": "The Way We Were",
             "entities": {
                 "PERSON": [
-                    "Host Lu"
+                    "Lu"
                 ]
             }
         },
@@ -606,13 +614,14 @@
             "title": "Undercover",
             "entities": {
                 "CARDINAL": [
-                    "four"
-                ],
-                "DATE": [
+                    "four",
                     "90s"
                 ],
                 "GPE": [
                     "Beverly Hills"
+                ],
+                "DATE": [
+                    "90210"
                 ],
                 "PERSON": [
                     "Luke Perry"
@@ -730,6 +739,9 @@
             "entities": {
                 "NORP": [
                     "Tamim"
+                ],
+                "LOC": [
+                    "Jungle"
                 ]
             }
         },
@@ -753,13 +765,11 @@
             "pubDate": "Tue, 27 Jun 2017 12:00:00 EDT",
             "title": "Season 2 Preview",
             "entities": {
-                "DATE": [
-                    "Season 2",
-                    "the new season"
-                ],
                 "WORK_OF_ART": [
-                    "Love Me",
                     "Love Me"
+                ],
+                "DATE": [
+                    "July 10"
                 ]
             }
         },
@@ -786,15 +796,18 @@
                     "Love Me"
                 ],
                 "ORG": [
-                    "Romeo",
-                    "Stitcher Premium"
+                    "Mira and Cristal",
+                    "Romeo"
                 ],
-                "NORP": [
+                "GPE": [
                     "Juliet"
                 ],
                 "PERSON": [
                     "Paul Rust",
                     "No\u00ebl Wells"
+                ],
+                "FAC": [
+                    "Stitcher Premium"
                 ]
             }
         },
@@ -818,17 +831,18 @@
             "pubDate": "Wed, 14 Dec 2016 12:00:00 EST",
             "title": "Season 2 Update + SKS",
             "entities": {
+                "EVENT": [
+                    "Season 2"
+                ],
                 "WORK_OF_ART": [
-                    "Love Me."
+                    "Love Me",
+                    "Someone Knows Something"
                 ],
                 "DATE": [
                     "our second season"
                 ],
                 "ORG": [
                     "CBC"
-                ],
-                "PERSON": [
-                    "Someone Knows Something"
                 ]
             }
         },
@@ -1010,8 +1024,9 @@
             "pubDate": "Mon, 20 Jun 2016 12:00:00 EDT",
             "title": "Episode 3: Dear Dad",
             "entities": {
-                "ORG": [
-                    "Pasha Malla"
+                "PERSON": [
+                    "Pasha Malla",
+                    "Dads"
                 ],
                 "NORP": [
                     "D."

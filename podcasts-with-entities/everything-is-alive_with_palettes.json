@@ -37,11 +37,13 @@
                     "Radiotopia"
                 ],
                 "DATE": [
-                    "winter",
-                    "today"
+                    "winter"
                 ],
                 "WORK_OF_ART": [
                     "Sal, Sock"
+                ],
+                "PERSON": [
+                    "Sal"
                 ]
             }
         },
@@ -119,7 +121,7 @@
                     "San Francisco"
                 ],
                 "PERSON": [
-                    "Larry Owens.</p"
+                    "Larry"
                 ]
             }
         },
@@ -153,7 +155,7 @@
             "entities": {
                 "PERSON": [
                     "Michael",
-                    "Michael Kostroff.</p>\n\n"
+                    "Michael Kostroff.</p"
                 ]
             }
         },
@@ -184,11 +186,7 @@
             "link": "https://www.everythingisalive.com/episodes/anonymous-mousetrap",
             "pubDate": "Wed, 03 Nov 2021 16:18:23 -0000",
             "title": "Anonymous, Mousetrap",
-            "entities": {
-                "PERSON": [
-                    "Mel"
-                ]
-            }
+            "entities": {}
         },
         {
             "author": "eiapodcast@gmail.com (Radiotopia)",
@@ -224,6 +222,10 @@
                 ],
                 "ORDINAL": [
                     "first"
+                ],
+                "PERSON": [
+                    "Annie",
+                    "Ann Donley"
                 ]
             }
         },
@@ -292,6 +294,7 @@
             "title": "Dina, Pacifier",
             "entities": {
                 "PERSON": [
+                    "Dina",
                     "Dina Hashem"
                 ],
                 "GPE": [
@@ -327,14 +330,11 @@
             "pubDate": "Wed, 22 Sep 2021 03:58:30 -0000",
             "title": "Vinny, Vending Machine",
             "entities": {
-                "ORG": [
-                    "Vinny.</p"
-                ],
                 "PERSON": [
                     "Vinny Thomas"
                 ],
-                "PRODUCT": [
-                    "Twitter"
+                "WORK_OF_ART": [
+                    "Vinny on Instagram"
                 ]
             }
         },
@@ -402,16 +402,16 @@
             "title": "Adam, Stool",
             "entities": {
                 "PERSON": [
+                    "Adam",
+                    "Adam",
                     "Adam Burke.</p"
                 ],
                 "ORG": [
+                    "Radiotopia",
                     "Radiotopia"
                 ],
                 "EVENT": [
                     "Spring Fundraiser"
-                ],
-                "DATE": [
-                    "today"
                 ]
             }
         },
@@ -442,13 +442,18 @@
             "pubDate": "Wed, 19 Aug 2020 21:05:20 -0000",
             "title": "Martin, Paper Towel Dispenser",
             "entities": {
+                "ORG": [
+                    "Martin"
+                ],
                 "PERSON": [
                     "Martin Morrow",
-                    "Martin",
-                    "Magic"
+                    "Martin"
                 ],
                 "GPE": [
                     "Los Angeles"
+                ],
+                "PRODUCT": [
+                    "Magic"
                 ]
             }
         },
@@ -479,15 +484,13 @@
             "pubDate": "Wed, 22 Jul 2020 05:02:46 -0000",
             "title": "Maria and Joel",
             "entities": {
-                "CARDINAL": [
-                    "one",
-                    "two"
-                ],
                 "PERSON": [
                     "Maria",
-                    "Joel",
                     "Maria Bamford",
                     "Joel Kim Booster"
+                ],
+                "CARDINAL": [
+                    "two"
                 ]
             }
         },
@@ -517,7 +520,12 @@
             "link": "https://www.everythingisalive.com/episodes/lillian-song",
             "pubDate": "Wed, 08 Jul 2020 04:00:35 -0000",
             "title": "Lillian, Song",
-            "entities": {}
+            "entities": {
+                "PERSON": [
+                    "Ian",
+                    "Lillian King.</p"
+                ]
+            }
         },
         {
             "author": "eiapodcast@gmail.com (Radiotopia)",
@@ -546,11 +554,12 @@
             "pubDate": "Wed, 24 Jun 2020 04:00:17 -0000",
             "title": "Colin, Ten Dollar Bill",
             "entities": {
+                "PERSON": [
+                    "Colin",
+                    "Colin Nissan"
+                ],
                 "MONEY": [
                     "ten dollar"
-                ],
-                "PERSON": [
-                    "Colin Nissan"
                 ]
             }
         },
@@ -588,11 +597,7 @@
                     "Russian"
                 ],
                 "PERSON": [
-                    "Josh",
-                    "Chainsaw"
-                ],
-                "GPE": [
-                    "more.</p"
+                    "Josh the Chainsaw"
                 ]
             }
         },
@@ -624,7 +629,8 @@
             "title": "Eugene, Tattoo",
             "entities": {
                 "PERSON": [
-                    "Eugene Cordero.</p>"
+                    "Eugene",
+                    "Eugene Cordero.</p"
                 ]
             }
         },
@@ -722,6 +728,7 @@
             "title": "Josh, Chainsaw",
             "entities": {
                 "PERSON": [
+                    "Josh",
                     "Josh Gondelman"
                 ]
             }
@@ -755,12 +762,10 @@
             "title": "Tami and Ed, Sharpie",
             "entities": {
                 "PERSON": [
+                    "Tami",
                     "Ed",
                     "Tami Sagher",
                     "Ed Herbstman.</p"
-                ],
-                "DATE": [
-                    "all these years"
                 ]
             }
         },
@@ -792,11 +797,11 @@
             "pubDate": "Wed, 11 Mar 2020 04:00:01 -0000",
             "title": "Season 3 Preview",
             "entities": {
-                "CARDINAL": [
-                    "Three"
-                ],
                 "DATE": [
                     "Wednesday, March 18th, 2020"
+                ],
+                "PERSON": [
+                    "Mark"
                 ]
             }
         },
@@ -828,18 +833,11 @@
             "pubDate": "Tue, 26 Nov 2019 07:22:49 -0000",
             "title": "Bonus Episode: The Magic 8 Ball ",
             "entities": {
-                "PRODUCT": [
-                    "The Magic 8 Ball"
-                ],
                 "ORG": [
-                    "Radiotopia",
-                    "target=\"_blank\">radiotopia.fm</a"
+                    "Radiotopia"
                 ],
                 "DATE": [
                     "2019"
-                ],
-                "FAC": [
-                    "Fundraising Drive"
                 ]
             }
         },
@@ -869,7 +867,11 @@
             "link": "https://beta.prx.org/stories/283584",
             "pubDate": "Wed, 10 Jul 2019 12:13:15 -0000",
             "title": "Scott, Stethoscope",
-            "entities": {}
+            "entities": {
+                "PERSON": [
+                    "Scott"
+                ]
+            }
         },
         {
             "author": "eiapodcast@gmail.com (Radiotopia)",
@@ -996,10 +998,8 @@
             "pubDate": "Wed, 08 May 2019 04:40:52 -0000",
             "title": "Sebastian, Alex, and Alex, Russian Dolls",
             "entities": {
-                "ORG": [
-                    "Alex"
-                ],
-                "NORP": [
+                "PERSON": [
+                    "Alex",
                     "Alex"
                 ]
             }
@@ -1058,7 +1058,11 @@
             "link": "https://www.everythingisalive.com/",
             "pubDate": "Tue, 19 Mar 2019 04:00:08 -0000",
             "title": "Petey, Baseball Cap",
-            "entities": {}
+            "entities": {
+                "ORG": [
+                    "Petey"
+                ]
+            }
         },
         {
             "author": "eiapodcast@gmail.com (Radiotopia)",
@@ -1142,11 +1146,7 @@
             "link": "https://www.everythingisalive.com/",
             "pubDate": "Wed, 06 Feb 2019 05:30:09 -0000",
             "title": "Shannon, Bath Towel",
-            "entities": {
-                "FAC": [
-                    "Shannon"
-                ]
-            }
+            "entities": {}
         },
         {
             "author": "eiapodcast@gmail.com (Radiotopia)",
@@ -1181,11 +1181,13 @@
                 "CARDINAL": [
                     "one"
                 ],
-                "DATE": [
-                    "Season One"
-                ],
-                "PERSON": [
+                "ORG": [
+                    "Season One",
+                    "Maeve the Lamppost",
                     "Radiotopia"
+                ],
+                "NORP": [
+                    "Sean"
                 ]
             }
         },
@@ -1219,7 +1221,11 @@
             "link": "https://www.everythingisalive.com/",
             "pubDate": "Tue, 27 Nov 2018 05:35:53 -0000",
             "title": "Sean, Subway Seat",
-            "entities": {}
+            "entities": {
+                "NORP": [
+                    "Sean"
+                ]
+            }
         },
         {
             "author": "eiapodcast@gmail.com (Radiotopia)",
@@ -1279,7 +1285,11 @@
             "link": "https://www.everythingisalive.com/",
             "pubDate": "Tue, 30 Oct 2018 05:00:37 -0000",
             "title": "Annie, Jack o' Lantern",
-            "entities": {}
+            "entities": {
+                "PERSON": [
+                    "Annie"
+                ]
+            }
         },
         {
             "author": "eiapodcast@gmail.com (Radiotopia)",
@@ -1311,7 +1321,11 @@
             "link": "http://everythingisalive.com",
             "pubDate": "Tue, 16 Oct 2018 05:25:13 -0000",
             "title": "Chioke, Grain of Sand",
-            "entities": {}
+            "entities": {
+                "PERSON": [
+                    "Chioke"
+                ]
+            }
         },
         {
             "author": "eiapodcast@gmail.com (Radiotopia)",
@@ -1339,7 +1353,11 @@
             "link": "https://www.everythingisalive.com/",
             "pubDate": "Tue, 02 Oct 2018 05:27:10 -0000",
             "title": "Paul, Tooth",
-            "entities": {}
+            "entities": {
+                "PERSON": [
+                    "Paul"
+                ]
+            }
         },
         {
             "author": "eiapodcast@gmail.com (Radiotopia)",
@@ -1404,7 +1422,11 @@
             "link": "https://www.everythingisalive.com/",
             "pubDate": "Tue, 28 Aug 2018 04:30:00 -0000",
             "title": "Tara, Bar of Soap",
-            "entities": {}
+            "entities": {
+                "PERSON": [
+                    "Tara"
+                ]
+            }
         },
         {
             "author": "eiapodcast@gmail.com (Radiotopia)",
@@ -1438,7 +1460,7 @@
             "pubDate": "Tue, 14 Aug 2018 04:30:00 -0000",
             "title": "Dennis, Pillow",
             "entities": {
-                "NORP": [
+                "PERSON": [
                     "Dennis"
                 ]
             }
@@ -1474,6 +1496,9 @@
             "pubDate": "Tue, 31 Jul 2018 04:30:00 -0000",
             "title": "Maeve, Lamppost",
             "entities": {
+                "ORG": [
+                    "Maeve"
+                ],
                 "GPE": [
                     "her?</p"
                 ]

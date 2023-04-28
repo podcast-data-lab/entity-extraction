@@ -49,7 +49,7 @@
                     "The Trojan Horse Affair"
                 ],
                 "CARDINAL": [
-                    "All eight"
+                    "eight"
                 ]
             }
         },
@@ -79,7 +79,13 @@
             "link": "https://the-improvement-association.simplecast.com/episodes/chapter-five-democrat-republican-white-black-green-pntz3mua-Opyhtd8q",
             "pubDate": "Tue, 27 Apr 2021 06:00:00 +0000",
             "title": "Chapter Five: \u2018Democrat, Republican, White, Black, Green\u2019",
-            "entities": {}
+            "entities": {
+                "ORG": [
+                    "The Improvement Association",
+                    "PAC",
+                    "PAC"
+                ]
+            }
         },
         {
             "author": "improvementassociation@nytimes.com (Serial Productions & The New York Times)",
@@ -108,6 +114,12 @@
             "pubDate": "Thu, 22 Apr 2021 06:00:00 +0000",
             "title": "Chapter Four: \u2018Let Them Pull the Red Wagon\u2019",
             "entities": {
+                "ORG": [
+                    "PAC"
+                ],
+                "DATE": [
+                    "years"
+                ],
                 "PERSON": [
                     "Horace"
                 ]
@@ -183,6 +195,9 @@
                 ],
                 "PERSON": [
                     "Zoe"
+                ],
+                "ORG": [
+                    "PAC"
                 ]
             }
         },
@@ -223,11 +238,10 @@
                 "PERSON": [
                     "Zoe Chace",
                     "Horace Munn",
-                    "Horace",
-                    "Zoe"
+                    "Horace"
                 ],
                 "ORG": [
-                    "the Bladen County Improvement Association PAC"
+                    "the Bladen County Improvement Association"
                 ]
             }
         },
@@ -261,8 +275,7 @@
                     "Serial"
                 ],
                 "ORG": [
-                    "The New York Times",
-                    "the Bladen County Improvement Association"
+                    "The New York Times"
                 ],
                 "DATE": [
                     "at least a decade"
@@ -272,6 +285,9 @@
                     "N.C.",
                     "Bladen County",
                     "N.C."
+                ],
+                "FAC": [
+                    "the Bladen County Improvement Association"
                 ],
                 "CARDINAL": [
                     "five"
@@ -335,12 +351,14 @@
             "N.C.",
             "Bladen County"
         ],
-        "ORG": [
-            "the Bladen County Improvement Association",
-            "The New York Times"
+        "FAC": [
+            "the Bladen County Improvement Association"
         ],
         "PERSON": [
             "Zoe Chace"
+        ],
+        "ORG": [
+            "Serial and The New York Times"
         ],
         "CARDINAL": [
             "five"

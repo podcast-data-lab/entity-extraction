@@ -25,6 +25,9 @@
             "entities": {
                 "PERSON": [
                     "Bryn Hanks"
+                ],
+                "ORG": [
+                    "Trans"
                 ]
             }
         },
@@ -48,7 +51,11 @@
             },
             "pubDate": "Tue, 30 Jun 2020 00:05:00 EDT",
             "title": "Episode 5: Transitioning isn\u2019t fun",
-            "entities": {}
+            "entities": {
+                "NORP": [
+                    "Trans"
+                ]
+            }
         },
         {
             "content": "A young student uses a North Coast legend from her grandmother to explain why she wants to stop living as a man and start living as a woman. Plus: Using sitcoms and culture to talk about gender and sexuality. \u2022 Email theyandus@cbc.ca. \u2022 cbc.ca/theyandus",
@@ -98,7 +105,6 @@
             "title": "Episode 3: Riot for your rights",
             "entities": {
                 "ORG": [
-                    "Gender",
                     "the Transgender Archives"
                 ]
             }
@@ -123,7 +129,11 @@
             },
             "pubDate": "Tue, 23 Jun 2020 00:08:00 EDT",
             "title": "Episode 2: What kind of man do you want to be?",
-            "entities": {}
+            "entities": {
+                "ORG": [
+                    "\u2022 Resources"
+                ]
+            }
         },
         {
             "content": "When you\u2019re facing a health crisis, does it really matter if the doctor gets your pronouns wrong? Musician Rae Spoon thinks so, and they\u2019re fighting for change while also fighting cancer. Plus, a doctor-in-training on their struggles with conversion therapy. \u2022 This episode includes stories of people struggling with mental health that may affect you: Find help and resources at cbc.ca/theyandus. \u2022  Theme song: 'Do Whatever the Heck You Want' by Rae Spoon. \u2022 Email: theyandus@cbc.ca.",
@@ -146,11 +156,10 @@
             "pubDate": "Mon, 22 Jun 2020 00:09:00 EDT",
             "title": "Episode 1: Pronouns in a pandemic",
             "entities": {
-                "NORP": [
-                    "Musician"
-                ],
                 "PERSON": [
-                    "Rae Spoon",
+                    "Rae Spoon"
+                ],
+                "ORG": [
                     "Rae Spoon"
                 ]
             }
@@ -175,7 +184,7 @@
             "title": "They & Us: Trailer",
             "entities": {
                 "ORG": [
-                    "They & Us"
+                    "Faith Fundal"
                 ],
                 "PERSON": [
                     "Wil Fundal"
@@ -208,6 +217,7 @@
     "title": "They & Us",
     "entities": {
         "PERSON": [
+            "Faith Fundal",
             "Wil Fundal"
         ]
     }

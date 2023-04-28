@@ -30,6 +30,12 @@
             "pubDate": "Thu, 18 Nov 2021 05:01:00 GMT",
             "title": "Introducing: A Show About Animals",
             "entities": {
+                "DATE": [
+                    "Today",
+                    "This season",
+                    "the early 1970s",
+                    "weekly"
+                ],
                 "PERSON": [
                     "Koko",
                     "Penny Patterson",
@@ -41,19 +47,20 @@
                     "Pete Lang-Stanton",
                     "Leily Rezvani",
                     "Pran Bandi",
-                    "Steve Bone.&nbsp;</p><br><p>Annie Aviles",
+                    "Steve Bone.&nbsp;</p><br><p",
+                    "Annie Aviles",
                     "Audio",
                     "Kate",
                     "Maximo Anderson"
                 ],
-                "DATE": [
-                    "the early 1970s",
-                    "weekly"
+                "WORK_OF_ART": [
+                    "A Show About Animals</strong>",
+                    "A Show About Animals</strong>"
                 ],
                 "ORG": [
-                    "font-size:0.75em",
-                    "href='https://acast.com",
-                    "privacy'>acast.com/privacy</a"
+                    "grey",
+                    "grey",
+                    "href='https://acast.com/privacy'>acast.com"
                 ]
             }
         },
@@ -82,25 +89,24 @@
                 "PERSON": [
                     "Abdullah Jabbar"
                 ],
-                "LOC": [
-                    "East London"
-                ],
                 "GPE": [
+                    "East London",
                     "Syria"
                 ],
                 "DATE": [
+                    "thirteen",
                     "daily",
                     "seven years"
                 ],
                 "ORG": [
                     "AJ",
-                    "href=\"https://www.youtube.com",
-                    "font-size:0.75em",
-                    "href='https://acast.com",
-                    "privacy'>acast.com/privacy</a"
+                    "grey",
+                    "grey",
+                    "href='https://acast.com/privacy'>acast.com"
                 ],
                 "NORP": [
-                    "Syrian"
+                    "Syrian",
+                    "RjlPEE5J7e0&amp;list"
                 ]
             }
         },
@@ -126,8 +132,9 @@
             "pubDate": "Fri, 25 Dec 2020 08:00:00 GMT",
             "title": "The Storm",
             "entities": {
-                "EVENT": [
-                    "Hurricane Maria"
+                "PERSON": [
+                    "Maria",
+                    "Laura Marrero"
                 ],
                 "GPE": [
                     "Puerto Rico",
@@ -139,17 +146,15 @@
                     "Years later"
                 ],
                 "CARDINAL": [
-                    "nearly 3,000",
-                    "aftermath.</p><br><p"
+                    "nearly 3,000"
                 ],
-                "PERSON": [
-                    "Laura Marrero"
+                "NORP": [
+                    "RjlPEE5J7e0&amp;list"
                 ],
                 "ORG": [
-                    "href=\"https://www.youtube.com",
-                    "font-size:0.75em",
-                    "href='https://acast.com",
-                    "privacy'>acast.com/privacy</a"
+                    "grey",
+                    "grey",
+                    "href='https://acast.com/privacy'>acast.com"
                 ]
             }
         },
@@ -176,19 +181,19 @@
             "title": "Escaping The Las Vegas Shooting",
             "entities": {
                 "PERSON": [
-                    "Cori Langdon"
-                ],
-                "GPE": [
-                    "Vegas"
+                    "Cori Langdon",
+                    "PLDbSvEZka6GFOYJmTjS4"
                 ],
                 "NORP": [
                     "American"
                 ],
+                "WORK_OF_ART": [
+                    "target=\"_blank\">Watch on VICE.com"
+                ],
                 "ORG": [
-                    "href=\"https://www.youtube.com",
-                    "font-size:0.75em",
-                    "href='https://acast.com",
-                    "privacy'>acast.com/privacy</a"
+                    "grey",
+                    "grey",
+                    "href='https://acast.com/privacy'>acast.com"
                 ]
             }
         },
@@ -217,17 +222,22 @@
                 "DATE": [
                     "Friday, December 18th"
                 ],
+                "PERSON": [
+                    "Coronavirus Dispatches.&nbsp;</p><br><p",
+                    "PLDbSvEZka6GFOYJmTjS4"
+                ],
                 "ORG": [
                     "Nicole",
-                    "Distance",
-                    "href=\"https://www.youtube.com",
-                    "font-size:0.75em",
-                    "href='https://acast.com",
-                    "privacy'>acast.com/privacy</a"
+                    "grey",
+                    "grey",
+                    "href='https://acast.com/privacy'>acast.com"
                 ],
                 "GPE": [
                     "Orange County",
                     "California"
+                ],
+                "WORK_OF_ART": [
+                    "target=\"_blank\">Watch on VICE.com"
                 ]
             }
         },
@@ -258,7 +268,8 @@
                     "that day"
                 ],
                 "PERSON": [
-                    "Riley Brown"
+                    "Riley Brown",
+                    "PLDbSvEZka6GFOYJmTjS4"
                 ],
                 "GPE": [
                     "Georgia"
@@ -267,16 +278,14 @@
                     "three"
                 ],
                 "WORK_OF_ART": [
-                    "Facebook and Tik Tok"
-                ],
-                "FAC": [
-                    "Ware State Prison"
+                    "Facebook and Tik Tok",
+                    "target=\"_blank\">Watch on VICE.com"
                 ],
                 "ORG": [
-                    "href=\"https://www.youtube.com",
-                    "font-size:0.75em",
-                    "href='https://acast.com",
-                    "privacy'>acast.com/privacy</a"
+                    "Ware State Prison",
+                    "grey",
+                    "grey",
+                    "href='https://acast.com/privacy'>acast.com"
                 ]
             }
         },
@@ -306,7 +315,8 @@
                     "September 8, 2020"
                 ],
                 "FAC": [
-                    "Almeda Drive"
+                    "Almeda Drive",
+                    "the Almeda Fire"
                 ],
                 "GPE": [
                     "Ashland",
@@ -319,16 +329,19 @@
                     "Thousands"
                 ],
                 "PERSON": [
-                    "Bow DeBey"
+                    "Bow DeBey",
+                    "PLDbSvEZka6GFOYJmTjS4"
                 ],
                 "TIME": [
                     "That night"
                 ],
+                "WORK_OF_ART": [
+                    "target=\"_blank\">Watch on VICE.com"
+                ],
                 "ORG": [
-                    "href=\"https://www.youtube.com",
-                    "font-size:0.75em",
-                    "href='https://acast.com",
-                    "privacy'>acast.com/privacy</a"
+                    "grey",
+                    "grey",
+                    "href='https://acast.com/privacy'>acast.com"
                 ]
             }
         },
@@ -362,11 +375,10 @@
                 ],
                 "ORG": [
                     "Grenfell Tower",
-                    "href=\"https://www.vice.com",
-                    "href=\"https://www.youtube.com",
-                    "font-size:0.75em",
-                    "href='https://acast.com",
-                    "privacy'>acast.com/privacy</a"
+                    "Nabil Choucair",
+                    "grey",
+                    "grey",
+                    "href='https://acast.com/privacy'>acast.com"
                 ],
                 "ORDINAL": [
                     "fourth"
@@ -380,7 +392,10 @@
                     "Six"
                 ],
                 "PERSON": [
-                    "Nabil Choucair"
+                    "PLDbSvEZka6GFOYJmTjS4"
+                ],
+                "WORK_OF_ART": [
+                    "target=\"_blank\">Watch on VICE.com"
                 ]
             }
         },
@@ -412,7 +427,8 @@
                     "Kris Smith",
                     "George Floyd\u2019s",
                     "Kris",
-                    "David McAtee"
+                    "David McAtee",
+                    "PLDbSvEZka6GFOYJmTjS4"
                 ],
                 "GPE": [
                     "U.S.",
@@ -422,10 +438,12 @@
                 "ORG": [
                     "the Kentucky National Guard",
                     "YaYa",
-                    "href=\"https://www.youtube.com",
-                    "font-size:0.75em",
-                    "href='https://acast.com",
-                    "privacy'>acast.com/privacy</a"
+                    "grey",
+                    "grey",
+                    "href='https://acast.com/privacy'>acast.com"
+                ],
+                "WORK_OF_ART": [
+                    "target=\"_blank\">Watch on VICE.com"
                 ]
             }
         },
@@ -452,20 +470,25 @@
             "pubDate": "Fri, 30 Oct 2020 10:00:00 GMT",
             "title": "Covid Cruise",
             "entities": {
+                "PERSON": [
+                    "Cass",
+                    "Cass",
+                    "Cass"
+                ],
                 "ORG": [
-                    "Cass and Riley",
                     "Riley",
                     "Riley",
-                    "YouTube",
-                    "href=\"https://www.youtube.com",
-                    "youtu.be",
-                    "font-size:0.75em",
-                    "href='https://acast.com",
-                    "privacy'>acast.com/privacy</a"
+                    "Riley",
+                    "grey",
+                    "grey",
+                    "href='https://acast.com/privacy'>acast.com"
                 ],
                 "LOC": [
                     "Caribbean",
                     "Southeast Asia"
+                ],
+                "NORP": [
+                    "YouTube"
                 ]
             }
         },
@@ -490,17 +513,19 @@
             "pubDate": "Fri, 23 Oct 2020 14:56:57 GMT",
             "title": "Introducing: SOURCE MATERIAL from VICE News",
             "entities": {
-                "PRODUCT": [
+                "WORK_OF_ART": [
                     "Facebook Live"
                 ],
                 "GPE": [
                     "Las Vegas"
                 ],
+                "PRODUCT": [
+                    "source.&nbsp;Watch"
+                ],
                 "ORG": [
-                    "source.&nbsp;Watch",
-                    "font-size:0.75em",
-                    "href='https://acast.com",
-                    "privacy'>acast.com/privacy</a"
+                    "grey",
+                    "grey",
+                    "href='https://acast.com/privacy'>acast.com"
                 ]
             }
         }
@@ -562,14 +587,17 @@
     "title": "Source Material",
     "ttl": "60",
     "entities": {
-        "ORG": [
-            "href=\"https://www.youtube.com",
-            "font-size:0.75em",
-            "href='https://acast.com",
-            "privacy'>acast.com/privacy</a"
+        "CARDINAL": [
+            "one"
         ],
         "PERSON": [
+            "PLDbSvEZka6GFOYJmTjS4",
             "Youtube"
+        ],
+        "ORG": [
+            "grey",
+            "grey",
+            "href='https://acast.com/privacy'>acast.com"
         ]
     }
 }

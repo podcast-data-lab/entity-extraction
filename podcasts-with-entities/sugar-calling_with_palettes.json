@@ -37,7 +37,7 @@
             "title": "'I Release You, Fear'",
             "entities": {
                 "PERSON": [
-                    "Cheryl Strayed",
+                    "Cheryl",
                     "Joy Harjo",
                     "Joy"
                 ],
@@ -84,6 +84,7 @@
             "title": "\u2018There\u2019s a Quiet All Over the World\u2019",
             "entities": {
                 "PERSON": [
+                    "Cheryl",
                     "Billy Collins",
                     "Billy"
                 ],
@@ -124,9 +125,11 @@
             "title": "'Whatever We Have, We Have to Work With It.'",
             "entities": {
                 "PERSON": [
+                    "Cheryl",
                     "Alice Walker",
+                    "Cheryl",
                     "Alice",
-                    "Muhammad"
+                    "Muhammad Ali.</p"
                 ],
                 "GPE": [
                     "Mendocino",
@@ -165,7 +168,11 @@
             "title": "\u2018This Terrible Thing Is Happening, but the World Goes On.\u2019",
             "entities": {
                 "PERSON": [
+                    "Cheryl",
                     "Judy Blume"
+                ],
+                "ORG": [
+                    "the Florida Keys"
                 ],
                 "CARDINAL": [
                     "two"
@@ -203,6 +210,7 @@
             "title": "\u2018You Don\u2019t Take Dictation. You Find the Truth.\u2019",
             "entities": {
                 "PERSON": [
+                    "Cheryl",
                     "Amy Tan"
                 ],
                 "FAC": [
@@ -244,8 +252,10 @@
             "title": "'Joyful Participation in a World of Sorrows'",
             "entities": {
                 "PERSON": [
+                    "Cheryl",
                     "Pico Iyer",
                     "Pico",
+                    "Cheryl",
                     "Pico"
                 ],
                 "GPE": [
@@ -286,6 +296,9 @@
             "pubDate": "Wed, 8 Apr 2020 17:13:22 +0000",
             "title": "'Roll Up Your Sleeves, Girls\u2019",
             "entities": {
+                "DATE": [
+                    "Today"
+                ],
                 "PERSON": [
                     "Cheryl",
                     "Margaret Atwood",

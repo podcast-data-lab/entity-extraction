@@ -42,9 +42,6 @@
                 ],
                 "CARDINAL": [
                     "2022.</p"
-                ],
-                "ORG": [
-                    "Radiotopia Now"
                 ]
             }
         },
@@ -72,10 +69,12 @@
             "title": "Sandy Claus",
             "entities": {
                 "PERSON": [
-                    "America Stevens"
+                    "America Stevens",
+                    "Sandy Claus.</p",
+                    "Fitzgerald</a>.</p"
                 ],
-                "GPE": [
-                    "Santa\u2019s"
+                "ORG": [
+                    "Santa"
                 ]
             }
         },
@@ -111,24 +110,24 @@
                     "Ivorian",
                     "French",
                     "British",
-                    "French",
-                    "French",
+                    "n\u2019t French",
                     "British",
                     "Ivorian"
-                ],
-                "PERSON": [
-                    "Ivorien",
-                    "Axel Kacouti\u00e9\u2019s",
-                    "Eleanor McDowell"
                 ],
                 "GPE": [
                     "France"
                 ],
+                "LANGUAGE": [
+                    "French"
+                ],
+                "PERSON": [
+                    "Kacouti\u00e9",
+                    "Eleanor McDowell"
+                ],
                 "ORG": [
                     "Blackness",
                     "Axel",
-                    "BBC Radio 4",
-                    "Shortcuts"
+                    "BBC Radio 4, Shortcuts"
                 ]
             }
         },
@@ -159,6 +158,7 @@
             "entities": {
                 "PERSON": [
                     "Axel Kacouti\u00e9",
+                    "home.</p",
                     "Emily Dickinson's"
                 ],
                 "ORG": [
@@ -243,12 +243,8 @@
                     "two days",
                     "July"
                 ],
-                "CARDINAL": [
-                    "em><a"
-                ],
                 "PERSON": [
-                    "Aliya Pabani",
-                    "Allie Graham.</p>\r\n      "
+                    "Allie"
                 ]
             }
         },
@@ -276,7 +272,7 @@
             "pubDate": "Wed, 30 Dec 2020 20:42:19 -0000",
             "title": "Hurricane Boyfriend",
             "entities": {
-                "ORG": [
+                "PERSON": [
                     "Mitra Kaboli"
                 ],
                 "DATE": [
@@ -312,11 +308,11 @@
             "title": "EMDR",
             "entities": {
                 "PERSON": [
-                    "James T Green"
+                    "James T Green",
+                    "James"
                 ],
-                "ORG": [
-                    "C\u2019ne Rohlsen",
-                    "href=\"https://www.theheartradio.org"
+                "WORK_OF_ART": [
+                    "target=\"_blank\">Molten &lt;3</a>.</p>\n\n<p"
                 ]
             }
         },
@@ -351,23 +347,18 @@
             "pubDate": "Wed, 02 Dec 2020 08:00:00 -0000",
             "title": "e4e: stop living on video",
             "entities": {
-                "GPE": [
-                    "Mara"
-                ],
                 "PERSON": [
+                    "Mara",
                     "Mara Lazer",
-                    "Phoebe Unter"
+                    "Phoebe Unter",
+                    "Kaitlin Prest.</p"
                 ],
                 "ORG": [
-                    "Nicole Kelly &",
-                    "Kaitlin"
+                    "Nicole Kelly &"
                 ],
                 "CARDINAL": [
                     "2",
                     "two"
-                ],
-                "NORP": [
-                    "e4e"
                 ]
             }
         },
@@ -402,24 +393,22 @@
             "pubDate": "Wed, 18 Nov 2020 08:00:00 -0000",
             "title": "e4e: chasing purple",
             "entities": {
+                "PERSON": [
+                    "Ari",
+                    "Mejia",
+                    "Phoebe Unter",
+                    "Kaitlin Prest.</p",
+                    "Ari"
+                ],
                 "DATE": [
                     "years later"
                 ],
                 "ORG": [
-                    "Mejia",
-                    "Nicole Kelly &",
-                    "Kaitlin"
-                ],
-                "PERSON": [
-                    "Phoebe Unter",
-                    "Ari"
+                    "Nicole Kelly &"
                 ],
                 "CARDINAL": [
                     "1",
                     "two"
-                ],
-                "NORP": [
-                    "e4e"
                 ]
             }
         },
@@ -457,20 +446,18 @@
                 "NORP": [
                     "Musician"
                 ],
+                "ORG": [
+                    "Scientist",
+                    "CBC Radio"
+                ],
                 "CARDINAL": [
                     "39.</p"
-                ],
-                "WORK_OF_ART": [
-                    "Love"
                 ],
                 "PERSON": [
                     "Michelle Parise",
                     "Michelle Parise",
-                    "Veronica"
-                ],
-                "ORG": [
-                    "CBC Radio",
-                    "Kaitlin"
+                    "Veronica Simmonds.</p",
+                    "Kaitlin Prest.</p"
                 ]
             }
         },
@@ -509,17 +496,14 @@
                     "the years"
                 ],
                 "ORG": [
-                    "Vinh-Paul Ha",
-                    "Kaitlin"
+                    "Vinh-Paul Ha"
                 ],
                 "NORP": [
                     "Asian"
                 ],
                 "PERSON": [
-                    "Nicole Kelly"
-                ],
-                "GPE": [
-                    "href=\"https://mysticdadde.substack.com/"
+                    "Nicole Kelly",
+                    "Kaitlin Prest.</p"
                 ]
             }
         },
@@ -554,12 +538,16 @@
             "pubDate": "Wed, 07 Oct 2020 07:00:00 -0000",
             "title": "One: sometimes it's lonelier in relationships",
             "entities": {
+                "GPE": [
+                    "Kamala"
+                ],
                 "PERSON": [
                     "Kamala Puligandla",
                     "Phoebe Unter",
                     "Nicole Kelly",
                     "Kaitlin Prest",
-                    "Kamala"
+                    "Kamala",
+                    "Zigzags</em"
                 ],
                 "ORG": [
                     "Autostraddle.com"
@@ -606,17 +594,16 @@
             "pubDate": "Wed, 30 Sep 2020 07:00:00 -0000",
             "title": "Voices",
             "entities": {
+                "PERSON": [
+                    "Melanie",
+                    "Sharon Mashihi",
+                    "Mermaid Palace"
+                ],
                 "ORDINAL": [
                     "first"
                 ],
                 "DATE": [
                     "9 years"
-                ],
-                "PERSON": [
-                    "Sharon Mashihi"
-                ],
-                "FAC": [
-                    "Mermaid Palace"
                 ]
             }
         },
@@ -653,11 +640,9 @@
                 "PERSON": [
                     "Melanie Barzadeh",
                     "Sharon Mashihi.</p",
-                    "Sharon"
-                ],
-                "ORG": [
                     "Kaitlin Prest",
-                    "Man Choubam"
+                    "Sharon",
+                    "Choubam"
                 ],
                 "DATE": [
                     "2017"
@@ -694,15 +679,12 @@
             "pubDate": "Wed, 02 Sep 2020 07:00:00 -0000",
             "title": "Rite of Passage",
             "entities": {
-                "ORG": [
-                    "Spark",
-                    "&"
-                ],
-                "LOC": [
-                    "art.</p"
+                "GPE": [
+                    "Spark"
                 ],
                 "PERSON": [
-                    "Chiquita Paschal.</p"
+                    "Chiquita Paschal",
+                    "Chiquita Paschal.</p>"
                 ]
             }
         },
@@ -746,16 +728,17 @@
                     "Kaitlin Prest",
                     "Meghan Gordon &",
                     "Meesh &",
-                    "Mercury"
+                    "Mercury",
+                    "Angela"
                 ],
                 "CARDINAL": [
                     "two"
                 ],
                 "PERSON": [
                     "Nicole Kelly",
+                    "Neon Touch",
                     "Angela Penaredondo",
-                    "Meghan",
-                    "Angela"
+                    "Meghan"
                 ]
             }
         },
@@ -791,6 +774,9 @@
             "pubDate": "Wed, 05 Aug 2020 07:00:00 -0000",
             "title": "Coming This Fall",
             "entities": {
+                "WORK_OF_ART": [
+                    "Fall"
+                ],
                 "DATE": [
                     "August 12",
                     "Wednesday"
@@ -800,12 +786,11 @@
                     "Kamala Puligandla",
                     "Ari Mejia",
                     "Mara Lazer",
-                    "Phoebe Unter"
+                    "Phoebe Unter",
+                    "Kaitlin Prest.</p"
                 ],
                 "ORG": [
-                    "Vinh-Paul Ha",
-                    "Nicole Kelly &",
-                    "Kaitlin"
+                    "Nicole Kelly &"
                 ]
             }
         },
@@ -843,25 +828,28 @@
                 "CARDINAL": [
                     "3",
                     "3",
+                    "one",
                     "two"
                 ],
+                "ORG": [
+                    "Audio Smut",
+                    "Meg Frances",
+                    "Kaitlin Prest",
+                    "Audio Smut",
+                    "Phoebe Unter"
+                ],
                 "DATE": [
-                    "summer",
                     "2012",
                     "2013"
                 ],
+                "GPE": [
+                    "Montreal"
+                ],
                 "PERSON": [
-                    "Audio Smut",
+                    "Mitra Kaboli",
                     "Jen Ng",
                     "Ray Dooley",
-                    "Phoebe Unter",
-                    "Nicole Kelly.</p>\r\n      "
-                ],
-                "ORG": [
-                    "Meg Frances",
-                    "CKUT 90.3 FM",
-                    "Kaitlin Prest",
-                    "Mitra Kaboli"
+                    "Nicole Kelly.</p"
                 ]
             }
         },
@@ -897,6 +885,11 @@
             "pubDate": "Wed, 15 Jul 2020 07:00:00 -0000",
             "title": "Swelter: A Scheme",
             "entities": {
+                "PERSON": [
+                    "Gina Gold",
+                    "Nicole Kelly",
+                    "Gina Gold"
+                ],
                 "ORDINAL": [
                     "first"
                 ],
@@ -905,15 +898,11 @@
                     "3"
                 ],
                 "DATE": [
-                    "summer",
                     "2015"
                 ],
                 "ORG": [
-                    "Kaitlin Prest"
-                ],
-                "PERSON": [
-                    "Phoebe Unter",
-                    "Nicole Kelly"
+                    "Kaitlin Prest",
+                    "Phoebe Unter"
                 ]
             }
         },
@@ -952,15 +941,16 @@
                     "1",
                     "3"
                 ],
-                "DATE": [
-                    "summer"
+                "PERSON": [
+                    "Zenaida Cohen</p",
+                    "Nicole Kelly"
                 ],
                 "ORG": [
                     "href=\"https://venmo.com",
-                    "href=\"https://www.instagram.com"
+                    "Phoebe Unter.</p"
                 ],
-                "PERSON": [
-                    "Nicole Kelly"
+                "WORK_OF_ART": [
+                    "target=\"_blank\">Support Yocheved Zenaida Cohen</a></p>\n\n<p>Produced &amp"
                 ]
             }
         },
@@ -995,17 +985,15 @@
             "pubDate": "Wed, 17 Jun 2020 07:00:00 -0000",
             "title": "Race Traitor: betray white fathers",
             "entities": {
-                "ORG": [
-                    "Stephanie",
-                    "Kaitlin"
+                "PERSON": [
+                    "Stephanie Hofeller.</p",
+                    "Phoebe Unter",
+                    "Sharon Mashihi",
+                    "Kaitlin Prest.</p"
                 ],
                 "CARDINAL": [
                     "4",
                     "4"
-                ],
-                "PERSON": [
-                    "Phoebe Unter",
-                    "Sharon Mashihi"
                 ]
             }
         },
@@ -1040,16 +1028,17 @@
             "pubDate": "Wed, 03 Jun 2020 07:00:00 -0000",
             "title": "Race Traitor: what makes a mom a white mom?",
             "entities": {
+                "GPE": [
+                    "Phoebe"
+                ],
                 "CARDINAL": [
                     "3",
                     "4"
                 ],
                 "PERSON": [
                     "Phoebe Unter",
-                    "Sharon Mashihi"
-                ],
-                "ORG": [
-                    "Kaitlin"
+                    "Sharon Mashihi",
+                    "Kaitlin Prest.</p"
                 ]
             }
         },
@@ -1088,7 +1077,6 @@
                     "Phoebe",
                     "Phoebe Unter",
                     "Sharon Mashihi",
-                    "Kaitlin Prest",
                     "Kamala Puligandla.</p"
                 ],
                 "CARDINAL": [
@@ -1096,6 +1084,7 @@
                     "4"
                 ],
                 "ORG": [
+                    "Kaitlin Prest",
                     "Nicole Kelly &"
                 ]
             }
@@ -1140,10 +1129,8 @@
                 ],
                 "PERSON": [
                     "Phoebe Unter",
-                    "Sharon Mashihi"
-                ],
-                "ORG": [
-                    "Kaitlin"
+                    "Sharon Mashihi",
+                    "Kaitlin Prest.</p"
                 ]
             }
         },
@@ -1185,7 +1172,7 @@
                 "GPE": [
                     "Los Angeles"
                 ],
-                "ORG": [
+                "LOC": [
                     "Instagram"
                 ]
             }
@@ -1222,8 +1209,10 @@
             "title": "Mardi Gras Is a State of Mind",
             "entities": {
                 "ORG": [
-                    "Mara Lazer &",
-                    "Kaitlin"
+                    "Mara Lazer &"
+                ],
+                "PERSON": [
+                    "Kaitlin Prest.</p"
                 ]
             }
         },
@@ -1260,11 +1249,11 @@
             "title": "Divesting From People Pleasing: Affirmation",
             "entities": {
                 "PERSON": [
-                    "Thema Bryant-Davis",
-                    "Kaitlin Prest"
+                    "Thema Bryant-Davis"
                 ],
                 "ORG": [
-                    "Nicole Kelly &"
+                    "Nicole Kelly &",
+                    "Kaitlin Prest"
                 ]
             }
         },
@@ -1300,8 +1289,14 @@
             "pubDate": "Wed, 11 Mar 2020 07:00:00 -0000",
             "title": "Asking For It ",
             "entities": {
+                "PERSON": [
+                    "Meet Goldie"
+                ],
                 "CARDINAL": [
                     "1"
+                ],
+                "NORP": [
+                    "Mermaid"
                 ]
             }
         },
@@ -1343,10 +1338,8 @@
                 ],
                 "PERSON": [
                     "Nicole Kelly",
-                    "Chiquita Paschal"
-                ],
-                "ORG": [
-                    "Kaitlin"
+                    "Chiquita Paschal",
+                    "Kaitlin Prest.</p"
                 ]
             }
         },
@@ -1388,10 +1381,8 @@
                 ],
                 "PERSON": [
                     "Nicole Kelly",
-                    "Chiquita Paschal"
-                ],
-                "ORG": [
-                    "Kaitlin"
+                    "Chiquita Paschal",
+                    "Kaitlin Prest.</p"
                 ]
             }
         },
@@ -1433,10 +1424,8 @@
                 ],
                 "PERSON": [
                     "Nicole Kelly",
-                    "Chiquita Paschal"
-                ],
-                "ORG": [
-                    "Kaitlin"
+                    "Chiquita Paschal",
+                    "Kaitlin Prest.</p"
                 ]
             }
         },
@@ -1471,7 +1460,11 @@
             "link": "https://beta.prx.org/stories/301203",
             "pubDate": "Wed, 15 Jan 2020 08:00:00 -0000",
             "title": "Lesbian Separatism Is Inevitable",
-            "entities": {}
+            "entities": {
+                "GPE": [
+                    "Phoebe"
+                ]
+            }
         },
         {
             "content": "\r\n        <p><strong>After a long break, The Heart is starting up again.\u00a0 Since we left, the world has changed. And we\u2019ve changed too.\u00a0</strong></p>\n\n<p><strong>At the core of the new Heart are artists Nicole Kelly and Phoebe Unter. Phoebe and NK started making a podcast called <em>bitchface</em> in 2016. They make transformative media that sets out to</strong> <strong>change how people see the world and themselves. Stories about power and love, about intimacy and humanity.\u00a0</strong></p>\n\n<p><strong>Together with host Kaitlin Prest, editors Sharon Mashihi and Chiquita Pascal, they will produce The new Heart.</strong></p>\n\n<p><strong>From Radiotopia and Mermaid Palace.</strong></p>\r\n      ",
@@ -1501,16 +1494,19 @@
                 "PERSON": [
                     "Nicole Kelly",
                     "Phoebe Unter",
+                    "bitchface</em",
                     "Kaitlin Prest",
                     "Sharon Mashihi",
                     "Chiquita Pascal",
-                    "Mermaid Palace.</strong></p>\r\n      "
+                    "Mermaid Palace.</strong></p"
+                ],
+                "GPE": [
+                    "Phoebe"
                 ],
                 "DATE": [
                     "2016"
                 ],
                 "ORG": [
-                    "Heart.</strong></p",
                     "Radiotopia"
                 ]
             }
@@ -1552,20 +1548,19 @@
                     "Mooj Zadie",
                     "Drew Denny",
                     "Christina Gaillard",
+                    "Kaitlin Prest.</p",
                     "Jen Ng",
                     "Mo LaBorde",
                     "Allie Pinel",
                     "Chiquita Paschal",
+                    "AJ Moultrie",
                     "Sarah Rose",
                     "Allison Light",
                     "Caitlin Thompson",
                     "Rider Alsop",
                     "Alexandria Fisk",
-                    "Jenna Weiss",
+                    "Jenna Weiss Berman.</p",
                     "Jen Ng"
-                ],
-                "GPE": [
-                    "Kaitlin Prest.</p"
                 ],
                 "ORG": [
                     "Bianca Grimshaw"
@@ -1599,11 +1594,8 @@
             "pubDate": "Tue, 04 Dec 2018 18:05:56 -0000",
             "title": "Love Me: To My Heart",
             "entities": {
-                "ORG": [
-                    "Cristal Duhaime",
-                    "href=\"https://twitter.com"
-                ],
                 "PERSON": [
+                    "Cristal Duhaime",
                     "Mira Burt-Wintonick"
                 ],
                 "DATE": [
@@ -1611,6 +1603,9 @@
                 ],
                 "FAC": [
                     "Guantanamo"
+                ],
+                "ORG": [
+                    "href=\"https://twitter.com"
                 ]
             }
         },
@@ -1645,14 +1640,16 @@
                     "6"
                 ],
                 "WORK_OF_ART": [
-                    "Shadows"
+                    "The Shadows",
+                    "target=\"_blank\">Subscribe to The Shadows</a"
                 ],
                 "ORG": [
                     "Kaitlin Prest",
-                    "CBC"
+                    "CBC",
+                    "Insta / Twitter"
                 ],
-                "PERSON": [
-                    "Insta"
+                "PRODUCT": [
+                    "href=\"http://hyperurl.co/5yjm07"
                 ]
             }
         },
@@ -1683,10 +1680,12 @@
             "pubDate": "Wed, 29 Aug 2018 16:49:02 -0000",
             "title": "KP + CBC Present: The Shadows",
             "entities": {
+                "WORK_OF_ART": [
+                    "Shadows"
+                ],
                 "ORG": [
                     "Kaitlin Prest",
-                    "CBC Podcasts",
-                    "September.</p"
+                    "CBC Podcasts"
                 ]
             }
         },
@@ -1721,32 +1720,34 @@
             "entities": {
                 "ORG": [
                     "Kaitlin",
-                    "Mitra Kaboli",
-                    "Veronica Simmonds"
+                    "KP",
+                    "Meg Bell"
                 ],
                 "PERSON": [
                     "Kaitlin Prest",
                     "Phoebe Wang",
+                    "Mitra Kaboli",
                     "Phoebe Wang",
                     "Jen Ng",
                     "Sharon Mashihi",
                     "Samara Breger",
-                    "Meg Bell",
                     "Jessica Grosman",
                     "Pejk Malinovski",
                     "Sean Cole",
                     "Lulu Miller",
+                    "Veronica Simmonds",
                     "Johnny Spence",
                     "Nancy Prest",
                     "Natalie Prest",
                     "Allen Watts",
+                    "Brendan Baker.</p",
                     "Inne Eysermans"
                 ],
-                "GPE": [
-                    "KP",
-                    "Brendan",
-                    "Katharina",
-                    "KP"
+                "LOC": [
+                    "the moon"
+                ],
+                "NORP": [
+                    "Katharina"
                 ]
             }
         },
@@ -1784,8 +1785,7 @@
                     "2018"
                 ],
                 "WORK_OF_ART": [
-                    "target=\"_blank\">~*",
-                    "The Secret Link *~</a></p>\r\n      "
+                    "The Secret Link *"
                 ]
             }
         },
@@ -1856,6 +1856,8 @@
             "title": "God + The Gays",
             "entities": {
                 "PERSON": [
+                    "Phoebe",
+                    "Jesus",
                     "Phoebe"
                 ],
                 "NORP": [
@@ -1934,8 +1936,7 @@
                 "GPE": [
                     "Seattle",
                     "WA",
-                    "Seattle",
-                    "necessary.</p"
+                    "Seattle"
                 ],
                 "ORG": [
                     "QTPOC"
@@ -1978,10 +1979,11 @@
             "title": "A Woman on the Road is Alone",
             "entities": {
                 "PERSON": [
-                    "Vanessa Veselka"
-                ],
-                "GPE": [
+                    "Vanessa Veselka",
                     "Vegas"
+                ],
+                "ORG": [
+                    "F"
                 ]
             }
         },
@@ -2014,30 +2016,29 @@
             "pubDate": "Tue, 19 Sep 2017 18:54:06 -0000",
             "title": "Bodies: Goddess",
             "entities": {
+                "PERSON": [
+                    "Maria",
+                    "Mitra",
+                    "Maria",
+                    "Maria",
+                    "Maria",
+                    "Maria",
+                    "UTF8&amp;qid=1505432462",
+                    "Maria",
+                    "Maria"
+                ],
                 "GPE": [
                     "Houston",
                     "Texas"
                 ],
-                "NORP": [
+                "ORG": [
                     "Mitra"
                 ],
                 "DATE": [
                     "a few days"
                 ],
-                "PERSON": [
-                    "Maria\u2019s",
-                    "Maria",
-                    "Maria\u2019s",
-                    "Maria",
-                    "Confessions Vol 1</a",
-                    "Maria\u2019s"
-                ],
-                "ORG": [
-                    "a9_sc_1?rh",
-                    "UTF8&amp;qid=1505432462"
-                ],
                 "WORK_OF_ART": [
-                    "target=\"_blank\">The National Women with Disabilities Empowerment"
+                    "target=\"_blank\">Poetic Confessions Vol 1</a"
                 ]
             }
         },
@@ -2112,16 +2113,12 @@
             "entities": {
                 "PERSON": [
                     "Jonathan Zenti",
-                    "James L. Knight Foundation.</p>\r\n      "
+                    "the John S.",
+                    "James L."
                 ],
                 "ORG": [
-                    "Radiotopia\u2019s Podquest"
-                ],
-                "PRODUCT": [
+                    "Radiotopia\u2019s Podquest",
                     "PRX"
-                ],
-                "FAC": [
-                    "the John S."
                 ]
             }
         },
@@ -2155,6 +2152,7 @@
             "title": "Bodies: It\u2019s not me it\u2019s you",
             "entities": {
                 "PERSON": [
+                    "Abigail",
                     "Abigail"
                 ]
             }
@@ -2186,7 +2184,9 @@
             "title": "People Who Need People",
             "entities": {
                 "GPE": [
-                    "Samara",
+                    "Samara"
+                ],
+                "ORG": [
                     "Kelsey"
                 ],
                 "PERSON": [
@@ -2221,14 +2221,15 @@
             "title": "Doing Time",
             "entities": {
                 "ORG": [
-                    "Radiotopia",
-                    "Kathleen"
-                ],
-                "DATE": [
-                    "early 2000"
+                    "Radiotopia"
                 ],
                 "PERSON": [
-                    "Dee LaComte.</p>\r\n      "
+                    "Doing Time",
+                    "Kathleen",
+                    "Dee LaComte.</p"
+                ],
+                "DATE": [
+                    "the early 2000\u2019s"
                 ]
             }
         },
@@ -2261,6 +2262,11 @@
             "pubDate": "Wed, 14 Jun 2017 04:49:45 -0000",
             "title": "No: Questions",
             "entities": {
+                "PERSON": [
+                    "Episode",
+                    "consent?</em",
+                    "Samara Breger"
+                ],
                 "CARDINAL": [
                     "Four",
                     "three"
@@ -2268,8 +2274,8 @@
                 "ORDINAL": [
                     "first"
                 ],
-                "PERSON": [
-                    "Samara Breger"
+                "ORG": [
+                    "DOES"
                 ]
             }
         },
@@ -2302,13 +2308,12 @@
             "pubDate": "Wed, 07 Jun 2017 02:21:44 -0000",
             "title": "No: Answers",
             "entities": {
-                "CARDINAL": [
-                    "Three",
-                    "one"
-                ],
                 "ORG": [
                     "Kaitlin",
                     "Kaitlin"
+                ],
+                "CARDINAL": [
+                    "one"
                 ]
             }
         },
@@ -2381,9 +2386,6 @@
             "pubDate": "Wed, 10 May 2017 00:25:17 -0000",
             "title": "No: Advance",
             "entities": {
-                "CARDINAL": [
-                    "One"
-                ],
                 "PERSON": [
                     "Kaitlin"
                 ],
@@ -2456,9 +2458,6 @@
             "pubDate": "Tue, 04 Apr 2017 20:29:48 -0000",
             "title": "First Comes Marriage",
             "entities": {
-                "NORP": [
-                    "Western"
-                ],
                 "ORG": [
                     "Harvard"
                 ],
@@ -2467,9 +2466,6 @@
                 ],
                 "TIME": [
                     "15 minutes"
-                ],
-                "DATE": [
-                    "our upcoming season"
                 ]
             }
         },
@@ -2502,17 +2498,19 @@
             "pubDate": "Mon, 20 Feb 2017 07:00:23 -0000",
             "title": "Pansy: Local Honey",
             "entities": {
-                "ORG": [
-                    "Honey",
-                    "href=\"http://cargocollective.com"
-                ],
-                "GPE": [
-                    "New Orleans"
-                ],
                 "PERSON": [
                     "Local Honey",
                     "Julia Alsop",
                     "Cassie Wagler"
+                ],
+                "GPE": [
+                    "New Orleans"
+                ],
+                "ORG": [
+                    "href=\"http://cargocollective.com"
+                ],
+                "WORK_OF_ART": [
+                    "target=\"_blank\">Local Honey</a"
                 ]
             }
         },
@@ -2546,13 +2544,21 @@
             "title": "Pansy: The Beloved",
             "entities": {
                 "PERSON": [
-                    "Allen\u2019s",
+                    "Allen",
                     "Allen J. Watts",
-                    "Julia Alsop",
-                    "Cassie Wagler.</p"
+                    "Julia Alsop"
+                ],
+                "NORP": [
+                    "meditation.</p"
                 ],
                 "CARDINAL": [
                     "3"
+                ],
+                "DATE": [
+                    "A season"
+                ],
+                "ORG": [
+                    "Cassie Wagler.</p"
                 ]
             }
         },
@@ -2586,19 +2592,22 @@
             "title": "Pansy: Ultraslut",
             "entities": {
                 "PERSON": [
+                    "Blake",
                     "Korry",
-                    "Kaitlin",
+                    "Korry",
+                    "Blake",
+                    "Blake",
+                    "Korry",
+                    "Korry",
                     "Julia Alsop",
                     "Cassie Wagler"
                 ],
                 "ORG": [
-                    "Blake",
-                    "Korry"
+                    "Kaitlin"
                 ],
                 "CARDINAL": [
                     "one",
-                    "2",
-                    "4"
+                    "2"
                 ],
                 "WORK_OF_ART": [
                     "Pansy"
@@ -2634,18 +2643,17 @@
             "pubDate": "Wed, 11 Jan 2017 06:33:40 -0000",
             "title": "Pansy: Twirl",
             "entities": {
-                "ORG": [
-                    "Kaitlin"
+                "PERSON": [
+                    "Kaitlin",
+                    "Julia Alsop",
+                    "Cassie Wagler",
+                    "Julia Serrano.</p"
                 ],
                 "CARDINAL": [
                     "1"
                 ],
                 "WORK_OF_ART": [
                     "Pansy"
-                ],
-                "PERSON": [
-                    "Julia Alsop",
-                    "Cassie Wagler"
                 ]
             }
         },
@@ -2681,6 +2689,10 @@
                 ],
                 "PERSON": [
                     "Rhonda"
+                ],
+                "DATE": [
+                    "their entire day",
+                    "the day"
                 ],
                 "LOC": [
                     "South"
@@ -2722,34 +2734,36 @@
             "pubDate": "Wed, 23 Nov 2016 17:41:38 -0000",
             "title": "Mariya \u2013 Extended Cut",
             "entities": {
-                "PERSON": [
-                    "Mariya Karimjee",
-                    "Brendan Baker",
-                    "Allen Watts",
-                    "Kelsey Padgett",
-                    "Samara Breger"
-                ],
                 "ORG": [
+                    "Mariya Karimjee",
                     "href=\"http://www.theheartradio.org",
                     "Mariya",
-                    "href=\"https://thebigroundtable.com/damage-7e7b16c9814e#.rvdwxka0y",
+                    "the Gold Award",
+                    "href=\"https://thebigroundtable.com",
                     "Nadia Bajwa"
                 ],
                 "DATE": [
-                    "May 2016",
-                    "episode/586"
+                    "May 2016"
                 ],
-                "LAW": [
-                    "the Gold Award (Best Documentary"
+                "WORK_OF_ART": [
+                    "Mariya"
                 ],
-                "FAC": [
+                "LOC": [
                     "the Third Coast International Audio"
                 ],
+                "FAC": [
+                    "Mariya Karimjee"
+                ],
                 "GPE": [
-                    "Karimjee",
                     "Karachi",
-                    "Pakistan",
-                    "Kari"
+                    "Pakistan"
+                ],
+                "PERSON": [
+                    "Brendan Baker",
+                    "Allen Watts",
+                    "Kelsey Padgett",
+                    "Samara Breger",
+                    "Kari June.</p"
                 ],
                 "NORP": [
                     "American"
@@ -2784,15 +2798,18 @@
             "title": "Love, Harry",
             "entities": {
                 "PERSON": [
-                    "Harry",
                     "Sharon",
-                    "Years",
+                    "Harry",
+                    "Kaitlin",
+                    "Sharon",
+                    "Kaitlin",
                     "Sharon Mashihi",
                     "Audio"
                 ],
+                "DATE": [
+                    "Years"
+                ],
                 "ORG": [
-                    "Kaitlin",
-                    "Kaitlin",
                     "Kaitlin",
                     "Kaitlin Prest",
                     "href=\"http://www.theheartradio.org"
@@ -2865,17 +2882,20 @@
             "title": "Diaries: My Everything, My Bear",
             "entities": {
                 "PERSON": [
-                    "Alex saved",
-                    "Alex DiFrancesco\u2019s"
+                    "Alex",
+                    "Alex DiFrancesco\u2019s",
+                    "kin</em"
                 ],
                 "GPE": [
                     "Ohio",
-                    "The Carolina"
+                    "Julia"
                 ],
                 "ORG": [
                     "href=\"https://twitter.com",
-                    "The New Ohio Review",
-                    "UTF8&amp;noEncodingTag=1&amp;qid=1422649392&amp;redirectFromSS=1&amp;ref</em>=tmm"
+                    "The New Ohio Review"
+                ],
+                "WORK_OF_ART": [
+                    "target=\"_blank\">Alex DiFrancesco</a>"
                 ],
                 "DATE": [
                     "Quarterly"
@@ -2920,17 +2940,15 @@
             "title": "Diaries: Mortified",
             "entities": {
                 "ORG": [
-                    "Radiotopia",
-                    "Mortified",
-                    "lyrics &"
+                    "Radiotopia"
                 ],
                 "PERSON": [
+                    "Mortified Podcast</a",
                     "Dave Nadelberg",
                     "Mortified",
-                    "Leslie McLean"
-                ],
-                "WORK_OF_ART": [
-                    "How Not to Masturbate (and Other Hollow Victories).\u201d</p>\r\n      "
+                    "Leslie McLean",
+                    "Episode",
+                    "Masturbate"
                 ]
             }
         },
@@ -2963,6 +2981,9 @@
             "pubDate": "Thu, 08 Sep 2016 01:12:59 -0000",
             "title": "Diaries: No Way Out",
             "entities": {
+                "ORG": [
+                    "Ashley\u2019s Livejournal"
+                ],
                 "DATE": [
                     "the early 2000s"
                 ],
@@ -3004,19 +3025,24 @@
             "title": "Diaries: The Big House",
             "entities": {
                 "PERSON": [
-                    "Tina Horn\u2019s",
+                    "Tina Horn",
                     "David Duchovny",
+                    "Tina Horn",
                     "Tina",
+                    "Literary Fellow",
                     "Porn Awards"
                 ],
                 "ORG": [
                     "Diaries"
                 ],
-                "GPE": [
-                    "Tina Horn"
+                "DATE": [
+                    "season"
                 ],
                 "CARDINAL": [
                     "two"
+                ],
+                "GPE": [
+                    "Tina"
                 ]
             }
         },
@@ -3051,22 +3077,23 @@
             "entities": {
                 "PERSON": [
                     "Molly Osberg",
+                    "Amelia",
                     "Allen Watts",
                     "John Walker"
                 ],
                 "DATE": [
-                    "2007"
+                    "2007",
+                    "season"
                 ],
                 "CARDINAL": [
                     "one"
                 ],
-                "ORG": [
-                    "Amelia",
-                    "Diaries",
-                    "Amelia.</p"
-                ],
-                "NORP": [
+                "GPE": [
+                    "Molly",
                     "Amelia"
+                ],
+                "ORG": [
+                    "Diaries"
                 ]
             }
         },
@@ -3096,17 +3123,18 @@
             "pubDate": "Tue, 19 Jul 2016 22:23:18 -0000",
             "title": "The Understudy",
             "entities": {
+                "ORG": [
+                    "Sophie Townsend",
+                    "Sophie"
+                ],
                 "DATE": [
                     "a year and a half"
                 ],
                 "PERSON": [
                     "Andy Leonard"
                 ],
-                "PRODUCT": [
-                    "Love Me</a"
-                ],
-                "ORG": [
-                    "Sophie"
+                "WORK_OF_ART": [
+                    "Love"
                 ]
             }
         },
@@ -3138,15 +3166,13 @@
             "entities": {
                 "ORG": [
                     "Sophie Townsend",
-                    "Sophie Townsend"
+                    "Sophie Townsend",
+                    "Hearsay International Audio"
                 ],
                 "PERSON": [
                     "Anna",
                     "Fix",
                     "Marty Peralta"
-                ],
-                "WORK_OF_ART": [
-                    "target=\"_blank\">The Hearsay International Audio"
                 ]
             }
         },
@@ -3182,26 +3208,24 @@
                 "CARDINAL": [
                     "four",
                     "one",
-                    "three",
-                    "Silence.</p"
+                    "three"
                 ],
                 "ORG": [
                     "Silent Evidence",
-                    "Silent Evidence",
-                    "Kaitlin",
-                    "target=\"_blank\">Silent Evidence.</a></p",
-                    "Mitra Kaboli"
-                ],
-                "DATE": [
-                    "mini-season"
+                    "IWMF"
                 ],
                 "GPE": [
+                    "Kaitlin",
                     "Tennessee"
+                ],
+                "NORP": [
+                    "Restorative"
                 ],
                 "PERSON": [
                     "Tennessee Watson",
                     "Kaitlin Prest",
                     "Sharon Mashihi",
+                    "Mitra Kaboli",
                     "Ashley Cortez",
                     "Howard G. Buffett Fund"
                 ]
@@ -3246,10 +3270,9 @@
                 ],
                 "ORG": [
                     "Silent Evidence",
-                    "Norton",
+                    "Detective Kimberly Norton",
                     "Detective Norton",
-                    "target=\"_blank\">Silent Evidence.</a></p",
-                    "Mitra Kaboli"
+                    "IWMF"
                 ],
                 "GPE": [
                     "Tennessee",
@@ -3263,10 +3286,11 @@
                     "Tennessee Watson",
                     "Kaitlin Prest",
                     "Sharon Mashihi",
+                    "Mitra Kaboli",
                     "Jocelyn Frank",
                     "Ashley Cortez",
                     "Pejk Malinovski",
-                    "Matthew Daher.<br><br>",
+                    "Matthew Daher.<br><br",
                     "Howard G. Buffett Fund"
                 ]
             }
@@ -3306,17 +3330,19 @@
                     "two"
                 ],
                 "ORG": [
-                    "Silent Evidence"
+                    "Silent Evidence",
+                    "IWMF"
+                ],
+                "PERSON": [
+                    "Episode",
+                    "Youseffi",
+                    "Tennessee Watson",
+                    "Kaitlin Prest",
+                    "Sharon"
                 ],
                 "GPE": [
                     "Tennessee",
                     "Tennessee"
-                ],
-                "PERSON": [
-                    "Youseffi",
-                    "Tennessee Watson",
-                    "Kaitlin Prest",
-                    "Sharon Mashihi.<br><br>\n"
                 ]
             }
         },
@@ -3351,23 +3377,22 @@
             "entities": {
                 "ORG": [
                     "Silent Evidence",
-                    "Silent Evidence"
+                    "IWMF"
                 ],
                 "CARDINAL": [
                     "one",
-                    "seven",
-                    "one"
+                    "seven"
+                ],
+                "PERSON": [
+                    "Tennessee Watson",
+                    "Tennessee Watson",
+                    "Kaitlin Prest",
+                    "Sharon"
                 ],
                 "GPE": [
                     "Tennessee",
-                    "Tennessee",
+                    "Silent Evidence",
                     "Tennessee"
-                ],
-                "PERSON": [
-                    "Watson",
-                    "Tennessee Watson",
-                    "Kaitlin Prest",
-                    "Sharon Mashihi.<br><br>\n"
                 ]
             }
         },
@@ -3408,19 +3433,20 @@
                     "Brendan Baker",
                     "Allen Watts",
                     "Kelsey Padgett",
-                    "Samara Breger"
+                    "Samara Breger",
+                    "Kari June.</p"
                 ],
                 "GPE": [
                     "Pakistan",
                     "Texas",
                     "Pakistan",
-                    "Karimjee",
                     "Karachi",
-                    "Pakistan",
-                    "Kari"
+                    "Pakistan"
+                ],
+                "FAC": [
+                    "Mariya Karimjee"
                 ],
                 "ORG": [
-                    "href=\"http://www.thebigroundtable.com",
                     "Nadia Bajwa"
                 ],
                 "NORP": [
@@ -3493,20 +3519,22 @@
                 "PERSON": [
                     "Kari",
                     "Kari",
-                    "Brian",
+                    "Kari",
                     "Kari",
                     "Brian",
                     "Kari",
-                    "her.</p"
-                ],
-                "ORDINAL": [
-                    "first"
+                    "Brian",
+                    "Kari"
                 ],
                 "ORG": [
                     "Violet",
-                    "Kari\u2019s",
+                    "Violet",
+                    "Violet",
                     "Violet",
                     "Violet"
+                ],
+                "ORDINAL": [
+                    "first"
                 ]
             }
         },
@@ -3543,7 +3571,7 @@
                     "BBC"
                 ],
                 "PERSON": [
-                    "Sharon Mashihi.</p>\r\n      "
+                    "Sharon Mashihi.</p"
                 ]
             }
         },
@@ -3579,19 +3607,18 @@
                 "PERSON": [
                     "Carter",
                     "Frankie",
+                    "Alex",
                     "Carter has.</p",
                     "Dane Stewart",
                     "Katie Hill",
                     "Matthew Kariatsumari",
                     "Michelle Macklem",
                     "Ren\u00e9e Hodgins",
-                    "Emily Skahan"
+                    "Emily Skahan",
+                    "Mira Burt-Wintonick.</p"
                 ],
                 "DATE": [
-                    "present-day first date"
-                ],
-                "ORG": [
-                    "Alex"
+                    "a present-day first date"
                 ]
             }
         },
@@ -3625,12 +3652,12 @@
             "title": "Ghost: Bobby",
             "entities": {
                 "WORK_OF_ART": [
-                    "The Hearsay"
+                    "The Hearsay Audio Festival</em"
                 ],
                 "PERSON": [
                     "Kelsey Padgett",
                     "A.C. Valdez",
-                    "Allen Watts.</p>"
+                    "Allen"
                 ]
             }
         },
@@ -3661,8 +3688,14 @@
             "pubDate": "Wed, 20 Jan 2016 00:44:54 -0000",
             "title": "The Wrath of the Potluck",
             "entities": {
+                "PERSON": [
+                    "Devon",
+                    "Kaitlin",
+                    "Devon"
+                ],
                 "ORG": [
-                    "Kaitlin"
+                    "Kaitlin",
+                    "Audio Smut"
                 ],
                 "CARDINAL": [
                     "two",
@@ -3671,14 +3704,6 @@
                 ],
                 "DATE": [
                     "the holidays"
-                ],
-                "PERSON": [
-                    "Kaitlin",
-                    "Devon",
-                    "Audio Smut"
-                ],
-                "TIME": [
-                    "nights"
                 ]
             }
         },
@@ -3711,16 +3736,20 @@
             "pubDate": "Wed, 13 Jan 2016 03:56:14 -0000",
             "title": "Samara + Kelsey",
             "entities": {
-                "ORDINAL": [
-                    "second",
-                    "first"
+                "DATE": [
+                    "the second date"
                 ],
                 "GPE": [
                     "Samara",
                     "Kelsey",
                     "Samara",
-                    "Kelsey",
                     "Samara"
+                ],
+                "ORDINAL": [
+                    "first"
+                ],
+                "ORG": [
+                    "Kelsey"
                 ],
                 "TIME": [
                     "every night"
@@ -3760,15 +3789,14 @@
             "title": "Mr. Claus + Mrs. Claus",
             "entities": {
                 "DATE": [
-                    "Christmas Eve",
-                    "Christmas"
+                    "Christmas Eve"
                 ],
                 "PERSON": [
                     "Claus",
                     "Claus"
                 ],
                 "WORK_OF_ART": [
-                    "The Night Before"
+                    "The Night Before Christmas"
                 ]
             }
         },
@@ -3811,13 +3839,6 @@
                 "NORP": [
                     "Dummy.</p"
                 ],
-                "ORG": [
-                    "Written &",
-                    "Voice Acting",
-                    "Jenn Custard &",
-                    "Sophie Traub",
-                    "Pizza Haus &"
-                ],
                 "PERSON": [
                     "Julia Alsop",
                     "Brian Dolphin",
@@ -3825,6 +3846,11 @@
                     "Allen Watts",
                     "Max Pearl",
                     "Dummy"
+                ],
+                "ORG": [
+                    "Jenn Custard &",
+                    "Sophie Traub",
+                    "Pizza Haus &"
                 ]
             }
         },
@@ -3862,10 +3888,12 @@
                 ],
                 "PERSON": [
                     "Aaron Carter",
+                    "Desiray",
                     "Aaron",
                     "Aaron",
                     "Desiray",
                     "Aaron",
+                    "Desiray",
                     "Aaron",
                     "Galen Koch",
                     "Kelsey Padgett",
@@ -3942,20 +3970,14 @@
             "title": "The Magic Wand",
             "entities": {
                 "DATE": [
-                    "a century",
-                    "1800s",
+                    "over a century",
+                    "the 1800s",
                     "the 20th century"
                 ],
                 "CARDINAL": [
                     "one",
                     "One",
                     "thousands"
-                ],
-                "GPE": [
-                    "hysteria"
-                ],
-                "ORG": [
-                    "Hitachi"
                 ]
             }
         },
@@ -3990,28 +4012,24 @@
             "entities": {
                 "PERSON": [
                     "Kaitlin",
+                    "Mitra",
+                    "Mitra Kaboli",
                     "Kaitlin Prest",
                     "Mitra Kaboli"
-                ],
-                "NORP": [
-                    "Mitra"
                 ],
                 "DATE": [
                     "April of this year",
                     "5-year-long",
-                    "October 16, 2015<"
+                    "October 16, 2015",
+                    "149 7th"
                 ],
                 "ORG": [
                     "Kaitlin Prest",
-                    "Mitra Kaboli",
-                    "Bell House",
+                    "Bell",
                     "NY"
                 ],
-                "ORDINAL": [
-                    "first"
-                ],
-                "CARDINAL": [
-                    "149"
+                "GPE": [
+                    "Brooklyn"
                 ]
             }
         },
@@ -4047,8 +4065,12 @@
                 "CARDINAL": [
                     "about one"
                 ],
-                "ORG": [
+                "PERSON": [
+                    "Zine",
                     "Jess MG"
+                ],
+                "ORG": [
+                    "Audio Smut"
                 ]
             }
         },
@@ -4088,16 +4110,12 @@
                 "TIME": [
                     "45 minutes",
                     "15 minutes",
-                    "night"
-                ],
-                "CARDINAL": [
-                    "One"
-                ],
-                "DATE": [
-                    "Saturday"
+                    "One Saturday night"
                 ],
                 "ORG": [
-                    "Kaitlin",
+                    "Kaitlin"
+                ],
+                "FAC": [
                     "St. Laurent Boulevard"
                 ],
                 "GPE": [
@@ -4137,11 +4155,10 @@
                 "CARDINAL": [
                     "more than one"
                 ],
-                "ORG": [
-                    "Dominatrix",
-                    "href=\"https://twitter.com"
-                ],
                 "GPE": [
+                    "Dominatrix"
+                ],
+                "PERSON": [
                     "Julia Alsop.</a"
                 ]
             }
@@ -4210,34 +4227,42 @@
             "title": "Riis Park",
             "entities": {
                 "DATE": [
-                    "the summer of 1960",
+                    "the summer of",
+                    "1960",
                     "20 years old",
                     "1960",
                     "1974",
                     "years"
                 ],
-                "LOC": [
-                    "Lower East",
-                    "Riis Park"
-                ],
                 "PERSON": [
+                    "Joan Nestle",
                     "Joan",
+                    "Joan",
+                    "target=\"_blank\">A Restricted Country.</a></em",
+                    "Cassie Wagler",
+                    "Joan",
+                    "Iris Cushing",
+                    "Joan Nestle",
+                    "Herstory Archives</a"
+                ],
+                "LOC": [
+                    "a Lower East Side"
+                ],
+                "ORG": [
                     "Carol",
-                    "Cassie Wagler"
+                    "target=\"_blank\">Joan"
                 ],
                 "TIME": [
                     "an hour and half to Riis Park"
                 ],
-                "CARDINAL": [
-                    "one"
-                ],
-                "ORG": [
-                    "Joan",
-                    "Poet Iris Cushing",
-                    "target=\"_blank\">Joan"
-                ],
                 "FAC": [
                     "Riis Park"
+                ],
+                "GPE": [
+                    "New York.<br><br"
+                ],
+                "CARDINAL": [
+                    "one"
                 ],
                 "NORP": [
                     "target=\"_blank\">Lesbian"
@@ -4275,15 +4300,14 @@
             "entities": {
                 "DATE": [
                     "5 years old",
-                    "singing,\u201cYou\u2019re",
                     "24"
                 ],
                 "PERSON": [
                     "Gina",
-                    "Shirley Temple"
-                ],
-                "WORK_OF_ART": [
-                    "The Little Miss America"
+                    "Gina",
+                    "Shirley Temple",
+                    "Gina",
+                    "Gina"
                 ]
             }
         },
@@ -4330,9 +4354,6 @@
                 "CARDINAL": [
                     "two"
                 ],
-                "ORG": [
-                    "Queer"
-                ],
                 "NORP": [
                     "European"
                 ]
@@ -4369,6 +4390,7 @@
             "entities": {
                 "DATE": [
                     "the new year",
+                    "the tallest",
                     "six year old",
                     "six year old",
                     "2011",
@@ -4376,33 +4398,33 @@
                 ],
                 "ORG": [
                     "Kaitlin",
-                    "href=\"http://transequality.org",
-                    "href=\"http://whyarepeopleintothat.com/",
-                    "href=\"http://www.vengeo.com"
-                ],
-                "NORP": [
-                    "Mitra",
-                    "American"
-                ],
-                "GPE": [
-                    "Ontario"
-                ],
-                "PERSON": [
                     "Steffy",
                     "Stefonknee",
+                    "Steffy",
+                    "The National Center for Transgender Equality",
+                    "Mummy &"
+                ],
+                "PERSON": [
+                    "Mitra",
+                    "Assistance",
                     "Maria D\u00f8nvang",
                     "Julia Alsop",
                     "Brendan Baker",
                     "Kelsey Padgett",
-                    "target=\"_blank\">Tina Horn</a",
-                    "Mummy"
+                    "target=\"_blank\">Tina Horn</a"
+                ],
+                "GPE": [
+                    "Ontario",
+                    "n\u2019t"
                 ],
                 "QUANTITY": [
                     "six foot two inches"
                 ],
                 "CARDINAL": [
-                    "six",
-                    "target=\"_blank\">Ignacio"
+                    "six"
+                ],
+                "NORP": [
+                    "American"
                 ]
             }
         },
@@ -4442,12 +4464,11 @@
                 "CARDINAL": [
                     "One"
                 ],
-                "WORK_OF_ART": [
-                    "Dual Control Model"
-                ],
                 "ORG": [
-                    "The Surprising New Science That Will Change",
-                    "href=\"http://www.ohjoysextoy.com"
+                    "the \u201cDual Control Model"
+                ],
+                "WORK_OF_ART": [
+                    "target=\"_blank\">Come As You Are: The Surprising New Science That Will Change Your Sex"
                 ]
             }
         },
@@ -4482,30 +4503,30 @@
             "entities": {
                 "CARDINAL": [
                     "about two",
-                    "one",
-                    "9"
+                    "9-1-1"
+                ],
+                "DATE": [
+                    "one day",
+                    "6 weeks",
+                    "year"
                 ],
                 "PERSON": [
                     "Sarah",
                     "Kim",
                     "Sarah",
                     "Matthew Daher",
+                    "EP",
+                    "Mitra Kaboli",
                     "Sharon Mashihi",
                     "Samara Breger",
                     "Jen Ng",
                     "Shira Bannerman",
+                    "Megan Detrie",
                     "Julia Murphy",
                     "Martin Johnson",
                     "Ido Fluk",
                     "Hana Crawford",
                     "Brendan Baker"
-                ],
-                "DATE": [
-                    "6 weeks",
-                    "year"
-                ],
-                "LAW": [
-                    "all.</p"
                 ],
                 "TIME": [
                     "the last minute"
@@ -4514,16 +4535,7 @@
                     "First"
                 ],
                 "ORG": [
-                    "target=\"_blank\">He",
-                    "EP",
-                    "Mitra Kaboli",
-                    "Megan Detrie"
-                ],
-                "WORK_OF_ART": [
-                    "Lightheartedly In the Futility of Everything"
-                ],
-                "NORP": [
-                    "href=\"https://manmeetsbear.bandcamp.com"
+                    "Man Meets Bear"
                 ]
             }
         },
@@ -4557,16 +4569,15 @@
             "title": "The Subway",
             "entities": {
                 "DATE": [
+                    "one day\u2019s",
+                    "one day",
                     "one day"
                 ],
                 "TIME": [
-                    "the one night",
-                    "one night"
+                    "one night",
+                    "night"
                 ],
-                "CARDINAL": [
-                    "one"
-                ],
-                "ORG": [
+                "GPE": [
                     "Caroline"
                 ],
                 "ORDINAL": [
@@ -4575,6 +4586,9 @@
                 ],
                 "WORK_OF_ART": [
                     "Love"
+                ],
+                "CARDINAL": [
+                    "one"
                 ]
             }
         },
@@ -4607,9 +4621,12 @@
             "pubDate": "Tue, 03 Mar 2015 22:44:55 -0000",
             "title": "The Hurricane",
             "entities": {
+                "GPE": [
+                    "Eintagsliebe,</em",
+                    "New York City"
+                ],
                 "NORP": [
                     "German",
-                    "Mitra",
                     "german"
                 ],
                 "DATE": [
@@ -4617,24 +4634,23 @@
                     "Friday",
                     "October 26th 2012"
                 ],
-                "GPE": [
-                    "New York City",
-                    "Lucas",
-                    "Marteria"
-                ],
-                "ORG": [
-                    "Kaitlin",
+                "PERSON": [
+                    "eintagsfliege.</em",
+                    "Mitra",
                     "Mitra",
                     "Lucas Adams",
-                    "href=\"https://www.youtube.com"
-                ],
-                "ORDINAL": [
-                    "second"
-                ],
-                "PERSON": [
                     "Eintagsliebe",
                     "Daniel Gross",
-                    "Michele Robinson",
+                    "Michele Robinson"
+                ],
+                "EVENT": [
+                    "Hurricane Sandy"
+                ],
+                "ORG": [
+                    "Kaitlin"
+                ],
+                "LOC": [
+                    "Marteria",
                     "Eintagsliebe"
                 ]
             }
@@ -4674,25 +4690,19 @@
                 "PERSON": [
                     "Gerda Weganer",
                     "Gerda",
-                    "Lili Elbe",
-                    "Lili Elbe\u2019s"
+                    "Lili",
+                    "Lili Elbe"
                 ],
-                "ORG": [
+                "GPE": [
                     "Einar",
-                    "Einar",
-                    "href=\"http://books.google.com",
-                    "Lili\u2019s"
-                ],
-                "CARDINAL": [
-                    "one",
-                    "one"
+                    "Einar"
                 ],
                 "ORDINAL": [
                     "first",
                     "third"
                 ],
-                "TIME": [
-                    "night"
+                "ORG": [
+                    "Lili\u2019s"
                 ]
             }
         },
@@ -4732,9 +4742,6 @@
                     "Julia Alsop",
                     "Zil Goldstein",
                     "Zil"
-                ],
-                "GPE": [
-                    "LGBT"
                 ]
             }
         },
@@ -4771,7 +4778,8 @@
                     "Mid month"
                 ],
                 "PERSON": [
-                    "Whitney Jones"
+                    "Whitney Jones",
+                    "Cowbird"
                 ],
                 "ORDINAL": [
                     "first",
@@ -4779,9 +4787,6 @@
                 ],
                 "CARDINAL": [
                     "27"
-                ],
-                "ORG": [
-                    "Cowbird"
                 ],
                 "NORP": [
                     "Launch"
@@ -4829,6 +4834,9 @@
                 "DATE": [
                     "the first week"
                 ],
+                "TIME": [
+                    "every night"
+                ],
                 "PERSON": [
                     "Drew Denny"
                 ]
@@ -4866,18 +4874,17 @@
                 "CARDINAL": [
                     "three"
                 ],
-                "TIME": [
-                    "an hour"
-                ],
                 "ORG": [
+                    "Audio Smut",
                     "CKUT",
+                    "PRX",
                     "Radiotopia"
+                ],
+                "TIME": [
+                    "as an hour"
                 ],
                 "GPE": [
                     "Montreal"
-                ],
-                "PRODUCT": [
-                    "PRX"
                 ]
             }
         },
@@ -4911,7 +4918,6 @@
             "title": "Mouthwash",
             "entities": {
                 "GPE": [
-                    "Interlude.</p",
                     "Samara"
                 ],
                 "PERSON": [
@@ -4949,14 +4955,21 @@
             "title": "Last",
             "entities": {
                 "PERSON": [
-                    "Kyle",
-                    "Audio Smut"
+                    "Kaitlin",
+                    "Kyle"
                 ],
                 "ORDINAL": [
                     "first"
                 ],
                 "CARDINAL": [
                     "one"
+                ],
+                "ORG": [
+                    "Audio Smut",
+                    "Audio Smut"
+                ],
+                "FAC": [
+                    "the Drag Queens"
                 ],
                 "DATE": [
                     "the season",
@@ -4994,7 +5007,11 @@
             "title": "Movies In Your Head",
             "entities": {
                 "PERSON": [
+                    "Episode Eleven.</p",
                     "Shani Aviram"
+                ],
+                "ORG": [
+                    "Audio Smut"
                 ],
                 "DATE": [
                     "months"
@@ -5033,9 +5050,6 @@
             "pubDate": "Sun, 08 Jun 2014 17:14:13 -0000",
             "title": "My Natural Pocket",
             "entities": {
-                "ORG": [
-                    "Star"
-                ],
                 "PERSON": [
                     "Ruth Eddy"
                 ]
@@ -5099,7 +5113,11 @@
             "link": "https://beta.prx.org/stories/256170",
             "pubDate": "Wed, 02 Apr 2014 16:37:30 -0000",
             "title": "Love Letters",
-            "entities": {}
+            "entities": {
+                "PERSON": [
+                    "Episode Nine.</p"
+                ]
+            }
         },
         {
             "categories": [
@@ -5204,9 +5222,6 @@
                 ],
                 "PERSON": [
                     "Jonathan Goldstein"
-                ],
-                "DATE": [
-                    "\u2019s Day"
                 ]
             }
         },
@@ -5241,6 +5256,12 @@
             "entities": {
                 "PERSON": [
                     "John Money"
+                ],
+                "ORG": [
+                    "Audio Smut"
+                ],
+                "CARDINAL": [
+                    "one"
                 ]
             }
         },
@@ -5274,11 +5295,12 @@
             "title": "Afternoon Delight",
             "entities": {
                 "ORG": [
-                    "Quickie",
-                    "Kaitlin"
+                    "Kaitlin",
+                    "Kaitlin",
+                    "Latitude"
                 ],
-                "PERSON": [
-                    "Kaitlin"
+                "GPE": [
+                    "href=\"http://www.inthedarkradio.org/?page%5C_id=799"
                 ]
             }
         },
@@ -5346,14 +5368,14 @@
             "pubDate": "Tue, 25 Jun 2013 02:32:04 -0000",
             "title": "Yellow Jumpsuit",
             "entities": {
-                "ORG": [
-                    "Quickie"
+                "PERSON": [
+                    "Keith"
                 ],
                 "DATE": [
-                    "90s",
+                    "the 90s",
                     "Sunday July 7th"
                 ],
-                "PERSON": [
+                "GPE": [
                     "Keith",
                     "Keith"
                 ]
@@ -5389,6 +5411,7 @@
             "title": "Happens to the Best of Us",
             "entities": {
                 "PERSON": [
+                    "Episode Five.</p",
                     "Green"
                 ]
             }
@@ -5422,13 +5445,17 @@
             "pubDate": "Mon, 20 May 2013 18:05:20 -0000",
             "title": "Movie Night",
             "entities": {
-                "PERSON": [
+                "ORG": [
                     "Audio Smut Producer",
+                    "the Casual Encounters"
+                ],
+                "PERSON": [
                     "Erin"
                 ],
                 "NORP": [
                     "Craigslist",
-                    "Craigslist"
+                    "Craigslist",
+                    "movies.</p"
                 ],
                 "TIME": [
                     "Tonight"
@@ -5464,6 +5491,9 @@
             "pubDate": "Wed, 08 May 2013 23:25:59 -0000",
             "title": "Pregnant",
             "entities": {
+                "PERSON": [
+                    "Episode Four.</p"
+                ],
                 "CARDINAL": [
                     "three"
                 ]
@@ -5498,15 +5528,17 @@
             "pubDate": "Mon, 25 Mar 2013 04:08:57 -0000",
             "title": "The Wrath of the Potluck",
             "entities": {
+                "PERSON": [
+                    "Quickie",
+                    "Devon",
+                    "Devon"
+                ],
                 "ORG": [
                     "Kaitlin",
                     "Kaitlin"
                 ],
                 "GPE": [
                     "Toronto"
-                ],
-                "PERSON": [
-                    "Devon"
                 ],
                 "TIME": [
                     "the night"
@@ -5544,7 +5576,11 @@
             "link": "https://beta.prx.org/stories/256182",
             "pubDate": "Sun, 03 Mar 2013 20:56:24 -0000",
             "title": "Poo",
-            "entities": {}
+            "entities": {
+                "PERSON": [
+                    "Episode Two.</p"
+                ]
+            }
         },
         {
             "categories": [
@@ -5575,9 +5611,6 @@
             "pubDate": "Thu, 28 Feb 2013 22:37:48 -0000",
             "title": "Mozart",
             "entities": {
-                "ORG": [
-                    "Quickie"
-                ],
                 "GPE": [
                     "Mozart.</p"
                 ]
@@ -5644,13 +5677,9 @@
             "pubDate": "Fri, 25 Jan 2013 23:24:19 -0000",
             "title": "The Illicit Couples Retreat",
             "entities": {
-                "GPE": [
-                    "work.</p",
-                    "Resort"
-                ],
                 "ORG": [
-                    "The Penn Hills Hotel",
-                    "the Penn Hills Hotel"
+                    "The Penn Hills Hotel and Resort",
+                    "the Penn Hills Hotel and Resort"
                 ],
                 "DATE": [
                     "the late 2000\u2032s"
@@ -5661,7 +5690,7 @@
                 "TIME": [
                     "a late night"
                 ],
-                "PERSON": [
+                "GPE": [
                     "Poconos"
                 ]
             }
@@ -5693,8 +5722,8 @@
             "pubDate": "Sun, 13 Jan 2013 01:29:17 -0000",
             "title": "I Like Me",
             "entities": {
-                "GPE": [
-                    "work.</p"
+                "PERSON": [
+                    "Audio Smut"
                 ]
             }
         },
@@ -5726,11 +5755,7 @@
             "title": "Audible Picture Show",
             "entities": {
                 "GPE": [
-                    "work.</p",
                     "Brooklyn"
-                ],
-                "CARDINAL": [
-                    "one"
                 ]
             }
         }

@@ -35,7 +35,7 @@
                     "Invisibilia"
                 ],
                 "ORG": [
-                    "invisibiliamail@npr.org"
+                    "Stories"
                 ],
                 "DATE": [
                     "March 11th"
@@ -100,9 +100,6 @@
             "pubDate": "Thu, 28 Oct 2021 14:26:04 -0400",
             "title": "Poop Friends",
             "entities": {
-                "ORG": [
-                    "Sh*t"
-                ],
                 "DATE": [
                     "This week"
                 ]
@@ -132,11 +129,7 @@
             "link": "https://www.npr.org/2021/10/20/1047650260/friends-with-benefits",
             "pubDate": "Thu, 21 Oct 2021 14:47:07 -0400",
             "title": "Friends with Benefits ",
-            "entities": {
-                "ORG": [
-                    "BFFs"
-                ]
-            }
+            "entities": {}
         },
         {
             "content": "You know the old saying--keep your friends close and your enemies closer. But what if you can't tell the difference? In this episode, the story of two friends who got caught up in a Top Secret operation that tested their assumptions about trust, betrayal, loyalty, and power.",
@@ -227,8 +220,14 @@
             "pubDate": "Thu, 16 Sep 2021 19:48:00 -0400",
             "title": "A Friendly Ghost Story",
             "entities": {
+                "ORG": [
+                    "National Suicide Prevention"
+                ],
                 "CARDINAL": [
-                    "one"
+                    "1-800-273-8255"
+                ],
+                "PERSON": [
+                    "Crisis Text"
                 ]
             }
         },
@@ -293,7 +292,8 @@
                     "Calif."
                 ],
                 "ORG": [
-                    "NPR"
+                    "NPR",
+                    "KQED"
                 ]
             }
         },
@@ -385,15 +385,14 @@
             "pubDate": "Thu, 13 May 2021 15:52:28 -0400",
             "title": "The Chaos Machine: A Looping Revolt ",
             "entities": {
-                "ORG": [
-                    "Times",
-                    "Yowei"
-                ],
                 "GPE": [
                     "America"
                 ],
                 "WORK_OF_ART": [
                     "The Chaos Machine"
+                ],
+                "PERSON": [
+                    "Yowei"
                 ]
             }
         },
@@ -455,9 +454,6 @@
             "pubDate": "Thu, 29 Apr 2021 18:47:00 -0400",
             "title": "The Chaos Machine: An Endless Hole ",
             "entities": {
-                "ORG": [
-                    "Yowei"
-                ],
                 "NORP": [
                     "Russian"
                 ],
@@ -587,8 +583,6 @@
             "title": "Two Heartbeats A Minute",
             "entities": {
                 "ORG": [
-                    "href=\"http://npr.org",
-                    "href=\"https://www.nationalpublicmedia.com",
                     "NPR"
                 ]
             }
@@ -619,8 +613,6 @@
             "title": "White v. White?",
             "entities": {
                 "ORG": [
-                    "href=\"http://npr.org",
-                    "href=\"https://www.nationalpublicmedia.com",
                     "NPR"
                 ]
             }
@@ -660,8 +652,6 @@
                     "Joy Milne"
                 ],
                 "ORG": [
-                    "href=\"http://npr.org",
-                    "href=\"https://www.nationalpublicmedia.com",
                     "NPR"
                 ]
             }
@@ -699,8 +689,6 @@
                     "Boston"
                 ],
                 "ORG": [
-                    "href=\"http://npr.org",
-                    "href=\"https://www.nationalpublicmedia.com",
                     "NPR"
                 ]
             }
@@ -732,6 +720,7 @@
             "entities": {
                 "PERSON": [
                     "Daniel Martinez",
+                    "Daniel",
                     "Lulu Miller"
                 ],
                 "MONEY": [
@@ -742,9 +731,6 @@
                     "California"
                 ],
                 "ORG": [
-                    "href=\"http://npr.org/invisibiliasurvey\">npr.org/invisibiliasurvey</a",
-                    "href=\"http://npr.org",
-                    "href=\"https://www.nationalpublicmedia.com",
                     "NPR"
                 ]
             }
@@ -786,9 +772,10 @@
                     "one day",
                     "the last 50 years"
                 ],
+                "LOC": [
+                    "earth"
+                ],
                 "ORG": [
-                    "href=\"http://npr.org",
-                    "href=\"https://www.nationalpublicmedia.com",
                     "NPR"
                 ]
             }
@@ -860,7 +847,8 @@
                     "1"
                 ],
                 "PERSON": [
-                    "Ian Chillag"
+                    "Ian Chillag",
+                    "Alive),</em"
                 ],
                 "ORG": [
                     "NPR"
@@ -976,14 +964,12 @@
             "entities": {
                 "ORG": [
                     "NPR",
-                    "Rough Translation"
+                    "Rough Translation",
+                    "McDonalds"
                 ],
                 "GPE": [
                     "Marseille",
                     "France"
-                ],
-                "FAC": [
-                    "McDonalds"
                 ]
             }
         },
@@ -1041,12 +1027,14 @@
                 "PERSON": [
                     "Richard Kraft"
                 ],
-                "ORDINAL": [
-                    "first",
-                    "first"
-                ],
                 "ORG": [
                     "Disney"
+                ],
+                "ORDINAL": [
+                    "first"
+                ],
+                "DATE": [
+                    "our new fall season"
                 ]
             }
         },
@@ -1079,12 +1067,11 @@
                     "Invisibilia"
                 ],
                 "ORG": [
-                    "the National Suicide Prevention Lifeline",
-                    "suicidepreventionlifeline.org"
+                    "the National Suicide Prevention Lifeline"
                 ],
                 "CARDINAL": [
                     "24/7",
-                    "1"
+                    "1-800-273-8255"
                 ]
             }
         },
@@ -1143,12 +1130,11 @@
                     "Alix Spiegel"
                 ],
                 "ORG": [
-                    "the National Suicide Prevention Lifeline",
-                    "suicidepreventionlifeline.org"
+                    "the National Suicide Prevention Lifeline"
                 ],
                 "CARDINAL": [
                     "24/7",
-                    "1"
+                    "1-800-273-8255"
                 ]
             }
         },
@@ -1268,7 +1254,7 @@
                 "GPE": [
                     "Invisibilia"
                 ],
-                "ORG": [
+                "WORK_OF_ART": [
                     "Emotional Survival Guide"
                 ]
             }
@@ -1301,10 +1287,12 @@
                     "Years ago"
                 ],
                 "PERSON": [
-                    "Yowei Shaw"
-                ],
-                "NORP": [
+                    "Yowei Shaw",
                     "Yowei"
+                ],
+                "CARDINAL": [
+                    "one",
+                    "one"
                 ]
             }
         },
@@ -1439,16 +1427,18 @@
                 ],
                 "ORG": [
                     "Alix",
-                    "Vijai Nathan",
-                    "http://npr.org/invisibilia",
-                    "Hanna"
+                    "Vijai Nathan"
                 ],
                 "GPE": [
                     "Hanna",
-                    "DC"
+                    "DC",
+                    "Hanna"
                 ],
                 "PERSON": [
                     "Mike Kane",
+                    "Carly Ciarrocchi"
+                ],
+                "LOC": [
                     "Story District"
                 ]
             }
@@ -1526,7 +1516,8 @@
                     "Allie n Steve"
                 ],
                 "CARDINAL": [
-                    "one"
+                    "one",
+                    "half"
                 ]
             }
         },
@@ -1618,10 +1609,7 @@
             "title": "The Other Real World",
             "entities": {
                 "ORG": [
-                    "Reality TV",
-                    "UN"
-                ],
-                "WORK_OF_ART": [
+                    "UN",
                     "Inspire Somalia"
                 ],
                 "DATE": [
@@ -1694,7 +1682,7 @@
                 "DATE": [
                     "their fourth season"
                 ],
-                "ORG": [
+                "PERSON": [
                     "Hanna Rosin",
                     "Alix Spiegel"
                 ]
@@ -1763,10 +1751,8 @@
             "pubDate": "Tue, 12 Sep 2017 16:44:00 -0400",
             "title": "BONUS: Catch-Up with Bill Millar",
             "entities": {
-                "FAC": [
-                    "Hanna Rosin"
-                ],
                 "PERSON": [
+                    "Hanna Rosin",
                     "Bill Millar"
                 ],
                 "DATE": [
@@ -1834,6 +1820,7 @@
                 ],
                 "PERSON": [
                     "Renato Rosaldo",
+                    "legit",
                     "Rosaldo"
                 ],
                 "NORP": [
@@ -1944,9 +1931,6 @@
             "pubDate": "Thu, 08 Jun 2017 18:11:00 -0400",
             "title": "The Culture Inside",
             "entities": {
-                "PERSON": [
-                    "me\"in"
-                ],
                 "CARDINAL": [
                     "about one"
                 ],
@@ -1984,17 +1968,18 @@
                     "American",
                     "American"
                 ],
+                "LOC": [
+                    "North Port"
+                ],
                 "GPE": [
-                    "North Port",
                     "Florida"
                 ],
                 "ORG": [
-                    "the National Suicide Prevention Lifeline",
-                    "suicidepreventionlifeline.org"
+                    "the National Suicide Prevention Lifeline"
                 ],
                 "CARDINAL": [
                     "24/7",
-                    "1"
+                    "1-800-273-8255"
                 ]
             }
         },
@@ -2088,9 +2073,8 @@
             "title": "Season 3 Trailer",
             "entities": {
                 "DATE": [
-                    "June 1",
-                    "Season 3",
-                    "the upcoming season"
+                    "June 1,",
+                    "Season 3!"
                 ],
                 "GPE": [
                     "Invisibilia",
@@ -2159,10 +2143,8 @@
             "pubDate": "Fri, 22 Jul 2016 03:06:00 -0400",
             "title": "The Secret Emotional Life of Clothes",
             "entities": {
-                "FAC": [
-                    "Hanna Rosin"
-                ],
                 "PERSON": [
+                    "Hanna Rosin",
                     "Lulu Miller"
                 ],
                 "TIME": [
@@ -2207,6 +2189,9 @@
                 ],
                 "NORP": [
                     "Islamic"
+                ],
+                "CARDINAL": [
+                    "one"
                 ]
             }
         },
@@ -2237,13 +2222,8 @@
             "entities": {
                 "PERSON": [
                     "Alix Spiegel",
+                    "Hanna Rosin",
                     "Hasan Minhaj"
-                ],
-                "FAC": [
-                    "Hanna Rosin"
-                ],
-                "WORK_OF_ART": [
-                    "Daily Show"
                 ]
             }
         },
@@ -2276,7 +2256,8 @@
                     "William Kitt"
                 ],
                 "ORG": [
-                    "the Broadway Housing Communities"
+                    "the Broadway Housing Communities",
+                    "the Greatest Scheme of All"
                 ],
                 "WORK_OF_ART": [
                     "The Problem with the Solution"
@@ -2313,7 +2294,8 @@
                     "the hour"
                 ],
                 "GPE": [
-                    "Utah"
+                    "Utah",
+                    "em></em"
                 ],
                 "DATE": [
                     "one day"
@@ -2381,12 +2363,11 @@
                     "Ohio"
                 ],
                 "PERSON": [
-                    "Steve Jobs",
-                    "Hannibal Lecter"
+                    "Steve Jobs"
                 ],
                 "ORG": [
-                    "Court",
-                    "House"
+                    "Hannibal Lecter",
+                    "Court House"
                 ]
             }
         },
@@ -2416,14 +2397,11 @@
             "title": "The New Norm",
             "entities": {
                 "PERSON": [
-                    "Alix Spiegel"
+                    "Alix Spiegel",
+                    "Hanna Rosin"
                 ],
                 "ORG": [
-                    "Hanna Rosin",
                     "McDonald's"
-                ],
-                "CARDINAL": [
-                    "two"
                 ],
                 "GPE": [
                     "Russia"
@@ -2455,8 +2433,7 @@
             "entities": {
                 "DATE": [
                     "June 17th",
-                    "Season 2",
-                    "the upcoming season"
+                    "Season 2"
                 ],
                 "GPE": [
                     "Invisibilia",
@@ -2543,7 +2520,7 @@
             "pubDate": "Fri, 06 Feb 2015 03:07:00 -0500",
             "title": "The Power Of Categories",
             "entities": {
-                "ORG": [
+                "PRODUCT": [
                     "The Power Of Categories"
                 ]
             }
@@ -2573,7 +2550,10 @@
             "title": "Entanglement",
             "entities": {
                 "ORG": [
-                    "Mirror Touch Synesthesia"
+                    "Mirror Touch"
+                ],
+                "GPE": [
+                    "Synesthesia"
                 ],
                 "TIME": [
                     "The hour"
@@ -2607,8 +2587,10 @@
                 "DATE": [
                     "today"
                 ],
+                "WORK_OF_ART": [
+                    "Batman"
+                ],
                 "ORG": [
-                    "Batman",
                     "Julee-anne Bell"
                 ],
                 "CARDINAL": [
@@ -2644,7 +2626,6 @@
             "title": "How to Become Batman",
             "entities": {
                 "PERSON": [
-                    "Become Batman",
                     "Alix",
                     "Lulu"
                 ]
@@ -2678,8 +2659,8 @@
                     "Alix Spiegel",
                     "Lulu Miller"
                 ],
-                "CARDINAL": [
-                    "half"
+                "DATE": [
+                    "The second half"
                 ]
             }
         },
@@ -2748,16 +2729,16 @@
                 "ORG": [
                     "NPR"
                 ],
-                "PERSON": [
+                "GPE": [
                     "Invisibilia",
-                    "Lulu Miller",
-                    "Alix Spiegel"
+                    "Invisibilia"
                 ],
                 "CARDINAL": [
                     "six"
                 ],
-                "GPE": [
-                    "Invisibilia"
+                "PERSON": [
+                    "Lulu Miller",
+                    "Alix Spiegel"
                 ],
                 "ORDINAL": [
                     "first"

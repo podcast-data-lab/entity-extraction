@@ -34,10 +34,8 @@
             "pubDate": "Thu, 3 Feb 2022 11:45:00 +0000",
             "title": "Part 8: An Appointment in Perth",
             "entities": {
-                "NORP": [
-                    "Trojan"
-                ],
                 "PERSON": [
+                    "Trojan Horse",
                     "Brian"
                 ],
                 "ORG": [
@@ -157,10 +155,6 @@
             "pubDate": "Thu, 3 Feb 2022 11:00:00 +0000",
             "title": "Part 5: A Study in Scarlett",
             "entities": {
-                "ORG": [
-                    "Hamza",
-                    "Hamza"
-                ],
                 "PERSON": [
                     "Brian",
                     "Trojan Horse"
@@ -170,6 +164,9 @@
                 ],
                 "TIME": [
                     "six hours later"
+                ],
+                "ORG": [
+                    "Hamza"
                 ]
             }
         },
@@ -286,9 +283,6 @@
             "pubDate": "Thu, 3 Feb 2022 10:15:00 +0000",
             "title": "Part 2: The Case of the Four Resignations",
             "entities": {
-                "ORG": [
-                    "Hamza"
-                ],
                 "PERSON": [
                     "Brian",
                     "Trojan Horse"
@@ -326,9 +320,6 @@
                 ],
                 "GPE": [
                     "Birmingham"
-                ],
-                "ORG": [
-                    "Hamza"
                 ],
                 "PERSON": [
                     "Brian"
@@ -379,7 +370,7 @@
                     "The Trojan Horse Affair"
                 ],
                 "CARDINAL": [
-                    "All eight"
+                    "eight"
                 ]
             }
         }
@@ -433,24 +424,18 @@
         "NORP": [
             "Islamic"
         ],
+        "PERSON": [
+            "Trojan Horse",
+            "Brian Reed",
+            "Trojan Horse"
+        ],
         "ORG": [
-            "Operation Trojan Horse",
             "Hamza Syed",
             "Parliament",
             "Hamza",
             "Serial Productions",
             "The New York Times",
             "The Trojan Horse Affair"
-        ],
-        "TIME": [
-            "night"
-        ],
-        "PERSON": [
-            "Brian Reed",
-            "Trojan Horse"
-        ],
-        "PRODUCT": [
-            "S-Town"
         ],
         "CARDINAL": [
             "eight"

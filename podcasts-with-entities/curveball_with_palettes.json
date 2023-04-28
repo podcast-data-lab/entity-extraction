@@ -34,25 +34,29 @@
             "pubDate": "Mon, 22 Nov 2021 15:05:00 -0000",
             "title": "New directions \u2013 A personal crisis changes Gaven Morris\u2019 outlook as he brings news into the future PART 2 ",
             "entities": {
+                "PERSON": [
+                    "Morris",
+                    "Gaven",
+                    "Morris",
+                    "Liam Riordan",
+                    "Kellie Riordan"
+                ],
                 "ORG": [
                     "ABC",
+                    "un",
                     "ABC",
-                    "LinkedIn",
-                    "Justin",
-                    "Aboriginal"
+                    "Deadset Studios",
+                    "Justin\u00a0Rouillon",
+                    "Rachel Fountain"
                 ],
                 "CARDINAL": [
                     "2"
                 ],
-                "PERSON": [
-                    "Liam Riordan",
-                    "Kellie Riordan"
-                ],
-                "FAC": [
-                    "Rachel Fountain"
-                ],
                 "NORP": [
                     "Australians"
+                ],
+                "PRODUCT": [
+                    "Learn"
                 ]
             }
         },
@@ -82,28 +86,31 @@
             "pubDate": "Mon, 22 Nov 2021 15:00:00 -0000",
             "title": "And we\u2019re live \u2013 Why Gaven Morris launched a 24-hour news channel before it was ready PART 1 ",
             "entities": {
+                "PERSON": [
+                    "Gaven\u00a0Morris",
+                    "Gaven",
+                    "Liam Riordan",
+                    "Justin\u00a0Rouillon",
+                    "Kellie Riordan"
+                ],
                 "DATE": [
                     "daily"
                 ],
                 "ORG": [
                     "the Australian Broadcasting Corporation\u2019s",
                     "ABC",
-                    "LinkedIn",
-                    "Aboriginal"
+                    "Deadset Studios",
+                    "Rachel Fountain"
                 ],
                 "CARDINAL": [
                     "one",
                     "1"
                 ],
-                "PERSON": [
-                    "Liam Riordan",
-                    "Kellie Riordan"
-                ],
-                "FAC": [
-                    "Rachel Fountain"
-                ],
                 "NORP": [
                     "Australians"
+                ],
+                "PRODUCT": [
+                    "Learn"
                 ]
             }
         },
@@ -136,35 +143,38 @@
                 "PERSON": [
                     "Bob Geldof",
                     "Bono",
+                    "Thomas",
+                    "Bono",
                     "Greta",
                     "Greta Thomas",
                     "Claire Hatton",
                     "Liam Riordan",
+                    "Justin\u00a0Rouillon",
                     "Kellie Riordan"
-                ],
-                "CARDINAL": [
-                    "one",
-                    "more than one"
                 ],
                 "GPE": [
                     "Sydney",
                     "Australia"
                 ],
                 "ORDINAL": [
-                    "first"
+                    "first",
+                    "tenth"
+                ],
+                "CARDINAL": [
+                    "more than one"
                 ],
                 "ORG": [
                     "eBay",
-                    "Sydney Opera House",
+                    "the Sydney Opera House",
                     "Full Potential Labs",
-                    "LinkedIn",
-                    "Aboriginal"
-                ],
-                "FAC": [
+                    "Deadset Studios",
                     "Rachel Fountain"
                 ],
                 "NORP": [
                     "Australians"
+                ],
+                "PRODUCT": [
+                    "Learn"
                 ]
             }
         },
@@ -193,6 +203,9 @@
             "pubDate": "Mon, 01 Nov 2021 15:00:00 -0000",
             "title": "Doing it on purpose \u2014 Start cultivating your why ",
             "entities": {
+                "WORK_OF_ART": [
+                    "Take Who Give a Crap"
+                ],
                 "PERSON": [
                     "Simon Griffiths",
                     "Meggie Palmer",
@@ -204,14 +217,13 @@
                     "thousands"
                 ],
                 "ORG": [
-                    "LinkedIn",
-                    "Aboriginal"
-                ],
-                "FAC": [
                     "Rachel Fountain"
                 ],
                 "NORP": [
                     "Australians"
+                ],
+                "PRODUCT": [
+                    "Learn"
                 ]
             }
         },
@@ -241,29 +253,33 @@
             "title": "From Tigerland to Ivy League \u2014 Peggy O\u2019Neal graduates from football president to University Chancellor ",
             "entities": {
                 "ORG": [
+                    "RMIT University",
                     "Richmond Football Club",
-                    "LinkedIn",
-                    "Aboriginal"
+                    "the Richmond Tigers\u00a0AFL club",
+                    "Deadset Studios",
+                    "Rachel Fountain"
                 ],
                 "PERSON": [
                     "Peggy O\u2019Neal",
+                    "Peggy",
+                    "Peggy",
+                    "Peggy",
                     "Liam Riordan",
                     "Kellie Riordan"
                 ],
                 "ORDINAL": [
+                    "first",
+                    "first",
                     "first"
-                ],
-                "GPE": [
-                    "Richmond"
                 ],
                 "DATE": [
                     "each week"
                 ],
-                "FAC": [
-                    "Rachel Fountain"
-                ],
                 "NORP": [
                     "Australians"
+                ],
+                "PRODUCT": [
+                    "Learn"
                 ]
             }
         },
@@ -295,9 +311,9 @@
             "entities": {
                 "PERSON": [
                     "Declan Lee",
-                    "Declan",
                     "Liam Riordan",
                     "Rachel Fountain",
+                    "Justin\u00a0Roullion",
                     "Kellie Riordan"
                 ],
                 "DATE": [
@@ -310,17 +326,18 @@
                 "GPE": [
                     "Messina"
                 ],
-                "ORG": [
-                    "Ninja Warrior",
-                    "DJing",
-                    "LinkedIn",
-                    "Aboriginal"
+                "NORP": [
+                    "Declan",
+                    "Australians"
                 ],
-                "FAC": [
+                "ORG": [
+                    "Underworld",
+                    "Ninja Warrior",
+                    "Deadset Studios",
                     "Rachel Fountain"
                 ],
-                "NORP": [
-                    "Australians"
+                "PRODUCT": [
+                    "Learn"
                 ]
             }
         },
@@ -353,14 +370,16 @@
                 "PERSON": [
                     "Kate Vale",
                     "Kate Vale",
+                    "Aliavia",
                     "Liam Riordan",
                     "Kellie Riordan"
                 ],
                 "ORG": [
                     "Google Australia\u2019s",
                     "Google Australia",
-                    "LinkedIn",
-                    "Aboriginal"
+                    "IPO",
+                    "Google",
+                    "Rachel Fountain"
                 ],
                 "ORDINAL": [
                     "first"
@@ -373,11 +392,11 @@
                     "Australia",
                     "California"
                 ],
-                "FAC": [
-                    "Rachel Fountain"
-                ],
                 "NORP": [
                     "Australians"
+                ],
+                "PRODUCT": [
+                    "Learn"
                 ]
             }
         },
@@ -408,30 +427,30 @@
             "entities": {
                 "PERSON": [
                     "Michael Fox",
+                    "Prey",
                     "Michael",
                     "Heston Blumenthal",
+                    "Covid",
                     "Michael",
                     "Michael Fox",
                     "Liam Riordan",
                     "Kellie Riordan"
                 ],
                 "ORDINAL": [
-                    "first",
                     "first"
-                ],
-                "ORG": [
-                    "Shoes of Prey",
-                    "LinkedIn",
-                    "Aboriginal"
                 ],
                 "DATE": [
                     "season 1"
                 ],
-                "FAC": [
+                "ORG": [
+                    "Deadset Studios",
                     "Rachel Fountain"
                 ],
                 "NORP": [
                     "Australians"
+                ],
+                "PRODUCT": [
+                    "Learn"
                 ]
             }
         },
@@ -468,8 +487,11 @@
                     "Liam Riordan"
                 ],
                 "GPE": [
+                    "Kanopy",
                     "Perth",
                     "San Francisco",
+                    "Kanopy",
+                    "Kanopy",
                     "Olivia",
                     "Australia",
                     "Kanopy",
@@ -480,12 +502,13 @@
                 ],
                 "ORG": [
                     "Olivia Humphrey",
-                    "LinkedIn",
-                    "Krissy\u00a0Miltiadou",
-                    "Aboriginal"
+                    "Krissy"
                 ],
                 "NORP": [
                     "Australians"
+                ],
+                "PRODUCT": [
+                    "Learn"
                 ]
             }
         },
@@ -517,25 +540,30 @@
             "entities": {
                 "PERSON": [
                     "Olivia Humphrey",
-                    "Netflix",
-                    "Stan",
+                    "Village Roadshow",
+                    "Grace Pashley",
                     "Liam Riordan"
                 ],
-                "NORP": [
+                "ORG": [
                     "Napa",
-                    "Australians"
+                    "Netflix",
+                    "Krissy"
                 ],
                 "GPE": [
                     "Olivia",
+                    "Kanopy",
+                    "Stan",
                     "Olivia",
+                    "Perth",
                     "US",
+                    "Kanopy",
                     "Olivia"
                 ],
-                "ORG": [
-                    "Perth",
-                    "LinkedIn",
-                    "Krissy\u00a0Miltiadou",
-                    "Aboriginal"
+                "NORP": [
+                    "Australians"
+                ],
+                "PRODUCT": [
+                    "Learn"
                 ]
             }
         },
@@ -567,6 +595,7 @@
             "entities": {
                 "PERSON": [
                     "Meggie Palmer",
+                    "Meggie",
                     "Liam Riordan",
                     "Justin Rouillon",
                     "Kellie Riordan"
@@ -579,20 +608,14 @@
                 ],
                 "ORG": [
                     "Deadset Studios",
-                    "LinkedIn",
-                    "Aboriginal"
+                    "Curveball\u2019s LinkedIn",
+                    "Rachel Fountain"
                 ],
                 "PRODUCT": [
                     "Twitter"
                 ],
-                "FAC": [
-                    "Rachel Fountain"
-                ],
                 "NORP": [
                     "Australians"
-                ],
-                "WORK_OF_ART": [
-                    "Learn"
                 ]
             }
         },
@@ -622,14 +645,18 @@
             "pubDate": "Mon, 13 Sep 2021 16:00:00 -0000",
             "title": "Pushing beyond the limits \u2014 Simon Griffiths on pain, purpose, and profit ",
             "entities": {
-                "ORG": [
-                    "Entrepreneur",
-                    "LinkedIn",
-                    "Aboriginal"
-                ],
                 "PERSON": [
+                    "Entrepreneur",
+                    "Simon Griffiths",
+                    "Simon",
                     "Crap",
+                    "Rachel Fountain",
+                    "Grace Pashley",
+                    "Justin\u00a0Rouillon",
                     "Kellie Riordan"
+                ],
+                "WORK_OF_ART": [
+                    "The Who Gives a Crap"
                 ],
                 "ORDINAL": [
                     "first",
@@ -638,12 +665,15 @@
                 "GPE": [
                     "India"
                 ],
-                "FAC": [
-                    "Rachel Fountain",
+                "ORG": [
+                    "Deadset Studios",
                     "Rachel Fountain"
                 ],
                 "NORP": [
                     "Australians"
+                ],
+                "PRODUCT": [
+                    "Learn"
                 ]
             }
         },
@@ -674,25 +704,26 @@
             "entities": {
                 "PERSON": [
                     "Liam",
-                    "Liam\u00a0",
+                    "Mum",
+                    "Liam\u00a0explained",
+                    "Rachel",
                     "Kellie",
                     "Kellie",
-                    "Liam",
                     "Liam Riordan",
                     "Kellie Riordan"
                 ],
                 "GPE": [
-                    "Rachel"
+                    "Liam"
                 ],
                 "ORG": [
-                    "LinkedIn",
-                    "Aboriginal"
-                ],
-                "FAC": [
+                    "Deadset Studios",
                     "Rachel Fountain"
                 ],
                 "NORP": [
                     "Australians"
+                ],
+                "PRODUCT": [
+                    "Learn"
                 ]
             }
         },
@@ -721,20 +752,22 @@
             "pubDate": "Mon, 30 Aug 2021 16:00:00 -0000",
             "title": "Know when to fold them \u2014 How to call time on your dream  ",
             "entities": {
+                "ORG": [
+                    "Deadset Studios",
+                    "Rachel Fountain"
+                ],
+                "FAC": [
+                    "the Karate Kid"
+                ],
                 "PERSON": [
-                    "Kenny Rogers",
                     "Liam Riordan",
                     "Kellie Riordan"
                 ],
-                "ORG": [
-                    "LinkedIn",
-                    "Aboriginal"
-                ],
-                "FAC": [
-                    "Rachel Fountain"
-                ],
                 "NORP": [
                     "Australians"
+                ],
+                "PRODUCT": [
+                    "Learn"
                 ]
             }
         },
@@ -768,24 +801,27 @@
                     "Elizabeth Broderick",
                     "Liz",
                     "Elizabeth Broderick",
-                    "Trump",
                     "Liz Broderick",
+                    "Grace Pashley",
                     "Kellie Riordan"
                 ],
+                "ORG": [
+                    "Special\u00a0Rapporteur",
+                    "the United Nations",
+                    "Trump",
+                    "Rachel Fountain"
+                ],
                 "GPE": [
-                    "utero",
                     "Australia"
                 ],
-                "ORG": [
-                    "the United Nations",
-                    "LinkedIn",
-                    "Aboriginal"
-                ],
-                "FAC": [
-                    "Rachel Fountain"
+                "WORK_OF_ART": [
+                    "Sex Discrimination"
                 ],
                 "NORP": [
                     "Australians"
+                ],
+                "PRODUCT": [
+                    "Learn"
                 ]
             }
         },
@@ -826,8 +862,8 @@
                 ],
                 "ORG": [
                     "AIM International",
-                    "LinkedIn",
-                    "Aboriginal"
+                    "Deadset Studios",
+                    "Rachel Fountain"
                 ],
                 "MONEY": [
                     "$6 million"
@@ -838,11 +874,11 @@
                 "CARDINAL": [
                     "two"
                 ],
-                "FAC": [
-                    "Rachel Fountain"
-                ],
                 "NORP": [
                     "Australians"
+                ],
+                "PRODUCT": [
+                    "Learn"
                 ]
             }
         },
@@ -874,28 +910,25 @@
             "entities": {
                 "PERSON": [
                     "Justin Dry",
+                    "Vinomofo",
+                    "VinoMofo",
+                    "Entrepreneur",
+                    "Rachel Fountain",
                     "Liam Riordan",
                     "Kellie Riordan"
-                ],
-                "PRODUCT": [
-                    "VinoMofo"
                 ],
                 "DATE": [
                     "years"
                 ],
-                "CARDINAL": [
-                    "about\u00a0"
-                ],
                 "ORG": [
-                    "LinkedIn",
-                    "Rachel Fountain",
-                    "Aboriginal"
-                ],
-                "FAC": [
+                    "Deadset Studios",
                     "Rachel Fountain"
                 ],
                 "NORP": [
                     "Australians"
+                ],
+                "PRODUCT": [
+                    "Learn"
                 ]
             }
         },
@@ -927,24 +960,30 @@
             "entities": {
                 "PERSON": [
                     "Dwayne Good",
-                    "Dwayne\u00a0",
+                    "Dwayne",
                     "Dwayne Good",
                     "Grace Pashley",
                     "Kellie Riordan"
                 ],
+                "ORG": [
+                    "Kicked",
+                    "Deadset Studios",
+                    "Kristina\u00a0Miltiadou"
+                ],
                 "GPE": [
                     "Thailand"
+                ],
+                "DATE": [
+                    "2004"
                 ],
                 "PERCENT": [
                     "100-percent"
                 ],
-                "ORG": [
-                    "LinkedIn",
-                    "Kristina\u00a0Miltiadou",
-                    "Aboriginal"
-                ],
                 "NORP": [
                     "Australians"
+                ],
+                "PRODUCT": [
+                    "Learn"
                 ]
             }
         },
@@ -976,19 +1015,26 @@
             "entities": {
                 "NORP": [
                     "American",
+                    "Australian",
                     "Australians"
+                ],
+                "PERSON": [
+                    "Peggy O\u2019Neal",
+                    "Peggy",
+                    "Peggy O\u2019Neal",
+                    "Peggy",
+                    "Rachel Fountain",
+                    "Kellie Riordan"
                 ],
                 "ORG": [
                     "Tigers",
-                    "Richmond Football Club",
-                    "LinkedIn",
-                    "Aboriginal"
+                    "Richmond Football Club"
                 ],
                 "CARDINAL": [
                     "three",
                     "three"
                 ],
-                "EVENT": [
+                "LOC": [
                     "the Appalachian Mountains"
                 ],
                 "GPE": [
@@ -1000,8 +1046,8 @@
                     "37-year",
                     "four years"
                 ],
-                "PERSON": [
-                    "Kellie Riordan"
+                "PRODUCT": [
+                    "Learn"
                 ]
             }
         },
@@ -1030,21 +1076,30 @@
             "pubDate": "Sun, 18 Jul 2021 21:23:00 -0000",
             "title": "A new season of thrills and spills from top leaders ",
             "entities": {
-                "GPE": [
-                    "Richmond"
-                ],
                 "PERSON": [
+                    "Kellie\u00a0Riordan",
                     "Peggy O\u2019Neal",
+                    "Vinomofo",
                     "Justin Dry",
                     "Elizabeth Broderick",
-                    "Rachel Fountain"
+                    "Rachel Fountain",
+                    "Kristina Miltiadou"
+                ],
+                "GPE": [
+                    "Richmond",
+                    "Australia"
+                ],
+                "WORK_OF_ART": [
+                    "Sex Discrimination"
                 ],
                 "ORG": [
-                    "Kristina Miltiadou",
-                    "Aboriginal"
+                    "Curveball\u2019s LinkedIn"
                 ],
                 "NORP": [
                     "Australians"
+                ],
+                "PRODUCT": [
+                    "Learn"
                 ]
             }
         },
@@ -1074,23 +1129,21 @@
             "title": "INTRODUCING \u2014 How I Work, a podcast where leaders talk about how they structure their day ",
             "entities": {
                 "TIME": [
-                    "the same 24 hours"
-                ],
-                "GPE": [
-                    "Amantha Imber",
-                    "LinkedIn"
-                ],
-                "DATE": [
-                    "Amantha"
+                    "24 hours"
                 ],
                 "PERSON": [
+                    "Amantha Imber",
+                    "Amantha Imber",
                     "Kellie Riordan"
                 ],
-                "ORG": [
-                    "Aboriginal"
+                "GPE": [
+                    "LinkedIn"
                 ],
                 "NORP": [
                     "Australians"
+                ],
+                "PRODUCT": [
+                    "Learn"
                 ]
             }
         },
@@ -1125,11 +1178,11 @@
                 "GPE": [
                     "LinkedIn"
                 ],
-                "ORG": [
-                    "Aboriginal"
-                ],
                 "NORP": [
                     "Australians"
+                ],
+                "PRODUCT": [
+                    "Learn"
                 ]
             }
         },
@@ -1158,20 +1211,25 @@
             "pubDate": "Mon, 15 Mar 2021 15:00:00 -0000",
             "title": "Forged in fire \u2014 how great leaders use personal adversity to become even stronger ",
             "entities": {
+                "EVENT": [
+                    "The Kate\u00a0Morrises"
+                ],
                 "PERSON": [
-                    "Andrew Starks"
+                    "Andrew Starks",
+                    "Briony"
                 ],
                 "GPE": [
+                    "Scotts",
                     "LinkedIn"
                 ],
                 "DATE": [
                     "weekly"
                 ],
-                "ORG": [
-                    "Aboriginal"
-                ],
                 "NORP": [
                     "Australians"
+                ],
+                "PRODUCT": [
+                    "Learn"
                 ]
             }
         },
@@ -1200,15 +1258,14 @@
             "pubDate": "Mon, 08 Mar 2021 15:00:00 -0000",
             "title": "Crazy brave \u2014 How to channel your inner warrior ",
             "entities": {
-                "ORG": [
-                    "Working 9 to 5",
-                    "Aboriginal"
-                ],
                 "DATE": [
                     "these days"
                 ],
                 "NORP": [
                     "Australians"
+                ],
+                "PRODUCT": [
+                    "Learn"
                 ]
             }
         },
@@ -1243,15 +1300,19 @@
                 ],
                 "PERSON": [
                     "Adam Grant",
-                    "Bill"
+                    "TED",
+                    "Bill",
+                    "Adam"
                 ],
                 "ORG": [
                     "Pentagon",
-                    "Melinda Gates Foundation",
-                    "Aboriginal"
+                    "Melinda Gates Foundation"
                 ],
                 "NORP": [
                     "Australians"
+                ],
+                "PRODUCT": [
+                    "Learn"
                 ]
             }
         },
@@ -1280,11 +1341,6 @@
             "pubDate": "Tue, 23 Feb 2021 20:46:22 -0000",
             "title": "Dropping in \u2014 Andrew Stark rescues a world surf tour in record time ",
             "entities": {
-                "ORG": [
-                    "Borders",
-                    "World Surf League",
-                    "Aboriginal"
-                ],
                 "PERSON": [
                     "Andrew Stark\u2019s",
                     "Andrew Stark",
@@ -1296,11 +1352,17 @@
                 "ORDINAL": [
                     "first"
                 ],
+                "ORG": [
+                    "World Surf League"
+                ],
                 "CARDINAL": [
                     "one"
                 ],
                 "NORP": [
                     "Australians"
+                ],
+                "PRODUCT": [
+                    "Learn"
                 ]
             }
         },
@@ -1332,6 +1394,8 @@
             "entities": {
                 "PERSON": [
                     "Andrew Stark",
+                    "Stark",
+                    "Stark",
                     "Stark"
                 ],
                 "CARDINAL": [
@@ -1339,14 +1403,17 @@
                 ],
                 "GPE": [
                     "Hawaii",
+                    "Beach",
                     "Sunset"
                 ],
                 "ORG": [
-                    "Stark",
-                    "Bell\u2019s Beach"
+                    "Bell"
                 ],
                 "NORP": [
                     "Australians"
+                ],
+                "PRODUCT": [
+                    "Learn"
                 ]
             }
         },
@@ -1377,7 +1444,9 @@
             "title": "Staging a comeback \u2014 Jeremy Fleming\u2019s show-stopping pivot from sets to desks ",
             "entities": {
                 "PERSON": [
-                    "Jeremy Fleming"
+                    "Covid",
+                    "Jeremy Fleming",
+                    "Jeremy"
                 ],
                 "CARDINAL": [
                     "four",
@@ -1388,14 +1457,16 @@
                     "overnight"
                 ],
                 "ORG": [
-                    "Curveball",
-                    "Aboriginal"
+                    "WFH"
                 ],
                 "GPE": [
                     "LinkedIn"
                 ],
                 "NORP": [
                     "Australians"
+                ],
+                "PRODUCT": [
+                    "Learn"
                 ]
             }
         },
@@ -1425,38 +1496,45 @@
             "pubDate": "Mon, 08 Feb 2021 15:00:00 -0000",
             "title": "You beauty \u2014 Kate Morris on taking her online cosmetic company from her garage to stock market float ",
             "entities": {
+                "WORK_OF_ART": [
+                    "Sex and the City"
+                ],
                 "PERSON": [
                     "Sarah Jessica Parker",
-                    "Kate Morris",
+                    "Jimmy\u00a0Choos",
+                    "Adore Beauty",
+                    "Morris",
+                    "Adore Beauty",
                     "Kate"
                 ],
                 "ORG": [
                     "the New York Stock Exchange",
                     "Chanel",
+                    "Kate Morris",
                     "Zoom",
-                    "Australian Stock\u00a0Exchange",
-                    "Curveball",
-                    "Aboriginal"
+                    "Australian Stock\u00a0Exchange"
                 ],
                 "DATE": [
                     "one day",
-                    "years"
-                ],
-                "WORK_OF_ART": [
-                    "Adore Beauty"
-                ],
-                "CARDINAL": [
-                    "\u2019d",
-                    "thousands"
+                    "years\u00a0Morris"
                 ],
                 "MONEY": [
                     "600"
+                ],
+                "CARDINAL": [
+                    "thousands"
+                ],
+                "ORDINAL": [
+                    "first"
                 ],
                 "GPE": [
                     "LinkedIn"
                 ],
                 "NORP": [
                     "Australians"
+                ],
+                "PRODUCT": [
+                    "Learn"
                 ]
             }
         },
@@ -1487,20 +1565,21 @@
             "title": "Testing times \u2014 Justin Langer on truth, tough love and making cricket great again ",
             "entities": {
                 "ORG": [
-                    "Mother Cricket",
-                    "Aboriginal"
+                    "Justin Langer",
+                    "LOVE"
+                ],
+                "NORP": [
+                    "Australian",
+                    "Australians"
                 ],
                 "PERSON": [
-                    "Justin Langer"
+                    "Langer"
                 ],
                 "DATE": [
                     "weekly"
                 ],
-                "CARDINAL": [
-                    "about\u00a0"
-                ],
-                "NORP": [
-                    "Australians"
+                "PRODUCT": [
+                    "Learn"
                 ]
             }
         },
@@ -1529,20 +1608,20 @@
             "pubDate": "Mon, 25 Jan 2021 15:00:00 -0000",
             "title": "Lead your team like a MOFO",
             "entities": {
+                "CARDINAL": [
+                    "one"
+                ],
                 "DATE": [
-                    "bad days",
                     "weekly"
                 ],
-                "CARDINAL": [
-                    "one",
-                    "about\u00a0"
-                ],
                 "ORG": [
-                    "TEAM",
-                    "Aboriginal"
+                    "TEAM"
                 ],
                 "NORP": [
                     "Australians"
+                ],
+                "PRODUCT": [
+                    "Learn"
                 ]
             }
         },
@@ -1572,23 +1651,33 @@
             "title": "I get knocked down, but I get up again!  ",
             "entities": {
                 "WORK_OF_ART": [
-                    "FAIL AND FAIL FAST"
+                    "FAIL AND FAIL FAST\u201d\u00a0\u2013 it's\u00a0the\u00a0catch-cry\u00a0currently\u00a0echoing"
                 ],
                 "LOC": [
                     "Silicon Valley"
                 ],
                 "PERSON": [
-                    "Chumbawamba"
+                    "Chumbawamba",
+                    "Keep"
+                ],
+                "GPE": [
+                    "Australia"
+                ],
+                "ORDINAL": [
+                    "first"
                 ],
                 "ORG": [
-                    "LinkedIn",
-                    "Aboriginal"
+                    "LinkedIn"
                 ],
                 "DATE": [
+                    "weekly",
                     "g\u2019day"
                 ],
                 "NORP": [
                     "Australians"
+                ],
+                "PRODUCT": [
+                    "Learn"
                 ]
             }
         },
@@ -1619,28 +1708,27 @@
             "entities": {
                 "DATE": [
                     "the year",
-                    "Holiday",
-                    "2021"
+                    "2021",
+                    "weekly"
                 ],
                 "ORDINAL": [
+                    "first",
                     "first"
                 ],
-                "WORK_OF_ART": [
-                    "The Obstacle"
-                ],
                 "PERSON": [
+                    "Ryan Holiday\u2019s",
                     "Tim Ferriss",
                     "Rachel Fountain"
                 ],
                 "GPE": [
-                    "Australia"
-                ],
-                "ORG": [
-                    "LinkedIn",
-                    "Aboriginal"
+                    "Australia",
+                    "LinkedIn"
                 ],
                 "NORP": [
                     "Australians"
+                ],
+                "PRODUCT": [
+                    "Learn"
                 ]
             }
         },
@@ -1676,18 +1764,17 @@
                     "2021"
                 ],
                 "PERSON": [
-                    "Eloise Keating"
+                    "Eloise Keating",
+                    "Annnndddd Curveball"
                 ],
-                "ORG": [
-                    "Instagram",
-                    "LinkedIn",
-                    "Aboriginal"
-                ],
-                "CARDINAL": [
-                    "\u2019d"
+                "GPE": [
+                    "LinkedIn"
                 ],
                 "NORP": [
                     "Australians"
+                ],
+                "PRODUCT": [
+                    "Learn"
                 ]
             }
         },
@@ -1721,6 +1808,7 @@
                     "Michael Fox",
                     "Michael",
                     "Michael Fox",
+                    "Prey",
                     "Heston Blumenthal",
                     "Kyle Hopkins"
                 ],
@@ -1728,12 +1816,12 @@
                     "first"
                 ],
                 "ORG": [
-                    "Shoes of Prey",
                     "Fable Foods",
+                    "Canberra Podcast",
                     "Voice"
                 ],
-                "CARDINAL": [
-                    "\u2019d"
+                "PRODUCT": [
+                    "Learn"
                 ]
             }
         },
@@ -1764,9 +1852,13 @@
             "title": "School of hard knocks \u2013 Dr Briony Scott on shutting down schools and firing up online classrooms",
             "entities": {
                 "PERSON": [
-                    "COVID-19 first",
+                    "COVID-19",
                     "Briony Scott",
-                    "Scott\u00a0"
+                    "Dr Scott",
+                    "Scott"
+                ],
+                "ORDINAL": [
+                    "first"
                 ],
                 "GPE": [
                     "Australia",
@@ -1776,10 +1868,13 @@
                     "year seven"
                 ],
                 "ORG": [
-                    "Wenona School"
+                    "Principal of Wenona School"
                 ],
                 "CARDINAL": [
                     "five thousand"
+                ],
+                "PRODUCT": [
+                    "Learn"
                 ]
             }
         },
@@ -1816,21 +1911,27 @@
                 ],
                 "GPE": [
                     "Australia",
+                    "Australia",
+                    "n\u2019t",
                     "Netflix"
                 ],
                 "ORG": [
                     "Token Group",
-                    "Guesswork Television",
-                    "Kevin",
-                    "Kevin",
-                    "Learn"
+                    "Guesswork Television"
                 ],
                 "PERSON": [
-                    "Kevin Whyte"
+                    "Kevin Whyte",
+                    "Kevin",
+                    "Mum",
+                    "Kevin",
+                    "Kevin"
                 ],
                 "ORDINAL": [
                     "first",
                     "first"
+                ],
+                "PRODUCT": [
+                    "Learn"
                 ]
             }
         },
@@ -1861,15 +1962,17 @@
             "title": "Cereal-ising success \u2014 setbacks, comebacks and taking risks with Carman\u2019s muesli mogul Carolyn Creswell ",
             "entities": {
                 "PERSON": [
-                    "Carolyn Creswell"
+                    "Carolyn Creswell",
+                    "Carman",
+                    "Carolyn",
+                    "Twitter"
                 ],
                 "CARDINAL": [
                     "eight",
                     "three"
                 ],
-                "ORG": [
-                    "Carman",
-                    "@deadsetstudios"
+                "PRODUCT": [
+                    "Learn"
                 ]
             }
         },
@@ -1898,21 +2001,22 @@
             "pubDate": "Mon, 16 Nov 2020 15:05:00 -0000",
             "title": "Hard landing \u2014 Outgoing Virgin Australia CEO Paul Scurrah mans the evacuation slide ",
             "entities": {
-                "ORG": [
-                    "Virgin Australia",
-                    "Qantas",
-                    "BONUS",
-                    "Australia Post\u2019s",
-                    "Instagram"
-                ],
                 "PERSON": [
+                    "Outgoing Virgin Australia",
                     "Paul Scurrah",
                     "Kellie Riordan",
+                    "Scurrah",
+                    "Virgin Australia",
                     "Jayne Hrdlicka",
                     "Paul Scurrah"
                 ],
+                "ORG": [
+                    "Qantas",
+                    "Australia Post\u2019s"
+                ],
                 "PRODUCT": [
-                    "Twitter"
+                    "Twitter",
+                    "Learn"
                 ]
             }
         },
@@ -1944,11 +2048,15 @@
             "entities": {
                 "PERSON": [
                     "Kellie Riordan",
-                    "Paul Scurrah"
+                    "Paul Scurrah",
+                    "Paul\u00a0Scurrah"
                 ],
                 "GPE": [
                     "Virgin",
                     "Australia"
+                ],
+                "ORG": [
+                    "COVID-19"
                 ],
                 "DATE": [
                     "days later"
@@ -1956,14 +2064,11 @@
                 "MONEY": [
                     "$6 billion"
                 ],
+                "TIME": [
+                    "almost overnight"
+                ],
                 "PRODUCT": [
                     "Twitter"
-                ],
-                "ORG": [
-                    "Instagram"
-                ],
-                "WORK_OF_ART": [
-                    "Learn"
                 ]
             }
         },
@@ -1996,13 +2101,12 @@
                     "this year"
                 ],
                 "PERSON": [
-                    "Kellie Riordan"
+                    "Kellie Riordan",
+                    "Kellie"
                 ],
                 "PRODUCT": [
-                    "Twitter"
-                ],
-                "ORG": [
-                    "Instagram"
+                    "Twitter",
+                    "Learn"
                 ]
             }
         }
@@ -2057,8 +2161,7 @@
         "PRODUCT": [
             "Twitter"
         ],
-        "ORG": [
-            "Instagram",
+        "GPE": [
             "LinkedIn"
         ],
         "DATE": [

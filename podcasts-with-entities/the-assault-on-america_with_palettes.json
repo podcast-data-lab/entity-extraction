@@ -31,8 +31,7 @@
             "title": "Episode 1: The Digital Fever Swamp",
             "entities": {
                 "PERSON": [
-                    "Robert Evans",
-                    "Cool Zone Media"
+                    "Robert Evans"
                 ],
                 "FAC": [
                     "Capitol"
@@ -40,11 +39,14 @@
                 "NORP": [
                     "American"
                 ],
-                "GPE": [
-                    "America"
-                ],
                 "ORG": [
-                    "Novel",
+                    "The Assault on America",
+                    "Novel"
+                ],
+                "GPE": [
+                    "Cool Zone Media"
+                ],
+                "WORK_OF_ART": [
                     "Learn"
                 ]
             }
@@ -74,14 +76,16 @@
             "entities": {
                 "PERSON": [
                     "Robert Evans",
-                    "Donald Trump\u2019s",
-                    "Cool Zone Media"
-                ],
-                "GPE": [
-                    "America"
+                    "Donald Trump\u2019s"
                 ],
                 "ORG": [
-                    "Novel",
+                    "The Assault on America",
+                    "Novel"
+                ],
+                "GPE": [
+                    "Cool Zone Media"
+                ],
+                "WORK_OF_ART": [
                     "Learn"
                 ]
             }
@@ -114,14 +118,16 @@
                     "Capitol"
                 ],
                 "PERSON": [
-                    "Robert Evans",
-                    "Cool Zone Media"
-                ],
-                "GPE": [
-                    "America"
+                    "Robert Evans"
                 ],
                 "ORG": [
-                    "Novel",
+                    "The Assault on America",
+                    "Novel"
+                ],
+                "GPE": [
+                    "Cool Zone Media"
+                ],
+                "WORK_OF_ART": [
                     "Learn"
                 ]
             }
@@ -154,14 +160,16 @@
                     "Capitol"
                 ],
                 "PERSON": [
-                    "Robert Evans",
-                    "Cool Zone Media"
-                ],
-                "GPE": [
-                    "America"
+                    "Robert Evans"
                 ],
                 "ORG": [
-                    "Novel",
+                    "The Assault on America",
+                    "Novel"
+                ],
+                "GPE": [
+                    "Cool Zone Media"
+                ],
+                "WORK_OF_ART": [
                     "Learn"
                 ]
             }
@@ -190,16 +198,19 @@
             "title": "Episode 5: The Inside Man",
             "entities": {
                 "PERSON": [
-                    "Donald Trump\u2019s Big Lie",
+                    "Donald Trump"
+                ],
+                "GPE": [
+                    "Big Lie",
                     "Cool Zone Media"
                 ],
                 "ORG": [
                     "the Senate Chamber",
-                    "Novel",
-                    "Learn"
+                    "The Assault on America",
+                    "Novel"
                 ],
-                "GPE": [
-                    "America"
+                "WORK_OF_ART": [
+                    "Learn"
                 ]
             }
         },
@@ -231,20 +242,21 @@
                 ],
                 "PERSON": [
                     "Donald Trump",
-                    "Robert Evans",
-                    "Cool Zone Media"
+                    "Robert Evans"
                 ],
                 "CARDINAL": [
                     "zero"
                 ],
                 "ORG": [
-                    "Capitol Police",
-                    "bear spray",
-                    "Novel",
-                    "Learn"
+                    "Capitol",
+                    "The Assault on America",
+                    "Novel"
                 ],
                 "GPE": [
-                    "America"
+                    "Cool Zone Media"
+                ],
+                "WORK_OF_ART": [
+                    "Learn"
                 ]
             }
         },
@@ -275,17 +287,21 @@
                     "Capitol"
                 ],
                 "PERSON": [
-                    "Robert Evans",
-                    "Cool Zone Media"
+                    "Episode",
+                    "Robert Evans"
                 ],
                 "CARDINAL": [
+                    "6",
                     "one"
                 ],
-                "GPE": [
-                    "America"
-                ],
                 "ORG": [
-                    "Novel",
+                    "The Assault on America",
+                    "Novel"
+                ],
+                "GPE": [
+                    "Cool Zone Media"
+                ],
+                "WORK_OF_ART": [
                     "Learn"
                 ]
             }
@@ -327,19 +343,21 @@
                     "Sonia Avaki",
                     "Theresa Campagna",
                     "Max O\u2019Brien",
-                    "Cool Zone Media"
+                    "Sophie Lichterman"
                 ],
                 "DATE": [
                     "January 6th"
                 ],
-                "GPE": [
-                    "America",
-                    "America"
+                "WORK_OF_ART": [
+                    "The Assault on America",
+                    "Learn"
                 ],
                 "ORG": [
-                    "Sophie Lichterman",
-                    "Novel",
-                    "Learn"
+                    "The Assault on America",
+                    "Novel"
+                ],
+                "GPE": [
+                    "Cool Zone Media"
                 ]
             }
         },
@@ -374,7 +392,7 @@
                 "NORP": [
                     "American"
                 ],
-                "ORG": [
+                "WORK_OF_ART": [
                     "Learn"
                 ]
             }
@@ -427,7 +445,7 @@
         "PERSON": [
             "Robert Evans"
         ],
-        "FAC": [
+        "ORG": [
             "Capitol"
         ]
     }

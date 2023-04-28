@@ -35,8 +35,8 @@
                 "DATE": [
                     "2022"
                 ],
-                "CARDINAL": [
-                    "#"
+                "PERSON": [
+                    "LazarusHeist"
                 ]
             }
         },
@@ -65,10 +65,13 @@
                     "150"
                 ],
                 "MONEY": [
-                    "billions of dollars"
+                    "billions of dollars",
+                    "about #"
                 ],
                 "ORG": [
-                    "WannaCry",
+                    "WannaCry"
+                ],
+                "PERSON": [
                     "Marcus Hutchins"
                 ]
             }
@@ -94,9 +97,8 @@
             "pubDate": "Sun, 13 Jun 2021 23:30:00 +0000",
             "title": "9. The Macau connection",
             "entities": {
-                "CARDINAL": [
-                    "one",
-                    "about #"
+                "NORP": [
+                    "LazarusHeist"
                 ],
                 "PERSON": [
                     "Kim Jong-nam"
@@ -129,12 +131,15 @@
             "title": "8. The multimillion mistake",
             "entities": {
                 "MONEY": [
-                    "$20 million"
+                    "over $20 million"
                 ],
                 "GPE": [
                     "Japan"
                 ],
-                "ORG": [
+                "CARDINAL": [
+                    "#"
+                ],
+                "PERSON": [
                     "LazarusHeist"
                 ]
             }
@@ -161,12 +166,12 @@
             "title": "7. Korean roulette",
             "entities": {
                 "MONEY": [
-                    "billion dollar"
+                    "the billion dollar"
                 ],
                 "GPE": [
                     "Philippines"
                 ],
-                "ORG": [
+                "PERSON": [
                     "LazarusHeist"
                 ]
             }
@@ -192,7 +197,10 @@
             "pubDate": "Sun, 23 May 2021 23:15:00 +0000",
             "title": "6. Cyber slaves",
             "entities": {
-                "ORG": [
+                "CARDINAL": [
+                    "#"
+                ],
+                "PERSON": [
                     "LazarusHeist"
                 ]
             }
@@ -219,13 +227,12 @@
             "title": "5. Cyber warriors",
             "entities": {
                 "ORG": [
-                    "Surveillance",
                     "FBI",
-                    "Lazarus",
-                    "LazarusHeist"
+                    "Lazarus"
                 ],
                 "PERSON": [
-                    "Park Jin Hyok"
+                    "Park Jin Hyok",
+                    "LazarusHeist"
                 ]
             }
         },
@@ -251,7 +258,12 @@
             "title": "4. Billion dollar hack",
             "entities": {
                 "ORG": [
-                    "Bangladesh Bank",
+                    "Bangladesh Bank"
+                ],
+                "CARDINAL": [
+                    "#"
+                ],
+                "PERSON": [
                     "LazarusHeist"
                 ]
             }
@@ -277,10 +289,10 @@
             "pubDate": "Sun, 02 May 2021 23:15:00 +0000",
             "title": "3. Superdollars",
             "entities": {
-                "WORK_OF_ART": [
-                    "The Smoking Dragon"
+                "CARDINAL": [
+                    "#"
                 ],
-                "ORG": [
+                "PERSON": [
                     "LazarusHeist"
                 ]
             }
@@ -311,14 +323,14 @@
                     "North Korea"
                 ],
                 "PERSON": [
-                    "Obama"
-                ],
-                "ORG": [
-                    "Sony",
+                    "Obama",
                     "LazarusHeist"
                 ],
-                "PRODUCT": [
-                    "hack"
+                "ORG": [
+                    "Sony"
+                ],
+                "CARDINAL": [
+                    "#"
                 ]
             }
         },
@@ -344,13 +356,13 @@
             "title": "1. Hacking Hollywood",
             "entities": {
                 "PERSON": [
-                    "Kim Jong-un"
+                    "Kim Jong-un",
+                    "LazarusHeist"
                 ],
                 "ORG": [
                     "Sony",
-                    "Lazarus Group",
-                    "Sony Pictures Entertainment",
-                    "LazarusHeist"
+                    "the Lazarus Group",
+                    "Sony Pictures Entertainment"
                 ],
                 "GPE": [
                     "Hollywood"
@@ -389,8 +401,10 @@
                 "DATE": [
                     "19 April 2021"
                 ],
+                "ORG": [
+                    "Geoff White"
+                ],
                 "PERSON": [
-                    "Geoff White",
                     "Jean Lee"
                 ]
             }
@@ -422,6 +436,9 @@
     "pubDate": "Wed, 22 Dec 2021 00:05:00 +0000",
     "title": "The Lazarus Heist",
     "entities": {
+        "MONEY": [
+            "a billion dollars"
+        ],
         "GPE": [
             "North Korea",
             "Pyongyang",

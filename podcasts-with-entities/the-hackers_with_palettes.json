@@ -32,6 +32,9 @@
                 "DATE": [
                     "Today"
                 ],
+                "ORG": [
+                    "the EU Right to Repair Movement"
+                ],
                 "GPE": [
                     "Nebraska"
                 ]
@@ -115,12 +118,18 @@
                     "One",
                     "two"
                 ],
+                "WORK_OF_ART": [
+                    "The Open Source"
+                ],
                 "PERSON": [
+                    "Biella",
                     "Peter Sunde",
                     "Karen Sandler"
                 ],
+                "GPE": [
+                    "Pirate"
+                ],
                 "ORG": [
-                    "the Pirate bay",
                     "the Software Freedom Conservancy"
                 ],
                 "DATE": [
@@ -189,33 +198,32 @@
                     "Aaron Swartz",
                     "Aaron",
                     "Aaron",
-                    "Abuse Act",
+                    "Biella",
                     "Lawrence Lessig",
                     "Aaron",
-                    "a Lisa Rein",
+                    "Lisa Rein",
+                    "Aaron",
                     "Aaron",
                     "Aaron"
-                ],
-                "DATE": [
-                    "the age of",
-                    "14"
                 ],
                 "ORG": [
                     "Creative Commons",
                     "the Internet Archive",
-                    "the Computer Fraud",
+                    "the Stop Online Piracy Act",
                     "Harvard",
-                    "Creative Commons",
-                    "Aaron",
+                    "the Creative Commons",
                     "Supreme Court",
                     "CFAA"
                 ],
-                "GPE": [
-                    "Reddit",
-                    "USA"
+                "NORP": [
+                    "Reddit"
                 ],
-                "CARDINAL": [
-                    "26"
+                "GPE": [
+                    "USA",
+                    "the Computer Fraud"
+                ],
+                "DATE": [
+                    "the age of 26"
                 ],
                 "MONEY": [
                     "millions of dollars"
@@ -244,7 +252,8 @@
             "title": "Press Ganged",
             "entities": {
                 "DATE": [
-                    "the 1980s and 90s"
+                    "the 1980s",
+                    "90s"
                 ],
                 "NORP": [
                     "French"
@@ -274,7 +283,9 @@
             "entities": {
                 "PERSON": [
                     "Biella",
-                    "Chris Wysopal"
+                    "Grey",
+                    "Chris Wysopal",
+                    "L0pht"
                 ]
             }
         },
@@ -307,7 +318,7 @@
                     "first",
                     "first"
                 ],
-                "ORG": [
+                "FAC": [
                     "Pentagon"
                 ],
                 "PERSON": [
@@ -336,11 +347,17 @@
             "pubDate": "Mon, 13 Dec 2021 13:45:00 +0000",
             "title": "Phreaks",
             "entities": {
+                "ORG": [
+                    "The Phone Phreaks"
+                ],
                 "PERSON": [
                     "Phil Lapsley"
                 ],
                 "GPE": [
                     "UK"
+                ],
+                "CARDINAL": [
+                    "one"
                 ]
             }
         },
@@ -369,10 +386,12 @@
                     "Digital"
                 ],
                 "PERSON": [
-                    "Gabriella Coleman"
+                    "Gabriella Coleman",
+                    "Phreaked"
                 ],
                 "DATE": [
-                    "the 1950s"
+                    "the 1950s",
+                    "the present day"
                 ]
             }
         }
@@ -424,7 +443,6 @@
             "Gabriella Coleman"
         ],
         "DATE": [
-            "each era",
             "the 1970s",
             "the present day"
         ]

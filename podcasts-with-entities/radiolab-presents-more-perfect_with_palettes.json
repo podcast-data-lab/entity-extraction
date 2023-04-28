@@ -39,24 +39,13 @@
             "pubDate": "Tue, 04 Dec 2018 12:00:00 -0500",
             "title": "The Most Perfect Album: Episode 9\r\n",
             "entities": {
-                "GPE": [
-                    "Perfect</span><em><span><span",
-                    "notes.</span></em></p",
-                    "Washington D.C.",
-                    "D.C.",
-                    "D.C.",
-                    "D.C.",
-                    "D.C.",
-                    "D.C.",
-                    "Watson"
-                ],
                 "ORG": [
                     "the Supreme Court",
-                    "Constitutional",
+                    "notes.</span></em></p",
                     "Congress",
                     "Congress",
-                    "href=\"https://project.wnyc.org",
-                    "href=\"https://project.wnyc.org/themostperfectalbum/#amendment-27\">27th Amendment"
+                    "The Mellow Tones",
+                    "Duke Ellington School of the Arts"
                 ],
                 "CARDINAL": [
                     "27",
@@ -71,21 +60,29 @@
                 "LAW": [
                     "Constitution",
                     "Constitution",
-                    "Constitution"
+                    "Constitution",
+                    "the 27th Amendment"
+                ],
+                "PERSON": [
+                    "Perfect</em",
+                    "Eleanor Holmes Norton",
+                    "Mark G. Meadows",
+                    "James Madison",
+                    "Gregory Watson",
+                    "Kevin Devine",
+                    "Watson"
                 ],
                 "DATE": [
                     "the season",
                     "1789"
                 ],
-                "PERSON": [
-                    "Eleanor Holmes Norton",
-                    "Mark G. Meadows",
-                    "James Madison",
-                    "Gregory Watson",
-                    "Kevin Devine"
-                ],
-                "PRODUCT": [
-                    "The Mellow Tones"
+                "GPE": [
+                    "Washington D.C.",
+                    "D.C.",
+                    "D.C.",
+                    "D.C.",
+                    "D.C.",
+                    "D.C."
                 ],
                 "ORDINAL": [
                     "first"
@@ -126,28 +123,24 @@
             "pubDate": "Fri, 30 Nov 2018 12:00:00 -0500",
             "title": "The Most Perfect Album: Episode 8\r\n",
             "entities": {
-                "GPE": [
-                    "Perfect</span><em><span><span",
-                    "notes.</span></em></p",
-                    "U.S."
-                ],
                 "ORG": [
                     "the Supreme Court",
+                    "notes.</span></em></p",
                     "Octopus Project's",
-                    "href=\"https://project.wnyc.org",
                     "Congress",
-                    "href=\"https://project.wnyc.org",
-                    "href=\"https://project.wnyc.org"
+                    "Huey Supreme"
                 ],
                 "CARDINAL": [
                     "27",
                     "27",
                     "27",
                     "three",
-                    "one"
+                    "three"
                 ],
                 "LAW": [
-                    "Constitution"
+                    "Constitution",
+                    "the 12th Amendment",
+                    "the 20th Amendment"
                 ],
                 "DATE": [
                     "This week",
@@ -157,23 +150,27 @@
                 ],
                 "ORDINAL": [
                     "20th",
-                    "17th",
+                    "20th",
+                    "first",
                     "17th"
                 ],
-                "WORK_OF_ART": [
-                    "The Election of 1800"
-                ],
                 "PERSON": [
+                    "Hamilton",
                     "Aaron Burr",
                     "Thomas Jefferson",
                     "Rachael Cusick",
                     "Clinton",
                     "Warren G. Harding",
+                    "Perfect</em",
+                    "Perfect</em",
                     "Stef Chura",
                     "Donny Dinero"
                 ],
-                "FAC": [
-                    "duck</a>.</p"
+                "WORK_OF_ART": [
+                    "The Election of 1800"
+                ],
+                "GPE": [
+                    "U.S."
                 ]
             }
         },
@@ -223,26 +220,33 @@
                     "Eighteen-year-olds",
                     "today"
                 ],
+                "GPE": [
+                    "Perfect</span><em><span",
+                    "Vietnam"
+                ],
                 "ORG": [
                     "the Supreme Court",
+                    "notes.</span></em></p",
                     "Suburban Living",
+                    "Amendments 25",
                     "The White House Historical Association"
                 ],
                 "CARDINAL": [
                     "27",
                     "27",
                     "27",
-                    "25",
-                    "26",
-                    "target=\"_blank\">Justin"
+                    "26"
                 ],
                 "LAW": [
-                    "Constitution"
+                    "Constitution",
+                    "the 25th Amendment",
+                    "the 25th Amendment",
+                    "The 26th Amendment"
                 ],
-                "GPE": [
-                    "notes.</span></em></p",
-                    "Vietnam",
-                    "width=\"620\"></iframe></p"
+                "ORDINAL": [
+                    "25th",
+                    "26th",
+                    "first"
                 ],
                 "NORP": [
                     "American",
@@ -252,10 +256,12 @@
                 "PERSON": [
                     "Woodrow Wilson",
                     "Edith Wilson",
-                    "Devendra Banhart"
+                    "Devendra Banhart</span",
+                    "Devendra Banhart's",
+                    "target=\"_blank\">Justin"
                 ],
-                "ORDINAL": [
-                    "first"
+                "EVENT": [
+                    "War"
                 ]
             }
         },
@@ -296,36 +302,35 @@
             "entities": {
                 "DATE": [
                     "This season",
-                    "third season",
-                    "every April"
+                    "the\u00a016th"
                 ],
                 "ORG": [
                     "the Supreme Court",
-                    "href=\"https://project.wnyc.org",
-                    "Constitutional\u00a0",
-                    "Perfect",
-                    "href=\"https://project.wnyc.org/themostperfectalbum/\">27"
+                    "Post Animal"
                 ],
                 "CARDINAL": [
                     "27",
                     "27",
                     "27",
-                    "6",
                     "millions",
-                    "16",
                     "22"
                 ],
-                "WORK_OF_ART": [
-                    "target=\"_blank\">27"
-                ],
                 "ORDINAL": [
-                    "first"
+                    "first",
+                    "third",
+                    "16th",
+                    "16th"
+                ],
+                "PRODUCT": [
+                    "Constitutional"
                 ],
                 "NORP": [
                     "Americans"
                 ],
                 "LAW": [
-                    "Constitution"
+                    "Constitution",
+                    "the 22nd Amendment",
+                    "Amendments 16"
                 ],
                 "GPE": [
                     "U.S."
@@ -378,39 +383,27 @@
                     "This season",
                     "14",
                     "This week",
-                    "2018"
+                    "2018",
+                    "the day"
                 ],
                 "ORG": [
                     "the Supreme Court",
-                    "target=\"_blank\"><em>27",
                     "the Reconstruction Amendments",
-                    "href=\"https://project.wnyc.org",
-                    "Bette Smith</a>",
-                    "Amendment's",
-                    "href=\"https://project.wnyc.org",
+                    "Amendment",
                     "American Internment",
                     "the Supreme Court",
                     "the\u00a0Supreme Court",
-                    "Court",
-                    "/span><span>\"Korematsu",
-                    "Justice Sotomayor",
-                    "href=\"https://project.wnyc.org",
-                    "href=\"https://project.wnyc.org",
-                    "href=\"https://project.wnyc.org"
+                    "Court"
                 ],
                 "CARDINAL": [
                     "27",
                     "27",
                     "27",
-                    "13",
-                    "15",
-                    "target=\"_blank\">Korematsu"
+                    "15"
                 ],
                 "LAW": [
-                    "Constitution"
-                ],
-                "LANGUAGE": [
-                    "notes.<br></em></p"
+                    "Constitution",
+                    "the 15th Amendment"
                 ],
                 "EVENT": [
                     "Civil War",
@@ -422,22 +415,27 @@
                     "Elie Mystal",
                     "Julia Longoria",
                     "Alia Almeida",
-                    "Kay",
+                    "themostperfectalbum/#amendment-14\">Sarah Kay's",
+                    "target=\"_blank\">Korematsu v. United States</a></em><span",
                     "Trump",
+                    "Trump",
+                    "Sotomayor",
                     "themostperfectalbum/#amendment-15\">Aisha Burns"
                 ],
                 "GPE": [
                     "Legal",
+                    "Bette Smith</a",
                     "U.S.",
                     "U.S."
+                ],
+                "ORDINAL": [
+                    "14th",
+                    "14th"
                 ],
                 "NORP": [
                     "Japanese",
                     "Japanese",
                     "american"
-                ],
-                "ORDINAL": [
-                    "14th"
                 ]
             }
         },
@@ -477,30 +475,31 @@
             "entities": {
                 "DATE": [
                     "This season",
+                    "a hot summer night",
+                    "years-old",
                     "1964"
                 ],
                 "ORG": [
                     "the Supreme Court",
-                    "target=\"_blank\"><em>27",
-                    "href=\"https://project.wnyc.org",
-                    "href=\"http://www.pewresearch.org",
-                    "href=\"https://project.wnyc.org",
-                    "href=\"https://project.wnyc.org",
-                    "href=\"https://www.oyez.org",
-                    "href=\"https://project.wnyc.org"
+                    "notes.<br><br></em",
+                    "Amendment</a"
                 ],
                 "CARDINAL": [
                     "27",
                     "27",
                     "27",
-                    "Four",
                     "one"
                 ],
                 "LAW": [
                     "Constitution"
                 ],
-                "TIME": [
-                    "summer night"
+                "PERSON": [
+                    "Episode Four",
+                    "Dolly Parton",
+                    "huge</em",
+                    "Kevin Morby",
+                    "Simon Tam",
+                    "Slants</a"
                 ],
                 "GPE": [
                     "Tennessee",
@@ -508,12 +507,9 @@
                 ],
                 "ORDINAL": [
                     "24th",
-                    "18th",
-                    "21st"
-                ],
-                "PERSON": [
-                    "Kevin Morby",
-                    "Simon Tam"
+                    "24th",
+                    "24th",
+                    "18th"
                 ]
             }
         },
@@ -553,42 +549,38 @@
             "entities": {
                 "DATE": [
                     "This season",
-                    "one.</p"
+                    "10"
                 ],
                 "ORG": [
                     "the Supreme Court",
-                    "href=\"https://project.wnyc.org",
-                    "the U.S. Constitution",
-                    "href=\"https://project.wnyc.org",
-                    "Field Medic",
-                    "Amendments",
-                    "href=\"https://project.wnyc.org"
+                    "Field Medic"
                 ],
                 "CARDINAL": [
                     "27",
                     "27",
                     "27",
                     "eight",
-                    "10",
                     "11",
                     "three",
-                    "Three",
                     "three",
+                    "10",
                     "11"
-                ],
-                "WORK_OF_ART": [
-                    "target=\"_blank\">27",
-                    "target=\"_blank\">27"
                 ],
                 "ORDINAL": [
                     "first",
                     "third"
                 ],
                 "LAW": [
+                    "the U.S. Constitution",
                     "Constitution"
                 ],
                 "GPE": [
+                    "least</em",
                     "Kominas"
+                ],
+                "PERSON": [
+                    "Perfect</em",
+                    "Episode Three"
                 ],
                 "EVENT": [
                     "Lean Year"
@@ -635,47 +627,39 @@
             "entities": {
                 "DATE": [
                     "This season",
+                    "Eighth",
                     "5",
-                    "6"
+                    "6",
+                    "7"
                 ],
                 "ORG": [
                     "the Supreme Court",
-                    "href=\"https://project.wnyc.org",
-                    "href=\"https://project.wnyc.org",
-                    "Briana Marela",
-                    "Torres",
-                    "Amendments",
-                    "href=\"https://project.wnyc.org"
+                    "Amendments\u00a04,"
                 ],
                 "CARDINAL": [
                     "27",
                     "27",
                     "27",
-                    "Two",
                     "one",
-                    "7",
                     "8"
                 ],
-                "WORK_OF_ART": [
-                    "target=\"_blank\">27",
-                    "target=\"_blank\">27"
-                ],
                 "ORDINAL": [
-                    "Fourth",
-                    "Sixth",
-                    "Seventh"
+                    "Fourth"
                 ],
                 "GPE": [
                     "Fifth",
-                    "Eighth Amendments</strong",
+                    "Sixth",
+                    "Seventh",
                     "Dallas"
                 ],
                 "PERSON": [
+                    "Episode Two",
                     "Christopher Scott",
                     "Christopher",
+                    "Briana Marela",
+                    "Torres",
                     "Adia Victoria",
                     "Nana Grizol",
-                    "High Waisted",
                     "Gloria Browne-Marshall",
                     "David Gray.</em></p"
                 ],
@@ -723,19 +707,18 @@
                 ],
                 "GPE": [
                     "Las Vegas",
-                    "America"
+                    "America",
+                    "NRA"
                 ],
-                "EVENT": [
+                "LAW": [
                     "the Second Amendment",
                     "the Second Amendment"
                 ],
-                "ORG": [
-                    "the Black Panthers",
-                    "NRA",
-                    "the Supreme Court"
-                ],
                 "PERSON": [
                     "Dick Heller"
+                ],
+                "ORG": [
+                    "the Supreme Court"
                 ],
                 "ORDINAL": [
                     "first"
@@ -778,15 +761,13 @@
             "title": "The Most Perfect Album: Episode 1\r\n",
             "entities": {
                 "DATE": [
-                    "This season",
-                    "Sateen"
+                    "This season"
                 ],
                 "ORG": [
-                    "Perfect",
                     "the Supreme Court",
-                    "Amendments",
                     "Palehound",
-                    "Giants"
+                    "Giants",
+                    "Amendments 1"
                 ],
                 "CARDINAL": [
                     "27",
@@ -796,23 +777,24 @@
                     "2",
                     "3"
                 ],
-                "EVENT": [
-                    "the U.S. Constitution",
-                    "the Second Amendment"
-                ],
                 "ORDINAL": [
                     "First",
                     "Second",
                     "Third"
                 ],
-                "LAW": [
-                    "the First Amendment"
-                ],
                 "PERSON": [
+                    "Episode One",
                     "Joey Stylez",
-                    "Cherry Glazerr",
                     "Flor de Toloache",
                     "Michael Richard Klics"
+                ],
+                "LAW": [
+                    "the First Amendment",
+                    "the Second Amendment",
+                    "Third Amendment"
+                ],
+                "GPE": [
+                    "Cherry Glazerr"
                 ]
             }
         },
@@ -825,7 +807,7 @@
                 "music",
                 "supreme_court"
             ],
-            "content": "<p>This fall, More Perfect is doing something brand new: We\u2019re making an album!</p>\r\n<p><div class=\"user-embedded-video\"><div id=\"videoplayer_idm13968080390779210659c21-4ccd-4599-b8fb-82b8c5ab7c8f\"><iframe width=\"620\" height=\"349\" src=\"https://www.youtube.com/embed/RNObG3eNAdo?wmode=transparent&amp;autohide=1&amp;rel=0&amp;showinfo=0&amp;feature=oembed&amp;enablejsapi=1\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen=\"allowfullscreen\" id=\"a636699124387574044\" class=\"youtube_video\" mozallowfullscreen=\"mozallowfullscreen\" webkitallowfullscreen=\"webkitallowfullscreen\" data-original-url=\"https://youtu.be/RNObG3eNAdo\"></iframe></div></div> \u00a0</p>\r\n<p>It\u2019s called\u00a0<em>27: The Most Perfect Album.\u00a0</em>We\u2019ve partnered with some of the best musicians in the world\u2014\u00a0artists like Dolly Parton, Kevin Morby, Devendra Banhart, Aisha Burns, and more \u2014 to create songs inspired by the 27 amendments to the U.S. Constitution.\u00a0</p>\r\n<p>Alongside the album, we\u2019ll be launching SEASON THREE of our podcast, deep-diving into the history and resonance of the constitutional amendments with off-beat stories and lush sound.<br><br>The album and podcast drop September 18, 2018. Get ready!</p>\r\n",
+            "content": "<p>This fall, More Perfect is doing something brand new: We\u2019re making an album!</p>\r\n<p><div class=\"user-embedded-video\"><div id=\"videoplayer_idm140472113521104e61496d8-2045-42c9-b96e-653fe2e96738\"><iframe width=\"620\" height=\"349\" src=\"https://www.youtube.com/embed/RNObG3eNAdo?wmode=transparent&amp;autohide=1&amp;rel=0&amp;showinfo=0&amp;feature=oembed&amp;enablejsapi=1\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen=\"allowfullscreen\" id=\"a636699124387574044\" class=\"youtube_video\" mozallowfullscreen=\"mozallowfullscreen\" webkitallowfullscreen=\"webkitallowfullscreen\" data-original-url=\"https://youtu.be/RNObG3eNAdo\"></iframe></div></div> \u00a0</p>\r\n<p>It\u2019s called\u00a0<em>27: The Most Perfect Album.\u00a0</em>We\u2019ve partnered with some of the best musicians in the world\u2014\u00a0artists like Dolly Parton, Kevin Morby, Devendra Banhart, Aisha Burns, and more \u2014 to create songs inspired by the 27 amendments to the U.S. Constitution.\u00a0</p>\r\n<p>Alongside the album, we\u2019ll be launching SEASON THREE of our podcast, deep-diving into the history and resonance of the constitutional amendments with off-beat stories and lush sound.<br><br>The album and podcast drop September 18, 2018. Get ready!</p>\r\n",
             "content:encoded": "<p>This fall, More Perfect is doing something brand new: We\u2019re making an album!</p>\n<p> \u00a0</p>\n<p>It\u2019s called\u00a0<em>27: The Most Perfect Album.\u00a0</em>We\u2019ve partnered with some of the best musicians in the world\u2014\u00a0artists like Dolly Parton, Kevin Morby, Devendra Banhart, Aisha Burns, and more \u2014 to create songs inspired by the 27 amendments to the U.S. Constitution.\u00a0</p>\n<p>Alongside the album, we\u2019ll be launching SEASON THREE of our podcast, deep-diving into the history and resonance of the constitutional amendments with off-beat stories and lush sound.The album and podcast drop September 18, 2018. Get ready!</p>",
             "content:encodedSnippet": "This fall, More Perfect is doing something brand new: We\u2019re making an album!\n \u00a0\nIt\u2019s called\u00a027: The Most Perfect Album.\u00a0We\u2019ve partnered with some of the best musicians in the world\u2014\u00a0artists like Dolly Parton, Kevin Morby, Devendra Banhart, Aisha Burns, and more \u2014 to create songs inspired by the 27 amendments to the U.S. Constitution.\u00a0\nAlongside the album, we\u2019ll be launching SEASON THREE of our podcast, deep-diving into the history and resonance of the constitutional amendments with off-beat stories and lush sound.The album and podcast drop September 18, 2018. Get ready!",
             "contentSnippet": "This fall, More Perfect is doing something brand new: We\u2019re making an album!\n\r\n\n\n \u00a0\n\r\nIt\u2019s called\u00a027: The Most Perfect Album.\u00a0We\u2019ve partnered with some of the best musicians in the world\u2014\u00a0artists like Dolly Parton, Kevin Morby, Devendra Banhart, Aisha Burns, and more \u2014 to create songs inspired by the 27 amendments to the U.S. Constitution.\u00a0\n\r\nAlongside the album, we\u2019ll be launching SEASON THREE of our podcast, deep-diving into the history and resonance of the constitutional amendments with off-beat stories and lush sound.\nThe album and podcast drop September 18, 2018. Get ready!",
@@ -854,14 +836,8 @@
                     "SEASON THREE",
                     "September 18, 2018"
                 ],
-                "ORG": [
-                    "Perfect",
-                    "Dolly Parton"
-                ],
-                "GPE": [
-                    "mozallowfullscreen=\"mozallowfullscreen"
-                ],
                 "PERSON": [
+                    "Dolly Parton",
                     "Kevin Morby",
                     "Devendra Banhart",
                     "Aisha Burns"
@@ -869,7 +845,7 @@
                 "CARDINAL": [
                     "27"
                 ],
-                "EVENT": [
+                "LAW": [
                     "the U.S. Constitution"
                 ]
             }
@@ -908,11 +884,11 @@
             "entities": {
                 "ORG": [
                     "the Supreme Court",
-                    "United States</em><span>\u00a0",
                     "the Supreme Court",
                     "the Supreme Court"
                 ],
                 "PERSON": [
+                    "Korematsu v. United States</em><span>",
                     "Franklin Roosevelt",
                     "Fred Korematsu\u2019s"
                 ],
@@ -980,37 +956,35 @@
                     "Congress",
                     "The Commerce Clause",
                     "Congress",
-                    "Wickard v. Filburn<br>-",
-                    "href=\"http://www.law.msu.edu",
-                    "Michigan State University College of Law<br>-",
-                    "href=\"https://www.wnyc.org",
+                    "Wickard v. Filburn",
+                    "Michigan State University College of Law<br>-\u00a0<",
                     "WNYC\u2019s All Things Considered",
                     "White House",
-                    "href=\"https://www.wilmerhale.com",
+                    "the Violence Against Women Act<br>-",
                     "WilmerHale",
-                    "href=\"https://www.oyez.org",
-                    "href=\"https://www.oyez.org",
-                    "href=\"https://www.oyez.org",
-                    "href=\"https://www.oyez.org",
-                    "Jess Mador",
+                    "Filburn</em></a><br>-",
+                    "cases/2011/11-393\">National Federation of Independent Businesses v. Sebelius</a></em></p",
                     "The Joyce Foundation",
                     "The Charles Evans Hughes Memorial",
                     "Supreme Court",
+                    "Oyez\u00ae</em></a><em",
                     "the Legal Information Institute"
-                ],
-                "GPE": [
-                    "voices:</strong></p",
-                    "United States"
                 ],
                 "PERSON": [
                     "Roscoe Filbrun Jr.",
+                    "Filbrun Sr.",
                     "Ollie McClung Jr.",
+                    "Son",
                     "Ollie McClung Sr.",
                     "Katzenbach",
-                    "M. Chen</a>",
+                    "McClung",
+                    "M. Chen</a",
                     "Clinton",
+                    "J. Savitzky</a>",
+                    "Katzenbach",
                     "Derek John",
                     "Louis Mitchell.</em></p",
+                    "Jess Mador",
                     "Andrew Yeager",
                     "Rachel Iacovone"
                 ],
@@ -1021,8 +995,10 @@
                     "1824",
                     "1942",
                     "1964",
-                    "McClung</em></a><br>- 2000",
-                    "Morrison</em></a><br>- 2012"
+                    "2012"
+                ],
+                "GPE": [
+                    "United States"
                 ]
             }
         },
@@ -1063,30 +1039,28 @@
             "entities": {
                 "ORG": [
                     "the Supreme Court",
-                    "MTV",
+                    "the MTV VMA\u2019s",
                     "Northwestern University Pritzker School",
                     "Northwestern University Pritzker School",
-                    "University of Texas</a></em></p>",
-                    "href=\"https://papers.ssrn.com",
+                    "University of Texas</a></em></p",
+                    "The Effect of Gender, Ideology and Seniority",
                     "Supreme Court",
                     "The Joyce Foundation",
                     "The Charles Evans Hughes Memorial",
+                    "Supreme Court",
+                    "Oyez\u00ae</em></a><em",
                     "the Legal Information Institute"
-                ],
-                "DATE": [
-                    "voices:</p"
                 ],
                 "PERSON": [
                     "Jacobi</a",
                     "Franklin Chen",
-                    "Deborah Tannen.</em>&gt"
-                ],
-                "NORP": [
-                    "Law</p"
+                    "Deborah"
                 ],
                 "GPE": [
-                    "cases:</p",
-                    "Arguments</a></em></p"
+                    "cases:</p"
+                ],
+                "CARDINAL": [
+                    "em><a"
                 ]
             }
         },
@@ -1127,56 +1101,51 @@
             "title": "The Architect\r\n",
             "entities": {
                 "PERSON": [
-                    "revisit Edward Blum",
+                    "Edward Blum",
                     "Edward Blum",
                     "Edward Blum",
                     "Sheila Jackson Lee",
+                    "Blum",
                     "Robert Iuliano",
                     "Guy Charles",
                     "Katherine Wells",
-                    "Matt Frassica.</em></p>"
+                    "Matt Frassica.</em></p"
                 ],
                 "ORG": [
                     "Supreme Court",
                     "Harvard",
-                    "href=\"https://www.oyez.org",
-                    "the University of California v. Bakke</a></em></li>",
-                    "href=\"https://www.oyez.org",
-                    "href=\"https://www.oyez.org/cases/2012/12-96\">Shelby County",
+                    "Fair",
+                    "the University of California v. Bakke</a></em></li",
                     "University of Texas",
-                    "href=\"https://www.oyez.org",
                     "University of Texas",
-                    "links:</strong></p",
-                    "Perfect",
-                    "href=\"http://www.wnyc.org",
                     "href=\"https://tinyurl.com",
                     "Harvard",
-                    "href=\"https://tinyurl.com/y7rr9anw\">response</a>.</li>",
+                    "href=\"https://tinyurl.com",
                     "Harvard College",
                     "the U.S. Supreme Court",
                     "Harvard University",
                     "The Joyce Foundation",
                     "The Charles Evans Hughes Memorial",
                     "Supreme Court",
+                    "Oyez\u00ae</em></a><em",
                     "the Legal Information Institute"
                 ],
                 "DATE": [
                     "season one",
                     "each year"
                 ],
-                "GPE": [
-                    "voices:</strong></p",
-                    "North Carolina</a",
-                    "America"
-                ],
                 "NORP": [
                     "cases:</strong></p",
                     "American"
                 ],
                 "CARDINAL": [
+                    "241\">Grutter",
                     "1)</a></em></li",
                     "2)</a></em></li",
                     "1"
+                ],
+                "GPE": [
+                    "America"
                 ]
             }
         },
@@ -1218,46 +1187,41 @@
             "pubDate": "Thu, 30 Nov 2017 12:00:00 -0500",
             "title": "Mr. Graham and the Reasonable Man\r\n",
             "entities": {
-                "TIME": [
-                    "a fall afternoon"
-                ],
                 "DATE": [
-                    "1984",
-                    "voices:</p"
+                    "1984"
                 ],
                 "PERSON": [
                     "Dethorne Graham",
-                    "Graham Jr.",
+                    "Dethorne Graham Jr.",
                     "Dethorne Graham",
-                    "Graham",
+                    "Graham v. Connor</em></li",
                     "Graham",
                     "Graham",
                     "Dylan Keefe",
                     "Derek John",
                     "Matt Kielty",
+                    "Nicolas Carter.</em></p",
                     "Cynthia Lee",
                     "Frank B. Aycock III",
                     "Josh Rosenkrantz",
                     "Leonard Feldman",
                     "Tom Dreisbach",
-                    "Ben Montgomery.</em></p>"
+                    "Ben Montgomery.</em></p"
                 ],
                 "CARDINAL": [
                     "two"
                 ],
-                "ORG": [
-                    "Charlotte",
-                    "href=\"https://www.essexrichards.com",
-                    "Supreme",
-                    "href=\"https://www.oyez.org",
-                    "The Joyce Foundation",
-                    "The Charles Evans Hughes Memorial",
-                    "Supreme Court",
-                    "the Legal Information Institute"
-                ],
                 "GPE": [
-                    "US.</span></p",
-                    "Nicolas"
+                    "Charlotte",
+                    "US.</span></p"
+                ],
+                "ORG": [
+                    "Supreme",
+                    "The Joyce Foundation",
+                    "The Charles Evans",
+                    "Supreme Court",
+                    "Oyez\u00ae</em></a><em",
+                    "the Legal Information Institute"
                 ]
             }
         },
@@ -1270,7 +1234,7 @@
                 "storytelling",
                 "supreme_court"
             ],
-            "content": "<p>\u201cEqual protection of the laws\u201d was granted to all persons by the <a href=\"https://www.law.cornell.edu/constitution/amendmentxiv\">14th Amendment</a> in 1868. But for nearly a century after that, women had a hard time convincing the courts that they should be allowed to be jurors, lawyers, and bartenders, just the same as men. A then-lawyer at the ACLU named Ruth Bader Ginsburg set out to convince an all-male Supreme Court to take sex discrimination seriously with an unconventional strategy. She didn\u2019t just bring cases where women were the victims of discrimination; she also brought cases where men were the victims. In this episode, we look at how a key battle for gender equality was won with frat boys and beer.</p>\r\n<p><div class=\"user-embedded-video\"><div id=\"videoplayer_idm139680810662800d0e8b5d5-86ae-4bc8-a872-c0c1ca7589bc\"><iframe width=\"620\" height=\"349\" src=\"https://www.youtube.com/embed/jN6Ro_cw7rE?wmode=transparent&amp;autohide=1&amp;rel=0&amp;showinfo=0&amp;feature=oembed&amp;enablejsapi=1\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen=\"allowfullscreen\" id=\"a269242046722740218\" class=\"youtube_video\" mozallowfullscreen=\"mozallowfullscreen\" webkitallowfullscreen=\"webkitallowfullscreen\" data-original-url=\"https://youtu.be/jN6Ro_cw7rE\"></iframe></div></div> \u00a0</p>\r\n<p>The key voices:</p>\r\n<ul>\r\n<li>Carolyn Whitener, former owner of the Honk n\u2019 Holler</li>\r\n<li>Curtis Craig, appellant in <em>Craig v. Boren</em></li>\r\n<li>Fred Gilbert, lawyer who represented Craig in <em>Craig v. Boren </em></li>\r\n<li><a href=\"https://www.law.georgetown.edu/faculty/hartnett-mary.cfm\">Mary Hartnett</a>, adjunct professor at Georgetown Law</li>\r\n<li><a href=\"https://www.law.georgetown.edu/faculty/williams-wendy-webster.cfm\">Wendy Williams</a>, professor emerita at Georgetown Law</li>\r\n</ul>\r\n<p>The key cases:</p>\r\n<ul>\r\n<li>1873: <a href=\"https://www.oyez.org/cases/1850-1900/83us130\"><em>Bradwell v. The State</em></a></li>\r\n<li>1948: <a href=\"https://www.oyez.org/cases/1940-1955/335us464\"><em>Goesart v. Cleary</em></a></li>\r\n<li>1961: <a href=\"https://www.oyez.org/cases/1961/31\"><em>Hoyt v. Florida</em></a></li>\r\n<li>1971: <a href=\"https://www.oyez.org/cases/1971/70-4\"><em>Reed v. Reed</em></a></li>\r\n<li>1973: <a href=\"https://www.oyez.org/cases/1972/71-1694\"><em>Frontiero v. Richardson</em></a></li>\r\n<li>1975: <a href=\"https://www.oyez.org/cases/1974/73-1892\"><em>Weinberger v. Wiesenfeld</em></a></li>\r\n<li>1976: <a href=\"https://www.oyez.org/cases/1976/75-628\"><em>Craig v. Boren</em></a></li>\r\n<li>1996: <em><a href=\"https://www.oyez.org/cases/1995/94-1941\">United States v. Virginia</a></em></li>\r\n</ul>\r\n<p>The key links:</p>\r\n<ul>\r\n<li><em><a href=\"https://www.aclu.org/issues/womens-rights\">ACLU Women\u2019s Rights Project</a></em></li>\r\n</ul>\r\n<ul>\r\n<li><a href=\"http://www.simonandschuster.com/books/My-Own-Words/Ruth-Bader-Ginsburg/9781501145247\">My Own Words</a> by Ruth Bader Ginsburg, with Mary Hartnett and Wendy Williams</li>\r\n</ul>\r\n<ul>\r\n<li><a href=\"https://www.harpercollins.com/9780062238467/sisters-in-law\">Sisters in Law</a> by Linda Hirshman</li>\r\n</ul>\r\n<ul>\r\n<li>\u201c<a href=\"http://eagleforum.org/publications/psr/feb1972.html\">What\u2019s Wrong With \u2018Equal Rights\u2019 For Women</a>\u201d by Phyllis Schlafly</li>\r\n</ul>\r\n<p>\u00a0</p>\r\n<p><em>Special thanks to Stephen Wiesenfeld, Alison Keith, and Bob Darcy.</em></p>\r\n<p><em>Leadership support for More Perfect is provided by The Joyce Foundation. Additional funding is provided by The Charles Evans Hughes Memorial Foundation.</em></p>\r\n<p><em>Supreme Court archival audio comes from </em><a href=\"https://www.oyez.org/\"><em>Oyez\u00ae</em></a><em>, a free law project in collaboration with the Legal Information Institute at Cornell.</em></p>\r\n",
+            "content": "<p>\u201cEqual protection of the laws\u201d was granted to all persons by the <a href=\"https://www.law.cornell.edu/constitution/amendmentxiv\">14th Amendment</a> in 1868. But for nearly a century after that, women had a hard time convincing the courts that they should be allowed to be jurors, lawyers, and bartenders, just the same as men. A then-lawyer at the ACLU named Ruth Bader Ginsburg set out to convince an all-male Supreme Court to take sex discrimination seriously with an unconventional strategy. She didn\u2019t just bring cases where women were the victims of discrimination; she also brought cases where men were the victims. In this episode, we look at how a key battle for gender equality was won with frat boys and beer.</p>\r\n<p><div class=\"user-embedded-video\"><div id=\"videoplayer_idm1404721125242561f9e89eb-bbb8-4bb6-931b-00f9288e10f1\"><iframe width=\"620\" height=\"349\" src=\"https://www.youtube.com/embed/jN6Ro_cw7rE?wmode=transparent&amp;autohide=1&amp;rel=0&amp;showinfo=0&amp;feature=oembed&amp;enablejsapi=1\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen=\"allowfullscreen\" id=\"a269242046722740218\" class=\"youtube_video\" mozallowfullscreen=\"mozallowfullscreen\" webkitallowfullscreen=\"webkitallowfullscreen\" data-original-url=\"https://youtu.be/jN6Ro_cw7rE\"></iframe></div></div> \u00a0</p>\r\n<p>The key voices:</p>\r\n<ul>\r\n<li>Carolyn Whitener, former owner of the Honk n\u2019 Holler</li>\r\n<li>Curtis Craig, appellant in <em>Craig v. Boren</em></li>\r\n<li>Fred Gilbert, lawyer who represented Craig in <em>Craig v. Boren </em></li>\r\n<li><a href=\"https://www.law.georgetown.edu/faculty/hartnett-mary.cfm\">Mary Hartnett</a>, adjunct professor at Georgetown Law</li>\r\n<li><a href=\"https://www.law.georgetown.edu/faculty/williams-wendy-webster.cfm\">Wendy Williams</a>, professor emerita at Georgetown Law</li>\r\n</ul>\r\n<p>The key cases:</p>\r\n<ul>\r\n<li>1873: <a href=\"https://www.oyez.org/cases/1850-1900/83us130\"><em>Bradwell v. The State</em></a></li>\r\n<li>1948: <a href=\"https://www.oyez.org/cases/1940-1955/335us464\"><em>Goesart v. Cleary</em></a></li>\r\n<li>1961: <a href=\"https://www.oyez.org/cases/1961/31\"><em>Hoyt v. Florida</em></a></li>\r\n<li>1971: <a href=\"https://www.oyez.org/cases/1971/70-4\"><em>Reed v. Reed</em></a></li>\r\n<li>1973: <a href=\"https://www.oyez.org/cases/1972/71-1694\"><em>Frontiero v. Richardson</em></a></li>\r\n<li>1975: <a href=\"https://www.oyez.org/cases/1974/73-1892\"><em>Weinberger v. Wiesenfeld</em></a></li>\r\n<li>1976: <a href=\"https://www.oyez.org/cases/1976/75-628\"><em>Craig v. Boren</em></a></li>\r\n<li>1996: <em><a href=\"https://www.oyez.org/cases/1995/94-1941\">United States v. Virginia</a></em></li>\r\n</ul>\r\n<p>The key links:</p>\r\n<ul>\r\n<li><em><a href=\"https://www.aclu.org/issues/womens-rights\">ACLU Women\u2019s Rights Project</a></em></li>\r\n</ul>\r\n<ul>\r\n<li><a href=\"http://www.simonandschuster.com/books/My-Own-Words/Ruth-Bader-Ginsburg/9781501145247\">My Own Words</a> by Ruth Bader Ginsburg, with Mary Hartnett and Wendy Williams</li>\r\n</ul>\r\n<ul>\r\n<li><a href=\"https://www.harpercollins.com/9780062238467/sisters-in-law\">Sisters in Law</a> by Linda Hirshman</li>\r\n</ul>\r\n<ul>\r\n<li>\u201c<a href=\"http://eagleforum.org/publications/psr/feb1972.html\">What\u2019s Wrong With \u2018Equal Rights\u2019 For Women</a>\u201d by Phyllis Schlafly</li>\r\n</ul>\r\n<p>\u00a0</p>\r\n<p><em>Special thanks to Stephen Wiesenfeld, Alison Keith, and Bob Darcy.</em></p>\r\n<p><em>Leadership support for More Perfect is provided by The Joyce Foundation. Additional funding is provided by The Charles Evans Hughes Memorial Foundation.</em></p>\r\n<p><em>Supreme Court archival audio comes from </em><a href=\"https://www.oyez.org/\"><em>Oyez\u00ae</em></a><em>, a free law project in collaboration with the Legal Information Institute at Cornell.</em></p>\r\n",
             "content:encoded": "<p>\u201cEqual protection of the laws\u201d was granted to all persons by the\u00a0<a href=\"https://www.law.cornell.edu/constitution/amendmentxiv\">14th Amendment</a>\u00a0in 1868. But for nearly a century after that, women had a hard time convincing the courts that they should be allowed to be jurors, lawyers, and bartenders, just the same as men. A then-lawyer at the ACLU named Ruth Bader Ginsburg set out to convince an all-male Supreme Court to take sex discrimination seriously with an unconventional strategy. She didn\u2019t just bring cases where women were the victims of discrimination; she also brought cases where men were the victims. In this episode, we look at how a key battle for gender equality was won with frat boys and beer.</p>",
             "content:encodedSnippet": "\u201cEqual protection of the laws\u201d was granted to all persons by the\u00a014th Amendment\u00a0in 1868. But for nearly a century after that, women had a hard time convincing the courts that they should be allowed to be jurors, lawyers, and bartenders, just the same as men. A then-lawyer at the ACLU named Ruth Bader Ginsburg set out to convince an all-male Supreme Court to take sex discrimination seriously with an unconventional strategy. She didn\u2019t just bring cases where women were the victims of discrimination; she also brought cases where men were the victims. In this episode, we look at how a key battle for gender equality was won with frat boys and beer.",
             "contentSnippet": "\u201cEqual protection of the laws\u201d was granted to all persons by the 14th Amendment in 1868. But for nearly a century after that, women had a hard time convincing the courts that they should be allowed to be jurors, lawyers, and bartenders, just the same as men. A then-lawyer at the ACLU named Ruth Bader Ginsburg set out to convince an all-male Supreme Court to take sex discrimination seriously with an unconventional strategy. She didn\u2019t just bring cases where women were the victims of discrimination; she also brought cases where men were the victims. In this episode, we look at how a key battle for gender equality was won with frat boys and beer.\n\r\n\n\n \u00a0\n\r\nThe key voices:\n\r\n\r\nCarolyn Whitener, former owner of the Honk n\u2019 Holler\n\r\nCurtis Craig, appellant in Craig v. Boren\n\r\nFred Gilbert, lawyer who represented Craig in Craig v. Boren \n\r\nMary Hartnett, adjunct professor at Georgetown Law\n\r\nWendy Williams, professor emerita at Georgetown Law\n\r\n\r\nThe key cases:\n\r\n\r\n1873: Bradwell v. The State\n\r\n1948: Goesart v. Cleary\n\r\n1961: Hoyt v. Florida\n\r\n1971: Reed v. Reed\n\r\n1973: Frontiero v. Richardson\n\r\n1975: Weinberger v. Wiesenfeld\n\r\n1976: Craig v. Boren\n\r\n1996: United States v. Virginia\n\r\n\r\nThe key links:\n\r\n\r\nACLU Women\u2019s Rights Project\n\r\n\r\n\r\nMy Own Words by Ruth Bader Ginsburg, with Mary Hartnett and Wendy Williams\n\r\n\r\n\r\nSisters in Law by Linda Hirshman\n\r\n\r\n\r\n\u201cWhat\u2019s Wrong With \u2018Equal Rights\u2019 For Women\u201d by Phyllis Schlafly\n\r\n\r\n\u00a0\n\r\nSpecial thanks to Stephen Wiesenfeld, Alison Keith, and Bob Darcy.\n\r\nLeadership support for More Perfect is provided by The Joyce Foundation. Additional funding is provided by The Charles Evans Hughes Memorial Foundation.\n\r\nSupreme Court archival audio comes from Oyez\u00ae, a free law project in collaboration with the Legal Information Institute at Cornell.",
@@ -1296,59 +1260,57 @@
             "pubDate": "Thu, 23 Nov 2017 12:00:00 -0500",
             "title": "Sex Appeal\r\n",
             "entities": {
-                "DATE": [
-                    "1868",
-                    "nearly a century",
-                    "voices:</p"
-                ],
                 "ORG": [
+                    "Amendment</a",
                     "ACLU",
                     "Supreme Court",
-                    "Georgetown",
-                    "Georgetown",
-                    "href=\"https://www.oyez.org",
-                    "href=\"https://www.oyez.org",
-                    "href=\"https://www.oyez.org/cases/1961/31\"><em>Hoyt v. Florida</em></a></li>",
-                    "href=\"https://www.oyez.org",
-                    "href=\"https://www.oyez.org",
-                    "href=\"https://www.oyez.org/cases/1974/73-1892\"><em",
-                    "href=\"https://www.oyez.org",
-                    "href=\"https://www.oyez.org",
-                    "Women\u2019s Rights",
-                    "href=\"http://www.simonandschuster.com",
-                    "href=\"http://eagleforum.org/publications/psr",
+                    "the Honk n\u2019 Holler</li",
+                    "href=\"https://www.aclu.org",
+                    "Women\u2019s Rights Project</a></em></li",
                     "The Joyce Foundation",
                     "The Charles Evans Hughes Memorial",
                     "Supreme Court",
+                    "Oyez\u00ae</em></a><em",
                     "the Legal Information Institute"
+                ],
+                "DATE": [
+                    "1868",
+                    "nearly a century"
                 ],
                 "PERSON": [
                     "Ruth Bader Ginsburg",
                     "Carolyn Whitener",
-                    "Craig",
-                    "Craig",
+                    "Curtis Craig",
+                    "Craig v. Boren</em></li",
                     "Fred Gilbert",
                     "Craig",
                     "Craig",
                     "Boren",
-                    "Craig",
+                    "Bradwell",
+                    "Goesart",
+                    "Weinberger",
+                    "Craig v. Boren</em></a></li",
                     "Ruth Bader Ginsburg",
                     "Mary Hartnett",
-                    "Wendy Williams</li>",
-                    "Linda",
+                    "Wendy Williams</li",
+                    "href=\"https://www.harpercollins.com/9780062238467",
+                    "Linda Hirshman</li",
                     "Phyllis",
                     "Stephen Wiesenfeld",
                     "Alison Keith",
                     "Bob Darcy.</em></p"
                 ],
                 "GPE": [
-                    "mozallowfullscreen=\"mozallowfullscreen",
-                    "Boren</em></li",
-                    "cases:</p",
-                    "State</em></a></li"
+                    "Georgetown",
+                    "Georgetown",
+                    "cases:</p"
+                ],
+                "CARDINAL": [
+                    "1900/83us130\"><em",
+                    "em><a"
                 ],
                 "PRODUCT": [
-                    "Cleary</em></a></li"
+                    "Frontiero"
                 ]
             }
         },
@@ -1364,7 +1326,7 @@
                 "supreme_court",
                 "twitter"
             ],
-            "content": "<p>Should you be able to say and do whatever you want online? And if not, who should police this?</p>\r\n<p><em>More Perfect</em>\u00a0hosts\u00a0a debate at WNYC's Jerome L. Greene Performance Space about\u00a0online hate speech, fake news, and whether the First Amendment needs an update for the digital age.</p>\r\n<p>The key voices:</p>\r\n<ul>\r\n<li><a href=\"https://www.eff.org/about/staff/corynne-mcsherry\">Corynne McSherry</a>, legal director at the Electronic Frontier Foundation</li>\r\n<li><a href=\"https://abovethelaw.com/tag/elie-mystal/\">Elie Mystal</a>,\u00a0executive editor at\u00a0<em>Above the Law</em>\u00a0and contributing legal editor at\u00a0<em>More Perfect</em></li>\r\n<li><a href=\"http://brownwhitelaw.com/kenneth-p-white/\">Ken White</a>, litigator and criminal defense attorney at Brown White &amp; Osborn LLP\u00a0<span>\u2014</span> he also\u00a0runs <a href=\"https://www.popehat.com/\">Popehat.com</a></li>\r\n</ul>\r\n<p>The key cases:</p>\r\n<ul>\r\n<li>1957:\u00a0<em><a href=\"https://www.oyez.org/cases/1956/6\">Yates v. United States</a></em></li>\r\n<li>1969:\u00a0<em><a href=\"https://www.oyez.org/cases/1968/492\">Brandenburg v. Ohio</a></em></li>\r\n</ul>\r\n<p>The key links:</p>\r\n<ul>\r\n<li><a href=\"https://www.propublica.org/article/facebook-hate-speech-censorship-internal-documents-algorithms\">ProPublica's report on Facebook's censorship policies</a><em>\u00a0\u00a0</em></li>\r\n</ul>\r\n<p><em>Special thanks to Elaine Chen, <span>Jennifer Keeney Sendrow, and the entire Greene Space team</span>. Additional engineering for this episode by\u00a0</em><em>Chase Culpon, Louis Mitchell, and Alex Overington.</em></p>\r\n<p><em>Leadership support for More Perfect is provided by The Joyce Foundation. Additional funding is provided by The Charles Evans Hughes Memorial Foundation.</em>\u00a0</p>\r\n<p><em>Watch the event below:</em></p>\r\n<p><em><div class=\"user-embedded-video\"><div id=\"videoplayer_idm139680811917952b1eea95b-9e2a-489f-b663-89dac908759b\"><iframe width=\"620\" height=\"349\" src=\"https://www.youtube.com/embed/azcIcVDyVTM?wmode=transparent&amp;autohide=1&amp;rel=0&amp;showinfo=0&amp;feature=oembed&amp;enablejsapi=1\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen=\"allowfullscreen\" id=\"a-1567739556890983944\" class=\"youtube_video\" mozallowfullscreen=\"mozallowfullscreen\" webkitallowfullscreen=\"webkitallowfullscreen\" data-original-url=\"https://www.youtube.com/watch?v=azcIcVDyVTM\"></iframe></div></div> \u00a0</em></p>\r\n<p><em>NOTE: Because of the topic for the night, this discussion includes disturbing images and language, such as religious, ethnic and gender slurs and profanity. We\u00a0have preserved this content so that our audience can understand the nature of this speech.</em></p>\r\n<p><em>ADDENDUM: During the debate one of debaters misspoke and said World War II when he meant World War I. The case he was referring to can be found <a href=\"https://www.oyez.org/cases/1900-1940/249us47\">here</a>.</em></p>\r\n<script type=\"text/javascript\" src=\"https://livestream.com/assets/plugins/referrer_tracking.js\" data-embed_id=\"ls_embed_1504635720\"></script>\r\n",
+            "content": "<p>Should you be able to say and do whatever you want online? And if not, who should police this?</p>\r\n<p><em>More Perfect</em>\u00a0hosts\u00a0a debate at WNYC's Jerome L. Greene Performance Space about\u00a0online hate speech, fake news, and whether the First Amendment needs an update for the digital age.</p>\r\n<p>The key voices:</p>\r\n<ul>\r\n<li><a href=\"https://www.eff.org/about/staff/corynne-mcsherry\">Corynne McSherry</a>, legal director at the Electronic Frontier Foundation</li>\r\n<li><a href=\"https://abovethelaw.com/tag/elie-mystal/\">Elie Mystal</a>,\u00a0executive editor at\u00a0<em>Above the Law</em>\u00a0and contributing legal editor at\u00a0<em>More Perfect</em></li>\r\n<li><a href=\"http://brownwhitelaw.com/kenneth-p-white/\">Ken White</a>, litigator and criminal defense attorney at Brown White &amp; Osborn LLP\u00a0<span>\u2014</span> he also\u00a0runs <a href=\"https://www.popehat.com/\">Popehat.com</a></li>\r\n</ul>\r\n<p>The key cases:</p>\r\n<ul>\r\n<li>1957:\u00a0<em><a href=\"https://www.oyez.org/cases/1956/6\">Yates v. United States</a></em></li>\r\n<li>1969:\u00a0<em><a href=\"https://www.oyez.org/cases/1968/492\">Brandenburg v. Ohio</a></em></li>\r\n</ul>\r\n<p>The key links:</p>\r\n<ul>\r\n<li><a href=\"https://www.propublica.org/article/facebook-hate-speech-censorship-internal-documents-algorithms\">ProPublica's report on Facebook's censorship policies</a><em>\u00a0\u00a0</em></li>\r\n</ul>\r\n<p><em>Special thanks to Elaine Chen, <span>Jennifer Keeney Sendrow, and the entire Greene Space team</span>. Additional engineering for this episode by\u00a0</em><em>Chase Culpon, Louis Mitchell, and Alex Overington.</em></p>\r\n<p><em>Leadership support for More Perfect is provided by The Joyce Foundation. Additional funding is provided by The Charles Evans Hughes Memorial Foundation.</em>\u00a0</p>\r\n<p><em>Watch the event below:</em></p>\r\n<p><em><div class=\"user-embedded-video\"><div id=\"videoplayer_idm140472110446528e9cdc75c-99e6-4a8e-9065-8ab11fc2d0c5\"><iframe width=\"620\" height=\"349\" src=\"https://www.youtube.com/embed/azcIcVDyVTM?wmode=transparent&amp;autohide=1&amp;rel=0&amp;showinfo=0&amp;feature=oembed&amp;enablejsapi=1\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen=\"allowfullscreen\" id=\"a-1567739556890983944\" class=\"youtube_video\" mozallowfullscreen=\"mozallowfullscreen\" webkitallowfullscreen=\"webkitallowfullscreen\" data-original-url=\"https://www.youtube.com/watch?v=azcIcVDyVTM\"></iframe></div></div> \u00a0</em></p>\r\n<p><em>NOTE: Because of the topic for the night, this discussion includes disturbing images and language, such as religious, ethnic and gender slurs and profanity. We\u00a0have preserved this content so that our audience can understand the nature of this speech.</em></p>\r\n<p><em>ADDENDUM: During the debate one of debaters misspoke and said World War II when he meant World War I. The case he was referring to can be found <a href=\"https://www.oyez.org/cases/1900-1940/249us47\">here</a>.</em></p>\r\n<script type=\"text/javascript\" src=\"https://livestream.com/assets/plugins/referrer_tracking.js\" data-embed_id=\"ls_embed_1504635720\"></script>\r\n",
             "content:encoded": "<p>Should you be able to say and do whatever you want online? And if not, who should police this? <i>More Perfect\u00a0</i>hosts\u00a0a debate about\u00a0online hate speech, fake news and whether the First Amendment needs an update for the digital age.</p>",
             "content:encodedSnippet": "Should you be able to say and do whatever you want online? And if not, who should police this? More Perfect\u00a0hosts\u00a0a debate about\u00a0online hate speech, fake news and whether the First Amendment needs an update for the digital age.",
             "contentSnippet": "Should you be able to say and do whatever you want online? And if not, who should police this?\n\r\nMore Perfect\u00a0hosts\u00a0a debate at WNYC's Jerome L. Greene Performance Space about\u00a0online hate speech, fake news, and whether the First Amendment needs an update for the digital age.\n\r\nThe key voices:\n\r\n\r\nCorynne McSherry, legal director at the Electronic Frontier Foundation\n\r\nElie Mystal,\u00a0executive editor at\u00a0Above the Law\u00a0and contributing legal editor at\u00a0More Perfect\n\r\nKen White, litigator and criminal defense attorney at Brown White & Osborn LLP\u00a0\u2014 he also\u00a0runs Popehat.com\n\r\n\r\nThe key cases:\n\r\n\r\n1957:\u00a0Yates v. United States\n\r\n1969:\u00a0Brandenburg v. Ohio\n\r\n\r\nThe key links:\n\r\n\r\nProPublica's report on Facebook's censorship policies\u00a0\u00a0\n\r\n\r\nSpecial thanks to Elaine Chen, Jennifer Keeney Sendrow, and the entire Greene Space team. Additional engineering for this episode by\u00a0Chase Culpon, Louis Mitchell, and Alex Overington.\n\r\nLeadership support for More Perfect is provided by The Joyce Foundation. Additional funding is provided by The Charles Evans Hughes Memorial Foundation.\u00a0\n\r\nWatch the event below:\n\r\n\n\n \u00a0\n\r\nNOTE: Because of the topic for the night, this discussion includes disturbing images and language, such as religious, ethnic and gender slurs and profanity. We\u00a0have preserved this content so that our audience can understand the nature of this speech.\n\r\nADDENDUM: During the debate one of debaters misspoke and said World War II when he meant World War I. The case he was referring to can be found here.",
@@ -1390,43 +1352,40 @@
             "pubDate": "Mon, 06 Nov 2017 12:00:00 -0500",
             "title": "The Hate Debate\r\n",
             "entities": {
-                "ORG": [
-                    "WNYC",
-                    "age.</p",
-                    "the Electronic Frontier",
-                    "href=\"https://abovethelaw.com",
-                    "href=\"http://brownwhitelaw.com/kenneth-p-white/\">Ken White</a>",
-                    "Brown White &",
-                    "Osborn",
-                    "href=\"https://www.oyez.org",
-                    "href=\"https://www.propublica.org",
-                    "Facebook",
-                    "Chase Culpon",
-                    "Alex Overington.</em></p>",
-                    "The Joyce Foundation",
-                    "The Charles Evans Hughes Memorial",
-                    "below:</em></p",
-                    "href=\"https://www.oyez.org"
-                ],
                 "PERSON": [
-                    "Jerome L. Greene Performance",
+                    "Perfect</em",
+                    "Jerome L. Greene",
+                    "Osborn LLP",
                     "Elaine Chen",
                     "Jennifer Keeney Sendrow",
-                    "Louis Mitchell"
+                    "Chase Culpon",
+                    "Louis Mitchell",
+                    "Alex Overington.</em></p"
+                ],
+                "ORG": [
+                    "WNYC",
+                    "the Electronic Frontier Foundation</li",
+                    "kenneth-p-white/\">Ken",
+                    "Brown White &",
+                    "href=\"https://www.propublica.org",
+                    "Facebook",
+                    "The Joyce Foundation",
+                    "The Charles Evans Hughes Memorial"
                 ],
                 "LAW": [
                     "the First Amendment"
                 ],
-                "DATE": [
-                    "voices:</p"
-                ],
                 "GPE": [
-                    "cases:</p",
-                    "United States</a></em></li",
-                    "mozallowfullscreen=\"mozallowfullscreen"
+                    "cases:</p"
                 ],
-                "PRODUCT": [
+                "FAC": [
                     "Greene Space"
+                ],
+                "TIME": [
+                    "the night"
+                ],
+                "CARDINAL": [
+                    "one"
                 ],
                 "EVENT": [
                     "World War II",
@@ -1471,39 +1430,52 @@
             "pubDate": "Thu, 02 Nov 2017 12:00:00 -0400",
             "title": "Citizens United\r\n",
             "entities": {
-                "ORG": [
-                    "Federal Election",
-                    "Supreme Court",
-                    "href=\"http://www.99rise.org/\">99",
-                    "Citizens United",
-                    "href=\"https://constitutioncenter.org",
-                    "Cornell University",
-                    "the U.S. Court of Appeals",
-                    "the Ninth Circuit",
-                    "Federal Election",
-                    "href=\"https://www.newyorker.com/magazine/2012/05/21/money-unlimited\">Money Unlimited</a",
-                    "href=\"http://incompetech.com/wordpress/\">Kevin MacLeod\u00a0</a><br>\"Bad Ideas (distressed)\"<br>Kevin MacLeod",
-                    "The Joyce Foundation",
-                    "The Charles Evans Hughes Memorial",
-                    "Supreme Court",
-                    "the Legal Information Institute"
-                ],
                 "PERSON": [
+                    "Citizens United</em",
                     "Anthony Kennedy",
                     "Kennedy",
+                    "Kai Newkirk",
                     "Jim Bopp",
                     "Marcia Coyle",
                     "Jeffrey Rosen",
-                    "Anthony Kennedy</li",
+                    "jeffrey-rosen/\">The",
+                    "jeffrey-toobin\">Jeffrey",
+                    "Toobin</a",
+                    "Anthony",
                     "Alex Kozinski",
-                    "Anthony Kennedy**</li>",
-                    "Jeffrey",
+                    "Anthony Kennedy**</li",
+                    "Jeffrey Toobin</li",
+                    "wordpress/\">Kevin MacLeod",
+                    "Kevin MacLeod",
                     "Justin Levitt",
-                    "Guy",
+                    "Guy-Uriel Charles",
                     "William Baude",
                     "Helen Knowles",
                     "Derek John",
+                    "-alex-kozinski-accused-of",
                     "Alex Kozinski"
+                ],
+                "ORG": [
+                    "Federal Election Commission</em",
+                    "Supreme Court",
+                    "href=\"http://www.99rise.org/\">99",
+                    "Citizens United",
+                    "href=\"http://www.law.com/nationallawjournal/?slreturn=20170931173724\">The National Law Journal</a></em></li",
+                    "jeffrey-rosen\">National Constitution Center</a",
+                    "Cornell University",
+                    "the U.S. Court of Appeals",
+                    "the Ninth Circuit",
+                    "United",
+                    "Federal Election Commision</a></em></li",
+                    "href=\"http://incompetech.com",
+                    "The Joyce Foundation",
+                    "The Charles Evans Hughes Memorial",
+                    "Supreme Court",
+                    "Oyez\u00ae</em></a><em",
+                    "the Legal Information Institute"
+                ],
+                "NORP": [
+                    "americans"
                 ],
                 "GPE": [
                     "America",
@@ -1514,19 +1486,13 @@
                 "LAW": [
                     "the First Amendment"
                 ],
+                "CARDINAL": [
+                    "205\">Citizens"
+                ],
                 "DATE": [
-                    "voices:</p",
+                    "the last day",
                     "2009",
                     "December 8, 2017"
-                ],
-                "WORK_OF_ART": [
-                    "National Law Journal</a></em></li>\r\n"
-                ],
-                "NORP": [
-                    "href=\"https://www.brookings.edu"
-                ],
-                "CARDINAL": [
-                    "3.0"
                 ]
             }
         },
@@ -1571,22 +1537,17 @@
                     "the U.S. Supreme Court",
                     "The Alien Tort Statute",
                     "the Supreme Court",
-                    "A.T.S.",
-                    "href=\"https://ccrjustice.org",
+                    "Paloma Calles",
                     "the Center for Constitutional Rights",
-                    "href=\"https://ccrjustice.org",
-                    "the Center for Constitutional",
-                    "Royal Dutch Petroleum</em></li",
-                    "href=\"https://www.cfr.org",
+                    "Royal Dutch",
                     "the U.S. Department of State",
                     "the National Security",
                     "Texas Tech University School",
                     "University of Chicago Law",
-                    "href=\"http://history.yale.edu",
                     "Yale",
                     "Appalachian State",
-                    "href=\"https://www.oyez.org",
-                    "Royal Dutch",
+                    "cases/2011/10-1491\">Kiobel",
+                    "Royal Dutch Petroleum</a></em></li",
                     "Alana Casanova-Burgess",
                     "The Joyce Foundation",
                     "The Charles Evans Hughes Memorial",
@@ -1597,39 +1558,46 @@
                     "the 18th century",
                     "the 20th century",
                     "Earlier this month",
-                    "voices:</p",
                     "October 2016</em><em>.</em></p"
                 ],
                 "CARDINAL": [
                     "two",
-                    "one"
+                    "one",
+                    "em><a"
                 ],
                 "GPE": [
                     "Frenchmen",
                     "America",
                     "America",
+                    "A.T.S.",
                     "Joelito",
                     "cases:</p",
-                    "Bank</a></em></li>",
+                    "Diego Calles",
                     "Jamison York"
                 ],
                 "NORP": [
                     "American",
                     "Paraguayan",
-                    "Arab"
+                    "Arab",
+                    "Carter</a>.</em></span></span></p"
                 ],
                 "PERSON": [
-                    "Jesner",
-                    "Arab Bank</em>",
+                    "Jesner v. Arab Bank</em",
                     "Ken Saro-Wiwa Jr.",
                     "Ken Saro-Wiwa",
+                    "Dolly Fil\u00e1rtiga",
+                    "peter-weiss-celebrates-90\">Peter Weiss</a",
+                    "Dolly Fil\u00e1rtiga",
+                    "Fil\u00e1rtiga v. Pe</em><em>",
+                    "katherine\">Katherine Gallagher</a",
                     "Kiobel",
                     "Kiobel",
-                    "li><a href=\"https://www.depts.ttu.edu/law",
+                    "john-b-bellinger-iii\">John",
                     "w_casto.php\">William Casto</a>",
+                    "href=\"http://history.yale.edu",
+                    "Fil\u00e1rtiga v. Pe</em><em>",
                     "William J. Aceves",
                     "William Baude",
-                    "Diego Calles",
                     "William Dodge",
                     "Susan Farbstein",
                     "Jeffery Fisher",
@@ -1637,11 +1605,12 @@
                     "Julian Ku",
                     "Nicholas Rosenkranz",
                     "Susan Simpson",
+                    "Emily Vinson",
                     "Benjamin Wittes",
                     "Ken Saro-Wiwa Jr."
                 ],
-                "PRODUCT": [
-                    "Carter</a>.</em></span></span></p"
+                "FAC": [
+                    "the Center for Constitutional"
                 ]
             }
         },
@@ -1682,31 +1651,28 @@
                 "ORG": [
                     "The Supreme Court",
                     "the Supreme Court",
+                    "jlepore/home\">Jill Lepore</a",
                     "Harvard",
-                    "href=\"https://www.newyorker.com/magazine/2014/12/01/great",
-                    "href=\"https://www.newyorker.com/magazine/2014/12/01/great",
+                    "href=\"https://www.newyorker.com/magazine/2014/12/01/great-paper-caper",
                     "Supreme Court",
                     "The Joyce Foundation",
                     "The Charles Evans Hughes Memorial",
                     "Supreme Court",
+                    "Oyez\u00ae</em></a><em",
                     "the Legal Information Institute"
                 ],
                 "PERSON": [
                     "John Marshall",
                     "Jill Lepore",
-                    "Marshall"
+                    "Marshall",
+                    "href=\"https://scholar.harvard.edu",
+                    "1939"
                 ],
                 "ORDINAL": [
                     "fourth"
                 ],
-                "DATE": [
-                    "voices:</p"
-                ],
                 "NORP": [
                     "American"
-                ],
-                "WORK_OF_ART": [
-                    "> Caper</a>"
                 ],
                 "CARDINAL": [
                     "1962</li"
@@ -1753,51 +1719,48 @@
                     "the 1960s",
                     "70s",
                     "2008",
-                    "voices:</p"
+                    "li><a href=\"https://law.ucla.edu"
                 ],
-                "EVENT": [
-                    "the Second Amendment"
+                "LAW": [
+                    "the Second Amendment",
+                    "Second Amendment",
+                    "the Second Amendment Foundation</li"
                 ],
                 "ORG": [
                     "Black Panthers",
-                    "NRA",
                     "the Supreme Court",
-                    "src=\"https://media2.wnyc.org",
-                    "alt=",
                     "the Oakland Museum of California",
-                    "href=\"http://museumca.org",
-                    "the People: Black Panthers",
-                    "src=\"https://media2.wnyc.org",
-                    "alt=",
                     "the Second Amendment Foundation",
                     "UCLA School of Law",
-                    "href=\"https://www.amazon.com/Gunfight-Battle-Over-Right-America/dp/0393345831\"><em>Gunfight</em></a></li",
+                    "jlepore/home\">Jill Lepore</a",
                     "Harvard",
-                    "Second Amendment",
-                    "the Second Amendment",
                     "the University of Texas Law School",
                     "the Cato Institute",
                     "the Cato Institute",
-                    "href=\"http://gurapllc.com",
-                    "href=\"http://joanbiskupic.com",
-                    "The Life and Constitution of Supreme Court",
                     "Stanford University",
-                    "href=\"https://www.oyez.org",
                     "Black Panther Party",
-                    "href=\"http://www.sacbee.com",
-                    "src=\"https://media2.wnyc.org/i/800/1066/l/80/1/heller1.jpg",
-                    "alt=",
                     "the U.S. Supreme Court",
                     "D.C.</div",
-                    "src=\"https://media2.wnyc.org/i/800/1066/l/80/1/heller2.jpg",
-                    "alt=",
                     "D.C.</div",
                     "Oakland Museum",
                     "The Joyce Foundation",
                     "The Charles Evans Hughes Memorial",
                     "Supreme Court",
-                    "the Legal Information Institute",
-                    "Cornell.</em></span></p>"
+                    "Oyez\u00ae</em></a><em",
+                    "the Legal Information Institute"
+                ],
+                "GPE": [
+                    "NRA",
+                    "Washington",
+                    "D.C.",
+                    "Silberstein",
+                    "Buffalo",
+                    "New York.</div",
+                    "Columbia",
+                    "cases:</p",
+                    "Washington",
+                    "Washington",
+                    "Jamal Greene"
                 ],
                 "NORP": [
                     "American",
@@ -1805,34 +1768,24 @@
                     "american",
                     "href=\"https://history.stanford.edu"
                 ],
-                "GPE": [
-                    "Washington",
-                    "D.C.",
-                    "Buffalo",
-                    "New York.</div",
-                    "Party</li",
-                    "cases:</p",
-                    "Washington",
-                    "Washington"
-                ],
                 "PERSON": [
                     "Dick Heller",
                     "Black Panther",
                     "Bobby Seale",
-                    "P. Tartaro",
-                    "Black Panther",
-                    "<li>John Aquilino",
-                    "li><a href=\"https://law.utexas.edu",
+                    "caption\">Joseph P. Tartaro",
+                    "href=\"https://scholar.harvard.edu",
+                    "John Aquilino",
                     "Dick Heller",
-                    "Dick Heller\u2019s",
-                    "Dick",
+                    "robert-levy\">Robert",
+                    "Dick Heller",
+                    "Heller</em",
+                    "Dick Heller</li",
                     "Dick Heller",
                     "Antonin Scalia</a></em></span><em",
-                    "Heller",
-                    "Heller",
+                    "caption\">Dick Heller",
+                    "caption\">Dick Heller",
                     "Mark Hughes",
                     "Sally Hadden",
-                    "Jamal Greene",
                     "Emily Palmer",
                     "Sharon LaFraniere",
                     "Alan Morrison",
@@ -1843,11 +1796,13 @@
                 ],
                 "CARDINAL": [
                     "50</a",
-                    "target=\"_blank\">Sanford",
-                    "target=\"_blank\">American"
+                    "target=\"_blank\">Sanford"
                 ],
-                "PRODUCT": [
-                    "year.</div"
+                "WORK_OF_ART": [
+                    "target=\"_blank\">American Original: The Life and Constitution of Supreme Court"
+                ],
+                "FAC": [
+                    "the California State Capitol"
                 ]
             }
         },
@@ -1888,31 +1843,31 @@
             "entities": {
                 "PERSON": [
                     "John Paul Stevens",
+                    "Vieth v. Jubelirer</em",
+                    "Gill v. Whitford</em",
                     "Justin Levitt",
-                    "\u201d</p",
-                    "Vieth",
+                    "li><a href=\"http://www.lls.edu",
+                    "Vieth v. Jubelirer</em></a></li",
+                    "Formula",
                     "Mira Bernstein",
+                    "Moon",
                     "Nicholas Stephanopoulos",
-                    "Eric McGhee"
+                    "Eric McGhee",
+                    "David Herman.</em></p"
                 ],
                 "DATE": [
                     "2004",
                     "today",
-                    "2020",
-                    "voices:</p"
-                ],
-                "CARDINAL": [
-                    "one"
+                    "2020"
                 ],
                 "ORG": [
                     "the Supreme Court",
-                    "all.</p",
                     "Tufts",
                     "Loyola Law School",
-                    "href=\"https://www.oyez.org",
                     "The Joyce Foundation",
                     "The Charles Evans Hughes Memorial",
                     "Supreme Court",
+                    "Oyez\u00ae</em></a><em",
                     "the Legal Information Institute"
                 ],
                 "NORP": [
@@ -1921,11 +1876,13 @@
                     "Loyola"
                 ],
                 "GPE": [
-                    "cases:</p",
-                    "Moon"
+                    "cases:</p"
                 ],
-                "FAC": [
-                    "Formula Goes"
+                "CARDINAL": [
+                    "em><a"
+                ],
+                "WORK_OF_ART": [
+                    "Gerrymandering and the Efficiency"
                 ]
             }
         },
@@ -1964,65 +1921,41 @@
             "pubDate": "Mon, 02 Oct 2017 12:00:00 -0400",
             "title": "American Pendulum II\r\n",
             "entities": {
-                "PRODUCT": [
-                    "Perfect",
-                    "the Dred Scott Sons and Daughters of Reconciliation"
-                ],
                 "CARDINAL": [
                     "two",
-                    "one",
                     "1857</div",
-                    "1857</div"
+                    "1857</div",
+                    "roughly 1836\u20131840.</div"
                 ],
                 "ORG": [
                     "Supreme Court",
                     "Supreme Court",
-                    "src=\"https://media2.wnyc.org/i/800/1030/l/80/1/Dred_Scott_photograph_circa_1857.jpg",
-                    "alt=",
-                    "href=\"https://commons.wikimedia.org",
-                    "src=\"https://media2.wnyc.org/i/800/1160/l/80/1",
-                    "alt=",
-                    "href=\"https://commons.wikimedia.org",
+                    "href=\"https://commons.wikimedia.org/wiki/File:Dred_Scott_photograph_(circa_1857).jpg\">Uncredited/Wikimedia Commons</a>)</div",
+                    "href=\"https://commons.wikimedia.org/wiki/File:",
                     "Congress",
-                    "Wikimedia Commons</a>)</div",
-                    "src=\"https://media2.wnyc.org",
-                    "alt=",
-                    "the Dred Scott Heritage Foundation/Black Tie Photos</a>)</div>",
+                    "Photographs",
+                    "the Dred Scott Sons",
+                    "the Dred Scott Heritage Foundation/Black Tie Photos</a>)</div",
                     "the Dred Scott Heritage",
                     "the Supreme Court",
-                    "href=\"https://www.oyez.org",
-                    "src=\"https://media2.wnyc.org",
-                    "alt=",
-                    "href=\"https://commons.wikimedia.org",
-                    "Minnesota Historical Society/Wikimedia Commons</a>)</div>",
-                    "src=\"https://media2.wnyc.org",
-                    "alt=",
-                    "href=\"https://commons.wikimedia.org",
-                    "Wikimedia Commons</a>)</div>",
-                    "Kate Taney Billingsley",
+                    "href=\"https://commons.wikimedia.org/wiki/File:",
+                    "Minnesota Historical Society/Wikimedia Commons</a>)</div",
+                    "href=\"https://commons.wikimedia.org/wiki/File:Dred_%26_Harriet_Scott_Quarters.jpg\">McGhiever/Wikimedia Commons</a>)</div",
                     "The Joyce Foundation",
                     "The Charles Evans Hughes Memorial",
                     "Supreme Court",
+                    "Oyez\u00ae</em></a><em",
                     "the Legal Information Institute"
                 ],
-                "DATE": [
-                    "1857",
-                    "more than a century later",
-                    "the 21st",
-                    "December 2, 2016",
-                    "voices:</p",
-                    "June 27,1857"
-                ],
                 "PERSON": [
+                    "Dred Scott v. Sandford</em>",
                     "Dred Scott",
                     "Roger Brooke Taney",
                     "Dred Scott",
                     "Roger Brooke",
-                    "Photographs",
                     "Shannon LaNier",
                     "Thomas Jefferson",
                     "Lynne Jackson",
-                    "Dred Scott",
                     "Bertram Hayes-Davis",
                     "Jefferson Davis",
                     "Charlie Taney",
@@ -2030,41 +1963,44 @@
                     "Dred Scott Madison",
                     "Dred Scott",
                     "Ashton LeBourgeois",
-                    "Blow",
                     "John LeBourgeois",
-                    "Blow",
                     "Sylvester Turner",
-                    "Dred",
+                    "Webster",
+                    "Jackson</a",
                     "Harriet Scott",
-                    "Scott Madison",
+                    "Dred Scott Madison",
                     "Barbara McGregory",
                     "Charlie Taney",
                     "Roger Brooke Taney",
-                    "Sandford",
+                    "Dred Scott v. Sandford </em",
                     "Richard Josey",
-                    "Scott",
+                    "Programs",
                     "Dred Scott",
-                    "Harriet Scott",
-                    "Gyan Riley.</em></p>",
-                    "Soren Shade"
+                    "Dred and Harriet Scott",
+                    "Kate Taney Billingsley",
+                    "Gyan Riley.</em></p"
                 ],
-                "NORP": [
-                    "Taneys"
+                "DATE": [
+                    "1857",
+                    "more than a century later",
+                    "Day 1",
+                    "December 2, 2016",
+                    "June 27,1857"
                 ],
                 "GPE": [
                     "Scotts",
                     "Hilton",
                     "Missouri",
-                    "Minnesota",
                     "cases:</p",
                     "Minnesota"
                 ],
+                "ORDINAL": [
+                    "21st"
+                ],
                 "FAC": [
                     "the Hilton Frontenac Hotel",
+                    "the Minnesota Historical",
                     "Fort Snelling"
-                ],
-                "WORK_OF_ART": [
-                    "Frank Leslie\u2019s Illustrated Newspaper"
                 ]
             }
         },
@@ -2107,70 +2043,61 @@
                     "the Supreme Court",
                     "the Supreme Court",
                     "the Supreme Court",
-                    "src=\"https://media2.wnyc.org",
-                    "alt=",
-                    "src=\"https://media2.wnyc.org",
-                    "alt=",
-                    "href=\"https://commons.wikimedia.org",
-                    "Wikimedia Commons</a>)</div>",
+                    "the Fred T. Korematsu Institute)</div",
+                    "CA",
+                    "href=\"https://commons.wikimedia.org/wiki/File:Fred_Korematsu_and_Family.jpg\">Courtesy",
                     "Founder &",
                     "ACLU",
                     "Supreme",
                     "Seattle University School of Law",
-                    "the Fred T. Korematsu Center for Law and Equality",
-                    "Circuit",
+                    "the Fred T. Korematsu Center for Law and Equality\u00a0<",
                     "the U.S. Court of Appeals",
-                    "Circuit</li>\r\n",
-                    "href=\"https://densho.org",
-                    "href=\"https://bridgerecords.com",
                     "href=\"https://densho.org",
                     "The Joyce Foundation",
+                    "The Charles Evans Hughes Memorial",
                     "Supreme Court",
-                    "href=\"https://www.oyez.org/\"><span><em>Oyez",
                     "the Legal Information Institute"
                 ],
-                "GPE": [
-                    "United States",
-                    "Oakland",
-                    "cases:</p",
-                    "United States</a></em></li",
-                    "Flamingos",
-                    "Lulu"
-                ],
                 "PERSON": [
+                    "Korematsu v. United States",
                     "Franklin Roosevelt",
                     "Fred Korematsu\u2019s",
                     "Fred T. Korematsu",
+                    "Wikimedia Commons</a>)</div",
                     "Fred Korematsu",
+                    "Korematsu v. United States</em>",
+                    "karen-korematsu/\">Karen Korematsu</a>",
+                    "Fred",
                     "Fred T. Korematsu",
                     "Ernest Besig",
                     "Fred Korematsu",
                     "Richard Posner",
+                    "paul-lansky\">Paul Lansky</a",
                     "Fred Korematsu",
-                    "Ernest Besig.</em><em"
+                    "Ernest"
                 ],
                 "NORP": [
                     "American",
-                    "Japanese",
-                    "Executive"
+                    "Japanese"
                 ],
                 "EVENT": [
                     "World War II",
-                    "World War"
+                    "World War II.</li"
                 ],
                 "CARDINAL": [
                     "1940s</div",
-                    "1939.</div"
-                ],
-                "PRODUCT": [
-                    "the Fred T. Korematsu"
+                    "1939.</div",
+                    "em><a"
                 ],
                 "ORDINAL": [
-                    "second"
-                ],
-                "DATE": [
-                    "voices:</p",
+                    "second",
                     "7th"
+                ],
+                "GPE": [
+                    "Oakland",
+                    "cases:</p",
+                    "Lulu",
+                    "Perfect</em></span><em><span"
                 ]
             }
         },
@@ -2206,9 +2133,6 @@
             "pubDate": "Thu, 28 Sep 2017 00:00:00 -0400",
             "title": "We're Back\r\n",
             "entities": {
-                "PRODUCT": [
-                    "Perfect"
-                ],
                 "ORG": [
                     "the United States Supreme Court"
                 ],
@@ -2258,11 +2182,14 @@
             "entities": {
                 "PERSON": [
                     "James Batson",
+                    "Batson",
                     "Rose",
+                    "caption\">Joe Gutmann",
                     "Gutmann",
                     "James Batson",
                     "Timothy Tyrone Foster</p",
                     "James Batson",
+                    "Batson",
                     "Joe Guttman",
                     "James Batson's",
                     "David Niehaus",
@@ -2278,38 +2205,18 @@
                 ],
                 "ORG": [
                     "the Supreme Court",
-                    "the Supreme Court",
-                    "src=\"https://media2.wnyc.org/i/800/1066/l/80/1/Batson-James-and-Rose.jpg",
-                    "alt=",
-                    "src=\"https://media2.wnyc.org",
-                    "alt=",
+                    "Supreme Court",
                     "Gutmann",
-                    "src=\"https://media2.wnyc.org",
-                    "Gutmann",
-                    "links:</strong></p",
-                    "href=\"https://media.wnyc.org",
-                    "the Jefferson County Public Defender's Office",
-                    "href=\"https://www.aclu.org",
-                    "href=\"http://www.eji.org/BryanStevenson\">Equal Justice",
-                    "href=\"https://www.oyez.org",
-                    "href=\"https://www.oyez.org"
-                ],
-                "WORK_OF_ART": [
-                    "Perfect"
-                ],
-                "PRODUCT": [
-                    "Gutmann"
+                    "Chicago-Kent College of Law</a></p"
                 ],
                 "GPE": [
-                    "voices:</strong></p",
-                    "Batson",
                     "Kentucky"
+                ],
+                "FAC": [
+                    "the Jefferson County Public Defender's"
                 ],
                 "NORP": [
                     "cases:</strong></p"
-                ],
-                "CARDINAL": [
-                    "2016"
                 ]
             }
         },
@@ -2350,46 +2257,31 @@
             "entities": {
                 "PERSON": [
                     "Ruth Bader Ginsburg",
-                    "type=\"bold\">ally</span><span",
+                    "Perfect</em",
+                    "SCOTUSsong",
                     "Akhil Reed Amar's",
-                    "Linda Monk's",
                     "Linda Monk",
-                    "scholar</a><br>- Akhil Reed Amar",
                     "Ari J. Savitzky",
                     "Dylan Keefe"
                 ],
                 "ORG": [
                     "the Supreme Court",
-                    "should</span><span",
                     "the Supreme Court",
                     "us!</span></p",
-                    "height=\"315",
                     "href=\"https://twitter.com",
                     "CDATA",
-                    "p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js",
-                    "links:</strong></p",
-                    "Constitution</a></p",
-                    "href=\"https://www.wilmerhale.com",
-                    "href=\"https://www.oyez.org",
-                    "href=\"https://www.oyez.org",
-                    "href=\"https://www.oyez.org",
-                    "Board of Education of Topeka",
-                    "href=\"https://www.oyez.org",
-                    "Board of Education of Topeka",
-                    "href=\"http://www.podingtonbear.com"
-                ],
-                "GPE": [
-                    "today.</p",
-                    "voices:</strong></p"
+                    "Board of Education",
+                    "Board of Education"
                 ],
                 "DATE": [
                     "2016",
                     "1803",
-                    "1832",
                     "1)</a><br>- 1955"
                 ],
-                "WORK_OF_ART": [
-                    "Linda+Monk\">The Words We Live By: Your Annotated Guide"
+                "GPE": [
+                    "height=\"315",
+                    "Topeka",
+                    "Topeka"
                 ],
                 "NORP": [
                     "cases:</strong></p"
@@ -2444,34 +2336,44 @@
                     "Last\u00a0week",
                     "64-year-old",
                     "1998",
+                    "2004",
                     "2006",
                     "2011",
                     "1896",
-                    "1962",
                     "1986",
-                    "1996",
-                    "2003",
                     "2009",
                     "1)</a><br>- 2016"
+                ],
+                "CARDINAL": [
+                    "one",
+                    "one",
+                    "6",
+                    "911",
+                    "2)</a></p",
+                    "one",
+                    "one"
                 ],
                 "PERSON": [
                     "Abigail Fisher",
                     "Edward Blum",
                     "Abigail Fisher",
-                    "Lawrence",
+                    "caption\">John Lawrence",
                     "Tyron Garner",
                     "Tyron Garner",
                     "John Lawrence",
                     "Edward Blum",
                     "Susan Carle's",
+                    "Tyron Garner",
+                    "john-lawrence",
                     "John Lawrence",
                     "Dale Carpenter's",
-                    "Lawrence",
-                    "Lawrence",
+                    "Lawrence v. Texas",
+                    "lawrence-v-texas\">Lambda",
+                    "Lawrence v. Texas</p",
                     "Edward Blum",
                     "Susan Carle",
                     "Dale Carpenter",
-                    "Mitchell Katine",
+                    "Law",
                     "Sheila Jackson Lee",
                     "Ari Berman",
                     "William",
@@ -2481,68 +2383,34 @@
                     "the University of Texas",
                     "Fisher",
                     "the Supreme Court",
-                    "src=\"https://media2.wnyc.org",
-                    "alt=",
-                    "the Project on Fair Representation</div>",
+                    "the Project on Fair Representation</div",
                     "Supreme Court",
                     "the Supreme Court",
                     "the Supreme Court\u2019s",
-                    "src=\"https://media2.wnyc.org",
-                    "alt=",
-                    "src=\"https://media2.wnyc.org/i/787/391/l/80/1/lawrencetyron3.jpg",
-                    "alt=",
-                    "links:</strong></p",
-                    "Harvard University<",
-                    "Tyron Garner",
-                    "href=\"http://www.lambdalegal.org",
+                    "Doyle/Houston LGBT History)</div",
+                    "Doyle/Houston LGBT History)</div",
+                    "Harvard University",
+                    "Fair",
                     "University Washington College",
-                    "href=\"http://lawkn.com",
-                    "Nechman L.L.P.",
-                    "Texas</a></span></p",
-                    "href=\"https://www.oyez.org",
-                    "href=\"https://www.oyez.org",
-                    "href=\"https://www.oyez.org/cases/1962/5\">National Association for the Advancement of Colored People v. Button</a><br>-",
-                    "href=\"https://www.oyez.org",
-                    "href=\"https://www.oyez.org",
-                    "href=\"https://www.oyez.org",
-                    "href=\"https://www.oyez.org",
-                    "href=\"https://www.oyez.org/cases/2012/12-96\">Shelby County",
-                    "href=\"https://www.oyez.org/cases/2012/11-345\">Fisher",
                     "University of Texas",
-                    "href=\"https://www.oyez.org",
-                    "href=\"https://www.oyez.org",
                     "University of Texas",
-                    "href=\"https://www.thenation.com",
                     "Flora Hewlett Foundation",
                     "The Charles Evans Hughes Memorial Foundation",
                     "Supreme Court",
                     "the Legal Information Institute"
                 ],
-                "CARDINAL": [
-                    "one",
-                    "6",
-                    "911",
-                    "one",
-                    "One",
-                    "2016",
-                    "2)</a></p",
-                    "one",
-                    "one"
-                ],
                 "GPE": [
                     "Houston",
                     "Texas",
-                    "Houston",
-                    "Houston",
-                    "Texas",
-                    "voices:</strong></p",
+                    "texas",
                     "Us"
                 ],
-                "EVENT": [
-                    "the 2004 Pride Parade"
-                ],
                 "NORP": [
+                    "Nechman",
                     "Democratic"
+                ],
+                "PERCENT": [
+                    "96\">Shelby County v. Holder</a><br>-"
                 ]
             }
         },
@@ -2591,29 +2459,47 @@
                 ],
                 "ORG": [
                     "The Supreme Court",
-                    "href=\"http://www.radiolab.org",
                     "the Supreme Court",
-                    "links:</strong></p",
-                    "Veronica",
+                    "the South Carolina Supreme Court",
+                    "Supreme Court",
+                    "the New York Times Editorial",
                     "the Supreme Court",
-                    "the New York Times",
-                    "the Supreme Court<",
-                    "href=\"http://www.nicwa.org/Indian_Child_Welfare_Act/\">ICWA",
-                    "Veronica",
-                    "Veronica",
-                    "Veronica",
-                    "the National Indian Child Welfare",
-                    "Christy",
-                    "href=\"https://www.oyez.org/cases/2012/12-399\">Adoptive"
+                    "Indian Child Welfare",
+                    "the National Indian Child Welfare Association</span><br><span>-",
+                    "Christy"
                 ],
-                "WORK_OF_ART": [
-                    "Adoptive Couple"
+                "PERSON": [
+                    "Adoptive Couple v. Baby Girl",
+                    "Adoptive Couple v. Baby Girl",
+                    "Jad:</strong></p",
+                    "Perfect</em",
+                    "Veronica",
+                    "Christy Maldonado",
+                    "Washington Post</em><br><em>-",
+                    "Marcia Zug's",
+                    "Marcia Zug's",
+                    "Matt",
+                    "Melanie Capobianco",
+                    "Veronica",
+                    "Veronica",
+                    "Mark Fiddler",
+                    "Capobiancos",
+                    "Marcia Zug",
+                    "Bert Hirsch",
+                    "Affairs</span><br><span>-\u00a0Chrissi Nimmo",
+                    "Terry Cross",
+                    "Lori Alvino McGill",
+                    "Baby Girl</a></p"
                 ],
                 "NORP": [
                     "Native American",
                     "Native American",
                     "American",
                     "Indian"
+                ],
+                "ORDINAL": [
+                    "first",
+                    "first"
                 ],
                 "EVENT": [
                     "Indian Child Welfare Act"
@@ -2622,25 +2508,8 @@
                     "one",
                     "2013"
                 ],
-                "ORDINAL": [
-                    "first"
-                ],
-                "PERSON": [
-                    "Christy Maldonado",
-                    "Marcia Zug's",
-                    "Marcia Zug's",
-                    "Matt",
-                    "Melanie Capobianco",
-                    "Dusten Brown",
-                    "Christy Maldonado",
-                    "Mark Fiddler",
-                    "Marcia Zug",
-                    "Bert Hirsch",
-                    "Lori Alvino McGill"
-                ],
                 "GPE": [
-                    "Washington",
-                    "voices:</strong></p"
+                    "Veronica"
                 ],
                 "PRODUCT": [
                     "Cherokee"
@@ -2685,111 +2554,85 @@
             "entities": {
                 "PERSON": [
                     "Earl Warren",
+                    "Baker",
+                    "Carr",
+                    "Perfect</em",
                     "William O. Douglas",
-                    "Felix Frankfurter",
                     "Charles E. Whittaker",
                     "John M. Harlan",
                     "William J. Brennan",
-                    "Bottom Row",
-                    "William O. Douglas<",
-                    "Hugo L. Black<",
+                    "Jr.<span",
+                    "Stewart",
+                    "William O. Douglas",
+                    "Hugo L. Black",
+                    "Earl Warren",
+                    "Felix Frankfurter",
                     "Tom C. Clark",
                     "Charles Evans Whittaker",
-                    "Evans Whittaker</a>",
-                    "target=\"_blank\">William O. Douglas</a>",
+                    "Evans Whittaker</a",
+                    "william_o_douglas\" target=\"_blank\">William O. Douglas</a",
+                    "Charles-Whittaker-Supreme",
                     "Charles Evans",
                     "Craig Alan Smith",
-                    "William O. Douglas</a>",
+                    "Felix Frankfurter</a",
+                    "William O. Douglas</a",
                     "Bruce Allen Murphy",
-                    "J. Douglas Smith<br>-",
+                    "J. Douglas Smith",
                     "Baker",
                     "Charles Whittaker's",
-                    "tlgrove.php\">Tara Grove</a>",
                     "Law",
                     "Robert",
                     "Elizabeth Scott Research",
-                    "Michael Seidman</a>",
-                    "href=\"https://law.duke.edu",
+                    "Mary Law School",
+                    "target=\"_blank\">Louis Michael Seidman</a>",
                     "Charles S. Rhyne",
+                    "target=\"_blank\">Samuel",
                     "Bonnie",
                     "Richard Reiss",
                     "Douglas Smith</a>",
                     "Charles Whittaker",
-                    "Kent Whittaker",
                     "Charles Whittaker's",
                     "Kate Whittaker",
                     "Charles Whittaker's",
-                    "Carr",
                     "Gore",
                     "William",
                     "Joyce",
                     "William O. Douglas",
+                    "Heywood Davis",
                     "Jerry Libin",
                     "James Adler",
                     "Jerry Goldman"
                 ],
-                "WORK_OF_ART": [
-                    "Baker v. Carr",
-                    "\" target=\"_blank\">David Herman</a>"
-                ],
                 "DATE": [
                     "1962",
                     "1957",
-                    "1962",
-                    "2016"
+                    "1962"
                 ],
                 "CARDINAL": [
                     "one",
                     "one",
                     "one",
                     "one",
-                    "2000",
-                    "target=\"_blank\">Evenwel"
+                    "2000"
                 ],
                 "ORG": [
                     "Supreme Court",
                     "the Supreme Court",
-                    "src=\"https://media2.wnyc.org/i/800/800/l/80/1/pjimage_b6uICRg.jpg",
-                    "alt=",
-                    "Ewing Photography/Library",
-                    "src=\"https://media2.wnyc.org",
-                    "alt=",
-                    "src=\"https://media2.wnyc.org/i/800/515/l/80/1/whittaker.jpeg\"",
-                    "alt=",
-                    "links:</strong></p",
-                    "href=\"https://www.oyez.org",
-                    "href=\"https://www.oyez.org",
-                    "href=\"https://www.oyez.org",
+                    "Associate Justice Felix Frankfurter",
+                    "Ewing Photography/Library of Congress)</div",
+                    "caption\">Associate Supreme Court",
                     "H.N. Hirsch",
-                    "Carr</em></p",
                     "California University of Pennsylvania",
-                    "href=\"http://law2.wm.edu",
-                    "William &",
+                    "William &amp",
                     "Carmack Waterhouse",
-                    "Georgetown",
-                    "Democracy",
-                    "href=\"http://scwstl.com",
                     "Supreme Court",
-                    "href=\"https://www.oyez.org",
-                    "href=\"https://www.oyez.org",
-                    "href=\"https://www.oyez.org",
-                    "href=\"http://www.wnyc.org",
                     "Flora Hewlett Foundation",
                     "The Charles Evans Hughes Memorial Foundation",
                     "Supreme Court",
                     "the Legal Information Institute",
-                    "the Department of Rare Books",
+                    "the Department of Rare Books and Special Collections",
                     "Princeton University",
-                    "Whittaker",
-                    "Heywood Davis",
-                    "Oyez.</em></p"
-                ],
-                "GPE": [
-                    "Jr.<span",
-                    "vote\"</a",
-                    "voices:</strong></p",
-                    "target=\"_blank\">Craig Smith</a>",
-                    "Doorstep</a>\"<br>-"
+                    "Whittaker"
                 ],
                 "NORP": [
                     "cases:</strong></p"
@@ -2835,8 +2678,31 @@
             "pubDate": "Thu, 02 Jun 2016 12:00:00 -0400",
             "title": "Cruel and Unusual\r\n",
             "entities": {
+                "PERSON": [
+                    "Perfect</em",
+                    "Jun/01",
+                    "Jun/01",
+                    "Bill Wiseman</a",
+                    "Scott Thompson",
+                    "Maya Foa",
+                    "Paul Ray",
+                    "Representative</a",
+                    "br>- Robert Blecker",
+                    "case.html\">Wilkerson v. Utah</a><br>- 1972",
+                    "William",
+                    "Joyce",
+                    "Claire Phillips",
+                    "Nina Perry",
+                    "Stephanie Jenkins",
+                    "Ralph Dellapiana",
+                    "Byrd Pinkerton",
+                    "Elisabeth Semel",
+                    "Christina Spaulding",
+                    "Marshall"
+                ],
                 "CARDINAL": [
-                    "three"
+                    "three",
+                    "one"
                 ],
                 "GPE": [
                     "America",
@@ -2845,60 +2711,30 @@
                     "Arizona",
                     "California",
                     "Arkansas",
+                    "oklahoma",
                     "Oklahoma",
                     "America",
-                    "voices:</strong></p",
                     "Utah"
                 ],
                 "ORG": [
                     "the Supreme Court",
-                    "links:</strong></p",
-                    "href=\"https://media.wnyc.org",
-                    "href=\"https://media.wnyc.org",
-                    "href=\"https://media.wnyc.org",
-                    "href=\"http://www.newson6.com",
-                    "Death Penalty",
                     "House",
                     "New York Law School",
-                    "href=\"https://supreme.justia.com",
-                    "href=\"https://www.oyez.org",
-                    "href=\"https://www.oyez.org/cases/1975/74-6257\">Gregg",
-                    "href=\"https://www.oyez.org",
-                    "href=\"https://www.oyez.org",
                     "Flora Hewlett Foundation",
                     "The Charles Evans Hughes Memorial Foundation",
                     "Supreme Court",
-                    "the Legal Information Institute",
-                    "Pinkerton"
+                    "the Legal Information Institute"
                 ],
                 "LOC": [
                     "Europe"
                 ],
-                "DATE": [
-                    "episode:</p",
-                    "District 13",
-                    "1879",
-                    "1972",
-                    "1976",
-                    "2014"
+                "FAC": [
+                    "Death Penalty"
                 ],
-                "PERSON": [
-                    "Dream Pharma",
-                    "Bill Wiseman</a>",
-                    "Scott Thompson",
-                    "Maya Foa",
-                    "Paul Ray",
-                    "Robert Blecker",
-                    "William",
-                    "Joyce",
-                    "Claire Phillips",
-                    "Nina Perry",
-                    "Stephanie Jenkins",
-                    "Ralph Dellapiana",
-                    "Elisabeth Semel",
-                    "Christina Spaulding",
-                    "Marshall",
-                    ">"
+                "DATE": [
+                    "13",
+                    "1879",
+                    "1976"
                 ]
             }
         },
@@ -2997,7 +2833,8 @@
     "ttl": "600",
     "entities": {
         "ORG": [
-            "the Supreme Court"
+            "the Supreme Court",
+            "supreme"
         ]
     }
 }

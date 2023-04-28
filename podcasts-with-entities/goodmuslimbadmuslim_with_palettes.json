@@ -29,8 +29,11 @@
             "pubDate": "Wed, 12 Feb 2020 21:55:16 +0000",
             "title": "061 - Khodafez LIVE Finale",
             "entities": {
+                "GPE": [
+                    "Taz"
+                ],
                 "PERSON": [
-                    "Taz and Zahra"
+                    "Zahra"
                 ]
             }
         },
@@ -56,6 +59,9 @@
             "pubDate": "Mon, 23 Dec 2019 17:43:49 +0000",
             "title": "060 - The Christmas Jinn feat. Back to the Silk Road",
             "entities": {
+                "GPE": [
+                    "Taz"
+                ],
                 "PERSON": [
                     "Zahra"
                 ]
@@ -84,13 +90,14 @@
             "title": "059 - Diaspora, Eating Little Bangladesh, and Homeostasis",
             "entities": {
                 "GPE": [
-                    "Taz"
+                    "Taz",
+                    "Little Bangladesh"
                 ],
                 "PERSON": [
                     "Zahra",
                     "Fahmida Azim",
                     "Hannah Moushabeck",
-                    "Michel Moushabeck.</div>\n"
+                    "Michel Moushabeck.</div"
                 ]
             }
         },
@@ -116,9 +123,12 @@
             "pubDate": "Wed, 30 Oct 2019 10:20:11 +0000",
             "title": "058 - Live Every Day Like It's Halloween (with special guest Ayesha Siddiqi)",
             "entities": {
+                "GPE": [
+                    "Taz"
+                ],
                 "PERSON": [
                     "Zahra",
-                    "Ayesha Siddiqi.</div>\n"
+                    "Ayesha Siddiqi.</div"
                 ]
             }
         },
@@ -145,11 +155,13 @@
             "title": "057 - Hot Girl Summer Ends, A New Regime Begins",
             "entities": {
                 "PERSON": [
-                    "Zahra",
+                    "Zahra"
+                ],
+                "GPE": [
                     "Taz"
                 ],
                 "NORP": [
-                    "Scottish"
+                    "Scottish Muslim"
                 ]
             }
         },
@@ -177,6 +189,9 @@
             "entities": {
                 "PERSON": [
                     "Zahra"
+                ],
+                "GPE": [
+                    "Taz"
                 ]
             }
         },
@@ -202,8 +217,10 @@
             "pubDate": "Wed, 24 Jul 2019 21:35:51 +0000",
             "title": "055 - Intermittent Fasting is Just Off-Season Ramadan",
             "entities": {
+                "GPE": [
+                    "Taz"
+                ],
                 "PERSON": [
-                    "Taz",
                     "Zahra"
                 ]
             }
@@ -230,10 +247,11 @@
             "pubDate": "Wed, 26 Jun 2019 11:51:34 +0000",
             "title": "054 - Stop Parking on our Property (feat. Randa Jarrar)",
             "entities": {
-                "PERSON": [
-                    "Zahra"
+                "GPE": [
+                    "Taz"
                 ],
-                "ORG": [
+                "PERSON": [
+                    "Zahra",
                     "Randa Jarrar.<br"
                 ]
             }
@@ -266,6 +284,9 @@
                 ],
                 "PERSON": [
                     "Zahra"
+                ],
+                "ORG": [
+                    "Jafar.</div"
                 ]
             }
         },
@@ -302,7 +323,7 @@
                 "PERSON": [
                     "Zahra"
                 ],
-                "FAC": [
+                "ORG": [
                     "the Aga Khan Museum"
                 ]
             }
@@ -334,6 +355,7 @@
             "title": "051 - LIVE from Yale",
             "entities": {
                 "GPE": [
+                    "Taz",
                     "Khichuri"
                 ],
                 "PERSON": [
@@ -370,6 +392,9 @@
             "pubDate": "Mon, 25 Feb 2019 09:33:07 +0000",
             "title": "050 - See You in the Future",
             "entities": {
+                "GPE": [
+                    "Taz"
+                ],
                 "PERSON": [
                     "Zahra"
                 ]
@@ -408,7 +433,8 @@
                     "Supreme"
                 ],
                 "PERSON": [
-                    "Zahra becomes Spider-Woman"
+                    "Zahra",
+                    "Spider-Woman"
                 ]
             }
         },
@@ -441,7 +467,7 @@
                 "PERSON": [
                     "Zahra"
                 ],
-                "WORK_OF_ART": [
+                "ORG": [
                     "Oscar the Grouch and Taz"
                 ]
             }
@@ -509,7 +535,9 @@
             "entities": {
                 "PERSON": [
                     "Zahra",
-                    "Scrooge McDuck",
+                    "Scrooge McDuck"
+                ],
+                "GPE": [
                     "Taz"
                 ],
                 "MONEY": [
@@ -542,7 +570,11 @@
             "link": "https://audioboom.com/posts/7023866",
             "pubDate": "Thu, 27 Sep 2018 07:10:01 +0000",
             "title": "045 - She the People",
-            "entities": {}
+            "entities": {
+                "GPE": [
+                    "Taz"
+                ]
+            }
         },
         {
             "content": "The one where we look back at past Eid conversations.",
@@ -597,6 +629,9 @@
             "pubDate": "Wed, 25 Jul 2018 20:54:24 +0000",
             "title": "043 - Self Made Women",
             "entities": {
+                "GPE": [
+                    "Taz"
+                ],
                 "PERSON": [
                     "Zahra"
                 ]
@@ -630,11 +665,13 @@
             "entities": {
                 "PERSON": [
                     "Zahra",
-                    "Taz",
                     "Sahar Pirzada"
                 ],
                 "DATE": [
                     "Christmas"
+                ],
+                "GPE": [
+                    "Taz"
                 ]
             }
         },
@@ -663,7 +700,14 @@
             "link": "https://audioboom.com/posts/6868037",
             "pubDate": "Wed, 23 May 2018 10:41:39 +0000",
             "title": "041 - Ramadan Brain",
-            "entities": {}
+            "entities": {
+                "GPE": [
+                    "Taz"
+                ],
+                "PERSON": [
+                    "Zahra"
+                ]
+            }
         },
         {
             "content": "The one where Zahra is getting antihistamine nightmares and Taz is still writing her rom-com. This episode brought to you by kale curry.",
@@ -696,9 +740,6 @@
                 ],
                 "GPE": [
                     "Taz"
-                ],
-                "ORG": [
-                    "kale curry"
                 ]
             }
         },
@@ -728,6 +769,9 @@
             "pubDate": "Thu, 29 Mar 2018 20:30:52 +0000",
             "title": "039 - Jetset Problems",
             "entities": {
+                "GPE": [
+                    "Taz"
+                ],
                 "PERSON": [
                     "Zahra"
                 ]
@@ -797,8 +841,12 @@
             "title": "037 - Bathtub Erotica",
             "entities": {
                 "PERSON": [
-                    "Zahra",
-                    "Taz",
+                    "Zahra"
+                ],
+                "GPE": [
+                    "Taz"
+                ],
+                "FAC": [
                     "Magic Mike Live"
                 ]
             }
@@ -829,8 +877,10 @@
             "pubDate": "Sat, 30 Dec 2017 00:53:54 +0000",
             "title": "036 - Saving What We Love",
             "entities": {
+                "GPE": [
+                    "Taz"
+                ],
                 "PERSON": [
-                    "Taz",
                     "Zahra"
                 ],
                 "ORG": [
@@ -864,6 +914,10 @@
             "pubDate": "Tue, 28 Nov 2017 10:46:05 +0000",
             "title": "035 - It's Really Muslim to be Poly",
             "entities": {
+                "GPE": [
+                    "Taz",
+                    "patchouli"
+                ],
                 "PERSON": [
                     "Zahra",
                     "Jihad Barbie"
@@ -898,17 +952,18 @@
             "entities": {
                 "PERSON": [
                     "Zahra",
-                    "Glinda the Good Witch",
+                    "Glinda",
                     "Valhalla"
                 ],
-                "DATE": [
-                    "Jaws"
+                "ORG": [
+                    "Jaws",
+                    "Allah"
                 ],
                 "GPE": [
                     "Taz"
                 ],
-                "ORG": [
-                    "Allah"
+                "PRODUCT": [
+                    "the Good Witch"
                 ]
             }
         },
@@ -938,6 +993,9 @@
             "pubDate": "Fri, 29 Sep 2017 10:25:43 +0000",
             "title": "033 - Not a News Source",
             "entities": {
+                "GPE": [
+                    "Taz"
+                ],
                 "PERSON": [
                     "Zahra"
                 ],
@@ -972,6 +1030,9 @@
             "pubDate": "Wed, 30 Aug 2017 08:55:55 +0000",
             "title": "032 - LIVE from Shangri La in Honolulu",
             "entities": {
+                "GPE": [
+                    "Taz"
+                ],
                 "PERSON": [
                     "Zahra"
                 ]
@@ -1040,6 +1101,10 @@
                 "PERSON": [
                     "Zahra"
                 ],
+                "GPE": [
+                    "Taz",
+                    "Taz"
+                ],
                 "NORP": [
                     "Muslim"
                 ]
@@ -1070,7 +1135,15 @@
             "link": "https://audioboom.com/posts/5961729",
             "pubDate": "Sat, 27 May 2017 08:55:45 +0000",
             "title": "029 - Manzanar Pilgrimage",
-            "entities": {}
+            "entities": {
+                "GPE": [
+                    "Taz",
+                    "Manzanar"
+                ],
+                "PERSON": [
+                    "Zahra"
+                ]
+            }
         },
         {
             "content": "The one where Zahra explains leather daddies and Taz plans her passive-aggressive plane moves.",
@@ -1099,7 +1172,9 @@
             "title": "028 - Apocalypse Ennui",
             "entities": {
                 "PERSON": [
-                    "Zahra",
+                    "Zahra"
+                ],
+                "GPE": [
                     "Taz"
                 ]
             }
@@ -1135,11 +1210,11 @@
                     "Hawaii"
                 ],
                 "PERSON": [
-                    "Zahra",
-                    "Muslim"
+                    "Zahra"
                 ],
                 "NORP": [
-                    "Irish"
+                    "Irish",
+                    "Muslim"
                 ],
                 "ORG": [
                     "Kurdish Gents Club"
@@ -1214,7 +1289,9 @@
             "title": "025 - Large Groups of Angry People",
             "entities": {
                 "PERSON": [
-                    "Zahra self-cares",
+                    "Zahra"
+                ],
+                "ORG": [
                     "Taz",
                     "Kryptonite"
                 ]
@@ -1245,7 +1322,11 @@
             "link": "https://audioboom.com/posts/5431818",
             "pubDate": "Sun, 25 Dec 2016 07:16:21 +0000",
             "title": "024 - Jingle Jihad",
-            "entities": {}
+            "entities": {
+                "DATE": [
+                    "Christmas"
+                ]
+            }
         },
         {
             "content": "The one after election day, where Taz wonders if Glenn Beck is now woke and Zahra almost finds a new husband at a meat market. Also, if you must wear a safety pin, buy ours.\n\nThis is a special longer episode featuring Taz and Zahra's post-election reflections.",
@@ -1276,10 +1357,14 @@
                 "DATE": [
                     "election day"
                 ],
+                "GPE": [
+                    "Taz",
+                    "Taz"
+                ],
                 "PERSON": [
                     "Glenn Beck",
                     "Zahra",
-                    "Taz and Zahra's"
+                    "Zahra"
                 ]
             }
         },
@@ -1345,6 +1430,7 @@
             "entities": {
                 "GPE": [
                     "Taz",
+                    "Golden Retrievers",
                     "Taz"
                 ],
                 "ORG": [
@@ -1352,9 +1438,6 @@
                 ],
                 "PERSON": [
                     "Zahra"
-                ],
-                "FAC": [
-                    "Golden Retrievers"
                 ],
                 "NORP": [
                     "Muslim"
@@ -1387,6 +1470,9 @@
             "pubDate": "Tue, 30 Aug 2016 17:37:18 +0000",
             "title": "020 - Muslim Muslims at The Comedy Comedy Festival",
             "entities": {
+                "GPE": [
+                    "Taz"
+                ],
                 "PERSON": [
                     "Zahra"
                 ],
@@ -1424,12 +1510,12 @@
                 "PERSON": [
                     "Zahra"
                 ],
-                "GPE": [
-                    "Fatwa",
-                    "Taz"
-                ],
                 "ORG": [
+                    "Fatwa",
                     "Hiba"
+                ],
+                "GPE": [
+                    "Taz"
                 ]
             }
         },
@@ -1462,7 +1548,7 @@
                 "PERSON": [
                     "Zahra"
                 ],
-                "LAW": [
+                "PRODUCT": [
                     "Sharia"
                 ]
             }
@@ -1497,18 +1583,18 @@
                     "Taz"
                 ],
                 "ORG": [
-                    "Champion of Change",
-                    "the White House",
-                    "the White House",
                     "the White House",
                     "the White House",
                     "Champion of Change"
                 ],
                 "PERSON": [
                     "Zahra",
-                    "Storytelling",
                     "Fawzia Mirza",
                     "Kayhan Irani"
+                ],
+                "FAC": [
+                    "the White House",
+                    "the White House"
                 ],
                 "NORP": [
                     "Muslim"
@@ -1542,8 +1628,11 @@
             "pubDate": "Thu, 19 May 2016 06:40:13 +0000",
             "title": "#GMBM LIVE from the White House - Teaser",
             "entities": {
-                "CARDINAL": [
-                    "#"
+                "PERCENT": [
+                    "#GoodMuslimBadMuslim"
+                ],
+                "DATE": [
+                    "May"
                 ],
                 "FAC": [
                     "the White House"
@@ -1583,6 +1672,9 @@
                 ],
                 "ORDINAL": [
                     "first"
+                ],
+                "GPE": [
+                    "Taz"
                 ]
             }
         },
@@ -1618,7 +1710,7 @@
                 "PERSON": [
                     "Zahra",
                     "Dropbox",
-                    "Podcast Studio"
+                    "Amanda Quraishi"
                 ],
                 "WORK_OF_ART": [
                     "Where's the Rumi"
@@ -1627,9 +1719,7 @@
                     "South"
                 ],
                 "ORG": [
-                    "Amanda Quraishi"
-                ],
-                "LAW": [
+                    "mashallah",
                     "the Auntie Stare Down"
                 ]
             }
@@ -1664,8 +1754,12 @@
                     "Taz",
                     "Hijarbie"
                 ],
+                "NORP": [
+                    "Jinns"
+                ],
                 "PERSON": [
-                    "Zahra"
+                    "Zahra",
+                    "Jihottie"
                 ]
             }
         },
@@ -1706,7 +1800,7 @@
                 "PERSON": [
                     "Zahra"
                 ],
-                "WORK_OF_ART": [
+                "PRODUCT": [
                     "Sharia"
                 ]
             }
@@ -1741,9 +1835,10 @@
                     "Zahra"
                 ],
                 "GPE": [
-                    "Santa Khomeini",
-                    "Taz",
-                    "Empire"
+                    "Santa Khomeini"
+                ],
+                "ORG": [
+                    "Taz"
                 ],
                 "NORP": [
                     "Muslim"
@@ -1779,6 +1874,9 @@
                 "PERSON": [
                     "Zahra"
                 ],
+                "GPE": [
+                    "Taz"
+                ],
                 "FAC": [
                     "the Statue of Liberty"
                 ],
@@ -1813,6 +1911,9 @@
             "pubDate": "Mon, 19 Oct 2015 21:07:11 +0000",
             "title": "010 - Muslim-ish",
             "entities": {
+                "GPE": [
+                    "Taz"
+                ],
                 "ORG": [
                     "Dartmouth"
                 ],
@@ -1886,12 +1987,18 @@
             "pubDate": "Mon, 31 Aug 2015 20:28:32 +0000",
             "title": "008 - Let's Talk About Sex...Ed",
             "entities": {
+                "GPE": [
+                    "Taz",
+                    "Barbie"
+                ],
                 "PERSON": [
-                    "Barbie",
                     "Zahra"
                 ],
+                "MONEY": [
+                    "#MuslimRage &"
+                ],
                 "ORG": [
-                    "MuslimRage & #MuslimCrazy"
+                    "MuslimCrazy"
                 ]
             }
         },
@@ -1921,7 +2028,11 @@
             "pubDate": "Fri, 07 Aug 2015 19:45:37 +0000",
             "title": "007 - Zahra and Taz Take On New York - LIVE",
             "entities": {
+                "GPE": [
+                    "Taz"
+                ],
                 "PERSON": [
+                    "Zahra",
                     "Zahra"
                 ],
                 "NORP": [
@@ -1960,7 +2071,11 @@
                 ],
                 "PERSON": [
                     "Zahra",
-                    "John Fugelsang"
+                    "John Fugelsang",
+                    "Frank\u00a0Conniff"
+                ],
+                "GPE": [
+                    "Taz"
                 ]
             }
         },
@@ -1995,7 +2110,9 @@
                 ],
                 "ORG": [
                     "Reality TV Star",
-                    "Saqib"
+                    "Saqib",
+                    "KFC",
+                    "PE"
                 ],
                 "PERSON": [
                     "Zahra",
@@ -2029,11 +2146,12 @@
             "pubDate": "Thu, 28 May 2015 22:24:33 +0000",
             "title": "005 - Shame On You",
             "entities": {
+                "GPE": [
+                    "Taz",
+                    "Dubai"
+                ],
                 "PERSON": [
                     "Zahra"
-                ],
-                "GPE": [
-                    "Dubai"
                 ]
             }
         },
@@ -2124,11 +2242,14 @@
             "pubDate": "Wed, 25 Mar 2015 09:00:00 +0000",
             "title": "003 - No Muslim is Safe",
             "entities": {
-                "PERSON": [
-                    "Zahra self-diagnoses"
+                "GPE": [
+                    "Taz"
                 ],
-                "NORP": [
-                    "Muslim"
+                "PERSON": [
+                    "Zahra"
+                ],
+                "ORG": [
+                    "Muslim Crazy"
                 ]
             }
         },
@@ -2287,12 +2408,10 @@
         ],
         "PERSON": [
             "Tanzila",
-            "Ahmed",
             "Zahra Noorbakhsh"
         ],
         "NORP": [
-            "American",
-            "Muslim"
+            "American Muslim"
         ],
         "CARDINAL": [
             "#"

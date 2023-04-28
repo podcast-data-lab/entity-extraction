@@ -117,22 +117,19 @@
             "pubDate": "Thu, 10 Jun 2021 10:00:00 +0000",
             "title": "Day X, Part 3: Blind Spot 2.0",
             "entities": {
-                "PERSON": [
-                    "Franco A."
-                ],
                 "GPE": [
                     "Germany"
-                ],
-                "DATE": [
-                    "over a decade",
-                    "decades"
                 ],
                 "CARDINAL": [
                     "10",
                     "nine"
                 ],
                 "NORP": [
+                    "neo-Nazi",
                     "Nazi"
+                ],
+                "DATE": [
+                    "decades"
                 ]
             }
         },
@@ -163,9 +160,6 @@
             "pubDate": "Thu, 3 Jun 2021 10:00:00 +0000",
             "title": "Day X, Part 2: In the Stomach",
             "entities": {
-                "PERSON": [
-                    "Franco A."
-                ],
                 "CARDINAL": [
                     "two",
                     "two",
@@ -173,6 +167,9 @@
                 ],
                 "NORP": [
                     "Nazi"
+                ],
+                "DATE": [
+                    "Today"
                 ],
                 "GPE": [
                     "Germany"
@@ -210,6 +207,9 @@
                     "German",
                     "Syrian",
                     "German"
+                ],
+                "DATE": [
+                    "the day"
                 ],
                 "ORG": [
                     "href=\"http://nytimes.com"
@@ -300,9 +300,6 @@
         ],
         "DATE": [
             "years later"
-        ],
-        "FAC": [
-            "Day X"
         ]
     }
 }

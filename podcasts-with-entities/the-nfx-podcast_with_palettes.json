@@ -44,12 +44,11 @@
                 ],
                 "PERSON": [
                     "Brett Hagler",
+                    "Bitcoin",
                     "Pete Flint"
                 ],
                 "ORG": [
-                    "Co-Founders",
                     "New Story Charity",
-                    "3D",
                     "New Story\u2019s"
                 ],
                 "ORDINAL": [
@@ -86,11 +85,11 @@
                 "CARDINAL": [
                     "1",
                     "3",
-                    "one",
                     "two"
                 ],
                 "GPE": [
-                    "U.S."
+                    "U.S.",
+                    "Slack"
                 ],
                 "MONEY": [
                     "4.3B"
@@ -98,11 +97,12 @@
                 "ORG": [
                     "NYSE",
                     "Nextdoor",
-                    "Slack"
+                    "CFO of"
                 ],
                 "DATE": [
                     "last week",
                     "November 8, 2021",
+                    "Today",
                     "today",
                     "tomorrow"
                 ],
@@ -140,11 +140,13 @@
                 "ORG": [
                     "NFX",
                     "LatAm",
-                    "ALLVP"
+                    "ALLVP",
+                    "LatAm"
                 ],
-                "GPE": [
+                "LOC": [
                     "LatAm",
-                    "Mexico City"
+                    "Latin America",
+                    "Latin America"
                 ],
                 "DATE": [
                     "the last few years"
@@ -153,9 +155,8 @@
                     "James",
                     "Antonia Rojas"
                 ],
-                "LOC": [
-                    "Latin America",
-                    "Latin America"
+                "GPE": [
+                    "Mexico City"
                 ]
             }
         },
@@ -186,7 +187,8 @@
             "title": "Eynat Guez & Gigi Levy-Weiss on 7 Mental Shifts For Hiring Now",
             "entities": {
                 "PERSON": [
-                    "Covid"
+                    "Covid",
+                    "Papaya Global"
                 ],
                 "ORDINAL": [
                     "first",
@@ -198,10 +200,11 @@
                     "today",
                     "Today"
                 ],
+                "LOC": [
+                    "Eynat Guez"
+                ],
                 "ORG": [
-                    "Eynat Guez",
                     "the Co-Founder",
-                    "Papaya Global",
                     "Papaya"
                 ],
                 "MONEY": [
@@ -240,7 +243,7 @@
             "entities": {
                 "ORG": [
                     "NFT",
-                    "NFX",
+                    "NFX Partner Morgan Beller",
                     "Cuy Sheffield",
                     "Visa",
                     "CryptoPunks"
@@ -254,8 +257,8 @@
                     "today"
                 ],
                 "PERSON": [
-                    "Morgan Beller",
                     "Johnson",
+                    "Bored Apes",
                     "Aku"
                 ]
             }
@@ -286,19 +289,22 @@
             "pubDate": "Tue, 14 Sep 2021 17:35:46 +0000",
             "title": "A Founder\u2019s Exponential Toolset with Azeem Azhar & James Currier",
             "entities": {
+                "PERSON": [
+                    "Visionary Founders",
+                    "Azeem Azhar"
+                ],
                 "DATE": [
                     "Today"
-                ],
-                "PERSON": [
-                    "Azeem Azhar"
                 ],
                 "ORG": [
                     "VC",
                     "iPhone",
                     "NFX Essay"
                 ],
+                "FAC": [
+                    "Exponential View"
+                ],
                 "WORK_OF_ART": [
-                    "The Exponential View",
                     "The Exponential Age"
                 ]
             }
@@ -329,29 +335,29 @@
             "pubDate": "Thu, 9 Sep 2021 14:00:00 +0000",
             "title": "A Mammoth Becomes A Unicorn: Inside a Scientist-Founder\u2019s Journey from Pre-Seed to Series D (NFX Bio)",
             "entities": {
-                "PERSON": [
-                    "Mammoth Biosciences",
-                    "Mammoth",
-                    "Mammoth",
-                    "Mammoth",
-                    "James Currier",
-                    "Trevor Martin"
-                ],
                 "MONEY": [
                     "1B"
                 ],
-                "ORG": [
-                    "NFX",
-                    "Mammoth\u2019s Pre-Seed",
-                    "NFX",
-                    "NFX Bio",
-                    "Scientist-Founders",
-                    "NFX Bio",
-                    "Mammoth\u2019s Co-Founder &"
+                "GPE": [
+                    "Mammoth"
                 ],
                 "DATE": [
                     "today",
                     "10x"
+                ],
+                "EVENT": [
+                    "\u2019s Series D. We"
+                ],
+                "ORG": [
+                    "NFX",
+                    "NFX Bio",
+                    "NFX Bio",
+                    "Mammoth\u2019s Co-Founder &"
+                ],
+                "PERSON": [
+                    "Omri Drory",
+                    "James Currier",
+                    "Trevor Martin"
                 ]
             }
         },
@@ -387,26 +393,30 @@
                 ],
                 "PERSON": [
                     "Moon",
-                    "Morgan Beller",
                     "Andy Lapsa",
-                    "Morgan",
+                    "Lapsa",
                     "Andy"
                 ],
-                "DATE": [
-                    "Today",
-                    "2019"
-                ],
                 "ORG": [
-                    "NFX",
+                    "NFX Partner Morgan Beller",
+                    "Co-Founder &",
                     "Stoke Space Technologies",
-                    "Bezos's Blue Origin"
+                    "Bezos's Blue Origin",
+                    "Morgan",
+                    "Founder"
                 ],
                 "ORDINAL": [
                     "second"
                 ],
+                "DATE": [
+                    "2019"
+                ],
                 "GPE": [
                     "Renton",
                     "Washington"
+                ],
+                "CARDINAL": [
+                    "one"
                 ]
             }
         },
@@ -477,20 +487,22 @@
             "pubDate": "Thu, 29 Jul 2021 09:00:00 +0000",
             "title": "NFX Mashup: The SPAC Masterclass",
             "entities": {
+                "ORG": [
+                    "NFX Mashup",
+                    "IPO",
+                    "NFX Partner",
+                    "IPO"
+                ],
+                "DATE": [
+                    "today"
+                ],
                 "PERSON": [
-                    "Startups",
                     "SPAC",
                     "Pete Flint",
                     "Kevin Hartz",
                     "Hippo",
                     "Assaf Wand",
                     "Lisa Buyer"
-                ],
-                "DATE": [
-                    "today"
-                ],
-                "ORG": [
-                    "NFX"
                 ]
             }
         },
@@ -527,21 +539,19 @@
                     "Mila Kunis",
                     "Ashton Kutcher",
                     "Toy Story 2",
-                    "Happy Feet",
-                    "Stoner Cats",
+                    "Spider-Verse",
                     "Maaria Bajwa",
+                    "Mack Flavelle",
                     "Lisa Sterbakov"
                 ],
                 "ORG": [
-                    "Spider-Verse",
-                    "Cryptokitties",
+                    "Stoner Cats",
                     "Morgan Beller",
                     "NFX Partner",
-                    "Mack Flavelle",
                     "Orchard Farm Productions",
                     "NFT"
                 ],
-                "TIME": [
+                "QUANTITY": [
                     "an estimated five minutes"
                 ],
                 "DATE": [
@@ -579,7 +589,7 @@
             "title": "Ann Hiatt on Trillion Dollar Leadership (An Inside Look at Jeff Bezos & Eric Schmidt)",
             "entities": {
                 "MONEY": [
-                    "Trillion-Dollar",
+                    "Trillion-Dollar Leadership",
                     "Trillion"
                 ],
                 "PERSON": [
@@ -595,8 +605,9 @@
                     "Eric Schmidt"
                 ],
                 "DATE": [
+                    "Today",
                     "14+ years",
-                    "days"
+                    "its earliest days"
                 ],
                 "ORG": [
                     "NFX",
@@ -641,8 +652,14 @@
                 ],
                 "PERSON": [
                     "Vitalik Buterin",
+                    "Bitcoin"
+                ],
+                "NORP": [
                     "Bitcoin",
                     "Bitcoin"
+                ],
+                "GPE": [
+                    "Vitalik"
                 ]
             }
         },
@@ -674,28 +691,29 @@
             "entities": {
                 "DATE": [
                     "the past twenty years",
-                    "Today",
                     "1960"
                 ],
                 "ORG": [
                     "NFX",
                     "Harvard Business School",
-                    "Business Administration",
                     "the Entrepreneurial Management Unit",
                     "the Harvard Department of Economics",
                     "the Harvard Center of Mathematical Sciences & Applications",
                     "the National Bureau of Economic Research",
-                    "Scott",
                     "NFX"
                 ],
                 "PERSON": [
                     "James Currier",
                     "Scott Duke Kominers",
+                    "Scott",
                     "James",
                     "Scott"
                 ],
                 "CARDINAL": [
                     "80"
+                ],
+                "WORK_OF_ART": [
+                    "Associate Professor of Business Administration"
                 ]
             }
         },
@@ -728,13 +746,12 @@
                 "WORK_OF_ART": [
                     "The Founders\u2019 List"
                 ],
-                "PERSON": [
-                    "Partner",
-                    "Gigi Levy-Weiss"
-                ],
                 "ORG": [
                     "NFX",
                     "NFX Essay"
+                ],
+                "PERSON": [
+                    "Gigi Levy-Weiss"
                 ],
                 "CARDINAL": [
                     "three"
@@ -815,8 +832,10 @@
                     "Bizzabo",
                     "Bizzabo"
                 ],
-                "CARDINAL": [
-                    "One"
+                "PERSON": [
+                    "Covid",
+                    "Gigi Levy-Weiss",
+                    "Eran Ben-Shusham"
                 ],
                 "MONEY": [
                     "$138 million"
@@ -824,11 +843,8 @@
                 "ORG": [
                     "NFX",
                     "Bizzabo Co-Founder &",
+                    "COVID",
                     "NFX"
-                ],
-                "PERSON": [
-                    "Gigi Levy-Weiss",
-                    "Eran Ben-Shusham"
                 ]
             }
         },
@@ -905,18 +921,16 @@
             "title": "The Founders' List: 7 Principles of Game Design from Design Gym",
             "entities": {
                 "WORK_OF_ART": [
-                    "The Founders' List",
-                    "The Design Gym - an"
-                ],
-                "CARDINAL": [
-                    "7"
+                    "The Founders' List"
                 ],
                 "ORG": [
-                    "NYC",
-                    "Instagram",
-                    "Etsy"
+                    "The Design Gym - an\u00a0"
+                ],
+                "LOC": [
+                    "NYC"
                 ],
                 "GPE": [
+                    "Instagram",
                     "Netflix"
                 ]
             }
@@ -951,19 +965,23 @@
                     "Saar Gur",
                     "Gur",
                     "Gur",
+                    "Dropbox",
                     "James Currier",
                     "James"
                 ],
                 "LOC": [
-                    "Silicon Valley"
+                    "Silicon Valley",
+                    "Bird"
                 ],
                 "ORG": [
                     "CRV",
+                    "the Forbes Midas List",
+                    "World",
                     "Best Venture Capital Investors",
                     "Amazon",
                     "Patreon",
+                    "Classpass",
                     "Niantic",
-                    "Dropbox",
                     "NFX",
                     "Saar"
                 ],
@@ -982,8 +1000,7 @@
                     "Today"
                 ],
                 "PRODUCT": [
-                    "DoorDash",
-                    "Bird"
+                    "DoorDash"
                 ]
             }
         },
@@ -1016,19 +1033,29 @@
                 "ORG": [
                     "C2i Genomics",
                     "AI",
-                    "C2i",
                     "NFX",
-                    "NFX Partner Omri Amirav-Drory",
+                    "Co-founder & CEO",
                     "C2i Genomics"
                 ],
                 "ORDINAL": [
                     "first"
                 ],
-                "GPE": [
+                "PRODUCT": [
+                    "C2i"
+                ],
+                "LOC": [
                     "C2i"
                 ],
                 "PERSON": [
-                    "Asaf Zviran"
+                    "Omri Amirav-Drory",
+                    "Asaf Zviran",
+                    "Omri"
+                ],
+                "TIME": [
+                    "11:15"
+                ],
+                "GPE": [
+                    "Visit C2i"
                 ]
             }
         },
@@ -1059,9 +1086,8 @@
             "title": "Tony Fadell on Learning To See, Telling Stories, & Being A Troublemaker",
             "entities": {
                 "CARDINAL": [
-                    "hundreds of millions",
                     "hundreds",
-                    "over 200+"
+                    "200"
                 ],
                 "DATE": [
                     "every single day",
@@ -1076,8 +1102,7 @@
                 "ORG": [
                     "iPod",
                     "iPhone",
-                    "Founder of Nest",
-                    "the Principal at Future Shape"
+                    "Founder of Nest"
                 ],
                 "ORDINAL": [
                     "first"
@@ -1119,8 +1144,7 @@
                 ],
                 "ORG": [
                     "YouTube",
-                    "YouTube",
-                    "Shishir"
+                    "YouTube"
                 ],
                 "DATE": [
                     "2014",
@@ -1160,14 +1184,12 @@
                 ],
                 "ORG": [
                     "Super Founders'",
+                    "the NFX Podcast",
                     "Zoom",
                     "Instacart",
                     "PayPal",
                     "Nest",
-                    "Airbnb",
-                    "YouTube",
-                    "LinkedIn, Lyft",
-                    "DoorDash"
+                    "Github, Flatiron Health"
                 ],
                 "MONEY": [
                     "about billion-dollar",
@@ -1178,7 +1200,7 @@
                     "Ali Tamaseb",
                     "James Currier",
                     "Kite Pharma",
-                    "Coinbase",
+                    "Lyft",
                     "Elad Gil",
                     "Peter Thiel",
                     "Alfred Lin",
@@ -1186,10 +1208,13 @@
                     "Ali Tamaseb"
                 ],
                 "GPE": [
-                    "Github"
-                ],
-                "FAC": [
+                    "YouTube",
+                    "LinkedIn",
                     "Square"
+                ],
+                "PRODUCT": [
+                    "DoorDash",
+                    "Coinbase"
                 ],
                 "TIME": [
                     "thousands of hours"
@@ -1224,22 +1249,25 @@
             "entities": {
                 "ORG": [
                     "Stanford",
-                    "NFX",
+                    "NFX Partner",
                     "Stanford",
                     "Stanford",
+                    "Stanford Graduate School of Business",
                     "BA",
-                    "BS",
                     "Stanford University",
-                    "MPhil",
+                    "Economics",
+                    "Oxford",
                     "Economics",
                     "MIT",
-                    "the GSB Management Board"
+                    "the GSB Management Board",
+                    "GSB"
                 ],
                 "PERSON": [
                     "Dean Jon Levin",
                     "Pete Flint",
                     "Jon Levin",
                     "Dean",
+                    "Levin",
                     "Pete",
                     "Dean Levin"
                 ],
@@ -1251,9 +1279,6 @@
                     "1996",
                     "1999",
                     "2005"
-                ],
-                "GPE": [
-                    "Oxford"
                 ],
                 "WORK_OF_ART": [
                     "PhD"
@@ -1286,23 +1311,19 @@
             "pubDate": "Wed, 2 Jun 2021 14:00:00 +0000",
             "title": "The Insider Story of Waze with Noam Bardin",
             "entities": {
-                "ORG": [
-                    "Underlying Waze's",
-                    "NFX",
-                    "Google",
-                    "NFX",
-                    "Founder",
-                    "NFX Essay"
-                ],
-                "NORP": [
-                    "north star"
-                ],
                 "PERSON": [
                     "Waze",
                     "Noam Bardin",
                     "Gigi Levy-Weiss",
                     "Noam",
                     "Noam"
+                ],
+                "ORG": [
+                    "NFX",
+                    "Google",
+                    "NFX",
+                    "Founder",
+                    "NFX Essay"
                 ],
                 "DATE": [
                     "their early days",
@@ -1313,7 +1334,7 @@
                     "Feb 2021"
                 ],
                 "CARDINAL": [
-                    "just 2,000",
+                    "2,000",
                     "140"
                 ],
                 "MONEY": [
@@ -1349,23 +1370,26 @@
             "entities": {
                 "DATE": [
                     "Just 4 years old",
-                    "2020",
-                    "Today"
+                    "2020"
                 ],
                 "CARDINAL": [
                     "5 million",
                     "7 million"
                 ],
+                "PERSON": [
+                    "Covid",
+                    "Pete Flint",
+                    "Heather Fernandez"
+                ],
                 "ORG": [
                     "CVS",
                     "NFX",
+                    "Co-Founder",
                     "Solv Health",
-                    "Trulia",
                     "NFX Essay"
                 ],
-                "PERSON": [
-                    "Pete Flint",
-                    "Heather Fernandez"
+                "GPE": [
+                    "Trulia"
                 ]
             }
         },
@@ -1396,9 +1420,10 @@
             "title": "The Founders' List: The Great Online Game by Packy McCormick",
             "entities": {
                 "ORG": [
+                    "The Great Online Game",
                     "Fortnite",
-                    "YouTube",
                     "the Not Boring Club",
+                    "Packy",
                     "the NFX Podcast"
                 ],
                 "PERSON": [
@@ -1410,8 +1435,8 @@
                     "Twitter"
                 ],
                 "GPE": [
-                    "Discords",
-                    "Packy"
+                    "YouTube",
+                    "Discords"
                 ]
             }
         },
@@ -1441,17 +1466,18 @@
             "pubDate": "Tue, 18 May 2021 14:30:00 +0000",
             "title": "Li Jin on The Passion Economy & Its Hidden Currency",
             "entities": {
-                "PRODUCT": [
-                    "The \"Passion Economy"
+                "LAW": [
+                    "The \"Passion Economy\""
                 ],
                 "PERSON": [
                     "Li Jin",
                     "James Currier",
-                    "Li Jin"
+                    "Li Jin",
+                    "Founder"
                 ],
-                "ORG": [
+                "WORK_OF_ART": [
                     "the Creator Economy",
-                    "the NFX Essay"
+                    "Read the NFX Essay"
                 ]
             }
         },
@@ -1531,17 +1557,20 @@
                     "Lise",
                     "Pete",
                     "Ms Buyer",
-                    "Lise",
-                    "Direct Listing"
-                ],
-                "LAW": [
-                    "the NFX Podcast"
+                    "Lise"
                 ],
                 "ORG": [
-                    "Trulia",
+                    "IPO",
+                    "the NFX Podcast",
+                    "IPO",
                     "Co-Founder",
                     "Business Optimization for Google Inc.",
+                    "IPO",
+                    "IPO",
                     "NFX Essay"
+                ],
+                "GPE": [
+                    "Trulia"
                 ],
                 "DATE": [
                     "2012"
@@ -1577,12 +1606,17 @@
                 "DATE": [
                     "December 2017"
                 ],
+                "NORP": [
+                    "Maker"
+                ],
                 "ORG": [
                     "Dai Stablecoin System",
-                    "Dai",
-                    "Dai"
+                    "the US Dollar",
+                    "the Bitcoin and Ethereum"
                 ],
                 "PERSON": [
+                    "Dai",
+                    "Dai",
                     "The Dai Stablecoin"
                 ],
                 "WORK_OF_ART": [
@@ -1616,18 +1650,16 @@
             "pubDate": "Wed, 5 May 2021 16:00:00 +0000",
             "title": "Julia & Kevin Hartz On Taking Eventbrite Public",
             "entities": {
-                "ORG": [
+                "PERSON": [
                     "Julia",
-                    "Eventbrite",
-                    "the NFX Podcast",
-                    "NFX",
-                    "SPAC",
-                    "Eventbrite",
+                    "Kevin Hartz",
+                    "Pete Flint",
                     "Julia"
                 ],
-                "PERSON": [
-                    "Kevin Hartz",
-                    "Pete Flint"
+                "ORG": [
+                    "the NFX Podcast",
+                    "NFX",
+                    "SPAC"
                 ],
                 "CARDINAL": [
                     "two"
@@ -1669,21 +1701,25 @@
             "entities": {
                 "WORK_OF_ART": [
                     "The Founders' List",
-                    "Mind the Moat"
+                    "\u201cMind the Moat"
                 ],
                 "PERSON": [
                     "Hamilton Helmer\u2019s",
-                    "Flo Crivelo"
-                ],
-                "ORG": [
-                    "Powers",
-                    "Twilio",
-                    "Founder &",
-                    "TeamFlow"
+                    "Flo Crivelo",
+                    "Read Flo's"
                 ],
                 "GPE": [
                     "Spotify",
                     "Netflix"
+                ],
+                "PRODUCT": [
+                    "Stripe",
+                    "TeamFlow"
+                ],
+                "ORG": [
+                    "Twilio",
+                    "7 Powers Review",
+                    "Founder &"
                 ]
             }
         },
@@ -1716,10 +1752,10 @@
                 "ORG": [
                     "NFX Podcast",
                     "Co-Founder &",
+                    "Twilio",
                     "Powers",
                     "Adobe Systems",
                     "Hewlett-Packard",
-                    "Netflix",
                     "Raychem",
                     "Co-Founder",
                     "Twilio",
@@ -1728,16 +1764,16 @@
                 "PERSON": [
                     "Jeff Lawson",
                     "Hamilton Helmer",
+                    "Helmer",
                     "Hamilton",
                     "Hamilton",
                     "Jeff Lawson"
                 ],
                 "CARDINAL": [
-                    "7",
-                    "7",
                     "over 200"
                 ],
                 "GPE": [
+                    "Netflix",
                     "Spotify"
                 ],
                 "DATE": [
@@ -1775,13 +1811,14 @@
                     "The Founders' List"
                 ],
                 "PERSON": [
-                    "The Hook Model",
-                    "Nir Eyal"
+                    "The Hook Model"
                 ],
                 "CARDINAL": [
                     "four"
                 ],
-                "GPE": [
+                "ORG": [
+                    "Nir Eyal",
+                    "author & professor",
                     "Nir"
                 ]
             }
@@ -1815,15 +1852,18 @@
                 "ORG": [
                     "Insurtech",
                     "Hippo Insurance",
-                    "NFX",
-                    "SPAC"
+                    "SPAC",
+                    "Co-Founder &",
+                    "NFX Partner",
+                    "Founder",
+                    "SPAC",
+                    "IPO"
                 ],
                 "DATE": [
                     "recent years",
                     "early March of this year"
                 ],
                 "PERSON": [
-                    "Hippo",
                     "Hippo",
                     "Assaf Wand",
                     "Pete Flint",
@@ -1868,21 +1908,23 @@
                 ],
                 "GPE": [
                     "US",
-                    "Austen",
                     "America"
                 ],
-                "ORG": [
-                    "Lambda School",
-                    "NFX",
-                    "the NFX Essay"
-                ],
                 "PERSON": [
-                    "James Currier"
+                    "Austen Allred",
+                    "James Currier",
+                    "Austen"
+                ],
+                "ORG": [
+                    "Co-Founder",
+                    "Lambda School",
+                    "The New American Dream: How"
                 ],
                 "DATE": [
                     "decades"
                 ],
                 "WORK_OF_ART": [
+                    "The Psychology of Traditional College",
                     "Single Model"
                 ]
             }
@@ -1916,18 +1958,18 @@
                 "WORK_OF_ART": [
                     "The Founders' List"
                 ],
+                "ORG": [
+                    "Amazon",
+                    "Amazon",
+                    "Amazon",
+                    "Amazon"
+                ],
                 "PERSON": [
                     "Jeff Bezos",
                     "Bezos"
                 ],
                 "DATE": [
-                    "Thursday",
-                    "Day 1"
-                ],
-                "ORG": [
-                    "Amazon",
-                    "Amazon",
-                    "Amazon"
+                    "Thursday"
                 ]
             }
         },
@@ -1966,7 +2008,7 @@
                     "Worldwide Consumer Business",
                     "Amazon",
                     "Alexa",
-                    "Mechanisms",
+                    "AWS",
                     "Amazon",
                     "Amazon"
                 ],
@@ -1976,9 +2018,6 @@
                     "two",
                     "2",
                     "3"
-                ],
-                "ORDINAL": [
-                    "first"
                 ]
             }
         },
@@ -2014,7 +2053,6 @@
                 "ORG": [
                     "Amazon",
                     "Amazon",
-                    "Shareholders",
                     "NFX",
                     "Amazon.com"
                 ],
@@ -2023,8 +2061,7 @@
                 ],
                 "DATE": [
                     "24 years ago",
-                    "1997",
-                    "an incredible year"
+                    "1997"
                 ]
             }
         },
@@ -2094,16 +2131,15 @@
                 "DATE": [
                     "25 years"
                 ],
-                "ORG": [
-                    "Wired",
-                    "NFX",
-                    "the NFX Podcast"
-                ],
                 "PERSON": [
                     "Chris Anderson",
                     "James Currier",
                     "Chris",
                     "James"
+                ],
+                "ORG": [
+                    "NFX",
+                    "the NFX Podcast"
                 ]
             }
         },
@@ -2137,9 +2173,10 @@
                     "The Founders' List"
                 ],
                 "GPE": [
+                    "Valve",
                     "Valve"
                 ],
-                "PERSON": [
+                "DATE": [
                     "Valve"
                 ]
             }
@@ -2178,7 +2215,6 @@
                     "the early days"
                 ],
                 "ORG": [
-                    "Airbnb",
                     "Aribnb"
                 ],
                 "PERSON": [
@@ -2215,16 +2251,19 @@
                 "WORK_OF_ART": [
                     "The Founders' List"
                 ],
+                "PERSON": [
+                    "Quora",
+                    "Greg Brockman",
+                    "Quora"
+                ],
                 "DATE": [
                     "2015"
                 ],
-                "PERSON": [
-                    "Greg Brockman",
-                    "Greg"
-                ],
                 "ORG": [
                     "CTO",
-                    "Stripe",
+                    "Stripe"
+                ],
+                "NORP": [
                     "Stripe"
                 ]
             }
@@ -2262,12 +2301,11 @@
                     "19%",
                     "9%"
                 ],
-                "ORG": [
-                    "EBIT",
-                    "Incredible Health"
-                ],
                 "PERSON": [
-                    "Iman Abuzeid MD"
+                    "Iman Abuzeid"
+                ],
+                "EVENT": [
+                    "Series"
                 ],
                 "LOC": [
                     "Silicon Valley",
@@ -2312,17 +2350,15 @@
                     "1",
                     "2",
                     "3",
+                    "4",
                     "5"
                 ],
                 "PERSON": [
                     "Jerk",
-                    "Loyalty Monger\n\nWith"
+                    "Loyalty Monger"
                 ],
                 "ORG": [
                     "Credit Taker"
-                ],
-                "DATE": [
-                    "4"
                 ]
             }
         },
@@ -2364,6 +2400,9 @@
                 ],
                 "DATE": [
                     "daily"
+                ],
+                "PERSON": [
+                    "Disagree"
                 ]
             }
         },
@@ -2408,11 +2447,11 @@
                     "Google",
                     "Android",
                     "Apple",
-                    "iPhone",
-                    "Android"
+                    "iPhone"
                 ],
                 "PERSON": [
-                    "Stephen Elop"
+                    "Stephen Elop",
+                    "Android"
                 ],
                 "ORDINAL": [
                     "first"
@@ -2447,16 +2486,23 @@
             "entities": {
                 "PERSON": [
                     "Gabi Shalel",
-                    "Gigi Levy-Weiss"
+                    "Partner Gigi Levy-Weiss",
+                    "Gabi"
                 ],
                 "DATE": [
                     "today"
                 ],
                 "ORG": [
-                    "NFX",
-                    "Gabi",
-                    "Plarium",
-                    "NFX"
+                    "NFX General"
+                ],
+                "GPE": [
+                    "Plarium"
+                ],
+                "MONEY": [
+                    "500"
+                ],
+                "WORK_OF_ART": [
+                    "Read the NFX"
                 ]
             }
         },
@@ -2492,17 +2538,14 @@
                     "several years old",
                     "recent years"
                 ],
-                "PERSON": [
-                    "Vitalik Buterin"
-                ],
                 "ORG": [
+                    "Vitalik Buterin",
                     "Ethereum",
                     "Ethereum",
                     "Ethereum",
-                    "Initial Coin Offering"
-                ],
-                "GPE": [
-                    "Ethereum"
+                    "Ethereum",
+                    "Initial Coin Offering",
+                    "ICO"
                 ],
                 "CARDINAL": [
                     "hundreds"
@@ -2545,6 +2588,7 @@
                 ],
                 "PERSON": [
                     "Jeff Bezos",
+                    "Bezos",
                     "Bezos"
                 ],
                 "DATE": [
@@ -2582,6 +2626,10 @@
                 "WORK_OF_ART": [
                     "The Founders' List"
                 ],
+                "ORG": [
+                    "Berkshire Hathaway Inc.",
+                    "Berkshire Hathaway Inc."
+                ],
                 "DATE": [
                     "2020",
                     "May 2",
@@ -2591,9 +2639,6 @@
                 "GPE": [
                     "Omaha",
                     "Nebraska"
-                ],
-                "ORG": [
-                    "Berkshire Hathaway Inc."
                 ],
                 "MONEY": [
                     "about $150 billion",
@@ -2635,8 +2680,7 @@
                     "The Founders' List"
                 ],
                 "PERSON": [
-                    "Pete Flint",
-                    "Partner"
+                    "Pete Flint"
                 ],
                 "ORG": [
                     "NFX",
@@ -2673,20 +2717,20 @@
             "pubDate": "Mon, 1 Mar 2021 09:45:00 +0000",
             "title": "BJ Fogg on Tiny Habits for Startup Founders with James Currier",
             "entities": {
+                "PERSON": [
+                    "BJ Fogg",
+                    "BJ Fogg",
+                    "James Currier",
+                    "Fogg",
+                    "Twitter"
+                ],
                 "NORP": [
                     "American"
                 ],
                 "ORG": [
-                    "Adjunct",
                     "Stanford University",
                     "New York Times",
                     "the Behavior Design Lab"
-                ],
-                "PERSON": [
-                    "James Currier"
-                ],
-                "PRODUCT": [
-                    "Twitter"
                 ]
             }
         },
@@ -2719,15 +2763,8 @@
                 "WORK_OF_ART": [
                     "The Founders' List"
                 ],
-                "ORG": [
-                    "DoorDash",
-                    "Sequoia Capital Partner",
-                    "DoorDash"
-                ],
-                "PERSON": [
-                    "Alfred Lin"
-                ],
                 "DATE": [
+                    "the Summer of 2013",
                     "2014",
                     "2013",
                     "January 2020",
@@ -2735,7 +2772,15 @@
                 ],
                 "PRODUCT": [
                     "DoorDash",
+                    "DoorDash",
+                    "DoorDash",
                     "DoorDash"
+                ],
+                "ORG": [
+                    "Sequoia Capital Partner"
+                ],
+                "PERSON": [
+                    "Alfred Lin"
                 ],
                 "EVENT": [
                     "Series"
@@ -2776,23 +2821,20 @@
                 "DATE": [
                     "over 35 years",
                     "17 years",
-                    "over 45 years",
-                    "Today"
-                ],
-                "ORG": [
-                    "Programs of Leaders",
-                    "the Stanford Graduate School of Business (GSB",
-                    "the Interpersonal Dynamics for High Performance Executives Program",
-                    "Interpersonal Dynamics",
-                    "NFX",
-                    "Stanford",
-                    "Connect"
-                ],
-                "GPE": [
-                    "Tech"
+                    "over 45 years"
                 ],
                 "WORK_OF_ART": [
-                    "Touchy Feely Class"
+                    "the Head of Programs of Leaders in Tech",
+                    "Connect: Building Exceptional Relationships with Family, Friends"
+                ],
+                "ORG": [
+                    "the Stanford Graduate School of Business",
+                    "GSB",
+                    "the Interpersonal Dynamics for High Performance Executives Program",
+                    "Interpersonal Dynamics",
+                    "GSB",
+                    "NFX",
+                    "Stanford"
                 ],
                 "PERSON": [
                     "James Currier",
@@ -2835,8 +2877,13 @@
                     "today",
                     "Last week"
                 ],
-                "PERSON": [
-                    "Vitalik Buterin"
+                "PRODUCT": [
+                    "the B-Side"
+                ],
+                "ORG": [
+                    "Vitalik Buterin",
+                    "NFX Essay",
+                    "NFX"
                 ],
                 "GPE": [
                     "Vitalik",
@@ -2848,10 +2895,6 @@
                     "3 hours",
                     "4 pm",
                     "8 am the next day"
-                ],
-                "ORG": [
-                    "NFX Essay",
-                    "NFX"
                 ]
             }
         },
@@ -2886,19 +2929,17 @@
                 ],
                 "WORK_OF_ART": [
                     "A-Side",
-                    "B-Side"
-                ],
-                "PERSON": [
-                    "Vitalik Buterin"
+                    "The Revolt of the Public"
                 ],
                 "ORG": [
-                    "Americanism",
+                    "Vitalik Buterin",
+                    "Ethereum",
                     "Wall Street Bets",
                     "Tesla",
-                    "The Revolt of the Public",
                     "NFX"
                 ],
                 "GPE": [
+                    "Vitalik",
                     "China",
                     "Vitalik"
                 ]
@@ -2935,18 +2976,17 @@
                 ],
                 "PERSON": [
                     "Ashley Mayer",
-                    "Ashley"
+                    "Glossier",
+                    "Ashley",
+                    "Follow",
+                    "Twitter",
+                    "https://twitter.com/ashleymayer\nFollow"
                 ],
                 "ORG": [
-                    "Glossier",
-                    "Social Capital",
-                    "Ashley"
+                    "Social Capital"
                 ],
                 "DATE": [
                     "2015-2018"
-                ],
-                "PRODUCT": [
-                    "Twitter"
                 ]
             }
         },
@@ -2976,19 +3016,20 @@
             "pubDate": "Thu, 4 Feb 2021 14:00:00 +0000",
             "title": "Adam Grant on Anti-Patterns of 10x Thinking with Pete Flint",
             "entities": {
+                "ORG": [
+                    "NFX"
+                ],
                 "PERSON": [
-                    "Doubt",
                     "Pete Flint",
                     "Adam Grant",
+                    "Adam",
                     "Pete",
-                    "Contrarian Thinking"
+                    "Contrarian Thinking",
+                    "Relationships\n- Why Confident Humility"
                 ],
-                "ORG": [
-                    "NFX",
-                    "Decision Framework"
-                ],
-                "CARDINAL": [
-                    "2\u00d72"
+                "WORK_OF_ART": [
+                    "The Top Killers of Co-founder",
+                    "Read the NFX Essay - https://www.nfx.com/post/anti-patterns-of-10x-thinking/"
                 ]
             }
         },
@@ -3024,22 +3065,23 @@
                 ],
                 "ORG": [
                     "NFX Bio",
+                    "Founder/CEOs",
                     "NFX Bio",
-                    "Founder",
+                    "Genome Compiler",
                     "Twist Bioscience",
                     "the Investment Committee",
                     "Co-Founder &",
                     "Twist Bioscience",
-                    "NFX GP's",
-                    "Scientist-Founders",
+                    "NFX",
+                    "GP",
+                    "the Scientist-Founder",
                     "NFX Essay"
                 ],
                 "PERSON": [
                     "Omri Amirav Drory",
-                    "Genome Compiler",
-                    "Emily LeProust",
                     "James Currier",
                     "Gigi Levy-Weiss",
+                    "Omri",
                     "James"
                 ],
                 "WORK_OF_ART": [
@@ -3078,8 +3120,7 @@
                     "The Founders' List"
                 ],
                 "PERSON": [
-                    "James Currier",
-                    "Partner"
+                    "James Currier"
                 ],
                 "ORG": [
                     "NFX"
@@ -3114,25 +3155,26 @@
             "entities": {
                 "WORK_OF_ART": [
                     "The Founders' List",
-                    "The Hidden World of Pricing: Uber,"
-                ],
-                "ORG": [
-                    "NFX Essay",
-                    "Trulia",
-                    "Etsy",
-                    "Superhuman & More",
-                    "GrowthHackers",
-                    "Qualaroo",
-                    "the University of California",
-                    "NFX"
+                    "The Hidden World of Pricing:",
+                    "The Founders' List"
                 ],
                 "PERSON": [
-                    "Madhavan Ramanujam",
+                    "Madhavan Ramanujam\"",
                     "Sean Ellis",
+                    "angel investor",
+                    "Qualaroo",
                     "Davis"
+                ],
+                "ORG": [
+                    "GrowthHackers",
+                    "the University of California,",
+                    "NFX"
                 ],
                 "DATE": [
                     "1994"
+                ],
+                "NORP": [
+                    "Sean"
                 ]
             }
         },
@@ -3164,28 +3206,29 @@
             "entities": {
                 "WORK_OF_ART": [
                     "The Founders' List",
-                    "The Hidden World of Pricing: Uber,"
-                ],
-                "ORG": [
-                    "NFX Essay",
-                    "Trulia",
-                    "Etsy",
-                    "Superhuman & More",
-                    "Looker",
-                    "ERPLY",
-                    "Electric",
-                    "AxialMarket",
-                    "Redpoint",
-                    "Google",
-                    "NFX"
+                    "The Hidden World of Pricing:",
+                    "The Founders' List"
                 ],
                 "PERSON": [
-                    "Madhavan Ramanujam",
+                    "Madhavan Ramanujam\"",
                     "Tomasz Tunguz"
                 ],
                 "CARDINAL": [
                     "two",
                     "two"
+                ],
+                "ORG": [
+                    "Venture Capitalist",
+                    "Redpoint",
+                    "Looker",
+                    "ERPLY",
+                    "AxialMarket",
+                    "Google",
+                    "Google-MySpace",
+                    "NFX"
+                ],
+                "PRODUCT": [
+                    "Redpoint"
                 ]
             }
         },
@@ -3217,22 +3260,20 @@
             "entities": {
                 "WORK_OF_ART": [
                     "The Founders' List",
-                    "The Hidden World of Pricing: Uber,"
-                ],
-                "ORG": [
-                    "NFX Essay",
-                    "Trulia",
-                    "Etsy",
-                    "Superhuman & More",
-                    "Matrix Partners",
-                    "NFX"
+                    "The Hidden World of Pricing:",
+                    "The Founders' List",
+                    "Scalable Pricing: A Key Tool For SaaS Success\n\nRead the full"
                 ],
                 "PERSON": [
-                    "Madhavan Ramanujam",
+                    "Madhavan Ramanujam\"",
                     "David Skok",
                     "David",
                     "David",
                     "David"
+                ],
+                "ORG": [
+                    "Matrix Partners",
+                    "NFX"
                 ],
                 "DATE": [
                     "May 2001",
@@ -3277,33 +3318,33 @@
             "entities": {
                 "WORK_OF_ART": [
                     "The Founders' List",
-                    "The Hidden World of Pricing: Uber,",
+                    "The Hidden World of Pricing:",
+                    "The Founders' List",
                     "Fortune"
                 ],
-                "ORG": [
-                    "NFX Essay",
-                    "Trulia",
-                    "Etsy",
-                    "Superhuman & More",
-                    "Running Lean",
-                    "Forbes",
-                    "TechStars",
-                    "Capital Factory",
-                    "LEANSTACK",
-                    "NFX"
-                ],
                 "PERSON": [
-                    "Madhavan Ramanujam",
+                    "Madhavan Ramanujam\"",
                     "Ash Maurya",
-                    "Lean Canvas",
-                    "Lean Canvas",
                     "Ash"
                 ],
                 "CARDINAL": [
                     "one"
                 ],
+                "PRODUCT": [
+                    "Lean Canvas"
+                ],
                 "GPE": [
                     "Inc.",
+                    "LEANSTACK"
+                ],
+                "ORG": [
+                    "Forbes",
+                    "TechStars",
+                    "Capital Factory",
+                    "Lean Canvas",
+                    "NFX"
+                ],
+                "LOC": [
                     "MaRS"
                 ]
             }
@@ -3338,22 +3379,24 @@
                     "Madhavan Ramanujam",
                     "Madhavan",
                     "Pete",
-                    "Partner",
                     "Madhavan",
-                    "Pete"
+                    "Pete",
+                    "Madhavan"
                 ],
                 "ORG": [
-                    "Trulia",
-                    "Etsy",
-                    "Uber",
-                    "Amazon",
+                    "Trulia, Etsy, Uber",
+                    "Amazon, Evernote",
                     "Simon-Kucher",
-                    "NFX",
-                    "Prohibitively Expensive",
-                    "Ways Your Monetization Fails"
+                    "NFX"
+                ],
+                "DATE": [
+                    "Today"
                 ],
                 "PERCENT": [
                     "72%"
+                ],
+                "WORK_OF_ART": [
+                    "Attempts to Monetize Innovation Fail"
                 ],
                 "CARDINAL": [
                     "4"
@@ -3388,11 +3431,14 @@
             "entities": {
                 "WORK_OF_ART": [
                     "The Founders' List",
-                    "Bitcoin: A Peer"
+                    "The Founders' List"
                 ],
                 "PERSON": [
                     "Satoshi Nakamoto",
+                    "Bitcoin",
+                    "Bitcoin",
                     "Satoshi",
+                    "Bitcoin",
                     "Satoshi Nakamoto\u2019s",
                     "Bitcoin"
                 ],
@@ -3404,8 +3450,7 @@
                     "today"
                 ],
                 "ORG": [
-                    "the Bitcoin White Paper",
-                    "Bitcoin\u2019s"
+                    "the Bitcoin White Paper"
                 ],
                 "CARDINAL": [
                     "9",
@@ -3413,6 +3458,9 @@
                 ],
                 "ORDINAL": [
                     "first"
+                ],
+                "NORP": [
+                    "Bitcoin"
                 ]
             }
         },
@@ -3444,14 +3492,13 @@
             "entities": {
                 "WORK_OF_ART": [
                     "The Founders\u2019 List",
-                    "The HP Way: How"
+                    "'The HP Way: How Bill Hewlett"
                 ],
                 "DATE": [
                     "1960"
                 ],
                 "PERSON": [
-                    "David Packard",
-                    "Bill Hewlett"
+                    "David Packard"
                 ],
                 "ORG": [
                     "Hewlett-Packard",
@@ -3488,14 +3535,17 @@
             "entities": {
                 "PERSON": [
                     "Jeff Lawson",
-                    "Partner",
                     "Jeff",
-                    "Twilio Founder Journey",
+                    "Journey",
                     "Jeff",
-                    "Jeff"
+                    "Jeff",
+                    "Follow Jeff",
+                    "Twitter"
                 ],
                 "ORG": [
-                    "Twilio",
+                    "Twilio"
+                ],
+                "FAC": [
                     "NFX Pete Flint"
                 ],
                 "DATE": [
@@ -3503,9 +3553,6 @@
                 ],
                 "CARDINAL": [
                     "one"
-                ],
-                "PRODUCT": [
-                    "Twitter"
                 ]
             }
         },
@@ -3537,21 +3584,23 @@
             "entities": {
                 "PERSON": [
                     "Jed",
-                    "Pete Flint",
-                    "Jed"
+                    "Partner Pete Flint",
+                    "Jed",
+                    "Follow Jed",
+                    "Twitter"
                 ],
                 "DATE": [
                     "the years",
                     "Today"
                 ],
+                "WORK_OF_ART": [
+                    "Unemployment Kickstarting Dislocation\n- The Continued Unbundling Of Where You Live"
+                ],
                 "ORG": [
-                    "NFX"
+                    "VP of Analytics"
                 ],
-                "LAW": [
-                    "the Chief Economist"
-                ],
-                "PRODUCT": [
-                    "Twitter"
+                "GPE": [
+                    "Trulia"
                 ]
             }
         },
@@ -3584,19 +3633,18 @@
                 "WORK_OF_ART": [
                     "The Founders' List"
                 ],
-                "ORG": [
-                    "Facebook",
-                    "Instagram",
-                    "Facebook",
-                    "Instagram"
-                ],
                 "PERSON": [
                     "Mark Zuckerberg",
+                    "Instagram",
                     "Kevin Systrom",
-                    "Mark Zuckerberg"
+                    "Mark Zuckerberg - \""
+                ],
+                "ORG": [
+                    "Instagram"
                 ],
                 "DATE": [
-                    "March 20th and April 9th of 2012",
+                    "March 20th",
+                    "April 9th of 2012",
                     "yesterday"
                 ]
             }
@@ -3629,44 +3677,44 @@
             "entities": {
                 "DATE": [
                     "January 2013",
-                    "Facetune",
                     "2019",
                     "July of 2019",
                     "Today"
                 ],
-                "GPE": [
+                "PERSON": [
                     "Lightricks",
-                    "Jerusalem",
-                    "Goldstein"
+                    "Zeev Farbman",
+                    "Lightricks",
+                    "Farbman",
+                    "Brazilian Jiu-Jitsu",
+                    "Partner Gigi Levy-Weiss",
+                    "Zeev"
+                ],
+                "ORG": [
+                    "Facetune",
+                    "Nir Pochter",
+                    "Yaron",
+                    "Amit Goldstein",
+                    "Lightricks",
+                    "Hebrew University of Jerusalem",
+                    "NFX"
+                ],
+                "GPE": [
+                    "Jerusalem"
                 ],
                 "CARDINAL": [
                     "over 250",
                     "over 180 million",
-                    "3 million"
+                    "over 3 million"
                 ],
-                "PERSON": [
-                    "Zeev Farbman",
+                "FAC": [
                     "Itai Tsiddon",
-                    "Brazilian Jiu-Jitsu",
-                    "Gigi Levy-Weiss"
-                ],
-                "ORG": [
-                    "Nir Pochter",
-                    "Yaron",
-                    "Hebrew University of Jerusalem",
-                    "Computer Science",
-                    "NFX"
-                ],
-                "NORP": [
-                    "Lightricks"
+                    "Computer Science"
                 ],
                 "MONEY": [
                     "$135 million",
                     "$1 billion",
                     "$205 million"
-                ],
-                "PRODUCT": [
-                    "Farbman"
                 ],
                 "WORK_OF_ART": [
                     "PhD"
@@ -3704,25 +3752,25 @@
                     "James Currier",
                     "Erik",
                     "Erik",
+                    "Rappi",
                     "Product Hunt",
                     "Erik"
                 ],
+                "GPE": [
+                    "New Jersey"
+                ],
                 "ORG": [
-                    "NFX",
                     "the University of Michigan",
-                    "Rappi",
+                    "Scale, Nurx, Lattice",
                     "Omni",
+                    "Long-Term Stock Exchange",
                     "Winnie",
                     "Cover",
+                    "~80",
                     "Venture Stories'",
                     "Co-Founder & Partner",
                     "ODF",
                     "ODF"
-                ],
-                "GPE": [
-                    "New Jersey",
-                    "Scale",
-                    "Carrot"
                 ],
                 "NORP": [
                     "Israeli",
@@ -3765,33 +3813,39 @@
             "pubDate": "Thu, 17 Dec 2020 14:40:00 +0000",
             "title": "The Decision Frameworks Behind Fiverr's Success with Micha Kaufman and Gigi Levy-Weiss",
             "entities": {
+                "ORG": [
+                    "IPO",
+                    "NFX",
+                    "Founder",
+                    "IPO",
+                    "Fiverr"
+                ],
                 "DATE": [
+                    "Today",
                     "the early days",
                     "the next 10 years",
-                    "Today",
                     "2019",
                     "last year",
                     "day one",
                     "the early days"
                 ],
-                "ORG": [
-                    "NFX",
-                    "Founder",
-                    "Fiverr"
-                ],
                 "PERSON": [
-                    "Gigi Levy-Weiss",
-                    "Micha Kaufman"
+                    "Partner Gigi Levy-Weiss",
+                    "Micha Kaufman",
+                    "Micha"
                 ],
                 "PERCENT": [
                     "797%"
                 ],
                 "CARDINAL": [
+                    "one",
                     "3"
                 ],
                 "WORK_OF_ART": [
-                    "Storytelling In Order To Build The Best v1\nSupply Generates Demand: The Fiverr Law of Business\n",
-                    "Startup Speed"
+                    "Supply Generates Demand:"
+                ],
+                "LAW": [
+                    "The Fiverr Law of Business\nDoing The Opposite Of What You\u2019re Told For A Go-To-Market Strategy\nKeeping \u201cStartup Speed\u201d Even As A Public Company\n& more\n\nThis"
                 ]
             }
         },
@@ -3826,15 +3880,17 @@
                 ],
                 "ORG": [
                     "Tesla",
-                    "Enough"
+                    "Tesla"
                 ],
                 "CARDINAL": [
-                    "10",
-                    "3"
+                    "10"
+                ],
+                "PRODUCT": [
+                    "Model 3"
                 ],
                 "PERSON": [
                     "Elon Musk",
-                    "Molehills Turn"
+                    "Seriously\n- Encourage Customers to Bring Out the Measuring Tape"
                 ],
                 "PERCENT": [
                     "10%"
@@ -3875,25 +3931,25 @@
                     "Kevin",
                     "James Currier",
                     "Kevin Kelly",
-                    "Maverick"
+                    "Senior Maverick",
+                    "Cool Tools"
                 ],
                 "ORG": [
+                    "Editor of Wired",
                     "NFX",
-                    "Wired",
-                    "Wired",
-                    "a New York Times",
+                    "New York Times",
                     "Wall Street Journal",
                     "Recomendo"
+                ],
+                "GPE": [
+                    "Transforming"
                 ],
                 "DATE": [
                     "1993",
                     "its first seven years",
                     "daily",
                     "2003",
-                    "Sunday"
-                ],
-                "PRODUCT": [
-                    "Cool Tools"
+                    "Every Sunday"
                 ],
                 "CARDINAL": [
                     "one",
@@ -3929,20 +3985,15 @@
             "entities": {
                 "WORK_OF_ART": [
                     "The Founders' List",
-                    "Indistractable: How to"
+                    "Hooked: How to Build Habit-Forming Products"
                 ],
                 "ORG": [
                     "Nir Eyal's",
                     "Stanford",
                     "Graduate School of Business"
                 ],
-                "PERSON": [
-                    "Build Habit-Forming Products"
-                ],
-                "CARDINAL": [
-                    "2013"
-                ],
                 "DATE": [
+                    "2013",
                     "2019"
                 ]
             }
@@ -3974,22 +4025,25 @@
             "title": "The Founders' List: Steve Job's Famous 'Thoughts on Flash' (Famous Memos)",
             "entities": {
                 "WORK_OF_ART": [
+                    "The Founders' List",
+                    "Thoughts on Flash'",
                     "The Founders' List"
                 ],
                 "PERSON": [
-                    "Flash",
-                    "Steve Jobs",
-                    "Flash"
+                    "Steve Jobs"
                 ],
                 "ORG": [
+                    "Co-Founder",
                     "Apple Inc.",
                     "Adobe Systems'",
-                    "iPhone",
                     "iPod Touch",
                     "iPad"
                 ],
                 "DATE": [
                     "April 29, 2010"
+                ],
+                "PRODUCT": [
+                    "Flash"
                 ]
             }
         },
@@ -4020,12 +4074,11 @@
             "title": "The Irrational Truths Behind User Behavior, with Dan Ariely & Gigi Levy-Weiss",
             "entities": {
                 "ORG": [
-                    "NFX",
+                    "NFX General Partner Gigi",
                     "Duke"
                 ],
                 "PERSON": [
-                    "Partner Gigi",
-                    "Dan"
+                    "Dan Ariely"
                 ]
             }
         },
@@ -4064,16 +4117,19 @@
                     "the early days",
                     "Anduril"
                 ],
+                "PRODUCT": [
+                    "Stripe"
+                ],
                 "ORG": [
-                    "Stripe",
                     "Coinbase",
                     "Instacart & Square",
                     "NFX",
-                    "Airbnb, Airtable",
                     "Brex",
-                    "Checkr, Coinbase, Flexport",
+                    "Coinbase",
                     "Instacart",
-                    "PagerDuty, Pinterest",
+                    "PagerDuty",
+                    "Pinterest",
+                    "Stripe, & Wish",
                     "ColorGenomics",
                     "NFX",
                     "NFX Essay"
@@ -4084,14 +4140,12 @@
                     "Elad"
                 ],
                 "GPE": [
+                    "Checkr",
+                    "Flexport",
                     "Gitlab",
                     "Gusto",
-                    "Opendoor",
                     "Samsara",
                     "Square"
-                ],
-                "PRODUCT": [
-                    "Twitter - https://twitter.com/eladgil"
                 ]
             }
         },
@@ -4122,11 +4176,9 @@
             "title": "The Founders' List: Steve Yegge's Famous Rant on 'Google vs Amazon' (Famous Memos)",
             "entities": {
                 "WORK_OF_ART": [
-                    "The Founders' List",
-                    "Dread Pirate Bezos'"
+                    "The Founders' List"
                 ],
                 "PERSON": [
-                    "Longtime Googler",
                     "Steve Yegge"
                 ],
                 "ORG": [
@@ -4167,13 +4219,14 @@
             "entities": {
                 "PERSON": [
                     "Sean Ellis",
+                    "Dropbox",
                     "James Currier"
                 ],
                 "ORG": [
-                    "Dropbox",
                     "GrowthHackers",
-                    "LogMeIn",
-                    "NFX",
+                    "GoPractice"
+                ],
+                "NORP": [
                     "Sean"
                 ],
                 "WORK_OF_ART": [
@@ -4250,15 +4303,13 @@
                     "one"
                 ],
                 "ORG": [
-                    "NFX"
+                    "NFX",
+                    "Amazon"
                 ],
                 "PERSON": [
                     "James Currier",
-                    "Eugene Wei"
-                ],
-                "GPE": [
-                    "Amazon",
-                    "Flipboard"
+                    "Eugene Wei",
+                    "Status"
                 ]
             }
         },
@@ -4290,13 +4341,12 @@
             "entities": {
                 "ORG": [
                     "NFX",
-                    "Product & Co-founder",
+                    "Founder",
                     "Unsplash"
                 ],
                 "PERSON": [
                     "James Currier",
                     "Mikael Cho",
-                    "& Co-founder",
                     "Luke Chesser"
                 ]
             }
@@ -4332,6 +4382,7 @@
                 ],
                 "ORG": [
                     "Justice Department",
+                    "Microsoft",
                     "Microsoft"
                 ],
                 "DATE": [
@@ -4373,18 +4424,13 @@
                 ],
                 "PERSON": [
                     "Elad Gil's",
-                    "Elad"
-                ],
-                "CARDINAL": [
-                    "3"
+                    "Elad",
+                    "Entrepreneur"
                 ],
                 "ORG": [
                     "Co-Founder",
                     "Color Genomics",
-                    "Entrepreneur",
-                    "Operating Executive",
-                    "Airbnb",
-                    "Pinterest"
+                    "Airbnb"
                 ],
                 "PRODUCT": [
                     "Twitter"
@@ -4419,7 +4465,8 @@
             "entities": {
                 "ORG": [
                     "NFX",
-                    "Bloomberg News"
+                    "Bloomberg News",
+                    "Facebook, Instagram"
                 ],
                 "PERSON": [
                     "James Currier",
@@ -4504,21 +4551,19 @@
             "entities": {
                 "ORG": [
                     "NFX",
+                    "Nir Eyal",
                     "Stanford",
-                    "Graduate School of Business"
+                    "Graduate School of Business",
+                    "Nir\u2019s"
                 ],
                 "PERSON": [
-                    "James Currier",
-                    "Nir Eyal",
-                    "Build Habit-Forming Products"
-                ],
-                "CARDINAL": [
-                    "2013"
+                    "James Currier"
                 ],
                 "WORK_OF_ART": [
-                    "Indistractable: How to"
+                    "Hooked: How to Build Habit-Forming Products"
                 ],
                 "DATE": [
+                    "2013",
                     "2019"
                 ]
             }
@@ -4549,6 +4594,12 @@
             "pubDate": "Wed, 14 Oct 2020 07:00:00 +0000",
             "title": "The Golden Age of Simulation with Chris Anderson & James Currier",
             "entities": {
+                "ORG": [
+                    "the NFX Podcast",
+                    "The Long Tail",
+                    "Makers",
+                    "AI/Simulation\n- Virtual Reality for Robots\n- We"
+                ],
                 "LOC": [
                     "Silicon Valley"
                 ],
@@ -4556,11 +4607,8 @@
                     "Chris Anderson",
                     "Chris"
                 ],
-                "ORG": [
-                    "The Long Tail, Free",
-                    "Makers",
-                    "3DR",
-                    "AI/Simulation\n- Virtual Reality for Robots"
+                "CARDINAL": [
+                    "3DR"
                 ],
                 "NORP": [
                     "American"
@@ -4568,6 +4616,9 @@
                 "GPE": [
                     "Berkeley",
                     "California"
+                ],
+                "FAC": [
+                    "the Golden Age of"
                 ]
             }
         },
@@ -4600,22 +4651,23 @@
                 "WORK_OF_ART": [
                     "The Founders' List"
                 ],
-                "DATE": [
+                "ORDINAL": [
                     "20s"
                 ],
                 "GPE": [
                     "San Francisco"
                 ],
-                "PERSON": [
-                    "Alex Danco's"
-                ],
                 "ORG": [
+                    "Alex Danco's",
                     "Social Capital",
                     "Shopify Money",
                     "Social Capital"
                 ],
                 "LOC": [
                     "Silicon Valley"
+                ],
+                "PERSON": [
+                    "Alex"
                 ]
             }
         },
@@ -4650,8 +4702,10 @@
                 ],
                 "ORG": [
                     "Tiny Speck",
-                    "Slack",
-                    "Slack\u2019s \u2018Preview Release\u2019"
+                    "Slack\u2019s \u2018Preview Release"
+                ],
+                "GPE": [
+                    "Slack"
                 ],
                 "DATE": [
                     "July 31st, 2013",
@@ -4695,7 +4749,9 @@
                     "Greg"
                 ],
                 "ORG": [
+                    "Late Checkout",
                     "Indicator Fund",
+                    "Growth",
                     "TikTok",
                     "WeWork",
                     "Founder of Islands & 5by"
@@ -4739,8 +4795,7 @@
                     "Amazon"
                 ],
                 "GPE": [
-                    "Hulu",
-                    "Flipboard"
+                    "Hulu"
                 ]
             }
         },
@@ -4782,9 +4837,6 @@
                     "James",
                     "Evite"
                 ],
-                "PRODUCT": [
-                    "Gixo"
-                ],
                 "GPE": [
                     "Selina"
                 ]
@@ -4820,8 +4872,7 @@
                     "The Founders' List"
                 ],
                 "PERSON": [
-                    "James Currier",
-                    "Partner"
+                    "James Currier"
                 ],
                 "ORG": [
                     "NFX"
@@ -4865,9 +4916,6 @@
                 ],
                 "PERCENT": [
                     "over 75%"
-                ],
-                "DATE": [
-                    "more than a decade"
                 ]
             }
         },
@@ -4901,6 +4949,7 @@
                     "The Founders' List"
                 ],
                 "ORG": [
+                    "Netflix",
                     "Netflix"
                 ]
             }
@@ -4936,14 +4985,16 @@
                     "James Currier"
                 ],
                 "GPE": [
-                    "Uber"
+                    "Uber",
+                    "AR"
                 ],
                 "ORG": [
                     "Niantic",
-                    "NFX"
+                    "NFX",
+                    "VR"
                 ],
-                "NORP": [
-                    "AR"
+                "FAC": [
+                    "Long Journey Ventures"
                 ],
                 "LOC": [
                     "Silicon Valley"
@@ -4983,11 +5034,14 @@
                 "WORK_OF_ART": [
                     "The Founders' List"
                 ],
-                "LAW": [
+                "DATE": [
                     "Aug 5, 2016"
                 ],
                 "PERSON": [
                     "Margaret Gould Stewart"
+                ],
+                "ORG": [
+                    "VP of Product Design at Facebook"
                 ]
             }
         },
@@ -5027,29 +5081,38 @@
                     "one",
                     "one"
                 ],
-                "ORDINAL": [
-                    "first",
-                    "first"
+                "QUANTITY": [
+                    "the first mile",
+                    "the last mile",
+                    "the first mile",
+                    "the last mile"
                 ],
-                "PERSON": [
+                "ORG": [
                     "Nir Erz",
-                    "Gigi Levy-Weiss"
+                    "Intel",
+                    "NFX",
+                    "Google Maps",
+                    "Wikipedia",
+                    "Google Maps",
+                    "Cities"
                 ],
                 "GPE": [
                     "Moovit",
                     "Moovit",
                     "Israel",
                     "Nir",
-                    "Moovit",
+                    "Highlights",
                     "Moovit"
-                ],
-                "ORG": [
-                    "Intel",
-                    "NFX",
-                    "Wikipedia"
                 ],
                 "MONEY": [
                     "900M."
+                ],
+                "PERSON": [
+                    "Gigi Levy-Weiss",
+                    "Moovit"
+                ],
+                "DATE": [
+                    "my best years"
                 ]
             }
         },
@@ -5083,12 +5146,13 @@
                     "The Founders' List"
                 ],
                 "DATE": [
-                    "2017"
+                    "Oct 6, 2017"
                 ],
                 "PERSON": [
                     "Max Mullen"
                 ],
                 "ORG": [
+                    "Co-Founder",
                     "Instacart"
                 ]
             }
@@ -5129,7 +5193,7 @@
                     "Julie Zhuo"
                 ],
                 "ORG": [
-                    "Facebook & Co-Founder of"
+                    "Facebook & Co-Founder of Inspirit"
                 ]
             }
         },
@@ -5169,7 +5233,7 @@
                     "Joel Spolsky"
                 ],
                 "ORG": [
-                    "Co-Founder"
+                    "Co-Founder of Trello & Stack Overflow"
                 ]
             }
         },
@@ -5243,13 +5307,14 @@
                     "The Founders' List"
                 ],
                 "PERSON": [
-                    "Elizabeth Yin",
-                    "Partner",
-                    "https://elizabethyin.com/2019/05/17/15-annoying-things-that-vcs-say-or-ask-and-how-to-think-about-them/"
+                    "Elizabeth Yin"
                 ],
                 "ORG": [
-                    "Co-Founder & General",
+                    "Co-Founder & General Partner",
                     "Hustle Fund"
+                ],
+                "GPE": [
+                    "https://elizabethyin.com/2019/05/17/15-annoying-things-that-vcs-say-or-ask-and-how-to-think-about-them/"
                 ]
             }
         },
@@ -5282,7 +5347,7 @@
                 "WORK_OF_ART": [
                     "The Founders' List"
                 ],
-                "DATE": [
+                "LAW": [
                     "Sep 9, 2019"
                 ],
                 "PERSON": [
@@ -5322,10 +5387,8 @@
                 "DATE": [
                     "Mar 15, 2018"
                 ],
-                "PERSON": [
-                    "Sean Ellis"
-                ],
                 "ORG": [
+                    "Sean Ellis",
                     "Founder &",
                     "GrowthHackers"
                 ]
@@ -5360,12 +5423,14 @@
                 "WORK_OF_ART": [
                     "The Founders' List"
                 ],
+                "ORG": [
+                    "Google",
+                    "Google",
+                    "Google"
+                ],
                 "DATE": [
                     "more than 10 years",
                     "2004"
-                ],
-                "ORG": [
-                    "Google Founders"
                 ],
                 "PERSON": [
                     "Larry Page",
@@ -5445,8 +5510,7 @@
                     "The Founders' List"
                 ],
                 "PERSON": [
-                    "James Currier",
-                    "Partner"
+                    "James Currier"
                 ],
                 "ORG": [
                     "NFX"
@@ -5557,20 +5621,19 @@
             "pubDate": "Wed, 5 Aug 2020 20:30:00 +0000",
             "title": "Steve Blank on \"Don't Waste A Good Crisis\"",
             "entities": {
-                "PERSON": [
+                "ORG": [
                     "Lean Startup",
+                    "NFX"
+                ],
+                "CARDINAL": [
+                    "eight",
+                    "two"
+                ],
+                "PERSON": [
                     "Steve Blank",
                     "James Currier",
                     "Steve",
                     "Steve"
-                ],
-                "CARDINAL": [
-                    "eight",
-                    "one",
-                    "two"
-                ],
-                "ORG": [
-                    "NFX"
                 ]
             }
         },
@@ -5600,9 +5663,6 @@
             "pubDate": "Tue, 4 Aug 2020 02:00:00 +0000",
             "title": "George Dyson on Why Your Work Matters: Darwin, Machines, & The Future We're Building",
             "entities": {
-                "ORG": [
-                    "Founder"
-                ],
                 "PERSON": [
                     "Dyson"
                 ]
@@ -5643,6 +5703,7 @@
                 ],
                 "ORG": [
                     "NFX",
+                    "COVID-19",
                     "Partnerships"
                 ]
             }
@@ -5675,11 +5736,13 @@
             "entities": {
                 "PERSON": [
                     "Slack",
-                    "April Underwood"
+                    "April Underwood",
+                    "Slack"
                 ],
                 "CARDINAL": [
                     "two",
-                    "0 to 1",
+                    "0",
+                    "1",
                     "3"
                 ],
                 "MONEY": [
@@ -5692,13 +5755,14 @@
                     "Twitter",
                     "Twitter"
                 ],
-                "ORG": [
-                    "Slack",
-                    "NFX",
-                    "Slack"
-                ],
                 "DATE": [
                     "April"
+                ],
+                "ORG": [
+                    "NFX"
+                ],
+                "GPE": [
+                    "Slack"
                 ]
             }
         },
@@ -5731,27 +5795,31 @@
                 "ORG": [
                     "the NFX Podcast",
                     "PayPal",
+                    "Yelp",
                     "Apple",
                     "Tesla",
-                    "SpaceX.",
                     "the Bell Curve",
+                    "PayPal",
                     "YouTube",
                     "Tesla",
-                    "Transformed Yelp",
-                    "PayPal, & Square"
+                    "PayPal"
                 ],
                 "PERSON": [
                     "Keith Rabois",
                     "James Currier",
-                    "Chewing Glass",
-                    "Keith"
+                    "Keith",
+                    "Transformed Yelp"
                 ],
                 "CARDINAL": [
+                    "5",
                     "3"
                 ],
+                "PERCENT": [
+                    "1%"
+                ],
                 "GPE": [
-                    "LinkedIn",
-                    "Yammer"
+                    "SpaceX",
+                    "LinkedIn"
                 ]
             }
         },
@@ -5783,20 +5851,18 @@
             "entities": {
                 "PERSON": [
                     "Superhuman",
-                    "Superhuman"
-                ],
-                "ORG": [
-                    "LinkedIn",
-                    "NFX Keynote"
-                ],
-                "DATE": [
-                    "2014"
-                ],
-                "PRODUCT": [
+                    "Superhuman",
                     "Rahul Vohra\u2019s"
                 ],
                 "NORP": [
+                    "Rapportive",
                     "Rahul"
+                ],
+                "GPE": [
+                    "LinkedIn"
+                ],
+                "DATE": [
+                    "2014"
                 ]
             }
         },
@@ -5831,12 +5897,14 @@
                     "NFX",
                     "Co-Founder",
                     "NFX",
-                    "CRISPR IP",
-                    "CRISPR"
+                    "COVID-19"
                 ],
                 "PERSON": [
                     "Trevor Martin",
-                    "Mammoth Biosciences"
+                    "CRISPR"
+                ],
+                "GPE": [
+                    "CRISPR IP"
                 ],
                 "DATE": [
                     "Today"
@@ -5868,8 +5936,11 @@
             "pubDate": "Mon, 18 May 2020 14:30:00 +0000",
             "title": "The Insider Story of Houseparty with Ben Rubin & James Currier",
             "entities": {
-                "PRODUCT": [
-                    "Houseparty"
+                "ORG": [
+                    "Houseparty",
+                    "the Founder of Houseparty",
+                    "Meerkat & Houseparty",
+                    "Founder"
                 ],
                 "DATE": [
                     "the last two months",
@@ -5879,11 +5950,11 @@
                     "1600%"
                 ],
                 "MONEY": [
-                    "#1 social app"
+                    "1",
+                    "hundreds of millions"
                 ],
                 "CARDINAL": [
                     "82",
-                    "hundreds of millions",
                     "zero"
                 ],
                 "GPE": [
@@ -5892,10 +5963,6 @@
                 "PERSON": [
                     "James Currier",
                     "Ben Rubin"
-                ],
-                "ORG": [
-                    "the Founder of Houseparty",
-                    "Meerkat & Houseparty"
                 ]
             }
         },
@@ -5927,26 +5994,25 @@
             "entities": {
                 "ORG": [
                     "Josh Elman &",
-                    "Robinhood",
-                    "Facebook",
-                    "LinkedIn",
                     "Greylock",
+                    "COVID-19",
+                    "The NFX Podcast",
                     "NFX"
                 ],
                 "PERSON": [
                     "James Currier",
                     "Josh Elman",
-                    "COVID-19\n- The 'New Wave'"
+                    "Twitter"
                 ],
                 "DATE": [
                     "today",
                     "the last few months"
                 ],
                 "PRODUCT": [
-                    "Twitter"
+                    "Robinhood"
                 ],
-                "WORK_OF_ART": [
-                    "The NFX Podcast"
+                "GPE": [
+                    "LinkedIn"
                 ]
             }
         },
@@ -5982,10 +6048,7 @@
                 ],
                 "ORG": [
                     "High School Network",
-                    "College Network"
-                ],
-                "ORDINAL": [
-                    "First"
+                    "First Job, Marriage/Choosing a Life Partner"
                 ],
                 "PRODUCT": [
                     "Reassessments"
@@ -6018,12 +6081,8 @@
             "pubDate": "Thu, 16 Apr 2020 18:59:49 +0000",
             "title": "How Reid Hoffman & James Currier See the Path Ahead for Founders during The Great Reset",
             "entities": {
-                "ORG": [
-                    "Reid Hoffman &",
-                    "Greylock",
-                    "NFX"
-                ],
                 "PERSON": [
+                    "Reid Hoffman",
                     "James Currier",
                     "Reid",
                     "VC"
@@ -6032,7 +6091,13 @@
                     "today"
                 ],
                 "GPE": [
-                    "LinkedIn"
+                    "LinkedIn",
+                    "COVID-19"
+                ],
+                "ORG": [
+                    "Greylock",
+                    "The NFX Podcast",
+                    "NFX"
                 ],
                 "ORDINAL": [
                     "first"
@@ -6040,8 +6105,8 @@
                 "LOC": [
                     "Silicon Valley's"
                 ],
-                "WORK_OF_ART": [
-                    "The NFX Podcast"
+                "CARDINAL": [
+                    "Zero"
                 ]
             }
         },
@@ -6074,23 +6139,20 @@
                 "DATE": [
                     "Today"
                 ],
-                "ORG": [
-                    "David Sacks & Pete Flint",
-                    "Craft Ventures",
-                    "PayPal & Yammer",
-                    "COVID-19\n\nBe",
-                    "NFX"
-                ],
                 "PERSON": [
+                    "David Sacks",
+                    "Pete Flint",
                     "David",
                     "David",
                     "Pete"
                 ],
+                "ORG": [
+                    "Craft Ventures",
+                    "The NFX Podcast",
+                    "NFX"
+                ],
                 "LOC": [
                     "Silicon Valley"
-                ],
-                "WORK_OF_ART": [
-                    "The NFX Podcast"
                 ]
             }
         },
@@ -6129,9 +6191,13 @@
                     "Stacy Brown-Philpot"
                 ],
                 "ORG": [
+                    "TaskRabbit",
                     "IKEA",
                     "NFX",
                     "NFX"
+                ],
+                "FAC": [
+                    "Iconic Marketplace"
                 ]
             }
         },
@@ -6166,15 +6232,15 @@
                     "NFX",
                     "Obvious Ventures",
                     "Precursor Ventures",
-                    "CEO &",
-                    "Co-Founder Iman",
-                    "Iman"
+                    "CEO &amp",
+                    "Co-Founder Iman Abudzaid"
                 ],
                 "PERSON": [
-                    "Andreessen Horowitz"
+                    "Andreessen Horowitz",
+                    "Iman"
                 ],
-                "CARDINAL": [
-                    "metrics</li"
+                "PRODUCT": [
+                    "TechCrunch"
                 ]
             }
         },
@@ -6210,13 +6276,14 @@
                     "Marco Zappacosta",
                     "Pete Flint"
                 ],
-                "GPE": [
-                    "Thumbtack"
-                ],
                 "ORG": [
+                    "Co-founder &amp",
                     "NFX &",
-                    "Trulia",
-                    "NFX - www.nfx.com</p>\n"
+                    "NFX"
+                ],
+                "GPE": [
+                    "Thumbtack",
+                    "Trulia"
                 ],
                 "MONEY": [
                     "billion-dollar"
@@ -6293,14 +6360,15 @@
                     "About 2 years ago",
                     "Today"
                 ],
+                "ORG": [
+                    "Intuit",
+                    "NFX",
+                    "CA"
+                ],
                 "PERSON": [
                     "Scott Cook",
                     "James Currier",
                     "James"
-                ],
-                "ORG": [
-                    "NFX",
-                    "the Intuit HQ"
                 ],
                 "GPE": [
                     "Mountain View"
@@ -6340,7 +6408,7 @@
                 ],
                 "ORG": [
                     "The NFX Podcast",
-                    "the The Hidden Pattern to"
+                    "the The Hidden Pattern"
                 ],
                 "PERSON": [
                     "James Currier"
@@ -6378,7 +6446,6 @@
                     "two",
                     "1",
                     "2",
-                    "9",
                     "9"
                 ],
                 "ORG": [
@@ -6387,6 +6454,9 @@
                 ],
                 "PERSON": [
                     "James Currier"
+                ],
+                "FAC": [
+                    "the 9 Habits of World Class Startups"
                 ]
             }
         },
@@ -6418,16 +6488,22 @@
             "title": "Manish Chandra (Founder & CEO) shares The Poshmark Story",
             "entities": {
                 "CARDINAL": [
-                    "200"
+                    "200",
+                    "one"
                 ],
                 "ORG": [
                     "USPS",
-                    "Poshmark",
                     "NFX",
                     "NFX"
                 ],
                 "DATE": [
                     "today"
+                ],
+                "GPE": [
+                    "Poshmark"
+                ],
+                "FAC": [
+                    "Iconic Marketplace"
                 ]
             }
         },
@@ -6469,7 +6545,10 @@
                     "5"
                 ],
                 "DATE": [
-                    "the last 10 years.</p>\n<p"
+                    "the last 10 years.</p"
+                ],
+                "WORK_OF_ART": [
+                    "Inside the Marketplace"
                 ]
             }
         },
@@ -6500,11 +6579,15 @@
             "pubDate": "Mon, 25 Mar 2019 19:30:37 +0000",
             "title": "Inside the Marketplace of Lyft with James Currier & Pete Flint (NFX Partners)",
             "entities": {
+                "ORG": [
+                    "Pete Flint &",
+                    "IPO"
+                ],
                 "PERSON": [
                     "James Currier"
                 ],
-                "ORG": [
-                    "NFX"
+                "WORK_OF_ART": [
+                    "Inside the Marketplace"
                 ]
             }
         },
@@ -6535,8 +6618,12 @@
             "pubDate": "Wed, 13 Feb 2019 00:22:57 +0000",
             "title": "Andy Johns & Pete Flint on \"Why Growth Hacking Is Broken\"",
             "entities": {
+                "ORG": [
+                    "Pete Flint &"
+                ],
                 "PERSON": [
-                    "Andy Johns"
+                    "Andy Johns",
+                    "NFX</p"
                 ]
             }
         }

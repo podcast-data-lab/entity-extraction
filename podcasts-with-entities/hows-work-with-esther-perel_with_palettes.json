@@ -33,6 +33,9 @@
             "entities": {
                 "CARDINAL": [
                     "One"
+                ],
+                "PRODUCT": [
+                    "Learn"
                 ]
             }
         },
@@ -59,8 +62,8 @@
             "pubDate": "Tue, 31 Aug 2021 10:00:00 -0000",
             "title": "My Promotion Ended Our Friendship",
             "entities": {
-                "CARDINAL": [
-                    "one"
+                "PRODUCT": [
+                    "Learn"
                 ]
             }
         },
@@ -86,7 +89,11 @@
             },
             "pubDate": "Tue, 24 Aug 2021 10:00:00 -0000",
             "title": "I'm Your Special One ",
-            "entities": {}
+            "entities": {
+                "PRODUCT": [
+                    "Learn"
+                ]
+            }
         },
         {
             "content": "They are identical twins, inseparable since the start of life, now too in business. One brother has dreams of pursuing a career on his own, but is afraid of being left behind. While the other has never realized quite how much he leaned on his twin. Esther helps them rewrite the history of their partnership so they can move forward on a new path.\nLearn more about your ad choices. Visit podcastchoices.com/adchoices",
@@ -113,6 +120,9 @@
             "entities": {
                 "CARDINAL": [
                     "One"
+                ],
+                "PRODUCT": [
+                    "Learn"
                 ]
             }
         },
@@ -144,6 +154,9 @@
                 ],
                 "DATE": [
                     "the past year"
+                ],
+                "PRODUCT": [
+                    "Learn"
                 ]
             }
         },
@@ -171,11 +184,14 @@
             "title": "Couples Therapy with My Boss",
             "entities": {
                 "DATE": [
-                    "From day one"
+                    "day one"
                 ],
                 "CARDINAL": [
                     "One",
                     "One"
+                ],
+                "PRODUCT": [
+                    "Learn"
                 ]
             }
         },
@@ -207,6 +223,9 @@
                 ],
                 "CARDINAL": [
                     "seven"
+                ],
+                "PRODUCT": [
+                    "Learn"
                 ]
             }
         },
@@ -233,8 +252,8 @@
             "pubDate": "Tue, 20 Jul 2021 10:00:00 -0000",
             "title": "You'd Be Perfect for Ralph Lauren",
             "entities": {
-                "CARDINAL": [
-                    "one"
+                "PRODUCT": [
+                    "Learn"
                 ]
             }
         },
@@ -263,6 +282,9 @@
             "entities": {
                 "CARDINAL": [
                     "Two"
+                ],
+                "PRODUCT": [
+                    "Learn"
                 ]
             }
         },
@@ -291,6 +313,9 @@
             "entities": {
                 "DATE": [
                     "19 year"
+                ],
+                "PRODUCT": [
+                    "Learn"
                 ]
             }
         },
@@ -324,6 +349,9 @@
                 ],
                 "CARDINAL": [
                     "one"
+                ],
+                "PRODUCT": [
+                    "Learn"
                 ]
             }
         },
@@ -353,9 +381,17 @@
                 "DATE": [
                     "Today"
                 ],
+                "WORK_OF_ART": [
+                    "Where Should We Begin"
+                ],
+                "ORG": [
+                    "Esther Perel"
+                ],
                 "PERSON": [
-                    "Esther Perel",
                     "Esther"
+                ],
+                "PRODUCT": [
+                    "Learn"
                 ]
             }
         },
@@ -379,7 +415,11 @@
             },
             "pubDate": "Tue, 28 Apr 2020 09:00:00 -0000",
             "title": "Separated at Home But Still Together at Work",
-            "entities": {}
+            "entities": {
+                "PRODUCT": [
+                    "Learn"
+                ]
+            }
         },
         {
             "content": "They\u2019ve been hairdressers for many years in a job that feels like a cross between salesperson and therapist. They vie for new clients and commissions while absorbing the anxieties, frustrations, and burdens of their regulars. How they each handle this balance is a study in contrasts.\nLearn more about your ad choices. Visit podcastchoices.com/adchoices",
@@ -404,6 +444,12 @@
             "entities": {
                 "DATE": [
                     "many years"
+                ],
+                "PERSON": [
+                    "salesperson"
+                ],
+                "PRODUCT": [
+                    "Learn"
                 ]
             }
         },
@@ -430,6 +476,9 @@
             "entities": {
                 "DATE": [
                     "more than 20 years"
+                ],
+                "PRODUCT": [
+                    "Learn"
                 ]
             }
         },
@@ -456,6 +505,12 @@
             "entities": {
                 "DATE": [
                     "six years"
+                ],
+                "PERSON": [
+                    "Esther"
+                ],
+                "PRODUCT": [
+                    "Learn"
                 ]
             }
         },
@@ -482,7 +537,10 @@
             "entities": {
                 "PERSON": [
                     "Esther",
-                    "Adam\u00a0"
+                    "Adam"
+                ],
+                "PRODUCT": [
+                    "Learn"
                 ]
             }
         },
@@ -509,6 +567,9 @@
             "entities": {
                 "CARDINAL": [
                     "One"
+                ],
+                "PRODUCT": [
+                    "Learn"
                 ]
             }
         },
@@ -538,6 +599,9 @@
                 ],
                 "ORDINAL": [
                     "first"
+                ],
+                "PRODUCT": [
+                    "Learn"
                 ]
             }
         },
@@ -567,6 +631,9 @@
                 ],
                 "PERSON": [
                     "Esther"
+                ],
+                "PRODUCT": [
+                    "Learn"
                 ]
             }
         },
@@ -596,6 +663,9 @@
                 ],
                 "DATE": [
                     "years"
+                ],
+                "PRODUCT": [
+                    "Learn"
                 ]
             }
         },
@@ -629,6 +699,9 @@
                 ],
                 "PERSON": [
                     "Esther"
+                ],
+                "PRODUCT": [
+                    "Learn"
                 ]
             }
         },
@@ -658,6 +731,9 @@
                 ],
                 "PERSON": [
                     "Esther"
+                ],
+                "PRODUCT": [
+                    "Learn"
                 ]
             }
         }
@@ -713,7 +789,9 @@
             "This season"
         ],
         "PERSON": [
-            "Esther Perel",
+            "Esther Perel"
+        ],
+        "ORG": [
             "Esther Perel"
         ],
         "CARDINAL": [

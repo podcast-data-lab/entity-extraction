@@ -32,23 +32,19 @@
                 "ORG": [
                     "Nasa",
                     "Nasa",
-                    "Anuradha TK",
+                    "the 2020 Mission to Mars, Anuradha TK",
+                    "Geosat",
                     "the Indian Space Research Organisation",
                     "Human and Robotic Exploration",
                     "the European Space Agency"
                 ],
                 "LOC": [
-                    "Mars",
                     "Mars"
                 ],
                 "PERSON": [
                     "Kevin Fong",
                     "Adam Steltzner",
-                    "Geosat",
                     "David Parker"
-                ],
-                "DATE": [
-                    "2020"
                 ]
             }
         },
@@ -86,8 +82,8 @@
                 "ORDINAL": [
                     "50th"
                 ],
-                "ORG": [
-                    "Apollo"
+                "LAW": [
+                    "Apollo 11 Moon"
                 ]
             }
         },
@@ -140,7 +136,11 @@
             "entities": {
                 "PERSON": [
                     "Wally Funk",
-                    "Moon"
+                    "Moon",
+                    "Wally"
+                ],
+                "ORDINAL": [
+                    "first"
                 ],
                 "DATE": [
                     "the early 1960s",
@@ -149,14 +149,12 @@
                 ],
                 "CARDINAL": [
                     "one",
-                    "13"
+                    "13",
+                    "7"
                 ],
                 "ORG": [
                     "Mercury",
                     "Apollo"
-                ],
-                "PRODUCT": [
-                    "7"
                 ]
             }
         },
@@ -185,8 +183,7 @@
                     "Voyager 1 and",
                     "Voyager 1",
                     "Voyager 2",
-                    "Voyager 2",
-                    "Saturn"
+                    "Solar System"
                 ],
                 "CARDINAL": [
                     "2"
@@ -197,25 +194,23 @@
                     "their final years",
                     "1981"
                 ],
-                "MONEY": [
-                    "some 20 billion kilometres"
-                ],
-                "LOC": [
-                    "Earth"
-                ],
                 "QUANTITY": [
+                    "some 20 billion kilometres",
                     "15.5 kilometres",
                     "20 watt",
                     "17 billion kilometres"
+                ],
+                "LOC": [
+                    "Earth"
                 ],
                 "TIME": [
                     "19 hours"
                 ],
                 "ORG": [
                     "the Solar System",
-                    "the Solar System",
+                    "Universe",
                     "NASA",
-                    "Credit",
+                    "Saturn",
                     "NASA"
                 ],
                 "PERSON": [
@@ -247,6 +242,7 @@
                 "PERSON": [
                     "Richard Hollingham",
                     "Richard",
+                    "Technical Adviser",
                     "Les Johnson",
                     "John Lewis",
                     "Rachel Armstrong",
@@ -260,10 +256,8 @@
                     "the Space Engineering Centre",
                     "the University of Arizona"
                 ],
-                "PRODUCT": [
-                    "Chattanooga"
-                ],
                 "GPE": [
+                    "Chattanooga",
                     "Tennessee"
                 ],
                 "ORDINAL": [
@@ -304,7 +298,7 @@
                 "PERSON": [
                     "Maggie Aderin-Pocock",
                     "Taban Lo-Liyong",
-                    "canoe"
+                    "Earth"
                 ],
                 "GPE": [
                     "Nigeria",
@@ -312,6 +306,12 @@
                 ],
                 "LOC": [
                     "Africa"
+                ],
+                "ORG": [
+                    "Ugandan",
+                    "the International Space Station",
+                    "Nasa",
+                    "Nasa"
                 ],
                 "DATE": [
                     "the 21st Century",
@@ -323,9 +323,8 @@
                     "first",
                     "first"
                 ],
-                "ORG": [
-                    "Earth the International Space Station",
-                    "Nasa"
+                "WORK_OF_ART": [
+                    "Endeavour"
                 ]
             }
         },
@@ -358,12 +357,12 @@
                 ],
                 "PERSON": [
                     "Moon",
-                    "Wally Funk",
-                    "Tereshkova",
+                    "Wally",
                     "Wally",
                     "Jessica Meir",
                     "Helen Sharman",
                     "Eileen Collins",
+                    "Samantha Cristoforetti",
                     "Mary Lawrence",
                     "David J Shayler",
                     "Shannan Moynihan",
@@ -372,6 +371,7 @@
                 "CARDINAL": [
                     "one",
                     "12",
+                    "13",
                     "one"
                 ],
                 "DATE": [
@@ -382,6 +382,14 @@
                     "1961",
                     "50 years"
                 ],
+                "ORG": [
+                    "Wally Funk",
+                    "the \u2018Mercury",
+                    "NASA",
+                    "Cessna",
+                    "Boffin Media",
+                    "BBC World Service"
+                ],
                 "LOC": [
                     "Mars"
                 ],
@@ -390,14 +398,6 @@
                     "Russia",
                     "Valentina",
                     "Dallas"
-                ],
-                "ORG": [
-                    "the \u2018Mercury",
-                    "Samantha Cristoforetti",
-                    "NASA",
-                    "Cessna",
-                    "Boffin",
-                    "BBC World Service"
                 ]
             }
         },
@@ -465,13 +465,15 @@
                 "NORP": [
                     "American"
                 ],
-                "ORG": [
-                    "Skylab",
-                    "SW Australia"
+                "PERSON": [
+                    "Skylab"
                 ],
                 "LOC": [
                     "Earth",
                     "the Indian Ocean"
+                ],
+                "ORG": [
+                    "SW Australia"
                 ]
             }
         },
@@ -640,19 +642,14 @@
             "title": "The First Woman in Space",
             "entities": {
                 "ORG": [
-                    "Salute Soviet Cosmonaut Valentina"
-                ],
-                "GPE": [
-                    "Tereshkova",
-                    "Baikonur"
+                    "Salute Soviet Cosmonaut Valentina Tereshkova"
                 ],
                 "DATE": [
                     "June 1963",
-                    "21 June",
-                    "2013"
+                    "21 June, 2013"
                 ],
-                "CARDINAL": [
-                    "6"
+                "GPE": [
+                    "Baikonur"
                 ]
             }
         },
@@ -680,6 +677,9 @@
                 "DATE": [
                     "1990",
                     "23 April 2010"
+                ],
+                "FAC": [
+                    "the Hubble Telescope"
                 ],
                 "ORDINAL": [
                     "first"
@@ -762,8 +762,8 @@
                 "PRODUCT": [
                     "Saturn"
                 ],
-                "LOC": [
-                    "Enceladus"
+                "GPE": [
+                    "moon Enceladus"
                 ],
                 "DATE": [
                     "14 Dec 2016"
@@ -830,9 +830,6 @@
             "pubDate": "Mon, 14 Dec 2015 18:34:00 +0000",
             "title": "'I Nearly Drowned in Space'",
             "entities": {
-                "PERSON": [
-                    "Astronaut Luca Parmitano"
-                ],
                 "ORG": [
                     "the International Space Station"
                 ],

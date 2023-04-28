@@ -36,21 +36,28 @@
             "pubDate": "Tue, 23 Mar 2021 06:00:00 +0000",
             "title": "Bonus: Farewell From the TMCM Team",
             "entities": {
+                "DATE": [
+                    "three seasons"
+                ],
                 "PERSON": [
                     "Eddie Gonzalez",
                     "Chris Heagle",
                     "Liliana Maria",
-                    "Percy Ru\u00edz"
+                    "Gautam Srikishan",
+                    "Lilian Vo"
                 ],
                 "ORG": [
                     "The On Being Project",
+                    "Corpus Christi",
+                    "On Being Studios",
+                    "Being Studios",
                     "The On Being Project",
                     "href=\"https://onbeing.org"
                 ],
                 "GPE": [
-                    "Corpus Christi",
                     "Texas",
                     "Queens",
+                    "New York.</p><p",
                     "Cali",
                     "Colombia",
                     "Miami",
@@ -59,16 +66,13 @@
                     "Queens",
                     "New York"
                 ],
-                "NORP": [
-                    "New York.</p><p",
-                    "Latine",
-                    "Indian"
-                ],
                 "CARDINAL": [
-                    "two"
+                    "two",
+                    "four"
                 ],
-                "DATE": [
-                    "the age of four"
+                "NORP": [
+                    "Latine",
+                    "Indian-American"
                 ],
                 "ORDINAL": [
                     "first"
@@ -103,15 +107,22 @@
             "pubDate": "Tue, 23 Mar 2021 06:00:00 +0000",
             "title": "Liara Tamani \u2014 Love & Basketball",
             "entities": {
-                "CARDINAL": [
-                    "two"
-                ],
                 "PERSON": [
+                    "Gina Prince-Bythewood",
                     "Monica Wright",
                     "Sanaa Lathan",
                     "Quincy McCall",
                     "Omar Epps",
-                    "Monica"
+                    "Liara Tamani",
+                    "Monica",
+                    "Monica",
+                    "Liara Tamani</strong"
+                ],
+                "WORK_OF_ART": [
+                    "Love & Basketball</i"
+                ],
+                "CARDINAL": [
+                    "two"
                 ],
                 "ORDINAL": [
                     "first"
@@ -119,19 +130,17 @@
                 "DATE": [
                     "2000",
                     "2018",
-                    "2020"
+                    "2020",
+                    "the Year"
                 ],
                 "ORG": [
                     "Harvard Law School",
                     "MFA",
+                    "Vermont College",
                     "href=\"https://onbeing.org"
                 ],
                 "GPE": [
-                    "Quincy",
                     "do?\u2019\u201d</p><p><strong"
-                ],
-                "FAC": [
-                    "Vermont College"
                 ]
             }
         },
@@ -164,15 +173,15 @@
             "title": "Selena \u2014 Shea Serrano",
             "entities": {
                 "ORG": [
-                    "Tejano",
-                    "Selena",
+                    "Selena</i",
                     "Selena",
                     "href=\"https://onbeing.org"
                 ],
                 "PERSON": [
                     "Jennifer Lopez",
+                    "Selena",
                     "Shea Serrano",
-                    "Edward James",
+                    "Edward James Olmos.</p><p",
                     "Shea Serrano"
                 ],
                 "DATE": [
@@ -189,7 +198,7 @@
                 "ORDINAL": [
                     "first"
                 ],
-                "WORK_OF_ART": [
+                "EVENT": [
                     "The Rap Year"
                 ]
             }
@@ -225,24 +234,29 @@
                 "CARDINAL": [
                     "three"
                 ],
+                "TIME": [
+                    "prom night"
+                ],
                 "DATE": [
-                    "2018",
-                    "the-week"
+                    "2018"
                 ],
                 "PERSON": [
                     "Kay Cannon",
-                    "Emily VanDerWerff"
+                    "VanDerWerff"
                 ],
                 "ORG": [
                     "Vox",
                     "Vox",
-                    "Grantland",
                     "href=\"https://bookshop.org",
                     "The Complete Critical Companion",
                     "href=\"https://onbeing.org"
                 ],
                 "ORDINAL": [
                     "first"
+                ],
+                "GPE": [
+                    "Los Angeles",
+                    "Grantland"
                 ]
             }
         },
@@ -277,9 +291,13 @@
                 "PERSON": [
                     "David Cronenberg",
                     "Jeff Goldblum",
+                    "Seth",
                     "Geena Davis",
                     "Ronnie",
-                    "Tony Banout"
+                    "Seth",
+                    "Tony Banout",
+                    "Tony Banout",
+                    "Martin Marty Center"
                 ],
                 "CARDINAL": [
                     "one"
@@ -292,9 +310,7 @@
                 ],
                 "ORG": [
                     "the University of Chicago",
-                    "the Divinity School",
-                    "Martin Marty Center",
-                    "href=\"https://onbeing.org"
+                    "the Divinity School"
                 ]
             }
         },
@@ -327,8 +343,7 @@
             "title": "Real Women Have Curves \u2014 Virgie Tovar",
             "entities": {
                 "NORP": [
-                    "Mexican",
-                    "American"
+                    "Mexican American"
                 ],
                 "CARDINAL": [
                     "two",
@@ -336,18 +351,15 @@
                 ],
                 "PERSON": [
                     "America Ferrera",
-                    "Remain Fat</i"
+                    "Virgie Tovar",
+                    "Virgie Tovar</strong",
+                    "Remain"
                 ],
                 "GPE": [
                     "Los Angeles"
                 ],
-                "PRODUCT": [
-                    "Virgie Tovar"
-                ],
-                "WORK_OF_ART": [
-                    "The Self-Love"
-                ],
                 "ORG": [
+                    "The Self-Love",
                     "href=\"https://onbeing.org"
                 ]
             }
@@ -380,36 +392,36 @@
             "pubDate": "Tue, 16 Feb 2021 07:00:00 +0000",
             "title": "The Way We Were \u2014 Sophie Krueger",
             "entities": {
+                "WORK_OF_ART": [
+                    "The Way We Were <"
+                ],
                 "DATE": [
-                    "across decades",
+                    "decades",
                     "1973",
                     "Sunday, February 28th",
                     "weekly"
                 ],
-                "PERSON": [
+                "ORG": [
                     "Barbra Streisand",
+                    "Streisand",
+                    "PS (Movie",
+                    "href=\"https://onbeing.org"
+                ],
+                "PERSON": [
                     "Robert Redford",
-                    "Sophie Krueger"
+                    "Sophie Krueger",
+                    "Changed Me</a",
+                    "Sophie Krueger</strong",
+                    "Twitter"
                 ],
                 "CARDINAL": [
                     "two"
-                ],
-                "ORG": [
-                    "Streisand",
-                    "href=\"https://www.eventbrite.com",
-                    "href=\"https://www.eventbrite.com",
-                    "now</a>.)</p><p><strong>Sophie",
-                    "href=\"https://twitter.com",
-                    "en\">@kruegrrl</a>).</p><p><a href=\"https://onbeing.org/programs"
                 ],
                 "TIME": [
                     "12 p.m. ET"
                 ],
                 "GPE": [
                     "Chicago"
-                ],
-                "PRODUCT": [
-                    "Twitter"
                 ]
             }
         },
@@ -441,28 +453,29 @@
             "pubDate": "Tue, 9 Feb 2021 07:00:00 +0000",
             "title": "The Color Purple \u2014 Danez Smith",
             "entities": {
-                "FAC": [
-                    "the Jim Crow South"
+                "WORK_OF_ART": [
+                    "The Color Purple</i>"
                 ],
                 "PERSON": [
+                    "Celie",
                     "Steven Spielberg",
                     "Alice Walker\u2019s",
                     "Danez Smith",
-                    "Smith"
+                    "Smith",
+                    "Walker",
+                    "Danez Smith</strong"
+                ],
+                "ORG": [
+                    "the Jim Crow South",
+                    "the National Book Award.</p><p>Find"
                 ],
                 "DATE": [
                     "1985"
                 ],
-                "ORG": [
-                    "Walker\u2019s",
-                    "href=\"https://onbeing.org"
-                ],
                 "GPE": [
+                    "Black",
                     "St. Paul",
                     "Minnesota"
-                ],
-                "LAW": [
-                    "the National Book Award.</p><p>Find"
                 ]
             }
         },
@@ -500,12 +513,14 @@
                     "Kyle Turner"
                 ],
                 "GPE": [
-                    "Brooklyn"
+                    "Brooklyn",
+                    "NY",
+                    "New York"
                 ],
                 "ORG": [
-                    "NY",
                     "Paste Magazine",
-                    "NPR"
+                    "NPR",
+                    "href=\"https://onbeing.org"
                 ]
             }
         },
@@ -538,9 +553,12 @@
             "title": "This Movie Changed Me \u2014 Season 3 Trailer",
             "entities": {
                 "DATE": [
-                    "its final season",
                     "February 2",
-                    "every Tuesday"
+                    "Tuesday"
+                ],
+                "WORK_OF_ART": [
+                    "The Color Purple</i>",
+                    "Love & Basketball</i"
                 ]
             }
         },
@@ -573,15 +591,11 @@
             "title": "This Movie Changed Me: What would you like to hear next?",
             "entities": {
                 "DATE": [
-                    "our next season",
-                    "season 3.</p><p>Subscribe"
-                ],
-                "CARDINAL": [
-                    "\u2019d"
+                    "our next season"
                 ],
                 "ORG": [
-                    "href=\"http://onbeing.org/tmcmsurvey\">onbeing.org/tmcmsurvey</a",
-                    "href=\"http://onbeing.org/tmcmletter\">onbeing.org/tmcmletter</a></p><p>.</p>\n"
+                    "href=\"http://onbeing.org/tmcmsurvey\">onbeing.org",
+                    "href=\"http://onbeing.org/tmcmletter\">onbeing.org"
                 ]
             }
         },
@@ -622,7 +636,6 @@
                     "Dorothy",
                     "Michael Strautmanis",
                     "Michael Strautmanis",
-                    "Obama",
                     "Clinton"
                 ],
                 "DATE": [
@@ -630,19 +643,19 @@
                     "weekly"
                 ],
                 "LOC": [
-                    "Harlem"
-                ],
-                "GPE": [
-                    "Chicago"
+                    "Harlem",
+                    "the South Side of Chicago",
+                    "Obama"
                 ],
                 "NORP": [
                     "African American"
                 ],
                 "ORG": [
                     "the Obama Foundation",
-                    "The Walt Disney Company",
-                    "href=\"https://onbeing.org",
-                    "href=\"https://onbeing.org/tmcmletter/\">https://onbeing.org/tmcmletter/</a></p>\n"
+                    "The Walt Disney Company"
+                ],
+                "CARDINAL": [
+                    "one"
                 ]
             }
         },
@@ -674,12 +687,8 @@
             "pubDate": "Tue, 10 Dec 2019 17:00:03 +0000",
             "title": "The Wizard of Oz \u2014 Seth Godin",
             "entities": {
-                "WORK_OF_ART": [
-                    "p><i>\u201cThe Wizard of Oz\u201d</i>"
-                ],
                 "PERSON": [
                     "Dorothy",
-                    "Toto",
                     "Dorothy",
                     "Entrepreneur Seth Godin",
                     "Seth Godin"
@@ -688,20 +697,17 @@
                     "Kansas"
                 ],
                 "ORG": [
-                    "ece5515e-bc35-",
+                    "Land of Oz",
                     "TWJ2GGFYTXMX4NN2QNEM&pf_rd_s",
-                    "UTF8&pd_rd_i=1591841666&pd_rd_r=110f4820-bc36-11e8-baee-c185d6b5ce16&pd_rd_w",
-                    "B5A88C5VNHDNE4RJ5CJ4\"><i",
-                    "UTF8&pd_rd_i=1591844096&pd_rd_r=287915fd-bc36-11e8-9069-65b0c08f01f2&pd_rd_w",
-                    "href=\"https://onbeing.org",
                     "href=\"https://onbeing.org/tmcmletter/\">https://onbeing.org/tmcmletter/</a></p>\n"
+                ],
+                "FAC": [
+                    "yF0Lg&pf_rd_i",
+                    "the Marketing Hall of Fame.</p><p"
                 ],
                 "DATE": [
                     "2018",
                     "weekly"
-                ],
-                "FAC": [
-                    "the Marketing Hall"
                 ]
             }
         },
@@ -733,19 +739,18 @@
             "pubDate": "Tue, 3 Dec 2019 20:00:11 +0000",
             "title": "The Namesake \u2014 Nishta Mehra",
             "entities": {
-                "PERSON": [
+                "ORG": [
                     "Jhumpa Lahiri\u2019s",
-                    "Ganguli",
                     "Ashima",
+                    "Religion"
+                ],
+                "PERSON": [
+                    "Ganguli",
+                    "Ashoke",
                     "Gogol",
                     "Sonia",
+                    "Nishta Mehra",
                     "Nishta Mehra"
-                ],
-                "ORG": [
-                    "Ashoke",
-                    "Religion",
-                    "href=\"https://onbeing.org",
-                    "href=\"https://onbeing.org/tmcmletter/\">https://onbeing.org/tmcmletter/</a></p>\n"
                 ],
                 "GPE": [
                     "India",
@@ -759,11 +764,7 @@
                     "one"
                 ],
                 "WORK_OF_ART": [
-                    "The Pomegranate King",
-                    "Brown White Black:"
-                ],
-                "NORP": [
-                    "American"
+                    "The Pomegranate King\u201d and \u201cBrown White Black: An American Family at the Intersection of Race, Gender, Sexuality"
                 ],
                 "DATE": [
                     "weekly"
@@ -817,7 +818,6 @@
                     "The Gay Agenda</i>"
                 ],
                 "ORG": [
-                    "href=\"https://onbeing.org",
                     "href=\"https://onbeing.org/tmcmletter/\">https://onbeing.org/tmcmletter/</a></p>\n"
                 ]
             }
@@ -851,11 +851,11 @@
             "title": "Malcolm X \u2014 Andrea Jenkins",
             "entities": {
                 "PERSON": [
+                    "Spike Lee\u2019s",
                     "Malcolm",
                     "Malcolm X\u2019s",
                     "Malcolm Little",
                     "Malcolm X",
-                    "Activist",
                     "Andrea Jenkins",
                     "Malcolm X\u2019s",
                     "Andrea Jenkins"
@@ -869,6 +869,10 @@
                     "today",
                     "weekly"
                 ],
+                "ORG": [
+                    "Detroit Red",
+                    "href=\"https://onbeing.org/tmcmletter/\">https://onbeing.org/tmcmletter/</a></p>\n"
+                ],
                 "GPE": [
                     "Minneapolis",
                     "the United States",
@@ -876,11 +880,6 @@
                 ],
                 "FAC": [
                     "the Parkway Theater"
-                ],
-                "ORG": [
-                    "Selected Poems",
-                    "href=\"https://onbeing.org",
-                    "href=\"https://onbeing.org/tmcmletter/\">https://onbeing.org/tmcmletter/</a></p>\n"
                 ]
             }
         },
@@ -912,14 +911,8 @@
             "pubDate": "Tue, 12 Nov 2019 17:00:11 +0000",
             "title": "A League of Their Own \u2014 Jessica Mendoza",
             "entities": {
-                "ORG": [
-                    "p><i>\u201cA League of Their",
-                    "Hinson",
-                    "ESPN",
-                    "Mets",
-                    "ESPN",
-                    "href=\"https://onbeing.org",
-                    "href=\"https://onbeing.org/tmcmletter/\">https://onbeing.org/tmcmletter/</a></p>\n"
+                "NORP": [
+                    "All-American"
                 ],
                 "EVENT": [
                     "World War II",
@@ -932,15 +925,21 @@
                     "Jessica",
                     "Jessica Mendoza"
                 ],
+                "ORG": [
+                    "Hinson",
+                    "the Rockford Peaches",
+                    "ESPN",
+                    "Mets",
+                    "ESPN",
+                    "href=\"https://onbeing.org/tmcmletter/\">https://onbeing.org/tmcmletter/</a></p>\n"
+                ],
                 "DATE": [
                     "1992",
+                    "Sunday",
                     "weekly"
                 ],
                 "CARDINAL": [
                     "one"
-                ],
-                "WORK_OF_ART": [
-                    "Sunday Night Baseball"
                 ]
             }
         },
@@ -978,6 +977,7 @@
                 "DATE": [
                     "15-year-old",
                     "years",
+                    "June",
                     "weekly"
                 ],
                 "PERSON": [
@@ -990,7 +990,6 @@
                 ],
                 "ORG": [
                     "Slate Podcasts",
-                    "href=\"https://onbeing.org",
                     "href=\"https://onbeing.org/tmcmletter/\">https://onbeing.org/tmcmletter/</a></p>\n"
                 ]
             }
@@ -1025,21 +1024,17 @@
             "entities": {
                 "ORG": [
                     "El D\u00eda de Los Muertos",
-                    "Miguel",
-                    "the National Association For Hispanic Journalists\u2019",
-                    "href=\"https://onbeing.org",
-                    "href=\"https://onbeing.org/tmcmletter/\">https://onbeing.org/tmcmletter/</a></p>\n"
+                    "El D\u00eda de Los Muertos",
+                    "the National Association For Hispanic Journalists\u2019"
                 ],
                 "NORP": [
                     "Mexican"
                 ],
                 "PERSON": [
                     "Pixar",
+                    "Miguel",
                     "Monica Castillo",
                     "Monica Castillo"
-                ],
-                "LOC": [
-                    "El D\u00eda de Los Muertos"
                 ],
                 "GPE": [
                     "New York City",
@@ -1095,7 +1090,7 @@
                     "first"
                 ],
                 "ORG": [
-                    "b00lvdrj\"><i>Kermode & Mayo's",
+                    "Kermode & Mayo's",
                     "BBC Radio",
                     "href=\"https://onbeing.org/tmcmletter/\">https://onbeing.org/tmcmletter/</a></p>\n"
                 ]
@@ -1129,18 +1124,20 @@
             "pubDate": "Tue, 15 Oct 2019 16:00:04 +0000",
             "title": "Amadeus \u2014 Sue Phillips",
             "entities": {
-                "ORG": [
-                    "Amadeus",
-                    "the On Being Project",
-                    "Kuile"
-                ],
                 "PERSON": [
+                    "Amadeus",
                     "Wolfgang Amadeus Mozart",
                     "Antionio Salieri",
                     "Sue Phillips",
                     "Sue Phillips",
                     "Sue",
                     "Angie Thurston"
+                ],
+                "NORP": [
+                    "Unitarian",
+                    "Universalist",
+                    "Unitarian",
+                    "Universalist"
                 ],
                 "ORDINAL": [
                     "first",
@@ -1149,14 +1146,15 @@
                 "DATE": [
                     "the late \u201980s"
                 ],
-                "NORP": [
-                    "Unitarian"
+                "ORG": [
+                    "Sacred Design Lab"
+                ],
+                "WORK_OF_ART": [
+                    "the Impact Lab here at the On Being Project",
+                    "Design for the Human Soul"
                 ],
                 "GPE": [
                     "Casper"
-                ],
-                "WORK_OF_ART": [
-                    "Design for the Human Soul"
                 ]
             }
         },
@@ -1191,16 +1189,12 @@
                 "DATE": [
                     "our formative years",
                     "six years ago",
-                    "Corday",
                     "weekly"
                 ],
-                "ORG": [
-                    "Annie",
-                    "Brit + Co.",
-                    "href=\"https://onbeing.org/tmcmletter/\">https://onbeing.org/tmcmletter/</a></p>\n"
-                ],
                 "PERSON": [
+                    "Annie",
                     "Hannah",
+                    "Karen Corday",
                     "Karen Corday"
                 ],
                 "ORDINAL": [
@@ -1208,7 +1202,12 @@
                     "first"
                 ],
                 "GPE": [
+                    "Brooklyn",
                     "Washington"
+                ],
+                "ORG": [
+                    "Brit + Co.",
+                    "href=\"https://onbeing.org/tmcmletter/\">https://onbeing.org/tmcmletter/</a></p>\n"
                 ]
             }
         },
@@ -1240,27 +1239,30 @@
             "pubDate": "Tue, 1 Oct 2019 15:30:18 +0000",
             "title": "Brown Sugar \u2014 Nick George",
             "entities": {
-                "PERSON": [
+                "WORK_OF_ART": [
                     "Brown Sugar",
+                    "Revenge of the Snap"
+                ],
+                "PERSON": [
                     "Mos Def",
                     "Erykah Badu",
                     "Jill Scott",
                     "Mary J. Blige",
+                    "Sidney",
                     "Nick George",
-                    "Brown Sugar",
+                    "George",
                     "Nick",
-                    "at</p><p><a href=\"https://onbeing.org/tmcmletter/\">https://onbeing.org/tmcmletter/</a></p"
-                ],
-                "ORG": [
-                    "Dre and Sidney",
-                    "The Listening, Inc",
-                    "Central Virginia Community College"
+                    "at</p><p><a"
                 ],
                 "ORDINAL": [
                     "first"
                 ],
-                "WORK_OF_ART": [
-                    "Revenge of the Snap"
+                "ORG": [
+                    "Walmart",
+                    "Brown Sugar",
+                    "The Listening, Inc",
+                    "Central Virginia Community College",
+                    "href=\"https://onbeing.org/tmcmletter/\">https://onbeing.org/tmcmletter/</a></p>\n"
                 ],
                 "DATE": [
                     "weekly"
@@ -1304,14 +1306,13 @@
                     "Ellie Arroway",
                     "Palmer Joss",
                     "Drew Hammond",
-                    "Hammond"
+                    "Hammond",
+                    "Drew Hammond"
                 ],
                 "ORG": [
                     "SETI",
                     "Eagan High School",
-                    "Speech",
-                    "href=\"https://onbeing.org",
-                    "href=\"https://onbeing.org/tmcmletter/\">https://onbeing.org/tmcmletter/</a></p>\n"
+                    "Speech"
                 ],
                 "NORP": [
                     "Christian"
@@ -1358,18 +1359,19 @@
                     "first"
                 ],
                 "ORG": [
+                    "Marvel",
                     "Academy Award",
                     "the Multicultural Resource Center",
                     "Oberlin College",
-                    "the University of the Pacific",
-                    "href=\"https://onbeing.org",
-                    "href=\"https://onbeing.org/tmcmletter/\">https://onbeing.org/tmcmletter/</a></p>\n"
+                    "the University of the Pacific"
                 ],
                 "PERSON": [
                     "Zahida Sherman",
+                    "Sherman",
                     "Sherman"
                 ],
                 "DATE": [
+                    "all day",
                     "weekly"
                 ]
             }
@@ -1402,26 +1404,25 @@
             "pubDate": "Tue, 10 Sep 2019 17:27:01 +0000",
             "title": "Ratatouille \u2014 A.O. Scott",
             "entities": {
-                "ORG": [
+                "PRODUCT": [
+                    "Pixar"
+                ],
+                "PERSON": [
                     "Remy",
-                    "New York Times",
-                    "the New York Times",
-                    "Wesleyan University",
-                    "Truth",
-                    "href=\"https://onbeing.org",
-                    "href=\"https://onbeing.org/tmcmletter/\">https://onbeing.org/tmcmletter/</a></p>\n"
+                    "Anton Ego",
+                    "A. O. Scott",
+                    "Ratatouille",
+                    "A.O. Scott"
                 ],
                 "CARDINAL": [
                     "five",
                     "One"
                 ],
-                "PERSON": [
-                    "Anton Ego",
-                    "A. O. Scott",
-                    "Ratatouille"
-                ],
-                "WORK_OF_ART": [
-                    "Better Living Through Criticism:"
+                "ORG": [
+                    "New York Times",
+                    "the New York Times",
+                    "the Distinguished Professor of Film",
+                    "Wesleyan University"
                 ],
                 "DATE": [
                     "weekly"
@@ -1456,36 +1457,36 @@
             "pubDate": "Tue, 3 Sep 2019 14:34:17 +0000",
             "title": "Groundhog Day \u2014 Naomi Alderman",
             "entities": {
+                "EVENT": [
+                    "Groundhog Day"
+                ],
                 "CARDINAL": [
                     "two",
-                    "18",
                     "dozens"
                 ],
                 "PERSON": [
                     "Bill Murray",
                     "Naomi Alderman",
-                    "Rachel Weisz",
-                    "Rachel McAdams"
+                    "Naomi Alderman"
                 ],
                 "DATE": [
                     "the \u201990s",
+                    "18",
                     "weekly"
                 ],
-                "WORK_OF_ART": [
-                    "The Power",
-                    "Disobedience",
-                    "Zombies"
+                "PRODUCT": [
+                    "The Power"
                 ],
-                "EVENT": [
-                    "Groundhog Day"
+                "WORK_OF_ART": [
+                    "Groundhog Day",
+                    "Rachel Weisz and Rachel McAdams"
                 ],
                 "ORG": [
-                    "Bath Spa University",
-                    "href=\"https://onbeing.org",
-                    "href=\"https://onbeing.org/tmcmletter/\">https://onbeing.org/tmcmletter/</a></p>\n"
+                    "Bath Spa University"
                 ],
                 "GPE": [
-                    "Perplex City"
+                    "Perplex City",
+                    "Zombies"
                 ]
             }
         },
@@ -1517,10 +1518,13 @@
             "pubDate": "Fri, 16 Aug 2019 15:35:01 +0000",
             "title": "This Movie Changed Me \u2014 Season 2 Trailer",
             "entities": {
+                "ORG": [
+                    "This Movie Changed Me"
+                ],
                 "EVENT": [
                     "Groundhog Day"
                 ],
-                "PERSON": [
+                "GPE": [
                     "Black Panther",
                     "Coco"
                 ],
@@ -1558,10 +1562,6 @@
             "pubDate": "Tue, 30 Oct 2018 15:24:25 +0000",
             "title": "The Joy Luck Club \u2014 Amy S. Choi",
             "entities": {
-                "ORG": [
-                    "uploads/2018/03/1500x1500_TMCM_Soundcloud_Icon.jpg?resize=320,320",
-                    "href=\"https://onbeing.org"
-                ],
                 "PERSON": [
                     "Amy S. Choi",
                     "Amy Choi"
@@ -1569,9 +1569,6 @@
                 "NORP": [
                     "Asian",
                     "Asian"
-                ],
-                "WORK_OF_ART": [
-                    "The Joy Luck Club</em"
                 ]
             }
         },
@@ -1603,20 +1600,15 @@
             "pubDate": "Tue, 16 Oct 2018 15:11:44 +0000",
             "title": "Kill Bill: Volume 2  \u2014 Lauren Wilford",
             "entities": {
-                "ORG": [
-                    "uploads/2018/03/1500x1500_TMCM_Soundcloud_Icon.jpg?resize=320,320"
-                ],
-                "CARDINAL": [
-                    "2"
-                ],
                 "PERSON": [
+                    "Bill",
                     "Lauren Wilford",
                     "Uma Thurman\u2019s",
                     "Lauren Wilford",
                     "Lauren"
                 ],
-                "WORK_OF_ART": [
-                    "The Bride"
+                "CARDINAL": [
+                    "2"
                 ]
             }
         },
@@ -1648,13 +1640,13 @@
             "pubDate": "Tue, 2 Oct 2018 14:30:13 +0000",
             "title": "Wings of Desire \u2014 Gustavo Santaolalla",
             "entities": {
-                "ORG": [
-                    "uploads/2018/03/1500x1500_TMCM_Soundcloud_Icon.jpg?resize=320,320"
+                "GPE": [
+                    "Desire"
                 ],
                 "PERSON": [
-                    "Gustavo Santaolalla",
                     "Oscar",
-                    "Gustavo Santaolalla"
+                    "Gustavo Santaolalla",
+                    "Brokeback Mountain</em"
                 ],
                 "NORP": [
                     "German"
@@ -1689,9 +1681,6 @@
             "pubDate": "Tue, 18 Sep 2018 14:22:04 +0000",
             "title": "Bend It Like Beckham \u2014 Rajpreet Heir",
             "entities": {
-                "ORG": [
-                    "uploads/2018/03/1500x1500_TMCM_Soundcloud_Icon.jpg?resize=320,320"
-                ],
                 "NORP": [
                     "Indian"
                 ],
@@ -1728,19 +1717,12 @@
             "pubDate": "Tue, 4 Sep 2018 13:50:37 +0000",
             "title": "Now, Voyager \u2014 Angelica Jade Bastie\u0301n",
             "entities": {
-                "ORG": [
-                    "uploads/2018/03/1500x1500_TMCM_Soundcloud_Icon.jpg?resize=320,320",
-                    "Vulture\u2019s",
-                    "Bette Davis"
-                ],
-                "PRODUCT": [
-                    "Voyager"
-                ],
-                "GPE": [
-                    "Voyager</em"
-                ],
                 "PERSON": [
+                    "Voyager \u2014 Angelica Jade",
                     "Angelica"
+                ],
+                "ORG": [
+                    "the Bette Davis"
                 ]
             }
         },
@@ -1772,16 +1754,16 @@
             "pubDate": "Fri, 17 Aug 2018 13:38:57 +0000",
             "title": "The Big Lebowski \u2014 Scott Oliver",
             "entities": {
-                "ORG": [
-                    "uploads/2018/03/1500x1500_TMCM_Soundcloud_Icon.jpg?resize=320,320"
+                "WORK_OF_ART": [
+                    "alt=\"The Big Lebowski"
                 ],
                 "PERSON": [
-                    "Scott Oliver",
+                    "Scott Oliver\"",
                     "Scott Oliver",
                     "Dude"
                 ],
-                "DATE": [
-                    "the 20th anniversary"
+                "ORDINAL": [
+                    "20th"
                 ]
             }
         },
@@ -1813,13 +1795,8 @@
             "pubDate": "Tue, 7 Aug 2018 12:57:21 +0000",
             "title": "You Can Count On Me \u2014 Hrishikesh Hirway",
             "entities": {
-                "ORG": [
-                    "uploads/2018/03/1500x1500_TMCM_Soundcloud_Icon.jpg?resize=320,320"
-                ],
                 "PERSON": [
-                    "Hrishikesh Hirway",
-                    "Song Exploder",
-                    "Hrishikesh Hirway"
+                    "Song Exploder"
                 ]
             }
         },
@@ -1851,14 +1828,13 @@
             "pubDate": "Tue, 24 Jul 2018 20:27:19 +0000",
             "title": "Wonder Woman \u2014 Jacki Zehner",
             "entities": {
-                "ORG": [
-                    "uploads/2018/03/1500x1500_TMCM_Soundcloud_Icon.jpg?resize=320,320",
-                    "Goldman Sachs"
-                ],
                 "PERSON": [
                     "Jacki Zehner",
                     "Jacki Zehner",
                     "Jacki"
+                ],
+                "ORG": [
+                    "Goldman Sachs"
                 ],
                 "DATE": [
                     "today"
@@ -1893,16 +1869,13 @@
             "pubDate": "Tue, 10 Jul 2018 17:12:15 +0000",
             "title": "The Ox-Bow Incident \u2014 Rub\u00e9n Blades",
             "entities": {
-                "ORG": [
-                    "uploads/2018/03/1500x1500_TMCM_Soundcloud_Icon.jpg?resize=320,320"
+                "WORK_OF_ART": [
+                    "alt=\"The Ox-Bow Incident \u2014 Rub\u00e9n Blades"
                 ],
                 "DATE": [
                     "1940s"
                 ],
-                "WORK_OF_ART": [
-                    "The Ox-Bow Incident"
-                ],
-                "PRODUCT": [
+                "ORG": [
                     "Rub\u00e9n Blades"
                 ]
             }
@@ -1935,13 +1908,13 @@
             "pubDate": "Tue, 26 Jun 2018 15:44:34 +0000",
             "title": "Interstellar \u2014 Jamie Berube",
             "entities": {
-                "ORG": [
-                    "uploads/2018/03/1500x1500_TMCM_Soundcloud_Icon.jpg?resize=320,320"
-                ],
                 "PERSON": [
                     "Jamie Berube",
                     "Jamie Berube",
-                    "Matthew McConaughey\u2019s"
+                    "Matthew McConaughey"
+                ],
+                "ORG": [
+                    "Interstellar"
                 ]
             }
         },
@@ -1973,11 +1946,10 @@
             "pubDate": "Tue, 12 Jun 2018 13:01:56 +0000",
             "title": "Toy Story \u2014 Charles Pope",
             "entities": {
-                "ORG": [
-                    "uploads/2018/03/1500x1500_TMCM_Soundcloud_Icon.jpg?resize=320,320"
+                "WORK_OF_ART": [
+                    "alt=\"Toy Story \u2014 Charles Pope\" /><p>\u201cToy Story\u201d"
                 ],
                 "PERSON": [
-                    "Charles Pope",
                     "Monsignor Charles Pope",
                     "Charles Pope",
                     "Buzz Lightyear"
@@ -2012,14 +1984,8 @@
             "pubDate": "Tue, 29 May 2018 15:10:47 +0000",
             "title": "Bridget Jones\u2019s Diary \u2014 Samantha Powell",
             "entities": {
-                "ORG": [
-                    "uploads/2018/03/1500x1500_TMCM_Soundcloud_Icon.jpg?resize=320,320"
-                ],
                 "PERSON": [
                     "Samantha Powell"
-                ],
-                "WORK_OF_ART": [
-                    "Bridget Jones\u2019s Diary"
                 ]
             }
         },
@@ -2051,16 +2017,12 @@
             "pubDate": "Tue, 15 May 2018 13:18:32 +0000",
             "title": "Avalon \u2014 Anthony Breznican",
             "entities": {
-                "ORG": [
-                    "uploads/2018/03/1500x1500_TMCM_Soundcloud_Icon.jpg?resize=320,320",
-                    "Entertainment Weekly\u2019s",
-                    "different.</p></p"
-                ],
                 "PERSON": [
                     "Anthony Breznican",
                     "Anthony Breznican"
                 ],
-                "WORK_OF_ART": [
+                "ORG": [
+                    "Entertainment Weekly\u2019s",
                     "Avalon"
                 ],
                 "NORP": [
@@ -2096,17 +2058,9 @@
             "pubDate": "Tue, 1 May 2018 14:17:19 +0000",
             "title": "Boyhood \u2014 Naomi Shihab Nye",
             "entities": {
-                "ORG": [
-                    "uploads/2018/03/1500x1500_TMCM_Soundcloud_Icon.jpg?resize=320,320"
-                ],
                 "PERSON": [
                     "Naomi Shihab Nye",
-                    "Shihab Nye",
-                    "Richard Linklater\u2019s",
-                    "Naomi"
-                ],
-                "WORK_OF_ART": [
-                    "Boyhood"
+                    "Richard Linklater"
                 ]
             }
         },
@@ -2138,17 +2092,15 @@
             "pubDate": "Tue, 17 Apr 2018 13:56:00 +0000",
             "title": "Dan in Real Life \u2014 Sharon Salzberg",
             "entities": {
-                "ORG": [
-                    "uploads/2018/03/1500x1500_TMCM_Soundcloud_Icon.jpg?resize=320,320"
+                "WORK_OF_ART": [
+                    "Real Life",
+                    "Love"
                 ],
                 "PERSON": [
                     "Sharon Salzberg",
                     "Sharon Salzberg",
-                    "Steve Carell\u2019s",
+                    "Steve Carell",
                     "Sharon"
-                ],
-                "WORK_OF_ART": [
-                    "Dan in Real Life"
                 ]
             }
         },
@@ -2180,11 +2132,9 @@
             "pubDate": "Tue, 3 Apr 2018 12:05:14 +0000",
             "title": "Ordinary People \u2014 Steve Almond",
             "entities": {
-                "ORG": [
-                    "uploads/2018/03/1500x1500_TMCM_Soundcloud_Icon.jpg?resize=320,320"
-                ],
                 "PERSON": [
-                    "Steve Almond",
+                    "People \u2014 Steve Almond",
+                    "Dear Sugars",
                     "Steve Almond",
                     "Robert Redford"
                 ]
@@ -2218,19 +2168,19 @@
             "pubDate": "Tue, 20 Mar 2018 14:52:26 +0000",
             "title": "Say Anything \u2014 Hadley Freeman",
             "entities": {
-                "ORG": [
-                    "uploads/2018/03/1500x1500_TMCM_Soundcloud_Icon.jpg?resize=320,320",
-                    "The Guardian\u2019s Hadley Freeman"
-                ],
-                "GPE": [
-                    "Anything"
+                "WORK_OF_ART": [
+                    "alt=\"Say Anything"
                 ],
                 "PERSON": [
-                    "Hadley Freeman",
-                    "Romance"
+                    "Hadley Freeman\"",
+                    "Teen",
+                    "Hadley Freeman"
                 ],
-                "WORK_OF_ART": [
-                    "Say Anything"
+                "DATE": [
+                    "80s"
+                ],
+                "ORG": [
+                    "Guardian"
                 ]
             }
         },
@@ -2263,10 +2213,9 @@
             "title": "Eternal Sunshine of the Spotless Mind \u2014 Chaitanya Kumar",
             "entities": {
                 "ORG": [
-                    "uploads/2018/03/1500x1500_TMCM_Soundcloud_Icon.jpg?resize=320,320"
+                    "\u201cEternal Sunshine of the Spotless Mind"
                 ],
                 "PERSON": [
-                    "Chaitanya Kumar",
                     "Chaitanya Kumar"
                 ]
             }
@@ -2299,18 +2248,12 @@
             "pubDate": "Tue, 20 Feb 2018 14:45:43 +0000",
             "title": "You've Got Mail \u2014 Casper ter Kuile",
             "entities": {
-                "ORG": [
-                    "uploads/2018/03/1500x1500_TMCM_Soundcloud_Icon.jpg?resize=320,320",
-                    "Kuile",
-                    "the Sacred Text\u2019s Casper"
-                ],
-                "GPE": [
-                    "Casper"
-                ],
                 "PERSON": [
                     "Harry Potter",
-                    "Kuile",
                     "Meg Ryan/Tom Hanks"
+                ],
+                "ORG": [
+                    "the Sacred Text\u2019s Casper"
                 ],
                 "DATE": [
                     "14-year-old"
@@ -2345,16 +2288,18 @@
             "pubDate": "Tue, 6 Feb 2018 16:16:58 +0000",
             "title": "The Nightmare Before Christmas \u2014 Ashley C. Ford",
             "entities": {
-                "ORG": [
-                    "uploads/2018/03/1500x1500_TMCM_Soundcloud_Icon.jpg?resize=320,320"
-                ],
-                "DATE": [
-                    "Christmas",
-                    "Christmas"
+                "WORK_OF_ART": [
+                    "alt=\"The Nightmare Before Christmas"
                 ],
                 "PERSON": [
                     "Ashley C. Ford",
                     "Ashley C. Ford"
+                ],
+                "ORG": [
+                    "Nightmare"
+                ],
+                "DATE": [
+                    "Christmas"
                 ]
             }
         },
@@ -2386,14 +2331,14 @@
             "pubDate": "Tue, 23 Jan 2018 15:09:52 +0000",
             "title": "Star Wars: Episode IV - A New Hope \u2014 David Greene",
             "entities": {
-                "ORG": [
-                    "uploads/2018/03/1500x1500_TMCM_Soundcloud_Icon.jpg?resize=320,320",
-                    "NPR"
-                ],
                 "PERSON": [
                     "Episode IV - A",
                     "David Greene",
-                    "David Greene"
+                    "David Greene",
+                    "Episode IV"
+                ],
+                "ORG": [
+                    "NPR"
                 ],
                 "WORK_OF_ART": [
                     "Morning Edition"
@@ -2432,12 +2377,8 @@
             "title": "This Movie Changed Me \u2014 Trailer",
             "entities": {
                 "ORG": [
-                    "uploads/2018/03/1500x1500_TMCM_Soundcloud_Icon.jpg?resize=320,320",
-                    "This Movie Changed Me"
-                ],
-                "PERSON": [
-                    "Trailer",
-                    "Lily Percy.</p></p>\n"
+                    "This Movie Changed Me",
+                    "Being Studios"
                 ]
             }
         }
@@ -2488,6 +2429,9 @@
     "pubDate": "Tue, 23 Mar 2021 06:00:00 +0000",
     "title": "This Movie Changed Me",
     "entities": {
+        "ORG": [
+            "This Movie Changed Me"
+        ],
         "PERSON": [
             "Lily Percy"
         ]

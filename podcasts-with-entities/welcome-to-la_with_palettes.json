@@ -5,7 +5,7 @@
     "image": {
         "link": "https://www.kcrw.com/culture/shows/welcome-to-la?utm_source=KCRW&utm_medium=RSS&utm_campaign=kcrw-show-rss",
         "title": "Welcome to LA",
-        "url": "https://www.kcrw.com/culture/shows/welcome-to-la/@@images/f6073a44-f922-476c-b2fd-071e12d3fcf6.png"
+        "url": "https://www.kcrw.com/culture/shows/welcome-to-la/@@images/92beb7a4-a46c-40db-a944-3878beab60d7.png"
     },
     "items": [
         {
@@ -45,14 +45,16 @@
                 ],
                 "PERSON": [
                     "Ethan Hawke",
-                    "David Weinberg"
+                    "David Weinberg\u2019s"
                 ],
                 "CARDINAL": [
                     "millions",
                     "400;\">And"
                 ],
-                "WORK_OF_ART": [
-                    "Tesla",
+                "ORG": [
+                    "Tesla"
+                ],
+                "LOC": [
                     "Nikola Tesla"
                 ]
             }
@@ -89,10 +91,9 @@
                 ],
                 "PERSON": [
                     "Richard Parks III",
+                    "Richard",
+                    "David",
                     "Wolfgang Puck"
-                ],
-                "ORG": [
-                    "Richard\u2019s Famous Food Podcast"
                 ],
                 "GPE": [
                     "Los Angeles"
@@ -130,10 +131,10 @@
                     "400;\">Remember"
                 ],
                 "DATE": [
-                    "Friday nights"
+                    "Friday"
                 ],
                 "TIME": [
-                    "favorite night of the week"
+                    "nights"
                 ]
             }
         },
@@ -168,13 +169,16 @@
                     "400;\">In"
                 ],
                 "GPE": [
+                    "Welcome",
                     "LA",
-                    "LA",
-                    "Palmdale",
-                    "the High Desert"
+                    "LA"
                 ],
                 "LOC": [
-                    "Southern California"
+                    "Southern California",
+                    "the High Desert"
+                ],
+                "NORP": [
+                    "Palmdale"
                 ]
             }
         },
@@ -204,6 +208,9 @@
             "pubDate": "Wed, 10 Jun 2020 08:00:00 -0700",
             "title": "A Quick Message",
             "entities": {
+                "GPE": [
+                    "LA"
+                ],
                 "DATE": [
                     "this week"
                 ],
@@ -279,10 +286,10 @@
                 ],
                 "GPE": [
                     "Hollywood",
+                    "Welcome",
                     "LA"
                 ],
                 "ORG": [
-                    "Welcome",
                     "the Black Stuntmen\u2019s Association"
                 ]
             }
@@ -313,11 +320,7 @@
             "link": "https://www.kcrw.com/culture/shows/welcome-to-la/the-best-of-all-possible-worlds-a-prologue?utm_source=KCRW&utm_medium=RSS&utm_campaign=kcrw-show-rss",
             "pubDate": "Wed, 20 May 2020 08:00:00 -0700",
             "title": "The Best of All Possible Worlds: A Prologue",
-            "entities": {
-                "CARDINAL": [
-                    "400;\">Have"
-                ]
-            }
+            "entities": {}
         },
         {
             "author": "webmaster@kcrw.org (KCRW)",
@@ -379,9 +382,11 @@
             "title": "Listen to Lost Notes",
             "entities": {
                 "PERSON": [
+                    "Lost Notes",
                     "David Bowie's"
                 ],
                 "ORG": [
+                    "KCRW",
                     "Fanny"
                 ]
             }
@@ -413,13 +418,6 @@
             "pubDate": "Tue, 03 Jul 2018 00:00:00 -0700",
             "title": "Pan's plans",
             "entities": {
-                "CARDINAL": [
-                    "400;\">Architect"
-                ],
-                "PERSON": [
-                    "Trevor Pan",
-                    "Trevor"
-                ],
                 "ORDINAL": [
                     "first"
                 ],
@@ -499,11 +497,13 @@
             "title": "Grace of the Sea",
             "entities": {
                 "PERSON": [
-                    "Gutierrez Sanchez",
-                    "/span><span"
+                    "Gutierrez Sanchez"
                 ],
                 "WORK_OF_ART": [
                     "Grace of the Sea"
+                ],
+                "LOC": [
+                    "South LA"
                 ],
                 "DATE": [
                     "six years"
@@ -546,9 +546,6 @@
                 "PERSON": [
                     "Judy"
                 ],
-                "WORK_OF_ART": [
-                    "The People\u2019s Court"
-                ],
                 "NORP": [
                     "Americans"
                 ]
@@ -581,8 +578,10 @@
             "pubDate": "Tue, 05 Jun 2018 00:00:00 -0700",
             "title": "Bilal\u2019s Calling",
             "entities": {
+                "PERSON": [
+                    "Bilal"
+                ],
                 "CARDINAL": [
-                    "400;\">Tyreek",
                     "six"
                 ]
             }
@@ -647,7 +646,7 @@
             "title": "The Paradise Motel",
             "entities": {
                 "CARDINAL": [
-                    "400;\">Kevin"
+                    "400;\">Kevin Gage"
                 ],
                 "GPE": [
                     "Hollywood",
@@ -659,9 +658,7 @@
                     "2003"
                 ],
                 "ORG": [
-                    "the Paradise Motel"
-                ],
-                "FAC": [
+                    "the Paradise Motel",
                     "Sunset Boulevard.</span></p"
                 ]
             }
@@ -735,9 +732,6 @@
             "entities": {
                 "NORP": [
                     "American"
-                ],
-                "ORG": [
-                    "mirage.</span></p"
                 ]
             }
         }
@@ -754,7 +748,7 @@
             }
         ],
         "explicit": "yes",
-        "image": "https://www.kcrw.com/culture/shows/welcome-to-la/@@images/f6073a44-f922-476c-b2fd-071e12d3fcf6.png",
+        "image": "https://www.kcrw.com/culture/shows/welcome-to-la/@@images/92beb7a4-a46c-40db-a944-3878beab60d7.png",
         "keywords": [
             "498771",
             "352865",
@@ -774,11 +768,11 @@
     },
     "palette": [
         "0B0A08",
-        "D94822",
-        "F1F297",
-        "4249AE",
-        "5A270D",
-        "0BE18A"
+        "D74321",
+        "F1F399",
+        "59280D",
+        "3A48B9",
+        "0BE48E"
     ],
     "title": "Welcome to LA",
     "entities": {

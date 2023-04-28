@@ -30,17 +30,23 @@
             "pubDate": "Tue, 14 Sep 2021 20:00:00 -0400",
             "title": "We're Back! Counter Programming on Between Two Mics with SquadCast",
             "entities": {
-                "TIME": [
-                    "a minute"
-                ],
                 "PERSON": [
+                    "It&apos;s",
                     "Zach Moreno",
                     "Rock Felder",
                     "Counter Programming",
-                    "thread</a></li><li><a href='https://www.squadcast.fm"
+                    "Sporadic guesting</li><li",
+                    "it&apos;s",
+                    "thread</a></li><li><a"
+                ],
+                "NORP": [
+                    "SquadCast.fm"
+                ],
+                "WORK_OF_ART": [
+                    "Between Two Mics: The Remote Recording Podcast"
                 ],
                 "CARDINAL": [
-                    "Two",
+                    "2",
                     "100,000"
                 ],
                 "GPE": [
@@ -49,15 +55,13 @@
                     "Hollywood"
                 ],
                 "DATE": [
-                    "just 14 months"
+                    "just 14 months",
+                    "a href='https://www.squadcast.fm/'>7 days"
                 ],
                 "ORG": [
                     "AKA",
-                    "SquadCast",
-                    "YouTube channel</a></li></ul><p><br/>Thanks"
-                ],
-                "PRODUCT": [
-                    "it&apos;s"
+                    "promo &amp",
+                    "SquadCast"
                 ]
             }
         },
@@ -83,16 +87,6 @@
             "pubDate": "Wed, 02 Jun 2021 06:00:00 -0400",
             "title": "The Show May Be Over, but the Counting Continues...",
             "entities": {
-                "ORG": [
-                    "Counties",
-                    "Counties",
-                    "Berger",
-                    "href='http://www.instagram.com/caioslikta'>Caio Slikta</a>",
-                    "IG",
-                    "CDC",
-                    "br/>Shira &",
-                    "Arielle\u00a0\u00a0</p><p><br/></p"
-                ],
                 "DATE": [
                     "Today",
                     "a crazy year",
@@ -103,17 +97,30 @@
                     "Counter Programming",
                     "Shira",
                     "Counter Programming",
+                    "Berger",
                     "Eric Johnson",
-                    "Goodman</a></li><li><a href='https://www.instagram.com",
                     "Jason Shaw"
                 ],
                 "GPE": [
                     "Arielle",
-                    "we&apos;d",
-                    "Tennessee Hayride"
+                    "Tennessee",
+                    "Arielle"
                 ],
                 "PRODUCT": [
                     "it&apos;s"
+                ],
+                "ORG": [
+                    "we&apos;d",
+                    "href='https://www.instagram.com",
+                    "IG",
+                    "CDC",
+                    "br/>Shira &amp"
+                ],
+                "CARDINAL": [
+                    "2"
+                ],
+                "NORP": [
+                    "href='http://www.instagram.com"
                 ]
             }
         },
@@ -141,17 +148,22 @@
             "entities": {
                 "PERSON": [
                     "Counter Programming",
-                    "music)<br/><br/>Sponsors:<br/><a"
+                    "Tureck</a"
                 ],
-                "DATE": [
-                    "season 2",
-                    "age 13"
+                "CARDINAL": [
+                    "2"
                 ],
-                "NORP": [
+                "PRODUCT": [
                     "Shira&apos;s"
                 ],
+                "NORP": [
+                    "Jewish",
+                    "href='http://www.instagram.com"
+                ],
+                "DATE": [
+                    "age 13"
+                ],
                 "ORG": [
-                    "Jewish &quot;counter,&quot",
                     "Shaw - Tennessee Hayride",
                     "IG"
                 ]
@@ -182,24 +194,25 @@
                 "DATE": [
                     "This week"
                 ],
-                "PRODUCT": [
-                    "it&apos;s"
+                "PERSON": [
+                    "it&apos;s",
+                    "Queen Elizabeth",
+                    "Edward Earl",
+                    "Tureck</a"
                 ],
                 "ORG": [
-                    "Sophie Countess",
+                    "Sophie Countess of",
                     "AKA",
+                    "Wessex?<br/><br/>We&apos;ve",
                     "Shaw - Tennessee Hayride",
                     "IG"
                 ],
                 "GPE": [
                     "Wessex"
                 ],
-                "PERSON": [
-                    "Elizabeth",
-                    "Prince Edward Earl"
-                ],
                 "NORP": [
-                    "British"
+                    "British",
+                    "href='http://www.instagram.com"
                 ]
             }
         },
@@ -225,18 +238,30 @@
             "pubDate": "Wed, 05 May 2021 06:00:00 -0400",
             "title": "What the Heck is a Viscount? \u00e0 la Bridgerton & Reg\u00e9-Jean Page",
             "entities": {
-                "ORG": [
+                "DATE": [
+                    "Today",
+                    "Shonda%20Rhimes%20is%20the%20executive"
+                ],
+                "PERSON": [
                     "Viscount",
+                    "Tureck</a"
+                ],
+                "ORG": [
                     "Counter Programming",
-                    "Bridgerton",
+                    "href='https://www.instagram.com",
                     "Reg\u00e9-Jean Page",
                     "href='https://www.insider.com",
-                    "a%20character%20was%20killed%20off",
                     "Shaw - Tennessee Hayride",
                     "IG"
                 ],
-                "DATE": [
-                    "the upcoming season"
+                "GPE": [
+                    "Bridgerton"
+                ],
+                "CARDINAL": [
+                    "exit-2021-4#:~:text"
+                ],
+                "NORP": [
+                    "href='http://www.instagram.com"
                 ]
             }
         },
@@ -263,21 +288,17 @@
             "title": "County Fairs w/ Everyday Is a Food Day Podcast",
             "entities": {
                 "DATE": [
-                    "Every Day",
-                    "quot;Every Day"
-                ],
-                "EVENT": [
-                    "a Food Day"
-                ],
-                "ORG": [
-                    "&apos;em",
-                    "Oreos",
-                    "IG"
+                    "This week",
+                    "Every Day"
                 ],
                 "PERSON": [
-                    "href='https://chickencharlies.com/'>Chicken Charlie&apos;s</a>",
+                    "Oreos",
                     "Anna Van Valin",
-                    "Lia Ballentine"
+                    "Lia Ballentine",
+                    "Tureck</a"
+                ],
+                "ORG": [
+                    "IG"
                 ]
             }
         },
@@ -305,16 +326,14 @@
             "entities": {
                 "DATE": [
                     "This week",
-                    "Each week",
-                    "up to 9999"
+                    "Each week"
                 ],
                 "PERSON": [
                     "Counter Programming",
-                    "href='http://www.robotslap.com/'>Daniel Tureck</a"
+                    "Tureck</a"
                 ],
                 "ORG": [
                     "Shira &",
-                    "Wikipedia",
                     "Shaw - Tennessee Hayride",
                     "IG"
                 ],
@@ -326,6 +345,12 @@
                     "9",
                     "four",
                     "half"
+                ],
+                "FAC": [
+                    "use.<br/>- Wikipedia<"
+                ],
+                "NORP": [
+                    "href='http://www.instagram.com"
                 ]
             }
         },
@@ -354,16 +379,20 @@
                     "This week"
                 ],
                 "PERSON": [
-                    "Counter Programming we&apos;re",
+                    "Counter Programming",
                     "Jess Goodman",
-                    "href='http://www.robotslap.com/'>Daniel Tureck</a"
+                    "Counter Programming",
+                    "Twitter",
+                    "Tureck</a"
+                ],
+                "NORP": [
+                    "Indiebound",
+                    "href='http://www.instagram.com"
                 ],
                 "ORG": [
-                    "Indiebound",
-                    "Counter Programming",
                     "Jess",
                     "Jess",
-                    "Twitter @<a href='https://twitter.com",
+                    "Jess on Instagram @<a href='https://www.instagram.com",
                     "Shaw - Tennessee Hayride",
                     "IG"
                 ]
@@ -396,23 +425,26 @@
                     "Last week",
                     "Today"
                 ],
-                "PERSON": [
-                    "we&apos;re",
-                    "You&apos;re",
-                    "Eric Johnson",
-                    "href='http://www.robotslap.com/'>Daniel Tureck</a"
-                ],
                 "LOC": [
                     "Europe"
                 ],
-                "ORG": [
+                "PERSON": [
                     "Counter Programming",
+                    "You&apos;re",
+                    "Europe&apos;s",
+                    "Eric Johnson",
+                    "Tureck</a"
+                ],
+                "ORG": [
                     "the Counting Crows",
                     "Shaw - Tennessee Hayride",
                     "IG"
                 ],
-                "WORK_OF_ART": [
-                    "quot;The Final Countdown.&quot;<br/><br/>We"
+                "CARDINAL": [
+                    "https://www.youtube.com/watch?v=9jK-NcRmVcw<br/><br/><b>Credits:<br/></b><a"
+                ],
+                "NORP": [
+                    "href='http://www.instagram.com"
                 ]
             }
         },
@@ -440,21 +472,28 @@
             "entities": {
                 "DATE": [
                     "Today",
+                    "Today",
                     "90s",
                     "Last week",
+                    "2011",
                     "Today"
                 ],
                 "ORG": [
                     "The Counting Crows",
                     "Crows",
-                    "Counter Programming",
                     "the Counting Crows",
                     "Shaw - Tennessee Hayride",
                     "IG"
                 ],
                 "PERSON": [
+                    "Counter Programming",
                     "You&apos;re",
-                    "it&apos;s at.<br/><br/><b>Credits:<br/></b><a"
+                    "&quot;Countdown.&quot",
+                    "it&apos;s at.<br/><br/><b",
+                    "Tureck</a"
+                ],
+                "NORP": [
+                    "href='http://www.instagram.com"
                 ]
             }
         },
@@ -484,43 +523,38 @@
                     "First",
                     "first"
                 ],
-                "CARDINAL": [
+                "DATE": [
                     "2011",
-                    "2011.</p><p"
-                ],
-                "GPE": [
-                    "Check",
-                    "news/1672200"
+                    "October 4th",
+                    "1970",
+                    "1990"
                 ],
                 "ORG": [
-                    "href='https://www.youtube.com",
-                    "Beyonce",
-                    "Ester Dean",
+                    "Check",
                     "Nathan Morris",
-                    "Beyonc\u00e9, Taylor and Lamb.</p><p>",
-                    "reviews/albums/15585-4/'>Pitchfork</a><br/>-",
+                    "Wanya Morris",
+                    "Beyonc\u00e9",
                     "Shaw - Tennessee Hayride",
                     "IG"
                 ],
                 "NORP": [
                     "Beyonc\u00e9&apos;s",
-                    "latin"
+                    "latin",
+                    "COUNTERPROGRAMMING15",
+                    "href='http://www.instagram.com"
                 ],
                 "PERSON": [
+                    "Beyonce",
                     "Terius Nash",
                     "Shea Taylor",
+                    "Ester Dean",
                     "Cainon Lamb",
                     "Julie Frost",
                     "Michael Bivins",
-                    "Wanya Morris",
+                    "Taylor",
+                    "Beyonce",
                     "Chris Coplan",
-                    "Quik Returns",
-                    "href='http://www.robotslap.com/'>Daniel Tureck</a"
-                ],
-                "DATE": [
-                    "October 4th",
-                    "1970",
-                    "1990"
+                    "Tureck</a"
                 ],
                 "PERCENT": [
                     "15%"
@@ -554,19 +588,27 @@
                     "2006"
                 ],
                 "PERSON": [
-                    "Don McPherson"
+                    "Don McPherson",
+                    "href='http://www.robotslap.com'>Daniel Tureck</a"
                 ],
                 "ORG": [
                     "UC Berkeley",
-                    "McPherson&apos;s company",
                     "Counter Productions",
                     "Vetrazzo",
+                    "countertops.<br/><br/><b",
                     "href='https://www.countertopspecialty.com",
+                    "PodCorn",
                     "Shaw - Tennessee Hayride",
                     "IG"
                 ],
+                "GPE": [
+                    "en'>Vetrazzo</a></p><p><b"
+                ],
                 "PERCENT": [
                     "15%"
+                ],
+                "NORP": [
+                    "href='http://www.instagram.com"
                 ]
             }
         },
@@ -597,19 +639,24 @@
                     "Today",
                     "100 years old"
                 ],
+                "PERSON": [
+                    "quartz.<br/><br/><b",
+                    "Daniel Tureck"
+                ],
                 "ORG": [
-                    "href='https://www.bobvila.com",
-                    "Laminate",
                     "Westinghouse",
+                    "https://www.thespruce.com/laminate-countertops-want-love-1822075<br/>- https://www.washingtonpost.com/lifestyle/magazine/laminate-counters-look-a-lot-better-than-they-did-in-the-80s-can-they-make-a-comeback/2019/04/03/38a37bda-3f94-11e9-9361-301ffb5bd5e6_story.html</p><p><br/><b>Sponsors:<br/></b>- <",
                     "Shaw - Tennessee Hayride",
                     "IG"
                 ],
-                "PERSON": [
-                    "https://www.washingtonpost.com/lifestyle/magazine/laminate-counters-look-a-lot-better-than-they-did-in-the-80s-can-they-make-a-comeback/2019/04/03/38a37bda-3f94-11e9-9361-301ffb5bd5e6_story.html</p><p><br/><b>Sponsors:<br/></b>-",
-                    "Daniel Tureck"
+                "GPE": [
+                    "bags!<br/><br/><b"
                 ],
                 "PERCENT": [
                     "15%"
+                ],
+                "NORP": [
+                    "href='http://www.instagram.com"
                 ]
             }
         },
@@ -639,24 +686,30 @@
                     "season 2",
                     "this season",
                     "today",
+                    "Today",
                     "the 1960s",
                     "this day"
                 ],
-                "ORG": [
-                    "Counties",
-                    "QUARTZ!<br/><br/>Definition:<br/></b>Quartz",
+                "GPE": [
+                    "more.<br/><br/><b",
+                    "Minnesota"
+                ],
+                "PERSON": [
                     "Quartz",
                     "Quartz",
                     "Quartz",
-                    "Quartz",
-                    "The Italian Company Breton SPA\u00a0 ",
                     "Breton",
-                    "Spruce</a><br/>-",
-                    "Shaw - Tennessee Hayride",
-                    "IG"
+                    "Daniel Tureck"
                 ],
                 "ORDINAL": [
                     "second"
+                ],
+                "ORG": [
+                    "Quartz",
+                    "Quartz",
+                    "materials.<br/><br/><b",
+                    "Shaw - Tennessee Hayride",
+                    "IG"
                 ],
                 "PERCENT": [
                     "only 95%",
@@ -664,18 +717,14 @@
                     "15%"
                 ],
                 "CARDINAL": [
-                    "7",
-                    "10"
+                    "7"
                 ],
-                "PERSON": [
-                    "href='https://www.esci.umn.edu",
-                    "Daniel Tureck"
-                ],
-                "GPE": [
-                    "Minnesota"
+                "QUANTITY": [
+                    "10<br/>-"
                 ],
                 "NORP": [
-                    "href='https://www.msisurfaces.com"
+                    "Italian",
+                    "href='http://www.instagram.com"
                 ]
             }
         },
@@ -702,19 +751,14 @@
             "pubDate": "Wed, 24 Feb 2021 06:00:00 -0500",
             "title": "The Countdown Is on! Season 2 Is Upon Us",
             "entities": {
-                "ORG": [
-                    "Counties",
-                    "Shaw - Tennessee Hayride",
-                    "IG"
-                ],
                 "PERSON": [
                     "Counter Programming",
                     "Counter Programming",
                     "Counter Programming",
                     "Counter Programming",
-                    "we&apos;re",
+                    "it&apos;s",
                     "Daniel Tureck",
-                    "br/>Caio Slikta - logo"
+                    "href='http:///www.instagram.com"
                 ],
                 "DATE": [
                     "next week",
@@ -725,8 +769,10 @@
                 "ORDINAL": [
                     "first"
                 ],
-                "PRODUCT": [
-                    "it&apos;s"
+                "ORG": [
+                    "STONE",
+                    "Shaw - Tennessee Hayride",
+                    "IG"
                 ]
             }
         },
@@ -759,15 +805,12 @@
                     "April",
                     "almost a year later"
                 ],
-                "ORG": [
-                    "Counter Programming",
-                    "IG"
-                ],
                 "PERSON": [
+                    "Counter Programming",
                     "Shira",
                     "Counter Programming",
                     "Counter Programming",
-                    "we&apos;re"
+                    "it&apos;s"
                 ],
                 "GPE": [
                     "Arielle"
@@ -775,8 +818,8 @@
                 "ORDINAL": [
                     "first"
                 ],
-                "PRODUCT": [
-                    "it&apos;s"
+                "ORG": [
+                    "IG"
                 ]
             }
         },
@@ -803,29 +846,33 @@
             "entities": {
                 "DATE": [
                     "season 1",
-                    "season 1",
                     "next season"
                 ],
-                "ORG": [
+                "PERSON": [
                     "Counter Programming",
-                    "href='https://www.forbes.com"
+                    "Joe Biden",
+                    "YOUS:</b></p><ul><li",
+                    "Daniel Tureck",
+                    "Jason Shaw",
+                    "Caio Slikta",
+                    "Zari Barzilai</li><li",
+                    "Matt Dreffin</li><li",
+                    "Dylan Pendrak</li><li",
+                    "Eva Bilick</li><li"
                 ],
                 "GPE": [
                     "Arielle",
                     "Tennessee"
                 ],
-                "PERSON": [
-                    "Joe Biden",
-                    "Daniel Tureck",
-                    "Jason Shaw",
-                    "Caio Slikta",
-                    "Dylan Pendrak</li><li>Eva Bilick</li><li>"
-                ],
-                "PRODUCT": [
-                    "YOUS:</b></p><ul><li"
+                "ORG": [
+                    "href='https://www.forbes.com",
+                    "Instagram"
                 ],
                 "ORDINAL": [
                     "third"
+                ],
+                "PRODUCT": [
+                    "Shira&apos;s"
                 ]
             }
         },
@@ -854,33 +901,42 @@
                     "a week",
                     "a few weeks"
                 ],
+                "GPE": [
+                    "for.<br/><br/>We&apos;re",
+                    "Arielle",
+                    "Portland",
+                    "Maine",
+                    "Counties!<br/><br/>Follow",
+                    "Tennessee"
+                ],
                 "CARDINAL": [
+                    "5",
                     "two",
                     "1",
                     "2"
                 ],
                 "ORG": [
                     "Weight Loss",
-                    "Office",
+                    "Weight Loss",
                     "href='https://www.goodreads.com",
-                    "href='http://www.instagram.com/counterprogrammingpod'>Instagram</a>!<br/><a",
                     "href='http://www.twitter.com",
                     "href='http://www.twitter.com"
                 ],
                 "PERSON": [
-                    "Weight Loss",
                     "Leah Apothaker",
-                    "you&apos;re",
                     "Counter Programming",
                     "Shira",
-                    "Arielle.</em><br/><br/>We&apos;ll"
+                    "Arielle.</em><br/><br/>We&apos;ll",
+                    "href='https://www.buzzsprout.com/?referrer_id=869632'>Buzzsprout</a>",
+                    "y&apos;all",
+                    "Jason Shaw.</p"
                 ],
-                "GPE": [
-                    "our&apos;s",
-                    "Arielle",
-                    "Portland",
-                    "Maine",
-                    "Tennessee"
+                "WORK_OF_ART": [
+                    "our&apos;s and an Office"
+                ],
+                "NORP": [
+                    "href='http://www.instagram.com",
+                    "href='http://www.instagram.com"
                 ]
             }
         },
@@ -907,46 +963,48 @@
             "title": "Counting Down to the Election",
             "entities": {
                 "DATE": [
-                    "2020",
+                    "Election 2020",
                     "Last week",
                     "2002",
                     "br/><br/>This week",
                     "the last few days",
                     "a few weeks"
                 ],
-                "GPE": [
-                    "What&apos;s",
-                    "Arielle",
-                    "North Carolina)</a>",
-                    "Arielle",
-                    "Portland",
-                    "Maine",
-                    "Tennessee"
-                ],
                 "PERSON": [
                     "Counter Programming",
-                    "Down",
-                    "Peters",
+                    "Monte",
                     "Hegar",
                     "href='https://electjon.com/'>Jon Ossoff",
-                    "href='https://warnockforgeorgia.com/'>Raphael Warnock",
-                    "href='https://bollierforkansas.com/'>Barbara Bollier",
-                    "Cunningham",
-                    "Jones",
-                    "href='https://greenfieldforiowa.com/'>Theresa Greenfield",
-                    "you&apos;re",
                     "Counter Programming",
                     "Shira",
-                    "Arielle.</em><br/><br/>We&apos;ll"
+                    "Arielle.</em><br/><br/>We&apos;ll",
+                    "href='https://www.buzzsprout.com/?referrer_id=869632'>Buzzsprout</a>",
+                    "y&apos;all",
+                    "Jason Shaw.</p"
                 ],
                 "ORG": [
                     "Shira &",
-                    "href='https://dralgrossak.com/'>Al Gross",
+                    "the links)</p><ul><li><a href='https://petersformichigan.com/'>Gary Peters",
                     "The Counter Programming Challenge",
-                    "href='https://www.mobilize.us/missionforaz/'>Mission Arizona</a",
-                    "href='http://www.instagram.com/counterprogrammingpod'>Instagram</a>!<br/><a",
                     "href='http://www.twitter.com",
                     "href='http://www.twitter.com"
+                ],
+                "GPE": [
+                    "Arielle",
+                    "href='https://polls.pizza/'>polls.pizza</a",
+                    "Arielle",
+                    "Portland",
+                    "Maine",
+                    "Counties!<br/><br/>Follow",
+                    "Tennessee"
+                ],
+                "NORP": [
+                    "href='https://shiraandarielle.buzzsprout.com/977527/6001738",
+                    "href='http://www.instagram.com",
+                    "href='http://www.instagram.com"
+                ],
+                "PRODUCT": [
+                    "Cunningham"
                 ],
                 "CARDINAL": [
                     "at least one"
@@ -975,29 +1033,36 @@
             "pubDate": "Wed, 21 Oct 2020 16:00:00 -0400",
             "title": "Movie Review: The Count of Monte Cristo ",
             "entities": {
+                "DATE": [
+                    "br/><br/>This week",
+                    "next week"
+                ],
                 "ORDINAL": [
                     "first"
                 ],
+                "PERSON": [
+                    "br/><br/>If you&apos;re",
+                    "Jesse Cerrotti",
+                    "Counter Programming",
+                    "Shira",
+                    "href='https://www.buzzsprout.com/?referrer_id=869632'>Buzzsprout</a>",
+                    "y&apos;all",
+                    "Jason Shaw.</p><p><br/><br/><br/></p"
+                ],
                 "ORG": [
-                    "href='https://www.imdb.com",
                     "VOTE Counter Programming",
                     "href='http://www.twitter.com",
                     "href='http://www.twitter.com"
-                ],
-                "DATE": [
-                    "next week"
-                ],
-                "PERSON": [
-                    "Jesse Cerrotti",
-                    "you&apos;re",
-                    "Counter Programming",
-                    "Shira"
                 ],
                 "GPE": [
                     "Arielle",
                     "Portland",
                     "Maine",
                     "Tennessee"
+                ],
+                "NORP": [
+                    "href='http://www.instagram.com",
+                    "href='http://www.instagram.com"
                 ]
             }
         },
@@ -1028,29 +1093,32 @@
                     "Each week",
                     "the title.<br/><br/>This week"
                 ],
-                "PERSON": [
-                    "we&apos;re",
-                    "Aryeh Nussbaum-Cohen",
-                    "you&apos;re",
-                    "Counter Programming",
-                    "Shira"
-                ],
                 "ORG": [
-                    "href='https://twitter.com",
-                    "href='https://www.google.com/amp/s/amp.cnn.com/cnn/2020/09/27/politics",
-                    "href='https://youtu.be/f7Dej4Gfkmc'>Don&apos;t Laugh",
-                    "Me</a> song</li><li><a",
-                    "href='http://www.twitter.com/jessecerrotti'>jessecerrotti</a>",
+                    "city council",
+                    "href='https://www.pfaw.org",
                     "href='http://www.twitter.com",
                     "href='http://www.twitter.com"
                 ],
                 "GPE": [
                     "Astoria",
                     "Queens",
+                    "href='https://youtu.be",
                     "Arielle",
                     "Portland",
                     "Maine",
                     "Tennessee"
+                ],
+                "PERSON": [
+                    "Aryeh Nussbaum-Cohen",
+                    "Counter Programming",
+                    "Shira",
+                    "href='https://www.buzzsprout.com/?referrer_id=869632'>Buzzsprout</a>",
+                    "y&apos;all",
+                    "Jason Shaw.</p"
+                ],
+                "NORP": [
+                    "href='http://www.instagram.com",
+                    "href='http://www.instagram.com"
                 ]
             }
         },
@@ -1078,28 +1146,33 @@
             "entities": {
                 "DATE": [
                     "br/><br/>This week",
-                    "Each week"
-                ],
-                "PERSON": [
-                    "we&apos;re",
-                    "Aryeh Nussbaum-Cohen",
-                    "you&apos;re",
-                    "Counter Programming",
-                    "Shira"
+                    "Each week",
+                    "the-2020"
                 ],
                 "ORG": [
                     "AKA",
-                    "href='https://fivethirtyeight.com",
-                    "href='https://actionnetwork.org",
                     "href='http://www.armsandinfluence.com",
                     "href='http://www.twitter.com",
                     "href='http://www.twitter.com"
+                ],
+                "PERSON": [
+                    "Aryeh Nussbaum-Cohen",
+                    "Counter Programming",
+                    "Shira",
+                    "Arielle.</em",
+                    "href='https://www.buzzsprout.com/?referrer_id=869632'>Buzzsprout</a>",
+                    "y&apos;all",
+                    "Jason Shaw.</p"
                 ],
                 "GPE": [
                     "Arielle",
                     "Portland",
                     "Maine",
                     "Tennessee"
+                ],
+                "NORP": [
+                    "href='http://www.instagram.com",
+                    "href='http://www.instagram.com"
                 ],
                 "CARDINAL": [
                     "four"
@@ -1128,49 +1201,52 @@
             "pubDate": "Wed, 30 Sep 2020 06:00:00 -0400",
             "title": "Counting People Again AKA The Census",
             "entities": {
+                "DATE": [
+                    "week",
+                    "June",
+                    "21 years",
+                    "2000",
+                    "media.<br/><br/>Here&apos;s"
+                ],
                 "ORG": [
-                    "Counties",
                     "the Pew Research Center",
                     "AKA",
-                    "Counter Programming",
-                    "content.<br/><br/>We",
+                    "counter programming content.<br/><br/>We",
                     "Shira &",
                     "Pew Research Center",
                     "Washington Post",
                     "Pew Research Center",
                     "the Brookings Institution",
                     "Population Reference Bureau",
+                    "Cohn",
                     "Bryn Mawr College",
-                    "Pew Research Center\u2019s",
-                    "href='https://www.pewresearch.org",
+                    "Nieman Fellow",
+                    "Cohn manages Pew Research Center\u2019s",
+                    "Center",
                     "href='http://www.twitter.com",
                     "href='http://www.twitter.com"
                 ],
-                "DATE": [
-                    "us!<br/><br/>This week",
-                    "June",
-                    "21 years",
-                    "2000"
-                ],
                 "PERSON": [
-                    "D&apos;Vera Cohn",
-                    "you&apos;re",
-                    "Counter Programming"
+                    "Counter Programming",
+                    "Counter Programming",
+                    "href='https://www.buzzsprout.com/?referrer_id=869632'>Buzzsprout</a>",
+                    "y&apos;all",
+                    "Jason Shaw.</p"
                 ],
                 "TIME": [
                     "hours and hours"
                 ],
+                "NORP": [
+                    "href='http://www.instagram.com",
+                    "href='http://www.instagram.com"
+                ],
                 "GPE": [
-                    "us:<b",
                     "the United States",
                     "the United States",
                     "U.S.",
                     "Mexico",
                     "U.S.",
                     "Tennessee"
-                ],
-                "NORP": [
-                    "Nieman"
                 ]
             }
         },
@@ -1197,26 +1273,21 @@
             "entities": {
                 "DATE": [
                     "This week",
-                    "listening week",
                     "week"
                 ],
                 "PERSON": [
                     "Shira",
-                    "Ginsburg"
+                    "Ruth Bader Ginsburg"
                 ],
                 "GPE": [
                     "Arielle",
                     "Portland"
                 ],
                 "EVENT": [
-                    "New Year"
-                ],
-                "FAC": [
-                    "a Ruth Bader"
+                    "the Jewish New Year"
                 ],
                 "ORG": [
-                    "ME.<br/><br/>As",
-                    "@<a href='http://www.instagram.com/counterprogrammingpod'>counterprogramminpod</a",
+                    "RBG",
                     "Instagram"
                 ]
             }
@@ -1243,47 +1314,53 @@
             "pubDate": "Wed, 16 Sep 2020 06:00:00 -0400",
             "title": "How Votes are Counted",
             "entities": {
-                "ORG": [
-                    "Counties",
-                    "Counter Programming",
-                    "Shira &",
-                    "href='http://www.twitter.com",
-                    "href='http://www.twitter.com"
-                ],
                 "DATE": [
-                    "us!<br/><br/>This week",
+                    "week",
                     "2 days",
                     "season 1"
                 ],
                 "PERSON": [
                     "Yay",
-                    "Jacey",
-                    "you&apos;re",
                     "Counter Programming",
-                    "sources:<br/></b><a href='https://www.thoughtco.com",
+                    "Jacey",
+                    "Jess",
+                    "Counter Programming",
                     "Co.</a><br/><a",
                     "Ellen Weintraub",
                     "Rosh HaShanah",
                     "Eliot Glazer",
-                    "Rabbi Alex Kress"
+                    "Rabbi Alex Kress",
+                    "href='https://www.buzzsprout.com/?referrer_id=869632'>Buzzsprout</a>",
+                    "y&apos;all",
+                    "Jason Shaw.</p"
                 ],
                 "TIME": [
                     "hours and hours"
                 ],
+                "ORG": [
+                    "Shira &",
+                    "href='http://www.twitter.com",
+                    "href='http://www.twitter.com"
+                ],
                 "GPE": [
-                    "us:<b",
+                    "Us",
                     "Us",
                     "Tennessee"
                 ],
-                "EVENT": [
-                    "New Year"
+                "CARDINAL": [
+                    "2"
                 ],
-                "WORK_OF_ART": [
-                    "Chill Jews",
-                    "Pray for Pay"
+                "PRODUCT": [
+                    "Friday-"
                 ],
                 "NORP": [
-                    "Jewish"
+                    "Jewish",
+                    "Jews",
+                    "Jewish",
+                    "href='http://www.instagram.com"
+                ],
+                "WORK_OF_ART": [
+                    "Pray for Pay"
                 ]
             }
         },
@@ -1313,22 +1390,32 @@
                     "Counter Programming",
                     "Shira &",
                     "Shira &",
-                    "or &quot;counter.&quot",
-                    "call &apos;em Counties",
+                    "Today&apos;s",
                     "Instagram"
                 ],
                 "GPE": [
                     "Arielle",
                     "Arielle",
+                    "Remy",
                     "Tennessee"
                 ],
                 "DATE": [
                     "programming!?<br/><br/>This week"
                 ],
                 "PERSON": [
+                    "Episode",
                     "Counter Programming",
-                    "you&apos;re",
-                    "counterprogrammingshiraarielle@gmail.com.<br/><br/><a href='https://www.buzzsprout.com/?referrer_id=869632'>Buzzsprout</a>, y&apos;all"
+                    "Matt",
+                    "episode intro",
+                    "Remy",
+                    "Remy",
+                    "href='https://www.buzzsprout.com/?referrer_id=869632'>Buzzsprout</a",
+                    "y&apos;all",
+                    "Jason Shaw.</p"
+                ],
+                "NORP": [
+                    "href='http://www.instagram.com",
+                    "href='http://www.instagram.com"
                 ]
             }
         },
@@ -1356,50 +1443,63 @@
             "entities": {
                 "DATE": [
                     "Counties!<br/><br/>This week",
-                    "year",
-                    "the civil year",
+                    "the civil year and arranging days",
                     "weeks",
                     "months",
                     "40s",
                     "three months",
                     "the solar year",
-                    "1/4 days",
+                    "365 1/4 days",
                     "30 or 31 days",
                     "28 days",
-                    "every fourth year/leap year",
-                    "February 23",
-                    "February 29"
+                    "years",
+                    "every fourth year",
+                    "February 23"
                 ],
-                "ORG": [
+                "PERSON": [
                     "Counter Programming",
-                    "Shira &",
-                    "Encyclopedia",
-                    "BCE",
-                    "href='http://www.twitter.com",
-                    "href='http://www.twitter.com"
+                    "Counter Programming",
+                    "Merriam Webster).</p><p",
+                    "by:</b><br/>-",
+                    "y&apos;all",
+                    "Jason Shaw.</p"
                 ],
                 "TIME": [
                     "hours and hours"
                 ],
-                "PERSON": [
-                    "you&apos;re",
-                    "Counter Programming",
-                    "Roman"
-                ],
-                "GPE": [
-                    "us:<b",
-                    "Tennessee"
+                "ORG": [
+                    "Shira &",
+                    "href='https://www.britannica.com",
+                    "science/Julian-calendar'>Britannica</a",
+                    "BCE",
+                    "Roman",
+                    "href='https://www.britannica.com",
+                    "href='https://www.britannica.com",
+                    "href='https://www.britannica.com",
+                    "href='https://www.britannica.com",
+                    "href='https://www.britannica.com",
+                    "href='https://www.britannica.com",
+                    "href='http://www.twitter.com",
+                    "href='http://www.twitter.com"
                 ],
                 "NORP": [
+                    "href='http://www.instagram.com",
                     "Egyptian",
-                    "Julian"
+                    "Julian",
+                    "href='http://www.instagram.com"
                 ],
                 "CARDINAL": [
                     "12",
                     "29"
                 ],
+                "EVENT": [
+                    "no February 29"
+                ],
                 "PRODUCT": [
-                    "podcast!<br/><br/><a href='https://www.buzzsprout.com/?referrer_id=869632'>Buzzsprout</a>"
+                    "podcast!<br/><br/><a"
+                ],
+                "GPE": [
+                    "Tennessee"
                 ]
             }
         },
@@ -1426,37 +1526,47 @@
             "title": "Counties & Gerrymandering ",
             "entities": {
                 "DATE": [
-                    "Counties!<br/><br/>This week",
-                    "Justice</a></li><li><a"
+                    "Counties!<br/><br/>This week"
                 ],
-                "ORG": [
+                "PERSON": [
                     "Counter Programming",
-                    "Shira &",
-                    "href='https://www.youtube.com",
-                    "Women Voters</a></li><li><a href='https://campaignlegal.org/'>Campaign Legal Center</a></li><li><a href='https://democraticredistricting.com/'>National",
-                    "href='http://www.twitter.com",
-                    "href='http://www.twitter.com"
+                    "Counter Programming",
+                    "by:</b><br/>-",
+                    "y&apos;all",
+                    "Jason Shaw.</p"
                 ],
                 "TIME": [
                     "hours and hours"
                 ],
                 "GPE": [
                     "Margot",
-                    "us:<b",
                     "U.S.",
                     "Louisiana",
                     "Alaska",
                     "Mississippi",
+                    "Justice</a></li><li><a",
+                    "Women Voters</a></li><li><a",
+                    "Legal Center</a></li><li><a",
                     "Tennessee"
                 ],
-                "PERSON": [
-                    "you&apos;re",
-                    "Counter Programming",
-                    "mentioned:<br/></b><a",
-                    "href='https://redistricting.lls.edu"
+                "ORG": [
+                    "Shira &",
+                    "United",
+                    "mentioned:<br/></b><a href='https://www.washingtonpost.com/news",
+                    "Old Navy",
+                    "Sporcle",
+                    "href='http://www.twitter.com",
+                    "href='http://www.twitter.com"
                 ],
                 "CARDINAL": [
                     "48"
+                ],
+                "LOC": [
+                    "state:</b></p><ul><li><a href='http://www.brennancenter.org/'>Brennan Center"
+                ],
+                "NORP": [
+                    "Democratic",
+                    "href='http://www.instagram.com"
                 ]
             }
         },
@@ -1482,17 +1592,6 @@
             "pubDate": "Thu, 20 Aug 2020 16:00:00 -0400",
             "title": "Bonus: Counter Counter Programming the DNC",
             "entities": {
-                "ORG": [
-                    "Counties",
-                    "the Democratic National Convention",
-                    "AOC",
-                    "DNC",
-                    "DNC",
-                    "Trump",
-                    "Trump&apos;s",
-                    "href='https://historynewsnetwork.org",
-                    "Shaw"
-                ],
                 "DATE": [
                     "this week",
                     "Monday - Thursday",
@@ -1501,6 +1600,15 @@
                     "today",
                     "10-year-old",
                     "next Wednesday"
+                ],
+                "ORG": [
+                    "the Democratic National Convention",
+                    "AOC",
+                    "DNC",
+                    "DNC",
+                    "Trump",
+                    "DNC&apos;s",
+                    "Trump&apos;s"
                 ],
                 "GPE": [
                     "Milwaukee",
@@ -1514,11 +1622,13 @@
                     "Barack Obama",
                     "Bernie Sanders",
                     "Joe Biden",
-                    "Jake Feldman"
+                    "It&apos;s",
+                    "Jake Feldman",
+                    "Shaw"
                 ],
                 "NORP": [
                     "Democratic",
-                    "DNC&apos;s"
+                    "href='http://www.instagram.com"
                 ]
             }
         },
@@ -1549,38 +1659,33 @@
                 ],
                 "PERSON": [
                     "Shira",
+                    "Counter Programming",
                     "Melissa",
-                    "you&apos;re",
-                    "Counter Programming"
+                    "Counter Programming",
+                    "by:</b><br/>-",
+                    "href='https://www.buzzsprout.com/?referrer_id=869632'>Buzzsprout</a>",
+                    "y&apos;all",
+                    "Jason"
                 ],
                 "GPE": [
                     "Arielle",
-                    "us:<b",
                     "Tennessee"
-                ],
-                "ORG": [
-                    "Counter Programming",
-                    "Shira &",
-                    "Medline Plus",
-                    "Parenthood</a",
-                    "AKA",
-                    "the Pearl Earring</a><br/>- <a href='https://en.wikipedia.org",
-                    "Drop",
-                    "href='http://www.twitter.com",
-                    "href='http://www.twitter.com",
-                    "href='https://relationshiphero.com",
-                    "Jason Shaw.<br/><br/>*Correction",
-                    "&quot;Immaculate Conception&quot"
                 ],
                 "TIME": [
                     "hours and hours"
                 ],
+                "ORG": [
+                    "Shira &",
+                    "AKA",
+                    "the Pearl Earring</a><br/>- <a",
+                    "sperm%20viability%2C%20one%20study%20found",
+                    "href='http://www.twitter.com",
+                    "href='http://www.twitter.com",
+                    "Maculate Conception"
+                ],
                 "CARDINAL": [
                     "15 million",
                     "more than 200 million"
-                ],
-                "LAW": [
-                    "sperm%20viability%2C%20one%20study%20found"
                 ],
                 "PERCENT": [
                     "20%"
@@ -1590,6 +1695,9 @@
                 ],
                 "ORDINAL": [
                     "first"
+                ],
+                "NORP": [
+                    "href='http://www.instagram.com"
                 ]
             }
         },
@@ -1616,16 +1724,15 @@
             "title": "Kenny Lonergan's \"You Can Count on Me\" & Combinatorics w/ Ari Moskowitz",
             "entities": {
                 "ORG": [
+                    "Shira &amp",
+                    "Me&quot",
                     "Shira &",
-                    "Counter Programming",
-                    "Shira &",
+                    "href='http://www.instagram.com",
                     "href='http://www.twitter.com",
-                    "href='http://www.twitter.com",
-                    "href='https://relationshiphero.com"
+                    "href='http://www.twitter.com"
                 ],
                 "GPE": [
                     "Arielle",
-                    "us:<b",
                     "Tennessee"
                 ],
                 "DATE": [
@@ -1633,13 +1740,19 @@
                     "Today"
                 ],
                 "NORP": [
-                    "Isaias"
+                    "Isaias",
+                    "href='http://www.instagram.com"
                 ],
                 "PERSON": [
+                    "Counter Programming",
                     "Shira",
                     "Ari",
-                    "you&apos;re",
-                    "Counter Programming"
+                    "Ashlee",
+                    "Counter Programming",
+                    "by:</b><br/>-",
+                    "href='https://www.buzzsprout.com/?referrer_id=869632'>Buzzsprout</a>",
+                    "y&apos;all",
+                    "Jason Shaw.</p"
                 ],
                 "PERCENT": [
                     "20%"
@@ -1674,31 +1787,34 @@
             "pubDate": "Wed, 05 Aug 2020 06:00:00 -0400",
             "title": "Counting Sheep",
             "entities": {
-                "ORG": [
+                "PERSON": [
                     "Counter Programming",
-                    "Shira &",
-                    "href='https://www.serta.com",
-                    "Oxford",
+                    "Michele",
+                    "Jacob",
+                    "Counter Programming",
+                    "Allison G. Harvey",
                     "Suzanna Payne",
-                    "the Department of Experimental Psychology",
-                    "Payne",
-                    "href='http://www.twitter.com",
-                    "href='http://www.twitter.com"
+                    "by:</b><br/>-",
+                    "y&apos;all",
+                    "Jason"
                 ],
                 "DATE": [
                     "Today",
-                    "2000",
-                    "Jason Shaw.<br/><br/>Next week"
+                    "2000"
                 ],
-                "PERSON": [
-                    "Michele",
-                    "you&apos;re",
-                    "Counter Programming",
-                    "Allison G. Harvey",
-                    "COUNTER.<br/><br/><br/><a href='https://www.buzzsprout.com/?referrer_id=869632'>Buzzsprout</a>"
+                "ORG": [
+                    "Shira &",
+                    "@<a href='http://www.instagram.com/counterprogrammingpod'>counterprogrammingpod</a>.<br/><br/>WELCOME",
+                    "href='https://www.serta.com",
+                    "The Serta Sheep",
+                    "Oxford",
+                    "the Department of Experimental Psychology",
+                    "Harvey and Payne",
+                    "href='http://www.twitter.com",
+                    "href='http://www.twitter.com"
                 ],
                 "GPE": [
-                    "us:<b",
+                    "in!<br/><br/><b",
                     "Serta",
                     "Serta",
                     "Serta",
@@ -1710,6 +1826,10 @@
                 ],
                 "PERCENT": [
                     "20%"
+                ],
+                "NORP": [
+                    "COUNTER.<br/><br/><br/><a",
+                    "href='http://www.instagram.com"
                 ]
             }
         },
@@ -1735,12 +1855,12 @@
             "pubDate": "Wed, 29 Jul 2020 06:00:00 -0400",
             "title": "DisCOUNTs & Extreme Couponing ",
             "entities": {
-                "ORG": [
+                "PERSON": [
                     "Counter Programming",
-                    "Maxinista",
-                    "Shira &",
-                    "href='http://www.twitter.com",
-                    "href='http://www.twitter.com"
+                    "Abby",
+                    "Counter Programming",
+                    "y&apos;all",
+                    "Jason Shaw.</p"
                 ],
                 "DATE": [
                     "Today"
@@ -1748,21 +1868,26 @@
                 "GPE": [
                     "U.S.",
                     "Canada",
-                    "us:<b",
+                    "Unusual</a",
                     "Tennessee"
+                ],
+                "ORG": [
+                    "Maxinista",
+                    "Shira &",
+                    "@<a href='http://www.instagram.com/counterprogrammingpod'>counterprogrammingpod</a>.<br/><br/>WELCOME",
+                    "href='http://www.twitter.com",
+                    "href='http://www.twitter.com"
                 ],
                 "MONEY": [
                     "$$ +"
                 ],
-                "PERSON": [
-                    "Abby",
-                    "you&apos;re",
-                    "Counter Programming",
-                    "Unusual</a"
-                ],
                 "CARDINAL": [
+                    "1",
                     "2",
                     "3"
+                ],
+                "NORP": [
+                    "href='http://www.instagram.com"
                 ]
             }
         },
@@ -1788,32 +1913,30 @@
             "pubDate": "Wed, 22 Jul 2020 06:00:00 -0400",
             "title": "Counter-Protests / Counter Protests ",
             "entities": {
-                "ORG": [
+                "PERSON": [
                     "Counter Programming",
-                    "Shira &",
-                    "href='https://www.nbcnews.com",
-                    "href='http://www.twitter.com",
-                    "href='http://www.twitter.com"
+                    "Remy",
+                    "Counter Programming",
+                    "nature.<br/><br/><br/>Sources:</p><ul><li><a",
+                    "y&apos;all",
+                    "Jason Shaw.</p"
                 ],
                 "DATE": [
                     "Today"
                 ],
-                "PERSON": [
-                    "you&apos;re",
-                    "Counter Programming"
+                "ORG": [
+                    "Shira &",
+                    "@<a href='http://www.instagram.com/counterprogrammingpod'>counterprogrammingpod</a>.<br/><br/>WELCOME",
+                    "href='http://www.twitter.com",
+                    "href='http://www.twitter.com"
                 ],
                 "GPE": [
-                    "us:<b",
                     "washington",
                     "washington",
                     "Tennessee"
                 ],
-                "CARDINAL": [
-                    "hundreds-thousands",
-                    "hundreds-thousands"
-                ],
                 "NORP": [
-                    "Unusual</a"
+                    "href='http://www.instagram.com"
                 ]
             }
         },
@@ -1849,15 +1972,12 @@
                     "Tennessee"
                 ],
                 "PRODUCT": [
-                    "it&apos;s",
                     "it&apos;s"
                 ],
                 "PERSON": [
                     "Naomi",
-                    "Daniel Tureck"
-                ],
-                "ORG": [
-                    "@counterprogrammingpod",
+                    "Daniel Tureck",
+                    "it&apos;s",
                     "Jason Shaw"
                 ]
             }
@@ -1884,40 +2004,44 @@
             "pubDate": "Wed, 08 Jul 2020 06:00:00 -0400",
             "title": "Count Chocula",
             "entities": {
-                "ORG": [
+                "PERSON": [
                     "Counter Programming",
-                    "Shira &",
-                    "General Mills",
-                    "Count Chocula, Franken Berry",
-                    "General Mills",
-                    "Floss</a><br/>-",
-                    "href='https://www.youtube.com",
-                    "href='https://www.google.com/search?q",
-                    "href='http://www.twitter.com",
-                    "href='http://www.twitter.com/arithisandthat'>Arielle</a>.<br/><br/><br/><a href='https://www.buzzsprout.com/?referrer_id=869632'>Buzzsprout</a"
+                    "Jeremy",
+                    "Counter Programming",
+                    "Franken Berry",
+                    "Boo Berry",
+                    "Fruit Brute",
+                    "Chocula",
+                    "George Carn",
+                    "y&apos;all",
+                    "Jason Shaw.</p"
                 ],
                 "DATE": [
                     "Today",
                     "1971"
                 ],
-                "PERSON": [
-                    "Jeremy",
-                    "you&apos;re",
-                    "Counter Programming",
-                    "Boo Berry",
-                    "Fruit Brute",
-                    "George Carn"
-                ],
-                "GPE": [
-                    "us:<b",
-                    "Tennessee"
+                "ORG": [
+                    "Shira &",
+                    "@<a href='http://www.instagram.com/counterprogrammingpod'>counterprogrammingpod</a>.<br/><br/>WELCOME",
+                    "General Mills <",
+                    "General Mills",
+                    "href='http://www.twitter.com",
+                    "href='http://www.twitter.com"
                 ],
                 "CARDINAL": [
                     "five"
                 ],
                 "WORK_OF_ART": [
-                    "the Trix Rabbit",
-                    "X&amp;ved=2ahUKEwjy14Gfw7zqAhWrGjQIHVO3BQ8Q_AUoAXoECBYQAw&amp;biw=1268&amp;bih=580'>Count Chocula image</a></p><p><br/><a"
+                    "the Trix Rabbit"
+                ],
+                "LOC": [
+                    "Chocula image</a></p><p><br/><a"
+                ],
+                "NORP": [
+                    "href='http://www.instagram.com"
+                ],
+                "GPE": [
+                    "Tennessee"
                 ]
             }
         },
@@ -1943,42 +2067,42 @@
             "pubDate": "Wed, 01 Jul 2020 07:00:00 -0400",
             "title": "Count Olaf",
             "entities": {
-                "ORG": [
+                "PERSON": [
                     "Counter Programming",
-                    "Margot Nissenblatt",
-                    "Shira &",
+                    "Nissenblatt",
+                    "Counter Programming",
                     "&quot;ancestor&apos;s descendant&quot",
+                    "y&apos;all",
+                    "Jason Shaw.</p"
+                ],
+                "DATE": [
+                    "Today",
+                    "the 19th century"
+                ],
+                "GPE": [
+                    "Margot",
+                    "Norse</a",
+                    "Tennessee"
+                ],
+                "ORG": [
+                    "Shira &",
+                    "href='https://www.behindthename.com",
+                    "href='https://www.behindthename.com",
                     "parents&apos",
-                    "&quot;timeless&quot;[16",
                     "href='http://www.twitter.com",
                     "href='http://www.twitter.com",
                     "Podcorn"
                 ],
-                "DATE": [
-                    "Today",
-                    "Saint%20Olaf%20(Olaf%20II).'><b",
-                    "the 19th century"
-                ],
-                "PERSON": [
-                    "We&apos;re",
-                    "you&apos;re",
-                    "Counter Programming",
-                    "Lemony_Snicket'>Lemony Snicket</a>",
-                    "knowledge</li></ul><p><br/>NEXT EPISODE"
-                ],
-                "GPE": [
-                    "Margot",
-                    "us:<b",
-                    "Tennessee"
+                "WORK_OF_ART": [
+                    "A Series of Unfortunate Events</em"
                 ],
                 "CARDINAL": [
-                    "thirteen"
+                    "thirteen",
+                    "href='http://www.podcorn.com'>here</a>.<br/><br/><a"
                 ],
                 "NORP": [
-                    "American"
-                ],
-                "PRODUCT": [
-                    "href='http://www.podcorn.com'>here</a>.<br/><br/><a href='https://www.buzzsprout.com/?referrer_id=869632'>Buzzsprout</a"
+                    "American",
+                    "href='http://www.instagram.com"
                 ]
             }
         },
@@ -2004,32 +2128,32 @@
             "pubDate": "Wed, 24 Jun 2020 13:00:00 -0400",
             "title": "I'll Have a (Count) Negroni!",
             "entities": {
-                "ORG": [
+                "PERSON": [
                     "Counter Programming",
-                    "Shira &",
-                    "counterprogrammingshiraarielle@gmail.com",
-                    "Instagram @<a href='http://www.instagram.com",
+                    "Dawn",
+                    "Counter Programming",
                     "Cafe Casoni",
-                    "campari",
-                    "href='https://www.youtube.com",
-                    "href='http://www.twitter.com",
-                    "href='http://www.twitter.com"
+                    "Camillo Negroni",
+                    "Forsco Scarselli",
+                    "&quot;Negroni&quot",
+                    "Camillo Negroni",
+                    "Pascal Olivier de Negroni",
+                    "y&apos;all",
+                    "Jason Shaw.</p"
                 ],
                 "DATE": [
                     "Today",
                     "1919",
                     "today"
                 ],
-                "PERSON": [
-                    "Dawn",
-                    "you&apos;re",
-                    "Counter Programming",
-                    "Camillo Negroni",
-                    "Forsco Scarselli",
+                "ORG": [
+                    "Shira &",
+                    "Instagram",
                     "Negroni",
-                    "Count Negroni",
-                    "Camillo Negroni",
-                    "Pascal Olivier de Negroni"
+                    "campari",
+                    "Negronis",
+                    "href='http://www.twitter.com",
+                    "href='http://www.twitter.com"
                 ],
                 "GPE": [
                     "Florence",
@@ -2038,7 +2162,7 @@
                     "Tennessee"
                 ],
                 "NORP": [
-                    "Negronis"
+                    "href='http://www.instagram.com"
                 ]
             }
         },
@@ -2064,42 +2188,43 @@
             "pubDate": "Wed, 17 Jun 2020 06:00:00 -0400",
             "title": "People Counters AKA The Census w/ Census Expert D'Vera Cohn",
             "entities": {
-                "ORG": [
+                "PERSON": [
                     "Counter Programming",
-                    "Pew Research Center",
-                    "Washington Post",
-                    "Pew Research Center",
-                    "the Brookings Institution",
-                    "Population Reference Bureau",
-                    "Bryn Mawr College",
-                    "Pew Research Center\u2019s",
-                    "href='https://www.pewresearch.org",
-                    "href='https://www.youtube.com",
-                    "KZmLI7eYjmw'>https://www.youtube.com/watch?v",
-                    "Shira &",
-                    "counterprogrammingshiraarielle@gmail.com",
-                    "Instagram @<a href='http://www.instagram.com/counterprogrammingpod'>counterprogrammingpod</a>.<br/><br/>NEXT EPISODE",
-                    "Negroni",
-                    "href='http://www.twitter.com",
-                    "href='http://www.twitter.com",
-                    "the Super Politics Podcast"
+                    "D&apos;Vera Cohn",
+                    "D\u2019Vera Cohn",
+                    "Zari",
+                    "Counter Programming",
+                    "y&apos;all",
+                    "Jason Shaw.</p"
                 ],
                 "DATE": [
                     "Today",
                     "2020",
                     "21 years",
-                    "2000"
+                    "2000",
+                    "media.<br/><br/>Here&apos;s"
                 ],
                 "TIME": [
                     "10 minutes",
                     "5:00"
                 ],
-                "PERSON": [
-                    "D\u2019Vera Cohn",
-                    "Zari",
-                    "you&apos;re",
-                    "Counter Programming",
-                    "we&apos;re"
+                "ORG": [
+                    "Pew Research Center",
+                    "Washington Post",
+                    "Pew Research Center",
+                    "the Brookings Institution",
+                    "Population Reference Bureau",
+                    "Cohn",
+                    "Bryn Mawr College",
+                    "Nieman Fellow",
+                    "Cohn manages Pew Research Center\u2019s",
+                    "Center",
+                    "Shira &",
+                    "Instagram",
+                    "Negroni",
+                    "href='http://www.twitter.com",
+                    "href='http://www.twitter.com",
+                    "the Super Politics Podcast"
                 ],
                 "GPE": [
                     "the United States",
@@ -2109,8 +2234,11 @@
                     "U.S.",
                     "Tennessee"
                 ],
+                "FAC": [
+                    "Sesame Street"
+                ],
                 "NORP": [
-                    "Nieman"
+                    "href='http://www.instagram.com"
                 ]
             }
         },
@@ -2136,39 +2264,38 @@
             "pubDate": "Wed, 10 Jun 2020 06:00:00 -0400",
             "title": "Counter Productivity",
             "entities": {
-                "ORG": [
+                "PERSON": [
                     "Counter Programming",
-                    "Instagram",
-                    "href='https://castbox.fm",
-                    "American-Police",
-                    "Shira &",
-                    "counterprogrammingshiraarielle@gmail.com",
-                    "Instagram @<a href='http://www.instagram.com",
-                    "href='http://www.twitter.com",
-                    "href='http://www.twitter.com",
-                    "The Jordan Harbinger Show"
+                    "Explained</a></li><li><a",
+                    "they&apos;ve",
+                    "Ari Moskowitz",
+                    "Counter Programming",
+                    "Hop",
+                    "y&apos;all",
+                    "Jason Shaw.</p"
                 ],
                 "DATE": [
                     "Today",
                     "each day"
                 ],
-                "WORK_OF_ART": [
-                    "Black Lives Matter"
+                "NORP": [
+                    "href='http://www.instagram.com",
+                    "href='http://www.instagram.com"
                 ],
                 "CARDINAL": [
                     "two"
                 ],
-                "GPE": [
-                    "ul><li><a",
-                    "Explained</a></li><li><a href='https://castbox.fm",
-                    "Tennessee"
+                "ORG": [
+                    "us'>Today",
+                    "href='https://www.instagram.com",
+                    "Shira &",
+                    "Instagram",
+                    "href='http://www.twitter.com",
+                    "href='http://www.twitter.com"
                 ],
-                "PERSON": [
-                    "they&apos;ve",
-                    "Ari Moskowitz",
-                    "you&apos;re",
-                    "Counter Programming",
-                    "here</a>.<br/><br/><a href='https://www.buzzsprout.com/?referrer_id=869632'>Buzzsprout</a"
+                "GPE": [
+                    "Instagram",
+                    "Tennessee"
                 ],
                 "PERCENT": [
                     "25%"
@@ -2198,11 +2325,25 @@
             "title": "#PodcastBlackOut",
             "entities": {
                 "PERSON": [
+                    "Counter Programming<br/></b><br/></p><p><b",
                     "Counter Programming",
                     "Shira",
+                    "Arielle.</p><p><br/></p><p",
                     "George Floyd",
                     "Derrick Chauvin",
-                    "Michael Brown</p><p>"
+                    "Trayvon",
+                    "Tamir",
+                    "Ford",
+                    "ee - zelle)</p><p",
+                    "Michelle Cusseaux",
+                    "Eric Garner</p><p>",
+                    "Alton",
+                    "Walter",
+                    "Ahmaud",
+                    "Eric Reason</p><p",
+                    "Breonna",
+                    "George",
+                    "counterprogrammingshiraarielle@gmail.com</li><li"
                 ],
                 "DATE": [
                     "April",
@@ -2210,8 +2351,14 @@
                     "Today",
                     "This week"
                 ],
+                "ORG": [
+                    "COVID-19",
+                    "Brandi",
+                    "Dominique"
+                ],
                 "GPE": [
-                    "Minnesota"
+                    "Minnesota",
+                    "Atatiana"
                 ],
                 "NORP": [
                     "Sunni"
@@ -2225,8 +2372,8 @@
                 "MONEY": [
                     "about #"
                 ],
-                "ORG": [
-                    "Accountability and Action for Black Lives</a></li><li>#<a href='https://twitter.com"
+                "WORK_OF_ART": [
+                    "Botham Jean\u00a0<"
                 ]
             }
         },
@@ -2252,55 +2399,53 @@
             "pubDate": "Wed, 27 May 2020 06:00:00 -0400",
             "title": "Countertenor w/ Aryeh Nussbaum Cohen",
             "entities": {
-                "ORG": [
+                "PERSON": [
                     "Counter Programming",
-                    "Shira &",
-                    "counterprogrammingshiraarielle@gmail.com",
-                    "Instagram @<a href='http://www.instagram.com",
-                    "Lestyn Davies",
-                    "layer.&quot;</li></ul><p><b>Interview/Information",
-                    "the Brooklyn Youth Chorus",
-                    "MSG",
-                    "Church",
+                    "Bethany Berger",
+                    "Counter Programming",
+                    "Shira",
+                    "Wikipedia).</li><li",
+                    "Aryeh Nussbaum",
+                    "Hannah Senesh",
+                    "Princeton",
+                    "La Boheme",
+                    "Aryeh&apos;s",
                     "AMAZING!</li><li",
-                    "href='http://www.twitter.com",
-                    "href='http://www.twitter.com",
-                    "The Jordan Harbinger Show"
+                    "Aryeh",
+                    "y&apos;all",
+                    "Jason Shaw.</p"
                 ],
                 "DATE": [
                     "Today",
                     "Last week"
                 ],
-                "PERSON": [
-                    "Bethany Berger",
-                    "you&apos;re",
-                    "Counter Programming",
-                    "Shira",
-                    "Grammy",
-                    "Aryeh Nussbaum Cohen:</b></p><ul><li",
-                    "Hannah Senesh",
-                    "La Boheme",
-                    "Aryeh&apos;s website</a",
-                    "right?!)</li><li><a href='https://www.youtube.com/watch?v",
-                    "here</a>.<br/><br/><a href='https://www.buzzsprout.com/?referrer_id=869632'>Buzzsprout</a"
+                "ORG": [
+                    "Shira &",
+                    "Instagram",
+                    "Lestyn Davies",
+                    "Hebrew Day School",
+                    "MSG",
+                    "Church",
+                    "href='http://www.twitter.com",
+                    "href='http://www.twitter.com"
                 ],
                 "GPE": [
                     "Arielle",
-                    "Elton",
-                    "Princeton",
                     "Tennessee"
                 ],
-                "CARDINAL": [
-                    "one"
+                "NORP": [
+                    "contra",
+                    "Aryeh",
+                    "href='http://www.instagram.com"
                 ],
-                "EVENT": [
-                    "Hebrew Day School"
+                "CARDINAL": [
+                    "D5"
+                ],
+                "WORK_OF_ART": [
+                    "Grammy"
                 ],
                 "ORDINAL": [
                     "60th"
-                ],
-                "NORP": [
-                    "Aryeh"
                 ]
             }
         },
@@ -2326,18 +2471,22 @@
             "pubDate": "Wed, 20 May 2020 07:00:00 -0400",
             "title": "Counterfeit Money (w/ Special Guest Lisa Orkin)",
             "entities": {
-                "ORG": [
+                "PERSON": [
                     "Counter Programming",
-                    "Shira &",
-                    "Instagram @<a href='http://www.instagram.com",
-                    "Lydia",
-                    "quartering.</li></ul><p><b>Interview",
-                    "what&apos;s &quot;fake,&quot",
+                    "Gonzalez",
+                    "Counter Programming",
+                    "Shira",
+                    "metals.</li><li",
+                    "Lisa",
+                    "Lisa",
                     "she&apos;s",
-                    "interview!</p><p><b>Top scams:</b></p><ul><li>",
-                    "href='http://www.twitter.com",
-                    "href='http://www.twitter.com",
-                    "Super Politics Podcast"
+                    "Albert Talton",
+                    "Frank Bourassa",
+                    "Wayne Victor Denis",
+                    "Viktor Baranov",
+                    "Lisa Orkin",
+                    "y&apos;all",
+                    "Jason Shaw.</p"
                 ],
                 "DATE": [
                     "Today",
@@ -2345,24 +2494,24 @@
                     "the 1690s",
                     "the 1760s",
                     "the 1930s",
-                    "one day",
                     "2000s",
                     "2010s",
                     "1.5 months",
                     "4 years"
                 ],
-                "PERSON": [
-                    "Ever Gonzalez",
-                    "you&apos;re",
-                    "Counter Programming",
-                    "Shira",
-                    "Lisa",
-                    "Albert Talton",
-                    "Frank Bourassa",
-                    "Lisa Orkin"
+                "ORG": [
+                    "Shira &",
+                    "Instagram",
+                    "Counterfeiters",
+                    "what&apos;s &quot;real&quot",
+                    "what&apos;s &quot;fake,&quot",
+                    "href='http://www.twitter.com",
+                    "href='http://www.twitter.com",
+                    "Super Politics Podcast"
                 ],
                 "GPE": [
                     "Arielle",
+                    "Lydia",
                     "England",
                     "Studio City",
                     "Tennessee"
@@ -2382,10 +2531,13 @@
                 "CARDINAL": [
                     "2007.</li></ul></li><li",
                     "2014.</li></ul></li><li",
-                    "1970s)<ul><li"
+                    "90s)<ul><li",
+                    "1970s)<ul><li",
+                    "one"
                 ],
                 "NORP": [
-                    "Soviet"
+                    "Soviet",
+                    "href='http://www.instagram.com"
                 ]
             }
         },
@@ -2411,22 +2563,28 @@
             "pubDate": "Wed, 13 May 2020 08:00:00 -0400",
             "title": "Step Counters AKA Pedometers",
             "entities": {
-                "ORG": [
+                "PERSON": [
                     "Counter Programming",
-                    "Shira &",
-                    "Instagram @<a href='http://www.instagram.com",
-                    "Countie",
-                    "Zari - 96,723",
-                    "WOW",
-                    "Basle Trade Fair",
-                    "Fitbits/Jawbones",
-                    "href='http://eachstepyoutake.com",
-                    "href='http://www.twitter.com",
-                    "href='http://www.twitter.com"
+                    "Jerome Silberman",
+                    "David",
+                    "Counter Programming",
+                    "Harry Potter",
+                    "Audible",
+                    "Muggle",
+                    "Shira",
+                    "Shira",
+                    "Leonardo_da_Vinci'>Leonardo da Vinci</a>",
+                    "Jean Fernel",
+                    "Thomas_Jefferson'>Thomas Jefferson</a>.</li><li",
+                    "Robert Hooke",
+                    "Abraham-Louis_Perrelet'>Abraham-Louis Perrelet</a",
+                    "Michelle",
+                    "y&apos;all",
+                    "Jason Shaw.</p"
                 ],
                 "DATE": [
                     "Today",
-                    "20 years late",
+                    "20 years",
                     "Last week",
                     "one week",
                     "1525",
@@ -2439,35 +2597,36 @@
                     "2013",
                     "next week"
                 ],
-                "PERSON": [
-                    "Jerome Silberman",
-                    "you&apos;re",
-                    "Counter Programming",
-                    "Arielle",
-                    "Harry Potter",
-                    "Audible",
-                    "Shira",
-                    "Shira",
-                    "Leonardo_da_Vinci'>Leonardo da Vinci</a>",
-                    "Jean Fernel",
-                    "Thomas_Jefferson'>Thomas Jefferson</a>.</li><li>Robert Hooke",
-                    "Michelle",
-                    "Jackson"
-                ],
-                "FAC": [
-                    "Muggle"
+                "ORG": [
+                    "Shira &",
+                    "Instagram",
+                    "Wizarding",
+                    "Countie",
+                    "WOW",
+                    "Basle Trade Fair",
+                    "Fitbits/Jawbones",
+                    "href='http://eachstepyoutake.com",
+                    "href='http://www.twitter.com",
+                    "href='http://www.twitter.com"
                 ],
                 "GPE": [
                     "Arielle",
                     "Arielle",
+                    "game!</b><br/><br/><b",
                     "France",
                     "US",
                     "Switzerland",
+                    "Arielle",
+                    "Jackson",
                     "Tennessee"
                 ],
-                "CARDINAL": [
-                    "56,626",
-                    "4"
+                "PRODUCT": [
+                    "Shira - 56,626",
+                    "Zari - 96,723",
+                    "There&apos;s"
+                ],
+                "FAC": [
+                    "Arielle - 97,431"
                 ],
                 "ORDINAL": [
                     "first",
@@ -2480,8 +2639,14 @@
                 "NORP": [
                     "French",
                     "English",
-                    "English",
-                    "Swiss"
+                    "Swiss",
+                    "href='http://www.instagram.com"
+                ],
+                "CARDINAL": [
+                    "4"
+                ],
+                "LANGUAGE": [
+                    "English"
                 ]
             }
         },
@@ -2510,34 +2675,24 @@
                 "ORDINAL": [
                     "first"
                 ],
-                "ORG": [
-                    "Counter Programming",
-                    "Counter Programming",
-                    "Shira &",
-                    "Instagram @<a href='http://www.instagram.com",
-                    "href='http://www.twitter.com",
-                    "href='http://www.twitter.com",
-                    "Eva",
-                    "Apple"
-                ],
                 "PERSON": [
-                    "Shira",
-                    "Count Dracula",
-                    "Count Von",
-                    "Rabbi Matt Dreffin",
-                    "you&apos;re",
                     "Counter Programming",
                     "Shira",
-                    "Count Dracula",
+                    "Counter Programming",
+                    "Dracula",
+                    "Count Von",
+                    "Counter Programming",
                     "Shira",
-                    "Count Von Count",
+                    "Arielle",
+                    "Shira",
+                    "Dracula",
+                    "Shira",
                     "Shira",
                     "Count",
-                    "Count"
+                    "Eva",
+                    "Jason Shaw.</p"
                 ],
                 "GPE": [
-                    "Arielle",
-                    "NY",
                     "Arielle",
                     "Arielle",
                     "Arielle",
@@ -2548,11 +2703,20 @@
                     "Today",
                     "next week"
                 ],
+                "ORG": [
+                    "Shira &",
+                    "Instagram",
+                    "NY",
+                    "href='http://www.twitter.com",
+                    "href='http://www.twitter.com",
+                    "Apple"
+                ],
                 "QUANTITY": [
                     "7 mile"
                 ],
                 "NORP": [
-                    "Pomeranian"
+                    "Pomeranian",
+                    "href='http://www.instagram.com"
                 ],
                 "CARDINAL": [
                     "one"
@@ -2581,31 +2745,32 @@
             "pubDate": "Mon, 04 May 2020 21:00:00 -0400",
             "title": "Bonus: Tale of a Wooden Countertop from Lindsay Graham (not that Lindsay Graham) ",
             "entities": {
-                "ORG": [
+                "PERSON": [
                     "Counter Programming",
-                    "href='https://www.podchaser.com",
-                    "Instagram - @<a href='http://www.instagram.com",
-                    "href='http://www.twitter.com",
-                    "href='http://www.twitter.com"
+                    "Lindsay Graham",
+                    "It&apos;s",
+                    "Lindsay",
+                    "Jason Shaw.</p"
                 ],
                 "ORDINAL": [
                     "first"
                 ],
-                "PERSON": [
-                    "Lindsay Graham",
-                    "Audio",
-                    "Lindsay"
-                ],
                 "NORP": [
                     "american",
-                    "american-scandal/'>American"
+                    "american-scandal/'>American",
+                    "href='http://www.instagram.com"
                 ],
-                "GPE": [
-                    "US",
-                    "Tennessee"
+                "ORG": [
+                    "Instagram - @<a",
+                    "SEND US PICTURES OF YOUR",
+                    "href='http://www.twitter.com",
+                    "href='http://www.twitter.com"
                 ],
                 "DATE": [
                     "Wednesday"
+                ],
+                "GPE": [
+                    "Tennessee"
                 ]
             }
         },
@@ -2639,20 +2804,18 @@
                 "ORG": [
                     "Counter Programming",
                     "Shira &",
-                    "GRANITE",
-                    "Counter Programming",
                     "Shira &",
-                    "Instagram - @<a href='http://www.instagram.com",
-                    "wood:</b></p><ol><li>Noah&apos;s",
+                    "Instagram - @<a",
+                    "SEND US PICTURES OF YOUR",
+                    "Easter",
                     "The Superior Dome",
-                    "sanitary</li><li",
                     "href='http://www.twitter.com",
                     "href='http://www.twitter.com"
                 ],
                 "GPE": [
                     "Arielle",
-                    "US",
                     "Arielle",
+                    "wood:</b></p><ol><li",
                     "Zurich",
                     "Switzerland",
                     "Knarvik",
@@ -2666,20 +2829,24 @@
                     "next week"
                 ],
                 "PERSON": [
-                    "Miriam Tinberg",
-                    "you&apos;re",
                     "Counter Programming",
-                    "Easter",
-                    "Would Shira"
+                    "Miriam Tinberg",
+                    "Counter Programming",
+                    "Steel</li><li>",
+                    "Would Shira",
+                    "Jason Shaw.</p"
                 ],
                 "ORDINAL": [
                     "first"
                 ],
-                "PRODUCT": [
-                    "ever!</p><p><b"
-                ],
                 "MONEY": [
                     "between $40-$60"
+                ],
+                "LOC": [
+                    "Northern Michigan</li><li"
+                ],
+                "NORP": [
+                    "href='http://www.instagram.com"
                 ]
             }
         },
@@ -2705,30 +2872,37 @@
             "pubDate": "Thu, 23 Apr 2020 17:00:00 -0400",
             "title": "Bonus: Come to Podapalooza!",
             "entities": {
-                "DATE": [
-                    "weeks",
-                    "this weekend",
-                    "Wednesday"
+                "NORP": [
+                    "Counties,<br/><br/>We&apos;ve"
                 ],
                 "PERSON": [
-                    "Shira"
+                    "Live Aid",
+                    "Shira",
+                    "it&apos;s"
+                ],
+                "DATE": [
+                    "our respective weeks",
+                    "this weekend",
+                    "Wednesday"
                 ],
                 "GPE": [
                     "New York City",
                     "Arielle",
                     "LA",
+                    "Industry</a",
                     "Hollywood"
                 ],
+                "ORG": [
+                    "COVID-19",
+                    "Podcasters",
+                    "WOOD"
+                ],
                 "CARDINAL": [
-                    "stuff.<br/><br/><br/><b",
                     "more than 70",
                     "one"
                 ],
                 "PRODUCT": [
-                    "it&apos;s"
-                ],
-                "ORG": [
-                    "WOOD"
+                    "buff.<br/><br/>We&apos;ll"
                 ]
             }
         },
@@ -2762,21 +2936,18 @@
                 "ORG": [
                     "Counter Programming",
                     "Shira &",
-                    "Counter Programming",
                     "Shira &",
-                    "Instagram - @<a href='http://www.instagram.com",
-                    "quartz",
-                    "granite:</b></p><ol><li>Mount Rushmore</li><li",
-                    "Granite State",
-                    "Netflix)</li><li",
-                    "cleaned</li><li",
+                    "Instagram - @<a",
+                    "SEND US PICTURES OF YOUR",
+                    "Granite State College!</li><li>BYU",
+                    "Granite State Challenge",
                     "href='http://www.twitter.com",
                     "href='http://www.twitter.com"
                 ],
                 "GPE": [
                     "Arielle",
-                    "US",
-                    "Arielle",
+                    "Vietnam",
+                    "New Hampshire",
                     "Arielle",
                     "Tennessee"
                 ],
@@ -2786,16 +2957,31 @@
                     "next week"
                 ],
                 "PERSON": [
-                    "Rebekah Peltz",
-                    "you&apos;re",
                     "Counter Programming",
+                    "Rebekah Peltz",
+                    "Counter Programming",
+                    "Shira",
+                    "Arielle",
+                    "Veterans Memorial</li><li",
+                    "show</li></ul><p><b",
+                    "Would Shira",
                     "Jason Shaw"
+                ],
+                "PRODUCT": [
+                    "Passover",
+                    "Netflix)</li><li"
                 ],
                 "PERCENT": [
                     "64%"
                 ],
                 "MONEY": [
                     "between $40-$60"
+                ],
+                "LOC": [
+                    "Mount Rushmore</li><li"
+                ],
+                "NORP": [
+                    "href='http://www.instagram.com"
                 ]
             }
         },
@@ -2823,30 +3009,23 @@
             "title": "Countertops: Steel Has Stolen Our Hearts",
             "entities": {
                 "CARDINAL": [
-                    "2",
-                    "101</li></ol><p><b",
-                    "1800s</li><li"
+                    "2"
                 ],
                 "ORG": [
                     "Counter Programming",
                     "Shira &",
-                    "Counter Programming",
-                    "Instagram - @<a href='http://www.instagram.com",
-                    "Instagram</a",
-                    "The Gateway Arch",
-                    "countertops</li><li",
-                    "cabinets</li><li",
-                    "artists</li><li",
-                    "time</li><li",
+                    "Instagram - @<a",
+                    "SEND US PICTURES OF YOUR",
+                    "href='https://www.instagram.com",
+                    "COVID",
+                    "The Pittsburgh U.S. Steel",
                     "href='http://www.twitter.com",
                     "href='http://www.twitter.com"
                 ],
                 "GPE": [
                     "Arielle",
-                    "US",
                     "Arielle",
                     "Arielle",
-                    "Passover",
                     "Taipei",
                     "Arielle",
                     "Tennessee"
@@ -2854,23 +3033,30 @@
                 "DATE": [
                     "Last week",
                     "Today",
-                    "the 1920s and 30s",
+                    "the 1920s and",
+                    "30s",
                     "the 1950s",
                     "next week"
                 ],
                 "PERSON": [
+                    "Counter Programming",
                     "Rebekah",
                     "Shira",
+                    "Shira",
+                    "Oldhouseonline</b></a><b>.com:</b></p><ul><li",
+                    "material</li><li",
+                    "Would Shira",
                     "Jason Shaw"
                 ],
                 "NORP": [
-                    "Southern Jewish"
+                    "Southern Jewish",
+                    "href='http://www.instagram.com"
+                ],
+                "FAC": [
+                    "The Brooklyn Bridge</li><li"
                 ],
                 "WORK_OF_ART": [
-                    "The Brooklyn Bridge</li><li>The Pittsburgh U.S. Steel"
-                ],
-                "PRODUCT": [
-                    "material</li><li"
+                    "The Gateway Arch in St. Louis</li><li>The Golden Gate Bridge</li><li"
                 ]
             }
         },
@@ -2897,34 +3083,24 @@
             "pubDate": "Wed, 08 Apr 2020 08:00:00 -0400",
             "title": "Countertops: Let's Marble at the Beauty of Marble",
             "entities": {
-                "PERSON": [
-                    "Counties",
-                    "Shira",
-                    "Tiger King",
-                    "Parthenon",
-                    "Jason Shaw"
-                ],
                 "CARDINAL": [
-                    "fans)!</p><p",
                     "1",
                     "1940s</p><p"
                 ],
                 "ORG": [
                     "Counter Programming",
                     "Shira &",
-                    "Counter Programming",
-                    "lookin&apos",
-                    "Instagram - @<a href='http://www.instagram.com",
-                    "href='http://www.oldhouseweb.com",
+                    "Instagram - @<a",
+                    "SEND US PICTURES OF YOUR",
                     "The Supreme Court"
                 ],
                 "GPE": [
                     "Arielle",
                     "Corona",
-                    "US",
                     "Arielle",
-                    "Jenna",
+                    "minds.</p><p><br/><b",
                     "Washington",
+                    "It&apos;s",
                     "Arielle",
                     "Tennessee"
                 ],
@@ -2934,14 +3110,31 @@
                     "the early 1900s",
                     "next week"
                 ],
+                "PERSON": [
+                    "Counter Programming",
+                    "lookin&apos",
+                    "Shira",
+                    "Jenna",
+                    "Tiger King",
+                    "Parthenon",
+                    "marble)</p><p><br/></p><p><b",
+                    "it&apos;s",
+                    "It&apos;s",
+                    "Would Shira",
+                    "href='http://robotslap.com'>Daniel Tureck</a>",
+                    "Jason Shaw"
+                ],
                 "ORDINAL": [
                     "first"
                 ],
                 "LOC": [
                     "Northeast"
                 ],
-                "PRODUCT": [
-                    "it&apos;s"
+                "WORK_OF_ART": [
+                    "Notable Landmarks Made"
+                ],
+                "NORP": [
+                    "href='http://www.instagram.com"
                 ]
             }
         },
@@ -2969,22 +3162,11 @@
             "pubDate": "Wed, 01 Apr 2020 23:00:00 -0400",
             "title": "Intro: Welcome to Counter Programming with Shira & Arielle",
             "entities": {
-                "PERSON": [
-                    "Counter Programming",
-                    "Counter Programming"
-                ],
                 "ORG": [
+                    "Counter Programming",
                     "Shira &",
-                    "Shira",
-                    "/b><a href='http://isjl.org'><b>Institute of Southern Jewish",
-                    "they&apos;re",
-                    "Corona.</b></p><p><br/></p><p><b>Counter Programming",
-                    "Shira &",
-                    "href='http://twitter.com/shishimosk'><b>shishimosk</b></a></p><p><b>Arielle"
-                ],
-                "CARDINAL": [
-                    "Arielle!</b></p><p><br/></p><p><b",
-                    "almost 50"
+                    "COVID-19",
+                    "Shira &"
                 ],
                 "GPE": [
                     "Arielle",
@@ -2995,7 +3177,17 @@
                     "Arielle",
                     "California",
                     "NY",
+                    "Arielle",
+                    "Twitter:</b></p><p><b",
                     "Arielle"
+                ],
+                "PERSON": [
+                    "Shira",
+                    "Counter Programming",
+                    "Well:</b></p><p><b",
+                    "Shira",
+                    "Counter Programming",
+                    "Shira"
                 ],
                 "DATE": [
                     "2015",
@@ -3003,6 +3195,15 @@
                 ],
                 "ORDINAL": [
                     "first"
+                ],
+                "CARDINAL": [
+                    "almost 50"
+                ],
+                "NORP": [
+                    "Corona.</b></p><p><br/></p><p><b"
+                ],
+                "WORK_OF_ART": [
+                    "@</b><a href='https://twitter.com/arithisandthat'><b"
                 ]
             }
         }
@@ -3040,7 +3241,7 @@
         }
     },
     "language": "en",
-    "lastBuildDate": "Sat, 23 Apr 2022 22:39:44 -0400",
+    "lastBuildDate": "Fri, 27 May 2022 13:01:04 -0400",
     "link": "https://shiraandarielle.buzzsprout.com",
     "paginationLinks": {
         "self": "https://feeds.buzzsprout.com/977527.rss"
@@ -3059,13 +3260,12 @@
             "Counter Programming",
             "Shira",
             "Shira",
-            "Counter Programming"
+            "Counter Programming",
+            "Twitter"
         ],
         "ORG": [
             "Shira & Arielle",
-            "quartz",
-            "the Institute of Southern Jewish Life",
-            "Instagram"
+            "the Institute of Southern Jewish Life"
         ],
         "GPE": [
             "Arielle",
@@ -3086,10 +3286,6 @@
         ],
         "CARDINAL": [
             "4"
-        ],
-        "PRODUCT": [
-            "Twitter",
-            "Twitter"
         ]
     }
 }

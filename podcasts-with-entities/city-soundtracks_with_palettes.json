@@ -37,11 +37,9 @@
                     "Big Freedia",
                     "Big Freedia",
                     "Katey Red",
-                    "Cheeky Blakk",
-                    "Imprint Projects and Pineapple Street Media"
+                    "Imprint Projects"
                 ],
                 "GPE": [
-                    "Bounce",
                     "New Orleans",
                     "New Orleans",
                     "Diplo"
@@ -49,15 +47,18 @@
                 "PERSON": [
                     "Frankie Beverly",
                     "Maze",
-                    "DJ Jubilee",
                     "Ms Tee",
                     "Vockah Redu",
+                    "Cheeky Blakk",
                     "Ward Buck",
                     "Reedy",
                     "Ann Heppermann"
                 ],
-                "DATE": [
+                "ORDINAL": [
                     "10th"
+                ],
+                "PRODUCT": [
+                    "Learn"
                 ]
             }
         },
@@ -83,12 +84,22 @@
             "pubDate": "Wed, 08 Mar 2017 14:49:00 -0000",
             "title": "Spoon \u2013 Austin, TX",
             "entities": {
+                "ORDINAL": [
+                    "first"
+                ],
                 "DATE": [
                     "1993",
                     "20 years later"
                 ],
-                "PERSON": [
+                "ORG": [
                     "Britt Daniel",
+                    "Spoon",
+                    "Google Play Music",
+                    "Spoon",
+                    "Spoon",
+                    "Imprint Projects"
+                ],
+                "PERSON": [
                     "Jim Eno",
                     "Britt",
                     "Jim",
@@ -98,14 +109,8 @@
                     "Dale Watson",
                     "Ann Heppermann"
                 ],
-                "ORG": [
-                    "UT Austin",
-                    "Spoon",
-                    "Google Play Music",
-                    "Spoon",
-                    "Spoon",
-                    "Tear Dungeon",
-                    "Imprint Projects and Pineapple Street Media"
+                "FAC": [
+                    "UT Austin"
                 ],
                 "CARDINAL": [
                     "9"
@@ -116,6 +121,9 @@
                 "GPE": [
                     "Austin",
                     "Texas"
+                ],
+                "PRODUCT": [
+                    "Learn"
                 ]
             }
         },
@@ -141,21 +149,15 @@
             "pubDate": "Wed, 08 Mar 2017 14:48:00 -0000",
             "title": "Kehlani \u2013 Oakland, CA",
             "entities": {
-                "GPE": [
+                "ORG": [
                     "Kehlani",
-                    "Oakland",
-                    "Kehlani",
-                    "India Arie",
-                    "Kamaiyah"
+                    "Oakland School for the Arts",
+                    "Google Play Music",
+                    "Imprint Projects"
                 ],
                 "LOC": [
                     "the East Bay",
                     "the East Bay"
-                ],
-                "ORG": [
-                    "Oakland School for the Arts",
-                    "Google Play Music",
-                    "Imprint Projects and Pineapple Street Media"
                 ],
                 "DATE": [
                     "only 21 years old",
@@ -165,12 +167,19 @@
                 "CARDINAL": [
                     "two"
                 ],
-                "NORP": [
-                    "Kehlani"
-                ],
                 "PERSON": [
+                    "Kehlani",
                     "Erykah Badu",
                     "Ann Heppermann"
+                ],
+                "GPE": [
+                    "Oakland",
+                    "Kehlani",
+                    "India Arie",
+                    "Kamaiyah"
+                ],
+                "PRODUCT": [
+                    "Learn"
                 ]
             }
         }
@@ -221,9 +230,6 @@
     "entities": {
         "ORG": [
             "Google Play Music"
-        ],
-        "PERSON": [
-            "Hrishikesh Hirway"
         ]
     }
 }

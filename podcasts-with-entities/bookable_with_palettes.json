@@ -33,11 +33,41 @@
             "title": "Morgan Jerkins:  Wandering In Strange Lands",
             "entities": {
                 "CARDINAL": [
-                    "one"
+                    "one",
+                    "30",
+                    "30"
+                ],
+                "GPE": [
+                    "Wandering",
+                    "America",
+                    "Media",
+                    "Southern New Jersey"
+                ],
+                "ORG": [
+                    "the Great Migration Reclaims Her Roots",
+                    "the New York Times",
+                    "PEN/Diamonstein-Spielvogel Award",
+                    "Barnes & Noble",
+                    "the Great Migration Reclaims Her Roots",
+                    "Harper Books",
+                    "Comparative Literature",
+                    "Princeton University",
+                    "MFA",
+                    "the Bennington Writing Seminars",
+                    "Forbes",
+                    "Columbia University\u2019s School of the Arts",
+                    "Nonfiction",
+                    "Bookable",
+                    "Bookable",
+                    "Heliix",
+                    "Chase",
+                    "Cold Storage Percussion Unit"
                 ],
                 "PERSON": [
                     "Morgan Jerkins",
+                    "Morgan Jerkins",
                     "Essay",
+                    "Wandering In Strange Lands",
                     "Caul Baby",
                     "Jerkins",
                     "Andrew Dunn",
@@ -50,31 +80,19 @@
                     "Rufus Canis",
                     "Isaac Aesili"
                 ],
-                "ORG": [
-                    "Author",
-                    "the New York Times",
-                    "Feminist",
-                    "PEN/Diamonstein-Spielvogel Award",
-                    "Wandering In Strange Lands",
-                    "Harper Books",
-                    "Princeton University",
-                    "MFA",
-                    "the Bennington Writing Seminars",
-                    "Forbes 30",
-                    "Columbia University\u2019s School of the Arts",
-                    "Nonfiction",
-                    "Bookable",
-                    "Bookable",
-                    "Heliix",
-                    "Brainiac",
-                    "Cold Storage Percussion Unit"
+                "WORK_OF_ART": [
+                    "This Will Be My Undoing: Living at the Intersection of Black, Female",
+                    "Books That Bounce",
+                    "Uni Swing Vox",
+                    "Every Corner In The Black Lodge",
+                    "Molasses and Wine",
+                    "Brainiac"
                 ],
-                "EVENT": [
-                    "the Intersection of Black, Female"
+                "NORP": [
+                    "Feminist"
                 ],
-                "GPE": [
-                    "America",
-                    "Media"
+                "FAC": [
+                    "Discover Pick"
                 ],
                 "ORDINAL": [
                     "third"
@@ -84,14 +102,10 @@
                     "1939"
                 ],
                 "LOC": [
-                    "Southern New Jersey",
                     "Harlem"
                 ],
-                "WORK_OF_ART": [
-                    "Uni Swing Vox",
-                    "Every Corner In The Black Lodge",
-                    "Molasses and Wine",
-                    "The Chase"
+                "PRODUCT": [
+                    "Learn"
                 ]
             }
         },
@@ -123,31 +137,9 @@
                     "Americans",
                     "American"
                 ],
-                "ORG": [
-                    "A More Perfect Reunion",
-                    "Author",
-                    "Grace and Dominion",
-                    "Columbia University\u2019s",
-                    "Graduate School of the Arts",
-                    "the English Department",
-                    "Yale University",
-                    "the University of Leipzig",
-                    "the Picador Chair",
-                    "American Studies",
-                    "Long Island University",
-                    "Graduate Department",
-                    "Bard College",
-                    "Middlebury College",
-                    "Harper",
-                    "the New York Times Magazine",
-                    "Bookable",
-                    "Bookable",
-                    "LandMrks"
-                ],
                 "PERSON": [
                     "Calvin Baker",
                     "Calvin Baker",
-                    "Hurston",
                     "Andrew Dunn",
                     "Amanda Stern",
                     "Andrew Dunn",
@@ -156,25 +148,54 @@
                     "Loud Tree Media",
                     "Rufus Canis",
                     "Rufus Canis",
+                    "Outview",
                     "Keen Collective",
-                    "Sun Shapes",
                     "Pierpaolo Ranieri"
                 ],
                 "CARDINAL": [
                     "about four",
                     "four"
                 ],
+                "ORG": [
+                    "Author",
+                    "Grace",
+                    "Dominion",
+                    "Columbia University\u2019s",
+                    "Graduate School of the Arts",
+                    "the English Department",
+                    "Yale University",
+                    "the University of Leipzig",
+                    "American Studies",
+                    "Long Island University",
+                    "Graduate Department",
+                    "Bard College",
+                    "Middlebury College",
+                    "Harper\u2019s",
+                    "the New York Times Magazine",
+                    "Bookable",
+                    "Bookable",
+                    "Sun Shapes"
+                ],
+                "GPE": [
+                    "Hurston",
+                    "Brooklyn"
+                ],
+                "FAC": [
+                    "the Picador Chair"
+                ],
                 "LANGUAGE": [
                     "English"
                 ],
-                "GPE": [
-                    "Brooklyn"
-                ],
                 "WORK_OF_ART": [
+                    "Books That Bounce",
                     "Uni Swing Vox",
                     "Rich Man's Road",
                     "Proclaim The Dawn",
                     "Days of the Blackbird"
+                ],
+                "PRODUCT": [
+                    "LandMrks",
+                    "Learn"
                 ]
             }
         },
@@ -202,16 +223,8 @@
             "pubDate": "Tue, 02 Feb 2021 05:05:00 -0000",
             "title": "Nicole Dennis-Benn: Patsy",
             "entities": {
-                "GPE": [
-                    "Nicole Dennis-Benn's",
-                    "Kingston",
-                    "Jamaica",
-                    "Princeton",
-                    "Brooklyn",
-                    "New York",
-                    "Podium"
-                ],
                 "PERSON": [
+                    "Nicole Dennis-Benn's",
                     "Patsy",
                     "Nicole Dennis-Benn",
                     "Andrew Dunn",
@@ -222,6 +235,7 @@
                     "Loud Tree Media",
                     "Rufus Canis",
                     "Rufus Canis",
+                    "Rawsrvnt",
                     "Keen Collective"
                 ],
                 "CARDINAL": [
@@ -229,19 +243,32 @@
                 ],
                 "ORG": [
                     "Author",
-                    "New York Times",
-                    "the Lambda Literary Award",
+                    "Here Comes the Sun",
+                    "New York Times Notable Book",
                     "Bookable",
-                    "Bookable"
+                    "Bookable",
+                    "Davy Era",
+                    "Lullatone"
+                ],
+                "GPE": [
+                    "Kingston",
+                    "Jamaica",
+                    "Princeton",
+                    "Brooklyn",
+                    "New York"
                 ],
                 "WORK_OF_ART": [
-                    "Here Comes the Sun",
+                    "Books That Bounce",
                     "Uni Swing Vox",
                     "Hear Me Hear Me",
                     "Heavy Eyelids",
-                    "Night Stroll",
-                    "Rawsrvnt",
+                    "\"Night Stroll",
+                    "Podium",
+                    "Get Away",
                     "You and Me"
+                ],
+                "PRODUCT": [
+                    "Learn"
                 ]
             }
         },
@@ -269,10 +296,23 @@
             "pubDate": "Tue, 19 Jan 2021 05:05:00 -0000",
             "title": "Roxane Gay & Tracy Lynne Oliver: The Sacrifice of Darkness",
             "entities": {
-                "PERSON": [
+                "WORK_OF_ART": [
                     "Roxane Gay",
-                    "Tracy Lynne Oliver's",
                     "Roxane Gay\u2019s",
+                    "Best Sex Writing 2012",
+                    "A Public Space",
+                    "Love Letters",
+                    "Unruly Bodies",
+                    "Books That Bounce",
+                    "Uni Swing Vox",
+                    "Walk with Me",
+                    "Maple"
+                ],
+                "PERSON": [
+                    "Tracy Lynne Oliver's",
+                    "McSweeney",
+                    "Oxford American",
+                    "Bad Feminist",
                     "Tracy Lynne Oliver",
                     "Beyonce",
                     "Andrew Dunn",
@@ -287,42 +327,31 @@
                     "Keen Collective",
                     "Jules Blueprints"
                 ],
-                "WORK_OF_ART": [
-                    "The Sacrifice of Darkness",
-                    "Love Letters\" in",
-                    "Unruly Bodies",
-                    "Uni Swing Vox",
-                    "Walk with Me",
-                    "Dimensions Distilled",
-                    "In the Steps of Dust"
-                ],
                 "ORG": [
+                    "The Sacrifice of Darkness",
                     "Best American Mystery Stories",
-                    "Best American Short Stories 2012",
-                    "A Public Space",
-                    "McSweeney\u2019s",
+                    "Best American Short Stories",
                     "Tin House",
-                    "Oxford American",
                     "American Short Fiction",
-                    "Virginia Quarterly Review",
                     "the New York Times",
-                    "Ayiti",
-                    "Untamed State",
                     "the New York Times",
-                    "Bad Feminist",
                     "Difficult Women",
                     "the New York Times",
-                    "Medium",
                     "Bookable",
                     "Bookable",
+                    "Land of Legs",
                     "Pastek",
-                    "El Buho y Barrio Lindo"
+                    "El Buho"
                 ],
                 "DATE": [
-                    "2014"
+                    "2014",
+                    "2012"
                 ],
-                "GPE": [
-                    "Hunger"
+                "EVENT": [
+                    "Medium"
+                ],
+                "PRODUCT": [
+                    "Learn"
                 ]
             }
         },
@@ -350,10 +379,28 @@
             "pubDate": "Tue, 22 Dec 2020 05:05:00 -0000",
             "title": "Rumaan Alam: Leave the World Behind",
             "entities": {
+                "GPE": [
+                    "Rumaan",
+                    "the New Republic",
+                    "New York",
+                    "Theory Hazit"
+                ],
+                "WORK_OF_ART": [
+                    "Leave the World Behind",
+                    "Leave the World Behind",
+                    "Books That Bounce",
+                    "Uni Swing Vox",
+                    "Washed Out",
+                    "\"Morning Tide",
+                    "Wintler Wine",
+                    "Thinking of a Master Plan",
+                    "Syntagma"
+                ],
+                "TIME": [
+                    "late-night"
+                ],
                 "ORG": [
-                    "Rumaan Alam's Leave the World Behind",
                     "Author",
-                    "Rich and Pretty",
                     "The Wall Street Journal",
                     "The New York Times",
                     "New York Magazine",
@@ -362,11 +409,10 @@
                     "Oberlin College",
                     "Bookable",
                     "Bookable",
+                    "Prairie Ensemble",
                     "Shaky Faces",
-                    "Mariner"
-                ],
-                "TIME": [
-                    "late-night"
+                    "Mariner",
+                    "Prairie Ensemble"
                 ],
                 "PERSON": [
                     "Rumaan Alam",
@@ -379,9 +425,6 @@
                     "Rufus Canis",
                     "Rufus Canis",
                     "Denholm Green",
-                    "Prairie Ensemble",
-                    "Prairie Ensemble",
-                    "Theory Hazit",
                     "Jules Blueprints"
                 ],
                 "CARDINAL": [
@@ -389,17 +432,8 @@
                     "two",
                     "two"
                 ],
-                "GPE": [
-                    "the New Republic",
-                    "New York"
-                ],
-                "WORK_OF_ART": [
-                    "Uni Swing Vox",
-                    "Washed Out",
-                    "Morning Tide",
-                    "Wintler Wine",
-                    "Thinking of a Master Plan",
-                    "Syntagma"
+                "PRODUCT": [
+                    "Learn"
                 ]
             }
         },
@@ -427,11 +461,14 @@
             "pubDate": "Tue, 24 Nov 2020 21:20:00 -0000",
             "title": "Lynn Steger Strong: Want",
             "entities": {
+                "GPE": [
+                    "Want",
+                    "Guernica"
+                ],
                 "PERSON": [
                     "Lynn Steger Strong",
-                    "Lynn Steger Strong",
+                    "Lynn Steger Strong\u2019s",
                     "Hold Still",
-                    "Guernica",
                     "Andrew Dunn",
                     "Amanda Stern",
                     "Andrew Dunn",
@@ -440,12 +477,17 @@
                     "Loud Tree Media",
                     "Rufus Canis",
                     "Rufus Canis",
-                    "Sun Shapes",
+                    "Wainscott",
+                    "Brow",
+                    "Joonie",
+                    "Daydreamin",
                     "Dr Crosby",
                     "Kyle Devine"
                 ],
+                "ORDINAL": [
+                    "first"
+                ],
                 "ORG": [
-                    "Author",
                     "Liveright/WW Norton",
                     "Los Angeles Review of Books",
                     "Elle.com",
@@ -456,21 +498,22 @@
                     "Bookable",
                     "Bookable",
                     "Complicated Congas",
-                    "Joonie",
-                    "Daydreamin"
-                ],
-                "ORDINAL": [
-                    "first"
+                    "Sun Shapes"
                 ],
                 "DATE": [
                     "2016"
                 ],
                 "WORK_OF_ART": [
+                    "Books That Bounce",
                     "Uni Swing Vox",
-                    "One Minute",
-                    "Wainscott",
                     "I Always Loved You",
-                    "Sealing with Garrett"
+                    "Sealing with Garrett\""
+                ],
+                "TIME": [
+                    "One Minute"
+                ],
+                "PRODUCT": [
+                    "Learn"
                 ]
             }
         },
@@ -498,12 +541,6 @@
             "pubDate": "Tue, 27 Oct 2020 04:05:00 -0000",
             "title": "Karen Russell: Sleep Donation",
             "entities": {
-                "GPE": [
-                    "Sleep Donation",
-                    "Berlin",
-                    "Portland",
-                    "Oregon"
-                ],
                 "PERSON": [
                     "Karen Russell",
                     "Karen Russell",
@@ -515,24 +552,10 @@
                     "Loud Tree Media",
                     "Rufus Canis",
                     "Rufus Canis",
-                    "Sun Shapes"
+                    "Tangerine"
                 ],
                 "TIME": [
                     "night"
-                ],
-                "ORG": [
-                    "Author",
-                    "MacArthur Fellowship",
-                    "the National Book Foundation",
-                    "the NYPL Young Lions Award",
-                    "the Cullman Center",
-                    "the American Academy",
-                    "Texas State University",
-                    "MFA",
-                    "Bookable",
-                    "Bookable",
-                    "The Flavr Blue",
-                    "Oatmello"
                 ],
                 "DATE": [
                     "2012",
@@ -545,14 +568,40 @@
                 "ORDINAL": [
                     "first"
                 ],
+                "GPE": [
+                    "Swamplandia",
+                    "Berlin",
+                    "Portland",
+                    "Oregon"
+                ],
                 "WORK_OF_ART": [
                     "the Pulitzer Prize",
-                    "Uni Swing Vox",
-                    "Reprise",
-                    "Tangerine"
+                    "Books That Bounce",
+                    "Uni Swing Vox"
+                ],
+                "CARDINAL": [
+                    "5",
+                    "35"
+                ],
+                "ORG": [
+                    "the National Book Foundation",
+                    "the NYPL Young Lions Award",
+                    "the Bard Fiction Prize",
+                    "the American Academy",
+                    "Texas State University\u2019s",
+                    "MFA",
+                    "Bookable",
+                    "Bookable",
+                    "Sun Shapes",
+                    "The Flavr Blue",
+                    "Oatmello"
+                ],
+                "FAC": [
+                    "the Cullman Center"
                 ],
                 "PRODUCT": [
-                    "a Guggenheim Fellowship"
+                    "the Endowed Chair",
+                    "Learn"
                 ]
             }
         },
@@ -580,11 +629,8 @@
             "pubDate": "Tue, 06 Oct 2020 04:05:00 -0000",
             "title": "Steven Berglas: Stay Hungry and Kick Burnout in the Butt",
             "entities": {
-                "GPE": [
-                    "Stay Hungry",
-                    "Los Angeles"
-                ],
                 "PERSON": [
+                    "Stay Hungry",
                     "Kick Burnout",
                     "Steven Berglas",
                     "Steven Berglas",
@@ -600,31 +646,39 @@
                     "Don",
                     "Dr Crosby",
                     "Wild Whirled",
-                    "Little Glass",
+                    "Pebaluna",
+                    "Little Glass Men",
                     "Doubt Me Baby",
                     "Andrew Kaffer"
                 ],
-                "ORG": [
+                "GPE": [
                     "Amanda",
-                    "Author",
-                    "Harvard Medical School's",
-                    "Department of Psychiatry",
+                    "Los Angeles"
+                ],
+                "ORG": [
+                    "Harvard Medical School's Department of Psychiatry",
                     "McLean Hospital",
                     "Bookable",
-                    "Bookable"
+                    "Bookable",
+                    "Lullatone",
+                    "SSLottery"
                 ],
                 "DATE": [
                     "more than 25 years"
+                ],
+                "WORK_OF_ART": [
+                    "CA",
+                    "Books That Bounce",
+                    "Uni Swing Vox",
+                    "Santa Barbara Blues",
+                    "Good Morning Melody"
                 ],
                 "CARDINAL": [
                     "four",
                     "more than 70"
                 ],
-                "WORK_OF_ART": [
-                    "Uni Swing Vox",
-                    "Santa Barbara Blues",
-                    "Good Morning Melody",
-                    "Dementia"
+                "PRODUCT": [
+                    "Learn"
                 ]
             }
         },
@@ -655,31 +709,27 @@
                 "GPE": [
                     "The United States",
                     "Us",
-                    "America"
+                    "Claudia Rankine",
+                    "America",
+                    "Amanda"
+                ],
+                "FAC": [
+                    "Claudia Rankine"
+                ],
+                "CARDINAL": [
+                    "four"
                 ],
                 "ORG": [
-                    "Claudia Rankine",
-                    "Amanda",
-                    "Author",
-                    "Citizen",
                     "Guardian",
                     "the New York Times Book Review",
                     "the New York Times Magazine",
                     "the Washington Post",
                     "the Academy of American Poets",
                     "Poets & Writers",
-                    "MacArthur Fellowship",
+                    "the Frederick Iseman Professor of Poetry",
                     "Yale University",
                     "Bookable",
-                    "Bookable",
-                    "Upstroke"
-                ],
-                "NORP": [
-                    "American",
-                    "American"
-                ],
-                "CARDINAL": [
-                    "four"
+                    "Bookable"
                 ],
                 "DATE": [
                     "2014",
@@ -690,7 +740,6 @@
                     "Jackson Poetry Prize"
                 ],
                 "PERSON": [
-                    "the Frederick Iseman",
                     "Andrew Dunn",
                     "Amanda Stern",
                     "Andrew Dunn",
@@ -699,14 +748,19 @@
                     "Loud Tree Media",
                     "Rufus Canis",
                     "Rufus Canis",
+                    "Upstroke",
                     "Easy McCoy",
+                    "Eugene",
                     "Calvin Valentine",
                     "Grant Harold"
                 ],
                 "WORK_OF_ART": [
+                    "Books That Bounce",
                     "Uni Swing Vox",
-                    "Warmer Up Here",
-                    "This Summer"
+                    "Warmer Up Here"
+                ],
+                "PRODUCT": [
+                    "Learn"
                 ]
             }
         },
@@ -734,20 +788,6 @@
             "pubDate": "Tue, 15 Sep 2020 04:05:00 -0000",
             "title": "Susan Burton: Empty",
             "entities": {
-                "ORG": [
-                    "Empty",
-                    "Author",
-                    "Slate, Mother Jones",
-                    "The New Yorker",
-                    "The New York Times Magazine",
-                    "Harper\u2019s",
-                    "This American Life",
-                    "Bookable",
-                    "Bookable",
-                    "Complicated Congas",
-                    "WayFare",
-                    "Joonie"
-                ],
                 "PERSON": [
                     "Susan Burton",
                     "Susan Burton",
@@ -760,28 +800,44 @@
                     "Loud Tree Media",
                     "Rufus Canis",
                     "Rufus Canis",
-                    "Sarah Clarke"
+                    "Sarah Clarke",
+                    "Joonie"
                 ],
                 "DATE": [
                     "nearly thirty years"
                 ],
                 "GPE": [
+                    "Slate",
                     "New York",
                     "Brooklyn"
                 ],
+                "ORG": [
+                    "The New Yorker",
+                    "The New York Times Magazine",
+                    "Harper\u2019s",
+                    "This American Life",
+                    "Bookable",
+                    "Bookable",
+                    "Complicated Congas",
+                    "Memory Palace",
+                    "WayFare"
+                ],
                 "WORK_OF_ART": [
                     "Unaccompanied Minors",
+                    "Books That Bounce",
                     "Uni Swing Vox",
-                    "One Minute",
-                    "The Vintage Twin",
+                    "Great Egg Harbor",
                     "I Always Loved You"
                 ],
                 "CARDINAL": [
                     "one",
                     "two"
                 ],
-                "FAC": [
-                    "Great Egg Harbor"
+                "TIME": [
+                    "One Minute"
+                ],
+                "PRODUCT": [
+                    "Learn"
                 ]
             }
         },
@@ -814,6 +870,7 @@
                 "PERSON": [
                     "Gary Shteyngart",
                     "Paul LaFarge",
+                    "Paul",
                     "Gary",
                     "Amanda Stern",
                     "Beau Friedlander",
@@ -822,7 +879,6 @@
                     "Beau Friedlander",
                     "Loud Tree Media",
                     "Rufus Canis",
-                    "Different Strokes",
                     "Jupyter",
                     "Rufus Canis"
                 ],
@@ -834,7 +890,11 @@
                     "Bookable"
                 ],
                 "WORK_OF_ART": [
+                    "Different Strokes",
                     "Uni Swing Vox"
+                ],
+                "PRODUCT": [
+                    "Learn"
                 ]
             }
         },
@@ -864,11 +924,12 @@
             "entities": {
                 "PERSON": [
                     "Raven Leilani",
+                    "Luster",
                     "Eric",
-                    "Raven Leilani",
+                    "Raven Leilani's",
                     "McSweeney",
                     "Matt Clark",
-                    "Choice Prize",
+                    "Luster",
                     "Andrew Dunn",
                     "Beau Friedlander",
                     "Amanda Stern",
@@ -881,28 +942,39 @@
                     "Rufus Canis",
                     "Rufus Canis"
                 ],
-                "ORG": [
-                    "Author",
-                    "Yale Review",
-                    "The Cut and New England Review",
-                    "Narrative's Ninth",
-                    "Bat City Review and Blue Earth Review",
-                    "Bookable",
-                    "Bookable",
-                    "Martian Subculture"
-                ],
                 "GPE": [
                     "Granta",
                     "Soul City"
                 ],
-                "ORDINAL": [
-                    "first"
+                "ORG": [
+                    "Yale Review",
+                    "New England Review",
+                    "Bat City Review",
+                    "Blue Earth Review",
+                    "Bookable",
+                    "Bookable",
+                    "Sitcom"
                 ],
                 "WORK_OF_ART": [
-                    "Love",
+                    "Narrative",
+                    "Choice Prize",
+                    "When I See You",
+                    "Last of Your Love",
                     "Books That Bounce",
                     "Uni Swing Vox",
                     "Float"
+                ],
+                "EVENT": [
+                    "Ninth Annual Poetry Contest"
+                ],
+                "ORDINAL": [
+                    "first"
+                ],
+                "NORP": [
+                    "Martian"
+                ],
+                "PRODUCT": [
+                    "Learn"
                 ]
             }
         },
@@ -930,25 +1002,15 @@
             "pubDate": "Tue, 18 Aug 2020 04:05:00 -0000",
             "title": "Shawn Stewart Ruff: Finlater",
             "entities": {
-                "ORG": [
-                    "Shawn Stewart Ruff's",
-                    "Ruff",
-                    "Amanda",
-                    "Author",
-                    "Bookable",
-                    "Bookable",
-                    "Oatmello",
-                    "Moss Electric",
-                    "Cold Storage Percussion Unit"
-                ],
                 "PERSON": [
+                    "Shawn Stewart Ruff's",
                     "Finlater",
                     "Cliffy Douglass's",
+                    "Ruff",
                     "Finlater",
                     "Ruff",
                     "Shawn Stewart Ruff",
                     "Toss",
-                    "Pass",
                     "Finlater",
                     "W. E. B. DuBois'",
                     "Andrew Dunn",
@@ -959,18 +1021,19 @@
                     "Beau Friedlander",
                     "Loud Tree Media",
                     "Sarah Clarke",
-                    "Hotel Pools",
+                    "Tangerine",
                     "Rufus Canis",
                     "Rufus Canis"
                 ],
                 "GPE": [
                     "Cincinatti",
-                    "America"
+                    "America",
+                    "Amanda"
                 ],
                 "DATE": [
                     "the 1970s",
-                    "2016",
                     "2010",
+                    "2008",
                     "2013",
                     "1996"
                 ],
@@ -978,18 +1041,28 @@
                     "first",
                     "first"
                 ],
+                "ORG": [
+                    "GJS II",
+                    "Whirl and Pass",
+                    "Bookable",
+                    "Bookable",
+                    "Hotel Pools",
+                    "Oatmello",
+                    "Moss Electric",
+                    "Cold Storage Percussion Unit"
+                ],
                 "CARDINAL": [
                     "ten"
                 ],
                 "WORK_OF_ART": [
-                    "The Talented Tenth",
-                    "The Vintage Twin",
-                    "Dissolve",
-                    "Tangerine",
+                    "No Better Time",
                     "Books That Bounce",
                     "The Comeback",
                     "Uni Swing Vox",
                     "Lightning Rod"
+                ],
+                "PRODUCT": [
+                    "Learn"
                 ]
             }
         },
@@ -1017,17 +1090,11 @@
             "pubDate": "Tue, 28 Jul 2020 04:05:00 -0000",
             "title": "Summer Reads: Ottessa Moshfegh, Nathan Englander, & Team Bookable!",
             "entities": {
-                "WORK_OF_ART": [
-                    "Summer Reads'",
-                    "Timeless Love",
-                    "Uni Swing Vox"
-                ],
                 "ORG": [
                     "Amanda",
-                    "Amanda",
+                    "Team Bookable",
                     "Bookable",
-                    "Bookable",
-                    "Joonie"
+                    "Bookable"
                 ],
                 "PERSON": [
                     "Ottessa Moshfegh",
@@ -1041,9 +1108,20 @@
                     "Beau Friedlander",
                     "Loud Tree Media",
                     "Rufus Canis",
-                    "Different Strokes",
                     "Jupyter",
+                    "Joonie",
                     "Rufus Canis"
+                ],
+                "GPE": [
+                    "Amanda"
+                ],
+                "WORK_OF_ART": [
+                    "Different Strokes",
+                    "Timeless Love",
+                    "Uni Swing Vox"
+                ],
+                "PRODUCT": [
+                    "Learn"
                 ]
             }
         },
@@ -1080,12 +1158,13 @@
                     "Beau Friedlander",
                     "Loud Tree Media",
                     "Rufus Canis",
-                    "Different Strokes",
                     "Jupyter",
                     "Rufus Canis"
                 ],
+                "GPE": [
+                    "Amanda"
+                ],
                 "ORG": [
-                    "Amanda",
                     "New York Times",
                     "Nell",
                     "Nell",
@@ -1093,7 +1172,12 @@
                     "Bookable"
                 ],
                 "WORK_OF_ART": [
+                    "Lost and Wanted",
+                    "Different Strokes",
                     "Uni Swing Vox"
+                ],
+                "PRODUCT": [
+                    "Learn"
                 ]
             }
         },
@@ -1120,21 +1204,25 @@
             "pubDate": "Tue, 14 Jul 2020 04:05:12 -0000",
             "title": "Storybound: Mitchell S. Jackson",
             "entities": {
+                "ORG": [
+                    "Meet Storybound",
+                    "Season One",
+                    "Lit Hub Radio"
+                ],
                 "DATE": [
                     "weekly",
-                    "Today",
-                    "Season One"
+                    "Today"
                 ],
-                "CARDINAL": [
-                    "one"
-                ],
-                "ORG": [
+                "GPE": [
                     "Amanda"
                 ],
                 "PERSON": [
-                    "S. Jackson",
+                    "Mitchell S. Jackson",
                     "Survival Math",
-                    "Jupyter\n\nLearn"
+                    "Jupyter\n\n"
+                ],
+                "WORK_OF_ART": [
+                    "Different Strokes"
                 ]
             }
         },
@@ -1162,25 +1250,11 @@
             "pubDate": "Tue, 07 Jul 2020 04:05:00 -0000",
             "title": "Ursula Hegi: The Patron Saint of Pregnant Girls",
             "entities": {
-                "ORG": [
-                    "Ursula Hegi",
-                    "Author",
-                    "Stones",
-                    "Bookable",
-                    "Bookable"
-                ],
-                "CARDINAL": [
-                    "one",
-                    "over a dozen",
-                    "more than thirty"
-                ],
-                "FAC": [
-                    "The Patron Saint of Pregnant Girls"
-                ],
                 "PERSON": [
-                    "Hegi",
                     "Ursula Hegi",
-                    "Stony Brook MFA",
+                    "Hegi",
+                    "Hegi",
+                    "Stony Brook",
                     "Andrew Dunn",
                     "Beau Friedlander",
                     "Amanda Stern",
@@ -1188,25 +1262,42 @@
                     "Amanda Stern",
                     "Beau Friedlander",
                     "Loud Tree Media",
-                    "Sun Shapes",
                     "Rufus Canis",
                     "Keen Collective",
-                    "Ferris Wheels",
                     "Rufus Canis",
                     "Greater Alexander"
                 ],
+                "FAC": [
+                    "The Patron Saint"
+                ],
                 "GPE": [
+                    "Ursula Hegi"
+                ],
+                "CARDINAL": [
+                    "over a dozen",
+                    "more than thirty"
+                ],
+                "ORG": [
+                    "Stones",
+                    "MFA",
+                    "Bookable",
+                    "Bookable",
+                    "Sun Shapes"
+                ],
+                "LOC": [
                     "Long Island"
                 ],
                 "WORK_OF_ART": [
+                    "Gatekeeper",
                     "Lights Out",
                     "The Tree Ring",
                     "Books That Bounce",
+                    "Ferris Wheels",
                     "Uni Swing Vox",
-                    "The Silence"
+                    "The Silence is Here to Save You"
                 ],
-                "LAW": [
-                    "Paper Rabbit"
+                "PRODUCT": [
+                    "Learn"
                 ]
             }
         },
@@ -1235,7 +1326,6 @@
             "entities": {
                 "PERSON": [
                     "Julie Orringer",
-                    "Varian Fry",
                     "Julie",
                     "Adrian Tomine",
                     "Andrew Dunn",
@@ -1246,7 +1336,6 @@
                     "Beau Friedlander",
                     "Loud Tree Media",
                     "Rufus Canis",
-                    "Different Strokes",
                     "Jupyter",
                     "Rufus Canis"
                 ],
@@ -1261,13 +1350,20 @@
                     "Bookable",
                     "Bookable"
                 ],
-                "WORK_OF_ART": [
+                "PRODUCT": [
                     "The Flight Portfolio",
-                    "The Loneliness of the Long-Distance Cartoonist",
-                    "Uni Swing Vox"
+                    "Learn"
+                ],
+                "NORP": [
+                    "Varian"
                 ],
                 "EVENT": [
                     "World War II"
+                ],
+                "WORK_OF_ART": [
+                    "The Loneliness of the Long-Distance Cartoonist",
+                    "Different Strokes",
+                    "Uni Swing Vox"
                 ]
             }
         },
@@ -1304,6 +1400,7 @@
                     "Nicholas Lemann",
                     "Joseph Pulitzer II",
                     "Dean Emeritus",
+                    "The Secret History",
                     "Andrew Dunn",
                     "Beau Friedlander",
                     "Amanda Stern",
@@ -1312,34 +1409,34 @@
                     "Beau Friedlander",
                     "Loud Tree Media",
                     "Rufus Canis",
+                    "Daydreamin",
                     "Dr Crosby",
                     "Brian Sussman",
-                    "Rufus Canis",
-                    "Sun Shapes"
+                    "Rufus Canis"
                 ],
                 "WORK_OF_ART": [
                     "The Big Test",
-                    "Pulitzer Moore",
-                    "The Promised Land: The Great Migration",
                     "Mean Streets",
                     "Books That Bounce",
                     "Starry Night",
                     "Uni Swing Vox"
                 ],
-                "ORG": [
+                "GPE": [
                     "Amanda",
-                    "Author",
+                    "Asbury"
+                ],
+                "ORG": [
                     "Columbia Journalism School",
                     "The New Yorker",
-                    "The Big Test: The Secret History",
+                    "The Big Test",
+                    "The Promised Land: The Great Migration and How It Changed America",
                     "Bookable",
                     "Bookable",
-                    "Shrugs",
                     "Memory Palace",
-                    "Daydreamin"
+                    "Sun Shapes"
                 ],
-                "GPE": [
-                    "Asbury"
+                "PRODUCT": [
+                    "Learn"
                 ]
             }
         },
@@ -1367,31 +1464,11 @@
             "pubDate": "Sun, 07 Jun 2020 04:05:00 -0000",
             "title": "Lydia Millet: A Children's Bible",
             "entities": {
-                "ORG": [
-                    "Lydia Millet's",
-                    "Amanda",
-                    "Author",
-                    "PEN Center USA",
-                    "the American Academy of Arts and Letters",
-                    "the National Book Critics Circle Award",
-                    "Los Angeles Times Book Prize",
-                    "New York Times Notable Books",
-                    "Infant Monkeys",
-                    "Bookable",
-                    "Bookable",
-                    "Rufus Canis"
-                ],
-                "WORK_OF_ART": [
-                    "A Children's Bible",
-                    "Love",
-                    "Pulitzer Prize",
-                    "Books That Bounce",
-                    "Finders Keepers",
-                    "Rainy Day",
-                    "Uni Swing Vox"
-                ],
                 "PERSON": [
+                    "Lydia Millet's",
                     "Lydia Millet",
+                    "Lydia Millet",
+                    "Infant Monkeys",
                     "Andrew Dunn",
                     "Beau Friedlander",
                     "Amanda Stern",
@@ -1402,18 +1479,38 @@
                     "Brian Sussman",
                     "Brian Sussman",
                     "Rufus Canis",
-                    "Brian Sussman"
+                    "Brian Sussman",
+                    "Rufus Canis\nLearn"
+                ],
+                "WORK_OF_ART": [
+                    "A Children's Bible",
+                    "Love",
+                    "Pulitzer Prize",
+                    "Books That Bounce",
+                    "Finders Keepers",
+                    "Rainy Day",
+                    "Uni Swing Vox"
+                ],
+                "GPE": [
+                    "Amanda",
+                    "Amanda",
+                    "Tucson",
+                    "Arizona"
                 ],
                 "CARDINAL": [
                     "twelve"
                 ],
-                "LAW": [
-                    "the National Book Award",
-                    "Paper Rabbit"
+                "ORG": [
+                    "PEN Center USA",
+                    "the American Academy of Arts and Letters",
+                    "the National Book Critics Circle Award",
+                    "Los Angeles Times Book Prize",
+                    "New York Times Notable Books",
+                    "Bookable",
+                    "Bookable"
                 ],
-                "GPE": [
-                    "Tucson",
-                    "Arizona"
+                "LAW": [
+                    "the National Book Award"
                 ]
             }
         },
@@ -1443,7 +1540,6 @@
                 "PERSON": [
                     "Jennifer Egan",
                     "Susan Choi",
-                    "Egan",
                     "Andrew Dunn",
                     "Beau Friedlander",
                     "Amanda Stern",
@@ -1452,27 +1548,30 @@
                     "Beau Friedlander",
                     "Loud Tree Media",
                     "Rufus Canis",
-                    "Different Strokes",
                     "Jupyter",
                     "Rufus Canis"
                 ],
                 "GPE": [
-                    "Covid"
+                    "Covid",
+                    "Amanda",
+                    "Egan"
                 ],
                 "CARDINAL": [
                     "one"
                 ],
                 "ORG": [
-                    "Amanda",
                     "PowerPoint",
+                    "the Goon Squad",
                     "Bookable",
                     "Bookable"
                 ],
-                "FAC": [
-                    "the Goon Squad"
-                ],
                 "WORK_OF_ART": [
+                    "A Visit",
+                    "Different Strokes",
                     "Uni Swing Vox"
+                ],
+                "PRODUCT": [
+                    "Learn"
                 ]
             }
         },
@@ -1504,7 +1603,6 @@
                     "Etgar Keret",
                     "Etgar Keret",
                     "Etgar Keret",
-                    "Charles Bronfman Prize",
                     "Andrew Dunn",
                     "Beau Friedlander",
                     "Amanda Stern",
@@ -1519,7 +1617,9 @@
                     "Keen Collective"
                 ],
                 "ORG": [
-                    "Author",
+                    "Fly Already",
+                    "Ramat Gan",
+                    "the Charles Bronfman Prize",
                     "The New Yorker",
                     "The Wall Street Journal",
                     "The Paris Review",
@@ -1530,31 +1630,31 @@
                     "The Roof Beam Carpenters"
                 ],
                 "GPE": [
-                    "Tel Aviv",
-                    "Wired"
+                    "Tel Aviv"
                 ],
                 "NORP": [
-                    "French",
-                    "Cam\u00e9ra"
+                    "French"
                 ],
-                "EVENT": [
-                    "the Cannes Film Festival",
-                    "The Seven Good Years"
+                "FAC": [
+                    "the Cannes Film Festival"
+                ],
+                "DATE": [
+                    "Seven Good Years"
                 ],
                 "WORK_OF_ART": [
-                    "The Bus Driver Who Wanted",
+                    "The Bus Driver Who Wanted to Be God",
+                    "Pershing Drive",
                     "Inviting The Bell",
                     "Books That Bounce",
                     "Milo's Dance",
-                    "Navy Blue",
                     "Uni Swing Vox",
                     "Dance With Me"
                 ],
                 "CARDINAL": [
                     "forty-five"
                 ],
-                "LAW": [
-                    "Paper Rabbit"
+                "PRODUCT": [
+                    "Learn"
                 ]
             }
         },
@@ -1581,14 +1681,16 @@
             "pubDate": "Sun, 10 May 2020 04:10:00 -0000",
             "title": "Rebecca Solnit & Alexander Chee",
             "entities": {
-                "ORDINAL": [
-                    "first"
+                "ORG": [
+                    "Bookable",
+                    "Rebecca Solnit",
+                    "Bookable",
+                    "Bookable"
                 ],
                 "PERSON": [
+                    "Bookable",
                     "Alexander Chee",
-                    "Rebecca Solnit",
                     "Solnit",
-                    "Recollections",
                     "Andrew Dunn",
                     "Beau Friedlander",
                     "Amanda Stern",
@@ -1597,19 +1699,24 @@
                     "Beau Friedlander",
                     "Loud Tree Media",
                     "Rufus Canis",
-                    "Different Strokes",
                     "Jupyter",
                     "Rufus Canis"
+                ],
+                "ORDINAL": [
+                    "first"
                 ],
                 "CARDINAL": [
                     "more than twenty"
                 ],
-                "ORG": [
-                    "Bookable",
-                    "Bookable"
+                "LAW": [
+                    "Recollections of My Nonexistence"
                 ],
                 "WORK_OF_ART": [
+                    "Different Strokes",
                     "Uni Swing Vox"
+                ],
+                "PRODUCT": [
+                    "Learn"
                 ]
             }
         },
@@ -1637,11 +1744,24 @@
             "pubDate": "Sun, 03 May 2020 04:05:00 -0000",
             "title": "Nell Freudenberger: Lost and Wanted",
             "entities": {
+                "ORG": [
+                    "quantum entanglement",
+                    "Amanda",
+                    "the PEN/Malamud Award",
+                    "the Sue Kaufman Prize",
+                    "the American Academy of Arts and Letters",
+                    "the New York Public Library",
+                    "Bookable",
+                    "Bookable",
+                    "Grapefruit",
+                    "Land of Legs",
+                    "Sun Shapes"
+                ],
                 "PERSON": [
                     "Nell Freudenberger",
+                    "Freudenberger",
                     "Nell Freudenberger",
                     "Lucky Girls",
-                    "the Sue Kaufman Prize",
                     "Andrew Dunn",
                     "Beau Friedlander",
                     "Amanda Stern",
@@ -1649,40 +1769,28 @@
                     "Amanda Stern",
                     "Beau Friedlander",
                     "Loud Tree Media",
-                    "Sun Shapes",
                     "Brian Sussman",
                     "Keen Collective",
                     "Chris Zabriskie"
-                ],
-                "ORG": [
-                    "Amanda",
-                    "Author",
-                    "the American Academy of Arts and Letters",
-                    "Whiting Award",
-                    "a Cullman Fellowship",
-                    "the New York Public Library",
-                    "Bookable",
-                    "Bookable",
-                    "Grapefruit"
                 ],
                 "PERCENT": [
                     "one hundred percent"
                 ],
                 "WORK_OF_ART": [
                     "the Nobel Prize",
+                    "The Newlyweds and The Dissident",
                     "Cop Talk",
-                    "Stargazers",
                     "The Color Up In",
                     "The Tree Ring",
                     "Starry Night",
-                    "Bright Futures",
-                    "Divider"
-                ],
-                "PRODUCT": [
-                    "a Guggenheim Fellowship"
+                    "Bright Futures"
                 ],
                 "GPE": [
+                    "Lost",
                     "Brooklyn"
+                ],
+                "PRODUCT": [
+                    "Learn"
                 ]
             }
         },
@@ -1711,18 +1819,19 @@
             "title": "Michelle Lhooq: Weed",
             "entities": {
                 "ORG": [
-                    "CBD",
-                    "Author",
+                    "THC",
                     "New York Magazine",
                     "the Los Angeles Times",
-                    "GQ",
-                    "Fader",
-                    "Pitchfork",
-                    "Ibiza",
-                    "Bookable"
+                    "Fader, Pitchfork",
+                    "Bookable",
+                    "Ballute"
                 ],
                 "PERSON": [
+                    "marijuana",
+                    "Indica",
                     "Michelle Lhooq",
+                    "Weed",
+                    "Episode",
                     "Michelle Lhooq",
                     "Andrew Dunn",
                     "Amanda Stern",
@@ -1739,17 +1848,23 @@
                 ],
                 "GPE": [
                     "Los Angeles",
-                    "nightclubs",
+                    "GQ",
+                    "Ibiza",
                     "Baltimore"
                 ],
                 "DATE": [
-                    "2014-2017",
-                    "June"
+                    "2014-2017"
                 ],
                 "WORK_OF_ART": [
+                    "Here Forever",
                     "Cypress",
                     "Good Morning Melody",
-                    "Feeling Sound"
+                    "June Bug",
+                    "Feeling Sound",
+                    "Uni Swing Vox"
+                ],
+                "PRODUCT": [
+                    "Learn"
                 ]
             }
         },
@@ -1777,30 +1892,32 @@
             "pubDate": "Sun, 12 Apr 2020 04:05:00 -0000",
             "title": "Oyinkan Braithwaite: My Sister The Serial Killer",
             "entities": {
-                "PERSON": [
-                    "Oyinkan Braithwaite",
-                    "Oyinkan Braithwaite",
-                    "Law",
-                    "Andrew Dunn",
-                    "Amanda Stern",
-                    "Beau Friedlander",
-                    "Wildermiss",
-                    "Kid Prism",
-                    "Rufus Cani",
-                    "Rufus Canis"
-                ],
-                "CARDINAL": [
-                    "about two"
-                ],
                 "ORG": [
-                    "Author",
+                    "My Sister The Serial Killer",
+                    "My Sister the Serial Killer",
                     "Kingston University",
                     "Kachifo Limited",
                     "Ajapaworld",
                     "the Eko Poetry Slam",
                     "the Commonwealth Short Story Prize",
                     "This Public Radio Life",
+                    "Lullatone",
                     "Polyrhythmics"
+                ],
+                "PERSON": [
+                    "Oyinkan Braithwaite",
+                    "Oyinkan Braithwaite",
+                    "Creative Writing",
+                    "Law",
+                    "Andrew Dunn",
+                    "Amanda Stern",
+                    "Beau Friedlander",
+                    "Brow",
+                    "Rufus Cani",
+                    "Rufus Canis"
+                ],
+                "CARDINAL": [
+                    "about two"
                 ],
                 "NORP": [
                     "Nigerian"
@@ -1816,8 +1933,10 @@
                 "WORK_OF_ART": [
                     "Good Morning Melody",
                     "Light a Fire",
-                    "Brighten",
                     "Uni Swing Vox"
+                ],
+                "PRODUCT": [
+                    "Learn"
                 ]
             }
         },
@@ -1850,9 +1969,11 @@
                     "Varian Fry",
                     "Orringer",
                     "Julie Orringer",
+                    "Breathe Underwater",
                     "Dorothy",
-                    "Lewis B. Cullman Center",
+                    "Lewis B. Cullman",
                     "Andrew Dunn",
+                    "Loud Tree Media",
                     "Beau Friedlander",
                     "Amanda Stern",
                     "Bounce",
@@ -1862,20 +1983,17 @@
                     "about one",
                     "thousands"
                 ],
-                "WORK_OF_ART": [
+                "PRODUCT": [
                     "The Flight Portfolio",
-                    "The Invisible Bridge",
-                    "Gold Rush",
-                    "Phantom Sun",
-                    "Heavy Eyelids",
-                    "Uni Swing Vox"
+                    "The Flight Portfolio",
+                    "Learn"
                 ],
                 "EVENT": [
                     "World War II"
                 ],
                 "ORG": [
-                    "Breathe Underwater",
-                    "New York Times",
+                    "The Invisible Bridge",
+                    "New York Times Notable Book",
                     "The Paris Review\u2018s Plimpton Prize for Fiction",
                     "the National Endowment for the Arts",
                     "Stanford University",
@@ -1883,6 +2001,18 @@
                 ],
                 "GPE": [
                     "Brooklyn"
+                ],
+                "FAC": [
+                    "Complicated Congas"
+                ],
+                "WORK_OF_ART": [
+                    "Gold Rush",
+                    "Phantom Sun",
+                    "Heavy Eyelids",
+                    "Rufus",
+                    "Shout It Out",
+                    "Rufus",
+                    "Uni Swing Vox"
                 ]
             }
         },
@@ -1910,46 +2040,36 @@
             "pubDate": "Sun, 15 Mar 2020 04:05:00 -0000",
             "title": "Susan Choi: Trust Exercise",
             "entities": {
-                "WORK_OF_ART": [
+                "ORG": [
                     "National Book Award",
-                    "Pulitzer Prize",
-                    "Amazing",
-                    "Sonogram",
-                    "Horizon",
-                    "Feeling Sound",
-                    "Adobe Dog House",
-                    "Gold Rush",
-                    "Learn"
+                    "Trust Exercises",
+                    "Choi",
+                    "The Foreign Student",
+                    "American Woman",
+                    "A Person of Interest",
+                    "PEN/Faulkner Award",
+                    "the PEN/W.G. Sebald Award",
+                    "the National Endowment for the Arts",
+                    "the Guggenheim Foundation",
+                    "Yale",
+                    "Complicated Congas"
                 ],
                 "PERSON": [
                     "Susan Choi's",
-                    "Susan Choi",
-                    "Faulkner Award",
-                    "W.G. Sebald Award",
+                    "Susan Choi\u2019s",
+                    "Literary Award",
                     "Andrew Dunn",
                     "Beau Friedlander",
                     "Amanda Stern",
+                    "Brow",
+                    "Joonie",
                     "John Venderslice",
                     "Jupyter",
                     "Gideon Freudmann"
                 ],
-                "ORG": [
-                    "Trust Exercises",
-                    "Choi",
-                    "Author",
-                    "The Foreign Student",
-                    "American Woman",
-                    "PEN",
-                    "My Education",
-                    "Trust Exercise",
-                    "the National Endowment for the Arts",
-                    "the Guggenheim Foundation",
-                    "Yale",
-                    "Joonie",
-                    "Complicated Congas"
-                ],
                 "DATE": [
                     "these days",
+                    "2004",
                     "2009",
                     "2010",
                     "2014",
@@ -1966,8 +2086,16 @@
                 "NORP": [
                     "Asian"
                 ],
-                "PRODUCT": [
-                    "Lammy Award",
+                "WORK_OF_ART": [
+                    "Pulitzer Prize",
+                    "Amazing",
+                    "Sonogram",
+                    "Horizon",
+                    "Feeling Sound",
+                    "Adobe Dog House",
+                    "Gold Rush"
+                ],
+                "FAC": [
                     "Camp Tiger"
                 ],
                 "GPE": [
@@ -2005,12 +2133,13 @@
                     "Alexander Chee",
                     "Amanda Stern",
                     "Alexander Chee",
-                    "Guernica",
+                    "Ranieri",
                     "Creative Writing",
                     "Andrew Dunn",
                     "Beau Friedlander",
                     "Amanda Stern",
                     "Rufus Canis",
+                    "Joonie",
                     "Rufus Canis",
                     "Brian Sussman",
                     "Angele David Guillou",
@@ -2018,33 +2147,30 @@
                     "Rufus Canis",
                     "Grin"
                 ],
-                "ORG": [
-                    "Author",
-                    "The New Republic",
-                    "VQR",
-                    "the New York Times Book Review",
-                    "Slate",
-                    "VCCA",
-                    "Civitella Ranieri",
-                    "Amtrak",
-                    "Dartmouth College",
-                    "Joonie"
-                ],
                 "GPE": [
                     "Edinburgh",
-                    "Tin House"
+                    "The New Republic",
+                    "Guernica"
                 ],
                 "WORK_OF_ART": [
                     "The Queen of the Night",
-                    "Rufus Canis",
+                    "Rufus Canis\u201d",
                     "Timeless Love",
                     "The Finch",
-                    "Bloom",
                     "Anti Atlas",
                     "Uni Swing Vox"
                 ],
-                "FAC": [
-                    "Houghton Mifflin Harcourt"
+                "ORG": [
+                    "Houghton Mifflin Harcourt",
+                    "VQR",
+                    "the New York Times Book Review",
+                    "Tin House",
+                    "Slate",
+                    "the MacDowell Colony",
+                    "Amtrak",
+                    "Chee",
+                    "Dartmouth College",
+                    "JPoetic"
                 ],
                 "DATE": [
                     "2003",
@@ -2052,11 +2178,13 @@
                     "2010"
                 ],
                 "EVENT": [
-                    "Whiting Award",
                     "MCCA Fellowship"
                 ],
                 "LANGUAGE": [
                     "English"
+                ],
+                "PRODUCT": [
+                    "Learn"
                 ]
             }
         },
@@ -2086,34 +2214,40 @@
             "title": "Mira Jacob: Good Talk",
             "entities": {
                 "ORG": [
-                    "Author",
-                    "Sleepwalker",
+                    "Enter Good Talk",
+                    "The Sleepwalker\u2019s Guide to Dancing",
                     "The New York Times Book Review",
                     "Vogue",
-                    "Tin House",
+                    "Glamour, Tin House",
                     "Electric Literature",
-                    "Literary Hub",
                     "Oatmello",
                     "The Flavr Blue",
+                    "Lullatone",
                     "Rubycon"
                 ],
                 "PERSON": [
+                    "Mira Jacob\u2019s",
                     "Mira Jacob",
                     "Andrew Dunn",
                     "Beau Friedlander",
                     "Amanda Stern",
+                    "Brow",
                     "Rufus Cani",
                     "Rufus Canis"
                 ],
+                "FAC": [
+                    "Literary Hub"
+                ],
                 "GPE": [
-                    "Dancing",
-                    "Glamour",
                     "Brooklyn"
                 ],
                 "WORK_OF_ART": [
                     "Good Morning Melody",
                     "Giulia\u2019s Theme",
                     "Uni Swing Vox"
+                ],
+                "PRODUCT": [
+                    "Learn"
                 ]
             }
         },
@@ -2142,16 +2276,22 @@
             "entities": {
                 "PERSON": [
                     "Amanda Stern",
-                    "Symphony Space"
+                    "Bookable"
                 ],
-                "WORK_OF_ART": [
+                "ORG": [
                     "the Happy Ending Music & Reading Series"
                 ],
                 "GPE": [
                     "New York's"
                 ],
+                "WORK_OF_ART": [
+                    "Joe's Pub and Symphony Space"
+                ],
                 "PERCENT": [
                     "one hundred percent"
+                ],
+                "PRODUCT": [
+                    "Learn"
                 ]
             }
         }
@@ -2207,12 +2347,14 @@
     "entities": {
         "PERSON": [
             "Amanda Stern",
-            "Symphony Space"
+            "Bookable"
         ],
         "ORG": [
             "Little Panic",
-            "the Happy Ending Music & Reading Series",
-            "Joe's Pub"
+            "the Happy Ending Music & Reading Series"
+        ],
+        "WORK_OF_ART": [
+            "Joe's Pub and Symphony Space"
         ]
     }
 }

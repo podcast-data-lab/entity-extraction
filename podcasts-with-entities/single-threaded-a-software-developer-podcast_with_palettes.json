@@ -63,14 +63,11 @@
             "title": "Kyle Shevlin on Healthy Boundaries at Work",
             "entities": {
                 "PERSON": [
-                    "Kyle Shevlin"
-                ],
-                "ORG": [
-                    "href=\"https://twitter.com",
+                    "Kyle Shevlin",
                     "href=\"https://dev.to"
                 ],
-                "GPE": [
-                    "work.</p"
+                "ORG": [
+                    "href=\"https://twitter.com"
                 ]
             }
         },
@@ -97,11 +94,11 @@
             "title": "Dana Jones on How Managers Help Reports Grow",
             "entities": {
                 "PERSON": [
-                    "Dana Jones"
+                    "Dana Jones",
+                    "href=\"https://dev.to"
                 ],
                 "ORG": [
-                    "Netflix Studio",
-                    "href=\"https://dev.to"
+                    "Netflix Studio"
                 ]
             }
         },
@@ -130,10 +127,7 @@
             "title": "Helen Hou-Sandi on the Real Value of Contributing to Open Source",
             "entities": {
                 "PERSON": [
-                    "Helen Hou-Sandi"
-                ],
-                "ORG": [
-                    "href=\"https://twitter.com",
+                    "Helen Hou-Sandi",
                     "href=\"https://dev.to"
                 ]
             }
@@ -163,11 +157,14 @@
             "title": "Rebecca Murphey on Developer Productivity",
             "entities": {
                 "PERSON": [
-                    "Rebecca Murphey"
+                    "Rebecca Murphey",
+                    "Hate It</a></p"
                 ],
                 "ORG": [
                     "href=\"https://twitter.com",
-                    "Stripe",
+                    "Stripe"
+                ],
+                "NORP": [
                     "href=\"https://queue.acm.org"
                 ]
             }
@@ -197,9 +194,10 @@
             "title": "Prince Wilson on Learning through Live-Coding",
             "entities": {
                 "ORG": [
-                    "href=\"https://twitter.com",
+                    "href=\"https://twitter.com"
+                ],
+                "PERSON": [
                     "Twitch",
-                    "href=\"https://www.twitch.tv",
                     "href=\"https://dev.to"
                 ],
                 "DATE": [
@@ -234,6 +232,9 @@
             "pubDate": "Mon, 07 Feb 2022 15:00:00 GMT",
             "title": "Laurie Barth on Seeking Out New Challenges",
             "entities": {
+                "DATE": [
+                    "New season"
+                ],
                 "PERSON": [
                     "Laurie Barth"
                 ],
@@ -241,9 +242,7 @@
                     "href=\"https://twitter.com"
                 ],
                 "GPE": [
-                    "Netflix",
-                    "engineering.</p",
-                    "href=\"https://dev.to"
+                    "Netflix"
                 ]
             }
         },
@@ -272,10 +271,7 @@
             "title": "Duretti Hirpa on Making Good Trouble",
             "entities": {
                 "PERSON": [
-                    "Hirpa"
-                ],
-                "ORG": [
-                    "href=\"https://twitter.com/duretti\">@duretti</a>"
+                    "Duretti Hirpa"
                 ]
             }
         },
@@ -302,14 +298,7 @@
             "link": "https://anchor.fm/single-threaded/episodes/Jeff-Lembeck-on-Hero-Culture-eurv53",
             "pubDate": "Wed, 14 Apr 2021 07:00:00 GMT",
             "title": "Jeff Lembeck on Hero Culture",
-            "entities": {
-                "ORG": [
-                    "href=\"https://twitter.com"
-                ],
-                "PERSON": [
-                    "jefflembeck\">Jeff Lembeck</a"
-                ]
-            }
+            "entities": {}
         },
         {
             "content": "<p>Carolyn Stransky (<a href=\"https://twitter.com/carolstran\">@carolstran</a>), software engineer and self-described \"eternal crybaby\", joins the podcast to talk about crying at work.&nbsp;</p>\n\n--- \n\nSupport this podcast: <a href=\"https://anchor.fm/single-threaded/support\" rel=\"payment\">https://anchor.fm/single-threaded/support</a>",
@@ -337,9 +326,6 @@
             "entities": {
                 "PERSON": [
                     "Carolyn Stransky"
-                ],
-                "ORG": [
-                    "href=\"https://twitter.com"
                 ]
             }
         },
@@ -366,7 +352,14 @@
             "link": "https://anchor.fm/single-threaded/episodes/Lauren-Tan-on-Manager-vs--Individual-Contributor-etbs2j",
             "pubDate": "Wed, 24 Mar 2021 04:00:00 GMT",
             "title": "Lauren Tan on Manager vs. Individual Contributor",
-            "entities": {}
+            "entities": {
+                "PERSON": [
+                    "Lauren Tan"
+                ],
+                "ORG": [
+                    "href=\"https://twitter.com"
+                ]
+            }
         },
         {
             "content": "<p>Sara Vieira (<a href=\"https://twitter.com/NikkitaFTW\">@NikkitaFTW</a>) is here to talk TypeScript... and why you shouldn't use it <em>everywhere.</em> We also reminiscence about Angular 1, explain The WordPress Problem...and maybe sing some Linkin Park.</p>\n<p>Transcript: Coming soon!</p>\n<p>Show notes:</p>\n<ul>\n <li>Okay, I say TypeScript weird...<br>\n</li>\n <li>Loved this course: <a href=\"https://www.executeprogram.com/courses/typescript\">https://www.executeprogram.com/courses/typescript<br>\n</a></li>\n <li>Mike North's TS course on Frontend Masters: <a href=\"https://frontendmasters.com/courses/typescript-v2/\">https://frontendmasters.com/courses/typescript-v2/<br>\n</a></li>\n <li>Effective TypeScript: <a href=\"https://effectivetypescript.com/\">https://effectivetypescript.com/</a></li>\n</ul>\n\n--- \n\nSupport this podcast: <a href=\"https://anchor.fm/single-threaded/support\" rel=\"payment\">https://anchor.fm/single-threaded/support</a>",
@@ -394,19 +387,19 @@
             "entities": {
                 "PERSON": [
                     "Sara Vieira",
-                    "Linkin",
+                    "everywhere.</em",
+                    "Linkin Park.</p",
                     "Mike North's"
                 ],
                 "ORG": [
-                    "href=\"https://twitter.com",
                     "TypeScript",
                     "The WordPress Problem",
                     "TypeScript",
-                    "href=\"https://www.executeprogram.com",
-                    "href=\"https://frontendmasters.com"
+                    "href=\"https://frontendmasters.com",
+                    "TypeScript"
                 ],
                 "PRODUCT": [
-                    "Frontend Masters"
+                    "Angular 1"
                 ]
             }
         },
@@ -435,12 +428,7 @@
             "title": "Faduma Mohammed on Code Reviews & Compliments",
             "entities": {
                 "PERSON": [
-                    "Faduma Mohammed"
-                ],
-                "ORG": [
-                    "href=\"https://twitter.com"
-                ],
-                "GPE": [
+                    "Faduma Mohammed",
                     "Github"
                 ]
             }
@@ -470,17 +458,19 @@
             "title": "Crystal Martin on the Value of \"I Don't Know\"",
             "entities": {
                 "PERSON": [
-                    "Martin",
+                    "Crystal Martin",
                     "Jenn",
-                    "JSConf Hawaii 2019:"
+                    "Twitter"
+                ],
+                "LOC": [
+                    "Crystal"
                 ],
                 "ORG": [
-                    "href=\"https://twitter.com",
-                    "href=\"https://twitter.com",
+                    "JSConf",
                     "JavaScript"
                 ],
-                "PRODUCT": [
-                    "Twitter"
+                "DATE": [
+                    "Hawaii 2019"
                 ]
             }
         },
@@ -511,18 +501,13 @@
                 "PERSON": [
                     "Erin Fox",
                     "Jenn",
+                    "Questions Erin",
+                    "href=\"https://medium.com/@erinfoox",
                     "Erin"
                 ],
-                "ORG": [
-                    "href=\"https://twitter.com",
-                    "href=\"https://twitter.com/gurlcode\">@gurlcode</a",
-                    "href=\"https://twitter.com"
-                ],
                 "CARDINAL": [
-                    "about one"
-                ],
-                "GPE": [
-                    "href=\"https://dev.to"
+                    "about one",
+                    "one"
                 ]
             }
         },
@@ -577,7 +562,7 @@
         "summary": "Each season, single-threaded tackles a new topic in software engineering. This first season, we're exploring feelings. Why do we like some technologies but dislike others? How do our emotions come into play with our career choices? These are some of the questions we'll be answering this season. Episodes are a mix of guest interviews and solo musings. Support this podcast: <a href=\"https://anchor.fm/single-threaded/support\" rel=\"payment\">https://anchor.fm/single-threaded/support</a>"
     },
     "language": "en",
-    "lastBuildDate": "Tue, 19 Apr 2022 08:57:42 GMT",
+    "lastBuildDate": "Tue, 24 May 2022 13:31:32 GMT",
     "link": "https://anchor.fm/single-threaded",
     "paginationLinks": {
         "self": "https://anchor.fm/s/429f1e8c/podcast/rss"

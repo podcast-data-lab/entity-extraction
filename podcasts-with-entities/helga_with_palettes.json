@@ -40,14 +40,13 @@
             "title": "The Armory Youth Corps\r\n",
             "entities": {
                 "ORG": [
-                    "Helga:",
+                    "Helga: The Armory Conversations",
                     "Youth Corps",
-                    "The Youth Corps Program",
+                    "Youth Corps Program",
                     "Armory",
                     "the Youth Corps",
                     "the Armory Artist Corps",
-                    "Front of House",
-                    "Armory"
+                    "Front of House"
                 ],
                 "CARDINAL": [
                     "Three"
@@ -59,6 +58,9 @@
                     "Wilson Castro",
                     "Raven Garcia",
                     "Biviana Sanchez"
+                ],
+                "GPE": [
+                    "Armory"
                 ]
             }
         },
@@ -96,19 +98,21 @@
             "entities": {
                 "PERSON": [
                     "K. Anthony Jones",
-                    "Anthony Jones",
+                    "K. Anthony Jones",
                     "Toni Morrison",
                     "Angela Y. Davis",
-                    "Tom Feelings</p>",
+                    "Cornel West",
+                    "Wahneema Lubiano</p",
+                    "Home</em",
+                    "Toni",
+                    "Tom Feelings</p",
                     "Taryn Simon",
                     "Taryn Simon",
                     "Joshua Chuang",
-                    "Virginia Hamilton"
-                ],
-                "GPE": [
-                    "make</span><span",
-                    "America",
-                    "Illustrator)</span></p"
+                    "Tim Griffin",
+                    "Virginia Hamilton",
+                    "Leo Dillon",
+                    "Diane"
                 ],
                 "CARDINAL": [
                     "one",
@@ -117,26 +121,19 @@
                 "EVENT": [
                     "the Cold War"
                 ],
-                "PRODUCT": [
-                    "science.</span><u></u><u></u></p"
+                "WORK_OF_ART": [
+                    "a Master in Design Studies"
                 ],
                 "ORG": [
-                    "the Harvard University Graduate School of Design",
-                    "Morehouse College",
+                    "Harvard University Graduate School of Design",
+                    "Morehouse College in Sociology",
                     "House",
-                    "Others on",
-                    "Toni Morrison</p>",
-                    "White Ships / Black Cargo</em>",
-                    "Author",
-                    "The People Could Fly: Black American",
-                    "Illustrator"
+                    "White Ships / Black Cargo</em",
+                    "Flea\u2019s Eye"
                 ],
                 "DATE": [
                     "2020",
                     "Today"
-                ],
-                "NORP": [
-                    "Americans"
                 ]
             }
         },
@@ -172,27 +169,24 @@
             "pubDate": "Wed, 15 Sep 2021 12:00:00 -0400",
             "title": "Antwaun Sargent\r\n",
             "entities": {
-                "PERSON": [
+                "PRODUCT": [
                     "Antwaun Sargent",
-                    "Helga",
-                    "Gallery.</p",
                     "Antwaun Sargent"
+                ],
+                "PERSON": [
+                    "Helga",
+                    "Gagosian Gallery.</p"
                 ],
                 "GPE": [
                     "New York City"
                 ],
                 "WORK_OF_ART": [
-                    "The New BlackVanguard: Photography",
+                    "The New BlackVanguard: Photography between Art and Fashion",
                     "Young, Gifted andBlack: A New Generation of Artists",
                     "Notes On Social Works"
                 ],
                 "ORG": [
-                    "Art and Fashion",
-                    "DAP",
                     "Coda"
-                ],
-                "NORP": [
-                    "Gagosian"
                 ]
             }
         },
@@ -228,10 +222,22 @@
             "pubDate": "Wed, 08 Sep 2021 12:00:00 -0400",
             "title": "Deborah Archer\r\n",
             "entities": {
-                "ORG": [
+                "DATE": [
+                    "the days"
+                ],
+                "PERSON": [
                     "Lawyer",
+                    "Deborah Archer",
+                    "Deborah N. Archer",
+                    "Deborah",
+                    "Deborah",
+                    "Deborah",
+                    "Deborah"
+                ],
+                "ORG": [
                     "ACLU",
-                    "the Center on Race, Inequality",
+                    "Co-Faculty",
+                    "the Center on Race",
                     "NYU School of Law",
                     "ACLU",
                     "MSNBC",
@@ -240,22 +246,15 @@
                     "Monocle",
                     "ACLU",
                     "the NAACP Legal Defense and Educational Fund, Inc.",
-                    "the American Association of Law School's Section on Civil Rights",
-                    "agency.</em></p"
-                ],
-                "PERSON": [
-                    "Deborah Archer",
-                    "Deborah N. Archer",
-                    "Deborah",
-                    "Deborah",
-                    "Deborah"
+                    "the American Association of Law School's Section on Civil Rights and the Section on Minority Groups",
+                    "Complaint Review Board"
                 ],
                 "LOC": [
                     "Atlantic"
                 ],
                 "GPE": [
-                    "New York",
-                    "New York City Civilian"
+                    "The New York",
+                    "New York City"
                 ]
             }
         },
@@ -291,47 +290,54 @@
             "pubDate": "Wed, 01 Sep 2021 12:00:00 -0400",
             "title": "Liliana Maria Percy Ru\u00edz\r\n",
             "entities": {
-                "GPE": [
-                    "Liliana",
-                    "Cali",
-                    "Colombia",
-                    "Liliana",
-                    "Miami",
-                    "Hvp_CDk2yYhBZAKmt58R9F?domain",
-                    "Guzman</span></a><span",
-                    "Minneapolis.</span></p"
-                ],
                 "PERSON": [
                     "Maria Percy Ru\u00edz",
                     "Krista Tippett",
-                    "Maria Percy Ru\u00edz",
+                    "Liliana Maria Percy Ru\u00edz",
+                    "Liliana Maria",
+                    "Liliana Maria",
                     "Krista Tippett",
-                    "Liliana Maria"
+                    "Liliana Maria",
+                    "Centro",
+                    "Latino"
                 ],
-                "DATE": [
-                    "the age of four",
-                    "the weekends",
-                    "2012"
+                "GPE": [
+                    "Cali",
+                    "Colombia",
+                    "Miami",
+                    "Times</span></a><span",
+                    "Guzman</span></a><span",
+                    "Minneapolis.</span></p"
+                ],
+                "CARDINAL": [
+                    "four",
+                    "four",
+                    "one",
+                    "four"
                 ],
                 "NORP": [
                     "English",
-                    "Latino"
+                    "Roman Catholic"
                 ],
                 "ORG": [
                     "Florida International University",
                     "MovieMaker",
                     "StoryCorps",
                     "NPR",
-                    "the Religion Newswriters Association Radio/Podcast Religion Report of the Year Award",
-                    "OBP"
+                    "the Religion Newswriters Association Radio/Podcast Religion Report",
+                    "the On Being Project",
+                    "OBP",
+                    "Being Studios"
                 ],
                 "WORK_OF_ART": [
                     "All Things Considered"
                 ],
-                "CARDINAL": [
-                    "four",
-                    "one",
-                    "four"
+                "DATE": [
+                    "the weekends",
+                    "2012"
+                ],
+                "EVENT": [
+                    "the Year Award"
                 ]
             }
         },
@@ -371,45 +377,50 @@
                     "Jad Abumrad",
                     "Helga",
                     "Jad Abumrad",
-                    "Kurt Andersen</em>,<span>",
+                    "Abumrad",
+                    "WNYC",
+                    "Abumrad",
+                    "Abumrad",
                     "Robert Krulwich",
-                    "George Foster Peabody Award"
+                    "Abumrad",
+                    "Abumrad",
+                    "Perfect</em",
+                    "Abumrad",
+                    "Abumrad",
+                    "Abumrad"
                 ],
                 "ORG": [
                     "Radiolab",
                     "Oberlin College",
+                    "the Edge of Ground Zero",
                     "WNYC",
-                    "Abumrad",
+                    "George Foster Peabody Award",
                     "the Supreme Court",
-                    "MacArthur Foundation",
-                    "Ring &",
-                    "Wagner",
-                    "National Headliner Grand Award"
+                    "MacArthur Fellow",
+                    "the Genius Grant",
+                    "The MacArthur Foundation",
+                    "Wagner"
                 ],
                 "GPE": [
                     "Tennessee",
-                    "Ohio",
-                    "Abumrad",
-                    "Abumrad"
+                    "Ohio"
+                ],
+                "CARDINAL": [
+                    "360",
+                    "over 10 million",
+                    "more than 500",
+                    "ten"
                 ],
                 "TIME": [
                     "24 Hours"
                 ],
                 "DATE": [
                     "today",
-                    "each month",
                     "2011",
-                    "2005",
-                    "Radio.</p"
+                    "2005"
                 ],
-                "CARDINAL": [
-                    "over 10 million",
-                    "more than 500",
-                    "ten"
-                ],
-                "LAW": [
-                    "MacArthur Fellow",
-                    "the Genius Grant"
+                "EVENT": [
+                    "National Headliner Grand Award"
                 ]
             }
         },
@@ -450,20 +461,19 @@
                     "two",
                     "one"
                 ],
-                "PERSON": [
+                "ORG": [
+                    "Opera",
                     "Helga",
+                    "Lincoln Center\u2019s"
+                ],
+                "PERSON": [
+                    "Dav\u00f3ne Tines",
                     "Tines"
                 ],
                 "DATE": [
                     "today",
                     "2020",
                     "2018"
-                ],
-                "EVENT": [
-                    "Sphinx Medal of Excellence"
-                ],
-                "ORG": [
-                    "Lincoln Center\u2019s"
                 ]
             }
         },
@@ -504,16 +514,17 @@
                     "Helga Davis",
                     "Karen Finley",
                     "Finley v.\u00a0NEA",
-                    "Karen Finley"
+                    "Finley",
+                    "Reality Shows</em> Feminist",
+                    "Karen Finley",
+                    "Karen Finley.</span></p"
                 ],
                 "GPE": [
                     "Chicago",
                     "London",
                     "New York City",
                     "Paris",
-                    "Finley",
-                    "New York",
-                    "Karen Finley.</span></p"
+                    "New York"
                 ],
                 "ORG": [
                     "MFA",
@@ -522,18 +533,24 @@
                     "the National Endowment for the Arts",
                     "Lincoln Center",
                     "Art and Public Policy",
-                    "Instagram",
                     "Coda"
                 ],
                 "NORP": [
                     "Barbican",
-                    "Bobino"
+                    "Bobino",
+                    "widely.</p"
                 ],
                 "CARDINAL": [
                     "nine"
                 ],
                 "DATE": [
-                    "2010"
+                    "Books 2018",
+                    "anniversary",
+                    "2010",
+                    "one-y4299"
+                ],
+                "ORDINAL": [
+                    "25th"
                 ],
                 "WORK_OF_ART": [
                     "Pussy Speak Out"
@@ -574,43 +591,36 @@
             "entities": {
                 "DATE": [
                     "16 year-olds",
+                    "next generation</strong><span>.</span><span",
                     "2020-2021"
                 ],
                 "PERSON": [
+                    "Jason Reynolds",
                     "Helga Davis",
+                    "Jason Reynolds",
+                    "Jason",
                     "Miles Morales",
                     "Spider Man",
                     "Lu",
-                    "Long Way Down",
-                    "Printz Honor",
                     "Scott King Honor",
-                    "X. Kendi",
-                    "Jason"
+                    "Jason",
+                    "Seth Meyers"
+                ],
+                "MONEY": [
+                    "#1 New York Times"
                 ],
                 "ORG": [
-                    "New York Times",
-                    "Ghost, Patina",
+                    "Patina, Sunny",
                     "Young People\u2019s Literature",
                     "CBS",
                     "Lesley University"
                 ],
-                "LAW": [
-                    "the Track series"
+                "WORK_OF_ART": [
+                    "The Daily Show with Trevor Noah",
+                    "Late Night"
                 ],
                 "GPE": [
-                    "Sunny",
-                    "Washington",
-                    "DC"
-                ],
-                "PRODUCT": [
-                    "Newbery Honor",
-                    "This Morning"
-                ],
-                "WORK_OF_ART": [
-                    "Look Both Ways",
-                    "National Book Award Finalist",
-                    "The Daily Show with Trevor Noah",
-                    "Late Night with Seth Meyers"
+                    "Washington, DC"
                 ]
             }
         },
@@ -648,45 +658,42 @@
             "entities": {
                 "PERSON": [
                     "Helga Davis",
-                    "Tina L. Campt</strong>",
+                    "Tina Campt",
+                    "Tina L. Campt</strong",
                     "Owen F. Walker",
-                    "Campt",
-                    "p><a href=\"https://www.brown.edu",
-                    "Tina Campt"
+                    "Tina Campt",
+                    "/span><a",
+                    "Tina Campt.</span></p"
+                ],
+                "GPE": [
+                    "Author</strong><span",
+                    "the African Diaspora",
+                    "Santa Cruz"
+                ],
+                "NORP": [
+                    "Humanities",
+                    "Germans",
+                    "Black Germans"
                 ],
                 "ORG": [
-                    "Author</strong><span> Tina Campt",
-                    "Modern Culture",
                     "Brown University",
                     "the Black Visualities Initiative",
+                    "the Cogut Institute for Humanities",
                     "the Practicing Refusal Collective",
                     "Michigan Press",
-                    "Image Matters:",
+                    "Image Matters",
                     "Duke University Press",
                     "Duke University Press",
-                    "A Black Gaze",
-                    "MIT Press",
                     "the Technical University of Berlin",
                     "the University of California",
                     "Duke University",
                     "Barnard College",
-                    "the University of Johannesburg.</em></p>\r\n",
-                    "Keynote",
-                    "Coda"
-                ],
-                "FAC": [
-                    "the Cogut Institute for Humanities",
                     "the Visual Identities",
-                    "Park Avenue Armory Public Programs"
+                    "Art and Design Research Centre",
+                    "the University of Johannesburg.</em></p"
                 ],
                 "CARDINAL": [
-                    "three",
-                    "100"
-                ],
-                "NORP": [
-                    "Germans",
-                    "Germans",
-                    "African"
+                    "three"
                 ],
                 "ORDINAL": [
                     "Third"
@@ -702,9 +709,12 @@
                 "LOC": [
                     "Europe"
                 ],
-                "GPE": [
-                    "Santa Cruz",
-                    "Tina Campt.</span></p"
+                "WORK_OF_ART": [
+                    "Listening to Images",
+                    "A Black Gaze (MIT Press"
+                ],
+                "FAC": [
+                    "Park Avenue Armory Public Programs"
                 ]
             }
         },
@@ -741,20 +751,18 @@
             "title": "Marilee Talkington \r\n",
             "entities": {
                 "ORG": [
-                    "p><strong>Actress &",
-                    "Disability Advocate <",
-                    "Disability Justice and Arts",
-                    "Founder",
+                    "Actress &",
+                    "Disability Advocate",
+                    "the Disability Justice",
                     "Access Acting Academy",
+                    "American Conservatory Theater",
                     "NBC",
                     "CBS",
                     "CW",
                     "Apple",
                     "MacDowell Fellow",
                     "California Center for Cultural Innovation Grantee",
-                    "Park Armory's",
                     "Artist/Activist",
-                    "Park Avenue Armory\u2019s",
                     "Coda"
                 ],
                 "PERSON": [
@@ -763,36 +771,40 @@
                     "Marilee Talkington",
                     "Tony Award",
                     "Marilee",
-                    "Carol Channing Trouper Award",
+                    "Winner",
+                    "Carol Channing",
                     "Jacob Bolotin Award",
-                    "Marilee Talkington <",
                     "Marilee Talkington",
-                    "Helga",
-                    "Davis.</p"
+                    "Marilee Talkington",
+                    "Helga Davis.</p"
                 ],
-                "DATE": [
-                    "1st-of-",
-                    "2020",
-                    "100 years",
-                    "Years |100"
+                "ORDINAL": [
+                    "1st",
+                    "1st"
                 ],
                 "CARDINAL": [
                     "one",
-                    "80",
+                    "over 80",
+                    "one",
                     "100",
-                    "marileetalkington.com\">www.marileetalkington.com</a",
                     "one"
                 ],
                 "GPE": [
                     "the United States",
-                    "Women</span></em></a><em><span>.</span></em></span></em></p"
+                    "imdb.me\">imdb.me"
                 ],
                 "FAC": [
                     "Broadway",
-                    "Guggenheim"
+                    "Park Armory's",
+                    "Guggenheim",
+                    "Park Avenue Armory\u2019s"
+                ],
+                "DATE": [
+                    "2020",
+                    "100 years"
                 ],
                 "WORK_OF_ART": [
-                    "The Experiment"
+                    "\"The Experiment"
                 ]
             }
         },
@@ -834,25 +846,21 @@
                     "June 2018"
                 ],
                 "PERSON": [
+                    "Visual Artist</span></strong><span",
+                    "Nick Cave",
                     "Helga Davis",
                     "Nick Cave",
-                    "Rodney King",
-                    "class=\"\"><a href=\"https://www.armoryonpark.org"
+                    "Rodney King"
                 ],
                 "GPE": [
-                    "/span><span",
+                    "collaborations,</span></strong",
                     "Fulton",
-                    "Chicago",
-                    "IL"
+                    "MO",
+                    "Chicago"
                 ],
                 "ORG": [
-                    "Black",
-                    "class=\"\">lack",
-                    "MO",
-                    "Park Avenue Armory Commission"
-                ],
-                "CARDINAL": [
-                    "1991.</em></p"
+                    "IL",
+                    "Cave\u2019s Park Avenue Armory Commission"
                 ],
                 "ORDINAL": [
                     "second"
@@ -891,12 +899,17 @@
             "pubDate": "Wed, 07 Jul 2021 12:00:00 -0400",
             "title": "Helga: The Armory Conversations Season 4 Trailer\r\n",
             "entities": {
-                "WORK_OF_ART": [
-                    "Helga:",
+                "PERSON": [
+                    "Helga"
+                ],
+                "ORG": [
                     "The Armory Conversations"
                 ],
                 "DATE": [
                     "This season"
+                ],
+                "FAC": [
+                    "Park Avenue"
                 ]
             }
         },
@@ -938,20 +951,17 @@
                 "PERSON": [
                     "Esperanza Spalding",
                     "Helga",
-                    "Grammy"
+                    "Grammy",
+                    "Esperanza Spalding",
+                    "href=\"http://www.esperanzaspalding.com/#new"
                 ],
                 "DATE": [
                     "weeks",
                     "2019"
                 ],
-                "ORDINAL": [
-                    "62nd"
-                ],
                 "WORK_OF_ART": [
-                    "Grammy Award Winner"
-                ],
-                "ORG": [
-                    "target=\"_blank\"><em><span"
+                    "Grammy Award Winner",
+                    "Best Jazz Vocal"
                 ]
             }
         },
@@ -995,16 +1005,8 @@
                     "Elizabeth Alexander",
                     "Helga",
                     "Elizabeth Alexander",
+                    "The Andrew W. Mellon",
                     "Barack Obama"
-                ],
-                "CARDINAL": [
-                    "one",
-                    "fourteen"
-                ],
-                "ORG": [
-                    "target=\"_blank\"><em><span",
-                    "American Sublime",
-                    "target=\"_blank\"><em><span"
                 ],
                 "WORK_OF_ART": [
                     "Praise Song for the Day",
@@ -1012,6 +1014,12 @@
                 ],
                 "DATE": [
                     "2009"
+                ],
+                "CARDINAL": [
+                    "fourteen"
+                ],
+                "ORG": [
+                    "American Sublime"
                 ]
             }
         },
@@ -1056,23 +1064,18 @@
                     "Gullah",
                     "Ranky Tanky",
                     "Grammy",
+                    "Gullah",
                     "Ranky Tanky",
                     "Good Time - <"
+                ],
+                "CARDINAL": [
+                    "2/5th"
                 ],
                 "DATE": [
                     "the present day"
                 ],
-                "ORDINAL": [
-                    "62nd"
-                ],
                 "WORK_OF_ART": [
                     "Grammy Award Winners for Best Regional Roots Album"
-                ],
-                "ORG": [
-                    "target=\"_blank\"><em><span"
-                ],
-                "NORP": [
-                    "now</span></em></a><em><span>.</span></em></p"
                 ]
             }
         },
@@ -1118,12 +1121,12 @@
                 ],
                 "ORG": [
                     "City Bakeries",
-                    "target=\"_blank\"><em><span"
+                    "Pastry Chef"
                 ],
                 "PERSON": [
                     "Maury Rubin",
                     "City Bakery",
-                    "Rubin"
+                    "Maury Rubin"
                 ],
                 "DATE": [
                     "just a few months",
@@ -1167,19 +1170,12 @@
             "pubDate": "Fri, 24 Apr 2020 12:00:00 -0400",
             "title": "Judy Collins\r\n",
             "entities": {
-                "NORP": [
-                    "Musician",
-                    "heart.<br></span></em><br><em><span"
-                ],
                 "PERSON": [
                     "Judy Collins",
                     "Judy Collins"
                 ],
                 "DATE": [
                     "decades"
-                ],
-                "ORG": [
-                    "target=\"_blank\"><em><span"
                 ]
             }
         },
@@ -1218,9 +1214,13 @@
             "pubDate": "Tue, 21 Apr 2020 12:00:00 -0400",
             "title": "Bethann Hardison \r\n",
             "entities": {
+                "NORP": [
+                    "Activist",
+                    "diversity.</span></em></p"
+                ],
                 "PERSON": [
                     "Bethann Hardison",
-                    "Hardison"
+                    "Bethann Hardison"
                 ],
                 "WORK_OF_ART": [
                     "Bed Stuy"
@@ -1269,7 +1269,7 @@
                 "PERSON": [
                     "Stanley Whitney",
                     "Stanley Whitney",
-                    "View Stanley Whitney's"
+                    "Stanley Whitney's"
                 ],
                 "GPE": [
                     "United States.</span></p",
@@ -1279,10 +1279,9 @@
                 ],
                 "ORG": [
                     "the Metropolitan Museum of Art",
-                    "Whitney Museum of American Art",
                     "National Gallery of Canada",
                     "the Guggenheim Museum",
-                    "target=\"_blank\"><em><span"
+                    "href=\"https://www.lissongallery.com"
                 ]
             }
         },
@@ -1322,23 +1321,22 @@
             "pubDate": "Tue, 14 Apr 2020 12:00:00 -0400",
             "title": "Krista Tippett\r\n",
             "entities": {
+                "PERSON": [
+                    "Krista Tippett",
+                    "Krista Tippett",
+                    "Mimi",
+                    "Peter E. Haas",
+                    "Obama",
+                    "Krista",
+                    "P\u00e1draig \u00f3 Tauma.</p"
+                ],
                 "ORG": [
-                    "Being</span></em><span>.</span></p",
                     "New York Times",
+                    "National Humanities Medalist",
                     "Brown University",
                     "Stanford University",
                     "the National Humanities Medal",
-                    "href=\"https://onbeing.org",
-                    "P\u00e1draig \u00f3 Tauma.</p"
-                ],
-                "PERSON": [
-                    "Krista Tippett",
-                    "Mimi",
-                    "Peter E. Haas Distinguished Visitor",
-                    "Obama awarded"
-                ],
-                "WORK_OF_ART": [
-                    "a Peabody Award"
+                    "Being Studios"
                 ],
                 "GPE": [
                     "Oklahoma"
@@ -1391,7 +1389,11 @@
             "title": "Helga Season III Trailer\r\n",
             "entities": {
                 "PERSON": [
-                    "Helga Davis"
+                    "Helga Davis",
+                    "Krista Tippett.</span></p"
+                ],
+                "GPE": [
+                    "Helga.<span"
                 ],
                 "DATE": [
                     "Season 3",
@@ -1438,23 +1440,20 @@
             "pubDate": "Wed, 13 Jun 2018 12:00:00 -0400",
             "title": "Art Maven Kimberly Drew\r\n",
             "entities": {
-                "ORG": [
-                    "@museummammy",
-                    "the Metropolitan Museum of Art",
-                    "href=\"https://www.instagram.com",
-                    "Drew</p",
-                    "href=\"https://itunes.apple.com",
-                    "href=\"https://www.facebook.com/Helga-Davis-358150190920345/"
-                ],
                 "PERSON": [
-                    "Contemporary",
-                    "Instagram account</a",
+                    "Kimberly Drew",
+                    "Glamour</em",
+                    "W</em",
+                    "Teen Vogue</em>",
                     "Helga Davis",
                     "Helga",
                     "Helga Davis"
                 ],
-                "GPE": [
-                    "iTunes</a"
+                "ORG": [
+                    "the Metropolitan Museum of Art"
+                ],
+                "WORK_OF_ART": [
+                    "target=\"_blank\">Black Contemporary"
                 ]
             }
         },
@@ -1498,7 +1497,7 @@
                     "David",
                     "David",
                     "Helga Davis",
-                    "-David Kyuman",
+                    "-David Kyuman Kim</em></p",
                     "Helga",
                     "Helga Davis"
                 ],
@@ -1507,13 +1506,7 @@
                 ],
                 "ORG": [
                     "Connecticut College",
-                    "American Studies",
-                    "href=\"https://itunes.apple.com",
-                    "href=\"https://www.facebook.com/Helga-Davis-358150190920345/"
-                ],
-                "GPE": [
-                    "history.</p",
-                    "iTunes</a"
+                    "American Studies"
                 ]
             }
         },
@@ -1559,27 +1552,25 @@
                 "PERSON": [
                     "Jacqueline Woodson",
                     "Helga Davis",
-                    "Woodson",
+                    "Jacqueline",
                     "Helga",
                     "Helga Davis"
                 ],
                 "DATE": [
                     "2014",
                     "this past January",
-                    "two-year"
+                    "two-year",
+                    "a very early age"
                 ],
-                "WORK_OF_ART": [
+                "EVENT": [
                     "National Book Award"
                 ],
                 "ORG": [
                     "Young People's Literature",
-                    "Jacqueline",
-                    "href=\"https://itunes.apple.com",
-                    "href=\"https://www.facebook.com/Helga-Davis-358150190920345/"
+                    "Woodson"
                 ],
                 "GPE": [
-                    "New York",
-                    "iTunes</a"
+                    "New York Times</em"
                 ],
                 "CARDINAL": [
                     "two",
@@ -1628,27 +1619,21 @@
                 "PERSON": [
                     "Kenneth Lonergan",
                     "Oscar",
+                    "Manchester",
                     "Martin",
                     "Helga Davis",
                     "Lonergan",
+                    "-Kenneth Lonergan<br></em></p",
                     "Helga",
                     "Helga Davis"
                 ],
-                "ORDINAL": [
-                    "89th"
-                ],
-                "WORK_OF_ART": [
-                    "Manchester By the</em>\u00a0Sea"
-                ],
                 "ORG": [
-                    "the\u00a0Walden School",
-                    "creativity.</p",
-                    "href=\"https://itunes.apple.com",
-                    "href=\"https://www.facebook.com/Helga-Davis-358150190920345/"
+                    "the 89th Academy Awards",
+                    "the</em",
+                    "the\u00a0Walden School"
                 ],
                 "GPE": [
-                    "New York",
-                    "iTunes</a"
+                    "New York"
                 ],
                 "DATE": [
                     "daily"
@@ -1694,33 +1679,26 @@
             "pubDate": "Mon, 26 Mar 2018 12:00:00 -0400",
             "title": "Studio Museum in Harlem's Thelma Golden\r\n",
             "entities": {
-                "ORG": [
-                    "the Studio Museum",
-                    "the White House",
-                    "Curatorial Excellence",
-                    "href=\"https://itunes.apple.com",
-                    "href=\"https://www.facebook.com/Helga-Davis-358150190920345/"
-                ],
-                "GPE": [
-                    "Harlem",
-                    "iTunes</a"
-                ],
                 "PERSON": [
-                    "Obama",
-                    "Audrey Irmas Award",
-                    "Helga",
+                    "Thelma Golden",
+                    "Audrey Irmas",
+                    "Golden",
                     "Helga",
                     "Helga Davis"
                 ],
+                "ORG": [
+                    "the Studio Museum",
+                    "the White House"
+                ],
+                "LOC": [
+                    "Harlem"
+                ],
                 "ORDINAL": [
                     "first",
-                    "first"
+                    "second"
                 ],
-                "DATE": [
-                    "the second season"
-                ],
-                "NORP": [
-                    "Golden</p"
+                "GPE": [
+                    "Helga"
                 ]
             }
         },
@@ -1752,6 +1730,15 @@
             "pubDate": "Fri, 23 Mar 2018 12:00:00 -0400",
             "title": "Season Two of 'Helga' Returns Next Week with Thelma Golden\r\n",
             "entities": {
+                "DATE": [
+                    "The second season",
+                    "Monday, March 26",
+                    "Monday",
+                    "today",
+                    "daily",
+                    "this weekend",
+                    "the first season"
+                ],
                 "ORG": [
                     "href=\"https://www.newsounds.org",
                     "The Studio Museum",
@@ -1759,31 +1746,24 @@
                     "href=\"https://www.newsounds.org",
                     "href=\"https://www.newsounds.org",
                     "href=\"https://www.newsounds.org",
-                    "href=\"https://www.newsounds.org",
-                    "href=\"https://www.newsounds.org",
-                    "href=\"https://itunes.apple.com",
-                    "href=\"https://www.facebook.com/Helga-Davis-358150190920345/"
+                    "My Brightest"
                 ],
                 "PERSON": [
                     "Helga Davis",
                     "Thelma Golden",
+                    "hilton-als\">Hilton",
+                    "sarah-jones\">Sarah Jones</a",
                     "Helga",
                     "Helga Davis"
                 ],
-                "DATE": [
-                    "Monday, March 26",
-                    "Monday",
-                    "today",
-                    "Season One",
-                    "this weekend",
-                    "the first season"
-                ],
-                "GPE": [
-                    "Harlem",
-                    "iTunes</a"
+                "LOC": [
+                    "Harlem"
                 ],
                 "CARDINAL": [
                     "ten"
+                ],
+                "EVENT": [
+                    "Season One"
                 ]
             }
         },
@@ -1830,30 +1810,29 @@
             "pubDate": "Mon, 23 Jan 2017 12:00:00 -0500",
             "title": "Hilton Als\r\n",
             "entities": {
-                "ORG": [
-                    "Als",
-                    "Helga",
-                    "Als",
-                    "Sonic Youth's",
-                    "href=\"https://itunes.apple.com",
-                    "href=\"https://www.facebook.com/Helga-Davis-358150190920345/"
-                ],
-                "NORP": [
-                    "American",
-                    "African"
-                ],
-                "DATE": [
-                    "the first season"
-                ],
                 "PERSON": [
+                    "Hilton Als",
+                    "Als",
                     "Davis",
                     "Kim Gordon",
                     "Thurston Moore",
                     "Helga",
                     "Helga Davis"
                 ],
+                "ORG": [
+                    "Als",
+                    "Sonic Youth's"
+                ],
+                "NORP": [
+                    "American",
+                    "African-American"
+                ],
+                "DATE": [
+                    "this tenth",
+                    "the first season"
+                ],
                 "GPE": [
-                    "iTunes</a"
+                    "Helga"
                 ]
             }
         },
@@ -1901,23 +1880,20 @@
             "pubDate": "Mon, 09 Jan 2017 12:00:00 -0500",
             "title": "Sarah Jones\r\n",
             "entities": {
-                "CARDINAL": [
-                    "one"
-                ],
-                "GPE": [
-                    "America",
-                    "iTunes</a"
-                ],
                 "PERSON": [
-                    "Jones",
+                    "target=\"_blank\">Sarah Jones</a",
                     "Davis",
                     "Mandela",
+                    "-Sarah Jones</span></p",
                     "Helga",
                     "Helga Davis"
                 ],
-                "ORG": [
-                    "href=\"https://itunes.apple.com",
-                    "href=\"https://www.facebook.com/Helga-Davis-358150190920345/"
+                "CARDINAL": [
+                    "one",
+                    "between one"
+                ],
+                "GPE": [
+                    "America"
                 ]
             }
         },
@@ -1966,13 +1942,11 @@
             "title": "Julia Bullock\r\n",
             "entities": {
                 "ORG": [
-                    "Julia Bullock",
+                    "Julia Bullock <",
                     "Juilliard",
                     "Bullock",
                     "Juilliard",
-                    "Bard",
-                    "href=\"https://itunes.apple.com",
-                    "href=\"https://www.facebook.com/Helga-Davis-358150190920345/"
+                    "Bard"
                 ],
                 "PERSON": [
                     "Josephine Baker",
@@ -1989,10 +1963,8 @@
                     "zero"
                 ],
                 "DATE": [
-                    "yesterday"
-                ],
-                "GPE": [
-                    "iTunes</a"
+                    "yesterday",
+                    "every day"
                 ]
             }
         },
@@ -2040,24 +2012,24 @@
             "pubDate": "Mon, 19 Dec 2016 12:00:00 -0500",
             "title": "Alejandro Hernandez-Valdez\r\n",
             "entities": {
+                "CARDINAL": [
+                    "target=\"_blank\">Musica"
+                ],
                 "ORG": [
                     "All Souls Church",
-                    "href=\"https://itunes.apple.com",
-                    "href=\"https://www.facebook.com/Helga-Davis-358150190920345/"
+                    "Hernandez-Valdez"
                 ],
                 "LOC": [
                     "the Upper East Side"
                 ],
                 "PERSON": [
                     "Davis",
+                    "-Alejandro Hernandez-Valdez</span></p",
                     "Helga",
                     "Helga Davis"
                 ],
                 "DATE": [
                     "daily"
-                ],
-                "GPE": [
-                    "iTunes</a"
                 ]
             }
         },
@@ -2109,7 +2081,9 @@
                     "Alan Gilbert",
                     "Gilbert",
                     "Davis",
+                    "\u201d</em",
                     "Alan Gilbert",
+                    "<p><strong><a",
                     "Helga",
                     "Helga Davis"
                 ],
@@ -2117,11 +2091,7 @@
                     "eight seasons"
                 ],
                 "ORG": [
-                    "the New York Philharmonic",
-                    "href=\"https://itunes.apple.com"
-                ],
-                "GPE": [
-                    "more.</p"
+                    "the New York Philharmonic"
                 ]
             }
         },
@@ -2171,9 +2141,7 @@
                     "fourth"
                 ],
                 "ORG": [
-                    "href=\"http://www.wqxr.org",
-                    "Solange",
-                    "href=\"https://itunes.apple.com"
+                    "Solange"
                 ],
                 "PERSON": [
                     "Helga Davis",
@@ -2182,10 +2150,13 @@
                 ],
                 "GPE": [
                     "Idaho",
-                    "America.</p"
+                    "Facebook</a></strong"
                 ],
                 "CARDINAL": [
                     "two"
+                ],
+                "WORK_OF_ART": [
+                    "A Seat"
                 ]
             }
         },
@@ -2234,20 +2205,14 @@
             "pubDate": "Mon, 28 Nov 2016 12:00:00 -0500",
             "title": "Jennifer Koh\r\n",
             "entities": {
-                "ORG": [
-                    "href=\"http://www.wqxr.org",
-                    "href=\"https://itunes.apple.com"
-                ],
                 "PERSON": [
                     "Davis",
                     "Philip Glass",
                     "Robert Wilson's",
+                    "-Jennifer Koh",
+                    "<p><strong><a",
                     "Helga",
                     "Helga Davis"
-                ],
-                "GPE": [
-                    "others.p&gt;</p",
-                    "iTunes</a"
                 ]
             }
         },
@@ -2298,6 +2263,7 @@
             "entities": {
                 "PERSON": [
                     "Henry Threadgill",
+                    "Moby Dick</em",
                     "Helga",
                     "Helga",
                     "Helga Davis"
@@ -2310,8 +2276,7 @@
                     "the Pulitzer Prize"
                 ],
                 "ORG": [
-                    "Threadgill",
-                    "href=\"https://itunes.apple.com"
+                    "Threadgill"
                 ]
             }
         },
@@ -2334,7 +2299,7 @@
                 "q2_music",
                 "shara_nova"
             ],
-            "content": "<p><span>After moving to Detroit from New York and separating from her husband, <a href=\"http://www.mybrightestdiamond.com/\" target=\"_blank\">My Brightest Diamond</a>'s Shara Worden decided to change her last name to Nova. The frontwoman for the indie-rock band, singer and composer talks to Helga Davis about </span>about her upcoming album and Southern roots, about leaning into vulnerability, and why being uncomfortable is crucial in art-making. She also talks about why it was important for her to escape the art scene and rub shoulders with construction workers, and what it means that her new name translates to \"new song.\"</p>\r\n<p><em>\u201cVulnerability is I think one thing that I, we, I am so afraid of. We want control or perceived control and I think art-making is like subjecting yourself to this admission that you don\u2019t have control. So I think that many, or maybe all, of my decisions are motivated by challenge, and in a way where I find where my vulnerability is, is the exact place that I need to lean into.\u201d</em> \u2013Shara Nova</p>\r\n<p><strong><a href=\"https://itunes.apple.com/us/podcast/helga/id1174524789?mt=2\" target=\"_blank\">Subscribe to Helga on iTunes</a> or wherever you get your podcasts, and <a href=\"https://www.facebook.com/Helga-Davis-358150190920345/\" target=\"_blank\">follow Helga Davis on facebook</a></strong>.</p>\r\n<p><strong>Watch</strong>: Inside Shara Nova's Mystical Detroit Home, from the web series <a href=\"http://www.wqxr.org/series/q2-spaces/\" target=\"_blank\">Q2 Spaces</a>.</p>\r\n<p><div class=\"user-embedded-video\"><div id=\"videoplayer_idm140472092182496d5efaba8-56e7-4264-94b6-9c19b4c2a581\"><iframe width=\"620\" height=\"349\" src=\"https://www.youtube.com/embed/sHgEfVfoTA8?wmode=transparent&amp;autohide=1&amp;rel=0&amp;showinfo=0&amp;feature=oembed&amp;enablejsapi=1\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen=\"allowfullscreen\" id=\"a-7402942789024568989\" class=\"youtube_video\" mozallowfullscreen=\"mozallowfullscreen\" webkitallowfullscreen=\"webkitallowfullscreen\" data-original-url=\"https://www.youtube.com/watch?v=sHgEfVfoTA8\"></iframe></div></div></p>\r\n",
+            "content": "<p><span>After moving to Detroit from New York and separating from her husband, <a href=\"http://www.mybrightestdiamond.com/\" target=\"_blank\">My Brightest Diamond</a>'s Shara Worden decided to change her last name to Nova. The frontwoman for the indie-rock band, singer and composer talks to Helga Davis about </span>about her upcoming album and Southern roots, about leaning into vulnerability, and why being uncomfortable is crucial in art-making. She also talks about why it was important for her to escape the art scene and rub shoulders with construction workers, and what it means that her new name translates to \"new song.\"</p>\r\n<p><em>\u201cVulnerability is I think one thing that I, we, I am so afraid of. We want control or perceived control and I think art-making is like subjecting yourself to this admission that you don\u2019t have control. So I think that many, or maybe all, of my decisions are motivated by challenge, and in a way where I find where my vulnerability is, is the exact place that I need to lean into.\u201d</em> \u2013Shara Nova</p>\r\n<p><strong><a href=\"https://itunes.apple.com/us/podcast/helga/id1174524789?mt=2\" target=\"_blank\">Subscribe to Helga on iTunes</a> or wherever you get your podcasts, and <a href=\"https://www.facebook.com/Helga-Davis-358150190920345/\" target=\"_blank\">follow Helga Davis on facebook</a></strong>.</p>\r\n<p><strong>Watch</strong>: Inside Shara Nova's Mystical Detroit Home, from the web series <a href=\"http://www.wqxr.org/series/q2-spaces/\" target=\"_blank\">Q2 Spaces</a>.</p>\r\n<p><div class=\"user-embedded-video\"><div id=\"videoplayer_idm14030019405691240c6e867-92e5-4994-ae1b-6d291ef62814\"><iframe width=\"620\" height=\"349\" src=\"https://www.youtube.com/embed/sHgEfVfoTA8?wmode=transparent&amp;autohide=1&amp;rel=0&amp;showinfo=0&amp;feature=oembed&amp;enablejsapi=1\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen=\"allowfullscreen\" id=\"a-7402942789024568989\" class=\"youtube_video\" mozallowfullscreen=\"mozallowfullscreen\" webkitallowfullscreen=\"webkitallowfullscreen\" data-original-url=\"https://www.youtube.com/watch?v=sHgEfVfoTA8\"></iframe></div></div></p>\r\n",
             "content:encoded": "<p>After moving to Detroit from New York and separating from her husband, My Brightest Diamond's Shara Worden decided to change her last name to Nova. The frontwoman for the indie-rock band, singer and composer talks to Helga about about her upcoming album and Southern roots, about leaning into vulnerability, and why being uncomfortable is crucial in art-making. She also talks about why it was important for her to escape the art scene and to rub shoulders with construction workers, and what it means that her new name translates to \"new song.\"</p>\n<p>---</p>\n<p>About the podcast:</p>\n<p>HELGA with host Helga Davis features probing conversations with artists across the creative and performing arts that have a unique, uncompromising voice and a stake in the matter of social change.</p>\n<p>Produced by Q2 Music <a href=\"http://www.q2music.org\">www.q2music.org</a></p>\n<p>Q2 Music is WQXR, New York's multi-platform home for dynamic and inspiring contemporary music. Discover countless new artists via our 24/7 music stream \u2013 hand-crafted daily to reward your curiosity \u2013 and surprise your imagination with a world of new sounds.</p>",
             "content:encodedSnippet": "After moving to Detroit from New York and separating from her husband, My Brightest Diamond's Shara Worden decided to change her last name to Nova. The frontwoman for the indie-rock band, singer and composer talks to Helga about about her upcoming album and Southern roots, about leaning into vulnerability, and why being uncomfortable is crucial in art-making. She also talks about why it was important for her to escape the art scene and to rub shoulders with construction workers, and what it means that her new name translates to \"new song.\"\n---\nAbout the podcast:\nHELGA with host Helga Davis features probing conversations with artists across the creative and performing arts that have a unique, uncompromising voice and a stake in the matter of social change.\nProduced by Q2 Music www.q2music.org\nQ2 Music is WQXR, New York's multi-platform home for dynamic and inspiring contemporary music. Discover countless new artists via our 24/7 music stream \u2013 hand-crafted daily to reward your curiosity \u2013 and surprise your imagination with a world of new sounds.",
             "contentSnippet": "After moving to Detroit from New York and separating from her husband, My Brightest Diamond's Shara Worden decided to change her last name to Nova. The frontwoman for the indie-rock band, singer and composer talks to Helga Davis about about her upcoming album and Southern roots, about leaning into vulnerability, and why being uncomfortable is crucial in art-making. She also talks about why it was important for her to escape the art scene and rub shoulders with construction workers, and what it means that her new name translates to \"new song.\"\n\r\n\u201cVulnerability is I think one thing that I, we, I am so afraid of. We want control or perceived control and I think art-making is like subjecting yourself to this admission that you don\u2019t have control. So I think that many, or maybe all, of my decisions are motivated by challenge, and in a way where I find where my vulnerability is, is the exact place that I need to lean into.\u201d \u2013Shara Nova\n\r\nSubscribe to Helga on iTunes or wherever you get your podcasts, and follow Helga Davis on facebook.\n\r\nWatch: Inside Shara Nova's Mystical Detroit Home, from the web series Q2 Spaces.",
@@ -2363,25 +2328,26 @@
                 "GPE": [
                     "Detroit",
                     "New York",
-                    "mozallowfullscreen=\"mozallowfullscreen"
+                    "Watch</strong"
                 ],
                 "PERSON": [
-                    "Brightest Diamond</a",
-                    "Shara Worden",
+                    "Brightest Diamond</a>",
                     "Helga Davis",
+                    "<p><strong><a",
                     "Helga",
                     "Helga Davis"
                 ],
+                "FAC": [
+                    "Shara Worden"
+                ],
                 "ORG": [
                     "Nova",
-                    "href=\"https://itunes.apple.com",
+                    "Shara",
+                    "Inside Shara Nova's",
                     "Mystical Detroit Home"
                 ],
                 "NORP": [
                     "Southern"
-                ],
-                "CARDINAL": [
-                    "q2"
                 ]
             }
         },
@@ -2429,36 +2395,34 @@
             "pubDate": "Mon, 14 Nov 2016 12:00:00 -0500",
             "title": "Peter Sellars\r\n",
             "entities": {
-                "ORG": [
-                    "href=\"http://www.wqxr.org",
-                    "Q2 Music",
-                    "Helga",
-                    "href=\"http://www.newyorker.com/magazine/2014/10/27/atonement-2",
-                    "href=\"https://itunes.apple.com"
+                "CARDINAL": [
+                    "Q2",
+                    "10",
+                    "one",
+                    "one"
                 ],
                 "DATE": [
                     "today",
                     "the first season"
                 ],
-                "CARDINAL": [
-                    "10",
-                    "one"
-                ],
                 "PERSON": [
+                    "Helga",
                     "Helga",
                     "Peter Sellars",
                     "Davis",
-                    "Sellars",
                     "Bach",
-                    "Matthew Passion</a>",
+                    "Matthew Passion</a",
                     "Helga",
                     "Helga Davis",
                     "Helga Davis",
                     "Peter Sellars"
                 ],
+                "ORG": [
+                    "Sellars"
+                ],
                 "GPE": [
                     "Las Vegas",
-                    "WQXR.\"</p"
+                    "Watch</strong"
                 ]
             }
         },
@@ -2506,46 +2470,45 @@
             "pubDate": "Thu, 10 Nov 2016 12:00:00 -0500",
             "title": "Sneak Peek: New Podcast 'Helga'\r\n",
             "entities": {
-                "ORG": [
-                    "Q2 Music",
-                    "href=\"https://itunes.apple.com",
-                    "Lawrence \u201cButch\u201d Morris",
-                    "Philip Glass\u2019s"
+                "CARDINAL": [
+                    "Q2",
+                    "two",
+                    "10",
+                    "40"
                 ],
                 "DATE": [
                     "next week",
                     "Monday, Nov. 14",
                     "Tuesday, Nov. 15",
+                    "first season",
                     "Mondays",
-                    "Jan. 9.</p",
                     "2012",
                     "that year"
                 ],
-                "CARDINAL": [
-                    "two",
-                    "10",
-                    "40"
-                ],
                 "PERSON": [
+                    "Peter Sellars</strong",
                     "Brightest Diamond",
                     "Helga",
                     "Helga",
-                    "Helga Davis</p>",
-                    "Helga",
+                    "Helga Davis</p",
                     "Helga Davis",
-                    "Nona Hendryx",
+                    "Lawrence \u201cButch\u201d Morris",
                     "Bernice Johnson Reagon",
                     "Lou Reed",
                     "Laurie Anderson",
                     "Shara Nova",
                     "Paola Prestini",
-                    "Robert Wilson\u2019s"
+                    "Robert Wilson\u2019s",
+                    "Philip Glass"
                 ],
                 "ORDINAL": [
                     "first"
                 ],
+                "ORG": [
+                    "Helga on iTunes</a>.</p"
+                ],
                 "GPE": [
-                    "width=\"620\"></iframe></p"
+                    "Nona Hendryx"
                 ]
             }
         }
@@ -2603,22 +2566,27 @@
     "ttl": "600",
     "entities": {
         "PERSON": [
-            "Helga Davis",
+            "Helga Davis"
+        ],
+        "WORK_OF_ART": [
+            "Helga: The Armory Conversations"
+        ],
+        "GPE": [
             "Helga"
         ],
         "ORG": [
-            "Helga:",
+            "WNYC Studios",
+            "WNYC Studios",
             "Radiolab",
-            "Death, Sex & Money"
-        ],
-        "WORK_OF_ART": [
-            "The Armory Conversations"
+            "Death, Sex & Money",
+            "white wall gallery"
         ],
         "FAC": [
             "Park Avenue Armory",
             "Park Avenue Armory"
         ],
         "NORP": [
+            "Media",
             "American"
         ]
     }

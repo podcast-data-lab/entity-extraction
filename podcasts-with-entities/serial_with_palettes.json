@@ -39,9 +39,6 @@
                 "GPE": [
                     "Birmingham"
                 ],
-                "ORG": [
-                    "Hamza"
-                ],
                 "PERSON": [
                     "Brian"
                 ]
@@ -71,9 +68,6 @@
             "pubDate": "Fri, 18 Mar 2022 09:30:00 +0000",
             "title": "The Trojan Horse Affair - Part 2",
             "entities": {
-                "ORG": [
-                    "Hamza"
-                ],
                 "PERSON": [
                     "Brian",
                     "Trojan Horse"
@@ -187,10 +181,6 @@
             "pubDate": "Fri, 18 Mar 2022 09:15:00 +0000",
             "title": "The Trojan Horse Affair - Part 5",
             "entities": {
-                "ORG": [
-                    "Hamza",
-                    "Hamza"
-                ],
                 "PERSON": [
                     "Brian",
                     "Trojan Horse"
@@ -200,6 +190,9 @@
                 ],
                 "TIME": [
                     "six hours later"
+                ],
+                "ORG": [
+                    "Hamza"
                 ]
             }
         },
@@ -302,10 +295,8 @@
             "pubDate": "Fri, 18 Mar 2022 09:00:00 +0000",
             "title": "The Trojan Horse Affair - Part 8",
             "entities": {
-                "NORP": [
-                    "Trojan"
-                ],
                 "PERSON": [
+                    "Trojan Horse",
                     "Brian"
                 ],
                 "ORG": [
@@ -362,7 +353,7 @@
                     "The Trojan Horse Affair"
                 ],
                 "CARDINAL": [
-                    "All eight"
+                    "eight"
                 ]
             }
         },
@@ -391,7 +382,13 @@
             "link": "https://serialpodcast.org",
             "pubDate": "Wed, 28 Apr 2021 10:00:05 +0000",
             "title": "The Improvement Association - Chap 5",
-            "entities": {}
+            "entities": {
+                "ORG": [
+                    "The Improvement Association",
+                    "PAC",
+                    "PAC"
+                ]
+            }
         },
         {
             "author": "rich@thislife.org (Serial Productions & The New York Times)",
@@ -419,6 +416,12 @@
             "pubDate": "Wed, 28 Apr 2021 10:00:04 +0000",
             "title": "The Improvement Association - Chap 4",
             "entities": {
+                "ORG": [
+                    "PAC"
+                ],
+                "DATE": [
+                    "years"
+                ],
                 "PERSON": [
                     "Horace"
                 ]
@@ -492,6 +495,9 @@
                 ],
                 "PERSON": [
                     "Zoe"
+                ],
+                "ORG": [
+                    "PAC"
                 ]
             }
         },
@@ -531,11 +537,10 @@
                 "PERSON": [
                     "Zoe Chace",
                     "Horace Munn",
-                    "Horace",
-                    "Zoe"
+                    "Horace"
                 ],
                 "ORG": [
-                    "the Bladen County Improvement Association PAC"
+                    "the Bladen County Improvement Association"
                 ]
             }
         },
@@ -573,7 +578,7 @@
                     "The New York Times"
                 ],
                 "PERSON": [
-                    "Zoe Chace.</p>\n"
+                    "Zoe Chace.</p>"
                 ]
             }
         },
@@ -603,6 +608,10 @@
             "pubDate": "Thu, 20 Aug 2020 09:00:00 +0000",
             "title": "Nice White Parents - Ep. 5",
             "entities": {
+                "ORG": [
+                    "Chana",
+                    "BHS"
+                ],
                 "CARDINAL": [
                     "One"
                 ],
@@ -610,13 +619,9 @@
                     "Last year",
                     "the late 1950s"
                 ],
-                "ORG": [
-                    "BHS",
-                    "Chana",
-                    "alt="
-                ],
-                "GPE": [
-                    "Latino"
+                "PERSON": [
+                    "Latino",
+                    "Chana"
                 ]
             }
         },
@@ -649,15 +654,12 @@
                 "ORG": [
                     "Chana",
                     "Success Academy",
-                    "BHS",
-                    "src=\"http://feeds.feedburner.com/~r/serialpodcast/~4",
-                    "alt="
+                    "BHS"
                 ],
                 "CARDINAL": [
                     "two",
                     "293",
-                    "One",
-                    "SIS.</p><img"
+                    "One"
                 ],
                 "DATE": [
                     "about 7 years ago"
@@ -690,13 +692,15 @@
             "pubDate": "Thu, 20 Aug 2020 08:58:00 +0000",
             "title": "Nice White Parents - Ep. 3",
             "entities": {
+                "PERSON": [
+                    "Chana Joffe-Walt"
+                ],
                 "FAC": [
                     "I.S. 293"
                 ],
                 "ORG": [
                     "the Boerum Hill School for International Studies",
-                    "Chana",
-                    "alt="
+                    "Chana"
                 ],
                 "DATE": [
                     "the 1980s",
@@ -734,19 +738,24 @@
             "pubDate": "Thu, 20 Aug 2020 08:57:00 +0000",
             "title": "Nice White Parents - Ep. 2",
             "entities": {
+                "PERSON": [
+                    "Chana Joffe-Walt"
+                ],
                 "ORG": [
                     "the New York City Board of Education",
                     "the School for International Studies",
-                    "Cobble Hill",
                     "Brown v. Board of Education",
-                    "planned.</p><img src=\"http://feeds.feedburner.com/~r/serialpodcast/~4/j6IOyu_7uRw",
-                    "alt="
+                    "planned.</p><img"
+                ],
+                "PRODUCT": [
+                    "I.S. 293.</p>"
                 ],
                 "DATE": [
                     "1963",
                     "less than a decade"
                 ],
                 "GPE": [
+                    "Cobble Hill",
                     "Brooklyn"
                 ]
             }
@@ -789,13 +798,11 @@
                     "Brooklyn"
                 ],
                 "PERSON": [
-                    "Chana Joffe Walt"
+                    "Chana Joffe Walt",
+                    "Latino"
                 ],
                 "ORG": [
-                    "the School for International Studies\u2019s",
-                    "Latino, Black and",
-                    "src=\"http://feeds.feedburner.com/~r/serialpodcast/~4/",
-                    "alt="
+                    "the School for International Studies\u2019s"
                 ],
                 "ORDINAL": [
                     "6th"
@@ -835,9 +842,6 @@
                 ],
                 "PERSON": [
                     "Joshua"
-                ],
-                "ORG": [
-                    "alt="
                 ]
             }
         },
@@ -865,11 +869,7 @@
             "link": "https://serialpodcast.org/season-three/8/a-madmans-vacation",
             "pubDate": "Thu, 8 Nov 2018 10:30:00 +0000",
             "title": "S03 Episode 08: A Madman\u2019s Vacation",
-            "entities": {
-                "ORG": [
-                    "alt="
-                ]
-            }
+            "entities": {}
         },
         {
             "author": "rich@thislife.org (This American Life)",
@@ -895,11 +895,7 @@
             "link": "https://serialpodcast.org/season-three/7/the-snowball-effect",
             "pubDate": "Thu, 25 Oct 2018 09:30:00 +0000",
             "title": "S03 Episode 07: The Snowball Effect",
-            "entities": {
-                "ORG": [
-                    "alt="
-                ]
-            }
+            "entities": {}
         },
         {
             "author": "rich@thislife.org (This American Life)",
@@ -925,11 +921,7 @@
             "link": "https://serialpodcast.org/season-three/6/you-in-the-red-shirt",
             "pubDate": "Thu, 18 Oct 2018 09:30:00 +0000",
             "title": "S03 Episode 06: You in the Red Shirt",
-            "entities": {
-                "ORG": [
-                    "alt="
-                ]
-            }
+            "entities": {}
         },
         {
             "author": "rich@thislife.org (This American Life)",
@@ -955,11 +947,7 @@
             "link": "https://serialpodcast.org/season-three/5/pleas-baby-pleas",
             "pubDate": "Thu, 11 Oct 2018 09:30:00 +0000",
             "title": "S03 Episode 05: Pleas Baby Pleas",
-            "entities": {
-                "ORG": [
-                    "alt="
-                ]
-            }
+            "entities": {}
         },
         {
             "author": "rich@thislife.org (This American Life)",
@@ -985,11 +973,7 @@
             "link": "https://serialpodcast.org/season-three/4/a-bird-in-jail-is-worth-two-on-the-street",
             "pubDate": "Thu, 4 Oct 2018 09:30:00 +0000",
             "title": "S03 Episode 04: A Bird in Jail Is Worth Two on the Street",
-            "entities": {
-                "ORG": [
-                    "alt="
-                ]
-            }
+            "entities": {}
         },
         {
             "author": "rich@thislife.org (This American Life)",
@@ -1016,8 +1000,8 @@
             "pubDate": "Thu, 27 Sep 2018 09:30:00 +0000",
             "title": "S03 Episode 03: Misdemeanor, Meet Mr. Lawsuit",
             "entities": {
-                "ORG": [
-                    "alt="
+                "PERSON": [
+                    "marijuana"
                 ]
             }
         },
@@ -1045,11 +1029,7 @@
             "link": "https://serialpodcast.org/season-three/2/youve-got-some-gauls",
             "pubDate": "Thu, 20 Sep 2018 09:30:00 +0000",
             "title": "S03 Episode 02: You\u2019ve Got Some Gauls",
-            "entities": {
-                "ORG": [
-                    "alt="
-                ]
-            }
+            "entities": {}
         },
         {
             "author": "rich@thislife.org (This American Life)",
@@ -1075,12 +1055,7 @@
             "link": "https://serialpodcast.org/season-three/1/a-bar-fight-walks-into-the-justice-center",
             "pubDate": "Thu, 20 Sep 2018 09:15:00 +0000",
             "title": "S03 Episode 01: A Bar Fight Walks into the Justice Center",
-            "entities": {
-                "ORG": [
-                    "jail?<img src=\"http://feeds.feedburner.com/~r/serialpodcast/~4/ACPCX9QWrYs",
-                    "alt="
-                ]
-            }
+            "entities": {}
         },
         {
             "author": "rich@thislife.org (This American Life)",
@@ -1109,12 +1084,6 @@
             "entities": {
                 "DATE": [
                     "Season Two"
-                ],
-                "PERSON": [
-                    "Bowe"
-                ],
-                "ORG": [
-                    "alt="
                 ]
             }
         },
@@ -1142,12 +1111,7 @@
             "link": "https://serialpodcast.org/season-two/10/thorny-politics",
             "pubDate": "Thu, 17 Mar 2016 09:30:00 +0000",
             "title": "S02 Episode 10: Thorny Politics",
-            "entities": {
-                "ORG": [
-                    "src=\"http://feeds.feedburner.com/~r/serialpodcast/~4/oHPb3mkRkX4",
-                    "alt="
-                ]
-            }
+            "entities": {}
         },
         {
             "author": "rich@thislife.org (This American Life)",
@@ -1173,12 +1137,7 @@
             "link": "https://serialpodcast.org/season-two/9/trade-secrets",
             "pubDate": "Thu, 3 Mar 2016 10:30:00 +0000",
             "title": "S02 Episode 09: Trade Secrets",
-            "entities": {
-                "ORG": [
-                    "src=\"http://feeds.feedburner.com/~r/serialpodcast/~4/BvQ0mhztMCs",
-                    "alt="
-                ]
-            }
+            "entities": {}
         },
         {
             "author": "rich@thislife.org (This American Life)",
@@ -1205,12 +1164,8 @@
             "pubDate": "Fri, 19 Feb 2016 10:30:00 +0000",
             "title": "S02 Episode 08: Hindsight, Part 2",
             "entities": {
-                "GPE": [
-                    "coulda"
-                ],
-                "ORG": [
-                    "src=\"http://feeds.feedburner.com/~r/serialpodcast/~4/4G-PlKo8KQw",
-                    "alt="
+                "PERSON": [
+                    "Woulda"
                 ]
             }
         },
@@ -1238,11 +1193,7 @@
             "link": "https://serialpodcast.org/season-two/7/hindsight-part-1",
             "pubDate": "Thu, 18 Feb 2016 10:30:00 +0000",
             "title": "S02 Episode 07: Hindsight, Part 1",
-            "entities": {
-                "ORG": [
-                    "alt="
-                ]
-            }
+            "entities": {}
         },
         {
             "author": "rich@thislife.org (This American Life)",
@@ -1276,15 +1227,13 @@
                 ],
                 "PERSON": [
                     "Sarah Koenig",
+                    "Adnan Syed",
+                    "Syed",
                     "Sarah",
                     "Dana Chivvis"
                 ],
                 "GPE": [
                     "Baltimore"
-                ],
-                "ORG": [
-                    "Syed",
-                    "alt="
                 ]
             }
         },
@@ -1320,15 +1269,13 @@
                 ],
                 "PERSON": [
                     "Sarah Koenig",
+                    "Adnan Syed",
+                    "Syed",
                     "Sarah",
                     "Dana Chivvis"
                 ],
                 "GPE": [
                     "Baltimore"
-                ],
-                "ORG": [
-                    "Syed",
-                    "alt="
                 ]
             }
         },
@@ -1359,10 +1306,6 @@
             "entities": {
                 "PERSON": [
                     "Bowe Bergdahl"
-                ],
-                "ORG": [
-                    "src=\"http://feeds.feedburner.com/~r/serialpodcast/~4/5Z1fVnr1aqI",
-                    "alt="
                 ]
             }
         },
@@ -1398,15 +1341,13 @@
                 ],
                 "PERSON": [
                     "Sarah Koenig",
+                    "Adnan Syed",
+                    "Syed",
                     "Sarah",
                     "Dana Chivvis"
                 ],
                 "GPE": [
                     "Baltimore"
-                ],
-                "ORG": [
-                    "Syed",
-                    "alt="
                 ]
             }
         },
@@ -1439,13 +1380,10 @@
                     "CIA",
                     "FBI",
                     "YouTube",
-                    "alt="
+                    "Bergdahl"
                 ],
                 "GPE": [
-                    "Portland"
-                ],
-                "PERSON": [
-                    "Bergdahl"
+                    "the Portland PD"
                 ]
             }
         },
@@ -1473,11 +1411,7 @@
             "link": "https://serialpodcast.org/season-two/4/the-captors",
             "pubDate": "Thu, 7 Jan 2016 10:30:00 +0000",
             "title": "S02 Episode 04: The Captors",
-            "entities": {
-                "ORG": [
-                    "alt="
-                ]
-            }
+            "entities": {}
         },
         {
             "author": "rich@thislife.org (This American Life)",
@@ -1506,9 +1440,6 @@
             "entities": {
                 "DATE": [
                     "first year"
-                ],
-                "ORG": [
-                    "alt="
                 ]
             }
         },
@@ -1541,8 +1472,7 @@
                     "Bergdahl",
                     "Taliban",
                     "the U.S. Army\u2019s",
-                    "us?<img",
-                    "alt="
+                    "us?<img"
                 ],
                 "DATE": [
                     "those days",
@@ -1586,9 +1516,7 @@
                     "Bowe Bergdahl"
                 ],
                 "ORG": [
-                    "U.S. Army",
-                    "src=\"http://feeds.feedburner.com/~r/serialpodcast/~4/Z98VP9-ki8s",
-                    "alt="
+                    "U.S. Army"
                 ],
                 "GPE": [
                     "Afghanistan"
@@ -1629,9 +1557,6 @@
                 ],
                 "PERSON": [
                     "Adnan Syed"
-                ],
-                "ORG": [
-                    "alt="
                 ]
             }
         },
@@ -1669,9 +1594,8 @@
                     "Sarah",
                     "Adnan"
                 ],
-                "ORG": [
-                    "boy.<img src=\"http://feeds.feedburner.com/~r/serialpodcast/~4/2jBxWKE77Oo",
-                    "alt="
+                "FAC": [
+                    "mosque"
                 ]
             }
         },
@@ -1701,6 +1625,7 @@
             "title": "S01 Episode 10: The Best Defense is a Good Defense",
             "entities": {
                 "PERSON": [
+                    "Adnan",
                     "M. Cristina Gutierrez",
                     "Adnan",
                     "Gutierrez"
@@ -1713,10 +1638,6 @@
                 ],
                 "DATE": [
                     "a year later"
-                ],
-                "ORG": [
-                    "src=\"http://feeds.feedburner.com/~r/serialpodcast/~4/kOEzjfdp42E",
-                    "alt="
                 ]
             }
         },
@@ -1746,11 +1667,11 @@
             "title": "S01 Episode 09: To Be Suspected",
             "entities": {
                 "DATE": [
-                    "January 13, 1999"
+                    "January 13, 1999",
+                    "that day"
                 ],
-                "ORG": [
-                    "Adnan",
-                    "alt="
+                "PERSON": [
+                    "Adnan"
                 ]
             }
         },
@@ -1782,13 +1703,13 @@
                 "PERSON": [
                     "Adnan Syed",
                     "Jay",
+                    "Adnan",
                     "Jay",
                     "Jay",
                     "Jay"
                 ],
-                "ORG": [
-                    "Jay?<img",
-                    "alt="
+                "PRODUCT": [
+                    "Jay?<img"
                 ]
             }
         },
@@ -1822,15 +1743,12 @@
                     "Sarah"
                 ],
                 "GPE": [
-                    "Virginia"
+                    "Virginia",
+                    "Adnan"
                 ],
                 "CARDINAL": [
                     "one",
                     "one"
-                ],
-                "ORG": [
-                    "Adnan",
-                    "alt="
                 ]
             }
         },
@@ -1864,9 +1782,8 @@
                     "Jay",
                     "Sarah"
                 ],
-                "ORG": [
-                    "Adnan",
-                    "alt="
+                "GPE": [
+                    "Adnan"
                 ],
                 "TIME": [
                     "mid-afternoon"
@@ -1906,18 +1823,13 @@
                     "Adnan"
                 ],
                 "ORG": [
-                    "Woodlawn High School to Best Buy",
-                    "alt="
+                    "Woodlawn High School"
                 ],
                 "TIME": [
                     "21 minutes"
                 ],
-                "CARDINAL": [
-                    "one"
-                ],
                 "DATE": [
-                    "January 13th",
-                    "1999.<br"
+                    "January 13th, 1999.<br"
                 ]
             }
         },
@@ -1952,14 +1864,11 @@
                     "A few weeks later"
                 ],
                 "PERSON": [
+                    "Hae",
                     "Jay"
                 ],
                 "TIME": [
                     "late one night"
-                ],
-                "ORG": [
-                    "Homicide",
-                    "alt="
                 ],
                 "ORDINAL": [
                     "first"
@@ -1997,8 +1906,10 @@
                 ],
                 "ORG": [
                     "Detectives Ritz",
-                    "MacGillivary",
-                    "alt="
+                    "MacGillivary"
+                ],
+                "QUANTITY": [
+                    "127 feet"
                 ]
             }
         },
@@ -2027,12 +1938,11 @@
             "pubDate": "Fri, 3 Oct 2014 14:00:00 +0000",
             "title": "S01 Episode 02: The Breakup",
             "entities": {
-                "ORG": [
-                    "Adnan",
-                    "alt="
-                ],
                 "PERSON": [
                     "Adnan",
+                    "Adnan"
+                ],
+                "GPE": [
                     "Adnan"
                 ]
             }
@@ -2067,9 +1977,7 @@
                 ],
                 "DATE": [
                     "1999",
-                    "one day",
-                    "Six weeks later",
-                    "January"
+                    "Six weeks later"
                 ],
                 "PERSON": [
                     "Hae Min Lee",
@@ -2077,11 +1985,10 @@
                     "Adnan"
                 ],
                 "TIME": [
-                    "afternoon"
+                    "January afternoon"
                 ],
                 "ORG": [
-                    "Woodlawn High School",
-                    "alt="
+                    "Woodlawn High School"
                 ]
             }
         }
@@ -2129,19 +2036,18 @@
     "entities": {
         "ORG": [
             "Serial Productions",
-            "New York Times"
+            "New York Times",
+            "Episode 1"
         ],
         "PERSON": [
             "Sarah Koenig",
             "Sarah"
         ],
         "CARDINAL": [
-            "one",
-            "1"
+            "one"
         ],
         "DATE": [
             "a whole season",
-            "Each week",
             "Thursday"
         ],
         "TIME": [

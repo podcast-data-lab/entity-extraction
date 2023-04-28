@@ -35,6 +35,10 @@
             "pubDate": "Tue, 5 Apr 2022 11:00:00 +0000",
             "title": "Introducing Border City",
             "entities": {
+                "GPE": [
+                    "Border City",
+                    "Tijuana"
+                ],
                 "ORG": [
                     "L.A. Times Presents",
                     "the San Diego Union-Tribune"
@@ -44,9 +48,6 @@
                 ],
                 "DATE": [
                     "more than 25 years"
-                ],
-                "GPE": [
-                    "Tijuana"
                 ],
                 "CARDINAL": [
                     "one"
@@ -81,6 +82,7 @@
             "entities": {
                 "DATE": [
                     "Season 1",
+                    "the 1980s",
                     "Every week"
                 ],
                 "WORK_OF_ART": [
@@ -93,11 +95,10 @@
                 ],
                 "ORG": [
                     "HBO",
-                    "the L.A. Lakers of the 1980s",
+                    "the L.A. Lakers",
                     "the L.A. Times",
                     "Showtime",
-                    "NBA",
-                    "href=\"https://www.latimes.com"
+                    "NBA"
                 ],
                 "CARDINAL": [
                     "one"
@@ -137,11 +138,11 @@
             "title": "Bonus: Simu Liu",
             "entities": {
                 "PERSON": [
-                    "Simu Liu"
+                    "Simu Liu",
+                    "Miller Mobley.</p"
                 ],
-                "ORG": [
-                    "Marvel",
-                    "Miller"
+                "GPE": [
+                    "Marvel"
                 ],
                 "ORDINAL": [
                     "first"
@@ -229,18 +230,18 @@
             "title": "Leyna Bloom",
             "entities": {
                 "PERSON": [
-                    "Leyna Bloom"
+                    "Leyna Bloom",
+                    "Zenobia.</p"
                 ],
                 "ORDINAL": [
                     "first"
                 ],
                 "ORG": [
                     "Sports Illustrated",
-                    "Zenobia.</p>\n"
-                ],
-                "GPE": [
-                    "Black",
                     "Filipina"
+                ],
+                "NORP": [
+                    "Black"
                 ],
                 "DATE": [
                     "more than 20 years ago"
@@ -276,15 +277,12 @@
             "pubDate": "Tue, 10 Aug 2021 09:00:00 +0000",
             "title": "Hari Kondabolu",
             "entities": {
-                "ORG": [
-                    "href=\"https://twitter.com",
-                    "href=\"https://www.youtube.com"
+                "PERSON": [
+                    "Hari Kondabolu</strong></a><strong",
+                    "Rob Holysz.</p"
                 ],
                 "WORK_OF_ART": [
                     "The Simpsons"
-                ],
-                "PERSON": [
-                    "Rob Holysz.</p>\n"
                 ]
             }
         },
@@ -318,20 +316,18 @@
             "title": "Maitreyi Ramakrishnan",
             "entities": {
                 "ORG": [
-                    "Maitreyi Ramakrishnan",
                     "Netflix"
                 ],
                 "WORK_OF_ART": [
                     "Never Have I Ever"
                 ],
-                "NORP": [
-                    "Tamil Canadian",
-                    "Asian",
-                    "American"
-                ],
                 "PERSON": [
+                    "Tamil Canadian",
                     "Mindy Kaling",
                     "Yasara Gunawardena"
+                ],
+                "NORP": [
+                    "Asian American"
                 ]
             }
         },
@@ -407,9 +403,6 @@
                 "NORP": [
                     "Asian",
                     "Americans"
-                ],
-                "ORG": [
-                    "all.</p"
                 ]
             }
         },
@@ -515,7 +508,7 @@
             "entities": {
                 "PERSON": [
                     "Nicole Chung",
-                    "Erica Tappis.</p>\n"
+                    "Erica Tappis.</p"
                 ],
                 "WORK_OF_ART": [
                     "All You Can Ever Know"
@@ -592,6 +585,7 @@
             "title": "Thenmozhi Soundararajan",
             "entities": {
                 "PERSON": [
+                    "Dalit",
                     "Thenmozhi Soundararajan"
                 ],
                 "GPE": [
@@ -631,9 +625,11 @@
                 "PERSON": [
                     "Anthony Ocampo"
                 ],
+                "LANGUAGE": [
+                    "Filipino"
+                ],
                 "NORP": [
-                    "Filipino",
-                    "Asian"
+                    "\u201cAsian American"
                 ]
             }
         },
@@ -667,13 +663,11 @@
             "title": "Jujubee",
             "entities": {
                 "PERSON": [
-                    "Jujubee"
+                    "Jujubee",
+                    "\u2019</p"
                 ],
                 "NORP": [
                     "Laotian"
-                ],
-                "WORK_OF_ART": [
-                    "Drag Race"
                 ]
             }
         },
@@ -707,11 +701,11 @@
             "title": "Min Jin Lee",
             "entities": {
                 "WORK_OF_ART": [
-                    "Pachinko",
-                    "Free Food for Millionaires"
+                    "Pachinko\u201d and \u201cFree Food for Millionaires\u201d"
                 ],
                 "PERSON": [
-                    "Min Jin Lee"
+                    "Min Jin Lee",
+                    "Elena Seibert.</p"
                 ],
                 "NORP": [
                     "Asian"
@@ -747,14 +741,15 @@
             "pubDate": "Tue, 18 May 2021 12:00:00 +0000",
             "title": "Ruby Ibarra",
             "entities": {
-                "ORG": [
-                    "Ibarra"
-                ],
-                "GPE": [
-                    "Filipina"
-                ],
                 "PERSON": [
-                    "Donna Ibarra.</p>\n"
+                    "Ruby Ibarra",
+                    "Donna"
+                ],
+                "NORP": [
+                    "Filipina American"
+                ],
+                "ORG": [
+                    "COVID-19"
                 ]
             }
         },
@@ -830,26 +825,26 @@
             "entities": {
                 "DATE": [
                     "the first season",
-                    "our second season",
+                    "Season 2",
                     "May 11",
                     "every Tuesday through",
                     "August"
                 ],
                 "ORG": [
                     "the L.A. Times",
-                    "Apple"
+                    "Apple",
+                    "Spotify"
                 ],
                 "PERSON": [
                     "Kamala Harris",
                     "John Cho",
                     "Lulu Wang"
                 ],
-                "NORP": [
-                    "Asian",
-                    "American"
+                "ORDINAL": [
+                    "second"
                 ],
-                "GPE": [
-                    "Spotify"
+                "NORP": [
+                    "Asian American"
                 ]
             }
         },
@@ -1011,18 +1006,18 @@
             "pubDate": "Tue, 16 Jun 2020 07:00:00 +0000",
             "title": "Padma Lakshmi",
             "entities": {
-                "WORK_OF_ART": [
-                    "Top Chef",
-                    "Taste the Nation"
-                ],
                 "PERSON": [
-                    "Padma Lakshmi"
+                    "Padma Lakshmi",
+                    "Hulu"
                 ],
                 "NORP": [
-                    "Indian"
+                    "Indian American"
                 ],
                 "LOC": [
                     "the San Gabriel Valley"
+                ],
+                "WORK_OF_ART": [
+                    "Taste the Nation"
                 ]
             }
         },
@@ -1058,22 +1053,23 @@
                     "This week",
                     "today"
                 ],
-                "NORP": [
-                    "Asian",
-                    "Indian American Muslim"
+                "ORG": [
+                    "Asian Enough",
+                    "NPR",
+                    "Sanders"
                 ],
                 "PERSON": [
                     "Sam Sanders",
                     "Hasan Minhaj"
-                ],
-                "ORG": [
-                    "NPR"
                 ],
                 "WORK_OF_ART": [
                     "The Daily Show"
                 ],
                 "ORDINAL": [
                     "second"
+                ],
+                "NORP": [
+                    "Indian American Muslim"
                 ],
                 "GPE": [
                     "California"
@@ -1114,8 +1110,7 @@
                     "App"
                 ],
                 "NORP": [
-                    "Asian",
-                    "American",
+                    "Asian American",
                     "Asian"
                 ],
                 "WORK_OF_ART": [
@@ -1160,15 +1155,14 @@
                     "App"
                 ],
                 "NORP": [
-                    "Asian",
-                    "Americans",
-                    "Asian"
+                    "Asian Americans"
                 ],
                 "WORK_OF_ART": [
                     "Crazy Rich Asians",
                     "Little America"
                 ],
                 "ORG": [
+                    "Asian Enough",
                     "Apple"
                 ]
             }
@@ -1257,17 +1251,15 @@
                 ],
                 "NORP": [
                     "Filipino American",
-                    "Asian",
-                    "Americans",
+                    "Asian Americans",
                     "Asian"
                 ],
-                "WORK_OF_ART": [
-                    "Hook",
-                    "Little America"
-                ],
                 "ORG": [
-                    "Rufio's Lost Boys",
+                    "Rufio's Lost",
                     "Apple"
+                ],
+                "WORK_OF_ART": [
+                    "Little America"
                 ]
             }
         },
@@ -1300,24 +1292,24 @@
             "pubDate": "Tue, 5 May 2020 07:00:00 +0000",
             "title": "Dumbfoundead",
             "entities": {
-                "ORG": [
-                    "Dumbfoundead",
-                    "Apple"
-                ],
-                "GPE": [
+                "PERSON": [
                     "Jonathan Park",
-                    "South Korea",
-                    "Argentina"
+                    "App"
                 ],
                 "NORP": [
                     "Asians",
                     "Asian"
                 ],
+                "GPE": [
+                    "South Korea",
+                    "Argentina",
+                    "Los Angeles.</p><p>[Advertisement]"
+                ],
                 "WORK_OF_ART": [
                     "Little America"
                 ],
-                "PERSON": [
-                    "App"
+                "ORG": [
+                    "Apple"
                 ]
             }
         },
@@ -1406,6 +1398,9 @@
                     "Muslim",
                     "Americans",
                     "Asian"
+                ],
+                "CARDINAL": [
+                    "9/11.</p><p>[Advertisement"
                 ],
                 "WORK_OF_ART": [
                     "Little America"
@@ -1497,16 +1492,14 @@
             "title": "Mina Kimes",
             "entities": {
                 "ORG": [
-                    "ESPN",
-                    "her.</p>\n"
+                    "ESPN"
                 ],
                 "PERSON": [
                     "Mina Kimes"
                 ],
                 "NORP": [
                     "Asian",
-                    "Asian",
-                    "Americans"
+                    "Asian Americans"
                 ]
             }
         },
@@ -1580,7 +1573,7 @@
                     "Viet Thanh Nguyen"
                 ],
                 "ORG": [
-                    "the \u201cCrazy Rich Asians"
+                    "the \u201cCrazy Rich Asians\u201d effect.</p>\n"
                 ]
             }
         },
@@ -1613,14 +1606,14 @@
             "title": "Bonus Episode: Coronavirus Update from Soumya Karlamangla",
             "entities": {
                 "ORG": [
-                    "L.A. Times"
+                    "L.A. Times",
+                    "COVID-19"
                 ],
                 "PERSON": [
                     "Soumya Karlamangla"
                 ],
                 "NORP": [
-                    "Asian",
-                    "American"
+                    "Asian American"
                 ]
             }
         },
@@ -1657,14 +1650,13 @@
                     "Lulu Wang"
                 ],
                 "NORP": [
-                    "Asian",
-                    "American"
+                    "Asian American"
                 ],
                 "GPE": [
                     "Hollywood"
                 ],
-                "ORG": [
-                    "Farewell"
+                "WORK_OF_ART": [
+                    "The Farewell"
                 ]
             }
         },
@@ -1732,8 +1724,7 @@
             "entities": {
                 "NORP": [
                     "Asian",
-                    "Asian",
-                    "American"
+                    "Asian American"
                 ],
                 "DATE": [
                     "March 17th.</p"
@@ -1801,19 +1792,16 @@
             "the Los Angeles Times",
             "Times"
         ],
-        "WORK_OF_ART": [
-            "Asian Enough"
-        ],
         "NORP": [
             "Asian",
-            "American",
-            "Asian",
-            "American"
+            "Asian American",
+            "Asian American"
         ],
         "PERSON": [
             "Jen Yamato",
             "Johana Bhuiyan",
-            "Tracy Brown"
+            "Tracy Brown",
+            "Suhauna Hussain"
         ]
     }
 }

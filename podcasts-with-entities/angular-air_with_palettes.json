@@ -35,9 +35,10 @@
             "entities": {
                 "ORG": [
                     "NGXS",
-                    "href=\"https://www.youtube.com",
-                    "href=\"https://www.youtube.com",
-                    "https%3A%2F%2Fwww.ngxs.io%2F"
+                    "Angular Air"
+                ],
+                "CARDINAL": [
+                    "video_description&amp;v"
                 ],
                 "PERCENT": [
                     "100%"
@@ -66,12 +67,12 @@
             "pubDate": "Wed, 15 Jul 2020 18:00:00 GMT",
             "title": "Angular Builders and Schematics With Santosh Yadav",
             "entities": {
-                "ORG": [
-                    "Angular",
-                    "href=\"https://www.youtube.com"
+                "PERSON": [
+                    "Santosh Yadav",
+                    "SantoshYadavDev</a></p"
                 ],
-                "PRODUCT": [
-                    "Twitter"
+                "ORG": [
+                    "Angular Air"
                 ],
                 "PERCENT": [
                     "100%"
@@ -101,14 +102,12 @@
             "title": "How to Learn Effectively With Joe Eames",
             "entities": {
                 "PERSON": [
-                    "Joe Eames"
-                ],
-                "PRODUCT": [
-                    "Twitter"
+                    "Joe Eames",
+                    "Joe",
+                    "Joe"
                 ],
                 "ORG": [
-                    "href=\"https://www.youtube.com",
-                    "Thinkster"
+                    "Angular Air"
                 ],
                 "PERCENT": [
                     "100%"
@@ -137,18 +136,15 @@
             "pubDate": "Wed, 24 Jun 2020 18:00:00 GMT",
             "title": "How to create apps using Angular and Firebase With Ankit Sharma",
             "entities": {
-                "PRODUCT": [
-                    "Twitter"
+                "PERSON": [
+                    "Sharma"
                 ],
                 "ORG": [
-                    "href=\"https://www.youtube.com",
-                    "href=\"https://www.youtube.com"
+                    "Firebase",
+                    "Angular Air"
                 ],
-                "PERSON": [
-                    "QUFFLUhqa2ZDd09lNDVkdzN2cThBUzFjNVdVVnNFMTE0d3xBQ3Jtc0tuQnZwX2NhZ1AwczgtMnZYZjhoS1BqY3RRcFI2YW0wQjZlTUFDa1dyYi1IUUowY0VuOEhfbHhQQXRTaDdTcTBnaGZacXcyOWZDNzdpa2VPTnFJdXdrRkJKWVoxbFlyU2hfdnpuYi1fSm9Ydjd6U0FJTQ%3D%3D&amp;v"
-                ],
-                "DATE": [
-                    "target=\"_blank\">https://ankitsharmablogs.com/</a></p"
+                "PRODUCT": [
+                    "Angular"
                 ],
                 "PERCENT": [
                     "100%"
@@ -178,11 +174,14 @@
             "title": "Scully and static site generation in Angular with Sander Elias",
             "entities": {
                 "PERSON": [
-                    "Elias",
-                    "GhRhDc6CNW8&amp;redir_token"
+                    "Sander Elias",
+                    "Scully"
+                ],
+                "CARDINAL": [
+                    "video_description&amp;v"
                 ],
                 "ORG": [
-                    "href=\"https://www.youtube.com"
+                    "Angular Air"
                 ],
                 "PERCENT": [
                     "100%"
@@ -213,10 +212,14 @@
             "entities": {
                 "PERSON": [
                     "Jeremy Elbourn",
+                    "Angular Material",
                     "Jeremy"
                 ],
+                "PRODUCT": [
+                    "Angular"
+                ],
                 "ORG": [
-                    "href=\"https://www.youtube.com"
+                    "Angular Air"
                 ],
                 "PERCENT": [
                     "100%"
@@ -246,11 +249,11 @@
             "title": "Extending Angular for the Reactive Web with Michael Hladky",
             "entities": {
                 "PERSON": [
-                    "Michael Hladky"
+                    "Michael Hladky",
+                    "Michael"
                 ],
                 "ORG": [
-                    "href=\"https://www.youtube.com",
-                    "target=\"_blank\">https://twitter.com/Michael_Hladky</a></p>\n"
+                    "Angular Air"
                 ],
                 "PERCENT": [
                     "100%"
@@ -279,11 +282,15 @@
             "pubDate": "Wed, 20 May 2020 18:00:00 GMT",
             "title": "Micro Front End Revolution with Module Federation and Angular with Manfred Steyer",
             "entities": {
-                "PRODUCT": [
+                "PERSON": [
+                    "Manfred Steyer",
                     "Twitter"
                 ],
+                "PRODUCT": [
+                    "Angular"
+                ],
                 "ORG": [
-                    "href=\"https://www.youtube.com"
+                    "Angular Air"
                 ],
                 "PERCENT": [
                     "100%"
@@ -313,14 +320,14 @@
             "title": "Clean code with Container Presenter Pattern with Kate Sky",
             "entities": {
                 "PERSON": [
-                    "Kate Sky"
+                    "Kate",
+                    "Kate"
                 ],
                 "PRODUCT": [
-                    "Twitter"
+                    "Angular"
                 ],
                 "ORG": [
-                    "href=\"https://www.youtube.com",
-                    "QUFFLUhqbHFpYVFhME03OEo5bDgtNXpMRWdfNlZhMWdHUXxBQ3Jtc0ttQ0xRYWxHTHdRWElKYlBfRWFMeFZpUjVlWFhkRWpmVmRjSTNWWGNNY1Y0Y0pzcS01enVWSlkwWmp4LS1MU3N5TnlFMXZfRzFJaE5JbUtaYm93UFlKWlZBd29uVmdKRVpmZzQzV2JfbTYtTm1NUjZKTQ%3D%3D"
+                    "Angular Air"
                 ],
                 "PERCENT": [
                     "100%"
@@ -350,18 +357,20 @@
             "title": "Announcing the Launch of Angular Nation with Bonnie Brennan!",
             "entities": {
                 "PERSON": [
-                    "Bonnie Brennan"
+                    "Bonnie Brennan",
+                    "Bonnie"
                 ],
                 "CARDINAL": [
                     "one"
                 ],
                 "ORG": [
-                    "Angular Nation",
-                    "href=\"https://www.youtube.com",
-                    "href=\"https://www.youtube.com"
+                    "Angular Nation"
                 ],
                 "PRODUCT": [
-                    "Twitter"
+                    "Angular"
+                ],
+                "DATE": [
+                    "QUFFLUhqbV9QZm1PcnJhbXBVREJWRDRxVE4tOU81YVBkQXxBQ3Jtc0tuMGRJeksxbEZwNC1IcEtFTktkNF9YS3ZXdzdpUkpQWDlpMWRUOEE2S29MSUx4UzdZdFBkY3Z6ZjNqalA3LTBNejJSbkV5TGZrVDZkSEdNWlNxYTJHWWlrYnVONHJVUE9qSi1paWhBenhfazdERWd2WQ%3D%3D&amp;event"
                 ],
                 "PERCENT": [
                     "100%"
@@ -391,7 +400,8 @@
             "title": "A Visit with Stephen Fluin",
             "entities": {
                 "PERSON": [
-                    "Stephen Fluin"
+                    "Stephen Fluin",
+                    "Angular"
                 ]
             }
         },
@@ -447,12 +457,11 @@
             "pubDate": "Wed, 11 Mar 2020 19:00:00 GMT",
             "title": "How to architect epic Angular app in less than 10 minutes!",
             "entities": {
-                "PRODUCT": [
-                    "Twitter"
+                "PERSON": [
+                    "Tomas Trajan"
                 ],
-                "ORG": [
-                    "href=\"https://twitter.com",
-                    "href=\"https://tomastrajan.com"
+                "LAW": [
+                    "a href=\"https://twitter.com/tomastrajan\">https://twitter.com/tomastrajan</a></p>\n<p"
                 ]
             }
         },
@@ -615,11 +624,7 @@
             "link": "https://anchor.fm/angularair/episodes/Profiling-and-Monitoring-Web-Apps-with-Gil-Fink-ebi5c8",
             "pubDate": "Wed, 18 Dec 2019 20:00:00 GMT",
             "title": "Profiling and Monitoring Web Apps with Gil Fink",
-            "entities": {
-                "ORG": [
-                    "href=\"https://youtu.be/lmq2jMflRt8\">https://youtu.be/lmq2jMflRt8</a></p"
-                ]
-            }
+            "entities": {}
         },
         {
             "content": "<p>Kevin Schuchard comes on the show to walk through how to write custom schematics for the Angular CLI.</p>\n<p>---</p>\n<p>Video of episode: <a href=\"https://youtu.be/V5K8IOvw0Gk\">https://youtu.be/V5K8IOvw0Gk</a></p>\n\n--- \n\nSupport this podcast: <a href=\"https://anchor.fm/angularair/support\" rel=\"payment\">https://anchor.fm/angularair/support</a>",
@@ -670,24 +675,35 @@
             "pubDate": "Wed, 13 Nov 2019 20:00:00 GMT",
             "title": "Component-level Code-Splitting with Angular Loadable with guest Zama Khan Mohammed",
             "entities": {
+                "PERSON": [
+                    "Lazy Loading",
+                    "Angular",
+                    "Angular Loadable",
+                    "Zama Khan Mohammed",
+                    "Machine Learning"
+                ],
+                "PRODUCT": [
+                    "Angular Router\u2019s API and Schematics",
+                    "Angular",
+                    "Angular Router\u2019s",
+                    "S3"
+                ],
                 "ORG": [
-                    "Angular Router\u2019s API",
                     "API",
-                    "Component",
-                    "Angular, React",
-                    "AWS",
+                    "React Loadable\u2019s",
+                    "Angular Projects",
+                    "Software Development",
+                    "Angular, React, D3.js",
                     "CloudFormation",
-                    "S3",
                     "Software Development"
                 ],
                 "ORDINAL": [
                     "first"
                 ],
-                "PERSON": [
-                    "Zama Khan Mohammed",
-                    "Machine Learning"
+                "WORK_OF_ART": [
+                    "a Master\u2019s Degree in Computer Science"
                 ],
-                "GPE": [
+                "NORP": [
                     "Lambda"
                 ]
             }
@@ -741,11 +757,14 @@
             "pubDate": "Wed, 30 Oct 2019 19:00:00 GMT",
             "title": "NGrid with Shlomi Assaf",
             "entities": {
+                "PERSON": [
+                    "Assaf"
+                ],
                 "ORG": [
-                    "NGrid",
-                    "@angular/cdk!</p>",
-                    "href=\"https://shlomiassaf.github.io/ngrid/\">https://shlomiassaf.github.io/ngrid/</a></p>\n",
-                    "href=\"https://twitter.com"
+                    "NGrid"
+                ],
+                "LAW": [
+                    "a href=\"https://twitter.com/shlomiassaf\">https://twitter.com/shlomiassaf</a></p"
                 ]
             }
         },
@@ -776,6 +795,12 @@
                 ],
                 "ORG": [
                     "Accelerated Mobile Pages"
+                ],
+                "PRODUCT": [
+                    "Angular"
+                ],
+                "GPE": [
+                    "T_XpkInDUGg\">https://youtu.be"
                 ]
             }
         },
@@ -803,6 +828,9 @@
             "entities": {
                 "PERSON": [
                     "Tara Z. Manicsic"
+                ],
+                "PRODUCT": [
+                    "Angular"
                 ]
             }
         },
@@ -833,7 +861,12 @@
                     "Ryan Chenkie"
                 ],
                 "ORG": [
+                    "Angular Elements",
                     "cdrMozMs0PY\">https://youtu.be"
+                ],
+                "PRODUCT": [
+                    "Angular",
+                    "Angular"
                 ]
             }
         },
@@ -858,7 +891,14 @@
             "link": "https://anchor.fm/angularair/episodes/Persistent-State-Management-using-Query-Params-with-Iliya-Idakiev-ebi23u",
             "pubDate": "Wed, 25 Sep 2019 19:00:00 GMT",
             "title": "Persistent State Management using Query Params with Iliya Idakiev",
-            "entities": {}
+            "entities": {
+                "ORG": [
+                    "Iliya Idakiev"
+                ],
+                "PRODUCT": [
+                    "Angular"
+                ]
+            }
         },
         {
             "content": "<p>Jan-Niklas Wortmann joins us to provide some guidance for dealing with async calls by making use of RxJs.</p>\n<p>---</p>\n<p>Video of episode: <a href=\"https://youtu.be/Mws9J5N1zjA\">https://youtu.be/Mws9J5N1zjA</a></p>\n\n--- \n\nSupport this podcast: <a href=\"https://anchor.fm/angularair/support\" rel=\"payment\">https://anchor.fm/angularair/support</a>",
@@ -907,9 +947,6 @@
             "entities": {
                 "PERSON": [
                     "Jeff Whelpley"
-                ],
-                "ORG": [
-                    "jmitfq11FWA\">https://youtu.be/jmitfq11FWA</a></p>\n\n"
                 ]
             }
         },
@@ -934,7 +971,11 @@
             "link": "https://anchor.fm/angularair/episodes/The-Observable-ViewModel-with-Sander-Elias-ebi1p5",
             "pubDate": "Wed, 04 Sep 2019 19:00:00 GMT",
             "title": "The Observable ViewModel with Sander Elias",
-            "entities": {}
+            "entities": {
+                "PERSON": [
+                    "Sander Elias"
+                ]
+            }
         },
         {
             "content": "<p>Lance Finney joins us to show how we can unit test our Angular applications with less complexity and effort.</p>\n<p>Lance on Twitter:<br>\n<a href=\"https://twitter.com/LMFinneyCoder\">https://twitter.com/LMFinneyCoder</a></p>\n<p>Slides:<br>\n<a href=\"https://docs.google.com/presentation/d/1NaEDSfXs-n68KPpUc5wEFiJz6ujR5t7sis9eLXGOiPU/edit?usp=sharing\">https://docs.google.com/presentation/d/1NaEDSfXs-n68KPpUc5wEFiJz6ujR5t7sis9eLXGOiPU/edit?usp=sharing</a></p>\n<p>Demo code:<br>\n<a href=\"https://github.com/LMFinney/toh-pt6_20190613\">https://github.com/LMFinney/toh-pt6_20190613</a></p>\n<p>Useful schematic:<br>\n<a href=\"https://github.com/smnbbrv/ngx-spec\">https://github.com/smnbbrv/ngx-spec</a></p>\n<p><br></p>\n<p><strong>Picks</strong> <br>\n===================================<br>\nLance:<br>\n<a href=\"https://angularconnect.com/workshops/painless-pwas-with-angular\">https://angularconnect.com/workshops/painless-pwas-with-angular</a><br>\n<a href=\"https://stldevfest.com/ https://www.devupconf.org/sessions/workshops\">https://stldevfest.com/ https://www.devupconf.org/sessions/workshops</a><br>\n<a href=\"https://boardgamegeek.com/boardgame/129437/legendary-marvel-deck-building-game\">https://boardgamegeek.com/boardgame/129437/legendary-marvel-deck-building-game</a></p>\n<p>Mike Brocchi:<br>\n<a href=\"https://stenciljs.com/blog/stencil-roadmap-fall-2019\">https://stenciljs.com/blog/stencil-roadmap-fall-2019</a><br>\n<a href=\"https://github.com/angular/angular-cli/pull/14403\">https://github.com/angular/angular-cli/pull/14403</a></p>\n<p>Alyssa Nicoll:<br>\n<a href=\"https://www.amazon.com/Bezier-Games-ONUWBEZ-Ultimate-Werewolf/dp/B00HS7GG5G/ref=asc_df_B00HS7GG5G/?tag=hyprod-20&amp;linkCode=df0&amp;hvadid=241960275266&amp;hvpos=1o1&amp;hvnetw=g&amp;hvrand=8549327494332259313&amp;hvpone=&amp;hvptwo=&amp;hvqmt=&amp;hvdev=c&amp;hvdvcmdl=&amp;hvlocint=&amp;hvlocphy=9023178&amp;hvtargid=aud-801657747996:pla-404289849110&amp;psc=1\">https://www.amazon.com/Bezier-Games-ONUWBEZ-Ultimate-Werewolf/dp/B00HS7GG5G/ref=asc_df_B00HS7GG5G/?tag=hyprod-20&amp;linkCode=df0&amp;hvadid=241960275266&amp;hvpos=1o1&amp;hvnetw=g&amp;hvrand=8549327494332259313&amp;hvpone=&amp;hvptwo=&amp;hvqmt=&amp;hvdev=c&amp;hvdvcmdl=&amp;hvlocint=&amp;hvlocphy=9023178&amp;hvtargid=aud-801657747996:pla-404289849110&amp;psc=1</a></p>\n<p>Justin Schwartzenberger:<br>\n<a href=\"https://blog.nrwl.io/essential-angular-testing-192315f8be9b\">https://blog.nrwl.io/essential-angular-testing-192315f8be9b</a></p>\n<p>---</p>\n<p>Video of episode: <a href=\"https://youtu.be/d5niF8Ordgg\">https://youtu.be/d5niF8Ordgg</a></p>\n\n--- \n\nSupport this podcast: <a href=\"https://anchor.fm/angularair/support\" rel=\"payment\">https://anchor.fm/angularair/support</a>",
@@ -958,23 +999,20 @@
             "pubDate": "Wed, 28 Aug 2019 19:00:00 GMT",
             "title": "More Unit Testing, Less Effort with Lance Finney",
             "entities": {
+                "PERSON": [
+                    "Lance Finney"
+                ],
+                "PRODUCT": [
+                    "Angular"
+                ],
                 "ORG": [
-                    "Lance Finney",
-                    "href=\"https://twitter.com/LMFinneyCoder\">https://twitter.com/LMFinneyCoder</a></p>\n",
-                    "href=\"https://docs.google.com",
-                    "presentation/d/1NaEDSfXs-n68KPpUc5wEFiJz6ujR5t7sis9eLXGOiPU",
-                    "presentation/d/1NaEDSfXs-n68KPpUc5wEFiJz6ujR5t7sis9eLXGOiPU",
+                    "href=\"https://twitter.com/LMFinneyCoder\">https://twitter.com/LMFinneyCoder</a></p",
                     "href=\"https://github.com",
                     "LMFinney",
                     "LMFinney",
                     "href=\"https://github.com",
-                    "href=\"https://angularconnect.com",
                     "href=\"https://boardgamegeek.com",
-                    "href=\"https://stenciljs.com",
-                    "href=\"https://github.com",
-                    "href=\"https://www.amazon.com/Bezier-Games-ONUWBEZ-Ultimate-Werewolf/dp/B00HS7GG5G/ref",
-                    "href=\"https://blog.nrwl.io",
-                    "d5niF8Ordgg\">https://youtu.be/d5niF8Ordgg</a></p>\n\n"
+                    "href=\"https://github.com"
                 ],
                 "DATE": [
                     "aud-801657747996",
@@ -1009,10 +1047,10 @@
                     "Bill Odom"
                 ],
                 "ORG": [
-                    "CSS",
-                    "href=\"https://twitter.com",
-                    "episode:&nbsp;<a",
-                    "href=\"https://youtu.be/mWn1ctJOs_E\">https://youtu.be/mWn1ctJOs_E</a></p"
+                    "CSS"
+                ],
+                "PRODUCT": [
+                    "Angular"
                 ]
             }
         },
@@ -1039,10 +1077,12 @@
             "title": "Angular Routing and Navigation with Chris Samuel",
             "entities": {
                 "PERSON": [
+                    "Chris Samuel",
                     "Chris"
                 ],
-                "ORG": [
-                    "href=\"https://twitter.com"
+                "GPE": [
+                    "Angular",
+                    "qtsfuksents\">https://youtu.be"
                 ]
             }
         },
@@ -1070,11 +1110,12 @@
             "entities": {
                 "PERSON": [
                     "Gregor Woiwode",
-                    "NgRx Ducks.&nbsp;</p>\n<"
+                    "NgRx",
+                    "Gregor",
+                    "NgRx"
                 ],
                 "ORG": [
                     "href=\"https://twitter.com",
-                    "GregOnNet\">https://twitter.com/GregOnNet</a></p>",
                     "href=\"https://github.com"
                 ]
             }
@@ -1104,9 +1145,13 @@
                 "PERSON": [
                     "Kwinten Pisman"
                 ],
+                "PRODUCT": [
+                    "Angular"
+                ],
+                "GPE": [
+                    "Typebytes"
+                ],
                 "ORG": [
-                    "href=\"https://twitter.com/elmd_\">https://twitter.com/elmd_</a></p>\n",
-                    "href=\"https://twitter.com",
                     "href=\"https://github.com",
                     "href=\"https://github.com"
                 ]
@@ -1136,14 +1181,14 @@
             "title": "When to Use NgRx and Some Tips on How to Improve UX With Alex Okrushko",
             "entities": {
                 "PERSON": [
+                    "Alex Okrushko",
                     "NgRx"
                 ],
-                "ORG": [
-                    "href=\"https://twitter.com",
-                    "AlexOkrushko"
+                "PRODUCT": [
+                    "Angular"
                 ],
-                "CARDINAL": [
-                    "https://ngrx.io/"
+                "ORG": [
+                    "https://ngrx.io/ &nbsp;</a></p"
                 ]
             }
         },
@@ -1171,13 +1216,14 @@
             "title": "ag-Grid with Niall Crosby and Sean Landsman",
             "entities": {
                 "PERSON": [
+                    "Niall Crosby",
                     "Sean Landsman"
                 ],
-                "ORG": [
-                    "ag-Grid",
-                    "ag-Grid &",
-                    "href=\"https://medium.com",
-                    "F7qm8wkzvGs\">https://youtu.be/F7qm8wkzvGs</a></p"
+                "NORP": [
+                    "Angular"
+                ],
+                "WORK_OF_ART": [
+                    "Angular Forms example:<br>\n<"
                 ]
             }
         },
@@ -1210,8 +1256,7 @@
                 "ORG": [
                     "NgRx-Auto-Entity",
                     "href=\"https://github.com",
-                    "href=\"https://briebug.gitbook.io",
-                    "augmentation):<br"
+                    "BrieBug"
                 ]
             }
         },
@@ -1239,8 +1284,11 @@
             "entities": {
                 "PERSON": [
                     "Wes Grimes",
-                    "NgRx",
-                    "https://github.com/akveo/nebular/\n\n--- \n\nSupport"
+                    "Angular Lifecycles",
+                    "NgRx"
+                ],
+                "ORG": [
+                    "NgRx"
                 ],
                 "CARDINAL": [
                     "8",
@@ -1270,19 +1318,26 @@
             "pubDate": "Tue, 11 Jun 2019 23:38:30 GMT",
             "title": "ngAir 206 - Boosting Collective Ownership with Timeboxed TDD and TCR with Younes Jaaidi",
             "entities": {
+                "PERSON": [
+                    "Younes Jaaidi",
+                    "https://slides.com/yjaaidi/angular-air-timeboxed-tdd-and-tcr\ud83d\udc26 https://twitter.com/yjaaidi",
+                    "Dmitry Kandalov"
+                ],
                 "ORG": [
+                    "TCR",
                     "Slides",
-                    "@wishtack",
-                    "https://guide-angular.wishtack.io/",
-                    "\ud83d\udca5 Limited WIP"
+                    "https://marmicode.teachable.com/\ud83d\udca5 Limited WIP"
+                ],
+                "WORK_OF_ART": [
+                    "https://wishtack.io"
                 ],
                 "PRODUCT": [
-                    "\ud83d\udcdd https://medium.com/wishtack",
-                    "Monorepo"
+                    "https://medium.com/wishtack",
+                    "\ud83d\udcbb",
+                    "Monorepo with Angular"
                 ],
-                "PERSON": [
-                    "Video",
-                    "Dmitry Kandalov"
+                "GPE": [
+                    "https://guide-angular.wishtack.io/"
                 ]
             }
         },
@@ -1310,6 +1365,9 @@
             "entities": {
                 "PERSON": [
                     "Thomas Burleson"
+                ],
+                "GPE": [
+                    "Angular"
                 ]
             }
         },
@@ -1337,6 +1395,9 @@
             "entities": {
                 "PERSON": [
                     "Stephen Fluin"
+                ],
+                "ORG": [
+                    "Angular"
                 ],
                 "CARDINAL": [
                     "8"
@@ -1413,17 +1474,13 @@
             "entities": {
                 "PERSON": [
                     "Brian Martin",
-                    "Browser"
-                ],
-                "ORG": [
-                    "NBA.com",
-                    "Chromium"
-                ],
-                "PRODUCT": [
-                    "Brian's-----------------------Compodoc"
+                    "Chromium",
+                    "Code"
                 ],
                 "GPE": [
-                    "https://github.com/vsls-contrib/vsls-redux"
+                    "NBA.com",
+                    "Storybook",
+                    "https://github.com/vsls-contrib/vsls-redux\n\n"
                 ]
             }
         },
@@ -1451,13 +1508,8 @@
             "entities": {
                 "PERSON": [
                     "Zack DeRose",
-                    "Justin's-----------------------Aaron Frost's",
-                    "https://twitch.tv/frostydev\n\n--- \n\nSupport"
-                ],
-                "ORG": [
-                    "https://connect.nrwl.io/\nMike's-----------------------Justin",
-                    "Schwartzenberger",
                     "Twitch",
+                    "Justin's-----------------------Aaron Frost's",
                     "Twitch"
                 ]
             }
@@ -1484,11 +1536,6 @@
             "pubDate": "Wed, 27 Mar 2019 20:01:06 GMT",
             "title": "ngAir 199 - Next-Gen Web Application Testing with Cypress with Amir Rustamzadeh",
             "entities": {
-                "PERSON": [
-                    "Amir",
-                    "Kitchen Sink Example",
-                    "Way Book: http://www.shannonsusko.com/3hagwaybook\n\n"
-                ],
                 "FAC": [
                     "Cypress"
                 ]
@@ -1516,16 +1563,16 @@
             "pubDate": "Wed, 20 Mar 2019 20:45:26 GMT",
             "title": "ngAir 198 - Dynamic reactive forms with Juan Stoppa",
             "entities": {
+                "PERSON": [
+                    "Jaun"
+                ],
                 "GPE": [
                     "FormQL",
-                    "https://twitter.com/formql_io"
+                    "UI"
                 ],
                 "ORG": [
-                    "UI",
-                    "Thrones"
-                ],
-                "CARDINAL": [
-                    "3.4"
+                    "Thrones",
+                    "Alyssa's---------------------------------Schwart Stories"
                 ]
             }
         },
@@ -3207,23 +3254,23 @@
             "pubDate": "Tue, 08 Aug 2017 19:29:47 GMT",
             "title": "ngAir 125 - Debugging with the CLI and VSCodeGuests Tony Sneed",
             "entities": {
-                "ORG": [
-                    "Guest",
-                    "@angular",
-                    "npm",
-                    "TypeScript",
-                    "Angular Language Service\n\n\n\n\n"
-                ],
                 "PERSON": [
                     "Tony Sneed",
-                    "Npm"
+                    "Episode Notes",
+                    "Code Debugging",
+                    "Npm",
+                    "Move TypeScript\n\n\n"
                 ],
-                "PRODUCT": [
-                    "VS Code"
+                "ORG": [
+                    "Intro\n\n\nDebugging\n\n",
+                    "CLI",
+                    "Picks\nAngular DI"
                 ],
                 "CARDINAL": [
-                    "5.0",
-                    "3.5"
+                    "5.0"
+                ],
+                "PRODUCT": [
+                    "Webpack 3.5"
                 ]
             }
         },
@@ -3250,9 +3297,8 @@
             "title": "ngAir 124 - Flex-Layout with Thomas Burleson",
             "entities": {
                 "ORG": [
-                    "@angular",
-                    "Picks",
-                    "iOShttps://twitter.com/joemccann/status/890635691645845504\nStyling"
+                    "StackBlitzhttps://stackblitz.com/",
+                    "Node.js"
                 ],
                 "GPE": [
                     "Angularhttps://twitter.com/stephenfluin/status/892766742241353728"
@@ -3283,17 +3329,23 @@
             "entities": {
                 "PERSON": [
                     "Episode Notes",
+                    "Demos\n\nWrap",
+                    "Repo",
+                    "Blog"
+                ],
+                "ORG": [
                     "Intro",
-                    "https://blog.wishtack.com/rest-apis-best-practices-and-security/",
-                    "Mike\n",
-                    "JustinDave Geddes - Build Overwatch"
+                    "Picks\nMike\nBe",
+                    "Geddes - Build Overwatch"
                 ],
                 "DATE": [
                     "Jan 30-Feb 2 2018"
                 ],
-                "ORG": [
-                    "AngularAirhttp://ng-atl.org/\nAuthentication",
-                    "Flexhttp://gedd.ski/build/overwatch-hero-picker/"
+                "WORK_OF_ART": [
+                    "BehaviorSubject"
+                ],
+                "FAC": [
+                    "Flexhttp://gedd.ski/build/overwatch-hero-picker/\nYounes"
                 ]
             }
         },
@@ -3732,7 +3784,11 @@
             "link": "https://anchor.fm/angularair/episodes/ngAir-103---Animation-in-Angular-with-Matias-Niemel-ebh9n7",
             "pubDate": "Wed, 01 Mar 2017 02:44:02 GMT",
             "title": "ngAir 103 - Animation in Angular with Matias Niemel\u00e4",
-            "entities": {}
+            "entities": {
+                "PERSON": [
+                    "Episode"
+                ]
+            }
         },
         {
             "content": "Episode notes and links can be found at:\nhttps://angularair.com/#episode-102\n\n--- \n\nSupport this podcast: <a href=\"https://anchor.fm/angularair/support\" rel=\"payment\">https://anchor.fm/angularair/support</a>",
@@ -3755,7 +3811,11 @@
             "link": "https://anchor.fm/angularair/episodes/ngAir-102---DI-on-the-Server-with-Jeff-Whelpley-ebh9oj",
             "pubDate": "Wed, 01 Mar 2017 02:42:16 GMT",
             "title": "ngAir 102 - DI on the Server with Jeff Whelpley",
-            "entities": {}
+            "entities": {
+                "PERSON": [
+                    "Episode"
+                ]
+            }
         },
         {
             "content": "Episode notes and links can be found at:\nhttps://angularair.com/#episode-101\n\n--- \n\nSupport this podcast: <a href=\"https://anchor.fm/angularair/support\" rel=\"payment\">https://anchor.fm/angularair/support</a>",
@@ -3778,7 +3838,11 @@
             "link": "https://anchor.fm/angularair/episodes/ngAir-101---Contributor-Days-with-Stephen-Fluin-and-Tracy-Lee-ebh9r5",
             "pubDate": "Wed, 01 Mar 2017 02:40:41 GMT",
             "title": "ngAir 101 - Contributor Days with Stephen Fluin and Tracy Lee",
-            "entities": {}
+            "entities": {
+                "PERSON": [
+                    "Episode"
+                ]
+            }
         },
         {
             "content": "Our 100th episode! Kent C. Dodds, Todd Motto and Jeff Whelpley join host Justin Schwartzenberger to talk about the history of the show.\nEpisode notes and links can be found at:\nhttps://angularair.com/#episode-100\n\n--- \n\nSupport this podcast: <a href=\"https://anchor.fm/angularair/support\" rel=\"payment\">https://anchor.fm/angularair/support</a>",
@@ -3809,7 +3873,8 @@
                     "Kent C. Dodds",
                     "Todd Motto",
                     "Jeff Whelpley",
-                    "Justin Schwartzenberger"
+                    "Justin Schwartzenberger",
+                    "Episode"
                 ]
             }
         },
@@ -3835,8 +3900,11 @@
             "pubDate": "Thu, 09 Feb 2017 07:18:40 GMT",
             "title": "ngAir 99 - Organizing ng-cruise with Joe Eames, Tracy Lee and Gerard Sans",
             "entities": {
-                "PERCENT": [
-                    "https://angularair.com/#episode-99\n\n"
+                "PERSON": [
+                    "Episode"
+                ],
+                "DATE": [
+                    "https://angularair.com/#episode-99"
                 ]
             }
         },
@@ -3861,7 +3929,11 @@
             "link": "https://anchor.fm/angularair/episodes/ngAir-98---PWAs-and-Mobile-with-Sani-Yusuf-ebh9qs",
             "pubDate": "Wed, 25 Jan 2017 04:57:33 GMT",
             "title": "ngAir 98 - PWAs and Mobile with Sani Yusuf",
-            "entities": {}
+            "entities": {
+                "PERSON": [
+                    "Episode"
+                ]
+            }
         },
         {
             "content": "Episode notes and links available at:\nhttps://angularair.com/#episode-97\n\n--- \n\nSupport this podcast: <a href=\"https://anchor.fm/angularair/support\" rel=\"payment\">https://anchor.fm/angularair/support</a>",
@@ -3884,7 +3956,11 @@
             "link": "https://anchor.fm/angularair/episodes/ngAir-97---RxJS-with-Ben-Lesh-and-Tracy-Lee-ebh9mk",
             "pubDate": "Sat, 21 Jan 2017 03:49:33 GMT",
             "title": "ngAir 97 - RxJS with Ben Lesh and Tracy Lee",
-            "entities": {}
+            "entities": {
+                "PERSON": [
+                    "Episode"
+                ]
+            }
         },
         {
             "content": "Episode notes and links available at:\nhttps://angularair.com/#episode-96\n\n--- \n\nSupport this podcast: <a href=\"https://anchor.fm/angularair/support\" rel=\"payment\">https://anchor.fm/angularair/support</a>",
@@ -3907,7 +3983,11 @@
             "link": "https://anchor.fm/angularair/episodes/ngAir-96---Discovering-Angular-Content-With-Michaela-Lehr-and-Gerard-Sans-ebh9m8",
             "pubDate": "Sat, 21 Jan 2017 03:47:42 GMT",
             "title": "ngAir 96 - Discovering Angular Content With Michaela Lehr and Gerard Sans",
-            "entities": {}
+            "entities": {
+                "PERSON": [
+                    "Episode"
+                ]
+            }
         },
         {
             "content": "Episode notes and links available at:\nhttps://angularair.com/#episode-95\n\n--- \n\nSupport this podcast: <a href=\"https://anchor.fm/angularair/support\" rel=\"payment\">https://anchor.fm/angularair/support</a>",
@@ -3930,7 +4010,11 @@
             "link": "https://anchor.fm/angularair/episodes/ngAir-95---TIL-2-ebh9ob",
             "pubDate": "Sat, 21 Jan 2017 01:56:10 GMT",
             "title": "ngAir 95 - TIL #2",
-            "entities": {}
+            "entities": {
+                "PERSON": [
+                    "Episode"
+                ]
+            }
         },
         {
             "content": "Episode notes and links available at:\nhttps://angularair.com/#episode-94\n\n--- \n\nSupport this podcast: <a href=\"https://anchor.fm/angularair/support\" rel=\"payment\">https://anchor.fm/angularair/support</a>",
@@ -3953,7 +4037,11 @@
             "link": "https://anchor.fm/angularair/episodes/ngAir-94---Life-On-and-Beyond-the-Angular-Core-Team-ebh9of",
             "pubDate": "Sat, 21 Jan 2017 01:53:56 GMT",
             "title": "ngAir 94 - Life On and Beyond the Angular Core Team",
-            "entities": {}
+            "entities": {
+                "PERSON": [
+                    "Episode"
+                ]
+            }
         },
         {
             "content": "Episode notes and links can be found at:\nhttps://angularair.com/#episode-93\n\n--- \n\nSupport this podcast: <a href=\"https://anchor.fm/angularair/support\" rel=\"payment\">https://anchor.fm/angularair/support</a>",
@@ -3976,7 +4064,11 @@
             "link": "https://anchor.fm/angularair/episodes/ngAir-93---Techniques-for-Testing-with-Duncan-Hunter-and-Adam-Stephensen-ebh9rh",
             "pubDate": "Sat, 21 Jan 2017 00:35:54 GMT",
             "title": "ngAir 93 - Techniques for Testing with Duncan Hunter and Adam Stephensen",
-            "entities": {}
+            "entities": {
+                "PERSON": [
+                    "Episode"
+                ]
+            }
         },
         {
             "content": "Episode notes and links can be found at:\nhttps://angularair.com/#episode-92\n\n--- \n\nSupport this podcast: <a href=\"https://anchor.fm/angularair/support\" rel=\"payment\">https://anchor.fm/angularair/support</a>",
@@ -4001,7 +4093,8 @@
             "title": "ngAir 92 - Education Tech with Wesley Cho and Victor Mejia",
             "entities": {
                 "PERSON": [
-                    "https://angularair.com/#episode-92\n\n"
+                    "Episode",
+                    "https://angularair.com/#episode-92"
                 ]
             }
         },
@@ -4028,11 +4121,11 @@
             "title": "ngAir 91 - Angular and D3 for Data Viz with Marjan Georgiev, Olivier Combe and Austin McDaniel",
             "entities": {
                 "PERSON": [
-                    "Marjan Georgiev",
+                    "Olivier Combe",
                     "Austin McDaniel",
                     "Episode"
                 ],
-                "ORG": [
+                "GPE": [
                     "Angular"
                 ]
             }
@@ -4060,10 +4153,13 @@
             "title": "ngAir 90 - ngrx with Mike Ryan",
             "entities": {
                 "PERSON": [
-                    "Mike Ryan"
+                    "Mike Ryan",
+                    "Episode"
+                ],
+                "ORG": [
+                    "RxJS"
                 ],
                 "GPE": [
-                    "RxJS",
                     "Redux"
                 ]
             }
@@ -4089,7 +4185,12 @@
             "link": "https://anchor.fm/angularair/episodes/ngAir-89---The-TIL-Episode-ebh9oo",
             "pubDate": "Wed, 07 Dec 2016 08:32:22 GMT",
             "title": "ngAir 89 - The TIL Episode",
-            "entities": {}
+            "entities": {
+                "PERSON": [
+                    "Angular",
+                    "Episode"
+                ]
+            }
         },
         {
             "content": "Adam Klein and Boris Dinkevich join us to talk about the AngularUP Conference in 2016, what's involved in putting on a conference, and fill us in on the huge Angular community in Israel.\n\n--- \n\nSupport this podcast: <a href=\"https://anchor.fm/angularair/support\" rel=\"payment\">https://anchor.fm/angularair/support</a>",
@@ -4117,11 +4218,11 @@
                     "Adam Klein",
                     "Boris Dinkevich"
                 ],
-                "ORG": [
-                    "the AngularUP"
-                ],
                 "DATE": [
                     "2016"
+                ],
+                "NORP": [
+                    "Angular"
                 ],
                 "GPE": [
                     "Israel"
@@ -4150,6 +4251,9 @@
             "pubDate": "Wed, 07 Dec 2016 08:28:17 GMT",
             "title": "ngAir 87 - Wazzup",
             "entities": {
+                "PERSON": [
+                    "Angular"
+                ],
                 "ORG": [
                     "AngularAir"
                 ]
@@ -4177,13 +4281,13 @@
             "pubDate": "Wed, 07 Dec 2016 08:21:18 GMT",
             "title": "ngAir 86 - Angular Material with Kara Erickson and Jeremy Elbourn",
             "entities": {
+                "CARDINAL": [
+                    "one"
+                ],
                 "PERSON": [
                     "Kara Erickson",
-                    "Jeremy Elbourn"
-                ],
-                "CARDINAL": [
-                    "one",
-                    "only\u00a0"
+                    "Jeremy Elbourn",
+                    "Angular Material"
                 ]
             }
         },
@@ -4209,61 +4313,32 @@
             "pubDate": "Fri, 28 Oct 2016 17:52:00 GMT",
             "title": "ngAir 85- Angular 2 in the Enterprise",
             "entities": {
-                "ORG": [
-                    "Enterprise",
-                    "\u25cb\u00a0\u00a0\u00a0\u00a0\u00a0\nJustin Schwartzenberger",
-                    "Intros & backgrounds",
+                "PERSON": [
+                    "Justin Schwartzenberger",
+                    "Austin McDaniel",
+                    "Gary Trinklein",
                     "Angular",
-                    "\u25cb\u00a0\u00a0\u00a0\u00a0\u00a0\nEducation",
-                    "\u25cb\u00a0\u00a0\u00a0\u00a0\u00a0\nTechnical?",
-                    "\u25cb\u00a0\u00a0\u00a0\u00a0\u00a0\nProcess",
-                    "\u25cb\u00a0\u00a0\u00a0\u00a0\u00a0\nDeployment",
-                    "\u25cb\u00a0\u00a0\u00a0\u00a0\u00a0\nEven",
-                    "Tips & Picks\n\n\n\u25cf\u00a0\u00a0\u00a0\u00a0\u00a0\n",
-                    "Justin",
-                    "\u25cb\u00a0\u00a0\u00a0\u00a0\u00a0\nLukas\u2019 Observable Cheat Sheet",
-                    "Jeff",
-                    "\u25cb\u00a0\u00a0\u00a0\u00a0\u00a0\nNodesecurity.io - Audits",
-                    "\u25cb\u00a0\u00a0\u00a0\u00a0\u00a0\nCSS",
-                    "\u25cb\u00a0\u00a0\u00a0\u00a0\u00a0\nAoT",
-                    "\u25cb\u00a0\u00a0\u00a0\u00a0\u00a0\nDevFest FL - https://devfestflorida.org/",
-                    "\u25cb\u00a0\u00a0\u00a0\u00a0\u00a0\nUse ChangeDetectionStrategy",
-                    "\u25cb\u00a0\u00a0\u00a0\u00a0\u00a0 ng-be\n\n"
+                    "Angular",
+                    "OnPush"
                 ],
                 "GPE": [
                     "\u25cb",
-                    "\u25cb",
-                    "Mehul",
-                    "\u25cb",
-                    "ngPanda",
-                    "\u25cb",
-                    "\u25cb",
-                    "Nhut Tran",
-                    "\u25cb",
-                    "\u25cb",
-                    "\u25cb",
-                    "\u25cb",
-                    "\u25cb",
-                    "Austin",
-                    "\u25cb",
-                    "\u25cb",
-                    "Mike",
-                    "\u25cb",
-                    "\u25cb",
+                    "Mike Brocchi\n\n\n\u25cb",
                     "\u25cb"
                 ],
-                "PERSON": [
-                    "Mike Brocchi",
-                    "Austin McDaniel",
-                    "Gary Trinklein"
+                "ORG": [
+                    "ngPanda \n\n\n\u25cb\u00a0\u00a0\u00a0\u00a0\u00a0\nOlivier Combe",
+                    "Intros &",
+                    "\u25cb\u00a0\u00a0\u00a0\u00a0\u00a0\nTechnical",
+                    "Tips & Picks",
+                    "Mike\n\n\n\u25cb\u00a0\u00a0\u00a0\u00a0\u00a0\nng europe"
                 ],
-                "CARDINAL": [
-                    "https://github.com/amcdnl/ng2-three"
-                ],
-                "LOC": [
-                    "europe"
+                "PRODUCT": [
+                    "Angular 1.x",
+                    "Angular 2"
                 ],
                 "DATE": [
+                    "today & tomorrow",
                     "May 2017"
                 ]
             }
@@ -4290,42 +4365,25 @@
             "pubDate": "Fri, 28 Oct 2016 16:25:04 GMT",
             "title": "ngAir 84 - Creating Angular 2 UI Libraries with Kyle Ledbetter",
             "entities": {
-                "ORG": [
-                    "UI Libraries",
-                    "UI",
-                    "UI",
-                    "AoT",
-                    "Tips & Picks\n\n\n\u25cf\u00a0\u00a0\u00a0\u00a0\u00a0\n",
-                    "Justin",
-                    "\u25cb\u00a0\u00a0\u00a0\u00a0\u00a0\nGames",
-                    "Jeff",
-                    "\u25cb\u00a0\u00a0\u00a0\u00a0\u00a0\nLife Lessons Learned on AngularAir https://devchat.tv/adv-in-angular/114-aia-life-lessons-from-angular-air-jeff-whelpley-angular-remote-conf\n\n\n\n\u25cf\u00a0\u00a0\u00a0\u00a0\u00a0\nWesley",
-                    "\u25cb\u00a0\u00a0\u00a0\u00a0\u00a0\nChange",
-                    "AoT",
-                    "\u25cb\u00a0\u00a0\u00a0\u00a0\u00a0\nGetcovalent.com",
-                    "\u25cb\u00a0\u00a0\u00a0\u00a0\u00a0\nGuardians",
-                    "Dmitriy",
-                    "https://www.ng-book.com/2/",
-                    "https://www.reddit.com/r/InternetIsBeautiful/comments/58akkx/dollarstreet_imagines_the_world_as_a_street/"
-                ],
-                "GPE": [
-                    "\u25cb",
-                    "\u25cb",
-                    "Logan",
-                    "https://www.youtube.com/watch?v=Div0iP65aZo",
-                    "\u25cb",
-                    "\u25cb",
-                    "\u25cb"
-                ],
                 "CARDINAL": [
+                    "2",
                     "6",
                     "2"
                 ],
+                "ORG": [
+                    "CSS",
+                    "Tips & Picks",
+                    "Getcovalent.com"
+                ],
+                "GPE": [
+                    "UI",
+                    "\u25cb"
+                ],
+                "LAW": [
+                    "AoT"
+                ],
                 "PERSON": [
                     "Nintendo Switch https://youtu.be/f5uik5fgIaI"
-                ],
-                "DATE": [
-                    "http://blog.thoughtram.io/angular/2016/02/22/angular-2-change-detection-explained.html"
                 ]
             }
         },
@@ -4352,35 +4410,29 @@
             "title": "ngAir 82 - Angular Connect and the Future Beyond Final with Shai Reznik",
             "entities": {
                 "PERSON": [
-                    "Shai Reznik\u00a0\n\n\n\n\nAngularConnect",
+                    "Shai Reznik",
                     "Shai",
-                    "Jeff Cross",
                     "Ben Lesh",
                     "Todd\nMotto",
                     "Shai",
                     "Jeff Cross",
-                    "Mike",
-                    "Jeff"
+                    "Justin\n\n\nMike\n\n\nUltimate Angular"
                 ],
-                "ORG": [
-                    "Lukas",
-                    "Stories",
-                    "Tips & Picks",
-                    "Justin",
-                    "Workshop - Uri & gil\n\n\nSerious dev talk - hirez.io",
-                    "Justin",
-                    "Lukas\nRuebbelke & Todd Motto https://ultimateangular.com/",
-                    "Angular Nation"
+                "NORP": [
+                    "Lukas"
                 ],
                 "CARDINAL": [
                     "5",
                     "3d"
                 ],
-                "GPE": [
-                    "Shai"
+                "ORG": [
+                    "Stories",
+                    "Shai\n\n\nReactions",
+                    "Workshop - Uri & gil\n\n\nSerious dev talk - hirez.io\n\n\n",
+                    "Lukas\nRuebbelke & Todd Motto"
                 ],
-                "WORK_OF_ART": [
-                    "Ultimate Angular"
+                "PRODUCT": [
+                    "JavaScript"
                 ]
             }
         },
@@ -4406,23 +4458,26 @@
             "pubDate": "Fri, 23 Sep 2016 15:40:34 GMT",
             "title": "ngAir 80 - Calm before the storm",
             "entities": {
+                "QUANTITY": [
+                    "80 - Calm"
+                ],
                 "CARDINAL": [
-                    "80",
                     "2"
                 ],
                 "ORG": [
                     "CLI",
-                    "Tips & Picks",
                     "PWA",
-                    "Justin",
-                    "Charting Framework"
+                    "Angular 2"
+                ],
+                "PRODUCT": [
+                    "Angular Native"
                 ],
                 "PERSON": [
-                    "Jeff",
-                    "Pascal Precht\nhttps://www.youtube.com/watch?v=Usohbij6frA&feature=youtu.be",
+                    "https://github.com/hemanth/awesome-pwa\n\n\n\n",
+                    "Justin\n\n\nAngular\nZone Webinar",
+                    "Charting Framework",
                     "Josh",
-                    "Mike",
-                    "ng2dnd\n\n"
+                    "Mike\n\n\nng2dnd\n\n"
                 ]
             }
         },
@@ -4448,23 +4503,33 @@
             "pubDate": "Fri, 16 Sep 2016 13:11:58 GMT",
             "title": "ngAir Special",
             "entities": {
+                "ORG": [
+                    "ngAir Special\n\n\nHost",
+                    "CLI",
+                    "CLI"
+                ],
                 "PERSON": [
                     "Jeff Whelpley",
                     "Misko Hevery",
                     "Rob Wormald",
-                    "Jules Kremer\n\n",
+                    "Jules Kremer",
                     "Patrick Stapleton",
                     "Justin Schwartzenberger",
+                    "Olivier Combe",
                     "Austin McDaniel",
-                    "Scott Moss\n",
-                    "NgModule"
+                    "Scott Moss"
+                ],
+                "PRODUCT": [
+                    "Angular 2",
+                    "Angular 2",
+                    "NgModule",
+                    "Angular 1?"
+                ],
+                "CARDINAL": [
+                    "2"
                 ],
                 "GPE": [
-                    "Olivier Combe"
-                ],
-                "ORG": [
-                    "CLI",
-                    "CLI"
+                    "redux"
                 ]
             }
         },
@@ -4490,39 +4555,38 @@
             "pubDate": "Mon, 12 Sep 2016 20:44:14 GMT",
             "title": "ngAir 79 - ng1 to ng2 Migration with Joe Eames",
             "entities": {
-                "CARDINAL": [
-                    "79",
-                    "3",
-                    "less than 10k",
-                    "1",
-                    "two",
-                    "2"
+                "QUANTITY": [
+                    "79 - ng1"
                 ],
                 "PERSON": [
                     "Joe Eames",
-                    "Intro",
                     "Joe",
+                    "Twitter",
                     "Joe Eames",
                     "Jeff Whelpley",
                     "Austin McDaniel",
-                    "Angular Modules - Root Module",
+                    "Justin\nSchwartzenberger\n\n\nIntroducing\nAngular Modules - Root Module",
                     "John Papa"
                 ],
+                "CARDINAL": [
+                    "3",
+                    "less than 10k",
+                    "two",
+                    "2"
+                ],
                 "DATE": [
-                    "ng2",
                     "a couple weeks"
                 ],
-                "LAW": [
-                    "Angular 1"
+                "PRODUCT": [
+                    "Angular 2",
+                    "Angular 2",
+                    "Angular 1",
+                    "Angular 1",
+                    "PureScript\nGenerics"
                 ],
                 "ORG": [
                     "Ember",
-                    "Twitter",
-                    "Tips & Picks",
-                    "Stranger Things",
-                    "PureScript",
-                    "TypeScript",
-                    "Justin"
+                    "TypeScript"
                 ]
             }
         },
@@ -4548,47 +4612,36 @@
             "pubDate": "Mon, 12 Sep 2016 19:46:22 GMT",
             "title": "ngAir 78 GraphQL and Apollo with Uri Goldshtein",
             "entities": {
-                "CARDINAL": [
-                    "78",
-                    "1",
-                    "2",
-                    "#",
-                    "one"
-                ],
                 "ORG": [
                     "Apollo",
-                    "GraphQL",
                     "Apollo",
-                    "Comparison",
+                    "REST",
+                    "REST",
                     "Apollo",
                     "Apollo Youtube",
-                    "Meetup",
-                    "Kamil",
-                    "Tips & Picks",
-                    "Justin",
-                    "@BenNadel",
-                    "LearnGraphQL.com",
-                    "GraphiQL"
+                    "Tips & Picks"
                 ],
                 "PERSON": [
                     "Uri Goldshtein",
-                    "Intro",
+                    "Demo 1\n\n\nUsing",
+                    "Docs - http://dev.apollodata.com/core/angular2.html",
                     "Slack Channel - https://apollostack.slack.com/messages/angular2-apollo/",
+                    "Kamil",
                     "Mike Brocchi\n\n\n\u00a0",
-                    "Dimitri",
                     "Uri Goldstein",
-                    "Goal Zero",
-                    "Burning Man",
+                    "Justin\nSchwartzenberger",
                     "Ben Nadel",
                     "Jim Cummins"
                 ],
                 "GPE": [
                     "GraphQL",
                     "Barcelona",
-                    "http://tether.io/"
+                    "GraphQL"
                 ],
-                "NORP": [
-                    "https://www.npmjs.com/package/gra"
+                "CARDINAL": [
+                    "2",
+                    "#",
+                    "Zero"
                 ]
             }
         },
@@ -4622,24 +4675,29 @@
                     "2"
                 ],
                 "PERSON": [
-                    "Todd Motto-",
+                    "ngair",
                     "Justin Schwartzenberger",
                     "Rob Wormald",
-                    "NgModule",
                     "Ward Bell",
-                    "https://github.com/angular/angular/issues/10552#issuecomment-241576063",
-                    "Rob\n",
+                    "https://github.com/angular/angular/issues/10552#issuecomment-241576063\n\n\nRob",
                     "Austin McDaniel",
-                    "Webpack Plugin",
+                    "Olivier Combe",
                     "Todd Motto"
                 ],
-                "WORK_OF_ART": [
-                    "The Man The Myth"
+                "PRODUCT": [
+                    "Angular 1.x",
+                    "NgModule",
+                    "Angular 2 API"
+                ],
+                "QUANTITY": [
+                    "1.x modules"
                 ],
                 "ORG": [
-                    "Intros",
-                    "Tips &\nPicks",
+                    "Version",
                     "Ionic"
+                ],
+                "NORP": [
+                    "http://angularjs.blogspot.com/2016/08/angular-material-11-and-2x.html"
                 ]
             }
         },
@@ -4668,20 +4726,19 @@
                 "CARDINAL": [
                     "76"
                 ],
+                "ORG": [
+                    "Angular Data Table"
+                ],
                 "PERSON": [
                     "Austin McDaniel",
                     "Demos",
                     "Nasty",
                     "Jeff Whelpley",
-                    "AngularRemoteConf\n\n"
-                ],
-                "ORG": [
-                    "Angular Data Table",
-                    "Tips &\nPicks"
+                    "AngularConnect",
+                    "AngularRemoteConf"
                 ],
                 "DATE": [
-                    "1000s",
-                    "https://zeit.co/now"
+                    "1000s"
                 ]
             }
         },
@@ -4708,27 +4765,32 @@
             "title": "ngAir 75 - Webpack 2 with Sean Larkin",
             "entities": {
                 "CARDINAL": [
-                    "75",
-                    "2",
-                    "1",
-                    "2",
-                    "http://www.meetup.com/AngularZone/events/232901433/"
+                    "75"
+                ],
+                "LAW": [
+                    "Webpack 2"
+                ],
+                "NORP": [
+                    "Sean",
+                    "Sean"
+                ],
+                "ORG": [
+                    "Intro",
+                    "Webpack 2\nEvolution",
+                    "rollup",
+                    "jspm\n",
+                    "Quantum Team Management",
+                    "Quantum"
                 ],
                 "PERSON": [
-                    "Sean Larkin\n\u00a0Show Notes",
-                    "Intro",
+                    "Webpack",
                     "Justin Schwartzenberger",
                     "Jeff Whelpley",
                     "James\nEveringham"
                 ],
-                "ORG": [
-                    "Sean",
-                    "Quantum Team Management",
-                    "Instagram",
-                    "Quantum"
-                ],
-                "PRODUCT": [
-                    "Grunt"
+                "FAC": [
+                    "Tutorial 1 - Anatomy",
+                    "Tutorial 2 - Plugins"
                 ]
             }
         },
@@ -4755,27 +4817,26 @@
             "title": "ngAir 74 - CLI Tutorial with Mike Brocchi",
             "entities": {
                 "ORG": [
-                    "Episode Outline & Topics",
-                    "CLI",
-                    "Guest",
+                    "Episode Outline & Topics\n\n\nCLI\n\n\nPanelists",
+                    "Tutorial 3 - 3rd",
                     "Tips & Picks",
-                    "Justin",
-                    "videos"
+                    "Mike\n\n\nLearning"
                 ],
                 "PERSON": [
                     "Justin Schwartz",
-                    "Mike Brocchi @brocco",
-                    "Mike",
+                    "Guest",
+                    "Mike Brocchi",
+                    "Tutorial 1 - scaffolding",
+                    "Justin\n\n\n\u00a0Prisma - http://prisma-ai.com/",
+                    "Twitter",
                     "Android Night",
                     "Jeff Whelpley",
-                    "Gary Johnson"
+                    "Gary Johnson",
+                    "Samantha\nBee https://www.youtube.com/watch?v=hdkznU2IvfU"
                 ],
                 "CARDINAL": [
                     "#",
                     "2"
-                ],
-                "GPE": [
-                    "Samantha"
                 ]
             }
         },
@@ -4803,44 +4864,46 @@
             "entities": {
                 "CARDINAL": [
                     "73",
+                    "Preboot",
                     "2",
-                    "5",
-                    "17"
+                    "5"
                 ],
                 "ORG": [
-                    "Topics",
-                    "Justin",
-                    "MacBook Pro\n\n\nAuth",
-                    "Preboot",
-                    "Angular 2",
-                    "API http://schwarty.com/2016/07/18/migrating-model-driven-forms-to-the-new-forms-api-in-angular-2/\n\n\n\n\u00a0\n\n\n",
+                    "Justin\n\n\nBack",
+                    "API",
+                    "RC5",
                     "CLI",
-                    "Mention React",
-                    "https://github.com/angular/angular/milestones",
+                    "Mention React\nCLI",
                     "AngularAir",
-                    "Tricks\n\n\n\u00a0\n\nTips & Picks",
-                    "Justin"
+                    "Tricks\n\n\n\u00a0\n\nTips & Picks"
                 ],
                 "GPE": [
-                    "Vegas"
+                    "Vegas",
+                    "Israel"
                 ],
                 "PERSON": [
                     "Jeff",
-                    "Admin",
                     "Offline Compiler",
+                    "https://github.com/angular/angular/milestones\n",
                     "Mike\nBrocchi",
                     "Sean Larkin",
-                    "Jeff",
+                    "Justin",
                     "Robot"
                 ],
-                "DATE": [
-                    "ng2",
-                    "July 26 - CLI",
-                    "August 2 - Webpack 2",
-                    "August 9 - Universal Tips\n"
+                "WORK_OF_ART": [
+                    "Angular\nNews\n\n\nAngular\nTeam Notes"
+                ],
+                "PRODUCT": [
+                    "Angular 2 Router http://blog.thoughtram.io/angular/2016/06/14/routing-in-angular-2-revisited.html"
                 ],
                 "PERCENT": [
                     "27%"
+                ],
+                "DATE": [
+                    "Nov 17",
+                    "July 26 - CLI",
+                    "August 2 - Webpack 2",
+                    "August 9 - Universal Tips"
                 ]
             }
         },
@@ -4889,20 +4952,14 @@
             "pubDate": "Thu, 14 Jul 2016 10:01:37 GMT",
             "title": "ngAir 71 - AngularFire 2 Tutorial with David East",
             "entities": {
-                "ORG": [
-                    "Guest",
-                    "Justin"
-                ],
                 "PERSON": [
+                    "Justin Schwartzenberger",
                     "David East",
-                    "Kahoot",
+                    "David\n\tSkateboard",
                     "Jeff"
                 ],
-                "CARDINAL": [
-                    "2"
-                ],
-                "WORK_OF_ART": [
-                    "Minko packaging Angular"
+                "PRODUCT": [
+                    "Notes"
                 ]
             }
         },
@@ -4928,27 +4985,25 @@
             "pubDate": "Mon, 27 Jun 2016 14:44:12 GMT",
             "title": "ngAir 70 - The making of ng-show with Shai Reznik",
             "entities": {
-                "ORG": [
-                    "Story",
-                    "Justin",
-                    "Guest",
-                    "Tips & Picks",
-                    "Justin"
-                ],
                 "PERSON": [
-                    "Shai Reznik\n\nNotes",
-                    "Docker",
-                    "Whelpley",
-                    "Messi"
+                    "Justin\nSchwartzenberger\n\n\nGuest",
+                    "Shai Reznik",
+                    "Docker"
+                ],
+                "PRODUCT": [
+                    "Notes"
                 ],
                 "CARDINAL": [
-                    "1",
                     "2",
                     "3",
                     "4"
                 ],
                 "DATE": [
                     "next year"
+                ],
+                "ORG": [
+                    "Tips & Picks",
+                    "HiRez Videos https://www.youtube.com/channel/UCuGmhP1MSz82hkR1jpJ_F5w\n\n\n\n\u00a0\n\n\nJeff\nWhelpley\n\n\nMessi"
                 ]
             }
         },
@@ -4974,20 +5029,28 @@
             "pubDate": "Fri, 10 Jun 2016 16:17:56 GMT",
             "title": "69 ngAir - Discussion Show",
             "entities": {
-                "ORG": [
-                    "Justin",
-                    "Topics",
-                    "VR",
-                    "AI - Messaging/Chatbot Allo",
-                    "Justin"
+                "PERSON": [
+                    "Justin\nStyleGuide",
+                    "apps https://www.lynda.com/AngularJS-tutorials/AngularJS-2-Essential-Training/422834-2.html\nScript",
+                    "Apps - PWAs",
+                    "Jeff\nWhelpley\n\n\nNativeScript"
                 ],
                 "CARDINAL": [
                     "2"
                 ],
-                "PERSON": [
-                    "Car Automation - Android Auto",
-                    "Android Instant Apps\n\n\n",
-                    "Whelpley"
+                "PRODUCT": [
+                    "Angular 2"
+                ],
+                "ORG": [
+                    "GetHuman",
+                    "AI - Messaging/Chatbot Allo",
+                    "Google",
+                    "Google\nHome\n\n\nCar Automation - Android Auto\n\n\n",
+                    "Android Instant Apps\n\n\nReact Europe",
+                    "Justin\n\n\nAngular 2 docs"
+                ],
+                "WORK_OF_ART": [
+                    "Angular Universal\nPreboot\nCLI\nServices\n\n\n\n\u00a0\n\n\nTopics\n\n\nGoogle\nI/O http://www.theverge.com/2016/5/18/11701030/google-io-2016-keynote-highlights-announcements-recap\n\n\nVR - Daydream"
                 ]
             }
         },
@@ -5014,28 +5077,31 @@
             "title": "68 ngAir - OSS Round II",
             "entities": {
                 "ORG": [
-                    "Maintainer",
-                    "OSS",
                     "GitHub",
-                    "Ideal",
-                    "Tips & Picks",
-                    "Beginners"
+                    "Tips & Picks"
                 ],
                 "PERSON": [
                     "Protocols",
-                    "Chris\nThielen",
+                    "Chris",
                     "Easy F2L",
-                    "Router Extras",
-                    "Log https://changelog.com/159/",
+                    "Extras https://github.com/christopherthielen/ui-router-extras",
+                    "Jesus Rodriguez",
                     "Wesley Cho",
-                    "Jeff",
-                    "Whelpley"
+                    "Jeff\nWhelpley\n\n\nThings"
                 ],
                 "ORDINAL": [
                     "third"
                 ],
+                "PRODUCT": [
+                    "Vanilla JS",
+                    "Dmitriy\n\n\nHealthy\nOpen",
+                    "Excite Me"
+                ],
                 "CARDINAL": [
                     "2"
+                ],
+                "GPE": [
+                    "http://teropa.info/blog/2016/05/19/things-that-excite-me-about-angular-2.html"
                 ]
             }
         },
@@ -5062,28 +5128,26 @@
             "title": "ngAir 67- How Should I Migrate My Angular 1 App",
             "entities": {
                 "CARDINAL": [
-                    "67",
-                    "2",
-                    "1",
-                    "1",
-                    "2",
                     "2",
                     "1",
                     "2"
                 ],
-                "ORG": [
-                    "Write Angular",
-                    "Tips &Picks"
-                ],
-                "GPE": [
-                    "Martin",
-                    "http://teropa.info/blog/2016/02/22/dumb-components-and-visual-feedback-in-angular-apps.html"
-                ],
-                "DATE": [
-                    "Tero"
+                "PRODUCT": [
+                    "Angular 2\n\n\nSegment",
+                    "Run Angular 1",
+                    "Angular 2\n\n\nng",
+                    "Angular 2"
                 ],
                 "PERSON": [
+                    "Write Angular",
+                    "Martin\n\n\nhttp://teropa.info/blog/2016/02/22/dumb-components-and-visual-feedback-in-angular-apps.html\n\n\n",
                     "Jeff"
+                ],
+                "LAW": [
+                    "Angular 1.x\n\n\n\u00a0\n\n\n"
+                ],
+                "ORG": [
+                    "Tips &Picks"
                 ]
             }
         },
@@ -5111,32 +5175,40 @@
             "entities": {
                 "ORG": [
                     "ng-conf",
-                    "Experts Room",
+                    "Group",
                     "Include\nTour Of Heroes",
-                    "Alex",
-                    "Style Guide",
+                    "Combat",
+                    "Igor",
+                    "Keynotes",
+                    "TheRoad Ahead",
+                    "Tips & Picks",
+                    "Jeff Cross\u2019s",
                     "Universal Integrations",
-                    "PHP"
+                    "PHP backend - https://github.com/angular/universal/issues/281"
                 ],
                 "PERSON": [
-                    "Pete Bacon",
-                    "Darwin",
+                    "Olivier Combe",
+                    "Pete Bacon Darwin",
                     "Papa Misko",
-                    "John Papa",
-                    "Shai",
+                    "John Papa \n",
+                    "Alex",
                     "Kara",
-                    "TheRoad Ahead",
                     "Misko",
-                    "Shai",
+                    "Style Guide",
                     "Mike Brocchi Lear CLI",
                     "Matias Niemala",
+                    "Yo-yo \nngOcarina",
+                    "App",
+                    "swag",
+                    "App",
                     "Jeff Whelpley",
-                    "Jeff Cross\u2019s",
-                    "PWAs- https://mobile.angular.io",
-                    "Darwin"
+                    "Pete Bacon Darwin",
+                    "Cylon.js",
+                    "Dmitri"
                 ],
-                "PRODUCT": [
-                    "- https://github.com/angular/universal/issues/281"
+                "GPE": [
+                    "Shai",
+                    "Shai"
                 ]
             }
         },
@@ -5162,13 +5234,11 @@
             "pubDate": "Wed, 27 Apr 2016 18:40:50 GMT",
             "title": "64 ngAir - Conference Prep Show",
             "entities": {
-                "ORG": [
-                    "ng-conf"
-                ],
                 "PERSON": [
+                    "Olivier Combe",
                     "Carmen Popoviciu",
                     "Aaron Froste",
-                    "Joe\nEames\n\nShow",
+                    "Joe\nEames",
                     "Katya"
                 ],
                 "DATE": [
@@ -5178,7 +5248,8 @@
                     "this year"
                 ],
                 "PRODUCT": [
-                    "Angular 2"
+                    "Angular 2",
+                    "Angular 1?"
                 ],
                 "TIME": [
                     "20 minutes"
@@ -5207,21 +5278,29 @@
             "pubDate": "Thu, 21 Apr 2016 16:35:45 GMT",
             "title": "63 ngAir- How Service Workers Will Change The Way You Think About Web Apps",
             "entities": {
+                "ORG": [
+                    "How Service Workers",
+                    "appCache",
+                    "workers?Tips &Picks\n\n\n\u00a0Minko Gechev",
+                    "ServiceWorkers",
+                    "Mozilla",
+                    "WebWorkers",
+                    "Ng conf planning looks"
+                ],
                 "PERSON": [
                     "Ari Lerner",
                     "Olivier Combe",
-                    "Gleb Bahmatov\nGuests",
+                    "Gleb Bahmatov\n",
+                    "Gleb",
                     "Minko",
-                    "Service Worker",
                     "Gleb Bahmutov"
                 ],
-                "ORG": [
-                    "appCache",
-                    "Progressive",
-                    "ServiceWorkers"
-                ],
                 "DATE": [
+                    "Sundays",
                     "5 years"
+                ],
+                "WORK_OF_ART": [
+                    "Transpiling code(babel-service"
                 ]
             }
         },
@@ -5248,29 +5327,29 @@
             "title": "62 ngAir - Using Web Workers for High Performance Angular 2 Web App",
             "entities": {
                 "PERSON": [
+                    "Olivier Combe",
                     "Jason Teplitz",
-                    "http://www.syntaxsuccess.com/angular-2-samples/components/web-workers/web-worker-demo.html\n",
                     "Jeff Whelpley",
-                    "Tony",
-                    "Ted Talk"
+                    "Tony\nRobbins Ted Talk",
+                    "Jason\n\n\nRust"
+                ],
+                "ORG": [
+                    "Dmitry\n\n\nGuest",
+                    "JS",
+                    "DOM",
+                    "the Angular Team",
+                    "Tips\n& Picks"
+                ],
+                "PRODUCT": [
+                    "Angular 2?",
+                    "C++Java",
+                    "Angular 1?"
                 ],
                 "ORDINAL": [
                     "third"
                 ],
-                "PRODUCT": [
-                    "C++Java",
-                    "Angular\u00a0 http://5thingsangular.github.io/"
-                ],
-                "ORG": [
-                    "the Angular Team",
-                    "https://www.npmjs.com/package/webworker-threads\n\n\n\nhttp://www.syntaxsuccess.com/angular-2-samples/components/web-workers/web-worker-demo.html\n\n\n",
-                    "Jason\n\n\nRust"
-                ],
-                "CARDINAL": [
-                    "5"
-                ],
                 "DATE": [
-                    "ng2\u00a0 https://github.com/angular-ui/ui-router\n\n\n"
+                    "ng2\u00a0 https://github.com/angular-ui/ui-router"
                 ]
             }
         },
@@ -5298,41 +5377,36 @@
             "entities": {
                 "PERSON": [
                     "Jeff",
-                    "GetHuman",
                     "Jeff",
                     "Patrick",
-                    "Getting Universal",
-                    "Browser",
+                    "Cache\n\n\n\u00a0Why Universal",
                     "Jeff Whelpley",
-                    "Patrick"
+                    "GetHuman",
+                    "Wassim",
+                    "Patrick",
+                    "Ari"
                 ],
                 "ORG": [
-                    "SEO",
-                    "Diff",
+                    "GetHuman",
+                    "Getting Universal",
                     "Angular 2 Core Rendering Engine",
                     "NativeScript",
                     "WebWorker",
-                    "Universal",
-                    "Preboot",
-                    "Ng-conf",
+                    "Performance\n\n\nFuture",
                     "Tips & Picks",
-                    "doc - https://docs.google.com/document/d/1q6g9UlmEZDXgrkY88AJZ6MUrUxcnwhBGS0EXbVlYicY/edit#heading=h.19ijfd7mxdt4",
+                    "Ng-Conf",
                     "Fullstackreact.com"
-                ],
-                "WORK_OF_ART": [
-                    "Facebook",
-                    "universal"
                 ],
                 "CARDINAL": [
                     "2",
-                    "20",
+                    "1.0.0",
                     "1"
                 ],
                 "ORDINAL": [
                     "3rd"
                 ],
                 "TIME": [
-                    "minutes"
+                    "20\nminutes"
                 ]
             }
         },
@@ -5358,38 +5432,53 @@
             "pubDate": "Fri, 25 Mar 2016 16:46:06 GMT",
             "title": "59 ngAir - Angular 2 testing using Protractor 2C Karma and more with Julie Ralph",
             "entities": {
+                "CARDINAL": [
+                    "2"
+                ],
                 "PERSON": [
                     "Karma",
                     "Ralph",
                     "Ed Conolly\nGuests",
-                    "Julie RalphOutline\nBackground",
-                    "Jasmine",
+                    "Julie RalphOutline",
                     "Mocha",
                     "Karma",
+                    "MockedAPIs",
+                    "https://github.com/sindresorhus/ava \nFuture",
+                    "Jeff Whelpley",
+                    "Webpack https://medium.com/@vivainio/with-latest-typescript-you-may-not-need-webpack-417d2ef0e773#.2z0xbjndi\nNg2",
+                    "Ed\nInstanttest",
+                    "Julie\nAngularmaterial"
+                ],
+                "GPE": [
+                    "Firstquestion",
                     "Karma",
-                    "Webpackor System",
-                    "Karma",
-                    "Chaos Monkey",
-                    "Jeff Whelpley"
+                    "ConfigurableAPI"
+                ],
+                "LAW": [
+                    "Angular 2web app"
+                ],
+                "LOC": [
+                    "Karma"
+                ],
+                "PRODUCT": [
+                    "JavaScript"
                 ],
                 "ORG": [
-                    "JavaScript",
+                    "Webpackor System",
+                    "Generalguidelines",
                     "BDD",
                     "AVA",
                     "testing?Tips & Picks",
-                    "RxJS http://staltz.com/how-to-debug-rxjs-code.html",
+                    "Zone.js0.6.x",
+                    "RxJS",
                     "TypeScript",
-                    "CFP",
+                    "Web Workers and Service Works",
+                    "Gleb",
+                    "AngularConnectScholarships / CFP",
                     "Seattle Times"
                 ],
-                "PRODUCT": [
+                "FAC": [
                     "StraightOutta Compton"
-                ],
-                "WORK_OF_ART": [
-                    "Julie\nAngularmaterial"
-                ],
-                "CARDINAL": [
-                    "https://github.com/angular/material2"
                 ],
                 "DATE": [
                     "today"
@@ -5426,25 +5515,37 @@
                     "Ari Lerner",
                     "Michael Cox\nGuests",
                     "Mark Laval#main-content",
-                    "Nativeapps",
-                    "Whatdo",
-                    "JeffWhelpley",
-                    "https://github.com/hortinstein/node-dash-button"
+                    "Whereis",
+                    "Redux",
+                    "https://github.com/hortinstein/node-dash-button\n"
                 ],
                 "ORG": [
+                    "Whoare",
                     "ReactNative",
-                    "ReactNative",
-                    "&Picks",
+                    "ReactNativewith React",
+                    "NativeScriptwith",
+                    "Hybridapps\nNativeapps\nWhatdo",
+                    "Whatadvice",
+                    "RN andAngular 2",
                     "AriLerner",
                     "Fullstackreact.com",
-                    "MichaelCox"
+                    "JeffWhelpley",
+                    "ChangeDetection Explained",
+                    "MichaelCox",
+                    "RealmFor React Native",
+                    "POCof React Native with Angular 2 https://github.com/mlaval/poc-angular-react-native",
+                    "ReactNative Scheduling"
                 ],
-                "GPE": [
-                    "Hybridapps",
-                    "Redux"
+                "NORP": [
+                    "ReactNative"
                 ],
                 "PRODUCT": [
-                    "POCof React Native with Angular 2"
+                    "Angular 2",
+                    "Angular 2 apps",
+                    "Angular 2",
+                    "Angular 2",
+                    "NodeDash Button",
+                    "MarcLaval"
                 ]
             }
         },
@@ -5471,56 +5572,74 @@
             "title": "57 ngAir - Why Ionic 2 Is Going To Rock Your World",
             "entities": {
                 "PERSON": [
+                    "Olivier Combe",
                     "Josh Moont",
                     "Adam Bradley",
                     "Brandy Carney",
                     "Tim Lancina",
-                    "Mike Hartington#main-content",
-                    "Intro",
+                    "Mike Hartington#main",
                     "Jeff",
+                    "code dev",
+                    "Playground",
                     "Roadmap",
+                    "Windows Phone",
+                    "Sweet",
+                    "Apps",
                     "Jeff Whelpley",
+                    "Josh Moont",
                     "Sani Yusuf",
-                    "Windows App + Angular",
-                    "Mike\n"
-                ],
-                "CARDINAL": [
-                    "2",
-                    "Two",
-                    "2.0",
-                    "1",
-                    "6"
+                    "Olivier Combe",
+                    "Brandy\nWindows",
+                    "Mike",
+                    "Adam"
                 ],
                 "ORG": [
-                    "Ionic",
-                    "UI Router",
-                    "Touchstone",
+                    "Intro",
                     "Web Workers",
                     "Serverside Rendering",
-                    "TestFlight",
-                    "Windows Phone",
+                    "CodePush",
                     "Apple",
-                    "Ionic",
                     "NativeScript",
+                    "Tips& Picks",
+                    "FYI",
                     "Ionic",
                     "ReactNative Radio",
-                    "Building Mobile Apps With Ionic 2",
-                    "https://github.com/preboot/angular2-universal-windows-app\nAngular",
-                    "Ionic"
+                    "Ionic\nTimionic"
+                ],
+                "LAW": [
+                    "Ionic 2"
+                ],
+                "NORP": [
+                    "Navigation\nCreate"
+                ],
+                "WORK_OF_ART": [
+                    "Ionic Creator\nStarted",
+                    "Upgrading Your Application to Angular 2"
                 ],
                 "DATE": [
                     "the past 4 months",
-                    "now than 4 months ago",
-                    "70k"
+                    "now than 4 months ago"
                 ],
-                "GPE": [
-                    "Ionic View - Tim"
+                "CARDINAL": [
+                    "Two",
+                    "2.0",
+                    "Over 70k",
+                    "6",
+                    "2"
                 ],
                 "PRODUCT": [
-                    "CodePush"
+                    "Angular 1",
+                    "TestFlight",
+                    "Angular 2 RC"
                 ],
-                "NORP": [
-                    "https://github.com/angular/angular/milestones"
+                "FAC": [
+                    "Ionic View - Tim"
+                ],
+                "LOC": [
+                    "Ionic"
+                ],
+                "EVENT": [
+                    "Universal Windows App + Angular 2"
                 ]
             }
         },
@@ -5546,46 +5665,63 @@
             "pubDate": "Wed, 02 Mar 2016 14:47:23 GMT",
             "title": "56 ngAir - Is NativeScript The Holy Grail For Mobile Development?",
             "entities": {
-                "ORG": [
+                "NORP": [
                     "Thoughtram",
-                    "VanToll",
-                    "NativeScript",
-                    "NativeScript",
-                    "JavaScript",
-                    "NativeScript",
-                    "Ionic",
-                    "React Native",
-                    "NativeScript UI",
-                    "https://medium.com/google-developer-experts/angular-2-unit-testing-with-jasmine-defe20421584#.20pxvy13",
-                    "performance](https://github.com/NathanWalker",
-                    "VanToll",
-                    "id1077418457?mt=2",
-                    "NativeScript"
+                    "iTunes"
                 ],
                 "PERSON": [
+                    "Olivier Combe",
                     "Nathan Walker",
                     "Ari Lerner",
+                    "Telerik",
                     "Telerik Platform",
                     "Gerard Sans",
                     "Nathan Walker",
                     "Jeff Whelpley",
                     "John Oliver",
-                    "Donald Drumpf](https://www.youtube.com",
-                    "Jen Looper\nPlugins"
-                ],
-                "GPE": [
-                    "https://angular.io/docs/ts/latest/cookbook/"
+                    "Donald",
+                    "Jen Looper",
+                    "https://itunes.apple.com/us/app/neko-atsume-kitty-collector/id923917775?mt=8\nShotbot"
                 ],
                 "PRODUCT": [
-                    "Ionic",
+                    "VanToll",
+                    "JavaScript\nHow",
+                    "Angular 2",
+                    "Angular 2"
+                ],
+                "ORG": [
+                    "Jen Looper#main",
+                    "NativeScript",
+                    "NativeScript",
+                    "NativeScript",
+                    "NativeScript",
+                    "NativeScript",
+                    "NativeScript",
+                    "NativeScript UI",
+                    "Tips& Picks\nOlivier\nNG",
+                    "{N} performance](https://github.com/NathanWalker",
+                    "Colour",
+                    "Spotify](https://player.spotify.com",
                     "NativeScript"
                 ],
+                "LOC": [
+                    "Ionic"
+                ],
                 "CARDINAL": [
-                    "2",
-                    "2"
+                    "2016"
+                ],
+                "WORK_OF_ART": [
+                    "The War on Drugs iTunes](https://itunes.apple.com/us/album",
+                    "The War on Drugs Spotify](https://player.spotify.com/album/14xxjLlbGy8ACm4MorBjD5"
+                ],
+                "GPE": [
+                    "Colour"
                 ],
                 "ORDINAL": [
                     "5th"
+                ],
+                "EVENT": [
+                    "Wave](http://www.amazon.com/5th-Wave-First-Book/dp/0142425834/"
                 ]
             }
         },
@@ -5612,52 +5748,44 @@
             "title": "55 ngAir - Full-stack Reactive Programming Using Angular 2 Meteor",
             "entities": {
                 "ORG": [
-                    "Reactive Programming using Angular 2 +",
-                    "Meteor",
-                    "Meteor",
-                    "\u25cb\u00a0\u00a0\u00a0\u00a0\u00a0",
-                    "Meteorcommunity",
-                    "Meteor",
-                    "Firebase",
-                    "RelayWrap Up\u25cf\u00a0\u00a0\u00a0\u00a0\u00a0Upcoming",
-                    "Dmitri",
-                    "Thoughtram",
-                    "http://info.meteor.com/blog/reactive-graphql",
-                    "https://www.youtube.com/watch?v=aA8fzsE7tWU"
+                    "Reactive Programming",
+                    "- React NativeTips & Picks",
+                    "Dmitri\n\u25cb\u00a0\u00a0\u00a0\u00a0\u00a0http://neo4j.com/blog/open-cypher-sql-for-graphs/\n\u25cf"
                 ],
                 "PERSON": [
                     "Dmitriy Shekhovtsov",
                     "Uri Goldshtein#main-content",
-                    "Intro",
-                    "Angular Universal",
+                    "Uri",
+                    "Meteor",
+                    "Meteor",
+                    "Meteor",
+                    "Meteor",
+                    "Angular Meteor",
+                    "RelayWrap Up\u25cf\u00a0\u00a0\u00a0\u00a0\u00a0",
                     "Jeff Whelpley",
-                    "Guthrie Govan"
-                ],
-                "WORK_OF_ART": [
-                    "\u25cb\u00a0\u00a0\u00a0\u00a0\u00a0Who",
-                    "\u25cb\u00a0\u00a0\u00a0\u00a0\u00a0",
-                    "\u25cb\u00a0\u00a0\u00a0\u00a0\u00a0",
-                    "\u25cb\u00a0\u00a0\u00a0\u00a0\u00a0",
-                    "\u25cb\u00a0\u00a0\u00a0\u00a0\u00a0",
-                    "\u25cb\u00a0\u00a0\u00a0\u00a0\u00a0Bags http://www.coteetciel.com/en-IL/isar-backpack-raw-canvas-icelandic-ash-laptop-bag\n\n--- \n\nSupport this"
+                    "Uri\n\u25cb",
+                    "Guthrie Govan",
+                    "Bags http://www.coteetciel.com/en-IL/isar-backpack-raw-canvas-icelandic-ash-laptop-bag"
                 ],
                 "GPE": [
+                    "Intro",
+                    "Firebase",
                     "\u25cb",
                     "\u25cb",
                     "\u25cb",
-                    "\u25cb",
-                    "\u25cb",
-                    "\u25cb",
-                    "\u25cb",
-                    "\u25cb",
-                    "\u25cb",
-                    "\u25cb",
-                    "\u25cb"
+                    "GraphQL"
+                ],
+                "PRODUCT": [
+                    "Angular 1 Meteor",
+                    "Angular Universal"
                 ],
                 "DATE": [
-                    "March 1st -",
-                    "March 8th",
+                    "March 1st - NativeScript",
+                    "March 8th - Ionic 2",
                     "March 15th"
+                ],
+                "NORP": [
+                    "Thoughtram"
                 ]
             }
         },
@@ -5685,50 +5813,61 @@
             "entities": {
                 "CARDINAL": [
                     "53",
-                    "one",
                     "2"
                 ],
                 "PERSON": [
                     "Victor Savkin",
                     "Dan Abramov",
                     "Rob",
-                    "Whelpley",
-                    "Kurt Vonnegut",
+                    "Auth0](https://auth0.com/",
+                    "Victor\nSavkin\n\n\u00a0Links",
+                    "Kurt Vonnegut \"Mother Night",
                     "Brad Mehldau",
-                    "Rob Warmald\u2019s",
+                    "Rob Warmald",
                     "Dan Abramov",
-                    "Jeff Whelpley"
+                    "Patrick\nStapleton",
+                    "Jeff Whelpley",
+                    "Twitter"
                 ],
                 "ORG": [
                     "UI",
+                    "HTTP",
                     "OnPush",
                     "Rob/Victor",
+                    "the React Redux",
                     "Tips & Picks",
+                    "AceJump",
                     "WebStorm",
-                    "yelouafi/redux-saga",
                     "aphrodite](https://github.com/Khan",
-                    "Angular Air",
                     "YouTube",
                     "Modern Web Development"
                 ],
-                "GPE": [
+                "PRODUCT": [
+                    "Angular 1?",
+                    "Angular 2",
+                    "Angular 2",
+                    "Angular 2",
+                    "Angular Air",
+                    "Learn",
+                    "Angular 2"
+                ],
+                "LOC": [
                     "Redux",
                     "Redux",
                     "Redux"
                 ],
-                "LOC": [
-                    "the React Redux"
-                ],
-                "DATE": [
-                    "10 Years Solo"
+                "GPE": [
+                    "redux",
+                    "Redux",
+                    "yelouafi",
+                    "Google+"
                 ],
                 "WORK_OF_ART": [
-                    "Manhattan Murder Mystery\"\n\n\u00a0\n\nGleb\nBahmutov\n\nLinks",
-                    "Patrick\nStapleton"
+                    "Managing State",
+                    "Manhattan Murder Mystery\"\n\n\u00a0\n\nGleb\nBahmutov\n\nLinks:"
                 ],
-                "PRODUCT": [
-                    "Twitter",
-                    "Angular 2"
+                "DATE": [
+                    "10 Years"
                 ]
             }
         },
@@ -5754,69 +5893,70 @@
             "pubDate": "Fri, 12 Feb 2016 20:48:13 GMT",
             "title": "52 ngAir - The Internet of Things (and Angular)",
             "entities": {
-                "ORG": [
-                    "IoT",
-                    "IoT",
-                    "IoT",
-                    "IoT",
-                    "IoT",
-                    "IoT",
-                    "IoT",
-                    "IoT",
-                    "IoT",
-                    "Reactive Redux AngularAir",
-                    "https://plus.google.com/events/cf3aue086abasnlah35lgr373fs",
-                    "Robotics & IoT",
-                    "dweet.io](https://dweet.io/",
-                    "NPM",
-                    "Angular Air",
-                    "YouTube",
-                    "Modern Web Development"
-                ],
-                "GPE": [
-                    "https://hangouts.google.com/call/hlfajots7uwohxjlpphdk7pkrua"
-                ],
                 "ORDINAL": [
                     "First"
                 ],
                 "CARDINAL": [
-                    "5-10",
-                    "#",
-                    "Five"
+                    "5",
+                    "#"
                 ],
                 "PERSON": [
-                    "Atticus White",
+                    "Zach\nDunn",
                     "Gleb Bahmutov",
-                    "Ari Lerner",
+                    "Ari Lerner\n\n",
                     "Victor Savkin",
                     "Dan Abramov",
                     "Rob Wormald",
-                    "Intro",
                     "Javascript",
-                    "Barcode",
+                    "Patrick\nStapleton",
                     "Jeff",
-                    "Whelpley",
-                    "Atticus White",
                     "Zach Dunn",
-                    "Jeff"
+                    "Twitter",
+                    "NPM https://tessel.io/",
+                    "Jeff\nWhelpley",
+                    "Twitter"
                 ],
                 "DATE": [
-                    "Thursday"
-                ],
-                "EVENT": [
+                    "Thursday",
                     "November 11th - Angular 2 Reactive Redux"
                 ],
-                "WORK_OF_ART": [
-                    "smart"
+                "LOC": [
+                    "Intro",
+                    "Death Valley"
+                ],
+                "NORP": [
+                    "JS"
+                ],
+                "ORG": [
+                    "IoT",
+                    "IoT",
+                    "Barcode",
+                    "DOM",
+                    "Tips\n& Picks",
+                    "https://plus.google.com/events/cf3aue086abasnlah35lgr373fs",
+                    "Atticus White\n\n\n\nLinks",
+                    "SkyJack - Drone",
+                    "Angular Air",
+                    "YouTube",
+                    "Modern Web Development"
                 ],
                 "PRODUCT": [
-                    "IoT",
-                    "Twitter",
-                    "Twitter",
+                    "Angular",
+                    "Angular Air",
+                    "Learn",
                     "Angular 2"
                 ],
-                "LOC": [
-                    "Death Valley"
+                "TIME": [
+                    "10 Minutes"
+                ],
+                "FAC": [
+                    "Reactive Redux AngularAir]\n\n"
+                ],
+                "WORK_OF_ART": [
+                    "https://github.com/samyk/skyjack\u00a0\n\nTips: Picks:[Johnny Five - JS Robotics & IoT"
+                ],
+                "GPE": [
+                    "Google+"
                 ]
             }
         },
@@ -5845,42 +5985,56 @@
                 "CARDINAL": [
                     "51",
                     "1",
-                    "2016",
                     "20"
                 ],
                 "ORG": [
                     "the Angular Learning Curve",
-                    "Thoughtram",
-                    "DI\n",
+                    "DI",
                     "Tips & Picks\n\n\u00a0\n\nOlivier\nCombe\n\n\u00a0\n\nLinks",
-                    "Angular Connect",
-                    "Univesal Prerender](https://github.com/angular/universal-starter",
+                    "NG-Conf CFP",
                     "http://www.thetwentyminutevc.com/jeffseibert/",
-                    "Thoughtram",
-                    "Class](http://thoughtram.io",
-                    "Angular Air",
                     "YouTube",
                     "Modern Web Development"
                 ],
                 "PERSON": [
                     "Pascal Precht",
+                    "Angular",
                     "Merrick Christiansen\u2019s",
-                    "Whelpley",
                     "Jeff Seibert",
-                    "Jeff Whelpley"
+                    "Jeff Whelpley",
+                    "Twitter"
                 ],
-                "GPE": [
-                    "nomad"
+                "NORP": [
+                    "Thoughtram",
+                    "Thoughtram"
+                ],
+                "PRODUCT": [
+                    "Angular 1\n\n",
+                    "Angular 1",
+                    "Angular 1?",
+                    "Angular 2",
+                    "Angular",
+                    "Angular 2",
+                    "Angular 1?",
+                    "Angular Connect",
+                    "Angular Air",
+                    "Learn",
+                    "Angular 2"
                 ],
                 "DATE": [
                     "daily"
                 ],
-                "FAC": [
-                    "Belgium Angular"
+                "WORK_OF_ART": [
+                    "Angular 2 Web Workers",
+                    "Univesal Prerender](https://github.com/angular/universal-starter/tree/prerender",
+                    "Belgium Angular \u00a0Conference]\n\n",
+                    "Angular Air"
                 ],
-                "PRODUCT": [
-                    "Twitter",
-                    "Angular 2"
+                "FAC": [
+                    "Minute VC"
+                ],
+                "GPE": [
+                    "Google+"
                 ]
             }
         },
@@ -5906,53 +6060,62 @@
             "pubDate": "Fri, 05 Feb 2016 11:00:00 GMT",
             "title": "50 ngAir - TypeScript Deep Dive with Alex Eagle and Blake Embrey",
             "entities": {
+                "ORG": [
+                    "TypeScript Deep Dive",
+                    "TypeScript",
+                    "Google",
+                    "TypeScript",
+                    "TypeScript",
+                    "TypeScript",
+                    "Nathan Walker",
+                    "CLI",
+                    "TypeScript",
+                    "YouTube",
+                    "AngularClass",
+                    "Modern Web Development"
+                ],
                 "PERSON": [
                     "Alex Eagle",
                     "Blake Embrey",
                     "Alex Eagle",
                     "Blake Embrey",
-                    "Patrick Stapleton\n\nTips",
+                    "awesome apps",
+                    "Victor Savking",
+                    "Patrick Stapleton",
                     "Blake Embrey",
-                    "Ari Lerner",
+                    "Blake\nEmbrey]\n\n",
                     "Blake Embrey",
                     "Jeff Whelpley"
                 ],
-                "ORG": [
+                "PRODUCT": [
+                    "Angular 2",
+                    "Angular 2",
                     "Angular",
-                    "Google",
-                    "TypeScript",
+                    "Angular 2",
                     "JavaScript",
-                    "TypeScript",
-                    "\ufeff\n\n\u00a0\n\nPicks\n\n\u2022\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\nAlex Eagle\n\nhttp://www.typescriptlang.org/Playground",
-                    "TypeScript",
-                    "http://hangouts.readthesource.io/hangouts/angular-universal/",
-                    "Nathan Walker",
-                    "https://github.com/angular/angular-cli/pull/135",
-                    "Front",
-                    "Blake",
-                    "Modern Romance]\n\n",
-                    "http://www.amazon.com/Modern-Romance-Aziz-Ansari/dp/1594206279",
-                    "actionableLearn TypeScript",
+                    "Angular 2",
+                    "\u2022\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\nJeff Whelpley",
                     "Angular Air",
-                    "YouTube",
-                    "Modern Web Development"
+                    "Twitter",
+                    "Angular 2"
                 ],
                 "CARDINAL": [
                     "2",
-                    "2.0"
+                    "2.1",
+                    "2.0",
+                    "50"
                 ],
                 "DATE": [
-                    "1 year",
-                    "50",
-                    "everyday"
+                    "1 year"
                 ],
                 "WORK_OF_ART": [
-                    "Learn Angular Universal on Read the Source"
-                ],
-                "PRODUCT": [
+                    "Learn Angular Universal on Read the Source]\n\n\u25aa\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\n(http://hangouts.readthesource.io/hangouts/angular-universal/",
                     "Learn TypeScript",
-                    "Twitter",
-                    "Angular 2"
+                    "Withings Aura]\n\n",
+                    "Learn"
+                ],
+                "ORDINAL": [
+                    "3rd"
                 ]
             }
         },
@@ -5978,42 +6141,50 @@
             "pubDate": "Wed, 20 Jan 2016 20:56:31 GMT",
             "title": "49 ngAir - What's new in RxJS 5.0 with Ben Lesh",
             "entities": {
+                "FAC": [
+                    "RxJS 5.0"
+                ],
                 "PERSON": [
                     "Ben Lesh - \n",
                     "Ben Lesh",
                     "Aimee Knight",
-                    "Aimee - Introduction",
+                    "Olivier Combe",
                     "Patrick - Read",
                     "Ben - TC39",
                     "Jeff Whelpley"
                 ],
                 "ORG": [
-                    "JavaScript",
+                    "RxJS",
+                    "RxJS",
+                    "RxJS",
                     "Reactive Programming",
-                    "miss!\ufeff\n\nPanelists",
+                    "RxJS",
+                    "Picks/Tips:\n\nOlivier - Everything",
                     "Front",
-                    "Reactive Programming - Egghead.io",
-                    "RxJS 5",
-                    "Netflix",
-                    "Angular Air",
+                    "Aimee - Introduction to Reactive Programming - Egghead.io",
                     "YouTube",
                     "Modern Web Development"
                 ],
-                "CARDINAL": [
-                    "2",
-                    "5.0",
-                    "one"
+                "PRODUCT": [
+                    "JavaScript",
+                    "Angular 2",
+                    "RxJS 5",
+                    "Angular Air",
+                    "Angular Air",
+                    "Twitter",
+                    "Learn",
+                    "Angular 2"
                 ],
                 "GPE": [
-                    "RxJS",
-                    "RxJS",
-                    "RxJS",
-                    "Olivier Combe",
-                    "Stream"
+                    "Netflix",
+                    "Stream",
+                    "Netflix"
                 ],
-                "PRODUCT": [
-                    "Twitter",
-                    "Angular 2"
+                "CARDINAL": [
+                    "5.0"
+                ],
+                "LAW": [
+                    "RxJS 5"
                 ]
             }
         },
@@ -6042,21 +6213,27 @@
                 "PERSON": [
                     "Joe Eames - \n",
                     "Aimee Knight",
-                    "Aimee -  Introduction To Transpiler",
-                    "Jeff - Angular",
-                    "Joe - Brene Brown",
+                    "Joe - Brene Brown Ted Talk",
                     "Jeff Whelpley"
+                ],
+                "CARDINAL": [
+                    "One"
+                ],
+                "NORP": [
+                    "Angular"
+                ],
+                "ORG": [
+                    "Picks/Tips",
+                    "YouTube",
+                    "Modern Web Development"
                 ],
                 "GPE": [
                     "Redux"
                 ],
-                "ORG": [
-                    "Angular Air",
-                    "YouTube",
-                    "Modern Web Development"
-                ],
                 "PRODUCT": [
+                    "Angular Air",
                     "Twitter",
+                    "Learn",
                     "Angular 2"
                 ]
             }
@@ -6084,26 +6261,32 @@
             "title": "47 ngAir - How to become an open source contributor with Wesley Cho and Jesus Rodriguez",
             "entities": {
                 "PERSON": [
-                    "Welsey Cho",
+                    "Cho",
+                    "Jesus Rodriguez",
+                    "Olivier Combe",
                     "Aimee Knight",
-                    "Thoughtram Blog",
+                    "Jesus - FOSS",
                     "Jeff",
-                    "Aimee - Frontend Masters Advanced Javascript",
                     "Patrick - Docker",
-                    "Jeff -",
-                    "Pete Bacon",
-                    "Darwin",
-                    "Jeff Whelpley"
+                    "Jeff - Pete Bacon Darwin",
+                    "Jeff Whelpley",
+                    "Twitter"
                 ],
                 "ORG": [
-                    "Remote Conf",
-                    "OSS\nAngular Air",
+                    "Picks/Tips",
+                    "Aimee - Frontend Masters Advanced Javascript",
+                    "JS Remote Conf",
                     "Angular Air",
                     "YouTube",
                     "Modern Web Development"
                 ],
+                "GPE": [
+                    "Review",
+                    "Google+"
+                ],
                 "PRODUCT": [
-                    "Twitter",
+                    "Angular Air",
+                    "Learn",
                     "Angular 2"
                 ]
             }
@@ -6130,30 +6313,33 @@
             "pubDate": "Tue, 29 Dec 2015 23:10:44 GMT",
             "title": "46 ngAir - What will happen to Angular in 2016?",
             "entities": {
-                "PERSON": [
+                "PRODUCT": [
+                    "Angular",
                     "JavaScript",
-                    "Aimee Knight",
-                    "Aimee - JavaScript Developer",
-                    "Jeff - Angular",
-                    "Jeff",
-                    "Patrick - ng-nl",
-                    "Jeff Whelpley"
+                    "Angular Air",
+                    "Twitter",
+                    "Learn",
+                    "Angular 2"
                 ],
                 "DATE": [
                     "2016",
                     "2015"
                 ],
-                "GPE": [
-                    "Olivier Combe"
+                "PERSON": [
+                    "Aimee Knight",
+                    "Olivier Combe",
+                    "Jeff",
+                    "Patrick - ng-nl",
+                    "Jeff Whelpley"
                 ],
                 "ORG": [
-                    "Angular Air",
+                    "Picks/Tips",
+                    "Aimee - JavaScript Developer Survey Results",
                     "YouTube",
                     "Modern Web Development"
                 ],
-                "PRODUCT": [
-                    "Twitter",
-                    "Angular 2"
+                "WORK_OF_ART": [
+                    "Angular Air"
                 ]
             }
         },
@@ -6179,25 +6365,22 @@
             "pubDate": "Tue, 29 Dec 2015 23:01:05 GMT",
             "title": "45 ngAir - The Best Angular Productivity Tips with Ari Lerner",
             "entities": {
-                "ORG": [
-                    "The Best Angular Productivity Tips -\u00a0",
-                    "Angular Air",
-                    "YouTube",
-                    "Modern Web Development"
-                ],
                 "PERSON": [
                     "Ari Lerner",
                     "Aimee Knight",
-                    "Web ComponentsAimee - Auth 0 BlogPatrick - WebpackJeff",
+                    "Ari - ng-book",
                     "Jeff Whelpley"
                 ],
-                "CARDINAL": [
+                "DATE": [
                     "2"
                 ],
-                "WORK_OF_ART": [
-                    "Star Wars talkAngular Air"
+                "ORG": [
+                    "Web ComponentsAimee - Auth",
+                    "YouTube",
+                    "Modern Web Development"
                 ],
                 "PRODUCT": [
+                    "Angular Air",
                     "Twitter",
                     "Angular 2"
                 ]
@@ -6225,26 +6408,30 @@
             "pubDate": "Tue, 29 Dec 2015 22:52:44 GMT",
             "title": "44 ngAir - Star Wars",
             "entities": {
-                "PERSON": [
-                    "Kyle Newman",
-                    "Fanboys",
-                    "Randall Koutnik",
-                    "Kyle",
-                    "Jaime King",
-                    "Kyle - Fanboys",
-                    "Jeff Whelpley"
-                ],
-                "LAW": [
-                    "the Star War-"
+                "EVENT": [
+                    "the Star War"
                 ],
                 "ORG": [
-                    "Star Wars Review",
+                    "Fanboys",
                     "Angular Air",
+                    "Picks/Tips:\n\nOlivier - Star Wars Medley, Star Wars Review\nKyle - Fanboys",
+                    "The Franchise Podcast\nAngular Air",
                     "YouTube",
                     "Modern Web Development"
                 ],
+                "PERSON": [
+                    "Randall Koutnik",
+                    "Kyle",
+                    "Jaime King",
+                    "Jeff Whelpley"
+                ],
+                "CARDINAL": [
+                    "7"
+                ],
                 "PRODUCT": [
+                    "Angular Air",
                     "Twitter",
+                    "Learn",
                     "Angular 2"
                 ]
             }
@@ -6273,12 +6460,12 @@
             "entities": {
                 "CARDINAL": [
                     "43.5",
-                    "1.0",
-                    "5.0"
+                    "1.0"
                 ],
                 "PRODUCT": [
-                    "Angular 2",
-                    "Twitter",
+                    "Angular 2 Beta",
+                    "Angular Air",
+                    "Learn",
                     "Angular 2"
                 ],
                 "PERSON": [
@@ -6287,22 +6474,27 @@
                     "Misko Hevery",
                     "Igor Minar",
                     "Thomas Burleson\n\n",
+                    "Olivier Combe",
                     "Aimee Knight",
                     "Scott Moss",
                     "Carmen Popoviciu",
                     "Jeff Whelpley",
-                    "Misko - xkcd\nIgor - http2",
-                    "Aimee - Read",
-                    "Patrick - Angular",
-                    "Jeff - Aerobatic.com",
-                    "Jeff Whelpley"
+                    "Misko - xkcd",
+                    "Jeff Whelpley",
+                    "Twitter"
                 ],
                 "ORG": [
                     "Angular Material",
+                    "Picks/Tips:\n\n",
                     "Brad - Developer News Worldwide",
-                    "Angular Air",
+                    "Aimee - Read the Source\nCarmen - Light Table",
+                    "Patrick - Angular 2",
+                    "RxJS 5.0",
                     "YouTube",
                     "Modern Web Development"
+                ],
+                "GPE": [
+                    "Google+"
                 ]
             }
         },
@@ -6331,37 +6523,41 @@
                 "PERSON": [
                     "Dmitriy Shekhovtsov",
                     "Nathan Walker",
-                    "Jafar HusainDmitriy ShekhovtsovLinks",
-                    "JavaScriptAirAngularClassLearn AngularJS"
-                ],
-                "ORG": [
-                    "Dmitriy",
-                    "Bootstrap",
-                    "AngularJeff",
-                    "The Phantom Menace Should",
-                    "Microsoft",
-                    "Reactive Extensions",
-                    "PRNathan WalkerLinks",
+                    "Design Pattern",
+                    "Awesome Graph DB",
                     "Jurgen",
-                    "Echo Nest apiPatrick",
-                    "Modern Web Development",
-                    "AngularClass",
-                    "AngularAir",
-                    "AngularAir"
+                    "JavaScriptAirAngularClassLearn"
                 ],
                 "PRODUCT": [
                     "Angular 2",
-                    "Van de MoereTips",
                     "Angular 2",
-                    "ChatAngular Air"
+                    "Angular 2.Aimee Knight \u00a0Tips",
+                    "AngularJeff WhelpleyPicks",
+                    "Angular 2",
+                    "Angular 2",
+                    "Angular 2",
+                    "Angular 2"
+                ],
+                "ORG": [
+                    "Bootstrap",
+                    "Olivier CombeSeries",
+                    "Microsoft",
+                    "Reactive Extensions",
+                    "Jafar HusainDmitriy ShekhovtsovLinks",
+                    "PRNathan WalkerLinks",
+                    "RxJS",
+                    "seconds.@robwormald awesome redux",
+                    "Echo Nest apiPatrick StapletonTips",
+                    "Modern Web Development",
+                    "AngularClass",
+                    "AngularAir",
+                    "YouTube"
                 ],
                 "CARDINAL": [
                     "3"
                 ],
-                "GPE": [
-                    "RxJS"
-                ],
                 "NORP": [
+                    "contributorsPlans",
                     "Yeoman"
                 ]
             }
@@ -6392,21 +6588,32 @@
                     "Aaron Frost",
                     "Aimee Knight",
                     "Dave Smith - Learn",
-                    "BandOlivier Combe",
-                    "Victor SavkinProposal"
+                    "Victor SavkinProposal",
+                    "Twitter"
                 ],
                 "ORG": [
                     "Angular Community",
-                    "ng-conf 2016",
-                    "WhelpleyTips",
+                    "BandOlivier Combe",
+                    "Angular, Immutability and Encapsulation",
                     "Modern Web Development",
                     "AngularClass",
                     "AngularAir",
                     "YouTube"
                 ],
+                "DATE": [
+                    "2016"
+                ],
+                "NORP": [
+                    "Starburst"
+                ],
+                "CARDINAL": [
+                    "2"
+                ],
                 "PRODUCT": [
-                    "Angular 2",
-                    "Twitter"
+                    "Angular 2"
+                ],
+                "GPE": [
+                    "Google+"
                 ]
             }
         },
@@ -6434,30 +6641,34 @@
             "entities": {
                 "PERSON": [
                     "Kyle SimpsonGuest",
+                    "Kyle",
+                    "Kent C. DoddsPanelists",
+                    "Olivier Combe",
                     "Aimee Knight",
-                    "Jeff WhelpleyKent C. Dodds Tips",
-                    "programmingSimple Made Easy",
-                    "MattersPatrick Stapleton",
-                    "JSAimee Knight Tips"
+                    "Jeff",
+                    "Advanced",
+                    "JavaScriptKyle Simpson",
+                    "Twitter"
                 ],
                 "ORG": [
                     "Frontend Masters",
-                    "Links",
-                    "Reactive Programming (Observables) Visually",
+                    "Reactive Programming",
                     "JavaScript",
+                    "Angular 2Comparison of React and Angular",
                     "Modern Web Development",
-                    "info@angularclass.com",
                     "AngularClass",
                     "YouTube"
                 ],
                 "WORK_OF_ART": [
-                    "A Tale Of Three-listsThe",
-                    "TODOMVC",
-                    "Angular 2Comparison of React and Angular 2AngularClassLearn"
+                    "A Tale Of Three-listsThe \u201cTODOMVC"
+                ],
+                "GPE": [
+                    "TesselRedux",
+                    "Google+"
                 ],
                 "PRODUCT": [
                     "Angular 2",
-                    "Twitter"
+                    "Angular Air"
                 ]
             }
         },
@@ -6484,22 +6695,29 @@
             "title": "40 ngAir - Surprise Episode",
             "entities": {
                 "PERSON": [
-                    "Kent C. Dodds)\ufeff\n\n",
-                    "Jeff Cross",
+                    "Kent C. Dodds)\ufeff",
+                    "Vojta J\u00edna",
                     "Shai Reznik",
                     "Todd Motto",
+                    "Olivier Combe",
                     "Aimee Knight",
                     "Carmen Popoviciu",
                     "Jeff Whelpley",
-                    "Rob Wormald",
-                    "Kent C. Dodds"
+                    "Rob Wormald\n\n",
+                    "Kent C. Dodds",
+                    "Twitter"
                 ],
-                "ORG": [
-                    "Angular Air",
-                    "YouTube"
+                "WORK_OF_ART": [
+                    "Angular Air"
                 ],
                 "PRODUCT": [
-                    "Twitter"
+                    "Angular Air"
+                ],
+                "GPE": [
+                    "Google+"
+                ],
+                "ORG": [
+                    "YouTube"
                 ]
             }
         },
@@ -6527,39 +6745,42 @@
             "entities": {
                 "CARDINAL": [
                     "2.0",
+                    "6.x",
                     "11/14"
                 ],
                 "PERSON": [
                     "Matias Niemela",
                     "Robert Messerle",
-                    "Robert Messerle\n\n",
+                    "Matias Niemela",
+                    "Robert Messerle",
                     "Aimee Knight",
                     "Carmen Popoviciu",
                     "Jeff Whelpley",
                     "Robert - Question",
                     "Styleguide",
-                    "Aimee - Tips",
-                    "Mike Gehard",
+                    "Mike Gehard -",
                     "Patrick - Tips",
-                    "Jeff - Tips: Document",
-                    "Kent C. Dodds"
+                    "TechZing Podcast",
+                    "Kent C. Dodds",
+                    "Twitter"
                 ],
                 "ORG": [
                     "Angular Air",
-                    "Quick",
-                    "Learn",
+                    "Picks/Tips:\n\nMatias - wemux",
                     "Google",
                     "Angular Air",
                     "YouTube"
                 ],
-                "LAW": [
-                    "Angular 1 and Angular 2"
+                "PRODUCT": [
+                    "Angular 1 and Angular 2",
+                    "Learn",
+                    "Angular Air"
                 ],
                 "ORDINAL": [
                     "1st"
                 ],
-                "PRODUCT": [
-                    "Twitter"
+                "GPE": [
+                    "Google+"
                 ]
             }
         },
@@ -6586,36 +6807,41 @@
             "title": "38 ngAir - Angular Connect Recap",
             "entities": {
                 "PERSON": [
+                    "Olivier Combe",
                     "Aimee Knight",
                     "Scott Moss",
                     "Carmen Popoviciu",
                     "Jeff Whelpley",
-                    "Aimee - Links",
+                    "Scott - Tips",
                     "Patrick - Tips",
-                    "Jeff - Tips",
-                    "Kent C. Dodds"
+                    "Kent C. Dodds",
+                    "Twitter"
                 ],
                 "ORG": [
+                    "Picks/Tips:\n\nOlivier - Picks",
                     "ThoughtGram",
-                    "Picks: Angular Tips\n",
-                    "React Native",
+                    "Aimee - Links: Web Workers",
                     "PocketNode",
                     "jQuery",
-                    "Angular Air",
+                    "jQuery",
                     "YouTube"
                 ],
                 "TIME": [
                     "night",
                     "2 hours"
                 ],
-                "CARDINAL": [
-                    "2"
+                "PRODUCT": [
+                    "Angular 2",
+                    "Angular Air"
                 ],
                 "DATE": [
                     "ng2"
                 ],
-                "PRODUCT": [
-                    "Twitter"
+                "WORK_OF_ART": [
+                    "Angular Air"
+                ],
+                "GPE": [
+                    "Google+"
                 ]
             }
         },
@@ -6654,23 +6880,31 @@
                     "Joe Eames",
                     "Yuri Takhteyev",
                     "Igor Krivanov",
+                    "Olivier Combe",
                     "Aimee Knight",
                     "Carmen Popoviciu",
                     "Jeff Whelpley",
-                    "Nick - Rangle.io\nJen - Iterative Version",
+                    "Nick - Rangle.io",
                     "Joe - Becoming Betazoid",
-                    "Yuri & Igor - Debugging Angular 2 Apps",
-                    "Kent C. Dodds"
+                    "Batarangle",
+                    "Kent C. Dodds",
+                    "Twitter"
                 ],
                 "ORG": [
+                    "Jen - Iterative Version Upgrade Strategies",
                     "DefinitelyTyped",
+                    "TSD",
                     "Batarangle",
-                    "Batarangle\nAngular Air",
-                    "Angular Air",
                     "YouTube"
                 ],
+                "WORK_OF_ART": [
+                    "Angular Applications\nMartin & Alex - TypeScript Tooling for Greater Productivity"
+                ],
                 "PRODUCT": [
-                    "Twitter"
+                    "Angular Air"
+                ],
+                "GPE": [
+                    "Google+"
                 ]
             }
         },
@@ -6696,12 +6930,14 @@
             "pubDate": "Wed, 14 Oct 2015 20:20:30 GMT",
             "title": "36 ngAir - Ionic 2",
             "entities": {
-                "PRODUCT": [
-                    "Angular 2",
-                    "Twitter"
-                ],
-                "LOC": [
-                    "Ionic 2"
+                "ORG": [
+                    "Angular 2, Ionic",
+                    "Angular Air",
+                    "Picks/Tips:\n\n",
+                    "Mike - Tips",
+                    "AngularConnect\nKent - Tips:",
+                    "Evolving Complex Systems Incrementally",
+                    "YouTube"
                 ],
                 "PERSON": [
                     "Mike Hartington",
@@ -6712,29 +6948,28 @@
                     "Mike Hartington",
                     "Max Lynch",
                     "Ben Sperry",
+                    "Olivier Combe",
                     "Aimee Knight",
                     "Scott Moss",
                     "Carmen Popoviciu",
                     "Jeff Whelpley",
-                    "Max - Tips:",
-                    "Mike - Tips",
+                    "Max - Tips",
                     "Fullstack Toronto",
                     "Adam - Tip",
                     "Ben - Tip",
-                    "Aimee - Tips",
+                    "Devs",
+                    "Browser Networking - Picks",
                     "Patrick - Tips",
-                    "Jeff - Picks: Angular",
                     "Docker",
-                    "Kent C. Dodds"
+                    "Kent C. Dodds",
+                    "Twitter"
                 ],
                 "GPE": [
-                    "Ionic Utah"
+                    "Utah",
+                    "Google+"
                 ],
-                "ORG": [
-                    "Angular Air T-Shirt",
-                    "Segment.io",
-                    "Angular Air",
-                    "YouTube"
+                "PRODUCT": [
+                    "Angular Air"
                 ]
             }
         },
@@ -6760,28 +6995,38 @@
             "pubDate": "Thu, 08 Oct 2015 13:39:59 GMT",
             "title": "35 ngAir - Angular 2 and React",
             "entities": {
+                "CARDINAL": [
+                    "2",
+                    "2"
+                ],
                 "PRODUCT": [
                     "Angular 2",
                     "Angular 2",
-                    "Twitter"
+                    "Angular 2",
+                    "Angular Air"
                 ],
                 "PERSON": [
                     "Tero Parviainen",
-                    "Minko Gechev\n\nPanelists",
+                    "Minko Gechev",
                     "Aimee Knight",
                     "Jeff Whelpley",
                     "Martin Fowler",
-                    "Aimee - Tips",
-                    "Jeff - Picks",
-                    "JavaScript Jabber Redux",
-                    "Myth",
-                    "Kent C. Dodds"
+                    "Banning ng-controller - Picks",
+                    "JavaScript Jabber",
+                    "Kent C. Dodds",
+                    "Twitter"
                 ],
                 "ORG": [
+                    "Picks/Tips:\n\n",
                     "UI Rendering",
-                    "OSS Computer Science",
-                    "Angular Air",
+                    "OSS Computer Science\nKent C. Dodds - Tips: Components",
+                    "Aimee - Tips: How I've Improved my Angular Apps by",
                     "YouTube"
+                ],
+                "GPE": [
+                    "Flux",
+                    "Redux",
+                    "Google+"
                 ]
             }
         },
@@ -6807,37 +7052,41 @@
             "pubDate": "Tue, 29 Sep 2015 20:27:05 GMT",
             "title": "34 ngAir - Angular Connect Primer",
             "entities": {
-                "PERSON": [
-                    "Pete Bacon",
-                    "Darwin",
-                    "Pete Bacon",
-                    "Darwin",
-                    "Ruth Yarnit",
-                    "Jeff Whelpley",
-                    "Pete - Back",
-                    "Ruth - London Food",
-                    "Jeff - Give",
-                    "Kent C. Dodds"
-                ],
                 "ORG": [
+                    "Primer - Angular Connect",
                     "Angular Air",
-                    "Future",
+                    "Picks/Tips:\n\n",
+                    "Ruth - London Food",
                     "Pizza Hut",
                     "Angular JS Beers",
                     "Qwertee\nKent - Write",
-                    "Patreon",
-                    "Angular Air",
                     "YouTube"
                 ],
-                "EVENT": [
-                    "The AI Revolution: The Road to Superintelligence Part"
-                ],
-                "CARDINAL": [
-                    "1",
-                    "2"
+                "PERSON": [
+                    "Pete Bacon Darwin & Ruth Yarnit",
+                    "Pete Bacon Darwin",
+                    "Ruth Yarnit",
+                    "Olivier Combe",
+                    "Jeff Whelpley",
+                    "Pete - Back",
+                    "Kent C. Dodds",
+                    "Twitter"
                 ],
                 "PRODUCT": [
-                    "Twitter"
+                    "Patreon",
+                    "Angular Air"
+                ],
+                "EVENT": [
+                    "The AI Revolution: The Road to Superintelligence Part 1"
+                ],
+                "CARDINAL": [
+                    "2"
+                ],
+                "WORK_OF_ART": [
+                    "Angular Air"
+                ],
+                "GPE": [
+                    "Google+"
                 ]
             }
         },
@@ -6864,17 +7113,22 @@
             "title": "33 ngAir - Immutable.js with Angular",
             "entities": {
                 "PERSON": [
+                    "Immutable.js",
+                    "Minko Gechev",
+                    "Immutable.js",
                     "Minko Gechev",
                     "Aimee Knight",
                     "Jeff Whelpley",
-                    "Babies",
-                    "Aimee - We",
-                    "Standing!\ufeff\nPatrick - awesome",
-                    "Jeff - My",
-                    "Kent C. Dodds"
+                    "Patrick",
+                    "Kent C. Dodds",
+                    "Twitter"
+                ],
+                "WORK_OF_ART": [
+                    "Angular 1 and Angular 2"
                 ],
                 "ORG": [
-                    "Promises",
+                    "Picks/Tips:\n\nMinko - Call",
+                    "Aimee - We Have a Problem",
                     "Angular Air",
                     "YouTube"
                 ],
@@ -6882,7 +7136,10 @@
                     "2"
                 ],
                 "PRODUCT": [
-                    "Twitter"
+                    "Angular Air"
+                ],
+                "GPE": [
+                    "Google+"
                 ]
             }
         },
@@ -6909,21 +7166,28 @@
             "title": "32 ngAir - ag-Grid",
             "entities": {
                 "ORG": [
-                    "ag-Grid",
+                    "ag-Grid - A",
+                    "Picks/Tips:\n\n",
+                    "Olivier - Angular 2",
+                    "Aimee - 5 Minutes",
                     "Angular Air",
                     "YouTube"
                 ],
                 "PERSON": [
                     "Niall Crosby",
-                    "Niall Crosby\n\nPanelists:",
+                    "Niall Crosby",
+                    "Olivier Combe",
                     "Aimee Knight",
                     "Jeff Whelpley",
-                    "Aimee -",
                     "JavaScript Podcast",
-                    "Kent C. Dodds"
+                    "Kent C. Dodds",
+                    "Twitter"
                 ],
                 "PRODUCT": [
-                    "Twitter"
+                    "Angular Air"
+                ],
+                "GPE": [
+                    "Google+"
                 ]
             }
         },
@@ -6950,26 +7214,35 @@
             "title": "31 ngAir - Angular Fundamentals",
             "entities": {
                 "PERSON": [
+                    "Minko Gechev",
                     "Aimee Knight",
                     "Jeff Whelpley",
-                    "JavaScript Library",
-                    "Aimee - Angular Remote Conf - Use",
-                    "Learning Angular\n",
+                    "Learning Angular",
                     "Patrick - ng-hackathon",
-                    "Kent C. Dodds"
+                    "Kent C. Dodds",
+                    "Twitter"
                 ],
                 "ORG": [
-                    "Picks: Sane File Naming Conventions",
-                    "Egghead.io",
-                    "Angular Connect\nAngular Air",
-                    "Angular Air",
+                    "Picks/Tips:\n\n",
+                    "Kent - Tips",
+                    "Aimee - Angular Remote Conf - Use",
                     "YouTube"
+                ],
+                "PRODUCT": [
+                    "JavaScript Library",
+                    "Angular Air"
+                ],
+                "LOC": [
+                    "Egghead.io"
                 ],
                 "PERCENT": [
                     "20%"
                 ],
-                "PRODUCT": [
-                    "Twitter"
+                "WORK_OF_ART": [
+                    "Angular Connect\nAngular Air"
+                ],
+                "GPE": [
+                    "Google+"
                 ]
             }
         },
@@ -6996,37 +7269,44 @@
             "title": "30 ngAir - Angular UI-Router",
             "entities": {
                 "CARDINAL": [
-                    "two"
+                    "two",
+                    "2"
                 ],
                 "PERSON": [
                     "Chris Thielen",
+                    "Nate Abele",
+                    "Olivier Combe",
                     "Aimee Knight",
                     "Scott Moss",
                     "Carmen Popoviciu",
                     "Jeff Whelpley",
-                    "Chris - Microsoft",
-                    "Ramda",
-                    "Aimee - Angular Remote Conf - Use",
-                    "Patrick - Tip",
-                    "Jeff - Medium",
-                    "Kent C. Dodds"
+                    "Patrick",
+                    "Kent C. Dodds",
+                    "Twitter"
                 ],
                 "ORG": [
-                    "Webstorm EAP",
+                    "Picks/Tips",
+                    "Chris - Microsoft",
+                    "Webstorm EAP +",
+                    "Nate - Tips:",
                     "UI Router",
                     "Value",
-                    "Spotify Work Playlist",
-                    "UI Router",
+                    "UI Router\nOlivier - Angular 1 and Angular 2 Co-existence",
                     "ocLazyLoad &",
-                    "GetHuman Ideas\nAngular Air",
-                    "Angular Air",
+                    "Kent - Tips: Write",
+                    "MDN",
+                    "Aimee - Angular Remote Conf - Use",
                     "YouTube"
                 ],
                 "PERCENT": [
                     "20%"
                 ],
+                "GPE": [
+                    "OAuth2",
+                    "Google+"
+                ],
                 "PRODUCT": [
-                    "Twitter"
+                    "Angular Air"
                 ]
             }
         },
@@ -7053,29 +7333,36 @@
             "title": "29 ngAir - Reactive Programming",
             "entities": {
                 "ORG": [
-                    "Reactive Programming - The",
+                    "RxJS",
+                    "Reactive",
+                    "Picks/Tips",
                     "Reactive Programming",
+                    "Aimee - Angular Remote Conf - Use",
+                    "Patrick - GetCloak.com",
                     "Angular Air",
                     "YouTube"
-                ],
-                "GPE": [
-                    "RxJS"
                 ],
                 "PERSON": [
                     "Matt Podwysocki",
                     "Matt Podwysocki",
+                    "Olivier Combe",
                     "Aimee Knight",
                     "Matt - Thali",
-                    "Aimee - Angular Remote Conf - Use",
-                    "Patrick - GetCloak.com",
-                    "Robot",
-                    "Kent C. Dodds"
+                    "Robot Tip",
+                    "Kent C. Dodds",
+                    "Twitter"
+                ],
+                "CARDINAL": [
+                    "2"
                 ],
                 "PERCENT": [
                     "20%"
                 ],
                 "PRODUCT": [
-                    "Twitter"
+                    "Angular Air"
+                ],
+                "GPE": [
+                    "Google+"
                 ]
             }
         },
@@ -7108,43 +7395,55 @@
                     "Martin Gontovnikas",
                     "Matias Woloski",
                     "Geoff Goodman",
+                    "Olivier Combe",
                     "Kara Erickson",
                     "Aimee Knight",
                     "Scott Moss",
                     "Pascal Precht",
                     "Carmen Popoviciu",
                     "Jeff Whelpley",
-                    "Webtask",
                     "Martin - Falcor",
-                    "Geoff",
-                    "Aimee - Angular Remote Conf - Tip",
-                    "Patrick - JAWS",
-                    "Jeff - Angular",
-                    "Kent C. Dodds"
-                ],
-                "GPE": [
-                    "Webtask",
-                    "GoTTY",
-                    "tickets!\ufeff",
-                    "Tip"
+                    "sharelock.io\ufeff\nMatias - jwt.io",
+                    "tickets!\ufeff\n",
+                    "IxD Checklist",
+                    "Kent C. Dodds",
+                    "Twitter"
                 ],
                 "ORG": [
+                    "Auth0",
                     "SMS",
                     "HighScalability",
                     "Picks/Tips",
-                    "sharelock.io\ufeff\nMatias - jwt.io",
+                    "Geoff",
                     "Egghead.io",
                     "JWT",
-                    "IxD Checklist",
-                    "IxD",
+                    "Aimee - Angular Remote Conf - Tip: Use",
+                    "Patrick - JAWS",
                     "Angular Air",
                     "YouTube"
+                ],
+                "GPE": [
+                    "Auth0",
+                    "Webtask",
+                    "Webtask",
+                    "GoTTY",
+                    "IxD",
+                    "Google+"
+                ],
+                "MONEY": [
+                    "stateChangeStart"
                 ],
                 "PERCENT": [
                     "20%"
                 ],
+                "NORP": [
+                    "Checklist"
+                ],
+                "CARDINAL": [
+                    "2"
+                ],
                 "PRODUCT": [
-                    "Twitter"
+                    "Angular Air"
                 ]
             }
         },
@@ -7170,26 +7469,31 @@
             "pubDate": "Mon, 17 Aug 2015 13:30:42 GMT",
             "title": "27 ngAir - Performance, Testing, and Everything in-between",
             "entities": {
-                "WORK_OF_ART": [
-                    "The Doctor"
-                ],
                 "PERSON": [
-                    "Gleb Bahmutov\n\nPanelists",
+                    "Gleb",
+                    "Gleb Bahmutov",
                     "Aimee Knight",
                     "Scott Moss",
                     "Jeff Whelpley",
-                    "Aimee - Perceived Performance",
-                    "Jeff - Kent C. Dodds",
-                    "Kent C. Dodds"
+                    "Abstracting Away Complexity",
+                    "Kent C. Dodds",
+                    "Twitter"
+                ],
+                "WORK_OF_ART": [
+                    "Angular 1.x",
+                    "Action, Angular Remote Conf\n",
+                    "Angular Air"
                 ],
                 "ORG": [
-                    "Action, Angular Remote Conf",
-                    "Abstracting Away Complexity",
-                    "Angular Air",
+                    "Picks/Tips:\n\n",
+                    "Aimee - Perceived Performance Fluent Conf",
                     "YouTube"
                 ],
                 "PRODUCT": [
-                    "Twitter"
+                    "Angular Air"
+                ],
+                "GPE": [
+                    "Google+"
                 ]
             }
         },
@@ -7215,34 +7519,39 @@
             "pubDate": "Tue, 04 Aug 2015 21:35:04 GMT",
             "title": "26 ngAir - FalcorJS and Angular 2",
             "entities": {
+                "PRODUCT": [
+                    "Angular 2 - The",
+                    "TC-39",
+                    "Angular Air"
+                ],
+                "PERSON": [
+                    "Jafar Husain",
+                    "Aimee Knight",
+                    "Jeff Whelpley",
+                    "Jeff Whelpley",
+                    "JavaScript Jabber",
+                    "Kent C. Dodds",
+                    "Twitter"
+                ],
+                "ORG": [
+                    "Jafar",
+                    "Picks/Tips:\n\nJafar - Redux",
+                    "Kent - First Timers Only",
+                    "React Rally\nAimee - Nodevember",
+                    "Patrick - Open Source",
+                    "TypeScript",
+                    "JavaScript",
+                    "YouTube"
+                ],
                 "GPE": [
                     "Netflix",
                     "Observables",
-                    "GraphQL"
-                ],
-                "PERSON": [
-                    "TC-39",
-                    "Aimee Knight",
-                    "Jeff Whelpley",
-                    "Aimee - Nodevember",
-                    "Jeff Whelpley",
-                    "JavaScript Jabber",
-                    "Kent C. Dodds"
-                ],
-                "ORG": [
-                    "React Rally",
-                    "SparkPost",
-                    "TypeScript",
-                    "JavaScript",
-                    "Jafar Husain\nAngular Air",
-                    "Angular Air",
-                    "YouTube"
+                    "GraphQL",
+                    "Google+"
                 ],
                 "CARDINAL": [
+                    "25",
                     "168"
-                ],
-                "PRODUCT": [
-                    "Twitter"
                 ]
             }
         },
@@ -7268,24 +7577,32 @@
             "pubDate": "Wed, 29 Jul 2015 15:28:38 GMT",
             "title": "25 ngAir - TypeScript or ES6 with Babel?",
             "entities": {
+                "ORG": [
+                    "TypeScript",
+                    "TypeScript",
+                    "Picks/Tips",
+                    "Aimee - Nodevember Conference",
+                    "YouTube"
+                ],
                 "PERSON": [
                     "Jeff Whelpley",
                     "Patrick Stapleton",
                     "Aimee Knight",
                     "Jeff Whelpley",
                     "Aimee Knight",
-                    "Aimee - Nodevember Conference",
-                    "Kent C. Dodds"
+                    "Patrick - Next Episode",
+                    "Kent C. Dodds",
+                    "Twitter"
+                ],
+                "PRODUCT": [
+                    "Angular",
+                    "Angular Air"
                 ],
                 "DATE": [
                     "the next year"
                 ],
-                "ORG": [
-                    "Angular Air",
-                    "YouTube"
-                ],
-                "PRODUCT": [
-                    "Twitter"
+                "GPE": [
+                    "Google+"
                 ]
             }
         },
@@ -7313,31 +7630,41 @@
             "entities": {
                 "PERSON": [
                     "Module Loading - Guy Bedford",
-                    "JavaScript",
-                    "Guy Bedford\n\nPanelists:",
+                    "Guy Bedford",
+                    "Olivier Combe",
                     "Jeff Whelpley",
-                    "Temples",
-                    "Jeff - gethuman.com",
-                    "Kent C. Dodds"
+                    "Guy - Rollup",
+                    "Patrick - SprinkleCamp",
+                    "Google Analytics\ufeff\nAngular Air",
+                    "Kent C. Dodds",
+                    "Twitter"
                 ],
                 "ORG": [
-                    "Guy - Rollup",
-                    "Learn",
+                    "JS",
+                    "jspm",
+                    "JavaScript",
+                    "jspm",
+                    "Picks/Tips:\n\n",
+                    "Kent - Skates",
                     "StackShare",
                     "my.gethuman.com",
-                    "Google",
-                    "Angular Air",
+                    "New Relic; Sentry",
                     "YouTube"
+                ],
+                "PRODUCT": [
+                    "Learn",
+                    "disagree\"\ufeff\nJeff - gethuman.com",
+                    "Angular Air"
                 ],
                 "CARDINAL": [
                     "3.5M\u20ac",
                     "two"
                 ],
-                "GPE": [
-                    "New Relic"
+                "WORK_OF_ART": [
+                    "Angular with Angular Buddies"
                 ],
-                "PRODUCT": [
-                    "Twitter"
+                "GPE": [
+                    "Google+"
                 ]
             }
         },
@@ -7363,23 +7690,30 @@
             "pubDate": "Thu, 16 Jul 2015 02:51:52 GMT",
             "title": "23 ngAir - angular-formly",
             "entities": {
-                "ORG": [
+                "PRODUCT": [
                     "JavaScript",
+                    "Angular Air"
+                ],
+                "ORG": [
+                    "Angular",
                     "Lukas Ruebbelke",
-                    "Lukas - Exploring ES6",
-                    "Angular Air",
+                    "Lukas Ruebbelke\n\nPanelists",
+                    "Picks/Tips:\n\nLukas - Exploring",
+                    "Patrick - Angular 2 ng",
                     "YouTube"
                 ],
                 "PERSON": [
                     "Lukas Ruebbelke",
-                    "Kent C. Dodds\n\nGuest Host",
-                    "Lukas Ruebbelke\n\nPanelists",
+                    "Guest",
+                    "Kent C. Dodds",
                     "Jeff Whelpley",
-                    "JavaScript\ufeff",
-                    "Kent C. Dodds"
-                ],
-                "PRODUCT": [
+                    "Kent - Emoji Translate",
+                    "Sleep\nAngular Air",
+                    "Kent C. Dodds",
                     "Twitter"
+                ],
+                "GPE": [
+                    "Google+"
                 ]
             }
         },
@@ -7413,22 +7747,27 @@
                     "Mary Shaw",
                     "Frozen",
                     "JSConf",
-                    "Aimee - Color Blindness App Test",
-                    "Jeff - Universal",
-                    "Kent C. Dodds"
+                    "Chrome",
+                    "Kent C. Dodds",
+                    "Twitter"
                 ],
                 "ORG": [
-                    "Gotocon Amsterdam",
-                    "Chrome",
-                    "Learn Functional Programming",
-                    "Angular Air",
+                    "Picks/Tips:\n\n",
+                    "Aimee - Color Blindness App Test",
                     "YouTube"
                 ],
-                "DATE": [
-                    "summer"
+                "FAC": [
+                    "Gotocon Amsterdam"
                 ],
                 "PRODUCT": [
-                    "Twitter"
+                    "Notes",
+                    "Angular Air"
+                ],
+                "WORK_OF_ART": [
+                    "Learn Functional Programming\nJeff - Universal JavaScript\nAngular Air"
+                ],
+                "GPE": [
+                    "Google+"
                 ]
             }
         },
@@ -7454,32 +7793,39 @@
             "pubDate": "Wed, 08 Jul 2015 01:53:19 GMT",
             "title": "22 ngAir - Angular Data",
             "entities": {
+                "ORG": [
+                    "Jeff Cross",
+                    "Picks/Tips:\n\n",
+                    "Reactive Programming",
+                    "IE",
+                    "Kent - Family",
+                    "Inbox",
+                    "Aimee - GitHub",
+                    "Patrick - angular2",
+                    "YouTube"
+                ],
                 "PERSON": [
-                    "Jeff Cross",
                     "Alex Rickabaugh",
                     "Ian Riley",
                     "Jeff Cross",
                     "Alex Rickabaugh",
                     "Ian Riley",
+                    "Olivier Combe",
                     "Aimee Knight",
                     "Jeff Whelpley",
-                    "Jeff Cross",
                     "Alex - Go",
                     "Ian",
                     "Olivier - Safari",
-                    "Aimee - GitHub",
-                    "Jeff - Rundeck\nAngular Air",
-                    "Kent C. Dodds"
-                ],
-                "ORG": [
-                    "Space",
-                    "Reactive Programming",
-                    "IE",
-                    "Angular Air",
-                    "YouTube"
+                    "Jeff - Rundeck",
+                    "Kent C. Dodds",
+                    "Twitter"
                 ],
                 "PRODUCT": [
-                    "Twitter"
+                    "Angular",
+                    "Angular Air"
+                ],
+                "GPE": [
+                    "Google+"
                 ]
             }
         },
@@ -7505,33 +7851,37 @@
             "pubDate": "Wed, 24 Jun 2015 03:09:26 GMT",
             "title": "20 ngAir - Angular 2 Forms",
             "entities": {
-                "CARDINAL": [
-                    "2",
-                    "2"
-                ],
                 "PERSON": [
                     "Victor Savkin",
-                    "Victor Savkin\n\nPanelists",
+                    "Guest",
+                    "Victor Savkin",
                     "Aimee Knight",
                     "Jeff Whelpley",
-                    "CI",
+                    "Snap CI",
                     "Continuous Delivery",
-                    "Aimee - NomadJS",
-                    "Kent C. Dodds"
-                ],
-                "PRODUCT": [
-                    "Angular 2 Forms",
+                    "Jeff",
+                    "Kent C. Dodds",
                     "Twitter"
                 ],
-                "LAW": [
-                    "Angular 1"
+                "WORK_OF_ART": [
+                    "Angular 2 Forms",
+                    "Angular Air"
                 ],
-                "GPE": [
-                    "RxJS"
+                "PRODUCT": [
+                    "Angular 1",
+                    "Angular Air"
                 ],
                 "ORG": [
-                    "Angular Air",
+                    "Picks/Tips:\n\n",
+                    "CS Papers",
+                    "Kent - React Podcast Episode 2: Webpack",
+                    "Aimee",
+                    "Patrick - Angular 2 Server Rendering",
+                    "RxJS",
                     "YouTube"
+                ],
+                "GPE": [
+                    "Google+"
                 ]
             }
         },
@@ -7558,25 +7908,39 @@
             "title": "19 ngAir - Angular's New Router",
             "entities": {
                 "ORG": [
+                    "Angular's New Router - Routing",
                     "SPA",
+                    "Picks/Tips:\n\nBrian - pokemon",
                     "Stalker",
-                    "Angular Buddies (Slack",
-                    "Hoopes Vision",
-                    "Gleb Bahmutov",
-                    "Angular Air",
+                    "Olivier - Routing",
                     "YouTube"
+                ],
+                "CARDINAL": [
+                    "1.x"
                 ],
                 "PERSON": [
                     "Brian Ford",
                     "Brian Ford",
+                    "Olivier Combe",
                     "Jeff Whelpley",
+                    "Hoopes Vision",
+                    "Gleb Bahmutov",
+                    "Patrick",
                     "Boba Tea",
+                    "Pokemon",
                     "Jeff - Patrick's",
                     "Falcor",
-                    "Kent C. Dodds"
+                    "Kent C. Dodds",
+                    "Twitter"
+                ],
+                "NORP": [
+                    "Angular"
                 ],
                 "PRODUCT": [
-                    "Twitter"
+                    "Angular Air"
+                ],
+                "GPE": [
+                    "Google+"
                 ]
             }
         },
@@ -7603,31 +7967,37 @@
             "title": "18 ngAir - Angular and TypeScript",
             "entities": {
                 "ORG": [
+                    "Typescript - TypeScript",
                     "JavaScript",
                     "Microsoft",
                     "TypeScript",
                     "Program",
                     "TypeScript",
-                    "Picks/Tips",
-                    "TypeScript Demo"
+                    "Picks/Tips:\n\n"
+                ],
+                "NORP": [
+                    "Angular"
                 ],
                 "PRODUCT": [
+                    "Angular 2",
+                    "Angular 2",
                     "Angular 2"
                 ],
                 "PERSON": [
                     "Jonathan Turner",
                     "Jonathan Turner",
                     "Mohamed Hegazy",
+                    "Olivier Combe",
                     "Kara Erickson",
                     "Aimee Knight",
                     "Jonathan - Getting",
                     "Mohamed - ng-conf"
                 ],
-                "CARDINAL": [
-                    "2"
-                ],
                 "DATE": [
                     "2015"
+                ],
+                "GPE": [
+                    "Amsterdam"
                 ]
             }
         },
@@ -7655,30 +8025,41 @@
             "entities": {
                 "ORG": [
                     "DOM",
-                    "The Frontend Architecture Revolution",
-                    "Emoji",
+                    "Pascal Precht\n\n",
+                    "Picks/Tips",
+                    "Olivier - Readme.io",
+                    "Aimee - Promises",
                     "Southern Cooking",
-                    "Angular Air",
                     "YouTube"
                 ],
                 "PERSON": [
                     "Tero Parviainen",
-                    "Tero Parviainen\n\nPanelists:",
+                    "Tero Parviainen",
+                    "Olivier Combe",
                     "Aimee Knight",
                     "Scott Moss",
-                    "Pascal Precht\n\nPicks/Tips",
-                    "Jamie XX - In Colour",
+                    "David Nolen",
+                    "Jamie XX -",
                     "Directive Compiler",
                     "Tero Parviainen",
-                    "Aimee - Promises",
-                    "Pascal - Polymer",
-                    "Kent C. Dodds"
+                    "Emoji",
+                    "Kent C. Dodds",
+                    "Twitter"
                 ],
-                "CARDINAL": [
-                    "1.0"
+                "WORK_OF_ART": [
+                    "Build Your Own",
+                    "The Frontend Architecture Revolution",
+                    "Angular Air"
                 ],
                 "PRODUCT": [
-                    "Twitter"
+                    "Angular",
+                    "Angular Air"
+                ],
+                "PERCENT": [
+                    "1.0 Announced"
+                ],
+                "GPE": [
+                    "Google+"
                 ]
             }
         },
@@ -7704,24 +8085,34 @@
             "pubDate": "Tue, 26 May 2015 22:26:50 GMT",
             "title": "16 ngAir - Angular with Web Components",
             "entities": {
+                "PRODUCT": [
+                    "Angular 1",
+                    "Angular 2",
+                    "Angular 2",
+                    "Angular Air"
+                ],
                 "PERSON": [
                     "Rachael",
                     "Kara",
-                    "Mi\u0161ko Hevery",
                     "Kara Erickson",
-                    "Rachael L Moore\n\nPanelists",
+                    "Rado Kirov",
+                    "Rachael L Moore",
                     "Aimee Knight",
                     "Scott Moss",
                     "Carmen Popoviciu",
-                    "Rachael - http://csste.st/",
-                    "Aimee - http://www.rust-lang.org/",
-                    "Kent C. Dodds"
+                    "Kara - HTML5 Rocks",
+                    "JSBin",
+                    "Scott - ramjet",
+                    "Kent C. Dodds",
+                    "Twitter"
                 ],
                 "ORG": [
                     "ng-conf",
-                    "ng-conf",
-                    "Kara - HTML5 Rocks",
-                    "Studio C",
+                    "Mi\u0161ko Hevery",
+                    "Picks/Tips",
+                    "DOM 101",
+                    "Kent - Newspaper Code Structure",
+                    "NativeScript",
                     "Angular Air",
                     "YouTube"
                 ],
@@ -7729,17 +8120,15 @@
                     "March"
                 ],
                 "WORK_OF_ART": [
-                    "Web Components with Angular (1 and 2"
+                    "Web Components with Angular"
+                ],
+                "CARDINAL": [
+                    "1"
                 ],
                 "GPE": [
                     "Rado",
-                    "Rado Kirov",
-                    "JSBin"
-                ],
-                "PRODUCT": [
-                    "101",
-                    "Shadow",
-                    "Twitter"
+                    "Studio C",
+                    "Google+"
                 ]
             }
         },
@@ -7765,22 +8154,32 @@
             "pubDate": "Tue, 19 May 2015 21:36:38 GMT",
             "title": "15 ngAir - Architecting Huge Angular Apps",
             "entities": {
-                "ORG": [
-                    "JavaScript",
-                    "Angular Air",
-                    "YouTube"
-                ],
                 "PERSON": [
+                    "Angular apps - Architecting",
                     "Aaron Frost",
+                    "Domo",
                     "Ben Nadel",
                     "Aaron Frost",
-                    "Ben Nadel\n\n",
+                    "Ben Nadel",
+                    "Olivier Combe",
                     "Kara Erickson",
                     "Aimee Knight",
-                    "Kent C. Dodds"
+                    "Kent C. Dodds",
+                    "Twitter"
+                ],
+                "ORG": [
+                    "JavaScript",
+                    "InVision",
+                    "YouTube"
+                ],
+                "WORK_OF_ART": [
+                    "Angular Air"
                 ],
                 "PRODUCT": [
-                    "Twitter"
+                    "Angular Air"
+                ],
+                "GPE": [
+                    "Google+"
                 ]
             }
         },
@@ -7807,25 +8206,31 @@
             "title": "14 ngAir - Angular Apps, JavaScript, and Search Optimization",
             "entities": {
                 "PERSON": [
-                    "JavaScript",
-                    "John Mueller",
+                    "Angular Apps",
+                    "Googler John Mueller",
                     "Adam Audette",
                     "John Mueller",
                     "Jody J. O'Donnell",
-                    "Max Prin\n\nPanelists",
-                    "Aimee Knight\n\nAngular Air",
-                    "Kent C. Dodds"
+                    "Max Prin",
+                    "Olivier Combe",
+                    "Aimee Knight",
+                    "Kent C. Dodds",
+                    "Twitter"
+                ],
+                "PRODUCT": [
+                    "JavaScript",
+                    "Angular",
+                    "Angular Air"
                 ],
                 "ORG": [
                     "Search Optimization  - SEO",
                     "JavaScript",
-                    "SEO",
+                    "Webmaster Central",
                     "Search Engines",
-                    "Angular Air",
                     "YouTube"
                 ],
-                "PRODUCT": [
-                    "Twitter"
+                "GPE": [
+                    "Google+"
                 ]
             }
         },
@@ -7854,27 +8259,35 @@
                 "PERCENT": [
                     "100%"
                 ],
+                "ORG": [
+                    "Firebase",
+                    "YouTube"
+                ],
                 "CARDINAL": [
                     "two"
                 ],
                 "PERSON": [
                     "David East",
                     "Jacob Wenger",
-                    "Kato Richardson\n\nPanelists",
+                    "Kato Richardson",
+                    "Olivier Combe",
                     "Kara Erickson",
                     "Aimee Knight",
                     "Scott Moss",
                     "Todd Motto",
                     "Pascal Precht",
-                    "Carmen Popoviciu\n\nAngular Air",
-                    "Kent C. Dodds"
-                ],
-                "ORG": [
-                    "Angular Air",
-                    "YouTube"
+                    "Carmen Popoviciu",
+                    "Kent C. Dodds",
+                    "Twitter"
                 ],
                 "PRODUCT": [
-                    "Twitter"
+                    "Angular Air"
+                ],
+                "GPE": [
+                    "Google+"
+                ],
+                "NORP": [
+                    "well.\u00ef"
                 ]
             }
         },
@@ -7900,23 +8313,30 @@
             "pubDate": "Wed, 29 Apr 2015 13:00:53 GMT",
             "title": "12 ngAir - Angular 2 Alpha",
             "entities": {
+                "CARDINAL": [
+                    "2"
+                ],
                 "PERSON": [
                     "Jeff Whelpley",
                     "Rob Wormald",
                     "Patrick Stapleton",
                     "Jeff Whelpley",
-                    "Rob Wormald\n\nPanelists:",
+                    "Rob Wormald",
+                    "Olivier Combe",
                     "Aimee Knight",
                     "Scott Moss",
-                    "Carmen Popoviciu\n\nAngular Air",
-                    "Kent C. Dodds"
+                    "Carmen Popoviciu",
+                    "Kent C. Dodds",
+                    "Twitter"
                 ],
                 "PRODUCT": [
                     "Angular 2 Alpha",
-                    "Twitter"
+                    "Angular Air"
+                ],
+                "GPE": [
+                    "Google+"
                 ],
                 "ORG": [
-                    "Angular Air",
                     "YouTube"
                 ]
             }
@@ -7946,17 +8366,22 @@
                 "DATE": [
                     "each week"
                 ],
+                "GPE": [
+                    "Angular"
+                ],
                 "CARDINAL": [
                     "two"
                 ],
                 "PERSON": [
+                    "Olivier Combe",
                     "Kara Erickson",
                     "Aimee Knight",
                     "Scott Moss",
-                    "Pascal Precht"
+                    "Pascal Precht",
+                    "Kent C. Dodds"
                 ],
                 "ORG": [
-                    "Angular Air",
+                    "Carmen PopoviciuAngular Air",
                     "YouTube"
                 ]
             }
@@ -7986,9 +8411,16 @@
                 "CARDINAL": [
                     "One"
                 ],
+                "PRODUCT": [
+                    "Angular"
+                ],
                 "ORG": [
-                    "Angular Air",
+                    "DOM",
                     "YouTube"
+                ],
+                "PERSON": [
+                    "Angular",
+                    "Kent C. Dodds"
                 ]
             }
         },
@@ -8014,11 +8446,18 @@
             "pubDate": "Thu, 16 Apr 2015 22:05:56 GMT",
             "title": "09 ngAir - Contributing to Angular",
             "entities": {
+                "PRODUCT": [
+                    "Angular"
+                ],
                 "ORG": [
-                    "Pawel"
+                    "CS",
+                    "Google"
+                ],
+                "DATE": [
+                    "a summer"
                 ],
                 "PERSON": [
-                    "Rodric"
+                    "Angular"
                 ]
             }
         },
@@ -8046,14 +8485,19 @@
             "entities": {
                 "PERSON": [
                     "Pascal",
-                    "Pascal"
+                    "Pascal",
+                    "Pascal",
+                    "Birthday Song",
+                    "Kent C. Dodds"
                 ],
                 "GPE": [
-                    "P.S."
+                    "Chirayu",
+                    "Angular",
+                    "Chirayu",
+                    "P.S.",
+                    "Emperor"
                 ],
                 "ORG": [
-                    "GrooveLinks",
-                    "Angular Air",
                     "YouTube"
                 ]
             }
@@ -8082,11 +8526,15 @@
             "entities": {
                 "PERSON": [
                     "Jason Dobry",
-                    "Todd Motto"
+                    "Olivier Combe",
+                    "Jason",
+                    "Kent C. Dodds",
+                    "Todd Motto",
+                    "Kent C. Dodds\u00a0Please"
                 ],
                 "ORG": [
                     "GitHub",
-                    "Angular Air",
+                    "Google Developer",
                     "YouTube"
                 ]
             }
@@ -8118,15 +8566,19 @@
                     "Max Lynch",
                     "Adam Bradley",
                     "Mike Hartington",
-                    "Todd Motto"
-                ],
-                "GPE": [
-                    "Ionic Framework"
+                    "Todd Motto",
+                    "Kent C. Dodds\u00a0Please"
                 ],
                 "ORG": [
-                    "Ionic",
-                    "Angular Air",
+                    "the Ionic Framework",
+                    "Google Developer",
                     "YouTube"
+                ],
+                "PRODUCT": [
+                    "Angular"
+                ],
+                "LOC": [
+                    "Ionic"
                 ]
             }
         },
@@ -8153,12 +8605,13 @@
             "title": "05 ngAir - NG-NL On Site",
             "entities": {
                 "ORG": [
-                    "NG",
-                    "Angular Air",
+                    "NG-NL",
+                    "Google Developer",
                     "YouTube"
                 ],
                 "PERSON": [
-                    "Todd Motto"
+                    "Todd Motto",
+                    "Kent C. Dodds\u00a0Please"
                 ]
             }
         },
@@ -8185,8 +8638,9 @@
             "title": "04 ngAir - Angular Community and Organizing ng-conf",
             "entities": {
                 "ORG": [
+                    "the ng-conf",
                     "Angular Air",
-                    "Angular Air",
+                    "Google Developer",
                     "YouTube"
                 ],
                 "CARDINAL": [
@@ -8194,10 +8648,14 @@
                     "2.0.Angular"
                 ],
                 "PERSON": [
-                    "Todd Motto"
+                    "Todd Motto",
+                    "Kent C. Dodds\u00a0Please"
                 ],
                 "PRODUCT": [
                     "Twitter"
+                ],
+                "GPE": [
+                    "Google+"
                 ]
             }
         }
@@ -8222,7 +8680,7 @@
         "summary": "A podcast about all things Angular (by Google), a JavaScript platform for building mobile and desktop web applications. Support this podcast: <a href=\"https://anchor.fm/angularair/support\" rel=\"payment\">https://anchor.fm/angularair/support</a>"
     },
     "language": "en",
-    "lastBuildDate": "Tue, 19 Apr 2022 07:22:26 GMT",
+    "lastBuildDate": "Tue, 24 May 2022 12:30:07 GMT",
     "link": "https://angularair.com",
     "paginationLinks": {
         "self": "https://anchor.fm/s/166001ec/podcast/rss"
@@ -8237,7 +8695,13 @@
     ],
     "title": "Angular Air",
     "entities": {
+        "PERSON": [
+            "Angular"
+        ],
         "ORG": [
+            "Google"
+        ],
+        "PRODUCT": [
             "JavaScript"
         ]
     }

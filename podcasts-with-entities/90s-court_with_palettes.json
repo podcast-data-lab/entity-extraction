@@ -39,10 +39,8 @@
                     "90s Court"
                 ],
                 "DATE": [
+                    "90s",
                     "the past 2.5 years"
-                ],
-                "PERSON": [
-                    "rad.</p"
                 ]
             }
         },
@@ -72,18 +70,17 @@
             "entities": {
                 "ORG": [
                     "90s Court",
-                    "Hocus Pocus",
                     "TLC"
                 ],
                 "WORK_OF_ART": [
                     "Are You Afraid of the Dark",
-                    "Happy Gilmore"
+                    "\u201cHappy Gilmore"
                 ],
                 "DATE": [
                     "1993"
                 ],
                 "EVENT": [
-                    "Halloween Hit"
+                    "Halloween Hit \u201c"
                 ],
                 "PERSON": [
                     "Andy",
@@ -122,21 +119,29 @@
                 "DATE": [
                     "this week",
                     "two weeks",
-                    "99",
                     "the past 2 + years"
                 ],
                 "PERSON": [
                     "Lunchables",
                     "Kid Cuisine",
                     "Lisa",
-                    "Andy"
-                ],
-                "ORG": [
-                    "Chattahoochee",
-                    "Instagram @90s.court"
+                    "Andy",
+                    "Goldeneye",
+                    "rad!</p"
                 ],
                 "GPE": [
-                    "Goldeneye"
+                    "Chattahoochee"
+                ],
+                "ORG": [
+                    "90s Court",
+                    "Facebook and Twitter @90scourt",
+                    "Instagram @90s.court"
+                ],
+                "CARDINAL": [
+                    "99"
+                ],
+                "WORK_OF_ART": [
+                    "Sahy Uhns"
                 ]
             }
         },
@@ -164,18 +169,16 @@
             "pubDate": "Mon, 20 Sep 2021 12:00:00 GMT",
             "title": "Episode 96: Shawshank Redemption vs. The Green Mile vs. Apt Pupil",
             "entities": {
-                "ORG": [
-                    "Patreon",
-                    "90s Court",
-                    "Instagram @90s.court"
+                "PRODUCT": [
+                    "Patreon"
                 ],
                 "PERSON": [
                     "Michael Murphy",
                     "Stephen King's",
-                    "Apt Pupil",
                     "Andy",
                     "Lisa",
-                    "Michael"
+                    "Michael",
+                    "Johnson"
                 ],
                 "DATE": [
                     "this week",
@@ -186,8 +189,19 @@
                     "three",
                     "three"
                 ],
-                "FAC": [
+                "ORG": [
+                    "90s Court",
+                    "Facebook and Twitter @90scourt",
+                    "Instagram @90s.court"
+                ],
+                "LAW": [
                     "The Green Mile"
+                ],
+                "FAC": [
+                    "Patreon"
+                ],
+                "WORK_OF_ART": [
+                    "Sahy Uhns"
                 ]
             }
         },
@@ -215,25 +229,31 @@
             "pubDate": "Mon, 13 Sep 2021 12:00:00 GMT",
             "title": "Episode 95: Pepper Ann vs. Angela Anaconda",
             "entities": {
+                "ORG": [
+                    "Angela Anaconda",
+                    "Pepper Ann\u2019s",
+                    "Nannette",
+                    "Facebook and Twitter @90scourt",
+                    "Instagram @90s.court"
+                ],
                 "PERSON": [
-                    "Angela Anaconda",
                     "Pepper Ann",
-                    "Angela Anaconda",
                     "Andy",
                     "Lisa",
-                    "Lisa"
+                    "Lisa",
+                    "Said Fred\u2019s"
                 ],
                 "DATE": [
                     "this week",
-                    "90s"
+                    "90s quiz"
                 ],
-                "ORG": [
-                    "Pepper Ann\u2019s",
-                    "Nannette",
-                    "Instagram @90s.court"
+                "FAC": [
+                    "Angela Anaconda",
+                    "Patreon"
                 ],
                 "WORK_OF_ART": [
-                    "I\u2019m Too Sexy"
+                    "I\u2019m Too Sexy",
+                    "Sahy Uhns"
                 ]
             }
         },
@@ -261,29 +281,32 @@
             "pubDate": "Mon, 06 Sep 2021 12:00:00 GMT",
             "title": "Episode 94: Half Baked vs. Dirty Work",
             "entities": {
-                "DATE": [
-                    "this week",
-                    "the 90s"
-                ],
-                "CARDINAL": [
-                    "two"
-                ],
                 "PERSON": [
-                    "Dirty Work",
+                    "Andy",
                     "Dave Chapelle",
                     "Norm Macdonald",
                     "Lisa",
                     "Andy"
                 ],
-                "PRODUCT": [
-                    "Caboodles"
+                "DATE": [
+                    "this week",
+                    "the 90s"
+                ],
+                "CARDINAL": [
+                    "two",
+                    "Half"
                 ],
                 "ORG": [
                     "Stone Temple Pilots",
+                    "Facebook and Twitter @90scourt",
                     "Instagram @90s.court"
                 ],
                 "WORK_OF_ART": [
-                    "Interstate Love Song"
+                    "Interstate Love Song",
+                    "Sahy Uhns"
+                ],
+                "FAC": [
+                    "Patreon"
                 ]
             }
         },
@@ -311,28 +334,34 @@
             "pubDate": "Mon, 30 Aug 2021 12:00:00 GMT",
             "title": "Episode 93: Daft Punk's \"Around the World\" vs. Fatboy Slim's \"Praise You\"",
             "entities": {
-                "ORG": [
-                    "Lisa",
-                    "Daft Punk's",
-                    "Fatboy Slim's",
-                    "Instagram @90s.court"
-                ],
                 "PERSON": [
-                    "Jack",
                     "Lisa",
                     "Jack",
-                    "Kiss Marry Kill"
+                    "Daft Punk's",
+                    "Lisa",
+                    "Jack",
+                    "Marry Kill"
                 ],
                 "DATE": [
                     "this week",
-                    "the 90s:",
+                    "the 90s",
                     "the 90s"
                 ],
                 "CARDINAL": [
                     "two"
                 ],
                 "WORK_OF_ART": [
-                    "Around the World\" and"
+                    "Around the World",
+                    "Praise You",
+                    "Sahy Uhns"
+                ],
+                "ORG": [
+                    "Fatboy Slim's",
+                    "Facebook and Twitter @90scourt",
+                    "Instagram @90s.court"
+                ],
+                "FAC": [
+                    "Patreon"
                 ]
             }
         },
@@ -360,24 +389,35 @@
             "pubDate": "Mon, 16 Aug 2021 12:00:00 GMT",
             "title": "Episode 92: Matilda vs. James and the Giant Peach",
             "entities": {
-                "DATE": [
-                    "this week",
-                    "90s"
-                ],
-                "CARDINAL": [
-                    "two"
-                ],
-                "ORG": [
+                "PERSON": [
+                    "Andy",
                     "Roald Dahl",
                     "Matilda",
-                    "the Giant Peach",
-                    "Chevron",
-                    "Instagram @90s.court"
-                ],
-                "PERSON": [
                     "James",
                     "Andy",
+                    "Marble Run",
                     "Lisa"
+                ],
+                "DATE": [
+                    "this week"
+                ],
+                "CARDINAL": [
+                    "two",
+                    "90s"
+                ],
+                "LOC": [
+                    "the Giant Peach"
+                ],
+                "ORG": [
+                    "Chevron",
+                    "Facebook and Twitter @90scourt",
+                    "Instagram @90s.court"
+                ],
+                "FAC": [
+                    "Patreon"
+                ],
+                "WORK_OF_ART": [
+                    "Sahy Uhns"
                 ]
             }
         },
@@ -408,6 +448,7 @@
                 "ORG": [
                     "90s Court",
                     "Bonne Bell",
+                    "Facebook and Twitter @90scourt",
                     "Instagram @90s.court"
                 ],
                 "DATE": [
@@ -420,12 +461,18 @@
                     "Monica Lewinksi",
                     "Lorena Bobbitt",
                     "Lisa",
-                    "90s",
                     "Gabriel",
                     "Final Fantasy 7"
                 ],
                 "CARDINAL": [
-                    "two"
+                    "two",
+                    "90s"
+                ],
+                "FAC": [
+                    "Patreon"
+                ],
+                "WORK_OF_ART": [
+                    "Sahy Uhns"
                 ]
             }
         },
@@ -454,7 +501,9 @@
             "title": "Episode 90: 90s Pizza Hut vs. 90s McDonalds",
             "entities": {
                 "CARDINAL": [
-                    "two"
+                    "two",
+                    "90s",
+                    "one"
                 ],
                 "DATE": [
                     "the decade",
@@ -463,12 +512,19 @@
                 ],
                 "ORG": [
                     "Pizza Hut",
-                    "McDonald\u2019s",
+                    "McDonald",
                     "Pizza Hut",
+                    "Facebook and Twitter @90scourt",
                     "Instagram @90s.court"
                 ],
-                "PERSON": [
+                "PERCENT": [
                     "90s McDonalds"
+                ],
+                "FAC": [
+                    "Patreon"
+                ],
+                "WORK_OF_ART": [
+                    "Sahy Uhns"
                 ]
             }
         },
@@ -498,24 +554,31 @@
             "entities": {
                 "DATE": [
                     "This week",
-                    "the 90s",
+                    "the 90s:",
                     "1992"
                 ],
                 "CARDINAL": [
                     "two"
                 ],
                 "PERSON": [
-                    "Jennifer Love Hewitt",
+                    "Jennifer Love",
                     "Rachel Leigh Cook",
                     "Andy",
+                    "Lisa",
                     "Totally Hair Barbie"
                 ],
-                "WORK_OF_ART": [
-                    "Star Wars Episode 1"
+                "TIME": [
+                    "midnight"
+                ],
+                "FAC": [
+                    "Patreon"
                 ],
                 "ORG": [
-                    "Lisa",
+                    "Facebook and Twitter @90scourt",
                     "Instagram @90s.court"
+                ],
+                "WORK_OF_ART": [
+                    "Sahy Uhns"
                 ]
             }
         },
@@ -545,9 +608,9 @@
             "entities": {
                 "PERSON": [
                     "Gabriel",
-                    "Doritos 3D",
+                    "Doritos",
                     "Lisa",
-                    "Michael Jackson\u2019s",
+                    "Michael Jackson",
                     "Andy"
                 ],
                 "DATE": [
@@ -556,6 +619,7 @@
                 "ORG": [
                     "90s Court",
                     "Pop Tarts Minis",
+                    "Facebook and Twitter @90scourt",
                     "Instagram @90s.court"
                 ],
                 "CARDINAL": [
@@ -563,7 +627,11 @@
                 ],
                 "WORK_OF_ART": [
                     "Black or White",
-                    "The Cowboys of Moo Mesa"
+                    "The Cowboys of Moo Mesa",
+                    "Sahy Uhns"
+                ],
+                "FAC": [
+                    "Patreon"
                 ]
             }
         },
@@ -596,19 +664,27 @@
                     "90s"
                 ],
                 "GPE": [
-                    "America"
+                    "America",
+                    "Zombie"
                 ],
                 "PERSON": [
                     "Nicolas Cage",
                     "Andy",
-                    "Andy"
+                    "Lisa",
+                    "Andy",
+                    "Marry Kill"
                 ],
                 "ORG": [
                     "Face/Off",
+                    "Cranberries",
+                    "Facebook and Twitter @90scourt",
                     "Instagram @90s.court"
                 ],
+                "FAC": [
+                    "Patreon"
+                ],
                 "WORK_OF_ART": [
-                    "Zombie"
+                    "Sahy Uhns"
                 ]
             }
         },
@@ -638,7 +714,7 @@
             "entities": {
                 "DATE": [
                     "this week",
-                    "90s"
+                    "the 90s"
                 ],
                 "CARDINAL": [
                     "two"
@@ -647,12 +723,20 @@
                     "Capri Sun",
                     "WINAMP",
                     "Mario Paint",
+                    "SNES",
+                    "Facebook and Twitter @90scourt",
                     "Instagram @90s.court"
                 ],
                 "PERSON": [
                     "Squeezit",
                     "Lisa",
                     "Andy"
+                ],
+                "FAC": [
+                    "Patreon"
+                ],
+                "WORK_OF_ART": [
+                    "Sahy Uhns"
                 ]
             }
         },
@@ -684,12 +768,10 @@
                     "two"
                 ],
                 "DATE": [
-                    "90s",
-                    "this week"
+                    "90s this week"
                 ],
                 "PERSON": [
                     "Forrest Gump",
-                    "Good Will Hunting",
                     "Tom Hanks",
                     "Matt Damon",
                     "Robin Williams",
@@ -699,7 +781,14 @@
                 ],
                 "ORG": [
                     "AOL",
+                    "Facebook and Twitter @90scourt",
                     "Instagram @90s.court"
+                ],
+                "FAC": [
+                    "Patreon"
+                ],
+                "WORK_OF_ART": [
+                    "Sahy Uhns"
                 ]
             }
         },
@@ -729,19 +818,28 @@
             "entities": {
                 "DATE": [
                     "This week",
-                    "early 90s"
+                    "the very early 90s"
                 ],
                 "CARDINAL": [
                     "two",
                     "two"
                 ],
                 "PERSON": [
+                    "Chip n\u2019",
+                    "Darkwing Duck",
                     "Lisa",
                     "Andy",
-                    "Magic Potty Baby"
+                    "Potty Baby"
+                ],
+                "FAC": [
+                    "Patreon"
                 ],
                 "ORG": [
+                    "Facebook and Twitter @90scourt",
                     "Instagram @90s.court"
+                ],
+                "WORK_OF_ART": [
+                    "Sahy Uhns"
                 ]
             }
         },
@@ -770,27 +868,30 @@
             "title": "Episode 83: 10 Things I Hate About You vs. American Pie",
             "entities": {
                 "CARDINAL": [
-                    "two",
-                    "10"
-                ],
-                "DATE": [
-                    "90s"
+                    "two"
                 ],
                 "ORG": [
-                    "American Pie",
-                    "crunchiest",
-                    "SkiFree",
+                    "Julia Stiles",
+                    "Facebook and Twitter @90scourt",
                     "Instagram @90s.court"
                 ],
                 "PERSON": [
                     "Heath Ledger",
                     "Jason Biggs",
                     "Andy",
-                    "Toast Crunch",
                     "Lisa"
                 ],
                 "NORP": [
                     "French"
+                ],
+                "PRODUCT": [
+                    "SkiFree"
+                ],
+                "FAC": [
+                    "Patreon"
+                ],
+                "WORK_OF_ART": [
+                    "Sahy Uhns"
                 ]
             }
         },
@@ -825,18 +926,22 @@
                     "the decade",
                     "this week"
                 ],
-                "PERSON": [
+                "ORG": [
                     "Nintendo Power",
+                    "Nickelodeon Magazine",
+                    "Facebook and Twitter @90scourt",
+                    "Instagram @90s.court"
+                ],
+                "PERSON": [
                     "Andy",
                     "Lisa"
                 ],
-                "ORG": [
-                    "Nickelodeon Magazine",
-                    "Travolta",
-                    "Instagram @90s.court"
-                ],
                 "WORK_OF_ART": [
-                    "Phenomenon"
+                    "Phenomenon",
+                    "Sahy Uhns"
+                ],
+                "FAC": [
+                    "Patreon"
                 ]
             }
         },
@@ -871,20 +976,26 @@
                 "CARDINAL": [
                     "two"
                 ],
-                "ORG": [
-                    "Nutty",
-                    "N64",
-                    "Lisa",
-                    "Chris Gaines",
-                    "Instagram @90s.court"
-                ],
                 "PERSON": [
                     "Flubber",
                     "Eddie Murphy",
                     "Robin Williams",
                     "Andy",
-                    "Turok Dinosaur Hunter",
-                    "Garth Brooks\u2019"
+                    "Dinosaur Hunter",
+                    "Lisa",
+                    "Garth Brooks",
+                    "Chris Gaines"
+                ],
+                "ORG": [
+                    "N64",
+                    "Facebook and Twitter @90scourt",
+                    "Instagram @90s.court"
+                ],
+                "FAC": [
+                    "Patreon"
+                ],
+                "WORK_OF_ART": [
+                    "Sahy Uhns"
                 ]
             }
         },
@@ -925,8 +1036,15 @@
                     "Andy",
                     "Andy"
                 ],
+                "FAC": [
+                    "Patreon"
+                ],
                 "ORG": [
+                    "Facebook and Twitter @90scourt",
                     "Instagram @90s.court"
+                ],
+                "WORK_OF_ART": [
+                    "Sahy Uhns"
                 ]
             }
         },
@@ -960,16 +1078,27 @@
                 "ORG": [
                     "90s Court",
                     "Blank Check",
+                    "Bashin Brawlers",
+                    "Facebook and Twitter @90scourt",
                     "Instagram @90s.court"
                 ],
                 "CARDINAL": [
                     "two"
                 ],
+                "MONEY": [
+                    "$1M"
+                ],
                 "PERSON": [
                     "Lisa",
                     "David Hasselhoff's",
-                    "Andy",
-                    "Bashin Brawlers"
+                    "Andy"
+                ],
+                "WORK_OF_ART": [
+                    "Hooked on a Feeling",
+                    "Sahy Uhns"
+                ],
+                "FAC": [
+                    "Patreon"
                 ]
             }
         },
@@ -997,26 +1126,37 @@
             "pubDate": "Mon, 19 Apr 2021 11:00:00 GMT",
             "title": "Episode 78: Dippin Dots vs. Auntie Anne's Pretzels",
             "entities": {
+                "ORG": [
+                    "90s Court",
+                    "Pretzels",
+                    "Dippin Dots",
+                    "Facebook and Twitter @90scourt",
+                    "Instagram @90s.court"
+                ],
                 "DATE": [
                     "this week",
-                    "90s"
+                    "a big day"
                 ],
                 "CARDINAL": [
-                    "two"
+                    "two",
+                    "90s"
+                ],
+                "GPE": [
+                    "Auntie Anne's"
                 ],
                 "PERSON": [
-                    "Anne",
-                    "Dippin Dots",
                     "Lisa",
                     "Andy",
                     "Lisa"
                 ],
-                "GPE": [
-                    "Pretzels"
+                "PRODUCT": [
+                    "Mall Madness"
                 ],
-                "ORG": [
-                    "Mall Madness",
-                    "Instagram @90s.court"
+                "FAC": [
+                    "Patreon"
+                ],
+                "WORK_OF_ART": [
+                    "Sahy Uhns"
                 ]
             }
         },
@@ -1050,16 +1190,22 @@
                 ],
                 "PERSON": [
                     "Armageddon",
-                    "Deep Impact",
                     "Andy",
+                    "Lisa",
                     "Mark Morrison's"
                 ],
                 "ORG": [
-                    "Lisa",
+                    "Maximum Carnage",
+                    "SNES",
+                    "Facebook and Twitter @90scourt",
                     "Instagram @90s.court"
                 ],
                 "WORK_OF_ART": [
-                    "Return of the Mack"
+                    "Return of the Mack",
+                    "Sahy Uhns"
+                ],
+                "FAC": [
+                    "Patreon"
                 ]
             }
         },
@@ -1095,6 +1241,7 @@
                     "two"
                 ],
                 "PERSON": [
+                    "Borders",
                     "Blockbuster",
                     "Lisa",
                     "Andy"
@@ -1102,12 +1249,17 @@
                 "TIME": [
                     "hours"
                 ],
-                "PRODUCT": [
-                    "iMac G3"
-                ],
                 "ORG": [
+                    "iMac G3",
                     "BunchaCrunch",
+                    "Facebook and Twitter @90scourt",
                     "Instagram @90s.court"
+                ],
+                "FAC": [
+                    "Patreon"
+                ],
+                "WORK_OF_ART": [
+                    "Sahy Uhns"
                 ]
             }
         },
@@ -1138,10 +1290,9 @@
                 "ORG": [
                     "90s Court",
                     "Keanu",
-                    "Bible Adventures",
                     "NES",
-                    "Lisa",
                     "the Vtech Video Painter",
+                    "Facebook and Twitter @90scourt",
                     "Instagram @90s.court"
                 ],
                 "DATE": [
@@ -1154,7 +1305,15 @@
                     "Two"
                 ],
                 "PERSON": [
-                    "Andy"
+                    "Andy",
+                    "Lisa"
+                ],
+                "WORK_OF_ART": [
+                    "Bible Adventures",
+                    "Sahy Uhns"
+                ],
+                "FAC": [
+                    "Patreon"
                 ]
             }
         },
@@ -1190,6 +1349,7 @@
                     "Temple Guard",
                     "Herbal Essences",
                     "Phillips",
+                    "Facebook and Twitter @90scourt",
                     "Instagram @90s.court"
                 ],
                 "CARDINAL": [
@@ -1200,12 +1360,20 @@
                     "the 90s"
                 ],
                 "GPE": [
-                    "Olmec"
+                    "Olmec",
+                    "Mo",
+                    "Zelda"
                 ],
                 "PERSON": [
                     "Mike",
                     "Lisa",
                     "Andy"
+                ],
+                "FAC": [
+                    "Patreon"
+                ],
+                "WORK_OF_ART": [
+                    "Sahy Uhns"
                 ]
             }
         },
@@ -1233,22 +1401,17 @@
             "pubDate": "Mon, 01 Mar 2021 12:27:52 GMT",
             "title": "Episode 73: Ace Ventura vs. The Mask ",
             "entities": {
-                "ORG": [
-                    "SMOKIN",
-                    "Ace Ventura",
-                    "The Mask!",
-                    "Quiz",
-                    "Lisa",
-                    "Instagram @90s.court"
-                ],
                 "CARDINAL": [
                     "two"
                 ],
                 "PERSON": [
                     "Jim Carrey's",
+                    "Ace Ventura",
                     "Dan Marino",
                     "Cameron Diaz",
                     "Andy",
+                    "Lisa",
+                    "90s Quiz",
                     "Lisa"
                 ],
                 "ORDINAL": [
@@ -1256,8 +1419,17 @@
                 ],
                 "DATE": [
                     "this week",
-                    "90s",
                     "the 90s"
+                ],
+                "FAC": [
+                    "Patreon"
+                ],
+                "ORG": [
+                    "Facebook and Twitter @90scourt",
+                    "Instagram @90s.court"
+                ],
+                "WORK_OF_ART": [
+                    "Sahy Uhns"
                 ]
             }
         },
@@ -1289,14 +1461,10 @@
                     "two"
                 ],
                 "DATE": [
-                    "this week"
+                    "the 90s"
                 ],
-                "ORG": [
-                    "Alanis Morissette",
-                    "Mattel",
-                    "Energizer",
-                    "Duracell",
-                    "Instagram @90s.court"
+                "EVENT": [
+                    "week - Alanis Morissette"
                 ],
                 "PERSON": [
                     "Fiona Apple",
@@ -1304,7 +1472,18 @@
                     "Andy"
                 ],
                 "WORK_OF_ART": [
-                    "Criminal"
+                    "You Oughta Know",
+                    "Sahy Uhns"
+                ],
+                "ORG": [
+                    "Mattel",
+                    "Energizer",
+                    "Duracell",
+                    "Facebook and Twitter @90scourt",
+                    "Instagram @90s.court"
+                ],
+                "FAC": [
+                    "Patreon"
                 ]
             }
         },
@@ -1337,23 +1516,27 @@
                 ],
                 "ORG": [
                     "Disney",
-                    "Lisa",
+                    "Facebook and Twitter @90scourt",
                     "Instagram @90s.court"
                 ],
                 "DATE": [
-                    "this week",
-                    "1996"
+                    "this week"
                 ],
                 "PERSON": [
                     "Mulan",
                     "Andy",
+                    "Lisa",
                     "Lisa"
                 ],
-                "NORP": [
+                "GPE": [
                     "Pocahontas"
                 ],
                 "WORK_OF_ART": [
-                    "Pepper"
+                    "Pepper",
+                    "Sahy Uhns"
+                ],
+                "FAC": [
+                    "Patreon"
                 ]
             }
         },
@@ -1386,6 +1569,7 @@
                     "Half"
                 ],
                 "DATE": [
+                    "the 90s",
                     "this week"
                 ],
                 "PERSON": [
@@ -1393,10 +1577,18 @@
                     "Lisa",
                     "Andy"
                 ],
+                "WORK_OF_ART": [
+                    "toy Water Talkies",
+                    "Sahy Uhns"
+                ],
                 "GPE": [
                     "the United States of America"
                 ],
+                "FAC": [
+                    "Patreon"
+                ],
                 "ORG": [
+                    "Facebook and Twitter @90scourt",
                     "Instagram @90s.court"
                 ]
             }
@@ -1430,24 +1622,30 @@
                 ],
                 "ORG": [
                     "90s Court",
-                    "Showgirls",
                     "Striptease",
-                    "Lays WOW Chips",
                     "Olestra",
+                    "Facebook and Twitter @90scourt",
                     "Instagram @90s.court"
                 ],
                 "CARDINAL": [
                     "69"
                 ],
                 "PERSON": [
+                    "Showgirls",
                     "Elizabeth Berkley",
                     "Demi Moore",
                     "Lisa",
-                    "Color Me Badd's",
                     "Andy"
                 ],
                 "WORK_OF_ART": [
-                    "I Wanna Sex You Up"
+                    "I Wanna Sex You Up",
+                    "Sahy Uhns"
+                ],
+                "LAW": [
+                    "Lays WOW Chips"
+                ],
+                "FAC": [
+                    "Patreon"
                 ]
             }
         },
@@ -1475,23 +1673,31 @@
             "pubDate": "Mon, 18 Jan 2021 12:15:00 GMT",
             "title": "Episode 68: Magic School Bus vs. Wishbone",
             "entities": {
-                "ORG": [
-                    "Patreon",
-                    "PBS",
-                    "The Magic School Bus",
-                    "Instagram @90s.court"
-                ],
                 "CARDINAL": [
                     "two"
+                ],
+                "ORG": [
+                    "PBS",
+                    "The Magic School Bus",
+                    "SNES",
+                    "Facebook and Twitter @90scourt",
+                    "Instagram @90s.court"
                 ],
                 "DATE": [
                     "the 90s"
                 ],
                 "PERSON": [
+                    "Frizzle",
                     "Shakespeare",
                     "Lisa",
                     "Bill Clinton's",
                     "Andy"
+                ],
+                "FAC": [
+                    "Patreon"
+                ],
+                "WORK_OF_ART": [
+                    "Sahy Uhns"
                 ]
             }
         },
@@ -1521,7 +1727,9 @@
             "entities": {
                 "ORG": [
                     "90s Court",
-                    "A League of Their Own",
+                    "the Rockford Peaches",
+                    "Pokemon",
+                    "Facebook and Twitter @90scourt",
                     "Instagram @90s.court"
                 ],
                 "DATE": [
@@ -1536,9 +1744,17 @@
                     "Cool Runnings",
                     "Geena Davis",
                     "Andy",
-                    "Pokemon",
                     "Kadabra",
                     "Lisa"
+                ],
+                "NORP": [
+                    "Jamaican"
+                ],
+                "FAC": [
+                    "Patreon"
+                ],
+                "WORK_OF_ART": [
+                    "Sahy Uhns"
                 ]
             }
         },
@@ -1566,21 +1782,16 @@
             "entities": {
                 "WORK_OF_ART": [
                     "No Skips Podcast",
-                    "Kid A.\" Episode 2",
                     "No Skips Podcast"
                 ],
-                "ORG": [
-                    "Lisa",
-                    "Radiohead"
-                ],
                 "PERSON": [
-                    "Jack",
-                    "Lisa",
                     "Lisa",
                     "Jack",
                     "Lisa",
+                    "Lisa",
                     "Jack",
-                    "Breaker"
+                    "Lisa",
+                    "Jack"
                 ],
                 "CARDINAL": [
                     "two",
@@ -1588,6 +1799,9 @@
                 ],
                 "GPE": [
                     "Spotify"
+                ],
+                "ORG": [
+                    "Breaker"
                 ],
                 "PRODUCT": [
                     "Twitter"
@@ -1620,7 +1834,7 @@
             "entities": {
                 "ORG": [
                     "90s Court",
-                    "Magic",
+                    "Facebook and Twitter @90scourt",
                     "Instagram @90s.court"
                 ],
                 "DATE": [
@@ -1631,9 +1845,20 @@
                 "CARDINAL": [
                     "two"
                 ],
+                "PRODUCT": [
+                    "Magic the Gathering"
+                ],
                 "PERSON": [
+                    "Pokemon Trading Card Game",
                     "Lisa",
-                    "Andy"
+                    "Andy",
+                    "Shark Bites"
+                ],
+                "FAC": [
+                    "Patreon"
+                ],
+                "WORK_OF_ART": [
+                    "Sahy Uhns"
                 ]
             }
         },
@@ -1669,21 +1894,30 @@
                     "Dec. 31, 1999"
                 ],
                 "CARDINAL": [
-                    "one"
-                ],
-                "ORG": [
-                    "Y2K!",
-                    "Y2K",
-                    "NAPSTER",
-                    "Instagram @90s.court"
+                    "one",
+                    "Y2"
                 ],
                 "TIME": [
                     "11pm",
                     "Tonight"
                 ],
+                "PRODUCT": [
+                    "Y2K"
+                ],
                 "PERSON": [
                     "Jennifer Lopez's",
                     "Andy"
+                ],
+                "ORG": [
+                    "NAPSTER",
+                    "Facebook and Twitter @90scourt",
+                    "Instagram @90s.court"
+                ],
+                "FAC": [
+                    "Patreon"
+                ],
+                "WORK_OF_ART": [
+                    "Sahy Uhns"
                 ]
             }
         },
@@ -1711,27 +1945,36 @@
             "pubDate": "Mon, 21 Dec 2020 13:00:00 GMT",
             "title": "Episode 64: The Santa Clause vs. Jingle All The Way ",
             "entities": {
-                "PERSON": [
-                    "Ho Ho Ho",
-                    "Arnold",
-                    "Turbo Man",
-                    "Tim Allen",
-                    "Andy",
-                    "Michael Flatley"
-                ],
-                "ORG": [
-                    "90s Court",
-                    "Rocko",
-                    "Modern Life's",
-                    "Lisa",
-                    "Instagram @90s.court"
+                "LOC": [
+                    "Ho Ho Ho"
                 ],
                 "DATE": [
                     "this week",
                     "Christmas"
                 ],
                 "WORK_OF_ART": [
-                    "Jingle All the Way"
+                    "The Santa Clause",
+                    "Jingle All the Way",
+                    "Turbo Man",
+                    "Sahy Uhns"
+                ],
+                "PERSON": [
+                    "Arnold",
+                    "Tim Allen",
+                    "Andy",
+                    "Lisa",
+                    "Michael Flatley"
+                ],
+                "GPE": [
+                    "Rocko"
+                ],
+                "ORG": [
+                    "Modern Life's",
+                    "Facebook and Twitter @90scourt",
+                    "Instagram @90s.court"
+                ],
+                "FAC": [
+                    "Patreon"
                 ]
             }
         },
@@ -1760,8 +2003,10 @@
                 "PERSON": [
                     "Lisa"
                 ],
+                "EVENT": [
+                    "the \"Black Case Diaries"
+                ],
                 "WORK_OF_ART": [
-                    "Black Case Diaries",
                     "The 'Not So' Brief Case of Twister"
                 ]
             }
@@ -1797,20 +2042,28 @@
                     "Andy",
                     "Lisa"
                 ],
+                "ORG": [
+                    "90s Court",
+                    "Court",
+                    "Waterworld",
+                    "Facebook and Twitter @90scourt",
+                    "Instagram @90s.court"
+                ],
                 "DATE": [
                     "this week",
                     "week"
-                ],
-                "ORG": [
-                    "New Hosts",
-                    "Court",
-                    "Instagram @90s.court"
                 ],
                 "CARDINAL": [
                     "2"
                 ],
                 "GPE": [
                     "Wolves"
+                ],
+                "FAC": [
+                    "Patreon"
+                ],
+                "WORK_OF_ART": [
+                    "Sahy Uhns"
                 ]
             }
         },
@@ -1840,7 +2093,6 @@
                     "this week",
                     "last weeks",
                     "Next week",
-                    "santa",
                     "next week"
                 ],
                 "PERSON": [
@@ -1885,10 +2137,10 @@
                 ],
                 "ORG": [
                     "90s Court",
-                    "Home Improvement",
                     "Sinclairs",
                     "Taylors",
                     "Battle Trolls",
+                    "Facebook and Twitter @90scourt",
                     "Instagram @90s.court"
                 ],
                 "CARDINAL": [
@@ -1897,7 +2149,14 @@
                 "PERSON": [
                     "Dinosaurs",
                     "Lisa",
+                    "Snapple Lady",
                     "Andy"
+                ],
+                "FAC": [
+                    "Patreon"
+                ],
+                "WORK_OF_ART": [
+                    "Sahy Uhns"
                 ]
             }
         },
@@ -1927,23 +2186,33 @@
             "entities": {
                 "DATE": [
                     "This week",
-                    "two of the decade's",
+                    "decade",
                     "2Pac"
+                ],
+                "CARDINAL": [
+                    "two"
                 ],
                 "PERSON": [
                     "Doubtfire",
                     "Robin Williams",
                     "Jim Carrey",
-                    "kinda hella creepy",
                     "Andy",
+                    "Lisa",
                     "Dre"
                 ],
-                "ORG": [
-                    "Lisa",
-                    "Instagram @90s.court"
+                "NORP": [
+                    "creepy"
                 ],
                 "WORK_OF_ART": [
-                    "California Love"
+                    "California Love",
+                    "Sahy Uhns"
+                ],
+                "FAC": [
+                    "Patreon"
+                ],
+                "ORG": [
+                    "Facebook and Twitter @90scourt",
+                    "Instagram @90s.court"
                 ]
             }
         },
@@ -1978,12 +2247,15 @@
                 "CARDINAL": [
                     "two"
                 ],
+                "FAC": [
+                    "Patreon"
+                ],
                 "ORG": [
-                    "PB Crisps",
+                    "Facebook and Twitter @90scourt",
                     "Instagram @90s.court"
                 ],
-                "PERSON": [
-                    "Dunkaroos"
+                "WORK_OF_ART": [
+                    "Sahy Uhns"
                 ]
             }
         },
@@ -2026,13 +2298,18 @@
                     "Andy",
                     "Andy",
                     "Lisa",
-                    "Moon Shoes"
-                ],
-                "GPE": [
-                    "LA"
+                    "Moon"
                 ],
                 "ORG": [
+                    "LA Lights",
+                    "Facebook and Twitter @90scourt",
                     "Instagram @90s.court"
+                ],
+                "FAC": [
+                    "Patreon"
+                ],
+                "WORK_OF_ART": [
+                    "Sahy Uhns"
                 ]
             }
         },
@@ -2061,7 +2338,9 @@
             "title": "Episode 58: Arachnophobia vs. Anaconda",
             "entities": {
                 "PERSON": [
+                    "Andy",
                     "Lisa",
+                    "Arachnophobia",
                     "John Goodman",
                     "Jennifer Lopez",
                     "Lisa",
@@ -2070,16 +2349,23 @@
                 "DATE": [
                     "this week"
                 ],
-                "GPE": [
-                    "Arachnophobia",
-                    "Anaconda"
-                ],
                 "ORG": [
+                    "90s Court",
                     "Nickelodeon",
+                    "Stick Stickly",
+                    "Facebook and Twitter @90scourt",
                     "Instagram @90s.court"
                 ],
+                "GPE": [
+                    "Anaconda",
+                    "anaconda"
+                ],
                 "WORK_OF_ART": [
-                    "Silent Predators"
+                    "Silent Predators",
+                    "Sahy Uhns"
+                ],
+                "FAC": [
+                    "Patreon"
                 ]
             }
         },
@@ -2108,32 +2394,30 @@
                 "WORK_OF_ART": [
                     "Anomalous Fascination",
                     "Watching Tower",
-                    "Convert Congregation",
-                    "The Healing"
+                    "\"The Healing"
                 ],
-                "DATE": [
+                "CARDINAL": [
                     "90s",
-                    "90s",
-                    "This weeks",
-                    "1977",
-                    "2017"
+                    "1"
                 ],
                 "ORDINAL": [
                     "first"
                 ],
-                "ORG": [
-                    "Andy's Podcast @AnomalyPod",
-                    "Spotify"
+                "PERSON": [
+                    "Andy",
+                    "Blear Moon",
+                    "Sergey Cheremisinov"
                 ],
                 "PRODUCT": [
                     "Twitter"
                 ],
-                "CARDINAL": [
-                    "1"
+                "ORG": [
+                    "Spotify"
                 ],
-                "PERSON": [
-                    "Blear Moon",
-                    "Sergey Cheremisinov"
+                "DATE": [
+                    "This weeks",
+                    "1977",
+                    "2017"
                 ]
             }
         },
@@ -2163,14 +2447,22 @@
             "entities": {
                 "DATE": [
                     "Halloween week",
-                    "the 90s"
-                ],
-                "PRODUCT": [
-                    "Facebook",
-                    "Twitter"
+                    "the 90s",
+                    "90s"
                 ],
                 "ORG": [
+                    "the \"Scary Stories to Tell",
+                    "Facebook and Twitter @90scourt",
                     "Instagram @90s.court"
+                ],
+                "PRODUCT": [
+                    "Twitter"
+                ],
+                "FAC": [
+                    "Patreon"
+                ],
+                "WORK_OF_ART": [
+                    "Sahy Uhns"
                 ]
             }
         },
@@ -2207,14 +2499,23 @@
                 ],
                 "ORG": [
                     "90s Court",
+                    "Facebook and Twitter @90scourt",
                     "Instagram @90s.court"
                 ],
                 "CARDINAL": [
-                    "two"
+                    "two",
+                    "about AtmosFear"
                 ],
                 "PERSON": [
                     "Lisa",
                     "Andy"
+                ],
+                "WORK_OF_ART": [
+                    "Nine Inch Nail's",
+                    "Sahy Uhns"
+                ],
+                "FAC": [
+                    "Patreon"
                 ]
             }
         },
@@ -2247,8 +2548,9 @@
                 ],
                 "ORG": [
                     "90s Court",
-                    "Play-Doh Doctor Drill &",
+                    "Drill &",
                     "Fill",
+                    "Facebook and Twitter @90scourt",
                     "Instagram @90s.court"
                 ],
                 "CARDINAL": [
@@ -2256,11 +2558,15 @@
                 ],
                 "PERSON": [
                     "Jerry Springer",
+                    "Maury Povich",
                     "Andy",
                     "Lisa"
                 ],
-                "LOC": [
-                    "Tech Deck"
+                "FAC": [
+                    "Patreon"
+                ],
+                "WORK_OF_ART": [
+                    "Sahy Uhns"
                 ]
             }
         },
@@ -2291,9 +2597,9 @@
                 "ORG": [
                     "N64",
                     "Super Smash Bros.",
-                    "Samus",
                     "Super Mario Brothers",
                     "Mickey Mouse Club",
+                    "Facebook and Twitter @90scourt",
                     "Instagram @90s.court"
                 ],
                 "DATE": [
@@ -2302,8 +2608,18 @@
                 ],
                 "PERSON": [
                     "Mario Kart",
+                    "Samus",
                     "Andy",
                     "Lisa"
+                ],
+                "CARDINAL": [
+                    "64"
+                ],
+                "FAC": [
+                    "Patreon"
+                ],
+                "WORK_OF_ART": [
+                    "Sahy Uhns"
                 ]
             }
         },
@@ -2336,17 +2652,23 @@
                 ],
                 "ORG": [
                     "90s Court",
-                    "Office Space",
                     "Seal",
-                    "amazing &nbsp;\"Kiss",
+                    "Facebook and Twitter @90scourt",
                     "Instagram @90s.court"
+                ],
+                "FAC": [
+                    "Office Space",
+                    "Patreon"
                 ],
                 "PERSON": [
                     "Andy",
                     "Lisa"
                 ],
-                "GPE": [
+                "LOC": [
                     "Discovery Zone"
+                ],
+                "WORK_OF_ART": [
+                    "Sahy Uhns"
                 ]
             }
         },
@@ -2379,19 +2701,24 @@
                 ],
                 "DATE": [
                     "the decade",
-                    "this week"
+                    "this week",
+                    "Eiffel 65"
                 ],
                 "ORG": [
                     "90s Court",
                     "Microsoft",
+                    "Facebook and Twitter @90scourt",
                     "Instagram @90s.court"
                 ],
                 "PERSON": [
                     "Lisa",
                     "Andy"
                 ],
+                "FAC": [
+                    "Patreon"
+                ],
                 "WORK_OF_ART": [
-                    "Blue"
+                    "Sahy Uhns"
                 ]
             }
         },
@@ -2422,22 +2749,34 @@
                 "DATE": [
                     "this week"
                 ],
+                "ORG": [
+                    "90s Court",
+                    "Richie Rich",
+                    "Facebook and Twitter @90scourt",
+                    "Instagram @90s.court"
+                ],
                 "ORDINAL": [
                     "first"
                 ],
-                "ORG": [
-                    "Patreon",
-                    "Richie Rich",
-                    "Instagram @90s.court"
+                "PRODUCT": [
+                    "Patreon"
                 ],
                 "GPE": [
-                    "Casper",
-                    "Lego Island"
+                    "Casper"
                 ],
                 "PERSON": [
                     "Macaulay Culkin",
                     "Andy",
                     "Lisa"
+                ],
+                "LOC": [
+                    "Lego Island"
+                ],
+                "FAC": [
+                    "Patreon"
+                ],
+                "WORK_OF_ART": [
+                    "Sahy Uhns"
                 ]
             }
         },
@@ -2466,24 +2805,28 @@
             "title": "Episode 50: Jurassic Park vs. Terminator 2: Judgment Day ",
             "entities": {
                 "CARDINAL": [
-                    "two",
-                    "2"
+                    "5",
+                    "two"
                 ],
                 "DATE": [
                     "the decade"
                 ],
-                "FAC": [
-                    "Jurassic Park"
-                ],
                 "PERSON": [
+                    "Park",
                     "Andy",
                     "Lisa"
                 ],
                 "WORK_OF_ART": [
-                    "Theodore Rex"
+                    "Theodore Rex",
+                    "Sahy Uhns"
                 ],
                 "ORG": [
+                    "the Thigh Master",
+                    "Facebook and Twitter @90scourt",
                     "Instagram @90s.court"
+                ],
+                "FAC": [
+                    "Patreon"
                 ]
             }
         },
@@ -2511,6 +2854,9 @@
             "pubDate": "Mon, 31 Aug 2020 12:00:00 GMT",
             "title": "Episode 49: Surge vs. Crystal Pepsi",
             "entities": {
+                "CARDINAL": [
+                    "3"
+                ],
                 "PERSON": [
                     "Surge",
                     "Crystal Pepsi",
@@ -2521,8 +2867,15 @@
                 "DATE": [
                     "the 90s"
                 ],
+                "FAC": [
+                    "Patreon"
+                ],
                 "ORG": [
+                    "Facebook and Twitter @90scourt",
                     "Instagram @90s.court"
+                ],
+                "WORK_OF_ART": [
+                    "Sahy Uhns"
                 ]
             }
         },
@@ -2550,30 +2903,37 @@
             "pubDate": "Mon, 03 Aug 2020 12:00:00 GMT",
             "title": "Episode 48: The Big Lebowski vs. Kingpin ",
             "entities": {
+                "NORP": [
+                    "Polish"
+                ],
                 "CARDINAL": [
                     "4"
                 ],
                 "DATE": [
-                    "this week"
+                    "this week",
+                    "season 2"
                 ],
                 "ORG": [
                     "90s Court",
                     "The Big Lebowski",
-                    "Aqua",
+                    "Facebook and Twitter @90scourt",
                     "Instagram @90s.court"
                 ],
-                "GPE": [
-                    "Kingpin"
+                "PERSON": [
+                    "Kingpin",
+                    "Lisa",
+                    "Aqua",
+                    "Andy"
                 ],
                 "PRODUCT": [
                     "Twitter"
                 ],
-                "PERSON": [
-                    "Lisa",
-                    "Andy"
-                ],
                 "WORK_OF_ART": [
-                    "Barbie Girl"
+                    "Barbie Girl",
+                    "Sahy Uhns"
+                ],
+                "FAC": [
+                    "Patreon"
                 ]
             }
         },
@@ -2601,19 +2961,31 @@
             "pubDate": "Mon, 27 Jul 2020 12:00:00 GMT",
             "title": "Episode 47: Mariah Carey vs. Whitney Houston",
             "entities": {
+                "CARDINAL": [
+                    "Two"
+                ],
                 "DATE": [
                     "the decade",
-                    "this week"
-                ],
-                "ORG": [
-                    "90s Court",
-                    "Lisa",
-                    "Instagram @90s.court"
+                    "this week",
+                    "90s"
                 ],
                 "PERSON": [
                     "Carey",
                     "Whitney Houston",
-                    "Andy"
+                    "Andy",
+                    "Lisa"
+                ],
+                "ORG": [
+                    "SNES",
+                    "Lester the Unlikely",
+                    "Facebook and Twitter @90scourt",
+                    "Instagram @90s.court"
+                ],
+                "FAC": [
+                    "Patreon"
+                ],
+                "WORK_OF_ART": [
+                    "Sahy Uhns"
                 ]
             }
         },
@@ -2656,16 +3028,19 @@
                     "90s Court",
                     "SNL",
                     "SNL",
+                    "Facebook and Twitter @90scourt",
                     "Instagram @90s.court"
                 ],
                 "CARDINAL": [
                     "two"
                 ],
-                "FAC": [
-                    "Dancing Baby"
-                ],
                 "WORK_OF_ART": [
-                    "Lunch Lady Land"
+                    "Dancing Baby",
+                    "Lunch Lady Land",
+                    "Sahy Uhns"
+                ],
+                "FAC": [
+                    "Patreon"
                 ]
             }
         },
@@ -2694,12 +3069,14 @@
             "title": "Episode 45: Hey Arnold vs Recess",
             "entities": {
                 "DATE": [
-                    "This week"
+                    "This week",
+                    "90s",
+                    "the 90s"
                 ],
                 "ORG": [
                     "90s Court",
-                    "McDonald's",
-                    "Lisa",
+                    "McDonald",
+                    "Facebook and Twitter @90scourt",
                     "Instagram @90s.court"
                 ],
                 "CARDINAL": [
@@ -2708,7 +3085,14 @@
                 "PERSON": [
                     "Arnold",
                     "Detweiler",
-                    "Andy"
+                    "Andy",
+                    "Lisa"
+                ],
+                "FAC": [
+                    "Patreon"
+                ],
+                "WORK_OF_ART": [
+                    "Sahy Uhns"
                 ]
             }
         },
@@ -2739,17 +3123,24 @@
                 "CARDINAL": [
                     "90"
                 ],
+                "ORG": [
+                    "Court",
+                    "LFO",
+                    "Facebook and Twitter @90scourt",
+                    "Instagram @90s.court"
+                ],
                 "PERSON": [
-                    "Patch Kids",
+                    "Sour Patch Kids",
+                    "Sour Punch Straws",
                     "Lisa",
                     "Andy"
                 ],
-                "ORG": [
-                    "LFO",
-                    "Instagram @90s.court"
-                ],
                 "WORK_OF_ART": [
-                    "Summer Girls"
+                    "Summer Girls",
+                    "Sahy Uhns"
+                ],
+                "FAC": [
+                    "Patreon"
                 ]
             }
         },
@@ -2790,12 +3181,20 @@
                     "Sega",
                     "Lisa"
                 ],
-                "FAC": [
+                "ORG": [
+                    "Morpheus or Agents J",
+                    "SNES",
+                    "Facebook and Twitter @90scourt",
+                    "Instagram @90s.court"
+                ],
+                "GPE": [
                     "Jurassic Park"
                 ],
-                "ORG": [
-                    "SNES",
-                    "Instagram @90s.court"
+                "FAC": [
+                    "Patreon"
+                ],
+                "WORK_OF_ART": [
+                    "Sahy Uhns"
                 ]
             }
         },
@@ -2825,8 +3224,8 @@
             "entities": {
                 "ORG": [
                     "90s Court",
-                    "Lisa",
                     "Hypercolor",
+                    "Facebook and Twitter @90scourt",
                     "Instagram @90s.court"
                 ],
                 "DATE": [
@@ -2838,8 +3237,17 @@
                 ],
                 "PERSON": [
                     "Spy",
+                    "Waldo",
+                    "Lisa",
                     "Andy",
+                    "Gator Golf",
                     "Lisa"
+                ],
+                "FAC": [
+                    "Patreon"
+                ],
+                "WORK_OF_ART": [
+                    "Sahy Uhns"
                 ]
             }
         },
@@ -2872,21 +3280,28 @@
                 ],
                 "PERSON": [
                     "Robin Williams'",
-                    "Andy"
+                    "Jumanji",
+                    "Andy",
+                    "Lisa"
                 ],
                 "DATE": [
                     "the decade"
                 ],
                 "GPE": [
-                    "Jumanji",
                     "Neverland"
                 ],
                 "NORP": [
                     "Ouija"
                 ],
+                "FAC": [
+                    "Patreon"
+                ],
                 "ORG": [
-                    "Lisa",
+                    "Facebook and Twitter @90scourt",
                     "Instagram @90s.court"
+                ],
+                "WORK_OF_ART": [
+                    "Sahy Uhns"
                 ]
             }
         },
@@ -2918,16 +3333,14 @@
                     "this week",
                     "the 90s"
                 ],
+                "ORG": [
+                    "90s Court",
+                    "Tiny Toons",
+                    "Facebook and Twitter @90scourt",
+                    "Instagram @90s.court"
+                ],
                 "CARDINAL": [
                     "one"
-                ],
-                "GPE": [
-                    "Totino"
-                ],
-                "ORG": [
-                    "Pizza Rolls",
-                    "Tiny Toons",
-                    "Instagram @90s.court"
                 ],
                 "PERSON": [
                     "Bagel Bites",
@@ -2936,7 +3349,11 @@
                     "Andy"
                 ],
                 "WORK_OF_ART": [
-                    "Black Hole Sun"
+                    "Black Hole Sun",
+                    "Sahy Uhns"
+                ],
+                "FAC": [
+                    "Patreon"
                 ]
             }
         },
@@ -2967,24 +3384,27 @@
                 "ORG": [
                     "MTV",
                     "90s Court",
-                    "MASH",
-                    "Lisa",
+                    "The Real World",
+                    "Facebook and Twitter @90scourt",
                     "Instagram @90s.court"
                 ],
                 "DATE": [
                     "week"
                 ],
-                "WORK_OF_ART": [
-                    "The Real World",
-                    "The Rain"
-                ],
-                "PERSON": [
-                    "Road Rules",
-                    "Andy",
-                    "Missy Elliott's"
-                ],
                 "GPE": [
                     "RV"
+                ],
+                "PERSON": [
+                    "Andy",
+                    "Lisa",
+                    "Missy Elliott's"
+                ],
+                "WORK_OF_ART": [
+                    "The Rain",
+                    "Sahy Uhns"
+                ],
+                "FAC": [
+                    "Patreon"
                 ]
             }
         },
@@ -3019,19 +3439,28 @@
                 "CARDINAL": [
                     "two"
                 ],
-                "PERSON": [
-                    "Encino Man vs.",
+                "ORG": [
+                    "Pauly Shore's",
                     "Bio-Dome",
+                    "Facebook and Twitter @90scourt",
+                    "Instagram @90s.court"
+                ],
+                "PERSON": [
+                    "Encino Man",
+                    "Blockbuster",
                     "Lisa",
                     "Joe Boxer",
-                    "Andy",
-                    "Bubble Tape"
+                    "Andy"
                 ],
                 "TIME": [
                     "night"
                 ],
-                "ORG": [
-                    "Instagram @90s.court"
+                "WORK_OF_ART": [
+                    "Bubble Tape",
+                    "Sahy Uhns"
+                ],
+                "FAC": [
+                    "Patreon"
                 ]
             }
         },
@@ -3062,17 +3491,26 @@
                 "DATE": [
                     "this week"
                 ],
-                "ORG": [
-                    "Super Mario World",
-                    "Yoshi",
-                    "Instagram @90s.court"
-                ],
                 "PERSON": [
+                    "Super Mario World",
+                    "Hedgehog",
+                    "Yoshi",
                     "Andy",
                     "Lisa"
                 ],
+                "ORG": [
+                    "90s Court",
+                    "Facebook and Twitter @90scourt",
+                    "Instagram @90s.court"
+                ],
+                "LAW": [
+                    "the \"Pure Moods"
+                ],
+                "FAC": [
+                    "Patreon"
+                ],
                 "WORK_OF_ART": [
-                    "Pure Moods"
+                    "Sahy Uhns"
                 ]
             }
         },
@@ -3105,24 +3543,29 @@
                 ],
                 "ORG": [
                     "90s Court",
+                    "Jolt",
+                    "Facebook and Twitter @90scourt",
                     "Instagram @90s.court"
                 ],
                 "CARDINAL": [
                     "Two"
                 ],
                 "WORK_OF_ART": [
-                    "The Little Mermaid vs. Beauty and the Beast",
-                    "Rude Jude"
+                    "Beauty and the Beast",
+                    "Rude Jude",
+                    "Sahy Uhns"
+                ],
+                "GPE": [
+                    "Belle"
                 ],
                 "PERSON": [
-                    "Ariel",
                     "Eric",
                     "Lisa",
                     "Jenny Jones Show's",
                     "Andy"
                 ],
-                "GPE": [
-                    "Belle"
+                "FAC": [
+                    "Patreon"
                 ]
             }
         },
@@ -3153,18 +3596,24 @@
                 "DATE": [
                     "this week"
                 ],
-                "ORG": [
-                    "Patreon",
-                    "Instagram @90s.court"
+                "PRODUCT": [
+                    "Patreon"
                 ],
                 "WORK_OF_ART": [
-                    "The Goo Goo Dolls"
+                    "The Goo Goo Dolls and Oasis",
+                    "Sahy Uhns"
                 ],
                 "PERSON": [
-                    "Oasis",
                     "Andy",
                     "Balzac",
                     "Lisa"
+                ],
+                "FAC": [
+                    "Patreon"
+                ],
+                "ORG": [
+                    "Facebook and Twitter @90scourt",
+                    "Instagram @90s.court"
                 ]
             }
         },
@@ -3199,7 +3648,7 @@
                 "ORG": [
                     "Court",
                     "Bug's Life",
-                    "Animal Crossing",
+                    "Facebook and Twitter @90scourt",
                     "Instagram @90s.court"
                 ],
                 "CARDINAL": [
@@ -3210,7 +3659,14 @@
                 ],
                 "PERSON": [
                     "Antz",
+                    "Animal Crossing",
                     "Andy"
+                ],
+                "FAC": [
+                    "Patreon"
+                ],
+                "WORK_OF_ART": [
+                    "Sahy Uhns"
                 ]
             }
         },
@@ -3245,15 +3701,22 @@
                 "PERSON": [
                     "Barney",
                     "Team Tinky Winky",
-                    "Chex Cereal",
                     "Lisa",
                     "Mary-Kate",
                     "Ashley Olsen"
                 ],
+                "PRODUCT": [
+                    "Chex Cereal"
+                ],
                 "WORK_OF_ART": [
-                    "Chex Quest"
+                    "Chex Quest",
+                    "Sahy Uhns"
+                ],
+                "FAC": [
+                    "Patreon"
                 ],
                 "ORG": [
+                    "Facebook and Twitter @90scourt",
                     "Instagram @90s.court"
                 ]
             }
@@ -3284,13 +3747,15 @@
             "entities": {
                 "ORG": [
                     "90s Court",
+                    "Fight Club",
                     "The Bloodhound Gang's",
+                    "Facebook and Twitter @90scourt",
                     "Instagram @90s.court"
                 ],
                 "DATE": [
                     "this week",
                     "the decade",
-                    "90s"
+                    "90s quiz"
                 ],
                 "PERSON": [
                     "Lisa",
@@ -3298,7 +3763,11 @@
                     "Lisa"
                 ],
                 "WORK_OF_ART": [
-                    "The Bad Touch"
+                    "The Bad Touch",
+                    "Sahy Uhns"
+                ],
+                "FAC": [
+                    "Patreon"
                 ]
             }
         },
@@ -3326,21 +3795,36 @@
             "pubDate": "Mon, 30 Mar 2020 12:00:00 GMT",
             "title": "Episode 31: Friends vs. Seinfeld",
             "entities": {
-                "CARDINAL": [
-                    "two"
-                ],
                 "PERSON": [
-                    "Friends",
+                    "Episode",
                     "Seinfeld",
                     "Andy",
                     "Lisa Talks",
                     "Weezer"
                 ],
-                "WORK_OF_ART": [
-                    "Super Mario All Stars"
+                "DATE": [
+                    "31"
+                ],
+                "CARDINAL": [
+                    "two"
                 ],
                 "ORG": [
+                    "SNES",
+                    "Facebook and Twitter @90scourt",
                     "Instagram @90s.court"
+                ],
+                "WORK_OF_ART": [
+                    "Super Mario All Stars",
+                    "Sahy Uhns"
+                ],
+                "PRODUCT": [
+                    "Windows 95"
+                ],
+                "GPE": [
+                    "Hover!"
+                ],
+                "FAC": [
+                    "Patreon"
                 ]
             }
         },
@@ -3377,13 +3861,25 @@
                 ],
                 "PERSON": [
                     "Kazaam",
+                    "Spice World",
+                    "Shaq",
                     "Andy",
                     "Lisa"
                 ],
                 "ORG": [
-                    "Spice World",
-                    "the Tiger Electronics",
+                    "Go-Gurt",
+                    "Tiger Electronics",
+                    "Facebook and Twitter @90scourt",
                     "Instagram @90s.court"
+                ],
+                "TIME": [
+                    "2-XL"
+                ],
+                "FAC": [
+                    "Patreon"
+                ],
+                "WORK_OF_ART": [
+                    "Sahy Uhns"
                 ]
             }
         },
@@ -3419,7 +3915,6 @@
                     "two"
                 ],
                 "PERSON": [
-                    "Free Willy",
                     "Homeward Bound",
                     "Andy",
                     "Lisa"
@@ -3427,7 +3922,14 @@
                 "ORG": [
                     "Nintendo",
                     "Major League Baseball",
+                    "Facebook and Twitter @90scourt",
                     "Instagram @90s.court"
+                ],
+                "FAC": [
+                    "Patreon"
+                ],
+                "WORK_OF_ART": [
+                    "Sahy Uhns"
                 ]
             }
         },
@@ -3457,22 +3959,32 @@
             "entities": {
                 "ORG": [
                     "90s Court",
-                    "Resident Evil",
-                    "the Teenage Mutant Ninja Turtles \"Coming Out of Their Shells",
+                    "Facebook and Twitter @90scourt",
                     "Instagram @90s.court"
                 ],
                 "CARDINAL": [
-                    "two"
-                ],
-                "DATE": [
-                    "90s",
-                    "the 90s"
+                    "two",
+                    "90s"
                 ],
                 "PERSON": [
+                    "Resident Evil",
                     "Tomb Raider",
                     "Lisa",
                     "Andy",
                     "Aaron Paul's"
+                ],
+                "WORK_OF_ART": [
+                    "Coming Out of Their Shells",
+                    "Sahy Uhns"
+                ],
+                "MONEY": [
+                    "1"
+                ],
+                "DATE": [
+                    "the 90s"
+                ],
+                "FAC": [
+                    "Patreon"
                 ]
             }
         },
@@ -3508,14 +4020,21 @@
                 "CARDINAL": [
                     "two"
                 ],
-                "PERSON": [
-                    "Backstreet Boys",
-                    "TMNT Turtle Pies"
-                ],
                 "ORG": [
                     "Nintendo",
+                    "the Virtual Boy",
                     "Hostess",
+                    "Facebook and Twitter @90scourt",
                     "Instagram @90s.court"
+                ],
+                "PERSON": [
+                    "TMNT Turtle Pies"
+                ],
+                "FAC": [
+                    "Patreon"
+                ],
+                "WORK_OF_ART": [
+                    "Sahy Uhns"
                 ]
             }
         },
@@ -3543,10 +4062,14 @@
             "pubDate": "Mon, 24 Feb 2020 13:00:00 GMT",
             "title": "Episode 26: Rugrats vs. Doug",
             "entities": {
+                "DATE": [
+                    "Season 2"
+                ],
                 "CARDINAL": [
                     "two"
                 ],
                 "PERSON": [
+                    "Nicktoons",
                     "Rugrats",
                     "Doug",
                     "Tommy Pickles",
@@ -3554,7 +4077,14 @@
                 ],
                 "ORG": [
                     "the Squiggle Wiggle Writer",
+                    "Facebook and Twitter @90scourt",
                     "Instagram @90s.court"
+                ],
+                "FAC": [
+                    "Patreon"
+                ],
+                "WORK_OF_ART": [
+                    "Sahy Uhns"
                 ]
             }
         },
@@ -3582,18 +4112,21 @@
             "pubDate": "Mon, 03 Feb 2020 12:30:00 GMT",
             "title": "Episode 25: Sleepless in Seattle vs. You've Got Mail",
             "entities": {
+                "CARDINAL": [
+                    "1",
+                    "two"
+                ],
                 "ORG": [
                     "90s Court",
+                    "Facebook and Twitter @90scourt",
                     "Instagram @90s.court"
-                ],
-                "CARDINAL": [
-                    "two"
                 ],
                 "GPE": [
                     "Seattle"
                 ],
                 "PERSON": [
                     "Tom Hanks",
+                    "Meg Ryan",
                     "Lisa",
                     "Michael Jackson",
                     "Lisa Marie Presley",
@@ -3601,6 +4134,12 @@
                 ],
                 "DATE": [
                     "the 90s"
+                ],
+                "FAC": [
+                    "Patreon"
+                ],
+                "WORK_OF_ART": [
+                    "Sahy Uhns"
                 ]
             }
         },
@@ -3628,20 +4167,32 @@
             "pubDate": "Mon, 27 Jan 2020 12:30:00 GMT",
             "title": "Episode 24: Boy Meets World vs. The Adventures of Pete and Pete",
             "entities": {
+                "ORG": [
+                    "90s Court",
+                    "Boy Meets World",
+                    "Facebook and Twitter @90scourt",
+                    "Instagram @90s.court"
+                ],
                 "DATE": [
                     "this week",
-                    "90s"
+                    "the 90s"
                 ],
                 "CARDINAL": [
-                    "two"
+                    "two",
+                    "90s"
                 ],
                 "PERSON": [
+                    "Adventures",
+                    "Pete",
                     "Pete",
                     "Andy",
                     "Lisa quizzes Andy"
                 ],
-                "ORG": [
-                    "Instagram @90s.court"
+                "FAC": [
+                    "Patreon"
+                ],
+                "WORK_OF_ART": [
+                    "Sahy Uhns"
                 ]
             }
         },
@@ -3671,18 +4222,26 @@
             "entities": {
                 "ORG": [
                     "90s Court",
+                    "Pokemon",
+                    "90s Court",
                     "Pokemon Red & Blue",
+                    "Pokemon Yellow",
+                    "Gameboy",
                     "VH1",
+                    "Facebook and Twitter @90scourt",
                     "Instagram @90s.court"
                 ],
                 "PERSON": [
-                    "Pokemon Yellow",
                     "Lisa",
                     "Andy"
                 ],
                 "WORK_OF_ART": [
-                    "Gameboy",
-                    "Pop Up Video"
+                    "Pop Up Video",
+                    "Hampsterdance",
+                    "Sahy Uhns"
+                ],
+                "FAC": [
+                    "Patreon"
                 ]
             }
         },
@@ -3710,7 +4269,7 @@
             "pubDate": "Mon, 13 Jan 2020 13:00:00 GMT",
             "title": "Episode 22: The Waterboy vs. Beverly Hills Ninja",
             "entities": {
-                "DATE": [
+                "CARDINAL": [
                     "90s"
                 ],
                 "PERSON": [
@@ -3725,10 +4284,14 @@
                 ],
                 "ORG": [
                     "Lemmings",
+                    "Facebook and Twitter @90scourt",
                     "Instagram @90s.court"
                 ],
+                "FAC": [
+                    "Patreon"
+                ],
                 "WORK_OF_ART": [
-                    "a Hard Body"
+                    "Sahy Uhns"
                 ]
             }
         },
@@ -3762,18 +4325,25 @@
                     "the 90s",
                     "90s"
                 ],
-                "ORG": [
-                    "90s Court",
-                    "Clarissa Explains",
-                    "Lilith Fair",
-                    "Instagram @90s.court"
+                "CARDINAL": [
+                    "90s"
                 ],
-                "LAW": [
-                    "The Secret World of Alex Mack"
+                "WORK_OF_ART": [
+                    "The Secret World of",
+                    "Sahy Uhns"
                 ],
                 "PERSON": [
+                    "Alex Mack",
                     "Andy",
                     "Lisa"
+                ],
+                "ORG": [
+                    "Lilith Fair",
+                    "Facebook and Twitter @90scourt",
+                    "Instagram @90s.court"
+                ],
+                "FAC": [
+                    "Patreon"
                 ]
             }
         },
@@ -3802,18 +4372,22 @@
             "entities": {
                 "ORG": [
                     "90s Court",
-                    "Instagram @90s.court"
+                    "Facebook and Twitter @90scourt",
+                    "Instagram @90s.court",
+                    "Broke for Free"
                 ],
                 "DATE": [
                     "2019",
                     "year",
                     "2020"
                 ],
-                "PRODUCT": [
+                "FAC": [
+                    "Patreon",
                     "Patreon"
                 ],
                 "WORK_OF_ART": [
-                    "Night Owl"
+                    "Sahy Uhns",
+                    "\"Night Owl"
                 ]
             }
         },
@@ -3858,11 +4432,12 @@
                 "NORP": [
                     "American"
                 ],
-                "ORG": [
-                    "Instagram @90s.court"
+                "FAC": [
+                    "Patreon"
                 ],
-                "WORK_OF_ART": [
-                    "Hotshot"
+                "ORG": [
+                    "Facebook and Twitter @90scourt",
+                    "Instagram @90s.court"
                 ]
             }
         },
@@ -3890,16 +4465,16 @@
             "pubDate": "Mon, 16 Dec 2019 13:00:00 GMT",
             "title": "Episode 20: Home Alone vs. Home Alone 2",
             "entities": {
+                "GPE": [
+                    "Ahhhhhh",
+                    "New York",
+                    "Talkboy"
+                ],
                 "DATE": [
                     "this week"
                 ],
                 "CARDINAL": [
-                    "two",
-                    "2"
-                ],
-                "GPE": [
-                    "New York",
-                    "Talkboy"
+                    "two"
                 ],
                 "PERSON": [
                     "Kevin McCallister",
@@ -3908,7 +4483,14 @@
                 ],
                 "ORG": [
                     "Trans-Siberian Orchestra",
+                    "Facebook and Twitter @90scourt",
                     "Instagram @90s.court"
+                ],
+                "FAC": [
+                    "Patreon"
+                ],
+                "WORK_OF_ART": [
+                    "Sahy Uhns"
                 ]
             }
         },
@@ -3936,6 +4518,11 @@
             "pubDate": "Mon, 09 Dec 2019 12:57:51 GMT",
             "title": "Episode 19: Super Mario 64 vs. Star Fox 64",
             "entities": {
+                "ORG": [
+                    "position - 90s Court",
+                    "Super Fox 64",
+                    "Sony"
+                ],
                 "DATE": [
                     "this week",
                     "years",
@@ -3945,16 +4532,15 @@
                 "CARDINAL": [
                     "two"
                 ],
-                "ORG": [
-                    "Super Fox 64",
-                    "Sony Walkman"
+                "PRODUCT": [
+                    "Walkman"
                 ],
                 "PERSON": [
                     "Lisa",
                     "Korn",
                     "Andy"
                 ],
-                "GPE": [
+                "FAC": [
                     "Fireball Island"
                 ]
             }
@@ -3987,21 +4573,26 @@
                     "this week",
                     "the 90s"
                 ],
+                "PERSON": [
+                    "Screech",
+                    "Andy",
+                    "Lisa"
+                ],
                 "ORG": [
                     "Family Matters",
                     "Bell",
                     "Mario Party",
                     "N64",
-                    "Lisa",
                     "Bell",
+                    "Facebook and Twitter @90scourt",
                     "Instagram @90s.court"
                 ],
                 "CARDINAL": [
                     "one",
                     "two"
                 ],
-                "PERSON": [
-                    "Andy"
+                "WORK_OF_ART": [
+                    "Sahy Uhns"
                 ]
             }
         },
@@ -4031,16 +4622,22 @@
             "entities": {
                 "ORG": [
                     "Disney",
-                    "Aladdin",
                     "Instagram @90s.court"
                 ],
+                "CARDINAL": [
+                    "90s"
+                ],
                 "PERSON": [
+                    "Aladdin",
                     "Lisa",
                     "Gymnast Barbie",
                     "Andy"
                 ],
-                "DATE": [
-                    "90s"
+                "QUANTITY": [
+                    "90s markers"
+                ],
+                "WORK_OF_ART": [
+                    "Sahy Uhns"
                 ]
             }
         },
@@ -4070,25 +4667,27 @@
             "entities": {
                 "ORG": [
                     "90s Court",
-                    "Doubt",
-                    "Sock Em Boppers - er",
                     "Instagram @90s.court"
                 ],
                 "DATE": [
                     "this week",
                     "the 90s",
-                    "today",
-                    "90s"
+                    "today"
                 ],
                 "CARDINAL": [
-                    "two"
+                    "two",
+                    "90s"
+                ],
+                "PERSON": [
+                    "Ace of Base's",
+                    "Lisa",
+                    "Andy",
+                    "Sock Em Boppers - er"
                 ],
                 "WORK_OF_ART": [
                     "The Sign",
-                    "Socker Boppers"
-                ],
-                "PERSON": [
-                    "Andy"
+                    "Don't Speak",
+                    "Sahy Uhns"
                 ]
             }
         },
@@ -4117,18 +4716,22 @@
             "title": "Episode 15: Spencers vs. Hot Topic",
             "entities": {
                 "DATE": [
-                    "This week"
+                    "This week",
+                    "90s"
                 ],
                 "ORG": [
                     "Hot Topic",
                     "Hot Topic",
-                    "Spencers?",
+                    "Kiss / Marry / Kill",
+                    "Bart",
                     "Nightmare",
                     "Instagram @90s.court"
                 ],
                 "PERSON": [
-                    "Andy",
-                    "Bart"
+                    "Andy"
+                ],
+                "WORK_OF_ART": [
+                    "Sahy Uhns"
                 ]
             }
         },
@@ -4163,7 +4766,6 @@
                     "Halloween",
                     "This week",
                     "1990",
-                    "scary 90s",
                     "Halloween"
                 ],
                 "ORG": [
@@ -4175,7 +4777,8 @@
                     "Stephen King's"
                 ],
                 "CARDINAL": [
-                    "Two"
+                    "Two",
+                    "90s"
                 ]
             }
         },
@@ -4210,21 +4813,17 @@
                 ],
                 "ORG": [
                     "90s Court",
+                    "Edward Scissorhands",
                     "Nightmare",
                     "Instagram @90s.court"
                 ],
-                "FAC": [
-                    "Edward Scissorhands"
-                ],
                 "PERSON": [
                     "Tim Burton",
+                    "Are You Afraid",
                     "Lisa quizzes Andy"
                 ],
-                "CARDINAL": [
-                    "one"
-                ],
                 "WORK_OF_ART": [
-                    "Are You Afraid of the Dark"
+                    "Sahy Uhns"
                 ]
             }
         },
@@ -4255,12 +4854,20 @@
                 ],
                 "PERSON": [
                     "Jump",
+                    "Lisa",
                     "Andy",
                     "Lisa",
                     "Andy"
                 ],
+                "CARDINAL": [
+                    "6000",
+                    "90s"
+                ],
+                "WORK_OF_ART": [
+                    "Facebook and Twitter @90sCourt",
+                    "Sahy Uhns"
+                ],
                 "ORG": [
-                    "the Incredible Crash Dummies",
                     "Instagram @90s.court"
                 ]
             }
@@ -4297,19 +4904,17 @@
                     "Michael Myers",
                     "Mike Myers",
                     "Austin Powers",
+                    "Wayne",
                     "Lisa",
                     "Andy",
                     "Andy"
                 ],
                 "ORG": [
-                    "Wayne's World",
+                    "Incubus",
                     "Instagram @90s.court"
                 ],
-                "GPE": [
-                    "Incubus"
-                ],
                 "WORK_OF_ART": [
-                    "Make Yourself"
+                    "Sahy Uhns"
                 ]
             }
         },
@@ -4346,12 +4951,18 @@
                 ],
                 "ORG": [
                     "Nick Toons",
-                    "Rocko",
                     "Modern Life",
+                    "Facebook and Twitter @90scourt",
                     "Instagram @90s.court"
                 ],
-                "NORP": [
+                "GPE": [
+                    "Rocko"
+                ],
+                "PERSON": [
                     "Stimpy"
+                ],
+                "WORK_OF_ART": [
+                    "Sahy Uhns"
                 ]
             }
         },
@@ -4387,17 +4998,20 @@
                     "the 90s"
                 ],
                 "PERSON": [
-                    "Limp Bizkit",
+                    "Creed",
                     "Andy",
                     "Lisa",
                     "Lisa",
-                    "Andy",
-                    "Pokemon"
+                    "Andy"
                 ],
                 "ORG": [
+                    "Pokemon",
                     "Pokemon Snap",
                     "N64",
                     "Instagram @90s.court"
+                ],
+                "WORK_OF_ART": [
+                    "Sahy Uhns"
                 ]
             }
         },
@@ -4427,28 +5041,27 @@
             "entities": {
                 "DATE": [
                     "this week",
+                    "90s",
                     "1997"
                 ],
                 "CARDINAL": [
-                    "one",
                     "two",
+                    "90s",
                     "two"
                 ],
-                "ORDINAL": [
-                    "First"
-                ],
                 "PERSON": [
-                    "90s",
-                    "Trapper Keepers",
-                    "90s",
                     "Lisa Frank",
                     "Andy",
                     "Lisa",
                     "Marilyn Manson's"
                 ],
                 "ORG": [
-                    "Beautiful People",
+                    "Puppy Surprise",
+                    "Buckwild Products",
                     "Instagram @90s.court"
+                ],
+                "WORK_OF_ART": [
+                    "Sahy Uhns"
                 ]
             }
         },
@@ -4479,15 +5092,20 @@
                 "DATE": [
                     "all day"
                 ],
-                "PERSON": [
-                    "Teenage Mutant",
-                    "Lisa",
-                    "Macarena",
-                    "Andy",
-                    "Orbits"
-                ],
                 "ORG": [
+                    "the Mighty Morphin Power Rangers",
+                    "Kiss / Marry / Kill",
                     "Instagram @90s.court"
+                ],
+                "PERSON": [
+                    "Lisa",
+                    "Andy"
+                ],
+                "GPE": [
+                    "Macarena"
+                ],
+                "WORK_OF_ART": [
+                    "Sahy Uhns"
                 ]
             }
         },
@@ -4515,14 +5133,11 @@
             "pubDate": "Mon, 09 Sep 2019 14:14:25 GMT",
             "title": "Episode 7: Leonardo DiCaprio in Titanic vs Leonardo DiCaprio in Romeo + Juliet",
             "entities": {
-                "DATE": [
-                    "90s",
-                    "90s - Titanic and"
-                ],
                 "ORG": [
                     "LEO",
-                    "Warped Tour",
+                    "Tour",
                     "Kiss / Murder / Kill",
+                    "Facebook and Twitter @90scourt",
                     "Instagram @90s.court"
                 ],
                 "CARDINAL": [
@@ -4534,10 +5149,11 @@
                     "Lisa",
                     "Leonardo DiCaprio",
                     "Lisa",
-                    "Andy"
-                ],
-                "GPE": [
+                    "Andy",
                     "Kooshy"
+                ],
+                "WORK_OF_ART": [
+                    "Sahy Uhns"
                 ]
             }
         },
@@ -4563,14 +5179,19 @@
             "pubDate": "Sat, 07 Sep 2019 19:07:02 GMT",
             "title": "Recess Minisode - Sept. 7, 2019",
             "entities": {
-                "ORG": [
-                    "BACK",
-                    "SEGA",
-                    "Instagram @90s.court"
+                "WORK_OF_ART": [
+                    "Where in the World is Carmen Sandiego",
+                    "Facebook and Twitter @90sCourt",
+                    "Sahy Uhns"
                 ],
                 "PERSON": [
                     "Andy",
                     "Andy"
+                ],
+                "ORG": [
+                    "Ecco the Dolphin",
+                    "SEGA",
+                    "Instagram @90s.court"
                 ]
             }
         },
@@ -4599,20 +5220,25 @@
             "title": "Episode 6: Street Fighter II vs. Mortal Kombat",
             "entities": {
                 "ORG": [
-                    "90s Court"
+                    "90s Court",
+                    "Facebook and Twitter @90scourt"
                 ],
                 "CARDINAL": [
                     "two"
                 ],
                 "PERSON": [
-                    "Street Fighter II",
-                    "Mortal Kombat"
+                    "Mortal Kombat",
+                    "Instagram @90s.court.&nbsp;</p>"
                 ],
                 "PRODUCT": [
-                    "Twitter"
+                    "Twitter",
+                    "Beanie Babies"
                 ],
                 "NORP": [
                     "creepy"
+                ],
+                "WORK_OF_ART": [
+                    "Sahy Uhns"
                 ]
             }
         },
@@ -4640,17 +5266,19 @@
             "pubDate": "Mon, 26 Aug 2019 02:38:53 GMT",
             "title": "Episode 5: Space Jam vs. The Mighty Ducks",
             "entities": {
-                "PERSON": [
-                    "Space Jam"
-                ],
-                "ORG": [
-                    "The Mighty Ducks",
-                    "Nickelodeon",
-                    "Back 2 Court",
-                    "Instagram @90s.court"
-                ],
                 "DATE": [
                     "this week"
+                ],
+                "ORG": [
+                    "Nickelodeon",
+                    "Instagram @90s.court"
+                ],
+                "CARDINAL": [
+                    "2"
+                ],
+                "WORK_OF_ART": [
+                    "Facebook and Twitter @90scourt",
+                    "Sahy Uhns"
                 ]
             }
         },
@@ -4680,20 +5308,23 @@
             "entities": {
                 "ORG": [
                     "90s Court",
-                    "Donahue, Andy",
+                    "The Smashing Pumpkins",
                     "Instagram @90s.court"
                 ],
                 "CARDINAL": [
-                    "two"
-                ],
-                "DATE": [
+                    "two",
                     "90s"
                 ],
                 "PERSON": [
-                    "Nirvana"
+                    "Nirvana",
+                    "Andy"
+                ],
+                "GPE": [
+                    "Donahue"
                 ],
                 "WORK_OF_ART": [
-                    "The Smashing Pumpkins"
+                    "Facebook and Twitter @90sCourt",
+                    "Sahy Uhns"
                 ]
             }
         },
@@ -4723,11 +5354,15 @@
                     "Andy",
                     "Lisa"
                 ],
-                "DATE": [
-                    "old 90s"
+                "CARDINAL": [
+                    "90s"
                 ],
                 "LOC": [
-                    "Earth Worm"
+                    "Earth Worm Jim"
+                ],
+                "WORK_OF_ART": [
+                    "Facebook and Twitter @90sCourt",
+                    "Sahy Uhns"
                 ],
                 "ORG": [
                     "Instagram @90s.court"
@@ -4762,15 +5397,17 @@
                     "3",
                     "90s.&nbsp;</p"
                 ],
-                "ORG": [
-                    "Sandlot"
-                ],
                 "PERSON": [
+                    "Sandlot",
                     "Rookie",
                     "Singled Out"
                 ],
-                "DATE": [
-                    "the Year"
+                "WORK_OF_ART": [
+                    "Kiss / Marry / Kill",
+                    "Sahy Uhns"
+                ],
+                "ORG": [
+                    "Facebook @90sCourt"
                 ]
             }
         },
@@ -4797,8 +5434,10 @@
             "title": "Recess Minisode - August 8, 2019",
             "entities": {
                 "ORG": [
-                    "OHH",
-                    "Royal Rumble"
+                    "RECESS",
+                    "OHH YEAHHH",
+                    "Royal Rumble",
+                    "Facebook @90sCourt"
                 ],
                 "PERSON": [
                     "Lisa",
@@ -4806,6 +5445,9 @@
                 ],
                 "DATE": [
                     "the 90s"
+                ],
+                "WORK_OF_ART": [
+                    "Sahy Uhns"
                 ]
             }
         },
@@ -4836,15 +5478,21 @@
                 "CARDINAL": [
                     "2"
                 ],
-                "GPE": [
-                    "Tamagotchi"
-                ],
                 "PERSON": [
-                    "Furby",
-                    "Moe"
+                    "Tamagotchi",
+                    "Furby"
                 ],
                 "DATE": [
                     "the 90s"
+                ],
+                "ORG": [
+                    "Kiss / Marry / Kill",
+                    "Facebook @90sCourt"
+                ],
+                "WORK_OF_ART": [
+                    "Who Would Win",
+                    "between Moe and Krusty the Clown",
+                    "Sahy Uhns"
                 ],
                 "ORDINAL": [
                     "SECOND"
@@ -4875,8 +5523,10 @@
             "pubDate": "Fri, 02 Aug 2019 02:09:46 GMT",
             "title": "Recess Minisode - August 1, 2019",
             "entities": {
+                "CARDINAL": [
+                    "90s"
+                ],
                 "DATE": [
-                    "90s",
                     "mid-week"
                 ],
                 "PERSON": [
@@ -4885,7 +5535,11 @@
                     "Cleo"
                 ],
                 "ORG": [
+                    "SNES",
                     "Super Mario RPG"
+                ],
+                "WORK_OF_ART": [
+                    "Sahy Uhns"
                 ]
             }
         },
@@ -4913,16 +5567,18 @@
             "pubDate": "Tue, 30 Jul 2019 01:19:49 GMT",
             "title": "Episode 1: Independence Day vs. Twister",
             "entities": {
+                "ORG": [
+                    "the Pilot Episode",
+                    "90s Court",
+                    "Facebook @90sCourt"
+                ],
                 "PERSON": [
                     "Lisa",
                     "Andy",
                     "Bill Paxton"
                 ],
-                "EVENT": [
-                    "Independence Day"
-                ],
-                "ORG": [
-                    "Killer Cereals"
+                "WORK_OF_ART": [
+                    "Sahy Uhns"
                 ]
             }
         }
@@ -4947,7 +5603,7 @@
         "summary": "Ever wonder who would win in court: Troll Dolls vs Furbies? Dunkaroos vs Gushers? Celine Dion vs Mariah Carey? Neither have we. UNTIL NOW. Two most excellent aspects of the 90s face off in court and have their sides presented by two experts: children of the 90s. Also featuring lots of other 90s nostalgic nonsense. "
     },
     "language": "en",
-    "lastBuildDate": "Tue, 19 Apr 2022 16:39:10 GMT",
+    "lastBuildDate": "Wed, 25 May 2022 08:42:10 GMT",
     "link": "Instagram.com/90s.court",
     "paginationLinks": {
         "self": "https://anchor.fm/s/cdff3ac/podcast/rss"
@@ -4962,22 +5618,19 @@
     ],
     "title": "90s Court",
     "entities": {
-        "ORG": [
-            "Furbies"
-        ],
         "PERSON": [
-            "Dunkaroos",
+            "Troll Dolls",
             "Celine Dion",
             "Carey"
         ],
         "CARDINAL": [
             "Two",
-            "two"
+            "90s",
+            "two",
+            "90s"
         ],
         "DATE": [
-            "90s",
-            "the 90s",
-            "90s"
+            "the 90s"
         ]
     }
 }

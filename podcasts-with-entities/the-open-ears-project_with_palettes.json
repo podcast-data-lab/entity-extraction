@@ -46,19 +46,20 @@
                     "Tom Hiddleston",
                     "Shakespeare",
                     "John Le Carr\u00e9",
+                    "Loki",
                     "Harold Pinter\u2019s"
                 ],
                 "CARDINAL": [
                     "about one"
                 ],
-                "ORG": [
-                    "VHS",
+                "PRODUCT": [
                     "Nutcracker"
                 ],
                 "GPE": [
                     "Tchaikovsky"
                 ],
                 "NORP": [
+                    "Russian",
                     "British"
                 ],
                 "FAC": [
@@ -108,30 +109,30 @@
             "pubDate": "Wed, 09 Oct 2019 12:00:00 -0400",
             "title": "30. Esther Perel on Peace\r\n",
             "entities": {
-                "WORK_OF_ART": [
-                    "The Open Ears Project"
+                "DATE": [
+                    "our opening season",
+                    "Season 3",
+                    "Thursday",
+                    "October 10th",
+                    "Later this fall"
+                ],
+                "ORG": [
+                    "The Open Ears Project",
+                    "Spotify",
+                    "Gabriel Faur<"
                 ],
                 "ORDINAL": [
                     "first"
                 ],
+                "PERSON": [
+                    "Faur\u00e9",
+                    "Esther"
+                ],
                 "EVENT": [
                     "Holocaust"
                 ],
-                "DATE": [
-                    "Thursday October 10th"
-                ],
                 "GPE": [
-                    "Spotify",
                     "Spotify"
-                ],
-                "ORG": [
-                    "href=\"http://estherperel.com",
-                    "noreferrer\">Estherperel.com",
-                    "src=\"https://www.wnyc.org"
-                ],
-                "PERSON": [
-                    "Esther",
-                    "Gabriel Faur"
                 ]
             }
         },
@@ -176,19 +177,16 @@
                     "a chaotic day",
                     "the day"
                 ],
-                "PERSON": [
+                "ORG": [
                     "Krystal Hawes",
                     "Maurice Ravel\u2019s",
-                    "Maurice Ravel</span></h5"
+                    "Krystal Hawes"
                 ],
-                "ORG": [
-                    "une",
-                    "WQXR.</span></em></p>",
-                    "src=\"https://www.wnyc.org",
-                    "une"
+                "PERSON": [
+                    "helped</span"
                 ],
                 "GPE": [
-                    "width=\"80%\"></iframe><br><em><span"
+                    "Maurice"
                 ]
             }
         },
@@ -232,25 +230,22 @@
             "entities": {
                 "GPE": [
                     "Dessa",
-                    "t</span><span><span",
+                    "J.S.",
                     "Minneapolis",
                     "New York",
                     "Dessa",
+                    "Violin",
                     "J.S."
                 ],
-                "ORG": [
-                    "J.S. Bach\u2019s",
-                    "Minnesota</span><em><span",
-                    "href=\"https://nationalsawdust.org",
-                    "href=\"https://thegreenespace.org",
-                    "src=\"https://www.wnyc.org",
-                    "Violin"
-                ],
-                "PERSON": [
-                    "/span><a href=\"https://www.doomtree.net\"><span>Doomtree</span></a><span>"
+                "WORK_OF_ART": [
+                    "Partita for Violin"
                 ],
                 "CARDINAL": [
                     "two"
+                ],
+                "PERSON": [
+                    "Sawdust</a",
+                    "Chaconne"
                 ]
             }
         },
@@ -299,18 +294,16 @@
                 "EVENT": [
                     "Holocaust"
                 ],
-                "ORG": [
-                    "href=\"https://groveatlantic.com",
-                    "Fr\u00e9d\u00e9ric Chopin\u2019s",
-                    "src=\"https://www.wnyc.org",
-                    "Frederic"
-                ],
                 "NORP": [
-                    "Polish"
+                    "Polish",
+                    "full:<br></span></em></p"
+                ],
+                "ORG": [
+                    "Fr\u00e9d\u00e9ric Chopin\u2019s",
+                    "Frederic"
                 ],
                 "CARDINAL": [
                     "1",
-                    "full:<br></span></em></p",
                     "1"
                 ]
             }
@@ -354,8 +347,11 @@
                 "PERSON": [
                     "Christopher Wheeldon",
                     "Sergei Prokofiev",
+                    "Romeo",
+                    "Juliet</em>",
                     "Wheeldon",
                     "Christopher Wheeldon",
+                    "Tony",
                     "Christopher"
                 ],
                 "NORP": [
@@ -367,26 +363,23 @@
                     "second"
                 ],
                 "ORG": [
-                    "Royal Opera House",
+                    "the Royal Opera House",
+                    "Megan",
+                    "Sergei Prokofiev</h5"
+                ],
+                "GPE": [
                     "Prokofiev",
-                    "src=\"https://www.wnyc.org",
-                    "Sergei"
+                    "Paris"
                 ],
                 "DATE": [
                     "years",
                     "2012"
                 ],
-                "GPE": [
-                    "Paris"
-                ],
                 "EVENT": [
                     "London Olympic Games"
                 ],
-                "WORK_OF_ART": [
-                    "Violin Concerto No. 2"
-                ],
-                "PRODUCT": [
-                    "Prokofiev</h5"
+                "CARDINAL": [
+                    "2"
                 ]
             }
         },
@@ -429,29 +422,31 @@
             "entities": {
                 "PERSON": [
                     "Megan Reid",
-                    "Christopher Wheeldon\u2019s",
-                    "Arvo P\u00e4rt\u2019s",
+                    "Christopher Wheeldon",
+                    "Arvo P\u00e4rt",
+                    "Spiegel",
                     "Reid",
+                    "Megan Reid",
+                    "Megan",
                     "Spiegel",
                     "Arvo P\u00e4rt",
                     "Simon Mulligan",
-                    "Daniel Hope",
-                    "Arvo"
-                ],
-                "ORG": [
-                    "Rain</span></em><span",
-                    "FX Networks</span></em><span>.</span></p",
-                    "Megan",
-                    "src=\"https://www.wnyc.org",
-                    "width=\"80%\"></iframe><br><span",
                     "Piano",
-                    "Naxos of America"
+                    "Daniel Hope",
+                    "Spiegel",
+                    "Spiegel</em"
+                ],
+                "DATE": [
+                    "second half"
                 ],
                 "NORP": [
-                    "Estonian"
+                    "Estonian",
+                    "forever.<br><br></span><span"
                 ],
-                "WORK_OF_ART": [
-                    "Violin"
+                "ORG": [
+                    "FX Networks</span></em><span>.</span></p",
+                    "width=\"80%\"></iframe><br><span",
+                    "Naxos of America, inc."
                 ]
             }
         },
@@ -494,28 +489,25 @@
             "pubDate": "Thu, 03 Oct 2019 12:00:00 -0400",
             "title": "24. Terrance McKnight on Overcoming Adversity\r\n",
             "entities": {
-                "TIME": [
-                    "evening",
-                    "evening"
-                ],
-                "PRODUCT": [
-                    "Terrance McKnight"
-                ],
                 "PERSON": [
-                    "Beethoven"
-                ],
-                "GPE": [
-                    "WQXR.</span></em><span"
-                ],
-                "ORG": [
+                    "Terrance McKnight",
+                    "Beethoven",
+                    "Terrance McKnight",
                     "Terrance",
                     "full:</em",
-                    "src=\"https://www.wnyc.org",
-                    "Ludwig van Beethoven",
-                    "Terrance McKnight</h5>"
+                    "Ludwig van Beethoven"
+                ],
+                "ORG": [
+                    "the Langston Hughes",
+                    "Terrance McKnight</h5"
+                ],
+                "TIME": [
+                    "evening"
+                ],
+                "DATE": [
+                    "Op. 126"
                 ],
                 "CARDINAL": [
-                    "126",
                     "1"
                 ]
             }
@@ -559,24 +551,21 @@
             "pubDate": "Wed, 02 Oct 2019 12:00:00 -0400",
             "title": "23. Justin Jackson on Imagination\r\n",
             "entities": {
-                "ORG": [
-                    "stereotypes.</span>\u201d<br></span></blockquote",
-                    "href=\"https://www.wnycstudios.org",
-                    "Justin",
-                    "src=\"https://www.wnyc.org",
-                    "Edvard"
-                ],
                 "GPE": [
                     "New York City",
                     "New York City"
                 ],
                 "PERSON": [
                     "Justin Jackson",
-                    "Edvard Grieg\u2019s",
                     "Justin Jackson"
                 ],
-                "PRODUCT": [
-                    "Grieg</h5"
+                "ORG": [
+                    "Edvard Grieg\u2019s",
+                    "Justin"
+                ],
+                "FAC": [
+                    "the Hall of the Mountain King",
+                    "the Hall of the Mountain King </em"
                 ]
             }
         },
@@ -620,20 +609,17 @@
             "entities": {
                 "PERSON": [
                     "Alison",
-                    "a Peabody Award",
-                    "Alison"
+                    "Alison",
+                    "Alison",
+                    "Erik"
                 ],
                 "ORG": [
-                    "Satie\u2019s Gymnop\u00e9die",
-                    "href=\"https://twitter.com/alisonstewart\"><em><span>",
-                    "src=\"https://www.wnyc.org"
+                    "Satie\u2019s",
+                    "WNYC",
+                    "Gymnop\u00e9die"
                 ],
                 "CARDINAL": [
-                    "1",
                     "1"
-                ],
-                "GPE": [
-                    "Satie</h5"
                 ]
             }
         },
@@ -678,21 +664,17 @@
                     "Daniel Libeskind",
                     "J. S. Bach",
                     "Museum Berlin</a",
-                    "Bach"
-                ],
-                "ORG": [
-                    "Fugue",
-                    "all.</p",
-                    "the World Trade Center site</a",
-                    "src=\"https://www.wnyc.org",
-                    "Leopold Stokowski)</strong></h5"
+                    "Leopold"
                 ],
                 "NORP": [
-                    "Polish"
+                    "Polish-American"
                 ],
-                "GPE": [
-                    "Lower",
-                    "J.S."
+                "ORG": [
+                    "the World Trade Center",
+                    "J.S. Bach"
+                ],
+                "LOC": [
+                    "Lower Manhattan.</em></p"
                 ]
             }
         },
@@ -740,30 +722,28 @@
                     "Jacqui Cheng",
                     "Bach",
                     "Bach",
-                    "Bach",
-                    "Jacqui Cheng"
+                    "Jacqui Cheng",
+                    "Adagio"
                 ],
                 "NORP": [
-                    "Adagio"
-                ],
-                "ORG": [
-                    "J.S. Bach\u2019s",
-                    "src=\"https://www.wnyc.org",
-                    "Adagio"
-                ],
-                "PRODUCT": [
-                    "Violin Sonata",
-                    "Violin Sonata"
-                ],
-                "CARDINAL": [
-                    "1",
-                    "8"
-                ],
-                "WORK_OF_ART": [
-                    "Gyruss"
+                    "Adagio",
+                    "Jacqui"
                 ],
                 "GPE": [
+                    "J.S.",
+                    "Bach",
                     "J.S."
+                ],
+                "WORK_OF_ART": [
+                    "Violin Sonata"
+                ],
+                "ORG": [
+                    "Atari",
+                    "WQXR"
+                ],
+                "CARDINAL": [
+                    "2600",
+                    "8"
                 ]
             }
         },
@@ -804,30 +784,22 @@
             "entities": {
                 "CARDINAL": [
                     "one",
-                    "16",
                     "16"
                 ],
                 "PERSON": [
                     "Wynton Marsalis",
-                    "Jazz"
-                ],
-                "NORP": [
-                    "Marsalis"
+                    "Beethoven",
+                    "String Quartet",
+                    "Marsalis",
+                    "Wynton Marsalis",
+                    "String Quartet"
                 ],
                 "ORG": [
                     "Beethoven",
                     "href=\"https://wyntonmarsalis.org",
-                    "href=\"https://wyntonmarsalis.org/compositions\"><em><span>composer</span></em></a><em><span> Wynton Marsalis",
+                    "href=\"https://wyntonmarsalis.org",
                     "Lincoln",
-                    "full:<br></span></p",
-                    "src=\"https://www.wnyc.org",
-                    "L.V. Beethoven</strong></h5>"
-                ],
-                "PRODUCT": [
-                    "Center.</span></em></p"
-                ],
-                "GPE": [
-                    "/span><span"
+                    "L.V."
                 ],
                 "ORDINAL": [
                     "second"
@@ -873,29 +845,34 @@
             "pubDate": "Fri, 27 Sep 2019 12:00:00 -0400",
             "title": "18. Eva Chen on Nourishing The Soul \r\n",
             "entities": {
-                "ORG": [
-                    "Instagram",
-                    "Instagram",
-                    "src=\"https://www.wnyc.org",
-                    "W.A. Mozart</h5"
+                "PERSON": [
+                    "Eva",
+                    "Mozart",
+                    "Juno Valentine",
+                    "Eva Chen",
+                    "Juno Valentine",
+                    "Eva",
+                    "Piano Concert"
+                ],
+                "TIME": [
+                    "each evening"
                 ],
                 "CARDINAL": [
                     "two",
-                    "17.</p",
                     "17"
                 ],
                 "ORDINAL": [
                     "first",
                     "first"
                 ],
-                "PERSON": [
-                    "Mozart",
-                    "Juno Valentine",
-                    "Eva Chen",
-                    "Juno Valentine"
+                "GPE": [
+                    "Instagram"
                 ],
                 "DATE": [
-                    "October 29th.</span></em></p"
+                    "October"
+                ],
+                "ORG": [
+                    "W.A. Mozart</h5"
                 ]
             }
         },
@@ -938,14 +915,19 @@
             "pubDate": "Thu, 26 Sep 2019 12:00:00 -0400",
             "title": "17. Eddie Izzard on Elevation\r\n",
             "entities": {
+                "NORP": [
+                    "Comedian"
+                ],
                 "PERSON": [
                     "Eddie Izzard",
-                    "Claude Debussy\u2019s",
+                    "Claude Debussy",
+                    "Clair de Lune</em",
+                    "Eddie Izzard",
                     "Eddie"
                 ],
                 "ORG": [
-                    "src=\"https://www.wnyc.org",
-                    "Claude Debussy</h5>"
+                    "Clair de Lune",
+                    "Claude"
                 ]
             }
         },
@@ -989,24 +971,29 @@
             "title": "16. J'nai Bridges on Forgiveness\r\n",
             "entities": {
                 "PERSON": [
-                    "Bridges",
                     "Henry Purcell\u2019s",
+                    "Aeneas</em",
                     "Trojan",
+                    "Aeneas",
                     "Bridges",
                     "J'Nai Bridges",
-                    "J'Nai",
+                    "Philip Glass",
+                    "full:</span></p",
                     "Henry Purcell</h5"
                 ],
                 "ORG": [
                     "Dido",
-                    "Philip Glass\u2019s",
-                    "src=\"https://www.wnyc.org"
+                    "all.</span></p",
+                    "the Metropolitan Opera"
                 ],
                 "DATE": [
                     "this season"
                 ],
-                "PRODUCT": [
-                    "target=\"_blank\">Akhnaten</a><em><span>.</span></em></p"
+                "GPE": [
+                    "Nefertiti"
+                ],
+                "NORP": [
+                    "J'Nai"
                 ]
             }
         },
@@ -1052,23 +1039,23 @@
                     "Joe Young",
                     "Steve Reich\u2019s",
                     "Joe Young</span></em></a><em><span",
-                    "Joe"
+                    "Joe",
+                    "Steve Reich</h5"
                 ],
                 "ORG": [
                     "New York Public Radio",
-                    "href=\"https://www.wnycstudios.org",
                     "New York Public Radio\u2019s",
-                    "the United States Army",
-                    "src=\"https://www.wnyc.org",
-                    "Steve Reich</h5>"
+                    "the United States Army"
                 ],
                 "GPE": [
                     "Texas"
                 ],
                 "CARDINAL": [
                     "18",
-                    "full:<br></span></em></p",
                     "18"
+                ],
+                "NORP": [
+                    "full:<br></span></em></p"
                 ]
             }
         },
@@ -1116,28 +1103,28 @@
             "entities": {
                 "PERSON": [
                     "Robert Macfarlane",
+                    "Chopin",
+                    "Berceuse</em",
+                    "Welsh",
                     "Edward Thomas",
+                    "Thomas",
                     "Robert Macfarlane",
-                    "Robert"
+                    "Robert",
+                    "Berceuse</em"
                 ],
                 "ORDINAL": [
                     "first"
                 ],
-                "ORG": [
+                "GPE": [
                     "Macfarlane",
-                    "the Western Front",
-                    "Emmanuel College",
-                    "src=\"https://www.wnyc.org",
-                    "width=\"80%\"></iframe><br><em"
+                    "Cambridge"
                 ],
                 "DATE": [
                     "1917"
                 ],
-                "GPE": [
-                    "Cambridge"
-                ],
-                "PRODUCT": [
-                    "Chopin</span></h5"
+                "ORG": [
+                    "the Western Front",
+                    "Emmanuel College"
                 ]
             }
         },
@@ -1186,23 +1173,19 @@
                     "second",
                     "second"
                 ],
-                "ORG": [
-                    "Beethoven\u2019s",
-                    "concerto",
-                    "the BBC Proms",
-                    "the\u00a0Cabrillo Festival",
-                    "Contemporary Music",
+                "PERSON": [
+                    "Beethoven",
+                    "Wynton Marsalis'",
                     "Violin",
-                    "Nicola",
-                    "src=\"https://www.wnyc.org"
-                ],
-                "WORK_OF_ART": [
-                    "Violin Concerto",
                     "Violin Concerto"
                 ],
-                "PERSON": [
-                    "href=\"https://www.nicolabenedetti.co.uk\">Nicola",
-                    "Wynton Marsalis'"
+                "WORK_OF_ART": [
+                    "Violin Concerto"
+                ],
+                "ORG": [
+                    "the BBC Proms",
+                    "Contemporary Music",
+                    "Nicola"
                 ]
             }
         },
@@ -1250,16 +1233,14 @@
                 "PERSON": [
                     "Lee Hill",
                     "Nicholas Britell\u2019s",
+                    "Moonlight</span></em><span",
                     "Lee Hill",
                     "Lee",
-                    "Nicholas"
+                    "Nicholas Britell</h5"
                 ],
                 "ORG": [
                     "New York Public Radio",
-                    "listeners.</span></p",
-                    "Content Culture",
-                    "src=\"https://www.wnyc.org",
-                    "Theme"
+                    "listeners.</span></p"
                 ],
                 "WORK_OF_ART": [
                     "Little's Theme"
@@ -1314,6 +1295,7 @@
                 "PERSON": [
                     "Sam Mendes",
                     "Carl Orff\u2019s",
+                    "Gassenhauer",
                     "Thomas Newman",
                     "Oscar",
                     "Sam",
@@ -1321,12 +1303,10 @@
                     "Oscar",
                     "Tony",
                     "Sam",
-                    "Carl Orff</h5>"
+                    "Carl"
                 ],
                 "ORG": [
-                    "American Beauty",
-                    "src=\"https://www.wnyc.org",
-                    "width=\"80%\"></iframe><br><em"
+                    "American Beauty"
                 ],
                 "DATE": [
                     "Today",
@@ -1379,18 +1359,19 @@
             "pubDate": "Thu, 19 Sep 2019 12:00:00 -0400",
             "title": "10. Rachel Strauss-Mu\u00f1iz on Happiness\r\n",
             "entities": {
+                "ORG": [
+                    "href=\"https://twitter.com/rachellaloca\"><span>",
+                    "W.A. Mozart</h5"
+                ],
                 "PERSON": [
-                    "comedienne",
+                    "Rachel \u201cLa Loca\u201d Strauss-Mu\u00f1iz</span></a><span",
                     "Mozart",
                     "Mozart",
                     "Rachel Strauss-Mu\u00f1iz",
                     "Rachel"
                 ],
-                "ORG": [
-                    "href=\"https://podcasts.apple.com/us/podcast/latinos",
-                    "href=\"https://twitter.com/rachellaloca\"><span>Rachel \u201cLa Loca",
-                    "src=\"https://www.wnyc.org",
-                    "W.A. Mozart</h5>"
+                "PRODUCT": [
+                    "Sonata"
                 ]
             }
         },
@@ -1434,23 +1415,28 @@
             "title": "9. Jon Batiste on Challenging Expectations\r\n",
             "entities": {
                 "PERSON": [
+                    "Jon Batiste</span></a><span",
                     "Igor Stravinsky\u2019s",
-                    "archive/2017/11"
+                    "Jon Batiste</span></em></a><em><span",
+                    "Stephen Colbert</span></em></a><em><span>",
+                    "Jon",
+                    "full:</span></p"
                 ],
                 "ORDINAL": [
                     "first"
                 ],
                 "ORG": [
-                    "href=\"https://www.youtube.com",
                     "Disney",
-                    "href=\"https://www.youtube.com",
+                    "href=\"https://www.cbs.com",
                     "href=\"http://jazzmuseuminharlem.org",
-                    "the National Jazz Museum",
-                    "src=\"https://www.wnyc.org"
+                    "the National Jazz Museum"
                 ],
                 "GPE": [
-                    "Atlantic</span><em><span",
-                    "Harlem</span></em></a><em><span>.</span></em></p"
+                    "G3VqcTDf6l4\"><em><span",
+                    "Atlantic</span><em><span"
+                ],
+                "WORK_OF_ART": [
+                    "The Rite of Spring"
                 ]
             }
         },
@@ -1497,30 +1483,31 @@
             "pubDate": "Tue, 17 Sep 2019 12:00:00 -0400",
             "title": "8. Jamie Barton on Catharsis\r\n",
             "entities": {
+                "ORG": [
+                    "Opera",
+                    "Chopin's Nocturne No",
+                    "Orfeo",
+                    "the Metropolitan Opera\u2019s",
+                    "Orfeo &"
+                ],
                 "PERSON": [
                     "Jamie Barton",
+                    "Chopin",
+                    "Champagne</span></em><span",
+                    "Jamie Barton</span></em></a><em><span",
                     "Jamie"
                 ],
                 "GPE": [
-                    "Georgia"
+                    "Georgia",
+                    "playlist\"><span",
+                    "jbartonmezzo\"><em><span"
                 ],
                 "ORDINAL": [
                     "first"
                 ],
-                "ORG": [
-                    "Chopin",
-                    "href=\"https://twitter.com/jbartonmezzo\"><em><span",
-                    "Orfeo",
-                    "Metropolitan Opera\u2019s",
-                    "Euridice</span></a><em><span>.</span></em></p",
-                    "src=\"https://www.wnyc.org"
-                ],
                 "CARDINAL": [
                     "21",
                     "21"
-                ],
-                "NORP": [
-                    "Champagne</span></em><span"
                 ]
             }
         },
@@ -1566,31 +1553,24 @@
             "pubDate": "Mon, 16 Sep 2019 12:00:00 -0400",
             "title": "7. Eric Jacobsen on Vulnerability\r\n",
             "entities": {
-                "ORG": [
+                "PERSON": [
+                    "Eric Jacobsen</span><span",
                     "Franz Schubert\u2019s",
-                    "music.</span></p",
-                    "target=\"_blank\"><em><span",
-                    "src=\"https://www.wnyc.org",
-                    "Second Movement",
-                    "Franz"
+                    "Eric Jacobsen</span></em></a><em><span",
+                    "Eric"
                 ],
                 "CARDINAL": [
                     "1",
                     "1"
                 ],
                 "DATE": [
-                    "25 years",
-                    "every day"
+                    "25 years"
                 ],
                 "GPE": [
-                    "/span><span",
                     "New York\u2019s"
                 ],
-                "PERSON": [
-                    "Eric"
-                ],
-                "PRODUCT": [
-                    "Schubert</h5"
+                "ORG": [
+                    "Second Movement"
                 ]
             }
         },
@@ -1636,33 +1616,27 @@
             "pubDate": "Sun, 15 Sep 2019 12:00:00 -0400",
             "title": "6. Ian McEwan on What Cannot Quite Be Said\r\n",
             "entities": {
-                "ORDINAL": [
-                    "first",
-                    "second"
-                ],
                 "PERSON": [
                     "Ian McEwan",
                     "Ian McEwan",
                     "Ian"
                 ],
-                "ORG": [
-                    "J.S. Bach\u2019s",
-                    "Concerto",
-                    "src=\"https://www.wnyc.org"
+                "ORDINAL": [
+                    "second"
+                ],
+                "GPE": [
+                    "J.S.",
+                    "J.S."
                 ],
                 "CARDINAL": [
                     "Two",
                     "Two"
                 ],
-                "DATE": [
-                    "every day"
-                ],
-                "GPE": [
-                    "/span><span",
-                    "J.S."
-                ],
                 "NORP": [
                     "British"
+                ],
+                "PRODUCT": [
+                    "the Booker Prize-winning"
                 ]
             }
         },
@@ -1709,29 +1683,24 @@
             "title": "5. Aminatou Sow on Finding Joy\r\n",
             "entities": {
                 "PERSON": [
-                    "/span><a href=\"https://www.callyourgirlfriend.com\"><span>",
+                    "/span><a",
                     "Aminatou Sow",
                     "the Juba Dance",
-                    "Juba Dance"
+                    "Aminatou Sow"
                 ],
                 "ORG": [
-                    "Florence Price\u2019s",
-                    "src=\"https://www.wnyc.org",
-                    "width=\"80%\"></iframe><br><span",
-                    "III",
-                    "Florence"
+                    "Florence Price\u2019s"
                 ],
                 "ORDINAL": [
                     "first"
                 ],
                 "DATE": [
-                    "every day"
+                    "the day"
                 ],
                 "GPE": [
-                    "/span><span",
                     "Aminatou"
                 ],
-                "CARDINAL": [
+                "PRODUCT": [
                     "No.1"
                 ]
             }
@@ -1782,26 +1751,20 @@
             "pubDate": "Fri, 13 Sep 2019 12:00:00 -0400",
             "title": "4. Milo\u0161 Karadagli\u0107 on Being Home\r\n",
             "entities": {
+                "GPE": [
+                    "Karadagli\u0107</span></a><span",
+                    "L\u00e1grima",
+                    "London",
+                    "England"
+                ],
                 "NORP": [
                     "Spanish"
                 ],
                 "PERSON": [
                     "Francisco T\u00e1rrega",
+                    "Milo\u0161",
+                    "href=\"https://decca.lnk.to",
                     "Milo\u0161"
-                ],
-                "GPE": [
-                    "London",
-                    "England",
-                    "/span><span",
-                    "href=\"http://milosguitar.com\"><em><span",
-                    "href=\"http://milosguitar.com\"><em><span"
-                ],
-                "DATE": [
-                    "every day"
-                ],
-                "ORG": [
-                    "src=\"https://www.wnyc.org",
-                    "width=\"80%\"></iframe><br><em"
                 ]
             }
         },
@@ -1852,28 +1815,18 @@
                     "Connie Viglietti",
                     "Grandma Ginger",
                     "Schubert",
-                    "Connie Viglietti"
-                ],
-                "WORK_OF_ART": [
-                    "Ave Maria"
+                    "Ave Maria\u201d",
+                    "Connie Viglietti",
+                    "width=\"80%\"></iframe><br>\u201cAve Maria"
                 ],
                 "GPE": [
-                    "us.</span></p",
-                    "/span><span"
+                    "us.</span></p"
                 ],
-                "DATE": [
-                    "every day"
-                ],
-                "PRODUCT": [
+                "FAC": [
                     "Yoga Vida"
                 ],
                 "ORG": [
-                    "Connie",
-                    "src=\"https://www.wnyc.org",
-                    "Franz"
-                ],
-                "CARDINAL": [
-                    "Schubert</h5"
+                    "Connie"
                 ]
             }
         },
@@ -1920,40 +1873,32 @@
             "pubDate": "Wed, 11 Sep 2019 12:00:00 -0400",
             "title": "2. Rob Vogt on Conquering Fear\r\n",
             "entities": {
+                "GPE": [
+                    "New York City",
+                    "New York City",
+                    "Valkyries"
+                ],
                 "PERSON": [
-                    "\u201d</p",
                     "Rob Vogt",
-                    "Francis Ford",
                     "Richard Wagner",
                     "Rob Vogt",
+                    "Foundation</a",
                     "Rob",
                     "Stephen Siller.</span></em></p",
                     "Rob",
                     "Richard Wagner</h5"
                 ],
-                "GPE": [
-                    "New York City",
-                    "Now</span></em><span",
-                    "/span><span",
-                    "New York City"
-                ],
                 "DATE": [
-                    "the months",
-                    "every day",
-                    "h5><span><iframe"
+                    "the months"
                 ],
                 "CARDINAL": [
                     "9/11"
                 ],
-                "WORK_OF_ART": [
-                    "bucket brigade",
-                    "Ride of the Valkyries"
-                ],
-                "PRODUCT": [
-                    "Coppola\u2019s"
-                ],
                 "ORG": [
-                    "src=\"https://www.wnyc.org"
+                    "Francis Ford Coppola\u2019s"
+                ],
+                "WORK_OF_ART": [
+                    "Ride of the Valkyries"
                 ]
             }
         },
@@ -2000,28 +1945,28 @@
             "entities": {
                 "PERSON": [
                     "Alec Baldwin",
-                    "Alec"
-                ],
-                "ORG": [
-                    "the Adagio of Spartacus",
-                    "Phrygia",
-                    "href=\"https://www.wnycstudios.org",
-                    "src=\"https://www.wnyc.org",
-                    "width=\"80%\"></iframe><br><span",
-                    "Phrygia"
+                    "Alec Baldwin",
+                    "Alec",
+                    "Adagio",
+                    "Aram Khachaturian</span></h5"
                 ],
                 "NORP": [
-                    "Khachaturian"
+                    "Adagio"
                 ],
-                "DATE": [
-                    "every day"
+                "ORG": [
+                    "Spartacus",
+                    "Phrygia",
+                    "WNYC",
+                    "WQXR",
+                    "Spartacus",
+                    "Phrygia"
                 ],
                 "GPE": [
-                    "/span><span",
+                    "Khachaturian",
                     "New York"
                 ],
                 "WORK_OF_ART": [
-                    "The Thing With Alec Baldwin</a>"
+                    "heresthething\">Here\u2019s The Thing With Alec Baldwin</a>"
                 ],
                 "CARDINAL": [
                     "2</em"
@@ -2064,20 +2009,18 @@
             "pubDate": "Wed, 21 Aug 2019 12:00:00 -0400",
             "title": "Introducing: The Open Ears Project\r\n",
             "entities": {
-                "WORK_OF_ART": [
-                    "The Open Ears",
-                    "The Open Ears Project"
+                "EVENT": [
+                    "The Open Ears Project</strong> introduces"
                 ],
                 "DATE": [
-                    "September",
+                    "September 10th</strong",
                     "day 1"
                 ],
-                "CARDINAL": [
-                    "10th</strong"
-                ],
                 "ORG": [
-                    "href=\"https://www.instagram.com",
-                    "href=\"https://twitter.com/search?q=%23OpenEarsProject\"><span>Twitter</span></a><span>.</span></p>"
+                    "The Open Ears Project"
+                ],
+                "PERSON": [
+                    "Studios</a>.</em></p"
                 ]
             }
         }
@@ -2127,10 +2070,19 @@
     "entities": {
         "ORG": [
             "the Open Ears Project",
-            "Radiolab, Death, Sex & Money"
+            "The Open Ears Project",
+            "WNYC Studios",
+            "Radiolab, Death, Sex & Money",
+            "Here\u2019s the Thing with Alec Baldwin"
         ],
-        "WORK_OF_ART": [
-            "The Open Ears Project"
+        "DATE": [
+            "daily"
+        ],
+        "NORP": [
+            "Media"
+        ],
+        "PERSON": [
+            "Nancy"
         ]
     }
 }

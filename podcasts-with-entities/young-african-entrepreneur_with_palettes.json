@@ -52,11 +52,14 @@
                     "University of Fort Hare",
                     "the University of Natal",
                     "the London School of Economics",
+                    "social policy & planning",
                     "the University College London",
-                    "the national department of public",
+                    "the national department of public works",
                     "the World Bank",
-                    "FirstRand, Massmart",
-                    "Sun International"
+                    "Lereko Investments",
+                    "FirstRand",
+                    "Sun International",
+                    "Dr Lulu Gwagwa.</p"
                 ],
                 "GPE": [
                     "South Africa",
@@ -76,6 +79,9 @@
                     "1994",
                     "the next ten years",
                     "the early 2000s"
+                ],
+                "PRODUCT": [
+                    "Massmart"
                 ]
             }
         },
@@ -103,37 +109,33 @@
             "pubDate": "Thu, 11 Oct 2018 08:47:00 +0000",
             "title": "028: Karan Singh -- Going Beyond a Platform Play with Rwanda's Yegomoto",
             "entities": {
-                "PERSON": [
-                    "Karan Singh",
-                    "Karan",
-                    "Karan"
-                ],
                 "GPE": [
                     "Rwanda",
                     "India",
                     "Singapore",
                     "Rwanda",
-                    "Kigali",
-                    "Yegomoto",
-                    "Karan",
-                    "Yegomoto"
-                ],
-                "ORG": [
-                    "@yegomotoafrica",
-                    "IOT",
-                    "Yegomoto",
-                    "Yegomoto",
-                    "Taxify",
-                    "Uber"
+                    "Kigali"
                 ],
                 "PRODUCT": [
                     "Twitter"
+                ],
+                "ORG": [
+                    "Karan",
+                    "Yegomoto",
+                    "Yegomoto",
+                    "Yegomoto",
+                    "Karan",
+                    "Yegomoto",
+                    "Taxify",
+                    "Uber"
                 ],
                 "DATE": [
                     "2015"
                 ],
                 "NORP": [
-                    "Rwandan"
+                    "Rwandan",
+                    "Karan",
+                    "Karan"
                 ],
                 "CARDINAL": [
                     "four"
@@ -164,20 +166,21 @@
             "pubDate": "Wed, 26 Sep 2018 14:30:00 +0000",
             "title": "027: Akin Sawyerr \u2013 Transforming Africa\u2019s Remittances and Payments with Blockchain",
             "entities": {
-                "PRODUCT": [
-                    "Twitter"
-                ],
                 "PERSON": [
+                    "Akin Sawyerr",
+                    "Twitter",
                     "Akin",
-                    "Akin"
+                    "Splash"
                 ],
                 "ORG": [
                     "RocRemit",
-                    "Splash Mobile Money"
+                    "Splash Mobile Money",
+                    "Sierra Leone",
+                    "Akin"
                 ],
                 "GPE": [
-                    "Sierra Leone",
-                    "Splash"
+                    "Sub-Saharan Africa",
+                    "Sub-Saharan Africa"
                 ],
                 "NORP": [
                     "African"
@@ -212,20 +215,19 @@
                     "Leo Stiegeler",
                     "Leo",
                     "Leo",
-                    "Leo",
-                    "Leo",
-                    "Leo Stiegeler.</p>\n"
+                    "Leo"
                 ],
                 "GPE": [
                     "Linkedin",
                     "Nigeria",
                     "Ghana",
                     "Kenya",
-                    "Jumia Nigeria",
                     "Lagos",
+                    "Leo",
                     "Nigeria"
                 ],
                 "LOC": [
+                    "Africa",
                     "Africa",
                     "Africa",
                     "Africa",
@@ -241,14 +243,16 @@
                     "Ringier",
                     "Ringier",
                     "Ringier",
+                    "Jumia Nigeria",
                     "Startup Partners Africa",
-                    "Sub-Saharan Africa"
+                    "Leo Stiegeler.</p>\n"
                 ],
                 "NORP": [
                     "Swiss",
                     "Nigerian"
                 ],
                 "CARDINAL": [
+                    "one",
                     "169 million"
                 ]
             }
@@ -277,6 +281,18 @@
             "pubDate": "Wed, 12 Sep 2018 14:14:00 +0000",
             "title": "025: Mira Mehta \u2013 The Tenacious Founder of Nigeria\u2019s Tomato Jos",
             "entities": {
+                "PERSON": [
+                    "Mira Mehta",
+                    "Mira",
+                    "Mira",
+                    "Mira",
+                    "Mira",
+                    "Mira",
+                    "Tomato Jos",
+                    "Dangote",
+                    "Mira",
+                    "Mira Mehta.</p"
+                ],
                 "GPE": [
                     "Kaduna",
                     "Nigeria",
@@ -284,7 +300,9 @@
                     "Nigeria",
                     "Nigeria",
                     "Nigeria",
-                    "Nigeria"
+                    "Nigeria",
+                    "Nigeria",
+                    "Sub-Saharan Africa"
                 ],
                 "PRODUCT": [
                     "Twitter"
@@ -298,14 +316,7 @@
                 "ORG": [
                     "BlackRock",
                     "the Clinton Health Access Initiative",
-                    "Harvard",
-                    "Dangote"
-                ],
-                "PERSON": [
-                    "Kano",
-                    "Nigeria",
-                    "Tomato Jos",
-                    "Mira Mehta.</p>\n"
+                    "Harvard"
                 ],
                 "MONEY": [
                     "hundreds of millions of dollars"
@@ -347,28 +358,31 @@
             "entities": {
                 "PERSON": [
                     "Nnamdi Oranye",
-                    "Oranye",
+                    "@Nnamdi Oranye",
                     "Nnamdi",
-                    "Nnamdi Oranye.</p>\n"
+                    "Disrupting Africa",
+                    "Nnamdi",
+                    "Nnamdi",
+                    "Botswana",
+                    "McKinsey"
                 ],
                 "LOC": [
                     "Africa",
                     "Africa",
-                    "Africa",
                     "Silicon Valley",
                     "Africa",
+                    "Africa",
+                    "South Africa.</p",
                     "Africa"
                 ],
                 "GPE": [
                     "Linkedin",
-                    "@nnamdi_oranye",
                     "Johannesburg",
                     "South Africa",
-                    "CNBC Africa",
                     "UK",
                     "Nigeria",
                     "Australia",
-                    "South Africa.</p>\n "
+                    "Sub-Saharan Africa"
                 ],
                 "DATE": [
                     "weekly",
@@ -387,14 +401,19 @@
                 ],
                 "CARDINAL": [
                     "98.7",
+                    "98.7",
                     "one",
                     "3"
                 ],
                 "ORG": [
                     "BBC",
-                    "Mail & Guardian.</p>\n ",
-                    "Botswana",
+                    "CNBC",
+                    "Mail & Guardian.</p",
+                    "Nnamdi",
                     "Nnamdi"
+                ],
+                "ORDINAL": [
+                    "first"
                 ]
             }
         },
@@ -425,11 +444,13 @@
                 "PERSON": [
                     "Manuel Koser",
                     "Manuel",
+                    "Jumia Nigeria",
                     "Manuel",
                     "Manuel",
-                    "Manuel Koser.</p>\n"
+                    "Manuel Koser.</p"
                 ],
                 "NORP": [
+                    "Holdings</a",
                     "South African",
                     "South African",
                     "African"
@@ -440,20 +461,19 @@
                 "GPE": [
                     "Germany",
                     "South Africa",
-                    "Cape Town",
                     "Zando",
                     "South Africa\u2019s",
                     "Zando",
-                    "Jumia Nigeria",
-                    "Jumia Nigeria"
+                    "Zando"
                 ],
                 "ORG": [
                     "Boston Consulting Group",
                     "BCG",
-                    "Manuel",
+                    "BCG",
                     "Silvertree Holdings",
                     "Jumia",
-                    "Zando"
+                    "Manuel",
+                    "Jumia Nigeria"
                 ],
                 "DATE": [
                     "day",
@@ -492,11 +512,12 @@
                 "PERSON": [
                     "Joanna Bichsel",
                     "Joanna",
+                    "Kasha",
                     "Joanna",
                     "Amanda Arch",
                     "Joanna",
                     "Joanna",
-                    "Joanna Bichsel.</p>\n"
+                    "Joanna Bichsel.</p"
                 ],
                 "GPE": [
                     "East Africa\u2019s",
@@ -511,8 +532,6 @@
                 "ORG": [
                     "@JoannaBichsel",
                     "Microsoft",
-                    "the Bill & Melinda Gates Foundation",
-                    "Kasha",
                     "Kasha"
                 ],
                 "PRODUCT": [
@@ -550,11 +569,8 @@
             "pubDate": "Tue, 31 Jul 2018 10:39:00 +0000",
             "title": "021: Addis Alemayehou \u2013 Ethiopia\u2019s Communications & Media Trailblazer",
             "entities": {
-                "CARDINAL": [
-                    "251",
-                    "251"
-                ],
                 "GPE": [
+                    "Addis Alemayehou",
                     "Ethiopia",
                     "Ethiopia",
                     "Ethiopia",
@@ -566,44 +582,40 @@
                     "Ethiopia",
                     "Addis",
                     "Ethiopia",
-                    "Addis",
-                    "Spotify",
-                    "Addis Alemayehou.</p"
+                    "Spotify"
                 ],
                 "ORG": [
+                    "251 Communications",
                     "Kana TV",
-                    "Amharic",
-                    "@addisale",
                     "USAID",
+                    "251 Communications",
                     "The World Bank",
                     "Coca-Cola",
                     "the Gates Foundation",
                     "Kana TV",
                     "Kana TV",
                     "Apple Podcasts",
-                    "Young African Entrepreneur",
-                    "Soundcloud"
-                ],
-                "ORDINAL": [
-                    "first"
+                    "Google Podcasts"
                 ],
                 "PRODUCT": [
                     "Twitter"
                 ],
                 "PERSON": [
-                    "Derg"
+                    "Derg",
+                    "Addis",
+                    "Soundcloud"
                 ],
                 "LOC": [
                     "North America"
                 ],
                 "DATE": [
                     "2000",
-                    "many years",
                     "2011",
                     "2016"
                 ],
                 "NORP": [
-                    "Kenyans"
+                    "Kenyans",
+                    "African"
                 ]
             }
         },
@@ -633,18 +645,21 @@
             "entities": {
                 "PERSON": [
                     "Bram Fudzulani",
+                    "Malawi",
+                    "Bram Fudzulani",
+                    "Bram",
+                    "Malawi",
+                    "Bram",
+                    "Malawi",
+                    "Malawi",
+                    "Bram",
+                    "Angle Dimension",
                     "Bram",
                     "Bram",
-                    "Bram",
-                    "Bram",
-                    "Bram"
+                    "Bram Fudzulani.</p"
                 ],
                 "ORG": [
                     "Angle Dimension",
-                    "Malawi",
-                    "Malawi",
-                    "Malawi",
-                    "Malawi",
                     "ISP",
                     "Malawi\u2019s ICT Association"
                 ],
@@ -652,7 +667,6 @@
                     "Linkedin"
                 ],
                 "DATE": [
-                    "weekends",
                     "the years"
                 ],
                 "NORP": [
@@ -693,24 +707,23 @@
             "entities": {
                 "GPE": [
                     "Hunnam",
-                    "Orbitt",
+                    "Hunnam",
                     "Lanre"
                 ],
                 "PERSON": [
                     "Lanre Oloniniyi",
                     "Lanre",
                     "Orbitt",
+                    "Orbitt",
                     "Lanre",
                     "Lanre",
-                    "Will Hunnam"
-                ],
-                "ORG": [
-                    "Orbitt Capital",
                     "Orbitt",
                     "VC"
                 ],
+                "ORG": [
+                    "Orbitt Capital"
+                ],
                 "PRODUCT": [
-                    "@OrbittCapital",
                     "Twitter"
                 ],
                 "LOC": [
@@ -727,9 +740,6 @@
                 "NORP": [
                     "African",
                     "African"
-                ],
-                "WORK_OF_ART": [
-                    "penny-drop"
                 ]
             }
         },
@@ -757,8 +767,16 @@
             "pubDate": "Mon, 09 Jul 2018 09:09:00 +0000",
             "title": "018: Turning Safe Sex into a Business in Nigeria with Florida Uzoaru",
             "entities": {
+                "ORG": [
+                    "Florida Uzoaru",
+                    "STI",
+                    "LinkedIn @Florida Uzoaru",
+                    "Slide Safe",
+                    "Slide Safe",
+                    "Slide Safe",
+                    "the CC Hub"
+                ],
                 "GPE": [
-                    "Florida",
                     "Nigeria",
                     "Florida",
                     "Nigeria",
@@ -770,15 +788,8 @@
                     "Nigeria",
                     "Florida"
                 ],
-                "ORG": [
-                    "href='https://slidesafe.ng/'>Slide",
-                    "STI",
-                    "Instagram",
-                    "LinkedIn @Florida Uzoaru",
-                    "Slide Safe",
-                    "Slide Safe",
-                    "Slide Safe",
-                    "the CC Hub"
+                "ORDINAL": [
+                    "first"
                 ],
                 "PRODUCT": [
                     "Twitter"
@@ -824,37 +835,45 @@
             "pubDate": "Wed, 04 Jul 2018 12:24:00 +0000",
             "title": "017: Henri Nyakarundi -- Powering Your Social Impact Business with Multiple Income Streams",
             "entities": {
+                "DATE": [
+                    "Today",
+                    "2008"
+                ],
                 "PERSON": [
-                    "Henri Nyakarundi"
-                ],
-                "PRODUCT": [
-                    "Twitter"
-                ],
-                "ORG": [
-                    "Facebook",
-                    "Instagram",
-                    "ARED Group",
-                    "ARED Group",
-                    "ARED Group",
-                    "the SEIF Social Entrepreneurship Award"
+                    "Henri Nyakarundi",
+                    "Henri",
+                    "Henri",
+                    "Henri"
                 ],
                 "GPE": [
+                    "href='http://www.a",
+                    "Facebook",
+                    "LinkedIn",
+                    "Instagram",
                     "Burundi",
                     "US",
                     "Rwanda"
                 ],
+                "PRODUCT": [
+                    "Twitter"
+                ],
                 "NORP": [
                     "Rwandese"
                 ],
-                "DATE": [
-                    "2008"
-                ],
                 "LOC": [
-                    "Africa",
                     "Africa"
                 ],
-                "CARDINAL": [
-                    "100"
+                "ORG": [
+                    "ARED Group",
+                    "ARED Group",
+                    "NGO",
+                    "ARED Group",
+                    "Africa Forum",
+                    "the SEIF Social Entrepreneurship Award",
+                    "Henri"
+                ],
+                "LAW": [
+                    "the Siemens Empowerment Award"
                 ]
             }
         },
@@ -888,38 +907,37 @@
                     "Sam",
                     "Sam",
                     "Sam",
-                    "Sam Gikandi.</p>\n"
-                ],
-                "ORG": [
-                    "Africa\u2019s Talking",
-                    "Morgan Stanley",
-                    "COO",
-                    "CTO",
-                    "Africa\u2019s Talking",
-                    "IFC"
-                ],
-                "NORP": [
-                    "pan-African",
-                    "African"
+                    "Sam Gikandi.</p"
                 ],
                 "LOC": [
+                    "Africa",
                     "Africa",
                     "Asia",
                     "Africa",
                     "Africa",
                     "Africa",
                     "Africa",
+                    "Africa",
+                    "Francophone West Africa",
                     "Africa"
+                ],
+                "NORP": [
+                    "pan-African",
+                    "African"
+                ],
+                "ORG": [
+                    "Morgan Stanley",
+                    "COO",
+                    "SMS",
+                    "USSD"
                 ],
                 "GPE": [
                     "US",
                     "Hong Kong",
                     "Kenya",
                     "Kenya",
-                    "USSD",
                     "Nairobi",
                     "Kenya",
-                    "Francophone West Africa",
                     "Ethiopia"
                 ],
                 "MONEY": [
@@ -963,14 +981,10 @@
             "entities": {
                 "PERSON": [
                     "Gregory Rockson",
-                    "MPharma",
                     "Greg",
                     "Greg",
                     "mPharma",
-                    "mPharma",
-                    "Greg",
-                    "mPharma",
-                    "Greg Rockson.</p>\n"
+                    "Greg Rockson.</p"
                 ],
                 "GPE": [
                     "Ghana",
@@ -981,6 +995,11 @@
                 ],
                 "PRODUCT": [
                     "Twitter"
+                ],
+                "ORG": [
+                    "MPharma",
+                    "mPharma",
+                    "mPharma"
                 ],
                 "NORP": [
                     "Africans",
@@ -1018,25 +1037,28 @@
             "entities": {
                 "PERSON": [
                     "Neil Gordon",
+                    "GAEX)</a",
                     "Neil",
                     "Neil",
+                    "Blockchain",
                     "Neil",
                     "Neil",
-                    "Neil Gordon.</p>\n"
+                    "Neil Gordon.</p"
                 ],
                 "ORG": [
-                    "href='http://www.gaex.co/'>Global Agricultural Exchange",
-                    "@gaexcocoa",
+                    "a href='http://www.gaex.co/'>Global Agricultural Exchange",
                     "GAEX",
                     "JPMorgan",
                     "Deutsche Bank",
                     "KPMG",
+                    "Cote d\u2019Ivoire\u2019s",
                     "VC"
                 ],
                 "PRODUCT": [
                     "Twitter"
                 ],
                 "GPE": [
+                    "Blockchain",
                     "West Africa",
                     "Blockchain",
                     "Blockchain"
@@ -1076,18 +1098,18 @@
             "pubDate": "Mon, 04 Jun 2018 09:00:00 +0000",
             "title": "013: Top 10 Tips for Cultivating an Entrepreneur Mindset",
             "entities": {
+                "DATE": [
+                    "Today",
+                    "Today"
+                ],
                 "NORP": [
                     "African",
                     "African"
                 ],
-                "DATE": [
-                    "Today"
-                ],
                 "CARDINAL": [
                     "ten",
-                    "dozen",
-                    "ten",
-                    "\u2019d"
+                    "a dozen",
+                    "ten"
                 ],
                 "LOC": [
                     "Africa",
@@ -1104,10 +1126,8 @@
                     "YAE"
                 ],
                 "PRODUCT": [
-                    "Twitter"
-                ],
-                "LAW": [
-                    "the Top 10 Tips"
+                    "Twitter",
+                    "the Top 10 Tips on Cultivating an Entrepreneur Mindset</p"
                 ]
             }
         },
@@ -1135,32 +1155,14 @@
             "pubDate": "Mon, 28 May 2018 10:20:00 +0000",
             "title": "012: How to Embrace Failure with Wiza Jalakasi",
             "entities": {
-                "PERSON": [
-                    "Wiza Jalakasi",
-                    "Wiza",
-                    "Wiza",
-                    "Sam Gikandi",
-                    "Malawi",
-                    "Wiza",
-                    "Wiza",
-                    "Wiza",
-                    "Wiza"
+                "GPE": [
+                    "Jalakasi",
+                    "Nairobi"
                 ],
                 "LOC": [
                     "Africa",
                     "Africa",
                     "Africa"
-                ],
-                "ORG": [
-                    "Talking",
-                    "Mwtunes",
-                    "Malawi",
-                    "Djuaji, Research",
-                    "Savannah Fund",
-                    "Malawi",
-                    "API",
-                    "Talking",
-                    "Cote d\u2019Ivoire"
                 ],
                 "PRODUCT": [
                     "Twitter"
@@ -1168,9 +1170,24 @@
                 "CARDINAL": [
                     "16"
                 ],
-                "GPE": [
-                    "Nairobi",
-                    "Talking"
+                "PERSON": [
+                    "Wiza",
+                    "Malawi",
+                    "Djuaji",
+                    "Malawi",
+                    "Sam Gikandi",
+                    "Malawi",
+                    "Wiza",
+                    "Wiza"
+                ],
+                "ORG": [
+                    "Mwtunes",
+                    "Djuaji, Research",
+                    "Savannah Fund",
+                    "Talking",
+                    "API",
+                    "Talking",
+                    "Cote"
                 ],
                 "MONEY": [
                     "8.6mn"
@@ -1204,23 +1221,18 @@
             "pubDate": "Mon, 21 May 2018 09:01:00 +0000",
             "title": "011: Erik Hersman on the iHub's Secret Sauce",
             "entities": {
+                "NORP": [
+                    "Technologist",
+                    "African"
+                ],
                 "PERSON": [
                     "TED",
                     "Erik Hersman",
-                    "Ushahidi",
                     "Gearbox",
+                    "Afrigadget",
                     "Erik",
                     "Ted Fellow",
                     "Erik"
-                ],
-                "ORG": [
-                    "Entrepreneur",
-                    "iHub",
-                    "Nairobi",
-                    "BRCK",
-                    "Savannah Fund",
-                    "The White African",
-                    "@White_African"
                 ],
                 "LOC": [
                     "Africa",
@@ -1231,19 +1243,25 @@
                     "Kenya",
                     "Kenya",
                     "Kenya",
-                    "Kenya",
-                    "Moja"
+                    "Nairobi",
+                    "Kenya"
                 ],
                 "DATE": [
                     "2008",
                     "2010",
-                    "2014"
+                    "2014",
+                    "these days"
                 ],
                 "CARDINAL": [
                     "three"
                 ],
-                "NORP": [
-                    "African"
+                "ORG": [
+                    "Ushahidi",
+                    "iHub",
+                    "BRCK",
+                    "BRCK",
+                    "Savannah Fund",
+                    "The White African"
                 ]
             }
         },
@@ -1340,12 +1358,14 @@
         "DATE": [
             "weekly"
         ],
-        "ORG": [
-            "creator &",
-            "YAE"
-        ],
         "PERSON": [
             "Victoria Crandall"
+        ],
+        "GPE": [
+            "Sub-Saharan Africa"
+        ],
+        "ORG": [
+            "YAE"
         ],
         "LOC": [
             "Africa"

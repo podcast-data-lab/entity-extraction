@@ -35,7 +35,7 @@
                 "GPE": [
                     "America"
                 ],
-                "WORK_OF_ART": [
+                "PRODUCT": [
                     "Learn"
                 ]
             }
@@ -64,10 +64,7 @@
             "pubDate": "Fri, 12 May 2017 07:00:00 +0000",
             "title": "Haunted",
             "entities": {
-                "PERSON": [
-                    "Doomocracy"
-                ],
-                "WORK_OF_ART": [
+                "PRODUCT": [
                     "Learn"
                 ]
             }
@@ -100,10 +97,10 @@
                     "1963",
                     "a year"
                 ],
-                "NORP": [
-                    "American"
-                ],
                 "ORG": [
+                    "the American Survey of Fears"
+                ],
+                "WORK_OF_ART": [
                     "Learn"
                 ]
             }
@@ -136,7 +133,7 @@
                     "America",
                     "America"
                 ],
-                "ORG": [
+                "PRODUCT": [
                     "Learn"
                 ]
             }
@@ -165,7 +162,7 @@
             "pubDate": "Fri, 21 Apr 2017 07:00:00 +0000",
             "title": "Teen Dream",
             "entities": {
-                "ORG": [
+                "WORK_OF_ART": [
                     "Learn"
                 ]
             }
@@ -195,11 +192,13 @@
             "title": "Special Announcement: It's All Odin's Fault",
             "entities": {
                 "ORG": [
-                    "The Stuff of Life",
-                    "Learn"
+                    "The Stuff of Life"
                 ],
                 "DATE": [
                     "Fridays"
+                ],
+                "PRODUCT": [
+                    "Learn"
                 ]
             }
         },
@@ -227,7 +226,7 @@
             "pubDate": "Wed, 12 Apr 2017 07:00:00 +0000",
             "title": "Men Dancing",
             "entities": {
-                "ORG": [
+                "PRODUCT": [
                     "Learn"
                 ]
             }
@@ -259,7 +258,7 @@
                 "QUANTITY": [
                     "a mile"
                 ],
-                "ORG": [
+                "WORK_OF_ART": [
                     "Learn"
                 ]
             }
@@ -291,7 +290,7 @@
                 "CARDINAL": [
                     "one"
                 ],
-                "ORG": [
+                "PRODUCT": [
                     "Learn"
                 ]
             }
@@ -323,7 +322,7 @@
                 "PERSON": [
                     "Charles Lamb"
                 ],
-                "ORG": [
+                "WORK_OF_ART": [
                     "Learn"
                 ]
             }
@@ -365,7 +364,7 @@
                 "NORP": [
                     "Japanese"
                 ],
-                "ORG": [
+                "WORK_OF_ART": [
                     "Learn"
                 ]
             }
@@ -394,7 +393,7 @@
             "pubDate": "Wed, 30 Mar 2016 23:15:00 +0000",
             "title": "Life the Game",
             "entities": {
-                "ORG": [
+                "PRODUCT": [
                     "Learn"
                 ]
             }
@@ -429,7 +428,7 @@
                 "WORK_OF_ART": [
                     "Wild Music"
                 ],
-                "ORG": [
+                "PRODUCT": [
                     "Learn"
                 ]
             }
@@ -464,7 +463,7 @@
                 "QUANTITY": [
                     "5.5 quadrillion tons"
                 ],
-                "ORG": [
+                "PRODUCT": [
                     "Learn"
                 ]
             }
@@ -493,7 +492,7 @@
             "pubDate": "Wed, 09 Mar 2016 20:42:00 +0000",
             "title": "Map of Self",
             "entities": {
-                "ORG": [
+                "WORK_OF_ART": [
                     "Learn"
                 ]
             }
@@ -521,7 +520,11 @@
             "link": "https://omny.fm/shows/the-stuff-of-life/mourner-for-hire",
             "pubDate": "Wed, 02 Mar 2016 21:44:00 +0000",
             "title": "Mourner for Hire",
-            "entities": {}
+            "entities": {
+                "PRODUCT": [
+                    "Learn"
+                ]
+            }
         },
         {
             "content": "In this episode we put out a pot of tea, a plate of cucumber sandwiches, and we take a seat with death. What is a \u201cgood death,\u201d how do we achieve it and how might our dreams help?\r\n\r\n Learn more about your ad-choices at https://www.iheartpodcastnetwork.com\r\n\r\nSee omnystudio.com/listener for privacy information.",
@@ -547,7 +550,7 @@
             "pubDate": "Thu, 25 Feb 2016 00:54:00 +0000",
             "title": "Life at the Death Caf\u00e9",
             "entities": {
-                "ORG": [
+                "PRODUCT": [
                     "Learn"
                 ]
             }
@@ -576,7 +579,7 @@
             "pubDate": "Wed, 17 Feb 2016 20:37:00 +0000",
             "title": "An Object Lesson",
             "entities": {
-                "ORG": [
+                "PRODUCT": [
                     "Learn"
                 ]
             }
@@ -608,7 +611,10 @@
                 "CARDINAL": [
                     "one"
                 ],
-                "ORG": [
+                "PERSON": [
+                    "graffiti"
+                ],
+                "WORK_OF_ART": [
                     "Learn"
                 ]
             }
@@ -643,7 +649,10 @@
                 "NORP": [
                     "American"
                 ],
-                "ORG": [
+                "TIME": [
+                    "night"
+                ],
+                "WORK_OF_ART": [
                     "Learn"
                 ]
             }
@@ -672,13 +681,14 @@
             "pubDate": "Wed, 27 Jan 2016 17:36:00 +0000",
             "title": "The Power of Fear",
             "entities": {
-                "ORG": [
-                    "Cat\u2019s",
-                    "The Stuff of Life",
-                    "Learn"
-                ],
                 "PERSON": [
-                    "Julie Douglas"
+                    "Join Julie Douglas"
+                ],
+                "ORG": [
+                    "The Stuff of Life"
+                ],
+                "WORK_OF_ART": [
+                    "Learn"
                 ]
             }
         },
@@ -707,12 +717,13 @@
             "entities": {
                 "ORG": [
                     "Eavesdrop",
-                    "The Stuff of Life",
-                    "HowStuffWorks.com",
-                    "Learn"
+                    "The Stuff of Life"
                 ],
                 "PERSON": [
-                    "Julie Douglas"
+                    "Join Julie Douglas"
+                ],
+                "WORK_OF_ART": [
+                    "Learn"
                 ]
             }
         },
@@ -739,7 +750,9 @@
             "title": "The Stuff of Life: Trailer",
             "entities": {
                 "ORG": [
-                    "The Stuff of Life",
+                    "The Stuff of Life"
+                ],
+                "WORK_OF_ART": [
                     "Learn"
                 ]
             }
@@ -784,11 +797,10 @@
     "entities": {
         "ORG": [
             "Eavesdrop",
-            "The Stuff of Life",
-            "HowStuffWorks.com"
+            "The Stuff of Life"
         ],
         "PERSON": [
-            "Julie Douglas"
+            "Join Julie Douglas"
         ],
         "DATE": [
             "week"

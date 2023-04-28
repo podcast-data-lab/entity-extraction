@@ -33,24 +33,22 @@
             "pubDate": "Wed, 13 Apr 2022 05:00:00 -0000",
             "title": "Chrissy Metz of 'This Is Us' Had 81 Cents in the Bank Before Booking the Show",
             "entities": {
-                "ORG": [
-                    "Daigle Bites",
-                    "Amazon Music",
-                    "href=\"https://amazon.com/DaigleBites",
-                    "California Privacy Notice"
-                ],
                 "PERSON": [
+                    "Daigle Bites",
                     "Lauren",
                     "Metz"
                 ],
                 "DATE": [
-                    "almost a decade"
+                    "almost a decade",
+                    "Season 2 of&nbsp;<em"
                 ],
-                "CARDINAL": [
-                    "2"
+                "ORG": [
+                    "Amazon Music",
+                    "Amazon Music",
+                    "href=\"https://amazon.com/DaigleBites"
                 ],
-                "WORK_OF_ART": [
-                    "target=\"_blank\">https://art19.com/privacy</a>"
+                "GPE": [
+                    "California"
                 ]
             }
         },
@@ -80,23 +78,21 @@
             "entities": {
                 "PERSON": [
                     "Korie Robertson",
+                    "Lauren",
                     "Korie",
-                    "Korie"
+                    "Korie",
+                    "Season 2 of&nbsp;<em"
                 ],
                 "CARDINAL": [
-                    "millions",
-                    "2"
+                    "millions"
                 ],
                 "GPE": [
-                    "Louisiana"
+                    "Louisiana",
+                    "California"
                 ],
                 "ORG": [
                     "Amazon Music",
-                    "href=\"https://amazon.com/DaigleBites",
-                    "California Privacy Notice"
-                ],
-                "WORK_OF_ART": [
-                    "target=\"_blank\">https://art19.com/privacy</a>"
+                    "Amazon Music"
                 ]
             }
         },
@@ -126,28 +122,32 @@
             "entities": {
                 "DATE": [
                     "Season 2",
-                    "weekly",
-                    "Wednesday"
+                    "Season 2",
+                    "every Wednesday"
                 ],
                 "PERSON": [
                     "Lauren",
+                    "Lori Gottlieb.</p><p",
+                    "Lauren",
                     "Lori",
                     "Lori",
-                    "Lori",
-                    "Katie Couric.</p><p>Season"
+                    "Daigle Bites"
                 ],
                 "ORG": [
                     "New York Times",
+                    "Katie Couric.</p><p",
                     "Amazon Music",
-                    "href=\"https://amazon.com/DaigleBites",
-                    "California Privacy Notice"
+                    "Amazon Music",
+                    "href=\"https://amazon.com/DaigleBites"
                 ],
                 "LOC": [
                     "Atlantic"
                 ],
                 "WORK_OF_ART": [
-                    "Dear Therapist",
-                    "target=\"_blank\">https://art19.com/privacy</a>"
+                    "Dear Therapist"
+                ],
+                "GPE": [
+                    "California"
                 ]
             }
         },
@@ -175,6 +175,7 @@
             "title": "Introducing: Daigle Bites Season 2",
             "entities": {
                 "PERSON": [
+                    "Daigle Bites",
                     "Grammy Award",
                     "Lauren Daigle",
                     "Lauren Daigle",
@@ -182,21 +183,20 @@
                     "Shane Kimbrough",
                     "Annie Downs",
                     "Ryan Murphy",
+                    "Netflix",
                     "Kristen Griffith-VanderYacht"
                 ],
                 "DATE": [
+                    "season 2",
                     "this season",
-                    "Wednesday"
+                    "every Wednesday"
                 ],
                 "ORG": [
                     "New York Times",
-                    "Netflix",
-                    "Amazon Music",
-                    "href=\"http://amazon.com",
-                    "California Privacy Notice"
+                    "Amazon Music"
                 ],
-                "WORK_OF_ART": [
-                    "target=\"_blank\">https://art19.com/privacy</a>"
+                "GPE": [
+                    "California"
                 ]
             }
         },
@@ -226,13 +226,13 @@
                     "2"
                 ],
                 "LAW": [
-                    "the \u201cLook Up Child"
+                    "the \u201cLook Up Child\u201d Anniversary"
                 ],
                 "PERSON": [
                     "Leigh Holt"
                 ],
-                "ORG": [
-                    "California Privacy Notice"
+                "GPE": [
+                    "California"
                 ]
             }
         },
@@ -260,18 +260,21 @@
             "entities": {
                 "ORG": [
                     "Daigle Bites",
-                    "Leigh Holt",
-                    "California Privacy Notice"
+                    "Leigh Holt"
                 ],
                 "DATE": [
-                    "2 year",
+                    "the 2 year",
                     "next week"
+                ],
+                "WORK_OF_ART": [
+                    "Look Up Child",
+                    "Look Up Child"
                 ],
                 "CARDINAL": [
                     "2"
                 ],
-                "WORK_OF_ART": [
-                    "target=\"_blank\">https://art19.com/privacy</a>"
+                "GPE": [
+                    "California"
                 ]
             }
         },
@@ -298,16 +301,17 @@
             "title": "Season 1 Bonus Questions",
             "entities": {
                 "ORG": [
-                    "Daigle Bites",
-                    "California Privacy Notice"
+                    "Daigle Bites"
                 ],
                 "DATE": [
                     "May 8th",
-                    "the first season",
+                    "the first season"
+                ],
+                "EVENT": [
                     "Season 2"
                 ],
-                "WORK_OF_ART": [
-                    "target=\"_blank\">https://art19.com/privacy</a>"
+                "GPE": [
+                    "California"
                 ]
             }
         },
@@ -333,13 +337,17 @@
             "pubDate": "Fri, 12 Jun 2020 17:58:12 -0000",
             "title": "George Floyd Reflections",
             "entities": {
-                "ORG": [
-                    "Daigle Bites",
-                    "Instagram Live",
-                    "California Privacy Notice"
+                "PERSON": [
+                    "Daigle Bites"
                 ],
                 "DATE": [
                     "last week's"
+                ],
+                "LOC": [
+                    "Instagram Live"
+                ],
+                "GPE": [
+                    "California"
                 ]
             }
         },
@@ -367,14 +375,13 @@
             "title": "7. Touring",
             "entities": {
                 "ORG": [
-                    "Daigle Bites",
-                    "California Privacy Notice"
+                    "Daigle Bites"
                 ],
                 "DATE": [
                     "This week"
                 ],
-                "WORK_OF_ART": [
-                    "target=\"_blank\">https://art19.com/privacy</a>"
+                "GPE": [
+                    "California"
                 ]
             }
         },
@@ -404,12 +411,11 @@
                 "DATE": [
                     "This week"
                 ],
-                "ORG": [
-                    "Daigle Bites",
-                    "California Privacy Notice"
+                "PERSON": [
+                    "Daigle Bites"
                 ],
-                "WORK_OF_ART": [
-                    "target=\"_blank\">https://art19.com/privacy</a>"
+                "GPE": [
+                    "California"
                 ]
             }
         },
@@ -439,14 +445,12 @@
                 "DATE": [
                     "week"
                 ],
-                "GPE": [
-                    "Louisiana"
-                ],
-                "WORK_OF_ART": [
-                    "target=\"_blank\">https://art19.com/privacy</a>"
-                ],
                 "ORG": [
-                    "California Privacy Notice"
+                    "SWAMP"
+                ],
+                "GPE": [
+                    "Louisiana",
+                    "California"
                 ]
             }
         },
@@ -476,12 +480,11 @@
                 "DATE": [
                     "This week"
                 ],
-                "ORG": [
-                    "Daigle Bites",
-                    "California Privacy Notice"
+                "PERSON": [
+                    "Daigle Bites"
                 ],
-                "WORK_OF_ART": [
-                    "target=\"_blank\">https://art19.com/privacy</a>"
+                "GPE": [
+                    "California"
                 ]
             }
         },
@@ -508,14 +511,14 @@
             "pubDate": "Tue, 07 Apr 2020 08:00:00 -0000",
             "title": "3. Life Outside of Music",
             "entities": {
+                "PERSON": [
+                    "We're"
+                ],
                 "DATE": [
                     "This week"
                 ],
-                "WORK_OF_ART": [
-                    "target=\"_blank\">https://art19.com/privacy</a>"
-                ],
-                "ORG": [
-                    "California Privacy Notice"
+                "GPE": [
+                    "California"
                 ]
             }
         },
@@ -546,14 +549,13 @@
                     "second"
                 ],
                 "ORG": [
-                    "Daigle Bites",
-                    "California Privacy Notice"
+                    "Daigle Bites"
                 ],
                 "DATE": [
                     "Today"
                 ],
-                "WORK_OF_ART": [
-                    "target=\"_blank\">https://art19.com/privacy</a>"
+                "GPE": [
+                    "California"
                 ]
             }
         },
@@ -580,15 +582,12 @@
             "pubDate": "Sat, 21 Mar 2020 00:23:38 -0000",
             "title": "1. Music",
             "entities": {
-                "WORK_OF_ART": [
-                    "Daigle Bites"
-                ],
-                "ORG": [
-                    "Lauren Daigle",
-                    "California Privacy Notice"
+                "PERSON": [
+                    "Lauren Daigle"
                 ],
                 "GPE": [
-                    "Louisiana"
+                    "Louisiana",
+                    "California"
                 ]
             }
         }
@@ -645,23 +644,24 @@
     "title": "Daigle Bites",
     "entities": {
         "PERSON": [
+            "Daigle Bites",
             "Grammy Award",
             "Lauren Daigle",
             "Lauren Daigle",
             "Lori Gottlieb",
             "Shane Kimbrough",
             "Annie Downs",
+            "Netflix",
             "Kristen Griffith-VanderYacht"
         ],
         "DATE": [
+            "season 2",
             "this season",
-            "Wednesday"
+            "every Wednesday"
         ],
         "ORG": [
             "New York Times",
-            "Netflix",
             "Amazon Music",
-            "href=\"http://amazon.com",
             "target=\"_blank\">amazon.com/DaigleBites</a>.</p>\n    "
         ]
     }

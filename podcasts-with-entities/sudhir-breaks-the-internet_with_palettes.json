@@ -35,8 +35,10 @@
             "pubDate": "Tue, 18 May 2021 03:00:00 +0000",
             "title": "5. Can Outside Pressure Change Silicon Valley?",
             "entities": {
+                "PERSON": [
+                    "Sudhir"
+                ],
                 "ORG": [
-                    "Sudhir",
                     "Color of Change"
                 ]
             }
@@ -73,9 +75,6 @@
                 "PERSON": [
                     "Donald Trump",
                     "Noah Feldman"
-                ],
-                "ORG": [
-                    "Sudhir"
                 ]
             }
         },
@@ -108,7 +107,7 @@
                 "PRODUCT": [
                     "Twitter"
                 ],
-                "ORG": [
+                "PERSON": [
                     "Sudhir"
                 ]
             }
@@ -144,9 +143,6 @@
                 ],
                 "PERSON": [
                     "Sudhir"
-                ],
-                "ORG": [
-                    "Facebook"
                 ]
             }
         },
@@ -179,12 +175,12 @@
                 "GPE": [
                     "U.S."
                 ],
+                "FAC": [
+                    "Capitol"
+                ],
                 "DATE": [
                     "January 6",
                     "decades-old"
-                ],
-                "PERSON": [
-                    "Sudhir"
                 ],
                 "TIME": [
                     "one afternoon"
@@ -220,18 +216,17 @@
             "pubDate": "Tue, 16 Feb 2021 18:04:00 +0000",
             "title": "Introducing \u201cSudhir Breaks the Internet\u201d",
             "entities": {
-                "ORG": [
-                    "Facebook",
-                    "the Freakonomics Radio Network.</p"
-                ],
                 "PRODUCT": [
                     "Twitter"
                 ],
                 "LOC": [
                     "Silicon Valley"
                 ],
-                "WORK_OF_ART": [
+                "PERSON": [
                     "Sudhir Breaks"
+                ],
+                "ORG": [
+                    "Freakonomics Radio Network.</p"
                 ]
             }
         }
@@ -277,7 +272,7 @@
             "the Freakonomics Radio Network"
         ],
         "PERSON": [
-            "Sudhir Venkatesh",
+            "Sudhir",
             "Sudhir Breaks"
         ],
         "PRODUCT": [

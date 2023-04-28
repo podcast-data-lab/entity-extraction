@@ -25,11 +25,12 @@
             "pubDate": "Tue, 22 Oct 2019 11:15:00 +0000",
             "title": "The Dark Moon",
             "entities": {
-                "CARDINAL": [
-                    "11"
+                "LAW": [
+                    "Apollo 11"
                 ],
                 "LOC": [
-                    "Earth"
+                    "Earth",
+                    "the moon"
                 ],
                 "WORK_OF_ART": [
                     "Moonrise"
@@ -60,7 +61,7 @@
             "title": "Magnificent Desolation",
             "entities": {
                 "GPE": [
-                    "The United States"
+                    "United States"
                 ],
                 "EVENT": [
                     "the Vietnam War"
@@ -107,8 +108,8 @@
                 "GPE": [
                     "the Soviet Union"
                 ],
-                "DATE": [
-                    "the 10th"
+                "ORDINAL": [
+                    "10th"
                 ],
                 "WORK_OF_ART": [
                     "Moonrise"
@@ -331,6 +332,9 @@
                     "Siberian",
                     "Soviet"
                 ],
+                "PERSON": [
+                    "rocket dreamer"
+                ],
                 "QUANTITY": [
                     "more than 5,000 miles"
                 ],
@@ -371,7 +375,7 @@
                 "ORDINAL": [
                     "third"
                 ],
-                "PERSON": [
+                "GPE": [
                     "Moonrise"
                 ]
             }
@@ -400,13 +404,14 @@
             "title": "Visionaries of the Void",
             "entities": {
                 "GPE": [
-                    "New York"
+                    "New York",
+                    "Moonrise"
+                ],
+                "ORG": [
+                    "sci-fi"
                 ],
                 "NORP": [
                     "American"
-                ],
-                "PERSON": [
-                    "Moonrise"
                 ]
             }
         },
@@ -433,6 +438,9 @@
             "pubDate": "Fri, 19 Jul 2019 13:12:00 +0000",
             "title": "The Tale of the Blue Light",
             "entities": {
+                "LOC": [
+                    "the moon"
+                ],
                 "ORDINAL": [
                     "first"
                 ],
@@ -464,16 +472,22 @@
             "pubDate": "Thu, 18 Jul 2019 21:01:22 +0000",
             "title": "Introducing Moonrise",
             "entities": {
-                "ORG": [
-                    "Washington Post",
-                    "Chicago\u2019s Adler Planetarium",
+                "LOC": [
+                    "the moon"
+                ],
+                "PERSON": [
+                    "Lillian Cunningham",
                     "Lillian Cunningham"
                 ],
-                "CARDINAL": [
-                    "2019.</p><p"
+                "ORG": [
+                    "Washington Post",
+                    "sci-fi"
                 ],
                 "WORK_OF_ART": [
                     "Moonrise"
+                ],
+                "GPE": [
+                    "Chicago"
                 ],
                 "DATE": [
                     "Thursday, July 18"
@@ -518,16 +532,15 @@
     "palette": [],
     "title": "Moonrise",
     "entities": {
-        "WORK_OF_ART": [
-            "Truer"
+        "PERSON": [
+            "Truer",
+            "Sputnik",
+            "Kennedy",
+            "Lillian Cunningham"
         ],
         "GPE": [
             "America",
             "America"
-        ],
-        "PERSON": [
-            "Kennedy",
-            "Moonrise"
         ],
         "NORP": [
             "American",
@@ -538,13 +551,10 @@
         ],
         "ORG": [
             "Washington Post",
-            "Lillian Cunningham"
+            "the Presidential and Constitutional"
         ],
         "EVENT": [
             "the Cold War"
-        ],
-        "LAW": [
-            "Constitutional"
         ],
         "LOC": [
             "Earth"

@@ -37,11 +37,11 @@
                     "James",
                     "Matthew Syed",
                     "Lady Maisery",
-                    "Matthew explores Plato's",
+                    "Matthew",
+                    "Plato",
                     "Angie Hobbs",
-                    "Ian Cross",
                     "Matthew unravels",
-                    "Matthew Syed",
+                    "Matthew Syed\nProducer",
                     "Katherine Godfrey",
                     "Max O'Brien\nMusic",
                     "Rob Speight"
@@ -55,11 +55,12 @@
                     "evening"
                 ],
                 "ORG": [
-                    "the Public Understanding of Philosophy",
                     "the University of Sheffield",
-                    "Music and Science at",
+                    "Ian Cross",
+                    "Emeritus Professor of Music and Science",
                     "the University of Cambridge",
                     "Ioana Selaru",
+                    "Novel",
                     "BBC Radio 4"
                 ]
             }
@@ -86,7 +87,9 @@
             "title": "23. Oostvaardersplassen: A Wild Idea",
             "entities": {
                 "GPE": [
-                    "Netherlands",
+                    "the Netherlands",
+                    "Oostvaardersplassen",
+                    "Sideways",
                     "Oostvaardersplassen"
                 ],
                 "DATE": [
@@ -95,29 +98,34 @@
                 "LOC": [
                     "Earth",
                     "Europe",
-                    "Africa"
+                    "Africa",
+                    "earth"
                 ],
                 "PERSON": [
                     "Matthew Syed",
-                    "Frans Vera",
+                    "Rich",
+                    "Matthew",
                     "George Monbiot",
                     "Clemens Driessen",
                     "Andrea Gammon",
-                    "Frans Vera",
                     "Betty Den Engelsman",
-                    "Pippa Smith\nResearcher",
-                    "Katherine Godfrey\nMusic",
+                    "Pippa Smith",
+                    "Katherine Godfrey\n",
                     "Rob Speight"
                 ],
                 "NORP": [
                     "Dutch",
-                    "Dutch"
+                    "Frans",
+                    "Dutch",
+                    "Frans"
                 ],
                 "ORG": [
-                    "Oostvaardersplassen",
-                    "Nadia Mehdi\nSeries",
                     "Ioana Selaru",
+                    "Novel",
                     "BBC Radio"
+                ],
+                "CARDINAL": [
+                    "4"
                 ]
             }
         },
@@ -150,16 +158,16 @@
                     "Bill Strickland",
                     "Bill",
                     "Frank Ross",
-                    "Mr Ross",
+                    "Ross",
                     "Ross",
                     "Bill",
                     "Bill",
                     "Matthew Syed",
                     "Shalina Patel",
                     "Sarah-Jayne Blakemore",
-                    "Matthew Syed",
-                    "Claire Crofton\nSeries",
-                    "Katherine Godfrey\nMusic",
+                    "Matthew Syed\nProducer",
+                    "Claire Crofton",
+                    "Katherine Godfrey\n",
                     "Rob Speight"
                 ],
                 "TIME": [
@@ -168,8 +176,8 @@
                 "ORG": [
                     "the Manchester Craftsmen\u2019s Guild",
                     "the White House",
-                    "Shalina",
                     "Ioana Selaru",
+                    "Novel",
                     "BBC Radio"
                 ],
                 "GPE": [
@@ -178,7 +186,8 @@
                 ],
                 "CARDINAL": [
                     "Thousands",
-                    "one"
+                    "one",
+                    "4"
                 ]
             }
         },
@@ -214,14 +223,12 @@
                     "Eunice Carter",
                     "Matthew Syed",
                     "Carter",
-                    "Lucky Luciano",
                     "Yun Li",
                     "Marilyn Greenwald",
                     "Eunice Hunton Carter",
                     "Tsedale M Melaku",
-                    "Claude M Steele",
-                    "Matthew Syed",
-                    "Sandra Labady \nSeries",
+                    "Matthew Syed\nProducer",
+                    "Sandra Labady",
                     "Katherine Godfrey",
                     "Rob Speight",
                     "Alex Portfelix"
@@ -236,10 +243,17 @@
                     "Social Justice",
                     "Stanford University",
                     "Nadia Mehdi\nMusic",
+                    "Novel",
                     "BBC Radio"
                 ],
                 "NORP": [
                     "African-American"
+                ],
+                "PRODUCT": [
+                    "Claude M Steele"
+                ],
+                "CARDINAL": [
+                    "4"
                 ]
             }
         },
@@ -277,31 +291,37 @@
                     "Joe",
                     "Matthew Syed",
                     "Matthew",
+                    "Matthew",
                     "Joe Upton",
                     "Carl Peters-Bond",
                     "Freya Harrison",
                     "Christina Lee",
-                    "Dr Kathryn",
-                    "Matthew Syed",
-                    "Marilyn Rust\n",
+                    "Dr Kathryn Woods",
+                    "Matthew Syed\nProducer",
+                    "Marilyn Rust",
+                    "Exec",
                     "Katherine Godfrey",
                     "Rob Speight",
-                    "Alex Portfelix"
+                    "Alex Portfelix",
+                    "Iona Selaru"
                 ],
                 "NORP": [
                     "Anglo"
                 ],
                 "ORG": [
-                    "Warwick University",
+                    "Biopharm Leeches",
+                    "Micro",
                     "Nottingham University Anglo Saxon",
                     "Goldsmith\u2019s University",
-                    "Nadia Mehdi\nMusic Sound, Design & Mix:",
-                    "Seventy Times",
-                    "Iona Selaru",
+                    "Novel",
                     "BBC Radio"
                 ],
+                "WORK_OF_ART": [
+                    "Theme Music: Seventy Times"
+                ],
                 "CARDINAL": [
-                    "Seven"
+                    "Seven",
+                    "4"
                 ]
             }
         },
@@ -330,20 +350,28 @@
                     "Lee Chambers",
                     "Lee",
                     "Matthew Syed",
-                    "Dr Gwen Bradford",
-                    "Matthew Syed",
+                    "Matthew explores",
+                    "Gwen Bradford",
+                    "Matthew",
+                    "Matthew Syed\nProducer",
                     "Katherine Godfrey",
-                    "Max O\u2019Brien\n",
-                    "Nicholas Alexander\nAdditional",
+                    "Max O\u2019Brien",
+                    "Nicholas Alexander",
                     "Alex Portfelix"
                 ],
                 "DATE": [
+                    "day",
                     "seven months"
+                ],
+                "GPE": [
+                    "Sideways"
                 ],
                 "ORG": [
                     "Rice University",
-                    "Nadia Mehdi\nMusic",
                     "BBC Radio"
+                ],
+                "CARDINAL": [
+                    "4"
                 ]
             }
         },
@@ -372,26 +400,31 @@
                     "16-year-old"
                 ],
                 "PERSON": [
+                    "Simon Day",
+                    "Simon",
                     "Matthew Syed",
+                    "Simon",
                     "Joe Moran",
-                    "Dr Alissa Melinger",
-                    "Kathryn Mannix",
-                    "Matthew Syed",
-                    "Pippa Smith\nSeries",
-                    "Katherine Godfrey\nMusic",
-                    "Nicholas Alexander\nTheme Music"
-                ],
-                "ORG": [
-                    "Simon\u2019s",
-                    "Seventy Times",
-                    "Ioana Selaru",
-                    "BBC Radio"
+                    "Alissa Melinger",
+                    "Dr Kathryn Mannix",
+                    "Matthew Syed\nProducer",
+                    "Pippa Smith",
+                    "Katherine Godfrey\n",
+                    "Mix",
+                    "Nicholas Alexander\n"
                 ],
                 "WORK_OF_ART": [
-                    "The Secret Life of Shyness"
+                    "The Secret Life of Shyness",
+                    "Theme Music: Seventy Times"
                 ],
                 "CARDINAL": [
-                    "Seven"
+                    "Seven",
+                    "4"
+                ],
+                "ORG": [
+                    "Ioana Selaru",
+                    "Novel",
+                    "BBC Radio"
                 ]
             }
         },
@@ -427,10 +460,11 @@
                     "Arlene",
                     "Steven Nadler",
                     "Arlene",
-                    "Matthew Syed",
-                    "Claire Crofton\nSeries",
+                    "Matthew Syed\nProducer",
+                    "Claire Crofton",
                     "Katherine Godfrey",
-                    "Nicholas Alexander\nTheme Music"
+                    "Mix",
+                    "Nicholas Alexander\n"
                 ],
                 "LOC": [
                     "Himalayas"
@@ -438,16 +472,20 @@
                 "CARDINAL": [
                     "one",
                     "one",
-                    "Seven"
+                    "Seven",
+                    "4"
                 ],
                 "ORDINAL": [
                     "second"
                 ],
                 "ORG": [
-                    "Nadia Mehdi\nMusic",
-                    "Seventy Times",
+                    "Nadia Mehdi\nMusic, Sound Design",
                     "Ioana Selaru",
+                    "Novel",
                     "BBC Radio"
+                ],
+                "WORK_OF_ART": [
+                    "Theme Music: Seventy Times"
                 ]
             }
         },
@@ -503,27 +541,33 @@
             "entities": {
                 "PERSON": [
                     "Matthew Syed",
+                    "Greeks",
                     "Matthew",
                     "Eugene Sadler-Smith",
                     "Joey T Cheng",
                     "Alessandra Tanesini",
-                    "Matthew Syed",
+                    "Matthew Syed\nProducer",
                     "Katherine Godfrey",
-                    "Max O\u2019Brien\nResearchers",
-                    "Alice Bloch\nMusic",
-                    "Nicholas Alexander\nTheme Music"
+                    "Max O\u2019Brien",
+                    "Alice Bloch\n",
+                    "Mix",
+                    "Nicholas Alexander\n"
                 ],
                 "ORG": [
                     "Organisational Behaviour",
+                    "University of Surrey",
                     "York University",
                     "University of Cardiff",
-                    "Nadia Mehdi",
-                    "Seventy Times",
                     "Ioana Selaru",
+                    "Novel",
                     "BBC Radio"
                 ],
+                "WORK_OF_ART": [
+                    "Theme Music: Seventy Times"
+                ],
                 "CARDINAL": [
-                    "Seven"
+                    "Seven",
+                    "4"
                 ]
             }
         },
@@ -555,6 +599,7 @@
                 ],
                 "GPE": [
                     "Yugoslavia",
+                    "Sideways",
                     "Denmark"
                 ],
                 "DATE": [
@@ -568,30 +613,35 @@
                 "PERSON": [
                     "Matthew Syed",
                     "Richard M\u00f8ller Nielsen",
+                    "M\u00f8ller Nielsen\u2019s",
+                    "Matthew",
                     "Lars Eriksen",
                     "Morten Brunn",
                     "Alexandra Michel",
                     "Greg Walton",
                     "Josef W Meri",
                     "Hamad Bin Khalifa University",
-                    "Matthew Syed",
-                    "Pippa Smith\nSeries",
-                    "Katherine Godfrey\nMusic",
-                    "Nicholas Alexander\nTheme Music"
+                    "Matthew Syed\nProducer",
+                    "Pippa Smith",
+                    "Katherine Godfrey\n",
+                    "Mix",
+                    "Nicholas Alexander\n"
                 ],
                 "ORG": [
-                    "M\u00f8ller Nielsen\u2019s",
-                    "Adjunct",
                     "Graduate School of Education",
                     "University of Pennsylvania",
                     "Stanford University",
                     "the College of Islamic Studies",
-                    "Seventy Times",
                     "Ioana Selaru",
+                    "Novel",
                     "BBC Radio"
                 ],
+                "WORK_OF_ART": [
+                    "Theme Music: Seventy Times"
+                ],
                 "CARDINAL": [
-                    "Seven"
+                    "Seven",
+                    "4"
                 ]
             }
         },
@@ -622,28 +672,40 @@
                     "Amrou Al-Kadhi",
                     "Glamrou",
                     "Glamrou",
+                    "Matthew",
+                    "Rafael Nadal",
                     "Amrou Al-Kadhi",
                     "Glamrou",
                     "Todd Herman",
                     "Ethan Kross",
-                    "Matthew Syed",
-                    "Claire Crofton\nSeries",
-                    "Katherine Godfrey\nMusic",
-                    "Nicholas Alexander\nTheme Music"
+                    "Matthew Syed\nProducer",
+                    "Claire Crofton",
+                    "Katherine Godfrey\n",
+                    "Mix",
+                    "Nicholas Alexander\n"
+                ],
+                "GPE": [
+                    "Sideways",
+                    "n\u2019t"
                 ],
                 "NORP": [
                     "Arab"
                 ],
                 "ORG": [
-                    "Beyonc\u00e9 to Rafael Nadal",
+                    "Beyonc\u00e9",
+                    "Professor of Psychology and Business",
                     "the University of Michigan",
                     "the Emotion and Self Control Laboratory",
-                    "Seventy Times",
                     "Ioana Selaru",
+                    "Novel",
                     "BBC Radio"
                 ],
+                "WORK_OF_ART": [
+                    "Theme Music: Seventy Times"
+                ],
                 "CARDINAL": [
-                    "Seven"
+                    "Seven",
+                    "4"
                 ]
             }
         },
@@ -678,7 +740,6 @@
                     "Ray",
                     "Ray",
                     "Ray",
-                    "Vi",
                     "Ray",
                     "Matthew Syed",
                     "Ray",
@@ -686,37 +747,47 @@
                     "Joanna Shapland",
                     "Edward Bramley",
                     "Sam Fallows",
-                    "Matthew Syed",
+                    "Matthew Syed\nProducer",
                     "Katherine Godfrey",
                     "Max O'Brien\nMusic",
-                    "Nicholas Alexander\nTheme Music"
+                    "Mix",
+                    "Nicholas Alexander\n"
                 ],
                 "CARDINAL": [
                     "three",
                     "three",
                     "two",
                     "three",
-                    "Seven"
+                    "Seven",
+                    "4"
                 ],
                 "DATE": [
                     "18-year-old",
+                    "May",
                     "2001",
                     "Years later",
                     "months"
                 ],
                 "TIME": [
-                    "May evening"
+                    "evening"
+                ],
+                "GPE": [
+                    "Sideways"
+                ],
+                "NORP": [
+                    "Restorative"
                 ],
                 "ORG": [
-                    "MBEs For Services to Restorative Justice",
                     "Dr Kerry Clamp",
                     "University of Nottingham",
-                    "Criminal Justice",
                     "the University of Sheffield",
                     "the Probation Service",
-                    "Seventy Times",
                     "Ioana Selaru",
+                    "Novel",
                     "BBC Radio"
+                ],
+                "WORK_OF_ART": [
+                    "Theme Music: Seventy Times"
                 ]
             }
         },
@@ -745,7 +816,8 @@
                     "Boston",
                     "Massachusetts",
                     "the United States",
-                    "US"
+                    "US",
+                    "Dr"
                 ],
                 "DATE": [
                     "1970",
@@ -756,34 +828,45 @@
                 ],
                 "ORG": [
                     "Senate",
-                    "Debbie Charren",
-                    "Brain Sciences",
+                    "Psychological and Brain Sciences",
                     "University of Massachusetts Amherst",
+                    "Associate Professor of Economic Psychology",
                     "the London School of Economics",
                     "Teletubbies",
-                    "Seventy Times",
                     "Ioana Selaru",
+                    "Novel",
                     "BBC Radio"
                 ],
                 "PERSON": [
                     "Matthew Syed",
                     "Peggy Charren",
+                    "Peggy",
                     "Daniel Anderson",
+                    "Matthew",
+                    "Debbie Charren",
+                    "Peggy",
                     "Robert Krock",
                     "Daniel Anderson",
+                    "Emeritus",
                     "Michael Muthukrishna",
                     "Andrew Davenport",
-                    "Matthew Syed",
-                    "Caroline Thornham",
-                    "Katherine Godfrey\nMusic",
+                    "Moon",
+                    "Matthew Syed\nProducer",
+                    "Caroline Thornham \n",
+                    "Katherine Godfrey\n",
+                    "Mix",
                     "Nicholas Alexander"
                 ],
                 "FAC": [
                     "Sesame Street",
                     "the Night Garden"
                 ],
+                "WORK_OF_ART": [
+                    "Seventy Times"
+                ],
                 "CARDINAL": [
-                    "Seven"
+                    "Seven",
+                    "4"
                 ]
             }
         },
@@ -811,7 +894,6 @@
                 "GPE": [
                     "California",
                     "San Francisco's",
-                    "San Francisco-",
                     "West Oakland",
                     "San Francisco",
                     "West Oakland"
@@ -824,25 +906,24 @@
                     "the months and years"
                 ],
                 "FAC": [
-                    "Candlestick Park",
-                    "the Darden School of Business"
+                    "Candlestick Park"
                 ],
                 "ORG": [
                     "the Oakland Athletics",
                     "the San Francisco Giants",
+                    "Darrell Ford",
                     "the West Oakland Citizens Advisory Board",
                     "the San Francisco Bay Area's",
                     "Metropolitan Transportation Commission",
-                    "Chair of Major Programme Management",
-                    "Sa\u00efd Business School",
-                    "University of Oxford",
-                    "Business Administration",
-                    "University of Virginia",
-                    "the Department of City and Regional Planning",
+                    "Major Programme Management",
+                    "Sa\u00efd Business School, University of Oxford",
+                    "Professor of Business Administration",
+                    "the Darden School of Business, University of Virginia",
+                    "the Department of City",
                     "UC Berkeley",
                     "the West Oakland Environmental Indicators Project",
-                    "Seventy Times",
                     "Ioana Selaru",
+                    "Novel",
                     "BBC Radio"
                 ],
                 "ORDINAL": [
@@ -854,7 +935,8 @@
                     "42",
                     "Two",
                     "one",
-                    "Seven"
+                    "Seven",
+                    "4"
                 ],
                 "NORP": [
                     "Californian"
@@ -863,20 +945,24 @@
                     "the Bay"
                 ],
                 "LAW": [
-                    "the Iron Law of Megaprojects - which"
+                    "the Iron Law of Megaprojects"
                 ],
                 "PERSON": [
-                    "Darrell Ford",
+                    "Matthew",
                     "Steve Heminger",
                     "Bent Flyvbjerg",
                     "Yael Grushka-Cockayne",
                     "Karen Trapenberg Frick",
                     "Ms Margaret Gordon",
-                    "Matthew Syed",
+                    "Matthew Syed\nProducer",
                     "Eleanor Biggs",
                     "Katherine Godfrey",
                     "Max O'Brien\nMusic",
-                    "Nicholas Alexander\nTheme Music"
+                    "Mix",
+                    "Nicholas Alexander\n"
+                ],
+                "WORK_OF_ART": [
+                    "Theme Music: Seventy Times"
                 ]
             }
         },
@@ -903,7 +989,7 @@
             "entities": {
                 "DATE": [
                     "1990",
-                    "a six week",
+                    "six week",
                     "mid-century",
                     "the 1980s"
                 ],
@@ -920,36 +1006,37 @@
                     "David Van Taylor",
                     "Timothy E. Moore",
                     "Hugo Mercier",
+                    "Jean Nicod",
                     "Wilson B. Key",
-                    "Matthew Syed",
+                    "Matthew Syed\nProducer",
                     "Katherine Godfrey",
                     "Max O'Brien\nMusic",
-                    "Nicholas Alexander\nTheme Music"
+                    "Mix",
+                    "Nicholas Alexander\n"
                 ],
                 "CARDINAL": [
                     "two",
-                    "Seven"
-                ],
-                "ORG": [
-                    "Better Than Me",
-                    "Court TV",
-                    "YouTube",
-                    "Dream Deceivers:",
-                    "Heavy Metal",
-                    "Trial",
-                    "the Department of Psychology",
-                    "Glendon College",
-                    "York University",
-                    "the CNRS Institut Jean Nicod",
-                    "KPFK",
-                    "Pacifica Radio Archives",
-                    "BBC Action",
-                    "Seventy Times",
-                    "Ioana Selaru",
-                    "BBC Radio"
+                    "Seven",
+                    "4"
                 ],
                 "ORDINAL": [
                     "first"
+                ],
+                "ORG": [
+                    "YouTube",
+                    "Heavy Metal on Trial",
+                    "the Department of Psychology",
+                    "Glendon College",
+                    "York University",
+                    "KPFK",
+                    "Pacifica Radio Archives",
+                    "BBC Action Line",
+                    "Ioana Selaru",
+                    "Novel",
+                    "BBC Radio"
+                ],
+                "WORK_OF_ART": [
+                    "Theme Music: Seventy Times"
                 ]
             }
         },
@@ -979,51 +1066,60 @@
                     "1998",
                     "four years earlier"
                 ],
-                "ORG": [
+                "CARDINAL": [
                     "9.30pm",
-                    "Deep Impact",
-                    "the London School of Economics",
-                    "University of Macau",
-                    "Seventy Times",
-                    "Ioana Selaru",
-                    "BBC Radio"
+                    "Seven",
+                    "4"
                 ],
                 "ORDINAL": [
                     "first"
+                ],
+                "GPE": [
+                    "Sideways",
+                    "Hollywood"
                 ],
                 "PERSON": [
                     "Matthew Syed",
                     "Matthew Bay",
                     "Mimi Leder",
+                    "Armageddon",
+                    "Matthew",
+                    "Matthew",
                     "Ian Leslie",
                     "Kristen Lopez",
                     "Michael Muthukrishna",
                     "Nick Groom",
-                    "Matthew Syed",
+                    "Matthew Syed\nProducer",
                     "Katherine Godfrey",
                     "Max O'Brien\nMusic",
-                    "Nicholas Alexander\nResearch and Development",
+                    "Mix",
+                    "Nicholas Alexander\n",
                     "Gavin Haynes",
-                    "Madeleine Parr\n"
+                    "Madeleine Parr"
                 ],
-                "GPE": [
-                    "Hollywood"
+                "WORK_OF_ART": [
+                    "Deep Impact",
+                    "Theme Music: Seventy Times"
                 ],
                 "TIME": [
                     "late-night"
                 ],
                 "LOC": [
-                    "Jupiter",
-                    "Indiewire"
+                    "the Shoemaker-Levy 9 Comet",
+                    "Jupiter"
                 ],
                 "NORP": [
-                    "American"
-                ],
-                "LANGUAGE": [
+                    "American",
+                    "Indiewire",
                     "English"
                 ],
-                "CARDINAL": [
-                    "Seven"
+                "ORG": [
+                    "Associate Professor of Economic Psychology",
+                    "the London School of Economics",
+                    "University of Macau",
+                    "Ioana Selaru",
+                    "Novel",
+                    "BBC Radio"
                 ]
             }
         },
@@ -1050,6 +1146,9 @@
             "entities": {
                 "PERSON": [
                     "Matthew Syed"
+                ],
+                "GPE": [
+                    "Sideways"
                 ]
             }
         },
@@ -1082,17 +1181,20 @@
                     "Matthew Syed",
                     "Joshua",
                     "Matthew",
+                    "Matthew",
                     "Eleanor Biggs",
-                    "Benbrick",
-                    "Russell Finch",
+                    "Benbrick\nSeries Editor",
                     "Sean Glynn",
                     "Max O'Brien"
                 ],
                 "ORG": [
-                    "the USA National Memory Championships",
+                    "the USA National",
+                    "Music, Sound Design",
+                    "Russell Finch\nExecutive Producers",
+                    "Novel",
                     "BBC Radio"
                 ],
-                "LAW": [
+                "EVENT": [
                     "the Ancient Greeks"
                 ],
                 "DATE": [
@@ -1102,6 +1204,9 @@
                 ],
                 "GPE": [
                     "Manhattan"
+                ],
+                "CARDINAL": [
+                    "4"
                 ]
             }
         },
@@ -1132,18 +1237,18 @@
                     "Paul McCartney",
                     "John Lennon",
                     "Matthew Syed",
+                    "Matthew",
                     "Martin",
-                    "Martin",
+                    "Matthew",
                     "Thomas Curry",
-                    "Russell Finch",
-                    "Benbrick",
-                    "Russell Finch",
+                    "Benbrick\nSeries Editor",
                     "Sean Glynn",
                     "Max O'Brien"
                 ],
                 "CARDINAL": [
                     "23",
-                    "one"
+                    "one",
+                    "4"
                 ],
                 "ORDINAL": [
                     "second"
@@ -1155,6 +1260,9 @@
                     "recent years"
                 ],
                 "ORG": [
+                    "Martin",
+                    "Russell Finch\nExecutive Producers",
+                    "Novel",
                     "BBC Radio"
                 ]
             }
@@ -1182,6 +1290,9 @@
             "entities": {
                 "ORG": [
                     "Amazon",
+                    "Music, Sound Design",
+                    "Russell Finch\nExecutive Producers",
+                    "Novel",
                     "BBC Radio"
                 ],
                 "MONEY": [
@@ -1190,14 +1301,16 @@
                 "PERSON": [
                     "Matthew Syed",
                     "Tony Hsieh",
-                    "Robbie MacInnes\nMusic",
-                    "Benbrick",
-                    "Russell Finch",
+                    "Robbie MacInnes\n",
+                    "Benbrick\nSeries Editor",
                     "Sean Glynn",
                     "Max O'Brien"
                 ],
                 "GPE": [
                     "Las Vegas"
+                ],
+                "CARDINAL": [
+                    "4"
                 ]
             }
         },
@@ -1230,27 +1343,34 @@
                 ],
                 "GPE": [
                     "Congo",
-                    "Uganda"
+                    "Turnbull",
+                    "Mbuti",
+                    "Uganda",
+                    "Turnbull"
                 ],
                 "PERSON": [
                     "Colin Turnbull",
                     "Matthew Syed",
                     "Turnbull",
-                    "Turnbull",
-                    "Turnbull",
-                    "Turnbull",
-                    "Turnbull",
-                    "Mike Martinez\nMusic",
-                    "Benbrick",
-                    "Russell Finch",
+                    "Matthew",
+                    "Mike Martinez\n",
+                    "Benbrick\nSeries Editor",
                     "Sean Glynn",
                     "Max O'Brien"
                 ],
-                "LOC": [
-                    "Mbuti"
-                ],
                 "ORG": [
+                    "Turnbull",
+                    "Ik",
+                    "Turnbull",
+                    "Ik",
+                    "Turnbull",
+                    "Music, Sound Design",
+                    "Russell Finch\nExecutive Producers",
+                    "Novel",
                     "BBC Radio"
+                ],
+                "CARDINAL": [
+                    "4"
                 ]
             }
         },
@@ -1279,11 +1399,12 @@
                     "Matthew Syed",
                     "John Boyd",
                     "Boyd",
+                    "Matthew",
                     "Boyd",
                     "Brexit",
                     "Matthew",
-                    "Robbie MacInnes\nMusic",
-                    "Benbrick",
+                    "Robbie MacInnes\n",
+                    "Benbrick\nSeries Editor",
                     "Russell Finch",
                     "Sean Glynn",
                     "Max O'Brien"
@@ -1294,10 +1415,15 @@
                 "ORG": [
                     "the US Air Force",
                     "Dominic Cummings",
+                    "Music, Sound Design",
+                    "Novel",
                     "BBC Radio"
                 ],
-                "DATE": [
+                "TIME": [
                     "under 40 seconds"
+                ],
+                "CARDINAL": [
+                    "4"
                 ]
             }
         },
@@ -1327,8 +1453,10 @@
                 ],
                 "PERSON": [
                     "Matthew Syed",
-                    "Robbie MacInnes\nMusic",
-                    "Benbrick",
+                    "Matthew",
+                    "Matthew",
+                    "Robbie MacInnes\n",
+                    "Benbrick\nSeries Editor",
                     "Russell Finch",
                     "Sean Glynn",
                     "Max O'Brien"
@@ -1337,7 +1465,12 @@
                     "96%"
                 ],
                 "ORG": [
+                    "Music, Sound Design",
+                    "Novel",
                     "BBC Radio"
+                ],
+                "CARDINAL": [
+                    "4"
                 ]
             }
         },
@@ -1364,17 +1497,21 @@
             "entities": {
                 "PERSON": [
                     "Matthew",
-                    "Gemma Newby",
-                    "Benbrick",
+                    "Matthew",
+                    "Matthew",
+                    "Gemma Newby\n",
+                    "Benbrick\nSeries Editor",
                     "Russell Finch",
                     "Sean Glynn",
                     "Max O'Brien"
                 ],
                 "CARDINAL": [
                     "two",
-                    "two"
+                    "two",
+                    "4"
                 ],
                 "ORG": [
+                    "Novel",
                     "BBC Radio"
                 ]
             }
@@ -1404,9 +1541,8 @@
                     "Matthew Syed",
                     "Stockholm Syndrome",
                     "Matthew Syed",
-                    "Gemma Newby",
-                    "Benbrick",
-                    "Russell Finch",
+                    "Gemma Newby\n",
+                    "Benbrick\nSeries Editor",
                     "Sean Glynn",
                     "Max O'Brien"
                 ],
@@ -1414,7 +1550,12 @@
                     "Swedish"
                 ],
                 "ORG": [
+                    "Russell Finch\nExecutive Producers",
+                    "Novel",
                     "BBC Radio"
+                ],
+                "CARDINAL": [
+                    "4"
                 ]
             }
         },
@@ -1441,8 +1582,10 @@
             "entities": {
                 "PERSON": [
                     "Matthew Syed",
-                    "Peabody Prize",
                     "Benbrick"
+                ],
+                "WORK_OF_ART": [
+                    "Peabody Prize"
                 ]
             }
         }

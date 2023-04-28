@@ -54,8 +54,11 @@
                 "PERSON": [
                     "Kelechi Okafor"
                 ],
-                "GPE": [
+                "NORP": [
                     "Yoruba"
+                ],
+                "GPE": [
+                    "n\u2019t"
                 ]
             }
         },
@@ -80,6 +83,9 @@
             "pubDate": "Tue, 29 Sep 2020 05:00:00 +0000",
             "title": "Interracial dating, Ayesha Perry-Iqbal and Athena Kugblenu",
             "entities": {
+                "PERSON": [
+                    "Ayesha"
+                ],
                 "NORP": [
                     "British"
                 ],
@@ -87,8 +93,7 @@
                     "LA"
                 ],
                 "ORG": [
-                    "Athena",
-                    "Instagram"
+                    "Athena"
                 ]
             }
         },
@@ -114,7 +119,11 @@
             "title": "Money, mindset and Monty",
             "entities": {
                 "PERSON": [
-                    "Bola Sol"
+                    "Bola Sol",
+                    "Franklin Asante"
+                ],
+                "ORG": [
+                    "The Urban Financier"
                 ]
             }
         },
@@ -150,6 +159,7 @@
                 ],
                 "NORP": [
                     "Dutch",
+                    "Sudanese",
                     "Dutch"
                 ],
                 "ORG": [
@@ -186,6 +196,9 @@
             "entities": {
                 "ORG": [
                     "Samantha Sun"
+                ],
+                "PERSON": [
+                    "April Fiasco"
                 ]
             }
         },
@@ -210,33 +223,30 @@
             "pubDate": "Tue, 01 Sep 2020 03:00:00 +0000",
             "title": "Notting Hill Carnival, what it means to us in 2020",
             "entities": {
-                "DATE": [
-                    "Holiday weekend",
-                    "61 years",
-                    "this year"
-                ],
                 "GPE": [
                     "UK"
                 ],
                 "ORDINAL": [
                     "first"
                 ],
-                "PERSON": [
-                    "Notting Hill Carnival",
-                    "Maxine Marshall",
-                    "Portia Clarke"
+                "DATE": [
+                    "61 years",
+                    "this year"
                 ],
-                "LOC": [
-                    "Caribbean"
+                "PERSON": [
+                    "Hill Carnival",
+                    "Marshall"
                 ],
                 "NORP": [
+                    "Caribbean",
                     "British"
                 ],
                 "CARDINAL": [
                     "three"
                 ],
                 "ORG": [
-                    "Lil\u2019 C"
+                    "Samba",
+                    "Portia Clarke a Music Marketing Consultant"
                 ]
             }
         },
@@ -264,8 +274,11 @@
                 "PERSON": [
                     "Kadeen Corbin"
                 ],
-                "ORG": [
+                "WORK_OF_ART": [
                     "Netball for England"
+                ],
+                "LANGUAGE": [
+                    "Black"
                 ],
                 "NORP": [
                     "British"
@@ -293,15 +306,19 @@
             "pubDate": "Tue, 18 Aug 2020 03:00:00 +0000",
             "title": "Travelling: Solo, Black & Female",
             "entities": {
+                "PERSON": [
+                    "Lockdown",
+                    "Jessica Nabongo",
+                    "Tolani Shoneye"
+                ],
                 "ORDINAL": [
                     "first"
                 ],
                 "CARDINAL": [
                     "195"
                 ],
-                "PERSON": [
-                    "Jessica Nabongo",
-                    "Tolani Shoneye"
+                "LOC": [
+                    "the Receipts Podcast"
                 ]
             }
         },
@@ -326,14 +343,15 @@
             "pubDate": "Tue, 11 Aug 2020 12:47:00 +0000",
             "title": "Black, British and Jewish",
             "entities": {
-                "ORG": [
-                    "Nadine Batchelor-Hunt",
-                    "Wiley"
+                "PERSON": [
+                    "Nadine Batchelor-Hunt"
                 ],
                 "NORP": [
                     "Jewish",
-                    "anti-Semitic",
                     "Jewish"
+                ],
+                "ORG": [
+                    "Wiley"
                 ],
                 "GPE": [
                     "U.K."
@@ -363,10 +381,9 @@
             "entities": {
                 "PERSON": [
                     "Kiley Reid",
-                    "Sarah Shaffi"
-                ],
-                "ORG": [
-                    "Natalie and Melissa of Black Girls Book Club"
+                    "Sarah Shaffi",
+                    "Natalie",
+                    "Melissa"
                 ]
             }
         },
@@ -421,7 +438,7 @@
             "title": "Healing, Grace F Victory & Coco Khan",
             "entities": {
                 "PERSON": [
-                    "Grace F Victory and",
+                    "Grace F Victory",
                     "Coco Khan",
                     "Grace",
                     "Coco"
@@ -455,10 +472,10 @@
                 "NORP": [
                     "Indian"
                 ],
-                "PERSON": [
-                    "Chef Tomi Makanjuola"
-                ],
                 "ORG": [
+                    "The Vegan Nigerian"
+                ],
+                "PERSON": [
                     "Celebrity Masterchef",
                     "Riyadh Khalaf"
                 ]
@@ -494,9 +511,6 @@
                 ],
                 "NORP": [
                     "Nigerian"
-                ],
-                "GPE": [
-                    "NoCountryForYoungWomen@bbc.co.uk"
                 ]
             }
         },
@@ -522,14 +536,15 @@
             "title": "White Women\u2019s Privilege, Amelia Dimoldenberg and Dr Charlotte Riley",
             "entities": {
                 "PERSON": [
-                    "Chicken Shop Date",
-                    "Dimoldenberg",
+                    "Amelia Dimoldenberg",
                     "Charlotte Riley",
-                    "Amelia",
-                    "Charlotte"
+                    "Amelia"
                 ],
                 "ORG": [
                     "Southampton University"
+                ],
+                "GPE": [
+                    "Charlotte"
                 ]
             }
         },
@@ -592,11 +607,13 @@
                 "CARDINAL": [
                     "1Xtra"
                 ],
+                "PERSON": [
+                    "Wiley",
+                    "Dotty",
+                    "George Floyd"
+                ],
                 "DATE": [
                     "a few weeks ago"
-                ],
-                "PERSON": [
-                    "George Floyd"
                 ]
             }
         },
@@ -621,6 +638,9 @@
             "pubDate": "Tue, 09 Jun 2020 03:00:00 +0000",
             "title": "Ramadan, Thanna Alghabban and Mobeen Azhar",
             "entities": {
+                "ORG": [
+                    "Sadia"
+                ],
                 "ORDINAL": [
                     "first"
                 ],
@@ -629,10 +649,8 @@
                     "Muslim"
                 ],
                 "PERSON": [
+                    "Mobeen Azhar",
                     "Thanna Alghabban"
-                ],
-                "GPE": [
-                    "NoCountryForYoungWomen@bbc.co.uk"
                 ]
             }
         },
@@ -689,14 +707,9 @@
             "pubDate": "Tue, 26 May 2020 03:00:00 +0000",
             "title": "We're back together again\u2026 almost!",
             "entities": {
-                "CARDINAL": [
-                    "4"
-                ],
                 "DATE": [
+                    "this season",
                     "this season"
-                ],
-                "GPE": [
-                    "NoCountryForYoungWomen@bbc.co.uk"
                 ]
             }
         },
@@ -756,6 +769,9 @@
                 "NORP": [
                     "African",
                     "African"
+                ],
+                "GPE": [
+                    "Amaarae"
                 ]
             }
         },
@@ -780,8 +796,17 @@
             "pubDate": "Tue, 26 Nov 2019 04:00:00 +0000",
             "title": "Begging, benefits and Solomon Smith",
             "entities": {
+                "DATE": [
+                    "the day"
+                ],
+                "ORG": [
+                    "the Brixton Soup Kitchen"
+                ],
                 "PERSON": [
                     "Solomon Smith"
+                ],
+                "CARDINAL": [
+                    "only two"
                 ]
             }
         },
@@ -808,7 +833,8 @@
             "entities": {
                 "ORG": [
                     "Kym & Jay",
-                    "YouTube"
+                    "YouTube",
+                    "the Triple Cripples"
                 ],
                 "GPE": [
                     "T.I."
@@ -835,14 +861,7 @@
             "link": "http://www.bbc.co.uk/programmes/p07tc536",
             "pubDate": "Tue, 12 Nov 2019 04:00:00 +0000",
             "title": "Gentrification, change and Joy Crookes",
-            "entities": {
-                "PERSON": [
-                    "Joy Crookes"
-                ],
-                "GPE": [
-                    "NoCountryForYoungWomen@bbc.co.uk"
-                ]
-            }
+            "entities": {}
         },
         {
             "content": "The tr\u00e8s fantastique Rokhaya & Grace, aka Kiffe Ta Race podcasters, chat race and racism in France. Plus we hit the streets of Paris to talk burqa bans, yellow fever, and French men...",
@@ -905,8 +924,8 @@
                     "Ahir Shah",
                     "Emily Lloyd-Saini"
                 ],
-                "ORG": [
-                    "Asian Network"
+                "NORP": [
+                    "Asian"
                 ]
             }
         },
@@ -932,7 +951,7 @@
             "title": "Therapy, county lines and Ashley Madekwe",
             "entities": {
                 "GPE": [
-                    "London",
+                    "South London",
                     "Hollywood",
                     "Britain"
                 ],
@@ -965,18 +984,15 @@
             "pubDate": "Tue, 15 Oct 2019 03:00:00 +0000",
             "title": "Food, foreplay and Ainsley Harriott",
             "entities": {
-                "ORG": [
-                    "Icon"
-                ],
                 "PERSON": [
-                    "Ready Steady Cook",
+                    "Steady Cook",
                     "Ainsley Harriott"
+                ],
+                "CARDINAL": [
+                    "one"
                 ],
                 "ORDINAL": [
                     "first"
-                ],
-                "GPE": [
-                    "NoCountryForYoungWomen@bbc.co.uk"
                 ]
             }
         },
@@ -1005,8 +1021,8 @@
                     "Michelle Obama\u2019s",
                     "Phoebe Robinson"
                 ],
-                "GPE": [
-                    "NoCountryForYoungWomen@bbc.co.uk"
+                "ORG": [
+                    "BFF"
                 ]
             }
         },
@@ -1036,10 +1052,8 @@
                 ],
                 "PERSON": [
                     "Phil",
+                    "Wiley",
                     "Ed"
-                ],
-                "GPE": [
-                    "NoCountryForYoungWomen@bbc.co.uk"
                 ]
             }
         },
@@ -1073,11 +1087,12 @@
                 ],
                 "GPE": [
                     "Hollywood",
-                    "Hollywood",
-                    "NoCountryForYoungWomen@bbc.co.uk"
+                    "Hollywood"
                 ],
                 "PERSON": [
-                    "Rose McGowan"
+                    "MeToo",
+                    "Rose McGowan",
+                    "MeToo"
                 ]
             }
         },
@@ -1102,9 +1117,8 @@
             "pubDate": "Tue, 17 Sep 2019 03:00:00 +0000",
             "title": "No Comedy For Young Women! Part 2",
             "entities": {
-                "ORG": [
-                    "the Edinburgh Fringe Festival",
-                    "BBC"
+                "FAC": [
+                    "the Edinburgh Fringe Festival"
                 ],
                 "CARDINAL": [
                     "2"
@@ -1112,6 +1126,9 @@
                 "PERSON": [
                     "Charlie George",
                     "Darren Harriott"
+                ],
+                "ORG": [
+                    "BBC"
                 ]
             }
         },
@@ -1136,17 +1153,19 @@
             "pubDate": "Tue, 17 Sep 2019 03:00:00 +0000",
             "title": "No Comedy For Young Women! Part 1",
             "entities": {
-                "ORG": [
-                    "the Edinburgh Fringe Festival",
-                    "BBC"
+                "FAC": [
+                    "the Edinburgh Fringe Festival"
                 ],
                 "CARDINAL": [
                     "1"
                 ],
                 "PERSON": [
                     "Michael Odewale",
-                    "Aditi Mittal",
                     "Loyiso Gola"
+                ],
+                "ORG": [
+                    "Aditi Mittal",
+                    "BBC"
                 ]
             }
         },
@@ -1248,8 +1267,8 @@
             "pubDate": "Tue, 30 Apr 2019 03:00:00 +0000",
             "title": "Nonna, Nigeria and Monty Onanuga",
             "entities": {
-                "CARDINAL": [
-                    "\u2019m"
+                "ORG": [
+                    "Sadia"
                 ],
                 "GPE": [
                     "Nigeria"
@@ -1304,6 +1323,10 @@
             "pubDate": "Tue, 16 Apr 2019 03:00:00 +0000",
             "title": "Strength, swords and Shaina West",
             "entities": {
+                "ORG": [
+                    "Martial",
+                    "The Samurider"
+                ],
                 "PERSON": [
                     "Shaina"
                 ]
@@ -1330,11 +1353,11 @@
             "pubDate": "Tue, 09 Apr 2019 03:00:00 +0000",
             "title": "Faith, pride and Riyadh Khalaf",
             "entities": {
-                "ORG": [
+                "GPE": [
                     "Riyadh"
                 ],
                 "NORP": [
-                    "Muslim"
+                    "Muslim-Catholic"
                 ],
                 "PERSON": [
                     "Nan"
@@ -1389,7 +1412,7 @@
             "title": "Coming, comedy and Nish Kumar",
             "entities": {
                 "PERSON": [
-                    "Kumar"
+                    "Nish Kumar"
                 ]
             }
         },
@@ -1416,6 +1439,9 @@
             "entities": {
                 "ORG": [
                     "Queenie"
+                ],
+                "PERSON": [
+                    "Candice"
                 ]
             }
         },
@@ -1443,6 +1469,9 @@
                 "PERSON": [
                     "Charlie Brinkhurst-Cuff"
                 ],
+                "GPE": [
+                    "BAME"
+                ],
                 "NORP": [
                     "British"
                 ]
@@ -1469,12 +1498,11 @@
             "pubDate": "Tue, 05 Mar 2019 09:50:00 +0000",
             "title": "Baking, belonging and Benjamina Ebuehi",
             "entities": {
-                "PERSON": [
-                    "Bake Off",
-                    "Shamima Begum"
+                "ORG": [
+                    "Bake Off"
                 ],
-                "GPE": [
-                    "Benjamina"
+                "PERSON": [
+                    "Shamima Begum"
                 ]
             }
         },
@@ -1528,8 +1556,11 @@
             "pubDate": "Tue, 19 Feb 2019 04:00:00 +0000",
             "title": "Art, inspiration and Nicole Krystal Crentsil",
             "entities": {
+                "EVENT": [
+                    "Black Girl Festival"
+                ],
                 "PERSON": [
-                    "Nicole Krystal"
+                    "Nicole Krystal Crentsil"
                 ]
             }
         },
@@ -1588,11 +1619,7 @@
             "title": "Jollof, jobs and Stephanie Yeboah",
             "entities": {
                 "PERSON": [
-                    "Stephanie Yeboah",
-                    "Kelly"
-                ],
-                "CARDINAL": [
-                    "jollof"
+                    "Stephanie Yeboah"
                 ]
             }
         },
@@ -1670,8 +1697,10 @@
             "pubDate": "Tue, 15 Jan 2019 04:00:00 +0000",
             "title": "Ghettos, games and Jay-Ann Lopez",
             "entities": {
+                "WORK_OF_ART": [
+                    "Black Girl Gamers"
+                ],
                 "PERSON": [
-                    "Black Girl Gamers",
                     "Jay-Ann Lopez"
                 ]
             }
@@ -1811,6 +1840,7 @@
             "title": "E09: Burkas, bikinis and Salma El-Wardany",
             "entities": {
                 "PERSON": [
+                    "dick pic",
                     "Salma El-Wardany",
                     "Laura"
                 ],
@@ -1892,6 +1922,9 @@
             "pubDate": "Tue, 22 May 2018 04:00:00 +0000",
             "title": "E06: Body positivity, self-care and Grace F Victory",
             "entities": {
+                "PERSON": [
+                    "Grace F Victory"
+                ],
                 "ORG": [
                     "FAQ"
                 ]
@@ -1948,8 +1981,10 @@
             "pubDate": "Tue, 08 May 2018 04:00:00 +0000",
             "title": "E04: Famalam, yonis and Vivienne Acheampong",
             "entities": {
+                "ORG": [
+                    "Famalam"
+                ],
                 "PERSON": [
-                    "Famalam",
                     "Vivienne Acheampong"
                 ]
             }
@@ -2033,6 +2068,9 @@
             "pubDate": "Tue, 17 Apr 2018 04:00:00 +0000",
             "title": "E01: Sex, headscarves and Yassmin Abdel-Magied",
             "entities": {
+                "LANGUAGE": [
+                    "Black"
+                ],
                 "NORP": [
                     "British Asian",
                     "Muslim"

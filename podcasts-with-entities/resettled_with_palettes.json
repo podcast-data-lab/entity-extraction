@@ -16,7 +16,7 @@
             "enclosure": {
                 "length": "0",
                 "type": "audio/mpeg",
-                "url": "https://www.podtrac.com/pts/redirect.mp3/traffic.megaphone.fm/VPM5338878239.mp3?updated=1627670594"
+                "url": "https://www.podtrac.com/pts/redirect.mp3/traffic.megaphone.fm/VPM5338878239.mp3?updated=1627670714"
             },
             "guid": "c9e6f094-f15e-11eb-bcc1-87257c0b475e",
             "isoDate": "2021-07-30T18:30:00.000Z",
@@ -33,9 +33,6 @@
             "pubDate": "Fri, 30 Jul 2021 18:30:00 -0000",
             "title": "Bonus: One Year Later",
             "entities": {
-                "PRODUCT": [
-                    "Resettled"
-                ],
                 "PERSON": [
                     "Angela Massino",
                     "Chef Noori",
@@ -64,7 +61,7 @@
             "enclosure": {
                 "length": "0",
                 "type": "audio/mpeg",
-                "url": "https://www.podtrac.com/pts/redirect.mp3/traffic.megaphone.fm/VPM4429034079.mp3?updated=1605135763"
+                "url": "https://www.podtrac.com/pts/redirect.mp3/traffic.megaphone.fm/VPM4429034079.mp3?updated=1605135883"
             },
             "guid": "9f95449c-2460-11eb-891e-fbe001023bf3",
             "isoDate": "2020-11-12T00:30:00.000Z",
@@ -83,19 +80,20 @@
             "entities": {
                 "PERSON": [
                     "Ahmed Badr",
-                    "Chioke",
+                    "Chioke I\u2019Anson",
                     "Justin Gandy"
                 ],
-                "CARDINAL": [
-                    "two"
-                ],
                 "ORG": [
+                    "the VPM+ICA Community Media Center",
                     "the International Rescue Committee",
                     "Fatimah",
                     "Education"
                 ],
-                "PRODUCT": [
-                    "Resettled"
+                "CARDINAL": [
+                    "two"
+                ],
+                "NORP": [
+                    "Guests"
                 ]
             }
         },
@@ -148,16 +146,18 @@
                 "WORK_OF_ART": [
                     "The Language Learner"
                 ],
-                "PERSON": [
+                "ORG": [
                     "Jakob Lewis",
-                    "Bailey Robbins",
+                    "Nashville Public Radio",
+                    "Neighbors"
+                ],
+                "LOC": [
+                    "Bailey Robbins"
+                ],
+                "PERSON": [
                     "Emily Siner",
                     "Mack Linebaugh",
                     "Podington Bear"
-                ],
-                "ORG": [
-                    "Nashville Public Radio",
-                    "Neighbors"
                 ]
             }
         },
@@ -236,6 +236,9 @@
                 "NORP": [
                     "Afghan",
                     "American"
+                ],
+                "ORG": [
+                    "The Mantu"
                 ]
             }
         },
@@ -247,7 +250,7 @@
             "enclosure": {
                 "length": "0",
                 "type": "audio/mpeg",
-                "url": "https://www.podtrac.com/pts/redirect.mp3/traffic.megaphone.fm/VPM8001949228.mp3?updated=1594318091"
+                "url": "https://www.podtrac.com/pts/redirect.mp3/traffic.megaphone.fm/VPM8001949228.mp3?updated=1594318211"
             },
             "guid": "33234bec-b1a1-11ea-8ffb-33d5df5c302d",
             "isoDate": "2020-07-10T11:30:00.000Z",
@@ -265,8 +268,11 @@
             "pubDate": "Fri, 10 Jul 2020 11:30:00 -0000",
             "title": "4. Jobs",
             "entities": {
-                "LOC": [
-                    "Bhutan"
+                "GPE": [
+                    "Bhutan",
+                    "Richmond",
+                    "Virginia",
+                    "the United States"
                 ],
                 "CARDINAL": [
                     "one",
@@ -277,13 +283,11 @@
                 ],
                 "PERSON": [
                     "Dadi Neopaney",
+                    "Dadi",
                     "Dadi"
                 ],
-                "GPE": [
-                    "Richmond",
-                    "Virginia",
-                    "the United States",
-                    "Dadi"
+                "WORK_OF_ART": [
+                    "a Master's"
                 ]
             }
         },
@@ -295,7 +299,7 @@
             "enclosure": {
                 "length": "0",
                 "type": "audio/mpeg",
-                "url": "https://www.podtrac.com/pts/redirect.mp3/traffic.megaphone.fm/VPM8957252027.mp3?updated=1593638244"
+                "url": "https://www.podtrac.com/pts/redirect.mp3/traffic.megaphone.fm/VPM8957252027.mp3?updated=1593638364"
             },
             "guid": "047376fa-b1a1-11ea-85b0-1fd68a8ba998",
             "isoDate": "2020-07-03T11:30:00.000Z",
@@ -316,6 +320,7 @@
                 "DATE": [
                     "decades",
                     "his early 20s",
+                    "daily",
                     "Today"
                 ],
                 "PERSON": [
@@ -346,7 +351,7 @@
             "enclosure": {
                 "length": "0",
                 "type": "audio/mpeg",
-                "url": "https://www.podtrac.com/pts/redirect.mp3/traffic.megaphone.fm/VPM5328859896.mp3?updated=1593650485"
+                "url": "https://www.podtrac.com/pts/redirect.mp3/traffic.megaphone.fm/VPM5328859896.mp3?updated=1593650605"
             },
             "guid": "5a043d04-b19f-11ea-8290-2797101d54af",
             "isoDate": "2020-07-03T11:00:00.000Z",
@@ -394,7 +399,7 @@
             "enclosure": {
                 "length": "0",
                 "type": "audio/mpeg",
-                "url": "https://www.podtrac.com/pts/redirect.mp3/traffic.megaphone.fm/VPM9776787644.mp3?updated=1593638200"
+                "url": "https://www.podtrac.com/pts/redirect.mp3/traffic.megaphone.fm/VPM9776787644.mp3?updated=1593638320"
             },
             "guid": "d377899e-b19e-11ea-8ffb-63ae17161767",
             "isoDate": "2020-07-03T10:30:00.000Z",

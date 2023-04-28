@@ -30,8 +30,7 @@
             "title": "Coming Soon: The Rise and Fall of Mars Hill",
             "entities": {
                 "ORG": [
-                    "Mars Hill Church",
-                    "Controversy"
+                    "Mars Hill Church"
                 ],
                 "GPE": [
                     "Seattle",
@@ -58,6 +57,9 @@
                 "LOC": [
                     "Mars Hill",
                     "Mars Hill"
+                ],
+                "PRODUCT": [
+                    "Learn"
                 ]
             }
         },
@@ -69,13 +71,13 @@
             "enclosure": {
                 "length": "0",
                 "type": "audio/mpeg",
-                "url": "https://traffic.megaphone.fm/CHRTDY2080561827.mp3?updated=1613484503"
+                "url": "https://traffic.megaphone.fm/CHRTDY2080561827.mp3?updated=1651688812"
             },
             "guid": "0825643a-705e-11eb-bab9-0ff15e15a0ba",
             "isoDate": "2021-02-16T13:33:00.000Z",
             "itunes": {
                 "author": "Christianity Today",
-                "duration": "2475",
+                "duration": "2535",
                 "episode": "14",
                 "season": "5",
                 "subtitle": "",
@@ -85,7 +87,9 @@
             "title": "Jen Pollock Michel on Vocation, Writing, and Habit",
             "entities": {
                 "PERSON": [
-                    "Michel",
+                    "Jen Pollock Michel",
+                    "Surprised",
+                    "John",
                     "Mike Cosper",
                     "Mark Owens",
                     "Dan Phelps",
@@ -93,8 +97,11 @@
                 ],
                 "GPE": [
                     "Toronto",
-                    "Paradox",
                     "iTunes"
+                ],
+                "WORK_OF_ART": [
+                    "CA",
+                    "Eden Was A Garden"
                 ],
                 "DATE": [
                     "this week",
@@ -106,10 +113,11 @@
                     "Christianity"
                 ],
                 "ORG": [
-                    "Deuteronomy"
+                    "Subscribe",
+                    "Cultivated"
                 ],
-                "WORK_OF_ART": [
-                    "Eden Was A Garden"
+                "PRODUCT": [
+                    "Learn"
                 ]
             }
         },
@@ -121,13 +129,13 @@
             "enclosure": {
                 "length": "0",
                 "type": "audio/mpeg",
-                "url": "https://traffic.megaphone.fm/CHRTDY3803672175.mp3?updated=1612814383"
+                "url": "https://traffic.megaphone.fm/CHRTDY3803672175.mp3?updated=1651688833"
             },
             "guid": "7ce34292-6a46-11eb-aedf-43f37ebfe432",
             "isoDate": "2021-02-09T10:00:00.000Z",
             "itunes": {
                 "author": "Christianity Today",
-                "duration": "3314",
+                "duration": "3374",
                 "episode": "13",
                 "season": "5",
                 "subtitle": "",
@@ -138,12 +146,11 @@
             "entities": {
                 "PERSON": [
                     "Doug Logan",
-                    "Doug",
+                    "Jesus",
                     "Angel",
                     "Doug",
                     "Mike Cosper",
                     "Mark Owens",
-                    "Theme Song \u201c",
                     "Roman Candle\nMusic",
                     "Roman Candle",
                     "Dan Phelps"
@@ -159,17 +166,19 @@
                     "days",
                     "the twenty-five years"
                 ],
+                "ORG": [
+                    "Reformed",
+                    "Grimk\u00e9 Seminary",
+                    "Reformed"
+                ],
                 "NORP": [
                     "Presbyterian"
                 ],
                 "CARDINAL": [
                     "29"
                 ],
-                "ORG": [
-                    "Grimk\u00e9 Seminary"
-                ],
-                "WORK_OF_ART": [
-                    "Eden Was a"
+                "PRODUCT": [
+                    "Learn"
                 ]
             }
         },
@@ -181,13 +190,13 @@
             "enclosure": {
                 "length": "0",
                 "type": "audio/mpeg",
-                "url": "https://traffic.megaphone.fm/CHRTDY6771475398.mp3"
+                "url": "https://traffic.megaphone.fm/CHRTDY6771475398.mp3?updated=1651688847"
             },
             "guid": "b59aa18e-63cf-11eb-9b0a-3f07cb97e083",
             "isoDate": "2021-02-02T09:00:00.000Z",
             "itunes": {
                 "author": "Christianity Today",
-                "duration": "2404",
+                "duration": "2464",
                 "episode": "12",
                 "season": "5",
                 "subtitle": "",
@@ -197,14 +206,15 @@
             "title": "Tish Harrison Warren: How Grief is Our Companion in the Christian Life",
             "entities": {
                 "PERSON": [
-                    "Harrison Warren",
+                    "Tish Harrison Warren",
                     "Prayer",
                     "Mike Cosper",
                     "Mark Owens",
                     "Roman Candle"
                 ],
                 "ORG": [
-                    "the Anglican Church"
+                    "the Anglican Church",
+                    "Christianity Today\u2019s"
                 ],
                 "LOC": [
                     "North America"
@@ -226,6 +236,9 @@
                 ],
                 "ORDINAL": [
                     "first"
+                ],
+                "PRODUCT": [
+                    "Learn"
                 ]
             }
         },
@@ -237,13 +250,13 @@
             "enclosure": {
                 "length": "0",
                 "type": "audio/mpeg",
-                "url": "https://traffic.megaphone.fm/CHRTDY3920835352.mp3"
+                "url": "https://traffic.megaphone.fm/CHRTDY3920835352.mp3?updated=1651688870"
             },
             "guid": "5607e404-5991-11eb-98b9-27d20ad02527",
             "isoDate": "2021-01-19T10:00:00.000Z",
             "itunes": {
                 "author": "Christianity Today",
-                "duration": "2335",
+                "duration": "2395",
                 "episode": "11",
                 "season": "5",
                 "subtitle": "",
@@ -258,21 +271,22 @@
                     "Mike Cosper",
                     "Mark Owens",
                     "Dan Phelps",
-                    "Theme Song \u201c",
                     "Roman Candle"
                 ],
-                "ORG": [
-                    "Theology of Making",
-                    "the World Trade Center"
+                "WORK_OF_ART": [
+                    "Art and Faith: A Theology of Making"
                 ],
                 "CARDINAL": [
                     "three"
                 ],
+                "ORG": [
+                    "the World Trade Center"
+                ],
                 "NORP": [
                     "Japanese"
                 ],
-                "WORK_OF_ART": [
-                    "Eden Was a"
+                "PRODUCT": [
+                    "Learn"
                 ]
             }
         },
@@ -304,7 +318,6 @@
                     "Mike Cosper",
                     "Mark Owens",
                     "Dan Phelps",
-                    "Theme Song \u201c",
                     "Roman Candle"
                 ],
                 "NORP": [
@@ -316,14 +329,18 @@
                     "the years",
                     "Today"
                 ],
+                "ORG": [
+                    "CT",
+                    "CT"
+                ],
                 "ORDINAL": [
                     "first"
                 ],
-                "ORG": [
-                    "CT"
+                "FAC": [
+                    "The Jerusalem Podcast"
                 ],
-                "WORK_OF_ART": [
-                    "Eden Was a"
+                "PRODUCT": [
+                    "Learn"
                 ]
             }
         },
@@ -335,13 +352,13 @@
             "enclosure": {
                 "length": "0",
                 "type": "audio/mpeg",
-                "url": "https://traffic.megaphone.fm/CHRTDY2644501002.mp3"
+                "url": "https://traffic.megaphone.fm/CHRTDY2644501002.mp3?updated=1651688905"
             },
             "guid": "a338ed96-4ea5-11eb-a5b3-dff38f206eff",
             "isoDate": "2021-01-05T10:00:00.000Z",
             "itunes": {
                 "author": "Christianity Today",
-                "duration": "2145",
+                "duration": "2205",
                 "episode": "9",
                 "season": "5",
                 "subtitle": "",
@@ -353,25 +370,29 @@
                 "PERSON": [
                     "Aundi Kolber",
                     "Survival Mode",
+                    "Joy",
                     "Aundi",
                     "Mike",
                     "Aundi",
+                    "Jesus",
                     "Mike Cosper",
                     "Mark Owens",
-                    "Theme Song \u201c",
                     "Roman Candle"
                 ],
                 "GPE": [
                     "Us"
                 ],
                 "ORG": [
-                    "a Life of Connection and Joy"
+                    "Anxiety, Stress"
+                ],
+                "LAW": [
+                    "a Life of Connection"
                 ],
                 "NORP": [
                     "Christian"
                 ],
-                "WORK_OF_ART": [
-                    "Eden Was a"
+                "PRODUCT": [
+                    "Learn"
                 ]
             }
         },
@@ -383,13 +404,13 @@
             "enclosure": {
                 "length": "0",
                 "type": "audio/mpeg",
-                "url": "https://traffic.megaphone.fm/CHRTDY8740762207.mp3"
+                "url": "https://traffic.megaphone.fm/CHRTDY8740762207.mp3?updated=1651688922"
             },
             "guid": "38a1fc1e-3e44-11eb-a7bf-f3f618eb09a2",
             "isoDate": "2020-12-14T19:40:00.000Z",
             "itunes": {
                 "author": "Christianity Today",
-                "duration": "2458",
+                "duration": "2518",
                 "episode": "8",
                 "season": "5",
                 "subtitle": "",
@@ -405,7 +426,6 @@
                     "Melanie Penn",
                     "Mike Cosper",
                     "Mark Owens",
-                    "Eden",
                     "Roman Candle",
                     "Moda Spira",
                     "Melanie Penn"
@@ -424,11 +444,14 @@
                 "CARDINAL": [
                     "1"
                 ],
+                "ORG": [
+                    "COVID"
+                ],
                 "NORP": [
                     "Christianity"
                 ],
-                "GPE": [
-                    "Garden"
+                "PRODUCT": [
+                    "Learn"
                 ]
             }
         },
@@ -440,13 +463,13 @@
             "enclosure": {
                 "length": "0",
                 "type": "audio/mpeg",
-                "url": "https://traffic.megaphone.fm/CHRTDY9313634453.mp3"
+                "url": "https://traffic.megaphone.fm/CHRTDY9313634453.mp3?updated=1651688940"
             },
             "guid": "f7422732-366c-11eb-9050-073f027d70ba",
             "isoDate": "2020-12-07T10:00:00.000Z",
             "itunes": {
                 "author": "Christianity Today",
-                "duration": "2328",
+                "duration": "2388",
                 "episode": "7",
                 "season": "5",
                 "subtitle": "",
@@ -455,25 +478,16 @@
             "pubDate": "Mon, 07 Dec 2020 10:00:00 -0000",
             "title": "Ross Mason on Innovation, Risk, and Recovery",
             "entities": {
-                "PERSON": [
+                "ORG": [
                     "Ross Mason\u2019s",
-                    "Mike Cosper",
-                    "Mark Owens",
-                    "Dan Phelps",
-                    "Roman Candle",
-                    "Eden",
-                    "Roman Candle"
+                    "NASCAR"
                 ],
                 "GPE": [
                     "Moscow",
-                    "Georgia",
-                    "Garden"
+                    "Georgia"
                 ],
                 "LOC": [
                     "Silicon Valley"
-                ],
-                "ORG": [
-                    "NASCAR"
                 ],
                 "DATE": [
                     "2007",
@@ -481,10 +495,18 @@
                     "Today"
                 ],
                 "PRODUCT": [
-                    "C6"
+                    "C6",
+                    "Learn"
                 ],
                 "NORP": [
                     "Christianity"
+                ],
+                "PERSON": [
+                    "Mike Cosper",
+                    "Mark Owens",
+                    "Dan Phelps",
+                    "Roman Candle",
+                    "Roman Candle"
                 ]
             }
         },
@@ -496,13 +518,13 @@
             "enclosure": {
                 "length": "0",
                 "type": "audio/mpeg",
-                "url": "https://traffic.megaphone.fm/CHRTDY2351534746.mp3?updated=1613189820"
+                "url": "https://traffic.megaphone.fm/CHRTDY2351534746.mp3?updated=1651688956"
             },
             "guid": "4d339598-34e4-11eb-8fbc-87f275cf01a9",
             "isoDate": "2020-12-02T20:52:00.000Z",
             "itunes": {
                 "author": "Christianity Today",
-                "duration": "1942",
+                "duration": "2002",
                 "episode": "6",
                 "season": "5",
                 "subtitle": "",
@@ -516,8 +538,13 @@
                     "the Morsani College of Medicine",
                     "the Department of Molecular Pharmacology and Physiology",
                     "the Institute for Human and Machine Cognition",
-                    "IHMC",
-                    "Navy Seals"
+                    "IHMC"
+                ],
+                "PERSON": [
+                    "Dom",
+                    "Jesus",
+                    "Mike Cosper",
+                    "Roman Candle"
                 ],
                 "NORP": [
                     "Christianity"
@@ -525,12 +552,11 @@
                 "DATE": [
                     "Today"
                 ],
-                "PERSON": [
-                    "Mike Cosper",
-                    "Roman Candle"
-                ],
                 "WORK_OF_ART": [
-                    "Eden Was a"
+                    "Eden Was a Garden"
+                ],
+                "PRODUCT": [
+                    "Learn"
                 ]
             }
         },
@@ -542,13 +568,13 @@
             "enclosure": {
                 "length": "0",
                 "type": "audio/mpeg",
-                "url": "https://traffic.megaphone.fm/CHRTDY4787174737.mp3"
+                "url": "https://traffic.megaphone.fm/CHRTDY4787174737.mp3?updated=1651688976"
             },
             "guid": "05b1ebb2-28c2-11eb-85df-afec4463eb22",
             "isoDate": "2020-11-17T10:42:00.000Z",
             "itunes": {
                 "author": "Christianity Today",
-                "duration": "2067",
+                "duration": "2127",
                 "episode": "5",
                 "season": "5",
                 "subtitle": "",
@@ -567,17 +593,19 @@
                     "1997",
                     "Sunday"
                 ],
-                "PERSON": [
+                "ORG": [
                     "Rich Lowry",
+                    "National Review",
+                    "Cultivated"
+                ],
+                "PERSON": [
                     "Rich",
-                    "Mike Cosper",
+                    "Episode",
+                    "Mike Cosper\nOur Theme Song",
                     "Roman Candle"
                 ],
-                "ORG": [
-                    "National Review"
-                ],
-                "WORK_OF_ART": [
-                    "This Episode"
+                "PRODUCT": [
+                    "Learn"
                 ]
             }
         },
@@ -589,19 +617,19 @@
             "enclosure": {
                 "length": "0",
                 "type": "audio/mpeg",
-                "url": "https://traffic.megaphone.fm/CHRTDY5534752269.mp3"
+                "url": "https://traffic.megaphone.fm/CHRTDY5534752269.mp3?updated=1651689001"
             },
             "guid": "076f09a0-1d12-11eb-b7f9-dbb2b29736ac",
-            "isoDate": "2020-11-02T14:21:36.000Z",
+            "isoDate": "2020-11-02T14:21:00.000Z",
             "itunes": {
                 "author": "Christianity Today",
-                "duration": "2367",
+                "duration": "2427",
                 "episode": "4",
                 "season": "5",
                 "subtitle": "From life under oppressive communist rule came on of the last century\u2019s most influential theologians and advocates for grace and reconciliation.",
                 "summary": "Miroslav Volf\u2019s writing is considered some of the most significant theological work of the last century. He was born into a family of Pentecostal Christians in Croatia, under oppressive Communist rule, and a \u201cminority of a minority\u201d (as he would later describe it). For almost four decades, his writing has been a testament to the power of the gospel for reunification and healing in the aftermath of war and political turmoil, as well as a vision for human flourishing in an experience of Trinitarian love.\nOn this episode, we talk about his emergence as a theologian, the development of his work, and his perspective on the turbulent times we\u2019re experiencing today.\n\nCultivated is a production of Christianity Today.\nThis episode was produced by Mike Cosper\nIt was edited by Mark Owens.\nTheme song is by Roman Candle\nMusic is by Dan Phelps and Roman Candle\nLearn more about your ad choices. Visit podcastchoices.com/adchoices"
             },
-            "pubDate": "Mon, 02 Nov 2020 14:21:36 -0000",
+            "pubDate": "Mon, 02 Nov 2020 14:21:00 -0000",
             "title": "Miroslav Volf on Christian Witness in Turbulent Places",
             "entities": {
                 "PERSON": [
@@ -618,13 +646,17 @@
                     "today",
                     "Today"
                 ],
-                "GPE": [
-                    "Croatia"
-                ],
                 "NORP": [
+                    "Christians",
                     "Communist",
                     "Trinitarian",
                     "Christianity"
+                ],
+                "GPE": [
+                    "Croatia"
+                ],
+                "PRODUCT": [
+                    "Learn"
                 ]
             }
         },
@@ -652,37 +684,41 @@
             "title": "John Kingston on Awakening America",
             "entities": {
                 "ORG": [
-                    "CT Creative Studio",
+                    "Cultivated",
                     "American Awakening",
+                    "AmericanAwakening.us",
                     "Better for America",
-                    "American Awakening"
+                    "American Awakening",
+                    "AmericanAwakening.us"
                 ],
                 "GPE": [
-                    "America",
-                    "AmericanAwakening.us"
+                    "America"
                 ],
                 "NORP": [
                     "American",
+                    "Christians",
                     "American",
                     "Christians",
                     "Christianity"
                 ],
                 "PERSON": [
                     "John Kingston",
+                    "John",
                     "Mike Cosper",
+                    "John",
                     "Roman Candle",
                     "Dan Phelps"
                 ],
                 "DATE": [
                     "decades",
-                    "the last five years \u2013 first",
-                    "Today"
+                    "the last five years"
                 ],
                 "ORDINAL": [
+                    "first",
                     "first"
                 ],
-                "CARDINAL": [
-                    "https://christiansagainsttrumpism.com/"
+                "PRODUCT": [
+                    "Learn"
                 ]
             }
         },
@@ -694,13 +730,13 @@
             "enclosure": {
                 "length": "0",
                 "type": "audio/mpeg",
-                "url": "https://traffic.megaphone.fm/CHRTDY8721952959.mp3"
+                "url": "https://traffic.megaphone.fm/CHRTDY8721952959.mp3?updated=1651689027"
             },
             "guid": "a58862c6-12c7-11eb-a70f-133847eab119",
             "isoDate": "2020-10-20T11:26:00.000Z",
             "itunes": {
                 "author": "Christianity Today",
-                "duration": "2298",
+                "duration": "2358",
                 "episode": "2",
                 "season": "5",
                 "subtitle": "From teaching Sunday School to a National Platform, Beth Moore Has Always Followed Her Passion\u2026 And Her Conscience",
@@ -712,13 +748,16 @@
                 "PERSON": [
                     "Beth Moore",
                     "John Bisagno",
-                    "Mike Cosper\nMusic",
+                    "Mike Cosper",
                     "Dan Phelps",
                     "Roman Candle"
                 ],
                 "DATE": [
                     "decades",
                     "2016"
+                ],
+                "PRODUCT": [
+                    "Learn"
                 ]
             }
         },
@@ -730,13 +769,13 @@
             "enclosure": {
                 "length": "0",
                 "type": "audio/mpeg",
-                "url": "https://traffic.megaphone.fm/CHRTDY1914373029.mp3"
+                "url": "https://traffic.megaphone.fm/CHRTDY1914373029.mp3?updated=1651689051"
             },
             "guid": "9b20c722-094b-11eb-ba84-23dfea556dc8",
             "isoDate": "2020-10-08T09:25:00.000Z",
             "itunes": {
                 "author": "Christianity Today",
-                "duration": "3027",
+                "duration": "3087",
                 "episode": "1",
                 "season": "5",
                 "subtitle": "Fighting for liberty in the courts, the surge in Iraq, and the written page.",
@@ -763,18 +802,26 @@
                     "New York"
                 ],
                 "ORG": [
-                    "Harvard"
+                    "Harvard",
+                    "Cultivated"
                 ],
                 "DATE": [
                     "2015",
+                    "just about a month",
                     "the years",
                     "Today"
                 ],
                 "WORK_OF_ART": [
                     "Divided We Fall: America's Secession Threat and How to Heal Our Nation"
                 ],
+                "FAC": [
+                    "The Dispatch"
+                ],
                 "NORP": [
                     "Christianity"
+                ],
+                "PRODUCT": [
+                    "Learn"
                 ]
             }
         },
@@ -786,13 +833,13 @@
             "enclosure": {
                 "length": "0",
                 "type": "audio/mpeg",
-                "url": "https://traffic.megaphone.fm/CHRTDY1626526587.mp3?updated=1613190097"
+                "url": "https://traffic.megaphone.fm/CHRTDY1626526587.mp3?updated=1651689078"
             },
             "guid": "557c4b23-5edb-421e-abed-e7cbf6ffc5db",
             "isoDate": "2020-01-13T18:28:00.000Z",
             "itunes": {
                 "author": "Christianity Today",
-                "duration": "3101",
+                "duration": "3161",
                 "episode": "6",
                 "explicit": "no",
                 "image": "https://megaphone.imgix.net/podcasts/c51a97a8-cb5a-11ea-9db4-c3270c5fe3b2/image/avatars-000328728149-g5tfyx-original.jpg?ixlib=rails-2.1.2&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
@@ -804,12 +851,15 @@
             "pubDate": "Mon, 13 Jan 2020 18:28:00 -0000",
             "title": "Practicing Medicine and Caring for Patients with Dr.Heather Lewis",
             "entities": {
-                "GPE": [
+                "ORG": [
                     "Cultivated"
                 ],
                 "PERSON": [
                     "Mike",
                     "Heather Lewis"
+                ],
+                "PRODUCT": [
+                    "Learn"
                 ]
             }
         },
@@ -821,13 +871,13 @@
             "enclosure": {
                 "length": "0",
                 "type": "audio/mpeg",
-                "url": "https://traffic.megaphone.fm/CHRTDY4229315397.mp3?updated=1613190815"
+                "url": "https://traffic.megaphone.fm/CHRTDY4229315397.mp3?updated=1651689116"
             },
             "guid": "4c60cc95-2af1-467c-b613-d41985bd6a20",
             "isoDate": "2019-12-05T10:00:00.000Z",
             "itunes": {
                 "author": "Christianity Today",
-                "duration": "3448",
+                "duration": "3508",
                 "episode": "5",
                 "explicit": "no",
                 "image": "https://megaphone.imgix.net/podcasts/c5321004-cb5a-11ea-9db4-2356250f4c30/image/avatars-000328728149-g5tfyx-original.jpg?ixlib=rails-2.1.2&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
@@ -844,26 +894,28 @@
                     "Andrew Peterson",
                     "Phil Keaggy",
                     "Casella",
-                    "Jeremy",
                     "Mike Cosper",
                     "Roman Candle"
                 ],
                 "DATE": [
                     "nearly twenty years"
                 ],
-                "ORG": [
-                    "the Blind Boys",
-                    "EP",
-                    "Indelible Grace Music",
-                    "Christian Music",
-                    "Narrativo Group"
-                ],
-                "GPE": [
-                    "Alabama",
-                    "the United States"
+                "WORK_OF_ART": [
+                    "Blind Boys of Alabama"
                 ],
                 "CARDINAL": [
                     "6"
+                ],
+                "ORG": [
+                    "Indelible Grace Music",
+                    "Christian Music industry\u2019s",
+                    "Narrativo Group"
+                ],
+                "GPE": [
+                    "the United States"
+                ],
+                "PRODUCT": [
+                    "Learn"
                 ]
             }
         },
@@ -875,13 +927,13 @@
             "enclosure": {
                 "length": "0",
                 "type": "audio/mpeg",
-                "url": "https://traffic.megaphone.fm/CHRTDY8201650459.mp3?updated=1613191025"
+                "url": "https://traffic.megaphone.fm/CHRTDY8201650459.mp3?updated=1651689132"
             },
             "guid": "065ab6b3-515c-49c4-ac31-7cec59c28609",
             "isoDate": "2019-11-14T17:54:00.000Z",
             "itunes": {
                 "author": "Christianity Today",
-                "duration": "2634",
+                "duration": "2694",
                 "episode": "4",
                 "explicit": "no",
                 "image": "https://megaphone.imgix.net/podcasts/c550335e-cb5a-11ea-9db4-0382eef2555e/image/avatars-000328728149-g5tfyx-original.jpg?ixlib=rails-2.1.2&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
@@ -897,6 +949,9 @@
                     "James K.A. Smith",
                     "Mike Cosper",
                     "Augustine"
+                ],
+                "PRODUCT": [
+                    "Learn"
                 ]
             }
         },
@@ -908,13 +963,13 @@
             "enclosure": {
                 "length": "0",
                 "type": "audio/mpeg",
-                "url": "https://traffic.megaphone.fm/CHRTDY3955539034.mp3?updated=1613191140"
+                "url": "https://traffic.megaphone.fm/CHRTDY3955539034.mp3?updated=1651689168"
             },
             "guid": "fb9274d4893b4d549c9d10f12bba6bc8",
             "isoDate": "2019-10-31T09:00:00.000Z",
             "itunes": {
                 "author": "Christianity Today",
-                "duration": "3524",
+                "duration": "3584",
                 "episode": "3",
                 "explicit": "no",
                 "image": "https://megaphone.imgix.net/podcasts/c56a0d56-cb5a-11ea-9db4-534366f24eca/image/avatars-000328728149-g5tfyx-original.jpg?ixlib=rails-2.1.2&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
@@ -929,60 +984,68 @@
                 "PERSON": [
                     "Mike Cosper",
                     "David Zahl"
+                ],
+                "GPE": [
+                    "Mockingbird"
+                ],
+                "PRODUCT": [
+                    "Learn"
                 ]
             }
         },
         {
-            "content": "Ashley Hales holds a PhD in English from the University of Edinburgh, Scotland. She\u2019s a writer, speaker, and hosts The Finding Holy Podcast. Ashley\u2019s married to a church planter in the southern California suburbs and the mother to 4. Her writing has been featured in such places as The Gospel Coalition, Books & Culture, and Christianity Today. Her first book is  Finding Holy in the Suburbs: Living Faithfully in the Land of Too Much (IVP). Connect with Ashley at aahales.com or on Instagram and Twitter at @aahales.\n We\u2019ll talk about the contrasts of cities and suburbs, about her multi-layered sense of vocation, and about the power of place.\n Credits:\n \u00a0\n This show is a production of Harbormedia and Narrativo. We make podcasts at Narrativo \u2013\u00a0you can learn more about that at www.narrativogroup.com.\n \u00a0\n This episode was edited and mixed by\u00a0 Mike Cosper\n Our theme song is by Roman Candle\n Our music is by Roman Candle and Dan Phelps.\nLearn more about your ad choices. Visit podcastchoices.com/adchoices",
-            "content:encoded": "\n        <p>Ashley Hales holds a PhD in English from the University of Edinburgh, Scotland. She\u2019s a writer, speaker, and hosts The Finding Holy Podcast. Ashley\u2019s married to a church planter in the southern California suburbs and the mother to 4. Her writing has been featured in such places as <em>The Gospel Coalition</em>, <em>Books &amp; Culture</em>, and <em>Christianity Today</em>. Her first book is <a href=\"https://www.amazon.com/gp/product/0830845453?pf_rd_p=d1f45e03-8b73-4c9a-9beb-4819111bef9a&amp;pf_rd_r=N25N4275S0V9QSNR1B7Y\"> <em>Finding Holy in the Suburbs: Living Faithfully in the Land of Too Much</em></a> (IVP). Connect with Ashley at <a href=\"http://www.aahales.com/\">aahales.com</a> or on Instagram and Twitter at @aahales.</p> <p>We\u2019ll talk about the contrasts of cities and suburbs, about her multi-layered sense of vocation, and about the power of place.</p> <p>Credits:</p> <p>\u00a0</p> <p>This show is a production of Harbormedia and Narrativo. We make podcasts at Narrativo \u2013\u00a0you can learn more about that at <a href=\"http://www.narrativogroup.com\">www.narrativogroup.com</a>.</p> <p>\u00a0</p> <p>This episode was edited and mixed by\u00a0 Mike Cosper</p> <p>Our theme song is by Roman Candle</p> <p>Our music is by Roman Candle and Dan Phelps.</p><p> </p><p>Learn more about your ad choices. Visit <a href=\"https://podcastchoices.com/adchoices\">podcastchoices.com/adchoices</a></p>\n      ",
-            "content:encodedSnippet": "Ashley Hales holds a PhD in English from the University of Edinburgh, Scotland. She\u2019s a writer, speaker, and hosts The Finding Holy Podcast. Ashley\u2019s married to a church planter in the southern California suburbs and the mother to 4. Her writing has been featured in such places as The Gospel Coalition, Books & Culture, and Christianity Today. Her first book is  Finding Holy in the Suburbs: Living Faithfully in the Land of Too Much (IVP). Connect with Ashley at aahales.com or on Instagram and Twitter at @aahales.\n We\u2019ll talk about the contrasts of cities and suburbs, about her multi-layered sense of vocation, and about the power of place.\n Credits:\n \u00a0\n This show is a production of Harbormedia and Narrativo. We make podcasts at Narrativo \u2013\u00a0you can learn more about that at www.narrativogroup.com.\n \u00a0\n This episode was edited and mixed by\u00a0 Mike Cosper\n Our theme song is by Roman Candle\n Our music is by Roman Candle and Dan Phelps.\n \nLearn more about your ad choices. Visit podcastchoices.com/adchoices",
-            "contentSnippet": "Ashley Hales holds a PhD in English from the University of Edinburgh, Scotland. She\u2019s a writer, speaker, and hosts The Finding Holy Podcast. Ashley\u2019s married to a church planter in the southern California suburbs and the mother to 4. Her writing has been featured in such places as The Gospel Coalition, Books & Culture, and Christianity Today. Her first book is  Finding Holy in the Suburbs: Living Faithfully in the Land of Too Much (IVP). Connect with Ashley at aahales.com or on Instagram and Twitter at @aahales.\n We\u2019ll talk about the contrasts of cities and suburbs, about her multi-layered sense of vocation, and about the power of place.\n Credits:\n \u00a0\n This show is a production of Harbormedia and Narrativo. We make podcasts at Narrativo \u2013\u00a0you can learn more about that at www.narrativogroup.com.\n \u00a0\n This episode was edited and mixed by\u00a0 Mike Cosper\n Our theme song is by Roman Candle\n Our music is by Roman Candle and Dan Phelps.\nLearn more about your ad choices. Visit podcastchoices.com/adchoices",
+            "content": "Ashley Hales holds a PhD in English from the University of Edinburgh, Scotland. She\u2019s a writer, speaker, and hosts The Finding Holy Podcast. Ashley\u2019s married to a church planter in the southern California suburbs and the mother to 4. Her writing has been featured in such places as The Gospel Coalition, Books & Culture, and Christianity Today. Her first book is  Finding Holy in the Suburbs: Living Faithfully in the Land of Too Much (IVP). Connect with Ashley at aahales.com or on Instagram and Twitter at @aahales.\nWe\u2019ll talk about the contrasts of cities and suburbs, about her multi-layered sense of vocation, and about the power of place.\nCredits:\n\u00a0\nThis show is a production of Harbormedia and Narrativo. We make podcasts at Narrativo \u2013\u00a0you can learn more about that at www.narrativogroup.com.\n\u00a0\nThis episode was edited and mixed by\u00a0Mike Cosper\nOur theme song is by Roman Candle\nOur music is by Roman Candle and Dan Phelps.\nLearn more about your ad choices. Visit podcastchoices.com/adchoices",
+            "content:encoded": "\n        <p>Ashley Hales holds a PhD in English from the University of Edinburgh, Scotland. She\u2019s a writer, speaker, and hosts The Finding Holy Podcast. Ashley\u2019s married to a church planter in the southern California suburbs and the mother to 4. Her writing has been featured in such places as <em>The Gospel Coalition</em>, <em>Books &amp; Culture</em>, and <em>Christianity Today</em>. Her first book is <a href=\"https://www.amazon.com/gp/product/0830845453?pf_rd_p=d1f45e03-8b73-4c9a-9beb-4819111bef9a&amp;pf_rd_r=N25N4275S0V9QSNR1B7Y\"> <em>Finding Holy in the Suburbs: Living Faithfully in the Land of Too Much</em></a> (IVP). Connect with Ashley at <a href=\"http://www.aahales.com/\">aahales.com</a> or on Instagram and Twitter at @aahales.</p><p>We\u2019ll talk about the contrasts of cities and suburbs, about her multi-layered sense of vocation, and about the power of place.</p><p>Credits:</p><p>\u00a0</p><p>This show is a production of Harbormedia and Narrativo. We make podcasts at Narrativo \u2013\u00a0you can learn more about that at <a href=\"http://www.narrativogroup.com\">www.narrativogroup.com</a>.</p><p>\u00a0</p><p>This episode was edited and mixed by\u00a0Mike Cosper</p><p>Our theme song is by Roman Candle</p><p>Our music is by Roman Candle and Dan Phelps.</p><p> </p><p>Learn more about your ad choices. Visit <a href=\"https://podcastchoices.com/adchoices\">podcastchoices.com/adchoices</a></p>\n      ",
+            "content:encodedSnippet": "Ashley Hales holds a PhD in English from the University of Edinburgh, Scotland. She\u2019s a writer, speaker, and hosts The Finding Holy Podcast. Ashley\u2019s married to a church planter in the southern California suburbs and the mother to 4. Her writing has been featured in such places as The Gospel Coalition, Books & Culture, and Christianity Today. Her first book is  Finding Holy in the Suburbs: Living Faithfully in the Land of Too Much (IVP). Connect with Ashley at aahales.com or on Instagram and Twitter at @aahales.\nWe\u2019ll talk about the contrasts of cities and suburbs, about her multi-layered sense of vocation, and about the power of place.\nCredits:\n\u00a0\nThis show is a production of Harbormedia and Narrativo. We make podcasts at Narrativo \u2013\u00a0you can learn more about that at www.narrativogroup.com.\n\u00a0\nThis episode was edited and mixed by\u00a0Mike Cosper\nOur theme song is by Roman Candle\nOur music is by Roman Candle and Dan Phelps.\n \nLearn more about your ad choices. Visit podcastchoices.com/adchoices",
+            "contentSnippet": "Ashley Hales holds a PhD in English from the University of Edinburgh, Scotland. She\u2019s a writer, speaker, and hosts The Finding Holy Podcast. Ashley\u2019s married to a church planter in the southern California suburbs and the mother to 4. Her writing has been featured in such places as The Gospel Coalition, Books & Culture, and Christianity Today. Her first book is  Finding Holy in the Suburbs: Living Faithfully in the Land of Too Much (IVP). Connect with Ashley at aahales.com or on Instagram and Twitter at @aahales.\nWe\u2019ll talk about the contrasts of cities and suburbs, about her multi-layered sense of vocation, and about the power of place.\nCredits:\n\u00a0\nThis show is a production of Harbormedia and Narrativo. We make podcasts at Narrativo \u2013\u00a0you can learn more about that at www.narrativogroup.com.\n\u00a0\nThis episode was edited and mixed by\u00a0Mike Cosper\nOur theme song is by Roman Candle\nOur music is by Roman Candle and Dan Phelps.\nLearn more about your ad choices. Visit podcastchoices.com/adchoices",
             "enclosure": {
                 "length": "0",
                 "type": "audio/mpeg",
-                "url": "https://traffic.megaphone.fm/CHRTDY6152462622.mp3"
+                "url": "https://traffic.megaphone.fm/CHRTDY6152462622.mp3?updated=1651690197"
             },
             "guid": "ff6cb492fa1b4689bc18641653bc4194",
-            "isoDate": "2019-10-10T12:22:21.000Z",
+            "isoDate": "2019-10-10T12:22:00.000Z",
             "itunes": {
                 "author": "Christianity Today",
-                "duration": "1967",
+                "duration": "2027",
                 "episode": "2",
                 "explicit": "no",
                 "image": "https://megaphone.imgix.net/podcasts/c58c1266-cb5a-11ea-9db4-af5af5bdb70a/image/avatars-000328728149-g5tfyx-original.jpg?ixlib=rails-2.1.2&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
                 "season": "4",
                 "subtitle": "Ashley Hales holds a PhD in English from the University of Edinburgh, Scotland. She\u2019s a writer, speaker, and hosts The Finding Holy Podcast. Ashley\u2019s married to a church planter in the southern California suburbs and the mother to 4. Her writing...",
-                "summary": "Ashley Hales holds a PhD in English from the University of Edinburgh, Scotland. She\u2019s a writer, speaker, and hosts The Finding Holy Podcast. Ashley\u2019s married to a church planter in the southern California suburbs and the mother to 4. Her writing has been featured in such places as The Gospel Coalition, Books & Culture, and Christianity Today. Her first book is  Finding Holy in the Suburbs: Living Faithfully in the Land of Too Much (IVP). Connect with Ashley at aahales.com or on Instagram and Twitter at @aahales.\n We\u2019ll talk about the contrasts of cities and suburbs, about her multi-layered sense of vocation, and about the power of place.\n Credits:\n \u00a0\n This show is a production of Harbormedia and Narrativo. We make podcasts at Narrativo \u2013\u00a0you can learn more about that at www.narrativogroup.com.\n \u00a0\n This episode was edited and mixed by\u00a0 Mike Cosper\n Our theme song is by Roman Candle\n Our music is by Roman Candle and Dan Phelps.\nLearn more about your ad choices. Visit podcastchoices.com/adchoices"
+                "summary": "Ashley Hales holds a PhD in English from the University of Edinburgh, Scotland. She\u2019s a writer, speaker, and hosts The Finding Holy Podcast. Ashley\u2019s married to a church planter in the southern California suburbs and the mother to 4. Her writing has been featured in such places as The Gospel Coalition, Books & Culture, and Christianity Today. Her first book is  Finding Holy in the Suburbs: Living Faithfully in the Land of Too Much (IVP). Connect with Ashley at aahales.com or on Instagram and Twitter at @aahales.\nWe\u2019ll talk about the contrasts of cities and suburbs, about her multi-layered sense of vocation, and about the power of place.\nCredits:\n\u00a0\nThis show is a production of Harbormedia and Narrativo. We make podcasts at Narrativo \u2013\u00a0you can learn more about that at www.narrativogroup.com.\n\u00a0\nThis episode was edited and mixed by\u00a0Mike Cosper\nOur theme song is by Roman Candle\nOur music is by Roman Candle and Dan Phelps.\nLearn more about your ad choices. Visit podcastchoices.com/adchoices"
             },
             "link": "https://cultivatedpodcast.libsyn.com/finding-holy-with-ashley-hales-0",
-            "pubDate": "Thu, 10 Oct 2019 12:22:21 -0000",
+            "pubDate": "Thu, 10 Oct 2019 12:22:00 -0000",
             "title": "Finding Holy with Ashley Hales",
             "entities": {
                 "PERSON": [
                     "Ashley Hales",
                     "Ashley",
-                    "Roman Candle\n ",
+                    "Ashley",
+                    "Twitter",
+                    "Harbormedia",
+                    "Mike Cosper",
+                    "Roman Candle",
                     "Roman Candle",
                     "Dan Phelps"
                 ],
                 "WORK_OF_ART": [
                     "PhD",
-                    "Mike Cosper\n "
+                    "The Finding Holy Podcast",
+                    "Finding Holy in the Suburbs: Living Faithfully"
                 ],
                 "LANGUAGE": [
                     "English"
                 ],
                 "ORG": [
                     "the University of Edinburgh",
-                    "The Finding Holy Podcast",
-                    "The Gospel Coalition, Books & Culture",
-                    "Instagram",
-                    "Harbormedia",
-                    "Narrativo"
+                    "The Gospel Coalition, Books & Culture"
                 ],
                 "GPE": [
                     "Scotland",
-                    "California"
+                    "California",
+                    "Instagram"
                 ],
                 "CARDINAL": [
                     "4"
@@ -996,9 +1059,12 @@
                 "ORDINAL": [
                     "first"
                 ],
-                "PRODUCT": [
-                    "Twitter",
+                "FAC": [
+                    "Narrativo",
                     "Narrativo"
+                ],
+                "PRODUCT": [
+                    "Learn"
                 ]
             }
         },
@@ -1010,13 +1076,13 @@
             "enclosure": {
                 "length": "0",
                 "type": "audio/mpeg",
-                "url": "https://traffic.megaphone.fm/CHRTDY7050768609.mp3?updated=1613191407"
+                "url": "https://traffic.megaphone.fm/CHRTDY7050768609.mp3?updated=1651689233"
             },
             "guid": "7af758747eda4a8780a3586c370aec24",
             "isoDate": "2019-09-26T08:30:00.000Z",
             "itunes": {
                 "author": "Christianity Today",
-                "duration": "3517",
+                "duration": "3577",
                 "episode": "1",
                 "explicit": "no",
                 "image": "https://megaphone.imgix.net/podcasts/c5acd050-cb5a-11ea-9db4-efbcb53d680f/image/avatars-000328728149-g5tfyx-original.jpg?ixlib=rails-2.1.2&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
@@ -1030,6 +1096,9 @@
             "entities": {
                 "PERSON": [
                     "Chuck DeGroat's"
+                ],
+                "PRODUCT": [
+                    "Learn"
                 ]
             }
         },
@@ -1066,11 +1135,11 @@
                 "ORG": [
                     "Southeast Christian Church"
                 ],
-                "CARDINAL": [
-                    "one"
-                ],
                 "GPE": [
                     "U.S."
+                ],
+                "PRODUCT": [
+                    "Learn"
                 ]
             }
         },
@@ -1113,12 +1182,15 @@
                     "New York"
                 ],
                 "NORP": [
-                    "Christian",
-                    "Harbor Media"
+                    "Christian"
                 ],
                 "ORG": [
+                    "Harbor Media",
                     "Narrativo Group",
                     "Quinnette Connor"
+                ],
+                "PRODUCT": [
+                    "Learn"
                 ]
             }
         },
@@ -1160,34 +1232,35 @@
                 ],
                 "ORG": [
                     "A21",
+                    "Harbor Media",
                     "Narrativo Group"
                 ],
-                "NORP": [
-                    "Harbor Media"
+                "PRODUCT": [
+                    "Learn"
                 ]
             }
         },
         {
-            "content": "Mike Cosper sat down with hip hop recording artist Lecrae to discuss his life and work, and how he has come to terms with the idea that his career is an anomaly.\n\nCultivated is a production of Harbor Media and Narrativo Group. This episode was produced and recorded by Mike Cosper, edited by Quinnette Connor, and mixed by Mark Owens. Music by Lecrae, with theme music by Roman Candle.\nLearn more about your ad choices. Visit podcastchoices.com/adchoices",
-            "content:encoded": "\n        Mike Cosper sat down with hip hop recording artist Lecrae to discuss his life and work, and how he has come to terms with the idea that his career is an anomaly.\n\nCultivated is a production of Harbor Media and Narrativo Group. This episode was produced and recorded by Mike Cosper, edited by Quinnette Connor, and mixed by Mark Owens. Music by Lecrae, with theme music by Roman Candle.\n<p> </p><p>Learn more about your ad choices. Visit <a href=\"https://podcastchoices.com/adchoices\">podcastchoices.com/adchoices</a></p>\n      ",
-            "content:encodedSnippet": "Mike Cosper sat down with hip hop recording artist Lecrae to discuss his life and work, and how he has come to terms with the idea that his career is an anomaly.\n\nCultivated is a production of Harbor Media and Narrativo Group. This episode was produced and recorded by Mike Cosper, edited by Quinnette Connor, and mixed by Mark Owens. Music by Lecrae, with theme music by Roman Candle.\n \nLearn more about your ad choices. Visit podcastchoices.com/adchoices",
-            "contentSnippet": "Mike Cosper sat down with hip hop recording artist Lecrae to discuss his life and work, and how he has come to terms with the idea that his career is an anomaly.\n\nCultivated is a production of Harbor Media and Narrativo Group. This episode was produced and recorded by Mike Cosper, edited by Quinnette Connor, and mixed by Mark Owens. Music by Lecrae, with theme music by Roman Candle.\nLearn more about your ad choices. Visit podcastchoices.com/adchoices",
+            "content": "Mike Cosper sat down with hip hop recording artist Lecrae to discuss his life and work, and how he has come to terms with the idea that his career is an anomaly. Cultivated is a production of Harbor Media and Narrativo Group. This episode was produced and recorded by Mike Cosper, edited by Quinnette Connor, and mixed by Mark Owens. Music by Lecrae, with theme music by Roman Candle.\nLearn more about your ad choices. Visit podcastchoices.com/adchoices",
+            "content:encoded": "\n        <p>Mike Cosper sat down with hip hop recording artist Lecrae to discuss his life and work, and how he has come to terms with the idea that his career is an anomaly. Cultivated is a production of Harbor Media and Narrativo Group. This episode was produced and recorded by Mike Cosper, edited by Quinnette Connor, and mixed by Mark Owens. Music by Lecrae, with theme music by Roman Candle.</p><p> </p><p>Learn more about your ad choices. Visit <a href=\"https://podcastchoices.com/adchoices\">podcastchoices.com/adchoices</a></p>\n      ",
+            "content:encodedSnippet": "Mike Cosper sat down with hip hop recording artist Lecrae to discuss his life and work, and how he has come to terms with the idea that his career is an anomaly. Cultivated is a production of Harbor Media and Narrativo Group. This episode was produced and recorded by Mike Cosper, edited by Quinnette Connor, and mixed by Mark Owens. Music by Lecrae, with theme music by Roman Candle.\n \nLearn more about your ad choices. Visit podcastchoices.com/adchoices",
+            "contentSnippet": "Mike Cosper sat down with hip hop recording artist Lecrae to discuss his life and work, and how he has come to terms with the idea that his career is an anomaly. Cultivated is a production of Harbor Media and Narrativo Group. This episode was produced and recorded by Mike Cosper, edited by Quinnette Connor, and mixed by Mark Owens. Music by Lecrae, with theme music by Roman Candle.\nLearn more about your ad choices. Visit podcastchoices.com/adchoices",
             "enclosure": {
                 "length": "0",
                 "type": "audio/mpeg",
-                "url": "https://traffic.megaphone.fm/CHRTDY8150847034.mp3"
+                "url": "https://traffic.megaphone.fm/CHRTDY8150847034.mp3?updated=1651690565"
             },
             "guid": "48a26bfe081840d7848dd8a918b5cc02",
             "isoDate": "2018-10-02T08:30:00.000Z",
             "itunes": {
                 "author": "Christianity Today",
-                "duration": "3136",
+                "duration": "3196",
                 "episode": "11",
                 "explicit": "no",
                 "image": "https://megaphone.imgix.net/podcasts/c6b22ff4-cb5a-11ea-9db4-6b8f26f6b428/image/Cultivated-Logo1400x1400.jpg?ixlib=rails-2.1.2&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
                 "season": "3",
                 "subtitle": "Mike Cosper sat down with hip hop recording artist Lecrae to discuss his life and work, and how he has come to terms with the idea that his career is an anomaly. Cultivated is a production of Harbor Media and Narrativo Group. This episode was produced...",
-                "summary": "Mike Cosper sat down with hip hop recording artist Lecrae to discuss his life and work, and how he has come to terms with the idea that his career is an anomaly.\n\nCultivated is a production of Harbor Media and Narrativo Group. This episode was produced and recorded by Mike Cosper, edited by Quinnette Connor, and mixed by Mark Owens. Music by Lecrae, with theme music by Roman Candle.\nLearn more about your ad choices. Visit podcastchoices.com/adchoices"
+                "summary": "Mike Cosper sat down with hip hop recording artist Lecrae to discuss his life and work, and how he has come to terms with the idea that his career is an anomaly. Cultivated is a production of Harbor Media and Narrativo Group. This episode was produced and recorded by Mike Cosper, edited by Quinnette Connor, and mixed by Mark Owens. Music by Lecrae, with theme music by Roman Candle.\nLearn more about your ad choices. Visit podcastchoices.com/adchoices"
             },
             "link": "https://cultivatedpodcast.libsyn.com/i-own-that-im-an-anomaly-lecrae",
             "pubDate": "Tue, 02 Oct 2018 08:30:00 -0000",
@@ -1201,12 +1274,15 @@
                 ],
                 "ORG": [
                     "Lecrae",
+                    "Harbor Media",
                     "Narrativo Group",
-                    "Quinnette Connor",
+                    "Quinnette Connor"
+                ],
+                "GPE": [
                     "Lecrae"
                 ],
-                "NORP": [
-                    "Harbor Media"
+                "PRODUCT": [
+                    "Learn"
                 ]
             }
         },
@@ -1243,7 +1319,9 @@
                     "Dan Phelps"
                 ],
                 "ORG": [
-                    "entrepreneur & executive VP",
+                    "entrepreneur &",
+                    "IMB",
+                    "faith & work",
                     "Harbor Media & Narrativo Group",
                     "Quinnette Connor",
                     "Lukas Naugle"
@@ -1253,6 +1331,9 @@
                 ],
                 "WORK_OF_ART": [
                     "The Gospel at Work"
+                ],
+                "PRODUCT": [
+                    "Learn"
                 ]
             }
         },
@@ -1285,19 +1366,22 @@
                 "PERSON": [
                     "Russ Moore\u2019s",
                     "Mike Cosper",
-                    "Eddie Morris",
-                    "Mark Owens",
-                    "Roman Candle"
+                    "Mark Owens"
                 ],
                 "ORG": [
                     "faith & politics & culture",
                     "ERLC",
+                    "Trump",
+                    "Cultivated",
                     "Harbor Media & Narrativo Group",
-                    "Dan Phelps &"
+                    "Eddie Morris",
+                    "Dan Phelps & Roman Candle"
                 ],
                 "NORP": [
-                    "Christians",
-                    "Trump"
+                    "Christians"
+                ],
+                "PRODUCT": [
+                    "Learn"
                 ]
             }
         },
@@ -1334,19 +1418,20 @@
                     "Phil Keaggy",
                     "Keaggy",
                     "Paul McCartney",
+                    "Harbor Media",
                     "Mike Cosper",
-                    "Eddie Morris",
                     "Mark Owens",
                     "Glass Harp",
                     "Phil Keaggy",
                     "Roman Candle",
                     "Jeremy Kinsella"
                 ],
-                "NORP": [
-                    "Harbor"
-                ],
                 "ORG": [
+                    "Eddie Morris",
                     "Quinnette Connor & Mixed"
+                ],
+                "PRODUCT": [
+                    "Learn"
                 ]
             }
         },
@@ -1389,19 +1474,20 @@
                     "Keaggy",
                     "Mike",
                     "Mike Cosper",
-                    "Eddie Morris",
-                    "Quinnette Connor",
                     "Mark Owens",
                     "Glass Harp",
                     "Phil Keaggy",
                     "Roman Candle",
                     "Jeremy Kinsella"
                 ],
-                "NORP": [
-                    "Harbor Media"
-                ],
                 "ORG": [
-                    "Narrativo Group"
+                    "Harbor Media",
+                    "Narrativo Group",
+                    "Eddie Morris",
+                    "Quinnette Connor"
+                ],
+                "PRODUCT": [
+                    "Learn"
                 ]
             }
         },
@@ -1437,6 +1523,7 @@
                 "PERSON": [
                     "Mike",
                     "Justin Forsett",
+                    "Forsett",
                     "Mike Cosper",
                     "Mark Owens",
                     "Roman Candle",
@@ -1445,11 +1532,11 @@
                 ],
                 "ORG": [
                     "NFL",
-                    "Forsett\u2019s",
+                    "Harbor Media",
                     "Narrativo Group"
                 ],
-                "NORP": [
-                    "Harbor Media"
+                "PRODUCT": [
+                    "Learn"
                 ]
             }
         },
@@ -1496,6 +1583,9 @@
                 ],
                 "ORG": [
                     "Cultivated"
+                ],
+                "PRODUCT": [
+                    "Learn"
                 ]
             }
         },
@@ -1531,7 +1621,6 @@
                 "PERSON": [
                     "Alison Whitehurst",
                     "Mike Cosper",
-                    "TJ Hester",
                     "Roman Candle",
                     "Roman Candle",
                     "Dan Phelps"
@@ -1543,10 +1632,11 @@
                 ],
                 "ORG": [
                     "The Public Theatre",
+                    "Harbor Media",
                     "Narrativo Group"
                 ],
-                "NORP": [
-                    "Harbor Media"
+                "PRODUCT": [
+                    "Learn"
                 ]
             }
         },
@@ -1579,24 +1669,25 @@
                 "DATE": [
                     "This week"
                 ],
-                "PERSON": [
+                "ORG": [
                     "Esteban Shedd",
+                    "Harbor Media",
+                    "Narrativo Group"
+                ],
+                "PERSON": [
                     "Mike",
                     "Mike Cosper",
                     "Mark Owens",
                     "Roman Candle"
                 ],
-                "PRODUCT": [
+                "FAC": [
                     "Streetlights Bible"
                 ],
                 "WORK_OF_ART": [
                     "Bible"
                 ],
-                "NORP": [
-                    "Harbor Media"
-                ],
-                "ORG": [
-                    "Narrativo Group"
+                "PRODUCT": [
+                    "Learn"
                 ]
             }
         },
@@ -1629,17 +1720,21 @@
                 "PERSON": [
                     "Rachelle Starr",
                     "Mike Cosper",
+                    "TJ Hester",
                     "Mark Owens",
                     "Roman Candle",
                     "Dan Phelps"
                 ],
                 "ORG": [
-                    "Founder",
-                    "Scarlet Hope",
+                    "Founder and Executive",
+                    "Harbor Media",
                     "Narrativo Group"
                 ],
-                "NORP": [
-                    "Harbor Media"
+                "LOC": [
+                    "Scarlet Hope"
+                ],
+                "PRODUCT": [
+                    "Learn"
                 ]
             }
         },
@@ -1677,14 +1772,18 @@
                     "Larry Norman"
                 ],
                 "WORK_OF_ART": [
-                    "Why Should The Devil\u00a0Have All the Good Music"
+                    "\"Why Should The Devil\u00a0Have All the Good Music"
                 ],
                 "NORP": [
                     "Christian",
                     "Christian"
                 ],
                 "ORG": [
-                    "Harbor Media & Narrativo Group"
+                    "Harbor Media & Narrativo Group",
+                    "TJ Hester"
+                ],
+                "PRODUCT": [
+                    "Learn"
                 ]
             }
         },
@@ -1717,22 +1816,27 @@
                     "David Levien",
                     "Brian",
                     "Mike",
-                    "Mike Cosper",
+                    "Harbor Media",
+                    "Mike Cosper Edited",
+                    "TJ Hester Mixed",
                     "Mark Owens Music",
                     "Dan Phelps",
                     "Roman Candle"
                 ],
                 "ORG": [
                     "Showtime",
-                    "Moment",
-                    "Harbor Media",
+                    "Ocean",
                     "The Narrativo Group Produced"
                 ],
-                "CARDINAL": [
-                    "Thirteen"
-                ],
                 "DATE": [
+                    "Thirteen",
                     "Today"
+                ],
+                "WORK_OF_ART": [
+                    "The Moment"
+                ],
+                "PRODUCT": [
+                    "Learn"
                 ]
             }
         },
@@ -1767,25 +1871,30 @@
                 "PERSON": [
                     "Mike",
                     "Timshel Matheny",
+                    "Roman Candle",
                     "Roman Candle's",
                     "Timshel",
-                    "Mike Cosper",
+                    "Mike Cosper Edited",
+                    "TJ Hester Mixed",
                     "Mark Owens",
-                    "Roman Candle",
-                    "Roman Candle"
-                ],
-                "GPE": [
+                    "Roman Candle Our",
                     "Roman Candle"
                 ],
                 "NORP": [
                     "Christian"
                 ],
+                "GPE": [
+                    "Skip"
+                ],
                 "WORK_OF_ART": [
                     "Drinks With"
                 ],
                 "ORG": [
-                    "the Narrativo Group",
-                    "Harbor Media Produced"
+                    "Cultivated",
+                    "the Narrativo Group"
+                ],
+                "PRODUCT": [
+                    "Learn"
                 ]
             }
         },
@@ -1818,7 +1927,8 @@
                     "Wagon",
                     "Monique",
                     "Sufjan Stevens",
-                    "Mike Cosper",
+                    "Mike Cosper Edited",
+                    "TJ Hester Mixed",
                     "Mark Owens",
                     "Wagon",
                     "Roman Candle"
@@ -1837,8 +1947,10 @@
                     "today"
                 ],
                 "ORG": [
-                    "the Narrativo Group",
-                    "Harbor Media Produced"
+                    "the Narrativo Group"
+                ],
+                "PRODUCT": [
+                    "Learn"
                 ]
             }
         },
@@ -1869,12 +1981,13 @@
                 "PERSON": [
                     "Jonathan Seale",
                     "Josh Garrells",
-                    "Mike Cosper",
+                    "Mike Cosper Edited",
+                    "TJ Hester Mixed",
                     "Mark Owens",
-                    "Roman Candle",
+                    "Roman Candle Our",
                     "Roman Candle",
                     "Dan Phelps",
-                    "Isaac Wardell\nLearn"
+                    "Isaac Wardell"
                 ],
                 "ORG": [
                     "Mason Jar Music",
@@ -1883,6 +1996,9 @@
                 ],
                 "DATE": [
                     "today"
+                ],
+                "PRODUCT": [
+                    "Learn"
                 ]
             }
         },
@@ -1917,12 +2033,15 @@
                     "Brett McCracken",
                     "David",
                     "Bono",
+                    "Harbor Media",
                     "Mike Cosper Recorded",
                     "Mark Owens"
                 ],
                 "ORG": [
-                    "Harbor Media",
                     "the Narrativo Group"
+                ],
+                "PRODUCT": [
+                    "Learn"
                 ]
             }
         },
@@ -1952,14 +2071,15 @@
             "entities": {
                 "PERSON": [
                     "Dustin Kensrue",
+                    "Harbor Media",
                     "Mike Cosper",
                     "Mark Owens",
-                    "Dustin Kensrue",
+                    "Dustin Kensrue Our",
                     "Roman Candle Learn"
                 ],
                 "ORG": [
                     "Thrice",
-                    "Harbor Media",
+                    "NOFX",
                     "the Narrativo Group"
                 ],
                 "NORP": [
@@ -1970,6 +2090,9 @@
                 ],
                 "CARDINAL": [
                     "https://www.cultivatedpodcast.com/"
+                ],
+                "PRODUCT": [
+                    "Learn"
                 ]
             }
         },
@@ -2004,7 +2127,9 @@
                     "Kurt Rosenwinkle",
                     "Linda Oh",
                     "John",
-                    "Minor Silverstein - https://youtu.be/QIV1t70Gek8 Amazing Grace - https://youtu.be/ojr8__Vy9LI",
+                    "Minor Silverstein - https://youtu.be/QIV1t70Gek8",
+                    "Hymn - https://youtu.be/wJqDnOe_Wyk Cultivated",
+                    "Harbor Media",
                     "Mark Owens",
                     "John Raymond",
                     "John Raymond",
@@ -2012,9 +2137,7 @@
                 ],
                 "ORG": [
                     "The New York Times",
-                    "Downbeat Magazine",
                     "Sunnyside Records",
-                    "Harbor Media",
                     "the Narrativo Group"
                 ],
                 "WORK_OF_ART": [
@@ -2024,8 +2147,11 @@
                     "February 2018",
                     "today"
                 ],
-                "GPE": [
+                "NORP": [
                     "iTunes"
+                ],
+                "PRODUCT": [
+                    "Learn"
                 ]
             }
         },
@@ -2054,9 +2180,11 @@
             "title": "Sho Baraka",
             "entities": {
                 "PERSON": [
-                    "Baraka",
+                    "Sho Baraka",
                     "Donald Trump",
-                    "https://twitter.com/AmIshoBaraka Cultivated",
+                    "https://humblebeast.com/artists/sho-baraka/ Check",
+                    "Follow Sho",
+                    "Harbor Media",
                     "Mike Cosper",
                     "Mark Owens",
                     "Roman Candle Learn"
@@ -2074,8 +2202,10 @@
                 ],
                 "ORG": [
                     "the Terminus Collective",
-                    "Harbor Media",
                     "the Narrativo Group"
+                ],
+                "PRODUCT": [
+                    "Learn"
                 ]
             }
         },
@@ -2106,6 +2236,7 @@
                 "PERSON": [
                     "Melanie Penn\u2019s",
                     "Tim Keller",
+                    "Jesus",
                     "Follow Melanie",
                     "Mike Cosper",
                     "Mark Owens",
@@ -2114,18 +2245,25 @@
                     "John",
                     "Jenna Starke"
                 ],
+                "ORG": [
+                    "Classical"
+                ],
                 "FAC": [
                     "Broadway"
                 ],
                 "CARDINAL": [
                     "9/11"
                 ],
+                "GPE": [
+                    "Instagram",
+                    "https://www.instagram.com/melaniepenn/?hl=en"
+                ],
                 "DATE": [
                     "Christmas",
                     "today"
                 ],
-                "GPE": [
-                    "https://www.instagram.com/melaniepenn/?hl=en"
+                "PRODUCT": [
+                    "Learn"
                 ]
             }
         },
@@ -2156,27 +2294,33 @@
                 "PERSON": [
                     "Alberto Gonzales",
                     "Mike Cosper",
-                    "Hester",
                     "Mike Cosper",
                     "Mark Owens",
-                    "Roman Candle",
-                    "Dan Phelps Special Thanks",
+                    "Roman Candle Our",
+                    "Dan Phelps Special",
                     "Rob Waite",
                     "Kevin Jamison"
                 ],
-                "ORG": [
-                    "Texas\u2019 Supreme Court",
-                    "White House",
-                    "the White House"
-                ],
                 "GPE": [
+                    "Texas",
                     "the United States"
+                ],
+                "ORG": [
+                    "Supreme Court",
+                    "White House Counsel",
+                    "TJ Hester"
                 ],
                 "DATE": [
                     "today"
                 ],
+                "FAC": [
+                    "the White House"
+                ],
                 "CARDINAL": [
                     "about 9/11"
+                ],
+                "PRODUCT": [
+                    "Learn"
                 ]
             }
         },
@@ -2206,9 +2350,8 @@
             "entities": {
                 "PERSON": [
                     "Rod Dreher",
-                    "Terrence Malick",
+                    "Rod",
                     "Mike Cosper",
-                    "TJ Hester",
                     "Mark Owens",
                     "Dan Phelps",
                     "Mark Owens",
@@ -2216,18 +2359,24 @@
                 ],
                 "ORG": [
                     "The American Conservative",
+                    "Cultivated",
                     "Church"
                 ],
-                "WORK_OF_ART": [
-                    "The Benedict Option",
-                    "A Confederacy of Dunces"
+                "EVENT": [
+                    "The Benedict Option"
                 ],
                 "NORP": [
                     "Christians",
                     "American"
                 ],
-                "EVENT": [
+                "LOC": [
                     "the Benedict Option"
+                ],
+                "WORK_OF_ART": [
+                    "A Confederacy of Dunces to Dante to Terrence Malick"
+                ],
+                "PRODUCT": [
+                    "Learn"
                 ]
             }
         },
@@ -2263,18 +2412,21 @@
                 "PERSON": [
                     "Audrey Assad",
                     "Audrey",
+                    "Harbor Media",
                     "Mike Cosper",
                     "Mike Cosper",
                     "Mark Owens",
                     "Audrey Assad",
-                    "Roman Candle Special Thanks",
                     "Dan Darling",
                     "Jason Thacker"
                 ],
                 "ORG": [
-                    "audreyassad.com Cultivated",
-                    "Harbor Media",
-                    "the Narrativo Group"
+                    "Pledgemusic Campaign",
+                    "the Narrativo Group",
+                    "Roman Candle Special Thanks"
+                ],
+                "PRODUCT": [
+                    "Learn"
                 ]
             }
         },
@@ -2309,25 +2461,27 @@
                 "PERSON": [
                     "Steve Taylor",
                     "Michael W. Smith",
-                    "Jazz",
                     "Donald Trump",
                     "Steve",
                     "Kickstarter",
-                    "Mike Cosper",
+                    "Mike Cosper Editing",
                     "Mike Cosper",
                     "Mark Owens Music",
                     "Steve Taylor",
                     "Steve Taylor",
                     "Steve Taylor",
-                    "Roman Candle Graphic Design",
                     "Chris Bennett"
                 ],
-                "LAW": [
-                    "Blue Like Jazz",
-                    "the Perfect Foil Theme Song"
+                "PRODUCT": [
+                    "the Blue Like Jazz",
+                    "Learn"
                 ],
                 "ORG": [
-                    "the Danielson Foil"
+                    "the Danielson Foil",
+                    "Roman Candle Graphic Design"
+                ],
+                "LAW": [
+                    "the Perfect Foil Theme Song"
                 ]
             }
         },
@@ -2357,13 +2511,11 @@
             "entities": {
                 "PERSON": [
                     "Steve Taylor",
-                    "Sixpence None",
+                    "Newsboys",
                     "Mike Cosper",
-                    "Hester",
                     "Mike Cosper",
                     "Mark Owens",
                     "Steve Taylor",
-                    "Roman Candle Special Thanks",
                     "Dan Darling",
                     "Jason Thacker"
                 ],
@@ -2372,23 +2524,20 @@
                     "twenty year",
                     "today"
                 ],
-                "LAW": [
-                    "the Clinic Real Good"
-                ],
-                "WORK_OF_ART": [
-                    "I Manipulate"
-                ],
                 "NORP": [
                     "Christian"
                 ],
-                "ORG": [
-                    "Newsboys",
-                    "Second Chance and Blue Like Jazz",
-                    "Blue LIke Jazz"
-                ],
                 "GPE": [
-                    "Richer",
                     "Chevelle"
+                ],
+                "ORG": [
+                    "Second Chance",
+                    "Blue LIke Jazz",
+                    "TJ Hester",
+                    "Roman Candle Special Thanks"
+                ],
+                "PRODUCT": [
+                    "Learn"
                 ]
             }
         },
@@ -2419,13 +2568,15 @@
                 "PERSON": [
                     "Andy Crouch",
                     "Andy",
+                    "Strong",
+                    "Weak",
                     "Mike Cosper Additional",
                     "Tj Hester",
                     "Mark Owens",
+                    "Lachlan Coffey",
                     "Scott Slucher",
-                    "Roman Candle",
                     "Dan Phelps",
-                    "Roman Candle Daniela Rueda",
+                    "Roman Candle Daniela",
                     "Chris Bennet"
                 ],
                 "NORP": [
@@ -2435,15 +2586,14 @@
                 "ORG": [
                     "Church",
                     "Culture Making",
-                    "resonaterecordings.com Thanks to Lachlan Coffey",
+                    "Roman Candle Today's",
                     "Harbor Media"
                 ],
-                "GPE": [
-                    "Strong"
-                ],
                 "DATE": [
-                    "Today",
                     "Today"
+                ],
+                "PRODUCT": [
+                    "Learn"
                 ]
             }
         },
@@ -2477,14 +2627,14 @@
                     "Andy",
                     "Mike Cosper Additional",
                     "Mark Owens",
+                    "Lachlan Coffey",
                     "Scott Slucher",
-                    "Roman Candle",
                     "Dan Phelps",
-                    "Roman Candle Daniela Rueda",
+                    "Roman Candle Daniela",
                     "Chris Bennet"
                 ],
                 "WORK_OF_ART": [
-                    "Culture Making",
+                    "\"Culture Making\"",
                     "Strong and Weak"
                 ],
                 "NORP": [
@@ -2493,7 +2643,6 @@
                 "DATE": [
                     "today",
                     "next week",
-                    "Today",
                     "Today"
                 ],
                 "CARDINAL": [
@@ -2501,8 +2650,11 @@
                     "two"
                 ],
                 "ORG": [
-                    "resonaterecordings.com Thanks to Lachlan Coffey",
+                    "Roman Candle Today's",
                     "Habor Media"
+                ],
+                "PRODUCT": [
+                    "Learn"
                 ]
             }
         },
@@ -2533,20 +2685,22 @@
                 "DATE": [
                     "today"
                 ],
+                "ORG": [
+                    "Ekemini",
+                    "Harbor"
+                ],
                 "PERSON": [
-                    "Ekemini Uwan",
                     "Mike Cosper",
-                    "TJ Hester",
                     "Mark Owens",
                     "Roman Candle",
                     "Dan Phelps",
                     "Chris Bennet",
+                    "Lachlan Coffey",
                     "Scott Slucher",
                     "Ryan Lister"
                 ],
-                "ORG": [
-                    "Ekemini",
-                    "resonaterecordings.com"
+                "PRODUCT": [
+                    "Learn"
                 ]
             }
         },
@@ -2576,20 +2730,28 @@
             "entities": {
                 "PERSON": [
                     "Jackie Hill Perry",
+                    "Jackie",
                     "Mike Cosper Additional",
                     "Mark Owens",
+                    "Lachlan Coffey",
                     "Scott Slucher",
-                    "Roman Candle",
-                    "Jackie Hill",
+                    "Jackie Hill Perry",
                     "Daniela Rueda",
                     "Chris Bennett"
                 ],
                 "DATE": [
-                    "today"
+                    "today",
+                    "Today",
+                    "Today"
                 ],
                 "ORG": [
+                    "Resonate Recordings.com Thanks",
+                    "Roman Candle",
                     "Humble Beast Records",
                     "Harbor Media"
+                ],
+                "PRODUCT": [
+                    "Learn"
                 ]
             }
         },
@@ -2620,40 +2782,40 @@
                 "PERSON": [
                     "Latifah Phillips",
                     "Moda Spira",
+                    "Page CXVI",
                     "Latifah Phillip\u2019s",
                     "Moda Spira",
                     "Moda Spira",
-                    "Stitcher",
-                    "Mike Cosper Additional Edition",
                     "Mark Owens",
-                    "Roman Candle",
+                    "Roman Candle Our",
                     "Moda Spira",
                     "Roman Candle",
                     "Scott Slucher",
+                    "Lachlan Coffey Daniela Rueda",
                     "Chris Bennett"
                 ],
-                "WORK_OF_ART": [
+                "EVENT": [
                     "The Autumn Film"
                 ],
-                "ORG": [
-                    "Page CXVI",
-                    "Google"
-                ],
                 "NORP": [
-                    "Arab"
+                    "Arab-American"
                 ],
-                "FAC": [
+                "GPE": [
                     "Churches"
                 ],
                 "DATE": [
                     "this season",
                     "the end of the year"
                 ],
-                "PRODUCT": [
-                    "Subscribe"
+                "ORG": [
+                    "Cultivated",
+                    "iTunes",
+                    "Google",
+                    "Mike Cosper Additional Edition"
                 ],
-                "GPE": [
-                    "iTunes"
+                "PRODUCT": [
+                    "Subscribe",
+                    "Learn"
                 ]
             }
         },
@@ -2690,39 +2852,43 @@
                     "Thornbury",
                     "Thornbury",
                     "Thornbury",
-                    "Joseph Got",
+                    "Harbor Media",
+                    "Facebook",
                     "Mike Cosper",
                     "Mark Owens",
                     "Scott Slucher",
+                    "Lachlan Coffey",
                     "Dan Darling",
                     "Elizabeth Graham",
                     "Roman Candle",
                     "Roman Candle",
                     "Dan Phelps",
                     "Daniela Rueda",
-                    "Chris Bennett"
+                    "Chris Bennett",
+                    "Logos"
                 ],
                 "ORG": [
                     "the King\u2019s College",
                     "CS Lewis",
-                    "Recovering Classic Evangelicalism",
-                    "https://www.amazon.com/Recovering-Classic-Evangelicalism-Applying-Wisdom/dp/1433530627/ref=sr_1_1?ie=UTF8&qid=1482196076&sr=8-1&keywords=Gregory+Thornbury",
                     "the Acton Institute",
-                    "iTunes",
-                    "Facebook"
+                    "Southern Seminary",
+                    "iTunes"
                 ],
                 "NORP": [
                     "Christians"
                 ],
                 "WORK_OF_ART": [
-                    "Bigger on the Inside: Christianity",
-                    "Cain, Abel"
+                    "Recovering Classic Evangelicalism",
+                    "Bigger on the Inside: Christianity and Dr.",
+                    "Cain, Abel",
+                    "Joseph Got it Done"
                 ],
                 "GPE": [
                     "Kanye"
                 ],
                 "PRODUCT": [
-                    "Twitter"
+                    "Twitter",
+                    "Learn"
                 ]
             }
         },
@@ -2756,40 +2922,37 @@
                     "Charles Taylor",
                     "David Foster Wallace",
                     "Alissa",
-                    "Hamilton",
-                    "http://www.vox.com/culture/2016/12/6/13843722/hamilton-mixtape-lin-manuel-miranda",
                     "David Foster Wallace",
-                    "Foster Wallace",
+                    "David Foster Wallace",
                     "Charles Taylor",
                     "James K.A. Smith",
                     "Mike Cosper",
                     "Mark Owens",
                     "Scott Slucher",
-                    "Roman Candle",
+                    "Lachlan Coffey Daniela Rueda",
+                    "Roman Candle Our",
                     "Roman Candle",
                     "Dan Phelps",
-                    "Chris Bennett",
-                    "Intergalactic Keeper",
-                    "Gregory Thornbury"
+                    "Chris Bennett"
                 ],
                 "ORG": [
                     "Vox.com",
                     "The King's College",
                     "Christianity Today",
-                    "Rolling Stone",
-                    "Vulture",
+                    "Rolling Stone,",
                     "RogerEbert.com",
                     "Pacific Standard",
                     "The Washington Post",
                     "The Los Angeles Review of Books, Books & Culture",
-                    "Resonaterecordings.com Special"
+                    "Resonaterecordings.com Special",
+                    "Intergalactic Keeper of Souls, Gregory Thornbury"
                 ],
                 "LANGUAGE": [
                     "English"
                 ],
                 "GPE": [
                     "New York City",
-                    "Arrival"
+                    "Vulture"
                 ],
                 "LOC": [
                     "Atlantic"
@@ -2801,6 +2964,9 @@
                 "NORP": [
                     "Christians",
                     "Christian"
+                ],
+                "PRODUCT": [
+                    "Learn"
                 ]
             }
         },
@@ -2836,7 +3002,6 @@
                 "PERSON": [
                     "Alyssa Wilkinson",
                     "Mike Cosper",
-                    "Faithfully Creative",
                     "Mike",
                     "Richard Clark",
                     "Mark Owens",
@@ -2846,14 +3011,19 @@
                 "ORG": [
                     "CT",
                     "Cultivated's Host",
+                    "Post-Christian World",
+                    "Harbor",
+                    "Cultivated",
                     "Resonaterecordings.com"
                 ],
                 "NORP": [
-                    "Post-Christian",
                     "Christians"
                 ],
+                "WORK_OF_ART": [
+                    "The Calling: https://soundcloud.com/localchurch"
+                ],
                 "PRODUCT": [
-                    "Harbor"
+                    "Learn"
                 ]
             }
         },
@@ -2881,17 +3051,11 @@
             "pubDate": "Thu, 01 Dec 2016 10:39:57 -0000",
             "title": "Propaganda",
             "entities": {
-                "PERSON": [
+                "ORG": [
                     "Propaganda",
-                    "Mike Cosper",
-                    "Mark Owens",
-                    "Paul Barger",
-                    "Thomas Terry",
-                    "Ryan Lister",
-                    "Daniela Rueda",
-                    "Scott Slucher",
-                    "Roman Candle",
-                    "Chris Bennett"
+                    "Cultivated, You",
+                    "Humble Beast Records",
+                    "Propaganda"
                 ],
                 "DATE": [
                     "Today",
@@ -2899,11 +3063,25 @@
                     "today",
                     "today"
                 ],
-                "ORG": [
+                "GPE": [
                     "Propaganda",
-                    "Propaganda",
-                    "Humble Beast Records",
                     "Propaganda"
+                ],
+                "PERSON": [
+                    "http://www.humblebeast.com/propaganda/",
+                    "Mike Cosper",
+                    "Mark Owens",
+                    "Paul Barger",
+                    "Thomas Terry",
+                    "Ryan Lister",
+                    "Daniela Rueda",
+                    "Scott Slucher",
+                    "Lachlan Coffey Our",
+                    "Roman Candle",
+                    "Chris Bennett"
+                ],
+                "PRODUCT": [
+                    "Learn"
                 ]
             }
         },
@@ -2935,6 +3113,8 @@
                     "David Dark",
                     "David",
                     "N.T. Wright",
+                    "David",
+                    "David",
                     "Dave Bazan",
                     "Pedro the Lion",
                     "Mike Cosper",
@@ -2942,15 +3122,17 @@
                     "Roman Candle",
                     "Dan Phelps",
                     "Scott Slucher",
-                    "Chris Bennett"
+                    "Lachlan Coffey Daniela Rueda",
+                    "Chris Bennett",
+                    "Propaganda"
                 ],
                 "WORK_OF_ART": [
-                    "Everyday Apocalypse",
+                    "Everyday Apocalypse\u201d",
                     "The Gospel According to",
                     "Life\u2019s Too Short To Pretend You\u2019re Not Religious",
-                    "Left Behind",
+                    "Left Behind\u201d series",
                     "Coloring Book",
-                    "Unsettled Questions"
+                    "Unsettled Questions\u201d David\u2019s"
                 ],
                 "GPE": [
                     "America"
@@ -2963,13 +3145,14 @@
                 "ORDINAL": [
                     "first"
                 ],
-                "ORG": [
-                    "Chance the Rapper\u2019s",
-                    "iTunes",
-                    "Propaganda"
-                ],
                 "EVENT": [
                     "Thanksgiving"
+                ],
+                "NORP": [
+                    "iTunes"
+                ],
+                "PRODUCT": [
+                    "Learn"
                 ]
             }
         },
@@ -3002,16 +3185,23 @@
                     "Mike Cosper",
                     "Mark Owens",
                     "Scott Slucher",
+                    "Lachlan Coffey Daniela Rueda",
                     "Chris Bennett",
-                    "Sandra McCracken",
-                    "Roman Candle"
+                    "Sandra McCracken"
                 ],
                 "DATE": [
                     "almost 20 years",
                     "today"
                 ],
                 "ORG": [
+                    "Cultivated",
                     "Resonaterecordings.com Special"
+                ],
+                "NORP": [
+                    "Roman Candle"
+                ],
+                "PRODUCT": [
+                    "Learn"
                 ]
             }
         },
@@ -3042,11 +3232,13 @@
                 "PERSON": [
                     "Bret Lott",
                     "Jewel",
+                    "Oprah",
                     "Bret",
                     "Bret",
                     "Mike Cosper Mixed",
                     "Mark Owens",
-                    "Daniela Rueda Editorial",
+                    "Daniela Rueda Editorial Help",
+                    "Lachlan Coffey",
                     "Scott Slucher",
                     "Roman Candle",
                     "Roman Candle",
@@ -3061,9 +3253,8 @@
                 ],
                 "ORG": [
                     "New York Times",
-                    "the National Council for the",
-                    "Oprah's Book Club",
-                    "https://www.amazon.com/Bret-Lott/e/B001ITYM1K Credits"
+                    "the National Council for the arts",
+                    "Bradley Speaks"
                 ],
                 "CARDINAL": [
                     "more than a dozen"
@@ -3071,7 +3262,8 @@
                 "DATE": [
                     "1998",
                     "today",
-                    "daily"
+                    "daily",
+                    "the strange day"
                 ],
                 "NORP": [
                     "Christians"
@@ -3079,8 +3271,8 @@
                 "GPE": [
                     "Chicago"
                 ],
-                "FAC": [
-                    "Bradley Speaks"
+                "PRODUCT": [
+                    "Learn"
                 ]
             }
         },
@@ -3109,29 +3301,30 @@
             "title": "Gabe Lyons",
             "entities": {
                 "ORG": [
+                    "Faith",
+                    "Gabe Lyons",
+                    "Cultivated",
                     "Gabe Lyons",
                     "Qideas.org",
                     "Amazon",
-                    "The Bitter Clingers",
                     "ERLC"
-                ],
-                "PERSON": [
-                    "Gabe",
-                    "Gabe",
-                    "Gabe Lyons",
-                    "Mike Cosper Mixed",
-                    "Mark Owens",
-                    "Scott Slucher",
-                    "Dan Phelps",
-                    "Chris Bennett",
-                    "Dan Darling",
-                    "Elizabeth Graham"
                 ],
                 "NORP": [
                     "Christians",
                     "post-Christian",
                     "Christians",
                     "Christians"
+                ],
+                "PERSON": [
+                    "Qideas",
+                    "Mike Cosper Mixed",
+                    "Mark Owens",
+                    "Scott Slucher",
+                    "Lachlan Coffey Daniela Rueda",
+                    "Dan Phelps",
+                    "Chris Bennett",
+                    "Dan Darling",
+                    "Elizabeth Graham"
                 ]
             }
         },
@@ -3158,7 +3351,14 @@
             "link": "https://traffic.libsyn.com/secure/cultivatedpodcast/287666855-cultivated_podcast-cultivated-preview-1-2.mp3",
             "pubDate": "Fri, 14 Oct 2016 15:58:44 -0000",
             "title": "Cultivated Preview",
-            "entities": {}
+            "entities": {
+                "PERSON": [
+                    "Harbor Media"
+                ],
+                "PRODUCT": [
+                    "Learn"
+                ]
+            }
         }
     ],
     "itunes": {

@@ -33,7 +33,7 @@
                 "CARDINAL": [
                     "Two"
                 ],
-                "ORG": [
+                "PRODUCT": [
                     "Learn"
                 ]
             }
@@ -59,7 +59,11 @@
             "link": "https://omny.fm/shows/short-stuff/safety-pins",
             "pubDate": "Wed, 21 Nov 2018 14:00:00 +0000",
             "title": "Safety Pins",
-            "entities": {}
+            "entities": {
+                "PRODUCT": [
+                    "Learn"
+                ]
+            }
         },
         {
             "content": "Ever wonder where lemonade came from? Let\u2019s up the stakes a little, what about pink lemonade? Well wonder no more! Join Josh and Chuck as they (briefly) cover the history of putting lemons together with sugar and water and coming up with something great.\u00a0\r\n\r\n Learn more about your ad-choices at https://www.iheartpodcastnetwork.com\r\n\r\nSee omnystudio.com/listener for privacy information.",
@@ -86,6 +90,9 @@
                 "PERSON": [
                     "Join Josh",
                     "Chuck"
+                ],
+                "PRODUCT": [
+                    "Learn"
                 ]
             }
         },
@@ -113,6 +120,9 @@
             "entities": {
                 "NORP": [
                     "Romans"
+                ],
+                "PRODUCT": [
+                    "Learn"
                 ]
             }
         },
@@ -138,17 +148,20 @@
             "pubDate": "Wed, 31 Oct 2018 13:20:00 +0000",
             "title": "Labor Day",
             "entities": {
-                "EVENT": [
-                    "Labor Day"
+                "DATE": [
+                    "Labor Day",
+                    "the day"
                 ],
                 "GPE": [
-                    "America",
-                    "Short Stuff"
+                    "America"
                 ],
                 "NORP": [
                     "American"
                 ],
-                "ORG": [
+                "PERSON": [
+                    "Short Stuff"
+                ],
+                "WORK_OF_ART": [
                     "Learn"
                 ]
             }
@@ -178,6 +191,9 @@
                 "QUANTITY": [
                     "100-pound",
                     "50 feet"
+                ],
+                "PRODUCT": [
+                    "Learn"
                 ]
             }
         },
@@ -209,7 +225,7 @@
                 "NORP": [
                     "Korean"
                 ],
-                "ORG": [
+                "PRODUCT": [
                     "Learn"
                 ]
             }
@@ -239,8 +255,14 @@
                 "GPE": [
                     "the United States"
                 ],
+                "CARDINAL": [
+                    "one"
+                ],
                 "PERSON": [
                     "William Rufus King"
+                ],
+                "PRODUCT": [
+                    "Learn"
                 ]
             }
         },
@@ -269,14 +291,12 @@
                 "TIME": [
                     "12 minutes"
                 ],
-                "GPE": [
-                    "Short Stuff"
-                ],
                 "PERSON": [
+                    "Stuff",
                     "Josh",
                     "Chuck"
                 ],
-                "ORG": [
+                "WORK_OF_ART": [
                     "Learn"
                 ]
             }
@@ -319,15 +339,19 @@
     ],
     "title": "Short Stuff",
     "entities": {
+        "ORG": [
+            "the Stuff You Should Know"
+        ],
         "TIME": [
-            "15-minute"
+            "15-minute-or-less"
         ],
         "PERSON": [
+            "Stuff You Should Know",
             "Josh",
             "Chuck"
         ],
         "DATE": [
-            "Wednesday"
+            "every Wednesday"
         ]
     }
 }

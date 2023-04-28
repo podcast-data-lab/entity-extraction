@@ -38,19 +38,14 @@
             "title": "Orbital Sunrise",
             "entities": {
                 "PERSON": [
-                    "John Green"
+                    "John Green",
+                    "Nadim Silverman.</p"
                 ],
                 "DATE": [
-                    "summer"
-                ],
-                "WORK_OF_ART": [
-                    "The Anthropocene Reviewed"
-                ],
-                "CARDINAL": [
-                    "https://anthropocenereviewedbook.com/"
+                    "the end of our summer"
                 ],
                 "ORG": [
-                    "Nadim"
+                    "The Anthropocene Reviewed"
                 ]
             }
         },
@@ -83,10 +78,12 @@
             "title": "Ginkgo Biloba",
             "entities": {
                 "PERSON": [
-                    "John Green",
-                    "Ginkgo biloba"
+                    "John Green"
                 ],
-                "WORK_OF_ART": [
+                "NORP": [
+                    "Ginkgo"
+                ],
+                "EVENT": [
                     "The Anthropocene Reviewed"
                 ],
                 "MONEY": [
@@ -125,7 +122,9 @@
             "title": "Icelandic Hot Dog Stand and Signing Your Name 250,000 Times",
             "entities": {
                 "PERSON": [
-                    "John Green"
+                    "John Green",
+                    "John",
+                    "Nadim Silverman.</p"
                 ],
                 "CARDINAL": [
                     "250,000"
@@ -134,12 +133,12 @@
                     "four-month",
                     "this week"
                 ],
+                "EVENT": [
+                    "The Anthropocene Reviewed"
+                ],
                 "ORG": [
                     "The San Francisco Chronicle",
                     "href=\"https://johngreenbooks.com",
-                    "Nadim"
-                ],
-                "WORK_OF_ART": [
                     "The Anthropocene Reviewed"
                 ]
             }
@@ -172,25 +171,29 @@
             "pubDate": "Thu, 29 Apr 2021 07:00:00 +0000",
             "title": "Penguins of Madagascar and the Smallpox Vaccine",
             "entities": {
+                "EVENT": [
+                    "The Anthropocene Reviewed"
+                ],
                 "DATE": [
-                    "May 18, 2021",
+                    "May 18, 2021:",
                     "May 17th",
                     "Tuesday May 18th",
-                    "Wednesday, May 19th",
-                    "Saturday, May 22nd"
-                ],
-                "ORG": [
-                    "href=\"https://sites.prh.com/anthropocenereviewedbook\">https://sites.prh.com/anthropocenereviewedbook</a></p><p",
-                    "the The Anthropocene Reviewed",
-                    "The Wilbur Theatre",
-                    "Ashley C. Ford</p><p>",
-                    "href=\"https://www.pih.org"
+                    "Wednesday",
+                    "May 19th",
+                    "Saturday",
+                    "May 22nd"
                 ],
                 "PERSON": [
                     "John Green",
+                    "Clint",
                     "Sarah",
                     "Hank",
+                    "Ashley C. Ford</p><p",
                     "Dutton"
+                ],
+                "ORG": [
+                    "the The Anthropocene Reviewed",
+                    "The Wilbur Theatre<"
                 ],
                 "TIME": [
                     "4:30 PM",
@@ -199,10 +202,8 @@
                     "10:00 PM",
                     "4:00 PM",
                     "7:00 PM",
-                    "1:00 PM CT / 2:00 PM"
-                ],
-                "GPE": [
-                    "Clint"
+                    "1:00 PM",
+                    "2:00 PM"
                 ],
                 "MONEY": [
                     "2",
@@ -238,14 +239,14 @@
             "pubDate": "Thu, 24 Sep 2020 12:00:00 +0000",
             "title": "Plague",
             "entities": {
+                "PERSON": [
+                    "href=\"http://johngreenbooks.com\">John Green</a><span"
+                ],
+                "EVENT": [
+                    "The Anthropocene Reviewed"
+                ],
                 "DATE": [
                     "May 18, 2021"
-                ],
-                "LAW": [
-                    "src=\"http://feeds.feedburner.com/~r/TheAnthropoceneReviewed/~4/s6m_CqmTNUM"
-                ],
-                "ORG": [
-                    "alt="
                 ]
             }
         },
@@ -275,14 +276,7 @@
             "link": "https://www.wnycstudios.org/podcasts/anthropocene-reviewed",
             "pubDate": "Thu, 27 Aug 2020 12:00:00 +0000",
             "title": "The Anthropocene Reviewed, Reviewed",
-            "entities": {
-                "DATE": [
-                    "Green</a><span><span"
-                ],
-                "ORG": [
-                    "alt="
-                ]
-            }
+            "entities": {}
         },
         {
             "author": "info@complexly.com (WNYC Studios and Complexly)",
@@ -311,8 +305,8 @@
             "pubDate": "Thu, 30 Jul 2020 12:00:00 +0000",
             "title": "Mortification and Civilization",
             "entities": {
-                "ORG": [
-                    "alt="
+                "PERSON": [
+                    "href=\"http://johngreenbooks.com/\">John Green</a>"
                 ]
             }
         },
@@ -346,18 +340,9 @@
                 "PERSON": [
                     "John Green"
                 ],
-                "GPE": [
-                    "/span><span"
-                ],
                 "CARDINAL": [
                     "seventeen",
                     "seventeen"
-                ],
-                "LAW": [
-                    "src=\"http://feeds.feedburner.com/~r/TheAnthropoceneReviewed/~4/nLXM1pIsfRc"
-                ],
-                "ORG": [
-                    "alt="
                 ]
             }
         },
@@ -389,11 +374,9 @@
             "title": "You'll Never Walk Alone and Jerzy Dudek",
             "entities": {
                 "PERSON": [
+                    "p><span><a",
                     "Green</a",
                     "Jerzy Dudek"
-                ],
-                "GPE": [
-                    "/span><span"
                 ],
                 "NORP": [
                     "Polish"
@@ -405,7 +388,7 @@
                     "2005.</span></p><img"
                 ],
                 "ORG": [
-                    "alt="
+                    "TheAnthropoceneReviewed/~4"
                 ]
             }
         },
@@ -436,13 +419,8 @@
             "pubDate": "Thu, 30 Apr 2020 12:00:00 +0000",
             "title": "Monopoly and Academic Decathlon",
             "entities": {
-                "DATE": [
-                    "Green</a><span><span"
-                ],
-                "ORG": [
-                    "Monopoly",
-                    "Academic Decathlon.</span></p><img",
-                    "alt="
+                "PERSON": [
+                    "Monopoly"
                 ]
             }
         },
@@ -475,9 +453,6 @@
             "entities": {
                 "PERSON": [
                     "Green</a"
-                ],
-                "ORG": [
-                    "alt="
                 ]
             }
         },
@@ -508,14 +483,8 @@
             "pubDate": "Thu, 27 Feb 2020 12:00:00 +0000",
             "title": "Staphylococcus Aureus and the Non-Denial Denial",
             "entities": {
-                "DATE": [
-                    "Green</a><span><span"
-                ],
                 "GPE": [
-                    "/span><span"
-                ],
-                "ORG": [
-                    "alt="
+                    "denial.</span></p><img"
                 ]
             }
         },
@@ -562,7 +531,7 @@
                 ],
                 "ORG": [
                     "Hiroyuki",
-                    "alt="
+                    "TheAnthropoceneReviewed/~4"
                 ]
             }
         },
@@ -602,9 +571,6 @@
                 ],
                 "CARDINAL": [
                     "one"
-                ],
-                "ORG": [
-                    "alt="
                 ]
             }
         },
@@ -640,9 +606,6 @@
                 ],
                 "PRODUCT": [
                     "Notes"
-                ],
-                "ORG": [
-                    "alt="
                 ]
             }
         },
@@ -673,12 +636,11 @@
             "pubDate": "Thu, 31 Oct 2019 12:00:00 +0000",
             "title": "Capacity for Wonder and Sunsets",
             "entities": {
-                "GPE": [
-                    "/span><span",
-                    "/span><span"
+                "PERSON": [
+                    "John Green"
                 ],
                 "ORG": [
-                    "alt="
+                    "TheAnthropoceneReviewed/~4/CuYfhG-rY6A"
                 ]
             }
         },
@@ -709,12 +671,12 @@
             "pubDate": "Thu, 26 Sep 2019 12:00:00 +0000",
             "title": "QWERTY Keyboard and the Kaua\u02bbi \u02bb\u014d\u02bb\u014d",
             "entities": {
-                "GPE": [
-                    "/span><span"
+                "PERSON": [
+                    "John Green",
+                    "Kaua\u02bbi"
                 ],
                 "ORG": [
-                    "QWERTY",
-                    "alt="
+                    "QWERTY"
                 ]
             }
         },
@@ -747,15 +709,6 @@
             "entities": {
                 "PERSON": [
                     "John Green"
-                ],
-                "GPE": [
-                    "/span><span"
-                ],
-                "LAW": [
-                    "src=\"http://feeds.feedburner.com/~r/TheAnthropoceneReviewed/~4/HZWTNPe9edk"
-                ],
-                "ORG": [
-                    "alt="
                 ]
             }
         },
@@ -790,7 +743,8 @@
                     "John Green"
                 ],
                 "ORG": [
-                    "alt="
+                    "trees.</p><img",
+                    "TheAnthropoceneReviewed/~4"
                 ]
             }
         },
@@ -821,8 +775,8 @@
             "pubDate": "Thu, 27 Jun 2019 12:00:00 +0000",
             "title": "Gray Aliens and Rock Paper Scissors",
             "entities": {
-                "ORG": [
-                    "alt="
+                "PERSON": [
+                    "John Green"
                 ]
             }
         },
@@ -862,9 +816,6 @@
                 ],
                 "GPE": [
                     "Indianapolis"
-                ],
-                "ORG": [
-                    "alt="
                 ]
             }
         },
@@ -895,10 +846,12 @@
             "pubDate": "Thu, 25 Apr 2019 12:00:00 +0000",
             "title": "Prom and the Stanford Marshmallow Experiment",
             "entities": {
+                "PERSON": [
+                    "John Green"
+                ],
                 "ORG": [
-                    "the Stanford Marshmallow",
-                    "Wg0mmxkPq3I",
-                    "alt="
+                    "Stanford Marshmallow Experiment.</span></p><img",
+                    "TheAnthropoceneReviewed/~4/Wg0mmxkPq3I"
                 ]
             }
         },
@@ -930,20 +883,14 @@
             "title": "The Hall of Presidents and New Partner",
             "entities": {
                 "PERSON": [
-                    "John Green<"
+                    "John Green"
                 ],
-                "GPE": [
-                    "/span><span"
+                "ORG": [
+                    "the Hall of Presidents</span><span><span",
+                    "Palace Music"
                 ],
                 "WORK_OF_ART": [
                     "New Partner"
-                ],
-                "ORG": [
-                    "Palace Music",
-                    "alt="
-                ],
-                "LAW": [
-                    "src=\"http://feeds.feedburner.com/~r/TheAnthropoceneReviewed/~4/IYFECsJuFDk"
                 ]
             }
         },
@@ -977,14 +924,12 @@
                 "PERSON": [
                     "John Green"
                 ],
-                "GPE": [
-                    "/span><span"
-                ],
                 "DATE": [
                     "1950"
                 ],
                 "ORG": [
-                    "alt="
+                    "Harvey.</span></p><img",
+                    "TheAnthropoceneReviewed/~4"
                 ]
             }
         },
@@ -1016,14 +961,16 @@
             "title": "Indianapolis and Love at First Sight",
             "entities": {
                 "PERSON": [
-                    "John Green",
-                    "sight.</p><img"
+                    "John Green"
                 ],
                 "GPE": [
                     "Indianapolis"
                 ],
+                "ORDINAL": [
+                    "first"
+                ],
                 "ORG": [
-                    "alt="
+                    "sight.</p><img"
                 ]
             }
         },
@@ -1055,8 +1002,7 @@
             "title": "Teddy Bears and Penalty Shootouts",
             "entities": {
                 "ORG": [
-                    "/span></span><span",
-                    "alt="
+                    "TheAnthropoceneReviewed/~4"
                 ]
             }
         },
@@ -1091,11 +1037,10 @@
                     "John Green"
                 ],
                 "PRODUCT": [
-                    "Tetris\u00a0"
+                    "Tetris"
                 ],
                 "ORG": [
-                    "Leningrad.</span></p><img src=\"http://feeds.feedburner.com/~r/TheAnthropoceneReviewed/~4/buqzuH8Dtic",
-                    "alt="
+                    "Leningrad.</span></p><img"
                 ]
             }
         },
@@ -1127,18 +1072,17 @@
             "entities": {
                 "ORG": [
                     "The Anthropocene Reviewed",
-                    "New York Times",
-                    "href=\"https://twitter.com/johngreen?ref_src",
-                    "alt="
+                    "href=\"https://twitter.com/johngreen?ref_src"
+                ],
+                "MONEY": [
+                    "#1 New York Times"
                 ],
                 "PERSON": [
-                    "Green</a>\u00a0"
+                    "Green</a",
+                    "Snap Judgment"
                 ],
-                "QUANTITY": [
-                    "five-star"
-                ],
-                "PRODUCT": [
-                    "the Media</em>,<em> Death"
+                "CARDINAL": [
+                    "five"
                 ]
             }
         },
@@ -1171,9 +1115,6 @@
             "entities": {
                 "PERSON": [
                     "John Green"
-                ],
-                "ORG": [
-                    "alt="
                 ]
             }
         },
@@ -1206,9 +1147,6 @@
             "entities": {
                 "PERSON": [
                     "John Green"
-                ],
-                "ORG": [
-                    "alt="
                 ]
             }
         },
@@ -1240,18 +1178,14 @@
             "title": "The Yips and CNN",
             "entities": {
                 "PERSON": [
-                    "John Green",
-                    "Katie Else"
+                    "John Green"
                 ],
                 "TIME": [
                     "24-hour"
                 ],
                 "ORG": [
                     "CNN",
-                    "alt="
-                ],
-                "CARDINAL": [
-                    "https://www.katieelse.com/music</span></p><img"
+                    "I First Went to Sea"
                 ]
             }
         },
@@ -1290,9 +1224,7 @@
                 ],
                 "ORG": [
                     "Taco Bell",
-                    "Simple Contacts",
-                    "src=\"http://feeds.feedburner.com/~r/TheAnthropoceneReviewed/~4/656y9H3MZIw",
-                    "alt="
+                    "Simple Contacts"
                 ]
             }
         },
@@ -1328,9 +1260,6 @@
                 ],
                 "GPE": [
                     "Dashlane"
-                ],
-                "ORG": [
-                    "alt="
                 ]
             }
         },
@@ -1366,9 +1295,6 @@
                 ],
                 "GPE": [
                     "Utah"
-                ],
-                "ORG": [
-                    "alt="
                 ]
             }
         },
@@ -1404,10 +1330,6 @@
                 ],
                 "GPE": [
                     "Kentucky"
-                ],
-                "ORG": [
-                    "src=\"http://feeds.feedburner.com/~r/TheAnthropoceneReviewed/~4/6S1e_9ICDKs",
-                    "alt="
                 ]
             }
         },
@@ -1443,8 +1365,7 @@
                 ],
                 "ORG": [
                     "Halley",
-                    "cholera",
-                    "alt="
+                    "TheAnthropoceneReviewed/~4"
                 ],
                 "LOC": [
                     "Earth"
@@ -1483,19 +1404,15 @@
             "entities": {
                 "PERSON": [
                     "John Green",
+                    "Canada Geese",
                     "Foots",
                     "Audible"
                 ],
-                "GPE": [
-                    "Canada"
-                ],
                 "ORG": [
-                    "Diet Dr Pepper",
-                    "src=\"http://feeds.feedburner.com/~r/TheAnthropoceneReviewed/~4/94vWAm02xfc",
-                    "alt="
+                    "Diet Dr Pepper"
                 ],
-                "CARDINAL": [
-                    "zero"
+                "QUANTITY": [
+                    "zero-calorie"
                 ],
                 "DATE": [
                     "today"
@@ -1575,15 +1492,24 @@
     "pubDate": "Thu, 26 Aug 2021 11:12:01 +0000",
     "title": "The Anthropocene Reviewed",
     "entities": {
+        "PERSON": [
+            "Anthropocene",
+            "John Green",
+            "Snap Judgment, Death",
+            "Nancy"
+        ],
         "ORG": [
             "The Anthropocene Reviewed",
-            "New York Times"
+            "WNYC Studios"
         ],
-        "PERSON": [
-            "John Green"
+        "MONEY": [
+            "#1 New York Times"
         ],
         "CARDINAL": [
             "five"
+        ],
+        "NORP": [
+            "Media"
         ]
     }
 }

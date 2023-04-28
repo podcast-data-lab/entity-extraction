@@ -32,26 +32,27 @@
             "entities": {
                 "PERSON": [
                     "Katie Mack",
-                    "Astrophysically Speaking",
                     "Jayne A. Quan",
                     "Rose Eveleth",
                     "Frank Okay",
+                    "Episode",
                     "Tab",
                     "Purple Carrot",
                     "Purple Carrot",
-                    "Purple Carrot"
-                ],
-                "WORK_OF_ART": [
-                    "The End of Everything:"
+                    "Purple Carrot",
+                    "Learn"
                 ],
                 "GPE": [
-                    "Los Angeles"
+                    "Los Angeles",
+                    "DAILY"
                 ],
                 "ORG": [
                     "Twitter & Instagram",
                     "Blue Dot Sessions",
-                    "Shaker & Spoon",
-                    "Cause"
+                    "Shaker & Spoon"
+                ],
+                "WORK_OF_ART": [
+                    "Advice For And From The Future"
                 ],
                 "MONEY": [
                     "20",
@@ -68,7 +69,6 @@
                     "two"
                 ],
                 "DATE": [
-                    "DAILY",
                     "Each week",
                     "today"
                 ]
@@ -99,30 +99,32 @@
                 "ORG": [
                     "Alexa",
                     "Blue Dot Sessions",
-                    "\u2728",
-                    "thelistener.co/advice",
-                    "Shaker & Spoon",
-                    "Cause"
+                    "Shaker & Spoon"
                 ],
                 "PERSON": [
                     "Simone Browne",
                     "Rose Eveleth",
                     "Frank Okay",
+                    "Episode",
                     "Tab",
                     "Purple Carrot",
                     "Purple Carrot",
-                    "Purple Carrot"
+                    "Purple Carrot",
+                    "Learn"
+                ],
+                "WORK_OF_ART": [
+                    "Advice For And From The Future"
+                ],
+                "DATE": [
+                    "daily",
+                    "every week day",
+                    "first year",
+                    "Each week",
+                    "today"
                 ],
                 "CARDINAL": [
                     "three",
                     "two"
-                ],
-                "DATE": [
-                    "every week day",
-                    "first year",
-                    "DAILY",
-                    "Each week",
-                    "today"
                 ],
                 "PERCENT": [
                     "20%"
@@ -137,6 +139,9 @@
                     "first",
                     "first",
                     "first"
+                ],
+                "GPE": [
+                    "DAILY"
                 ]
             }
         },
@@ -168,12 +173,9 @@
                 "ORDINAL": [
                     "first"
                 ],
-                "ORG": [
+                "WORK_OF_ART": [
                     "Open World",
-                    "T.H. Ponders",
-                    "Philo\u2019s Future Media",
-                    "Dorica",
-                    "BlueDot Sessions"
+                    "Open World"
                 ],
                 "GPE": [
                     "The City We Became"
@@ -183,10 +185,23 @@
                     "Jemisin",
                     "Glitch",
                     "Anil Dash",
-                    "Flash Forward Presents",
                     "Rose Eveleth",
                     "Brittani Taylor Brown",
+                    "Dorica",
                     "Walter Parenton"
+                ],
+                "ORG": [
+                    "T.H. Ponders",
+                    "Philo\u2019s Future Media",
+                    "Flash Forward Presents",
+                    "TK Dutes",
+                    "BlueDot Sessions"
+                ],
+                "NORP": [
+                    "C."
+                ],
+                "PRODUCT": [
+                    "Learn"
                 ]
             }
         },
@@ -215,7 +230,6 @@
                 "DATE": [
                     "Today",
                     "two free months",
-                    "DAILY",
                     "Each week",
                     "today"
                 ],
@@ -223,25 +237,27 @@
                     "Janina Jeff",
                     "Rose Eveleth",
                     "Frank Okay",
-                    "\u2728 Subscribe",
+                    "Episode",
                     "Tab",
                     "Purple Carrot",
                     "Purple Carrot",
-                    "Purple Carrot"
+                    "Purple Carrot",
+                    "Learn"
                 ],
                 "GPE": [
-                    "Illumina"
+                    "Illumina",
+                    "DAILY"
+                ],
+                "PRODUCT": [
+                    "In Those Genes"
                 ],
                 "WORK_OF_ART": [
-                    "Those Genes"
+                    "Advice For And From The Future"
                 ],
                 "ORG": [
                     "Blue Dot Sessions",
-                    "THE FLASH FORWARD BOOK",
-                    "\u2728",
                     "Premium Membership",
-                    "Shaker & Spoon",
-                    "Cause"
+                    "Shaker & Spoon"
                 ],
                 "CARDINAL": [
                     "thousands",
@@ -284,26 +300,31 @@
             "entities": {
                 "DATE": [
                     "today",
-                    "first month",
-                    "DAILY",
+                    "your first month",
                     "Each week",
                     "today"
                 ],
-                "PERSON": [
+                "ORG": [
                     "Soleil Ho",
+                    "Extra Spicy",
+                    "Blue Dot Sessions",
+                    "Shaker & Spoon"
+                ],
+                "FAC": [
+                    "the San Francisco Chronicle"
+                ],
+                "PERSON": [
+                    "Racist Sandwich",
                     "Rose Eveleth",
                     "Frank Okay",
                     "Tab",
                     "Purple Carrot",
                     "Purple Carrot",
-                    "Purple Carrot"
+                    "Purple Carrot",
+                    "Learn"
                 ],
-                "ORG": [
-                    "the San Francisco Chronicle",
-                    "Extra Spicy",
-                    "Blue Dot Sessions",
-                    "Shaker & Spoon",
-                    "Cause"
+                "WORK_OF_ART": [
+                    "Advice For And From The Future"
                 ],
                 "PERCENT": [
                     "10%"
@@ -321,6 +342,9 @@
                 ],
                 "CARDINAL": [
                     "two"
+                ],
+                "GPE": [
+                    "DAILY"
                 ]
             }
         },
@@ -349,25 +373,27 @@
                 "DATE": [
                     "Today",
                     "two free months",
-                    "DAILY",
                     "Each week",
                     "today"
                 ],
-                "ORG": [
-                    "Stacy-Marie Ishmael",
-                    "Stacy-Marie\u2019s",
-                    "Blue Dot Sessions",
-                    "Premium Membership",
-                    "Shaker & Spoon",
-                    "Cause"
-                ],
                 "PERSON": [
+                    "Stacy-Marie Ishmael",
                     "Rose Eveleth",
                     "Frank Okay",
                     "Tab",
                     "Purple Carrot",
                     "Purple Carrot",
-                    "Purple Carrot"
+                    "Purple Carrot",
+                    "Learn"
+                ],
+                "ORG": [
+                    "Stacy-Marie\u2019s",
+                    "Blue Dot Sessions",
+                    "Premium Membership",
+                    "Shaker & Spoon"
+                ],
+                "WORK_OF_ART": [
+                    "Advice For And From The Future"
                 ],
                 "CARDINAL": [
                     "millions",
@@ -384,6 +410,9 @@
                     "first",
                     "first",
                     "first"
+                ],
+                "GPE": [
+                    "DAILY"
                 ]
             }
         },
@@ -411,7 +440,6 @@
             "entities": {
                 "DATE": [
                     "Today",
-                    "DAILY",
                     "Each week",
                     "today"
                 ],
@@ -427,27 +455,29 @@
                     "Tab",
                     "Purple Carrot",
                     "Purple Carrot",
-                    "Purple Carrot"
+                    "Purple Carrot",
+                    "Learn"
                 ],
                 "ORG": [
                     "the Social Science Research Council",
                     "the Institute for Advanced Study",
-                    "The Social Life of",
+                    "The Social Life of DNA: Race, Reparations",
                     "QVC",
-                    "Latinx Podcast\n\n\n",
-                    "Website",
                     "Blue Dot Sessions",
-                    "Shaker & Spoon",
-                    "Cause"
+                    "Shaker & Spoon"
                 ],
-                "GPE": [
-                    "Genome",
-                    "Ashley Kellem"
+                "WORK_OF_ART": [
+                    "Reconciliation After the Genome",
+                    "Advice For And From The Future"
                 ],
                 "CARDINAL": [
                     "1",
                     "2",
                     "two"
+                ],
+                "GPE": [
+                    "Website",
+                    "DAILY"
                 ],
                 "MONEY": [
                     "20",
@@ -492,16 +522,17 @@
                     "Jane",
                     "Rose",
                     "Amy Lee",
-                    "\u2190 \u2190 \u2190\nAdvice",
+                    "\u2190 \u2190 \u2190\nAdvice For And From The Future",
                     "Rose Eveleth",
                     "Frank Okay",
                     "Noah Veltman",
+                    "Episode",
                     "Learn"
                 ],
                 "ORG": [
                     "BuzzFeed News",
                     "Simon Fraser University",
-                    "IMAGES FOR TODAY'S EPISODE",
+                    "IMAGES FOR TODAY'S",
                     "Blue Dot Sessions"
                 ],
                 "CARDINAL": [
@@ -536,39 +567,34 @@
             "entities": {
                 "DATE": [
                     "Today",
-                    "first month"
+                    "your first month"
                 ],
                 "PERSON": [
-                    "Rose",
+                    "Ace Tilton Ratcliff",
                     "Rose Eveleth",
                     "Frank Okay",
                     "Shara Kirby",
                     "Henry Alexander Kelly",
                     "La Lisa",
-                    "Carrasco",
                     "Flash Forward Patron",
-                    "Brian Downs",
-                    "Flash Forward Patron",
-                    "Sun Basket"
-                ],
-                "ORG": [
-                    "Ace Tilton Ratcliff",
-                    "Haper's Promise",
-                    "Blue Dot Sessions",
-                    "Latinx Podcast",
-                    "Website",
-                    "Brett Tubbs:",
-                    "Instagram"
+                    "Episode",
+                    "Learn"
                 ],
                 "GPE": [
-                    "Ashley Kellem"
+                    "Haper",
+                    "Brett"
+                ],
+                "WORK_OF_ART": [
+                    "Cryonics, Dakota the Dog"
+                ],
+                "ORG": [
+                    "the Hope of Forever",
+                    "Blue Dot Sessions",
+                    "Cryodog 2"
                 ],
                 "CARDINAL": [
-                    "3",
+                    "1",
                     "2"
-                ],
-                "PRODUCT": [
-                    "Twitter"
                 ],
                 "PERCENT": [
                     "10%"
@@ -618,6 +644,9 @@
                 ],
                 "CARDINAL": [
                     "one"
+                ],
+                "PRODUCT": [
+                    "Learn"
                 ]
             }
         },
@@ -656,7 +685,11 @@
                     "Frank Okay"
                 ],
                 "ORG": [
+                    "the Song Salad",
                     "Blue Dot Sessions"
+                ],
+                "PRODUCT": [
+                    "Learn"
                 ]
             }
         },
@@ -690,10 +723,14 @@
                     "Future"
                 ],
                 "CARDINAL": [
-                    "347"
+                    "347",
+                    "927-1425"
                 ],
                 "DATE": [
                     "June 2nd"
+                ],
+                "PRODUCT": [
+                    "Learn"
                 ]
             }
         }

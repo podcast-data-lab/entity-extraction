@@ -32,17 +32,18 @@
             "entities": {
                 "PERSON": [
                     "Jon Tyson",
-                    "Phil"
+                    "Phil",
+                    "Becky",
+                    "Jon"
                 ],
                 "ORG": [
-                    "Pastor of Church",
-                    "Jon\u2019s"
+                    "Pastor of Church"
                 ],
                 "GPE": [
                     "New York"
                 ],
                 "WORK_OF_ART": [
-                    "The Intentional Father"
+                    "\u201cThe Intentional Father\u201d"
                 ]
             }
         },
@@ -71,6 +72,7 @@
                     "Alan Scott",
                     "Vineyard Anaheim",
                     "Phil",
+                    "Becky",
                     "Alan"
                 ],
                 "ORG": [
@@ -105,12 +107,12 @@
                     "Brett"
                 ],
                 "ORG": [
-                    "Co-Founder",
+                    "Co-Founder of New Story",
                     "Forbes",
-                    "Goldman Sachs",
-                    "Instagram"
+                    "Goldman Sachs"
                 ],
                 "CARDINAL": [
+                    "30",
                     "30",
                     "one"
                 ],
@@ -119,6 +121,9 @@
                 ],
                 "PRODUCT": [
                     "the Top 100"
+                ],
+                "LOC": [
+                    "Instagram"
                 ]
             }
         },
@@ -147,11 +152,11 @@
                     "Join Banning",
                     "Phil",
                     "Lou Engle",
-                    "Lou"
+                    "Lou",
+                    "TheCall"
                 ],
                 "ORG": [
-                    "Lou Engle Ministries",
-                    "TheCall"
+                    "Lou Engle Ministries"
                 ]
             }
         },
@@ -176,9 +181,6 @@
             "pubDate": "Thu, 26 Aug 2021 10:18:49 +0000",
             "title": "Episode 71: Emotional Health",
             "entities": {
-                "EVENT": [
-                    "the Body of Christ"
-                ],
                 "PERSON": [
                     "Phil",
                     "Margaret Nagib",
@@ -213,15 +215,17 @@
                 "PERSON": [
                     "Lyle Wells",
                     "Lyle",
-                    "Lyle"
+                    "@leadwithlyle"
                 ],
                 "ORG": [
-                    "Integrus Leadership",
-                    "Instagram",
-                    "@integrusleadership"
+                    "Banning",
+                    "Instagram"
                 ],
                 "DATE": [
                     "Five Day"
+                ],
+                "GPE": [
+                    "Lyle"
                 ]
             }
         },
@@ -250,6 +254,7 @@
                     "the Kingdom of God"
                 ],
                 "PERSON": [
+                    "Jesus",
                     "Andy Byrd"
                 ],
                 "ORG": [
@@ -284,12 +289,13 @@
                     "Anthony Skinner",
                     "Anthony"
                 ],
-                "FAC": [
+                "PRODUCT": [
                     "Enneagram"
                 ],
                 "ORG": [
                     "Bethel Music",
-                    "Worship and Arts Pastor at Church of the City"
+                    "Worship and Arts Pastor at",
+                    "Church of the City"
                 ],
                 "GPE": [
                     "Nashville"
@@ -319,8 +325,7 @@
             "entities": {
                 "PERSON": [
                     "Phil",
-                    "Danny Silk",
-                    "Purpose"
+                    "Danny Silk"
                 ],
                 "ORG": [
                     "Co-Founder of Loving"
@@ -357,7 +362,7 @@
                     "Phil"
                 ],
                 "ORG": [
-                    "Pastor of Radiant Church",
+                    "Radiant Church",
                     "Banning"
                 ],
                 "DATE": [
@@ -387,7 +392,8 @@
             "title": "Episode 65: Identity & Mission",
             "entities": {
                 "ORG": [
-                    "Banning"
+                    "Banning",
+                    "Jesus Culture School of Leadership"
                 ],
                 "PERSON": [
                     "Kate Bagley"
@@ -451,9 +457,6 @@
                 ],
                 "PERSON": [
                     "Phil"
-                ],
-                "PRODUCT": [
-                    "God&#8217;s"
                 ]
             }
         },
@@ -483,6 +486,7 @@
                     "Bible"
                 ],
                 "PERSON": [
+                    "Becky",
                     "Phil"
                 ]
             }
@@ -511,10 +515,12 @@
                 "PERSON": [
                     "Join Becky",
                     "Phil",
-                    "Eric"
+                    "Eric",
+                    "Jesus"
                 ],
                 "ORG": [
                     "Candace",
+                    "Senior Pastors",
                     "Bethel Church"
                 ],
                 "GPE": [
@@ -545,10 +551,12 @@
             "entities": {
                 "PERSON": [
                     "Join Becky",
-                    "Phil"
+                    "Phil",
+                    "Doubt",
+                    "Jesus"
                 ],
                 "ORG": [
-                    "Doubt",
+                    "AJ Swoboda",
                     "AJ"
                 ],
                 "PRODUCT": [
@@ -578,14 +586,14 @@
             "title": "Episode 59: Sabbath with A.J. Swoboda",
             "entities": {
                 "PERSON": [
-                    "Swoboda",
+                    "AJ Swoboda",
                     "Subversive Sabbath",
+                    "Becky",
                     "Phil",
                     "Sabbath"
                 ],
                 "ORG": [
-                    "AJ",
-                    "@mrajswoboda"
+                    "AJ"
                 ],
                 "PRODUCT": [
                     "Twitter"
@@ -705,7 +713,7 @@
             "pubDate": "Wed, 30 Dec 2020 11:35:08 +0000",
             "title": "Episode 54: Pride And The Human Heart",
             "entities": {
-                "LAW": [
+                "ORG": [
                     "the Jesus Culture Podcast"
                 ]
             }
@@ -760,15 +768,12 @@
                 "ORDINAL": [
                     "first"
                 ],
-                "LAW": [
+                "ORG": [
                     "the Jesus Culture Podcast"
                 ],
                 "PERSON": [
                     "Nate Edwardson",
                     "Phil"
-                ],
-                "ORG": [
-                    "Banning"
                 ]
             }
         },
@@ -795,6 +800,10 @@
             "entities": {
                 "DATE": [
                     "these days"
+                ],
+                "PERSON": [
+                    "Jesus",
+                    "Jesus"
                 ]
             }
         },
@@ -823,9 +832,6 @@
                     "three",
                     "three",
                     "one"
-                ],
-                "TIME": [
-                    "THREE-MILE"
                 ],
                 "ORDINAL": [
                     "third"
@@ -862,9 +868,6 @@
                 "CARDINAL": [
                     "three",
                     "three"
-                ],
-                "TIME": [
-                    "THREE-MILE"
                 ]
             }
         },
@@ -892,9 +895,6 @@
                 "CARDINAL": [
                     "three",
                     "three"
-                ],
-                "TIME": [
-                    "THREE-MILE"
                 ]
             }
         },
@@ -1000,12 +1000,13 @@
             "pubDate": "Wed, 06 May 2020 13:02:13 +0000",
             "title": "Episode 44: Listener Questions ",
             "entities": {
-                "WORK_OF_ART": [
-                    "efforts?&#8221"
+                "FAC": [
+                    "predestination?&#8221"
+                ],
+                "MONEY": [
+                    "#8220;Jesus Culture&#8221"
                 ],
                 "ORG": [
-                    "spouse?&#8221",
-                    "DM&#8217;ing &#8220;Jesus Culture&#8221",
                     "Instagram"
                 ]
             }
@@ -1032,10 +1033,12 @@
             "title": "Leadership Talks With Banning: Eugene Cho",
             "entities": {
                 "PERSON": [
-                    "Eugene Cho"
+                    "Eugene Cho",
+                    "Thou Shalt",
+                    "Eugene"
                 ],
-                "WORK_OF_ART": [
-                    "Thou Shalt Not Be A Jerk"
+                "ORG": [
+                    "COVID-19"
                 ]
             }
         },
@@ -1112,11 +1115,8 @@
             "pubDate": "Wed, 25 Mar 2020 09:11:29 +0000",
             "title": "Episode 41: The Church and COVID-19",
             "entities": {
-                "NORP": [
-                    "Quarantined"
-                ],
-                "PERSON": [
-                    "they&#8217;re"
+                "DATE": [
+                    "this unprecedented season"
                 ],
                 "ORG": [
                     "COVID-19"
@@ -1168,9 +1168,6 @@
             "entities": {
                 "PERSON": [
                     "Matt Redman"
-                ],
-                "WORK_OF_ART": [
-                    "Let There Be Wonder"
                 ]
             }
         },
@@ -1243,7 +1240,7 @@
                     "Alex Seeley"
                 ],
                 "ORG": [
-                    "a Lead Pastor of The Belonging Co.",
+                    "The Belonging Co.",
                     "TN"
                 ],
                 "GPE": [
@@ -1274,7 +1271,10 @@
             "title": "Episode 36: Women Leading In The Church",
             "entities": {
                 "ORG": [
-                    "Banning, Becky"
+                    "Banning"
+                ],
+                "GPE": [
+                    "Becky"
                 ],
                 "PERSON": [
                     "Phil"
@@ -1306,7 +1306,7 @@
                     "Mark Batterson"
                 ],
                 "ORG": [
-                    "Lead Pastor of National Community Church"
+                    "National Community Church"
                 ],
                 "GPE": [
                     "Washington D.C."
@@ -1340,6 +1340,9 @@
                 "DATE": [
                     "this week"
                 ],
+                "GPE": [
+                    "Becky"
+                ],
                 "PERSON": [
                     "Phil"
                 ]
@@ -1367,13 +1370,8 @@
             "title": "Leadership Talks With Banning: Jonathan Helser",
             "entities": {
                 "PERSON": [
-                    "Jonathan Helser"
-                ],
-                "WORK_OF_ART": [
-                    "The 18"
-                ],
-                "NORP": [
-                    "Inch"
+                    "Jonathan Helser",
+                    "Inch Journey"
                 ]
             }
         },
@@ -1403,11 +1401,10 @@
                     "Josh"
                 ],
                 "ORG": [
-                    "Pastor of C3 Church",
-                    "NYC"
+                    "Pastor of C3 Church"
                 ],
-                "NORP": [
-                    "Gospel"
+                "LOC": [
+                    "NYC"
                 ],
                 "GPE": [
                     "New York City"
@@ -1435,11 +1432,8 @@
             "pubDate": "Mon, 09 Sep 2019 08:49:37 +0000",
             "title": "Leadership Talks With Banning: Gabe Lyons",
             "entities": {
-                "PERSON": [
-                    "Gabe Lyons"
-                ],
                 "ORG": [
-                    "www.qideas.org"
+                    "Gabe Lyons"
                 ]
             }
         },
@@ -1468,7 +1462,10 @@
                     "Anthony Skinner",
                     "Anthony"
                 ],
-                "FAC": [
+                "ORG": [
+                    "Pastor of Worship at Church of the City"
+                ],
+                "LOC": [
                     "Enneagram"
                 ]
             }
@@ -1528,10 +1525,12 @@
             "title": "Episode 32: Benny Perez",
             "entities": {
                 "WORK_OF_ART": [
-                    "Banning and Becky"
+                    "Banning"
                 ],
                 "PERSON": [
-                    "Benny Perez"
+                    "Becky",
+                    "Benny Perez",
+                    "Benny"
                 ],
                 "GPE": [
                     "Las Vegas",
@@ -1560,10 +1559,13 @@
             "pubDate": "Mon, 01 Jul 2019 09:47:36 +0000",
             "title": "Leadership Talks With Banning: Brad Lomenick",
             "entities": {
+                "MONEY": [
+                    "8220;Banning",
+                    "8220"
+                ],
                 "PERSON": [
                     "Brad Lemonick",
-                    "Brad",
-                    "you&#8217;re"
+                    "Brad"
                 ],
                 "ORG": [
                     "Catalyst"
@@ -1599,7 +1601,8 @@
                 ],
                 "PERSON": [
                     "Derek Johnson",
-                    "Nate Edwardson"
+                    "Nate Edwardson",
+                    "Lead Pastor"
                 ],
                 "LOC": [
                     "Northern California"
@@ -1634,14 +1637,15 @@
             "title": "Leadership Talks With Banning: Eugene Cho",
             "entities": {
                 "PERSON": [
+                    "8220;Banning Liebscher",
                     "Eugene Cho",
                     "Eugene"
                 ],
                 "ORG": [
                     "Quest Church"
                 ],
-                "MONEY": [
-                    "One Day&#8217;s"
+                "CARDINAL": [
+                    "One"
                 ]
             }
         },
@@ -1672,6 +1676,12 @@
                 "PERSON": [
                     "Jeremy Riddle",
                     "Jeremy"
+                ],
+                "GPE": [
+                    "Christ"
+                ],
+                "ORG": [
+                    "generation.&#8221"
                 ]
             }
         },
@@ -1696,16 +1706,21 @@
             "pubDate": "Mon, 13 May 2019 08:09:38 +0000",
             "title": "Leadership Talks With Banning: Danny Silk",
             "entities": {
+                "MONEY": [
+                    "8220;Banning"
+                ],
                 "PERSON": [
                     "Danny Silk",
-                    "Purpose",
                     "Danny"
                 ],
-                "ORG": [
+                "GPE": [
                     "Loving"
                 ],
                 "CARDINAL": [
                     "7"
+                ],
+                "ORG": [
+                    "vision.&#8221"
                 ]
             }
         },
@@ -1734,10 +1749,12 @@
                     "8220;Don&#8217;t"
                 ],
                 "ORG": [
-                    "Rebekah Lyons",
-                    "Joy.&#8221"
+                    "Rebekah Lyons"
                 ],
-                "LOC": [
+                "PERSON": [
+                    "Q Ideas"
+                ],
+                "WORK_OF_ART": [
                     "Good Morning America"
                 ],
                 "CARDINAL": [
@@ -1766,17 +1783,18 @@
             "pubDate": "Tue, 16 Apr 2019 08:43:14 +0000",
             "title": "Episode 28: Havilah Cunnington",
             "entities": {
-                "ORG": [
-                    "Jesus Culture&#8217;s",
-                    "Bethel Church"
-                ],
                 "PERSON": [
+                    "Jesus Culture&#8217;s",
                     "Havilah Cunnington",
                     "Havilah Cunnington",
                     "Ben"
                 ],
                 "DATE": [
                     "twenty years"
+                ],
+                "ORG": [
+                    "Bethel Church",
+                    "Havilah"
                 ],
                 "WORK_OF_ART": [
                     "Bible"
@@ -1810,7 +1828,8 @@
                 "ORG": [
                     "Banning",
                     "Co-Founder",
-                    "WebConnex"
+                    "WebConnex",
+                    "growth.&#8221"
                 ],
                 "PERSON": [
                     "Eric Knopf"
@@ -1841,11 +1860,15 @@
             "pubDate": "Tue, 12 Mar 2019 12:49:31 +0000",
             "title": "Episode 27: Mo Isom Aiken",
             "entities": {
-                "PERSON": [
-                    "Mo Isom Aiken"
-                ],
                 "ORG": [
+                    "Mo Isom Aiken",
                     "NY Times Best Selling"
+                ],
+                "WORK_OF_ART": [
+                    "the Gospel of Jesus"
+                ],
+                "PERSON": [
+                    "Jesus"
                 ]
             }
         },
@@ -1875,10 +1898,11 @@
                 ],
                 "PERSON": [
                     "Derek Johnson",
-                    "Phil Manginelli"
+                    "Phil Manginelli",
+                    "Annie F. Downs",
+                    "Annie"
                 ],
                 "ORG": [
-                    "Annie F. Downs",
                     "Enneagram.&#8221"
                 ]
             }
@@ -1907,14 +1931,16 @@
                 "MONEY": [
                     "8220;In"
                 ],
-                "ORG": [
-                    "Banning Liebscher",
-                    "Banning"
+                "WORK_OF_ART": [
+                    "Leadership Talks with Banning Liebscher"
                 ],
                 "PERSON": [
                     "John Bevere",
                     "John",
                     "John Bevere"
+                ],
+                "ORG": [
+                    "Banning"
                 ]
             }
         },
@@ -1940,7 +1966,7 @@
             "title": "Episode 25: Shawn Bolz",
             "entities": {
                 "DATE": [
-                    "8220;This month"
+                    "#8220;This month"
                 ],
                 "PERSON": [
                     "Shawn Bolz",
@@ -1969,14 +1995,18 @@
             "pubDate": "Mon, 07 Jan 2019 19:07:43 +0000",
             "title": "Episode 24: Chad Veach",
             "entities": {
-                "GPE": [
-                    "Chad Veach",
-                    "LA",
-                    "Los Angeles"
-                ],
                 "ORG": [
+                    "Banning",
                     "ZOE Church",
                     "ZOE"
+                ],
+                "PERSON": [
+                    "Becky",
+                    "Chad Veach"
+                ],
+                "GPE": [
+                    "LA",
+                    "Los Angeles"
                 ]
             }
         },
@@ -2001,9 +2031,6 @@
             "pubDate": "Tue, 18 Dec 2018 16:15:52 +0000",
             "title": "Episode 23: Efrem Smith",
             "entities": {
-                "MONEY": [
-                    "8220"
-                ],
                 "DATE": [
                     "this week"
                 ],
@@ -2014,16 +2041,12 @@
                     "Pastor Smith"
                 ],
                 "ORG": [
-                    "World Impact",
-                    "Pastor of Bayside Church",
-                    "Saint John&#8217;s University",
-                    "Ashland Theological Seminary",
-                    "Church Leadership",
-                    "Fuller Seminary"
+                    "Bayside Church",
+                    "Saint John&#8217;s University"
                 ],
                 "GPE": [
-                    "Midtown",
-                    "Us"
+                    "Us",
+                    "Ashland"
                 ]
             }
         },
@@ -2048,19 +2071,18 @@
             "pubDate": "Wed, 12 Dec 2018 09:10:43 +0000",
             "title": "Leadership Talks with Banning: David Perkins",
             "entities": {
-                "DATE": [
-                    "8220",
-                    "daily"
+                "WORK_OF_ART": [
+                    "Leadership Talks with Banning Liebscher"
                 ],
                 "ORG": [
-                    "Banning Liebscher",
                     "Pastor of Radiant Church"
                 ],
                 "GPE": [
                     "Kansas City"
                 ],
                 "PERSON": [
-                    "David Perkins"
+                    "David Perkins",
+                    "David"
                 ]
             }
         },
@@ -2090,7 +2112,10 @@
                     "Katie Torwalt"
                 ],
                 "ORG": [
-                    "EP, &#"
+                    "EP"
+                ],
+                "MONEY": [
+                    "8220;Praise"
                 ]
             }
         },
@@ -2115,33 +2140,31 @@
             "pubDate": "Mon, 19 Nov 2018 20:52:56 +0000",
             "title": "Leadership Talks with Banning: Jeanne Mayo",
             "entities": {
-                "DATE": [
-                    "8220",
-                    "over four decades",
-                    "each weekend"
-                ],
-                "LAW": [
-                    "This month&#8217;s Leadership Talk with Banning Liebscher"
+                "ORG": [
+                    "Banning Liebscher",
+                    "Ministries Today",
+                    "Youth",
+                    "Victory World Church",
+                    "Atlanta Leadership College",
+                    "Banning"
                 ],
                 "PERSON": [
                     "Jeanne Mayo",
                     "Jeanne Mayo",
                     "Jeanne",
+                    "Young Adult Ministries&#8221",
                     "Jeanne"
-                ],
-                "ORG": [
-                    "Ministries Today as &#8220;America&#8217;s",
-                    "Victory World Church",
-                    "GA",
-                    "Atlanta Leadership College",
-                    "Banning"
                 ],
                 "CARDINAL": [
                     "One",
-                    "over 15,000"
+                    "15,000"
+                ],
+                "DATE": [
+                    "four decades"
                 ],
                 "GPE": [
-                    "Atlanta"
+                    "Atlanta",
+                    "GA"
                 ]
             }
         },
@@ -2166,15 +2189,16 @@
             "pubDate": "Mon, 12 Nov 2018 09:11:12 +0000",
             "title": "Episode 21: Phil Manginelli",
             "entities": {
+                "MONEY": [
+                    "8220;Banning"
+                ],
                 "GPE": [
                     "Atlanta"
                 ],
                 "PERSON": [
                     "Phil Manginelli",
+                    "Jesus",
                     "Phil"
-                ],
-                "ORG": [
-                    "Christ.&#8221"
                 ]
             }
         },
@@ -2205,13 +2229,11 @@
                 "ORDINAL": [
                     "first"
                 ],
-                "ORG": [
-                    "Banning",
-                    "Banning"
+                "WORK_OF_ART": [
+                    "Leadership Talks with Banning, Banning"
                 ],
                 "PERSON": [
-                    "Sam Chand",
-                    "Chand.&#8221"
+                    "Sam Chand"
                 ]
             }
         },
@@ -2245,11 +2267,12 @@
                 "PERSON": [
                     "Jude Fouquier",
                     "Jude",
-                    "Word",
-                    "God.&#8221"
+                    "Becky",
+                    "Word"
                 ],
-                "WORK_OF_ART": [
-                    "the Lead Pastors of The City Church"
+                "ORG": [
+                    "the Lead Pastors of",
+                    "The City Church"
                 ],
                 "GPE": [
                     "Ventura",
@@ -2279,14 +2302,12 @@
             "title": "Summer Update",
             "entities": {
                 "DATE": [
-                    "summer",
-                    "a great fall"
+                    "summer"
                 ],
-                "ORG": [
-                    "Instagram",
-                    "podcast@jesusculture.com"
+                "GPE": [
+                    "Instagram"
                 ],
-                "PRODUCT": [
+                "PERSON": [
                     "Twitter"
                 ]
             }
@@ -2312,16 +2333,16 @@
             "pubDate": "Thu, 12 Jul 2018 13:47:13 +0000",
             "title": "Episode 19: From the Archives: Feedback",
             "entities": {
-                "MONEY": [
-                    "8220"
+                "ORG": [
+                    "Feedback"
                 ],
                 "PERSON": [
-                    "We&#8217;ve",
                     "Kim Walker-Smith",
                     "Lyle Wells"
                 ],
-                "ORG": [
-                    "Feedback"
+                "GPE": [
+                    "Banning",
+                    "Becky"
                 ]
             }
         },
@@ -2346,14 +2367,12 @@
             "pubDate": "Thu, 14 Jun 2018 13:10:08 +0000",
             "title": "Episode 18: Brittney Serpell",
             "entities": {
-                "DATE": [
-                    "8220"
-                ],
                 "PERSON": [
-                    "Brittney Serpell"
+                    "Brittney Serpell",
+                    "Family Life"
                 ],
                 "ORG": [
-                    "Family Life"
+                    "Loving on Purpose Ministries"
                 ]
             }
         },
@@ -2378,17 +2397,17 @@
             "pubDate": "Thu, 07 Jun 2018 12:05:57 +0000",
             "title": "Episode 17: Brian Kim",
             "entities": {
-                "ORG": [
-                    "Banning",
-                    "Co-Host"
+                "MONEY": [
+                    "#8220;Join"
+                ],
+                "LAW": [
+                    "Banning and Co-Host",
+                    "Encounter Sacramento Conference on &#8220;cultural"
                 ],
                 "PERSON": [
                     "Zack Curry",
                     "Derek Johnson",
                     "Phill Wickham"
-                ],
-                "MONEY": [
-                    "8220;cultural"
                 ]
             }
         },
@@ -2414,11 +2433,12 @@
             "title": "Episode 16: Jon Tyson",
             "entities": {
                 "DATE": [
-                    "8220;This week",
+                    "#8220;This week",
                     "this week"
                 ],
                 "ORG": [
-                    "Banning"
+                    "Banning",
+                    "celebrated.&#8221"
                 ],
                 "PERSON": [
                     "Havilah Cunnington",
@@ -2448,22 +2468,16 @@
             "title": "Episode 15: Sy Rogers",
             "entities": {
                 "DATE": [
-                    "8220",
                     "This week",
                     "this week"
                 ],
                 "ORG": [
-                    "Banning",
-                    "Lisa & John Beveres"
+                    "Podcast",
+                    "Lisa & John Beveres",
+                    "the Jesus Culture Podcast"
                 ],
                 "GPE": [
                     "Arden"
-                ],
-                "PERSON": [
-                    "Sy Rogers"
-                ],
-                "LAW": [
-                    "the Jesus Culture Podcast"
                 ]
             }
         },
@@ -2489,8 +2503,10 @@
             "title": "Episode 14: Banning Liebscher",
             "entities": {
                 "DATE": [
-                    "8220",
                     "This week"
+                ],
+                "EVENT": [
+                    "the Jesus Culture Podcast"
                 ],
                 "PERSON": [
                     "Danny Silk"
@@ -2498,7 +2514,7 @@
                 "CARDINAL": [
                     "two"
                 ],
-                "LOC": [
+                "PRODUCT": [
                     "Encounter Sacramento"
                 ]
             }
@@ -2525,7 +2541,6 @@
             "title": "Episode 13: Lisa Bevere",
             "entities": {
                 "DATE": [
-                    "8220",
                     "This week"
                 ],
                 "PERSON": [
@@ -2533,13 +2548,15 @@
                     "Bryan"
                 ],
                 "ORG": [
+                    "Jesus Culture Music",
                     "Banning"
                 ],
-                "LOC": [
-                    "Encounter Sacramento"
+                "GPE": [
+                    "Becky"
                 ],
                 "PRODUCT": [
-                    "Q Pop-Up"
+                    "man&#8221",
+                    "Encounter Sacramento"
                 ],
                 "CARDINAL": [
                     "1"
@@ -2567,20 +2584,19 @@
             "pubDate": "Fri, 04 May 2018 12:08:11 +0000",
             "title": "Episode 12: Bill Johnson",
             "entities": {
-                "DATE": [
-                    "8220",
-                    "2018",
-                    "this week"
-                ],
                 "PERSON": [
                     "Bill Johnson",
                     "Jason Vallotton"
                 ],
-                "ORG": [
-                    "Bethel Church"
+                "FAC": [
+                    "Encounter 2018"
                 ],
-                "LAW": [
+                "ORG": [
+                    "Bethel Church",
                     "the Jesus Culture Podcast"
+                ],
+                "DATE": [
+                    "this week"
                 ]
             }
         },
@@ -2605,9 +2621,6 @@
             "pubDate": "Thu, 26 Apr 2018 21:26:47 +0000",
             "title": "Episode 11: Phil Manginelli",
             "entities": {
-                "DATE": [
-                    "8220"
-                ],
                 "PERSON": [
                     "Michael Brodeur",
                     "Destiny Finder",
@@ -2615,8 +2628,13 @@
                     "You&#8217;ll"
                 ],
                 "ORG": [
-                    "Loving",
                     "Purpose Life Academy"
+                ],
+                "PRODUCT": [
+                    "Encounter"
+                ],
+                "EVENT": [
+                    "the Jesus Culture Podcast"
                 ]
             }
         },
@@ -2649,9 +2667,6 @@
                     "David Bailey",
                     "Chad Veach"
                 ],
-                "GPE": [
-                    "Burden"
-                ],
                 "NORP": [
                     "Christian"
                 ]
@@ -2679,15 +2694,16 @@
             "title": "Episode 9: Henry Seeley, Kim Walker-Smith",
             "entities": {
                 "DATE": [
-                    "8220;This week"
+                    "#8220;This week"
                 ],
                 "PERSON": [
                     "Henry Seeley",
+                    "You&#8217;ll",
                     "Kim Walker-Smith"
                 ],
                 "ORG": [
-                    "Belonging",
-                    "@jcpodcast Instagram"
+                    "The Belonging Co.&#8217;s",
+                    "Jesus Culture Music"
                 ],
                 "LOC": [
                     "Earth"
@@ -2695,7 +2711,7 @@
                 "GPE": [
                     "Sacramento"
                 ],
-                "EVENT": [
+                "FAC": [
                     "the Manchester Encounter Conference"
                 ]
             }
@@ -2722,27 +2738,23 @@
             "title": "Episode 8: Encounter Conference Manchester",
             "entities": {
                 "DATE": [
-                    "8220;This week"
+                    "#8220;This week"
                 ],
-                "WORK_OF_ART": [
-                    "Manchester Encounter Conference"
+                "PERSON": [
+                    "You&#8217;ll",
+                    "Phil Smith",
+                    "Genea Horner"
                 ],
                 "ORG": [
                     "Banning",
                     "Vine Life Church",
-                    "saying &#8220;yes&#8221",
                     "The Mission GodTv Streaming"
                 ],
-                "PERSON": [
-                    "Phil Smith",
-                    "Genea Horner"
-                ],
                 "GPE": [
-                    "England",
-                    "https://www.god.tv/encounter&#8220"
+                    "England"
                 ],
-                "PRODUCT": [
-                    "God&#8217;s"
+                "MONEY": [
+                    "8220;yes&#8221"
                 ]
             }
         },
@@ -2768,20 +2780,19 @@
             "title": "Episode 7: Encounter Conference Pt. 2",
             "entities": {
                 "DATE": [
-                    "8220;This week"
+                    "#8220;This week"
                 ],
                 "CARDINAL": [
                     "two"
                 ],
-                "ORG": [
-                    "the Sacramento Encounter Conference",
-                    "Banning",
-                    "the Manchester Encounter Conference"
-                ],
                 "PERSON": [
-                    "Bill Johnson&#8217;s",
-                    "Gabe Lyons",
+                    "Bill",
                     "Chad Veach"
+                ],
+                "ORG": [
+                    "Banning",
+                    "Gabe Lyons",
+                    "the Manchester Encounter Conference"
                 ],
                 "GPE": [
                     "Cars&#8217"
@@ -2810,32 +2821,30 @@
             "title": "Episode 6: Encounter Conference Pt. 1",
             "entities": {
                 "DATE": [
-                    "8220;This week",
+                    "#8220;This week",
                     "the beginning of February",
                     "those three days"
+                ],
+                "ORG": [
+                    "the Jesus Culture Podcast",
+                    "Banning Liebscher",
+                    "UK conferences.&#8221"
                 ],
                 "CARDINAL": [
                     "one",
                     "two",
                     "one"
                 ],
-                "EVENT": [
+                "FAC": [
                     "Sacramento Encounter Conference"
                 ],
                 "PERSON": [
                     "Chris Brown",
                     "Jonsal Barrientes",
-                    "Becky Johnson",
-                    "Manchester"
-                ],
-                "ORG": [
-                    "Banning Liebscher"
-                ],
-                "MONEY": [
-                    "8211"
+                    "Becky Johnson"
                 ],
                 "GPE": [
-                    "UK"
+                    "Manchester"
                 ]
             }
         },
@@ -2860,37 +2869,36 @@
             "pubDate": "Wed, 24 Jan 2018 07:15:50 +0000",
             "title": "Episode 5: Danny Silk",
             "entities": {
-                "DATE": [
-                    "8220"
-                ],
                 "CARDINAL": [
                     "5",
                     "4x",
                     "one"
                 ],
-                "LAW": [
+                "EVENT": [
                     "the Jesus Culture Podcast"
                 ],
+                "ORG": [
+                    "Banning",
+                    "Kelly",
+                    "Danny Silk & Loving",
+                    "Encounter Conferences Visit",
+                    "conferences.&#8221"
+                ],
                 "PERSON": [
+                    "Becky",
                     "Danny Silk",
                     "Kelly Clark",
                     "Lisa Bevere",
-                    "Kelly",
-                    "Purpose"
-                ],
-                "NORP": [
-                    "Olympian"
+                    "Kelly"
                 ],
                 "PERCENT": [
                     "15%"
                 ],
-                "ORG": [
-                    "Kelly",
-                    "Danny Silk & Loving",
-                    "Encounter Conferences Visit Encounter18.com"
-                ],
                 "ORDINAL": [
                     "5th"
+                ],
+                "GPE": [
+                    "Instagram"
                 ]
             }
         },
@@ -2915,6 +2923,9 @@
             "pubDate": "Mon, 08 Jan 2018 15:42:54 +0000",
             "title": "Episode 4: Kim Walker-Smith",
             "entities": {
+                "MONEY": [
+                    "8220;Happy"
+                ],
                 "EVENT": [
                     "New Year"
                 ],
@@ -2923,8 +2934,11 @@
                     "Kim Walker-Smith",
                     "Kim",
                     "Randy Bohlender",
-                    "Randy",
-                    "Randy Bohlender"
+                    "Kelsey",
+                    "People Doing the Stuff Segment  Pastor",
+                    "Randy Bohlender",
+                    "Kelsey",
+                    "Jesus Culture Message"
                 ],
                 "DATE": [
                     "2018",
@@ -2933,20 +2947,20 @@
                 "ORDINAL": [
                     "first"
                 ],
-                "GPE": [
-                    "Kelsey",
-                    "Kelsey",
-                    "Kansas City"
-                ],
                 "ORG": [
                     "House Adoptions",
+                    "Randy",
                     "the Supreme Court",
+                    "Encounter Conferences Visit",
                     "House Adoptions",
                     "House Adoptions"
                 ],
                 "CARDINAL": [
                     "one",
                     "10"
+                ],
+                "GPE": [
+                    "Kansas City"
                 ]
             }
         },
@@ -2971,18 +2985,15 @@
             "pubDate": "Wed, 27 Dec 2017 09:48:00 +0000",
             "title": "Episode 3: Shawn Bolz",
             "entities": {
-                "DATE": [
-                    "8220",
-                    "Christmas",
-                    "19 years"
-                ],
                 "ORDINAL": [
                     "3rd"
                 ],
                 "ORG": [
                     "the New Jesus Culture Podcast",
+                    "Banning",
                     "Bolz Ministry",
-                    "the University of the Nations"
+                    "the University of the Nations",
+                    "YWAM"
                 ],
                 "PERSON": [
                     "Shawn Bolz",
@@ -2991,11 +3002,22 @@
                     "Andy Byrd",
                     "Holly",
                     "Andy",
+                    "YWAM Kona",
                     "Find Andy",
                     "Andy"
                 ],
+                "MONEY": [
+                    "8220;God"
+                ],
                 "GPE": [
-                    "school&#8217;s"
+                    "Becky"
+                ],
+                "DATE": [
+                    "Christmas",
+                    "19 years"
+                ],
+                "WORK_OF_ART": [
+                    "People Doing the Stuff Segment:\n"
                 ]
             }
         },
@@ -3020,6 +3042,13 @@
             "pubDate": "Mon, 11 Dec 2017 15:48:52 +0000",
             "title": "Episode 2: Scott Harrison",
             "entities": {
+                "PERSON": [
+                    "Jesus Culture Podcast",
+                    "Scott Harrison",
+                    "Darren Whitehead",
+                    "Tomlin",
+                    "Catch"
+                ],
                 "CARDINAL": [
                     "two",
                     "more than 24,500",
@@ -3033,13 +3062,11 @@
                     "the Christmas season",
                     "2006"
                 ],
-                "PERSON": [
-                    "Scott Harrison",
-                    "Darren Whitehead",
-                    "Christ Tomlin"
-                ],
                 "ORDINAL": [
                     "second"
+                ],
+                "MONEY": [
+                    "8220"
                 ]
             }
         },
@@ -3065,27 +3092,25 @@
             "title": "Episode 1: Joyce Meyer",
             "entities": {
                 "MONEY": [
-                    "8220;It&#8217;s",
-                    "8220;People"
+                    "8220;It&#8217;s"
                 ],
                 "ORDINAL": [
                     "first"
                 ],
+                "ORG": [
+                    "Jesus Culture Podcast"
+                ],
                 "PERSON": [
                     "Joyce Meyer",
                     "Ben Cooley",
+                    "Twitter",
                     "Joyce"
-                ],
-                "ORG": [
-                    "Stuff&#8221",
-                    "Instagram"
                 ],
                 "CARDINAL": [
                     "thousands"
                 ],
-                "DATE": [
-                    "modern-day",
-                    "Trust&#8217;.&#8220"
+                "GPE": [
+                    "Instagram"
                 ]
             }
         },
@@ -3111,15 +3136,16 @@
             "title": "Propaganda Bonus Episode",
             "entities": {
                 "DATE": [
-                    "8220",
                     "This week"
                 ],
                 "PERSON": [
                     "Cody Williams",
                     "Propaganda",
                     "Propaganda",
+                    "Jason Petty"
+                ],
+                "ORG": [
                     "Propaganda",
-                    "Jason Petty",
                     "Propaganda"
                 ],
                 "NORP": [
@@ -3129,7 +3155,7 @@
                 "ORDINAL": [
                     "first"
                 ],
-                "LAW": [
+                "EVENT": [
                     "the Tunnel Rats"
                 ],
                 "GPE": [
@@ -3163,16 +3189,18 @@
                 ],
                 "ORG": [
                     "Banning",
-                    "EM"
+                    "the School of Prayer"
                 ],
                 "PERSON": [
                     "Andrew Murray Power",
+                    "Intercessor \nBooks",
                     "Frank Bartleman",
-                    "Derek Prince",
-                    "Maurice Howells\n\n\n"
+                    "Derek Prince \nIntercessors",
+                    "Maurice Howells"
                 ],
                 "WORK_OF_ART": [
-                    "The Life and Diary of David Brainerd \nRees Howells"
+                    "The Life and Diary of David Brainerd \nRees Howells",
+                    "Shaping History through Prayer & Fasting"
                 ]
             }
         },
@@ -3204,15 +3232,15 @@
                 ],
                 "PERSON": [
                     "Brian Kim",
+                    "Becky",
                     "Brian Kim",
                     "Brian",
                     "Brian"
                 ],
                 "ORG": [
-                    "Banning and Becky",
+                    "Banning",
                     "the Antioch Center for Training and Sending",
                     "the International House of Prayer",
-                    "IHOPKC",
                     "Every Home for Christ",
                     "Magnificent Obsession",
                     "Charisma House"
@@ -3249,17 +3277,18 @@
             "pubDate": "Wed, 27 Sep 2017 16:53:37 +0000",
             "title": "Prayer Part 2: David Perkins",
             "entities": {
-                "DATE": [
-                    "8220"
-                ],
                 "CARDINAL": [
                     "2"
                 ],
                 "ORG": [
                     "Banning"
                 ],
+                "GPE": [
+                    "Becky"
+                ],
                 "PERSON": [
                     "David Perkins",
+                    "God",
                     "David"
                 ]
             }
@@ -3295,8 +3324,7 @@
                     "first"
                 ],
                 "ORG": [
-                    "Banning",
-                    "The Call"
+                    "Banning"
                 ],
                 "PERSON": [
                     "Lou Engle",
@@ -3325,35 +3353,30 @@
             "pubDate": "Wed, 13 Sep 2017 08:49:10 +0000",
             "title": "1 on 1 with Banning: Marc Estes",
             "entities": {
-                "MONEY": [
-                    "#8220;This week&#8217;s"
-                ],
                 "CARDINAL": [
+                    "One",
                     "One"
                 ],
                 "PERSON": [
                     "Marc Estes",
-                    "Marc",
+                    "Pastor Marc",
                     "Susan Estes",
-                    "Marc"
-                ],
-                "WORK_OF_ART": [
-                    "the Lead Pastors of City Bible Church"
-                ],
-                "GPE": [
-                    "Portland",
-                    "Marc"
-                ],
-                "FAC": [
-                    "Metro"
-                ],
-                "DATE": [
-                    "over 20 years"
+                    "Marc",
+                    "You&#8217;ll",
+                    "Marc",
+                    "Pastor Marc?Check"
                 ],
                 "ORG": [
+                    "the Lead Pastors of City Bible Church",
+                    "Portland Metro",
                     "Portland Bible College",
-                    "Banning",
-                    "Pastor Marc?Check"
+                    "Banning"
+                ],
+                "DATE": [
+                    "20 years"
+                ],
+                "GPE": [
+                    "PortlandBibleCollege.org&#8220"
                 ]
             }
         },
@@ -3379,26 +3402,28 @@
             "title": "Podcast Replay - Finding Your Tribe Part 1",
             "entities": {
                 "DATE": [
-                    "8220",
                     "This week",
                     "June 1, 2016"
                 ],
-                "CARDINAL": [
-                    "1",
-                    "#96"
-                ],
                 "PERSON": [
+                    "Finding Your",
+                    "Jesus Culture",
                     "Bryan Torwalt",
                     "You&#8217;ll",
                     "Kris Vallotton",
                     "Wanna"
                 ],
+                "CARDINAL": [
+                    "1"
+                ],
                 "ORG": [
                     "Bethel Redding",
+                    "Original Episode",
                     "Podcast@JesusCulture.com &#8220"
                 ],
                 "MONEY": [
-                    "8220;Authentic"
+                    "next week&#8217;s",
+                    "#96 Aired"
                 ]
             }
         },
@@ -3424,7 +3449,6 @@
             "title": "Hope in Action",
             "entities": {
                 "DATE": [
-                    "8220",
                     "This week",
                     "Last week"
                 ],
@@ -3432,18 +3456,14 @@
                     "Europe"
                 ],
                 "GPE": [
-                    "UK"
+                    "UK",
+                    "Charlottesville"
                 ],
                 "PERSON": [
-                    "Pastor Phill Smith"
+                    "Phill Smith"
                 ],
                 "ORG": [
-                    "Banning",
-                    "Charlottesville",
-                    "www.JesusCulture.com/PodcastSurvey/\n&"
-                ],
-                "MONEY": [
-                    "8220"
+                    "Banning"
                 ]
             }
         },
@@ -3469,34 +3489,33 @@
             "title": "1 on 1 with Banning: Lisa Bevere",
             "entities": {
                 "DATE": [
-                    "8220",
-                    "this weeks"
+                    "this weeks One"
                 ],
                 "CARDINAL": [
                     "One",
-                    "One",
-                    "two",
-                    "Lisa&#8217;s"
+                    "two"
                 ],
                 "PERSON": [
+                    "Jesus Culture",
                     "Kate Bagley",
                     "Lisa Bevere",
                     "Lisa",
-                    "John Bevere"
+                    "John Bevere",
+                    "Lisa",
+                    "Follow Lisa"
                 ],
                 "ORG": [
                     "Messenger International",
-                    "Lisa"
+                    "jesusculture.com/podcastsurvey/\n&#8220"
                 ],
                 "ORDINAL": [
                     "first"
                 ],
                 "GPE": [
-                    "Ministry"
+                    "Lisa&#8217;s"
                 ],
                 "MONEY": [
-                    "5",
-                    "8220"
+                    "5"
                 ]
             }
         },
@@ -3522,14 +3541,10 @@
             "title": "Life and Leadership Talk with Mack Brock",
             "entities": {
                 "DATE": [
-                    "8220",
                     "This week"
                 ],
-                "ORG": [
-                    "Banning Liebscher",
-                    "Elevation Worship"
-                ],
                 "PERSON": [
+                    "Banning Liebscher",
                     "Becky Johnson",
                     "Mack Brock"
                 ],
@@ -3537,8 +3552,10 @@
                     "Love"
                 ],
                 "MONEY": [
-                    "5",
-                    "8220"
+                    "5"
+                ],
+                "ORG": [
+                    "jesusculture.com/podcastsurvey/\n&#8220"
                 ]
             }
         },
@@ -3564,17 +3581,17 @@
             "title": "1 on 1 with Banning: Bianca Olthoff",
             "entities": {
                 "DATE": [
-                    "8220",
                     "This week"
                 ],
                 "CARDINAL": [
+                    "1",
                     "1"
                 ],
                 "ORG": [
                     "Banning Liebscher",
                     "Bianca Olthoff",
-                    "Bianca",
-                    "biancaolthoff.com\n&"
+                    "Banning",
+                    "Bianca"
                 ]
             }
         },
@@ -3600,13 +3617,12 @@
             "title": "The Supernatural Power of God",
             "entities": {
                 "DATE": [
-                    "8220",
                     "This week",
                     "this week"
                 ],
                 "ORG": [
                     "Banning",
-                    "qideas.com\n&"
+                    "qideas.com\n&#8220"
                 ],
                 "PERSON": [
                     "Gospel"
@@ -3635,15 +3651,14 @@
             "title": "1 on 1 with Banning: Tyler Reagin",
             "entities": {
                 "DATE": [
-                    "8220",
                     "This week"
                 ],
                 "ORG": [
-                    "Banning",
-                    "Church"
-                ],
-                "PERSON": [
-                    "Tyler Reagin"
+                    "Tyler Reagin",
+                    "Catalyst",
+                    "Catalyst",
+                    "Church",
+                    "Catalyst"
                 ]
             }
         },
@@ -3669,14 +3684,24 @@
             "title": "Embracing Your Leadership Style",
             "entities": {
                 "MONEY": [
+                    "8220;Leadership",
                     "8220;one"
                 ],
                 "DATE": [
                     "This week",
                     "this July"
                 ],
+                "GPE": [
+                    "Becky"
+                ],
+                "LAW": [
+                    "SeaJay"
+                ],
                 "LOC": [
                     "Europe"
+                ],
+                "PERSON": [
+                    "Sessions Listener"
                 ]
             }
         },
@@ -3702,21 +3727,23 @@
             "title": "1 on 1 with Banning: Dr. Dawn Adkins",
             "entities": {
                 "DATE": [
-                    "8220",
                     "This month"
                 ],
                 "PERSON": [
                     "Dawn Adkins",
                     "Dawn Atkins",
                     "Dean Deguara",
+                    "Jesus Culture",
                     "Dean"
                 ],
                 "ORG": [
-                    "the Jesus Culture Sacramento Church Podcast \n",
-                    "Host",
+                    "Radical Restoration Ministries",
+                    "the Jesus Culture Sacramento Church Podcast",
                     "Real Life Church"
                 ],
                 "GPE": [
+                    "JCLP",
+                    "Host",
                     "Natomas",
                     "California"
                 ]
@@ -3743,22 +3770,23 @@
             "pubDate": "Wed, 17 May 2017 11:30:50 +0000",
             "title": "Being Free: Part 2",
             "entities": {
-                "CARDINAL": [
-                    "2"
-                ],
-                "PRODUCT": [
+                "ORG": [
                     "Rebekah Lyons"
+                ],
+                "FAC": [
+                    "Encounter Conference"
                 ],
                 "DATE": [
                     "2017"
                 ],
-                "ORG": [
-                    "Banning, Becky,",
-                    "us!&#8221"
+                "GPE": [
+                    "Banning",
+                    "Becky"
                 ],
                 "PERSON": [
                     "Laura",
-                    "Zack"
+                    "Zack",
+                    "Jesus"
                 ]
             }
         },
@@ -3786,13 +3814,17 @@
                 "MONEY": [
                     "8220;Listen"
                 ],
-                "ORG": [
-                    "Banning, Becky,",
-                    "us!&#8221"
+                "GPE": [
+                    "Banning",
+                    "Becky"
                 ],
                 "PERSON": [
                     "Laura",
-                    "Zack"
+                    "Zack",
+                    "Jesus"
+                ],
+                "FAC": [
+                    "Encounter Conference"
                 ],
                 "DATE": [
                     "2017"
@@ -3821,12 +3853,14 @@
             "title": "Traits of a Leader: Empowerment",
             "entities": {
                 "DATE": [
-                    "8220",
                     "This week",
-                    "month-long series"
+                    "month-long"
                 ],
                 "PERSON": [
                     "we&#8217;re"
+                ],
+                "GPE": [
+                    "Becky"
                 ],
                 "ORG": [
                     "Banning"
@@ -3855,14 +3889,16 @@
             "title": "Traits of a Leader: Security",
             "entities": {
                 "DATE": [
-                    "8220",
                     "This week"
                 ],
-                "NORP": [
-                    "Traits"
+                "GPE": [
+                    "JCLP"
+                ],
+                "EVENT": [
+                    "Healthy Leader"
                 ],
                 "PERSON": [
-                    "Healthy Leader"
+                    "Becky"
                 ],
                 "ORG": [
                     "Banning"
@@ -3894,7 +3930,10 @@
                     "the month of April"
                 ],
                 "ORG": [
-                    "the JCLP Banning, Becky"
+                    "the JCLP Banning"
+                ],
+                "GPE": [
+                    "Becky"
                 ],
                 "PERSON": [
                     "Dean"
@@ -3923,13 +3962,18 @@
             "title": "Traits of a Leader: Humility & Teachability",
             "entities": {
                 "DATE": [
-                    "8220;This month",
+                    "#8220;This month",
                     "the month of April"
                 ],
+                "PERSON": [
+                    "Becky"
+                ],
                 "ORG": [
-                    "the JCLP Banning",
-                    "Beaky",
+                    "the JCLP Banning and",
                     "Humility & Teachability"
+                ],
+                "GPE": [
+                    "Beaky"
                 ]
             }
         },
@@ -3954,17 +3998,20 @@
             "pubDate": "Wed, 29 Mar 2017 14:54:16 +0000",
             "title": "Leading in the Supernatural: Part 1",
             "entities": {
-                "MONEY": [
-                    "8220;We"
-                ],
                 "DATE": [
-                    "this week"
+                    "this week one"
                 ],
                 "GPE": [
                     "Kingdom"
                 ],
                 "PERSON": [
+                    "Jesus",
+                    "Jesus Culture&#8217;s",
+                    "Outreach",
                     "Scott Thompson"
+                ],
+                "MONEY": [
+                    "8220"
                 ]
             }
         },
@@ -3989,15 +4036,17 @@
             "pubDate": "Wed, 22 Mar 2017 13:02:14 +0000",
             "title": "Panic to Power: Part 2",
             "entities": {
-                "DATE": [
-                    "8220"
-                ],
                 "ORG": [
-                    "the &#8220;Panic",
-                    "Power&#8221"
+                    "SeaJay"
+                ],
+                "LAW": [
+                    "SeaJay"
                 ],
                 "PERSON": [
                     "Kari Jobe"
+                ],
+                "MONEY": [
+                    "8220"
                 ]
             }
         },
@@ -4025,9 +4074,10 @@
                 "MONEY": [
                     "8220;You"
                 ],
-                "ORG": [
+                "PERSON": [
                     "SeaJay Liebscher",
-                    "Erika Myburgh"
+                    "Erika Myburgh",
+                    "aren&#8217;t alone.&#8221"
                 ],
                 "DATE": [
                     "this month"
@@ -4055,22 +4105,21 @@
             "pubDate": "Wed, 08 Mar 2017 16:22:25 +0000",
             "title": "1 on 1 with Banning: Nate Edwardson Part 2",
             "entities": {
-                "MONEY": [
-                    "8221"
-                ],
                 "CARDINAL": [
                     "2"
                 ],
-                "PERSON": [
-                    "Nate Edwardson"
-                ],
                 "ORG": [
-                    "the Stirring Church",
-                    "Nate"
+                    "Nate Edwardson",
+                    "Pastor of the Stirring Church in Redding"
+                ],
+                "WORK_OF_ART": [
+                    "CA"
                 ],
                 "GPE": [
-                    "Redding",
                     "Kingdom"
+                ],
+                "MONEY": [
+                    "8220"
                 ]
             }
         },
@@ -4096,7 +4145,7 @@
             "title": "1 on 1 with Banning: Nate Edwardson Part 1",
             "entities": {
                 "DATE": [
-                    "8220;This month"
+                    "#8220;This month"
                 ],
                 "PERSON": [
                     "Nate Edwardson"
@@ -4106,9 +4155,7 @@
                 ],
                 "CARDINAL": [
                     "1",
-                    "1"
-                ],
-                "PRODUCT": [
+                    "1",
                     "God&#8217;s"
                 ]
             }
@@ -4134,12 +4181,16 @@
             "pubDate": "Wed, 22 Feb 2017 13:37:52 +0000",
             "title": "Relationship Q & A: Part 2",
             "entities": {
-                "ORG": [
+                "MONEY": [
+                    "8220;&#8221;Healthy"
+                ],
+                "PRODUCT": [
                     "connection.&#8221",
                     "JCLP.&#8221"
                 ],
-                "PERSON": [
-                    "Danny"
+                "ORG": [
+                    "Relationship Q & A",
+                    "Danny and Sheri Silk"
                 ],
                 "CARDINAL": [
                     "1"
@@ -4167,12 +4218,16 @@
             "pubDate": "Thu, 16 Feb 2017 13:00:41 +0000",
             "title": "Relationship Q & A: Part 1",
             "entities": {
-                "ORG": [
+                "MONEY": [
+                    "8220;&#8221;Healthy"
+                ],
+                "PRODUCT": [
                     "connection.&#8221",
                     "JCLP.&#8221"
                 ],
-                "PERSON": [
-                    "Danny"
+                "ORG": [
+                    "Relationship Q & A",
+                    "Danny and Sheri Silk"
                 ],
                 "CARDINAL": [
                     "1"
@@ -4201,12 +4256,7 @@
             "title": "1 on 1 with Banning: Shawn Bolz Part 2",
             "entities": {
                 "DATE": [
-                    "8220",
                     "This week"
-                ],
-                "ORG": [
-                    "Banning",
-                    "Lord.&#8221"
                 ],
                 "PERSON": [
                     "Shawn Bolz",
@@ -4214,6 +4264,9 @@
                 ],
                 "ORDINAL": [
                     "second"
+                ],
+                "MONEY": [
+                    "8220"
                 ]
             }
         },
@@ -4249,7 +4302,7 @@
                     "Dave Gibbons",
                     "Shawn"
                 ],
-                "ORG": [
+                "PRODUCT": [
                     "JCLP.&#8221"
                 ]
             }
@@ -4281,15 +4334,16 @@
                 "PERSON": [
                     "Dave Gibbons"
                 ],
+                "GPE": [
+                    "Author"
+                ],
+                "ORG": [
+                    "Founder of Xealots",
+                    "Banning"
+                ],
                 "DATE": [
                     "Last week",
                     "This week"
-                ],
-                "ORG": [
-                    "Banning"
-                ],
-                "PRODUCT": [
-                    "Don&#8217;t"
                 ]
             }
         },
@@ -4314,9 +4368,6 @@
             "pubDate": "Thu, 19 Jan 2017 11:32:12 +0000",
             "title": "1 on 1 with Banning: Dave Gibbons Part 1",
             "entities": {
-                "MONEY": [
-                    "8220;We"
-                ],
                 "DATE": [
                     "this month",
                     "This week"
@@ -4326,6 +4377,9 @@
                 ],
                 "ORG": [
                     "Xealots"
+                ],
+                "MONEY": [
+                    "8220"
                 ]
             }
         },
@@ -4351,17 +4405,17 @@
             "title": "Decrease to Increase: Part 2",
             "entities": {
                 "PERSON": [
+                    "Jesus",
                     "Derek Johnson",
                     "Ruthie Ridley",
                     "Dean Deguara",
-                    "Mark Batterson",
-                    "Lion&#8221"
-                ],
-                "ORG": [
-                    "Increase&#8221"
+                    "Mark Batterson"
                 ],
                 "MONEY": [
                     "8220;Chase"
+                ],
+                "GPE": [
+                    "Lion&#8221"
                 ]
             }
         },
@@ -4387,7 +4441,10 @@
             "title": "Decrease to Increase: Part 1",
             "entities": {
                 "DATE": [
-                    "2017"
+                    "8220;Hello 2017"
+                ],
+                "WORK_OF_ART": [
+                    "Music Spotlight"
                 ],
                 "PERSON": [
                     "David Crowder",
@@ -4395,10 +4452,9 @@
                     "Skyler Smith",
                     "Derek Johnson",
                     "Ruthie Ridley",
+                    "Jesus Culture",
+                    "Becky",
                     "Dean"
-                ],
-                "ORG": [
-                    "Banning and Becky"
                 ]
             }
         },
@@ -4423,11 +4479,13 @@
             "pubDate": "Wed, 28 Dec 2016 12:57:20 +0000",
             "title": "Prophetic Dream: Part 2",
             "entities": {
+                "MONEY": [
+                    "#8220;Join us"
+                ],
                 "PERSON": [
                     "Rob",
                     "Laura Burhans",
                     "Deborah Giles&#8217",
-                    "Prophetic Dreaming",
                     "Pete Greig"
                 ],
                 "EVENT": [
@@ -4436,7 +4494,10 @@
                 "ORDINAL": [
                     "second"
                 ],
-                "PRODUCT": [
+                "ORG": [
+                    "Prophetic Dreaming"
+                ],
+                "WORK_OF_ART": [
                     "Dirty Glory"
                 ],
                 "CARDINAL": [
@@ -4465,17 +4526,13 @@
             "pubDate": "Wed, 21 Dec 2016 15:25:42 +0000",
             "title": "1 on 1 with Banning: Pete Greig Part 2",
             "entities": {
-                "MONEY": [
-                    "8220;Welcome"
-                ],
                 "DATE": [
-                    "the second half"
+                    "the second half of our 1"
                 ],
                 "CARDINAL": [
                     "1",
-                    "24-7",
-                    "more than half",
-                    "24-7"
+                    "24",
+                    "more than half"
                 ],
                 "ORG": [
                     "Banning Liebscher"
@@ -4483,7 +4540,8 @@
                 "PERSON": [
                     "Pete Greig",
                     "Pete",
-                    "Pete"
+                    "Pete",
+                    "here.&#8221"
                 ]
             }
         },
@@ -4508,25 +4566,25 @@
             "pubDate": "Wed, 14 Dec 2016 15:51:26 +0000",
             "title": "Prophetic Dreaming: Part 1",
             "entities": {
-                "MONEY": [
-                    "8220;We",
-                    "8220;Behold"
-                ],
                 "DATE": [
                     "this week",
-                    "this years crazy christmas",
+                    "this years",
                     "christmas",
-                    "Christmas",
+                    "christmas",
                     "Christmas"
                 ],
                 "PERSON": [
                     "Robert",
                     "Laura Burhans",
                     "Deborah Giles",
-                    "Derek Johnson"
+                    "Derek Johnson",
+                    "Lauren Daigle"
                 ],
-                "ORG": [
+                "LOC": [
                     "Prophetic"
+                ],
+                "MONEY": [
+                    "8220;Behold"
                 ]
             }
         },
@@ -4551,12 +4609,15 @@
             "pubDate": "Thu, 08 Dec 2016 13:18:12 +0000",
             "title": "1 on 1 with Banning: Pete Greig Part 1",
             "entities": {
-                "MONEY": [
-                    "8220;We"
+                "ORG": [
+                    "JCLP"
                 ],
                 "PERSON": [
                     "Matt Redman",
                     "Pete Greig"
+                ],
+                "ORDINAL": [
+                    "first"
                 ]
             }
         },
@@ -4587,9 +4648,6 @@
                 ],
                 "DATE": [
                     "this week"
-                ],
-                "NORP": [
-                    "Culture"
                 ],
                 "CARDINAL": [
                     "1.&#8221",
@@ -4625,7 +4683,7 @@
                     "second"
                 ],
                 "PERSON": [
-                    "Chris",
+                    "Chris Gore&#8217;s",
                     "Bill Johnson"
                 ],
                 "ORG": [
@@ -4662,16 +4720,19 @@
                 ],
                 "ORG": [
                     "Banning",
-                    "the Financial Sector",
-                    "JCLP"
+                    "the Financial Sector"
                 ],
                 "PERSON": [
                     "Ken Costa",
-                    "Ken Costa"
+                    "Ken Costa",
+                    "Jesus"
                 ],
                 "DATE": [
                     "many years",
                     "40 years"
+                ],
+                "GPE": [
+                    "JCLP"
                 ]
             }
         },
@@ -4697,7 +4758,7 @@
             "title": "Healing: Part 1",
             "entities": {
                 "DATE": [
-                    "8220;This week",
+                    "#8220;This week",
                     "this weeks"
                 ],
                 "CARDINAL": [
@@ -4708,6 +4769,9 @@
                 ],
                 "ORG": [
                     "Lincoln Brewster"
+                ],
+                "EVENT": [
+                    "Jesus Culture Leadership"
                 ]
             }
         },
@@ -4740,16 +4804,19 @@
                 ],
                 "ORG": [
                     "Banning",
-                    "the Financial Sector",
-                    "JCLP"
+                    "the Financial Sector"
                 ],
                 "PERSON": [
                     "Ken Costa",
-                    "Ken Costa"
+                    "Ken Costa",
+                    "Jesus"
                 ],
                 "DATE": [
                     "many years",
                     "40 years"
+                ],
+                "GPE": [
+                    "JCLP"
                 ]
             }
         },
@@ -4774,9 +4841,6 @@
             "pubDate": "Tue, 25 Oct 2016 23:05:53 +0000",
             "title": "Celebrating Our 117th Episode",
             "entities": {
-                "MONEY": [
-                    "8220;We"
-                ],
                 "ORDINAL": [
                     "117th",
                     "first"
@@ -4821,8 +4885,7 @@
                     "1"
                 ],
                 "PERSON": [
-                    "Havilah Cunnington",
-                    "God.&#8221"
+                    "Havilah Cunnington"
                 ]
             }
         },
@@ -4847,8 +4910,12 @@
             "pubDate": "Wed, 12 Oct 2016 15:47:40 +0000",
             "title": "Europe Discussions",
             "entities": {
+                "GPE": [
+                    "JCLP"
+                ],
                 "DATE": [
-                    "November"
+                    "November",
+                    "This week"
                 ],
                 "LOC": [
                     "Europe",
@@ -4858,8 +4925,11 @@
                     "Kim Walker Smith",
                     "Phil Smith"
                 ],
-                "ORG": [
-                    "Banning"
+                "CARDINAL": [
+                    "one"
+                ],
+                "MONEY": [
+                    "8220"
                 ]
             }
         },
@@ -4893,6 +4963,7 @@
                     "Banning Liebscher"
                 ],
                 "CARDINAL": [
+                    "1",
                     "1",
                     "1",
                     "1"
@@ -4931,6 +5002,9 @@
                 "DATE": [
                     "3 days",
                     "this month"
+                ],
+                "PERSON": [
+                    "Jesus"
                 ]
             }
         },
@@ -4956,6 +5030,8 @@
             "title": "1 on 1 with Banning: Dann Farrelly Part 2",
             "entities": {
                 "CARDINAL": [
+                    "#8220;This",
+                    "1",
                     "1",
                     "one"
                 ],
@@ -4963,11 +5039,13 @@
                     "Banning",
                     "Brave Communication",
                     "Bethel Church",
-                    "Redding Ca",
-                    "Banning"
+                    "truth.&#8221"
                 ],
                 "PERSON": [
                     "Dan Farrelly"
+                ],
+                "WORK_OF_ART": [
+                    "Redding Ca"
                 ]
             }
         },
@@ -4998,6 +5076,9 @@
                 "DATE": [
                     "3 days",
                     "this month"
+                ],
+                "PERSON": [
+                    "Jesus"
                 ]
             }
         },
@@ -5023,6 +5104,8 @@
             "title": "1 on 1 With Banning: Dann Farrelly Part 1",
             "entities": {
                 "CARDINAL": [
+                    "#8220;This",
+                    "1",
                     "1",
                     "one"
                 ],
@@ -5030,10 +5113,13 @@
                     "Banning",
                     "Brave Communication",
                     "Bethel Church",
-                    "Redding Ca"
+                    "styles.&#8221"
                 ],
                 "PERSON": [
                     "Dan Farrelly"
+                ],
+                "WORK_OF_ART": [
+                    "Redding Ca"
                 ],
                 "DATE": [
                     "This month"
@@ -5061,10 +5147,8 @@
             "pubDate": "Wed, 31 Aug 2016 09:39:12 +0000",
             "title": "5th Week Special Edition Podcast",
             "entities": {
-                "ORG": [
-                    "Deguara",
-                    "Kandice Hanes",
-                    "the Stirring Church"
+                "PERSON": [
+                    "Kandice Hanes"
                 ],
                 "ORDINAL": [
                     "5th"
@@ -5072,8 +5156,13 @@
                 "DATE": [
                     "Wednesday"
                 ],
-                "PERSON": [
-                    "Nate Edwards"
+                "PRODUCT": [
+                    "JCLA"
+                ],
+                "ORG": [
+                    "Nate Edwards",
+                    "the Stirring Church",
+                    "Septembers JCLA highlights.&#8221"
                 ],
                 "MONEY": [
                     "8220;When.&#8221"
@@ -5101,20 +5190,23 @@
             "pubDate": "Wed, 24 Aug 2016 09:00:31 +0000",
             "title": "A Passion for Growth: Part 2",
             "entities": {
+                "MONEY": [
+                    "8220;Banning"
+                ],
                 "DATE": [
                     "this month"
                 ],
-                "ORG": [
-                    "Sheri Silk",
-                    "Banning"
+                "NORP": [
+                    "Sheri"
                 ],
                 "PERSON": [
                     "Cody Williams",
                     "Jessica Gilstrap",
-                    "Lisa"
+                    "Lisa",
+                    "Book"
                 ],
-                "WORK_OF_ART": [
-                    "Book, Without Rival.&#8221"
+                "ORG": [
+                    "Banning"
                 ]
             }
         },
@@ -5139,6 +5231,9 @@
             "pubDate": "Wed, 17 Aug 2016 11:13:34 +0000",
             "title": "1 on 1 with Banning: Lou Engle Part 2",
             "entities": {
+                "MONEY": [
+                    "8220;Banning"
+                ],
                 "PERSON": [
                     "Lou Engle",
                     "Lou",
@@ -5170,20 +5265,23 @@
             "pubDate": "Wed, 10 Aug 2016 09:35:02 +0000",
             "title": "A Passion for Growth: Part 1",
             "entities": {
+                "MONEY": [
+                    "8220;Banning"
+                ],
                 "DATE": [
                     "this month"
                 ],
-                "ORG": [
-                    "Sheri Silk",
-                    "Banning"
+                "NORP": [
+                    "Sheri"
                 ],
                 "PERSON": [
                     "Cody Williams",
                     "Jessica Gilstrap",
-                    "Lisa"
+                    "Lisa",
+                    "Book"
                 ],
-                "WORK_OF_ART": [
-                    "Book, Without Rival.&#8221"
+                "ORG": [
+                    "Banning"
                 ]
             }
         },
@@ -5208,6 +5306,9 @@
             "pubDate": "Wed, 03 Aug 2016 06:00:56 +0000",
             "title": "One on One with Banning: Lou Engle Part 1",
             "entities": {
+                "MONEY": [
+                    "8220;Banning"
+                ],
                 "PERSON": [
                     "Lou Engle",
                     "Lou",
@@ -5243,17 +5344,12 @@
                     "8220;Let&#8217;s",
                     "8220;Champion&#8221"
                 ],
-                "CARDINAL": [
-                    "2"
-                ],
-                "ORG": [
-                    "Church",
-                    "Torwalts"
-                ],
                 "PERSON": [
                     "Kate Bagley",
-                    "Jessica Gilstrap",
-                    "Skylar Smith"
+                    "Jessica Gilstrap"
+                ],
+                "ORG": [
+                    "month.&#8221"
                 ]
             }
         },
@@ -5278,8 +5374,10 @@
             "pubDate": "Wed, 20 Jul 2016 09:00:15 +0000",
             "title": "One on One with Banning: Rebekah Lyons Part 2",
             "entities": {
+                "WORK_OF_ART": [
+                    "Rebekah Lyons"
+                ],
                 "ORG": [
-                    "Rebekah Lyons",
                     "Freefall"
                 ],
                 "CARDINAL": [
@@ -5292,9 +5390,6 @@
                 ],
                 "DATE": [
                     "This month"
-                ],
-                "PERSON": [
-                    "Rebekah"
                 ]
             }
         },
@@ -5320,14 +5415,13 @@
             "title": "Church as a Family: Part 1",
             "entities": {
                 "DATE": [
-                    "8220;This week"
+                    "#8220;This week"
                 ],
                 "CARDINAL": [
                     "1"
                 ],
                 "ORG": [
-                    "Church",
-                    "Limitless.&#8221"
+                    "Church"
                 ],
                 "PRODUCT": [
                     "Family"
@@ -5335,7 +5429,11 @@
                 "PERSON": [
                     "Kate Bagley",
                     "Jessica Gilstrap",
-                    "Pastor Ben Dailey"
+                    "Dean",
+                    "Ben Dailey"
+                ],
+                "GPE": [
+                    "Limitless.&#8221"
                 ]
             }
         },
@@ -5360,8 +5458,10 @@
             "pubDate": "Wed, 06 Jul 2016 09:58:19 +0000",
             "title": "1 on 1 with Banning Liebscher: Rebekah Lyons Part 1",
             "entities": {
+                "WORK_OF_ART": [
+                    "Rebekah Lyons"
+                ],
                 "ORG": [
-                    "Rebekah Lyons",
                     "Freefall"
                 ],
                 "CARDINAL": [
@@ -5374,9 +5474,6 @@
                 ],
                 "DATE": [
                     "This month"
-                ],
-                "PERSON": [
-                    "Rebekah"
                 ]
             }
         },
@@ -5430,19 +5527,23 @@
             "pubDate": "Wed, 22 Jun 2016 06:00:15 +0000",
             "title": "1 on 1 with Banning Liebscher: Lyle Wells Part 2",
             "entities": {
+                "MONEY": [
+                    "8220;Banning"
+                ],
                 "PERSON": [
                     "Lyle Wells",
+                    "Lyle",
                     "Lyle",
                     "Lyle"
                 ],
                 "ORG": [
                     "the Flippen Group",
                     "the Flippen Group Lyle",
-                    "Palm Beach Atlantic",
                     "the National Coach of the Year award"
                 ],
                 "GPE": [
-                    "Colorado"
+                    "Colorado",
+                    "Palm Beach Atlantic"
                 ],
                 "CARDINAL": [
                     "two"
@@ -5477,17 +5578,18 @@
                     "8220;This week",
                     "This week"
                 ],
-                "ORG": [
-                    "Banning and Becky",
-                    "Banning"
-                ],
                 "PERSON": [
+                    "Banning",
+                    "Becky",
                     "Bryan Torwalt",
                     "Yari Sampson",
                     "Kris Vallaton"
                 ],
                 "WORK_OF_ART": [
                     "Bible"
+                ],
+                "ORG": [
+                    "Banning"
                 ],
                 "GPE": [
                     "JCLP"
@@ -5515,19 +5617,23 @@
             "pubDate": "Wed, 08 Jun 2016 06:00:15 +0000",
             "title": "1 on 1 with Banning Liebscher: Lyle Wells Part 1",
             "entities": {
+                "MONEY": [
+                    "8220;Banning"
+                ],
                 "PERSON": [
                     "Lyle Wells",
+                    "Lyle",
                     "Lyle",
                     "Lyle"
                 ],
                 "ORG": [
                     "the Flippen Group",
                     "the Flippen Group Lyle",
-                    "Palm Beach Atlantic",
                     "the National Coach of the Year award"
                 ],
                 "GPE": [
-                    "Colorado"
+                    "Colorado",
+                    "Palm Beach Atlantic"
                 ],
                 "CARDINAL": [
                     "two"
@@ -5562,15 +5668,16 @@
                     "8220;In"
                 ],
                 "ORG": [
-                    "the JCLP Banning and Becky",
-                    "Purpose"
+                    "the JCLP Banning"
                 ],
                 "PERSON": [
+                    "Becky",
                     "Bryan Torwalt",
                     "Yari Sampson"
                 ],
                 "GPE": [
-                    "Loving"
+                    "Loving",
+                    "JCLP"
                 ]
             }
         },
@@ -5599,7 +5706,8 @@
                     "8220;All"
                 ],
                 "ORG": [
-                    "The Hidden Places Where God Develops",
+                    "The Hidden Places Where God Develops You",
+                    "Banning",
                     "leaders.&#8221"
                 ],
                 "PERSON": [
@@ -5628,10 +5736,12 @@
             "pubDate": "Wed, 18 May 2016 08:28:12 +0000",
             "title": "Rooted: Embracing God's Process in Our Life Part 2",
             "entities": {
+                "EVENT": [
+                    "the Jesus Culture Leadership Podcast"
+                ],
                 "ORG": [
-                    "the Jesus Culture Leadership Podcast!",
                     "Banning Liebscher",
-                    "The Hidden Places Where God Develops",
+                    "The Hidden Places Where God Develops You",
                     "rootedbook.com &#8220"
                 ],
                 "PERSON": [
@@ -5670,7 +5780,8 @@
                     "8220;All"
                 ],
                 "ORG": [
-                    "The Hidden Places Where God Develops",
+                    "The Hidden Places Where God Develops You",
+                    "Banning",
                     "leaders.&#8221"
                 ],
                 "PERSON": [
@@ -5699,20 +5810,21 @@
             "pubDate": "Wed, 04 May 2016 10:46:00 +0000",
             "title": "Rooted: Embracing God's Process in Our Life",
             "entities": {
-                "DATE": [
-                    "8220",
-                    "May 3rd",
-                    "all month"
+                "EVENT": [
+                    "the Jesus Culture Leadership Podcast"
                 ],
                 "ORG": [
-                    "the Jesus Culture Leadership Podcast!",
                     "Banning Liebscher",
-                    "The Hidden Places Where God Develops"
+                    "The Hidden Places Where God Develops You"
                 ],
                 "PERSON": [
                     "Becky Johnson",
                     "Zack",
                     "Dean"
+                ],
+                "DATE": [
+                    "May 3rd",
+                    "all month"
                 ]
             }
         },
@@ -5737,15 +5849,20 @@
             "pubDate": "Wed, 27 Apr 2016 09:36:14 +0000",
             "title": "1 on 1 with Banning Liebscher: Michael Brodeur Part 2",
             "entities": {
+                "MONEY": [
+                    "8220;Banning",
+                    "8220"
+                ],
                 "PERSON": [
                     "Michael Brodeur",
                     "Michael",
-                    "Destiny Finder"
+                    "Destiny Finder",
+                    "Pastor&#8217;s Coach"
                 ],
                 "CARDINAL": [
                     "two"
                 ],
-                "PRODUCT": [
+                "WORK_OF_ART": [
                     "Revival Culture:"
                 ],
                 "ORG": [
@@ -5782,11 +5899,16 @@
                     "8220;In"
                 ],
                 "PERSON": [
+                    "Becky",
+                    "Zack",
                     "Dean",
                     "Cody",
                     "Benny Perez",
                     "Darwin Hobbs",
                     "Bob Kilpatrick"
+                ],
+                "ORG": [
+                    "Banning&#8217;s Book Club"
                 ]
             }
         },
@@ -5811,15 +5933,19 @@
             "pubDate": "Wed, 13 Apr 2016 06:00:52 +0000",
             "title": "1 on 1 with Banning Liebscher: Michael Brodeur Part 1",
             "entities": {
+                "MONEY": [
+                    "8220;Banning"
+                ],
                 "PERSON": [
                     "Michael Brodeur",
                     "Michael",
-                    "Destiny Finder"
+                    "Destiny Finder",
+                    "Pastor&#8217;s Coach"
                 ],
                 "CARDINAL": [
                     "two"
                 ],
-                "PRODUCT": [
+                "WORK_OF_ART": [
                     "Revival Culture:"
                 ],
                 "ORG": [
@@ -5856,6 +5982,8 @@
                     "8220;In"
                 ],
                 "PERSON": [
+                    "Becky",
+                    "Zack",
                     "Dean",
                     "Cody",
                     "Derek Johnson",
@@ -5864,6 +5992,9 @@
                 "ORG": [
                     "Banning",
                     "Bishop Parnell Lovelace"
+                ],
+                "PRODUCT": [
+                    "racism.&#8221"
                 ]
             }
         },
@@ -5889,22 +6020,22 @@
             "title": "Special Edition \"Best of the JCLP\"",
             "entities": {
                 "ORG": [
-                    "Banning Liebscher"
+                    "Banning Liebscher",
+                    "JCLP",
+                    "Leading Teams"
                 ],
                 "DATE": [
-                    "2015",
-                    "50"
+                    "2015"
                 ],
                 "CARDINAL": [
                     "5",
                     "10&#8217;s",
                     "thousands",
                     "53",
-                    "57"
+                    "2"
                 ],
-                "WORK_OF_ART": [
-                    "Leading Teams (Episode 55",
-                    "Leading Family Part 2"
+                "MONEY": [
+                    "8220"
                 ]
             }
         },
@@ -5935,7 +6066,8 @@
                 "PERSON": [
                     "Dave Gibbons",
                     "Dave",
-                    "Dave"
+                    "Dave",
+                    "Max"
                 ],
                 "LOC": [
                     "North America",
@@ -5945,14 +6077,17 @@
                     "Monkey"
                 ],
                 "ORG": [
-                    "World Vision US",
-                    "Newsong"
+                    "World Vision US"
                 ],
                 "ORDINAL": [
                     "third"
                 ],
                 "GPE": [
+                    "Newsong",
                     "Dallas"
+                ],
+                "WORK_OF_ART": [
+                    "a Master of Theology degree"
                 ]
             }
         },
@@ -5977,21 +6112,18 @@
             "pubDate": "Wed, 16 Mar 2016 13:54:10 +0000",
             "title": "Leading with Personal Responsibility - Part 2",
             "entities": {
-                "MONEY": [
-                    "8220;We"
-                ],
                 "ORG": [
                     "JCLP",
                     "Church",
-                    "JCLA",
-                    "Brock Shinen & the Cogniepop Podcast&#8220"
+                    "Brock Shinen & the Cogniepop"
                 ],
                 "NORP": [
                     "Christians",
                     "Christian"
                 ],
                 "GPE": [
-                    "Los Angeles"
+                    "Los Angeles",
+                    "JCLP"
                 ]
             }
         },
@@ -6017,18 +6149,13 @@
             "title": "1 on 1 with Banning Liebscher: Dave Gibbons Part 1",
             "entities": {
                 "MONEY": [
-                    "8220;In"
-                ],
-                "ORG": [
-                    "Banning",
-                    "World Vision US",
-                    "Newsong",
-                    "Eastridge Church &",
-                    "WA&#8220"
+                    "8220;In",
+                    "8211"
                 ],
                 "PERSON": [
                     "Dave Gibbons Dave",
-                    "Dave"
+                    "Dave",
+                    "Max"
                 ],
                 "LOC": [
                     "North America",
@@ -6037,14 +6164,22 @@
                 "PRODUCT": [
                     "Monkey"
                 ],
+                "ORG": [
+                    "World Vision US",
+                    "Eastridge Church &"
+                ],
                 "ORDINAL": [
                     "third"
                 ],
                 "GPE": [
+                    "Newsong",
                     "Dallas",
                     "Seattle"
                 ],
-                "EVENT": [
+                "WORK_OF_ART": [
+                    "a Master of Theology degree"
+                ],
+                "FAC": [
                     "Inspire Nights"
                 ],
                 "DATE": [
@@ -6073,13 +6208,9 @@
             "pubDate": "Wed, 02 Mar 2016 16:14:17 +0000",
             "title": "Leading with Personal Responsibility Part 1",
             "entities": {
-                "MONEY": [
-                    "8220;We"
-                ],
                 "ORG": [
                     "JCLP",
-                    "Church",
-                    "! &#8220"
+                    "Church"
                 ],
                 "NORP": [
                     "Christians",
@@ -6116,10 +6247,8 @@
                     "3",
                     "3"
                 ],
-                "WORK_OF_ART": [
-                    "Sheri Silk"
-                ],
                 "NORP": [
+                    "Sheri",
                     "Sheri",
                     "Sheri"
                 ],
@@ -6158,15 +6287,18 @@
             "pubDate": "Wed, 17 Feb 2016 10:12:31 +0000",
             "title": "Leading Out in Front Part 2",
             "entities": {
+                "MONEY": [
+                    "8220;You"
+                ],
+                "PERSON": [
+                    "Jesus",
+                    "Chris Cruz&#8220"
+                ],
                 "DATE": [
                     "This month"
                 ],
-                "ORG": [
+                "GPE": [
                     "JCLP"
-                ],
-                "PERSON": [
-                    "List",
-                    "Chris"
                 ]
             }
         },
@@ -6196,15 +6328,15 @@
                     "more then 13 years",
                     "30 years"
                 ],
+                "NORP": [
+                    "Sheri",
+                    "Sheri",
+                    "Sheri"
+                ],
                 "ORG": [
-                    "Sheri Silk",
                     "Banning",
                     "the Executive Leadership Team",
                     "the Senior Leadership Team of Bethel Church"
-                ],
-                "NORP": [
-                    "Sheri",
-                    "Sheri"
                 ],
                 "PERSON": [
                     "Danny Silk",
@@ -6237,12 +6369,21 @@
             "pubDate": "Wed, 03 Feb 2016 15:59:20 +0000",
             "title": "Leading Out in Front Part 1",
             "entities": {
+                "MONEY": [
+                    "8220;You",
+                    "as little at $16"
+                ],
+                "PERSON": [
+                    "Jesus"
+                ],
                 "DATE": [
-                    "This month",
-                    "16 per month"
+                    "This month"
+                ],
+                "GPE": [
+                    "JCLP"
                 ],
                 "ORG": [
-                    "JCLP"
+                    "the Jesus Culture Leadership Community"
                 ]
             }
         },
@@ -6267,9 +6408,12 @@
             "pubDate": "Wed, 27 Jan 2016 15:15:01 +0000",
             "title": "1 on 1 with Banning Liebscher: Gabe Lyons Pt. 2",
             "entities": {
+                "CARDINAL": [
+                    "#8220;This"
+                ],
                 "ORG": [
                     "Gabe Lyons",
-                    "Q",
+                    "Banning",
                     "qideas.org &#8220"
                 ],
                 "NORP": [
@@ -6277,9 +6421,6 @@
                 ],
                 "DATE": [
                     "the second half"
-                ],
-                "PERSON": [
-                    "Gabe"
                 ]
             }
         },
@@ -6305,14 +6446,16 @@
             "title": "Leading with Flavor Part 2",
             "entities": {
                 "MONEY": [
-                    "8220;In"
+                    "8220;In",
+                    "8220"
                 ],
                 "DATE": [
                     "2016",
                     "This year"
                 ],
                 "ORG": [
-                    "Culture Project"
+                    "Culture Project",
+                    "church &#8211"
                 ],
                 "PERSON": [
                     "JC Sacramento",
@@ -6344,24 +6487,22 @@
             "pubDate": "Wed, 13 Jan 2016 13:57:06 +0000",
             "title": "1 on 1 with Banning Liebscher: Gabe Lyons Part 1",
             "entities": {
-                "MONEY": [
-                    "8220;We"
-                ],
                 "DATE": [
                     "weekly",
                     "2016",
                     "the month"
                 ],
-                "ORG": [
-                    "2nd & 4th",
-                    "Banning Liebscher",
-                    "Gabe Lyons",
-                    "Q",
-                    "qideas.org   &#8220"
+                "EVENT": [
+                    "2nd &"
                 ],
                 "CARDINAL": [
                     "one",
                     "one"
+                ],
+                "ORG": [
+                    "Banning Liebscher",
+                    "Gabe Lyons",
+                    "qideas.org   &#8220"
                 ],
                 "NORP": [
                     "Christians"
@@ -6390,21 +6531,31 @@
             "title": "Leading with Flavor Part 1",
             "entities": {
                 "DATE": [
-                    "8220",
                     "2016",
                     "This year",
                     "2016"
+                ],
+                "EVENT": [
+                    "the Jesus Culture Leadership Podcast"
                 ],
                 "GPE": [
                     "JCLP",
                     "Cafeteria"
                 ],
                 "ORG": [
-                    "The Normal Christian Life\nSecrets of the Silence\nCreativity, Inc.",
-                    "Church\n\n&#8220"
+                    "The Normal Christian Life\nSecrets",
+                    "Founding Brothers",
+                    "Center Church\n\n&"
                 ],
                 "PERSON": [
                     "George Washington"
+                ],
+                "WORK_OF_ART": [
+                    "Open Wide the Freedom Gates\nSmall Cloud Rising\nIt&#8217;s Not What You Think\nSandcastle Kings\nPolitics",
+                    "Bible"
+                ],
+                "MONEY": [
+                    "8220"
                 ]
             }
         },
@@ -6429,11 +6580,17 @@
             "pubDate": "Tue, 29 Dec 2015 11:28:14 +0000",
             "title": "Leading with Friends Part 2",
             "entities": {
+                "MONEY": [
+                    "8220;Becky"
+                ],
                 "DATE": [
                     "2015"
                 ],
                 "EVENT": [
                     "the New Year"
+                ],
+                "PERSON": [
+                    "Jesus Culture Conference"
                 ]
             }
         },
@@ -6458,12 +6615,11 @@
             "pubDate": "Thu, 17 Dec 2015 10:04:27 +0000",
             "title": "Leading with Friends Part 1",
             "entities": {
-                "MONEY": [
-                    "8220;To"
-                ],
                 "DATE": [
-                    "Christmas",
-                    "Holiday"
+                    "Christmas"
+                ],
+                "PERSON": [
+                    "Becky"
                 ]
             }
         },
@@ -6488,20 +6644,28 @@
             "pubDate": "Wed, 02 Dec 2015 09:18:42 +0000",
             "title": "Jesus Culture Conference Europe - Leadership Edition Part 2",
             "entities": {
+                "MONEY": [
+                    "8220;Banning"
+                ],
                 "GPE": [
                     "UK",
-                    "UK"
+                    "UK",
+                    "Sacramento"
                 ],
                 "ORG": [
                     "Phil & Sarah Smith",
-                    "Vinelife",
-                    "Info"
+                    "Vinelife"
                 ],
                 "PERSON": [
-                    "Glyn Barrett"
+                    "Lead Pastors",
+                    "Glyn Barrett",
+                    "Info"
                 ],
                 "ORDINAL": [
                     "first"
+                ],
+                "LOC": [
+                    "JC Europe Conference"
                 ],
                 "DATE": [
                     "January 22-23"
@@ -6529,6 +6693,9 @@
             "pubDate": "Thu, 19 Nov 2015 10:14:56 +0000",
             "title": "Jesus Culture Conference Europe - Leadership Edition Part 1",
             "entities": {
+                "MONEY": [
+                    "8220;Banning"
+                ],
                 "GPE": [
                     "UK"
                 ],
@@ -6537,10 +6704,14 @@
                     "Vinelife"
                 ],
                 "PERSON": [
+                    "Lead Pastors",
                     "Glyn Barrett"
                 ],
                 "ORDINAL": [
                     "first"
+                ],
+                "LOC": [
+                    "JC Europe Conference"
                 ]
             }
         },
@@ -6570,10 +6741,12 @@
                 ],
                 "GPE": [
                     "Kingdom",
+                    "Becky",
                     "UK"
                 ],
                 "PERSON": [
                     "Dean",
+                    "Jesus Culture",
                     "Phil Smith"
                 ],
                 "ORG": [
@@ -6607,10 +6780,12 @@
                 ],
                 "GPE": [
                     "Kingdom",
+                    "Becky",
                     "UK"
                 ],
                 "PERSON": [
                     "Dean",
+                    "Jesus Culture",
                     "Phil Smith"
                 ],
                 "ORG": [
@@ -6644,12 +6819,18 @@
                 ],
                 "PERSON": [
                     "Bill Johnson",
+                    "Christy Nockels",
                     "Brad Lomenick",
                     "Bill Johnson"
                 ],
+                "GPE": [
+                    "JCLP"
+                ],
                 "ORG": [
                     "The Power of Royal Generosity",
-                    "Royal Generosity"
+                    "The Power of",
+                    "Royal Generosity",
+                    "the Jesus Culture Leadership Community  &#8220"
                 ],
                 "WORK_OF_ART": [
                     "The Beauty of Wisdom Series"
@@ -6688,9 +6869,14 @@
                     "Nancy Duarte",
                     "Bill Johnson"
                 ],
+                "GPE": [
+                    "JCLP"
+                ],
                 "ORG": [
                     "The Power of Royal Generosity",
-                    "Slide",
+                    "Slide"
+                ],
+                "PRODUCT": [
                     "The Power of Royal Generosity"
                 ],
                 "WORK_OF_ART": [
@@ -6722,19 +6908,36 @@
             "pubDate": "Thu, 27 Aug 2015 11:59:13 +0000",
             "title": "Leadership Highlights from JC Los Angeles Part 2",
             "entities": {
+                "MONEY": [
+                    "8220;Banning",
+                    "8211",
+                    "8211",
+                    "8220"
+                ],
                 "PERSON": [
+                    "Becky",
                     "Zack",
                     "Cody",
-                    "Andy Byrd"
+                    "Jesus Culture",
+                    "Andy Byrd",
+                    "awaken campuses",
+                    "Jesus Culture Europe"
                 ],
                 "DATE": [
                     "the weekend",
-                    "30-31"
+                    "30-31",
+                    "OCTOBER 2015",
+                    "2015"
                 ],
                 "ORG": [
                     "Banning",
-                    "MANCHESTER CENTRAL / MANCHESTER",
-                    "God TV &#8211"
+                    "Jesus Culture Leadership Community",
+                    "The Jesus Culture Leadership Community",
+                    "God TV &",
+                    "the Holy Spirit"
+                ],
+                "GPE": [
+                    "UK"
                 ]
             }
         },
@@ -6759,14 +6962,28 @@
             "pubDate": "Fri, 21 Aug 2015 07:32:02 +0000",
             "title": "Leadership Highlights from JC Los Angeles Part 1",
             "entities": {
+                "MONEY": [
+                    "8220;Banning"
+                ],
                 "PERSON": [
+                    "Becky",
                     "Zack",
                     "Cody",
+                    "Jesus Culture",
                     "Jentezen Franklin",
-                    "Kim Walker-Smith"
+                    "Kim Walker-Smith",
+                    "awaken campuses"
                 ],
                 "ORG": [
-                    "Gabe Lyons"
+                    "Gabe Lyons",
+                    "Jesus Culture Leadership Community",
+                    "The Jesus Culture Leadership Community"
+                ],
+                "GPE": [
+                    "JCLP"
+                ],
+                "WORK_OF_ART": [
+                    "Feed the Children: We recently"
                 ],
                 "CARDINAL": [
                     "250",
@@ -6798,16 +7015,26 @@
                 "MONEY": [
                     "8220;In"
                 ],
+                "ORDINAL": [
+                    "2nd"
+                ],
                 "ORG": [
-                    "Banning",
+                    "JCLP",
                     "Banning",
                     "the Seattle Seahawks"
                 ],
                 "PERSON": [
                     "Kim",
                     "Chris",
+                    "Head Coach",
                     "Rocky Seto",
-                    "Danny Silk"
+                    "awaken campuses"
+                ],
+                "GPE": [
+                    "Becky"
+                ],
+                "PRODUCT": [
+                    "JCLC&#8217;s"
                 ]
             }
         },
@@ -6832,18 +7059,16 @@
             "pubDate": "Mon, 20 Jul 2015 09:35:12 +0000",
             "title": "Leading with Emotional Health Part 1",
             "entities": {
-                "MONEY": [
-                    "8220;The"
-                ],
-                "GPE": [
-                    "JCLP"
-                ],
                 "ORG": [
-                    "Banning"
+                    "JCLP",
+                    "in.&#8221"
                 ],
                 "PERSON": [
                     "Kim",
                     "Chris"
+                ],
+                "GPE": [
+                    "Becky"
                 ]
             }
         },
@@ -6868,25 +7093,18 @@
             "pubDate": "Wed, 01 Jul 2015 08:00:36 +0000",
             "title": "Leading in God's Timing Part 2",
             "entities": {
-                "PRODUCT": [
-                    "God&#8217;s"
-                ],
-                "MONEY": [
-                    "8220;when&#8221"
-                ],
                 "GPE": [
-                    "Los Angeles"
-                ],
-                "PERSON": [
-                    "List Featured Blog",
-                    "Kim Walker-Smith",
-                    "Chris Quilala"
+                    "Los Angeles",
+                    "Los Angeles",
+                    "leaders.&#8221"
                 ],
                 "DATE": [
+                    "summer",
                     "Next Month"
                 ],
-                "ORG": [
-                    "leaders.&#8221"
+                "PERSON": [
+                    "Kim Walker-Smith",
+                    "Chris Quilala"
                 ]
             }
         },
@@ -6911,17 +7129,12 @@
             "pubDate": "Tue, 16 Jun 2015 12:17:23 +0000",
             "title": "Leading in God's Timing Part 1",
             "entities": {
-                "PRODUCT": [
-                    "God&#8217;s"
-                ],
-                "MONEY": [
-                    "8220;when&#8221"
-                ],
                 "GPE": [
+                    "Los Angeles",
                     "Los Angeles"
                 ],
-                "PERSON": [
-                    "Register"
+                "DATE": [
+                    "summer"
                 ]
             }
         },
@@ -6946,15 +7159,18 @@
             "pubDate": "Thu, 28 May 2015 09:06:47 +0000",
             "title": "Redefining Success Part 2",
             "entities": {
-                "PRODUCT": [
-                    "God&#8217;s"
-                ],
                 "MONEY": [
+                    "8220;Redefining",
                     "8220;Well"
                 ],
+                "LAW": [
+                    "God&#8217;s"
+                ],
+                "CARDINAL": [
+                    "#"
+                ],
                 "ORG": [
-                    "Success",
-                    "Launching Pastor&#8217;s Coach\n "
+                    "Success"
                 ],
                 "PERSON": [
                     "Michael Brodeur"
@@ -6982,11 +7198,15 @@
             "pubDate": "Wed, 13 May 2015 08:04:45 +0000",
             "title": "Redefining Success Part 1",
             "entities": {
-                "PRODUCT": [
+                "MONEY": [
+                    "8220;Redefining",
+                    "8220;Well"
+                ],
+                "LAW": [
                     "God&#8217;s"
                 ],
-                "MONEY": [
-                    "8220;Well"
+                "CARDINAL": [
+                    "#"
                 ],
                 "ORG": [
                     "Success"
@@ -7021,25 +7241,34 @@
                     "Zack",
                     "Dean",
                     "Kim Walker-Smith",
-                    "List",
-                    "Jon Acuff",
-                    "Derek Johnson&#8217;s"
-                ],
-                "ORG": [
-                    "iTunes",
-                    "the Jesus Culture Leadership Podcast",
-                    "iTunes",
-                    "Instagram",
-                    "Love&#8221"
+                    "Twitter"
                 ],
                 "DATE": [
+                    "daily",
                     "Last month"
+                ],
+                "ORG": [
+                    "Jesus Culture Music",
+                    "iTunes",
+                    "iTunes",
+                    "Love&#8220",
+                    "Instagram",
+                    "Love&#8221; &#8220"
+                ],
+                "GPE": [
+                    "JCLP"
+                ],
+                "PRODUCT": [
+                    "Jon Acuff"
+                ],
+                "EVENT": [
+                    "the Jesus Culture Leadership Podcast"
                 ],
                 "MONEY": [
                     "41"
                 ],
-                "PRODUCT": [
-                    "Twitter"
+                "LOC": [
+                    "Derek Johnson&#8217;s"
                 ]
             }
         },
@@ -7068,32 +7297,39 @@
                     "Zack",
                     "Dean",
                     "Kim Walker-Smith",
+                    "Project Guest",
                     "Gabrielle Jackson",
                     "Gabrielle Jackson",
-                    "Derek Johnson&#8217;s"
+                    "Twitter"
+                ],
+                "DATE": [
+                    "daily",
+                    "Last month"
                 ],
                 "ORG": [
-                    "Culture Project Guest",
+                    "Jesus Culture Music",
+                    "Millennials",
                     "Gabrielle",
                     "iTunes",
-                    "the Jesus Culture Leadership Podcast",
                     "iTunes",
+                    "Love&#8220",
                     "Instagram"
+                ],
+                "GPE": [
+                    "JCLP"
                 ],
                 "CARDINAL": [
                     "twenty"
                 ],
-                "WORK_OF_ART": [
-                    "5 Millennial Myths"
-                ],
-                "DATE": [
-                    "Last month"
+                "EVENT": [
+                    "the Jesus Culture Leadership Podcast"
                 ],
                 "MONEY": [
-                    "41"
+                    "41",
+                    "8220;Real"
                 ],
-                "PRODUCT": [
-                    "Twitter"
+                "LOC": [
+                    "Derek Johnson&#8217;s"
                 ]
             }
         },
@@ -7122,48 +7358,55 @@
                     "Dean",
                     "Chris",
                     "Alyssa Quilala",
+                    "Jesus Culture",
+                    "Becky",
                     "Wayne Grudem Ryan &",
+                    "Husband",
                     "Ryan",
                     "Sara Hall",
-                    "Ryan",
-                    "Derek Johnson&#8217;s"
+                    "Twitter"
+                ],
+                "GPE": [
+                    "Sacramento",
+                    "California",
+                    "US",
+                    "US"
                 ],
                 "DATE": [
                     "6 months ago",
-                    "the 2008 and",
+                    "2008",
+                    "2012",
                     "2012"
                 ],
                 "MONEY": [
-                    "8220;schedule"
+                    "#8220;schedule conflicts.&#8221",
+                    "8220;Real"
                 ],
-                "NORP": [
-                    "Husband",
-                    "All-Americans",
-                    "American"
+                "ORG": [
+                    "Sarah Hall &#8211",
+                    "Stanford University",
+                    "Ryan",
+                    "Love&#8220",
+                    "Instagram"
                 ],
                 "CARDINAL": [
                     "two",
                     "three"
                 ],
-                "GPE": [
-                    "California",
-                    "US",
-                    "US"
+                "NORP": [
+                    "American"
                 ],
-                "ORG": [
-                    "Stanford University",
-                    "US National Cross Country Champion",
-                    "World Cross Country Championship",
-                    "Instagram"
+                "LOC": [
+                    "the Half Marathon and Marathon",
+                    "Derek Johnson&#8217;s"
                 ],
                 "EVENT": [
-                    "the Half Marathon and Marathon",
                     "Olympic Games",
-                    "the Panamerican Games",
-                    "World Indoor Track"
+                    "US National Cross Country Champion",
+                    "the Panamerican Games"
                 ],
-                "PRODUCT": [
-                    "Twitter"
+                "WORK_OF_ART": [
+                    "World Indoor Track and Field Championships"
                 ]
             }
         },
@@ -7188,27 +7431,35 @@
             "pubDate": "Tue, 17 Mar 2015 10:09:10 +0000",
             "title": "Leading Teams: Part 1",
             "entities": {
-                "DATE": [
+                "MONEY": [
                     "8220;Zack",
+                    "8211"
+                ],
+                "LOC": [
+                    "SeaJay"
+                ],
+                "PERSON": [
+                    "Dean",
+                    "Chris Quilala",
+                    "Jesus Culture"
+                ],
+                "GPE": [
+                    "Sacramento",
+                    "Los Angeles",
+                    "Los Angeles"
+                ],
+                "DATE": [
                     "6 months ago",
                     "2015",
                     "6-week"
                 ],
                 "ORG": [
-                    "SeaJay",
                     "Jesus Culture Conference &#8211",
-                    "the Church &#8211"
+                    "Church &#8211",
+                    "Jesus Culture Emerge"
                 ],
-                "PERSON": [
-                    "Dean",
-                    "Chris Quilala"
-                ],
-                "GPE": [
-                    "Los Angeles",
-                    "Los Angeles"
-                ],
-                "MONEY": [
-                    "8211"
+                "WORK_OF_ART": [
+                    "the Holy Spirit"
                 ]
             }
         },
@@ -7236,15 +7487,22 @@
                 "MONEY": [
                     "8220;In"
                 ],
+                "PERSON": [
+                    "JCLP"
+                ],
                 "DATE": [
-                    "each month",
-                    "2015"
+                    "each month"
+                ],
+                "ORG": [
+                    "Jesus Culture Sacramento Conference",
+                    "REGISTER",
+                    "Jesus Culture Emerge"
+                ],
+                "CARDINAL": [
+                    "one"
                 ],
                 "ORDINAL": [
                     "first"
-                ],
-                "CARDINAL": [
-                    "500"
                 ]
             }
         },
@@ -7272,15 +7530,25 @@
                 "MONEY": [
                     "8220;In"
                 ],
+                "PERSON": [
+                    "JCLP"
+                ],
                 "DATE": [
                     "each month",
                     "2015"
                 ],
+                "ORG": [
+                    "Jesus Culture Sacramento Conference",
+                    "REGISTER"
+                ],
+                "CARDINAL": [
+                    "one"
+                ],
                 "ORDINAL": [
                     "first"
                 ],
-                "CARDINAL": [
-                    "500"
+                "GPE": [
+                    "Los Angeles"
                 ]
             }
         },
@@ -7305,12 +7573,14 @@
             "pubDate": "Tue, 03 Feb 2015 10:01:33 +0000",
             "title": "Leading as Dreamers: Part 2",
             "entities": {
+                "PERSON": [
+                    "aren&#8217;t fulfilled.&#8221"
+                ],
                 "MONEY": [
-                    "8220;&#8220;If",
                     "20"
                 ],
-                "PRODUCT": [
-                    "God&#8217;s"
+                "ORG": [
+                    "Blog &#8220"
                 ]
             }
         },
@@ -7335,11 +7605,14 @@
             "pubDate": "Thu, 15 Jan 2015 01:00:26 +0000",
             "title": "Leading as Dreamers: Part 1",
             "entities": {
-                "PRODUCT": [
-                    "God&#8217;s"
+                "PERSON": [
+                    "Jesus Culture Sacramento"
                 ],
                 "MONEY": [
                     "10"
+                ],
+                "GPE": [
+                    "JCLP"
                 ]
             }
         },
@@ -7364,25 +7637,32 @@
             "pubDate": "Wed, 17 Dec 2014 15:20:35 +0000",
             "title": "Leading Your Family: Part 2",
             "entities": {
+                "MONEY": [
+                    "8220;The",
+                    "an additional $10"
+                ],
                 "CARDINAL": [
+                    "one",
                     "one",
                     "23"
                 ],
                 "ORG": [
                     "the Jesus Culture Movement",
-                    "Jesus Culture Sacramento Conference Info: Take"
+                    "u2013 &#8220;We",
+                    "Jesus Culture Sacramento"
                 ],
                 "PERSON": [
+                    "Zack",
+                    "Becky",
                     "Cody",
-                    "JCLP",
-                    "Kim Walker-Smith"
+                    "Kim Walker-Smith",
+                    "here.&#8221"
                 ],
                 "DATE": [
                     "the holiday season"
                 ],
-                "MONEY": [
-                    "8220;We",
-                    "an additional $10"
+                "GPE": [
+                    "JCLP"
                 ]
             }
         },
@@ -7407,25 +7687,31 @@
             "pubDate": "Fri, 05 Dec 2014 08:00:03 +0000",
             "title": "Leading Your Family: Part 1",
             "entities": {
+                "MONEY": [
+                    "8220;The",
+                    "an additional $10"
+                ],
                 "CARDINAL": [
+                    "one",
                     "one",
                     "23"
                 ],
                 "ORG": [
                     "the Jesus Culture Movement",
-                    "Jesus Culture Sacramento Conference Info: Take"
+                    "u2013 &#8220;We",
+                    "Jesus Culture Sacramento"
                 ],
                 "PERSON": [
+                    "Zack",
+                    "Becky",
                     "Cody",
-                    "JCLP",
                     "Michael Brodeur www.pastorscoach.com&#8220"
                 ],
                 "DATE": [
                     "the holiday season"
                 ],
-                "MONEY": [
-                    "8220;We",
-                    "an additional $10"
+                "GPE": [
+                    "JCLP"
                 ]
             }
         },
@@ -7454,18 +7740,18 @@
                     "8220;As",
                     "an additional $10"
                 ],
-                "DATE": [
-                    "between holiday",
-                    "November 28th"
-                ],
                 "ORG": [
-                    "cheer & the holiday"
+                    "Jesus Culture Sacramento Conference"
                 ],
                 "CARDINAL": [
+                    "one",
                     "23"
                 ],
-                "PERSON": [
+                "GPE": [
                     "JCLP"
+                ],
+                "DATE": [
+                    "November 28th"
                 ]
             }
         },
@@ -7493,15 +7779,12 @@
                 "MONEY": [
                     "8220;As"
                 ],
-                "DATE": [
-                    "between holiday"
+                "PERSON": [
+                    "Scott Hagan",
+                    "Kingdom Come Tour&#8221"
                 ],
                 "ORG": [
-                    "cheer & the holiday",
                     "Bryan & Katie"
-                ],
-                "PERSON": [
-                    "Scott Hagan"
                 ]
             }
         },
@@ -7529,12 +7812,19 @@
                 "MONEY": [
                     "8220;Leading"
                 ],
-                "GPE": [
-                    "Danielle"
+                "PERSON": [
+                    "Jesus",
+                    "God",
+                    "Kingdom Come Tour\n&"
                 ],
                 "ORG": [
-                    "Sacramento Skills Websitern",
+                    "Vote Danielle Viglione for Sports Hall Of Fame Check",
+                    "Skills Websitern\nClick Here",
                     "Bryan & Katie"
+                ],
+                "GPE": [
+                    "Danielle",
+                    "Sacramento"
                 ]
             }
         },
@@ -7562,8 +7852,15 @@
                 "MONEY": [
                     "8220;Leading"
                 ],
+                "PERSON": [
+                    "Jesus",
+                    "God"
+                ],
                 "ORG": [
                     "Rob & Laura"
+                ],
+                "WORK_OF_ART": [
+                    "Click Here for JC Sac Conference Registration\n&#8220"
                 ]
             }
         },
@@ -7589,12 +7886,16 @@
             "title": "Leading In the Supernatural: Part 2",
             "entities": {
                 "MONEY": [
-                    "8220;Leading"
+                    "8220;Leading",
+                    "8220"
                 ],
                 "GPE": [
                     "Kingdom"
                 ],
                 "PERSON": [
+                    "Jesus",
+                    "Jesus Culture&#8217;s",
+                    "Outreach",
                     "Scott Thompson"
                 ]
             }
@@ -7627,6 +7928,9 @@
                     "Kingdom"
                 ],
                 "PERSON": [
+                    "Jesus",
+                    "Jesus Culture&#8217;s",
+                    "Outreach",
                     "Scott Thompson",
                     "Julie Olson&#8220"
                 ]
@@ -7653,8 +7957,9 @@
             "pubDate": "Fri, 29 Aug 2014 12:00:32 +0000",
             "title": "Leading From Faith: Part 2",
             "entities": {
-                "ORG": [
-                    "hearingu2026&#8243"
+                "MONEY": [
+                    "8220;Leadership",
+                    "8220;Faith"
                 ],
                 "DATE": [
                     "This month"
@@ -7685,15 +7990,15 @@
             "pubDate": "Wed, 20 Aug 2014 12:00:04 +0000",
             "title": "Leading from Faith: Part 1",
             "entities": {
-                "NORP": [
-                    "hearingu2026&#8221"
+                "MONEY": [
+                    "8220;Leadership",
+                    "8220;Faith"
                 ],
                 "DATE": [
                     "This month"
                 ],
                 "PERSON": [
                     "Russell Evans",
-                    "List",
                     "Ian McIntosh"
                 ]
             }
@@ -7719,31 +8024,27 @@
             "pubDate": "Thu, 31 Jul 2014 13:00:46 +0000",
             "title": "Leading From Gratitude: Part 2",
             "entities": {
-                "DATE": [
-                    "8220",
-                    "this month"
-                ],
-                "CARDINAL": [
-                    "#"
-                ],
-                "MONEY": [
-                    "8220;Leading"
-                ],
-                "ORG": [
-                    "Gratitude&#8221",
-                    "Major League",
-                    "the San Francisco Giants for &#8220;In",
-                    "Game&#8221",
-                    "Justice",
-                    "Major League Baseball\n&"
-                ],
                 "PERSON": [
+                    "JCLP",
                     "Heather Ridnour",
                     "Jeremy Affeldt",
+                    "Jeremy",
+                    "Blog",
                     "Jeremy Affeldt"
                 ],
-                "WORK_OF_ART": [
-                    "8220;Becky&#8217;s Book Nook&#8221"
+                "ORG": [
+                    "Major League",
+                    "the San Francisco Giants for &",
+                    "Game&#8221",
+                    "The Game Resources",
+                    "Justice",
+                    "Major League Baseball"
+                ],
+                "MONEY": [
+                    "8220;In"
+                ],
+                "DATE": [
+                    "month"
                 ]
             }
         },
@@ -7769,17 +8070,10 @@
             "title": "Leading From Gratitude: Part 1",
             "entities": {
                 "MONEY": [
-                    "8220;As",
-                    "8220;Leading"
-                ],
-                "CARDINAL": [
-                    "#"
-                ],
-                "ORG": [
-                    "Gratitude&#8221",
-                    "Christian Collaborative Digital"
+                    "8220;As"
                 ],
                 "PERSON": [
+                    "JCLP",
                     "Heather Ridnour",
                     "Daniel Bashta"
                 ]
@@ -7806,7 +8100,12 @@
             "pubDate": "Wed, 25 Jun 2014 14:00:19 +0000",
             "title": "Special 2 Year Q&A Birthday Episode: Part 2",
             "entities": {
+                "MONEY": [
+                    "8220;The",
+                    "8220;In"
+                ],
                 "GPE": [
+                    "JCLP",
                     "JCLP"
                 ],
                 "DATE": [
@@ -7817,8 +8116,8 @@
                 "CARDINAL": [
                     "two"
                 ],
-                "MONEY": [
-                    "8220;In"
+                "PERSON": [
+                    "Q&amp;A"
                 ],
                 "ORG": [
                     "Game&#8221"
@@ -7846,7 +8145,12 @@
             "pubDate": "Wed, 11 Jun 2014 12:00:49 +0000",
             "title": "Special 2 Year Q&A Birthday Episode: Part 1",
             "entities": {
+                "MONEY": [
+                    "8220;The",
+                    "8220;In"
+                ],
                 "GPE": [
+                    "JCLP",
                     "JCLP"
                 ],
                 "DATE": [
@@ -7857,8 +8161,9 @@
                 "CARDINAL": [
                     "two"
                 ],
-                "MONEY": [
-                    "8220;In"
+                "PERSON": [
+                    "Q&amp;A",
+                    "Rachel Cruz&#8220"
                 ],
                 "ORG": [
                     "Game&#8221"
@@ -7891,11 +8196,7 @@
                 ],
                 "DATE": [
                     "a day",
-                    "this month",
-                    "Here&#8220"
-                ],
-                "PRODUCT": [
-                    "God&#8217;s"
+                    "this month"
                 ],
                 "PERSON": [
                     "Kari Jobe",
@@ -7903,6 +8204,9 @@
                 ],
                 "GPE": [
                     "UK"
+                ],
+                "FAC": [
+                    "Message Here&#8220"
                 ]
             }
         },
@@ -7934,9 +8238,6 @@
                     "a day",
                     "this month"
                 ],
-                "PRODUCT": [
-                    "God&#8217;s"
-                ],
                 "PERSON": [
                     "Kari Jobe",
                     "Download Kris&#8217"
@@ -7944,8 +8245,8 @@
                 "GPE": [
                     "UK"
                 ],
-                "ORG": [
-                    "GroupGirls Using Their Strengths&#8220"
+                "WORK_OF_ART": [
+                    "Message Here The Dean&#8217;s List: Check out Leading In These Times"
                 ]
             }
         },
@@ -7970,23 +8271,38 @@
             "pubDate": "Fri, 25 Apr 2014 16:38:13 +0000",
             "title": "Leading in Hardship: Part 2",
             "entities": {
+                "PERSON": [
+                    "you&#8217;re",
+                    "Kim Walker Smith",
+                    "Becky Johnson",
+                    "Seajay Liebscher",
+                    "Kim",
+                    "Becky"
+                ],
                 "DATE": [
-                    "This month",
-                    "Hardship&#8221"
+                    "This month"
+                ],
+                "GPE": [
+                    "JCLP",
+                    "Hardship&#8221",
+                    "JCLP",
+                    "JCLP"
                 ],
                 "MONEY": [
                     "8220;Leading"
                 ],
-                "PERSON": [
-                    "Kim Walker Smith",
-                    "Becky Johnson",
-                    "Seajay Liebscher",
-                    "Sheri Silk",
-                    "Kim",
-                    "Katie Torwalt"
+                "EVENT": [
+                    "the Jesus Culture"
                 ],
-                "GPE": [
-                    "JCLP"
+                "NORP": [
+                    "Sheri"
+                ],
+                "ORG": [
+                    "Katie Torwalt for &#8220;Music",
+                    "miss.&#8221"
+                ],
+                "CARDINAL": [
+                    "there&#8217;s"
                 ]
             }
         },
@@ -8011,26 +8327,38 @@
             "pubDate": "Mon, 14 Apr 2014 10:37:32 +0000",
             "title": "Leading In Hardship: Part 1",
             "entities": {
-                "DATE": [
-                    "This month",
-                    "Hardship&#8221"
-                ],
-                "MONEY": [
-                    "8220;Leading"
-                ],
                 "PERSON": [
+                    "you&#8217;re",
                     "Kim Walker Smith",
                     "Becky Johnson",
                     "Seajay Liebscher",
-                    "Sheri Silk",
                     "Kim",
-                    "Katie Torwalt"
+                    "Becky"
+                ],
+                "DATE": [
+                    "This month"
                 ],
                 "GPE": [
+                    "JCLP",
+                    "Hardship&#8221",
+                    "JCLP",
                     "JCLP"
                 ],
-                "WORK_OF_ART": [
-                    "The Dean&#8217;s List: Check out the &#8220;GirlsUsingTheirStrengths&#8221"
+                "MONEY": [
+                    "8220;Leading",
+                    "8220;GirlsUsingTheirStrengths&#8221"
+                ],
+                "EVENT": [
+                    "the Jesus Culture"
+                ],
+                "NORP": [
+                    "Sheri"
+                ],
+                "ORG": [
+                    "Katie Torwalt for &#8220;Music"
+                ],
+                "CARDINAL": [
+                    "there&#8217;s"
                 ]
             }
         },
@@ -8056,15 +8384,15 @@
             "title": "Leading From Prayer: Part 2",
             "entities": {
                 "GPE": [
-                    "the Kingdom of God"
+                    "the Kingdom of God",
+                    "JCLP"
                 ],
                 "PERSON": [
-                    "Prayer",
                     "Lou Engle",
                     "Scotty Wilbekin"
                 ],
                 "ORG": [
-                    "the Florida Gators."
+                    "the Florida Gators"
                 ]
             }
         },
@@ -8090,17 +8418,20 @@
             "title": "Leading From Prayer: Part 1",
             "entities": {
                 "GPE": [
-                    "the Kingdom of God"
+                    "the Kingdom of God",
+                    "JCLP",
+                    "Lucas Hogg"
                 ],
                 "PERSON": [
-                    "Prayer",
                     "Lou Engle",
-                    "Lucas Hogg",
-                    "Deans List",
+                    "Jesus Culture",
                     "Andy Byrd&#8217;s"
                 ],
                 "TIME": [
                     "a few minutes"
+                ],
+                "NORP": [
+                    "Deans"
                 ]
             }
         },
@@ -8130,17 +8461,19 @@
                     "8220;For",
                     "8220;In"
                 ],
-                "NORP": [
-                    "Colossians"
-                ],
-                "DATE": [
-                    "1:19-20"
-                ],
                 "PERSON": [
+                    "God",
                     "Jake Hamilton",
                     "Kyle Corver",
-                    "Deans List",
                     "Sarah"
+                ],
+                "NORP": [
+                    "Colossians",
+                    "Deans"
+                ],
+                "CARDINAL": [
+                    "two",
+                    "#8220;Music"
                 ],
                 "ORG": [
                     "NBA",
@@ -8174,17 +8507,19 @@
                     "8220;For",
                     "8220;In"
                 ],
-                "NORP": [
-                    "Colossians"
-                ],
-                "DATE": [
-                    "1:19-20"
-                ],
                 "PERSON": [
+                    "God",
                     "Jake Hamilton",
                     "Kyle Corver",
-                    "Deans List",
                     "Sarah"
+                ],
+                "NORP": [
+                    "Colossians",
+                    "Deans"
+                ],
+                "CARDINAL": [
+                    "two",
+                    "#8220;Music"
                 ],
                 "ORG": [
                     "NBA",
@@ -8213,11 +8548,11 @@
             "pubDate": "Wed, 29 Jan 2014 13:54:56 +0000",
             "title": "Building the Unseen Foundation - Part 2",
             "entities": {
-                "MONEY": [
-                    "8220;When"
-                ],
                 "ORDINAL": [
                     "first"
+                ],
+                "PERSON": [
+                    "place.&#8221"
                 ]
             }
         },
@@ -8242,13 +8577,10 @@
             "pubDate": "Wed, 22 Jan 2014 13:54:39 +0000",
             "title": "Building the Unseen Foundation - Part 1",
             "entities": {
-                "MONEY": [
-                    "8220;When"
-                ],
                 "ORDINAL": [
                     "first"
                 ],
-                "ORG": [
+                "PERSON": [
                     "Julian Newman&#8217;s"
                 ]
             }
@@ -8274,20 +8606,19 @@
             "pubDate": "Tue, 24 Dec 2013 13:54:20 +0000",
             "title": "Leading from Weakness - Part 2",
             "entities": {
-                "MONEY": [
-                    "8220;When"
-                ],
                 "DATE": [
                     "this month",
-                    "Christmas",
-                    "this holiday"
+                    "Christmas"
                 ],
                 "PERSON": [
+                    "Jesus Culture",
                     "Klinkenbergs"
                 ],
                 "ORG": [
-                    "EP &#8220;Our",
-                    "season.&#8221"
+                    "EP &"
+                ],
+                "MONEY": [
+                    "8220;Our"
                 ]
             }
         },
@@ -8312,20 +8643,20 @@
             "pubDate": "Mon, 16 Dec 2013 13:54:01 +0000",
             "title": "Leading from Weakness - Part 1",
             "entities": {
-                "MONEY": [
-                    "8220;When"
-                ],
                 "DATE": [
                     "this month",
                     "Christmas",
                     "this holiday season"
                 ],
                 "PERSON": [
-                    "Klinkenbergs",
-                    "Greg"
+                    "Jesus Culture",
+                    "Klinkenbergs"
                 ],
                 "ORG": [
-                    "EP &#8220;Our"
+                    "EP &"
+                ],
+                "MONEY": [
+                    "8220;Our"
                 ]
             }
         },
@@ -8351,13 +8682,12 @@
             "title": "Seeking Wisdom - Part 2",
             "entities": {
                 "MONEY": [
-                    "8220;He",
+                    "8220;Wisdom",
                     "8220;In"
                 ],
                 "PERSON": [
                     "David Leach",
-                    "Richard T. Jones",
-                    "Terry Walling&#8217;s"
+                    "Richard T. Jones"
                 ],
                 "ORG": [
                     "EP"
@@ -8389,7 +8719,7 @@
             "title": "Seeking Wisdom - Part 1",
             "entities": {
                 "MONEY": [
-                    "8220;He",
+                    "8220;Wisdom",
                     "8220;In"
                 ],
                 "PERSON": [
@@ -8400,8 +8730,7 @@
                     "EP"
                 ],
                 "CARDINAL": [
-                    "one",
-                    "Spotlight&#8221;.&#8221"
+                    "one"
                 ]
             }
         },
@@ -8428,6 +8757,9 @@
             "entities": {
                 "MONEY": [
                     "8220;In"
+                ],
+                "PERSON": [
+                    "Jesus"
                 ],
                 "ORG": [
                     "leaders.&#8221"
@@ -8457,6 +8789,10 @@
             "entities": {
                 "MONEY": [
                     "8220;In"
+                ],
+                "PERSON": [
+                    "Jesus",
+                    "Christa"
                 ]
             }
         },
@@ -8481,14 +8817,14 @@
             "pubDate": "Fri, 13 Sep 2013 13:52:15 +0000",
             "title": "Leading From the Word - Part 2",
             "entities": {
-                "MONEY": [
-                    "8220;We"
-                ],
                 "WORK_OF_ART": [
                     "Bible"
                 ],
                 "DATE": [
                     "This month"
+                ],
+                "ORG": [
+                    "word.&#8221"
                 ]
             }
         },
@@ -8513,9 +8849,6 @@
             "pubDate": "Fri, 30 Aug 2013 13:52:00 +0000",
             "title": "Leading From the Word - Part 1",
             "entities": {
-                "MONEY": [
-                    "8220;We"
-                ],
                 "WORK_OF_ART": [
                     "Bible"
                 ],
@@ -8550,9 +8883,11 @@
                 ],
                 "PERSON": [
                     "Kris Vallotton",
-                    "Rend Collective",
                     "Michael Redd",
                     "Kim Walker Smith"
+                ],
+                "WORK_OF_ART": [
+                    "Rend Collective"
                 ],
                 "ORG": [
                     "NBA"
@@ -8585,9 +8920,11 @@
                 ],
                 "PERSON": [
                     "Kris Vallotton",
-                    "Rend Collective",
                     "Michael Redd",
                     "Kim Walker Smith"
+                ],
+                "WORK_OF_ART": [
+                    "Rend Collective"
                 ],
                 "ORG": [
                     "NBA",
@@ -8646,11 +8983,10 @@
                     "8220;As"
                 ],
                 "PERSON": [
-                    "List",
-                    "Jeffrey"
+                    "Jeffrey Kunde&#8217;s"
                 ],
-                "GPE": [
-                    "BlogGoins Writer&#8220"
+                "ORG": [
+                    "BlogGoins"
                 ]
             }
         },
@@ -8675,9 +9011,6 @@
             "pubDate": "Mon, 03 Jun 2013 13:50:00 +0000",
             "title": "Ambition - Part 2",
             "entities": {
-                "MONEY": [
-                    "8220;Ambition"
-                ],
                 "ORG": [
                     "Bethel Church"
                 ],
@@ -8707,15 +9040,13 @@
             "pubDate": "Wed, 22 May 2013 13:49:42 +0000",
             "title": "Ambition - Part 1",
             "entities": {
-                "MONEY": [
-                    "8220;Ambition"
-                ],
                 "ORG": [
                     "Bethel Church"
                 ],
                 "PERSON": [
                     "Bill Johnson",
-                    "Jeff Goins&#8217"
+                    "Jeff",
+                    "Blog&#8220"
                 ]
             }
         },
@@ -8739,11 +9070,7 @@
             "link": "http://traffic.libsyn.com/jesusculture/episode-12-stewarding-influence-part-2.m4a",
             "pubDate": "Tue, 30 Apr 2013 13:49:20 +0000",
             "title": "Stewarding Influence - Part 2",
-            "entities": {
-                "DATE": [
-                    "it.&#8221"
-                ]
-            }
+            "entities": {}
         },
         {
             "content": "&#8220;Everyone has influence. We often look ahead to increasing our influence or are busy going after the goals and dreams God has given us. The questions is how are you stewarding the influence you have now? We caught up some successful leaders and asked them about what influence is and how they steward it. In addition we caught up with Tim Hughes from Worship Central for the &#8220;Jesus Culture Music Spotlight&#8221; this month. The Dean&#8217;s List: Go to Marget Fienberg&#8217;s blog.Go to Dean\u2019s blog&#8220;",
@@ -8771,7 +9098,7 @@
                     "Dean"
                 ],
                 "ORG": [
-                    "Worship Central"
+                    "Worship Central for the &"
                 ],
                 "DATE": [
                     "this month"
@@ -8806,17 +9133,18 @@
                     "This month",
                     "March"
                 ],
-                "CARDINAL": [
-                    "2"
-                ],
                 "PERSON": [
+                    "we&#8217;re",
                     "Kim Walker-Smith",
                     "Ryan Hall"
+                ],
+                "CARDINAL": [
+                    "2"
                 ],
                 "ORG": [
                     "United Pursuit",
                     "Banning",
-                    "Don&#8217;t"
+                    "leader.&#8221"
                 ]
             }
         },
@@ -8848,20 +9176,18 @@
                     "This month",
                     "March"
                 ],
-                "CARDINAL": [
-                    "2"
-                ],
                 "PERSON": [
+                    "we&#8217;re",
                     "Kim Walker-Smith",
                     "Ryan Hall"
+                ],
+                "CARDINAL": [
+                    "2"
                 ],
                 "ORG": [
                     "United Pursuit",
                     "Banning",
-                    "Don&#8217;t"
-                ],
-                "GPE": [
-                    "Dean&#8217;s"
+                    "Dean&#8217;s Blog&#8220"
                 ]
             }
         },
@@ -8887,16 +9213,19 @@
             "title": "The Priority of Family in Leadership",
             "entities": {
                 "MONEY": [
-                    "8220;The"
+                    "8220;The",
+                    "8220;In"
+                ],
+                "PERSON": [
+                    "you&#8217;re",
+                    "Ron Luce",
+                    "Teen Mania",
+                    "Brandon Smith"
                 ],
                 "ORG": [
                     "Banning",
-                    "UC Berkeley for &#8220;In",
+                    "UC Berkeley for &",
                     "Game&#8221"
-                ],
-                "PERSON": [
-                    "Ron Luce",
-                    "Brandon Smith"
                 ]
             }
         },
@@ -8921,6 +9250,10 @@
             "pubDate": "Sat, 05 Jan 2013 13:46:18 +0000",
             "title": "Encouragement",
             "entities": {
+                "MONEY": [
+                    "8220;Leadership",
+                    "8220;In"
+                ],
                 "ORG": [
                     "the ministry of encouragement"
                 ],
@@ -8931,9 +9264,6 @@
                 "GPE": [
                     "Alabama",
                     "Seattle"
-                ],
-                "MONEY": [
-                    "8220;In"
                 ]
             }
         },
@@ -8957,7 +9287,12 @@
             "link": "http://traffic.libsyn.com/jesusculture/episode-6-the-secret-place.m4a",
             "pubDate": "Wed, 19 Dec 2012 13:45:40 +0000",
             "title": "The Secret Place",
-            "entities": {}
+            "entities": {
+                "PERSON": [
+                    "Jesus Culture",
+                    "Jesus"
+                ]
+            }
         },
         {
             "content": "&#8220;You&#8217;re not a good leader if you&#8217;re not empowering others around you. In this episode of the Jesus Culture Leadership Podcast, we dive into the issue of empowering others and how critical it is that as leaders, we are making others feel valued and empowered when they are around us. We talked about the difference empowering makes in the lives of those who are both being empowered and doing the empowering.&#8221;",
@@ -8980,11 +9315,11 @@
             "pubDate": "Mon, 05 Nov 2012 13:45:14 +0000",
             "title": "Empowering Those Around You",
             "entities": {
-                "MONEY": [
-                    "8220;You&#8217;re"
-                ],
                 "PERSON": [
                     "you&#8217;re"
+                ],
+                "EVENT": [
+                    "the Jesus Culture Leadership Podcast"
                 ]
             }
         },
@@ -9008,7 +9343,11 @@
             "link": "http://traffic.libsyn.com/jesusculture/episode-4-the-importance-of-feedback.m4a",
             "pubDate": "Mon, 01 Oct 2012 13:44:37 +0000",
             "title": "The Importance of Feedback",
-            "entities": {}
+            "entities": {
+                "MONEY": [
+                    "8220;Feedback"
+                ]
+            }
         },
         {
             "content": "&#8220;As leaders, we are called to serve. This is an important aspect in the life of every leader whether you&#8217;re just beginning or you&#8217;ve been in leadership for years. Serving positions us for breakthrough, promotion, and fully stepping into what God has for us. In this podcast, we discuss what it looks like to live a life of serving while being in leadership. Guest host, Chris Quilala, also joins us for this topic.&#8221;",
@@ -9031,7 +9370,7 @@
             "pubDate": "Thu, 06 Sep 2012 13:52:19 +0000",
             "title": "Servanthood",
             "entities": {
-                "MONEY": [
+                "PRODUCT": [
                     "8220;As"
                 ],
                 "PERSON": [
@@ -9066,6 +9405,11 @@
             "entities": {
                 "ORDINAL": [
                     "second"
+                ],
+                "ORG": [
+                    "Jesus Culture Leadership Podcast",
+                    "Brave Communication",
+                    "team.&#8221"
                 ]
             }
         },
@@ -9095,6 +9439,9 @@
                 ],
                 "ORDINAL": [
                     "first"
+                ],
+                "EVENT": [
+                    "the Jesus Culture Leadership Podcast"
                 ],
                 "ORG": [
                     "Community",
@@ -9127,7 +9474,7 @@
         "summary": "Jesus Culture Podcast with Banning Liebscher, Becky Johnson, and Phil Manginelli. The Jesus Culture Podcast exists to challenge and equip you in your walk with Jesus. Join us as we explore what it truly means to be and to do.\n"
     },
     "language": "en-US",
-    "lastBuildDate": "Fri, 22 Apr 2022 19:07:46 -0700",
+    "lastBuildDate": "Tue, 24 May 2022 23:24:26 -0700",
     "link": "https://jesusculture.com/podcasts/show/jesus-culture-podcast/",
     "paginationLinks": {
         "self": "https://jesusculture.com/podcasts/jesus-culture-podcast/"
@@ -9142,12 +9489,15 @@
     ],
     "title": "Jesus Culture Podcast",
     "entities": {
+        "PERSON": [
+            "Jesus Culture Podcast",
+            "Becky Johnson",
+            "Phil Manginelli",
+            "The Jesus Culture Podcast",
+            "Jesus"
+        ],
         "ORG": [
             "Banning Liebscher"
-        ],
-        "PERSON": [
-            "Becky Johnson",
-            "Phil Manginelli"
         ]
     }
 }

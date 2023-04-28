@@ -35,13 +35,13 @@
             "title": "14. Why Do Most Ideas Fail to Scale?",
             "entities": {
                 "WORK_OF_ART": [
-                    "The Voltage Effect</i"
+                    "The Voltage Effect</i>"
                 ],
                 "PERSON": [
                     "John List"
                 ],
                 "ORG": [
-                    "the Freakonomics Radio Book Club"
+                    "the Freakonomics Radio Book Club, List"
                 ]
             }
         },
@@ -74,7 +74,7 @@
                     "Marcus du Sautoy"
                 ],
                 "ORG": [
-                    "the Freakonomics Radio Book Club.</p>\n"
+                    "the Freakonomics Radio Book Club.</p"
                 ]
             }
         },
@@ -103,16 +103,13 @@
             "pubDate": "Mon, 27 Sep 2021 03:00:00 +0000",
             "title": "12. \u201cThis Didn't End the Way It\u2019s Supposed to End.\u201d",
             "entities": {
-                "GPE": [
-                    "N.B.A."
+                "ORG": [
+                    "N.B.A.",
+                    "the Freakonomics Radio Book Club"
                 ],
                 "PERSON": [
                     "Chris Bosh",
-                    "Bosh",
-                    "Angela Duckworth.</p>\n"
-                ],
-                "ORG": [
-                    "the Freakonomics Radio Book Club"
+                    "Angela Duckworth.</p"
                 ]
             }
         },
@@ -148,6 +145,7 @@
                 "PERSON": [
                     "Burton",
                     "Ben Macintyre",
+                    "Sonya",
                     "Sarah Lyall"
                 ],
                 "CARDINAL": [
@@ -155,13 +153,11 @@
                 ],
                 "GPE": [
                     "the Soviet Union",
-                    "Moscow"
+                    "Moscow",
+                    "America"
                 ],
                 "EVENT": [
                     "Cold War"
-                ],
-                "FAC": [
-                    "America\u2019s"
                 ]
             }
         },
@@ -190,12 +186,9 @@
             "pubDate": "Sat, 25 Sep 2021 08:55:00 +0000",
             "title": "10. Check the Data: It\u2019s a Man\u2019s World",
             "entities": {
-                "ORG": [
-                    "Men</i"
-                ],
                 "PERSON": [
-                    "Criado Perez",
-                    "Maria Konnikova.</p><p>"
+                    "Caroline Criado Perez",
+                    "Maria Konnikova.</p><p"
                 ]
             }
         },
@@ -227,6 +220,7 @@
                 "PERSON": [
                     "Richard Thaler",
                     "Cass Sunstein",
+                    "Thaler",
                     "Stephen Dubner"
                 ],
                 "DATE": [
@@ -263,7 +257,10 @@
             "entities": {
                 "PERSON": [
                     "Bren Smith",
-                    "Stephen Dubner.</p>\n"
+                    "Stephen Dubner.</p"
+                ],
+                "GPE": [
+                    "Fish</em"
                 ]
             }
         },
@@ -295,6 +292,7 @@
             "entities": {
                 "PERSON": [
                     "Robert Cialdini",
+                    "Influence</em",
                     "Stephen Dubner.</p"
                 ],
                 "DATE": [
@@ -338,18 +336,18 @@
                     "New York",
                     "New York",
                     "New York",
-                    "New York"
+                    "New York",
+                    "Transformation,</em"
                 ],
                 "PERSON": [
                     "Covid",
                     "Thomas Dyja",
                     "Kurt Andersen.</p"
                 ],
-                "EVENT": [
+                "DATE": [
                     "Four Decades"
                 ],
                 "ORG": [
-                    "Success",
                     "the Big Apple"
                 ]
             }
@@ -386,13 +384,10 @@
                 ],
                 "PERSON": [
                     "Charles Blow",
-                    "Stephen Dubner.</p>\n"
+                    "Stephen Dubner.</p"
                 ],
-                "WORK_OF_ART": [
-                    "The Devil You Know: A"
-                ],
-                "ORG": [
-                    "Black Power"
+                "PRODUCT": [
+                    "Black Power Manifesto</em"
                 ],
                 "LOC": [
                     "South"
@@ -427,7 +422,8 @@
             "entities": {
                 "PERSON": [
                     "Caitlin Doughty",
-                    "Maria Konnikova.</p>\n"
+                    "Doughty",
+                    "Maria Konnikova.</p"
                 ]
             }
         },
@@ -492,7 +488,7 @@
                 "PERSON": [
                     "Reed Hastings",
                     "Hastings",
-                    "Maria Konnikova.</p>\n"
+                    "Maria Konnikova.</p"
                 ]
             }
         },
@@ -528,9 +524,6 @@
                 ],
                 "WORK_OF_ART": [
                     "Ph.D."
-                ],
-                "ORG": [
-                    "Biggest"
                 ]
             }
         }
@@ -574,8 +567,10 @@
         "PERSON": [
             "Stephen Dubner"
         ],
+        "ORG": [
+            "Freakonomics"
+        ],
         "NORP": [
-            "Freakonomics",
             "American"
         ]
     }

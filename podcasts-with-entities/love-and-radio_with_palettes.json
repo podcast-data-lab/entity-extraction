@@ -29,13 +29,12 @@
             "title": "Secrets Hotline is Here! Also, Vikings Rejoice!",
             "entities": {
                 "ORG": [
-                    "Secrets",
-                    "Subscribe"
+                    "Secrets Hotline"
                 ],
-                "GPE": [
+                "PERSON": [
                     "Luminary"
                 ],
-                "NORP": [
+                "GPE": [
                     "Nordic"
                 ]
             }
@@ -64,14 +63,15 @@
                 "ORDINAL": [
                     "first"
                 ],
+                "ORG": [
+                    "The Secrets Hotline"
+                ],
                 "DATE": [
                     "this fall"
                 ],
                 "CARDINAL": [
-                    "1-929"
-                ],
-                "ORG": [
-                    "secretshotline.org"
+                    "1-929",
+                    "929-732-7387"
                 ]
             }
         },
@@ -98,7 +98,7 @@
             "title": "The Pandrogyne",
             "entities": {
                 "ORG": [
-                    "Breyer P-Orridge"
+                    "P-Orridge"
                 ],
                 "DATE": [
                     "2013"
@@ -131,9 +131,7 @@
                     "Bristol",
                     "Berlin",
                     "Copenhagen",
-                    "Stockholm"
-                ],
-                "PERSON": [
+                    "Stockholm",
                     "Oslo"
                 ],
                 "DATE": [
@@ -337,6 +335,9 @@
                     "641",
                     "715"
                 ],
+                "DATE": [
+                    "55403"
+                ],
                 "GPE": [
                     "Luminary"
                 ],
@@ -353,7 +354,7 @@
             "enclosure": {
                 "length": "0",
                 "type": "audio/mpeg",
-                "url": "https://traffic.megaphone.fm/LM1050011435.mp3?updated=1555989764"
+                "url": "https://traffic.megaphone.fm/LM1050011435.mp3?updated=1555989644"
             },
             "guid": "fd37aaae-6558-11e9-a7cf-2b2a3b6aef37",
             "isoDate": "2019-04-23T07:00:00.000Z",
@@ -369,7 +370,11 @@
             },
             "pubDate": "Tue, 23 Apr 2019 07:00:00 -0000",
             "title": "Black Feminist Thot ",
-            "entities": {}
+            "entities": {
+                "ORG": [
+                    "Mistress Velvet"
+                ]
+            }
         },
         {
             "content": "We're joining Luminary Audio! Visit luminary.link/love to listen to more L+R.",
@@ -379,7 +384,7 @@
             "enclosure": {
                 "length": "0",
                 "type": "audio/mpeg",
-                "url": "https://traffic.megaphone.fm/LM2930659318.mp3?updated=1555207040"
+                "url": "https://traffic.megaphone.fm/LM2930659318.mp3?updated=1555206920"
             },
             "guid": "c24b72ae-5d56-11e9-993e-fff175481c50",
             "isoDate": "2019-04-12T19:10:00.000Z",
@@ -516,6 +521,9 @@
                 "CARDINAL": [
                     "641",
                     "715"
+                ],
+                "DATE": [
+                    "55403#"
                 ]
             }
         },
@@ -527,7 +535,7 @@
             "enclosure": {
                 "length": "0",
                 "type": "audio/mpeg",
-                "url": "https://traffic.megaphone.fm/LM6535806500.mp3?updated=1573749469"
+                "url": "https://traffic.megaphone.fm/LM6535806500.mp3?updated=1573749349"
             },
             "guid": "http://loveandradio.prx.org/?p=610",
             "isoDate": "2018-10-01T18:34:00.000Z",
@@ -667,7 +675,7 @@
                 "DATE": [
                     "1968"
                 ],
-                "ORG": [
+                "NORP": [
                     "Paulette Cooper"
                 ],
                 "CARDINAL": [
@@ -767,17 +775,12 @@
                 "DATE": [
                     "1991"
                 ],
-                "GPE": [
-                    "Pam Reynolds"
+                "PERSON": [
+                    "Pam Reynolds",
+                    "Freedom on"
                 ],
                 "CARDINAL": [
                     "less than half"
-                ],
-                "PERSON": [
-                    "Amen Dunes"
-                ],
-                "ORG": [
-                    "Freedom on Sacred Bones Records"
                 ]
             }
         },
@@ -806,6 +809,7 @@
                 "PERSON": [
                     "Bob Padgett",
                     "Daniel Estrin",
+                    "Atmospheres Touch",
                     "Lucrecia Dalt"
                 ],
                 "GPE": [
@@ -840,7 +844,7 @@
             "title": "A New Season is Almost Upon Us",
             "entities": {
                 "DATE": [
-                    "MAY 17"
+                    "MAY 17 MAY 17 MAY 17 MAY 17 MAY 17"
                 ]
             }
         },
@@ -901,7 +905,6 @@
             "entities": {
                 "PERSON": [
                     "Clyde Casey",
-                    "Skid Row",
                     "Tim Robbins",
                     "Tim Robbins",
                     "Lonnie Johnson",
@@ -914,6 +917,9 @@
                 ],
                 "DATE": [
                     "the 1980s"
+                ],
+                "WORK_OF_ART": [
+                    "Another Planet"
                 ]
             }
         },
@@ -969,17 +975,17 @@
             "pubDate": "Fri, 19 Jan 2018 17:45:50 -0000",
             "title": "L+R Presents: Secrets from Showcase",
             "entities": {
+                "PERSON": [
+                    "Radiotopia",
+                    "Martin Johnson"
+                ],
                 "ORG": [
-                    "Radiotopia\u2019s Showcase",
+                    "Showcase",
                     "\u00c5sa Secher",
                     "Showcase"
                 ],
-                "WORK_OF_ART": [
-                    "Secrets"
-                ],
-                "PERSON": [
-                    "Mohamed El Abed",
-                    "Martin Johnson"
+                "GPE": [
+                    "Mohamed El Abed"
                 ]
             }
         },
@@ -1005,6 +1011,9 @@
             "pubDate": "Thu, 21 Dec 2017 14:40:37 -0000",
             "title": "The Secrets Hotline, Vol. II",
             "entities": {
+                "ORG": [
+                    "Awkward"
+                ],
                 "FAC": [
                     "Build Buildings"
                 ]
@@ -1036,7 +1045,7 @@
                     "Marvin Heemeyer\u2019s",
                     "\u00dalfur"
                 ],
-                "EVENT": [
+                "WORK_OF_ART": [
                     "Black Shore"
                 ]
             }
@@ -1070,9 +1079,6 @@
                     "Mike Merrill",
                     "Kim Wild",
                     "Alvin"
-                ],
-                "ORG": [
-                    "Chipmunks"
                 ]
             }
         },
@@ -1115,8 +1121,7 @@
                     "nearly 44 years"
                 ],
                 "ORG": [
-                    "Amnesty International",
-                    "Helado Negro"
+                    "Amnesty International UK"
                 ]
             }
         },
@@ -1143,8 +1148,9 @@
             "title": "Murdertown, USA",
             "entities": {
                 "PERSON": [
-                    "Endormir",
-                    "Merle Bardenoir"
+                    "Pour Endormir",
+                    "Merle Bardenoir",
+                    "L\u2019Aube"
                 ]
             }
         },
@@ -1170,10 +1176,8 @@
             "pubDate": "Fri, 13 Oct 2017 17:09:07 -0000",
             "title": "Photochemical",
             "entities": {
-                "PERSON": [
-                    "Laisse Autant Le"
-                ],
                 "ORG": [
+                    "Laisse Autant Le Vent Tout Emporter",
                     "Les Breastfeeders"
                 ]
             }
@@ -1201,10 +1205,9 @@
             "title": "For Science!",
             "entities": {
                 "PERSON": [
-                    "Karaoke"
+                    "Alex"
                 ],
                 "ORG": [
-                    "Alex\u2019s",
                     "Road Soda Reggae"
                 ],
                 "NORP": [
@@ -1265,10 +1268,8 @@
                     "1960s",
                     "years"
                 ],
-                "ORG": [
-                    "Hobbies Galore"
-                ],
                 "PERSON": [
+                    "Hobbies Galore",
                     "R. Stevie Moore"
                 ]
             }
@@ -1296,14 +1297,19 @@
             "title": "The Boys Will Work It Out",
             "entities": {
                 "PERSON": [
-                    "Sarz"
+                    "Listener",
+                    "Sarz",
+                    "Outro",
+                    "Aurelia Smith"
                 ],
                 "ORG": [
-                    "Rings",
-                    "Kaitlyn Aurelia Smith"
+                    "Rings"
                 ],
                 "DATE": [
                     "2003"
+                ],
+                "GPE": [
+                    "Kaitlyn"
                 ]
             }
         },
@@ -1329,12 +1335,13 @@
             "pubDate": "Thu, 15 Jun 2017 22:31:00 -0000",
             "title": "Relevant Questions",
             "entities": {
+                "DATE": [
+                    "our next season",
+                    "decades"
+                ],
                 "PERSON": [
                     "Doug Williams",
                     "Jacob McCleland"
-                ],
-                "DATE": [
-                    "decades"
                 ]
             }
         },
@@ -1361,8 +1368,12 @@
             "pubDate": "Thu, 06 Apr 2017 14:58:53 -0000",
             "title": "The Secrets Hotline",
             "entities": {
+                "ORG": [
+                    "the Secrets Hotline"
+                ],
                 "PERSON": [
-                    "George Langford"
+                    "George Langford",
+                    "George"
                 ],
                 "CARDINAL": [
                     "641",
@@ -1398,6 +1409,7 @@
                     "Gomez"
                 ],
                 "ORG": [
+                    "the Witness\u00a0Security Program",
                     "WITSEC"
                 ]
             }
@@ -1426,15 +1438,17 @@
             "entities": {
                 "PERSON": [
                     "Roc\u00edo G\u00f3mez",
-                    "Carlos"
-                ],
-                "ORG": [
                     "Rodrigo",
-                    "Roc\u00edo\u2019s"
+                    "Roc\u00edo",
+                    "Carlos",
+                    "Roc\u00edo"
                 ],
                 "GPE": [
                     "Colombia",
                     "Miami"
+                ],
+                "ORG": [
+                    "mafia"
                 ]
             }
         },
@@ -1467,7 +1481,7 @@
                     "Roc\u00edo G\u00f3mez",
                     "Rosio"
                 ],
-                "FAC": [
+                "ORG": [
                     "La Retirada"
                 ],
                 "CARDINAL": [
@@ -1553,6 +1567,9 @@
             "entities": {
                 "PERSON": [
                     "Tim"
+                ],
+                "ORG": [
+                    "Tool, Steel Reserve"
                 ]
             }
         },
@@ -1735,7 +1752,7 @@
             "pubDate": "Thu, 13 Oct 2016 11:42:35 -0000",
             "title": "The Enemy Within",
             "entities": {
-                "ORG": [
+                "WORK_OF_ART": [
                     "Reckonings"
                 ],
                 "DATE": [
@@ -1775,8 +1792,8 @@
             "pubDate": "Thu, 29 Sep 2016 08:30:06 -0000",
             "title": "A Girl of Ivory",
             "entities": {
-                "ORG": [
-                    "Davecat and Sidore"
+                "PERSON": [
+                    "Sidore"
                 ],
                 "GPE": [
                     "Detroit"
@@ -1874,6 +1891,9 @@
             "pubDate": "Fri, 24 Jun 2016 01:53:34 -0000",
             "title": "The Neighborhood",
             "entities": {
+                "ORG": [
+                    "Love +"
+                ],
                 "PERSON": [
                     "Scott Carrier"
                 ]
@@ -1904,7 +1924,6 @@
                 "PERSON": [
                     "David Weinberg",
                     "Clyde Casey",
-                    "Skid Row",
                     "Tim Robbins",
                     "Tim Robbins",
                     "Lonnie Johnson",
@@ -1915,6 +1934,9 @@
                 ],
                 "DATE": [
                     "the 1980s"
+                ],
+                "WORK_OF_ART": [
+                    "Another Planet"
                 ]
             }
         },
@@ -1969,18 +1991,13 @@
             "pubDate": "Thu, 25 Feb 2016 21:01:59 -0000",
             "title": "Deep Stealth Mode",
             "entities": {
-                "FAC": [
-                    "the Here Be Monsters"
-                ],
                 "PERSON": [
                     "Marlo Mack",
+                    "Marlo",
                     "Marlo"
                 ],
                 "DATE": [
                     "age 3"
-                ],
-                "GPE": [
-                    "Marlo"
                 ]
             }
         },
@@ -2231,10 +2248,8 @@
                 "PERSON": [
                     "Norah Vincent",
                     "Vincent",
+                    "Adeline",
                     "Virgina Woolf"
-                ],
-                "GPE": [
-                    "Adeline"
                 ]
             }
         },
@@ -2358,7 +2373,8 @@
             "entities": {
                 "GPE": [
                     "Chisinau",
-                    "Soviet Republic of Moldova",
+                    "Soviet Republic",
+                    "Moldova",
                     "Ukraine"
                 ],
                 "NORP": [
@@ -2389,12 +2405,11 @@
             "pubDate": "Thu, 25 Sep 2014 05:33:55 -0000",
             "title": "Of Birds and Boundaries",
             "entities": {
-                "ORG": [
-                    "eruv",
-                    "Sabbath"
-                ],
                 "NORP": [
                     "Jews"
+                ],
+                "PERSON": [
+                    "Sabbath"
                 ]
             }
         },
@@ -2471,7 +2486,7 @@
             "enclosure": {
                 "length": "0",
                 "type": "audio/mpeg",
-                "url": "https://traffic.megaphone.fm/LM4048001029.mp3?updated=1573755327"
+                "url": "https://traffic.megaphone.fm/LM4048001029.mp3?updated=1573755207"
             },
             "guid": "tag:soundcloud,2010:tracks/154078323",
             "isoDate": "2014-06-12T18:57:38.000Z",
@@ -2497,10 +2512,10 @@
                 "NORP": [
                     "West German"
                 ],
-                "QUANTITY": [
+                "TIME": [
                     "only about 50 hours"
                 ],
-                "PRODUCT": [
+                "ORG": [
                     "Cessna"
                 ],
                 "GPE": [
@@ -2561,7 +2576,6 @@
             "entities": {
                 "PERSON": [
                     "Clyde Casey",
-                    "Skid Row",
                     "Tim Robbins",
                     "Tim Robbins",
                     "Lonnie Johnson",
@@ -2573,6 +2587,9 @@
                 ],
                 "DATE": [
                     "the 1980s"
+                ],
+                "WORK_OF_ART": [
+                    "Another Planet"
                 ]
             }
         },
@@ -2630,6 +2647,9 @@
                 "DATE": [
                     "A couple months ago"
                 ],
+                "ORG": [
+                    "Julia"
+                ],
                 "TIME": [
                     "One night"
                 ]
@@ -2659,7 +2679,7 @@
             "title": "The Pandrogyne",
             "entities": {
                 "ORG": [
-                    "Breyer P-Orridge"
+                    "P-Orridge"
                 ]
             }
         },
@@ -2686,18 +2706,16 @@
             "pubDate": "Thu, 21 Feb 2013 18:04:00 -0000",
             "title": "Jack and Ellen",
             "entities": {
-                "GPE": [
-                    "Subway"
+                "PERSON": [
+                    "Ellen",
+                    "Jack",
+                    "Ellen"
                 ],
                 "MONEY": [
                     "over $30,000"
                 ],
                 "TIME": [
                     "just a couple hours"
-                ],
-                "PERSON": [
-                    "Jack",
-                    "Ellen"
                 ]
             }
         },
@@ -2726,6 +2744,9 @@
             "entities": {
                 "PERSON": [
                     "Lewis Greenberg"
+                ],
+                "WORK_OF_ART": [
+                    "Geezer of the Year award"
                 ],
                 "GPE": [
                     "Ballwin",
@@ -2757,7 +2778,12 @@
             "title": "Seventy Weeks",
             "entities": {
                 "PERSON": [
-                    "Andre Taylor"
+                    "Andre Taylor",
+                    "Daniel",
+                    "Daniel"
+                ],
+                "ORG": [
+                    "Daniel"
                 ],
                 "WORK_OF_ART": [
                     "Bible"
@@ -2768,7 +2794,7 @@
                 "NORP": [
                     "Babylonian"
                 ],
-                "ORG": [
+                "GPE": [
                     "Andre"
                 ]
             }
@@ -2949,6 +2975,9 @@
             "pubDate": "Tue, 09 Nov 2010 23:43:10 -0000",
             "title": "Dirty Balloons",
             "entities": {
+                "PERSON": [
+                    "Amy"
+                ],
                 "NORP": [
                     "Craigslist"
                 ]
@@ -2978,7 +3007,8 @@
             "title": "Split Brain",
             "entities": {
                 "PERSON": [
-                    "Jill Bolte Taylor"
+                    "Jill Bolte",
+                    "Taylor"
                 ]
             }
         },
@@ -3007,6 +3037,9 @@
             "entities": {
                 "PERSON": [
                     "Sara Juli"
+                ],
+                "WORK_OF_ART": [
+                    "Take It"
                 ]
             }
         },
@@ -3061,9 +3094,6 @@
             "pubDate": "Thu, 27 Mar 2008 22:33:51 -0000",
             "title": "Aftermath",
             "entities": {
-                "ORG": [
-                    "Aftermath, Inc."
-                ],
                 "PERSON": [
                     "Tim Reifsteck"
                 ],
@@ -3123,8 +3153,10 @@
             "pubDate": "Thu, 29 Nov 2007 23:16:03 -0000",
             "title": "Animal Parts",
             "entities": {
+                "ORG": [
+                    "Nate Hill"
+                ],
                 "PERSON": [
-                    "Nate Hill",
                     "Takeshi Yamada",
                     "Dan Deacon"
                 ],
@@ -3197,8 +3229,7 @@
                     "1981"
                 ],
                 "WORK_OF_ART": [
-                    "The Decline of Western Civilization",
-                    "Travis"
+                    "The Decline of Western Civilization"
                 ],
                 "PERSON": [
                     "Adam",
@@ -3319,9 +3350,6 @@
                 "ORG": [
                     "Adrianne"
                 ],
-                "WORK_OF_ART": [
-                    "Jason"
-                ],
                 "PERSON": [
                     "Brendan Sullivan"
                 ]
@@ -3378,11 +3406,7 @@
             },
             "pubDate": "Mon, 30 Oct 2006 22:38:01 -0000",
             "title": "Insane vs. Unsane",
-            "entities": {
-                "WORK_OF_ART": [
-                    "The Dusty Show"
-                ]
-            }
+            "entities": {}
         },
         {
             "content": "Discussions of prediction and soothsaying.",
@@ -3432,6 +3456,7 @@
             "title": "Secrets",
             "entities": {
                 "ORG": [
+                    "Secrets",
                     "Post-Secret"
                 ]
             }
@@ -3493,11 +3518,10 @@
                     "first"
                 ],
                 "PERSON": [
+                    "Adrianne",
                     "Lance Anderson",
+                    "Paul",
                     "Harlyn Aizley"
-                ],
-                "ORG": [
-                    "The Verge of the Fringe"
                 ]
             }
         },
@@ -3530,6 +3554,7 @@
                     "Tim Hortons",
                     "Julian James",
                     "Adrianne",
+                    "Unmentionable",
                     "Ben Popik",
                     "Olde English",
                     "Lev",
@@ -3563,26 +3588,24 @@
             "pubDate": "Sun, 20 Nov 2005 21:43:19 -0000",
             "title": "Love in Bits",
             "entities": {
-                "EVENT": [
-                    "the World of Online Dating"
+                "ORG": [
+                    "the World of Online Dating",
+                    "WYPR",
+                    "Signal"
                 ],
                 "PERSON": [
                     "Christian Rudder",
                     "Aaron Henkin",
                     "Eric Herot"
                 ],
-                "ORG": [
-                    "WYPR\u2019s",
-                    "Signal",
+                "LAW": [
                     "the OKCupid Love Personality Types"
                 ],
                 "GPE": [
                     "Missouri",
-                    "Bajoran",
-                    "Bits"
+                    "Bajoran"
                 ],
                 "WORK_OF_ART": [
-                    "Star Trek",
                     "Love"
                 ]
             }
@@ -3687,14 +3710,11 @@
     "title": "Love and Radio",
     "entities": {
         "PERSON": [
-            "Nick van",
+            "Nick van der",
             "Kolk"
         ],
         "WORK_OF_ART": [
             "Love"
-        ],
-        "ORG": [
-            "Radio"
         ],
         "TIME": [
             "every night"

@@ -32,24 +32,23 @@
             "pubDate": "Sat, 13 Feb 2021 12:40:35 +0000",
             "title": "031: 2021??",
             "entities": {
-                "DATE": [
-                    "New Year",
-                    "about a month late"
-                ],
                 "ORG": [
-                    "@kylemalanda",
-                    "@suleygox",
-                    "Facebook",
-                    "Instagram"
+                    "Haaappy New Year",
+                    "The Chai Team",
+                    "Facebook, Instagram"
+                ],
+                "DATE": [
+                    "about a month late",
+                    "year"
                 ],
                 "PERSON": [
-                    "the Chai Podcast"
-                ],
-                "CARDINAL": [
-                    "href=\"mailto"
-                ],
-                "PRODUCT": [
+                    "malanda",
+                    "@kylemalanda",
+                    "br /><a href=\"https://www.kylemalanda.com/",
                     "Twitter"
+                ],
+                "FAC": [
+                    "the Chai Podcast"
                 ]
             }
         },
@@ -82,18 +81,14 @@
                 ],
                 "PERSON": [
                     "Tory Lanez",
+                    "Twitter"
+                ],
+                "FAC": [
                     "the Chai Podcast"
                 ],
                 "ORG": [
-                    "@mayamwoka",
-                    "Facebook",
-                    "Instagram"
-                ],
-                "CARDINAL": [
-                    "href=\"mailto"
-                ],
-                "PRODUCT": [
-                    "Twitter"
+                    "The Chai Team",
+                    "Facebook, Instagram"
                 ]
             }
         },
@@ -121,37 +116,32 @@
             "pubDate": "Thu, 17 Sep 2020 07:52:27 +0000",
             "title": "029: Umenikataa, It's Fine",
             "entities": {
-                "ORG": [
+                "PERSON": [
                     "Chai",
-                    "@theplaybackpod",
-                    "href=\"https://podcasts.apple.com/us/podcast",
-                    "Janice Iche\u2019s",
-                    "href=\"https://soundcloud.com",
-                    "rel=\"noopener\">https://soundcloud.com/janiceiche",
-                    "Salma Munde\u2019s",
-                    "href=\"https://www.youtube.com",
-                    "rel=\"noopener\">https://www.youtube.com/watch?v",
-                    "Facebook",
-                    "Instagram"
+                    "Twitter"
                 ],
                 "CARDINAL": [
                     "one",
-                    "two",
-                    "href=\"mailto"
+                    "two"
                 ],
                 "GPE": [
                     "Rwanda"
                 ],
-                "PERSON": [
-                    "Siku Mpya",
-                    "the Chai Podcast"
+                "WORK_OF_ART": [
+                    "Playback Podcast <br />\u2028"
+                ],
+                "ORG": [
+                    "Janice Iche\u2019s",
+                    "href=\"https://soundcloud.com",
+                    "Salma Munde\u2019s",
+                    "The Chai Team",
+                    "Facebook, Instagram"
                 ],
                 "NORP": [
-                    "Musician",
                     "Musician"
                 ],
-                "PRODUCT": [
-                    "Twitter"
+                "FAC": [
+                    "the Chai Podcast"
                 ]
             }
         },
@@ -179,38 +169,28 @@
             "pubDate": "Thu, 13 Aug 2020 09:32:05 +0000",
             "title": "028: Twende Na Mwende (with Mwende Musau)",
             "entities": {
+                "PERSON": [
+                    "COVID-19",
+                    "Musau",
+                    "Beyonce",
+                    "Bryan Jazz TV",
+                    "Caraci Clothing",
+                    "Twitter"
+                ],
                 "NORP": [
                     "African",
                     "Kenyan",
                     "African"
                 ],
                 "ORG": [
-                    "Mwende Musau",
-                    "Beyonce",
                     "Black is King",
                     "Mwende Musau",
-                    "Content Creator & Travel",
-                    "href=\"https://www.youtube.com",
-                    "rel=\"noopener\">https://www.youtube.com/channel/",
-                    "href=\"https://www.instagram.com",
-                    "Graphic Designer & Creative",
-                    "@bryanjazz.ke",
-                    "@sebocaraci",
-                    "Facebook",
-                    "Instagram"
+                    "Content Creator & Travel Blogger",
+                    "The Chai Team",
+                    "Facebook, Instagram"
                 ],
-                "PERSON": [
-                    "Jazz",
-                    "Bryan Jazz",
-                    "Caraci",
-                    "Caraci Clothing",
+                "FAC": [
                     "the Chai Podcast"
-                ],
-                "CARDINAL": [
-                    "href=\"mailto"
-                ],
-                "PRODUCT": [
-                    "Twitter"
                 ]
             }
         }
@@ -251,21 +231,24 @@
     ],
     "title": "The Chai",
     "entities": {
-        "PERSON": [
-            "The Chai Podcast",
-            "Arafa",
-            "Teddy"
+        "FAC": [
+            "The Chai Podcast"
         ],
         "DATE": [
             "20-something year"
         ],
-        "ORG": [
-            "Afro",
-            "Nura"
+        "GPE": [
+            "Dar-es-Salaam",
+            "Afro"
         ],
         "NORP": [
             "African",
             "African"
+        ],
+        "PERSON": [
+            "Arafa",
+            "Teddy",
+            "Nura"
         ]
     }
 }

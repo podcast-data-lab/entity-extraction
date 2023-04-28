@@ -15,7 +15,7 @@
             "enclosure": {
                 "length": "0",
                 "type": "audio/mpeg",
-                "url": "https://traffic.megaphone.fm/GLT7964699067.mp3?updated=1617734514"
+                "url": "https://traffic.megaphone.fm/GLT7964699067.mp3?updated=1617734634"
             },
             "guid": "5294e728-96da-11eb-adff-0f56cde813b8",
             "isoDate": "2021-04-07T09:00:00.000Z",
@@ -40,6 +40,12 @@
                     "USA",
                     "America",
                     "USA"
+                ],
+                "CARDINAL": [
+                    "all eight"
+                ],
+                "PRODUCT": [
+                    "Learn"
                 ]
             }
         },
@@ -66,7 +72,14 @@
             },
             "pubDate": "Wed, 30 Sep 2020 07:40:00 -0000",
             "title": "Family Ties: On Raising Kids with Craig & Marian Robinson",
-            "entities": {}
+            "entities": {
+                "PERSON": [
+                    "Michelle"
+                ],
+                "WORK_OF_ART": [
+                    "Learn"
+                ]
+            }
         },
         {
             "content": "Part two of our discussion about mentorship features Michelle in conversation with her younger team members, in which they explore the ups and downs of professional life and what it\u2019s like to be a black woman right now. Find the episode transcript here:\u00a0https://spoti.fi/TMOP_transcripts\u00a0\nLearn more about your ad choices. Visit podcastchoices.com/adchoices",
@@ -97,6 +110,9 @@
                 ],
                 "PERSON": [
                     "Michelle"
+                ],
+                "WORK_OF_ART": [
+                    "Learn"
                 ]
             }
         },
@@ -124,12 +140,12 @@
             "pubDate": "Wed, 30 Sep 2020 07:30:00 -0000",
             "title": "Working Women: Valerie Jarrett and the Importance of Mentorship",
             "entities": {
-                "CARDINAL": [
-                    "one"
-                ],
                 "PERSON": [
                     "Michelle",
                     "Valerie Jarrett"
+                ],
+                "WORK_OF_ART": [
+                    "Learn"
                 ]
             }
         },
@@ -160,6 +176,9 @@
                 "PERSON": [
                     "Conan O\u2019Brien",
                     "Michelle"
+                ],
+                "PRODUCT": [
+                    "Learn"
                 ]
             }
         },
@@ -201,6 +220,9 @@
                 ],
                 "DATE": [
                     "years"
+                ],
+                "PRODUCT": [
+                    "Learn"
                 ]
             }
         },
@@ -231,8 +253,14 @@
                 "PERSON": [
                     "Michelle"
                 ],
+                "LOC": [
+                    "the South Side of"
+                ],
                 "GPE": [
                     "Chicago"
+                ],
+                "PRODUCT": [
+                    "Learn"
                 ]
             }
         },
@@ -261,10 +289,11 @@
             "title": "What Your Mother Never Told You About Health with Dr. Sharon Malone",
             "entities": {
                 "PERSON": [
+                    "Michelle",
                     "Sharon Malone"
                 ],
-                "ORG": [
-                    "OB-GYN"
+                "WORK_OF_ART": [
+                    "Learn"
                 ]
             }
         },
@@ -295,6 +324,9 @@
                 "PERSON": [
                     "Michele Norris",
                     "Michelle"
+                ],
+                "PRODUCT": [
+                    "Learn"
                 ]
             }
         },
@@ -321,7 +353,14 @@
             },
             "pubDate": "Wed, 30 Sep 2020 07:00:00 -0000",
             "title": "President Barack Obama",
-            "entities": {}
+            "entities": {
+                "PERSON": [
+                    "Michelle"
+                ],
+                "WORK_OF_ART": [
+                    "Learn"
+                ]
+            }
         }
     ],
     "itunes": {
@@ -365,7 +404,7 @@
     ],
     "title": "The Michelle Obama Podcast",
     "entities": {
-        "ORG": [
+        "PERSON": [
             "The Michelle Obama Podcast"
         ],
         "ORDINAL": [

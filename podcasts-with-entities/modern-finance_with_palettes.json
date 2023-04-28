@@ -29,9 +29,10 @@
             "pubDate": "Thu, 31 Mar 2022 12:00:00 -0000",
             "title": "Liquidable Eth Staking with Lido",
             "entities": {
+                "PERSON": [
+                    "Vasiliy Shapovalov"
+                ],
                 "ORG": [
-                    "Vasiliy Shapovalov",
-                    "Lido.fi",
                     "Ethereum 2.0"
                 ]
             }
@@ -57,13 +58,13 @@
             "pubDate": "Tue, 22 Mar 2022 12:00:00 -0000",
             "title": "Nexo \u2014 NFT Lending and High Yield Savings",
             "entities": {
-                "ORG": [
-                    "Kevin",
-                    "NEXO"
-                ],
                 "PERSON": [
+                    "Kevin",
                     "Nexo",
                     "Antoni Trenchev"
+                ],
+                "ORG": [
+                    "NEXO"
                 ]
             }
         },
@@ -88,20 +89,19 @@
             "pubDate": "Thu, 27 Jan 2022 19:42:23 -0000",
             "title": "The Future of Decentralized Banking with Bankless",
             "entities": {
-                "ORG": [
-                    "Kevin",
-                    "Decentralized Finance"
-                ],
                 "PERSON": [
+                    "Kevin",
                     "Ryan Sean Adams",
                     "David Hoffman"
                 ],
-                "NORP": [
+                "PRODUCT": [
                     "Bankless"
                 ],
                 "CARDINAL": [
-                    "one",
                     "two"
+                ],
+                "GPE": [
+                    "Banking"
                 ]
             }
         },
@@ -130,29 +130,29 @@
                 "DATE": [
                     "week"
                 ],
-                "ORG": [
+                "PERSON": [
                     "Consensus",
                     "Kevin",
-                    "Feyyaz",
-                    "NFT",
+                    "John O'Connell",
+                    "Kevin",
                     "Proof Collective",
-                    "Grails",
+                    "Opera Browser"
+                ],
+                "GPE": [
+                    "Feyyaz",
+                    "Fantom"
+                ],
+                "PRODUCT": [
+                    "Crypto",
+                    "Twitter Blue"
+                ],
+                "ORG": [
+                    "NFT",
+                    "PFP",
                     "NFT",
                     "Cover Frog Nation",
                     "OpenSea",
                     "Feyyaz"
-                ],
-                "PERSON": [
-                    "John O'Connell",
-                    "Kevin",
-                    "Opera Browser"
-                ],
-                "GPE": [
-                    "Crypto",
-                    "Fantom"
-                ],
-                "PRODUCT": [
-                    "Twitter Blue"
                 ]
             }
         },
@@ -179,7 +179,8 @@
             "title": "Particle: Fractionalizing Banksy with NFTs",
             "entities": {
                 "PERSON": [
-                    "Kevin"
+                    "Kevin",
+                    "Banksy"
                 ],
                 "ORG": [
                     "the Particle Collection"
@@ -189,11 +190,7 @@
                     "first"
                 ],
                 "CARDINAL": [
-                    "100x100",
                     "10,000"
-                ],
-                "GPE": [
-                    "Banksy"
                 ],
                 "DATE": [
                     "2005"
@@ -225,19 +222,20 @@
             "pubDate": "Tue, 28 Dec 2021 13:00:00 -0000",
             "title": "From Web2 to Web3: Alexis Ohanian and Kevin Rose",
             "entities": {
-                "ORG": [
-                    "Kevin",
-                    "NFT"
-                ],
                 "PERSON": [
+                    "Kevin",
                     "Alexis Ohanian",
                     "Digg",
-                    "Bored Apes",
-                    "CryptoPunks"
+                    "Bored Apes"
                 ],
-                "GPE": [
+                "NORP": [
                     "Reddit",
-                    "Reddit"
+                    "Reddit",
+                    "Web2"
+                ],
+                "ORG": [
+                    "NFT",
+                    "CryptoPunks"
                 ]
             }
         },
@@ -263,15 +261,19 @@
             "pubDate": "Tue, 14 Dec 2021 21:29:03 -0000",
             "title": "Side Chain Scaling with Sandeep Nailwal, Co-Founder of Polygon",
             "entities": {
+                "PERSON": [
+                    "Kevin"
+                ],
                 "ORG": [
-                    "Kevin",
                     "Sandeep Nailwal",
                     "Co-Founder",
                     "Polygon",
-                    "Polygon",
                     "NFT",
-                    "Polygon",
                     "Ethereum"
+                ],
+                "GPE": [
+                    "Polygon",
+                    "Polygon"
                 ]
             }
         },
@@ -297,15 +299,20 @@
             "pubDate": "Wed, 08 Dec 2021 01:43:41 -0000",
             "title": "Where Data Lives in an IPFS/Filecoin World with Mikeal Rogers",
             "entities": {
-                "ORG": [
+                "PERSON": [
                     "Kevin",
-                    "Protocol Labs",
+                    "Mikeal Rogers",
+                    "Filecoin",
+                    "Hic et Nunc",
+                    "Filecoin"
+                ],
+                "PRODUCT": [
+                    "Protocol Labs"
+                ],
+                "ORG": [
                     "IPFS",
                     "IPFS",
                     "IPFS"
-                ],
-                "PERSON": [
-                    "Mikeal Rogers"
                 ]
             }
         },
@@ -331,20 +338,20 @@
             "pubDate": "Fri, 03 Dec 2021 20:44:08 -0000",
             "title": "Consensus - Welcome to the Proof Collective with the Proof NFT, Sheep Game, Monaco, The Metaverse, and Feyyaz's alpha on Tomb Finance.",
             "entities": {
-                "ORG": [
-                    "Kevin",
-                    "Feyyaz",
-                    "NFT",
-                    "Facebook Metaverse",
-                    "Feyyaz"
-                ],
                 "PERSON": [
+                    "Kevin",
                     "Proof Collective NFT",
                     "Jack Dorsey's",
-                    "Monaco NFT"
+                    "Filecoin"
                 ],
-                "WORK_OF_ART": [
-                    "Sheep Game"
+                "ORG": [
+                    "Feyyaz",
+                    "NFT",
+                    "Sheep Game",
+                    "Monaco NFT",
+                    "Facebook Metaverse",
+                    "IFPS",
+                    "Feyyaz"
                 ],
                 "GPE": [
                     "Square"
@@ -381,13 +388,12 @@
                 ],
                 "GPE": [
                     "Linkin Park",
-                    "Fort Minor"
+                    "Fort Minor",
+                    "Linkin Park"
                 ],
                 "ORG": [
-                    "NFT"
-                ],
-                "FAC": [
-                    "Linkin Park"
+                    "NFT",
+                    "ZIGGURATS"
                 ]
             }
         },
@@ -413,27 +419,25 @@
             "pubDate": "Fri, 29 Oct 2021 20:12:59 -0000",
             "title": "MoFi Consensus - Going full-on degen with Olympus DAO, KLIMA, Abracadabra, Shiba Inu and more.",
             "entities": {
-                "ORG": [
-                    "Kevin",
-                    "Feyyaz",
-                    "Shiba Inu",
-                    "KLIMA",
-                    "NFT",
-                    "Quantum",
-                    "Quantum Art",
-                    "Quantum Mint"
-                ],
                 "PERSON": [
+                    "Kevin",
                     "John",
                     "Olypmus DAO",
-                    "Klima"
+                    "KLIMA"
                 ],
                 "GPE": [
+                    "Feyyaz",
                     "Abracadabra",
                     "Fantom"
                 ],
-                "WORK_OF_ART": [
-                    "Thor Starter\n\nThor Chain\n\nOlympus"
+                "ORG": [
+                    "Shiba Inu",
+                    "NFT",
+                    "Quantum",
+                    "Quantum Mint"
+                ],
+                "PRODUCT": [
+                    "Klima"
                 ],
                 "NORP": [
                     "Toucan"
@@ -465,12 +469,12 @@
             "entities": {
                 "ORG": [
                     "Yield Guild Games",
-                    "Governance",
+                    "YGG",
                     "DAO"
                 ],
                 "PERSON": [
-                    "Dizon",
-                    "YGG"
+                    "Gabby Dizon",
+                    "Governance"
                 ]
             }
         },
@@ -534,11 +538,14 @@
             "pubDate": "Thu, 23 Sep 2021 20:46:10 -0000",
             "title": "MoFi Consensus \u2014 Keeping NFT assets safe, Frontrunning Opensea Insider Information, Snoop Dogg: I am @CozomoMedici, and Arbitrum.",
             "entities": {
-                "ORG": [
-                    "DAO"
-                ],
                 "PERSON": [
+                    "Punks Comic - Meta",
                     "Cozmo Medici"
+                ],
+                "ORG": [
+                    "Tezzards\nArt Blocks Subscapes",
+                    "Snoop Dog",
+                    "Arbitrum - Optimistic"
                 ]
             }
         },
@@ -569,9 +576,6 @@
                     "Chris Hutchins",
                     "Kevin",
                     "Chris"
-                ],
-                "WORK_OF_ART": [
-                    "the All The Hacks"
                 ],
                 "GPE": [
                     "Wealthfront"
@@ -604,25 +608,31 @@
                 "PERSON": [
                     "Kevin Rose",
                     "Art Blocks",
+                    "Fidenza",
                     "Avalanche Yield Farming",
-                    "Solana"
+                    "Art Blocks",
+                    "Kevin",
+                    "Fidenza Sale",
+                    "Tyler Hobbs"
                 ],
                 "ORG": [
                     "Feyyaz",
-                    "Fidenza",
+                    "ETH",
                     "NFT",
-                    "NFT",
-                    "NFT",
+                    "Solana",
                     "NFT",
                     "PAK",
-                    "Kevin\u2019s",
-                    "Fidenza"
+                    "XCOPY",
+                    "Luna and Anchor Protocol"
                 ],
                 "CARDINAL": [
                     "777"
                 ],
                 "MONEY": [
                     "35"
+                ],
+                "GPE": [
+                    "Avalanche"
                 ]
             }
         },
@@ -649,22 +659,25 @@
             "title": "The Solana Blockchain: Ethereum Killer or Piece of a Larger Puzzle",
             "entities": {
                 "PERSON": [
-                    "Anatoly Yakovenko",
-                    "Solana",
+                    "Yakovenko",
+                    "Founder",
                     "Kevin",
+                    "Solona",
                     "Solana",
-                    "Solana"
+                    "Kevin"
                 ],
                 "ORG": [
-                    "Founder",
-                    "Solona",
+                    "Solana",
                     "Neon Labs'",
                     "Ethereum",
+                    "Solana",
                     "Hardware",
-                    "Kevin",
                     "NFT"
                 ],
-                "LOC": [
+                "CARDINAL": [
+                    "L1"
+                ],
+                "FAC": [
                     "the Solana Blockchain"
                 ]
             }
@@ -693,14 +706,13 @@
             "entities": {
                 "PERSON": [
                     "Kevin Rose",
-                    "Cryptopunks"
+                    "Kevin"
                 ],
                 "WORK_OF_ART": [
                     "JPEG Summer"
                 ],
                 "ORG": [
-                    "Kevin",
-                    "NFT"
+                    "Cryptopunks"
                 ]
             }
         },
@@ -727,11 +739,12 @@
             "pubDate": "Tue, 10 Aug 2021 12:00:00 -0000",
             "title": "DEAFBEEF and the Craft of Generative Art",
             "entities": {
+                "ORG": [
+                    "DEAFBEEF",
+                    "DEAFBEEF"
+                ],
                 "PERSON": [
                     "Kevin"
-                ],
-                "ORG": [
-                    "DEAFBEEF"
                 ]
             }
         },
@@ -761,14 +774,15 @@
                 "PERSON": [
                     "Amy Wu",
                     "Kevin",
+                    "Metaverse"
+                ],
+                "ORG": [
+                    "Venture Partners",
+                    "FTX",
                     "Solana"
                 ],
                 "GPE": [
-                    "Arbitrum",
-                    "Axie Infinity"
-                ],
-                "ORG": [
-                    "FTX"
+                    "Arbitrum"
                 ]
             }
         },
@@ -798,21 +812,16 @@
                     "Priyanka Desai",
                     "Kevin"
                 ],
-                "ORG": [
-                    "VP of Operations",
-                    "Dow",
-                    "NFT"
-                ],
                 "DATE": [
                     "today",
                     "Today"
                 ],
-                "PRODUCT": [
-                    "Consensus",
-                    "Flamingo Dao"
+                "ORG": [
+                    "Dow",
+                    "Flamingo Dao",
+                    "NFT"
                 ],
                 "CARDINAL": [
-                    "2.0",
                     "3"
                 ]
             }
@@ -845,7 +854,9 @@
                     "2018"
                 ],
                 "PERSON": [
-                    "Kevin Rose",
+                    "Kevin Rose"
+                ],
+                "ORG": [
                     "Stani Kulechov"
                 ],
                 "PRODUCT": [
@@ -876,19 +887,14 @@
             "pubDate": "Tue, 20 Jul 2021 14:08:42 -0000",
             "title": "Zeta - DeFi Options Platform and Solana Season Hackathon Grand Prize Winner ",
             "entities": {
-                "ORG": [
-                    "Kevin",
-                    "Tristan",
-                    "Zeta"
-                ],
-                "GPE": [
-                    "DeFi"
-                ],
                 "PERSON": [
-                    "Solana"
+                    "Kevin",
+                    "Tristan"
                 ],
-                "WORK_OF_ART": [
-                    "the Grand Prize Winner"
+                "ORG": [
+                    "Zeta",
+                    "Solana",
+                    "the Solana Season Hackathon"
                 ]
             }
         },
@@ -920,21 +926,23 @@
                 "ORG": [
                     "Kevin & Feyyaz",
                     "Binance",
+                    "Dogecoin",
                     "NFT",
-                    "Chromie Squiggles",
+                    "Dolce & Gabbana",
+                    "Binance",
+                    "Dogecoin",
                     "Dolce & Gabbana"
                 ],
                 "GPE": [
                     "THORChain",
-                    "DeFi",
-                    "DeFi"
+                    "THORChain"
                 ],
                 "PERSON": [
                     "Jack Dorsey",
-                    "Damien Hirst",
+                    "Bitcoin",
+                    "Chromie Squiggles",
                     "Jack Dorsey",
-                    "Damien Hirst NFT",
-                    "Chromie Squiggles"
+                    "Damien Hirst NFT"
                 ]
             }
         },
@@ -962,10 +970,8 @@
             "pubDate": "Tue, 06 Jul 2021 14:05:00 -0000",
             "title": "Arweave - Store Data Forever With a New Type of Storage That Backs Data with Perpetual Endowments",
             "entities": {
-                "ORG": [
-                    "Kevin"
-                ],
                 "PERSON": [
+                    "Kevin",
                     "Sam Williams",
                     "Arweave"
                 ],
@@ -1001,20 +1007,18 @@
                 ],
                 "ORG": [
                     "Kevin & Aftab",
+                    "Art Blocks",
                     "NFT",
-                    "Punks Comics",
-                    "JPG",
-                    "MoFi"
+                    "DeFi",
+                    "BlockFi"
                 ],
                 "PERSON": [
+                    "Punks Comics",
+                    "JPG",
+                    "MoFi",
                     "Art Blocks",
-                    "Chromie Squiggles"
-                ],
-                "PRODUCT": [
-                    "EIP-1559"
-                ],
-                "GPE": [
-                    "DeFi"
+                    "Tyler Hobbs - Fidenza",
+                    "Punks Comic"
                 ]
             }
         },
@@ -1043,6 +1047,7 @@
             "title": "Tyler Hobbs - Designing NFT Generative Art with a Traditional Touch",
             "entities": {
                 "PERSON": [
+                    "Tyler Hobbs",
                     "Kevin"
                 ],
                 "ORG": [
@@ -1109,17 +1114,15 @@
                 ],
                 "ORG": [
                     "Kevin & Feyyaz",
+                    "Solana",
                     "NFT",
+                    "DeFi",
                     "Fidenza ArtBlocks",
                     "Fanzone",
                     "NFT"
                 ],
                 "PERSON": [
-                    "Solana",
                     "Tim Berners-Lee"
-                ],
-                "GPE": [
-                    "DeFi"
                 ]
             }
         },
@@ -1148,10 +1151,9 @@
             "title": "Universe & xyzDAO - Building a Sustainable NFT Ecosystem with Tyler Ward",
             "entities": {
                 "PERSON": [
-                    "Kevin"
-                ],
-                "WORK_OF_ART": [
-                    "Universe Protocol"
+                    "Tyler Ward",
+                    "Kevin",
+                    "xyzDAO"
                 ],
                 "ORG": [
                     "NFT"
@@ -1184,16 +1186,18 @@
                     "MoFi Consensus",
                     "Kevin",
                     "Feyyaz Alingan",
-                    "BlockFi"
+                    "Covid Alien"
                 ],
                 "DATE": [
                     "weekly"
                 ],
                 "GPE": [
-                    "El Salvador"
+                    "El Salvador\u2019s"
                 ],
                 "ORG": [
-                    "Satellite the Discord"
+                    "BlockFi",
+                    "Satellite the Discord",
+                    "BlockFi"
                 ],
                 "MONEY": [
                     "11.75"
@@ -1230,6 +1234,7 @@
                     "Ethereum"
                 ],
                 "PERSON": [
+                    "Scoopy Trooples",
                     "Kevin"
                 ]
             }
@@ -1260,30 +1265,32 @@
                     "MoFi Consensus",
                     "Kevin",
                     "Feyyaz Alingan",
-                    "Bored Ape Yacht Club"
+                    "Bored Ape Yacht Club",
+                    "BlockFi\nExodus Wallet\nLP University",
+                    "ThorChain Discord"
                 ],
                 "DATE": [
                     "weekly",
                     "2017"
                 ],
                 "ORG": [
-                    "DEX",
                     "NFT",
-                    "Matcha",
-                    "University (ThorChain Discord"
+                    "Uniswap",
+                    "Bored Ape Yacht Club",
+                    "DeGenData"
                 ],
                 "GPE": [
-                    "DeFi",
                     "India",
-                    "DeFi",
+                    "Matcha",
+                    "Gemini",
                     "India",
                     "China"
                 ],
                 "CARDINAL": [
                     "1inch"
                 ],
-                "PRODUCT": [
-                    "DeGenData"
+                "NORP": [
+                    "Bitcoin"
                 ]
             }
         },
@@ -1314,8 +1321,7 @@
                     "Anthony Pompliano"
                 ],
                 "ORG": [
-                    "Product & Growth",
-                    "Facebook"
+                    "Product & Growth"
                 ],
                 "MONEY": [
                     "more than $500 million"
@@ -1346,17 +1352,18 @@
             "pubDate": "Tue, 01 Jun 2021 20:00:00 -0000",
             "title": "FTX - Building Crypto Exchanges FTX and Serum with Sam Bankman-Fried",
             "entities": {
-                "ORG": [
+                "PERSON": [
                     "Kevin",
+                    "Sam Bankman-Fried",
+                    "Serum",
+                    "Solana",
+                    "Sam Bankman-Fried"
+                ],
+                "ORG": [
                     "FTX",
                     "FTX",
-                    "DEX",
                     "BIO",
                     "FTX"
-                ],
-                "PERSON": [
-                    "Sam Bankman-Fried",
-                    "Sam Bankman-Fried"
                 ]
             }
         },
@@ -1382,32 +1389,37 @@
             "pubDate": "Thu, 27 May 2021 13:30:00 -0000",
             "title": "MoFi Consensus - Weekly News and Crypto Talk w/ Kevin Rose & Feyyaz Alingan",
             "entities": {
-                "ORG": [
+                "PERSON": [
                     "MoFi Consensus",
-                    "NFT",
-                    "FTX",
-                    "NFT",
-                    "K-Compositions",
-                    "UST"
+                    "Kevin",
+                    "Feyyaz Alingan",
+                    "Episode",
+                    "Exodus",
+                    "Solana",
+                    "Nine Realms\nKevin's"
                 ],
                 "DATE": [
                     "weekly"
                 ],
-                "PERSON": [
-                    "Kevin",
-                    "Feyyaz Alingan",
-                    "Solana",
-                    "Kevin",
-                    "Ember Sword"
+                "ORG": [
+                    "NFT",
+                    "FTX",
+                    "NFT",
+                    "K-Compositions",
+                    "Alchemix",
+                    "UST",
+                    "Luna\nAnchor Protocol"
                 ],
                 "GPE": [
                     "US"
                 ],
-                "CARDINAL": [
-                    "Nine"
+                "NORP": [
+                    "Cryptoslam"
                 ],
-                "WORK_OF_ART": [
-                    "TerraUSD",
+                "PRODUCT": [
+                    "Ember Sword"
+                ],
+                "CARDINAL": [
                     "0xdeafbeef"
                 ]
             }
@@ -1440,11 +1452,14 @@
                     "Brendan Eich",
                     "Kevin",
                     "Brendan Eich",
-                    "JavaScript"
+                    "Mozilla",
+                    "Firefox",
+                    "Brave Browser"
                 ],
                 "ORG": [
                     "IPFS",
-                    "Mozilla and Firefox",
+                    "the\u00a0Basic Attention Token",
+                    "JavaScript",
                     "Brave Software"
                 ]
             }
@@ -1475,8 +1490,12 @@
             "entities": {
                 "PERSON": [
                     "Kevin",
+                    "Priyanka Desai",
                     "Aaron Wright",
-                    "Aaron Wright"
+                    "Priyanka Desai",
+                    "OpenLaw",
+                    "Aaron Wright",
+                    "OpenLaw"
                 ],
                 "ORG": [
                     "NFT",
@@ -1511,11 +1530,16 @@
             "entities": {
                 "PERSON": [
                     "Kevin",
+                    "Zac Prince",
+                    "BlockFi",
                     "Matt Ballensweig",
+                    "Zac Prince",
+                    "BlockFi",
                     "Matthew Ballensweig"
                 ],
                 "ORG": [
-                    "@BlockFiZac"
+                    "Genesis",
+                    "Genesis"
                 ]
             }
         },
@@ -1546,18 +1570,21 @@
                 "PERSON": [
                     "Evan Shapiro",
                     "Kevin",
-                    "Evan Shapiro"
-                ],
-                "ORG": [
                     "Mina",
-                    "@evanashapiro",
-                    "the Modern Finance Newsletter"
+                    "Evan Shapiro"
                 ],
                 "CARDINAL": [
                     "22"
                 ],
                 "DATE": [
                     "today"
+                ],
+                "ORG": [
+                    "BIO",
+                    "the Modern Finance Newsletter"
+                ],
+                "PRODUCT": [
+                    "Subscribe"
                 ]
             }
         },
@@ -1620,11 +1647,15 @@
             "pubDate": "Tue, 27 Apr 2021 13:10:00 -0000",
             "title": "Art Blocks - Generative NFT Art with Erick Snowfro",
             "entities": {
-                "ORG": [
-                    "Snowfro"
-                ],
                 "PERSON": [
-                    "Kevin"
+                    "Art Blocks",
+                    "Kevin",
+                    "Erick",
+                    "Art Blocks"
+                ],
+                "ORG": [
+                    "Snowfro",
+                    "Snowfro"
                 ],
                 "GPE": [
                     "Houston"
@@ -1662,18 +1693,16 @@
             "title": "The Potential DeFi Collapse, Bull & Bear Markets, and MobileCoin with Ari Paul",
             "entities": {
                 "ORG": [
-                    "BlockTower Capital Founder and",
-                    "ETF",
+                    "BlockTower Capital Founder",
+                    "DeFi",
                     "the Co-Founder and CIO",
-                    "BlockTower Capital"
+                    "BlockTower Capital",
+                    "LINKS & SHOW"
                 ],
                 "PERSON": [
                     "Ari Paul",
                     "Kevin",
-                    "Ari Paul\u00a0"
-                ],
-                "GPE": [
-                    "DeFi"
+                    "Ari Paul"
                 ],
                 "PRODUCT": [
                     "MobileCoin"
@@ -1707,41 +1736,41 @@
             "pubDate": "Tue, 13 Apr 2021 21:11:00 -0000",
             "title": "The Sandbox - A New Blockchain Based Virtual Gaming World Built on NFTs with Sebastien Borget",
             "entities": {
-                "ORG": [
-                    "SUMMARY\nThe",
-                    "Sandbox's Sebastien Borget",
-                    "the Co-Founder",
-                    "The Blockchain Game Alliance",
+                "PERSON": [
                     "Sandbox",
-                    "Ethereum",
+                    "Kevin",
+                    "Sandbox",
+                    "Sandbox",
+                    "Sandbox",
+                    "Sandbox",
+                    "Sandbox",
+                    "Sandbox",
+                    "Sandbox",
+                    "SAND",
+                    "Sandbox",
+                    "Sandbox",
+                    "Sandbox",
+                    "Sandbox",
+                    "Sandbox",
+                    "Sandbox",
+                    "Sandbox",
+                    "Sandbox",
                     "Sandbox"
                 ],
-                "PERSON": [
-                    "Kevin",
+                "ORG": [
+                    "Sebastien Borget",
+                    "BIO\nSebastien Borget @borgetsebastien",
+                    "the Co-Founder",
                     "COO",
-                    "Sandbox",
-                    "Sandbox",
-                    "Sandbox",
-                    "CryptoPunks",
-                    "Sandbox",
+                    "The Blockchain Game Alliance",
                     "Sebastien",
-                    "Sandbox"
+                    "Ethereum"
                 ],
                 "CARDINAL": [
                     "two",
-                    "03:04",
-                    "11:31",
-                    "12:36",
+                    "00:46",
                     "14:51",
-                    "one",
-                    "17:32",
-                    "22:26",
-                    "26:07",
-                    "26:48",
-                    "29:39",
-                    "30:18",
-                    "31:50",
-                    "33:27"
+                    "one"
                 ],
                 "DATE": [
                     "nearly 14 years",
@@ -1749,8 +1778,15 @@
                     "today",
                     "today"
                 ],
-                "FAC": [
+                "GPE": [
+                    "Sebastien",
                     "Sebastien"
+                ],
+                "PRODUCT": [
+                    "Sandbox",
+                    "Sandbox",
+                    "Sandbox",
+                    "CryptoPunks"
                 ],
                 "ORDINAL": [
                     "first"
@@ -1786,6 +1822,7 @@
                     "CryptoPunks",
                     "Ethereum",
                     "CryptoPunks",
+                    "CryptoPunks",
                     "NFT",
                     "CryptoPunks",
                     "Ethereum",
@@ -1793,26 +1830,18 @@
                     "CryptoPunks",
                     "CryptoPunks",
                     "CryptoPunks",
+                    "NFT",
                     "CryptoPunks",
                     "NFT",
-                    "NFT",
+                    "CryptoPunks",
                     "CryptoPunks",
                     "NFT"
                 ],
                 "CARDINAL": [
                     "10,000",
                     "10,000",
-                    "12:58",
                     "one",
-                    "30:09",
-                    "32:25",
-                    "35:00",
-                    "42:59",
-                    "44:45",
-                    "45:41",
-                    "48:21",
-                    "two",
-                    "55:01"
+                    "two"
                 ],
                 "PERSON": [
                     "Matt Hall",
@@ -1831,11 +1860,13 @@
                     "Matt",
                     "John",
                     "Matt",
-                    "John notice CryptoPunks",
+                    "John",
+                    "CryptoPunks",
                     "Matt",
                     "John",
                     "Matt",
                     "John",
+                    "Autoglyphs",
                     "Matt",
                     "John",
                     "Matt",
@@ -1850,12 +1881,9 @@
                     "June 2017"
                 ],
                 "PRODUCT": [
-                    "CryptoPunks",
-                    "CryptoPunks",
                     "CryptoPunks"
                 ],
                 "NORP": [
-                    "Autoglyphs",
                     "Autoglyphs",
                     "Autoglyphs",
                     "Autoglyphs"
@@ -1892,45 +1920,34 @@
             "entities": {
                 "ORG": [
                     "@beeple",
+                    "Justin Bieber",
                     "Eminem",
                     "NFT",
-                    "Beeple",
                     "SC",
-                    "Beeple",
-                    "Beeple",
-                    "Beeple",
-                    "Beeple",
+                    "VJ",
                     "NFT",
                     "NFT",
                     "Beeple",
-                    "Beeple",
-                    "Beeple",
-                    "Beeple",
+                    "Dick-Milking Factory",
                     "Beeple",
                     "NFT",
-                    "Beeple"
+                    "Beeple",
+                    "Digital"
                 ],
                 "PERSON": [
                     "Mike Winkelmann",
-                    "Justin Bieber",
                     "Katy Perry",
-                    "Nicki Minaj"
+                    "Nicki Minaj",
+                    "deadmau5",
+                    "Beeple",
+                    "Hot Pockets"
                 ],
                 "CARDINAL": [
-                    "One",
-                    "07:18",
-                    "16:09",
-                    "29:36",
-                    "37:59",
-                    "40:54",
-                    "49:16",
-                    "52:16",
-                    "52:45"
+                    "One"
                 ],
                 "GPE": [
                     "Zedd",
-                    "Charleston",
-                    "Beeple"
+                    "Charleston"
                 ],
                 "ORDINAL": [
                     "first",
@@ -1939,6 +1956,9 @@
                 ],
                 "MONEY": [
                     "69,346,250"
+                ],
+                "FAC": [
+                    "Beeple"
                 ],
                 "DATE": [
                     "just a few months ago",
@@ -1973,65 +1993,49 @@
             "entities": {
                 "PERSON": [
                     "Chris Hutchins",
+                    "@hutchins",
+                    "Milk",
                     "Chris",
                     "Chris",
                     "Pointsmaster",
+                    "Bitcoin",
                     "Chris",
                     "Chris",
+                    "Twitter",
                     "Jack Dorsey",
                     "Chris",
-                    "Gemini",
                     "Chris",
                     "Yearn",
                     "Chris",
-                    "Coinbase",
                     "Chris",
                     "Chris",
                     "Chris",
+                    "Dude",
                     "Alienware",
                     "Chris",
                     "Chris"
                 ],
+                "GPE": [
+                    "Wealthfront",
+                    "Wealthfront",
+                    "Wealthfront",
+                    "Gemini",
+                    "Gemini"
+                ],
                 "ORG": [
-                    "Autonomous Financial Planning",
+                    "Grove",
                     "Google",
-                    "GV",
                     "BlockFi",
                     "CryptoPunks",
                     "USDC",
                     "Dell",
                     "NFT"
                 ],
-                "GPE": [
-                    "Wealthfront",
-                    "Wealthfront",
-                    "Wealthfront",
-                    "DeFi",
-                    "DeFi"
-                ],
-                "WORK_OF_ART": [
-                    "Grove"
-                ],
                 "DATE": [
-                    "his 18 months",
-                    "payday"
-                ],
-                "PRODUCT": [
-                    "Twitter"
+                    "his 18 months"
                 ],
                 "CARDINAL": [
-                    "08:38",
-                    "10:57",
-                    "11:54",
                     "12:32",
-                    "21:11",
-                    "21:43",
-                    "30:37",
-                    "31:17",
-                    "33:38",
-                    "33:56",
-                    "36:35",
-                    "43:19",
                     "44:38",
                     "Four",
                     "1:03:54",
@@ -2039,14 +2043,24 @@
                     "five",
                     "1:05:31"
                 ],
+                "TIME": [
+                    "21:11",
+                    "21:43",
+                    "43:19",
+                    "20 seconds"
+                ],
+                "PRODUCT": [
+                    "Coinbase",
+                    "ShopRunner"
+                ],
                 "MONEY": [
                     "150"
                 ],
+                "WORK_OF_ART": [
+                    "Cashback Monitor:"
+                ],
                 "ORDINAL": [
                     "first"
-                ],
-                "TIME": [
-                    "20 seconds"
                 ]
             }
         },
@@ -2078,71 +2092,68 @@
                 "PERSON": [
                     "Bram Cohen",
                     "Bram",
+                    "Chia",
+                    "Bram",
+                    "Bitcoin",
+                    "Chia",
                     "Bram",
                     "Chia",
                     "Chia",
                     "Chia",
+                    "Chia",
+                    "Bitcoin",
+                    "Chia",
+                    "Efforts Bram",
+                    "Chia",
+                    "Bram see Chia",
                     "Bram",
                     "Chia",
-                    "Chia",
+                    "Bram",
+                    "Filecoin",
+                    "Bram",
+                    "Bitcoin",
                     "Satoshi Nakamoto",
-                    "Bram Satoshi",
+                    "Bram Satoshi Nakamoto",
                     "Bram",
                     "Bitcoin",
                     "Bram",
+                    "Chia",
+                    "Chia"
+                ],
+                "GPE": [
+                    "@bramcohen",
                     "Chia"
                 ],
                 "ORG": [
-                    "@bramcohen",
+                    "BitTorrent",
                     "CodeCon",
                     "Codeville",
                     "Founder",
-                    "Chia",
                     "ASIC",
-                    "Chia",
-                    "Uniswap on Chia",
-                    "Chia",
-                    "Chia",
-                    "NFT",
-                    "Bram"
+                    "Timelords",
+                    "SSD",
+                    "NFT"
                 ],
                 "CARDINAL": [
-                    "02:56",
                     "one",
-                    "07:25",
-                    "10:30",
-                    "12:45",
-                    "13:19",
-                    "14:21",
                     "16:39",
-                    "20:48",
                     "22:25",
-                    "23:55",
-                    "24:55",
-                    "26:34",
                     "28:35",
-                    "30:26",
                     "31:09",
                     "32:06",
-                    "33:25",
-                    "41:53",
-                    "42:28",
-                    "44:00"
+                    "33:25"
                 ],
                 "NORP": [
-                    "Timelords"
+                    "Bitcoin"
+                ],
+                "TIME": [
+                    "10:30"
                 ],
                 "ORDINAL": [
                     "second"
                 ],
-                "GPE": [
-                    "DeFi"
-                ],
                 "DATE": [
                     "three to five years from now"
-                ],
-                "WORK_OF_ART": [
-                    "Filecoin"
                 ]
             }
         },
@@ -2173,10 +2184,9 @@
             "entities": {
                 "PERSON": [
                     "Aftab Hossain",
+                    "Aftab",
+                    "Aftab",
                     "Aftab"
-                ],
-                "PRODUCT": [
-                    "Twitter"
                 ],
                 "WORK_OF_ART": [
                     "DeFi"
@@ -2186,8 +2196,6 @@
                     "NFT",
                     "NFT",
                     "NFT",
-                    "Marvel",
-                    "Magic",
                     "NFT",
                     "NFT",
                     "Etherium",
@@ -2200,30 +2208,27 @@
                     "Ponzi",
                     "NFT"
                 ],
-                "CARDINAL": [
-                    "02:20",
-                    "#1",
-                    "11:44",
-                    "15:26",
-                    "26:49",
-                    "40:32",
-                    "two",
-                    "45:02",
-                    "48:10",
-                    "53:43",
-                    "1:01:12"
-                ],
                 "DATE": [
                     "decades",
                     "today",
                     "every day"
                 ],
                 "GPE": [
-                    "DeFi"
+                    "Marvel"
+                ],
+                "MONEY": [
+                    "1"
+                ],
+                "PRODUCT": [
+                    "Magic"
                 ],
                 "ORDINAL": [
                     "first",
                     "first"
+                ],
+                "CARDINAL": [
+                    "two",
+                    "1:01:12"
                 ]
             }
         }
@@ -2281,28 +2286,26 @@
     ],
     "title": "Modern Finance",
     "entities": {
-        "GPE": [
-            "DeFi",
-            "Businessweek"
+        "ORG": [
+            "Modern Finance",
+            "Time Magazine",
+            "Inc. Magazine"
         ],
         "PERSON": [
             "Kevin Rose",
-            "Kevin",
+            "Kevin one",
             "Bloomberg",
             "Kevin",
             "Charlie Rose Show"
         ],
-        "ORG": [
-            "Time Magazine",
-            "Inc. Magazine"
-        ],
         "CARDINAL": [
-            "one",
-            "25",
             "25"
         ],
-        "LAW": [
+        "PRODUCT": [
             "the Jimmy Fallon Show"
+        ],
+        "GPE": [
+            "Businessweek"
         ]
     }
 }

@@ -42,11 +42,20 @@
             "entities": {
                 "PERSON": [
                     "Frank Sinatra",
-                    "Chalino Sanchez",
-                    "Futuro Studios"
+                    "Tupac",
+                    "Chalino Sanchez"
                 ],
                 "TIME": [
                     "every night"
+                ],
+                "GPE": [
+                    "waistband"
+                ],
+                "DATE": [
+                    "Today"
+                ],
+                "ORG": [
+                    "Futuro Studios"
                 ],
                 "WORK_OF_ART": [
                     "\u00cddolo: The Ballad of Chalino S\u00e1nchez",
@@ -54,9 +63,6 @@
                 ],
                 "CARDINAL": [
                     "8"
-                ],
-                "PRODUCT": [
-                    "the \u201cKing of Corridos"
                 ],
                 "ORDINAL": [
                     "first"
@@ -95,6 +101,7 @@
             "title": "BONUS: Selena and Chris",
             "entities": {
                 "PERSON": [
+                    "Maria",
                     "Joshua Tree",
                     "Chris Perez",
                     "Chris",
@@ -107,6 +114,9 @@
                     "Selena",
                     "Selena",
                     "Selena"
+                ],
+                "CARDINAL": [
+                    "one"
                 ]
             }
         },
@@ -141,11 +151,6 @@
             "pubDate": "Wed, 03 Mar 2021 22:06:18 -0500",
             "title": "BONUS: Anything for Selena Live!",
             "entities": {
-                "ORG": [
-                    "Q&A",
-                    "Selena",
-                    "WBUR"
-                ],
                 "PERSON": [
                     "Maria Garcia",
                     "Antonia Cereijido",
@@ -153,6 +158,10 @@
                 ],
                 "GPE": [
                     "Anything"
+                ],
+                "ORG": [
+                    "Selena",
+                    "WBUR"
                 ]
             }
         },
@@ -187,19 +196,19 @@
             "pubDate": "Sat, 13 Mar 2021 17:17:34 -0500",
             "title": "Selena y nosotros",
             "entities": {
-                "ORG": [
-                    "el final de la serie Anything for"
-                ],
                 "GPE": [
+                    "Anything",
+                    "revela"
+                ],
+                "ORG": [
                     "Selena",
-                    "Selena"
+                    "a\u00f1o de an\u00e1lisis del legado de Selena"
                 ],
                 "PERSON": [
-                    "Maria reflexiona",
-                    "sobre lo",
-                    "su a\u00f1o de an\u00e1lisis",
-                    "sobre la",
-                    "de La Reina"
+                    "Maria"
+                ],
+                "FAC": [
+                    "la humanidad de La Reina"
                 ]
             }
         },
@@ -235,7 +244,10 @@
             "title": "Selena and Us",
             "entities": {
                 "GPE": [
-                    "Anything",
+                    "Anything"
+                ],
+                "ORG": [
+                    "Selena",
                     "Selena"
                 ],
                 "PERSON": [
@@ -244,9 +256,6 @@
                 ],
                 "DATE": [
                     "year-long"
-                ],
-                "ORG": [
-                    "Selena"
                 ]
             }
         },
@@ -281,16 +290,18 @@
             "pubDate": "Fri, 12 Mar 2021 18:44:52 -0500",
             "title": "Selena y raza",
             "entities": {
-                "ORG": [
-                    "algunos fans se\u00f1alaron"
-                ],
                 "PERSON": [
-                    "Maria analiza",
-                    "su exploraci\u00f3n de la raza",
-                    "de su propia"
+                    "de la",
+                    "Maria",
+                    "su exploraci\u00f3n de la",
+                    "de su"
                 ],
-                "GPE": [
-                    "del legado de la reina"
+                "ORG": [
+                    "Selena en Netflix",
+                    "qu\u00e9 la tez morena de Selena"
+                ],
+                "FAC": [
+                    "del legado de la reina del tex-mex"
                 ]
             }
         },
@@ -325,16 +336,17 @@
             "pubDate": "Tue, 23 Feb 2021 16:42:06 -0500",
             "title": "Selena and Race",
             "entities": {
-                "GPE": [
-                    "Netflix"
-                ],
                 "ORG": [
+                    "Selena",
                     "Selena",
                     "Selena",
                     "Selena"
                 ],
+                "GPE": [
+                    "Netflix"
+                ],
                 "PERSON": [
-                    "Maria analyzes",
+                    "Maria",
                     "Maria"
                 ]
             }
@@ -371,27 +383,27 @@
             "title": "Selena y la Internet",
             "entities": {
                 "ORG": [
+                    "Un",
                     "Selena",
-                    "la imagen y la m\u00fasica de Selena",
-                    "Instagram",
                     "TikTok",
                     "YouTube",
+                    "presentar de nuevas",
+                    "formas",
                     "un",
-                    "el que",
-                    "los",
-                    "el vac\u00edo"
+                    "el que los",
+                    "Selena"
                 ],
                 "PERSON": [
-                    "adquirido nueva",
-                    "a\u00fan viv\u00eda",
-                    "restaurar y presentar de nuevas",
-                    "Maria explora"
+                    "de siglo despu\u00e9s de su muerte",
+                    "que eran inimaginables cuando ella",
+                    "de todas las edades",
+                    "Maria explora",
+                    "honran",
+                    "recuerdan",
+                    "el vac\u00edo que dej\u00f3.</p"
                 ],
-                "FAC": [
-                    "la memoria de Selena"
-                ],
-                "GPE": [
-                    "Selena"
+                "NORP": [
+                    "han"
                 ]
             }
         },
@@ -427,9 +439,10 @@
             "title": "Selena and the Internet",
             "entities": {
                 "DATE": [
-                    "quarter century"
+                    "A quarter century"
                 ],
                 "ORG": [
+                    "Selena",
                     "Selena",
                     "Selena",
                     "Instagram",
@@ -439,7 +452,7 @@
                 ],
                 "PERSON": [
                     "Youtube",
-                    "Maria explores"
+                    "Maria"
                 ]
             }
         },
@@ -476,21 +489,22 @@
             "entities": {
                 "ORG": [
                     "Selena",
-                    "cri\u00f3 hablando espa\u00f1ol en casa",
-                    "los",
-                    "el spanglish de Selena",
+                    "el idioma de",
                     "un"
                 ],
                 "PERSON": [
-                    "carrera",
+                    "hablando espa\u00f1ol",
                     "Aprendi\u00f3",
-                    "vista del p\u00fablico",
                     "Maria explora",
-                    "revolucionario para su \u00e9poca",
+                    "el spanglish de Selena",
+                    "tan revolucionario",
+                    "para su",
+                    "tan familiar para",
                     "nos lleva"
                 ],
                 "GPE": [
-                    "la misma"
+                    "casa",
+                    "la vista del p\u00fablico"
                 ]
             }
         },
@@ -527,18 +541,15 @@
             "entities": {
                 "PERSON": [
                     "Selena Quintanilla",
-                    "Maria explores"
+                    "Maria"
                 ],
                 "NORP": [
                     "Spanish",
                     "Spanish",
-                    "Spanglish"
-                ],
-                "LANGUAGE": [
                     "Spanish"
                 ],
                 "ORG": [
-                    "Selena\u2019s"
+                    "Selena"
                 ]
             }
         },
@@ -573,30 +584,35 @@
             "pubDate": "Tue, 09 Mar 2021 14:32:06 -0500",
             "title": "Tensi\u00f3n tejana ",
             "entities": {
-                "WORK_OF_ART": [
-                    "reina de la m\u00fasica tejana"
-                ],
                 "PERSON": [
-                    "d\u00e9cada de",
-                    "quien elev\u00f3",
-                    "Incluso el",
-                    "Pero",
-                    "pas\u00f3 de la gloria",
-                    "Maria descubre"
+                    "reina de la",
+                    "elev\u00f3",
+                    "g\u00e9nero del",
+                    "tejana eran",
+                    "dedicadas al g\u00e9nero eran",
+                    "estrellas de rock",
+                    "el g\u00e9nero latino de m\u00e1s r\u00e1pido crecimiento",
+                    "tejana pas\u00f3 de la gloria",
+                    "la historia de su",
+                    "Maria",
+                    "historia de inmigraci\u00f3n"
                 ],
                 "DATE": [
                     "1990"
                 ],
                 "ORG": [
-                    "fue ella",
-                    "Las ceremonias de premiaci\u00f3n de la m\u00fasica",
-                    "New York Times",
-                    "el g\u00e9nero",
-                    "la m\u00fasica",
-                    "la historia de su declive"
+                    "fue",
+                    "como",
+                    "de Estados Unidos",
+                    "Incluso el New York Times",
+                    "Selena",
+                    "Sin"
                 ],
                 "GPE": [
-                    "Texas"
+                    "m\u00fasica",
+                    "Texas",
+                    "el resto",
+                    "la m\u00fasica"
                 ]
             }
         },
@@ -631,17 +647,14 @@
             "pubDate": "Tue, 02 Feb 2021 14:25:05 -0500",
             "title": "Tejano Tension",
             "entities": {
-                "CARDINAL": [
-                    "5",
-                    "two"
-                ],
                 "ORG": [
                     "Selena",
+                    "Tejano",
                     "the New York Times",
                     "Tejano"
                 ],
-                "WORK_OF_ART": [
-                    "Queen of Tejano"
+                "LAW": [
+                    "the \"Queen of Tejano"
                 ],
                 "DATE": [
                     "the 1990s"
@@ -656,6 +669,9 @@
                     "Latino",
                     "Selena",
                     "Maria"
+                ],
+                "CARDINAL": [
+                    "two"
                 ]
             }
         },
@@ -692,24 +708,33 @@
             "entities": {
                 "GPE": [
                     "los noventa",
+                    "la cultura",
                     "los traseros",
-                    "los traseros"
+                    "raza",
+                    "la cultura latina"
                 ],
                 "WORK_OF_ART": [
-                    "Baby Got Back",
-                    "belfie queen\" Jen Selter"
+                    "Baby Got Back"
                 ],
                 "PERSON": [
-                    "la obsesi\u00f3n",
-                    "Cardi B y",
-                    "Beyonc\u00e9",
+                    "Mix-A-Lot",
+                    "Cardi B",
                     "Kim Kardashian",
-                    "pasaron de tab\u00fa",
-                    "sobre la anti"
+                    "Jen Selter",
+                    "su",
+                    "la pol\u00edtica de los traseros"
                 ],
                 "ORG": [
-                    "Tambi\u00e9n",
-                    "Selena"
+                    "Hoy",
+                    "la obsesi\u00f3n",
+                    "pasaron de tab\u00fa",
+                    "Selena",
+                    "JLO",
+                    "Ella",
+                    "conversaci\u00f3n postergada"
+                ],
+                "NORP": [
+                    "belfie"
                 ]
             }
         },
@@ -749,8 +774,9 @@
                     "Today"
                 ],
                 "PERSON": [
-                    "-Mix-A-Lot\u2019s",
+                    "-Mix-A-Lot",
                     "Cardi B",
+                    "Beyonce",
                     "Kim Kardashian",
                     "Jen Selter",
                     "Maria",
@@ -760,8 +786,10 @@
                     "Baby Got Back"
                 ],
                 "ORG": [
-                    "Beyonce",
-                    "Selena",
+                    "selfie",
+                    "Selena"
+                ],
+                "PRODUCT": [
                     "Latinx"
                 ]
             }
@@ -797,20 +825,22 @@
             "pubDate": "Sun, 07 Mar 2021 17:33:14 -0500",
             "title": "Nace un s\u00edmbolo ",
             "entities": {
-                "PERSON": [
-                    "Selena se convirti\u00f3 en un s\u00edmbolo de esperanza",
-                    "luego de su muerte",
-                    "nos revela",
-                    "Maria le sigue la pista",
-                    "Selena se",
-                    "s\u00edmbolo de solidaridad y resistencia mientras conversa",
-                    "Curly Velasquez de Pero"
-                ],
-                "GPE": [
-                    "el modelo"
-                ],
                 "ORG": [
-                    "los Latinos"
+                    "Selena",
+                    "un",
+                    "el modelo",
+                    "para todos los Latinos",
+                    "sigue la",
+                    "Curly Velasquez de Pero Like.</p"
+                ],
+                "PERSON": [
+                    "manifestaci\u00f3n de una",
+                    "oculta luego de su",
+                    "nos revela",
+                    "historia",
+                    "Maria",
+                    "Selena",
+                    "s\u00edmbolo de solidaridad"
                 ]
             }
         },
@@ -847,18 +877,18 @@
             "entities": {
                 "ORG": [
                     "Selena",
+                    "Latinos",
                     "Selena",
                     "Selena"
-                ],
-                "PERSON": [
-                    "Latinos",
-                    "Maria"
                 ],
                 "NORP": [
                     "American"
                 ],
                 "DATE": [
                     "the 25 years"
+                ],
+                "PERSON": [
+                    "Maria"
                 ]
             }
         },
@@ -895,23 +925,21 @@
             "entities": {
                 "ORG": [
                     "Selena",
-                    "un",
+                    "como un \u00edcono",
+                    "como",
                     "el padre de Selena",
-                    "Mar\u00eda"
+                    "Mar\u00eda repasa el legado"
                 ],
                 "NORP": [
-                    "sino tambi\u00e9n"
+                    "sino"
                 ],
                 "PERSON": [
-                    "persona",
-                    "la lleva",
                     "Abraham Quintanilla",
-                    "de Abraham y conversa con la autora",
                     "Yesika Salgado",
-                    "quien reflexiona sobre la relaci\u00f3n"
+                    "reflexiona"
                 ],
                 "GPE": [
-                    "el legado complicado"
+                    "las familias latinas"
                 ]
             }
         },
@@ -946,18 +974,18 @@
             "pubDate": "Tue, 12 Jan 2021 16:24:24 -0500",
             "title": "Selena and Abraham",
             "entities": {
-                "ORG": [
-                    "Selena",
-                    "Selena Quintanilla\u2019s",
-                    "Latinx"
-                ],
-                "GPE": [
-                    "Corpus Christi"
-                ],
                 "PERSON": [
-                    "Maria\u2019s",
+                    "Maria",
+                    "Maria",
                     "Abraham Quintanilla",
-                    "Maria confronts"
+                    "Selena Quintanilla\u2019s",
+                    "Maria"
+                ],
+                "ORG": [
+                    "Selena"
+                ],
+                "PRODUCT": [
+                    "Latinx"
                 ]
             }
         },
@@ -992,28 +1020,24 @@
             "pubDate": "Fri, 05 Mar 2021 16:06:17 -0500",
             "title": "Selena y yo",
             "entities": {
+                "PERSON": [
+                    "su ni\u00f1ez",
+                    "Mar\u00eda Garc\u00eda",
+                    "la mexicana",
+                    "Mar\u00eda Garc\u00eda",
+                    "Mar\u00eda Hinojosa"
+                ],
                 "ORG": [
                     "Estados Unidos",
                     "Selena",
-                    "u otra",
-                    "Selena la ayud\u00f3",
-                    "el mundo"
+                    "el episodio de estreno de \u201c",
+                    "Selena la"
                 ],
-                "PERSON": [
-                    "mexicana y la estadounidense",
-                    "persona",
-                    "de estreno de \u201c",
-                    "la conductora Mar\u00eda Garc\u00eda",
-                    "su propio"
+                "GPE": [
+                    "M\u00e9xico"
                 ],
                 "WORK_OF_ART": [
                     "Anything for Selena"
-                ],
-                "PRODUCT": [
-                    "muy"
-                ],
-                "GPE": [
-                    "Mar\u00eda Hinojosa"
                 ]
             }
         },
@@ -1049,7 +1073,8 @@
             "title": "Selena and Me ",
             "entities": {
                 "GPE": [
-                    "US"
+                    "US",
+                    "Mexico"
                 ],
                 "PERSON": [
                     "Maria Garcia",
@@ -1106,8 +1131,8 @@
                 "PERSON": [
                     "Maria Garcia",
                     "Maria",
-                    "Maria explores",
-                    "Maria\u2019s"
+                    "Maria",
+                    "Maria"
                 ],
                 "DATE": [
                     "9 years old",
@@ -1157,7 +1182,7 @@
         "summary": "On the podcast Anything for Selena, Apple Podcasts\u2019 Show of the Year of 2021, Maria Garc\u00eda combines rigorous reporting with impassioned storytelling to honor Selena's legacy. She also explores the indelible mark she left on Latino identity and belonging, whether it\u2019s fatherhood, big-butt politics, and the fraught relationship with whiteness and language. "
     },
     "language": "en-us",
-    "lastBuildDate": "Sat, 23 Apr 2022 22:26:44 -0400",
+    "lastBuildDate": "Fri, 27 May 2022 15:26:58 -0400",
     "link": "http://www.wbur.org/podcasts/anythingforselena",
     "paginationLinks": {
         "self": "https://rss.wbur.org/anythingforselena/podcast"
@@ -1172,12 +1197,14 @@
     ],
     "title": "Anything For Selena",
     "entities": {
+        "GPE": [
+            "Anything",
+            "Latino"
+        ],
         "ORG": [
             "Selena",
+            "Apple Podcasts\u2019 Show of the Year of 2021",
             "Selena"
-        ],
-        "DATE": [
-            "2021"
         ],
         "PERSON": [
             "Maria Garc\u00eda"

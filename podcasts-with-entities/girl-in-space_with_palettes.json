@@ -35,17 +35,32 @@
             "pubDate": "Fri, 17 Apr 2020 14:50:32 +0000",
             "title": "BONUS: Prelude to Mutiny 12-MP01",
             "entities": {
+                "WORK_OF_ART": [
+                    "class=\"cPT",
+                    "Helvetica Neue'"
+                ],
+                "PERSON": [
+                    "Segoe UI'",
+                    "Kai",
+                    "Chen",
+                    "Dani",
+                    "Season 2",
+                    "George Telonis</p",
+                    "Sarah Golding</p",
+                    "Keane",
+                    "Tim Krause</p",
+                    "Sarah Rhea"
+                ],
                 "GPE": [
-                    "Roboto",
-                    "Oxygen"
+                    "Roboto"
                 ],
                 "ORG": [
                     "Cantarell",
                     "Caldwell Enterprises",
-                    "Patreon"
+                    "PRELUDE"
                 ],
-                "WORK_OF_ART": [
-                    "Helvetica Neue'"
+                "PRODUCT": [
+                    "Cavatica"
                 ],
                 "CARDINAL": [
                     "five",
@@ -54,26 +69,12 @@
                 "TIME": [
                     "10-minute"
                 ],
-                "PERSON": [
-                    "Kai",
-                    "Chen",
-                    "Dani",
-                    "George Telonis</p>",
-                    "Fixer Breckenridge",
-                    "Sarah Golding</p",
-                    "Keane",
-                    "Tim Krause</p> <",
-                    "Sarah Rhea"
-                ],
                 "MONEY": [
                     "5+/month",
                     "$5 USD"
                 ],
-                "DATE": [
-                    "Season 2"
-                ],
-                "PRODUCT": [
-                    "Van Gaal"
+                "FAC": [
+                    "Patreon"
                 ]
             }
         },
@@ -103,9 +104,6 @@
             "pubDate": "Sun, 18 Aug 2019 13:43:01 +0000",
             "title": "113: Force Of Nature",
             "entities": {
-                "CARDINAL": [
-                    "113"
-                ],
                 "DATE": [
                     "Season One",
                     "Season 2"
@@ -114,20 +112,23 @@
                     "Miles Chen",
                     "Singh",
                     "Elizabeth",
+                    "Rousseau",
+                    "Kay Krause</p",
                     "Sarah Rhea",
-                    "Kay Krause</p> <p>Voice of Cyrus",
-                    "Jamie Killen</p>",
-                    "George Telonis</p> <",
-                    "Sarah Rhea"
+                    "Kay Krause</p",
+                    "Jamie Killen</p",
+                    "George Telonis</p",
+                    "Sarah Rhea",
+                    "https://www.teepublic.com/stores/girl-in-space-podcast?ref_id=5159</a></span></p"
                 ],
-                "GPE": [
-                    "A.R."
+                "NORP": [
+                    "Ra"
+                ],
+                "FAC": [
+                    "Patreon"
                 ],
                 "WORK_OF_ART": [
-                    "Liz\" Rousseau:"
-                ],
-                "ORG": [
-                    "Patreon"
+                    "Girl In Space MERCH"
                 ]
             }
         },
@@ -158,24 +159,27 @@
             "title": "112: Find Me",
             "entities": {
                 "CARDINAL": [
-                    "112",
-                    "3</p"
-                ],
-                "PERSON": [
-                    "Sarah Rhea",
-                    "Singh",
-                    "Kay Krause</p> <p>Voice of Cyrus",
-                    "Jamie Killen</p>",
-                    "Sarah Rhea"
-                ],
-                "GPE": [
-                    "A.R."
-                ],
-                "PRODUCT": [
-                    "Van Gaal"
+                    "112"
                 ],
                 "ORG": [
+                    "Season One",
+                    "Council"
+                ],
+                "PERSON": [
+                    "Surpriiiiise",
+                    "Sarah Rhea",
+                    "Singh",
+                    "Kay Krause</p",
+                    "Jamie Killen</p",
+                    "Van Gaal",
+                    "Sarah Rhea",
+                    "https://www.teepublic.com/stores/girl-in-space-podcast?ref_id=5159</a></span></p"
+                ],
+                "FAC": [
                     "Patreon"
+                ],
+                "WORK_OF_ART": [
+                    "Girl In Space MERCH"
                 ]
             }
         },
@@ -205,23 +209,24 @@
             "pubDate": "Sat, 15 Sep 2018 15:00:00 +0000",
             "title": "111: We Are Everything, We Are Nothing",
             "entities": {
-                "CARDINAL": [
-                    "111",
-                    "3</p"
-                ],
                 "ORG": [
                     "LOT",
-                    "Patreon"
+                    "Cavatica",
+                    "Voice of Council"
                 ],
                 "PERSON": [
                     "Sarah Rhea",
                     "Singh",
-                    "Kay Krause</p> <p>Voice of Cyrus",
-                    "Jamie Killen</p>",
-                    "Sarah Rhea"
+                    "Kay Krause</p",
+                    "Jamie Killen</p",
+                    "Sarah Rhea",
+                    "https://www.teepublic.com/stores/girl-in-space-podcast?ref_id=5159</a></span></p"
                 ],
-                "GPE": [
-                    "A.R."
+                "FAC": [
+                    "Patreon"
+                ],
+                "WORK_OF_ART": [
+                    "Girl In Space MERCH"
                 ]
             }
         },
@@ -251,28 +256,30 @@
             "pubDate": "Mon, 09 Jul 2018 13:20:01 +0000",
             "title": "110: When Did You Last Experience Fear",
             "entities": {
-                "CARDINAL": [
-                    "110",
-                    "One",
-                    "two",
-                    "3</p"
-                ],
                 "ORG": [
-                    "Enforcer",
+                    "Enforcer One",
                     "HAPS",
-                    "Lincoln",
-                    "Patreon"
+                    "Voice of Council"
+                ],
+                "CARDINAL": [
+                    "two"
                 ],
                 "PERSON": [
                     "Sarah Rhea",
                     "Singh",
                     "Miles Chen",
-                    "Jamie Killen</p>",
-                    "Kay Krause</p> <p>Voice of Kai:",
-                    "Sarah Rhea"
+                    "Lincoln Donovan</p",
+                    "Jamie Killen</p",
+                    "Kay Krause</p",
+                    "Sarah Rhea",
+                    "Jon Krause</p",
+                    "https://www.teepublic.com/stores/girl-in-space-podcast?ref_id=5159</a></span></p"
                 ],
-                "GPE": [
-                    "A.R."
+                "FAC": [
+                    "Patreon"
+                ],
+                "WORK_OF_ART": [
+                    "Girl In Space MERCH"
                 ]
             }
         },
@@ -303,20 +310,26 @@
             "title": "109: Did You Come Into Contact With Unknown Forces",
             "entities": {
                 "CARDINAL": [
-                    "109",
-                    "3</p"
+                    "109"
                 ],
                 "PERSON": [
                     "Sarah Rhea",
                     "Miles Chen",
-                    "Kay Krause</p> <p>Voice of Dani",
-                    "Jamie Killen</p>",
-                    "Sarah Rhea"
+                    "Lincoln Donovan</p",
+                    "Kay Krause</p",
+                    "Jamie Killen</p",
+                    "Sarah Rhea",
+                    "Jon Krause</p",
+                    "https://www.teepublic.com/stores/girl-in-space-podcast?ref_id=5159</a></span></p"
                 ],
                 "ORG": [
-                    "Lincoln",
-                    "A.R. Olivieri</p",
+                    "Voice of Council"
+                ],
+                "FAC": [
                     "Patreon"
+                ],
+                "WORK_OF_ART": [
+                    "Girl In Space MERCH"
                 ]
             }
         },
@@ -346,21 +359,24 @@
             "pubDate": "Sun, 15 Apr 2018 22:03:55 +0000",
             "title": "108: What Is This You Feel",
             "entities": {
-                "CARDINAL": [
-                    "108",
-                    "3</p"
-                ],
                 "PERSON": [
-                    "MILDLY HAYWIRE",
                     "Sarah Rhea",
-                    "George Telonis</p> <",
-                    "Jamie Killen</p>",
+                    "George Telonis</p",
+                    "Jamie Killen</p",
                     "Miles Chen",
-                    "Sarah Rhea"
+                    "Lincoln Donovan</p",
+                    "Sarah Rhea",
+                    "Jon Krause</p",
+                    "https://www.teepublic.com/stores/girl-in-space-podcast?ref_id=5159</a></span></p"
                 ],
                 "ORG": [
-                    "Lincoln",
+                    "Voice of Council"
+                ],
+                "FAC": [
                     "Patreon"
+                ],
+                "WORK_OF_ART": [
+                    "Girl In Space MERCH"
                 ]
             }
         },
@@ -390,22 +406,26 @@
             "pubDate": "Tue, 06 Mar 2018 15:34:30 +0000",
             "title": "107: You Will Never Leave This Place",
             "entities": {
-                "CARDINAL": [
-                    "107",
-                    "3</p"
-                ],
                 "PERSON": [
                     "Kai",
-                    "Councillor",
                     "Sarah Rhea",
-                    "George Telonis</p> <",
-                    "Jamie Killen</p>",
+                    "George Telonis</p",
+                    "Jamie Killen</p",
                     "Miles Chen",
-                    "Sarah Rhea"
+                    "Lincoln Donovan</p",
+                    "Sarah Rhea",
+                    "Jon Krause</p",
+                    "https://www.teepublic.com/stores/girl-in-space-podcast?ref_id=5159</a></span></p"
                 ],
                 "ORG": [
-                    "Lincoln",
+                    "Councillor",
+                    "Voice of Council"
+                ],
+                "FAC": [
                     "Patreon"
+                ],
+                "WORK_OF_ART": [
+                    "Girl In Space MERCH"
                 ]
             }
         },
@@ -436,24 +456,31 @@
             "title": "106: High-Functioning Flesh",
             "entities": {
                 "CARDINAL": [
-                    "106",
-                    "3</p"
+                    "106"
+                ],
+                "WORK_OF_ART": [
+                    "the Girl In Space",
+                    "Girl In Space MERCH"
                 ],
                 "PERSON": [
                     "Kai",
+                    "Listener",
                     "Sarah Rhea",
                     "Miles Chen",
+                    "Lincoln Donovan</p",
                     "Keane",
-                    "Kay Krause</p> <p>Voice of Chance:",
-                    "George Telonis</p> <",
-                    "Sarah Rhea"
+                    "Kay Krause</p",
+                    "George Telonis</p",
+                    "Sarah Rhea",
+                    "Jon Krause</p",
+                    "https://www.teepublic.com/stores/girl-in-space-podcast?ref_id=5159</a></span></p"
                 ],
                 "FAC": [
-                    "Girl In Space"
+                    "Girl In Space",
+                    "Patreon"
                 ],
                 "ORG": [
-                    "Lincoln",
-                    "Patreon"
+                    "Voice of Council"
                 ]
             }
         },
@@ -484,20 +511,24 @@
             "title": "105: Valuable Human Resources",
             "entities": {
                 "CARDINAL": [
-                    "105",
-                    "3</p"
+                    "105"
+                ],
+                "WORK_OF_ART": [
+                    "the Girl In Space",
+                    "Girl In Space MERCH"
                 ],
                 "PERSON": [
                     "Sarah Rhea",
-                    "Kay Krause</p> <p>Voice of Captain",
+                    "Kay Krause</p",
                     "Miles Chen",
-                    "Jon Krause</p> <",
-                    "George Telonis</p> <",
-                    "Sarah Rhea"
+                    "Lincoln Donovan</p",
+                    "George Telonis</p",
+                    "Sarah Rhea",
+                    "Jon Krause</p",
+                    "https://www.teepublic.com/stores/girl-in-space-podcast?ref_id=5159</a></span></p"
                 ],
-                "ORG": [
-                    "Lincoln",
-                    "E1 Comms",
+                "FAC": [
+                    "Comms",
                     "Patreon"
                 ]
             }
@@ -528,20 +559,26 @@
             "pubDate": "Thu, 02 Nov 2017 22:07:59 +0000",
             "title": "104: Nothing Gold Can Stay",
             "entities": {
+                "WORK_OF_ART": [
+                    "The Girl In Space",
+                    "Girl In Space MERCH"
+                ],
                 "PERSON": [
                     "Sarah Rhea",
                     "Miles Chen",
+                    "Lincoln Donovan</p",
                     "Keane",
-                    "Kay Krause</p> <p>Voice of Chance:",
-                    "George Telonis</p> <",
-                    "Sarah Rhea"
+                    "Kay Krause</p",
+                    "George Telonis</p",
+                    "Sarah Rhea",
+                    "Jon Krause</p",
+                    "https://www.teepublic.com/stores/girl-in-space-podcast?ref_id=5159</a></span></p"
                 ],
                 "ORG": [
-                    "Lincoln",
-                    "Patreon"
+                    "Voice of Council"
                 ],
-                "CARDINAL": [
-                    "3</p"
+                "FAC": [
+                    "Patreon"
                 ]
             }
         },
@@ -572,27 +609,24 @@
             "title": "103: Human After All",
             "entities": {
                 "CARDINAL": [
-                    "103",
-                    "3</p"
-                ],
-                "EVENT": [
-                    "the\u00a0Girl"
-                ],
-                "ORG": [
-                    "Q&A",
-                    "Lincoln",
-                    "Patreon"
+                    "103"
                 ],
                 "PERSON": [
                     "Miles Chen",
                     "Sarah Rhea",
                     "Miles Chen",
-                    "George Telonis</p> <",
+                    "Lincoln Donovan</p",
+                    "George Telonis</p",
                     "Keane",
-                    "Sarah Rhea"
+                    "Sarah Rhea",
+                    "https://www.teepublic.com/stores/girl-in-space-podcast?ref_id=5159</a></span></p"
                 ],
                 "WORK_OF_ART": [
-                    "What Would The Velociraptors Do?\"</p"
+                    "What Would The Velociraptors Do?\"</p",
+                    "Girl In Space MERCH"
+                ],
+                "FAC": [
+                    "Patreon"
                 ]
             }
         },
@@ -624,20 +658,31 @@
             "entities": {
                 "CARDINAL": [
                     "102",
-                    "3</p"
+                    "E1"
                 ],
-                "PERSON": [
-                    "Charlotte",
-                    "Sarah Rhea",
-                    "Miles Chen",
-                    "Sarah Rhea"
+                "PRODUCT": [
+                    "Cavatica"
                 ],
                 "GPE": [
+                    "Charlotte",
                     "Charlotte"
                 ],
+                "WORK_OF_ART": [
+                    "the Girl In Space",
+                    "Girl In Space MERCH"
+                ],
+                "PERSON": [
+                    "Sarah Rhea",
+                    "Kay Krause</span></p",
+                    "Miles Chen",
+                    "Lincoln Donovan</span></p",
+                    "Sarah Rhea",
+                    "https://www.teepublic.com/stores/girl-in-space-podcast?ref_id=5159</a></span></p"
+                ],
                 "ORG": [
-                    "Lincoln",
-                    "Directed",
+                    "Directed"
+                ],
+                "FAC": [
                     "Patreon"
                 ]
             }
@@ -669,23 +714,24 @@
             "title": "101: Cheese Is Delicious Science",
             "entities": {
                 "ORG": [
-                    "NBD",
-                    "Patreon"
-                ],
-                "WORK_OF_ART": [
-                    "Jurassic Park"
+                    "NBD"
                 ],
                 "PERSON": [
                     "Sarah Rhea",
-                    "Kay Krause</p> <",
+                    "Kay Krause</p",
+                    "Editor",
                     "Sound Designer",
-                    "Sarah Rhea"
+                    "Sarah Rhea",
+                    "https://www.teepublic.com/stores/girl-in-space-podcast?ref_id=5159</a></span></p"
                 ],
                 "GPE": [
                     "Charlotte"
                 ],
-                "CARDINAL": [
-                    "3</p"
+                "FAC": [
+                    "Patreon"
+                ],
+                "WORK_OF_ART": [
+                    "Girl In Space MERCH"
                 ]
             }
         },
@@ -723,18 +769,19 @@
                 "ORG": [
                     "Audionautix",
                     "href=\"https://creativecommons.org",
-                    "Directed",
-                    "Patreon"
+                    "Directed"
                 ],
                 "WORK_OF_ART": [
-                    "target=\"blank"
+                    "rel=\"noopener\">Creative Commons Attribution",
+                    "Girl In Space MERCH"
                 ],
                 "PERSON": [
                     "Sarah Rhea",
-                    "Sarah Rhea"
+                    "Sarah Rhea",
+                    "https://www.teepublic.com/stores/girl-in-space-podcast?ref_id=5159</a></span></p"
                 ],
-                "CARDINAL": [
-                    "3</p"
+                "FAC": [
+                    "Patreon"
                 ]
             }
         }
@@ -762,11 +809,11 @@
         "explicit": "false",
         "image": "https://ssl-static.libsyn.com/p/assets/7/8/d/8/78d8255cb593de0a/USE_-_Girl_In_Space_Podcast_Logo_3000x3000.jpg",
         "keywords": [
-            "ScienceFiction",
             "audiodrama",
             "fiction",
             "fictionpodcast",
             "girlinspace",
+            "sciencefiction",
             "scifi",
             "space"
         ],
@@ -778,7 +825,7 @@
         "summary": "Nothing fancy here -- just the simple audio diary of a girl in space. Also, there\u2019s this weird and potentially ominous light in the distance that seems to be growing steadily closer. Listen for science, guns, trust, anti-matter, truth, beauty, inner turmoil, and delicious cheeses. It\u2019s all here. In space."
     },
     "language": "en",
-    "lastBuildDate": "Tue, 19 Apr 2022 14:30:08 +0000",
+    "lastBuildDate": "Tue, 24 May 2022 14:30:11 +0000",
     "link": "https://www.girlinspacepodcast.com",
     "managingEditor": "girlinspacepod@gmail.com (girlinspacepod@gmail.com)",
     "paginationLinks": {

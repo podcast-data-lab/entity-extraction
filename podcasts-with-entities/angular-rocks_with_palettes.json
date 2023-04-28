@@ -37,20 +37,20 @@
             "pubDate": "Wed, 11 Aug 2021 21:00:00 +1000",
             "title": "Reactive Angular",
             "entities": {
-                "ORG": [
-                    "API",
-                    "href=\"https://twitter.com",
-                    "href=\"https://github.com"
+                "PERSON": [
+                    "Angular API",
+                    "Angular"
                 ],
-                "NORP": [
+                "ORG": [
                     "RxJS",
-                    "RxJS"
+                    "RxJS",
+                    "Aliaksei"
                 ],
                 "ORDINAL": [
                     "First"
                 ],
-                "GPE": [
-                    "RxJS"
+                "CARDINAL": [
+                    "Workshop</strong><a"
                 ]
             }
         },
@@ -82,17 +82,17 @@
             "pubDate": "Wed, 04 Aug 2021 20:00:00 +1000",
             "title": "Designing Reusable Components with Tomas Trajan",
             "entities": {
-                "GPE": [
-                    "Shared library",
-                    "href=\"https://omniboard.dev\">Omniboard</a"
-                ],
                 "PERSON": [
-                    "Articles</strong></p><p><a href=\"https://tomastrajan.medium.com"
+                    "Angular",
+                    "tomastrajan\">Github",
+                    "Angular Self-Paced Workshops"
+                ],
+                "PRODUCT": [
+                    "Components"
                 ],
                 "ORG": [
-                    "href=\"https://tomastrajan.medium.com",
-                    "href=\"https://tomastrajan.medium.com",
-                    "href=\"https://github.com/tomastrajan\">Github",
+                    "Shared",
+                    "href=\"https://twitter.com/tomastrajan\">Twitter</a></p><p><a href=\"https://github.com",
                     "href=\"https://github.com"
                 ]
             }
@@ -127,11 +127,16 @@
             "entities": {
                 "PERSON": [
                     "Custom Elements",
-                    "Lit</a><br><a href=\"https://angular.io"
+                    "Angular Elements.</p><p><strong",
+                    "Lit</a><br><a href=\"https://angular.io",
+                    "Angular Self-Paced Workshops"
                 ],
                 "ORG": [
                     "href=\"https://developer.mozilla.org",
-                    "href=\"https://github.com/Polymer/polymer"
+                    "href=\"https://github.com"
+                ],
+                "GPE": [
+                    "US"
                 ]
             }
         },
@@ -163,23 +168,22 @@
             "pubDate": "Wed, 21 Jul 2021 20:00:00 +1000",
             "title": "Developer Tools with Minko Gechev",
             "entities": {
-                "CARDINAL": [
-                    "questions:</p><p><br></p><p"
+                "ORG": [
+                    "Angular Team",
+                    "CLI",
+                    "href=\"https://github.com",
+                    "prettier/prettier\">Prettier<br></a><a href=\"https://github.com"
+                ],
+                "PRODUCT": [
+                    "Angular"
                 ],
                 "PERSON": [
-                    "Angular Team",
-                    "br></a><a href=\"https://angular.io/guide",
+                    "br></a><a href=\"https://github.com",
+                    "br></a><a href=\"https://www.cypress.io\">Cypress</a></p><p><strong",
                     "Misko Havery",
-                    "Alan Agius"
-                ],
-                "ORG": [
-                    "CLI",
-                    "href=\"https://github.com/mgechev/codelyzer\">Codelyzer<br></a><a",
-                    "href=\"https://github.com",
-                    "href=\"https://github.com/mgechev/ngrev\">Ngrev",
-                    "href=\"https://chrome.google.com",
-                    "DevTools",
-                    "Minko</strong></p><p><a href=\"https://twitter.com/mgechev\">Twitter</a></p><p><a"
+                    "Alan Agius",
+                    "Douglas Crockford</p><p><strong",
+                    "Angular Self-Paced Workshops"
                 ]
             }
         },
@@ -212,7 +216,22 @@
             "title": "Angular multi-project workspace",
             "entities": {
                 "ORG": [
-                    "CLI"
+                    "CLI",
+                    "CLI",
+                    "CLI",
+                    "Aliaksei"
+                ],
+                "NORP": [
+                    "Angular"
+                ],
+                "GPE": [
+                    "Multi"
+                ],
+                "PERSON": [
+                    "Links</strong><br><a href=\"https://angular.io"
+                ],
+                "CARDINAL": [
+                    "Workshop</strong><a"
                 ]
             }
         },
@@ -244,14 +263,21 @@
             "pubDate": "Wed, 07 Jul 2021 20:00:00 +1000",
             "title": "Angular Change Detection with Wassim Chegham ",
             "entities": {
+                "PRODUCT": [
+                    "Angular"
+                ],
                 "PERSON": [
-                    "br></a><a href=\"https://angular.io/api/core",
-                    "ApplicationRef\">ApplicationRef</a><a"
+                    "John Papa</p><p>Misko",
+                    "Elon Musk</p><p><a",
+                    "br></strong><a href=\"https://twitter.com",
+                    "Links</strong><br><a href=\"https://chriskohler.dev",
+                    "br></a><a href=\"https://angular.io",
+                    "ApplicationRef\">ApplicationRef</a><a",
+                    "Aliaksei"
                 ],
                 "ORG": [
-                    "NgZone\">NgZone</a><a",
-                    "Wassim</strong><br><a href=\"https://twitter.com/manekinekko\">Twitter</a>\u00a0",
-                    "href=\"https://dev.to/wassimchegham\">Blog</a></p><p><a href=\"https://wassim.dev\">Website</a></p><p><br><strong>Aliaksei's"
+                    "href=\"https://twitter.com",
+                    "href=\"https://dev.to/wassimchegham\">Blog</a></p><p><a"
                 ]
             }
         },
@@ -283,8 +309,12 @@
             "pubDate": "Wed, 30 Jun 2021 20:00:00 +1000",
             "title": "Keeping Angular Projects Up To Date",
             "entities": {
+                "PRODUCT": [
+                    "Angular"
+                ],
                 "ORG": [
-                    "update</a><br><a href=\"https://stackoverflow.com",
+                    "href=\"https://stackoverflow.com",
+                    "CLI",
                     "href=\"https://github.com",
                     "CLI"
                 ]
@@ -320,16 +350,15 @@
             "entities": {
                 "ORG": [
                     "CSS",
-                    "API",
-                    "href=\"https://indepth.dev/posts/1285",
-                    "href=\"http://popmotion.io\">Popmotion</a><br><a href=\"https://airbnb.io/lottie\">lottie</a><br><a href=\"https://tailwindcss.com",
-                    "Juan</strong><br><a href=\"https://twitter.com/williamjuan27\">Twitter</a><br><a href=\"https://williamjuan.dev\">Website</a></p>\n      "
+                    "API"
                 ],
                 "ORDINAL": [
                     "third"
                 ],
-                "GPE": [
-                    "posts/1285"
+                "PERSON": [
+                    "Juan",
+                    "Links</strong><br><a href=\"https://angular.io",
+                    "Juan</strong><br><a href=\"https://twitter.com/williamjuan27\">Twitter</a><br><a"
                 ]
             }
         },
@@ -362,27 +391,19 @@
             "title": "Responsive Design",
             "entities": {
                 "DATE": [
-                    "These days",
-                    "Layout</a><br><a href=\"https://material.angular.io/cdk/layout/overview\">Angular"
+                    "These days"
                 ],
-                "PERSON": [
-                    "Angular Apps",
-                    "Flex Layout"
+                "WORK_OF_ART": [
+                    "Angular Apps"
                 ],
                 "ORG": [
                     "CSS",
-                    "CSS Media",
-                    "href=\"https://twitter.com",
-                    "href=\"https://github.com",
-                    "CDK",
-                    "utilities\">Bootstrap Layout Utilities",
-                    "href=\"https://twitter.com",
-                    "CDK",
-                    "Tailwind / Bootstrap Utilities",
-                    "Media Queries</a></p>"
+                    "CSS Media Queries.</p><p",
+                    "Pool</strong><br><a href=\"https://twitter.com",
+                    "Tailwind / Bootstrap Utilities"
                 ],
-                "PRODUCT": [
-                    "Layout</a><br><a href=\"https://tailwindcss.com/docs"
+                "PERSON": [
+                    "Flex Layout"
                 ]
             }
         },
@@ -415,10 +436,17 @@
             "title": "Angular Material with Jeremy Elbourn",
             "entities": {
                 "ORG": [
-                    "UI"
+                    "UI",
+                    "Google Material Design",
+                    "href=\"https://twitter.com/jelbourn\">twitter</a></p"
+                ],
+                "PRODUCT": [
+                    "Angular"
                 ],
                 "PERSON": [
-                    "Jeremy</strong><br><a href=\"https://twitter.com/jelbourn\">twitter</a></p>\n      "
+                    "Jeremy",
+                    "Angular Material",
+                    "Links</strong><br><a href=\"https://material.angular.io\">material.angular.io</a><br><a"
                 ]
             }
         },
@@ -454,7 +482,7 @@
                     "CDK",
                     "Component Development Kit",
                     "CDK",
-                    "UI"
+                    "CDK"
                 ]
             }
         },
@@ -486,13 +514,19 @@
             "pubDate": "Wed, 26 May 2021 21:25:23 +1000",
             "title": "The History of Angular with Misko Hevery",
             "entities": {
+                "DATE": [
+                    "many years"
+                ],
+                "PERSON": [
+                    "Angular",
+                    "Mi\u0161ko Hevery"
+                ],
                 "ORDINAL": [
                     "first"
                 ],
-                "PERSON": [
-                    "Mi\u0161ko Hevery"
-                ],
                 "ORG": [
+                    "Angular",
+                    "Google",
                     "href=\"https://twitter.com/mhevery\">twitter</a></p"
                 ]
             }
@@ -524,7 +558,14 @@
             "link": "https://share.transistor.fm/s/85965a75",
             "pubDate": "Wed, 19 May 2021 20:00:00 +1000",
             "title": "Component Communication Techniques",
-            "entities": {}
+            "entities": {
+                "PERSON": [
+                    "Pipe</a><br><a href=\"https://dev.to"
+                ],
+                "PRODUCT": [
+                    "Technique</a><br><a"
+                ]
+            }
         },
         {
             "author": "Aliaksei Kuncevi\u010d",
@@ -554,13 +595,19 @@
             "pubDate": "Wed, 12 May 2021 20:00:00 +1000",
             "title": "Angular Router with Justin Schwartzenberger",
             "entities": {
+                "ORG": [
+                    "Angular",
+                    "Justin"
+                ],
                 "PERSON": [
                     "Mike Ryan",
-                    "Brandon Roberts"
+                    "Brandon Roberts",
+                    "Victor Savkin",
+                    "Michael",
+                    "href=\"https://angularair.com/\">Website</a></p><p><strong"
                 ],
-                "ORG": [
-                    "Justin",
-                    "href=\"https://angularair.com/\">Website</a></p><p><strong>Aliaksei's"
+                "GPE": [
+                    "Aliaksei"
                 ]
             }
         },
@@ -591,7 +638,11 @@
             "link": "https://share.transistor.fm/s/673f492a",
             "pubDate": "Wed, 05 May 2021 20:00:00 +1000",
             "title": "Application Folder Structure ",
-            "entities": {}
+            "entities": {
+                "PERSON": [
+                    "Links</strong><br><a href=\"https://angular.io"
+                ]
+            }
         },
         {
             "author": "Aliaksei Kuncevi\u010d",
@@ -621,19 +672,24 @@
             "pubDate": "Wed, 28 Apr 2021 20:00:00 +1000",
             "title": "Error Handling with Michael Kar\u00e9n",
             "entities": {
+                "PERSON": [
+                    "Angular",
+                    "Angular Rocks",
+                    "Handler Class</a><br><a",
+                    "David Herges</p><p><strong",
+                    "Michael"
+                ],
                 "ORDINAL": [
                     "first"
-                ],
-                "ORG": [
-                    "Angular Rocks"
                 ],
                 "DATE": [
                     "21 Jan 2021</em></p><p><strong"
                 ],
-                "PERSON": [
-                    "Handler",
-                    "David Herges</p><p><strong",
-                    "Michael"
+                "CARDINAL": [
+                    "Angular</a></p><p><strong"
+                ],
+                "ORG": [
+                    "href=\"https://twitter.com/melcor76\">Twitter</a><br><a href=\"https://blog.michaelkaren.dev\">Blog</a></p><p><strong>Aliaksei"
                 ]
             }
         },
@@ -670,6 +726,12 @@
                     "API",
                     "HttpClient",
                     "href=\"https://developer.mozilla.org"
+                ],
+                "GPE": [
+                    "US"
+                ],
+                "CARDINAL": [
+                    "10"
                 ]
             }
         },
@@ -701,16 +763,14 @@
             "pubDate": "Thu, 15 Apr 2021 08:00:00 +1000",
             "title": "Dependency Injection with Dmytro Mezhenskyi ",
             "entities": {
-                "ORG": [
-                    "href=\"https://www.youtube.com",
-                    "Dmytro",
-                    "Dmytro",
-                    "href=\"https://twitter.com",
-                    "DecodedFrontend\">Twitter</a><br><a"
-                ],
                 "PERSON": [
-                    "Injection YouTube Series",
-                    "DecodedFrontend\">YouTube</a><br><a href=\"%20http://decodedfrontend.io\">Blog</a></p><p><strong>Aliaksei's"
+                    "Dmytro"
+                ],
+                "ORG": [
+                    "Dmytro<br><a href=\"https://twitter.com/DecodedFrontend\">Twitter</a><br><a href=\"%20https://youtube.com/DecodedFrontend\">YouTube</a><br><a"
+                ],
+                "GPE": [
+                    "Aliaksei"
                 ]
             }
         },
@@ -741,7 +801,18 @@
             "link": "https://share.transistor.fm/s/b6cb66f1",
             "pubDate": "Wed, 07 Apr 2021 20:20:00 +1000",
             "title": "Angular Lifecycle Hooks",
-            "entities": {}
+            "entities": {
+                "PRODUCT": [
+                    "Angular"
+                ],
+                "PERSON": [
+                    "Angular",
+                    "Lifecycle Hooks</a></p"
+                ],
+                "ORG": [
+                    "ngOnDestroy"
+                ]
+            }
         },
         {
             "author": "Aliaksei Kuncevi\u010d",
@@ -773,19 +844,15 @@
             "entities": {
                 "ORG": [
                     "CLI",
-                    "Twitter</a><br><a href=\"https://angular.io",
-                    "href=\"https://github.com",
-                    "href=\"https://www.youtube.com",
-                    "Resource Inlining</a></p><p><strong>Bonus",
-                    "CLI"
-                ],
-                "CARDINAL": [
-                    "tricks</li"
+                    "href=\"https://github.com"
                 ],
                 "PERSON": [
                     "alanagius4\">Alan Agius",
-                    "David Herges",
-                    "ngAir</a><br><a href=\"https://www.youtube.com"
+                    "Project Workspace</a><br><a",
+                    "David Herges"
+                ],
+                "WORK_OF_ART": [
+                    "Twitter</a><br><a"
                 ]
             }
         },
@@ -821,7 +888,7 @@
                     "Angular Cheat Sheet"
                 ],
                 "PRODUCT": [
-                    "the Demo App I"
+                    "the Demo App"
                 ]
             }
         },
@@ -852,7 +919,14 @@
             "link": "https://share.transistor.fm/s/dd9f4c31",
             "pubDate": "Wed, 17 Mar 2021 20:00:00 +1100",
             "title": "Angular Building Blocks",
-            "entities": {}
+            "entities": {
+                "PRODUCT": [
+                    "Angular"
+                ],
+                "CARDINAL": [
+                    "Concepts</a></p><p><a"
+                ]
+            }
         },
         {
             "author": "Aliaksei Kuncevi\u010d",
@@ -882,20 +956,22 @@
             "pubDate": "Wed, 10 Mar 2021 20:00:00 +1100",
             "title": "Things You Should Know About Angular",
             "entities": {
-                "ORG": [
-                    "Angular",
-                    "Angular",
-                    "href=\"https://update.angular.io\">Angular Update",
-                    "Gitter</a><br><a href=\"https://discord.com/invite/angular\">Angular Community",
-                    "Discord</a><br><a href=\"https://github.com/AngularCommunity",
-                    "@angular",
-                    "href=\"https://github.com"
-                ],
                 "PERSON": [
-                    "br></a><a href=\"https://angular.io/guide/npm-packages#angular"
+                    "Angular",
+                    "Angular",
+                    "Angular",
+                    "Angular</a><br><a",
+                    "Roadmap</a><br><a",
+                    "Packages</a><br><a"
                 ],
-                "GPE": [
-                    "console:<br><em"
+                "WORK_OF_ART": [
+                    "angular\">What Are The Benefits Of Using",
+                    "releases\">Angular Versioning and Releases<br></a><a href=\"https://angular.io/guide/npm-packages#angular-packages\">Angular",
+                    "updating\">Keeping Angular Up-to-Date</a><br><a href=\"https://gitter.im/angular/angular\">Angular on Gitter</a><br><a href=\"https://discord.com/invite/angular\">Angular Community"
+                ],
+                "ORG": [
+                    "Update",
+                    "href=\"https://github.com"
                 ]
             }
         },
@@ -961,7 +1037,7 @@
         "summary": "All things Angular podcast \ud83c\udf99 by Aliaksei Kuncevi\u010d."
     },
     "language": "en",
-    "lastBuildDate": "Sun, 24 Apr 2022 07:00:01 +1000",
+    "lastBuildDate": "Fri, 15 Apr 2022 04:40:55 +1000",
     "link": "https://angularrocks.com",
     "paginationLinks": {
         "self": "https://feeds.transistor.fm/angularrocks"
@@ -978,7 +1054,9 @@
     "title": "Angular Rocks",
     "entities": {
         "PERSON": [
-            "\ud83c\udf99",
+            "\ud83c\udf99"
+        ],
+        "FAC": [
             "Aliaksei Kuncevi\u010d"
         ]
     }

@@ -36,13 +36,12 @@
             "title": "Reflections",
             "entities": {
                 "PERSON": [
-                    "Andy"
+                    "Andy",
+                    "Twitter",
+                    "Kareem Manuel"
                 ],
                 "NORP": [
                     "Christian"
-                ],
-                "PRODUCT": [
-                    "Twitter"
                 ]
             }
         },
@@ -74,11 +73,8 @@
             "pubDate": "Thu, 03 Oct 2019 18:00:00 -0400",
             "title": "Another Me",
             "entities": {
-                "DATE": [
-                    "today"
-                ],
-                "ORG": [
-                    "href=\"https://www.youtube.com"
+                "WORK_OF_ART": [
+                    "Work in Progress today."
                 ]
             }
         },
@@ -110,11 +106,11 @@
             "pubDate": "Thu, 26 Sep 2019 18:00:00 -0400",
             "title": "Family Photo",
             "entities": {
-                "DATE": [
-                    "today"
-                ],
                 "ORG": [
-                    "href=\"https://www.youtube.com"
+                    "Family Photo"
+                ],
+                "WORK_OF_ART": [
+                    "Work in Progress today."
                 ]
             }
         },
@@ -146,11 +142,8 @@
             "pubDate": "Thu, 19 Sep 2019 18:00:00 -0400",
             "title": "So Far Gone",
             "entities": {
-                "DATE": [
-                    "today"
-                ],
-                "ORG": [
-                    "href=\"https://www.youtube.com"
+                "WORK_OF_ART": [
+                    "Work in Progress today."
                 ]
             }
         },
@@ -182,11 +175,8 @@
             "pubDate": "Thu, 12 Sep 2019 18:00:00 -0400",
             "title": "I Ain't Done (BEAM Version)",
             "entities": {
-                "DATE": [
-                    "today"
-                ],
-                "ORG": [
-                    "href=\"https://www.youtube.com"
+                "WORK_OF_ART": [
+                    "Work in Progress today."
                 ]
             }
         },
@@ -221,11 +211,8 @@
                 "PERSON": [
                     "Til Death"
                 ],
-                "DATE": [
-                    "today"
-                ],
-                "ORG": [
-                    "href=\"https://www.youtube.com"
+                "WORK_OF_ART": [
+                    "Work in Progress today."
                 ]
             }
         },
@@ -257,12 +244,11 @@
             "pubDate": "Mon, 26 Aug 2019 18:00:00 -0400",
             "title": "OT OD",
             "entities": {
-                "ORG": [
-                    "OT OD",
-                    "href=\"https://www.youtube.com"
-                ],
                 "DATE": [
                     "today"
+                ],
+                "WORK_OF_ART": [
+                    "Work in Progress Today!"
                 ]
             }
         },
@@ -295,11 +281,10 @@
             "title": "1988",
             "entities": {
                 "DATE": [
-                    "1988",
-                    "today"
+                    "1988"
                 ],
-                "ORG": [
-                    "href=\"https://www.youtube.com"
+                "WORK_OF_ART": [
+                    "Work in Progress today."
                 ]
             }
         },
@@ -332,11 +317,10 @@
             "title": "I Don't Need You ",
             "entities": {
                 "DATE": [
-                    "today",
                     "today"
                 ],
-                "ORG": [
-                    "href=\"https://www.youtube.com"
+                "WORK_OF_ART": [
+                    "Work in Progress today."
                 ]
             }
         },
@@ -368,11 +352,8 @@
             "pubDate": "Fri, 31 May 2019 00:00:00 -0400",
             "title": "Anything But Country ",
             "entities": {
-                "DATE": [
-                    "today"
-                ],
-                "ORG": [
-                    "href=\"https://www.youtube.com"
+                "WORK_OF_ART": [
+                    "Work in Progress today."
                 ]
             }
         },
@@ -404,11 +385,11 @@
             "pubDate": "Thu, 09 May 2019 22:45:00 -0400",
             "title": "Keepin it Movin",
             "entities": {
+                "PERSON": [
+                    "Keepin"
+                ],
                 "DATE": [
                     "today"
-                ],
-                "ORG": [
-                    "href=\"https://www.youtube.com"
                 ]
             }
         }

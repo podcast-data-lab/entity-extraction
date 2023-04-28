@@ -35,15 +35,20 @@
                 "PERSON": [
                     "Jon Meacham",
                     "Webby Award",
-                    "Through History"
+                    "Meacham"
                 ],
                 "DATE": [
                     "2021",
-                    "Monday through Friday",
                     "today"
                 ],
+                "EVENT": [
+                    "Best Podcast Series It Was Said"
+                ],
                 "GPE": [
-                    "Meacham"
+                    "History"
+                ],
+                "PRODUCT": [
+                    "Learn"
                 ]
             }
         },
@@ -61,7 +66,7 @@
             "isoDate": "2021-10-20T15:44:04.000Z",
             "itunes": {
                 "author": "C13Originals | Jon Meacham | The HISTORY\u00ae Channel",
-                "duration": "1513",
+                "duration": "1498",
                 "episode": "6",
                 "image": "https://megaphone.imgix.net/podcasts/6a05bd6e-31b3-11ec-967e-1fa5a7e17718/image/It-Was-Said-Sports-FINAL.jpg?ixlib=rails-2.1.2&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
                 "season": "1",
@@ -77,8 +82,11 @@
                 ],
                 "DATE": [
                     "just days",
-                    "September 11",
+                    "day",
                     "Monday, September 17, 2001"
+                ],
+                "EVENT": [
+                    "the September 11"
                 ],
                 "GPE": [
                     "the United States",
@@ -87,6 +95,9 @@
                 ],
                 "FAC": [
                     "Busch Stadium"
+                ],
+                "PRODUCT": [
+                    "Learn"
                 ]
             }
         },
@@ -104,7 +115,7 @@
             "isoDate": "2021-10-13T07:01:00.000Z",
             "itunes": {
                 "author": "C13Originals | Jon Meacham | The HISTORY\u00ae Channel",
-                "duration": "1443",
+                "duration": "1428",
                 "episode": "5",
                 "season": "1",
                 "subtitle": "",
@@ -113,8 +124,10 @@
             "pubDate": "Wed, 13 Oct 2021 07:01:00 -0000",
             "title": "The Championship That Changed Everything: Texas Western\u2019s 1966 NCAA Title",
             "entities": {
-                "GPE": [
-                    "Texas"
+                "ORG": [
+                    "Texas Western",
+                    "NCAA",
+                    "the University of Kentucky"
                 ],
                 "ORDINAL": [
                     "first"
@@ -125,13 +138,13 @@
                 "DATE": [
                     "1966"
                 ],
-                "ORG": [
-                    "the University of Kentucky",
-                    "Doc Rivers"
-                ],
                 "PERSON": [
                     "Michael Wilbon",
-                    "Verne Lundquist"
+                    "Verne Lundquist",
+                    "Doc Rivers"
+                ],
+                "PRODUCT": [
+                    "Learn"
                 ]
             }
         },
@@ -149,7 +162,7 @@
             "isoDate": "2021-10-06T11:35:36.000Z",
             "itunes": {
                 "author": "C13Originals | Jon Meacham | The HISTORY\u00ae Channel",
-                "duration": "1397",
+                "duration": "1382",
                 "episode": "4",
                 "image": "https://megaphone.imgix.net/podcasts/e7020572-166d-11ec-8c59-a34ca0bae82a/image/It-Was-Said-Sports-FINAL.jpg?ixlib=rails-2.1.2&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
                 "season": "1",
@@ -159,9 +172,13 @@
             "pubDate": "Wed, 06 Oct 2021 11:35:36 -0000",
             "title": "Henry Aaron\u2019s Quiet Grace",
             "entities": {
+                "GPE": [
+                    "Atlanta"
+                ],
                 "ORG": [
                     "the Los Angeles Dodgers",
-                    "Major League Baseball"
+                    "Major League Baseball",
+                    "Hall of Fame"
                 ],
                 "DATE": [
                     "spring day",
@@ -178,6 +195,9 @@
                     "Doc Rivers",
                     "Hank Aaron\u2019s",
                     "Aaron"
+                ],
+                "PRODUCT": [
+                    "Learn"
                 ]
             }
         },
@@ -195,7 +215,7 @@
             "isoDate": "2021-09-29T07:01:00.000Z",
             "itunes": {
                 "author": "C13Originals | Jon Meacham | The HISTORY\u00ae Channel",
-                "duration": "1568",
+                "duration": "1553",
                 "episode": "3",
                 "season": "1",
                 "subtitle": "",
@@ -209,20 +229,24 @@
                     "The previous year",
                     "2008"
                 ],
-                "ORG": [
-                    "Florida Gators",
-                    "SEC",
-                    "Doc Rivers",
-                    "the Florida Gators",
-                    "Urban Meyer"
+                "GPE": [
+                    "Florida",
+                    "Tebow"
                 ],
                 "PERSON": [
                     "Tim Tebow",
                     "Trophy",
                     "Tim Tebow",
-                    "Ole Miss",
-                    "Verne Lundquist",
-                    "Tebow"
+                    "Urban Meyer",
+                    "Verne Lundquist"
+                ],
+                "ORG": [
+                    "SEC",
+                    "Doc Rivers",
+                    "the Florida Gators"
+                ],
+                "PRODUCT": [
+                    "Learn"
                 ]
             }
         },
@@ -240,7 +264,7 @@
             "isoDate": "2021-09-22T07:01:00.000Z",
             "itunes": {
                 "author": "C13Originals | Jon Meacham | The HISTORY\u00ae Channel",
-                "duration": "1290",
+                "duration": "1275",
                 "episode": "2",
                 "image": "https://megaphone.imgix.net/podcasts/e69d79e0-166d-11ec-8c59-73221ab97527/image/It-Was-Said-Sports-FINAL.jpg?ixlib=rails-2.1.2&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
                 "season": "1",
@@ -254,16 +278,17 @@
                     "1973",
                     "today"
                 ],
+                "WORK_OF_ART": [
+                    "Billie Jean King",
+                    "Billie Jean King"
+                ],
                 "PERSON": [
-                    "Billie Jean King",
-                    "Billie Jean King",
+                    "Sexes",
+                    "Doc Rivers",
                     "Ann Meyers Drysdale"
                 ],
-                "GPE": [
-                    "Sexes"
-                ],
-                "ORG": [
-                    "Doc Rivers"
+                "PRODUCT": [
+                    "Learn"
                 ]
             }
         },
@@ -281,7 +306,7 @@
             "isoDate": "2021-09-16T04:00:00.000Z",
             "itunes": {
                 "author": "C13Originals | Jon Meacham | The HISTORY\u00ae Channel",
-                "duration": "1415",
+                "duration": "1400",
                 "episode": "1",
                 "image": "https://megaphone.imgix.net/podcasts/e6bf1866-166d-11ec-8c59-d77faecc05d0/image/It-Was-Said-Sports-FINAL.jpg?ixlib=rails-2.1.2&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
                 "season": "1",
@@ -293,6 +318,7 @@
             "entities": {
                 "PERSON": [
                     "Muhammad Ali",
+                    "Doc Rivers",
                     "Al Michaels",
                     "Michael Wilbon",
                     "Ali"
@@ -300,14 +326,8 @@
                 "LOC": [
                     "Earth"
                 ],
-                "ORG": [
-                    "Doc Rivers"
-                ],
                 "EVENT": [
                     "the Vietnam War"
-                ],
-                "WORK_OF_ART": [
-                    "Learn"
                 ]
             }
         },
@@ -325,7 +345,7 @@
             "isoDate": "2020-10-28T07:01:00.000Z",
             "itunes": {
                 "author": "C13Originals | Jon Meacham | The HISTORY\u00ae Channel",
-                "duration": "2174",
+                "duration": "2144",
                 "episode": "10",
                 "season": "1",
                 "subtitle": "",
@@ -336,6 +356,9 @@
             "entities": {
                 "CARDINAL": [
                     "10"
+                ],
+                "PRODUCT": [
+                    "Learn"
                 ]
             }
         },
@@ -353,7 +376,7 @@
             "isoDate": "2020-10-21T07:01:00.000Z",
             "itunes": {
                 "author": "C13Originals | Jon Meacham | The HISTORY\u00ae Channel",
-                "duration": "2457",
+                "duration": "2382",
                 "episode": "9",
                 "season": "1",
                 "subtitle": "",
@@ -374,6 +397,9 @@
                 ],
                 "GPE": [
                     "Washington"
+                ],
+                "PRODUCT": [
+                    "Learn"
                 ]
             }
         },
@@ -391,7 +417,7 @@
             "isoDate": "2020-10-14T07:01:00.000Z",
             "itunes": {
                 "author": "C13Originals | Jon Meacham | The HISTORY\u00ae Channel",
-                "duration": "1668",
+                "duration": "1593",
                 "episode": "8",
                 "season": "1",
                 "subtitle": "",
@@ -409,6 +435,9 @@
                 ],
                 "GPE": [
                     "Beijing"
+                ],
+                "PRODUCT": [
+                    "Learn"
                 ]
             }
         },
@@ -426,7 +455,7 @@
             "isoDate": "2020-10-07T07:01:00.000Z",
             "itunes": {
                 "author": "C13Originals | Jon Meacham | The HISTORY\u00ae Channel",
-                "duration": "1888",
+                "duration": "1873",
                 "episode": "7",
                 "season": "1",
                 "subtitle": "",
@@ -448,6 +477,12 @@
                 ],
                 "GPE": [
                     "America"
+                ],
+                "DATE": [
+                    "bicentennial"
+                ],
+                "PRODUCT": [
+                    "Learn"
                 ]
             }
         },
@@ -465,7 +500,7 @@
             "isoDate": "2020-09-30T07:01:00.000Z",
             "itunes": {
                 "author": "C13Originals | Jon Meacham | The HISTORY\u00ae Channel",
-                "duration": "2820",
+                "duration": "2790",
                 "episode": "6",
                 "season": "1",
                 "subtitle": "",
@@ -482,9 +517,11 @@
                     "Joseph McCarthy"
                 ],
                 "ORG": [
-                    "The Department of Special Collections",
-                    "University Archives",
+                    "The Department of Special Collections and University Archives",
                     "Marquette University Libraries"
+                ],
+                "PRODUCT": [
+                    "Learn"
                 ]
             }
         },
@@ -502,7 +539,7 @@
             "isoDate": "2020-09-23T07:01:00.000Z",
             "itunes": {
                 "author": "C13Originals | Jon Meacham | The HISTORY\u00ae Channel",
-                "duration": "2812",
+                "duration": "2752",
                 "episode": "5",
                 "season": "1",
                 "subtitle": "",
@@ -522,6 +559,9 @@
                 ],
                 "GPE": [
                     "America"
+                ],
+                "PRODUCT": [
+                    "Learn"
                 ]
             }
         },
@@ -539,7 +579,7 @@
             "isoDate": "2020-09-16T07:01:00.000Z",
             "itunes": {
                 "author": "C13Originals | Jon Meacham | The HISTORY\u00ae Channel",
-                "duration": "2366",
+                "duration": "2336",
                 "episode": "4",
                 "season": "1",
                 "subtitle": "",
@@ -558,6 +598,9 @@
                 "ORG": [
                     "Washington National Cathedral",
                     "Trump"
+                ],
+                "PRODUCT": [
+                    "Learn"
                 ]
             }
         },
@@ -575,7 +618,7 @@
             "isoDate": "2020-09-09T07:01:00.000Z",
             "itunes": {
                 "author": "C13Originals | Jon Meacham | The HISTORY\u00ae Channel",
-                "duration": "2643",
+                "duration": "2613",
                 "episode": "3",
                 "season": "1",
                 "subtitle": "",
@@ -587,6 +630,9 @@
                 "CARDINAL": [
                     "3"
                 ],
+                "PERSON": [
+                    "Barack Obama"
+                ],
                 "GPE": [
                     "Charleston",
                     "South Carolina"
@@ -596,6 +642,9 @@
                 ],
                 "ORDINAL": [
                     "44th"
+                ],
+                "PRODUCT": [
+                    "Learn"
                 ]
             }
         },
@@ -613,7 +662,7 @@
             "isoDate": "2020-09-02T07:02:00.000Z",
             "itunes": {
                 "author": "C13Originals | Jon Meacham | The HISTORY\u00ae Channel",
-                "duration": "2378",
+                "duration": "2348",
                 "episode": "2",
                 "season": "1",
                 "subtitle": "",
@@ -633,6 +682,9 @@
                 ],
                 "GPE": [
                     "Indianapolis"
+                ],
+                "PRODUCT": [
+                    "Learn"
                 ]
             }
         },
@@ -650,7 +702,7 @@
             "isoDate": "2020-09-02T07:01:00.000Z",
             "itunes": {
                 "author": "C13Originals | Jon Meacham | The HISTORY\u00ae Channel",
-                "duration": "2742",
+                "duration": "2712",
                 "episode": "1",
                 "season": "1",
                 "subtitle": "",
@@ -671,6 +723,9 @@
                 ],
                 "ORG": [
                     "Civil Rights"
+                ],
+                "PRODUCT": [
+                    "Learn"
                 ]
             }
         },
@@ -682,7 +737,7 @@
             "enclosure": {
                 "length": "0",
                 "type": "audio/mpeg",
-                "url": "https://pdst.fm/e/chtbl.com/track/42D75/traffic.megaphone.fm/CAD8330120179.mp3?updated=1598487104"
+                "url": "https://pdst.fm/e/chtbl.com/track/42D75/traffic.megaphone.fm/CAD8330120179.mp3?updated=1650999200"
             },
             "guid": "0b0c7be4-dbde-11ea-ab5d-6769fa846f4f",
             "isoDate": "2020-08-11T14:50:00.000Z",
@@ -696,7 +751,7 @@
             "pubDate": "Tue, 11 Aug 2020 14:50:00 -0000",
             "title": "Welcome to It Was Said, with Jon Meacham",
             "entities": {
-                "DATE": [
+                "EVENT": [
                     "Season One"
                 ],
                 "CARDINAL": [
@@ -705,12 +760,18 @@
                 "NORP": [
                     "American"
                 ],
+                "WORK_OF_ART": [
+                    "Pulitzer Prize"
+                ],
                 "PERSON": [
-                    "Pulitzer Prize",
-                    "Jon Meacham"
+                    "Jon Meacham",
+                    "Studios"
                 ],
                 "ORG": [
-                    "Studios"
+                    "HISTORY Channel"
+                ],
+                "PRODUCT": [
+                    "Learn"
                 ]
             }
         }
@@ -755,17 +816,19 @@
     ],
     "title": "It Was Said",
     "entities": {
+        "PERSON": [
+            "Said",
+            "Jon Meacham",
+            "Meacham"
+        ],
         "NORP": [
             "American"
         ],
         "WORK_OF_ART": [
             "Pulitzer Prize"
         ],
-        "PERSON": [
-            "Jon Meacham"
-        ],
         "ORG": [
-            "Studios"
+            "The HISTORY\u00ae Channel"
         ],
         "CARDINAL": [
             "10"

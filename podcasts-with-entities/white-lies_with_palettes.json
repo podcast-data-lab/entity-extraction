@@ -66,11 +66,15 @@
             "pubDate": "Tue, 18 Jun 2019 00:00:46 -0400",
             "title": "Learn Not To Hear It",
             "entities": {
+                "PERSON": [
+                    "Episode",
+                    "James Reeb"
+                ],
+                "CARDINAL": [
+                    "6"
+                ],
                 "ORDINAL": [
                     "fourth"
-                ],
-                "PERSON": [
-                    "James Reeb"
                 ]
             }
         },
@@ -144,6 +148,9 @@
             "pubDate": "Tue, 04 Jun 2019 00:00:12 -0400",
             "title": "The Sphinx Of Washington Street ",
             "entities": {
+                "CARDINAL": [
+                    "4"
+                ],
                 "PERSON": [
                     "James Reeb"
                 ],
@@ -180,6 +187,9 @@
             "pubDate": "Tue, 28 May 2019 00:00:41 -0400",
             "title": "The Counternarrative",
             "entities": {
+                "CARDINAL": [
+                    "3"
+                ],
                 "PERSON": [
                     "James Reeb's"
                 ]
@@ -210,11 +220,12 @@
             "pubDate": "Tue, 21 May 2019 00:00:24 -0400",
             "title": "The Who And The What",
             "entities": {
+                "CARDINAL": [
+                    "2",
+                    "three"
+                ],
                 "PERSON": [
                     "James Reeb's"
-                ],
-                "CARDINAL": [
-                    "three"
                 ]
             }
         },
@@ -284,7 +295,7 @@
                 ],
                 "DATE": [
                     "1965",
-                    "Tuesday",
+                    "every Tuesday",
                     "May 14"
                 ]
             }

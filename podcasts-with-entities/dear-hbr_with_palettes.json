@@ -35,6 +35,7 @@
                     "Muriel Wilkins"
                 ],
                 "ORG": [
+                    "Wilkins",
                     "HBR Presents",
                     "HBR"
                 ]
@@ -68,8 +69,8 @@
                     "Alison",
                     "Bruce Feiler"
                 ],
-                "PRODUCT": [
-                    "Transitions"
+                "WORK_OF_ART": [
+                    "Life Is in the Transitions"
                 ]
             }
         },
@@ -136,9 +137,7 @@
                     "Ashley Whillans"
                 ],
                 "ORG": [
-                    "Harvard Business School"
-                ],
-                "PRODUCT": [
+                    "Harvard Business School",
                     "Time Smart"
                 ]
             }
@@ -268,8 +267,7 @@
                     "Melvin Smith"
                 ],
                 "ORG": [
-                    "the Weatherhead School of Management",
-                    "Case Western Reserve University"
+                    "the Weatherhead School of Management at Case Western Reserve University"
                 ],
                 "CARDINAL": [
                     "two"
@@ -337,10 +335,12 @@
                 "PERSON": [
                     "Dan",
                     "Alison",
-                    "Alyssa Westring"
+                    "Alyssa Westring",
+                    "Covid"
                 ],
                 "ORG": [
-                    "DePaul University\u2019s Driehaus College of Business"
+                    "DePaul University\u2019s",
+                    "Driehaus College of Business"
                 ]
             }
         },
@@ -374,8 +374,7 @@
                     "CV"
                 ],
                 "ORG": [
-                    "the Weatherhead School of Management",
-                    "Case Western Reserve University"
+                    "the Weatherhead School of Management at Case Western Reserve University"
                 ]
             }
         },
@@ -464,9 +463,10 @@
             "entities": {
                 "PERSON": [
                     "Dan",
-                    "Alison"
+                    "Alison",
+                    "braggart colleague"
                 ],
-                "ORG": [
+                "FAC": [
                     "Meredith Fineman"
                 ]
             }
@@ -535,8 +535,8 @@
                     "Boston University\u2019s",
                     "Questrom School of Business"
                 ],
-                "DATE": [
-                    "first day"
+                "ORDINAL": [
+                    "first"
                 ]
             }
         },
@@ -725,7 +725,9 @@
             "entities": {
                 "PERSON": [
                     "Dan",
-                    "Alison",
+                    "Alison"
+                ],
+                "FAC": [
                     "Siobhan O\u2019Mahony"
                 ],
                 "ORG": [
@@ -893,6 +895,9 @@
                 ],
                 "ORG": [
                     "Optimal Outcomes"
+                ],
+                "CARDINAL": [
+                    "one"
                 ]
             }
         },
@@ -987,10 +992,10 @@
             "entities": {
                 "PERSON": [
                     "Dan",
-                    "Alison",
-                    "Wendy Wood"
+                    "Alison"
                 ],
                 "ORG": [
+                    "Wendy Wood",
                     "USC Marshall School of Business"
                 ]
             }
@@ -1053,10 +1058,10 @@
             "entities": {
                 "PERSON": [
                     "Dan",
-                    "Alison"
+                    "Alison",
+                    "Obed Louissaint"
                 ],
                 "ORG": [
-                    "Obed Louissaint",
                     "IBM"
                 ],
                 "WORK_OF_ART": [
@@ -1196,9 +1201,6 @@
                 ],
                 "ORG": [
                     "Brandeis International Business School"
-                ],
-                "WORK_OF_ART": [
-                    "Reach"
                 ]
             }
         },
@@ -1229,6 +1231,10 @@
                     "Dan",
                     "Alison",
                     "Neil Pasricha"
+                ],
+                "ORG": [
+                    "Walmart",
+                    "You Are Awesome"
                 ]
             }
         },
@@ -1394,6 +1400,9 @@
                     "Dan",
                     "Alison",
                     "Diane Hessan"
+                ],
+                "ORG": [
+                    "C Space"
                 ]
             }
         },
@@ -1513,9 +1522,7 @@
             "entities": {
                 "PERSON": [
                     "Dan",
-                    "Alison"
-                ],
-                "GPE": [
+                    "Alison",
                     "Francesca Gino"
                 ],
                 "ORG": [
@@ -1680,7 +1687,7 @@
                     "Alison",
                     "Mike Fenlon"
                 ],
-                "ORG": [
+                "WORK_OF_ART": [
                     "PwC"
                 ],
                 "DATE": [
@@ -2064,7 +2071,9 @@
             "entities": {
                 "PERSON": [
                     "Dan",
-                    "Alison",
+                    "Alison"
+                ],
+                "FAC": [
                     "Siobhan O\u2019Mahony"
                 ],
                 "ORG": [
@@ -2160,7 +2169,9 @@
             "entities": {
                 "PERSON": [
                     "Dan",
-                    "Alison",
+                    "Alison"
+                ],
+                "FAC": [
                     "Anne Sugar"
                 ]
             }
@@ -2192,7 +2203,7 @@
                     "Dan",
                     "Alison"
                 ],
-                "GPE": [
+                "EVENT": [
                     "Holly Weeks"
                 ],
                 "ORG": [
@@ -2294,10 +2305,8 @@
                     "Alison",
                     "Adam Grant"
                 ],
-                "FAC": [
-                    "the Wharton School"
-                ],
                 "ORG": [
+                    "the Wharton School",
                     "the University of Pennsylvania"
                 ]
             }
@@ -2395,9 +2404,7 @@
             "entities": {
                 "PERSON": [
                     "Dan",
-                    "Alison"
-                ],
-                "ORG": [
+                    "Alison",
                     "Priscilla Claman"
                 ]
             }
@@ -2497,6 +2504,12 @@
                     "Dan",
                     "Alison",
                     "Whitney Johnson"
+                ],
+                "WORK_OF_ART": [
+                    "Disrupt Yourself"
+                ],
+                "CARDINAL": [
+                    "one"
                 ]
             }
         },
@@ -2560,10 +2573,11 @@
                 "PERSON": [
                     "Dan",
                     "Alison",
-                    "Jennifer Deal"
+                    "Jennifer Deal",
+                    "Editor"
                 ],
                 "WORK_OF_ART": [
-                    "What Millennials Want"
+                    "What Millennials Want from Work"
                 ],
                 "DATE": [
                     "April 11, 2018"
@@ -2632,7 +2646,6 @@
                     "Helen Fisher"
                 ],
                 "ORG": [
-                    "Rutgers University",
                     "the Kinsey Institute"
                 ],
                 "TIME": [
@@ -2765,7 +2778,6 @@
     "title": "Dear HBR:",
     "entities": {
         "ORG": [
-            "HBR",
             "Harvard Business Review"
         ],
         "PERSON": [

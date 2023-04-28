@@ -82,7 +82,11 @@
             "link": "http://www.abc.net.au/radio/programs/the-pineapple-project/2021-06-18/fitness/13398732",
             "pubDate": "Sun, 20 Jun 2021 15:00:01 +0000",
             "title": "S6 06 | Fitness",
-            "entities": {}
+            "entities": {
+                "PERSON": [
+                    "gym memberships"
+                ]
+            }
         },
         {
             "content": "Cars are the most expensive things we buy, unless you have a mortgage.\u00a0\u00a0\n\nThe average price of a new car in Australia is about $40,000, which drops by a third the minute you leave the dealer.\u00a0\n\nWe'll meet Ravi who bought a new car hoping to impress his girlfriend and get lots of tips for how to save big on\u00a0the cash\u00a0guzzlers.",
@@ -114,7 +118,10 @@
                 "MONEY": [
                     "about $40,000"
                 ],
-                "ORG": [
+                "ORDINAL": [
+                    "third"
+                ],
+                "PRODUCT": [
                     "Ravi"
                 ]
             }
@@ -147,7 +154,7 @@
                     "three"
                 ],
                 "MONEY": [
-                    "$25"
+                    "25"
                 ]
             }
         },
@@ -210,13 +217,16 @@
             "entities": {
                 "CARDINAL": [
                     "64",
-                    "thousands"
+                    "5"
                 ],
                 "ORG": [
                     "Megapixel"
                 ],
                 "DATE": [
                     "last year\u2019s"
+                ],
+                "MONEY": [
+                    "thousands\u00a0of dollars"
                 ]
             }
         },
@@ -275,8 +285,7 @@
                     "weekly"
                 ],
                 "ORG": [
-                    "BACK",
-                    "the Pineapple Project"
+                    "Pineapple Project"
                 ],
                 "GPE": [
                     "pineapple@abc.net.au"
@@ -309,7 +318,7 @@
                     "Australians"
                 ],
                 "PERSON": [
-                    "Dr Michelle Lim",
+                    "Michelle Lim",
                     "Vicky Jacobs",
                     "Kirsty Webeck"
                 ]
@@ -336,7 +345,11 @@
             "link": "http://www.abc.net.au/radio/programs/the-pineapple-project/the-life-changing-benefits-of-hobbies/12397466",
             "pubDate": "Sat, 27 Jun 2020 15:30:52 +0000",
             "title": "S5 04 | The life changing benefits of hobbies",
-            "entities": {}
+            "entities": {
+                "PERSON": [
+                    "Jan Fran"
+                ]
+            }
         },
         {
             "content": "It\u2019s the thing that promises to connect us more than anything; the wonderful majestical phone! But it\u2019s not all good news. Jan Fran learns about a tiny but insidious phone habit that can destroy relationships, and meets an influencer whose enormous online following left her feeling empty.  So, is there a way to have a good relationship with our phones? Yes. And it doesn\u2019t involve a detox.",
@@ -392,6 +405,7 @@
                     "Australians"
                 ],
                 "PERSON": [
+                    "Jan Fran",
                     "Hugh Mackay",
                     "Jan",
                     "Ned Flanders"
@@ -422,7 +436,12 @@
             "link": "http://www.abc.net.au/radio/programs/the-pineapple-project/the-holy-grail-of-connection/12253742",
             "pubDate": "Sat, 16 May 2020 16:00:00 +0000",
             "title": "S5 01 | The holy grail of connection",
-            "entities": {}
+            "entities": {
+                "CARDINAL": [
+                    "one",
+                    "three"
+                ]
+            }
         },
         {
             "content": "Remember the time you thought \"yay!\" when someone cancelled on you? When we all joked about being too busy and wanting to stay indoors and do nothing? Now, we're socially isolating, distancing ourselves, and longing to connect. If deep human connection is critical to our survival, what do we do now? Join Jan Fran \u2014 from her bedroom \u2014 for this special series on how to find community and connection amidst coronavirus.",
@@ -445,7 +464,11 @@
             "link": "http://www.abc.net.au/radio/programs/the-pineapple-project/the-c-word/12229266",
             "pubDate": "Sat, 09 May 2020 16:00:27 +0000",
             "title": "S5 00 | INTRODUCING: The C Word",
-            "entities": {}
+            "entities": {
+                "PERSON": [
+                    "Jan Fran"
+                ]
+            }
         },
         {
             "content": "It's the last episode and yeah, we reckon we've gotten pretty good at planning for this whole death malarkey. But, as Jan realises when she tries to talk to her sister about her own wishes, the people who love you can get a bit funny when you ambush them to talk about your inevitable death.\n\nWe'll learn what it's like having those tricky conversations when the 'hypothetical' side of it all is removed and you're really looking at an imminent death; and Dr Ursula Sanson-Daly gives us a masterclass on having hard convos about death with the people who matter.",
@@ -470,6 +493,7 @@
             "title": "S4 08 | Let's talk about death, baby",
             "entities": {
                 "PERSON": [
+                    "Jan",
                     "Ursula Sanson-Daly"
                 ]
             }
@@ -497,10 +521,12 @@
             "pubDate": "Tue, 24 Mar 2020 15:00:00 +0000",
             "title": "S4 07 | Death in the workplace",
             "entities": {
+                "ORG": [
+                    "Butcher Leanne"
+                ],
                 "PERSON": [
                     "Steven Oliver",
-                    "TED Talker",
-                    "Michelle Knox"
+                    "TED Talker Michelle Knox"
                 ]
             }
         },
@@ -528,20 +554,17 @@
             "entities": {
                 "PERSON": [
                     "Claire Reilly",
+                    "Twitter",
                     "Grindr",
                     "Insty"
                 ],
-                "ORG": [
-                    "Tinder",
-                    "Tumbler",
-                    "Facebook",
-                    "DM"
-                ],
-                "PRODUCT": [
-                    "Twitter"
-                ],
                 "GPE": [
-                    "Bumble"
+                    "Tinder",
+                    "Bumble",
+                    "Facebook"
+                ],
+                "ORG": [
+                    "Tumbler"
                 ]
             }
         },
@@ -567,12 +590,18 @@
             "pubDate": "Tue, 10 Mar 2020 15:00:00 +0000",
             "title": "S4 05 | Tough decisions in the ICU",
             "entities": {
+                "GPE": [
+                    "Jacinta"
+                ],
                 "ORG": [
                     "ICU",
                     "ICU"
                 ],
                 "DATE": [
                     "97-year-old"
+                ],
+                "PERSON": [
+                    "Peter Saul"
                 ]
             }
         },
@@ -598,11 +627,9 @@
             "pubDate": "Tue, 03 Mar 2020 15:00:00 +0000",
             "title": "S4 04 | Will power - does it count if you write it on a post-it?",
             "entities": {
-                "ORG": [
-                    "ALERT"
-                ],
                 "PERSON": [
-                    "Lawyer Andrew Simpson",
+                    "Andrew Simpson",
+                    "Jan",
                     "Jan"
                 ]
             }
@@ -632,7 +659,7 @@
                 "DATE": [
                     "the next season"
                 ],
-                "GPE": [
+                "ORG": [
                     "pineapple@abc.net.au"
                 ]
             }
@@ -660,6 +687,7 @@
             "title": "S4 03 | Dead men tell no tales (about their assets)",
             "entities": {
                 "PERSON": [
+                    "Jan Fran",
                     "Kate",
                     "Donna Lee Powell"
                 ]
@@ -690,11 +718,13 @@
                 "CARDINAL": [
                     "one"
                 ],
+                "PERSON": [
+                    "Jan Fran",
+                    "Carly",
+                    "Saimi Jeong"
+                ],
                 "ORG": [
                     "DIY"
-                ],
-                "PERSON": [
-                    "Saimi Jeong"
                 ],
                 "DATE": [
                     "several years"
@@ -729,18 +759,13 @@
                 "PERSON": [
                     "Emma Gray",
                     "Jodie Leditschke",
-                    "Births Deaths",
                     "Amanda Ianna"
                 ],
                 "DATE": [
                     "one day"
                 ],
                 "ORG": [
-                    "the Victorian Coroner's Office",
-                    "NSW"
-                ],
-                "GPE": [
-                    "Marriages"
+                    "the Victorian Coroner's Office"
                 ]
             }
         },
@@ -771,8 +796,7 @@
                     "February 12"
                 ],
                 "PERSON": [
-                    "Nah",
-                    "RAV4"
+                    "Nah"
                 ],
                 "ORG": [
                     "The Pineapple Project"
@@ -839,13 +863,16 @@
             "entities": {
                 "PERSON": [
                     "Claire Hooper",
-                    "yippee ki-yay",
+                    "yippee ki-yay mutha",
                     "Claire",
                     "Wade",
                     "Kelly Bainbridge"
                 ],
                 "DATE": [
                     "today"
+                ],
+                "ORG": [
+                    "time &amp"
                 ],
                 "ORDINAL": [
                     "third"
@@ -882,8 +909,8 @@
                     "Claire Hooper",
                     "Peter Walsh's"
                 ],
-                "ORG": [
-                    "Anita Birges"
+                "GPE": [
+                    "Carly"
                 ]
             }
         },
@@ -918,8 +945,8 @@
                     "Claire Hooper",
                     "Peter Walsh's"
                 ],
-                "ORG": [
-                    "Anita Birges"
+                "GPE": [
+                    "Carly"
                 ]
             }
         },
@@ -946,12 +973,13 @@
             "pubDate": "Sat, 19 Oct 2019 14:00:00 +0000",
             "title": "S3 05 | How to organise your paperwork",
             "entities": {
+                "GPE": [
+                    "Blerrgh",
+                    "Kariyn"
+                ],
                 "PERSON": [
                     "Claire Hooper's",
                     "Carol Martyn"
-                ],
-                "GPE": [
-                    "Kariyn"
                 ]
             }
         },
@@ -978,13 +1006,15 @@
             "pubDate": "Sat, 12 Oct 2019 14:00:00 +0000",
             "title": "S3 04 | Getting smart (systems) in the bathroom and laundry",
             "entities": {
-                "PERSON": [
-                    "Susanne Thiebe",
-                    "genie"
-                ],
                 "CARDINAL": [
+                    "one",
                     "four",
                     "one"
+                ],
+                "PERSON": [
+                    "Organiser Susanne Thiebe",
+                    "Dad Will Owyong",
+                    "genie"
                 ]
             }
         },
@@ -1010,14 +1040,16 @@
             "pubDate": "Sat, 05 Oct 2019 15:00:00 +0000",
             "title": "S3 03 | Start really livin' in your living room",
             "entities": {
+                "GPE": [
+                    "argh",
+                    "Deb"
+                ],
                 "PERSON": [
                     "Claire Hooper",
                     "Helen Stanley",
+                    "Karl",
                     "Peter Walsh",
                     "Claire"
-                ],
-                "ORG": [
-                    "Deb, Karl"
                 ],
                 "CARDINAL": [
                     "three",
@@ -1084,7 +1116,7 @@
             "entities": {
                 "PERSON": [
                     "Claire Hooper",
-                    "Libby Sander",
+                    "Dr Libby Sander",
                     "Oprah",
                     "Peter Walsh",
                     "Tidy"
@@ -1117,7 +1149,9 @@
                     "Claire Hooper"
                 ],
                 "ORG": [
-                    "ABC Listen"
+                    "ABC Listen",
+                    "Apple Podcasts",
+                    "Google Podcasts"
                 ],
                 "DATE": [
                     "every week",
@@ -1217,8 +1251,8 @@
                 "GPE": [
                     "Australia"
                 ],
-                "CARDINAL": [
-                    "million"
+                "WORK_OF_ART": [
+                    "Sex Discrimination"
                 ]
             }
         },
@@ -1395,6 +1429,7 @@
             "title": "S2 03 | First you get the network, then you get the power",
             "entities": {
                 "PERSON": [
+                    "Yuck",
                     "Claire Hooper"
                 ]
             }
@@ -1423,7 +1458,6 @@
             "title": "Juicy Slice - Make meetings great again",
             "entities": {
                 "PERSON": [
-                    "Nah",
                     "Claire Hooper"
                 ]
             }
@@ -1441,6 +1475,7 @@
             "itunes": {
                 "author": "ABC Radio",
                 "duration": "00:22:38",
+                "episode": "19",
                 "explicit": "no",
                 "image": "https://images.whooshkaa.com/podcasts/podcast_13352/podcast_media/568a74-13345034-1x1-thumbnail.jpg",
                 "subtitle": "Does your to-do list have more pending items than your online shopping cart? Are you super busy but can't seem to make a dent in your...",
@@ -1450,14 +1485,8 @@
             "pubDate": "Sat, 26 Jan 2019 15:00:00 +0000",
             "title": "S2 02 | Work habits of the kick-arse",
             "entities": {
-                "DATE": [
-                    "day"
-                ],
                 "PERSON": [
                     "Claire Hooper"
-                ],
-                "ORG": [
-                    "DONE"
                 ]
             }
         },
@@ -1515,6 +1544,9 @@
             "entities": {
                 "PERSON": [
                     "Claire Hooper"
+                ],
+                "PRODUCT": [
+                    "Subscribe"
                 ],
                 "DATE": [
                     "every week",
@@ -1716,11 +1748,7 @@
             "link": "http://www.abc.net.au/radio/programs/the-pineapple-project/2018-03-25/you-need-an-emergency-fund/9360520",
             "pubDate": "Sat, 24 Mar 2018 14:30:00 +0000",
             "title": "S1 07 | You need an emergency fund",
-            "entities": {
-                "ORG": [
-                    "Divorce"
-                ]
-            }
+            "entities": {}
         },
         {
             "content": "Need a bit of inspiration? Something to keep you motivated on your pineapple quest? Meet the woman who can\u2019t remember the last time she bought something in a shop. Plus, we asked for your side hustles, and you answered. Sweet.",
@@ -1792,6 +1820,9 @@
             "pubDate": "Sat, 10 Mar 2018 19:00:00 +0000",
             "title": "S1 06 | How to buy a house",
             "entities": {
+                "DATE": [
+                    "auction day"
+                ],
                 "PERSON": [
                     "Claire Hooper"
                 ],
@@ -1851,6 +1882,8 @@
             "title": "S1 04 | Love and money",
             "entities": {
                 "WORK_OF_ART": [
+                    "Love",
+                    "Love",
                     "Love",
                     "Love"
                 ],
@@ -1992,12 +2025,13 @@
                     "this week",
                     "daily"
                 ],
+                "PERSON": [
+                    "gym memberships",
+                    "Claire Hooper"
+                ],
                 "ORDINAL": [
                     "7th",
                     "first"
-                ],
-                "PERSON": [
-                    "Claire Hooper"
                 ]
             }
         },
@@ -2027,12 +2061,13 @@
                     "this week",
                     "daily"
                 ],
+                "PERSON": [
+                    "gym memberships",
+                    "Claire Hooper"
+                ],
                 "ORDINAL": [
                     "7th",
                     "first"
-                ],
-                "PERSON": [
-                    "Claire Hooper"
                 ]
             }
         },
@@ -2159,7 +2194,7 @@
         "summary": "The Pineapple Project is back with a new host, comedian Nazeem Hussain. This season we're here to help you save you a whole heap of money. We'll look at spending less, spending better and understanding why we buy things in the first place. It's like getting a pay rise without having to do anything! \n\nSo we're getting FRUGAL...(WTF does frugal mean?! It means not being wasteful). We're giving you easy ways to save money on fashion, pets, travel, cars, phones, food and at the gym. So join Nazeem for an eight-part adventure into our wallets and our minds to see why we spend, where we waste money, and what we can do about it."
     },
     "language": "en-us",
-    "lastBuildDate": "Mon, 11 Apr 2022 11:28:45 GMT",
+    "lastBuildDate": "Thu, 26 May 2022 23:28:24 GMT",
     "link": "http://www.abc.net.au/radio/programs/the-pineapple-project/",
     "paginationLinks": {
         "first": "https://rss.whooshkaa.com/rss/podcast/id/13352",
@@ -2176,10 +2211,9 @@
     "title": "The Pineapple Project",
     "entities": {
         "ORG": [
-            "The Pineapple Project",
-            "FRUGAL"
+            "The Pineapple Project"
         ],
-        "LOC": [
+        "PERSON": [
             "Nazeem Hussain"
         ],
         "DATE": [

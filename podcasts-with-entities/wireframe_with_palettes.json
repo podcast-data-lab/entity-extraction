@@ -38,22 +38,27 @@
             "pubDate": "Mon, 21 Jun 2021 04:00:00 +0000",
             "title": "Why We Love to Hate Comic Sans and the Return of Fonts with Personality",
             "entities": {
-                "PERSON": [
-                    "Comic Sans",
-                    "Comic Sans",
-                    "Khoi Vinh",
-                    "Pippa Johnstone",
-                    "Comic Sans"
+                "NORP": [
+                    "Sans",
+                    "Sans",
+                    "Sans",
+                    "Sans"
                 ],
                 "DATE": [
                     "today"
                 ],
+                "PERSON": [
+                    "Khoi Vinh",
+                    "Pippa Johnstone"
+                ],
                 "ORG": [
-                    "href=\"https://twitter.com/emmatucker?s=21\">Emma Tucker</a>",
+                    "Dominic Girard",
+                    "next.</p><p><a href=\"https://twitter.com",
                     "href=\"https://twitter.com",
-                    "the American Civil Rights",
-                    "href=\"http://www.lynneyun.com",
-                    "Cooper_Black\">Cooper Black</a>"
+                    "the American Civil Rights era"
+                ],
+                "CARDINAL": [
+                    "href=\"https://www.lynneyun.com/\">Lynne"
                 ]
             }
         },
@@ -88,18 +93,15 @@
             "entities": {
                 "DATE": [
                     "the last year",
-                    "last year\u2019s"
-                ],
-                "WORK_OF_ART": [
-                    "Wireframe"
+                    "last year"
                 ],
                 "PERSON": [
+                    "Wireframe",
                     "Khoi Vinh",
                     "Dominic Girard",
                     "Pippa Johnstone",
                     "Zander Furnas",
-                    "href=\"https://shirleywu.studio\">Shirley Wu</a>",
-                    "Jordan Wirfs-Brock\u2019s"
+                    "Jordan Wirfs-Brock"
                 ],
                 "ORG": [
                     "Cairo</a",
@@ -147,33 +149,31 @@
             "pubDate": "Mon, 24 May 2021 04:00:00 +0000",
             "title": "Why are package designers rethinking the box?",
             "entities": {
-                "ORG": [
-                    "href=\"https://twitter.com",
-                    "Dominic Girard",
-                    "iPhone",
-                    "href=\"https://twitter.com",
-                    "iPhone",
-                    "href=\"https://www.lumi.com/wellmade\">here</a>",
-                    "Airplane</a",
-                    "Hammerhead"
-                ],
                 "DATE": [
                     "earlier this year"
                 ],
                 "PERSON": [
                     "Khoi Vinh",
                     "Pippa Johnstone",
-                    "Tseggai</a",
+                    "Dominic Girard",
+                    "twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor\">Bisserat Tseggai</a",
                     "Brittney Swindells",
-                    "Alfred",
-                    "href=\"http://www.stephanango.com/\">Stephan Ango</a>",
-                    "Made",
+                    "Stephan",
                     "Andrew Gibbs",
                     "Ian Montgomery",
                     "Marisa Sanchez-Dunning"
                 ],
+                "ORDINAL": [
+                    "First"
+                ],
+                "ORG": [
+                    "href=\"https://twitter.com",
+                    "Alfred",
+                    "Airplane</a",
+                    "Hammerhead"
+                ],
                 "NORP": [
-                    "twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor\">Bisserat"
+                    "href=\"https://guacamoleairplane.com/\">Guacamole"
                 ]
             }
         },
@@ -206,8 +206,9 @@
             "pubDate": "Mon, 10 May 2021 04:00:00 +0000",
             "title": "How can designers support the fight for racial justice?",
             "entities": {
-                "WORK_OF_ART": [
-                    "The Black Lives Matter"
+                "CARDINAL": [
+                    "one",
+                    "c13e1fbf-66c3-4f7a-88f0-35f2573569db\">here</a>.</p"
                 ],
                 "PERSON": [
                     "Khoi Vinh",
@@ -216,26 +217,23 @@
                     "Teddy Phillips",
                     "Climacosa",
                     "Khoi",
+                    "Adobe",
                     "Adobe"
                 ],
                 "ORG": [
                     "BLM",
                     "Instagram",
-                    "href=\"https://www.instagram.com",
                     "href=\"https://designaction.org",
-                    "BLM logo</a",
-                    "href=\"https://www.instagram.com",
-                    "The Dean of the Faculty of Design",
-                    "Adobe\u2019s",
-                    "href=\"https://www.adobe.com",
-                    "c13e1fbf-66c3-4f7a-88f0-35f2573569db\">here</a>.</p>\n"
+                    "BLM"
                 ],
                 "ORDINAL": [
-                    "first"
+                    "First"
+                ],
+                "WORK_OF_ART": [
+                    "The Dean of the Faculty of Design"
                 ],
                 "GPE": [
                     "Toronto",
-                    "track?uri",
                     "US"
                 ],
                 "DATE": [
@@ -272,32 +270,25 @@
             "pubDate": "Mon, 26 Apr 2021 04:00:00 +0000",
             "title": "Does Peloton\u2019s design actually help you exercise more?",
             "entities": {
-                "CARDINAL": [
-                    "millions"
-                ],
-                "ORG": [
-                    "href=\"https://www.vogue.com",
-                    "href=\"https://www.youtube.com",
-                    "UX",
-                    "href=\"https://twitter.com/ariel_n?s=21\">Ariel Norling</a",
-                    "href=\"https://twitter.com",
-                    "href=\"https://choicehacking.com",
-                    "UX",
-                    "Peloton",
-                    "UX",
-                    "UX",
-                    "UX",
-                    "href=\"https://www.outsideonline.com/1978066",
-                    "href=\"https://www.instagram.com",
-                    "href=\"https://www.instagram.com"
-                ],
                 "PERSON": [
+                    "apps",
+                    "Thigh Master",
                     "Khoi Vinh",
                     "Pippa Johnstone",
                     "Gene"
                 ],
-                "GPE": [
-                    "track?uri"
+                "CARDINAL": [
+                    "millions"
+                ],
+                "DATE": [
+                    "the days"
+                ],
+                "ORG": [
+                    "Dominic Girard",
+                    "href=\"https://twitter.com/ariel_n?s=21\">Ariel Norling</a",
+                    "href=\"https://twitter.com",
+                    "UX",
+                    "Peloton"
                 ]
             }
         },
@@ -335,46 +326,36 @@
                     "Dominic Girard",
                     "Burger King",
                     "href=\"https://arthurfoliard.com",
+                    "the Girl Scouts",
                     "Burger King's",
-                    "href=\"https://jkrglobal.com",
                     "Burger King's",
                     "href=\"http://logorealm.com",
                     "href=\"https://arthurfoliard.com",
-                    "href=\"https://pixellogo.com"
+                    "Girl Scouts"
                 ],
                 "DATE": [
                     "this winter",
-                    "our season"
+                    "2021"
                 ],
                 "PERSON": [
                     "Khoi Vinh",
                     "Pippa Johnstone",
-                    "Knowles Ritchie</a",
                     "Khoi",
-                    "Bobby C.Martin Jr.</a>",
+                    "Bobby C.Martin Jr.</a",
                     "Bobby",
                     "Ben",
-                    "Knowles Ritchie",
+                    "Ben",
                     "Koto Studios",
-                    "Bobby Martin",
-                    "Girl Scouts"
+                    "Bobby Martin"
                 ],
                 "GPE": [
-                    "London",
-                    "Aunt Jemima",
-                    "track?uri"
+                    "London"
                 ],
                 "NORP": [
                     "Dutch"
                 ],
                 "WORK_OF_ART": [
-                    "Pearl Milling Company\"</a>"
-                ],
-                "CARDINAL": [
-                    "2021"
-                ],
-                "PRODUCT": [
-                    "target=\"_blank\">right here</a"
+                    "Pearl Milling Company\"</a> and <a href=\"https://www.npr.org/sections/live-updates"
                 ]
             }
         },
@@ -406,13 +387,11 @@
             "pubDate": "Mon, 5 Apr 2021 04:00:00 +0000",
             "title": "Design, creativity, and a new season of Wireframe",
             "entities": {
-                "ORG": [
-                    "UX",
-                    "Adobe"
-                ],
                 "PERSON": [
-                    "Khoi Vinh",
-                    "Adobe Creative Cloud"
+                    "Khoi Vinh"
+                ],
+                "FAC": [
+                    "Adobe"
                 ]
             }
         },
@@ -445,6 +424,9 @@
             "pubDate": "Mon, 21 Sep 2020 07:05:06 +0000",
             "title": "Why are elections so hard to design well?",
             "entities": {
+                "NORP": [
+                    "democratic"
+                ],
                 "CARDINAL": [
                     "hundreds",
                     "one",
@@ -452,14 +434,15 @@
                 ],
                 "ORG": [
                     "href=\"https://twitter.com",
-                    "href=\"https://twitter.com",
-                    "href=\"https://twitter.com/",
+                    "href=\"https://twitter.com/drewoxide?lang=en\">Drew Davies</a",
                     "href=\"http://twitter.com",
+                    "href=\"https://twitter.com/kateludicrum?lang",
                     "href=\"https://twitter.com",
-                    "href=\"https://twitter.com",
+                    "en\">Jon",
                     "the California Primary",
                     "PDF",
-                    "UX",
+                    "UX/UI",
+                    "Khoi Vinh",
                     "Fast Company\u2019s"
                 ],
                 "DATE": [
@@ -472,12 +455,11 @@
                 ],
                 "PERSON": [
                     "Andre Fladell",
-                    "Khoi Vinh",
+                    "whitneyq\">Whitney Quesenbery</a",
                     "Adobe XD"
                 ],
                 "GPE": [
-                    "Los Angeles County",
-                    "kateludicrum?lang"
+                    "Los Angeles County"
                 ]
             }
         },
@@ -510,26 +492,35 @@
             "pubDate": "Mon, 7 Sep 2020 07:05:23 +0000",
             "title": "Can an app actually help you relax?",
             "entities": {
+                "ORDINAL": [
+                    "third"
+                ],
                 "GPE": [
-                    "America",
-                    "miriamwjohnson?lang",
-                    "en\">Miriam Johnson</a"
+                    "America"
+                ],
+                "TIME": [
+                    "the night"
+                ],
+                "MONEY": [
+                    "multi-billion dollar"
                 ],
                 "ORG": [
                     "href=\"https://twitter.com",
                     "href=\"https://twitter.com",
                     "href=\"https://twitter.com",
-                    "href=\"https://twitter.com/imcconchie?lang",
-                    "href=\"https://twitter.com",
+                    "VP of Design",
+                    "Headspace",
+                    "href=\"https://twitter.com/rootd_app?lang",
                     "the Sun City Sleep Center",
                     "PDF",
-                    "UX",
+                    "UX/UI",
+                    "Khoi Vinh",
                     "Fast Company\u2019s"
                 ],
                 "PERSON": [
-                    "href=\"http://lucasguarneri.com/\">Lucas Guarneri</a>",
+                    "en\">Miriam Johnson</a",
                     "Kristyna Hartse",
-                    "Khoi Vinh",
+                    "apps",
                     "Adobe XD"
                 ],
                 "CARDINAL": [
@@ -571,15 +562,20 @@
                     "just one day this spring"
                 ],
                 "NORP": [
-                    "Americans"
+                    "Americans",
+                    "UX"
                 ],
                 "CARDINAL": [
                     "Dozens",
                     "one",
                     "100"
                 ],
-                "PRODUCT": [
-                    "UX"
+                "PERSON": [
+                    "Wireframe",
+                    "en\">Dan",
+                    "Netflix",
+                    "Quibi",
+                    "Adobe XD"
                 ],
                 "ORG": [
                     "href=\"https://twitter.com",
@@ -587,18 +583,12 @@
                     "href=\"https://twitter.com",
                     "Scener",
                     "UX",
-                    "UX",
                     "href=\"https://twitter.com",
                     "href=\"https://twitter.com",
                     "PDF",
-                    "UX",
-                    "Fast Company\u2019s"
-                ],
-                "PERSON": [
-                    "Netflix",
-                    "Quibi",
+                    "UX/UI",
                     "Khoi Vinh",
-                    "Adobe XD"
+                    "Fast Company\u2019s"
                 ]
             }
         },
@@ -631,33 +621,29 @@
             "pubDate": "Mon, 10 Aug 2020 07:05:01 +0000",
             "title": "How crowdfunding design makes it easy for us to give",
             "entities": {
-                "PRODUCT": [
+                "NORP": [
                     "GoFundMe",
-                    "Chuffed"
-                ],
-                "PERSON": [
-                    "Kickstarter",
-                    "Khoi Vinh",
-                    "Adobe XD"
+                    "UX"
                 ],
                 "ORG": [
-                    "Patreon",
-                    "UX",
+                    "Kickstarter, Patreon",
+                    "Chuffed",
                     "href=\"https://twitter.com",
                     "href=\"http://twitter.com",
-                    "khoi\">Khoi",
                     "href=\"https://twitter.com",
                     "href=\"https://twitter.com",
-                    "href=\"https://twitter.com",
-                    "UX",
                     "PDF",
-                    "UX",
+                    "UX/UI",
+                    "Khoi Vinh",
                     "Fast Company\u2019s"
                 ],
                 "CARDINAL": [
                     "one",
                     "one",
                     "100"
+                ],
+                "PERSON": [
+                    "Adobe XD"
                 ]
             }
         },
@@ -690,26 +676,27 @@
             "pubDate": "Mon, 27 Jul 2020 07:05:21 +0000",
             "title": "Why can\u2019t dad unmute himself on Zoom?",
             "entities": {
-                "PERSON": [
-                    "Netflix",
-                    "Jeff Johnson</a",
-                    "Mike Duggan",
-                    "soyun/\">Sophie Kim</a",
-                    "Mike",
-                    "Adobe XD"
+                "GPE": [
+                    "Netflix"
                 ],
                 "ORG": [
                     "href=\"https://twitter.com",
-                    "href=\"https://twitter.com",
+                    "UX Researcher",
                     "Spotify",
                     "href=\"https://twitter.com/jnd1er?lang",
                     "Norman</a",
                     "PDF",
-                    "UX"
+                    "UX/UI",
+                    "khoi-vinh\">Fast Company\u2019s"
                 ],
-                "GPE": [
-                    "miriamwjohnson?lang",
-                    "en\">Miriam Johnson</a"
+                "PERSON": [
+                    "en\">Miriam Johnson</a",
+                    "ca\">Michelle Brown</a",
+                    "Jeff Johnson</a",
+                    "Mike Duggan",
+                    "href=\"https://studiored.com/\">Studio",
+                    "Mike",
+                    "Adobe XD"
                 ],
                 "CARDINAL": [
                     "one",
@@ -749,27 +736,27 @@
                 "ORDINAL": [
                     "first"
                 ],
+                "NORP": [
+                    "UX"
+                ],
                 "ORG": [
-                    "UX",
                     "href=\"https://twitter.com",
-                    "href=\"https://twitter.com",
-                    "href=\"https://twitter.com/deroyperaza?lang",
-                    "href=\"https://twitter.com",
+                    "Collins</a",
+                    "href=\"https://twitter.com/mulegirl?lang=en\">Erika",
+                    "Mule Design",
+                    "href=\"https://twitter.com/deroyperaza?lang=en\">Deroy Peraza</a",
+                    "href=\"http://www.sarahsarahsarah.com/about\">Sarah Foster</a>",
                     "href=\"https://twitter.com",
                     "href=\"https://twitter.com",
                     "PDF",
-                    "UX"
-                ],
-                "FAC": [
-                    "Mule Design"
+                    "UX/UI",
+                    "khoi-vinh\">Fast Company\u2019s"
                 ],
                 "GPE": [
                     "Hyperakt"
                 ],
                 "PERSON": [
-                    "en\">Kevin Twohy</a>",
-                    "Mendoza-Yu</a",
-                    "act.</p><p><a href=\"https://adobe.ly",
+                    "en\">Kevin Twohy</a",
                     "Adobe XD"
                 ],
                 "CARDINAL": [
@@ -811,10 +798,11 @@
                 ],
                 "ORG": [
                     "PDF",
-                    "UX"
+                    "UX/UI",
+                    "khoi-vinh\">Fast Company\u2019s"
                 ],
                 "PERSON": [
-                    "trailer</a><a href=\"https://adobe.ly"
+                    "trailer</a><a"
                 ],
                 "CARDINAL": [
                     "one",
@@ -883,7 +871,6 @@
             "entities": {
                 "ORG": [
                     "FUI",
-                    "UX",
                     "FUI",
                     "PDF"
                 ]
@@ -921,6 +908,9 @@
                     "Emily Heyward",
                     "Red Antler"
                 ],
+                "CARDINAL": [
+                    "about it.</p><p><a"
+                ],
                 "ORG": [
                     "PDF"
                 ]
@@ -955,8 +945,7 @@
             "entities": {
                 "PERSON": [
                     "Connor Moore",
-                    "Susan Rogers",
-                    "ear.</p><p><a"
+                    "Susan Rogers"
                 ],
                 "ORG": [
                     "PDF"
@@ -991,11 +980,13 @@
             "title": "Privacy, Trust, and Good Design",
             "entities": {
                 "PERSON": [
+                    "Khoi",
                     "Georgia Bullen",
-                    "Lieke Beelen"
+                    "Amy Stepanovich",
+                    "Lieke Beelen",
+                    "href=\"https://adobe.ly"
                 ],
                 "ORG": [
-                    "Amy Stepanovich (Access Now",
                     "PDF"
                 ]
             }
@@ -1027,6 +1018,9 @@
             "pubDate": "Tue, 10 Sep 2019 10:00:00 +0000",
             "title": "A Prescription for Good Design",
             "entities": {
+                "NORP": [
+                    "UX"
+                ],
                 "ORG": [
                     "PDF"
                 ]
@@ -1058,14 +1052,16 @@
             "pubDate": "Thu, 5 Sep 2019 06:00:00 +0000",
             "title": "Independently Good Design",
             "entities": {
-                "ORG": [
+                "PERSON": [
                     "Adobe MAX",
+                    "Jason Hardy",
+                    "Jennifer Gonzales"
+                ],
+                "ORG": [
                     "Hugo & Marie"
                 ],
-                "PERSON": [
-                    "Jason Hardy",
-                    "Jennifer Gonzales",
-                    "Kemp Attwood"
+                "FAC": [
+                    "Kemp Attwood of Area 17.</p"
                 ]
             }
         },
@@ -1097,9 +1093,10 @@
             "title": "Coming Soon: Wireframe Season Two",
             "entities": {
                 "DATE": [
+                    "Last season",
                     "This season"
                 ],
-                "ORG": [
+                "NORP": [
                     "UX"
                 ]
             }
@@ -1130,13 +1127,14 @@
             "pubDate": "Mon, 18 Mar 2019 19:34:39 +0000",
             "title": "BONUS: What Good Design Sounds Like",
             "entities": {
-                "ORG": [
-                    "Voice UX",
-                    "NPR"
-                ],
                 "PERSON": [
+                    "Wireframe",
                     "Katie Briggs",
                     "Will Hall"
+                ],
+                "ORG": [
+                    "NPR",
+                    "RAIN"
                 ]
             }
         },
@@ -1169,15 +1167,14 @@
             "entities": {
                 "ORG": [
                     "WordPress",
-                    "Xbox",
                     "Julia Child",
                     "PDF"
                 ],
-                "NORP": [
-                    "French"
+                "PRODUCT": [
+                    "Xbox"
                 ],
-                "PERSON": [
-                    "Bon"
+                "WORK_OF_ART": [
+                    "French Chef"
                 ]
             }
         },
@@ -1209,12 +1206,8 @@
             "title": "Is Good Design Good for You?",
             "entities": {
                 "ORG": [
-                    "Facebook",
                     "PDF",
                     "PDF"
-                ],
-                "PERSON": [
-                    "design.</p><p><a href=\"Read"
                 ]
             }
         },
@@ -1279,11 +1272,15 @@
             "pubDate": "Tue, 30 Oct 2018 10:00:00 +0000",
             "title": "BONUS: Good Design According to You",
             "entities": {
+                "PERSON": [
+                    "Wireframe"
+                ],
                 "ORG": [
                     "Adobe MAX"
                 ],
                 "GPE": [
-                    "Los Angeles"
+                    "Los Angeles",
+                    "a.k.a"
                 ],
                 "DATE": [
                     "this year"
@@ -1321,6 +1318,11 @@
             "pubDate": "Tue, 23 Oct 2018 10:00:00 +0000",
             "title": "Good Design is \ud83d\udca9",
             "entities": {
+                "PERSON": [
+                    "emoji",
+                    "emoji",
+                    "emoji"
+                ],
                 "ORG": [
                     "PDF"
                 ]
@@ -1354,14 +1356,12 @@
             "title": "Good Design is Good Civics",
             "entities": {
                 "CARDINAL": [
+                    "311",
+                    "311",
                     "311"
                 ],
                 "GPE": [
                     "Boston"
-                ],
-                "QUANTITY": [
-                    "311 mobile app",
-                    "\u2019s 311 app"
                 ],
                 "ORG": [
                     "PDF"
@@ -1474,9 +1474,8 @@
     "title": "Wireframe",
     "entities": {
         "ORG": [
-            "UX",
             "Adobe\u2019s Khoi Vinh",
-            "Fast Company\u2019s"
+            "Fast Company\u2019s Most Creative People in Business"
         ],
         "CARDINAL": [
             "one"

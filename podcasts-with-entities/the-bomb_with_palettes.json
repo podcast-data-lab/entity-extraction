@@ -37,13 +37,11 @@
                     "Hiroshima"
                 ],
                 "DATE": [
-                    "7 August 1945"
+                    "7 August 1945",
+                    "that day"
                 ],
                 "PERSON": [
                     "Emily Strasser"
-                ],
-                "MONEY": [
-                    "#"
                 ]
             }
         },
@@ -69,26 +67,23 @@
             "title": "6 The first atomic bomb",
             "entities": {
                 "ORG": [
-                    "Time",
-                    "Manhattan Project",
-                    "Chicago\u2019s Met Lab",
-                    "Szilard"
+                    "Time"
+                ],
+                "GPE": [
+                    "Manhattan",
+                    "US",
+                    "Chicago",
+                    "US"
                 ],
                 "ORDINAL": [
                     "first"
                 ],
                 "PERSON": [
-                    "Leo Szilard"
-                ],
-                "GPE": [
-                    "US",
-                    "US"
+                    "Leo Szilard",
+                    "Szilard"
                 ],
                 "NORP": [
                     "Japanese"
-                ],
-                "MONEY": [
-                    "#"
                 ]
             }
         },
@@ -115,20 +110,17 @@
             "entities": {
                 "ORG": [
                     "FBI",
-                    "the Manhattan Project",
-                    "Szilard"
+                    "the Manhattan Project"
                 ],
                 "PERSON": [
-                    "Leo Szilard"
+                    "Leo Szilard",
+                    "Szilard"
                 ],
                 "ORDINAL": [
                     "first"
                 ],
                 "GPE": [
                     "Japan"
-                ],
-                "MONEY": [
-                    "#"
                 ]
             }
         },
@@ -153,8 +145,9 @@
             "pubDate": "Fri, 21 Aug 2020 23:05:00 +0000",
             "title": "4 Pearl Harbour",
             "entities": {
-                "FAC": [
-                    "Pearl Harbour"
+                "PERSON": [
+                    "Pearl Harbour",
+                    "Leo Szilard"
                 ],
                 "NORP": [
                     "Japanese"
@@ -166,12 +159,6 @@
                 ],
                 "ORDINAL": [
                     "first"
-                ],
-                "PERSON": [
-                    "Leo Szilard"
-                ],
-                "MONEY": [
-                    "#"
                 ]
             }
         },
@@ -215,9 +202,6 @@
                 ],
                 "TIME": [
                     "his hour"
-                ],
-                "MONEY": [
-                    "#"
                 ]
             }
         },
@@ -259,9 +243,6 @@
                 ],
                 "CARDINAL": [
                     "two"
-                ],
-                "MONEY": [
-                    "#"
                 ]
             }
         },
@@ -286,8 +267,11 @@
             "pubDate": "Fri, 31 Jul 2020 23:05:00 +0000",
             "title": "1 Moonshine",
             "entities": {
+                "DATE": [
+                    "1920s"
+                ],
                 "GPE": [
-                    "1920s Berlin",
+                    "Berlin",
                     "London"
                 ],
                 "PERSON": [
@@ -299,9 +283,6 @@
                 ],
                 "ORDINAL": [
                     "first"
-                ],
-                "CARDINAL": [
-                    "#"
                 ]
             }
         },
@@ -326,9 +307,11 @@
             "pubDate": "Thu, 23 Jul 2020 09:25:00 +0000",
             "title": "The prologue",
             "entities": {
-                "CARDINAL": [
-                    "1",
-                    "#"
+                "ORG": [
+                    "Bomb"
+                ],
+                "PERSON": [
+                    "Episode 1"
                 ],
                 "DATE": [
                     "1 August"

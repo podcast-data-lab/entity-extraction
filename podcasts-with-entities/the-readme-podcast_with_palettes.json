@@ -35,28 +35,25 @@
             "pubDate": "Tue, 21 Dec 2021 09:00:00 GMT",
             "title": "Hosts in the hot seat",
             "entities": {
-                "DATE": [
-                    "Season 2",
-                    "Christmas",
-                    "monthly"
-                ],
                 "PERSON": [
+                    "Season 2",
                     "Brian",
-                    "Nintendos",
+                    "Neha",
                     "Encarta",
                     "Ask Jeeves"
                 ],
-                "PRODUCT": [
-                    "Netscape"
-                ],
                 "ORG": [
+                    "Nintendos",
                     "OSS",
                     "href=\"https://github.com",
                     "href=\"https://github.com"
                 ],
-                "CARDINAL": [
-                    "target=\"_blank\"><u",
-                    "target=\"_blank\"><u"
+                "DATE": [
+                    "Christmas",
+                    "monthly"
+                ],
+                "FAC": [
+                    "Netscape"
                 ]
             }
         },
@@ -93,7 +90,7 @@
                 ],
                 "ORG": [
                     "GitHub: &nbsp;&nbsp;https://github.com/QuincyLarson</p>",
-                    "https://github.com/readme/#newsletter</p>\n"
+                    "https://github.com/readme/#newsletter</p"
                 ]
             }
         },
@@ -123,15 +120,17 @@
             "entities": {
                 "PERSON": [
                     "Jani Ev\u00e4kallio",
+                    "Jani",
+                    "Jani",
+                    "jevakallio\">https://github.com",
                     "Jani"
                 ],
                 "ORG": [
                     "OSS",
                     "FOAM",
+                    "GitHub",
                     "href=\"https://github.com",
-                    "href=\"https://github.com",
-                    "href=\"https://github.com",
-                    "\">https://github.com/"
+                    "href=\"https://github.com"
                 ],
                 "CARDINAL": [
                     "16"
@@ -170,28 +169,24 @@
             "title": "Three careers and motherhood are just the start",
             "entities": {
                 "PERSON": [
-                    "White Panther"
+                    "Salma Alam-Naylor",
+                    "White Panther",
+                    "Salma"
                 ],
                 "DATE": [
-                    "twenties",
                     "Today",
                     "monthly"
                 ],
-                "ORG": [
+                "GPE": [
                     "Twitch",
                     "Discord",
+                    "Salma",
+                    "Salma",
+                    "Discord"
+                ],
+                "ORG": [
                     "GitHub",
-                    "href=\"https://www.twitch.tv",
-                    "target=\"_blank\">https://www.twitch.tv",
-                    "href=\"https://www.twitch.tv",
-                    "href=\"https://github.com",
                     "href=\"https://github.com"
-                ],
-                "GPE": [
-                    "work.</p"
-                ],
-                "CARDINAL": [
-                    "target=\"_blank\"><u"
                 ]
             }
         },
@@ -219,22 +214,24 @@
             "pubDate": "Tue, 16 Nov 2021 12:00:00 GMT",
             "title": "Where utility meets beauty: Hoppscotch",
             "entities": {
-                "ORG": [
-                    "Hoppscotch",
-                    "Liyas",
-                    "href=\"https://github.com",
-                    "href=\"https://github.com",
-                    "target=\"_blank",
-                    "href=\"https://github.com"
-                ],
-                "FAC": [
-                    "Hoppscotch"
+                "PERSON": [
+                    "Liyas Thomas"
                 ],
                 "GPE": [
+                    "Hoppscotch",
+                    "Hoppscotch",
                     "Hoppscotch"
                 ],
-                "CARDINAL": [
-                    "target=\"_blank\"><u"
+                "ORG": [
+                    "API",
+                    "Liyas",
+                    "Liyas",
+                    "href=\"https://github.com",
+                    "Liyas",
+                    "href=\"https://github.com"
+                ],
+                "LOC": [
+                    "features:<a href=\"https://github.com"
                 ]
             }
         },
@@ -262,20 +259,29 @@
             "pubDate": "Tue, 09 Nov 2021 12:00:00 GMT",
             "title": "Giving 110% in the right place at the right time",
             "entities": {
-                "DATE": [
-                    "20s",
-                    "2021"
-                ],
                 "PERSON": [
+                    "Fred Schott",
+                    "Box",
                     "Fred",
                     "Astro",
                     "Astro"
                 ],
+                "DATE": [
+                    "20s",
+                    "2021"
+                ],
                 "ORG": [
+                    "Google",
                     "JavaScript",
-                    "href=\"https://github.com",
+                    "GitHub",
                     "href=\"https://github.com",
                     "href=\"https://github.com"
+                ],
+                "GPE": [
+                    "Astro"
+                ],
+                "LOC": [
+                    "features:<a href=\"https://github.com"
                 ]
             }
         },
@@ -304,7 +310,8 @@
             "title": "A master in both piano and WordPress",
             "entities": {
                 "GPE": [
-                    "Piano"
+                    "Piano",
+                    "Helen"
                 ],
                 "PERSON": [
                     "Helen Hou-Sand\u00ed"
@@ -312,17 +319,15 @@
                 "ORG": [
                     "WordPress",
                     "WordPress",
-                    "WordPress",
+                    "GitHub",
                     "href=\"https://github.com",
                     "href=\"https://github.com"
                 ],
                 "DATE": [
                     "A decade later"
                 ],
-                "CARDINAL": [
-                    "target=\"_blank\"><u",
-                    "target=\"_blank\"><u",
-                    "target=\"_blank\"><u"
+                "PRODUCT": [
+                    "WordPress"
                 ]
             }
         },
@@ -352,7 +357,8 @@
             "entities": {
                 "PERSON": [
                     "Anthony Sottile",
-                    "Anthony"
+                    "Anthony",
+                    "Twitch"
                 ],
                 "DATE": [
                     "two years"
@@ -361,10 +367,7 @@
                     "first"
                 ],
                 "ORG": [
-                    "Twitch",
-                    "href=\"https://www.twitch.tv",
-                    "href=\"https://github.com",
-                    "href=\"https://github.com"
+                    "GitHub"
                 ]
             }
         },
@@ -391,12 +394,15 @@
             "pubDate": "Fri, 08 Oct 2021 21:33:51 GMT",
             "title": "Season 2 Trailer",
             "entities": {
+                "CARDINAL": [
+                    "2"
+                ],
                 "PERSON": [
                     "Brian Douglas",
                     "Neha Batra"
                 ],
                 "DATE": [
-                    "Tuesday",
+                    "every Tuesday",
                     "October 26th"
                 ]
             }
@@ -425,17 +431,19 @@
             "pubDate": "Tue, 27 Jul 2021 11:00:00 GMT",
             "title": "Prioritizing empathy and taking risks to build Chakra UI",
             "entities": {
+                "PERSON": [
+                    "Adebayo"
+                ],
+                "ORG": [
+                    "Chakra UI"
+                ],
+                "QUANTITY": [
+                    "a quarter million"
+                ],
                 "GPE": [
-                    "Chakra UI",
                     "Nigeria",
                     "Dubai",
                     "Chakra UI"
-                ],
-                "CARDINAL": [
-                    "a quarter million"
-                ],
-                "DATE": [
-                    "a month"
                 ]
             }
         },
@@ -468,13 +476,13 @@
                     "Nigeria"
                 ],
                 "PERSON": [
-                    "Ada Nduka Oyom"
-                ],
-                "LOC": [
-                    "Africa"
+                    "Ada Nduka"
                 ],
                 "ORG": [
                     "Ada"
+                ],
+                "LOC": [
+                    "The ReadME Podcast"
                 ]
             }
         },
@@ -504,15 +512,13 @@
             "entities": {
                 "ORG": [
                     "MIT",
+                    "Limor Fried",
                     "PayPal",
                     "Adafruit",
                     "Adafruit"
                 ],
                 "DATE": [
                     "2005"
-                ],
-                "PERSON": [
-                    "Limor Fried"
                 ],
                 "CARDINAL": [
                     "100"
@@ -522,6 +528,9 @@
                 ],
                 "GPE": [
                     "New York"
+                ],
+                "PERSON": [
+                    "Ladyada"
                 ]
             }
         },
@@ -553,13 +562,17 @@
                     "Rachel Nabors",
                     "Rachel",
                     "Rachel",
-                    "Sailor Moon"
+                    "Moon"
                 ],
                 "GPE": [
                     "Virginia"
                 ],
                 "ORG": [
-                    "Facebook\u2019s React Core"
+                    "Facebook\u2019s React Core",
+                    "the React Core"
+                ],
+                "LOC": [
+                    "The ReadME Podcast"
                 ]
             }
         },
@@ -588,7 +601,7 @@
             "title": "cURL: 25 years and 200 releases later",
             "entities": {
                 "DATE": [
-                    "25 years ago",
+                    "Almost 25 years ago",
                     "1997",
                     "a quarter of a century"
                 ],
@@ -631,7 +644,10 @@
                 "PERSON": [
                     "Henry Zhu",
                     "Javascript",
-                    "Henry",
+                    "Henry"
+                ],
+                "GPE": [
+                    "Babel",
                     "Henry"
                 ],
                 "ORDINAL": [
@@ -665,13 +681,18 @@
             "entities": {
                 "PERSON": [
                     "Tobias Koppers",
-                    "Sean Larkin"
+                    "Tobias",
+                    "Sean Larkin",
+                    "Tobias"
                 ],
                 "CARDINAL": [
                     "millions"
                 ],
-                "ORG": [
+                "GPE": [
                     "Vercel"
+                ],
+                "LOC": [
+                    "The ReadME Podcast"
                 ]
             }
         },
@@ -734,22 +755,26 @@
             "title": "Humanizing bots and building community",
             "entities": {
                 "PERSON": [
-                    "Mariatta Wijaya"
+                    "Mariatta Wijaya",
+                    "PyCascades"
                 ],
                 "GPE": [
                     "Canada",
                     "Indonesia",
-                    "PyCascades"
+                    "Mariatta"
                 ],
                 "ORDINAL": [
                     "first"
                 ],
                 "ORG": [
                     "GitHub",
-                    "Vancouver PyLadies",
-                    "the Python Software Foundation",
-                    "Mariatta",
-                    "now.</p"
+                    "the Python Software Foundation"
+                ],
+                "WORK_OF_ART": [
+                    "Vancouver PyLadies"
+                ],
+                "LOC": [
+                    "the Google Open Source Peer Bonus Program"
                 ]
             }
         },
@@ -780,10 +805,13 @@
                 "PERSON": [
                     "Scott Hanselman",
                     "Mark Downie",
-                    "Das Blog",
+                    "Scott",
                     "Mark"
                 ],
-                "GPE": [
+                "LOC": [
+                    "Das Blog"
+                ],
+                "PRODUCT": [
                     "Das Blog"
                 ],
                 "DATE": [
@@ -815,26 +843,24 @@
             "pubDate": "Mon, 17 May 2021 14:00:00 GMT",
             "title": "How one idea grew into a popular Javascript ecosystem",
             "entities": {
-                "GPE": [
-                    "U.S.",
-                    "China",
-                    "Vue",
+                "PERSON": [
+                    "Evan",
+                    "Evan",
                     "Vue"
                 ],
-                "CARDINAL": [
-                    "18"
+                "GPE": [
+                    "U.S.",
+                    "China"
+                ],
+                "DATE": [
+                    "18",
+                    "2020"
                 ],
                 "WORK_OF_ART": [
                     "a Master\u2019s of Fine Arts"
                 ],
-                "LOC": [
-                    "Vue"
-                ],
-                "DATE": [
-                    "2020"
-                ],
-                "PERSON": [
-                    "Evan"
+                "ORG": [
+                    "Google Creative Lab"
                 ]
             }
         },
@@ -862,22 +888,18 @@
             "pubDate": "Mon, 17 May 2021 14:00:00 GMT",
             "title": "From a 3D side project to the dream job",
             "entities": {
-                "PERSON": [
+                "ORG": [
                     "Gina H\u00e4u\u00dfge\u2019s",
-                    "Gina"
+                    "GitHub"
                 ],
                 "ORDINAL": [
-                    "first",
                     "first"
                 ],
                 "DATE": [
                     "2012"
                 ],
-                "CARDINAL": [
-                    "3D"
-                ],
-                "ORG": [
-                    "GitHub"
+                "PERSON": [
+                    "Gina"
                 ]
             }
         },
@@ -926,7 +948,7 @@
         "summary": "On The ReadME Podcast, we take a look behind the scenes of the most impactful open source projects and the developers who make them happen. Our guests are coding in public, working on the periphery of open source, and taking time to consider how we think about technology. In sharing these stories, we hope to provide a spotlight on what you don\u2019t always see in the lines of code, and what it takes to build the technology that inspires us all.\n\nCheck-out The ReadME Project for more episodes, stories and features: https://github.com/readme"
     },
     "language": "en",
-    "lastBuildDate": "Fri, 22 Apr 2022 23:29:33 GMT",
+    "lastBuildDate": "Wed, 25 May 2022 06:22:17 GMT",
     "link": "https://github.com/readme/podcast",
     "paginationLinks": {
         "self": "https://anchor.fm/s/5a87b0f4/podcast/rss"

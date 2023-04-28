@@ -1,5 +1,5 @@
 {
-    "copyright": "Copyright \u00a9 The Economist Newspaper Limited 2021. All rights reserved.",
+    "copyright": "Copyright \u00a9 The Economist Newspaper Limited 2022. All rights reserved.",
     "description": "<p>It might start with a lightbulb moment or a sudden flash of insight\u2014but having an idea and making a success of it are very different things. It\u2019s the gap between invention and innovation. In six monthly episodes, we\u2019ll find out about the gamechangers.</p>",
     "docs": "https://www.acast.com/gamechangers",
     "feedUrl": "https://rss.acast.com/gamechangers",
@@ -41,15 +41,17 @@
                 "PERSON": [
                     "Tom Standage"
                 ],
+                "ORG": [
+                    "Economist",
+                    "grey",
+                    "grey",
+                    "href='https://acast.com/privacy'>acast.com"
+                ],
                 "MONEY": [
                     "10;&nbsp;<br"
                 ],
                 "CARDINAL": [
                     "0.75em"
-                ],
-                "ORG": [
-                    "href='https://acast.com",
-                    "privacy'>acast.com/privacy</a"
                 ]
             }
         },
@@ -80,11 +82,9 @@
                     "third",
                     "first",
                     "third",
+                    "first",
                     "third",
                     "third"
-                ],
-                "NORP": [
-                    "Western"
                 ],
                 "DATE": [
                     "more than a decade",
@@ -98,17 +98,20 @@
                     "Kenya"
                 ],
                 "PERSON": [
+                    "target=\"_blank\">Kenya</a",
                     "Tom Standage"
+                ],
+                "ORG": [
+                    "Economist",
+                    "grey",
+                    "grey",
+                    "href='https://acast.com/privacy'>acast.com"
                 ],
                 "MONEY": [
                     "10;&nbsp;<br"
                 ],
                 "CARDINAL": [
                     "0.75em"
-                ],
-                "ORG": [
-                    "href='https://acast.com",
-                    "privacy'>acast.com/privacy</a"
                 ]
             }
         },
@@ -138,9 +141,10 @@
                     "Tom Standage"
                 ],
                 "ORG": [
-                    "target=\"_blank",
-                    "href='https://acast.com",
-                    "privacy'>acast.com/privacy</a"
+                    "Economist",
+                    "grey",
+                    "grey",
+                    "href='https://acast.com/privacy'>acast.com"
                 ],
                 "ORDINAL": [
                     "third"
@@ -175,16 +179,14 @@
             "pubDate": "Mon, 16 Aug 2021 15:30:00 GMT",
             "title": "Gamechangers: More than just a game",
             "entities": {
-                "ORG": [
-                    "href=\"https://www.economist.com/business/2021/08/01",
-                    "href='https://acast.com",
-                    "privacy'>acast.com/privacy</a"
-                ],
                 "PERSON": [
                     "Tom Standage"
                 ],
-                "GPE": [
-                    "AI"
+                "ORG": [
+                    "AI",
+                    "grey",
+                    "grey",
+                    "href='https://acast.com/privacy'>acast.com"
                 ],
                 "MONEY": [
                     "10;&nbsp;<br"
@@ -216,21 +218,21 @@
             "pubDate": "Mon, 19 Jul 2021 15:32:16 GMT",
             "title": "Gamechangers: Don't shoot the messenger",
             "entities": {
+                "PERSON": [
+                    "briefing/2021/03/27/covid-19",
+                    "Moderna",
+                    "Tom Standage"
+                ],
                 "ORG": [
                     "RNA",
                     "Pfizer-BioNTech",
-                    "href='https://acast.com",
-                    "privacy'>acast.com/privacy</a"
-                ],
-                "GPE": [
-                    "Moderna"
+                    "grey",
+                    "grey",
+                    "href='https://acast.com/privacy'>acast.com"
                 ],
                 "DATE": [
                     "just a few months",
                     "decades"
-                ],
-                "PERSON": [
-                    "Tom Standage"
                 ],
                 "MONEY": [
                     "10;&nbsp;<br"
@@ -263,16 +265,16 @@
             "title": "Gamechangers: The battery that powers the world",
             "entities": {
                 "DATE": [
-                    "monthly",
-                    "three-decades"
+                    "monthly"
                 ],
                 "WORK_OF_ART": [
                     "Nobel"
                 ],
                 "ORG": [
                     "Tesla",
-                    "href='https://acast.com",
-                    "privacy'>acast.com/privacy</a"
+                    "grey",
+                    "grey",
+                    "href='https://acast.com/privacy'>acast.com"
                 ],
                 "PERSON": [
                     "Tom Standage"
@@ -307,21 +309,21 @@
             "pubDate": "Wed, 16 Jun 2021 23:00:30 GMT",
             "title": "Gamechangers: Trailer",
             "entities": {
-                "CARDINAL": [
-                    "one",
-                    "over six",
-                    "0.75em"
-                ],
                 "DATE": [
                     "monthly",
                     "decades"
+                ],
+                "CARDINAL": [
+                    "six",
+                    "0.75em"
                 ],
                 "MONEY": [
                     "10;&nbsp;<br"
                 ],
                 "ORG": [
-                    "href='https://acast.com",
-                    "privacy'>acast.com/privacy</a"
+                    "grey",
+                    "grey",
+                    "href='https://acast.com/privacy'>acast.com"
                 ]
             }
         }
@@ -350,7 +352,7 @@
         "summary": "It might start with a lightbulb moment or a sudden flash of insight\u2014but having an idea and making a success of it are very different things. It\u2019s the gap between invention and innovation. In six monthly episodes, we\u2019ll find out about the gamechangers."
     },
     "language": "en",
-    "lastBuildDate": "Thu, 17 Mar 2022 13:41:13 GMT",
+    "lastBuildDate": "Thu, 19 May 2022 20:30:39 GMT",
     "link": "https://www.economist.com/",
     "paginationLinks": {
         "self": "https://rss.acast.com/gamechangers"

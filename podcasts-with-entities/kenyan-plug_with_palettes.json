@@ -64,14 +64,11 @@
             "pubDate": "Tue, 26 Oct 2021 14:48:09 GMT",
             "title": "THE FORMULA",
             "entities": {
-                "PERSON": [
-                    "Kenyan Plug"
+                "NORP": [
+                    "Kenyan"
                 ],
                 "DATE": [
                     "2021"
-                ],
-                "ORG": [
-                    "\u2764"
                 ]
             }
         },
@@ -124,9 +121,8 @@
             "pubDate": "Thu, 23 Sep 2021 08:19:31 GMT",
             "title": "Anxiety of Success ",
             "entities": {
-                "ORG": [
-                    "Anywho",
-                    "guys &"
+                "PERSON": [
+                    "Anywho"
                 ],
                 "WORK_OF_ART": [
                     "Love"
@@ -161,7 +157,7 @@
                     "Africa"
                 ],
                 "DATE": [
-                    "7th month"
+                    "my 7th month"
                 ],
                 "GPE": [
                     "Kenya",
@@ -194,7 +190,7 @@
             "title": "Track Star \ud83c\udfc3\ud83c\udffe\u200d\u2640\ufe0f",
             "entities": {
                 "PERSON": [
-                    "\ud83c\udf43 Nature Vibes"
+                    "\ud83c\udf43\ud83c\udf43 Nature Vibes"
                 ]
             }
         },
@@ -225,13 +221,13 @@
                 "NORP": [
                     "African"
                 ],
+                "ORG": [
+                    "Podcaster",
+                    "Raph"
+                ],
                 "PERSON": [
                     "Raphael Harry",
-                    "Raph",
-                    "https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkLnBvZGJlYW4uY29tL3doaXRlbGFiZWxhbWVyaWNhbi9mZWVkLnhtbA== Check"
-                ],
-                "WORK_OF_ART": [
-                    "White Label American"
+                    "Enjoy"
                 ],
                 "LOC": [
                     "Africa"
@@ -265,11 +261,8 @@
             "pubDate": "Sat, 20 Mar 2021 13:42:28 GMT",
             "title": "Respectfully",
             "entities": {
-                "CARDINAL": [
+                "DATE": [
                     "2021"
-                ],
-                "ORG": [
-                    "\u2764"
                 ]
             }
         },
@@ -329,16 +322,16 @@
             "pubDate": "Sat, 13 Feb 2021 06:22:52 GMT",
             "title": "Shake & Bake ",
             "entities": {
+                "EVENT": [
+                    "this Valentines Day",
+                    "Valentines Day"
+                ],
                 "DATE": [
-                    "this Valentines Day weekend",
                     "today",
                     "last years"
                 ],
                 "GPE": [
                     "Kenya"
-                ],
-                "EVENT": [
-                    "Valentines Day"
                 ]
             }
         },
@@ -408,6 +401,9 @@
             "pubDate": "Thu, 24 Dec 2020 08:05:09 GMT",
             "title": "Foreign Views\ud83c\uddf0\ud83c\uddea",
             "entities": {
+                "WORK_OF_ART": [
+                    "254 Edition"
+                ],
                 "PERSON": [
                     "The Kenyan Plug",
                     "Covid"
@@ -488,23 +484,21 @@
             "entities": {
                 "PERSON": [
                     "Angelie",
-                    "Angelie \ud83d\ude0d"
+                    "Cover Art",
+                    "Angelie",
+                    "\ud83d\udc9b Prayers for"
                 ],
                 "NORP": [
                     "Congolese"
                 ],
-                "GPE": [
-                    "Democratic Republic of Congo"
-                ],
-                "DATE": [
-                    "modern day"
+                "ORG": [
+                    "DRC ( Democratic Republic of Congo"
                 ],
                 "LOC": [
-                    "Africa",
-                    "Continent"
+                    "Africa"
                 ],
-                "ORG": [
-                    "Prayers for Congo"
+                "GPE": [
+                    "Congo"
                 ]
             }
         },
@@ -564,8 +558,7 @@
                 "ORG": [
                     "Matilda",
                     "Africalypso Podcast",
-                    "Matilda",
-                    "\ud83d\ude4f"
+                    "Matilda"
                 ],
                 "NORP": [
                     "Nigerian"
@@ -620,9 +613,6 @@
                 ],
                 "GPE": [
                     "Nigeria"
-                ],
-                "ORG": [
-                    "the American Presidental Elections"
                 ]
             }
         },
@@ -655,9 +645,6 @@
                 ],
                 "ORG": [
                     "YouTube"
-                ],
-                "PERSON": [
-                    "\ud83d\ude07\n\n--- \n\nSend"
                 ]
             }
         },
@@ -690,17 +677,17 @@
                     "Kenyan Artist",
                     "Edwin Mlayi",
                     "Edwin Mlayi",
+                    "Vain Outro",
+                    "Follow Edwin",
+                    "Twitter"
+                ],
+                "ORG": [
+                    "an \u2018Artist Plug\u2019",
                     "Intro",
-                    "Follow Edwin"
+                    "IG @yeshisnameisedwin"
                 ],
                 "CARDINAL": [
                     "10"
-                ],
-                "ORG": [
-                    "IG @yeshisnameisedwin"
-                ],
-                "PRODUCT": [
-                    "Twitter"
                 ]
             }
         },
@@ -761,10 +748,7 @@
             "title": "No Guidance ",
             "entities": {
                 "ORG": [
-                    "Hello Fam",
-                    "BONUS",
-                    "Truth Cafee\u2019s Wambooi",
-                    "ShikaVibe"
+                    "Hello Fam"
                 ],
                 "DATE": [
                     "a month"
@@ -773,8 +757,7 @@
                     "Shika Vibe"
                 ],
                 "CARDINAL": [
-                    "2",
-                    "#"
+                    "2"
                 ]
             }
         },
@@ -809,9 +792,6 @@
                 "CARDINAL": [
                     "5"
                 ],
-                "ORG": [
-                    "EP"
-                ],
                 "WORK_OF_ART": [
                     "Emergency Exit Demo Tapes"
                 ]
@@ -843,8 +823,7 @@
             "entities": {
                 "PERSON": [
                     "Pesh",
-                    "Alsina",
-                    "Kenyan R&B Artist"
+                    "Caleb Awiti"
                 ],
                 "DATE": [
                     "monthly",
@@ -852,8 +831,10 @@
                     "August"
                 ],
                 "ORG": [
-                    "Entanglement",
-                    "Ex-Tape",
+                    "Kenyan R&B Artist",
+                    "Ex-Tape"
+                ],
+                "FAC": [
                     "Caleb Awiti\u2019s"
                 ]
             }
@@ -882,15 +863,9 @@
             "pubDate": "Sun, 12 Jul 2020 22:25:37 GMT",
             "title": "Industry Predators ",
             "entities": {
-                "DATE": [
-                    "the weekend"
-                ],
-                "PERSON": [
-                    "Kenyan Plug Pod"
-                ],
-                "WORK_OF_ART": [
-                    "Industry Predators",
-                    "Industry"
+                "ORG": [
+                    "Kenyan Plug Pod",
+                    "Pesh"
                 ]
             }
         },
@@ -923,11 +898,13 @@
                 ],
                 "ORG": [
                     "Adoveli Podcast",
-                    "Kenyan Music Blogger"
+                    "Outro Emma Cheruto-Mood"
                 ],
                 "PERSON": [
-                    "Intro",
-                    "Outro Emma Cheruto-Mood"
+                    "Playlist Curator",
+                    "Kenyan Music Blogger",
+                    "Dms",
+                    "Wendy Kay-"
                 ]
             }
         },
@@ -962,11 +939,16 @@
                     "Human Diary Podcast"
                 ],
                 "NORP": [
-                    "German",
-                    "\ud83c\udde9"
+                    "German"
                 ],
                 "CARDINAL": [
                     "50"
+                ],
+                "ORG": [
+                    "Mi Siweze &"
+                ],
+                "PERSON": [
+                    "Sauti Sol"
                 ]
             }
         },
@@ -998,10 +980,13 @@
                     "Truth Cafee Podcast",
                     "@Truthcafeepodcast @titokaris254 & @wam.boo.i"
                 ],
-                "PERSON": [
+                "GPE": [
                     "Sheng",
-                    "Karis",
-                    "Monski ft Boutross"
+                    "Karis"
+                ],
+                "PERSON": [
+                    "Monski ft Boutross x Jovie Jovv-",
+                    "Chappelle Clip"
                 ]
             }
         },
@@ -1029,23 +1014,21 @@
             "pubDate": "Thu, 11 Jun 2020 04:00:00 GMT",
             "title": "Woman\u2019s World ",
             "entities": {
-                "PERSON": [
-                    "Throwback"
-                ],
                 "DATE": [
                     "Thursday"
                 ],
-                "NORP": [
-                    "Nigerian",
-                    "Nigerian"
-                ],
                 "ORG": [
-                    "Africalypso",
-                    "Woman\u2019s",
-                    "African Woman"
+                    "Nigerian Podcast",
+                    "Woman\u2019s"
+                ],
+                "GPE": [
+                    "Africalypso"
                 ],
                 "CARDINAL": [
                     "3"
+                ],
+                "NORP": [
+                    "Nigerian"
                 ]
             }
         },
@@ -1100,23 +1083,25 @@
             "entities": {
                 "ORG": [
                     "Yin-Yang & Madaraka",
-                    "IG @shizeplug",
-                    "YBN Cordae"
+                    "Africalypso Podcast",
+                    "IG"
                 ],
                 "CARDINAL": [
                     "1",
-                    "2"
+                    "2."
+                ],
+                "PERSON": [
+                    "Madaraka"
                 ],
                 "DATE": [
-                    "June 1st",
-                    "-Lord"
+                    "June 1st"
                 ],
                 "NORP": [
                     "Kenyans",
                     "Kenyans"
                 ],
-                "PERSON": [
-                    "https://www.rollingstone.com/culture/culture-news/george-floyd-protests-bail-funds-police-brutality-black-lives-matter-1008259/"
+                "LOC": [
+                    "the Black Live Matter"
                 ]
             }
         },
@@ -1148,12 +1133,10 @@
                     "Mental Health Awareness Month",
                     "a Mental Health Organization",
                     "Mental Health",
-                    "Ciru",
                     "CMBL"
                 ],
                 "PERSON": [
-                    "Ciru Karanja",
-                    "Intro"
+                    "Ciru Karanja"
                 ],
                 "NORP": [
                     "Kenyan",
@@ -1185,9 +1168,6 @@
             "pubDate": "Sat, 23 May 2020 14:38:31 GMT",
             "title": "Outside! ",
             "entities": {
-                "CARDINAL": [
-                    "1"
-                ],
                 "PERSON": [
                     "Intro"
                 ]
@@ -1220,14 +1200,18 @@
                 "DATE": [
                     "Last week"
                 ],
-                "PERSON": [
-                    "Karis"
-                ],
-                "ORG": [
+                "GPE": [
+                    "Karis",
                     "Wamboi"
                 ],
-                "WORK_OF_ART": [
-                    "\u2728 Press"
+                "NORP": [
+                    "Kenyan"
+                ],
+                "ORG": [
+                    "\u2728\u2728 Press"
+                ],
+                "PERSON": [
+                    "Outro"
                 ]
             }
         },
@@ -1260,18 +1244,19 @@
                 ],
                 "PERSON": [
                     "Jinx",
-                    "Kiss Fm head",
-                    "Jinx",
-                    "Intro"
-                ],
-                "ORG": [
                     "Entrepreneur",
-                    "Radio Host",
-                    "TNT",
-                    "TNT"
+                    "Fm",
+                    "Jinx"
                 ],
                 "ORDINAL": [
                     "first"
+                ],
+                "ORG": [
+                    "Radio Host",
+                    "A&R",
+                    "TNT",
+                    "TNT",
+                    "TNT"
                 ],
                 "CARDINAL": [
                     "3"
@@ -1361,19 +1346,23 @@
             "entities": {
                 "PERSON": [
                     "Kenyan Plug",
-                    "Justin Der",
-                    "Jill"
-                ],
-                "ORG": [
-                    "Kulcha"
+                    "Enjoy",
+                    "Justin Der"
                 ],
                 "GPE": [
-                    "South Africa\u2019s"
+                    "The Kulcha",
+                    "South Africa"
                 ],
                 "CARDINAL": [
-                    "1",
+                    "number 1",
                     "420",
                     "420"
+                ],
+                "FAC": [
+                    "The Kulcha Podcast"
+                ],
+                "WORK_OF_ART": [
+                    "Music SIR: D\u2019evils,"
                 ]
             }
         },
@@ -1401,10 +1390,11 @@
             "pubDate": "Mon, 20 Apr 2020 01:26:02 GMT",
             "title": "420 Radio (Season 2 Finale)",
             "entities": {
-                "ORG": [
-                    "Kulcha"
-                ],
                 "PERSON": [
+                    "Kulcha",
+                    "Shi"
+                ],
+                "ORG": [
                     "OG Stoner"
                 ],
                 "WORK_OF_ART": [
@@ -1436,7 +1426,7 @@
             "pubDate": "Wed, 08 Apr 2020 14:38:15 GMT",
             "title": "Testing Ground (Rona Rant)",
             "entities": {
-                "PERSON": [
+                "ORG": [
                     "Melanin"
                 ]
             }
@@ -1498,20 +1488,16 @@
             "pubDate": "Sun, 29 Mar 2020 15:05:11 GMT",
             "title": "Purpose killers (Germ Free)",
             "entities": {
-                "PRODUCT": [
-                    "New"
+                "PERSON": [
+                    "Shi",
+                    "Skepta ft Wizkid-Bad Energy"
                 ],
                 "DATE": [
-                    "18 years"
+                    "my 18 years"
                 ],
                 "GPE": [
                     "States",
-                    "Quarantine",
-                    "Kanye"
-                ],
-                "PERSON": [
-                    "Gold Digger",
-                    "Skepta ft Wizkid-Bad Energy"
+                    "Quarantine"
                 ]
             }
         },
@@ -1539,6 +1525,9 @@
             "pubDate": "Wed, 25 Mar 2020 17:48:46 GMT",
             "title": "Airport convos ",
             "entities": {
+                "ORG": [
+                    "Quarantings"
+                ],
                 "CARDINAL": [
                     "1"
                 ]
@@ -1567,11 +1556,7 @@
             "link": "https://anchor.fm/kenyanplugexperience/episodes/Toxic-Traits-ebdtbe",
             "pubDate": "Wed, 18 Mar 2020 11:36:42 GMT",
             "title": "Toxic Traits ",
-            "entities": {
-                "NORP": [
-                    "Toxic"
-                ]
-            }
+            "entities": {}
         },
         {
             "content": "On this episode I go through the things I\u2019ve been learning as of late and I must say, I got the keys *Dj Khaled voice* well I think I\u2019ve unlocked one part to life and that is tapping into your prosperity conscious and learning to \u201cbet it all on you\u201d! Hit play for motivation, laughs and a guaranteed success awakening if you desire. Watch these videos to collect more gems. https://youtu.be/EctzLTFrktc https://youtu.be/KpD0AdcnbRI Welcome to the experience #Kenyanplugexperience \nIntro/Outro\nHUSTLE - Magix Enga & Fena Gitu \n\n--- \n\nSend in a voice message: https://anchor.fm/kenyanplugexperience/message\nSupport this podcast: <a href=\"https://anchor.fm/kenyanplugexperience/support\" rel=\"payment\">https://anchor.fm/kenyanplugexperience/support</a>",
@@ -1598,9 +1583,14 @@
             "title": "Skills Pay The Bills ",
             "entities": {
                 "PERSON": [
-                    "Dj Khaled",
+                    "Dj Khaled"
+                ],
+                "CARDINAL": [
+                    "one"
+                ],
+                "ORG": [
                     "https://youtu.be/EctzLTFrktc",
-                    "Intro"
+                    "Kenyanplugexperience \nIntro/Outro\nHUSTLE - Magix Enga & Fena Gitu"
                 ]
             }
         },
@@ -1631,10 +1621,15 @@
                 "ORG": [
                     "Jaydonthedayone"
                 ],
+                "DATE": [
+                    "7Th"
+                ],
                 "CARDINAL": [
-                    "7Th",
                     "8",
                     "#"
+                ],
+                "GPE": [
+                    "https://youtu.be/_I0LcWgxlFY"
                 ]
             }
         },
@@ -1663,22 +1658,19 @@
             "title": "African History Month ",
             "entities": {
                 "NORP": [
+                    "African",
                     "African"
                 ],
                 "GPE": [
                     "Black"
                 ],
+                "LOC": [
+                    "Africa",
+                    "Black History Month"
+                ],
                 "DATE": [
-                    "month",
                     "this month",
                     "today"
-                ],
-                "LOC": [
-                    "Africa"
-                ],
-                "PERSON": [
-                    "Black History Month",
-                    "African History Month"
                 ]
             }
         },
@@ -1715,7 +1707,8 @@
                     "Jack Doyo",
                     "Jack Doyo",
                     "Jack Doyo",
-                    "Intro"
+                    "Intro",
+                    "Safe"
                 ],
                 "GPE": [
                     "America",
@@ -1724,8 +1717,17 @@
                     "America",
                     "Kenya"
                 ],
+                "ORG": [
+                    "the World"
+                ],
+                "LOC": [
+                    "Plomo Reload"
+                ],
                 "PRODUCT": [
                     "I-40"
+                ],
+                "EVENT": [
+                    "the EXCLUSIVE Ride"
                 ]
             }
         },
@@ -1753,19 +1755,20 @@
             "pubDate": "Thu, 20 Feb 2020 22:09:30 GMT",
             "title": "Boss Energy ",
             "entities": {
+                "PERSON": [
+                    "Wana",
+                    "Freestyle Outro",
+                    "Nani Huyu"
+                ],
                 "DATE": [
                     "the week",
-                    "this weeks",
+                    "this weeks"
+                ],
+                "CARDINAL": [
                     "2020"
                 ],
-                "MONEY": [
-                    "50 Cent"
-                ],
-                "ORG": [
-                    "Banton Trust"
-                ],
-                "PERSON": [
-                    "Nani Huyu"
+                "GPE": [
+                    "Mzungu"
                 ]
             }
         },
@@ -1799,11 +1802,14 @@
                 "DATE": [
                     "Valentine\u2019s Day",
                     "years",
-                    "this day",
-                    "Valentine\u2019s Day fam\u2763"
+                    "this day"
                 ],
                 "PERSON": [
+                    "Valentine",
                     "Sauti"
+                ],
+                "GPE": [
+                    "Suzzana"
                 ]
             }
         },
@@ -1835,8 +1841,12 @@
                     "Diddy"
                 ],
                 "DATE": [
+                    "a new month",
                     "the new year",
                     "the day"
+                ],
+                "PERSON": [
+                    "Enjoy"
                 ]
             }
         },
@@ -1865,7 +1875,7 @@
             "title": "Winning the L.O.T.T.O",
             "entities": {
                 "DATE": [
-                    "Wednesday"
+                    "every Wednesday"
                 ],
                 "ORG": [
                     "the Kenyan Plug Experience",
@@ -1899,10 +1909,10 @@
             "entities": {
                 "PERSON": [
                     "Huddah Boss Chic",
-                    "Kidjo"
+                    "Angelique Kidjo"
                 ],
                 "ORG": [
-                    "Meg thee Stallion"
+                    "Meg"
                 ],
                 "LOC": [
                     "Africa"
@@ -1994,7 +2004,7 @@
             "pubDate": "Sat, 18 Jan 2020 13:56:30 GMT",
             "title": "Bado una ogopa? (Fear) ",
             "entities": {
-                "DATE": [
+                "CARDINAL": [
                     "2020"
                 ]
             }
@@ -2084,18 +2094,19 @@
                 "PERSON": [
                     "Wajinga Nyiyi",
                     "Kenyan Artist",
-                    "Nipsey Hussle",
                     "King Kaka",
-                    "King Kaka Link \n",
-                    "Russ-Journey Outro"
-                ],
-                "ORG": [
                     "King Kaka",
-                    "YG",
-                    "FDT"
+                    "Kaka Link",
+                    "Russ-Journey Outro",
+                    "Beyonce ft Jay Z & Childish"
                 ],
                 "NORP": [
                     "Kenyan"
+                ],
+                "ORG": [
+                    "YG",
+                    "Nipsey Hussle",
+                    "FDT"
                 ],
                 "DATE": [
                     "this week"
@@ -2127,26 +2138,30 @@
             "title": "Kenyan Plug Podcast Episode 43: Twa Twa",
             "entities": {
                 "CARDINAL": [
-                    "one"
+                    "one",
+                    "7TH"
                 ],
                 "ORG": [
-                    "Spotify",
-                    "01:33"
+                    "Apple Podcast"
                 ],
                 "PERSON": [
+                    "Spotify",
                     "Susan Munene",
                     "Mama Twa Twa",
                     "Intro Jaydonthedayone",
+                    "Suzziah ft Shappaman - Only",
                     "Kenyan Excellence:(4:28"
                 ],
                 "DATE": [
                     "the week"
                 ],
                 "TIME": [
+                    "01:33",
                     "14:03"
                 ],
                 "WORK_OF_ART": [
-                    "Music Plug"
+                    "Controversy of the week:(28:50",
+                    "Music Plug:"
                 ]
             }
         },
@@ -2174,8 +2189,16 @@
             "pubDate": "Thu, 21 Nov 2019 02:57:00 GMT",
             "title": "Kenyan Plug Pod Presents Sheng with Shi: Episode 8 ",
             "entities": {
-                "ORG": [
-                    "Down &nbsp;https://www.youtube.com/watch?v"
+                "CARDINAL": [
+                    "#"
+                ],
+                "PERSON": [
+                    "Suzziah ft Barak",
+                    "Nitakuhara",
+                    "Bora Uhai"
+                ],
+                "GPE": [
+                    "Rada"
                 ]
             }
         },
@@ -2203,29 +2226,29 @@
             "pubDate": "Tue, 19 Nov 2019 09:35:14 GMT",
             "title": "Kenyan Plug Podcast Episode 42: Expectations ",
             "entities": {
-                "DATE": [
-                    "42"
-                ],
-                "PERSON": [
-                    "Intro"
-                ],
-                "ORG": [
-                    "https://www.youtube.com/watch?v=VcCIdH7YhMw</p",
-                    "Forbidden Fruit"
-                ],
                 "CARDINAL": [
-                    "01:33)</p",
-                    "04:25)</p",
+                    "42",
                     "11:00)</p",
                     "23:30)</p",
-                    "254",
-                    "23"
+                    "254"
+                ],
+                "ORG": [
+                    "Forbidden Fruit",
+                    "Charcoal"
+                ],
+                "PERSON": [
+                    "Kenyan Excellence",
+                    "Xenia Manasseh"
                 ],
                 "GPE": [
-                    "Xenia Manasseh"
+                    "Kenyan",
+                    "Empawa"
                 ],
                 "NORP": [
                     "African"
+                ],
+                "DATE": [
+                    "Nuffa 23"
                 ]
             }
         },
@@ -2254,14 +2277,14 @@
             "title": "Kenyan Plug Pod Presents Sheng with Shi: Episode 7",
             "entities": {
                 "PERSON": [
-                    "Sheng",
+                    "Shi",
+                    "Intro",
                     "Trap Tears - Baraka",
                     "Benny Ali &",
-                    "Joseph Kiwango</p>\n<",
-                    "Jovie Jovv</p>\n"
+                    "Joseph Kiwango</p"
                 ],
-                "ORG": [
-                    "this?)</p"
+                "DATE": [
+                    "This weeks"
                 ]
             }
         },
@@ -2289,18 +2312,21 @@
             "pubDate": "Mon, 11 Nov 2019 19:32:27 GMT",
             "title": "Kenyan Plug Podcast Episode 41: No Regrets",
             "entities": {
-                "GPE": [
-                    "meet\"</strong></p",
-                    "Unkut Africa"
-                ],
                 "CARDINAL": [
                     "41"
                 ],
                 "PERSON": [
+                    "Intro",
+                    "Kojey Radical",
+                    "Code Switch",
+                    "Kenyan Excellence",
                     "Kenyan Hip Hop Awards"
                 ],
-                "DATE": [
-                    "the week"
+                "GPE": [
+                    "Unkut Africa"
+                ],
+                "WORK_OF_ART": [
+                    "Controversy of the week"
                 ],
                 "ORG": [
                     "Kojey Radical and Elaine"
@@ -2335,7 +2361,7 @@
                     "New week"
                 ],
                 "ORG": [
-                    "slowly</p>\n"
+                    "Intro/Outro"
                 ],
                 "ORDINAL": [
                     "7th"
@@ -2366,27 +2392,24 @@
             "pubDate": "Mon, 04 Nov 2019 23:01:17 GMT",
             "title": "Kenyan Plug Podcast Episode 40: Enjoyment ",
             "entities": {
-                "PERSON": [
-                    "Pesh @penninah_wanjiru",
-                    "RICKMAN MANRICK Prod Artin",
-                    "Nuffa23"
+                "FAC": [
+                    "Episode 40"
                 ],
                 "CARDINAL": [
                     "10",
                     "6:30)</p",
                     "8:54)</p",
-                    "26:05)</p",
                     "32:30)</p"
                 ],
                 "ORG": [
-                    "NAYE TUNYUMIRWE &"
+                    "NAYE TUNYUMIRWE &",
+                    "Urges &nbsp;(04:48)</p"
                 ],
-                "GPE": [
-                    "Kanye West"
-                ],
-                "MONEY": [
-                    "#Enjoyment",
-                    "#KanyeWest"
+                "PERSON": [
+                    "RICKMAN MANRICK Prod Artin",
+                    "Jesus Walks",
+                    "Kanye West",
+                    "Kenyan Excellence"
                 ],
                 "DATE": [
                     "the week"
@@ -2417,12 +2440,13 @@
             "pubDate": "Tue, 29 Oct 2019 12:24:29 GMT",
             "title": "Kenyan Plug Pod Presents Sheng With Shi: Episode 5",
             "entities": {
-                "PERSON": [
-                    "Tunji -Dash https://www.youtube.com/watch?v=gRFa-RgaPNg</p",
-                    "King Kaka - Dundaing"
+                "NORP": [
+                    "Kenyan"
+                ],
+                "CARDINAL": [
+                    "#"
                 ],
                 "ORG": [
-                    "Kristoff &",
                     "Magix Enga &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;https://www.youtube.com"
                 ]
             }
@@ -2455,10 +2479,14 @@
                     "this weeks"
                 ],
                 "PERSON": [
-                    "Sheng"
+                    "Sheng",
+                    "Dez-Lotto"
                 ],
                 "CARDINAL": [
                     "three"
+                ],
+                "ORG": [
+                    "Intro/Outro"
                 ]
             }
         },
@@ -2486,22 +2514,20 @@
             "pubDate": "Mon, 21 Oct 2019 19:14:40 GMT",
             "title": "Kenyan Plug Podcast Episode 39: Toxic Energy",
             "entities": {
-                "DATE": [
-                    "39",
-                    "Week"
+                "CARDINAL": [
+                    "39"
                 ],
                 "ORG": [
-                    "Intro/Outro:",
+                    "Intro/Outro",
                     "href=\"https://soundcloud.com",
                     "Toxicity</p",
                     "United Masters-Artist Plug"
                 ],
                 "PERSON": [
-                    "Jakk Quill:",
-                    "Vin Diesel&nbsp;</p>\n"
-                ],
-                "CARDINAL": [
-                    "01:38"
+                    "Jakk Quill",
+                    "Vin Diesel&nbsp;</p",
+                    "Kenyan Excellence",
+                    "Eluid Kipchoge</p"
                 ],
                 "TIME": [
                     "20:57"
@@ -2539,6 +2565,9 @@
                     "Sheng",
                     "Rieng",
                     "Rada"
+                ],
+                "ORG": [
+                    "Intro/Outro"
                 ]
             }
         },
@@ -2566,21 +2595,27 @@
             "pubDate": "Mon, 14 Oct 2019 18:08:15 GMT",
             "title": "Kenyan Plug Podcast Episode 38: Mi Siogopi",
             "entities": {
-                "DATE": [
+                "CARDINAL": [
                     "38"
                 ],
                 "PERSON": [
-                    "Mi Siogopi",
                     "Intro",
+                    "Outro",
                     "Khaligraph Jones",
-                    "Noma Ni"
+                    "Kenyan Excellence",
+                    "Noma Ni",
+                    "Heat Hi Wiki"
                 ],
-                "CARDINAL": [
-                    "0:43",
-                    "4:20"
+                "WORK_OF_ART": [
+                    "Bad Flow"
+                ],
+                "GPE": [
+                    "0:43"
                 ],
                 "TIME": [
-                    "16:52"
+                    "4:20",
+                    "16:52",
+                    "17:40"
                 ]
             }
         },
@@ -2606,22 +2641,19 @@
             "pubDate": "Thu, 10 Oct 2019 10:34:59 GMT",
             "title": "Kenyan Plug Podcast Episode 37: Artist Plug- Jakk Quill",
             "entities": {
-                "DATE": [
-                    "37",
-                    "today"
+                "CARDINAL": [
+                    "37"
                 ],
                 "NORP": [
                     "Kenyan",
                     "Kenyan"
                 ],
                 "PERSON": [
-                    "Jakk Quill"
-                ],
-                "WORK_OF_ART": [
-                    "The Stash"
-                ],
-                "ORG": [
+                    "Jakk Quill",
                     "Soundcloud"
+                ],
+                "DATE": [
+                    "today"
                 ]
             }
         },
@@ -2652,18 +2684,18 @@
                 "CARDINAL": [
                     "2",
                     "two",
-                    "two",
-                    "5Star"
+                    "two"
                 ],
                 "ORG": [
-                    "Nuffa23 & Pesh",
-                    "Batak Jacuzzi"
-                ],
-                "GPE": [
-                    "Boutross"
+                    "Pesh"
                 ],
                 "PERSON": [
-                    "Chaii"
+                    "Boutross",
+                    "Chaii",
+                    "Intro"
+                ],
+                "GPE": [
+                    "Batak Jacuzzi"
                 ]
             }
         },
@@ -2691,24 +2723,19 @@
             "pubDate": "Tue, 08 Oct 2019 18:15:22 GMT",
             "title": "Kenyan Plug Podcast Episode 36: The Shady Truth ft Pesh",
             "entities": {
-                "DATE": [
-                    "36"
-                ],
-                "ORG": [
-                    "Pesh (@penninah_wanjiru",
-                    "Monski &"
-                ],
-                "GPE": [
-                    "@AdoveliPodcast"
-                ],
                 "CARDINAL": [
-                    "#",
-                    "#",
+                    "36",
                     "#"
                 ],
                 "PERSON": [
-                    "Katapilla",
-                    "Tunji https://www.youtube.com/watch?v=3vKEa9YF2Rk</p>\n"
+                    "Pesh",
+                    "Bey",
+                    "Oksyde ft Katapilla",
+                    "Tunji https://www.youtube.com/watch?v=3vKEa9YF2Rk</p",
+                    "Kenyan Excellence:</p"
+                ],
+                "ORG": [
+                    "Monski &"
                 ]
             }
         },
@@ -2736,15 +2763,19 @@
             "pubDate": "Tue, 08 Oct 2019 18:02:49 GMT",
             "title": "Kenyan Plug Podcast Episode 35: Chai for what?",
             "entities": {
-                "DATE": [
-                    "Week"
+                "GPE": [
+                    "Chai"
+                ],
+                "WORK_OF_ART": [
+                    "the \"Queendom."
+                ],
+                "PERSON": [
+                    "Kenyan Excellence",
+                    "Muthoni Drummer Queen",
+                    "KhaliCartel3"
                 ],
                 "CARDINAL": [
-                    "13:41)</p",
-                    "#",
-                    "25:49)</p",
-                    "two",
-                    "26:22)</p"
+                    "two"
                 ]
             }
         },
@@ -2772,17 +2803,17 @@
             "entities": {
                 "ORG": [
                     "Intro &",
-                    "Telehmani",
                     "Mogul",
                     "IG"
                 ],
-                "GPE": [
-                    "Outro",
-                    "Xenia",
-                    "Kenya"
-                ],
                 "PERSON": [
-                    "Kulishwa"
+                    "Outro",
+                    "Kulishwa L&nbsp;</p",
+                    "Kenyan Excellence",
+                    "@theaddress_ke"
+                ],
+                "GPE": [
+                    "Xenia"
                 ],
                 "NORP": [
                     "Kenyan"
@@ -2813,25 +2844,25 @@
             "pubDate": "Tue, 08 Oct 2019 17:30:59 GMT",
             "title": "Kenyan Plug Podcast Episode 33: Balance",
             "entities": {
-                "DATE": [
-                    "Week",
-                    "the week"
-                ],
-                "LOC": [
-                    "Kwa"
-                ],
-                "CARDINAL": [
-                    "254"
-                ],
-                "MONEY": [
-                    "254Drip&nbsp;</p"
-                ],
                 "TIME": [
-                    "07:50",
-                    "23:09"
+                    "03:56"
+                ],
+                "PERSON": [
+                    "Kwagramvitunidifferent",
+                    "Kenyan Excellence"
                 ],
                 "ORG": [
-                    "22:40) &nbsp;Kenyan Music"
+                    "Kwa"
+                ],
+                "PRODUCT": [
+                    "254 Podcast"
+                ],
+                "MONEY": [
+                    "254Drip&nbsp;</p",
+                    "22:40) &nbsp;Kenyan Music Scene&nbsp;</p"
+                ],
+                "DATE": [
+                    "the week"
                 ],
                 "NORP": [
                     "Kenyan"
@@ -2874,7 +2905,9 @@
                 ],
                 "PERSON": [
                     "Beat Alert",
-                    "Dope interview.&nbsp;</p>\n",
+                    "Dope"
+                ],
+                "ORG": [
                     "Raw 2"
                 ]
             }
@@ -2903,21 +2936,26 @@
             "pubDate": "Tue, 01 Oct 2019 04:20:45 GMT",
             "title": "Kenyan Plug Presents: Sheng with Shi-Episode 1 ",
             "entities": {
+                "GPE": [
+                    "Shiro",
+                    "Kenya"
+                ],
                 "PERSON": [
-                    "Sheng",
                     "Sheng",
                     "Sheng",
                     "Sheng"
                 ],
-                "GPE": [
-                    "Shiro",
-                    "Kenya"
+                "PRODUCT": [
+                    "Swahili"
                 ],
                 "DATE": [
                     "every Tuesday"
                 ],
                 "TIME": [
                     "5 minute"
+                ],
+                "ORG": [
+                    "\ud83c\uddea"
                 ]
             }
         },
@@ -2970,22 +3008,29 @@
             "pubDate": "Mon, 19 Aug 2019 23:11:58 GMT",
             "title": "Access Denied ",
             "entities": {
-                "CARDINAL": [
-                    "2",
-                    "2",
-                    "26:20",
-                    "32:39"
-                ],
-                "DATE": [
-                    "30"
-                ],
                 "PERSON": [
+                    "Spicy Season",
+                    "Meme",
+                    "Kenyan Excellence",
                     "Noma Ni",
-                    "Kile Mwoto",
                     "Vallerie Muthoni - Spicy SZN"
                 ],
+                "CARDINAL": [
+                    "2",
+                    "30",
+                    "2",
+                    "26:20"
+                ],
+                "TIME": [
+                    "02:40"
+                ],
+                "WORK_OF_ART": [
+                    "Kile Mwoto:"
+                ],
+                "GPE": [
+                    "Intro"
+                ],
                 "ORG": [
-                    "Intro/Outro:",
                     "TAIO & LE RU"
                 ]
             }
@@ -3014,16 +3059,24 @@
             "pubDate": "Mon, 12 Aug 2019 16:09:44 GMT",
             "title": "Ma Pressure",
             "entities": {
+                "GPE": [
+                    "Uni"
+                ],
+                "DATE": [
+                    "Season 2"
+                ],
                 "CARDINAL": [
-                    "2",
                     "30"
                 ],
-                "PERSON": [
-                    "Intro",
-                    "Chris Kaiga"
-                ],
                 "ORG": [
+                    "Intro",
                     "VISUAL"
+                ],
+                "PERSON": [
+                    "Chris Kaiga ft Tezzla - Zimenice",
+                    "Outro",
+                    "Nviiri",
+                    "Pombe Sigara"
                 ]
             }
         },
@@ -3077,8 +3130,13 @@
             "title": "Is This Love? ",
             "entities": {
                 "PERSON": [
+                    "Episode",
                     "Intro",
-                    "Bob Marley"
+                    "Bob Marley",
+                    "Outro"
+                ],
+                "GPE": [
+                    "Nakupenda"
                 ],
                 "ORG": [
                     "Charisma - Unavyonipenda ft Mbithi"
@@ -3144,14 +3202,12 @@
             "pubDate": "Mon, 15 Jul 2019 14:57:48 GMT",
             "title": "Uni Days ",
             "entities": {
-                "DATE": [
+                "CARDINAL": [
                     "25"
                 ],
                 "PERSON": [
-                    "Robert Munene"
-                ],
-                "ORG": [
-                    "Climate Change"
+                    "Robert Munene",
+                    "Economist"
                 ],
                 "LOC": [
                     "West"
@@ -3183,14 +3239,21 @@
             "title": "Mo' Money, Mo' Problems",
             "entities": {
                 "GPE": [
-                    "Shiro"
-                ],
-                "ORG": [
-                    "Subscribe"
+                    "Shiro",
+                    "Songs",
+                    "Money"
                 ],
                 "PERSON": [
+                    "Enjoy",
+                    "Share",
                     "Kevin Grands",
-                    "Bounce Back\u00a0\n\n"
+                    "Bounce Back"
+                ],
+                "PRODUCT": [
+                    "Subscribe"
+                ],
+                "NORP": [
+                    "https://www.youtube.com/results?search_query=shiro+kenyan+plug"
                 ]
             }
         },
@@ -3218,7 +3281,7 @@
             "pubDate": "Thu, 27 Jun 2019 17:21:23 GMT",
             "title": "Committment Issues ",
             "entities": {
-                "GPE": [
+                "ORG": [
                     "@deep_naturi"
                 ],
                 "CARDINAL": [
@@ -3250,11 +3313,20 @@
             "pubDate": "Thu, 20 Jun 2019 16:07:21 GMT",
             "title": "Let Grow ",
             "entities": {
-                "DATE": [
+                "CARDINAL": [
                     "22"
                 ],
+                "PERSON": [
+                    "Roman ft Nene K"
+                ],
+                "GPE": [
+                    "Spotify"
+                ],
                 "ORG": [
-                    "GROW"
+                    "Apple Podcast"
+                ],
+                "WORK_OF_ART": [
+                    "Player fm: https://player.fm/series/2446907\n\n--- \n\nSend in a voice"
                 ]
             }
         },
@@ -3282,16 +3354,20 @@
             "pubDate": "Thu, 13 Jun 2019 18:16:14 GMT",
             "title": "Dead Weight",
             "entities": {
+                "PERSON": [
+                    "Episode",
+                    "Chris Brown",
+                    "Enjoy"
+                ],
                 "ORG": [
-                    "YouTube",
-                    "Subscribe"
+                    "YouTube"
                 ],
                 "ORDINAL": [
                     "first"
                 ],
-                "PERSON": [
-                    "Karun- Glow Up &",
-                    "Chris Brown"
+                "PRODUCT": [
+                    "Music",
+                    "Subscribe"
                 ]
             }
         },
@@ -3317,19 +3393,24 @@
             "pubDate": "Thu, 23 May 2019 06:40:34 GMT",
             "title": "Yes Man ",
             "entities": {
-                "TIME": [
-                    "20 I am"
+                "CARDINAL": [
+                    "20",
+                    "2"
                 ],
                 "DATE": [
-                    "the upcoming weeks"
+                    "weeks"
+                ],
+                "LOC": [
+                    "\ud83c\udf89"
                 ],
                 "ORG": [
-                    "\ud83c\udf89",
                     "YouTube",
-                    "U ft Shappaman &\u2022 Bey T - Wololo''"
+                    "U ft",
+                    "Shappaman &\u2022 Bey"
                 ],
-                "CARDINAL": [
-                    "2"
+                "PERSON": [
+                    "Enjoy",
+                    "Music \u2022 Mikel Ameen"
                 ]
             }
         },
@@ -3356,6 +3437,7 @@
             "title": "Past Life ",
             "entities": {
                 "PERSON": [
+                    "Song",
                     "Russ ft Davido"
                 ]
             }
@@ -3382,8 +3464,8 @@
             "pubDate": "Thu, 09 May 2019 10:00:14 GMT",
             "title": "Game of Thrones ",
             "entities": {
-                "ORG": [
-                    "\ud83d\udca5\ud83d\udca5."
+                "PERSON": [
+                    "Episode"
                 ]
             }
         },
@@ -3419,11 +3501,12 @@
                 "GPE": [
                     "Shiro"
                 ],
-                "PRODUCT": [
-                    "1st"
-                ],
                 "PERSON": [
-                    "Gucci Mane"
+                    "Enjoy",
+                    "Gucci Mane ft Drake"
+                ],
+                "ORDINAL": [
+                    "1st"
                 ]
             }
         },
@@ -3449,7 +3532,11 @@
             "pubDate": "Thu, 25 Apr 2019 08:28:42 GMT",
             "title": "\ud83d\udc51 Queening! ",
             "entities": {
+                "ORG": [
+                    "Pesh"
+                ],
                 "GPE": [
+                    "Podcaster",
                     "Kenya"
                 ]
             }
@@ -3476,24 +3563,23 @@
             "pubDate": "Thu, 18 Apr 2019 10:00:52 GMT",
             "title": "Code Switch ",
             "entities": {
+                "PERSON": [
+                    "Episode",
+                    "Kenya Wiz Khalifa",
+                    "Enjoy"
+                ],
+                "WORK_OF_ART": [
+                    "EXCLUSIVE"
+                ],
                 "ORDINAL": [
                     "first"
                 ],
-                "LAW": [
+                "ORG": [
                     "Clay OG Stoner"
-                ],
-                "PERSON": [
-                    "Kenya Wiz Khalifa"
                 ],
                 "CARDINAL": [
                     "420",
                     "4/20/19"
-                ],
-                "ORG": [
-                    "\ud83c\uddea"
-                ],
-                "GPE": [
-                    "Enjoy"
                 ]
             }
         },
@@ -3521,8 +3607,10 @@
             "entities": {
                 "PERSON": [
                     "Aka Whipped",
-                    "Whipped",
-                    "Kiboko"
+                    "Kiboko remix"
+                ],
+                "GPE": [
+                    "@officialmasauti"
                 ]
             }
         },
@@ -3548,20 +3636,24 @@
             "pubDate": "Thu, 11 Apr 2019 11:08:32 GMT",
             "title": "Hussle & Motivate",
             "entities": {
-                "CARDINAL": [
-                    "14"
+                "PERSON": [
+                    "Episode",
+                    "Brian",
+                    "Song",
+                    "Nipsey Hussle",
+                    "Kendrick Lamar",
+                    "Enjoy"
                 ],
                 "ORG": [
                     "Hussle & Motivate",
-                    "Instagram",
-                    "RIP \ud83d\ude4f"
+                    "Instagram pages @Afro_origins & @thegoalcatalyst",
+                    "Nipsey Hussle",
+                    "RIP",
+                    "\ud83d\ude4f",
+                    "Nipsey Hussle"
                 ],
-                "PERSON": [
-                    "Brian",
-                    "Nipsey Hussle",
-                    "Nipsey Hussle",
-                    "Nipsey Hussle",
-                    "Kendrick Lamar"
+                "CARDINAL": [
+                    "\ud83c\udffe"
                 ]
             }
         },
@@ -3590,12 +3682,14 @@
                 "PERSON": [
                     "Rophy"
                 ],
-                "ORG": [
-                    "@theaddress_ke",
-                    "Chukua Selfie"
+                "GPE": [
+                    "@theaddress_ke"
                 ],
                 "CARDINAL": [
                     "12"
+                ],
+                "PRODUCT": [
+                    "Subscribe"
                 ]
             }
         },
@@ -3624,8 +3718,8 @@
                 "PERSON": [
                     "Funga Duka"
                 ],
-                "EVENT": [
-                    "FungaDukachallenge                     Enjoy"
+                "ORG": [
+                    "the #FungaDukachallenge                     Enjoy"
                 ]
             }
         },
@@ -3674,11 +3768,8 @@
             "pubDate": "Tue, 12 Feb 2019 17:48:53 GMT",
             "title": "Plug Link Up",
             "entities": {
-                "PERSON": [
-                    "Village Link Up"
-                ],
                 "ORG": [
-                    "\ud83c\uddea"
+                    "\ud83c\udf99"
                 ]
             }
         },
@@ -3705,10 +3796,13 @@
             "title": "Lazy Love ",
             "entities": {
                 "PERSON": [
+                    "Enjoy"
+                ],
+                "NORP": [
                     "Kenyan"
                 ],
                 "ORG": [
-                    "\ud83c\uddea"
+                    "\ud83c\udf99"
                 ]
             }
         },
@@ -3758,10 +3852,11 @@
             "title": "Catfish Success ",
             "entities": {
                 "PERSON": [
-                    "Episode"
-                ],
-                "ORG": [
+                    "Episode",
                     "Catfish Success"
+                ],
+                "CARDINAL": [
+                    "6"
                 ]
             }
         },
@@ -3887,10 +3982,7 @@
             "title": "Rhyme \ud83c\uddf0\ud83c\uddea\ud83d\udd0c",
             "entities": {
                 "PERSON": [
-                    "Kenyan Plug Podcast Episode"
-                ],
-                "CARDINAL": [
-                    "1"
+                    "Kenyan Plug Podcast Episode 1"
                 ]
             }
         }
@@ -3919,7 +4011,7 @@
         "summary": "Kenyan girl telling her story in this unpredictable world, while connecting and informing. \nDisclaimer*** Swahili is less than perfected but I insist on speaking it ohh and lots of passionate rants It\u2019s A VIBE\u2728\u2728 Enter the chat for an unforgettable experience. GET PLUGGED IN  Support this podcast: <a href=\"https://anchor.fm/kenyanplugexperience/support\" rel=\"payment\">https://anchor.fm/kenyanplugexperience/support</a>"
     },
     "language": "en",
-    "lastBuildDate": "Wed, 20 Apr 2022 07:34:22 GMT",
+    "lastBuildDate": "Tue, 24 May 2022 12:10:33 GMT",
     "link": "https://anchor.fm/kenyanplugexperience",
     "paginationLinks": {
         "self": "https://anchor.fm/s/3bd3424/podcast/rss"
@@ -3936,9 +4028,6 @@
     "entities": {
         "NORP": [
             "Kenyan"
-        ],
-        "WORK_OF_ART": [
-            "\u2728 Enter"
         ]
     }
 }
