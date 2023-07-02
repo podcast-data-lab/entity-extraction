@@ -10109,10 +10109,18 @@
     "itunes": {
         "author": "Dallas Taylor",
         "categories": [
-            "Arts",
-            "Music"
+            "Society & Culture",
+            "Arts"
         ],
         "categoriesWithSubs": [
+            {
+                "name": "Society & Culture",
+                "subs": [
+                    {
+                        "name": "Documentary"
+                    }
+                ]
+            },
             {
                 "name": "Arts",
                 "subs": [
@@ -10120,10 +10128,6 @@
                         "name": "Design"
                     }
                 ]
-            },
-            {
-                "name": "Music",
-                "subs": null
             }
         ],
         "explicit": "no",
