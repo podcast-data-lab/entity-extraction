@@ -1,5 +1,5 @@
 {
-    "copyright": "Copyright 2023 Minnesota Public Radio",
+    "copyright": "Copyright 2024 Minnesota Public Radio",
     "description": "\n      Corporate crookedness. Family feuding. Hilariously half-baked decisions. Host Lauren Ober tackles some of the most spectacular business failures of all time, and what could have been done to avoid them. Some of these stories are shocking. Some are funny. Some are just downright sad. But each one will give you a totally new perspective on big business\u2026 and big failure. From American Public Media.\n    ",
     "feedUrl": "https://feeds.publicradio.org/public_feeds/spectacular-failures/itunes/rss.rss",
     "image": {
@@ -8,6 +8,49 @@
         "url": "https://img.apmcdn.org/28942b1bf89fc2b330da8d43a31cf5e7de726a62/uncropped/a53f2c-20210901-spectacular-failures-apm-studios-podcast-art-2000.jpg"
     },
     "items": [
+        {
+            "content": "\n        <p>We have a special episode for you today. We\u2019re sharing an episode of the new podcast from APM Studios and Western Sound called \u201cRipple.\u201d</p><br/><p>The largest oil spill in American history captivated the public\u2019s attention for the entire summer of 2010. Authorities told a story of a herculean response effort that made shorelines safe and avoided a worst case scenario. Was that really the whole picture? </p><br/><p>\u201cRipple\u201d is a new series investigating the stories we were told were over.</p><br/><p>In Season One, the reporting team traveled hundreds of miles across the Gulf Coast to learn the ongoing effects of the 2010 Deepwater Horizon Oil Spill \u2014 which are still impacting many coastal residents more than a decade later. Here is episode 1! And if you\u2019d like to hear more episodes, you can find \u201cRipple\u201d wherever you get your podcasts.</p>\n      ",
+            "contentSnippet": "We have a special episode for you today. We\u2019re sharing an episode of the new podcast from APM Studios and Western Sound called \u201cRipple.\u201d\n\nThe largest oil spill in American history captivated the public\u2019s attention for the entire summer of 2010. Authorities told a story of a herculean response effort that made shorelines safe and avoided a worst case scenario. Was that really the whole picture? \n\n\u201cRipple\u201d is a new series investigating the stories we were told were over.\n\nIn Season One, the reporting team traveled hundreds of miles across the Gulf Coast to learn the ongoing effects of the 2010 Deepwater Horizon Oil Spill \u2014 which are still impacting many coastal residents more than a decade later. Here is episode 1! And if you\u2019d like to hear more episodes, you can find \u201cRipple\u201d wherever you get your podcasts.",
+            "enclosure": {
+                "length": "132682543",
+                "type": "audio/mpeg",
+                "url": "https://play.podtrac.com/APM-SpectacularFailures/chrt.fm/track/3G835/play.publicradio.org/itunes/o/americanpublicmedia/podcasts/ripple/episodes/2024/01/11/ripple_20240111_1_320.mp3"
+            },
+            "guid": "01HNB07XSP4R35DP5R1SQKJ1WB",
+            "isoDate": "2024-01-29T16:30:00.000Z",
+            "itunes": {
+                "author": "American Public Media",
+                "duration": "00:55:16",
+                "episodeType": "full",
+                "explicit": "true"
+            },
+            "pubDate": "Mon, 29 Jan 2024 16:30:00 +0000",
+            "title": "Introducing: Ripple",
+            "entities": {
+                "DATE": [
+                    "today",
+                    "the entire summer of 2010",
+                    "Season One",
+                    "2010",
+                    "more than a decade later"
+                ],
+                "ORG": [
+                    "APM Studios"
+                ],
+                "NORP": [
+                    "American"
+                ],
+                "QUANTITY": [
+                    "hundreds of miles"
+                ],
+                "LOC": [
+                    "the Gulf Coast"
+                ],
+                "CARDINAL": [
+                    "1"
+                ]
+            }
+        },
         {
             "content": "\n        <p>The Loudest Girl in the World is a new podcast from\u00a0 that tells the story of Lauren Ober&#39;s journey to understand what the hell it means to be on the autism spectrum and how to live life as a newly diagnosed autistic person. It&#39;s about finding yourself broken in a place you never expected to be and emerging from that place a mostly glued back together person. Listen wherever you get your podcasts.</p>\n      ",
             "contentSnippet": "The Loudest Girl in the World is a new podcast from\u00a0 that tells the story of Lauren Ober's journey to understand what the hell it means to be on the autism spectrum and how to live life as a newly diagnosed autistic person. It's about finding yourself broken in a place you never expected to be and emerging from that place a mostly glued back together person. Listen wherever you get your podcasts.",
@@ -22,7 +65,7 @@
                 "author": "American Public Media",
                 "duration": "00:11:50",
                 "episodeType": "full",
-                "explicit": "no"
+                "explicit": "false"
             },
             "pubDate": "Mon, 12 Sep 2022 16:09:36 +0000",
             "title": "Listen to This: The Loudest Girl in the World",
@@ -46,7 +89,7 @@
                 "author": "American Public Media",
                 "duration": "00:13:29",
                 "episodeType": "full",
-                "explicit": "no"
+                "explicit": "false"
             },
             "pubDate": "Fri, 25 Mar 2022 16:33:13 +0000",
             "title": "Listen to This: What's Your Problem?",
@@ -77,7 +120,7 @@
                 "duration": "00:37:57",
                 "episode": "10",
                 "episodeType": "full",
-                "explicit": "no",
+                "explicit": "false",
                 "season": "2"
             },
             "pubDate": "Mon, 05 Oct 2020 10:00:00 +0000",
@@ -121,7 +164,7 @@
                 "duration": "00:37:25",
                 "episode": "9",
                 "episodeType": "full",
-                "explicit": "no",
+                "explicit": "false",
                 "season": "2"
             },
             "pubDate": "Mon, 28 Sep 2020 10:00:00 +0000",
@@ -167,7 +210,7 @@
                 "duration": "00:43:02",
                 "episode": "8",
                 "episodeType": "full",
-                "explicit": "no",
+                "explicit": "false",
                 "season": "2"
             },
             "pubDate": "Mon, 21 Sep 2020 10:00:00 +0000",
@@ -208,7 +251,7 @@
                 "duration": "00:39:49",
                 "episode": "7",
                 "episodeType": "full",
-                "explicit": "no",
+                "explicit": "false",
                 "season": "2"
             },
             "pubDate": "Mon, 14 Sep 2020 10:00:00 +0000",
@@ -249,7 +292,7 @@
                 "duration": "00:37:45",
                 "episode": "6",
                 "episodeType": "full",
-                "explicit": "no",
+                "explicit": "false",
                 "season": "2"
             },
             "pubDate": "Mon, 07 Sep 2020 10:00:00 +0000",
@@ -294,7 +337,7 @@
                 "duration": "00:38:25",
                 "episode": "5",
                 "episodeType": "full",
-                "explicit": "no",
+                "explicit": "false",
                 "season": "2"
             },
             "pubDate": "Mon, 31 Aug 2020 10:00:00 +0000",
@@ -342,7 +385,7 @@
                 "duration": "00:39:39",
                 "episode": "4",
                 "episodeType": "full",
-                "explicit": "no",
+                "explicit": "false",
                 "season": "2"
             },
             "pubDate": "Mon, 24 Aug 2020 10:00:00 +0000",
@@ -388,7 +431,7 @@
                 "duration": "00:41:54",
                 "episode": "3",
                 "episodeType": "full",
-                "explicit": "no",
+                "explicit": "false",
                 "season": "2"
             },
             "pubDate": "Mon, 17 Aug 2020 10:00:00 +0000",
@@ -427,7 +470,7 @@
                 "duration": "00:35:39",
                 "episode": "2",
                 "episodeType": "full",
-                "explicit": "no",
+                "explicit": "false",
                 "season": "2"
             },
             "pubDate": "Mon, 10 Aug 2020 10:00:00 +0000",
@@ -469,7 +512,7 @@
                 "duration": "00:35:15",
                 "episode": "1",
                 "episodeType": "full",
-                "explicit": "no",
+                "explicit": "false",
                 "season": "2"
             },
             "pubDate": "Mon, 03 Aug 2020 10:00:00 +0000",
@@ -508,7 +551,7 @@
                 "author": "American Public Media",
                 "duration": "00:01:30",
                 "episodeType": "trailer",
-                "explicit": "no",
+                "explicit": "false",
                 "season": "2"
             },
             "pubDate": "Mon, 20 Jul 2020 10:00:00 +0000",
@@ -543,7 +586,7 @@
                 "duration": "00:41:38",
                 "episode": "10",
                 "episodeType": "full",
-                "explicit": "no",
+                "explicit": "false",
                 "season": "1"
             },
             "pubDate": "Mon, 19 Aug 2019 10:00:00 +0000",
@@ -586,7 +629,7 @@
                 "duration": "00:36:05",
                 "episode": "9",
                 "episodeType": "full",
-                "explicit": "no",
+                "explicit": "false",
                 "season": "1"
             },
             "pubDate": "Mon, 12 Aug 2019 10:00:00 +0000",
@@ -622,7 +665,7 @@
                 "duration": "00:37:11",
                 "episode": "8",
                 "episodeType": "full",
-                "explicit": "no",
+                "explicit": "false",
                 "season": "1"
             },
             "pubDate": "Mon, 05 Aug 2019 10:00:00 +0000",
@@ -659,7 +702,7 @@
                 "duration": "00:35:39",
                 "episode": "7",
                 "episodeType": "full",
-                "explicit": "no",
+                "explicit": "false",
                 "season": "1"
             },
             "pubDate": "Mon, 29 Jul 2019 10:00:00 +0000",
@@ -692,7 +735,7 @@
                 "duration": "00:33:37",
                 "episode": "6",
                 "episodeType": "full",
-                "explicit": "no",
+                "explicit": "false",
                 "season": "1"
             },
             "pubDate": "Mon, 22 Jul 2019 10:00:00 +0000",
@@ -728,7 +771,7 @@
                 "duration": "00:32:29",
                 "episode": "5",
                 "episodeType": "full",
-                "explicit": "no",
+                "explicit": "false",
                 "season": "1"
             },
             "pubDate": "Mon, 15 Jul 2019 10:00:00 +0000",
@@ -761,7 +804,7 @@
                 "duration": "00:26:49",
                 "episode": "4",
                 "episodeType": "full",
-                "explicit": "no",
+                "explicit": "false",
                 "season": "1"
             },
             "pubDate": "Mon, 08 Jul 2019 10:00:00 +0000",
@@ -797,7 +840,7 @@
                 "duration": "00:28:34",
                 "episode": "3",
                 "episodeType": "full",
-                "explicit": "no",
+                "explicit": "false",
                 "season": "1"
             },
             "pubDate": "Mon, 01 Jul 2019 10:00:00 +0000",
@@ -833,7 +876,7 @@
                 "duration": "00:29:01",
                 "episode": "2",
                 "episodeType": "full",
-                "explicit": "no",
+                "explicit": "false",
                 "season": "1"
             },
             "pubDate": "Mon, 24 Jun 2019 10:00:00 +0000",
@@ -877,7 +920,7 @@
                 "duration": "00:31:11",
                 "episode": "1",
                 "episodeType": "full",
-                "explicit": "no",
+                "explicit": "false",
                 "season": "1"
             },
             "pubDate": "Mon, 17 Jun 2019 10:00:00 +0000",
@@ -922,7 +965,7 @@
                 "author": "American Public Media",
                 "duration": "00:02:30",
                 "episodeType": "trailer",
-                "explicit": "no",
+                "explicit": "false",
                 "season": "1"
             },
             "pubDate": "Thu, 30 May 2019 22:06:18 +0000",
@@ -955,14 +998,14 @@
                 ]
             }
         ],
-        "explicit": "no",
+        "explicit": "false",
         "image": "https://img.apmcdn.org/28942b1bf89fc2b330da8d43a31cf5e7de726a62/uncropped/a53f2c-20210901-spectacular-failures-apm-studios-podcast-art-2000.jpg",
         "owner": {
             "email": "podcasts@americanpublicmedia.org",
             "name": "American Public Media"
         }
     },
-    "language": "en-us",
+    "language": "en",
     "link": "https://www.spectacularfailures.org/",
     "paginationLinks": {
         "self": "https://feeds.publicradio.org/public_feeds/spectacular-failures/itunes/rss.rss"
